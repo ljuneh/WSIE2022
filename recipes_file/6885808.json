@@ -1,0 +1,74 @@
+{
+	"id": "6885808",
+	"name": "브로콜리참치전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/a4d37a96f5a7ed13b4a1bdde57c679361.jpg",
+	"url": "https://www.10000recipe.com/recipe/6885808",
+	"ingredient_ids": [
+		3,
+		219,
+		387,
+		497,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "브로콜리데친것",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "참치1캔(150g)",
+			"ingre_count": "1캔(150g)",
+			"ingre_unit": "캔(g)"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "파프리카(노랑/빨강)",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 브로콜리는 송이송이 먹기 좋게 나눠주고 끓는 물에 굵은소금 0.5를 넣고 살짝 데쳐주세요. 브로콜리 1송이를 모두 데쳐 일부는 전에 넣어 사용했고요. 나머지는 무침 해서 먹었는데요 브로콜리 무침 레시피도 곧 올릴게요.",
+		"2. 데친 브로콜리 1줌, 양파 1/4, 파프리카 노랑, 빨간색을 모두 다져서 주고 달걀 1개, 참치 1캔을 준비합니다. * 어른이 드실 때는 청양고추를 송송 썰어 함께 넣어도 좋아요.",
+		"3. 볼에 다진 채소와 참치를 넣고 달걀 1개, 부침가루 1.5 그리고 양념재료인 소금, 후춧가루를 넣어 간을 하고 재료를 고루 섞어주세요. .",
+		"4. 부침가루를 너무 많이 넣으면 퍽퍽해요. 그리고 참치 캔 기름은 너무 꽉 짜서 버리지 말고 조금 있게 넣어주세요",
+		"5. 팬에 숟가락을 이용해 반죽을 올려주고 동글납작하게 모양을 만들어 주세요.",
+		"6. 앞뒤로 노릇하게 부쳐주면 끝!",
+		"7. 브로콜리 참치 전 완성 ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/07ceb14cd2455cb0d576ba32ab504ddf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/a44fd848208febc25b230fea0ded1fb41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/f51ecb2225adb919420704a8484a1d8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/c84d881b90260de79335f8cc6bae474a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/d5bfc575a34c62e406ea21cb5dc95ea81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/e565b985f6c2d130205ed31c4422a22c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/336a96d44142c9792a4ce1132943f1931.jpg"
+	]
+}

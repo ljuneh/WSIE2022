@@ -1,0 +1,100 @@
+{
+	"id": "6942469",
+	"name": "라이스샐러드 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e50328d717f22f106880415e496714591.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942469",
+	"ingredient_ids": [
+		96,
+		6,
+		371,
+		574,
+		239,
+		226,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "2-3개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "옥수수캔",
+			"ingre_count": "100",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "검은콩캔",
+			"ingre_count": "100",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "라임즙",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "파프리카가루",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		},
+		{
+			"ingre_name": "큐민가루",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "간보면서"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "간보면서"
+		}
+	],
+	"recipe": [
+		"1. 먼저 우리입맛에 잘 맞는 우리품종, 경기미 가와지1호로 밥을 짓습니다. 평소 하시던대로 물 양을 잡아요.",
+		"2. 드레싱재료를 모두 섞어 드레싱을 만듭니다.",
+		"3. 파프리카는 잘게 썰고.",
+		"4. 모두 드레싱에 섞어주세요.",
+		"5. 방울토마토도 반 갈라서 섞어주고,",
+		"6. 옥수수캔도 물기를 빼서 넣습니다.",
+		"7. 콩 통조림도 넣고요.",
+		"8. 마지막으로 밥을 넣고,",
+		"9. 잘 섞어주면 완성입니다. 정말 단순하지만, 우리쌀 경기미 가와지1호와 정말 잘 어울리는 레시피에요. 꼭 요렇게 한번 드셔보세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/3ee8b50432bbb25d25f791148e5f436c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/47628980fc09b723868d69c0a8fc6a1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e801d563ae2758e466ca5f7e7a645d351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/c410d685af900af75c74eb0421e0d8d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/02af8402f345e32258bebe6d39355f051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/54c6fce23a58967e51d00ed81b11ddf41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/b57991c3b2bf3517d5b96d786aa6cc131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/3c4571f5afe14d56a895566840a7329a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a1c41b3c9bcf6ada0bc70cb77a54d32f1.jpg"
+	]
+}

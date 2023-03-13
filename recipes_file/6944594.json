@@ -1,0 +1,58 @@
+{
+	"id": "6944594",
+	"name": "간식과 술안주에도 좋은 스팸맛탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/88ad26fae55b23612f38dc20efc649ba1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944594",
+	"ingredient_ids": [
+		504,
+		995,
+		575,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료를 준비해주세요.",
+		"2. 스팸은 너무 크지 않게 큐브 모양으로 잘라주세요.",
+		"3. 팬에 기름을 약간 두르고 중. 약불에서 스팸을 구워주세요.중약불",
+		"4. 구운 스팸은 건져 키친타올로 기름기를 제거해주세요.",
+		"5. 팬에 남아있는 기름기를 키친타올로 닦아내고 그 위에 물 4큰술, 올리고당 6큰술, 설탕 2큰술을 넣고 저어가며 중불에서 끓여주세요.중불",
+		"6. 소스가 걸쭉해지면 스팸을 넣고 소스가 어느 정도 졸때 까지 버무려주세요.",
+		"7. 아이들도 좋아하고 맥주 안주에도 좋은 스팸맛탕 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/9c11d400865c9f8b5642157712e7a2461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/3830b3452439e867e35da51d14b06b611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/d6627bef0a286d071be38504341428f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/89b19ca67b5d45b5fd95eea838836a2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/5d78a8b6ea82e3cd2c9e9d4e8b27afaa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/4c2cdc1f70ce267a8c2d7d91e64545071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/cd2b65d8cb14326807c451a8d1aad5601.jpg"
+	]
+}

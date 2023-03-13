@@ -1,0 +1,111 @@
+{
+	"id": "6945221",
+	"name": "밑반찬 꽈리고추닭가슴살볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/28a51e93fa150e185925368afed7d6bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945221",
+	"ingredient_ids": [
+		293,
+		300,
+		3,
+		29,
+		477,
+		575,
+		292,
+		660,
+		226,
+		233
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "15",
+			"ingre_unit": "개정도"
+		},
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "마른청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		}
+	],
+	"recipe": [
+		"1. 꽈리고추와 닭가슴살을 준비 했어요.",
+		"2. 닭가가슴살은 깍뚝썰기 해주고 밑간을 해 줍니다. 꽈리고추는 닭가슴살 비슷한 크기로 썰어 주세요.",
+		"3. 팬에 오일 두르고 편으로 썰은 마늘과 마른 고추를 넣고 볶아 줍니다.",
+		"4. 마늘향이 올라오면 닭가슴살을 넣고 볶아 줍니다.",
+		"5. 닭가슴살을 익혀 줍니다.",
+		"6. 양파를 넣고 휘리릭~~",
+		"7. 꽈리고추 넣고 휘리릭~~ 이때 굴소스, 올리고당 조금 넣고 가볍게 볶아 줍니다. 꽈리고추는 아삭해야 더 맛있어요.",
+		"8. 부족한간은 소금이나 진간장으로 해주고 참기름과 참깨 듬뿍 뿌려 마무리 해 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/db37b65ec92db5bcb023fb99f71334841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/fd9c78b634e4760b1abf3658f08166a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/3dcbc39cfd5e3c9dad27d0d12bbe79031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/168dc7e1da03afa55546542740dbcfe61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/10391312c5eac5fb9f75061365305f7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/1608a8d348704a9eb95bb1c04ad88b8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/b91cec4a36466a952546f9bddb4007f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/891a9de08328d5a32e7b8ae2cf8c78ec1.jpg"
+	]
+}

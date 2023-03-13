@@ -1,0 +1,41 @@
+{
+	"id": "6798251",
+	"name": "카야잼토스트",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/499c596d5f181a4f96ad36fde8dd4c7f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6798251",
+	"ingredient_ids": [
+		503,
+		561,
+		198
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "카야잼",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 토스트기에 식빵을 좀 바삭하게 만든 다음..",
+		"2. 카야잼 바르고 버터를 잘라서 놓는거에요. 저희 가족은 원래 토스트 그닥 좋아하지 않아서 정말 어쩌다가 어~~~쩌다가 먹는 스타일들입니다.",
+		"3. 빵이 어정쩡하게 딱 3장이라 3단으로 만들었다죠. 잼양이라든가 버터양은 개인취향에 맞게 하던데, 개인취향을 찾으려면 다양하게 먹어보긴 해야하겠어요.",
+		"4. 반은 잘라서 남편에게 반은 아들에게.. 단면을 자르니 버터가 조금 녹아서 윤기 좌르르르~~~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/b62412bd9cd9647c7341b2632fe01ddd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/980ad8a8f1fdba719ced8a4e242486e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/32d8714aaa8c45cc314ccc58b3a1f4421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/51a9754800e93d2c5da8ea2168ad9dac1.jpg"
+	]
+}

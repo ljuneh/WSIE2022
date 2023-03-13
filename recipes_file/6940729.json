@@ -1,0 +1,64 @@
+{
+	"id": "6940729",
+	"name": "콩나물밥 만들기 (고기 간장 활용법)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/a6862908666d213ff6091a48671edb1a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940729",
+	"ingredient_ids": [
+		47,
+		96,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "250",
+			"ingre_unit": "mL"
+		},
+		{
+			"ingre_name": "고기간장",
+			"ingre_count": "2~3스푼",
+			"ingre_unit": "~스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. - 고기 간장 만들기는  @6940387 에 상세히 설명해두었어요.",
+		"2. 콩나물을 흐르는 물에 깨끗이 씻어주세요.콩나물",
+		"3. 쌀을 흐르는 물에 한 번 씻어주세요.쌀",
+		"4. 밥솥에 물을 받아 쌀을 한 번 더 씻어주세요. 쌀은 [현미, 찹쌀, 보리, 수수, 기장]을 포함한 잡곡을 사용했어요. (백미로 요리하셔도 괜찮아요.)쌀",
+		"5. 물은 일반 백미밥 지을 때보다 적게 잡아주세요. (콩나물에서 나오는 물기가 많아요!)",
+		"6. 쌀 위에 씻어둔 콩나물을 펼쳐 올려주세요.콩나물",
+		"7. 전기밥솥에서 [일반 백미] 취사 옵션으로 밥 지어주시면 돼요.",
+		"8. 콩나물밥이 맛있게 잘 지어졌어요!",
+		"9. 밥을 잘 저어주세요.",
+		"10. 적당한 크기의 그릇에 밥을 담고, 고기 간장(  @6940387  )을 취향껏 올린 후, 비벼주면 완성이에요!고기 간장고기 간장은 조금씩 넣으면서 간을 조절하세요.",
+		"11. 콩나물밥에 맛있는 고기 간장(  @6940387  )이 만나, 식감이 촉촉하고 부드러웠어요. :)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/cde25b17a44a6eb1ab4be0fc3516b6bb1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/7f45e3e4b6d6ba40f18c4ad5a0947c551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/dc5b1f60fd3521e378b9b58ac737daf21.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/1fa93f668e46dc7f1f1cd7e68351dea71.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/ae1bfd54afcf31c6f9ebfb53f808f5c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/2f363da895e108dcf2408db8a28a36431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/00bc51961186f8a0264b6b285a91f6861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/79e8a58c2692064acb101baabd3882f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/2be23c78040c6d27abcf32d5a5255df81.jpg"
+	]
+}

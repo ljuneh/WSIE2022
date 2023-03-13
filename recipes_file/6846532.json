@@ -1,0 +1,44 @@
+{
+	"id": "6846532",
+	"name": "봄나물 비빔밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/16/aee3ccd2f29b04e5899b2cc895a4b9e61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846532",
+	"ingredient_ids": [
+		660
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 냉이",
+		"2. 방풍",
+		"3. 취나물",
+		"4. 밥 1공기에",
+		"5. 숙주나물과 세가지 나물을 곱게 돌려 담아준다.",
+		"6. 달걀을 부쳐 올려준다.",
+		"7. 김가루와",
+		"8. 초고추장을 올려준다.",
+		"9. 깨소금, 참기름을 뿌려준 후 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/dc3cb7ac7b2a298c7ee91fa70f34d3771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/e7eb00be4c126786cf32972104e114441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/8b9b160caca4ee1df373b6325b54b7ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/0c2130363a7f87edf96ed2df46fb42f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/21b354f74cfa76fd4aaf7d10ee08bac01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/58db11c014a30e8a6ab3111aef133d971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/500911fa42a41a6d58942d14a56937a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/1ebd9e106649e9ffc15214fc872b606b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/9806c98f09e2b4432ea64346222fbfcc1.jpg"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"id": "1891520",
+	"name": "색소없는 진짜 딸기아이스크림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/5bc478539ef69cc2a93d27f93bf01dc4.jpg",
+	"url": "https://www.10000recipe.com/recipe/1891520",
+	"ingredient_ids": [
+		155,
+		218
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "우유",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "딸기",
+			"ingre_count": "60",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "휘핑크림",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "달걀(선택)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕또는꿀",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다.",
+		"2. 계란 노른자를 설탕을 약간 넣고 (꿀도 괜찬아요)열심히 저어줍니다. 사진처럼 연한 크림색비슷하게 날때까지",
+		"3. 생크림이 들어가는데요. 시중에 파는 생크림을 넣던데 직접 한번 만들어 봤어요. 생크림도 만드니깐 좋더라구요. 얼음넣은 물에 담궈서 하니깐 10분만 저어도 생크림이 잘 만들어져요. 대신 정말 손으로 열심히 저었다는거. 만들고 나중에 알았지만 휘핑안하고 그냥 넣어도 됩니다.",
+		"4. 딸기 60개를 갈았습니다. 더 넣어도 괜찬습니다. 60개를 넣었는데 색이 그닥 파는거 처럼 안나와요.",
+		"5. 우유 3컵을 넣어주세요.그리고 계란휘핑한거랑 딸기간것도 같이 넣어 저어주세요.",
+		"6. 용기에 담아주고 냉동고에 넣어 얼려서 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/8479caff3368a6cb0344fc9dd2e41ebd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/8592d5d452266b40e93a80327ca2b8791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/d9b1748e034b33802a6611f788b40eca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/9ad9c4e70e7febf70fe84d30cc794fd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/bc96a0ba78f3ab9944e9fa524d5ad2a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/ea1b65565c0d173a8b435652fbdeab571.jpg"
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"id": "1706614",
+	"name": "칼칼한 아구찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/649fb589bc0f1adf1b38c9251b8745c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/1706614",
+	"ingredient_ids": [
+		47,
+		995,
+		848,
+		320,
+		79,
+		473,
+		29,
+		846,
+		477,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "아구(말리기전무게)",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "표고가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진홍고추(또는고추씨가루)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 말린 아구에 잠길정도의 물이나 육수를 붓고 된장을 넣은 다음 뚜껑덮어 끓여 줍니다. 국물이 거의 모두 졸아들때까지 끓여 주세요. 집된장을 쓰실경우 체에 콩찌꺼기를 걸러 쓰세요. 콩나물은 데쳐서 찬물에 완전하게 식혀서 준비해놓으세요.",
+		"2. 양념을 개어 둡니다. 주의할점은 된장에 따라 간이 달라지니 된장에 따라 간기 있는 양념을 가감하세요.",
+		"3. 양념의 반정도를 먼저 섞어주세요.",
+		"4. 콩나물 넣고 나머지 양념을 넣어 양손으로 잘 섞어주고 참기름으로 마무리 하시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/df41b96cb31495b3b9ef1732e650fe291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/ed13d760fdde6649021469d3986c3a6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/22ff20ae7c45b655aeb2d187009c11661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/3fb8c7aee4561282472913fe502b80a01.jpg"
+	]
+}

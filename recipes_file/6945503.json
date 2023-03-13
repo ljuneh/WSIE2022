@@ -1,0 +1,54 @@
+{
+	"id": "6945503",
+	"name": "비싼 육전 집에서 간단하게 왕창 해먹기! 사먹는것보다 훨씬 맛있어",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/de4c79f606bb3babff915b4c4983739d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945503",
+	"ingredient_ids": [
+		497,
+		387
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기육전용",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 육전용 고기를 준비해줍니다. (마켓컬리에서 주문했어요)",
+		"2. 계란을 그릇에 깨서 풀어주고 소금 한꼬집 후추 톡톡 넣어서 잘 섞어줍니다.",
+		"3. 부침가루도 한컵 넙적한 그릇에 부어주세요.",
+		"4. 육전용 고기를 낱장낱잩 잘 떼어 준비합니다.",
+		"5. 부침가루를 완전히 바르고, 계란물을 입혀 달궈진 팬에 부칩니다.",
+		"6. 고기가 얇아 금방익으니 중약불로 부쳐부세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/0790e2e9f53a12b79957d9d4861a46971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/1768c123ea05f0eaae199825d32ce7551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/a5fe0784a2ce7fbeeb5b3938f7d8c2831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/747658ef3c3fb0708d5f83d70fb467a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/3b20f421f2c7d07a28ca9c9eadc2bec21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/c6b0aee2c6449ff83f8e1d9a554878ee1.jpg"
+	]
+}

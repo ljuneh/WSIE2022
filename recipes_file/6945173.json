@@ -1,0 +1,71 @@
+{
+	"id": "6945173",
+	"name": "맛있는 밑반찬 깨순멸치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/ba237b59d184ec7fca6c3534933e2e721.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945173",
+	"ingredient_ids": [
+		320,
+		29,
+		379,
+		224,
+		575,
+		327
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "깨순",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "7",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 씻어건진 깨순은 팬에담고 뚜껑닫아 잠시 둡니다 깨순이 숨 죽으며 생기는  수분은 따라 버립니다",
+		"2. 간장넣고  슬라이스한 마늘도 넣고 쉐킷쉐킷~~",
+		"3. 내장, 머리 제거한 멸치넣고 쉐킷쉐킷~~ 멸치는 마른팬에 한 번 볶아서 사용 합니다",
+		"4. 홍고추 잘게썰어 넣고 고춧가루도 넣어요",
+		"5. 수분없이 볶아지면 올리고당, 참기름넣고 잘 섞은 후 마무리해요 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/a2c2949dd2862db3e54c2bdafb558cac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/a4c0462b16a0ff62983902be2b9aec761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/1faf8135d5b083261300ebdb2af08f601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/ed0c674a11ae202e0d2b0b5a24f743011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/38691f8339136488c009da80192b7b631.jpg"
+	]
+}

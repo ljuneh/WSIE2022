@@ -1,0 +1,71 @@
+{
+	"id": "6939976",
+	"name": "소고기 청경채 야채 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/419358ffa37c7509fa382698ce77f6f41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939976",
+	"ingredient_ids": [
+		495,
+		13,
+		290,
+		477,
+		198
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "4",
+			"ingre_unit": "묶음"
+		},
+		{
+			"ingre_name": "양파큰거",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘큰거",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 코스트코에서 육질 좋은 소고기를 구입했어요 한장씩 냉동실에 넣어 놓은걸 살짝 녹일게요",
+		"2. 기름은 제거 하고 먹기 좋은 크기로 자를게요 1인분 기준 소고기 200g만 사용 할게요소고기 200g살짝 얼었을때 자르면 쉽게 잘 잘립니다 ",
+		"3. 야채는 청경채 양파 마늘 준비할게요 청경채는 깨끗이 씻어서 물기 빼 놓고요 양파는 깍뚝썰기 할게요 마늘은 편썰기 할게요청경채 4개/양파 큰거 반개/마늘 큰거 5알",
+		"4. 달궈진 후라이팬에 버터를 녹일게요 녹인 버터에 마늘을 익힐게요버터를 사용하면 소고기 풍미가 좋아져요",
+		"5. 편마늘이 익어갈때 쯤 소고기를 넣을 게요  센불에서 소고기를 빠르게 익혀주세요소고기를 볶을때는 센불을 이용해 주세요",
+		"6. 소고기가 다 익어가면 청경재랑 양파를 모두 넣어주세요청경채4개 /양파반개불은 중간불로 줄여주세요",
+		"7. 야채 숨이 죽으면 굴소스를 2스픈 넣어주세요굴소스2스푼",
+		"8. 소고기와 야채에 양념이 잘 벨 수 있게 좀 더 볶아주고 통깨를 뿌려서 마무리깨는 한꼬집중간불"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/75fc6c8e4fdf0354f4157b60608da7ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/c9651413241dace73017907e69594e961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/547e5504d60ffaf2f042e0caa9e340311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/ca14342d08ec9f8c6550dd5216e728621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/5633f8262ea62e32dd0e57ca1be430f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/d582a4d60cadf5fbfc820748010dce821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/83dd2c80c52a3e1118885b0bbb4762581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/ab3882724fa5b0b50fc5a7ff453a59e81.jpg"
+	]
+}

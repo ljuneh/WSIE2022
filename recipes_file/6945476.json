@@ -1,0 +1,106 @@
+{
+	"id": "6945476",
+	"name": "소고기 뭇국으로 뜨끈하게~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/b64c2919c40c886cf422ae4fa9e66f261.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945476",
+	"ingredient_ids": [
+		19,
+		495,
+		27,
+		327,
+		233,
+		349,
+		535,
+		665,
+		497,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "허브솔트",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼정도"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "1/2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 우선 무 조금 토막내서 나박하게 얇게 썰어서 준비합니다.",
+		"2. 소고기는 국거리용으로 준비해주고 핏물을 제거해줍니다.",
+		"3. 냄비에 들기름 1큰술에 다진마늘 1티스푼 넣고 고기와 함께 볶아주세요~",
+		"4. 고기 볶을때 허브솔트를 조금 뿌려서 볶아주면 잡내가 안나요~",
+		"5. 고기가 익으면 나박썬 무를 넣고 같이 볶아줍니다.",
+		"6. 이때 국간장 2큰술 넣고 같이 볶아주면 무에 간이 베서 맛있어져요~",
+		"7. 이제 물 붓고 끓여줍니다.",
+		"8. 그 사이 대파 조금 썰어서 준비하고..",
+		"9. 참치액 2큰술 넣고 같이 끓여줍니다.",
+		"10. 끓으면 거품이 나는데 걷어내주세요~ 고기의 핏물이 올라온거라 걷어내야 국물이 깔끔해져요~",
+		"11. 그 다음 중불로 줄여 15~20분 정도 뭉글하게 끓여줍니다.",
+		"12. 20분 정도 끓인 후.. 소금과 다시다를 넣고 입맛에 맞게 간 맞춰줍니다.",
+		"13. 간이 맞으면 대파 넣고 불끄고 후춧가루 톡톡톡 뿌려주면 소고기 뭇국 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/5d5ee55b5c8308d16a16a9d5840d896d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/a891479718cb946efaf1c8fc0cc283c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/4d7b4c25e0605876e9e1f9a23a4317681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/de945f3e8d2b886dd90d471991708c421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/2b5b01bccdaa549af45544743e4b43d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/f562e32f3ca5ee2f0be1f2bf7c808ed91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/0d589b66564740adb9631dbacf4629111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/16b13fa9e4eb515d01849fdb7c53407d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/1bbe4ef0a4a0e238c788527c163d58711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/75db860f67671b7b724e853f244480d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/33492e628074615db3abf47a3a37ed9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/98c45419540104a1bfe1c83877486f3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/f9cbc1cfed518f1b17af5aa41aa729a91.jpg"
+	]
+}

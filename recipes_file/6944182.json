@@ -1,0 +1,104 @@
+{
+	"id": "6944182",
+	"name": "상큼한 사과 스콘 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/7c8ba6470f317db9c3b1b8a96d0752b31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944182",
+	"ingredient_ids": [
+		373,
+		226,
+		497,
+		158,
+		198,
+		158,
+		226,
+		471
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "6",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "계피가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 가루류는 한곳에 제서 채를 쳐주셔야해요.",
+		"2. 채가 쳐진 가루위에 실온에 둔 버터를 넣어주세요.꼭 실온 버터를 사용해주세요.",
+		"3. 손으로 비비듯이 버터와 채친가루와 잘 섞이게 해주시고",
+		"4. 계란물은 잘 섞어서 풀어주고 사과는 갈아서 넣어주세요.",
+		"5. 날가루가 없을 정도로 반죽을 해주시면 됩니다.",
+		"6. 비닐을 바닥에 두고 날가루가 없을정도로잘 반죽이 된걸 이렇게 두고",
+		"7. 감싸고 모양을 잡아주세요. 그리교 휴지는 냉장실에서 30분 이상을 해주시면 됩니다.",
+		"8. 휴지를 시켜주면서 위에 곁들일 사과 조림을 만들어줄건데 사과를 다이스모양으로 썰어주고 설탕과 계피가루를 넣어주세요",
+		"9. 수분기가 다 날라가도록 약불에서 졸여주시면 됩니다. 바닥에 물기가 없을 정도로 볶아주세요.",
+		"10. 이제 휴지가 완료된 반죽을 원하는 모양으로 썰어주세요. 그리고 표면 위를 반질반질하게 하기위해서 계란물을 발라주시면 됩니다.",
+		"11. 190도에 예열된 오븐에 넣어서 15~20분정도 구워주세요.오븐",
+		"12. 표면이 갈색이 되면 충분히 식혀주고",
+		"13. 식혀진 스콘위에 사과조림을 올려주면 완성이됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/049666a0cdb9b5c178d911b2cf1bb3581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/c7396d7dfa271a406c519789413967fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/bc5a0ded95e2770d2285b11b8c2446401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/d6449e5dc7f49b88be22ec3696d072c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/c704e3a77c04b7037f6a0cac18d032e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/5c1ab5c284f2511ab474fb1750983c491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/276c507f755f083ed9c5ae1eccd8e3e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/8ea34afc680a93fb4e905c151d15562b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/fdd9254bfbc9b24e731217b808f98fdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/5e4d692c60d1bd6f00697262f4b6e2d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/67d84c0506360725184ef50a89d05e5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/f6054446158e73af1e78004c0b032d9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/a6a717f3d52c3cc5d68c4a9580bc34f61.jpg"
+	]
+}

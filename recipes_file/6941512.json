@@ -1,0 +1,61 @@
+{
+	"id": "6941512",
+	"name": "케찹피자(초간단 요리)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/5e69bafbb677236345c43ee023e3d4601.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941512",
+	"ingredient_ids": [
+		212,
+		702,
+		631,
+		227
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "또띠아",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "스리라차케찹",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "피자소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 팬에 기름없이 또띠아를 앞뒤 살짝만 구워줍니다 에어프라이나 작은 오븐들은 열이 위쪽만 있어서  치즈가 다타도 또띠아가 안익는걸 방지 차원임",
+		"2. 에어프라이어에 기름칠을 해줍니다 안떨어지는걸 방지 하는방법입니다에어프라이어",
+		"3. 또띠아를 올려주고 소스를 뿌려줍니다 스리라차케찹 토마토소스 꿀 비율은 2:1:1  너무 많이 뿌리면 짜요 아무리 꿀이라도 커버 안됨",
+		"4. 치즈 뿌려주고 파슬리도 살짝 뿌려줘요 온도는 젤약한 100도 에서 5분 치즈 상태 확인하시고  150도에서 3~5분 정도면 완성인데 더 굽고 싶으시면  더 하세요",
+		"5. 완성 에어프라이어에서 꺼내기 쉽게  밑판 통째로 꺼내는걸 추천드려요",
+		"6. 그냥 먹어도 맛있어요 소스가 안에 다들어가서 그래도 치즈를 좋아해서  그라노파다나랑 파마산 가득뿌려 줬습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/fb767282c8e6e8c104cce91ee41e06ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/aa039d2d65bcafbd0b25539bc91e82c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/bf84eb63d37f158d5db1e48dc9643c8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/e2cd159ef4524128b8a0f0d191660dd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/b697682d05c27fe2fd07c7f97e98dc241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/24620992bee6744fd7e921a8809f3cae1.jpg"
+	]
+}

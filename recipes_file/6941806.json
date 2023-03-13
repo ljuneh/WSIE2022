@@ -1,0 +1,57 @@
+{
+	"id": "6941806",
+	"name": "맥주 안주로 딱!! 웨지감자 만들기 (에어프라이어)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/4dc110b937bb6855505170829cd73abc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941806",
+	"ingredient_ids": [
+		5,
+		574,
+		291
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료 준비",
+		"2. 감자는 깨끗하게 씻은 다음 길쭉한 세모 모양으로 썰어, 물에 10분간 담가 줍니다.",
+		"3. 그리고 키친타월로 물기를 제거해 주세요~",
+		"4. 물기를 제거한 감자를 위생봉투에 담아, 올리브유 1T, 맛소금 1/2t, 후추와 파슬리가루를 넣고 쉐킷쉐킷~ 간이 잘 배이도록 흔들어 줍니다.",
+		"5. 이제 에어프라이어에 종이 포일을 깔고~ 감자를 펴서 올린 다음,",
+		"6. 180도로 15분,",
+		"7. 뒤집어서 15분 돌려주면 완성!! (감자의 크기와 양에 맞게 조절해 주세요!!)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/ab6bcee2b540d17699f5bfee9424972c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/b484fc6aeda5bc92d535a9c1778590b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/1bc3bd66f69e41c3c35d9677a7f302531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/c7c65f7aa1c51d85988836ec949590551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/ada3b1de40d2dc0d666645c2af044a221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/9e6eb1dc3ca12215b30b5817c736ee2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/594b71eb00f5cfaaf5e8beeebab883271.jpg"
+	]
+}

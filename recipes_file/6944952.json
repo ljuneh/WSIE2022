@@ -1,0 +1,67 @@
+{
+	"id": "6944952",
+	"name": "간식으로 너무 좋은 진짜감자전 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/0dab8d930656167843c4887eaaec420c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944952",
+	"ingredient_ids": [
+		5,
+		9,
+		3,
+		30,
+		812,
+		665
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "다슬기",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 감자는 넉넉하게 준비 했어요. 강판에 갈아서 부쳐 보면 양이 얼마되지 않거든요.",
+		"2. 감자는 강판에 갈아 줍니다. 그래야 감자전 부쳤을때 식감이 그대로 살아 있어요.",
+		"3. 거즈에 감자를 꼭 짜서 건더기를 준비하고  감자에서 나온 물은 30분정도 그대로 두면 녹말이 가라 앉아요. 물은 따라 버리고 녹말은 건더기에 넣어 줍니다.",
+		"4. 양파, 부추, 당근, 고추는 곱게 다져서 넣어주고",
+		"5. 저는 냉동실에 다슬기 한팩 꺼내 넣어 주었어요. 감자전에 다슬기 넣으면 진짜 대박이거든요.",
+		"6. 소금이나 국간장 조금만 넣어 골고루 섞어 줍니다.",
+		"7. 예열된 팬에 한수저씩 떠 넣어 부쳐 줍니다.",
+		"8. 앞뒤로 노릇하게 부쳐 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/ebde3e66ca7809dd2bdc2ca1d62a2d001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/708fc781f256844eab631d52717665a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/13c641b8dd69d5921ea6df89553705e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/bfabb269c3308c137f2759a61e40b5b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/a8aca9af9224868b4a295b0efbdb29751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/cf17f0edc088635c50bbca5a363d3cf31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/079e1e27816d3b1985384f0762643ed91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/2bc1db3506df8991a3c40d2f8547b1741.jpg"
+	]
+}

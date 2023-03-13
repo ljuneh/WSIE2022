@@ -1,0 +1,40 @@
+{
+	"id": "6863607",
+	"name": "혼술을 즐길 때도 맛있게~ 간단한술안주만들기, 불막창 떡볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/685795d47e43f0aefba4461732ac7af31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863607",
+	"ingredient_ids": [
+		972,
+		15
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "청정원안주야불막창",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "1",
+			"ingre_unit": "타래"
+		}
+	],
+	"recipe": [
+		"1. 깻잎은 얇게 썰어 찬물에 깨끗하게 씻은 후 물기를 빼 놓는다.",
+		"2. 불막창은 전자레인지에 살짝 해동한다.전자레인지",
+		"3. 팬에 불막창과 떡을 넣어 볶는다.                   ",
+		"4. 맛있게 잘 볶아졌으면 접시에 깻잎을 깔고 위에 올려낸다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/7c9e59527abeef2bc853654c4c925c121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/a76031610b767de11ebe3522dbef0f161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/c39a38804c7798dfe882a640b26a51811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/04f5a18a4d9a1429b3552b829f78d7441.jpg"
+	]
+}

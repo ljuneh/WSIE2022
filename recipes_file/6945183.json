@@ -1,0 +1,67 @@
+{
+	"id": "6945183",
+	"name": "엄마표 간식 버터링 쿠키 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/b7d469732ff63fe16b3de7bfbda67e981.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945183",
+	"ingredient_ids": [
+		198,
+		696,
+		546,
+		884,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "3-4방울",
+			"ingre_unit": "-방울"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 버터는 부드럽게 풀어 크림화 ~ 마요네즈 정도의 농도가 돼야 잘 풀어진 거랍니다                   ",
+		"2. 잘 풀어진 버터에 슈가파우더, 소금을 넣고 잘 섞어주세요 슈가파우더는 2~3번 나눠 넣어주세요                   ",
+		"3. 계란과 바닐라익스트랙을 넣고 잘 섞어주세요                   ",
+		"4. 아몬드가루, 박력분을 체 쳐 넣고 가루 날림 없을 때까지 볼을 돌려가며 주걱으로 자르듯이 섞어주세요                   ",
+		"5. 잘 섞여진 버터링 쿠키 반죽은 별 깍지를 낀 짤 주머니에 넣어주세요                   ",
+		"6. 종이호일을 깔고 동그랗게 버터링 쿠키 모양으로 짜주고 180도 예열된 오븐에서 10~13분정도 구워주면 버터향 가득 노릇노릇 맛있게 구워진 버터링 쿠키 완성                       "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/1238b2f2581ff7e21e7865af623c40a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/875e93ebecfcf23cf987319ab6d2a93d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/4cd1c7b1a792ba1f8df1b73d4c2578791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/15151433626cd04d0d1ec44793de87801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/039dc143742c4fc89a26bc4660e748b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/3a10626c5468215ee0c195b9459baccb1.jpg"
+	]
+}

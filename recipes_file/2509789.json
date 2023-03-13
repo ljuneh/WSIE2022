@@ -1,0 +1,122 @@
+{
+	"id": "2509789",
+	"name": "쇠고기메추리알장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/4cb207438dda859e02a1f47e521446b9.jpg",
+	"url": "https://www.10000recipe.com/recipe/2509789",
+	"ingredient_ids": [
+		27,
+		28,
+		3,
+		29,
+		857,
+		221,
+		226,
+		846,
+		28,
+		295,
+		90,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쇠고기사태살",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "건홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "건파뿌리",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "육수2컵반",
+			"ingre_count": "2",
+			"ingre_unit": "컵 반"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿1큰술반",
+			"ingre_count": "1",
+			"ingre_unit": "큰술 반"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		}
+	],
+	"recipe": [
+		"1. 메추리알은 삶아서 껍질을 벗겨 준비합니다.",
+		"2. 쇠고기는 물에 담궈 핏물을 제거해주시고요.",
+		"3. 육수재료를 넣고 바글바글 끓여줍니다.",
+		"4. 육수가 어느정도 끓어오르면 핏물뺀 쇠고기를 넣고 끓여줍니다. 끓여준후 고기는 따로 건져 찢어 줍니다.",
+		"5. 메추리알도 넣고 끓입니다. 조림장이 줄어들때까지 조려주면 끝입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/7a3601fa573741fc3c0f35983afc79e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/4eddcd5a1fd7ffee5389201e8e1b3ee31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/cdbaf748ed01d5888c352bcc11e9e56a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/86d0875e2bc6adc0e87b751e4a2e7b6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/c2dd0dae0967ebdced0b4c4e01799a0a1.jpg"
+	]
+}

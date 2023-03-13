@@ -1,0 +1,73 @@
+{
+	"id": "6941023",
+	"name": "바질페스토감자볶음:간단 브런치메뉴로 좋아요(독일식감자볶음)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/6d68e1ca1963c12d08e35ee79a3375f31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941023",
+	"ingredient_ids": [
+		911,
+		497,
+		894
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "삷은감자또는찐감자",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브오일또는버터",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "",
+			"ingre_unit": "선택"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "바질페스토",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "어린잎채소또는샐러드채소",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "발사믹드레싱",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "황도또는피클",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 삶은감자나 찐감자를 준비한다: 먹고 남은 게 있을 때 만들어 보세요",
+		"2. 도톰한 납작썰기를 한다.",
+		"3. 팬에 감자와 버섯을 펼쳐담고 소금,후추,바질페스토를 넣고 볶는다.",
+		"4. 올리브오일이나 버터를 넣고 뒤적걸린 후 불을 끈다",
+		"5. 접시에 감자볶음을 담고 샐러드를 곁들인다: 황도 대신 피클이나 다른 과일을 담아내도 좋아요.곁들이는 음식은 입맛껏,취향껏 담아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/cfe0595f1382e1ef992893907d669a5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/e5f6242bebb835dadbf45c7372d8938d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/61eb7f81c5c9571caa8a646dadfffccf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/4b218f12f2505a75b3990bed5ed3580e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/02c08f70277c25080191ccebe0d8f3e21.jpg"
+	]
+}

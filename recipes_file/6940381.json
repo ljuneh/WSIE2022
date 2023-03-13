@@ -1,0 +1,63 @@
+{
+	"id": "6940381",
+	"name": "김치볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/e3b236c4a2d95008f39caba25afca48d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940381",
+	"ingredient_ids": [
+		3,
+		953,
+		55,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "캔햄",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1/3",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1.",
+			"ingre_unit": ".공기"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 햄은 ﻿ 모양살려 썰어서 끓는물에 넣고 잠시 두었다가 사용 합니다 ﻿",
+		"2. ﻿ 기름빠진 햄은 볶음밥용은 따로 두고 오일넣고 튀기듯 구워 놓아요 ﻿",
+		"3. ﻿ 햄 구웠던 팬 그대로 사용 합니다 다진양파부터 볶아요 양파 볶아지면 김치넣고 쉐킷쉐킷~~ ﻿",
+		"4. ﻿ 햄도 비슷한 크기로 썰어 함께넣고 볶아주고.. ﻿",
+		"5. ﻿ 팽이버섯도 넣고 볶았어요 ﻿",
+		"6. ﻿ 불 끄고.. 밥 넣은 후 뭉치지 않도록 잘 섞어 줍니다 ﻿",
+		"7. ﻿ 다시 불 켜고.. 센불로 볶아 마무리해요 간은 따로하지 않았어요 참기름 톡~~ ﻿"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/30371715d27184b532427d458685af631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/2acc2e54607e482bc56b670f89f05e591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/42814a09c76ce9844028b7543cfc133b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/5c87b2e1dcf8f65e1be91c201fb97d2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/e368c677ded83b70362c934e969024331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/5525e2cc48871e65d3c432beed13ce551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/b79b8ecaf3d457f99d9ead245900fa161.jpg"
+	]
+}

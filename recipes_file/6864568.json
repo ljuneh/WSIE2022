@@ -1,0 +1,119 @@
+{
+	"id": "6864568",
+	"name": "먹다 남은 찬밥 잡채 게살 볶음밥 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/01/92fc5e6d6b7ba5f0665f921144415dcd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6864568",
+	"ingredient_ids": [
+		1025,
+		3,
+		53,
+		13,
+		9,
+		8,
+		504,
+		477
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "잡채",
+			"ingre_count": "1",
+			"ingre_unit": "접시"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청량고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "4",
+			"ingre_unit": "잎"
+		},
+		{
+			"ingre_name": "알배추잎",
+			"ingre_count": "4",
+			"ingre_unit": "잎"
+		},
+		{
+			"ingre_name": "깐마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/5",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "게살통조림",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "가는소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 냉장고속 채소 있는대로 꺼내서 씻어 놓고",
+		"2. 배추는 길이로 먼저 썬다음 송송썰어 놓습니다.",
+		"3. 오이는 우선 돌려 깍기를 해놓고,작게 다져 놓고,",
+		"4. 당근,양파,표고버섯,청경채,청량고추,깐마늘도 잘게 썰어 놓습니다.",
+		"5. 먹다 남은 잡채도 송송 다져 놓습니다.",
+		"6. 팬에 식용유를 두르고,양파와 마늘를 넣고 양파가 투명해질때 까지 볶아 줍니다.",
+		"7. 당근도 넣고 볶다가",
+		"8. 모든 채소를 넣고, 가는 소금 1/2작은술 을 넣고 볶아 줍니다.",
+		"9. 채소을 살짝 볶다가 게살 통조림",
+		"10. 잘게 썬 잡채도 넣고,",
+		"11. 찬밥도 넣고, 고루 섞으면서",
+		"12. 굴소스도 넣고 볶아줍니다. (간을 맞추시고)",
+		"13. 먼저, 밥공기에 담아놓고, 완성 접시을 놓고 그위에 엎어서 담아 주면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/08d6a4a88551228a42fcb9abed3abefa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/fdad62f37ad6374ad6c8b8fd042748291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/bb5def2b96603b64d9a83fc9dd7990c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/07abb7b584adc853a5c10b2c17fc511b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/46cc56551e15be4ecc3fdb25b3bd5b321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/5c2966e5c591c8df6669f229d26cadb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/7c91667f915f8cc02782ff92ec2072d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/f8d95f6b022ff65948da7d03776f42371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/b1ca926223dc746da72b51c6da27e3651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/55e7e8afcb590051dc01f4ad5dd5d5d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/70424d78b8663494a19dbc8b3a91add31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/05334666e4e42cc167dd8a578ce391451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/31/95df77e1f75cbabe314cdeac83c305181.jpg"
+	]
+}

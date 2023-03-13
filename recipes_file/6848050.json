@@ -1,0 +1,95 @@
+{
+	"id": "6848050",
+	"name": "톳나물 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/12/0f4f3e216976734778b39422f14b98a91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6848050",
+	"ingredient_ids": [
+		497,
+		473,
+		938,
+		27,
+		29,
+		231,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "톳나물",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참치액젓",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "볶음참깨",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 물은 소금을 조금 넣고 끓여 주세요. 데치기전 톳나물 입니다.",
+		"2. 끓은 물에 톳나물을 넣고 저어 주세요.톳 색이 파랗게 변하면 불을 끄고 찬물에 씻어 주세요.",
+		"3. 체반에 받쳐 물기를 제거 한후 톳나물을 한쪽으로 미뤄두고 분량의 양념을 넣습니다.",
+		"4. 양념 부터 섞은 다음에 톳나물과 같이 고루 버무려 준후에 참기름과 볶은 참께을 넣고 다시 한번 버무러 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/12/4a886896c40f542b0d81fe10ba8a17101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/12/8bdbc3fee23a299e73ba396d4e1508e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/12/a4e0f279b34696b4f082c5790df17c671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/12/fcd6ec0d271b9885eda1546922525dcf1.jpg"
+	]
+}

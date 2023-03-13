@@ -1,0 +1,51 @@
+{
+	"id": "6941623",
+	"name": "육포 요리 / 육포 고추장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/37beeec309d326dc9863dded030aeaab1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941623",
+	"ingredient_ids": [
+		611,
+		473,
+		343,
+		843,
+		227
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "육포",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "10",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "25",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 육포는 믹서기에 곱게 갈아 준다.",
+		"2. 고추장을 준비한다.",
+		"3. 고추장에 미림, 매실액, 꿀, 갈아 놓았던 육포를 넣고 섞는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/6ab83c31777e70c5aa27294a74de5f091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/b4f6b9933373a504ca860c61e9dafe221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/91dc0643b827ba35449d1ce8aabe42c61.jpg"
+	]
+}

@@ -1,0 +1,140 @@
+{
+	"id": "6864955",
+	"name": "꽁치 샌드위치 - 한입만 1회",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/f3241eb9882ad0850196ba805e28bbf01.png",
+	"url": "https://www.10000recipe.com/recipe/6864955",
+	"ingredient_ids": [
+		60,
+		386,
+		134,
+		51,
+		632,
+		504,
+		343,
+		134,
+		226,
+		29,
+		205,
+		228,
+		895
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "꽁치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "바게트",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "적양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "레몬",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피클",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "로메인상추",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "엑스트라버진올리브오일",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "레몬",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추(갈아쓰는것)",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "이탈리안파슬리",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "케이엔페퍼",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파마산치즈",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "타바스코",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "사워크림",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "딜",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 치즈를 제외한 모든 양념 재료를 믹서에 넣고 잘 갈아준다.",
+		"2. 치즈를 갈아 섞어 준다.",
+		"3. 선택재료중 넣고 싶은 것이 있다면 소스에 섞어 준다",
+		"4. 토마토와 적양파를 원형으로 얇게 썰어주고 피클은 길게 2mm 로 썬다.",
+		"5. 로메인상추는 씻어 적당한 크기로 뜯어준다.",
+		"6. 바게트 빵을 반 갈라 속을 약간 파낸 뒤 토스트 한다.",
+		"7. 꽁치를 반을 갈라 적당한 크기로 자르고 팬에 기름을 둘러 노릇노릇 구워준 뒤 레몬을 뿌려 마무리한다.",
+		"8. 모든 재료를 빵에 넣고 소스를 뿌려 마무리 한다."
+	],
+	"recipe_img": []
+}

@@ -1,0 +1,53 @@
+{
+	"id": "6882848",
+	"name": "시금치베이컨볶음 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/25/05b6b9d84cc52f1ffa34538f0751e41c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6882848",
+	"ingredient_ids": [
+		406,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "시금치1.5줌(원하는만큼)",
+			"ingre_count": "1.5줌(원하는 만큼)",
+			"ingre_unit": ".줌(원하는 만큼)"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 시금치는 물에 씻어 주고, 큰 잎은 듬성듬성 큼지막하게 썰어주고, 통마늘은 얇게 썰고 베이컨은 먹기 좋은 크기로 썰어 준비해 줍니다. 저는 베이컨이 없어 슬라이스 햄 4장 사용했어요. 통마늘 좋아하심 더 넣어도 무관할 듯!",
+		"2. 팬에 올리브유를 넉넉하게 두르고 마늘을 노릇노릇하게 볶아주세요.",
+		"3. 마늘이 노릇노릇 튀겨지면 베이컨 또는 슬라이스 햄을 넣고 여기에 소금으로 솔솔 간을 해주세요. 베이컨, 햄에 기본적인 간이 되어있기에 소금은 많이 안 넣어도 돼요.",
+		"4. 전체적으로 노릇하게 익어가면",
+		"5. 준비해 놓은 시금치를 넣어주고 마늘, 햄과 잘 섞인다는 느낌으로 볶아주세요. 시금치는 원하는 만큼 넣으세요. 처음에는 많아 보이지만 막상 볶으면 숨이 죽어 그다지 많지 않아요. 그리고 너무 오래 볶으면 시금치에서 물이 나오기 때문에 가볍게 빠르게 볶아 줍니다.",
+		"6. 함께 곁들여 먹을 달걀 프라이도 해주고",
+		"7. 버터 1조각 녹여 식빵도 노릇하게 구워 주세요",
+		"8. 볶아놓은 시금치 올리고 구운 식빵은 반으로 잘라주고, 달걀 프라이, 잼, 과일 등을 올려주면 간단 간식, 식사 브런치 메뉴 시금치 베이컨 볶음 완성 ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/25/72f5791b501633ae4e3fd9d54d557d111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/25/e00999823dbe19e0ec9d46695c79c92c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/25/cfd44c664bc906789d41ad2571d9220d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/25/272682853a8868251a2f7eb384f702db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/25/6c43cf0f7112841a8a5c6597e4affc2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/25/9f7e334078cf7a26bdcd0d8db6b4e7341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/25/983d161faf531d74fecd4c2c8571b3231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/25/79d37c4b6c5e18407a70d1e2e2ede4231.jpg"
+	]
+}

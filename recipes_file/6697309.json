@@ -1,0 +1,49 @@
+{
+	"id": "6697309",
+	"name": "레몬즙없이 홈메이드 사과잼 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/61478eb73254e13a2f40bcae46d319791.jpg",
+	"url": "https://www.10000recipe.com/recipe/6697309",
+	"ingredient_ids": [
+		995,
+		158,
+		226,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 1. 사과는 깨끗이 세척후 4등분 후 껍질+씨 제거 후 나박썰기로 썰어서 준비해주세요.",
+		"2. 2. 냄비에 사과,설탕,식초,넣고 뚜겅을 닫은 상태로 약불에서 10분정도 조리해주세요.",
+		"3. 3. 10분후 뚜겅을 열어보면 사과에서 수분이 빠져나가서 흐믈흐믈 해진 상태가 될거에요. 이때에 물을 넣고 저어가면서 끓여주세요. 불의 세기는 약불에서 해주셔야 해요. 그리고 계속 젓는건 유지하시구요.",
+		"4. 4. 대략 30분정도 저어주시면 살짝 덩어리상태의 사과잼 상태가 되는데, 너무 으깨이는것보다 알갱이가 씹히는 사과잼이 맛있더라구요.",
+		"5. 완성된 홈메이드 사과잼은 열탕 소독된 유리병에 담아 보관해주시면 되어요. 보관방법은 냉장보관이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/0b423afb4a345d3663173dcce8f4e85f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/e609241006b15a53f6c1e91d446cf2091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/53a55df3fdf98a110eb3cbf86d091eae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/63be39cb634e22c50b45b54d055225eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/6be95feefb114ca9fe15ce43f5271b441.jpg"
+	]
+}

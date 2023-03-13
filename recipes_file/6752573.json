@@ -1,0 +1,66 @@
+{
+	"id": "6752573",
+	"name": "마늘종 멸치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/40be48b4f9e12dcd0fc708dc918da1e61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6752573",
+	"ingredient_ids": [
+		899,
+		320,
+		29,
+		379,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘종",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "볶음참깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 멸치는 2-3cm정도의 잔멸치를 사용했어요. 멸치는 볶기 전에 체에 한번 쳐서 부스러기를 걸러주면 좀 더 깔끔하게 볶아낼 수 있답니다.",
+		"2. 멸치는 자체적인 짠맛이 강한편이라 따로 밑간을 하지 않아요. 마른팬에 기름을 두르고 멸치를 한번 볶아내줍니다.                   ",
+		"3. 마늘종은 깨끗히 씻어서 4-5cm정도의 길이로 잘라 준비해주세요. 마늘도 편썰어준비해주세요.                   ",
+		"4. 멸치를 볶아냈던 팬에 기름을 두르고 마늘종과 편마늘을 볶아줍니다.",
+		"5. 간장도 2큰술 넣어주세요.",
+		"6. 식감은 취향에 맞게 아삭아삭한 정도를 조절하시면 되는데요. 좋아하는 식감의 80%정도 볶아졌다 생각할때까지 볶아주세요.",
+		"7. 볶아두었던 멸치를 함께 넣고 한번 더 볶아주세요.                   ",
+		"8. 불을 약불로 줄이고 올리고당을 섞어준 다음 깨를 솔솔 뿌려주면 완성이랍니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/c44e0fa9bddbe5e3617584636bf592af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/953270c144dadd33857b74e271df77411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/931144961e4c479486c61572bcb2bf701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/d21107eeffa45280b5600eef5c3701681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/0deb6624d33cce6200575956e3f6a3ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/7be728b7ecc70093857016a326de001a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/02e2163dcd3b1c25fb8932623eef13581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/75e76b5c60668c81691096d8f6f4bd861.jpg"
+	]
+}

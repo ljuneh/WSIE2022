@@ -1,0 +1,99 @@
+{
+	"id": "6943328",
+	"name": "남은 치킨으로 데리야끼 치킨덮밥 해먹어요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/aa51fe9f3daaa7e1e0e644cb6c6d6fd81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943328",
+	"ingredient_ids": [
+		3,
+		228,
+		504,
+		227,
+		843,
+		292
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "남은치킨순살",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 남은 치킨을 먹기 좋게 자른 후 달군 팬에 살짝 데워줍니다.남은치킨팬중불",
+		"2. 달군 팬에 기름을 두른 후 계란을 넣어 스크램블해준 후 따로 덜어둡니다.계란3개, 식용유1큰술팬중약불",
+		"3. 달군 팬에 기름을 두르고 채썬 양파를 넣어 볶아줍니다.양파1/2개, 식용유1큰술",
+		"4. 양파가 반쯤 익으면 데리야끼소스를 넣어 볶아줍니다. (데리야끼소스가 없을 경우 진간장3, 꿀1, 매실액1, 맛술1, 후추를 넣어 끓여 만들어줍니다.)데리야끼소스3큰술",
+		"5. 따뜻한 밥을 그릇에 담고 스크램블한 계란을 주위에 둘러줍니다.밥1공기",
+		"6. 데리야끼소스에 조린 양파를 얹어줍니다.",
+		"7. 데운 치킨을 올려줍니다.",
+		"8. 약병에 마요네즈를 넣어 뿌려줍니다.마요네즈 취향껏약병",
+		"9. 파슬리가루를 뿌려줍니다.파슬리가루 약간"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/f68690d14db544d53d9be561e5d57f631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/f73da9aeccff27e8443ee5be7a0cac681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/44550068b0e1c89bfe8e8ae7e1884cd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/8c989b249597084dc5d7e3263f9c25381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/9486cbab4adec36c2a8583f384af31581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/f068e62ea0ed57085af58ea68e5fb9921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/8a1e658e1713d671fc5fc4b08dea7a7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/d8cc22bf70022b981331bc320fdfb6d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/623d367a17f3580aa4227e51373d60311.jpg"
+	]
+}

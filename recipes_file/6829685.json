@@ -1,0 +1,68 @@
+{
+	"id": "6829685",
+	"name": "돼지고기 두루치기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/03/048255715b98a60c7a508bfe3d1aeff01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829685",
+	"ingredient_ids": [
+		702,
+		226,
+		379,
+		292,
+		233,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추장1+1/2스푼",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 고기를 해동해서 준비해 두세요.",
+		"2. 양파와 파를 1/4개만 썰어주세요.",
+		"3. 분량대로 양념장을 만드세요.",
+		"4. 버터를 살짝만 팬에 넣고 야채를 볶습니다. 센 불에 하면 탈 수도 있으니 약한불에! 파가 갈색이 되고 양파향이 적절히 올라올 때까지 볶아주세요. 더 익혀도 되지만 파가 탈 수도 있고 채소를 고기와 함께 더 익힐 거라서 너무 미리 익히면 안돼요.",
+		"5. 돼지고기, 파슬리를 같이 넣고 볶아줍니다.",
+		"6. 돼지고기 표면이 약한 갈색을 띠면 양념을 같이 넣고 볶아 줍니다. 양념 색이 적절히 베어드는게 보이면 불을 줄이고 약불에서 천천히 익혀줍니다. 되었으면 불을 끄고 깨소금을 뿌려줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/03/da5e4452e46ea0864d43beed1e680c251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/03/c19b24a3e0bab2d3fc8b3070e0cb7a491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/03/af01c8869e0d0fcedb94cf233c0d7c701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/03/572a194250eec301b12b66088f979c391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/03/a7234a85c8c0a6abed189a9183e3d3111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/03/bd9be6d945b272b840f9af00490b81b11.jpg"
+	]
+}

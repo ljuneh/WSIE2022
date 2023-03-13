@@ -1,0 +1,69 @@
+{
+	"id": "6944177",
+	"name": "고추찜 애기고추찜 무침 레시피 초초 간단무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/508fa04ffaa3a3f8cb6794244bcd51fb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944177",
+	"ingredient_ids": [
+		575,
+		29,
+		660,
+		543,
+		34,
+		234
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "6",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루1+1/2스푼",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "40",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 고추는 꼭지떼고 깨끗이 씻어서 봉투에 넣고 밀가루 넣고 흔들흔들 밀가루 옷을  입혀줍니다",
+		"2. 찜기에 면보를 깔고 밀가루 옷입은 고추를 얹고 뚜껑을 닫아둡니다  김이 올라오고 5분만 더 쪄줍니다 5분지나서 뚜껑 열어보면 고추에 묻은  밀가루가 투명한 색으로 변하면 됩니다",
+		"3. 고추 쪄지는 동안 양념장 만들어요 진간장,마늘.올리고당.고춧가루.통깨 .넣고 섞어줘요진간장6스푼.마늘1스푼.올리고당3스푼.고춧가루1스푼반.참기름1스푼.통깨 약간",
+		"4. 다 쪄진 고추는 양념장에 넣고 버물버물 양념을 고루 묻히면 완성입니다  간을 봐서 싱거우면 간장을 더넣고 좀더 달게 드시고 싶으면 올리고당 추가 하시면 되요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/c4a0e48cfbd373b97d913f08c25db3411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/cf8d4a011b0147c542748a55f001b7751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/02392754f869e9f2d14143d8c73f774a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/0fdfdde4e615489488bbccec0508894b1.jpg"
+	]
+}

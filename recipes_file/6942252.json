@@ -1,0 +1,57 @@
+{
+	"id": "6942252",
+	"name": "양배추찜과 양념장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/87b564cb24aef1ed62b542dda2cddcbf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942252",
+	"ingredient_ids": [
+		21,
+		765,
+		233,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "집된장",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "쌈장",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "초장",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 양배추 한통에서 반자르고 밑동을 조심스럽게 칼로 삼각모양처럼 자르시고 물에 담궈주세요(물에 담구는 이유는;;;양배추 조각조각 없이 잘 떨어지는 법) 그냥 하면 뿌셔지고 조각들이 많이 떨어지잖아요 찜기에 넣고 푹 삶아주세요 (10분(식감따라 익혀주셨도~",
+		"2. 이제 양념장 만들어요",
+		"3. 집된장(싱거운거)2티 초장1티 쌈장1티 다진마늘 1티 넣고 잘 섞어주시고",
+		"4. 맨 마지막엔 검정깨와 하얀깨 뿌리면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/9160e7f6bde7f66fd3bd62e3a83362d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/c3671bf7a20104a93b16b5c5f8b414791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/1fdadcaf8ad42a391d221efac7f4361f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/99c3112730991e39d7eefd43b6c63d2b1.jpg"
+	]
+}

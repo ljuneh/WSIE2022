@@ -1,0 +1,109 @@
+{
+	"id": "6942838",
+	"name": "[ 된장찌개 ] 간단요리, 시골밥상, 맛있는 찌개요리 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/63578887f67f2a71dd37be2811f56fce1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942838",
+	"ingredient_ids": [
+		19,
+		323,
+		325,
+		5,
+		3,
+		53,
+		56,
+		27,
+		320,
+		46,
+		848,
+		233
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/3",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "10",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "3-4개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "냉이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 각종 야채와 버섯을 먹기 좋게 잘라줍니다.",
+		"2. 감자도 먹기 좋게 잘라줍니다.빨리 드실거면 얇게 자르세요. 오래 천천히 끓여 드실거면 두툼하게 자르셔도 좋아요.",
+		"3. 볶은 멸치(손질된)를 넣고 10분간 끓여서 육수를 만들어줍니다.이때 무를 함께 넣으셔도 좋아요.",
+		"4. 멸치 육수에 무를 넣어줍니다.멸치는 건져내셔도 되고 그냥 두셔도 됩니다. 개인적으로 그냥 두시는 것이 맛이 좋다고 생각됩니다.",
+		"5. 된장을 1.5t 넣어줍니다.",
+		"6. 감자를 먼저 넣고 3분간 끓여줍니다.",
+		"7. 다진마늘 1t 넣어줍니다.",
+		"8. 호박, 양파, 버섯, 두부, 냉이를 넣고 5분간 끓인후 대파와 청량 고추를 넣어줍니다.시간 없으시면 한번에 다 넣으셔도 됩니다.",
+		"9. 보글 보글 끓여줍니다.  이때 간을 추가로 맞춥니다.(소금, 다시다 등 취향것)",
+		"10. 맛있게 담아서 드세요^^",
+		"11. 음식 사진은 확실히 흰 그릇이 좋아요 ;;"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/c2dc7c5594f1b152b34f1a999bd124bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/45a21ca4d26def91e9619db2212d9eba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/325101403631f30317325c85fbc9bf1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/40a18efa1bd864487bf81436fd845d1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/df15d096fdef7b9ad9b625de792b05171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/be7cf55e4b1ea00d3862cff614a0e4001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/20b4bd36ba99255fc426c19d6a9d278a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/6ffe3cb0c73fd957749972b2a6e513461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/03a9695be24623e57175e8d7f6e969fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/4c4e266fb39d4051272fc965d39e878a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/20bf8bece973e56186d914f0417c96eb1.jpg"
+	]
+}

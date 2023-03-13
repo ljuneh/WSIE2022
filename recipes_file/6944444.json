@@ -1,0 +1,68 @@
+{
+	"id": "6944444",
+	"name": "달걀말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/d80e94afa5de20d34d19ffe430fd899c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944444",
+	"ingredient_ids": [
+		219,
+		3,
+		9,
+		757,
+		497,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "2/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다.",
+		"2. 계란4개를 풀어줍니다.",
+		"3. 소금,참기름,후추를 넣고 섞어주세요",
+		"4. 양파,당근,쪽파를 잘게 썰어주세요",
+		"5. 프라이팬에 다 찰 정도로 부어줍니다",
+		"6. 돌돌말아줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/5a4e9dbc531c99483447722a4ec587611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/f96426725d403b88ccba5784b39124371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/405fcae807f4c742796b45eea0025a601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/99872748c602e029decf34da1aadf3ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/c9890ee0489f1a5d4ac761b378fb337c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/52c5eee73887929d2e9b195fe370b6c01.jpg"
+	]
+}

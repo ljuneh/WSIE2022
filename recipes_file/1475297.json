@@ -1,0 +1,78 @@
+{
+	"id": "1475297",
+	"name": "두부찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/11/72a9e4d7db594748d04af68397a289e6.jpg",
+	"url": "https://www.10000recipe.com/recipe/1475297",
+	"ingredient_ids": [
+		323,
+		27,
+		995,
+		473,
+		224,
+		233,
+		226,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "참치진국",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 두부는 깍뚝썰고 대파는 어슷썰어줍니다.",
+		"2. 양념재료인 물 1컵+2분의 1컵, 고추장 1, 고춧가루 0.5, 참치진국 2, 다진 마늘 0.5, 설탕 0.3 을 모두 한데 넣고 바글바글 끓입니다.",
+		"3. 국물이 바글바글 끓을 때, 미리 썰어 놓은 두부와 대파를 넣어줍니다.",
+		"4. 두부와 대파를 넣고 계속 끓여줍니다.",
+		"5. 두부에 간이 배어들면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/11/62a7e1f6426381c6ddbea995b0c7e8cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/11/5a8c6fe60622d7e34eb8d2a8cfe168e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/11/04e9bda1a02c81664df796f1b4562b2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/11/b9d1a75fe4e9f057c65f4245120fe5211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/11/df923ff24ba7ccc14f7f9140a67131351.jpg"
+	]
+}

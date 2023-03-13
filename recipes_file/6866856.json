@@ -1,0 +1,94 @@
+{
+	"id": "6866856",
+	"name": "고사리 볶음에 돼지고기가 추가요!! 돼지고기고사리볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/15/6c55cdf620950c2f2c8aa86e44719b3c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866856",
+	"ingredient_ids": [
+		914,
+		379,
+		292,
+		233,
+		575,
+		349,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삶은고사리",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "돼지고기다짐육",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치다시마육수or물",
+			"ingre_count": "1/2",
+			"ingre_unit": "Cup"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기는 간장 1T, 후추, 다진 마늘, 다진 대파, 맛술, 올리고당 1T를 넣고 밑간한다.돼지고기 다짐육 200g, 간장 1T, 후추 약간, 맛술 2T, 다진 대파 2T, 다진 마늘 1T, 올리고당 1T",
+		"2. 고사리는 먹기 좋은 크기로 잘라 국간장을 넣어 밑간한다.삶은 고사리 400g, 국간장 2T",
+		"3. 팬에 기름을 두르고 고사리를 넣어 볶는다.팬",
+		"4. 볶던 고사리에 육수나 물을 넣어 뚜껑을 덮어 약불로 익힌다.멸치 다시마 육수 or 물 1/2Cup약불",
+		"5. 수분이 없어지면 돼지고기를 넣어 볶는다.",
+		"6. 돼지고기가 익으면 참기름, 참깨를 넣어 완성한다.참기름 1T, 참깨 1T"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/15/b53d43f9f1116530d43740264c5b687d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/15/13ec8fef8cedc9df32c2e50bf08465ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/15/f4c6cd4b88f2a0e1f780d72aa97642f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/15/a6de6ec617dde7ebc225fc91f76b6d211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/15/c5ce138c1baf9eac003c431fcc24d3e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/15/c458df517705345f8d8600d7973b05b51.jpg"
+	]
+}

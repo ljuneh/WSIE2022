@@ -1,0 +1,76 @@
+{
+	"id": "6872594",
+	"name": "KFC 콘샐러드 집에서 맛있게 만드는 법♥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/11/f8ea4182071b4c01173c144b148ee05a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872594",
+	"ingredient_ids": [
+		500,
+		3,
+		228,
+		231,
+		226,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "옥수수통조림",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빨간파프리카",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노란파프리카",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 1. 옥수수 통조림의 국물을 제거해주세요.Tip) 야채 손질하는 동안 미리 체에 밭쳐 물기를 빼주면 좋아요! ",
+		"2. 2. 샐러드에 넣을 야채는 옥수수와 비슷한 크기로 잘라 준비해주세요. 야채와 옥수수의 비율은 1:1. 야채가 좀 더 많아도 괜찮아요콘샐러드에 들어가는 야채 중 양파와 빨간 파프리카는 필수로 넣어주시는 게 좋아요. (양파-식감, 빨간 파프리카-색감) 저는 당근이 없어서 노란 파프리카도 넣어줬는데요, 사실 옥수수랑 섞이면 잘 안보여서...없으면 굳이 안 넣어도 돼요! 대신 당근 있으면 꼭 넣어주세요. 식감, 색감 모두 살릴 수 있어요ㅎㅎ",
+		"3. 3. 볼에 준비된 재료를 넣고 아래 양념을 넣어주세요.콘샐러드 드레싱: 마요네즈 3스푼, 설탕 1/2스푼, 식초 1스푼",
+		"4. 4. 기호에 맞게 후추와 소금을 조금 넣어주세요.저는 소금 한꼬집, 후추는 3~4번 톡톡 털어 넣었어요:) ",
+		"5. 바로 먹는 것보다는 냉장고에 반나절~하루 정도 숙성시켜둔 뒤 먹으면 드레싱이 고루 배어 더 맛있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/11/1f2217519edddcaa73bc0d404f642d271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/11/634513e89c75786f4873df1ec5879d971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/11/ec3289e3c3f4c9c9ce87a97b1e2b3f581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/11/8e02639537c68bc4fe5fce8a02bdf17a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/11/819908b18adecab60b58a3abba7c0e6a1.jpg"
+	]
+}

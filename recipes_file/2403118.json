@@ -1,0 +1,118 @@
+{
+	"id": "2403118",
+	"name": "감자탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/1732a479ea199d5054f95d0ad27ac02c.jpg",
+	"url": "https://www.10000recipe.com/recipe/2403118",
+	"ingredient_ids": [
+		5,
+		888,
+		15,
+		3,
+		295,
+		1018,
+		337,
+		579,
+		848,
+		224,
+		29,
+		28,
+		857
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지뼈",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우거지",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "1",
+			"ingre_unit": "묶음"
+		},
+		{
+			"ingre_name": "굵은파",
+			"ingre_count": "1/2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "천연조미료",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 우거지를 넣고 삶다가 반으로 꺽으면 잘 접히면서 마지막에 '톡' 하는 소리가 나면 우거지가 잘 삶아진 것입니다.우거지 잘 삶은 것도 감자탕의 비법중 하나랍니다.",
+		"2. 돼지등뼈는 4시간 정도 물에 담가 핏물을 빼고 센불에 약 5분 여정도 끓여 물은 버리고 등뼈는 깔끔하게 씻어줍니다.",
+		"3. 씻은 등뼈는 다시 끓이는데요. 물이 끓으면 마늘과 통후추, 생강을 넣고 소주도 넣습니다.약 1시간 여정도 거품을 걷어내고 물을 보충하면서 끓입니다. 1시간 정도 지나면 된장과 고춧가루 1큰술을 넣고 다시 1시간 여정도 물을 보충하면서 끓입니다.",
+		"4. 2시간이 경과된 등뼈에 우거지와 대파. 청양고추. 감자를 넣고 30 여분 정도 끓입니다",
+		"5. 천연조미료를 1큰술 넣고 고춧가루. 소금을 넣어 30 여분 정도 더 끓이면 감자탕이 완성 됩니다.끓이는 시간이 대략 3시간입니다. 마지막에 간을 맞추고 그릇에 담아냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/17f76b431b6851691ecd83b7a1a0caf31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/e0b2e5187c7897b8979ad9acd86748c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/72fc2237e177a307d11c7a2fc171e5291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/5e19c41866912286df67be11e5b8ae2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/f620a0c1ea3ddc345765ac67e262978b1.jpg"
+	]
+}

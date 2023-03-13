@@ -1,0 +1,95 @@
+{
+	"id": "6905236",
+	"name": "LA갈비구이, 양념까지 맛있게",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/cb9fd6568c98fc0456cd7c9a9560a50a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6905236",
+	"ingredient_ids": [
+		379,
+		292,
+		995,
+		226,
+		458,
+		233,
+		660
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "LA갈비",
+			"ingre_count": "1.",
+			"ingre_unit": ".kg"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "130",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "65",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "130",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "2/3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "있으면배즙",
+			"ingre_count": "60",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 갈비를 찬물에 담가 3~4시간 동안 핏물을 빼주세요.물이 빨갛게 변하면, 물을 새롭게 바꿔주는 게 좋겠죠~",
+		"2. 체에 밭쳐 물기를 빼주면 된답니다.",
+		"3. 그 다음에 달라붙어 있는 비계를 썰어내 버려주면 갈비 손질 끝.",
+		"4. 위에 써진 갈비 양념 재료들을 다 넣고 섞어주세요.부드러운 식감과 달달한 맛을 원하면 배즙을 추가로 60ml 더 넣어주는 걸 추천.",
+		"5. 볼에 갈비를 담아준 다음, 그 위로 양념을 뿌려주세요.",
+		"6. 그리고 다시 갈비를 담아준 다음, 그 위로 양념을 뿌리는 과정을 반복해주세요.이제 냉장고에 넣어 반나절 ~ 하루 동안 재워주면 더욱 맛있게 즐길 수 있답니다.",
+		"7. 예열된 냄비에 갈비를 넣고 약불~중불에서 양면 구워주세요.",
+		"8. 이때 식용유 대신에 양념을 넣어가며 구워주면 된답니다.",
+		"9. 완성된 양념갈비 위에 통깨 or 잣가루를 뿌려주면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/a3803e8e1bd06f3f092db30bfdc58ee71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/7d1eee1a9a7cdc6ee7edf4d2122089b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/644139fb89b18c21ffa084dae49635bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/97c688c43dc6123d4fe8f0dcd38b6cd51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/26453c5a7253dfaf33bc2fd206e227eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/54b2cc1f7fd045e605db85ff027879f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/ebb421cc9acbe0deae95d0fa73ee81861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/cf8478993e903003ab91d2c01b8c97851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/30e6d6ef1de32149fd6fa4042f6533f91.jpg"
+	]
+}

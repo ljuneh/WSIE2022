@@ -1,0 +1,64 @@
+{
+	"id": "6835584",
+	"name": "황태의 진한맛을 느끼는 황태조림만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/c14638b53050add3cde099dedff793761.jpg",
+	"url": "https://www.10000recipe.com/recipe/6835584",
+	"ingredient_ids": [
+		527,
+		3,
+		379,
+		29,
+		660,
+		575
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "황태",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 일단 황태머리는 따로 잘라서 육수를 만들어 놓습니다. 나머지 황태는 그냥 간단히 손질해도 좋겠지만 어른들이 드실꺼라 일일히 가시 빼는 작업을 다해서 절단을 했답니다.",
+		"2. 물에 한번 불려서 다시 찜을 하기도 하지만 바로 조림을 하기에 따로 물에 불리는 작업을 하지 않았습니다. 황태머리로 끓인 육수에 바로 담구어 양념을 하고 바로 졸이기 시작했답니다. 부드러운 식감을 느끼기위해 물을 많이잡고 푹졸이다 보니 황태찜보다는 황태조림이 되어버렸답니다.",
+		"3. 양파 듬성듬성 썰어놓구 고추가루는 색깔만내고 간장, 간마늘, 올리고당, 참기름으로만 간을해서 졸이기 시작했답니다.",
+		"4. 국물이 어느정도 없어질때 까지 40분정도를 중불에 졸인듯하네요. 무가 있었으면 무도 넣으면 좋았겠다는 생각을 합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/bb7d916b310e22bcf7a5d107084fa1371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/864738dac3d9b004d09e16f2bd031eda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/09138c4fe18f78173bb66fddac8b75701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/7998dd34e19d1582ed592cd844b814901.jpg"
+	]
+}

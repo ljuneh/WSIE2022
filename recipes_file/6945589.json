@@ -1,0 +1,86 @@
+{
+	"id": "6945589",
+	"name": "굴국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/977bfb8d2a9d990e7840df90ebc906b51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945589",
+	"ingredient_ids": [
+		82,
+		295,
+		90,
+		320,
+		497,
+		995,
+		349,
+		390,
+		233
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "굴",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비한다",
+		"2. 무는 나박 썬다 청양고추는 씨를 제거하고 한 개만 어슷 썬다 마늘은 껍질을 까고 다진다 멸치는 내장을 제거하고 머리까지 사용한다 다시마는 마른행주로 겉표면을 닦는다",
+		"3. 약한 불에 멸치를 넣고 살짝 볶는다",
+		"4. 3재료에 물과 다시마 고추 무 국간장 새우젓을 넣고 약불에 15분 육수를 우려낸다",
+		"5. 체에 걸러진 육수에 무를(육수 낼 때 사용한 무) 넣고 끓어오르면 굴을 넣어 익힌다. 마지막으로 어슷 썰어둔 청양고추를 넣는다",
+		"6. 준비된 그릇에 다진마늘 올려 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/0b20b0e86562d7d06049ba49f49ad7e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/bd98cf2a30d5a521fb9573d469f877ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/b8d3a1d3d2f4ed089807fba97e6785f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/1cad46f095a1ba8d27fb46d0cb1922b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/9ac8f6e5131dfcbb0d71cee5e889f1e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/11d23935e446368afc6085887bd828c71.jpg"
+	]
+}

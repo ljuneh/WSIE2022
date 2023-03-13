@@ -1,0 +1,49 @@
+{
+	"id": "6849703",
+	"name": "껍질홀라당 달걀 삶기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/21/df789976e5600ec0e1d9f1409009e9391.jpg",
+	"url": "https://www.10000recipe.com/recipe/6849703",
+	"ingredient_ids": [
+		219,
+		497,
+		231
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "10",
+			"ingre_unit": "개정도"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 상온에 보관한 달걀은 괜찮지만.. 냉장고 보관한 달걀은 물에 담가 온도차이가 나지 않도록 합니다. (10분정도) * 삶기전에 물에 한번 씻어 주는것도 좋아요. 계란껍질에 살모넬라균이 있을수가 있어요.",
+		"2. 한번 씻은 달걀에 물을 충분히 부은후 소금 1/2숟가락을 넣고",
+		"3. 식초도 1/2숟가락을 넣어 줍니다. * 달걀 삶을때 물비율은 달걀이 충분히 담길정도의 물을 부어 줍니다.",
+		"4. 뚜껑을 닫고 중불에서 삶기 시작하다가 끓기 시작하면 약약불로 조절... 15분 삶아 주어요..(완숙 완성) * 가스불과 달걀양에 따라서 가열시간은 달라질수 있어요.",
+		"5. 삶은 달걀은 찬물에 샤워 시켜 주어요. * 달걀이 미지근해질때까지 찬물에 담가 둡니다.",
+		"6. 달걀이 식으면 껍질을 까면 됩니다.. 홀라당 이뿌게 까졌지요?",
+		"7. 달걀이 완전히 식지 않고 잘랐을 경우에 노른자가 사진처럼 깨질수 있어요.",
+		"8. 완전히 식은후에 달걀을 자르면 이뿌게 잘 자를수가 있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/21/0737a0365e33f62e6e6a22839acde3571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/21/77fd30352215e01a06c162eeed75f0601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/21/a8db9e0231bcee221772d51af63447a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/21/21cbc586da6f3506cdfa2cd65f8354b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/21/1c0cc4003831c18e6be739335094100f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/21/81e8c4157d720e396b755ca7149571e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/21/553c34f8b6aad95f32b1c15a4f510a071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/21/18e242db8246aa9abc228f3f0671cc3a1.jpg"
+	]
+}

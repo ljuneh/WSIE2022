@@ -1,0 +1,71 @@
+{
+	"id": "6945294",
+	"name": "야채 베이컨 부침개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/eddb935f3d319a2283b7c7419adddf401.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945294",
+	"ingredient_ids": [
+		387,
+		995,
+		7,
+		911,
+		3,
+		9,
+		406
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		}
+	],
+	"recipe": [
+		"1. 부침반죽 그릇에 부침가루 반컵과 물 반컵을 넣고 가루가 보이지 않도록 묽은 반죽물을 만들어 주세요  물을 한꺼번에 다 넣지 말고 부침가루를 풀어가면서 넣어 주면서 조절해 주세요",
+		"2. 야채를 곱게 썰어서 넣어줍니다",
+		"3. 베이컨 1개를 가위로 작게 잘라서 넣고",
+		"4. 골고루 섞어주세요",
+		"5. 웍에 식용유를 넉넉히 두르고 예열한 후 반죽을 넣어주세요 중불에 가장자리가 노릇해 지면 뒤집어 주세요 반죽물 위에 식용유 조금 뿌리고 뒤집어 주는 방법도 있어요",
+		"6. 이번에는 아이가 주문한 대로 야채를 적게 넣고 만들었어요",
+		"7. 베이컨이 짜지 않아서 간장이나 머스타드 등 기호에 맞게 소스를 곁들여 먹어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/40751c45954fd3c582be484b705481131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/511f886635e8a3e7ed55a0c178d20e261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/e7690d3f1a6763301cb1334c71ced2871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/eea84823361a67924be45733a3e344f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/dc2e10fd4817f2167c08f47a3ff488ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/b6736e9890e9564feeff6971b986a0cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/348121bdbfbb89fde63f745d901ad0a91.jpg"
+	]
+}

@@ -1,0 +1,118 @@
+{
+	"id": "6943301",
+	"name": "버터 볶음밥 # 폭립 야채볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/405e615d855f427564e901ddd380f23d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943301",
+	"ingredient_ids": [
+		9,
+		55,
+		58,
+		3,
+		219,
+		15,
+		226,
+		477,
+		226,
+		379,
+		198,
+		290,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "폭립",
+			"ingre_count": "7",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "흑마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/5",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 야채를 먹기 좋게 썰어주세요 팽이버섯은 밑둥을 자르고 손으로 찟어 주세요",
+		"2. 물 2~3T 에 당근을 익혀주세요 물이 증발하면 식용유를 두르고 버섯과 함께 볶아주세요 설탕 1T, 흑마늘 소금 1/5T, 굴소스 1T 를 넣고 양파를 넣어 함께 볶아주세요",
+		"3. 달걀 2개에 설탕 1T 넣어 골고루 섞어주세요 팬에 식용유를 두르고 예열한 후 달걀물을 부어줍니다 달걀 바닥이 익으면 둥그렇게 돌려서 섞어 윗면을 익혀주세요",
+		"4. 달걀을 한쪽으로 밀고 밥 한공기를 넣고 팬 바닥에 간장 1T 를 끓인 다음 밥을 섞어주세요 버터 1조각과 식용유를 1/2T 두르고 달걀과 같이 볶아주세요",
+		"5. 폭립을 잘라서 소스를 넣고 약불에 데워주세요 볶은 야채 위에 폭립을 올리고 썰어놓은 깻잎과 갈아놓은 깨를 뿌려주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/1aab0e0e2041db3528a5c57b33aac2a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/bbdd12b2299017d8b0be767e3b28b06d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/8436a92828fe03ddf3f56deab68599dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/ee45f51b5556cefd3e87b326ddeaea941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/9aadb07ba7bca42d0a9c6acdbf8393571.jpg"
+	]
+}

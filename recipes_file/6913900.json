@@ -1,0 +1,67 @@
+{
+	"id": "6913900",
+	"name": "초간단 연두부달걀볶음 다이어트에도 굿~!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/06/13/f3c53e290840ec09a870b7b6ac1f67261.jpg",
+	"url": "https://www.10000recipe.com/recipe/6913900",
+	"ingredient_ids": [
+		219,
+		683,
+		497,
+		30,
+		660
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "연두부",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "방울"
+		}
+	],
+	"recipe": [
+		"1. 달걀은 소금, 후추 굵직하게 갈아넣고 잘 풀어 놓아요 우유 살짝 넣고..",
+		"2. 팬에 오일둘러 키친타올로 닦은 후 에그스크램블 처럼 만들어요",
+		"3. 쓱쓱~ 두어번 저어 달걀이 익어간다 싶을때 연두부 1팩넣고 저으며 잘 섞어 줍니다",
+		"4. 쉐킷쉐킷~~ ㅎ",
+		"5. 냉동실에 두었던 부추  쪼매넣고 같이 볶아요 부추대신 쪽파, 대파 등 어떤 것이든 좋아요",
+		"6. 참기름 톡~~ 한 방울 넣고 마무리 합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/13/18d80f54e7f28883fee4b40c336625b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/13/da9df4c5d519ec7df31c2a668a48ed601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/13/dda280e58c3ebe1ae2cae478119feac61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/13/112cb331cb4224e1e49d4c44278c1b501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/13/b1772b8e05dea805f8dfa81463eb15d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/13/a1310e8dce6686a5746e763ccc5658931.jpg"
+	]
+}

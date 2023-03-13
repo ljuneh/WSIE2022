@@ -1,0 +1,50 @@
+{
+	"id": "6945028",
+	"name": "BCC 쥬스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/4909aa016e65a2f3dda9b2a9a8400b431.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945028",
+	"ingredient_ids": [
+		141,
+		44,
+		9
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "비트",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물1/2컵등",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵 등"
+		}
+	],
+	"recipe": [
+		"1. 컵은 종이컵 기준이구요. 믹서에 갈기 좋겠금 썰어줍니다. ",
+		"2. 물 반 컵이 필요해요. ",
+		"3. 물을 먼저 믹서에 넣어주는 것이 재료들이 잘 갈리지요. 그 다음 바나나를 넣어줍니다. ",
+		"4. 비트도 넣어주고요. ",
+		"5. 당근도 넣어주고요.",
+		"6. 곱게 갈아줍니다. 이 때 재료들은 모두 날 것을 그대로 갈아준 것입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/4b6e683587074f43ab5d8df404db3d851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/f7f6182eba2b8a6a4b12a3f3daeb08701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/59aed2c628da9ca9d3c7c878ff15a7bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a53ca5fe6865928da079a665bc2e18111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/35017051661ea1841d99523c52944fb41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/1b74395077cc23fe96c16ee86d0f09cb1.jpg"
+	]
+}

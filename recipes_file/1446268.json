@@ -1,0 +1,93 @@
+{
+	"id": "1446268",
+	"name": "부드러운 육질의 LA갈비구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/24/874f07c6d62e69cbacf1db3b7137128b.jpg",
+	"url": "https://www.10000recipe.com/recipe/1446268",
+	"ingredient_ids": [
+		158,
+		170,
+		3,
+		379,
+		226,
+		233,
+		350,
+		660
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "LA갈비",
+			"ingre_count": "680",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "배즙2팩or배1/4개",
+			"ingre_count": "2팩 or 배1/4개",
+			"ingre_unit": "팩 or 배개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "키위",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 고기를 찬물에 담궈서 핏물을 제거해줍니다. 찬물을 1~2번 갈아준 다음 체에 바치고 이번에는 고기를 배즙에 재웁니다. 배를 즙을 내서 써도 좋구요. 요즘같이 배가 비싼 계절에는 배즙을 이용해도 좋아요. 배즙에 재워서 2시간 정도 냉장숙성시켜 주면 단맛도 배이고 핏물도 제거됩니다.",
+		"2. 2시간 후에 배즙은 버리고요. 양파, 사과, 키위를 다시 즙을 냅니다.",
+		"3. 이 즙에다 간장 5큰술, 설탕 3큰술, 후추를 약간 뿌려서 그 국물에 다시 30분~1시간정도 고기를 재웁니다.",
+		"4. 2차 재움후에 국물은 따라내고요. 다진 파, 마늘, 깨소금, 참기름을 넣고 살짝 버무려서 잠시 나둔 다음에 따라낸 국물은 1/2정도의 양이 될정도로 살짝 졸여주세요. 이 졸인 국물로 오븐구이할 때 덧발라 줄 겁니다.오븐",
+		"5. 그런 다음에 파, 마늘, 깨소금, 참기름으로 버무려진 고기를 180도 예열한 오븐에 넣어 10분정도 구운 다음에 졸인 국물을 덧발라주고 다시 굽고 굽다 뒤집어서 국물 덧발라주고를 반복하세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/6038c1ae838a5603b117cf9b3965b37e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/9b9b8314af50532fcc10c691c88fd93f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/c30264ac1bee0654a81ad47dc77870321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/7f77ddc995206867a2d20d299363ee381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/10dc5dd60ad0fb7864494c8e3d4d397a1.jpg"
+	]
+}

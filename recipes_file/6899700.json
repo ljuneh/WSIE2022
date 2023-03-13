@@ -1,0 +1,81 @@
+{
+	"id": "6899700",
+	"name": "버섯덮밥 만들기. 간단한끼. 간단한 저녁메뉴 아침메뉴 점심메뉴",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/514e330a134fc7d7521241e74a7da69a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6899700",
+	"ingredient_ids": [
+		995,
+		3,
+		295,
+		226,
+		379,
+		660,
+		290,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 버섯을 손질해야죠. 한번 흐르는 물에 헹궈주고 표고버섯과 새송이버섯은 채 썰어주세요. 느타리버섯은 손으로 찢어주세요.",
+		"2. 양파 반개도 채 썰어 주세요.",
+		"3. 팬에 식용유를 살짝 둘러주고, 다진파와 다진마늘을 넣고 먼저 볶아주세요.",
+		"4. 썰어놓은 버섯과 양파를 넣고 볶아주세요.",
+		"5. 물을 종이컵 한컵정도 부어주세요",
+		"6. 매콤한 걸 좋아하시는 분들은 청양고추를 두개 썰어 넣어주세요. 저는 청양고추 넣는게 맛있더라구요.",
+		"7. 굴소스 1T, 설탕 1/2T, 간장 1T를 넣고 끓여주세요.",
+		"8. 물이 졸아들면 후춧가루 살짝, 참기름 1/2T를 넣고 마무리",
+		"9. 완성 휴일의 아점.. 버섯덮밥 간단하게 만들어 맛있게 먹을 수 있어 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/b065d2bfba3a3b2827910a96e6e2b4a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/d2988f632100abad115212b5414b08731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/b904a94d26fb288d5b412afd8865cc211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/8bd532c87071c08e4d95d2281e2bde711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/c69899e2cc85c63d88b7f9f9c388e8a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/cdf30bb1eb234c46f3dd0675c358fb871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/f9d34a5c7d9af1c63f3d54f6480a62d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/4108b4c18c30decf0d61da3469d586a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/0f7f5312daf3e9c0fd73c4310c16e2941.jpg"
+	]
+}

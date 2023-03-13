@@ -1,0 +1,60 @@
+{
+	"id": "6943510",
+	"name": "(추석요리활용)초간단 생선지짐(흔히 말하는 간고기라고 하죠~)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/dfc7d019b2ba0c9953033e85a1d745c51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943510",
+	"ingredient_ids": [
+		5,
+		29,
+		995,
+		379
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1.5~2큰술",
+			"ingre_unit": ".~큰술"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1.",
+			"ingre_unit": ".개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.5~2컵",
+			"ingre_unit": ".~컵"
+		},
+		{
+			"ingre_name": "간고기",
+			"ingre_count": "2.5~3마리",
+			"ingre_unit": ".~마리"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "0.5~1큰술",
+			"ingre_unit": ".~큰술"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 무가 있으면 감자대신에 무를 깔아주세요(집에 무가없어서 있는걸로만 했어요..)적당히 자른 감자를 밑에 깔고 간고기를 올려줍니다.물은 생선에 잠기게끔 부어줍니다 (사진에 생선은 조기랑,고등어입니다)",
+		"2. 중불로 켜고 채썬 파와 고춧가루,마늘을 넣고 어느정도 끓여줍니다.간을 보시고 간간하다 싶으시면 간장을 안넣으셔도 되고 싱겁다 싶으시면 간장을 넣어주시면 돼요.간장을 안넣으실거면 간보시면서 다시다를 추가해주셔도 맛있어요..",
+		"3. 저는 조리면서 간을보니 간이맞아서 간장이나 다시다를 안넣고 조렸어요.(생선이 워낙 많이짜길래.. 안넣어도 되겠더라구요)양념에 잘 배여서 맛있게 조려졌어요~ㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/8c9989caa38908f2dd458fb1ecc429361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/89766d734c39a50ddb59d6ff4646340d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/0bce77bcda00795d1d56a5ec64a76eb21.jpg"
+	]
+}

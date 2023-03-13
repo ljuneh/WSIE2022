@@ -1,0 +1,52 @@
+{
+	"id": "6942505",
+	"name": "[우리품종 경기미 참드림]쌀알동동 식혜만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/df103839072bc2891591e97bb2843b441.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942505",
+	"ingredient_ids": [
+		96,
+		995,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "엿기름",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 칠갑농산 엿기름 200g을 면포에 넣고 물 3L에 불려요",
+		"2. 조물조물 주물러 하얀 물이 나오게 해요",
+		"3. 우리품종 경기미으로 밥을 지어요",
+		"4. 2시간 정도 엿기름 불린 물을 가라앉히고 윗물과 쌀밥을 보온밥솥에 넣고 보온 버튼을 눌러요",
+		"5. 6시간 이상 보온하고 쌀알이 둥둥 떠오르면 냄비에 담아 설탕을 넣고 끓여요",
+		"6. 끓으면서 나오는 거품을 걷어내요",
+		"7. 차갑게 식혀서 먹으면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/0c1477a9b31ee7266eed777555ea734a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/9f09e2cd61fc424f4d1df6e0dd8e80ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/27b6cc7bab46719e9481d67dc7f05bfc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d5e0e51b27b406e96e927cb290a063fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/05209bd68fd1ee8a79c937514326496c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a9abad1a6c2998582138d745434196761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/10e698f88bda6f83c4d17dcf647981a11.jpg"
+	]
+}

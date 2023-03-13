@@ -1,0 +1,32 @@
+{
+	"id": "6597866",
+	"name": "간단하게 뚝딱! 제일제면소 탄탄면 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/b000a465edaeb5b9d5fb8cdee0a3510e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6597866",
+	"ingredient_ids": [
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "재일제면소탄탄면",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 탄탄면사리와 소스+지마장, 건더기 스프까지 4개씩 4인분 포장되어있어요.",
+		"2. 물 400ml에 탄탄면사리와 건더기스프 넣어 3분 30초간 끓이고,",
+		"3. 불 끈뒤 탄탄면소스와 지마장을 넣어 잘 섞어주면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/f59848b40abcac491c7547be5ffedcc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/8060f1eb08655047862fef180bb2d58c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/37b2d1e3d50c99139e4e0da9e26092c71.jpg"
+	]
+}

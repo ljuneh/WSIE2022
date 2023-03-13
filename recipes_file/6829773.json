@@ -1,0 +1,38 @@
+{
+	"id": "6829773",
+	"name": "100% 진짜 포도쥬스 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/39cdbf52cea2d923afa1084b52796bcc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829773",
+	"ingredient_ids": [
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "먹다남은포도",
+			"ingre_count": "3",
+			"ingre_unit": "송이"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "종이컵"
+		}
+	],
+	"recipe": [
+		"1. 우선 포도를 알알이 따주세요.",
+		"2. 은근 더러운 포도를 베이킹소다에 씻어줍니다. 베이킹소다만 믿고 그냥 살랑살랑 흔들어 씻어줍니다.",
+		"3. 냄비에 깨끗히 씻은 포도알을 넣은 후 설탕을 뿌려 줍니다.",
+		"4. 밑에 물을 살짝 깔아주고 불을 올려 끓여주세요.",
+		"5. 즙을 내리기 위해 체반에 끓어 푹 물러진 포도를 받쳐 긁어주며 즙을 내려줍니다.",
+		"6. 다 내려진 포도즙은 원하는 농도가 될 때 까지 바글바글 끓여주면 일명 포도엑기스 만들기 끝!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/92030ac540d951c0a85404342b9cc9f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/9d45f107e1259bdd879ff5a033ebb7c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/a8675a05d6492a71f48b6e0f4e18c9491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/297f1af4612d26ea513ced6b8fdc96101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/8e3ccafcc470cf39eeeb507b5a6d0d461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/688241e7b475c4883c683613d9aaa9f71.jpg"
+	]
+}

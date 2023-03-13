@@ -1,0 +1,70 @@
+{
+	"id": "6941502",
+	"name": "가지X두부 콜라보 레시피_가지두부된장덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/0077dee114ed14b87b32cd0fe898706f1.png",
+	"url": "https://www.10000recipe.com/recipe/6941502",
+	"ingredient_ids": [
+		323,
+		18,
+		504,
+		848,
+		843,
+		233
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 가지를 깨끗이 씻어 손질합니다.  1. 꼭지를 칼로 비스듬히 썰어 제거합니다.  2. 가지를 세로로 반을 갈라 줍니다.  3. 반으로 가른 가지를 세로로 4등분해 줍니다. 4. 두부와 비슷한 크기로 작게 썰어 준비합니다.",
+		"2. 두부 반 모를 물에 한 번 씻어 주고 깍두기 모양으로 작게 썰어 준비합니다.",
+		"3. 양념장을 골고루 섞어 만들어 준비합니다. (된장 1T, 매실액 1T, 다진 마늘 1/2T, 생수 3T)된장이 뭉치지 않게 잘 섞어주세요~",
+		"4. 중불에서 프라이팬에 식용유를 둘러 주세요.",
+		"5. 두부와 가지를 프라이팬에 넣고 표면이 노릇노릇 할 때까지 기름에 잘 익혀줍니다.",
+		"6. 양념장을 두부와 가지에 부어 물기가 줄어들고 자작해질 때까지 졸여줍니다.",
+		"7. 따뜻한 밥 위에 만들어진 가지두부된장조림을 얹어서 함께 드시면 맛있는 가지두부된장덮밥 완성입니다^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/9f576e42d7499b9d603ffd67258ed4e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/232f2654591ecce0d34aac966617c3d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/1423977b520499d0d1529a5b2b20961f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/0139e6b4ec2a5d8ef54a7af69ff64f101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/58843d46d23f8c3f9e2b659299d277df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/f41fe330f54bed8150e0020c029d62871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/43462a118afbadee17d873ef069fd60d1.png"
+	]
+}

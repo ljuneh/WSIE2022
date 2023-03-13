@@ -1,0 +1,65 @@
+{
+	"id": "6839097",
+	"name": "연근고추장들깨조림/연근매운조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/03/c8f4b2830c4481eabed9c8cb14cf4d8a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6839097",
+	"ingredient_ids": [
+		24,
+		547,
+		575,
+		738,
+		337
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "연근",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장수북히",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유또는물",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2~3큰술",
+			"ingre_unit": "~큰술"
+		}
+	],
+	"recipe": [
+		"1. 고추장 수북이2큰술, 양조간장 2큰술, 식용유2큰술, 올리고당2큰술을 넣고 양념장을 끓인다 *간장은 고추장의 염도에 따라 양을 조절해주세요",
+		"2. 물에 잠시 담갔다 뺀 연근을 넣어 양념과 잘 섞이도록 뒤적인다",
+		"3. 약불로 낮추고 뚜껑을 덮어 연근을 은근히 졸인다",
+		"4. 조청 한큰술을 넣어 단맛과 윤기를 추가한 후 불을 끄고 들깨가루를 넣어 잘 섞어준다",
+		"5. 마지막에 개피하지 않은 들깨가루를 조금 뿌려주었다, 참깨로 대신해도 좋다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/03/77db80d5ca9aab2760b56db307a761451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/03/fec833cb027c21188445aae247854ead1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/03/cf8ad7f04b17756e7655dfa6f1c5c2fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/03/8a184dc1f971d42cf6b01208dbdc5f241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/03/30d5c10d7e4e09a81252b2878f2e2b011.jpg"
+	]
+}

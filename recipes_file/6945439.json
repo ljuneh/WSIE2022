@@ -1,0 +1,109 @@
+{
+	"id": "6945439",
+	"name": "점심 메뉴 추천/집에서 만든 참치 김밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/9ea440bc06e273f95862773a8708a76a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945439",
+	"ingredient_ids": [
+		95,
+		327,
+		350,
+		8,
+		219,
+		496,
+		228
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔소",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "가는소금",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "냉장고속볶은어묵",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "가는소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 오이는 중앙에 씨를 도려내고 소금을  뿌려서 10분정도 절궈준다.",
+		"2. 10분쯤 지나서 흐르는 물에 소금기를  씻어낸 뒤 키친타월을 이용하여 물기를  제거하고 코팅 수준의 식용유를 넣은  팬에 살짝 볶아낸다.",
+		"3. 시중에 파는 단무지.",
+		"4. 어묵은 딱딱해졌으면 물 3T와 굴 소스 1ts, 간장 1ts 로 바글바글 끓이다가  볶은 어묵을 넣고 다시 익혀 부드럽게 만든다.",
+		"5. 달걀 4개는 소금 한 꼬집을 넣고 잘 풀어서 지단을 부쳐 채 썰어주었다. 김밥에는 달걀이 많이 들어가야 맛이 좋은 것 같은 개인 생각~~ ㅎㅎ",
+		"6. 참치 캔은 국물을 따라버리고  마요네즈 2T와 후추 톡톡으로 잘 버무려서 준비한다.",
+		"7. 따뜻한 밥 2공기는 들기름 2T, 깨소금 1ts,  가는 소금 1ts를 넣어 잘 섞어준다.  밥 두공기면 김밥 3줄정도로  적당한 양인것 같다.",
+		"8. 순서는 본인의 식성에 맞게 올려서 돌돌 말아주면 될것 같다.",
+		"9. 잘 말아 준 김밥은 팬에 한 번 구워주면 김도 팽팽해지고 맛이  더 좋은 것 같다.",
+		"10. 김밥을 자를때 칼에 기름을 발라주면 김밥 썬 모양이 예쁘게 나온다. 밥알이 달라붙지 않아서이다.",
+		"11. 맛있는 참치 김밥이 완성 되었다. 아들과 며느리가 맛있게 먹었노라고~ 그렇게 문자가 왔다.  맛있게 먹어줘서 나도 고마워 ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/6f0e8f56dbf4bb24052626633116be5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/4bf86fec7bac80eeacfd776e6ba625831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/4aa223cc998955b7e84da7da013205841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/8f544443042098de3832086426cd142c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/0dd2bdc2334c27eecbbceffa899a2eb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/3d6ac9e97d1e0e92b72acadf9126266a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/8ed7bcc08ea5f8c34cd549a7d80a0d831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/77c182d2c664a4744a8cf070298a489a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/ef4624e32febe37155ec01dc016f34ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/0b235078b33980748db4f52652a79b131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/067cec425d4749fa7e2132ef7e687ca51.jpg"
+	]
+}

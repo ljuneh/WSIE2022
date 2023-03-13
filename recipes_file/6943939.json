@@ -1,0 +1,61 @@
+{
+	"id": "6943939",
+	"name": "꼬지전 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/ebdc91d1c3c334decf77285c85c032de1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943939",
+	"ingredient_ids": [
+		289,
+		219,
+		757
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "5~6개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "김밥용햄",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1/2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "꼬지",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 쪽파는 깨끗하게 씻어서 3등분정도로 썰어둡니다.",
+		"2. 맛살은 절반으로 잘라주시고, 그 절반을 또 길게 절반으로 나누어줍니다.",
+		"3. 김밥용 햄은 2등분으로 나눈 다음 선을 따라 길쭉하게 썰어주세요.",
+		"4. 꼬지에 맛살-쪽파-햄-쪽파 순서로 끼워줍니다. 시작과 끝은 맛살이 담당해주면 되요.",
+		"5. 그리고 아래쪽을 다듬어 주시면 됩니다. 위쪽으로 들쭉날죽하면 썰어주셔도 되긴 하시면 처음부터 높이를 맞춰가면서 끼우는 연습을 하시는게 좋아요.",
+		"6. 달걀은 골고루 풀어주시는데 간을 하고 싶으시면 소금을 살짝 치셔도 됩니다.",
+		"7. 곱게 푼 달걀에 꼬지를 넣고 앞뒤로 골고루 달걀 물을 묻혀줍니다.",
+		"8. 식용유를 조금 넉넉히 넣은 팬에 달걀물을 입힌 꼬지전을 넣고 구워주세요. 이때 벌어지는 부분이나 달걀이 부족하다 싶으면 바로 위에 달걀물을 뿌려줍니다. 벌어지지 않게 조심하시구요. 앞뒤로 노릇해지면 꺼내주세요.강불에서 중불",
+		"9. 그릇에 담아서 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/5547ef435ef8a09612479b39a9f9696f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/8891f268baf540e3196392ee71a31a571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/0710efef6600fa7755123cb2a6750b2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/07fda9bf278d7c7301e31922f05f1ab71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/4326987adf9f1ae645a1e33bfef8806f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/ca21a62e304cb88edfe05a13e9702ec01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/72ce5ace8020e7cb3e2bbc10f769cca91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/15c6d567985db624a09fddb229fac33d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/087395c6e59a86e96d5350235d2938c71.jpg"
+	]
+}

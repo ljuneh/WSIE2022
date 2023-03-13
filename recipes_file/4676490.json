@@ -1,0 +1,43 @@
+{
+	"id": "4676490",
+	"name": "머랭쿠키 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/7c3e579ea8832b1009d1e186956b09b3.jpg",
+	"url": "https://www.10000recipe.com/recipe/4676490",
+	"ingredient_ids": [
+		226
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀흰자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라빈",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 반죽기를 사용하여 달걀흰자는 알끈을 제거하고, 바닐라빈은 길이로 반 갈라 속을 긁어 넣고 반죽기에 거품기를 세팅하고 거품을 내주기 시작합니다.",
+		"2. 설탕을 3번정도 나누어 넣어주면서 거품기를 돌려 줍니다.",
+		"3. 단단한 머랭 완성입니다.",
+		"4. 1회용 랩백에 머랭을 넣고 한쪽 귀퉁이를 잘라줍니다.",
+		"5. 오븐팬에 적당한 크기로 짜줍니다.",
+		"6. 100도로 예열된 오븐에 넣고 1시간 정도 천천히 구워 주었답니다.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/a9a9be2eac210556cf2eedaae54364191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/35e7c8f6123ae57bdacb60ba0fa79de11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/8db6ba1b1e1f05ee41ef6fc65574ea031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/282c3fa743ba459ad7a240d18b00b2c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/482da491de348223fa6b2c4bfbd4abe71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/71008e7ca2539e831e5a8ad3e23329c71.jpg"
+	]
+}

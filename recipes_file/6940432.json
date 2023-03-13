@@ -1,0 +1,91 @@
+{
+	"id": "6940432",
+	"name": "아삭하고 매콤한 우엉무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/2eae4f70aeed7f52c86baba0830aa73a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940432",
+	"ingredient_ids": [
+		231,
+		473,
+		226,
+		843,
+		233,
+		295,
+		660,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "탈피한우엉",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 필러로 우엉껍질을 벗겨주세요. 껍질을 벗기고 난 후 우엉무게는 350g입니다.",
+		"2. 우엉을 7cm정도의 길이로 자른다음 채썰어주세요.",
+		"3. 우엉의 갈변과 아린맛 제거를 위해 물1L에 식초 2숟가락을 희석시켜 3분정도 담궈주세요.",
+		"4. 식초물에 담궜던 우엉을 물에 2번정도 씻은다음 물기를 제거해주세요.",
+		"5. 분량의 양념장 재료를 함께 섞어 양념장을 만들어주세요. 매콤한 우엉무침을 만들기위해 청양고추를 다져넣었어요.",
+		"6. 물이 끓어오르면 찜기에 우엉을 넣어주세요. 우엉은 끓는물에 데쳐내면 영양소가 파괴되기때문에 꼭 찜기에 쪄주세요.",
+		"7. 찜기에 3분간 우엉을 쪄낸다음 한김 식혀주세요.",
+		"8. 우엉을 만들어놓은 양념장에 넣어주세요.",
+		"9. 우엉에 양념이 잘 베이도록 조물조물 묻혀주면 메콤한 우엉무침이 완성돼요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/6464e4e0421d09f44966137ee5fa4bc01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/cf8b7bea63c87d6afb1e4acb699d2c261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/b866c80f41590c7307ff744c9625649a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/0dff8df62cdc6a2cbf373b3d79959f371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/24a6ec608b966ce9a600da9323ab86131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/a20e724f72a8d5e84b995f72001c9ccc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/7a3b3d7864557b880f6a49a7cf34ad751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/c01b64f005ebed41e3e33e74c5d2d3531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/182341bbd999a5fea4140c2c74c57cf91.jpg"
+	]
+}

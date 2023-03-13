@@ -1,0 +1,87 @@
+{
+	"id": "1034424",
+	"name": "매실청을 넣은 소고기 장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/17/2a94c04fe919103d2b8474dddd0e75f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/1034424",
+	"ingredient_ids": [
+		221,
+		27,
+		27,
+		608,
+		226,
+		857,
+		938
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "한우홍두깨살",
+			"ingre_count": "600",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "20",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "청양고추4~5개(또는꽈리고추1줌)",
+			"ingre_count": "4~5개(또는 꽈리고추1줌)",
+			"ingre_unit": "~개(또는 꽈리고추줌)"
+		},
+		{
+			"ingre_name": "간장1컵(240ml)",
+			"ingre_count": "1컵(240ml)",
+			"ingre_unit": "컵(ml)"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "150",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 홍두깨살은 찬물에 30~1시간 정도 담궈 핏물을 빼서 준비 합니다. 메추리알은 소금을 1/3큰술 넣고 7분 정도 삶아서 껍질을 까서 준비 합니다. 냄비에 핏물을 뺀 한우를 적당한 크기로 잘라 대파, 월계수잎, 통마늘 10알, 통후추를 넣고 물을 충분히 부워 끓기 시작하면 15~20분 정도 끓여 줍니다. (중간에 생기는 불순물은 제거해 주세요.)",
+		"2. 고기가 삶아지면 따로 건져서 식히고 육수는 마늘과 파등을 건져서 깨끗하게 한번 걸러 줍니다. 식혀둔 홍두깨살은 결대로 먹기좋게 찢어서 준비 합니다.",
+		"3. 육수에 간장과 설탕을 넣고 섞어 메추리알을 먼저 넣고 끓여 줍니다.",
+		"4. 메추리알에 어느정도 간이 배면 찢어 놓은 홍두깨살과 통마늘10알, 청양고추를 넣고 끓여 줍니다. 5~10분 정도 간이 배게 끓이다가 마지막에 매실청을 넣고 마무리 합니다.",
+		"5. 청양고추와 매실청을 넣어 깔끔하고 개운한 맛의 짭짤한 밑반찬 소고기 장조림 완성. 질좋은 한우로 만들어 누린내 하나 없이 담백하고 아주 맛있어요. 간이 잘 밴 장조림도 메추리알도 맛있구요 마지막에 넣은 통마늘도 별미 랍니다. 청양고추를 넣으면 칼칼하고 개운한 맛이 있어 더 좋구요. 꽈리고추를 넣어도 맛있어요. 어린아이가 있는 집에선 생략해 주셔도 좋구요. 맛있는 육수가 우러난 국물도 밥에 비벼 먹으면 참 좋아요. 간장과 설탕의 양은 입맛에 맞게 가감하시면 좋을것 같구요. 매실청을 넣으면 잡냄새가 나지 않고 깔끔하니 더욱 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/18/8bfe7574f0b21d06395a6a95c4e27ead1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/18/d88c2a7cfe7522a7405378348323a8061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/18/4d8dac0d26fbf3e4db2e0777e8cdaffc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/18/8b93a350695746563269b55ce403063f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/18/507bed1353ccb4bccde9ac342bcc68d71.jpg"
+	]
+}

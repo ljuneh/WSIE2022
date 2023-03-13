@@ -1,0 +1,56 @@
+{
+	"id": "6272864",
+	"name": "고소한 녹두찹쌀죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/a5613dbde2b6f1fe25c5fa4effdb9c181.jpg",
+	"url": "https://www.10000recipe.com/recipe/6272864",
+	"ingredient_ids": [
+		114,
+		99,
+		497
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "녹두",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물5컵이상",
+			"ingre_count": "5",
+			"ingre_unit": "컵 이상"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 녹두는 물에 불려 두세요",
+		"2. 녹두의 5배 이상 되는 물을 부어주고 삶아주세요.",
+		"3. 녹두는 삶으면서 거품이 일어나기 때문에 뚜껑을 열고 삶으면서 거품을 걷어내주고 뚜껑을 닫을 땐 약불로 줄여서 끓여주어요.",
+		"4. 약불로 한 시간 정도 푸욱 끓여주어야 하는데 요즘은 압력솥으로 금세 무르게 삶을 수 있어 좋더군요",
+		"5. 이 정도로 푸욱 무르게 삶아졌으면 도깨비방망이로 갈아주거나 푸드 프로세서에 넣고 곱게 갈아주세요.",
+		"6. 미리 불린 찹쌀을 넣어주고",
+		"7. 눋지 않도록 지켜 서서 수저로 저어가면서 정성스럽게 끓여주세요.",
+		"8. 찹쌀이 퍼질 때쯤 소금으로 간을 해주시고요.",
+		"9. 찹쌀이 익었다 싶으면 불을 끄시면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/f19a27c3f03f4a1ffb966b9bf61280451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/991d019ac5c07ad20722a32b2a8786a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/a4defc7b220f80db4b835b5e05ba4a161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/838c8b764870caec346ff92ed88cb5bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/37862309e2eec067e02bdbbb790980ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/fdf306a37a98a0b733a91ff186c70e9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/8f836986bff14cb00a6e6a9a936a2fc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/4d931af289021f3f24fe3c5ecf00d1b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/ee9d42e265ababf814cf0f0694c0174a1.jpg"
+	]
+}

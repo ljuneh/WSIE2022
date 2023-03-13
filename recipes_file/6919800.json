@@ -1,0 +1,48 @@
+{
+	"id": "6919800",
+	"name": "팽이버섯베이컨말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/09/28/e039d4d3e1181207a9d903fc733de5741.jpg",
+	"url": "https://www.10000recipe.com/recipe/6919800",
+	"ingredient_ids": [
+		406
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "6",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "노랑파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빨강파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팽이버섯1개​",
+			"ingre_count": "1",
+			"ingre_unit": "개 ​"
+		}
+	],
+	"recipe": [
+		"1. 파프리카 노랑, 빨간색을 1/4를 준비해 굵게 채 썰어주고 팽이버섯은 밑동을 자르고 준비합니다. ",
+		"2. 베이컨을 준비하고 그 위에 팽이버섯, 파프리카를 올리고 돌돌 말아 줍니다. ",
+		"3. 같은 방법으로 6개 말아주었어요. * 도시락에 넣어주려고 조금만 만들었어요.",
+		"4. 달군 팬에 베이컨 팽이버섯 말이를 올려 노릇노릇하게 구워 주세요.",
+		"5. 말아 놓았을 때 떨어져 있는 부분을 바닥 쪽으로 두고 굽기 시작하면 풀리지 않고 잘 붙어있네요. 혹시 떨어질까 봐 걱정되신다면 이쑤시개를 꼽아주고 굽고 난 뒤 빼주심 되겠죠~ ",
+		"6. 팽이버섯 베이컨 말이 완성 ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/28/3d1728e55117f24166d34e8fb1e336581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/28/a0edec594bfe91cc2cbb5332f08dc9251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/28/aa9ebb07d3e76fb4752b54a0db6904831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/28/4a481a1c379c4e86cc7e1ca7012449de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/28/9b2ac691c4f9568fa1a91a41368a7c321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/28/970af42594fad72a9fd3e51360e85bb91.jpg"
+	]
+}

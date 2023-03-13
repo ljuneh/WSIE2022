@@ -1,0 +1,91 @@
+{
+	"id": "6842284",
+	"name": "세가지 맛의 삼채나물초무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/22/655099ee6526e10108c27cbaa9cf34f91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6842284",
+	"ingredient_ids": [
+		473,
+		224,
+		231,
+		226,
+		233,
+		757,
+		543,
+		660,
+		250
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "삼채",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 시장에 갔더니 삼채가 나와있네요~ㅎ 쓴맛, 단맛, 매운맛의 세가지 맛이 난다고 하여 삼채라고 불리워 지는데요~ 국내에 소개된지는 2~3년 밖에 되질않았지만  뛰어난 효능 덕분에 인기가 높아진 삼채랍니다~",
+		"2. 삼채의 식이유황성분은 마늘의 6배,  사포닌은 무려 인삼의 36,000배, 산삼의 60배나 되어  면역력을 길러주고 성인병 예방에 도움을 주며  당뇨에도 효과적인것으로 알려져있어요~",
+		"3. 삼채의 꼭지 부분을 잘라내시고  흐르는 물에 깨끗이 씻어 너무 긴것들은 먹기 좋은 크기로 잘라 물기를 빼줍니다~",
+		"4. 고추장 1큰술, 고추가루 1큰술, 식초 2큰술, 설탕 2큰술, 간장 1/2큰술에 레몬즙을 살짝 넣어주시고 다진마늘과 쫑쫑 썬 쪽파를 잘 섞어  양념장을 만들어주세요~ 레몬즙은 준비가 되어있지 않으시다면 생략하셔도 상관없어요ㅎㅎㅎ",
+		"5. 물기를 뺀 삼채에 양념장을 넣어 조물조물 무쳐줍니다~",
+		"6. 통깨와 참기름으로 마무리를 해주시면 쌉쌀하면서도 새콤달콤한 삼채나물초무침이 완성~~!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/22/789db6275f6620dbe722950eea8b6a311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/22/adf8541c337b765b3a300fef41d528491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/28/470dfe76243044b48e2a51fd31aa97631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/28/67cefa242f2abc6a8352f30a1f324fbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/28/dba81d6f3a811f2d4dd1b2e7725febf41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/28/d63f126c278b90407f97204a3daa4da31.jpg"
+	]
+}

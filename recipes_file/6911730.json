@@ -1,0 +1,41 @@
+{
+	"id": "6911730",
+	"name": "카레라이스 만드는 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/05/06/87973810bbc181fc7eb654612f99dcab1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6911730",
+	"ingredient_ids": [
+		470,
+		292
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "카레",
+			"ingre_count": "",
+			"ingre_unit": "가루"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "",
+			"ingre_unit": "밥"
+		}
+	],
+	"recipe": [
+		"1. 냉동실에서 얼린 거라서 전날 밤에 냉장실로 옮겨놓고 해동시켰어요. 소금과, 후추, 맛술을 넣고 볶아줍니다. ",
+		"2. 고기가 다짐육이라서 야채들도 아직 작게 잘랐어요, 호박, 양파, 당근, 감자까지... ",
+		"3. 돼지고기가 익으면 감자와 당근, 양파를 넣고 볶다가 호박 순으로 딱딱한 야채부터 넣고 볶아야 하지만 야채들을 잘게 잘랐으니깐 한번에 다 넣어버렸어요.",
+		"4. 기름을 두르고 볶아주세요. 야채가 완전히 다 익지 않아도 괜찮아요. 물을 넣고 끓일 거니까요. ",
+		"5.  우리집은 묽게 말아서 먹는 편이라서 물을 넉넉히 부어주고 카레가루를 솔솔 넣어주면서 저어주세요. 요즘 카레는 따로 개지 않아도 잘 풀어진다죠.",
+		"6. 이제는 끓여줍니다. 물을 많이 넣어서 좀 걸쭉해지는 느낌이 날 때까지 끓입니다. ",
+		"7.  야채들이 작아서 잘 안 보이는 카레이지만 이렇게 작은 사이즈가 우리집에는 딱 맞아요 아이가 당근을 골라내서 작게 자르는 편이긴 하지만 오늘은 더 작게 잘랐어요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/07/517fa5da0ac285590a1566112f4ecfc01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/07/9832e16da0958805fa7ce5b478122f361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/07/d2a1dca46d2f6e4f07c0c560332904f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/07/7309b8c196a08a7c6ab451f73a04fad21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/07/b6655877f4796c91dacc40f0b62939501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/07/07f58da007173fcc19720a2f125a044d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/07/19c17e46e902c1c136027730fd1184a91.jpg"
+	]
+}

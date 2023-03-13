@@ -1,0 +1,90 @@
+{
+	"id": "6534643",
+	"name": "마약김밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/be51f16ca23bc2f150cf4d54a647b6c21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6534643",
+	"ingredient_ids": [
+		219,
+		628,
+		8,
+		496,
+		660,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "3",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "1/2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "게살",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우엉조림(선택)",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "검정깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 햄은 뜨거운물에 샤워 후 적당히 잘라 마른팬에 구워주세요.",
+		"2. 달걀을 잘 풀어 지단을 부쳐주시고 얇게 채썰어 주세요.",
+		"3. 오이는 겉부부만 잘라 채썰어주신 후에 굵은소금에 10분 정도 절여 두었다가 깨끗이 씻어 물기제거 후 기름을 두른 팬에 살짝 볶아주세요.",
+		"4. 갓 지은 밥에 소금, 참기름, 검정깨 넣고 나무주걱으로 칼로 자르듯 섞어주세요.",
+		"5. 김은 위이의 크기로 잘라주시고요.",
+		"6. 김 위에 밥을 펴 놓아주시고 단무지, 게살, 오이, 달걀, 우엉을 놓아 돌돌 말아주세요. 속재료는 취향껏 준비해 주세요.",
+		"7. 마약김밥 완성입니다. 소스에 찍어먹어도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/853c31a6bb6153380a395fffc5213d2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/79ffb7c2742c4c55e42257acdfe7a9641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/b0f20721a6c39b839a35a59e38e464401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/3e4ad025769a7bbd25f0db3611d029b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/9583ac4c2abb9449a7fde527653b61741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/53e0ef723ce576adab521a1fb6f705a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/2003dde676e8520bfdfced9bc319348d1.jpg"
+	]
+}

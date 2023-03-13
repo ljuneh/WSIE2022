@@ -1,0 +1,91 @@
+{
+	"id": "2397352",
+	"name": " 알타리김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/a741350f5a00051e3dc889a5150450da.jpg",
+	"url": "https://www.10000recipe.com/recipe/2397352",
+	"ingredient_ids": [
+		224,
+		29,
+		28,
+		757,
+		390,
+		995,
+		667,
+		824,
+		497,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "알타리",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "콩물",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고구마전분",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 깨끗이 씻은 다음 큰 것은 4등분하고 작은 크기는 그대로 절구었습니다. 알타리 역시 배추처럼 절임이 중요한 부분입니다. 절임 시간은 3시간 정도 숨이 고루 죽도록 시간당 한번씩 뒤집어 주었습니다. 절여진 알타리는 씻지않고 건져서 물기를 뺍니다.",
+		"2. 냄비에 물, 찹쌀가루, 콩물, 고구마전분으로 풀국을 쑤고 마늘과 생강은 곱게 다지고 쪽파는 큼직하게 썰어주세요. 그리고 풀국에 새우젓과 고춧가루. 멸치가루를 넣어 섞고 3을 함께 버무려 김치양념을 만들어주세요.",
+		"3. 만든 김치양념을 4등분한 알타리에 골고루 잘 발라서 간을 맞춰주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/04/ffcfa1e14e116f20000cccdb50aed1db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/04/267c840317b2db754c048ea785c3713a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/04/46b527af9c794443d1c2e92be7d09cce1.jpg"
+	]
+}

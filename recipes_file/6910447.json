@@ -1,0 +1,90 @@
+{
+	"id": "6910447",
+	"name": "[아이들반찬] 간장으로 만든 콩불!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/14/ec35bb153d3aad742299852bd12f06671.jpg",
+	"url": "https://www.10000recipe.com/recipe/6910447",
+	"ingredient_ids": [
+		47,
+		379,
+		497,
+		292,
+		455,
+		226,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대패삼겹살한근",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파채",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 콩나물을 깨끗이 씻어서 채반에서 물기를 빼주세요",
+		"2. 파채도 살짝씻어서 채반에서 물기를 빼주세요",
+		"3. 팬에 기름없이 대패삼겹살을 올려주시고 소금1/2큰술을 뿌려주세요",
+		"4. 후추가루를 조금 뿌려주시고 맛술(생강술)을 2큰술 넣어주시고 생강가루를 조금만 뿌려주세요",
+		"5. 대패삼겹살을 먼저볶으시면 물과 기름이 많이 생겨요 그 기름과물을 덜어내고 대패삼겹살을 바짝볶아주세요",
+		"6. 물기를뺀 콩나물을 볶아주고있는 대패삼겹살 가운데쪽에 넣고 살살 대패삼겹살과 볶아주세요 간장을 국자에 담아서 팬에 가장자리로 돌려가면서 팬의 끝으로 넣어주세요 *간장이 살짝은 타면서 불맛을 내주는 효과가 있어요  1분간냅두시다가 대패삼겹살과 콩나물을 잘섞어가면서 볶아주세요",
+		"7. 콩나물이 익었으면 파채를 넣고 그위에 설탕을 뿌려주시고 살살 섞어가면서  1분간 볶아주세요",
+		"8. 마무리는 통깨를 조금 뿌려서 마무리하세요",
+		"9. 자극적이지 않아서 아이들반찬으로도 좋고 술안주로도 만들어드시기 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/14/1e1181955fd4869e32a1ad4b56b7c5e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/14/8e8d09c4d40b11eebe52d901b9aba1db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/14/c46cff4c1ae84b3162f508511f04c99d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/14/70f6e14891e893c453db34e31e1168751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/14/af70c5f9a16fa3c2083f223a404dfd161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/14/13a5a0789c0a370916178baa49cd58a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/14/c71e5eea32e0ab4089f2cd94f4a033a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/14/8476feef5d97d1278eebc55b4d07f5a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/14/2d307a6777370959bad7d8fc610cf90e1.jpg"
+	]
+}

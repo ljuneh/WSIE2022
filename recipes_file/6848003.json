@@ -1,0 +1,67 @@
+{
+	"id": "6848003",
+	"name": "낙지볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/12/1e132ddcf6a1b3a15e38de9587862e2b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6848003",
+	"ingredient_ids": [
+		543,
+		64,
+		3,
+		27,
+		643,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "매콤장",
+			"ingre_count": "3~4큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "낙지",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추각",
+			"ingre_count": "1",
+			"ingre_unit": "개씩"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 낙지3마리, 양파1/2개, 대파1/2개,  풋고추, 홍고추 각 1개씩, 식용유2큰술 매콤장 3~4큰술, 통깨약간",
+		"2. 초간단복합양념  수제양념 매콤장 활용",
+		"3. 1. 낙지는 내장을 제거하고 밀가루를 뿌려 바락바락 주물로 씻은 다음 물로 헹구어 먹기좋은 크기로 썬다.  2. 양파는 굵게 채썰고, 대파는 반으로 갈라 3cm로 썬다.  풋고추, 홍고추는 어슷썬다. 3. 팬에 식용유를 두르고 양파를 볶은 다음 낙지와 매콤장을 넣고 볶는다. 낙지가 익으면 대파, 풋고추,홍고추, 통깨를 넣어 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/12/f4a21e676cf8433a32266d18cc018d581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/12/676de9c7febdb7876b39bfb12d13a5551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/12/022c037bb48b978ef47f83981ec0dd5c1.jpg"
+	]
+}

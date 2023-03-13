@@ -1,0 +1,127 @@
+{
+	"id": "6941363",
+	"name": "정식품콩국물로 콩국물 양념장 바삭 등갈비 조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/1d39353831b73b89d898860178bb26691.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941363",
+	"ingredient_ids": [
+		29,
+		295,
+		504,
+		938,
+		292,
+		226,
+		477,
+		290,
+		696,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "등갈비",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "진한콩국물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "검은콩국물",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "80",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 정식품 진한 콩국물100ml,검은 콩국물 50ml를 사용했습니다",
+		"2. 등갈비는 물에 담가 핏물을 빼 주세요 (40분 정도)",
+		"3. 마늘은 편 썰고, 청양고추와 홍고추는 씨부분을 제거하고 다져 주세요",
+		"4. *달콤 짭짤 등갈비 콩국물 양념장 입니다. *진한 콩국물 100ml,검은 콩국물 50ml,진간장 80ml, 매실청 50ml,맛술50ml, 굴소스 2작은술,설탕 2큰술,다진대파 1/2컵을 넣고 섞어 주세요.",
+		"5. 등갈비는 앞뒤로 잔칼집을 넣고, 물에 씻어체에 받쳐 물기를 제거해주세요.",
+		"6. 팬에 식용유를 넉넉히 두르고 마늘을 넣고 볶다가",
+		"7. 등갈비를 넣고 구워 주세요(센불)",
+		"8. 등갈비는 앞뒤로 돌려가면서 노릇하게 구워 주세요(10분 정도)",
+		"9. *다른 웍에 콩국물 양념장를 붓고, 구운 등갈비를 넣고 조려 주세요 (뚜껑을 닫고중불) *중간에 양념이 고루가게 저어주면",
+		"10. 국물이 거의 졸아들면 청양고추, 홍고추, 깨, 아몬드가루, 참기름를 넣고 섞어 준 후",
+		"11. 완성 그릇에 담아 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/78ada9ec18ea3def06055b5382c4ac5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/7864a5ae5bd6770e105c767bdaf651c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/d5b55a5ae8553123fc1bf6dba346d9f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/25dea713fa411ac48d47caae09c36e441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/8fe5b8d2b512ac4ac97d75d8b154a39a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/d0876af0becad5acc004d78adfd13edf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/a011c93b10b63bbe0e68cc9868a62d541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/5c83675a9d20b4fd0a4b6901fc6927991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/0dd7c1e44cec039f8cef44f73b4ef0871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/c6a0a1b552415983a4698ccaa8b0db161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/3721e4b31cb9ecaa2bd25df7da5fbc5f1.jpg"
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"id": "6940603",
+	"name": "새우 유부 볶음밥 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/43ff1babc76ba8323f9fe801cc575ca11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940603",
+	"ingredient_ids": [
+		79,
+		219,
+		22,
+		9,
+		3,
+		497,
+		477,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "새우",
+			"ingre_count": "15",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "조미유부",
+			"ingre_count": "18",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 기름을 두르고 손질한 새우를 볶아준 후 따로 덜어둡니다.식용유1큰술, 새우15마리팬중불",
+		"2. 다진 당근, 양파, 피망을 넣어 볶아줍니다.당근1/4개, 양파1/2개, 피망1/2개",
+		"3. 채소가 다 익으면 한쪽에 몰아놓고 다른 한쪽에 기름을 두른 후 계란을 깨뜨려 스크램블 해줍니다.식용유1큰술, 계란1개",
+		"4. 후춧가루와 소금을 넣어 간해줍니다.소금3꼬집, 후춧가루 약간",
+		"5. 볶아놓은 새우를 다진 후 함께 넣어 볶아줍니다.",
+		"6. 밥과 굴소스를 넣어 볶아줍니다.밥2공기, 굴소스1큰술",
+		"7. 새우볶음밥 완성~!! 이대로도 맛있지만 유부에 넣어 먹는 게 더 맛있어요~^^",
+		"8. 조미유부에 새우볶음밥을 넣어줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/14f085245eb7c8806e1b5e4b606f80321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/fc62c55bed717f2cc0911d8de0759b4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/39f1cb6d86a5199ce2949e02c903cda31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/d3e34d3eb74b711d669cf7995dbe52261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/c0e097a58bd13902aba62e0ecbd262ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/4c88280bb4ea334450941dffd87f28ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/65a040e10e4148aed62f62577365b4521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/6597498584bbe91095bdd24c1248727e1.jpg"
+	]
+}

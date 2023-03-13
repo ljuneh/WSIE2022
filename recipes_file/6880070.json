@@ -1,0 +1,139 @@
+{
+	"id": "6880070",
+	"name": "소고기 메추리알 장조림 - 장조림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/b0dbe60ed1a772bd207c1bcf2ee8e9731.jpg",
+	"url": "https://www.10000recipe.com/recipe/6880070",
+	"ingredient_ids": [
+		221,
+		295,
+		579,
+		90,
+		27,
+		28,
+		857,
+		995,
+		292,
+		226,
+		575
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "70",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍두깨살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금1큰술",
+			"ingre_count": "1",
+			"ingre_unit": "큰 술"
+		},
+		{
+			"ingre_name": "식초1큰술",
+			"ingre_count": "1",
+			"ingre_unit": "큰 술"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "월계수잎2장(선택)",
+			"ingre_count": "2장(선택)",
+			"ingre_unit": "장(선택)"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 남녀노소 누구에게나 사랑받는 국민 밑반찬  메추리알 소고기 장조림 만들기 ♬♪",
+		"2. · 홍두깨살은 소주 1/2컵 넣은 끓는 물에 3~5분 데쳐낸 뒤",
+		"3. 찬물로 씻어줍니다",
+		"4. · 메추리알은 소금 1 큰 술, 식초 1 큰 술 넣고 끓는 물에 15분 이상 삶아준 뒤",
+		"5. 찬 물에 씻어 식힌 뒤",
+		"6. 껍질을 벗겨줍니다(돈 조금 아끼겠다고 메추리알 사서 껍질 까다가 승질나서 엎을뻔했어여 + 3+ㅎㅎ 껍질 까다가 메추리알 10개는 집어먹은 듯... 여러분들은 깐 메추리알 사세요... ㅋㅋㅋㅋㅋ)",
+		"7. · 조림장을 만들어 줍니다 ※ 메추리알 소고기 장조림 조림장 【 진간장 1 컵, 물 4컵, 맛술 1 큰 술, 설탕 3 큰 술, 올리고당 2 큰 술 】 -밥숟가락 계량입맛에 따라 원하는 양념을 가감해주세요 :D",
+		"8. · 조림장에  [ 다시마 2장, 월계수잎 2장(선택), 대파 1대, 생강 1/2개, 통후추 0.5 큰 술 ] 과 홍두깨살을 넣어준 뒤 뚜껑을 닫고  고기가 익을 때까지 끓여줍니다  ※ 조림장이 팔팔 끓기 시작하면 다시마는 빼 주세요-고기를 더 작게 잘라서 넣어주면 익는 시간을 줄일 수 있습니다 - 젓가락으로 고기를 찔렀을 때 푹 들어가고 핏물이 안 올라오면 익은 겁니다 :) ",
+		"9. · 다 익은 홍두깨살은 건져내서  한 김 식힌 뒤 쭉쭉 찢어주세요 :)",
+		"10. · 조림장에 건더기는 다 걸러서 버려준 뒤",
+		"11. · 조림장에 메추리알, 통마늘(선택), 청양고추(선택)와",
+		"12. 잘게 찢은 홍두깨살을 넣고",
+		"13. · 센 불에서 끓이다가 끓어오르면  중약불에서 졸이듯이 끓여주면 완성!!",
+		"14. 남녀노소 좋아하는 밑반찬 밥도둑 장조림 소고기 메추리알 장조림"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/1cb65022117c514889f9b8fd2083453b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/4b3d2dac5723b10217f1f8360ad6a5f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/40f81a1830722379b44b887828c905811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/0dc277cbc31bb2e797f5ea7fb33cec871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/afe318028c0a3dec583e65361c7181901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/3bf347c03ded9367ff66c26c099087f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/59f4529913cb5cc820fe4890d3bc5aed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/8c85b931b09f1173df964e6e14ff1fed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/c9a4f89dece9d6de6307b0c0ed43b0ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/ae8334cbfe3c4261acb8adae1313b84e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/8726bd053074c5da9df61e6181453e0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/df77d2e24ca3b78af324a2f76d8386601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/26285e60cbca52d0b0a6b3be25ca615a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/25/0d8d6ca93cda2df9a3ef543885bb6ce91.jpg"
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"id": "6926342",
+	"name": "새송이버섯 버터 양념구이 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/02/10/e31c973098599945eed3b63cf83c1dc71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6926342",
+	"ingredient_ids": [
+		58,
+		3,
+		295,
+		757,
+		379,
+		341,
+		995,
+		29,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "23",
+			"ingre_unit": "~"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 새송이버섯은 흐르는 물에 헹궈 물기 제거하고 3~4등분으로 넙적하게 자른다",
+		"2. 양파 굵게 썰고, 파, 고추 송송~",
+		"3. 볼에 분량의 양념 넣어 섞고",
+		"4. 달궈진 팬에 버터 약 15~20g 정도 녹이다가 버섯 넣고 노릇하게 구워 덜어 놓고",
+		"5. 버터 약간 넣고 양파 살짝 볶고",
+		"6. 양파 위에 구운 버섯 올리고",
+		"7. 양념 끼 얹어 끓이고",
+		"8. 자박자박하게 끓이다가 파, 고추 넣고 한소끔 끓여 마무리~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/10/c6e1dc9bfe673f7a9682a083d165e44e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/10/f0bfe8693d8ce1498b09806e51cddad71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/10/914a1742a80a6b6deb960ce465d358851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/10/edcb0915a7a80c68cd564260b54942371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/10/a89aac85ad1d087822bcf18367d6a22f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/10/040a18176db71aded74bcbfd94afd67b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/10/2719f1374417aaec39e30f85b74d50e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/10/b8325c319963e76fe047399a679932d81.jpg"
+	]
+}

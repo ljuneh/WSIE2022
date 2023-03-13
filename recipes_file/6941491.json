@@ -1,0 +1,88 @@
+{
+	"id": "6941491",
+	"name": "튀김 카레(초간단 요리)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/88d1f54f6f5418982e7eaae0e2aa5e0b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941491",
+	"ingredient_ids": [
+		963,
+		3,
+		9,
+		911,
+		5,
+		325,
+		746,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "대패삼겹살",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "식용류",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "냉동튀김",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쯔유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 요리하다 남은 야채입니다 버리지 마시고 대패삽겹살이랑 해서  카레해드시면 참 맛나요  솔직히 필요한건 양파 하나면 가능합니다 (양파 대패삽격살 카레가루만 있어도 가능)",
+		"2. 냄비에 다 넣어주시고 식용류 넣고 볶아 줍니다",
+		"3. 적당히 볶다가 물 500정도 넣어주시고 끓여주세요",
+		"4. 물이 끓면 카레 반봉지와 쯔유 1T를 넣어주면서  감자가 익을때까지 카레가 눌러 붙지 않게 저어주세요 오뚜기 카레가 싱거워서 쯔유 넣은거니 다른카레 쓰실꺼면 맛을 보시고 넣길 바래요",
+		"5. 카레만 먹기 심심해서 냉동 야채튀김을 에어프라이어로  튀겨서 올려주고 통깨 파슬리 가루만 뿌려줘도 파는것보다  이쁘며 맛있는거 드실수 있어요에어프라이어"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/7a65df95b326ae870841ab3f1f15eec91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/82f1403917e801947f009c0e9a2f516a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/b1a52c63dd6a4c7ef341273b9dc74aed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/c8829bdb0a8411e751c7a5e052f0e0d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/4fbb2a15bec97e6b86cbb6a40f0f6a141.jpg"
+	]
+}

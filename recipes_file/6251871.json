@@ -1,0 +1,65 @@
+{
+	"id": "6251871",
+	"name": "순두부 부대찌개 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/8db449e3d4be3b4121a138abd1424f591.jpg",
+	"url": "https://www.10000recipe.com/recipe/6251871",
+	"ingredient_ids": [
+		498,
+		953,
+		628,
+		56,
+		55,
+		379,
+		327
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "순두부",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료 준비를 해주시구요~~",
+		"2. 들기름을 넣어서 김치를 달달 볶아주세요~~",
+		"3. 볶은 김치에 간장을 2큰술 더 넣어서 간을 맞춰 주고 순두부랑 햄, 김치, 느타리버섯, 대파를 함께 넣어주었어요. 국물은 멸치육수를 넣어주시면 더 칼칼하니 맛있답니다. 멸치육수가 없으면 그냥 물을 부어도 되지만 멸치육수를 넣으면 더 맛있답니다. 요즘은 멸치 팩으로 5분만 끓여도 멸치육수를 만들 수 있어서 참 편리하더라구요. 보글보글 10분만 끓여주었어요. 고춧가루와 소금간을 개인취향에 따라 넣어주시면 됩니다.",
+		"4. 팽이버섯을 올려주면, 오늘의 요리 순두부 부대찌개 완성!! 생각보다 콩맛에 부대찌개 만들어져서 더 맛있게 먹었답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/07395211504bc3b6be81bfb1ef2404101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/17b86fa75289016c8d41fd23a4f59e671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/4ae1c78f6c1d5d761f26b4e29ef7fbf61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/be85f733b94177a62ffa9f26b5545b921.jpg"
+	]
+}

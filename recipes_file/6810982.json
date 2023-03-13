@@ -1,0 +1,63 @@
+{
+	"id": "6810982",
+	"name": "입맛 살려주는 고춧잎나물무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/c259e4e75ab4f1de4a7fb32cd6520d411.jpg",
+	"url": "https://www.10000recipe.com/recipe/6810982",
+	"ingredient_ids": [
+		976,
+		327,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "고춧잎",
+			"ingre_count": "270",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "굵은소금(고춧잎데침용)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "집간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고운천일염",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 물이 팔팔 끓으면 굵은소금을 넣고 다듬은 고춧잎을 넣어주세요. 고춧잎이 여려서 바로 뒤집어 살짝만 데쳐주었어요.",
+		"2. 데친 고춧잎은 찬물에 바로 헹궈 열기를 식혀주고~ 체에 받쳐 물기를 빼줍니다.",
+		"3. 물기를 짠 데친 고춧잎에 집간장 1/2큰술과 고운 천일염을 넣어 먼저 간을 해주구요",
+		"4. 간이 맞게 무쳐졌으면 들기름과 다진 대파를 넣어 다시 조물조물 무쳐주셔요. 다진마늘은 생략했는데요. 넣어도 됩니다~",
+		"5. 마지막에 통깨는 넉넉하게 손으로 부셔가면서 넣어 무쳐주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/e871181f9ff5bb915d80a4489a58360e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/fb1de55565d106dbe1a00eb7cdea6d2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/9a0281f54bcd7c8f4f9e9e2883d7a3bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/10889ba15f14bbc5e6660baccce578671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/40f9c5885c15093e87db338d07331f341.jpg"
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"id": "6941973",
+	"name": "추석베이킹, 선물하기 좋은 밤만주만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/50ac03b3d94ed894ca7c034ba86368031.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941973",
+	"ingredient_ids": [
+		204,
+		373,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "95",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "90",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백앙금",
+			"ingre_count": "210",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 노른자1개를 풀어서 연유와 골고루 섞어줍니다",
+		"2. 박력분, 베이킹파우더를 체에 내려서 주걱으로 섞어줍니다",
+		"3. 반죽이 굉장히 질기 때문에 랩을 씌워서 냉장고에서 30분정도 휴지를 시킵니다",
+		"4. 앙금은 30g , 반죽은 20g 씩 각각 분할하고 밀가루를 뿌려놓은 트레이에 준비합니다",
+		"5. 반죽을 만두피처럼 늘려서 안에 앙금을 넣어줍니다 반죽이 질기 때문에 밀가루를 뿌려주면서 작업해주세요",
+		"6. 밤모양처럼 모양을 잡고 밑 부분을 물에 담그고 깨를 묻혀주세요",
+		"7. 윗부분에 노른자를 풀어서 발라줍니다",
+		"8. 오븐 180도15분 구워주면 완성입니다오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/72e7b0d826c8ec5d90b3c4fa4367c5091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/f486630e842d3dbc30d1abc2e5e77f9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/869192ea229aff3dc6eec5b50c7029601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/94b9b0b91eadb77558365804179863231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/e031f6df5696d9ebf52b25370505abc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/dfff154c6986d67f850fffd6c3598e9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/1d18ff9a541b7b8823e6d1f09e4367301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/124cd7f7c6c01f43725d2a220498fa6d1.jpg"
+	]
+}

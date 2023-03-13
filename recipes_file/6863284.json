@@ -1,0 +1,98 @@
+{
+	"id": "6863284",
+	"name": "@ 백종원레시피 매콤한 낙지볶음 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/ffcc9f26c596dc8974bf30ad4e56b0201.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863284",
+	"ingredient_ids": [
+		64,
+		325,
+		21,
+		3,
+		473,
+		224,
+		226,
+		292,
+		379,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "낙지",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해요!                   ",
+		"2. 팬에 기름을 두르고 다진마늘 먼저 볶고 양념장 넣어 휙휙!",
+		"3. 중불로 타지 않게 야채를 모두 넣고 국물에 나올때까지 자작하게 볶아주세요! 양념장이 타지 않도록 물도 3숟가락 가량 넣으면서 타지 않게 신경써주세요!                   ",
+		"4. 쎈불로 올려 깨끗하게 씻은 낙지 투하! 재빠르게 후다닥 볶아주면 끝!                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/76044ad8a8fdce27b89f801d8770a72e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/76bcc04efc3708ad2c4c85003dfa6fef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/461ab023d390f73ab01854878c4af08e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/1809cd0f3f27ca546e3fe585e6281d851.jpg"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"id": "6851752",
+	"name": "소박하고 담백한 추억의 요리! 옛날 콩고물 우유빙수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/d41b58901342aafb7cea59b570b69a1b1.png",
+	"url": "https://www.10000recipe.com/recipe/6851752",
+	"ingredient_ids": [
+		204
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "우유2컵(400ml)",
+			"ingre_count": "2컵(400ml)",
+			"ingre_unit": "컵(ml)"
+		},
+		{
+			"ingre_name": "볶음콩가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "빙수용조림팥",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀떡",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "다진호두",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 우유는 각얼음통에 부어 냉동실에서 3시간 이상 얼려 준비한다.우유 2컵(400ml)각얼음통, 냉동실",
+		"2. 빙수 기계에 얼린 우유를 넣고 빙수 그릇에 반정도 채운 뒤 빙수팥을 올린다.빙수용 조림팥 2/3컵빙수기계",
+		"3. 다시 얼린 우유를 갈아 소복하게 담는다.",
+		"4. 취향에 맞게 연유를 뿌리고, 볶음콩가루와 다진 호두, 반으로 가른 찹쌀떡을 올려 마무리.연유 적당량, 볶음 콩가루 3큰술, 다진 호두 적당량, 찹쌀떡 2개 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/ab89be1bff2c4dd7bb202481323647061.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/30f0b78a7209e3cef6d5c081f1a8019f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/c31523179589af9736cd16aadf58d67f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/a38f7a9ef219d2b42636a3fb672e5eb71.png"
+	]
+}

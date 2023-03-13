@@ -1,0 +1,43 @@
+{
+	"id": "6839903",
+	"name": "고구마맛탕 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/ecdc3cc3f23c7cf849d6993b0a469d1d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6839903",
+	"ingredient_ids": [
+		4
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕1숟가락반",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락 반"
+		}
+	],
+	"recipe": [
+		"1. 고구마는 먹기 좋은 사이즈로 잘라서 준비해주세요.",
+		"2. 랩을 씌운뒤 전자렌지 4분가량 돌렸어요. 전자렌지 사향에 따라 달라져요!! 약간 덜 익은 상태로 준비해주심되요. 고구마에 물기를 완벽하게 제게해주세요. 안그럼 기름 튀고 난리납니다.전자레인지",
+		"3. 달궈진 기름에 고구마를 넣어주세요.",
+		"4. 젓가락으로 콕 찍어서 들어가면 다 익은거예요.",
+		"5. 기름 1숟가락+설탕 1숟가락 반 불은 최대한 약불에 젓지말고 그냥 녹게 놔두세요. 설탕이 녹으면 오일은 키친타올로 닦아줬어요. (어차피 맛탕에 기름기가 있으니깐)",
+		"6. 재빨리 고구마를 넣고 잘 버물려주세요. 간격을 벌려 놓고 식혀줘야 서로 달라 붙지 않아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/d1ec329502b9470200e567cb66d75ac51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/1d044ee0b088e73e23c157238e2ddaef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/0faea4b66b8730cbaf294feaace7154e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/c8bc473a511c12e495f65a31895f236b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/224f5753194132f56375abdb526b2cf11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/e41c57eb44b46bcce41c8bb2cea3840a1.jpg"
+	]
+}

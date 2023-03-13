@@ -1,0 +1,57 @@
+{
+	"id": "6944664",
+	"name": "보말칼국수 대신 쉽게 끓여먹을수 있는 전복칼국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/667cccf6ece78335c0a772337e15b6a71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944664",
+	"ingredient_ids": [
+		995,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "전복내장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "칼국수면",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "계란노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금or맛소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 전복내장을 볶습니다",
+		"2. 물을 붓고 끓입니다",
+		"3. 물이 끓으면 칼국수를 넣습니다",
+		"4. 칼국수가 익으면 그릇에 담습니다",
+		"5. 식탁에 냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/6c2f2b8cc7a18e6c8738f52a5884ea611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/c75bc45350aca062f1f28afc584f666d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/4fb21cc7d2b953f4a51e6b5c641438611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/01c77fe3b658dad8aa3533ae35029d951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/202d085a3ff551731411b000693a841b1.jpg"
+	]
+}

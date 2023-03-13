@@ -1,0 +1,79 @@
+{
+	"id": "719519",
+	"name": "김치감자샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/96c325e44d9163b59ebf275b611415fa.jpg",
+	"url": "https://www.10000recipe.com/recipe/719519",
+	"ingredient_ids": [
+		5,
+		3,
+		9,
+		27,
+		995,
+		497,
+		228,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "참기름1+1/2TS",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		}
+	],
+	"recipe": [
+		"1. 신김치는 속을 털어내고 물에 씻어 물기를 제거한뒤 먹기좋게 채 썰어줍니다. 감자는 껍질을 벗겨 적당한 크기로 자른 다음 소금물에 감자를 넣고 15분 정도 푹 삶아서 물기를 뺀후 포테이토 매셔로 으깨주세요. 양파와 당근은 잘게 다져놓고 대파는 초록부분을 반 갈라 잘게 썰어주세요. 분량의 마요네즈 소스 재료를 넣고 소스를 만들어주세요.",
+		"2. 볼에 손질된 김치와 감자, 양파와 당근, 대파, 마요네즈소스를 넣고 버무려줍니다.",
+		"3. 감자샐러드에 김치만 더 들어갔다고 생각하심 될거 같은데요. 감자와마요네즈만으로 조금 느끼함을 느끼셨다면 김치로 입안을 개운하게 만들어줄 샐러드랍니다. 게다가 신김치로 만들어서 새콤함까지 전 너무나 만족한 샐러드랍니다. 여기에 계란 삶은거 넣어주셔도 좋을거 같구요. 옥수수캔, 다른 야채를 더 곁들이시면 또 하나의 멋진 샐러드가 탄생하게 될거에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/ff70207e0978b4c3998ba34d97a5e8901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/5eea4eee7e57698e605e1015f026ca091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/ccc4ee99fe6b7618d0f4fba315598b491.jpg"
+	]
+}

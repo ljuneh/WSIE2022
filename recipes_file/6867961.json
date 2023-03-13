@@ -1,0 +1,47 @@
+{
+	"id": "6867961",
+	"name": "남은 카레로 만드는 색다른 라면! 카레라면!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/363afa3f689f3de3e8cf0dabfb9d5d391.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867961",
+	"ingredient_ids": [
+		441
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "전날끓여둔카레",
+			"ingre_count": "2",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "전날끓여둔카레가없으면카레가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 물을 끓여서 야채 스프 먼저 넣어주세요 (저는 오도통면이라 다시마도 넣었어요~)어떤 라면이든 국물 라면이면 괜찮아요~",
+		"2. 양념 스프도 넣어서 팔팔 끓여주세요",
+		"3. 면을 넣습니다",
+		"4. 라면이 반쯤 익었을때",
+		"5. 전날 먹고 남은 카레를 두국자 넣어줍니다",
+		"6. 카레는 굳이 안데워도 되구요 감자랑 채소들도 다 넣어줍니다~남은 카레가 없으면 카레가루를 한스푼-두스푼 넣어주세요~",
+		"7. 넣고 푸욱 끓여주면 끝!",
+		"8. 살짝 걸쭉한 느낌이 드는 카레 라면 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/13d2e94b3485fd4ecb27edc3ad7270901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/d7d627a82ae2b76b786d8c922f93d7d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/fdb0090d4d274d46ac536baa35baef621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/35691a8103d67a60a6e3c8d8520b0f391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/61718a25ec6bf54cde6eacf5e1e846a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/ad29ca293a30472f7a6c6a9a4c0a76b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/016697a677b5b6e6dbced5686b4d81fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/6d10e69515657f0a6cbb205f00c4f51e1.jpg"
+	]
+}

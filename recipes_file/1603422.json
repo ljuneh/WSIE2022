@@ -1,0 +1,85 @@
+{
+	"id": "1603422",
+	"name": "무청 고등어조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/0b6464f01464b4da15183e0430bc8f8a.jpg",
+	"url": "https://www.10000recipe.com/recipe/1603422",
+	"ingredient_ids": [
+		27,
+		295,
+		995,
+		379,
+		233,
+		28,
+		846
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "자반고등어",
+			"ingre_count": "1",
+			"ingre_unit": "손"
+		},
+		{
+			"ingre_name": "무청시래기",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "매운고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "표고버섯가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 무청은 한번 삶아서 부드럽기때문에, 뜨거운물을 끓여서 1시간가량 담궈 놓았다가, 깨끗이헹궈서 양념재료를 반정도 넣고, 버무려, 30분정도 간이 들게 한후, 사용했어요.",
+		"2. 양념된 무청시래기에, 깨끗하게 손질된 자반고등어를 올려줍니다.",
+		"3. 양념재료를 만들어줍니다.",
+		"4. 념된 무청시래시위에 자반고등어를 올리고, 만들어논 양념을 골고루 뿌려줍니다. 센불에서 끓이다, 끓어오르면, 약불에서 뭉근하게, 조리시면 되세요. 중간중간, 양념국물을 떠서 고등어위에 뿌려주면 좋겠어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/23/53831ebb95666022a6ee3b25a0ebd5f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/23/7c40c12bdd42ecd8f53fdcb6df64ef7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/23/49f359976bb4ce94f20e1dd21ddbdcab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/23/91af7f87b01f5ffe0aceeadd755186151.jpg"
+	]
+}

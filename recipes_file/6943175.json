@@ -1,0 +1,116 @@
+{
+	"id": "6943175",
+	"name": "제육볶음 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/4764cf19a97317f9516fb4c4bbd9ad281.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943175",
+	"ingredient_ids": [
+		3,
+		27,
+		42,
+		643,
+		290,
+		233,
+		379,
+		473,
+		226,
+		843,
+		995,
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		}
+	],
+	"recipe": [
+		"1. 양파, 대파 등 야채를 손질해 주세요. - 양배추가 들어가면 아삭한 식감도 있지만, 없는 관계로 집에 있는 양상추를 준비했습니다.",
+		"2. 물반컵에 설탕(0.5스푼), 매실액(1스푼)을 넣고 끓여주세요. - 물이 끓으면 끓이면 삼겹살을 넣고 잘 익혀 주세요. - 삼겹살 자체에서도 기름이 나오지만 너무 익을 경우 딱딱해 질 수 있고, 양념이 잘 배일 수 있도록 하기 위해서 입니다.",
+		"3. 다진마늘(1스푼), 간장(3스푼)과 고추장(1스푼)을 넣어 줍니다.  - 다진마늘 , 간장, 고추장을 넣고 잘 볶아 줍니다.",
+		"4. 고추가루와 후추를 넣어 섞어 줍니다. - 타지 않도록 잘 저으면서 볶어 줍니다.",
+		"5. 달군 팬에 손질된 야채와 기름을 조금 넣고 볶습니다. - 그냥 고기에 넣어도 좋지만 한번 먼저 뽁은 것이 더 식감이 좋은 것 같습니다.",
+		"6. 볶은 야채를 고기와 섞어서 한번 더 볶아 줍니다. - 아채에 양념이 입혀질 수 있도록 잘 섞어 주세요.",
+		"7. 거의 다 완성이 되었습니다. 참기름(0.5스푼)과 깨를 넣어주시면 완성 입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/03cd6fd652aa7c8a25596a205df567311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/72e8f6525df341337fe7a80bf20418281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/5e37187e46102f23ed451f457b2b4f321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/2e802c5ed213380d34c2a72ce64770051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/5f217c6255984d66261f184a9d9408dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/e92bed3f9177e6525b50651df2debfef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/1a71182e43bbab7836805cef0e0437f11.jpg"
+	]
+}

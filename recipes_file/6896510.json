@@ -1,0 +1,55 @@
+{
+	"id": "6896510",
+	"name": "(에어프라이어 요리) 에어프라이어 삼겹살 - 온도와 조리시간",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/09/25/e4e8e28da7f99bb656584e67a38055a81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6896510",
+	"ingredient_ids": [
+		535
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "허브솔트(또는맛소금)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브유1큰술",
+			"ingre_count": "1",
+			"ingre_unit": "큰 술"
+		},
+		{
+			"ingre_name": "허브솔트",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 집 안에 연기 없이 기름 튈 필요 없이 기름기 쫙 빼고 편리하게 구워 먹는 에어프라이어 삼겹살 만들기 ♬♪",
+		"2. · 삼겹살은 허브솔트와 후춧가루를 뿌려  양념을 해 줍니다 저는 냉동 삼겹살을 사용했습니다 :D",
+		"3. · 통마늘에 올리브유 1 큰 술, 허브솔트 넣고 골고루 섞어줍니다- 삼겹살 구울 때 같이 넣어서 구워주면 맛있습니다 > <",
+		"4. · 에어프라이어기에 넣고  180도에 10분 돌려준 뒤 꺼내어 다시 뒤집어서 180도에서 10분 돌려줍니다에어프라이어",
+		"5. - 그리고 취향에 따라 추가로 180도에서 5분~10분가량 더 돌려주세요 :)",
+		"6. 저는 바삭하게 먹는 걸 좋아해서 5분씩 2번 더 돌려줬습니다",
+		"7. 바삭바삭 기름기 쫙  빠져 담백하고 맛있게 먹는 에어프라이어 삼겹살"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/25/41aee7e65ba17c5b7d242d5a3637dc861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/25/b711277b095d9252cf24f6e16533835e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/25/0ad0c60dd2c4f401d6ba8d4d98cc997e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/25/72e10bdff1452726154dc2f247687fe11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/25/319d818f4a3165337284f03e0aeaa29e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/25/3e4f6963b9a486a6db9f2d7428f8524b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/25/ae02eb26b5d0bef9d02f16f32f3e1bf41.jpg"
+	]
+}

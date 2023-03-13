@@ -1,0 +1,113 @@
+{
+	"id": "6853609",
+	"name": "수제비 황금레시피~ 해물수제비 뚝딱!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/28/f563617e4c5f769e84377e0ee4668e621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6853609",
+	"ingredient_ids": [
+		234,
+		995,
+		5,
+		7,
+		29,
+		349,
+		282,
+		225,
+		320,
+		90
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "냉동새우",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "냉동바지락",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "가는소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파뿌리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 밀가루는 미리 반죽해서 냉장실에 넣어두세요. 적어도 두 세시간 이상 넣어두시면 좋아요. 반죽할 때는 조금 질척하다 싶은 정도로 해주시고, 힘들어도 오래 치대주셔야 더욱 쫄깃한 수제비를 드실 수 있답니다.",
+		"2. 멸치, 다시마, 대파 뿌리를 넣고 육수를 만들어주세요. 다시마는 5-6분 후에 미리 꺼내주시고 멸치와 대파 뿌리는 10분 이상 끓여주고 건져주시는 걸로~",
+		"3. 감자는 껍질을 벗겨주시고, 애호박도 준비해주세요.마늘도 준비해서 찧어주시고요. 감자는 돌려가며 듬성 듬성 썰어주세요.                   ",
+		"4. 껍질 벗겨 썰어준 감자는 바로 찬 물에 담궈두시거나 서너번 씻어 전분 기를 빼주세요.",
+		"5. 애호박은 반달썰기해주시고요.",
+		"6. 냉동 새우와 바지락은 찬 물에 서너번 씻어주시고 물기를 제거해서 준비해주세요.",
+		"7. 수제비 육수가 끓기 시작하면, 국간장과 소금을 이용해서 간해주시고 먼저 감자를 넣어주세요.",
+		"8. 감자를 넣은 다음에는 수제비 반죽을 꺼내 얇게 똑똑 떼어내주세요.",
+		"9. 반죽을 넣어주고 난 다음에는 애호박도 넣어주시고요. 냉동 해물들도 투하해주시고, 다진 마늘도 넣어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/a9a473c5bc65a1cd16bfa7b8c95a06691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/6b7eadf33be59d481d1655d4f1e4487d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/487cbb69cad03f86e1bb277524c083c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/4daf0a52b288983cabad05ef88d5a8491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/8c007c5aaa6be736d9f692decc4f36e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/2bdbb491f701e0b3ee81ef8b006c8e211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/9c6a93b8ca6233db3b449566d52536581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/8d64ad99cbe90ce570e54ea71e97549f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/7ebd533e181f71350474088a4bb035771.jpg"
+	]
+}

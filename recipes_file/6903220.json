@@ -1,0 +1,80 @@
+{
+	"id": "6903220",
+	"name": "읽어주는레시피) 삼겹살김치찜으로 부부싸움 없었던일로!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/d4dc0419c2d0cfe8bb830d0159ae43111.jpg",
+	"url": "https://www.10000recipe.com/recipe/6903220",
+	"ingredient_ids": [
+		953,
+		3,
+		295,
+		27,
+		473,
+		224,
+		349
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "사골육수",
+			"ingre_count": "2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 양파는 채 썰고 대파 7cm 길이로 썰고 청고추, 홍고추는 어슷 썬다.",
+		"2. 삼겹살> 김치 순으로 반복해 쌓아 올린 후 4cm 길이로 썬다.",
+		"3. 냄비에 양파를 깔고 2를 둘러 준 후 대파를 사이사이 올리고 사골육수을 부어 한소끔 끓인다.",
+		"4. 양념 재료를 넣은 후 뚜껑을 덮고 중불로 한소끔 끓인 후 어슷 썬 고추를 넣고 2~3분 더 끓여 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/1c3b7615159f58f15bbc51f7347cc19f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/c4e08ad4814953bcaaac7433cbaf19f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/052658b4af74925bfca24e30ddd30e721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/bc9eacc47a23b336d2b7bb1cc74cb1f31.jpg"
+	]
+}

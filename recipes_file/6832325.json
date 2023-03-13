@@ -1,0 +1,71 @@
+{
+	"id": "6832325",
+	"name": "구워서 만든 가지무침, 백종원 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/ee994efa0ddbcda632c1ef90f49d8e4f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6832325",
+	"ingredient_ids": [
+		18,
+		224,
+		226,
+		660,
+		29,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "파or청양고추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 가지를 깨끗하게 씻은 다음 어슷하게 썰어줍니다. (두께는 한 0.8~1cm 정도)",
+		"2. 달궈진 팬에 가지를 올려 구워줍니다. 식용유는 NO~ 기름없이 그냥 구워줍니다. 약불로~ (요기에 소금을 약간 뿌려주세요.)",
+		"3. 진간장 3, 고추가루 1, 설탕 1, 참기름 1, 파, 마늘, 깨를 넣고 양념장을 만듭니다. (매운 청양고추를 송송 썰어 넣으셔도 됩니다.)",
+		"4. 구운가지에 양념장을 넣고~",
+		"5. 양념장이 가지에 잘 배기도록 조물조물 무쳐주면 끝~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/469b77d54ab683c53956377ff970f49e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/8b247411320a247499efc616b5aae86e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/9c050fbff16fe8638e4ffcc87cb85d231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/e6327c418e13fbfb8abab33288a1ede61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/54d8eb82c4d5e35b0eba606279f0c9ee1.jpg"
+	]
+}

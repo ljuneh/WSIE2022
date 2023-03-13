@@ -1,0 +1,84 @@
+{
+	"id": "6892853",
+	"name": "《향기 좋은》 밀크티 롤케이크",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/f1e479737e244a8ba1313609cf68f4781.jpg",
+	"url": "https://www.10000recipe.com/recipe/6892853",
+	"ingredient_ids": [
+		219,
+		995
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가루설탕",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "샐러드오일",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "45",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "65",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "얼그레이",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생크림*",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "얼그레이*",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "가루설탕",
+			"ingre_count": "22",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 볼에 노른자, 가루 설탕*15g를 넣어 섞어주세요.노른자, 가루 설탕",
+		"2. 오일, 물, 체친 박력분, 얼 그레이를 순차대로 넣어 한번씩 잘 섞어주세요.오일, 물, 박력분, 얼 그레이",
+		"3. 흰자에 가루 설탕*45g를 조금씩 넣어 핸드 믹서로 섞어 머랭을 만듭니다.흰자, 가루 설탕",
+		"4. 노른자의 반죽에 머랭을 2번에 걸쳐 넣어 섞어주세요.",
+		"5. 반죽을 상판에 넣어 카드를 이용해서 표면을 평탄하게 합니다.",
+		"6. 180도에 예열한 오븐으로 17분정도 굽고 식힘망우에서 식혀주세요.  칼로서 1㎝정도씩 가볍게 선을 넣어주세요.오븐",
+		"7. 생크림과 얼 그레이를 냄비에 넣어비등 직전까지 덥힙니다. 불을 끄면 뚜껑을 해서 5분정도 기다립니다.생크림, 얼 그레이",
+		"8. 거르면서 볼에 넣어 좀 식히면 냉장해주세요. 잘 식혀지면 가루 설탕을 넣어 핸드 믹서로 사진처럼 굳어지게 섞어주세요.",
+		"9. 팔레트 나이프를 이용하여 반죽에 크림을 발라주세요.",
+		"10. 끝에서 감아주세요.",
+		"11. 시트로 삼아서 냉장합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/299323a54a251bda6d53dd5217cca27b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/0a7fa211284f0146bb87d8bd64afd0f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/2b41dae1a445eea9292f21ebd32ae7951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/4141fee00064a2f39d39dd779b1d6f821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/4c1d9b392e2f37c4e9592f774caedc721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/4c2f81370eb162c12b9a78e82f3b59eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/84daae112dc80260cd92371f506dfa811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/2ca6966c1dbc63926526345552fcc05b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/4e5714d25d11d7d356390a08262ea6c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/c4fd7f78cc760dba4239c1779dec45351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/3b931a3cc0bd5c4f81ea65304cd4a8261.jpg"
+	]
+}

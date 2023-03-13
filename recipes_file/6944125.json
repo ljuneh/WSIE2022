@@ -1,0 +1,64 @@
+{
+	"id": "6944125",
+	"name": "아빠가 만드는 숙주나물 무침 (ft. 요리에센스 연두)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/221df75ecf3f8e01b8965da1c75d15e41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944125",
+	"ingredient_ids": [
+		52,
+		995,
+		282,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "연두",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 먼저 냄비에 물 500ml를 받아서 천일염을 넣고 팔팔 끓여줍니다.",
+		"2. 숙주를 볼에 넣어 물을 받아 2번 깨끗하게 씻어서 끓는 물에 넣어줍니다.",
+		"3. 이렇게 한번에 다 넣어주면 펄펄 끓던 물이 훅 하고 줄어들죠. 그럼 젓가락으로 살살 풀어서 30초 정도 기다립니다.",
+		"4. 그리고 뒤집어서 다시 30초간 기다립니다. 총 1분을 데쳐줍니다.",
+		"5. 채반에 데친 숙주를 넣어주고요",
+		"6. 차가운 흐르는 물에 식히면서 헹궈줍니다. 마지막은 깨끗한 정수물로 다시 한번 헹궈요. 그리고 물기가 빠지도록 체에 받쳐둡니다. 손으로 꼭 짜지는 않아요.",
+		"7. 채반에 물을 뺀 데친 숙주에 연두 2스푼과 깨소금을 넣어줍니다.",
+		"8. 골고루 섞어 두고 볼 바닥에 적당한 물건을 대놓고 비스듬하게 기울여 둡니다. 시간이 지나면 물이 생깁니다.",
+		"9. 뒷정리는 하는 동안 물이 제법 많이 나왔죠? 물은 버리고 남은 숙주나물을 반찬통에 잘 보관해줍니다.",
+		"10. 아삭아삭 고소한 숙주나물 무침이 완성 되었어요 ^^ 냉장고에 들어갔다 나와도 물이 생기지 않고 아삭 아삭 참 맛있어요. 간단하니 꼭 해먹어보세요~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/9107be65cf88b6f0c1047d53493bb4221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/564fb24a8f9ac702954d949ed0ef8f561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/1537a28c661910540601abce0514e4141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/d5bcac9d08e781224ec6b3e4563cd4321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/bab2e5abf2e89750b1a8225d028f4d581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/5e1a19f9db9bd49c02a5d43f89bf9f9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/150e5396515d84ce3ed861b4618a234e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/2b31f971f6d1884efa9e1bacf48b0e451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/33c3d49f2ea4775248feec31e48126ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/7545f4f1272d48ad6ab89eeb3ad6639f1.jpg"
+	]
+}

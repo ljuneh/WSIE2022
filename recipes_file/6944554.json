@@ -1,0 +1,69 @@
+{
+	"id": "6944554",
+	"name": "두부조림 맛있는 두부조림 초간단 레시피 15분완성",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/addd1fda882a6e92200cc6a31538a55e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944554",
+	"ingredient_ids": [
+		323,
+		504,
+		224,
+		29,
+		660,
+		995
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "쫑쫑썬파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 두부는 2센티정도 도톰하게 썰어서 준비 달궈진 팬에 식용유를 살짝만 두르고 두부를 구워줍니다 5분정도 앞뒤로 노릇하게 구워요",
+		"2. 두부 구워지는동안 양념장을 만듭니다진간장4스푼,마늘 반스푼,참기름 1스푼,고춧가루 1스푼.물5스푼",
+		"3. 5분정도 구워진 두부위로 양념장을 끼얹어 줍니다 골고루 끼얹고 5분정도 중불에 둡니다중불",
+		"4. 5분지나고 뚜껑 열어보면 물기가 있을건데 조금만 지나면 두부에 다 흡수됩니다 맛있는 두부조림 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/1e585c1b5ae759bfa3bf4f1840cffd801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/da4a0971a79f36400fca4db78993a25f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/09cc953f121b294acc1ee79b4958ee391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/beacdbc2efd613f061c2396681f9eb7c1.jpg"
+	]
+}

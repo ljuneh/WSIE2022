@@ -1,0 +1,70 @@
+{
+	"id": "6943902",
+	"name": "가지튀김 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/d5c99b572628adcd7afb19a8af3866851.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943902",
+	"ingredient_ids": [
+		18,
+		734,
+		995,
+		515
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "칠리소스",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "매운고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 깨끗하게 가지를 씻어 잘라줍니다. - 가지 가운데 으깬 스팸을 넣을 수 있도록 공간을 만들어 칼집을 냅니다.",
+		"2. 스팸은 물에 한번 끓여 줍니다. - 최대한 기름기 제거를 위함 입니다. 생략도 가능합니다.",
+		"3. 삶은 스팸은 으깨 줍니다. - 가지 사이에 넣어줄 예정 입니다. - 참치 등 다른 식재료를 활용하셔도 좋습니다.",
+		"4. 칼집을 낸 가지 사이에 으깬 스팸을 넣고 잘 고정 되도록 전분가루 또는 튀김가루를 묻혀 줍니다. - 가루는 너무 많이 하지 않아도 됩니다.",
+		"5. 준비된 재료를 튀김가루와 전분가루를 섞은 튀김반둑에 넣어 주세요. - 튀김가루와 전분가루를 넣고, 물을 조금씩 넣어서 농도를 조정해 주시면 됩니다. - 너무 두껍지 않도록 튀김옷을 입혀 주세요.",
+		"6. 기름에 튀겨 줍니다. - 1차로 한번 튀겨 주시고, 이후에 2차로 노릇하게 튀겨 주시면 끝납니다.",
+		"7. 겉은 바삭하고, 속은 촉촉한 가지 튀김을 완성하시면 됩니다.",
+		"8. 칠리소스와 간장에 다진 매운고추를 넣어서 소스로 활용하시면 좋습니다. - 저는 짱아지를 담근 간장을 사용 했습니다. - 일반 간장을 사용하실 분은 살짝 식초를 가미하시면 좋습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/e05693028cda8c75d57157fdb7d9679c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/e437f450e898c0e547c86d60cc8ae3621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/126b564768e46b18780c98667894aa591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/0ad0c4c151cfd319f4c405827b62557b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/42e0bc507242c451ad4f8dfc2f0060e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/0e674a64c380c18fa9f38213097141e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/98fb13e8eea19fd309cca52ed634d3be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/184d1ae5655e9942f0f467a5b37b2fdc1.jpg"
+	]
+}

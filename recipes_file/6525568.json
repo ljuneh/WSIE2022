@@ -1,0 +1,82 @@
+{
+	"id": "6525568",
+	"name": "파채무침 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/25/6bfa1a9fbebb22eda9dcd855bc0914d01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6525568",
+	"ingredient_ids": [
+		224,
+		845,
+		379,
+		843,
+		292,
+		226,
+		575,
+		660,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "파채",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "초고추장",
+			"ingre_count": "2",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 파채는 흐르는 물에 깨끗하게 씻어 물기를 빼둡니다.",
+		"2. 적상추도 씻어 물기를 빼두세요.",
+		"3. 양념장 재료를 모두 넣어 섞어줍니다.",
+		"4. 파채와 적상추를 볼에 담고 양념장을 넣어 숨이 너무 죽지않게 살살 무쳐주고 마지막에 참기름 1T넣어 주면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/77324cf9fcc49293015531c314e370201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/9c4f917fdc6b1d0ebe53fe09cc02545a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/56139344f10d2813329c3fb65f70596f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/e1dd00d7c994dc99a823aefd93b1c6711.jpg"
+	]
+}

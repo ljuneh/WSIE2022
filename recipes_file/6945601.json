@@ -1,0 +1,84 @@
+{
+	"id": "6945601",
+	"name": "햄 감자볶음 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/c4d1c8990f32d411fa86aca93af7e6cc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945601",
+	"ingredient_ids": [
+		5,
+		3,
+		27,
+		504,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 감자를 깍고 일정한 두께를위해 채칼을 이용해 채를썰어주세요",
+		"2. 홍고추는 씨를 빼서 채썰어줬어요 없으시면 패스하셔도됩니다.",
+		"3. 대파도 약간만 썰어주세요",
+		"4. 양파도 채썰어주세요",
+		"5. 스팸도 길쭉하게 썰어줍니다스팸 기름이 싫으시면 스팸을 체에받쳐 따뜻한물을 부어 기름을 빼 주시면 됩니다",
+		"6. 냄비에 물을 넣어 팔팔 끓여주세요",
+		"7. 물이 끓으면 채썰었던 감자를 넣어 30초정도 데쳐주세요너무 오래데치면 안되요^^",
+		"8. 감자는 체에 받쳐 물기를 빼주세요",
+		"9. 후라이팬에 기름을 둘러 달궈주세요",
+		"10. 먼저 스팸을 노릇하게 구워주세요중불",
+		"11. 물기를 뺀 감자를 넣고 어느정도 볶은 후 양파를 넣어주세요",
+		"12. 감자는 볶아주시면서 익었는지 먹어보면서 확인하시고 간은 소금,후추 간을 하시면서 입맛에 맞게 간을 해주시면 되세요 그리고 마지막으로 야채들을 넣고 위에 깨를 뿌리시면 감자볶음 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/0f11cc8e7e2fe95c62da01b94f01a8531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/4e382c56346444895d5d8ca41f7d5c4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/de20c306635e220bf298bfc7be87691f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/ddae1471a6314c8de77e8705ce69e1d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/aba6ca2a5ab30c2f4033c0af76df1cb91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/232eae83b41a2e09870529d0de311f6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/34d2b1cd711d15d847007f9e58ca5b0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/92fe97de842618a541fa34919cfeccf31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/1d16f2fa6b4fdc429a003082203776151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/648d141b278a9c0fae4a52b28182d02c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/43765a8d9961acfe2ecf61688c81c6d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/86790920b9f1be9be0bbd8509ecc4e061.jpg"
+	]
+}

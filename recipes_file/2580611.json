@@ -1,0 +1,122 @@
+{
+	"id": "2580611",
+	"name": "아삭아삭 파프리카잡채",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/fb87442e5449cad638b047dd044378f7.jpg",
+	"url": "https://www.10000recipe.com/recipe/2580611",
+	"ingredient_ids": [
+		302,
+		53,
+		379,
+		226,
+		233,
+		660,
+		379,
+		938,
+		226,
+		660,
+		233,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "당면",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "홍파프리카",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "노랑파프리카",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청파프리카",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "주황파프리카",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 파프리카를 손질하실때에 위꼭지를 아래로 꾸욱 눌러주시면 꼭지와 씨가 아래로 내려간답니다~ 다시 위로 잡아당겨 빼거나 칼로 파프리카를 잘라주시면 된답니다~",
+		"2. 파프리카는 채썰어주시고 표고버섯도 채썰어주시고 당면은 뜨거운 물에 담가 주세요~",
+		"3. 표고버섯은 표고양념에 잠시 재워둔후에 팬에 넣고 볶아주세요.",
+		"4. 당면은 삶아 찬물에 헹구어주시고 물기제거후에 볼에 넣어주시고",
+		"5. 파프리카, 표고버섯을 넣고 양념재료를 모두 섞어 볼에 넣은 후에 섞어주세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/1e7fc4a74bb293d0cfe8780c78dfda591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/1b28ff2b53c1a3d86911a0357c0faca91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/1ffacd346284dc5f81d4d24b00a898921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/42f17de82cc11773efe7eda277280a7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/3f6c2a53e9d420b246c817a3d986caac1.jpg"
+	]
+}

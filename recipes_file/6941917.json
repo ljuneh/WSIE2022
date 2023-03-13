@@ -1,0 +1,49 @@
+{
+	"id": "6941917",
+	"name": "달걀한알된장국:혼밥,덮밥,한그릇밥과 함께",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/5f3fab1fbfa5c3692fcff53d4cbfe96b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941917",
+	"ingredient_ids": [
+		219,
+		848
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시육수(쌀뜨물+다시마+표고가루)1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "부추(또는쪽파)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 쌀뜨물에 다시마 넣고 끓인다. 육수가 있으면 더 좋아요.",
+		"2. 된장을 넣고 한소끔 끓인다.",
+		"3. 달걀은 그릇에 조심스레 껍질깨서 놓는다냄비에 바로 달걀을 깨서 넣으면 껍질이 들어갈수도 있고 노른자가 깨질 수도 있으므로  다른 그릇에 먼저 깨넣는 것이 좋아요. 또 달걀상태를 미리 확인할 수 있기도 하구요. ",
+		"4. 된장국이 끓으면 달걀넣고 다진마늘도 넣는다",
+		"5. 흰자가 다 익으면 불을 끈다",
+		"6. 그릇에 담은 후 쪽파나 부추 등을 쫑쫑 썰어 넣는다 부족한 간은 소금이나 국간장을 넣어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/b1cee8b157c2f14929f939c1f97ebb601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/af9c3b60bc3a2c7a2485d8fc1654ca121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/8e465c6c8fdfc33f8cd17d415e1f4b601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/ea31428642ff302928cae05784c113211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/3d431955795d216853936dde2c18fb421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/33477edce9222f30c57810d45fe875691.jpg"
+	]
+}

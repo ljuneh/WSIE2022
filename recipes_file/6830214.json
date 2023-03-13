@@ -1,0 +1,83 @@
+{
+	"id": "6830214",
+	"name": "채소구이 샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/8d35ced11f5f5987841dab18c188f5ee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6830214",
+	"ingredient_ids": [
+		58,
+		7,
+		18,
+		295,
+		393,
+		226,
+		574,
+		233,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "발사믹식초",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 새송이버섯 2개, 애호박 1개, 가지 한개, 청양고추 2개를 준비했습니다.",
+		"2. 청양고추는 굵직하니 어슷 썰고 버섯, 호박, 가지는 0.5~1 센티 정도 두께로 통썰기 해주었습다.",
+		"3. 그리고 달군 팬에 기름없이 앞, 뒤로 구워 주었지요.",
+		"4. 버섯도 굽고 호박은 소금을 살짝이 뿌려 구워 주었습니다.",
+		"5. 고추도 살짝이 구워 익혀 주었지요. 구워진 채소는 고루 섞이 그릇에 담아 줍니다.",
+		"6. 발사믹 식초 3큰술, 설탕 1큰술, 올리브유 1큰술,다진마늘 1/2큰술, 소금 1/3작은술 로 소스를 만들어 주었습니다. ",
+		"7. 그릇에 담은 구운 채소에 소스를 뿌려 드시면 되겠습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/04466936c1d2ed0533e7b79c4a3a65131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/05918e972f99b1e051e9153ebcc932581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/c7079ab2a4f637c15b18b4a830fc7fe31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/3b27d10e93fc2fe15bb39876a4f4c0421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/e9887ac3587a7cd0ae5967d53a825da21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/35f5265cf6af58025a4106a5626477d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/88e2c9cd20e8878c825bdebbaf006ca31.jpg"
+	]
+}

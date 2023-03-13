@@ -1,0 +1,68 @@
+{
+	"id": "6877412",
+	"name": "명절음식 무우나물 볶기 엄마레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/651e1ba04358250d609ef75df5703f7d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6877412",
+	"ingredient_ids": [
+		497,
+		29,
+		226,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "무우중간크기",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용우",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 무우는 깨끗이 씻어서 채칼로 썰어 놓는다",
+		"2. 준비된 그릇에 무우와 마늘 파를 넣고 식용유 마늘 파를 너고 볶아주다가",
+		"3. 어느정도 무우가 익으면 소금과 설탕을 넣고 약한불로 무우가 투명해 질때까지 볶는다",
+		"4. 무우가 투명해지면 참기름과 통깨를 넣고 버무려 그릇에 담아낸다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/887431207a5fc6d5bebfbf001b768d911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/e90e982dac022288f2b94a34cca080e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/a2c1df66372fe874aff8ca1caa49c5a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/f832c72fa11d45de7986a32c182819111.jpg"
+	]
+}

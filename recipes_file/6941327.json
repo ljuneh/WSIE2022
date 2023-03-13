@@ -1,0 +1,49 @@
+{
+	"id": "6941327",
+	"name": "상추 요리 / 상추 나물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/2734f7dbccdb8c468c8ccf6def4b99a81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941327",
+	"ingredient_ids": [
+		16,
+		233,
+		379,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "상추",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		}
+	],
+	"recipe": [
+		"1. 상추를 준비한다.",
+		"2. 준비한 상추는 뜨거운 물에 소금을 넣고 데친다.",
+		"3. 데친 상추는 찬물에 씻어 물기를 제거하고 먹기 좋은 크기로 자른다.",
+		"4. 자른 상추는 그릇에 담는다.",
+		"5. 다진 마늘, 간장, 참기름을 넣고 무쳐준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/be4ce28631e2e9bb0735485f9c6a061f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/1cb9ee78d743d4b4c5358c1b9f7584821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/a1df943338f5ecd4d3d08d7c93559c851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/5e687b0f5afb798f9d2b0891128c492d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/8d295f380bc1417f89ce8d40f448ab7f1.jpg"
+	]
+}

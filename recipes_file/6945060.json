@@ -1,0 +1,61 @@
+{
+	"id": "6945060",
+	"name": "콩나물무나물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/1095082946a3f477fe47be55da27e3c51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945060",
+	"ingredient_ids": [
+		47,
+		19,
+		995,
+		660,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "10",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 넓은 팬에 불을 켜고 참기름을 둘러 주세요.(팬의 크기에 따라 가감하세요.)",
+		"2. 무를 채썰어 주세요.",
+		"3. 참기름 두른 팬에 무를 넣고 볶아 주세요. 무가 살짝 숨이 죽으면 소금을 살짝 넣고 다시 볶아주세요",
+		"4. 무가 어느 정도 볶아졌다 싶으면 팬의 한쪽으로 밀어주세요.",
+		"5. 씻어놓은 콩나물을 무 옆에 넣어주세요.",
+		"6. 콩나물과 무가 잠길 정도로 물을 넣어주세요.",
+		"7. 뚜껑을 덮고 중간불에 20분쯤 끓이고 마지막으로 소금을 넣어 간을 보면 완성!",
+		"8. 깨소금을 먹을 때 뿌려주면 더 고소하답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/5397101298d17c08f8f0ec7054a4696c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/95c089dfe9e7afa6e2fe69743c299a901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/83f7d449e8bc7bb3118d36de00bdb4f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/c59786db0563d36d94f5a5099cb5cb161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/dc38e1948f83872c3e8674a19e1bb0ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/6b10a16e091e612692635b8fd9b43f991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/4ad7adb43059e928f9ecf7b11d6cb23c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a582ad4f80dbb4d277c7d0266c928ee41.jpg"
+	]
+}

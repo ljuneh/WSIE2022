@@ -1,0 +1,78 @@
+{
+	"id": "6943482",
+	"name": "초보 베이킹 _ 카스텔라 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/68da97c18ece0005f4660a1b35ee43b41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943482",
+	"ingredient_ids": [
+		226,
+		469,
+		884,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "노른자",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "꿀(물엿또는시럽류)",
+			"ingre_count": "45",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "65",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "1",
+			"ingre_unit": "tsp"
+		},
+		{
+			"ingre_name": "중력분",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "흰자",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 흰자와 노른자를 분리해서 흰자는 머랭을 만들어줍니다. 어느 정도 거품이 나면 설탕을 넣어주면서 머랭을 만들어줍니다.",
+		"2. 노른자에 설탕을 넣어서 잘 섞어준 뒤,",
+		"3. 꿀, 카놀라유 , 우유 그리고 바닐라 익스 트랙 순서대로 넣고 잘 섞어줍니다.저는 꿀 대신 물엿을 사용했습니다.",
+		"4. 반죽에 머랭 한 스쿱을 넣고 잘 섞어준 뒤, 그 반죽을 머랭볼로 옮겨서 머랭이 약간 덜 섞일 정도로만 섞어줍니다.",
+		"5. 중력분을 체 쳐서 넣고 벽면을 긁어가며 충분히 섞어줍니다.",
+		"6. 준비된 틀에 넣고 기포를 정리해 준 뒤,  ",
+		"7. 170℃로 예열된 오븐에서 약 30분 정도 구워줍니다.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/c44e8216f5d02463dd0f1ae65658a4001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/0c60127d22d217ad8653e728624569de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/82b61032f0614e43848887ceb9192f481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/de117a09c089025b010bce0ced4b40b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/fbf3eb58bb42e87b8a6d4e8c74ac40af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/89c74744c1d459fb93dc58e503f0ac951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/dea2becbcbe706f1513eb480996ec7bb1.jpg"
+	]
+}

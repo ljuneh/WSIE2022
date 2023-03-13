@@ -1,0 +1,38 @@
+{
+	"id": "1718944",
+	"name": "도가니탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/59f10c204036a392cc35b73c26a0e876.jpg",
+	"url": "https://www.10000recipe.com/recipe/1718944",
+	"ingredient_ids": [
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "한우도가니",
+			"ingre_count": "1",
+			"ingre_unit": "키로"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "리터"
+		}
+	],
+	"recipe": [
+		"1. 도가니는 찬물에 5시간 정도 담가 핏물을 빼 주세요.",
+		"2. 도가니가 잠길만큼의 물을 붓고 10분 정도 팔팔 끓인 후, 물을 따라내고 도가니는 찬물에 깨끗이 씻어 주세요. 냄비도 같이 씻어 주시구요~",
+		"3. 초벌 : 냄비에 도가니를 넣고 물 5리터 넣어 센불에서 끓이고, 끓어 오르면 약불로 줄여 2시간 끓인 후 도가니를 건져 도가니와 뼈를 분리해 주세요. 분리한 뼈는 다시 냄비에 넣고 1시간 이상 은근히 끓여 주시구요~ 건져낸 도가니에 붙은 기름을 떼어 내고 적당한 크기로 잘라 두세요. 중간 중간 위에 뜨는 기름은 제거해 주시구요.",
+		"4. 두벌 : 초벌 국은 시원한 곳에 두고 뼈만 건져 냄비에 넣고 찬물을 부어 팔팔 끓으면 약불로 줄여 은근히 5시간 정도 끓이세요. 이때 뼈 양이 많다면 초벌과 같은 양의 물을 넣으셔도 되지만, 저처럼 뼈 양이 적다면 반정도의 물만 사용하시면 됩니다.",
+		"5. 두벌 끓여낸 다음 뼈는 건져내고 초벌국과 두벌국을 합쳐 팔팔 끓으면 약불로 줄여 3시간 정도 더 끓여 주세요.",
+		"6. 국물에 건져 놓은 도가니를 넣고 한번 끓인 후 송송 썬 대파를 얹어 내고, 소금, 후추, 와사비 초간장과 함께 내시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/da25f92e6dea82649f4143117271e2de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/46c33795477d416fdabb40c2b060c0861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/3900757b4f1aeccc2f305d3c43a8288b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/42881e5cfaf20bffc754e1a338fedb5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/327a6b06009ea5618bd85317feb61d231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/2f6fb419d347a3b7bf088982cd7eb9621.jpg"
+	]
+}

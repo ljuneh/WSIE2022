@@ -1,0 +1,69 @@
+{
+	"id": "2001921",
+	"name": "살캉살캉 감자볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/0cea80f2f36f59f6d5b63f0badb96a71.jpg",
+	"url": "https://www.10000recipe.com/recipe/2001921",
+	"ingredient_ids": [
+		9,
+		504,
+		233,
+		881
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자중",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파중간크기",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "구운소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "설탕이나아가베시럽",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "흰후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 감자는 채를 채줍니다.",
+		"2. 일단 먼저 감자를 찬 물에 2~3번 헹궈줍니다. 그리고 나서 물에 담가두세요.",
+		"3. 물에 헹구고 전분기까지 확실하게 뺀 감자는 체에 밭쳐서 물기를 빼줍니다.",
+		"4. 감자와 같이 볶아줄 양파와 당근도 가늘게 채 썰어서 준비합니다.",
+		"5. 달궈서 기름 넉넉히 두른 팬에 물기를 뺀 감자, 그리고 당근과 양파를 넣고 중불에서 달달 볶아줍니다. 반정도 익으면 여기에 다진 마늘(0.5)를 넣고 전체적으로 마늘의 향을 더해줍니다. 감자가 90% 이상 볶아지면, 구운소금(0.5)과 설탕이나 아가베시럽(0.5), 그리고 취향껏 흰후춧가루를 적당히 넣고서 마저 볶아주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/ab0f81154303221a99e05c9e1c9bab741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/51bb03f7f07728877b22fa758afd92561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/f73f7ced55ff995ad447871e1eeeadc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/5b4c2910fcad961e01f666dad15487b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/45ab125329dd72f35170b55b2a151e4d1.jpg"
+	]
+}

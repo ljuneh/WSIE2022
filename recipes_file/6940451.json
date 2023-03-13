@@ -1,0 +1,72 @@
+{
+	"id": "6940451",
+	"name": "여름에는 양배추김치가 맛있어요, 양배추김치 맛있게 만드는 법, 사과생강쨈으로 만드는 우리 집 양배추김치.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/c5af647f48339f611f9122a40917a1641.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940451",
+	"ingredient_ids": [
+		21,
+		282,
+		390,
+		224,
+		29,
+		3,
+		505
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과생강쨈",
+			"ingre_count": "3/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 1. 양배추는 잎을 한 장 한 장 떼어내고 깨끗이 흐르는 물에 씻어 먹기 좋은 크기로 손으로 그냥 찢어서 소금을 뿌려 섞고 절여요.                   ",
+		"2. 2. 절이는 동안 2~3번 뒤집어 섞어주고 너무 숨이 죽지 않게 절이는데 3시간 이상 절이지 않아요. 절이고 물에 헹군 다음에 건져 물기를 빼요.                    ",
+		"3. 3. 간편하게 모든 양념 재료는 푸드 프로세서에 넣고 갈아 만드는데 양파는 작게 썰어 넣고 파와 쨈 이외에 모든 재료를 넣고 갈아요.                     ",
+		"4. 4. 간 양념에 사과생강쨈을 넣어 잘 섞어요.                    ",
+		"5. 5. 물기 뺀 절인 양배추와 양념을 잘 섞고 실파는 잘게 썰어 넣고 섞었어요.                    "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/9eee1c94af3b2c5d03fcda48e18ef4871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/df5251e7e065b032a839ec828afe5d901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/66acbb3db9f11e3ac62a92a6b9291a031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/c52674e1441b18cb9bc8466b2a085dad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/281d60642c5ebc5548d42bbbeee3d3f41.jpg"
+	]
+}

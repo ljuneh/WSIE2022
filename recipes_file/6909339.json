@@ -1,0 +1,69 @@
+{
+	"id": "6909339",
+	"name": "에어프라이어로 만드는 간단한 드라이토마토!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/02/88f53f20a25ce9abe47925034936fa601.jpg",
+	"url": "https://www.10000recipe.com/recipe/6909339",
+	"ingredient_ids": [
+		371,
+		574,
+		654,
+		574
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "바질가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "로즈메리",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "타임",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		},
+		{
+			"ingre_name": "편썬마늘",
+			"ingre_count": "2",
+			"ingre_unit": "톨"
+		}
+	],
+	"recipe": [
+		"1. 방울토마토는 반으로 자른다.방울토마토 씨를 살짝 제거해주세요.",
+		"2. 방울토마토에 올리브유, 바질가루, 로즈마리, 타임, 후추를 넣어 섞는다,",
+		"3. 에어프라이어 바스켓에 넣는다.에어프라이어",
+		"4. 200도 온도에서 60분간 돌린다.방울토마토의 상태에 따라 시간조절을 해주세요,",
+		"5. 용기에 드라이토마토, 편썬마늘을 넣고 올리브유를 잠기도록 부어 보관해요.취향에 따라 허브 종류를 넣어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/27/3408403f5d2ca0f5a2a78b1b144282021.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/27/5afbb9410ac294f6b5e305f2aac5dc891.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/27/8bcd7cb4ac3d919cdf4c1c4e35d8d1bd1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/27/a3d0736bee339a5ba849e8f4cff7d9ab1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/27/3fa7c98b505009dcac951d2ea6c289de1.png"
+	]
+}

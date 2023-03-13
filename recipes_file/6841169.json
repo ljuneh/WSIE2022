@@ -1,0 +1,130 @@
+{
+	"id": "6841169",
+	"name": "김치닭볶음탕 황금레시피 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/06/385d6e3fb712dbe7609fef6c733fcac81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6841169",
+	"ingredient_ids": [
+		953,
+		19,
+		3,
+		9,
+		5,
+		379,
+		224,
+		226,
+		292,
+		724,
+		233,
+		457,
+		843,
+		473
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "8",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 닭을 넣고 1분간 살짝 데쳐줍니다. 이때 녹차가루나 티백을 넣고 끓이면 녹차가 닭의 지방제거를 해주어서 좋아요",
+		"2. 양념장 만들기 간장8,고춧가루6,설탕3,맛술3,케찹2,다진마늘2,다진생강1/3,카레가루1,매실액1,후추1/4,고추장2 (밥숟가락으로 계량했어요)",
+		"3. 무를 적당한 크기로 잘라 냄비 바닥에 깔어주세요. 그래야지 김치가 타지 않아요.",
+		"4. 무 위에 김치를 올려주세요.",
+		"5. 그다음 준비해놓은 양파,당근,감자를 올려주세요.",
+		"6. 맨위에 데친 닭고기를 올려주세요. 참고로 김치위에 닭을 올림 김치 유산균때문에 닭고기가 질겨질수 있다고하네요.",
+		"7. 만들어 놓은 양념장을 넣고 뚜껑을 덮고 익혀주심 된답니다. (압력솥을 이용할때 압력솥 추가 돌면 중간 불로 낮추고 7분을 끓인 뒤 불을 끄고 15분간 뜸을 들여주심되요)",
+		"8. 보글보글 맛있는 냄새가 솔솔 올라와요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/13/1d9ff8946d7e8f65d67730699d0a030b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/13/3581ca8bc83d2388964391ec50223ad91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/13/e3983a933919f5156ecb3e36ee9067571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/13/a49ae27ff220c257cae0465184b984ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/13/0470e4fe598ff6006bb400ca7e949d111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/13/dfa6e1f6f4c4e99cf6d67512b72d4e871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/13/9a4ad4dc841df0a87e1d6f8edfb0c6721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/13/3a278318ea7cd39395690de1d0b27a671.jpg"
+	]
+}

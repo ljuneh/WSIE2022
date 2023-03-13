@@ -1,0 +1,77 @@
+{
+	"id": "6942403",
+	"name": "간단한 술안주 만들기 골뱅이볶음 만드는 법 술이 술술 들어간다.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/c453dfa95ecb7b662c8e242b1a8f1d7d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942403",
+	"ingredient_ids": [
+		461,
+		3,
+		295,
+		29,
+		379,
+		343,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "골뱅이",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "15",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "볶은참깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 마늘은 반으로 썬다.",
+		"2. 양파는 투박하게 썰고 붙어 있는 것은 손으로 뗀다.",
+		"3. 청양고추와 홍고추는 0.5cm 간격으로 썬다.",
+		"4. 골뱅이는 체에 밭쳐 물기를 제거합니다.",
+		"5. 팬에 식용유 3T를 두르고 마늘, 양파-골뱅이-간장 2T, 미림 2T- 청양고추와 홍고추 순서로 볶다가 마지막으로 볶은참깨 1T를 뿌리면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/2ee48cd9a15ef058cff2ee792979a7b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/37d8f227dabd1d3e1ae78312ad3078361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/b1f916c883c3be781603c5fbd00917351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d890df69c54dd94547b2fa2b1fa9a8c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a78048bfb849468f08fb1a8cb5b26cae1.jpg"
+	]
+}

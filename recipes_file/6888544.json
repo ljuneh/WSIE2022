@@ -1,0 +1,34 @@
+{
+	"id": "6888544",
+	"name": "이보다 더 간단할 수 없다♥치즈토스트",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/05/09/babbb76adf0eb87ee9737a9cde0e64401.jpg",
+	"url": "https://www.10000recipe.com/recipe/6888544",
+	"ingredient_ids": [
+		503
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "슬라이스체다치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 슬라이스 체다 치즈 1개를 반 자른다.",
+		"2. 팬에 약불로 달군 후 치즈를 넣고 치즈가 살짝 녹으면 그 위에 식빵을 올린다.",
+		"3. 식빵을 눌러가며 치즈가 잘 녹게 한다.",
+		"4. 식빵을 뒤집어 식빵에 치즈가 붙을 수 있도록 겉이 노릇해질 때까지 구워 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/09/5ed3c5338642751b89d3e0e47fab50b21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/09/1f9df8783dbe9e991301c355907fc43b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/09/eb73937ff582f72b6fb4e67e13a6d5321.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/09/c49f0258493bd3f260ca859abb32d4571.png"
+	]
+}

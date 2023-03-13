@@ -1,0 +1,49 @@
+{
+	"id": "6872168",
+	"name": "처치곤란 묵은 갓김치볶음~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/03/af009a2891ad8aa910548a2187a078921.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872168",
+	"ingredient_ids": [
+		574,
+		575,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "묵은갓김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "솔솔"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		}
+	],
+	"recipe": [
+		"1. 묵은 갓김치 숑숑~ 썰어 팬에 담고 올리고당2 후추톡톡톡 오일 넉넉히 두르고",
+		"2. 갓김치에 숨이 푹~ 죽을때까지 슥슥~ 볶아주시다가",
+		"3. 통깨솔솔~~ 넣고 휘리릭~ 볶아내시면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/03/bb349fee590567d8d2d43fe562450d061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/03/911586e1d715efc31da7fa2f8771c2d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/03/30205bc00a55514e3d2800097b07e9c91.jpg"
+	]
+}

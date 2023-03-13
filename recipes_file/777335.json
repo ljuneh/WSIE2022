@@ -1,0 +1,85 @@
+{
+	"id": "777335",
+	"name": "이젠 집에서 만들어 먹자 코울슬로",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/98f1e7e9e1ed6227d934a6e331bc8e2d.jpg",
+	"url": "https://www.10000recipe.com/recipe/777335",
+	"ingredient_ids": [
+		497,
+		231,
+		226,
+		225,
+		228,
+		574,
+		627
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추썬것",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "옥수수캔",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "다진당근",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진피망이나파프리카",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "머스터드",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 양배추는 씨성서 물기를 쪽 빼서 듬성듬성 잘게 다져 놓습니다.",
+		"2. 옥수수 통조림을 물기를 빼서 준비하고, 집에 있는 당근, 피망이나 파프리카도 잘게 다집니다.",
+		"3. 볼에 양배추 썬 것, 다진 당근과, 피망, 옥수수를 한데 넣고 밑간재료인 소금 0.2, 식초 1.5, 설탕 0.5, 후춧가루 적당량 를 넣고 살살 섞어 미리 양념합니다.",
+		"4. 또 다시 마요네즈 2, 올리브유 1, 머스터드 0.5 를 넣고 살살 버무려 주면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/81aaccc950a024ed5d7abb14d975e3f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/0d88794e695a41c5dcc61f44897602451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/97cdf6d68028bb76ae751fa424a31f4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/99e1cc44209ff652f6fe0697ce8280061.jpg"
+	]
+}

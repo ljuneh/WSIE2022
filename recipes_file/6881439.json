@@ -1,0 +1,64 @@
+{
+	"id": "6881439",
+	"name": "[한국조리기능사 실기] 육회 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/82caa06de1407d12b75e1cb494726cd41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6881439",
+	"ingredient_ids": [
+		495,
+		142,
+		29,
+		188
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "90",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "A",
+			"ingre_count": "4",
+			"ingre_unit": "용지"
+		}
+	],
+	"recipe": [
+		"1. 고기는 흐르는 물에 씻어 핏기를 없애준다.",
+		"2. 고기는 포를 뜬 후 결 반대로 썰어준다.",
+		"3. 마늘 2톨 정도를 편썰어주고, 나머지는 다져준다.",
+		"4. 파돠 조금 다져준다.",
+		"5. 소금, 설탕, 참기름, 후추, 깨를 순서대로 넣은 후 잘 섞어준다.",
+		"6. 배의 껍질을 벗기고 알맞게 잘 다듬어 준 뒤 일정한 두께로 편썰어준다.배의 끝은 잘라주세요.",
+		"7. 손질된 배와 고기를 다음과 같이 플레이팅 해준다.",
+		"8. 손질한 마늘을 고기 옆에 울타리처럼 붙여준다.",
+		"9. 잣 5개를 A4용지에 올리고 접은 뒤, 칼 면으로 살짝 눌러준다.",
+		"10. 나온 잣은 고기 위에 고며으로 올려 장식해준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/abe406712e330477d05b5a81b516e84e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/bcff66abd07b62edbdfbec8d68481f6d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/99823a601508edfb8090bb0e1803a6081.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/c93f20e41bbcf526c085602e5663b3941.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/0a78ca492065713d5218398f60983b411.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/1b782d04e7eb7235385c5c3d66697dc91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/312ad6bc1836f3842ba744d862f3bfb21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/db8014a5a22c799481c2e00527fa566f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/dce30649bf201389ad0afadb76df70891.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/bf01f1eb0eb4288739a9c44ddf497e021.png"
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"id": "6942498",
+	"name": "아침케이크:밥 대신 빵을 짓다(코로나 극복)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/b4fe95cbb1b0f2601e79653342d6af6b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942498",
+	"ingredient_ids": [
+		219,
+		234,
+		226,
+		373
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "300",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "100",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "16",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 달걀과 설탕을 넣고 뽀얗게 될때까지 섞는다",
+		"2. 달걀과 설탕을 넣고 뽀얗게 될때까지 섞는다",
+		"3. 우유와 올리브오일 넣어 섞는다",
+		"4. 우유와 올리브오일 넣어 섞는다",
+		"5. 밀가루 체쳐 넣고는 가볍게 섞는다",
+		"6. 밀가루 넣고 오래 반죽하면 빵이 질겨져요. (이 케이크 만들 때 요것만 주의하시면 돼요)",
+		"7. 예열시킨 180도 컨벡션오븐에서 40~45분 굽는다.오븐",
+		"8. 예열시킨 180도 컨벡션오븐에서 40~45분 굽는다.",
+		"9. 속은 덜 익고 겉면은 탈 것 같을 때는 뚜껑을 덮어주세요.",
+		"10. 아침케이크 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/03e3b6e5b87d6e21175592404ff777f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e6c29dafc3c6ddff58fb0366fda1e4eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/92db359a158fcaa86954f23fede1ad9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/996ff487448b5f52c12bfbbbdbb3699e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/ad4c7d2d265912bbdbebe0de9c8713a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/b9c13284c5dfbe0bc07fb90c084efecd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/4191a23592c82b7e8aa2aff23c78e4511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/de10a37b14f32d1848efec3936f5f47b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/06cc464d84a06b8a897019f0b5c760ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/97155884ddbbe60c9100233024cc8a781.jpg"
+	]
+}

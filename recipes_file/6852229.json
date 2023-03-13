@@ -1,0 +1,45 @@
+{
+	"id": "6852229",
+	"name": "홍합미역국 시원한 홍합미역국 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/ff09ce192353d0dbaf9b067963013d9f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852229",
+	"ingredient_ids": [
+		265,
+		91,
+		349,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "건홍합",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "3~4큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 건홍합은 미지근한 물에 2시간 정도 불려놓고 미역은 2~3분 정도 물에 담갔다 물기를 빼줍니다",
+		"2. 냄비에 홍합과 참기름을 넣고 달달 볶다가 미역을 넣고 볶아줍니다",
+		"3. 물을 넉넉히 붓고 국간장 3~4큰술을 넣고 소금으로 간을 한 후 한번 끓으면 뚜껑을 덮고 중불에서 뭉근히 끓여줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/4a3ec8a89c7733f5e0fcc7ff7d02bcfd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/b2e2ca799174f8bba68ec0bb52bc1e431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/e0e9240e9cfc78c90217880bdbf3afd61.jpg"
+	]
+}

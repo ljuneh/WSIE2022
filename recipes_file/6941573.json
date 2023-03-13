@@ -1,0 +1,55 @@
+{
+	"id": "6941573",
+	"name": "찰시루떡",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/ade194615295541fd3cd72610d7ef30f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941573",
+	"ingredient_ids": [
+		667,
+		497,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "1",
+			"ingre_unit": "킬로그램"
+		},
+		{
+			"ingre_name": "팥고물",
+			"ingre_count": "600",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "따뜻한",
+			"ingre_count": "",
+			"ingre_unit": "물"
+		}
+	],
+	"recipe": [
+		"1. 통7중 스텐레스찜기와  찹쌀가루,팥고물 준비해주시고",
+		"2. 찜기안에 팥고물→찹쌀가루→팥고물→찹쌀가루→팥고물로 마무리한뒤",
+		"3. 센불에서 30분 쪄주세요 ,이때 떡시루 역할이 되도록 실리콘 패킹을 끼움으로써 집에서도 가능하답니다  통7중의 위력이기도 합니다",
+		"4. 이렇게 팥시루떡이 완성된 모습이에요",
+		"5. 두껍게 두켜했어요",
+		"6. 넘 맛있게 완성입니다~~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/8127d965cbdeb1e2a8d054eac69622f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/07902268c730adb51086a9b67f03fb7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/f0240040c4416048000b6b2ad00081e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/75585944dae04ac4bfd392d743d547ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/2081f0641e261eb4cb04649c93a564711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/61e9416515f19d52a0961e1a0db815831.jpg"
+	]
+}

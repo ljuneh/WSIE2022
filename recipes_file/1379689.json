@@ -1,0 +1,53 @@
+{
+	"id": "1379689",
+	"name": "전복죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/7c713f8edba346f3afbec8445396fbbe.jpg",
+	"url": "https://www.10000recipe.com/recipe/1379689",
+	"ingredient_ids": [
+		86,
+		660,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "불린쌀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다시마물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 전복은 손질 후 내장까지 잘게 다져 주세요~",
+		"2. 불린 쌀은 믹서기로 살짝만 갈아서 준비해 봤어요~",
+		"3. 냄비에 참기름을 두른후 전복을 넣어 살짝 볶아 주세요.",
+		"4. 갈아둔 쌀을 넣어 다시 한번 볶아 줍니다.",
+		"5. 준비된 다시마 물을 넣어 푹 끓여 주세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/df35dad4ba328e03ec9f14474005c1281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/ef1dc6d92dcd00ffd4c4bd86d701d4fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/6cab39da2d2feeb73d525cc7316790e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/cff0f13efa0581144344b9457d8730601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/9661799f7fc2a2bed63b3b55405fde061.jpg"
+	]
+}

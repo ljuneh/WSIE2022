@@ -1,0 +1,97 @@
+{
+	"id": "6941638",
+	"name": "꽃 보다 예쁜 분홍 피클",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/e8cec8e0a0423853f7261d6b1d278c041.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941638",
+	"ingredient_ids": [
+		615,
+		8,
+		19,
+		365,
+		295,
+		231,
+		995,
+		508,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "컬리플라워",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "자색양배추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "미니파프리카",
+			"ingre_count": "5-6개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "방울양배추",
+			"ingre_count": "15",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2-3개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "피클링스파이스",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "소금1Ts+",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "월계수잎3-4장​",
+			"ingre_count": "3-4장 ​",
+			"ingre_unit": "-장 ​"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "C"
+		}
+	],
+	"recipe": [
+		"1. 채소는 물에 씻어 물기를 뺀 후 한 입 크기로 썰어 준비한다.",
+		"2. 분량의 재료를 넣고 끓여 피클주스를 만든다.",
+		"3. 준비 된 채소를 열탕 소독한 병이나 밀폐용기에 담고 뜨거운 피클 쥬스를 조심스럽게 부어 준다.",
+		"4. 2-3일 실온에 두어 익힌 후 냉장 보관 하여 먹는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/a062bdf7fcde6ec06721d7fbd2de94a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/13c00d99ebdbfcc5c4b85faecbce8a5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/a808821e156bb9b5a62f20e3db3719851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/4710b534ee6cb403bf327f7d2e32bbdb1.jpg"
+	]
+}

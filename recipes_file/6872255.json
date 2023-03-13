@@ -1,0 +1,57 @@
+{
+	"id": "6872255",
+	"name": "아삭함을 전하는 여름반찬 참외장아찌무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/05/666598a673b9d9a73322731c38a86cde1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872255",
+	"ingredient_ids": [
+		473,
+		224,
+		29,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "참외장아치",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 참외장아찌를 준비합니다",
+		"2. 물에 살짝 담궜다가 꼭 짭니다",
+		"3. 모든 양념을 넣고 조물조물 무칩니다",
+		"4. 그릇에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/05/3654d27f7e637dbb848cf2f9f71a20bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/05/1c60a7419ddd41555961a6b04c5b4abf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/05/7a6cbda3f3dc67f5bc34ea8e4b7a4bdc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/05/7bf69d896f062a8844fa162fe5b4060d1.jpg"
+	]
+}

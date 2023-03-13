@@ -1,0 +1,56 @@
+{
+	"id": "1792682",
+	"name": "신김치 활용요리~~김치카레밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/20/e3dae2f0d01666d93065324e455fcbc8.jpg",
+	"url": "https://www.10000recipe.com/recipe/1792682",
+	"ingredient_ids": [
+		953,
+		854,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/8",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "중간크기감자",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참타리버섯",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "8",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 김치, 삼겹살, 감자, 참타리버섯을 적당한 크기로 잘라 준비해 주세요. (김치는 찬불에 헹구어서 사용을 했답니다.) 먼저 삼겹살, 김치, 감자를 중불에서 볶아 주세요.",
+		"2. 재료들이 살짝 익으면은 카레가루를 넣어 재료들과 잘 어우러지게 섞어 주신 후에 물을 재료의 1.5배정도를 넣고 푹 익혀 주세요. 재료들이 거의 익을 무렵 참타리버섯을 넣고 마무리 지어 주시면 된답니다.",
+		"3. 보글보글 맛나게 끓고 있는 김치카레밥완성입니다.",
+		"4. 밥과 같이 곁들여주시면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/9f072a90924625be7f589c4f3a8d68b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/79bc2f174b1dcf272ff00596f36ba7d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/df74f265b4a9222b575f0f8dc5454b351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/1875e719e46bb1de2491ebcf8d44a8931.jpg"
+	]
+}

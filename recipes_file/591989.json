@@ -1,0 +1,78 @@
+{
+	"id": "591989",
+	"name": "등갈비바베큐 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/2458d8d287130aafad01dd1a101c13f6.jpg",
+	"url": "https://www.10000recipe.com/recipe/591989",
+	"ingredient_ids": [
+		960,
+		497,
+		608,
+		857,
+		3,
+		514,
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "등갈비",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "생강술",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바베큐소스(핫토픽)",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "핫소스",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 등갈비를 찬 물에 1~2시간 담가 핏물을 충분히 뺀 다음 밑간하고 슬로우쿠커에 담아 강으로 조절한 후 2시간 두었더니 말랑말랑 잘 익었네요. 그리고 핫토픽에서 나오는 바베큐소스와 핫소스, 양파와 마늘을 준비했답니다. (바베큐소스는 만들어 쓰셔도 좋고 마트에서 구입하셔도 좋답니다)",
+		"2. 양파와 마늘은 핸드블렌더에 넣어 휘리릭 돌려 잘게 다져서 분량의 바베큐소스와 물 반컵을 넣어 끓이다가 양파와 마늘이 부드럽게 익고 소스가 끈적해지면 불을 끕니다. 그냥 바베큐소스만 발라서 구워도 되지만 육고기에는 항상 양파와 마늘을 넣으면 맛도 좋고 건강에도 좋답니다.",
+		"3. 부드럽게 익은 등갈비에 졸여낸 소스를 발라 2시간 정도 재워놓았어요. 소스가 살 속에 푹 들어가도록이요. 그 다음 180도 컨벡션오븐에서 15분간 구운 다음 뒤집어 남은 소스를 한번 더 바른 후 10분간 구워내면 끝.(살은 다 익은상태라 오븐열풍에 소스만 드라이하게 바싹 졸여주면 된답니다.)오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/db5e7a306dd6122f0b7f4e2003b7dfbe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/3b47df4d3ae9a622e295260a2de672b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/53306457616984b508a71280aeb33b2d1.jpg"
+	]
+}

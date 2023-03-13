@@ -1,0 +1,63 @@
+{
+	"id": "3477303",
+	"name": "바지락 냉이 된장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/01/883766f032155f89eb39552e92d888831.jpg",
+	"url": "https://www.10000recipe.com/recipe/3477303",
+	"ingredient_ids": [
+		46,
+		27,
+		84
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "냉이",
+			"ingre_count": "130",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "청양고추小",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바지락",
+			"ingre_count": "150",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "다시마2장(5x5)",
+			"ingre_count": "2장(5x5)",
+			"ingre_unit": "장(x)"
+		},
+		{
+			"ingre_name": "국멸치",
+			"ingre_count": "7",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "시판된장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 냉이는 뿌리까지 먹기 때문에 깨끗히 씻어 주시는 것이 포인트예요. 뿌리와 잎을 연결하고 있는 부분을 특히 깨끗히 정리 해주셔야 해요. 냉이는 겉의 마른잎을 떼어내고 뿌리는 칼로 살살 긁어요. 물어 서너번 흔들어 씻은 후 체에 밭쳐 준비 해주세요.",
+		"2. 바지락은 해감을 해주셔야 하는데요. 요즘 마트에 판매되는 것들은 해감을 생략 해주셔도 된답니다. 바지락은 물에 담궈 서너번 헹궈서 준비 해주세요. 냄비에 다시마, 국물용멸치, 바지락 그리고 물 6컵을 넣고 중불에서 끓입니다. 물이 보글보글 끓으면 다시마는 미리 건져내고, 약불로 줄여서 5분동안 끓여요. 5분이 경과하면 불에서 내린 후 체에 걸러 주세요. 바지락은 나중에 다시 사용 할 것이니 버리지 마시고 따로 담아 놓아요.                   ",
+		"3. 바지락 육수에 시판 된장 4큰술을 체에 밭친 상태로 풀어 주세요.",
+		"4. 된장을 푼 육수를 불에 올려 주세요. (물이 끓을 동안 대파와 청양고추를 미리 썰어 줍니다.) 중불에 놓고 보글보글 끓으면 손질해 두었던 냉이를 넣어요.                   ",
+		"5. 냉이가 어느정도 숨이 죽으면 따로 덜어 놓았던 바지락과 대파, 청양고추를 넣고 한소끔 끓이시면 끝이예요. 혹시나 간이 부족하시면 소금간 해주셔도 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/03/9f8850188b9a2cacfb57f3ae6de673281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/03/396320880ad2b7f0db4a6b4d045540eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/03/1a5b93a4ac4440d749c7e41468688d201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/03/f236baacb1aba3c0816625f87111a6591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/03/dd36cf6301a5ef553cb73e9b2831b0fb1.jpg"
+	]
+}

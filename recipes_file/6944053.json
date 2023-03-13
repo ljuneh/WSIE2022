@@ -1,0 +1,120 @@
+{
+	"id": "6944053",
+	"name": "오동통한 동죽을 호로록! - 동죽 칼국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1ffd7bbd03a7f983bc0f548013a93a471.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944053",
+	"ingredient_ids": [
+		1002,
+		325,
+		29,
+		349,
+		3,
+		9,
+		27,
+		497,
+		320,
+		90,
+		259,
+		3,
+		19
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "칼국수",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "동죽",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "건표고",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		}
+	],
+	"recipe": [
+		"1. 호박,당근,양파,홍고추는채를 썰어서 준비해주고 동죽은 해감을 해서 준비해준다",
+		"2. 다시마/멸치 육수와 함께 동죽육수를 사용하기 위해 먼저 동죽을 데쳐준다.  익은 동죽은 따로 꺼내놓고, 육수는 멸치/다시마육수와 섞어서 사용한다멸치 다시마육수만 사용해도 상관없지만 좀더 시원한 맛을 내기위해 동죽육수도 같이 넣어줬어요. 1:1비율로 넣어줍니다. ",
+		"3. 끓는 물에 칼국수 면을 넣고 풀어준다                     \r                             우리밀이좋다 통밀 칼국수 (1인분x5봉)                          ",
+		"4. 바로 채썰어둔 호박/당근/양파를 넣고 끓여준다 끓이면서 마늘을 넣어준다",
+		"5. 한소끔끓으면 불을 줄이고 데쳐진 동죽을 넣어준다. 기호에 따라 국간장이나 소금으로 간을 더해준다",
+		"6. 마지막으로 홍고추와 대파를 넣고 마무리~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/07a5acb8f94db1924f40567f8a271d791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/6ffc712a8cce89de6c0209775373da7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/a4522064c2ad6a65b611329f98415d381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/bbc0c0b48f11e0a4a96dff70e44e57a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/9a09be6c522f50030b374c6109f351ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/8af4aa6eb3687aef11bd6490842ea3e81.jpg"
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "6846178",
+	"name": "누구나 입맛 다시게 하는 등갈비김치찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/09/a509dff6e96efe6778d3e16e59153eb31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846178",
+	"ingredient_ids": [
+		850,
+		923,
+		876,
+		29
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지등갈비",
+			"ingre_count": "1",
+			"ingre_unit": "Kg"
+		},
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "1",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "파김치",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "무김치",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소고기다시다",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "피쉬소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 쌀뜸물에 고기 소주조금를 넣고 30분정도 담가둔후 깨끗히 씻습니다",
+		"2. 쌀뜸물을 끓입니다",
+		"3. 물이 끓으면 고기를 넣습니다",
+		"4. 김치국물과 마늘을 넣고  고기에 양념이 베이도록 익힙니다",
+		"5. 고기가 반쯤 익었을때  김치를 넣습니다",
+		"6. 고기와 김치를 익힙니다",
+		"7. 그릇에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/09/e721bc4747620beddca06b2dae83da5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/09/ca5a9c7b7a5faaffe6a3909c40a03f7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/09/275294d15cabe4a456619b9b6ffdcf4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/09/3dd757d489c412ece4b7243f765c02b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/09/dc29d5c814619ecd0c64e0359f9c348c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/09/c72f30dbb2e5059f63b0f908fab06e321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/09/7b008bf867abde095a322dc66f82b6291.jpg"
+	]
+}

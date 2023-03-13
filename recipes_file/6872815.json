@@ -1,0 +1,79 @@
+{
+	"id": "6872815",
+	"name": "생선찌개 맛있게 끓이는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/16/2ca37e6528ca3d3baec88cbd1bc5ed101.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872815",
+	"ingredient_ids": [
+		1015,
+		19,
+		27,
+		333,
+		224,
+		323,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "생선",
+			"ingre_count": "4",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 무 껍질, 멸치, 다시마를 넣고 육수를 만들어준다.",
+		"2. 대파, 청양초, 마늘을 준비한다.",
+		"3. 납작하게 썬 무를 먼저 넣어준 후 끓여준다.",
+		"4. 무가 익으면 고춧가루, 멸치 액젓으로 간을 맞춘다.",
+		"5. 생선은 소금 간을 해 두었다가 넣으면 살이 잘 부서지지 않는다.",
+		"6. 두부, 썰어둔 채소, 마늘을 넣어준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/24/8132f218183f4e75dd4c862fe58f68751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/24/19adb2a2b5777725201f8060c1733e771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/24/b91f2d9ac2a16a6c1cbceeba042980e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/24/08ba8c2ca275f2f95df34cdd271971071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/24/de1ee5a73ff09ca0f67f1b962f791e3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/24/cea1047cd956092bd0a1fd798ad0f71d1.jpg"
+	]
+}

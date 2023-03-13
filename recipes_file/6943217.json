@@ -1,0 +1,87 @@
+{
+	"id": "6943217",
+	"name": "로스티드 레몬갈릭버터 치킨(Roasted Lemon Garlic Butter Chiken)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/7627d6111ff7d60943704bdccebe821d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943217",
+	"ingredient_ids": [
+		104,
+		134,
+		198,
+		574
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "닭영계",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "감자작은사이즈",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "단호박중간사이즈",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "옥수수",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깐마늘",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "레몬",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "각종허브",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 먼저 닭을 깨끗하게 씻어 주세요.",
+		"2. 소금, 후추, 바질가루, 마늘가루, 올리브유를 뿌려 주시고 잘 문질러 주세요.이렇게 밑간을 해둔 닭은 냉장고에서 1시간 정도 넣어 주세요.",
+		"3. 온전한 레몬 2개를 사용하시는 분은 적당히 썰어서 치킨 속에도 넣고 레몬 슬라이스를 치킨 위에 두셔서 데코 용으로 쓰셔도 좋을 것 같아요.레몬은 2개 분량인데, 저는 베이킹할 때, 레몬을 자주 써서 제스트랑 몸 통 쪽은 미리 손질해서 보관하고 양쪽 꽁다리(?) 부분은 따로 모아서 냉동해 두어요.그럼 이렇게 요리에 쓰기도 하고 좋답니다!",
+		"4. 냉장고에서 약 1시간 정도 둔 치킨 속에 레몬과 깐 마늘을 꽉꽉 넣어 주세요.이렇게 속을 꽉꽉 채워 주시면 구울 때, 모양이 흐트러지지 않고 유지가 돼요.",
+		"5. 150도로 예열한 오븐에 50분 구워주었어요. 먼저 이렇게 치킨만 초벌구이를 합니다.오븐치킨이 영계라서 작지만 그래도 굽는 시간이 걸리기 때문에 처음부터 감자랑 마늘 같은 다른 채소와 함께 구우면 치킨이 다 익을 때까지 구우려면 나머지 채소들은 타버리니 주의해 주세요.",
+		"6. 그동안에 다른 야채들을 손질해 둡니다.감자는 웨지 스타일로 잘라서 소금, 후추, 각종 허브랑 버무려 둡니다.",
+		"7. 치킨이 초벌로 구워졌어요.",
+		"8. 그 치킨 옆에 여러 채소들을 같이 올려주세요.옥수수랑 마늘 위에는 버터도 조금씩 올려주세요.갈릭콘, 갈릭버터가 되겠죠? 치킨 위에도 버터를 조금 올려서 윤기를 내주고요. 각종 채소 위에 허브(바질, 파슬리, 로즈마리)가루를 뿌리고 올리브유를 한 바퀴 휙 둘러주세요!",
+		"9. 짜잔! 로스티드 레몬 갈릭 치킨 완성입니다!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/f72843a3465079e5f7d1f50d33af028b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/5c19eef0fb0b87addcb56857dd10f9991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/c344df18a47f1441be0b53afbcf3aba71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/16dba79adca2bd6937de6103cf6bfd681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/68a83e3927f4cdf946d56d9929a672b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/45da88c2db626a836a7b55d9743607911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/f083d68b564aae339a2b3dcd2a1d6fe61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/ed62b59bed13792c0d48c1ab6e72c6d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/58cfb58cfab63614192c9645a0922ef91.jpg"
+	]
+}

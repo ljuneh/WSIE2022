@@ -1,0 +1,75 @@
+{
+	"id": "6847321",
+	"name": "백종원 오이미역냉국 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/29/7df96ef2bbf64ae376e2e840a4874ba11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847321",
+	"ingredient_ids": [
+		8,
+		91,
+		290,
+		995,
+		497,
+		226,
+		231,
+		843
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "6",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 미역과 오이를 준비해주세요 오이는 소금을 이용해 세척해주시고, 미역은 불려주세요",
+		"2. 건미역은 아주 조금만 불려도 양이 확 늘어날수있기때문에 조금만 불려주세요^^;;",
+		"3. 오이는 채썰어서 준비해주세요",
+		"4. 불린 미역은 듬성듬성 먹기 좋게 잘라주세요",
+		"5. 물 600ml, 소금1, 설탕4, 식초6, 매실액1을 넣고 양념국물을 만들어주세요~ *저는 너무 짤꺼같아 소금은 0.5만 넣었어요 국물 만들어 간보시고 추가해주세요^^",
+		"6. 채썬오이,미역을 만들어놓은 국물에 넣고 깨1스푼 넣어주면 완성입니다^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/29/f89513a81806b872f84bca68d1140f401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/29/c023f1eb939f75f6a50214fb975c3faa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/29/4508e4289426331b1d40cc3e30e9ff151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/29/8403c27993a8ba59f9864aa1a01a64f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/29/ad754734055481ee5a963af6cabf95f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/29/b2bb1db116d9770dd0afbc033170a2ed1.jpg"
+	]
+}

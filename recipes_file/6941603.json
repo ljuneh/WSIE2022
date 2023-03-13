@@ -1,0 +1,128 @@
+{
+	"id": "6941603",
+	"name": "촉촉한 빅토리아 케이크(ver.생크림)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/65148db8b31e7730db2a11367d22d1ed1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941603",
+	"ingredient_ids": [
+		696,
+		198,
+		483,
+		227,
+		373,
+		497,
+		884,
+		485,
+		483
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식물성오일",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백설탕",
+			"ingre_count": "170",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라페이스트",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백설탕",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "딸기리큐르또는후람보아즈리큐르",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "딸기쨈또는산딸기쨈",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 분량의 버터, 식물성 오일, 우유를 중탕으로 녹인 뒤, 식혀둔다.식물성 오일은 별다른 향이 없는 포도씨유, 해바라기씨유 등을 쓰면 된다.",
+		"2. 분량의 계란과 꿀, 설탕, 바닐라 페이스트를 섞은 뒤, 조금 따뜻한 물에 중탕을 하면서 핸드믹서로 튼튼한 계란 거품을 올려준다.계란 혼합물은 너무 뜨겁지 않게, 약 35~40도 정도로 높여주면 거품이 잘 올라온다.",
+		"3. 분량의 가루류들을 계란 거품에 체쳐넣고 잘 섞는다.주걱으로 믹싱볼 바닥에서부터 계란거품과 가루를 떠올리듯이 움직이면 골고루 잘 섞을 수 있다.",
+		"4. 본반죽의 일부를 준비한 데운 유지류에 넣고 잘 섞는다.",
+		"5. 본반죽에 유지가 섞인 반죽과 바닐라 익스트렉을 넣고 섞어 반죽을 마무리 해준다.",
+		"6. 완성된 반죽은 원형틀 2호(18cm) 2개에 패닝하고 170도에서 30분내외로 구워낸다.18cm 높은 원형틀 한개로 구워도 괜찮다. 단, 굽는 시간은 다르다.",
+		"7. 잘 구워진 시트는 뒤집어서 식혀준다.생각보다 부드러운 시트라 찢어지지않게 주의하자.",
+		"8. 시트가 식는 동안 생크림을 준비한다. 생크림에 거품이 좀 올라오면 설탕을 넣고 휘핑한다.생크림은 차가운 상태에서 거품이 잘 올라온다.",
+		"9. 90~95%정도 올라온 생크림에 딸기 리큐르나 후람보아즈 리큐르를 넣고 섞어준다.리큐르가 없으면 생략 가능하다.",
+		"10. 윗부분을 얇게 잘라 준비한 시트에 생크림을 두텁게 올려준다.",
+		"11. 준비한 딸기쨈이나 산딸기쨈을 생크림 위에 듬뿍 발라준다.시트도 두께가 좀 되고 생크림도 많이 올려서 쨈을 넉넉하게 올려야 케이크를 먹을 때 딸기맛을 느낄 수 있다.",
+		"12. 남은 시트를 위에 얹어 완성해준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/5f304be93e1ccedf3b2cf05f754f60321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/503c60a02c8ad675b5981ad955b050a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/f0a1df1cf5ec81543da208efae8769511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/a80e94d11a7b3cfad2e77b526d0a11ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/2ddb8a73f9037a2087cfc7b31a5e05151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/55a9caaa8cb846c27998e5f1b82c4bf71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/2aa05d170484e7658bec0e6ecaabaf3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/091f21bd2e3d703187a1808d726b70931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/2087490f1449b2edebdb9dfb09291d961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/41902eff80018d81183a2b246a151faf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/347da5bcb07942b983c3edf952ebaeac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/24497739b97d296eca7dcb190bfae7d41.jpg"
+	]
+}

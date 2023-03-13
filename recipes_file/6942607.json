@@ -1,0 +1,95 @@
+{
+	"id": "6942607",
+	"name": "코로나극복 소갈비탕 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c86b5298e7b3676addc128dec375adbb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942607",
+	"ingredient_ids": [
+		495,
+		19,
+		27,
+		3,
+		158,
+		132,
+		29,
+		28,
+		379,
+		231
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "1",
+			"ingre_unit": "키로"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "6",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "말린표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "겨자소스",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 소고기는 2시간정도 핏물을 뺀다핏물빼는동안 무.양파.대파.마늘.생강.표고.사과 씻어놓기",
+		"2. 2시간 핏물뺀 고기는 팔팔끓는물에 5분센불5분간 끓여내면 불순물 제거 쉽다",
+		"3. 5분끓인고기 씻기고기를 씻을때 보이는 기름도 떼어주기",
+		"4. 고기가 잠기게 물붓고 끓이기중불에 1시간가량 끓인다중간중간 기름 걷어내준다",
+		"5. 중불에1시간 끓이고나면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/ced3d0cc2356884af4a67170c7748c0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/e9b8840d20e6ec7521648ae7560f78af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/bdf87c6135f986b73f97c8f321206dc41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/64306e4924a2e2311d68f23e2e32dfcd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/6aa1670fd837dcc65bff7c8455b6ce501.jpg"
+	]
+}

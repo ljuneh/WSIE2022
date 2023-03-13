@@ -1,0 +1,82 @@
+{
+	"id": "4088595",
+	"name": "두부 강정 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/2541e1b93570a146ce872365b353cfcf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/4088595",
+	"ingredient_ids": [
+		846,
+		724,
+		473,
+		226,
+		575,
+		497,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부1+1/2모",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "녹말가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 키친타월 위에 두부를 놓고 물기를 어느 정도 빼 줍니다.",
+		"2. 두부를 1.5~2cm 크기로 썬 다음 녹말가루를 묻힙니다. 저는 녹말가루를 한쪽에 부어 하나씩 하나씩 묻힌 후 바로 팬에 넣어 굽습니다.",
+		"3. 다 구운 두부를 키친타월에 놓고 기름을 빼 줍니다.",
+		"4. 다진마늘 1큰술, 다진양파 3큰술, 청주 2큰술, 케찹 1큰술, 고추장 2큰술, 설탕 1작은술, 올리고당 2큰술, 소금 조금을 넣어 양념을 만듭니다.",
+		"5. 조금 조려지면 구워 둔 두부를 넣고 재빨리 버무린 뒤 그릇에 담아 냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/d0fef55762bfd4114f852177547855b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/d890aca699759bee5da78cc02b2f90581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/820ef41e571bc62edb054d475e0c53b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/b4eb5c65c6b99fb1af16b9b09ab61fe11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/240a037f214161faf19be9a2183f8a0d1.jpg"
+	]
+}

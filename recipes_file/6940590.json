@@ -1,0 +1,97 @@
+{
+	"id": "6940590",
+	"name": "짜짜짜! 오리지날 단짠 푸드 - 짜장밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/f4eb009947d5fff232e064b2646af6fe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940590",
+	"ingredient_ids": [
+		226,
+		477,
+		995,
+		5,
+		3,
+		325,
+		21,
+		9,
+		27,
+		487
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "춘장",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "6",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 모든 재료는 한입크기로 썰어서 준비해 둡니다. 양파 1/4는 잘게 썰어 따로 준비해둡니다.",
+		"2. 기름을 충분히 두리고 파를 넣고 파기름을 내줍니다.  파기름이 충분히 나오면 잘게 다진 양파를 넣고 함께 볶아 줍니다.",
+		"3. 잘게 다진 양파도 충분히 볶아져서 투명해 지면 춘장을 넣고 함께 볶아 줍니다. 쎈불에서 5분정도 볶다 보면 기름이 따로 춘장과 분리가 되는데요 거름망을 이용해서 춘장과 기름을 나눠주세요",
+		"4. 달군 팬에 양배추를 제외한 고기 & 야채를 넣고 볶아주세요. 마지막에 양배를 넣어주세요.  야채볶을때 설탕 2T를 넣어줍니다.",
+		"5. 볶아진 야채에 춘장을 넣고 물 & 전분을 넣어가며 농도를 맞춰 주세요.  간을 보며 설탕이나 소금으로 맞춰주세요.",
+		"6. 완성입니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/641a18c9eddbb3485c21453a13d641f31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/ec11022b52632c35d8cd4054677d06f31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/fca7755cd761461baa0acb8395f6518f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/4df47e5ab1b2db3a8791e5de135b91b11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/c680fe87346e6488352020d50101f2d21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/6581511625a1777347ae8d4acad9e6fe1.png"
+	]
+}

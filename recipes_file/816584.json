@@ -1,0 +1,82 @@
+{
+	"id": "816584",
+	"name": "두부탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/57acfe842d52446b433b552319744a1f.jpg",
+	"url": "https://www.10000recipe.com/recipe/816584",
+	"ingredient_ids": [
+		323,
+		3,
+		27,
+		237,
+		287,
+		233,
+		497,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "멸치다시마육수",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 국물의 기본인 멸치다시마육수 만들기. 잔하게 멸치다시마 육수를 만들어 준비하고(육수는 3컵 정도 나오게 하시면 돼요.)",
+		"2. 두부는 반을 잘라 사용 (보통 시판되는 두부 2분의 1모를 사용했어요. 나머지는 그때 두부쌈장 만들어 먹었지용. 두부쌈장도 같이 꼭 만들어 드셔 보세요.)두부는 시판되는 두부를 사용한 건데요. 두부 맛이 고소한 종*집 직접 갈아 어쩌구 한다는 두부를 사용했어요. 전에 두부쌈장과 더불어 이 탕도 그 두부를 사용해야 맛있더라고요. 암튼 어떤 회사 두부건 이 탕요리는 국산콩으로 만든 두부를 사용하면 좋을것 같아요. 그래야 맛있거덩요.",
+		"3. 두부(2분의 1모-약 200g)는 손으로 듬성듬성 부숴주고 너무 잘게 부수지는 말고요. 그냥 대충 손으로만 잘라주듯이 해주세요.",
+		"4. 부순 두부에 고추기름(2), 까나리액젓(2), 다진 마늘(0.5), 소금(약간)을 넣고 살살 섞어 양념하고 저는 저기 보이는 소금, 왕소금 사용했어요. 그냥 국에 간을 할 때도 천일염을 사용하면 저는 더 맛있더라고요. 일단 조금 넣고 나중에 맛을 보아서 더 간을 하도록 하시고요. 그리고 미리 까나리액젓으로 두부 안에 양념이 배라고 넣어 주었지요. 국물요리에 액젓을 사용하면 훨씬 감칠맛이 돌아 맛있어요. 일반 국 간장과 더불어 액젓은 꼭 두고 사용해 보세요. 또 고추기름이 없다면 이 과정에서 고춧가루(1)와 일반 식용유(1)를 넣고 해보시고요. 나중에 칼칼한 맛은 고추를 조금 썰어 넣어 끓여 주시면 될것 같아요.",
+		"5. 위에 양념한 두부를 냄비에 넣고 달달 볶다가",
+		"6. 두부가 어느정도 볶아졌으면 미리 끓여 놓은 멸치다시마육수(3컵)를 넣고 바글바글 끓여 주고",
+		"7. 어느 정도 끓여졌다 싶으면 얇게 채 썬 양파 (작은것 4분의 1개 분량)와 어슷하게 썬 대파(적당량)를 넣고 한소끔 더 끓이고, 마지막으로 맛을 보아 소금, 후춧가루로 간을 하면 끝. 저는 앞서 간이 많이 되서 소금은 따로 넣지 않고 후춧가루만 살짝 더 넣어 주었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/e7fb165293631e06324d29948a2577f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/17f0db4d546f9682b16c9346014d28451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/318967dd04e6ad0b799e5737d336e3d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/f6c5687d4f0c13c7bd5058e60a7e86781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/851a84b4658e1dc751090d05914835b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/7c2f5822dd28387a34c2f4c3fc349f361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/43f25f1d4cf66fe527b239801b62f3df1.jpg"
+	]
+}

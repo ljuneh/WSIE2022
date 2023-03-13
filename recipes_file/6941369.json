@@ -1,0 +1,84 @@
+{
+	"id": "6941369",
+	"name": "마라가지덮밥 레시피, 맛있는 한 그릇 요리 만들기!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/e07235c36dbad682ab39ae279e2cae2b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941369",
+	"ingredient_ids": [
+		18,
+		3,
+		323,
+		1013,
+		757
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "하오츠마라소스",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진돼지고기",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청피망",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "홍피망",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/4",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "전분물",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 가지는 꼭지를 잘라 3등분한 후 먹기좋게 손질합니다.",
+		"2. 양파와 청피망, 홍피망은 잘게 채썰어주세요.당근이나 대파 애호박 배추 등 취향에 따라 다양한 채소를 넣어주셔도 좋아요~",
+		"3. 두부는 작게 깍둑모양으로 준비해주세요.덮밥에 들어가는 두부는 작게 썰어주세요^^",
+		"4. 가지는 기름을 넉넉히 두른 팬에 튀기듯이 볶아주세요. 노릇노릇하게 튀겨지면 키친타월에 건져 기름기를 빼줍니다.",
+		"5. 준비된 재료들을 볶아주세요. 먼저, 청/홍피망을 볶아주다가 돼지고기를 넣고, 후추를 살짝 뿌려 볶아줍니다.",
+		"6. 고기가 익으면 튀겨진 가지와 두부를 넣고 하오츠 마라소스를 잘 흔들어 부어줍니다. 보글보글 끓기 시작하면 전분물을 넣고 마무리합니다.전분물은 휘리릭 저어 뭉치지 않게 해주세요!",
+		"7. 따뜻한 밥위에 부어주면 완성입니다 ^^볶음밥이 아닌 덮밥이기 때문에 따뜻한 밥으로 준비해주세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/1015f909a4131db9ab6b73206d5623291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/fc3bb653deacfe492b7b339e58eb0d271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/0397ef5ab79c32af8f6a66793eaf9fa81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/1b94abb6931bfe50b9b946b8b0583fbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/0e2a7c1f89e7ce089b8f7f058e3fc16f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/f4219b18874af83af4fdc4bd6b72a5251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/72dffa64b7b012052acbd5a5f05159cf1.jpg"
+	]
+}

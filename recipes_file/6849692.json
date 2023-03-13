@@ -1,0 +1,52 @@
+{
+	"id": "6849692",
+	"name": "가시오가피순 장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/05/3e340b778322c6d6e6e414beaff2e23f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6849692",
+	"ingredient_ids": [
+		379,
+		231,
+		938,
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "가시오가피순",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 왼쪽부터 간장 : 식초 : 매실청 : 물 1 : 0.7 : 1 : 1 비율로 준비 했어요.",
+		"2. 물, 간장, 매실청을 팔팔 끓이다가 식초는 마지막에 넣고 한번 더 팔팔",
+		"3. 용기에 가시오가피순을 넣고 끓인 간장물을 부어주면 끝.",
+		"4. 식혀서 냉장실에 넣어두고 고기를 먹을때 함께 먹어주면 가시오가피순 향이 솔솔 풍기면서 은근한 쌉싸름함과 줄기의 아삭함이 엄지 척척. 장아찌를 담근후 3일 지난 모습이구요. 저는 장아찌를 담고나서 하루만 지남 먹기 시작을 합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/08/ba74d9c20778e3dc34e48f38a400204a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/08/1b9481c9d2a8651e45e37faa7a3082da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/08/7948f0d35be2d7a211f943d8c2e6e7451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/08/d3747faa35503397261c79e40f7bf59f1.jpg"
+	]
+}

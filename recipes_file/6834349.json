@@ -1,0 +1,44 @@
+{
+	"id": "6834349",
+	"name": "레몬청",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/3c2717fb0b3d776fccec2be58c98bc5f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6834349",
+	"ingredient_ids": [
+		134
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "레몬",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "흰설탕",
+			"ingre_count": "800",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 베이킹소다를 물에 희석시켜 레몬을 10분정도 담궜다가 흐르는물에 문질러 씻어줘요",
+		"2. 굵은 천일염으로 벅벅벅벅 문질러줍니다  소금기를 씻어주고 팔팔끓는물에 10~20초정도 퐁당해줘요",
+		"3. 다시 미지근한물로 씻어주고 식초물에 10분정도 담궈줬다 흐르는 물에 뽀드득해질때까지 씻어주어요",
+		"4. 깨끗한 면위에 건조시켰다가 물기가 마르면 슬라이스 해주죵",
+		"5. 양쪽 꽁지과감하게 잘라내주고 씨도 발라내줘요 안글엄 쓴맛이 나요",
+		"6. 요리 꽁지와 씨를 발라낸거죠 레몬은 세척이 힘들긴하죵 요고 하고 났더니 손이 후들후들 떨리네요",
+		"7. 저울에 올리고 레몬설탕레몬설탕 켜켜이 1:1로 넣어주었어요",
+		"8. 마지막에 설탕으로 입구를 막고 공기차단 해주었어요 이렇게 레몬청 완성 입니다 위아래로 자꾸흔들어 설탕을 녹여줘요",
+		"9. 이렇게 설탕이 다 녹으면 냉장보관 들어갑니다 저희집은 최소 3주~4주 정도는 숙성 하고 먹어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/392dfb63c76484577f1e43118feadd611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/16bf6f51e3f43854d4e7197d2fec422a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/2723827820a49d71fb2b4969d814ca7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/406d0bd6304c7333687c8f86d76aefa11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/723d5967f3cba4641a735d7ba7226f4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/f53d9c4681a2b1bb99942e32df6c562d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/a1110f5d5dce74f8cb446a0f3bb4e9ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/f92e4591407f452d3a632283fb28d7111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/60183a2e0de18654fad4b2a246bd3a641.jpg"
+	]
+}

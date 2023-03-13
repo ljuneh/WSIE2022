@@ -1,0 +1,51 @@
+{
+	"id": "6942866",
+	"name": "<세종댁달순레시피> 초간단 푸딩 일식 계란찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/7dd59d65bf1b379042fd52a2ce4fad431.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942866",
+	"ingredient_ids": [
+		390,
+		846,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 계란과 물은 동일한 양을 준비하고 계란 깨서 잘 풀어줍니다.계란(6개), 물(은 계란을 풀었을 때 동일한 양)똑같은 그릇으로 계란과 물의 양을 같이 하시면 더 부드러운 계란찜을 만들 수 있습니다.",
+		"2. 계란과 물을 번갈아 가면서 조금씩 계란끈을 걸러줍니다한번에 채에 넣어주면 알끈이 잘걸러지지 않을 수 잇으므로 계란과 물을 번갈아 가면서 조금씩 계란 알끈을 걸러줍니다..  (일반 계란과 다른 방법으로 푸딩계란찜을 만들기 위한 방법입니다.)",
+		"3. 계란 물에 새우젓, 우유, 설탕, 청주를 넣고 섞어줍니다.계란물, 새우젓(1수저), 우유(2큰술), 설탕(1수저), 청주(1수저)",
+		"4. 냄비에 물과 함께 준비된 뚝배기를 넣고 냄비 뚜껑을 닫아 강불에 끓여주는데 주의 할점이 강불에 5분, 중불에 5분 정도 익혀준 다음에 5분 정도 뜸을 줍니다.물(1컵 반)큰냄비 혹은 찜기익은 상태를 확인하는 방법은 쇠젓가락으로 찔러 젓가락이 깨끗하면 익은 상태입니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/9e7610d372bce113543c5e083b3213eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/8711bc54ad4ee5515344771b7dc1b76e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/50b0c7bc3781de6d002cae1bc06866e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/6c13e31a18a28125ef8d4a6a9825bc701.jpg"
+	]
+}

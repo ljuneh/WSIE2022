@@ -1,0 +1,29 @@
+{
+	"id": "6875040",
+	"name": "달콤한 바나나 우유",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/63da19b9c7387a16d8c7ee23af4fb6e61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6875040",
+	"ingredient_ids": [],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "콩가루초코분말",
+			"ingre_count": "",
+			"ingre_unit": "취향에따라"
+		}
+	],
+	"recipe": [
+		"1. 바나나를 대충 썰어 믹서기에 넣는다",
+		"2. 우유를 바나나가 반 쯤 잠길정도로 넣어준다",
+		"3. 콩가루와 초코분말 딸기분말등 자기가 원하는 맛의 가루를 넣는다 (생략가능)",
+		"4. 그 다음 믹서기에 넣고 갈아준다.",
+		"5. 갈아준 바나나우유는 컵에 담아 맛있게 먹는다^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/ccbe87d3e1ffe4a570bd46d0061e2b7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/15f1512c43956bd5e8ac5e8ff814de4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/a778dc994b049de32b22b8fe475f5c221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/0ae3c51dff8ba1972626eeb4ab88443f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/d6ce919f985d88815fe5e0ce84a6a0431.jpg"
+	]
+}

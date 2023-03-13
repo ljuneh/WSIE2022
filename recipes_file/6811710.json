@@ -1,0 +1,48 @@
+{
+	"id": "6811710",
+	"name": "수박화채",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/087b1d232f3b4dcb7d4ca33dab2985c41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6811710",
+	"ingredient_ids": [
+		161,
+		442,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "수박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "사이다",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 수박을 먹기좋은 크기로 잘라주세요.",
+		"2. 수박에 사이다를 부어주세요. 자작자작 수박이 잠길정도로 부어주시면되요.",
+		"3. 그리고 우유도 쭈욱 ~ 부어주세요. 적당히 그냥 저냥 색이 이쁘게 들어갔다 싶으면 그만 넣어주세요.",
+		"4. 얼음이 있으면 퐁당퐁당 빠뜨려주세요.",
+		"5. 설탕을 한스푼 넣어줬어요. 설탕은 기호에 맞게 가감하세요~ 그리고 설탕이 사이다와 우유와 잘 어울리게 섞어주세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/d8aba8e91981483c0a9fd830a1b7eb241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/6c5021c89d1f6c272eb5a8670b96a83b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/da9560c7e44a38e509bf5760291d077c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/501ad850f106508c042c079f1f3950ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/08b124f99d6deb75b18271bec85f441b1.jpg"
+	]
+}

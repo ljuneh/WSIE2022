@@ -1,0 +1,58 @@
+{
+	"id": "6885805",
+	"name": "초간단 머그컵 퐁당 오 쇼콜라*.*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/ab0dd12cf477c21f9104004a18f8beab1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6885805",
+	"ingredient_ids": [
+		226
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "초콜렛(다크추천)",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "카놀라유(올리브유빼고)",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루(아무거나)",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "핫초코가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 머그컵에 초콜렛 2스푼, 설탕 3스푼, 오일 2스푼을 넣고  섞어주세요~",
+		"2. 전자렌지에 30초씩 2번 돌려서 녹여주세요 (한번에 돌리면 초코가 타니까 30초씩해서 총 1분)전자레인지",
+		"3. 녹인 초코에 계란 한 알을 넣고 섞어주세요",
+		"4. 밀가루 한스푼 넣어주세요 (체에 치면 좋음, 귀찮으면 숟가락으로 잘 섞으면 돼욤)",
+		"5. 코코아 가루나 핫초코 가루 2스푼 넣고 잘 섞어주세요",
+		"6. 전자렌지에 40초를 머그컵채로 돌려주면 끝!!! (초코가 흐르는게 좋다면 30~40초만, 빵처럼 뽀송뽀송을 원하면 10초정도 더 돌려주세요)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/99886fd0372c4ce34cd6f8fb723c10641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/bc256029aa9b23f2e378b142572382f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/4714ac33b3bbe9ebae9c4a07cf07c3da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/9b61ded55041e8f1ff95392749c944301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/1f2eec2e3c663478b135051700691d9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/20/d573605063cccd617a8a7d80e6d4ac401.jpg"
+	]
+}

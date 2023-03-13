@@ -1,0 +1,78 @@
+{
+	"id": "6945510",
+	"name": "빼빼로데이에는 쉽고 맛있는 국물떡볶이를 먹자.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/0f77fbc6d5a9ef00dc15dc74d32b00601.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945510",
+	"ingredient_ids": [
+		548,
+		27,
+		379,
+		473,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "떡",
+			"ingre_count": "270",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "160",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 떡과 어묵을 준비 했어요.",
+		"2. 떡과 어묵은 적당하게 한입 크기로 썰어 주고",
+		"3. 뜨거운물에 가볍게 데쳐 준비 합니다. 떡은 부드럽게, 어묵은 기름기를 살짝 빼주는게 담백하고 맛있죠.",
+		"4. 분량의 재료로 양념장을 만들어 줍니다.",
+		"5. 팬에 양념장을 넣고",
+		"6. 멸치육수를 2컵 넣어 주세요.  멸치육수가 없다면 물을 넣고 참치액 한수저 넣어 주시면 됩니다.",
+		"7. 국물이 끓기 시작하면 떡과 어묵을 넣고 끓여 줍니다.",
+		"8. 떡과 어묵을 데쳤기 때문에 너무 오래 끓이지 않아도 되요.",
+		"9. 마지막에 대파 송송송 썰어 넣어 주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/fe4ee3685a370d1bacb20aa90bd6d1521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/0ddbe34161cd8ed5a8b26a293dbc63e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/ba01d059d071ec86851c7ba20033e1fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/5cfca363ea14ea20891b1496b2c3a57a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/cdf7e02ab7a478c77897e12f42f4116d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/08b522c6f3255e4ef1f3ca05790e32501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/41a9f54643f8ada70eadd8e927439b131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/44a605942414f8c2e3578a835071dcaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/e9b99b2eac0a0af782546cefd649ebbe1.jpg"
+	]
+}

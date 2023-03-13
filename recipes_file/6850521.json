@@ -1,0 +1,42 @@
+{
+	"id": "6850521",
+	"name": "모밀소바 - 더운날 시원하게~!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/06/fb7dac285a760666d83a54b68ba469b51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6850521",
+	"ingredient_ids": [
+		746,
+		339
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "모밀용국수",
+			"ingre_count": "3",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "쯔유",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "무순",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		}
+	],
+	"recipe": [
+		"1. 쯔유는 집에서 만들기도 하지만 시중에 판매되는 걸로 준비 했습니다.. (쯔유만드는법-국물용멸치와 디포리,무,양파를 간장과 물 1:1를 넣고 끓여 2/3정도 졸아 들면 불을 끄고 가쓰오부시를 넣고 채에 걸러 사용하시면 됩니다)",
+		"2. 무를 강판에 갈아 주세요",
+		"3. 면을 삶을 때 겉에 뭍은 전분을 물로 씻어서 삶아주세요. 아니면 냄비바닥에 붙어서~  나중에 설겆이가 힘들어 지더라구요~!",
+		"4. 생수에 쯔유를 3:1 정도 희석해서 판모밀로 드셔도 되구요. 육수나 물을 쯔유에 희석하여 냉면처럼 완전 담가서 먹어도 맛있습니다.",
+		"5. 모밀국물을 기호에 맞게 간을 맞춰 삶은 면을 넣고 그위로 간 무, 무순, 와사비를 올려 마무리 ~  참 쉽죠?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/06/090739b78c9a645d870fb340251d01d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/06/5c5dcf8322dc4ec18967ee4a6ffd53ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/06/70b2402d0d64bb496b0b2a305dc3476a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/06/057b9686c6b2a61a71ff0236ce19d4131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/06/20647d549fc715f2b3e96041d91c9b261.jpg"
+	]
+}

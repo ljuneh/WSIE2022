@@ -1,0 +1,50 @@
+{
+	"id": "6940204",
+	"name": "쪽파무침 황금레시피 사용하고 남은 쪽파로 만들었어요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/8acbdb95eb4d29c155ac317ec7521a1d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940204",
+	"ingredient_ids": [
+		757,
+		379,
+		939,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "볶은참깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 쪽파는 흐르는 물에 깨끗하게 씻는다.",
+		"2. 끓는 물에 소금 1T를 넣어 녹인 다음 뿌리 부분을 먼저 넣어 10초 정도 데치고 나머지 줄기 부분을 넣어 10초 데친다.",
+		"3. 데친 쪽파는 흐르는 물에 씻고 체에 밭쳐 물기를 제거하고 볼에 쪽파, 간장 1/2T, 액젓 1/2T, 참기름 1/2T, 볶은참깨 1/2T를 넣고 골고루 무치면 쪽파무침 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/568841701b6fe87c3dba8eaea64859a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/f2ba096b108d21b7ce8469fbddbf84c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/ba20ee9445a54663c3cc6f55c0e502b81.jpg"
+	]
+}

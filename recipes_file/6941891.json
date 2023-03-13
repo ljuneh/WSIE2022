@@ -1,0 +1,70 @@
+{
+	"id": "6941891",
+	"name": "집밥TV) 아삭아삭한 팽이버섯전 초간단 팽이버섯 요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/686416acbfe4ece38dbb0ee4301591541.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941891",
+	"ingredient_ids": [
+		55,
+		6,
+		289,
+		387,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 팽이버섯의 뿌리부분은 잘라 버리고 작게 썰어줍니다.  파프리카와 파, 맛살도 다지듯이 썰어주세요.파프리카의 색감은 전을 예쁘게 할 뿐만 아니라 아삭아삭한 식감을 만들어줍니다.",
+		"2. 볼에 계란 2개 , 부침가루 1T를 넣어줍니다.",
+		"3. 후추 조금 소금 조금으로 간을 합니다.",
+		"4. 모든 재료를 잘 섞어서 반죽을 만듭니다.",
+		"5. 팬에 기름을 넉넉히 두르고 반죽을 조금씩 떠서 올려 구워줍니다. 모든 반죽을 구워서 완성합니다.란으로 반죽했기 때문에 꼭 약불에서 구워야합니다. 센 불에서 구우면 쉽게 탑니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/414b4011f131fe868251e88a52383a101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/2812e99a705700107525a6b6653d9a2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/68cdfe042d70d71eea172524f9703d071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/a244d4445a9045d44ad3c043a3076e7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/30e7459f4ba65fe2c2f4d7b4f1c986711.jpg"
+	]
+}

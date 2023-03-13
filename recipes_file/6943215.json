@@ -1,0 +1,54 @@
+{
+	"id": "6943215",
+	"name": "아이들이 좋아하는 속편한 감자스프 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/2fcba81c8ddc0bde33d48fc92ada32261.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943215",
+	"ingredient_ids": [
+		5,
+		3,
+		198
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1~2컵",
+			"ingre_unit": "~컵"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 삶은 감자 3개, 양파 1개, 우유, 버터를 준비해주세요.감자와 양파는 3:1 비율로 준비해주세요.",
+		"2. 삶은 감자를 큼직큼직하게 잘라주세요.감자는 어차피 믹석에 갈기 때문에 작게 자를 필요가 없어요.",
+		"3. 양파는 얇게 썰어주세요. 양파는 버터에 볶을 거라 얇게 자르는 게 조리할 때 편리해요.",
+		"4. 팬에 버터를 녹인 뒤 양파를 넣고 볶아주세요.양파가 투명해질 때까지 볶아줘야 양파의 단맛이 올라와요.",
+		"5. 믹서기에 삶은 감자와 버터에 볶은 양파를 넣고 곱게 갈아주세요. 우유를 감자가 잠길 정도로 넣고 갈아주세요.우유로 스프의 농도를 조절해주세요. 감자가 뭉쳐서 잘 갈리지 않을 수 있으니 숟가락으로 휘저어 주면서 갈아주세요.",
+		"6. 곱게 간 감자 스프를 냄비에 넣고 중불에서 끓여주세요.",
+		"7. 감자스프가 보글보글 끓기 시작하면 약불로 줄이고 간을 해주세요. 치킨스톡과 소금으로 간을 해주세요.치킨스톡을 먼저 넣고, 그 뒤 소금으로 간을 맞춰주시는게 좋아요.",
+		"8. 피자치즈와 후츠를 조금 뿌려서 먹으면 속이 든든하고 맛있는 감자스프가 완성~!취향에 따라 식빵과 곁들여 먹으면 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/434eac4082b86e07e0cd1575b612d6d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/b58c3fc3e3bb601e6298a1fa3e6ce86e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/65423673d793fe47c49af565e9f5465d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/545b58f346de9eef835f8e56655c3b301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/c5d0917f573afd65c4618a3905ed3acf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/a45a7a0008c580537458e4b561b778961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/b1aafb5b70a55eb1aefe9eaa658c45ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/8d762184ce995be2633ed747db491bdd1.jpg"
+	]
+}

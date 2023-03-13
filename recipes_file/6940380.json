@@ -1,0 +1,58 @@
+{
+	"id": "6940380",
+	"name": "숙성육으로 만드는 안심스테이크 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/1a992027dd4dce3ee18e8d9ef50f64f41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940380",
+	"ingredient_ids": [
+		58,
+		5,
+		29
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "안심스테이크용(150g)",
+			"ingre_count": "3",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "9",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "허브소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 스테이크용 안심인데요 짧게는 20일 부터 길게는 60일까지 숙성한 숙성육 입니다",
+		"2. 허브소금 톡톡~ 올리브오일로 코팅해서 냉장고에 2시간 두었다가 사용해요",
+		"3. 올리브오일에 새송이버섯, 감자, 마늘 구워 줍니다 소금 톡톡~~",
+		"4. 스테이크는 센불로 단번에 구워야 맛나지요 치익~~ 소리 날 정도로 센불에 고기올려 구워요",
+		"5. 한 번만 뒤집네 두 번을 뒤집네 하는데요 개인차 인것 같아요 ㅎ 저는 두 번 뒤집었어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/86863df49490fb82af4d99c02e012e351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/f5ba42fba5ab3541a3dd9c188f71c3641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/1fcdf617c939ec5050cf7403bb43c1221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/7e0c21086ac4b7af25df3603913f05fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/1027599bf22556409daad5cd3c9167491.jpg"
+	]
+}

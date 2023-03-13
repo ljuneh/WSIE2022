@@ -1,0 +1,75 @@
+{
+	"id": "6856274",
+	"name": "코다리조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/01/db908a755de7933b96dd0643445dc9f71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6856274",
+	"ingredient_ids": [
+		721,
+		477,
+		379,
+		995,
+		575,
+		224,
+		574,
+		292
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "코다리",
+			"ingre_count": "4",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 손질된 코다리는 깨끗히 씻어 팬에 넣습니다",
+		"2. 양념장을 만듭니다",
+		"3. 코다리위에 양념장을 올립니다",
+		"4. 약불로 은근히 조리다가 물이  생기면 중불로 타지않고 골고루 익힙니다",
+		"5. 다 익으면 불을 끄고 파를 올립니다",
+		"6. 그릇에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/01/3213406437a06448dbd1f8dedfba96ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/01/c3d5f0a05953840fb19db1c1d1ce55ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/01/b1bee3acbd63bbda5e178dd8981faa891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/01/605362e40ef54e0517abf8e2f38006461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/01/618fc8841953980c43043f7ca692051b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/01/508c3eeab716ac52bd3a9011ddb8b41b1.jpg"
+	]
+}

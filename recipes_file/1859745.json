@@ -1,0 +1,128 @@
+{
+	"id": "1859745",
+	"name": "두부잡채",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/071f97d6c55aa46e8f8cd6d26969bf89.jpg",
+	"url": "https://www.10000recipe.com/recipe/1859745",
+	"ingredient_ids": [
+		9,
+		219,
+		432,
+		660,
+		497,
+		29,
+		543,
+		234,
+		379,
+		292,
+		575,
+		477,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "단단한두부",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "데친시금치",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파1/2개(50g)",
+			"ingre_count": "1/2개(50g)",
+			"ingre_unit": "개(g)"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 두부는(2*3)크기로 썰어 소금을 솔솔 뿌려두세요.",
+		"2. 키친타올로 물기제거후에 두께0.5cm크기로 썰어주세요.",
+		"3. 팬에 포도씨유를 두르고 중불에서 바삭하게 두부를 구워주세요.",
+		"4. 시금치는 데쳐 소금, 참기름, 마늘넣고 무쳐준비해주시고 양파, 시금치는 채썰어주세요.",
+		"5. 포도씨유 두르고 소금넣고 양파를 볶아주세요.",
+		"6. 당근도 포도씨유, 소금넣고 볶아주시고요.",
+		"7. 달걀은 체에 거른후에 밀가루 1작은술을 넣어 섞어 팬에 기름 두르고 키친타올로 펴 바른후에 지단을 부쳐주세요. 달걀에 밀가루를 넣으면 달걀이 단단해져 잘 부서지지 않아요.",
+		"8. 달걀을 돌돌 말아 채썰어주세요.",
+		"9. 참기름을제외한 팬에 양념소스를 모두 넣고 끓여주세요.",
+		"10. 두부, 시금치, 당근, 양파를 넣고 섞어 볶아주세요. 불을 끈후 마지막에 참기름을 넣고 섞어주세요. 접시에 담고 통깨 솔솔 뿌리면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/470bd38fcf328a966d1028478e378c3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/0af0209e0e6a42d669ec66dca269907a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/49f98406d949604d8c2d338c3b3e7ec21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/0d9b19b08a871dd499587365b979e7171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/7afa33c806d9e22fb58dc8a94c3f75411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/715e35a2d6bc8576a05f2399c844d4631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/57f909a76d0719afb3c47ce565353d831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/859616982e70adc8517a8d93e39754151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/97a9865d10756fa8e4aa61a70f0f1ca31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/c6f6dadd2f3400cda285f9cfc5fa6ca21.jpg"
+	]
+}

@@ -1,0 +1,88 @@
+{
+	"id": "1863727",
+	"name": "향긋한 쑥들깨국 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/6f6a5e62282853aaf3b472e1d0d0562d.jpg",
+	"url": "https://www.10000recipe.com/recipe/1863727",
+	"ingredient_ids": [
+		320,
+		337,
+		848,
+		233,
+		295,
+		1018,
+		497,
+		876
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "여린쑥",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추(생략가능)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어슷썬파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "천연조미료",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "500",
+			"ingre_unit": "cc"
+		}
+	],
+	"recipe": [
+		"1. 쌀을 씻어 두번째나 세번째물을 받은 쌀뜨물 500cc를 준비해 주세요. 쌀뜨물에 멸치와 된장을 체에 받쳐 풀어 준비해 주세요.",
+		"2. 된장과 멸치를 넣고 팔팔 끓여 주세요. (매콤한 맛을 원하시는 분들은 고춧가루나 청양고추를 넣어 주시면 되는데요. 고춧가루를 넣으시는 분은 된장과 함께 고춧가루를 넣어 주셔야 고춧가루가 겉돌지 않는답니다)",
+		"3. 손질해 놓은 쑥을 넣고 한소큼 끓여 주세요. (진한 쑥향이 싫다 하시는 분은 쑥을 한번 삶아 잠시 담가 놓으셨다 하시면 향이 많이 없어질 거예요)",
+		"4. 갈아 놓은 들깨를 체에 받쳐 껍질을 제거해 주었답니다. (들깨가루가 없으신 분들은 생략하셔도 된답니다. 콩가루를 넣고 하셔도 구수한 맛이 일품이랍니다.)",
+		"5. 청양고추, 홍고추, 다진마늘을 넣고 간을 보세요. 집집마다 된장의 맛이 다르거든요. 추가간은 소금으로 맞추시면 된답니다. (멸치를 넣고 푹 끓이면 다른 조미료가 없어도 맛이 나는데 혹시 맛이 덜하다 생각 드시면 천연조미료나 화학조미료 조금 넣으시면 맛이 한결 나을꺼랍니다. 되도록이면 천연조미료로 사용하세요~~)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/585503207abdb25cbcedb23e70bdabf11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/8e6472160fc06bed2ad764ad98ab04571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/e241d3f410fffaf7525f1ce10e0eff301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/762ef6442c4bac526dca168a6acdc77e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/0546659c1d2be9c6a33bbdf948683ed41.jpg"
+	]
+}

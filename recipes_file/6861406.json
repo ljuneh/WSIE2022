@@ -1,0 +1,82 @@
+{
+	"id": "6861406",
+	"name": "돼지불고기 양념 별거 없네? ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/22/484333af65eabbcc59734b5179ca01bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6861406",
+	"ingredient_ids": [
+		660,
+		543,
+		379,
+		292,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기(불고기)",
+			"ingre_count": "1",
+			"ingre_unit": "근"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간배",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강아주",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 돼지불고기 1근을 그릇에 담아 준비합니다",
+		"2. 간장 3분의1컵, 맛술 3분의1컵 간배반개(배가 커서 반개만 넣엇는데 크기가 조금 작다면 한개 다 넣으셔도 되고  배가 없다면 배음료로 대체 가능) 설탕 한큰술, 생강 아주조금, 다진파 두줌, 후추 톡톡톡 모든 양념을 넣고 조물조물 해줍니다",
+		"3. 양념이 골고루 베이게 조물조물 해줍니다",
+		"4. 랩을 씌워 냉장고에 1~2시간 정도 숙성시켜줍니다 시간이 없다면 바로 조리가능",
+		"5. 숙성된 제육불고기를 팬에 넣고 볶아줍니다 전 개인적으로 양념이 자작한걸 좋아해서 고기가 익엇을때 물을 조금 넣어줫어요",
+		"6. 고기가 익으면 마지막으로 참기름과  통깨로 마무리 해줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/22/7cbcf1dce3818c9e1eb2ea7468569c991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/22/4ebee8cfabbc8fac061e15714d25e5211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/22/3e87e0a5438c3871160fdb1cf46ee80c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/22/cf77dad2a3c51723027094d67d55b04a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/22/5e02f07fb28ca6938fe599866351a8a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/22/d6e075efd114d5607825bda2dbe8d8c81.jpg"
+	]
+}

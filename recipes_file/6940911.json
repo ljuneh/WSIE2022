@@ -1,0 +1,80 @@
+{
+	"id": "6940911",
+	"name": "된장국【우리아이반찬】",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/1be7d7ecb074e1b6415a7527c42f5bef1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940911",
+	"ingredient_ids": [
+		3,
+		325,
+		5,
+		53,
+		320,
+		259,
+		848,
+		876
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "두부반",
+			"ingre_count": "",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/4",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "25",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "7~8마리",
+			"ingre_unit": "~마리"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 멸치25마리와 건새우7마리를 다시팩에 넣고 쌀뜨물 600ml에 끓여 육수를 준비합니다 (멸치새우비율은 7대3)",
+		"2. 두부 반모 양파 호박 감자를 잘라주세요 (모든 재료는 아이가 먹기 좋은 크기로 잘라줄게요~)",
+		"3. 표고버섯 2 (전 불린거 사용했어요)",
+		"4. 육수가 끓어오르면 된장 2큰술을 채에 받쳐 풀어주세요",
+		"5. 준비된 모든 재료를 넣고 중불로 푹 끓여줍니다 (제일 먼저 감자를 넣고 끓였어요)",
+		"6. 완성입니다. 아이들이 맛있게 먹었으면 좋겠습니다~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/297071f11dfaf4eb1737ac2e0808a1621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/14d0e94befcca31febbe7e848bed50461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/f12fef5685582f26be98251adcd90aba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/cd1a12817868bc4d2c9c5daf63a2e4201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/a0f3fa79f7130b3822ab6a74d6f7a8e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/451d933a69937dd002477e623af6e7231.jpg"
+	]
+}

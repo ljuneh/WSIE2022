@@ -1,0 +1,72 @@
+{
+	"id": "6939910",
+	"name": "새송이버섯 소세지 볶음 # 밥반찬 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/58157efca2662b78b9879266c8a171ee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939910",
+	"ingredient_ids": [
+		58,
+		22,
+		226,
+		938,
+		660,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소세지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 새송이버섯 피망 소세지를 썰어 주세요",
+		"2. 식용유를 두르고 센불에 충분히 볶아주세요",
+		"3. 불을 끄고 고추가루 1/2T 진간장 1/2T 설탕 1/2T 매실청 1/2T 참기름 1T 통깨를 넣고 골고루 섞어주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/eb969ba1fb8e65503cd15c2d907922791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/d11b99b0ebb0576137471ecb944a4cbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/e1a84c789b4889f30c7f872b936ff69c1.jpg"
+	]
+}

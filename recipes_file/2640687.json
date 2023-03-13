@@ -1,0 +1,65 @@
+{
+	"id": "2640687",
+	"name": "채소햄롤 김밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/ef23072773c0a9f71dc02b7eb037854a.jpg",
+	"url": "https://www.10000recipe.com/recipe/2640687",
+	"ingredient_ids": [
+		708,
+		8,
+		9,
+		660,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "슬라이스햄",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "단무지(김밥용으로)",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "게맛살",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 끓는물에 슬라이스햄을 넣고 살짝 데쳐 줍니다. 뜨는 기름 보이시죠. 요걸 제거해 준답니다.",
+		"2. 단무지는 2등분으로 준비해 줍니다. 맛살도 길게 이등분해 줍니다. 당근은 단무지 크기로 썰어 준비해 줍니다. 오이는 씨를 빼고 단무지와 비슷한 크기로 썰어 준배해 줍니다.",
+		"3. 팬에 기름을 두르고 당근을 넣고 볶아 줍니다. 간은 소금으로 하여 주세요.",
+		"4. 먼저 햄과 채소를 말은 후 김밥에 놓고 돌돌 말아 주세요.",
+		"5. 김을 반으로 잘라 밥을 2/3정도 골고루 펴 줍니다. 그 위에 햄을 놓고 햄 위에 단무지, 오이, 게맛살, 당근을 놓고 돌돌 말아 줍니다. 저는 김에 밥놓고 채소놓고 돌돌 말은 후 햄을 밖으로 감싸 보았습니다. 밖으로 햄을 감쌀때 햄이 풀어지니 미나리, 파등으로 묶어 주세요. 밥에는 참기름, 깨소금 양념을 하셔도 좋구, 단촛물을 만들어 넣어 셔도 좋답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/4cd084f2121a3c0b1bef81de7d7f27de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/7eb4f7c4c64ae8e488895b8c2fbf29001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/e712091cb86317a83bc118c8a438eefa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/fd8e49316e474f1af5389f599e097c4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/79d3efa2d39df72769ac684a9cc8dc5c1.jpg"
+	]
+}

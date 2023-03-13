@@ -1,0 +1,89 @@
+{
+	"id": "6939943",
+	"name": "옥수수콘치즈만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/e93306839006d6731d47fb136f5678cf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939943",
+	"ingredient_ids": [
+		104,
+		406,
+		228,
+		204,
+		198,
+		203,
+		212,
+		702,
+		205
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "옥수수",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파마산치즈",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 옥수수2개를 알알이 다 분리한다.",
+		"2. 달군팬에 먼저 베이컨을 구운후 잘게썬다.",
+		"3. 옥수수를 넣고 달달볶다가",
+		"4. 버터넣고",
+		"5. 베이컨을 넣고",
+		"6. 마요네즈를 넣고",
+		"7. 연유를 넣고 볶는다.",
+		"8. 그위에 모짜렐라치즈",
+		"9. 체다치즈를 올린다.",
+		"10. 치즈가 녹으면 불을끄고 파슬리, 파마산치즈를 뿌린다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/92937ac11f1d4799e994a25ab1af36561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/359aaf0d154dc5d26617a87de1bcac381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/0977e42c4a5c18e969a0d7599d9808601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/c7ec43ca9118e472961da1d981faa1b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/28b802adaac49b0c759ada223c04f2991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/34d95fe1c89d16fa9452df0ce19729151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/b94068c498d1e730f88bc3dc227a1eb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/519b693d95f8a648fd0425f0a961bb1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/1043b7b89a9e3696f105f6ffc97324e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/4cd7f38f56f9dfeb12cfacb9741d06d91.jpg"
+	]
+}

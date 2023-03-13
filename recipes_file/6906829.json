@@ -1,0 +1,71 @@
+{
+	"id": "6906829",
+	"name": "홈메이드 수제 햄버거 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/9eb285f5fea4d026408f68e0ff2bef6b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6906829",
+	"ingredient_ids": [
+		42,
+		724,
+		484,
+		228,
+		3
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "햄버거패티",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "햄버거용빵",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "데리야끼소스",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "움큼"
+		}
+	],
+	"recipe": [
+		"1. 아침 먹고 나니 벌써 점심 그래서 점심은 간단하게  햄버거 만들어 먹기로 했어요.",
+		"2. 다른 재료 없이 그냥 빵이랑 햄버거 패티랑  양상추.소스로는 마요네즈.케챂.그다음 데리야끼소스 요렇게만 넣어서 간단하게 만들었어요..",
+		"3. 우선 빵을 굽구요 패티 익혀 주세요.",
+		"4. 노릇하게 속까지 잘 익혀 주세요.",
+		"5. 그다음 양상추와 양파도 올려 주시구요",
+		"6. 잘 익은 패티도 올려 주세요. 그리고 마요네즈와 케챂,데리야끼소스까지  올려 주면 다 완성이랍니다.",
+		"7. 그리고 구운 빵뚜껑까지 올려 주면 끝",
+		"8. 그럼 점심으로 간식으로도 손색이 없는  햄버거 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/3443c535a6304460bb519cef88d3385e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/e3df80b90e1449eb19486a7cf8928e361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/83b9a4b9c80867b40b06ef46c4bf30cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/18720676c077174a1523fdac8a33b2161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/2ad9aa7ceba346b021a157685d085b561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/e1c7d38a8570d1fc1b545403198785651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/e8bce6a7ea7378bb48f3e2439973cd7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/9c62719a44f33360e4e1f836305c45341.jpg"
+	]
+}

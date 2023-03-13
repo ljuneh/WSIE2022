@@ -1,0 +1,62 @@
+{
+	"id": "6886031",
+	"name": "쇠고기 뭇국 만들기, 어릴적 제사때 먹던 쇠고기탕국 만들어 봤어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/23/1d668adf2567de8eba90e0cf39039cdb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6886031",
+	"ingredient_ids": [
+		19,
+		995,
+		660,
+		349,
+		282
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "쇠고기국거리",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "220",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 소고기는 작게 썰어서 준비하고 무는 사각형 모양으로 얇게 썰어주세요. 둘 다 한입에 쏙쏙 들어갈 수 있는 크기로 준비하시면 됩니다. 저는 양지머리를 사용했는데 입맛에 따라 다른 부위도 괜찮아요.",
+		"2. 준비한 물 1L를 냄비에 넣고 끓을 때 소고기와 무를 넣어주세요.",
+		"3. 팔팔 끓이면 탁한 거품이 나와요. 꼼꼼하게 걷어내주세요.",
+		"4. 국간장 1큰술, 굵은 소금 반큰술을 넣어서 간을 맞춰주세요.",
+		"5. 후추는 취향에 따라 선택하시면 될 것 같아요. 어릴적 자주 먹었던 엄마의 탕국에는 후추가 들어가지 않았지만, 저는 살짝 매콤한 것이 좋아서 조금 넣었어요.",
+		"6. 마무리는 참기름 1큰술 넣어주시면 됩니다. 참기름은 꼭 불을 끄고 넣어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/26/5449557037d8b91ff01ca044c9cff4e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/26/afebec87932f5fd7fc9af23e643b80de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/26/b24be9609bd6808322d4e28ca8e7906b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/26/08492b6f5796ec544cccd2bdc6931a471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/26/f5ebe222abebb6490a74cc9d66640e991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/26/edcd90c71f9b4ff5de42160d85aa08191.jpg"
+	]
+}

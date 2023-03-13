@@ -1,0 +1,68 @@
+{
+	"id": "6903405",
+	"name": "두부덮밥으로 한그릇 다이어트 어떠세요??",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/03/47ad5a39da2f9fb6b3f2682660c489e91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6903405",
+	"ingredient_ids": [
+		323,
+		300,
+		27,
+		9,
+		939,
+		504
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "새우가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 닭가슴살을 잘게 다져주세요",
+		"2. 두부는 칼등으로 으깨주고 대파와 당근도 다져주세요",
+		"3. 기름두른 팬에 대파를 먼저넣고 볶다가  새우가루를 넣어주세요새우가루를 넣어주면 감칠맛이 살아나요~",
+		"4. 파기름이 나왔다면 두부를 넣어  수분이 날아가도록 볶아주고",
+		"5. 당근과 닭가슴살을 넣어 한번더 포슬포슬하게 볶아주세요 간은 액젓으로 살짝 해주세요~",
+		"6. 밥위에 살포시 얹어 덮밥으로도 좋고 그냥드셔도 부담없는 영양식입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/03/8608537d97278819877b4394da93aaf61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/03/be3bcd7d21d37bd7f7e88a42f9879b611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/03/d78e37b38724b12b2bfaa8472dc401981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/03/3463d402db5589daf4edf0af6080d9451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/03/563ae90e7ff658d6a9b252f55c66bdc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/03/0d617f70d25472cc9e5cf538886e205d1.jpg"
+	]
+}

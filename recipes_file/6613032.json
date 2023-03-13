@@ -1,0 +1,48 @@
+{
+	"id": "6613032",
+	"name": "스파게티 면 삶는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/3e32c15040a57147709699f99bb960b31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6613032",
+	"ingredient_ids": [
+		995,
+		497,
+		574
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "면",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 먼저 물1L정도 부어주세요. 물의 양이 너무 적게되면 면을 삶기 힘들어요~ 1L정도 넉넉한 양에 삶아볼게요~ 또한 냄비의 크기도 중요하겠죠? 폭이 너무 좁은 냄비보다는 18cm이상의 냄비를 사용하시는 것이 면을 고루 익히기에 적합합니다.",
+		"2. 올리브유와 소금을 넣어볼게요. 다소 면의 두께가 두꺼운 스파게티면은 소스의 맛이 깊이 배이는데 한계가 있습니다. 요리하실 때 소금을 넣어 면에도 간이 되어있어야 한결 맛의 밸런스가 좋더라구요! 올리브유로 풍미와 윤기도 더해볼게요~",
+		"3. 면을 딱 손으로 잡고! 냄비 중앙에서 탁~ 놔주세요~ 그러면 스파게티 면이 골고루 퍼져 냄비에 들어가게 되거든요~ 뭉침 없이 삶을 수 있답니다! 파스타면은 강불에서 삶는 것이 좋습니다!",
+		"4. 면이 완전히 냄비에 들어갈 때 까지 한번씩 저어주시고, 이제 중요한 스파게티 면 삶는시간! 당황스러우시겠지만, 각 제품의 뒷면, 권장시간을 참고해 주시는게 제일 정확해요! 그렇지만, 평균적인 시간은 있기 마련! 5분이 적당합니다. 물론, 끓는 물에 들어간 시점으로 계산한 시간이에요! 그렇지만 제품 권장시간이 우선순위라는 점!",
+		"5. 이렇게 체로 건져 사용하시면 됩니다! 파스타면은 차가운물에 헹구지 않고 그냥 사용하시는게 좋습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/a0c9191696ffa80e9843a9ee8517593a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/73bb64fc554767d34ae5e83e38103a701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/1f1d39b327733dba601cc7f014abf6d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/026ec78c8aec987e02b1d72121d43a271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/7398a47534e3dd94bf803ac50751c13c1.jpg"
+	]
+}

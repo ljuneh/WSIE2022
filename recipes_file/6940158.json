@@ -1,0 +1,77 @@
+{
+	"id": "6940158",
+	"name": "돼지고기 후지로 마라탕 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/881f8904352f1d4160ec7f38a76d4c271.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940158",
+	"ingredient_ids": [
+		13,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "제육용돼지고기후지",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "송이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "냉동자숙새우",
+			"ingre_count": "",
+			"ingre_unit": "먹을만큼"
+		},
+		{
+			"ingre_name": "이금기마라탕소스",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "6",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "옥수수면",
+			"ingre_count": "500",
+			"ingre_unit": "크기정도"
+		},
+		{
+			"ingre_name": "라드",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 옥수수면은 물에 담가 불려주세요",
+		"2. 냉동된 돼지 후지를 유수해동 시킵니다. (냉장이라면 생략)",
+		"3. 그 동안 청경채와 버섯 냉동새우를 손질,세척합니다",
+		"4. 해동된 고기를 먹을 만큼 준비하고 나머지는 냉동실에 다시 보관합니다. (칼이 안들어서 해동시킴)",
+		"5. 냄비를 꺼내 라드 1스푼을 넣고 돼지고기를 같이 넣어 익힙니다. (냄비 뚜껑을 안닫으면 고기가 텁텁해짐. 꼭 닫기)",
+		"6. 돼지고기가 익었으면 물 5~6컵을 넣습니다.(물양은 개인취향)",
+		"7. 끓어오르면 손질된 채소.버섯.새우를 넣습니다.",
+		"8. 마라탕소스를 넣고 숟가락으로 소스를 풀어냅니다.",
+		"9. 다시 팔팔 끓으면 불려뒀던 옥수수면을 넣고 5분간 끓입니다.",
+		"10. 그릇에 담아 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/ec24d7618024e582f832bb91b377d03b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/5266bd48cbd949c846d9aee3aa5dc06b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/b32984572e9bce42444903a9259a88ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/22cfc4fe1ef8c14310176a25910f7b191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/5252c15bc2a141f5a445d522e9b074211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/ae6a770c45baed0778f2cf8f66055c8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/5e9e63a82f187787e09adbe3ef6a75821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/f0c8e20a321006e1c11b8daed011b8f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/4c30ba78c0f19a660fc396f13433f2ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/d06b08df4c6dd93bdcee19570c2b18e71.jpg"
+	]
+}

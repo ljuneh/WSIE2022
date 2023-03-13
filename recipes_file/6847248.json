@@ -1,0 +1,68 @@
+{
+	"id": "6847248",
+	"name": "살은 부드럽고 뼈까지 오독오독 맛있게 씹히는  가오리찜 간재미찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/28/ff71ec546e16d739817dead948d4d2611.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847248",
+	"ingredient_ids": [
+		379,
+		292,
+		29,
+		543,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "생물가오리",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 가오리는 깨끗히 씻어 4등분으로 꼬리는 잘라버리고 옆 날개 몸통으로 구분하여 썰어놓습니다",
+		"2. 양념장을 만듭니다",
+		"3. 물을 끓여 물이 끓으면 가오리를 넣고 맛술 2T 넣고 삶습니다  10 ~ 15분 삶으면서 익는 부위에 따라 건집니다",
+		"4. 접시에 담아내고 양념장을 올립니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/28/83b590a7d52ec24185389be12b8fe00c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/28/10ffcdcabb1ae63aad1eee87d78362c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/28/1c572e93425ae857f094f9c5d304bca81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/28/f8fd2fd3e139f983706e9afc3c5a6fc21.jpg"
+	]
+}

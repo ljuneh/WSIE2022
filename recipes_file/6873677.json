@@ -1,0 +1,73 @@
+{
+	"id": "6873677",
+	"name": "비빔만두 만들기, 매콤새콤 계속 땡기는 바로 이 맛 !!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/2f8daa8d8362fcf0d7c2a8cfd0fa60651.jpg",
+	"url": "https://www.10000recipe.com/recipe/6873677",
+	"ingredient_ids": [
+		224,
+		473,
+		231,
+		379,
+		575,
+		226,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 야채는 집에 남아있는 야채를 사용하셔도 좋구 좋아하시는 야채를 더 넣어서 만들어 주셔도 좋아요 저는 냉장고에 남아있던 재료들을 사용해서 만들었답니다 기본적인 야채들은 깨끗이 씻어서  먹기편하게 채썰어서 준비해주세요",
+		"2. 재료들은 채썰어두고 양념장을 준비하는동안 냉동만두를 팬에 약한불로 노릇노릇하게 구워주세요",
+		"3. 만두가 속까지 맛있게 익을동안 분량의 양념을 한곳에 넣고 섞어서 준비해주세요",
+		"4. 잘 익은 만두는 키친타올에 올려서  기름기를 살짝 제거해주시면 되요",
+		"5. 그리고 야채와 함께 내놓으면 끝 ~ 너무 간단하죠 ~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/7a681a9ee2bc5192cf4d76e5ee1f408a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/1d097eb23624cc30dbb536b9d09ac9f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/28d551fe9a7be819c8658ed86c3262a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/67d88c9306eb2fe6abe436ffc50baa1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/9cc8d5272af3341cd6625710d9f7aacd1.jpg"
+	]
+}

@@ -1,0 +1,91 @@
+{
+	"id": "1768703",
+	"name": "소고기파국 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/f1e6610b36b771a9e878d118836defb2.jpg",
+	"url": "https://www.10000recipe.com/recipe/1768703",
+	"ingredient_ids": [
+		995,
+		349,
+		237,
+		224,
+		233,
+		497
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "양지",
+			"ingre_count": "250",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "대파1+1/2대",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".리터"
+		},
+		{
+			"ingre_name": "무(2센티)",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "3~4개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "대파뿌리(또는대파1대)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양지는 찬물에 담가 1시간 이상 핏물을 뺀 다음, 끓는 물에 넣어 살짝 삶아 찬물에 헹구고 고기 삶는 재료를 모두 넣어 센불에서 끓이다 끓어 오르면 약불로 줄여 1시간 정도 푹 우려 주세요.",
+		"2. 삶아진 고기는 건져 결대로 찢어 준비하고, 국물은 체에 걸러 준비하세요.",
+		"3. 대파는 4~5센티 길이로 잘라 길게 2등분 한 다음 육수에 살짝 데치고,",
+		"4. 삶아 놓은 양지와 대파, 양념재료 모두 넣어 조물조물 무쳐 준비하세요.",
+		"5. 고기 삶은 육수 4컵을 끓이다 양념한 고기와 대파를 넣어 센불에서 끓이고, 끓어 오르면 약불로 줄여 10분 정도 푹~끓여 주심 됩니다. 모자른 간은 국간장이나 소금으로 맞추시구요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/f3106dce181a8bfa6caef39239a253c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/6431c7758b5ef35c76a808587a366c0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/b52b9cb8021177b2607ff8e0b7d6ff911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/02965545f3b6b64becffa96c3fd989b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/22e21002c5f4303338abf51a2b755a781.jpg"
+	]
+}

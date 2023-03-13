@@ -1,0 +1,55 @@
+{
+	"id": "6835928",
+	"name": "오징어통찜, 오징어숙회 한 번에 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/20/61406a30a7a05fb8db1a92c953acac821.jpg",
+	"url": "https://www.10000recipe.com/recipe/6835928",
+	"ingredient_ids": [
+		473,
+		231,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "내장을제거하지않은통오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "내장정리한오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 찜통에 준비한 오징어 2마리를 넣고 뚜껑을 덮은 후 쪄요.",
+		"2. 오징어를 찔 동안 초고추장을 만들 거예요. 분량의 재료를 넣고 초고추장을 만드는데, 설탕과 식초는 취향에 따라 더 넣어도 좋아요.",
+		"3. . 3~5분쯤 지나서 오징어숙회만 먼저 꺼내요. 오래 삶으면 질겨지니까요.",
+		"4. 먹기 좋은 크기로 썰어둬요.",
+		"5. 오징어통찜은 크기에 따라 15~30분 정도 찌면 되는데,요건 살짝 작은 사이즈라 20분 정도 쪘어요.",
+		"6. 내장이 빠지지 않게 송송 썰어요. 오징어통찜은 내장이랑 같이 먹어야 별미니까요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/20/d52c1ca85309aa4478e93e333ef7304b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/20/28385c3abc1cb61fc0d6d72fe1a385601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/20/f39a9a9a75b0a853b5468b817a3298f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/20/1da0609100154c2aabbd2f3546adb7cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/20/d33f133e58016dc1c0bdbda3a22e13b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/20/be214bedccb120be98de7258508f8afa1.jpg"
+	]
+}

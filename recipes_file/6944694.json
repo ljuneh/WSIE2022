@@ -1,0 +1,80 @@
+{
+	"id": "6944694",
+	"name": "베이컨마늘볶음밥 요거 참말로 맛있구만",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/4c8ad26032459aaef019f586dccff79f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944694",
+	"ingredient_ids": [
+		406,
+		3,
+		27,
+		379
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "찬밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "2~3줄",
+			"ingre_unit": "~줄"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "6~7개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 마늘은 얇게 슬라이스해서 잘라주시고",
+		"2. 양파는 잘게 다져주세요",
+		"3. 대파는 큰 경우 반으로  갈라서 썰어주시고 저처럼 작은경우는  그냥 적당한 크기로 송송송~ 썰어주셔도 좋아요",
+		"4. 베이컨은 적당한 크기로~",
+		"5. 식용유를 적당히 두른팬에 슬라이스해둔 마늘을 먼저 넣어 노릇노릇하게  구워줍니다",
+		"6. 마늘이 노릇노릇해지면 베이컨을 넣어 익혀주고요",
+		"7. 베이컨이 적당히 노릇해지면 다져준 양파도 넣어줍니다 양파의 겉면이 살짝 투명해질정도로만 볶아주시고요",
+		"8. 어느정도 투명해졌을쯔음~ 한쪽으로 재료를 밀어두고 한쪽면에 계란 한개를  톡 깨트려 스크램블 하듯 휙휙 저어 계란을 적당히 익혀주세요",
+		"9. 적당히 익혀주다가 한쪽면으로 밀어두었던 재료들과 섞어주시고요",
+		"10. 계란과 재료들이 잘 어우러졌을때쯤 밥을 한공기 넣어 볶아줍니다~!",
+		"11. 간을 맞춰줄 차례! 저는 간장 1큰술을 넣어주었는데요 기호에 따라 소금을 넣어주셔도 좋아요 저는 간장 1큰술 넣으니  딱 적당하더라고요",
+		"12. 간장넣어 적당히 볶다가  썰어둔 대파까지 넣어 한번 더 휘리릭 볶아 베이컨마늘볶음밥을  완성해주시면 됩니다 :)",
+		"13. 베이컨 대신 햄을 넣어줬어도 더 맛있을것 같은 베이컨마늘볶음밥!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/681d9523dbeb98ba626a56687cb1e20d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/41c872dce9811fe0262d3bcc5b2a1af61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/369fcfdb3fed395a56c57d14c15c60b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/81c6aedcc5d682612b71a96be019d0a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5f522b364d8be1fb8e07a28b4813e7de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/3bf2eaa957860016efa4878abbae51321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/342709fbf1c0256394f02f3047ddcc151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/c6e4a9d57b30c0c98e40cac6e89f10bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/f5ccf85207f72fba735f6ba17e21955c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/44b153e9b069a082d5367a8d7b6181cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/6a7b01e8834c33ab2b34380cc558f91b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/d99c1e505eab9e99cc2fc59e902f70fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/a098814519988f3def6775ce315e05031.jpg"
+	]
+}

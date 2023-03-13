@@ -1,0 +1,72 @@
+{
+	"id": "2314075",
+	"name": "건전복 야채죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/86503c90251fb2ef5836527fae59142e.jpg",
+	"url": "https://www.10000recipe.com/recipe/2314075",
+	"ingredient_ids": [
+		7,
+		3,
+		9,
+		327,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "건전복",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "검은깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 호박,양파,당근 꺼내서 잘게 잘라서 준비했어요.",
+		"2. 후라이팬에 들기름 2큰술 넣고 야채넣고 소금살짝넣고 볶아주세요",
+		"3. 밥 후다닥 해서 볶은 야채에 넣어주었어요.",
+		"4. 밥과 야채과 잠길정도로 물을 넣어주세요 잘 저어가면서 끓여주세요",
+		"5. 밥이랑 야채가 잘 섞이면 건전복을 넣어주세요",
+		"6. 잘 저어가면서 푹 끓여주고 중간에 소금으로 간을 맞춰주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/21/b32ba00807d75c72369b0c5113f15a7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/21/fc08a394ede3e92c9ea27a0e5861d9ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/21/d552a37f1da75b7df232827295f0946b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/21/50e308e5f54ac2ecf21572f149eba1ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/21/f235efe9c4d9bc255a690524f538fd881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/21/0fa182428cd93e48673d306391cef8e71.jpg"
+	]
+}

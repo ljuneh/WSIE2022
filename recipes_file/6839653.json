@@ -1,0 +1,78 @@
+{
+	"id": "6839653",
+	"name": "고소한 녹두빈대떡 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/11/b95c1165c89726295d397dc2e9ef9a371.jpg",
+	"url": "https://www.10000recipe.com/recipe/6839653",
+	"ingredient_ids": [
+		667,
+		52,
+		953,
+		504,
+		497,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "껍질벗긴녹두",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "돼지고기갈은것",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 녹두는 찬물에 4~5시간 정도 불린 후 손으로 비벼 남아있는 껍질을 벗겨 찬물에 몇 번 헹궈 껍질을 제거해 줍니다.",
+		"2. 숙주는 데쳐서 송송 썰어 물기를 꼭 짜고 배추김치는 물에 씻어 곱게 다져 물기를 꼭 짜냅니다.",
+		"3. 믹서기에 녹두와 물을 조금 넣고 입자가 있게 갈아줍니다.",
+		"4. 갈아놓은 녹두에 돼지고기, 숙주, 김치, 찹쌀가루, 소금, 후추, 참기름을 넣고 고루 섞어줍니다.",
+		"5. 달군 팬에 기름을 넉넉히 두르고 적당량을 넣고 앞뒤로 노릇하게 지져냅니다 .",
+		"6. 녹두전이 완성되어 4등분으로 썰어 접시에 담아주었어요~ 더 맛있게 먹으려면 고사리나 고추, 대파 등을 넣으면 속이 풍성하니 좋겠죠~ 순수한 녹두에 찹쌀가루는 조금만 넣어서 잘 부서지기 때문에 크기는 조금 작게 부치는게 찢어지지 않고 좋아요~ 나물을 많이 넣는 이유도 속 재료가 서로 엉겨있으면 맛도 좋지만 더 단단하기 때문이기도 하답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/b1836ff866b28047ef0d0adf7c720a8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/0ec2f4be2f4985785be2ceb38979396e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/f6b3ef7c100cc5000b618bb706562a961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/f21fbee84dfac304d9db24bddd3d8dd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/42e4e95236963d4470c4a7e3c36b351f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/15b1c1cab1d6b21102ef0b9b11602c2b1.jpg"
+	]
+}

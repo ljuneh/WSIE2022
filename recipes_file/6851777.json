@@ -1,0 +1,49 @@
+{
+	"id": "6851777",
+	"name": "간편한 가지볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/2ea97a0f014600e60dee34185dbf21e11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6851777",
+	"ingredient_ids": [
+		18,
+		853,
+		575,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 가지를 한입 크기로 썰어주세요. 참고로 전 칼이 넘 날카로우면 손을 자주 비는편이라 조금무뎌서 잘 썰리지 않아요.그래서 가지 표면을 일자로 껍질을 벗껴서 썰어주심 잘 썰리더라구요.",
+		"2. 후라이팬에 기름을 두르지 마시고 썬불에서 가지를 넣고 볶아주세요.",
+		"3. 노릇하게 두적거리시면서 볶아주시고,노릇해지면 기름을 둘러서 볶아주시면 숨이 (첨양의반정도로) 죽기시작해요.",
+		"4. 이때 전 제가 만든 맛 간장을넣고 양념을 해주고 조금더 볶아줍니다.",
+		"5. 불을 끄고 올리고 당을 넣어서 저어준후에 깨소금약간과 참기름으로 마무리해요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/53ce85d3b8037520bcf9de09f042c8331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/a013b6fa87fba976ec1b63956fa45d291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/a513088127045159ee7ba3f7962050921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/5001c254726b663dba3d80fca57f538a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/13a29514645ad20d0f51a133bbb2a6251.jpg"
+	]
+}

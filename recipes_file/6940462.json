@@ -1,0 +1,160 @@
+{
+	"id": "6940462",
+	"name": "오리주물럭으로 원기회복하세요~^^",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/55158f507b8a58f229f6b20d587bd2b91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940462",
+	"ingredient_ids": [
+		127,
+		5,
+		27,
+		9,
+		3,
+		30,
+		295,
+		473,
+		379,
+		938,
+		477,
+		292,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오리고기",
+			"ingre_count": "700",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "떡",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "24",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간생강",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "7",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 양념장을 분량대로 넣고 섞어주세요.",
+		"2. 꼭 빼먹지 말아야할 재료는 카레가루입니다.  카레가루를 약간만 넣으면 오리의 잡내를 잡아주고 풍미를 올려줘요^^",
+		"3. 간장하고 고추장으로 간이 좀 모자라서 굴소를 넣고 맞췄는데 액젓이 있다면 멸치액젓을 대신 넣어도 감칠맛이 나요^^",
+		"4. 오리로스는 먹기좋게 잘라서 양념장에 넣고 섞어주세요.",
+		"5. 사진처럼 양념이 과다하게 많아야 나중에 야채나 떡을 넣을때 맞아요.",
+		"6. 통마늘하고 청양고추는 얇게 슬라이스 해서 주물럭에 같이 넣고 섞어두면 맛이 더 좋아요.",
+		"7. 바로 볶아도 상관없지만 고기먼저 이렇게 잘 양념장에 재워두고 간이좀 베인다음 볶으면 더 맛이 좋아요. 저는 냉장고에 하루전에 양념해서 넣어뒀습니다.",
+		"8. 떡은 넣고싶은만큼 물에 불렸다 사용하시고",
+		"9. 대파는 길이로 반을 가르고 5Cm정도로 큼지막하게 잘라주세요.",
+		"10. 당근도 넓게 채썰거나 반달모양으로 자르고, 감자도 반달모양으로 잘라주세요.",
+		"11. 양파도 굵게~~~ 채썰어주세요.야채를 처음부터 양념해서 볶는거라 너무 얇게 채썰면 야채가 흐물거려요.",
+		"12. 이제 준비한 야채와 미리양념한 오기고기를 모두 넣고 주물주물 섞어주세요.",
+		"13. 오리는 볶으면서 기름이 많이 생기기 때문에 따로 기름같은건 넣지 말고 바로 볶아주세요.너무 센불에 볶으면 겉만타요. 중불로 야채랑 고기에서 수분이 나올때까지 볶다가 센불로 올려주세요.",
+		"14. 이렇게 기름이 나오면 감자가 익을때까지 볶고 마지막에 부추를 넣고 살짝 만 볶아주면 완성입니다.",
+		"15. 기호에 따라 더맵게 먹고싶으면 매운고추가루를 조금 더 넣어서 볶아주면 끝!이때 간이 안맞으면 소금으로 간을 추가하세요~",
+		"16. 다먹고 난뒤 볶음밥 필수!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/8f600be80e1ef1fc9c0d6e4a21a486331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/c9932af700145b49edcdf7a25d522a041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/a60a47c58893898bfe8bd464d5dd26821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/3bf720be84a7576aa78b93d49d8178db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/2e2e422a38a7f184154e511d42d683e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/fdb37a53fa954b652cb75e428b12cd0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/72100b83bf46552bb59322cb7991a8331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/6751139a3d7b32e9a0df4affe64c57251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/85e6eb0ed329271f80d4d12f2d32b8581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/0f823183d2d5003ded893bf201bf83321.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/4751d378e9b6312bbb1f4c9849265d151.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/76ae235a1a01628894cedab86e6a14741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/b3720ddb46fb3c2f1844bbdf64e69aba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/800c7684880c68f14b7998a3a36e2aed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/93d32e81c465ca03e613a0c7bb7763dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/d44919116c4cfaf7658826eafca0fa4c1.jpg"
+	]
+}

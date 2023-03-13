@@ -1,0 +1,109 @@
+{
+	"id": "6943864",
+	"name": "영양 가득 비빔밥 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/21fdcff0e6a8c4e9a9a2308cb4ff8aea1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943864",
+	"ingredient_ids": [
+		9,
+		7,
+		3,
+		58,
+		8,
+		219,
+		379,
+		473
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소불고기",
+			"ingre_count": "170",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어린잎",
+			"ingre_count": "",
+			"ingre_unit": "채소"
+		},
+		{
+			"ingre_name": "모듬채소",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "흑마늘소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미향",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름(또는올리브유)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 느끼한거 말고 속 편하고 든든한 인기 메뉴 비빔밥 입니다",
+		"2. 집에 있는 야채를 준비합니다 당근, 애호박, 양파, 새송이버섯을 썰어 주세요",
+		"3. 팬에 식용유를 두르고 센불에 야채를 볶아주세요 불을 중불로 줄이고  야채가 익으면 흑마늘 소금 조금 뿌려서 간을 해주세요",
+		"4. 소불고기에 설탕 1T, 미향 1T, 간장 1T 넣고 볶아주세요 고기가 익으면 다진마늘 조금 넣고 고기를 먹기 좋게 잘라주세요",
+		"5. 오이는 반 잘라서 얇게 어슷 썰어 주세요",
+		"6. 식용유를 두르고 예열한 후 센불에 후라이를 합니다  가장자리가 바삭하게 익으면 불을 끕니다",
+		"7. 밥, 야채, 고기, 어린잎 채소, 모듬 채소를 넣고",
+		"8. 달걀을 넣고 고추장과 참기름을 넣고 비벼서 먹어요 된장국과 같이 먹어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/3e807fca8ba19a397a81de8d93e91cd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/3548231f17a303c0e2276de997bd693b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/20d49b4d3912823a4d78b0b11db12cc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/116205e010d46076d4e145c55b66b6fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/adc489b55c3136f6ebb9a5a8959f798f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/3c141f161726d04ee085351565e630c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/25124c61fdfe015d825476a7d87e4d881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/151e7fdb4595a552cd0dbea23c2836501.jpg"
+	]
+}

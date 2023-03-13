@@ -1,0 +1,91 @@
+{
+	"id": "5693364",
+	"name": "안동식혜 만드는 방법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/83c6919fe925286c7570ab874ec6f70e1.JPG",
+	"url": "https://www.10000recipe.com/recipe/5693364",
+	"ingredient_ids": [
+		99,
+		28,
+		995,
+		19,
+		187,
+		132,
+		188,
+		142,
+		224
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "엿기름",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "유기농설탕",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 쌀을 씻어 고두밥을 찝니다. 밥을 찔 때는 위에 물을 뿌려가면서 쪄주세요. 밥통에서 지어도 상관 없지만, 물을 약간 작게 넣고 잘 맞추어야 합니다. 밤은 채썰거나 납작썰기를 합니다.",
+		"2. 무도 아주 작게 나박썰기를 하거나 곱게 채썰기를 합니다.",
+		"3. 배도 무처럼 나박썰기나 곱게 채를 썹니다. 야콘도 있으면 좋습니다.",
+		"4. 잣도 준비해 주시구요.",
+		"5. 엿질금은 보자기에 싸서 물에 주물거려 앙금을 가라 앉힌 다음 윗물만 따라 사용합니다. 엿질금물에 고춧가루물을 들이는데 고춧가루는 면보에 싸서 담가두거나 약간 주물거리면 바로 빨간물이 우러나옵니다. 여기에 생강즙도 넣습니다.",
+		"6. 엿질금물에 고두밥을 섞어 40도 온도에서 약 5시간 놔두면 밥알이 동동 뜹니다. 여기에 유기농 설탕으로 간을 맞추고 시원한 곳에 두고 먹을때마다  무채, 잣, 밤, 당근등을 넣어 먹습니다. 그리고 무채는 미리 넣어두어도 괜찮더군요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/c5ea55ee30e9609676781397befff9ac1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/d307d1e3c69fe55e05644eb587eaf98a1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/7e85b9140dc900aae5f919b4f1f11d591.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/206d95b4d476676b40bb59f8ba09ed001.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/b38cb759014eea247a5f4ab21d6093821.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/f2e3b6eb9cc3d483c06aff90fb98ebb61.JPG"
+	]
+}

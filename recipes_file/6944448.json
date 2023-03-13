@@ -1,0 +1,119 @@
+{
+	"id": "6944448",
+	"name": "간단 소스로 맛있는 오므라이스 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/250217db348f817c1ad7e9de5aaed7081.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944448",
+	"ingredient_ids": [
+		6,
+		9,
+		3,
+		54,
+		628,
+		219,
+		225,
+		504,
+		995,
+		467,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토케첩",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "토마토케첩",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "우스터소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 기름을 두르고 다진 당근과 양파를 넣어 볶아줍니다.당근1/2개, 양파1/2개, 식용유1큰술팬중불",
+		"2. 채소가 반쯤 익으면 다진 햄을 넣어 볶아줍니다.햄1/2통",
+		"3. 햄이 볶아지면 다진 파프리카와 양송이버섯을 넣어 볶아줍니다.파프리카1개, 양송이버섯3개",
+		"4. 채소가 다 익으면 후춧가루를 뿌려 볶아줍니다.후춧가루 약간",
+		"5. 밥과 케찹을 넣어 볶아줍니다.밥2공기, 케찹3큰술",
+		"6. 물과 치킨스톡, 우스터소스, 올리고당, 케찹을 넣어 오므라이스소스를 만들어줍니다.물1/4컵, 치킨스톡10g, 우스터소스1큰술, 올리고당1큰술, 토마토케첩4큰술",
+		"7. 달군 팬에 기름을 두르고 푼 계란을 넣어 지단을 만들어줍니다.계란3개, 식용유1큰술후라이팬중불",
+		"8. 지단이 만들어지면 만들어놓은 볶음밥을 지단 반쪽에 놓고 남은 지단으로 덮어줍니다.",
+		"9. 접시에 담아 만들어 놓은 소스를 뿌려줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/0fe9c1c5f3f6d1223630dd4183cdbd011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/a1bf6816430cbfd555375172f0c3c3491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/27dd15cb17555786ad1cf449a67db2001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/1624738c8d5f127e4c05f312d0e7db6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/2aa9049781bd34425e247b6a52aec6111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/1135c23552d39d006c105c18f5eff21f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/792bbf1e48e206e1410547fba3dedf401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/0995bc8f9d3d3a3e6ae27d5cecc3b9261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/c9a0527b59168788a41cf2ef4972f06d1.jpg"
+	]
+}

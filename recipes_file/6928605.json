@@ -1,0 +1,44 @@
+{
+	"id": "6928605",
+	"name": "400번 저어 만드는 달고나 커피☕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/03/16/8490766d43e05a9fd9ab367a803732c51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6928605",
+	"ingredient_ids": [
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "커피",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "뜨거운물",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 적당한 그릇에 설탕 2스푼, 커피 2스푼, 뜨거운 물 2스푼을 넣주세요.",
+		"2. 커피를 휘핑기나 거품기로 휘핑해주세요.(거품기로 하면 엄청 힘들어요.ㅠㅠ",
+		"3. 노란빛깔과 달고나 색이 나면⁉️⁉️휘핑을 멈춰 주세요.",
+		"4. 유우 한컵을 컵에 따르고, 달고나 커피를 얹어 주세요. 그럼 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/16/ce1df30fb9ad025e6abba8a2c18c9b7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/16/b0d6115a5c98f81d20e2ca0f443d635c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/16/6e1ccc8aaa960692fe8e91905df59adf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/16/72033a90f6fd21f22014806dbbfd99e41.jpg"
+	]
+}

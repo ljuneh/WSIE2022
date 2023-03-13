@@ -1,0 +1,58 @@
+{
+	"id": "6940022",
+	"name": "돈까스 김밥 만들기!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/0fe8fd128b2a77747a0ba8b334821e6f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940022",
+	"ingredient_ids": [
+		496,
+		26,
+		219,
+		289,
+		8
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "3",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "우엉",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "에어프라이어돈까스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [],
+	"recipe_img": []
+}

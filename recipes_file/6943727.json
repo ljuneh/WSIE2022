@@ -1,0 +1,81 @@
+{
+	"id": "6943727",
+	"name": "채소 주먹밥 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/91d838b613a2d82f86762dad19f8a62f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943727",
+	"ingredient_ids": [
+		219,
+		3,
+		22,
+		9,
+		966,
+		497,
+		504,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "조미김",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "검은깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 기름을 두르고 다진 당근, 양파, 피망 순으로 볶아줍니다.당근1/6개, 양파1/4개, 피망1/2개, 식용유1큰술팬중불",
+		"2. 채소가 익으면 한쪽에 몰아두고 다른 한쪽에 기름을 두른 후 달걀을 깨뜨려 스크램블해줍니다.달걀1개, 식용유1큰술",
+		"3. 볼에 볶은 채소와 김가루, 밥, 소금, 참기름, 검은깨를 넣어 섞어줍니다.김가루한줌, 밥2공기, 소금1/2작은술, 참기름1작은술, 검은깨1작은술볼",
+		"4. 둥글게 빚어줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/297251dc8a4d134a25cdf8c467c642e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/227ffb4ed0410436e077e5fab3e67eb91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/6fd79fbccb1aff2b5b9af6ea1a5c04a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/8c32942451f59cf917e95c2e5b6a332c1.jpg"
+	]
+}

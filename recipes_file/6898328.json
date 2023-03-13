@@ -1,0 +1,86 @@
+{
+	"id": "6898328",
+	"name": "참치 비빔밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/1335f97aecdd8fb47d8c4502ec3830c91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6898328",
+	"ingredient_ids": [
+		473,
+		379,
+		226,
+		575,
+		660,
+		16,
+		95
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔1/2캔(100g)",
+			"ingre_count": "1/2캔(100g)",
+			"ingre_unit": "캔(g)"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "상추",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 팬에 양념재료(고추장1.5큰술, 고추가루1큰술, 간장1큰술, 설탕1큰술, 올리고당1큰술)을 넣고 섞어준다.",
+		"2. 약불에 데우면서 참치를 넣는다. 참기름1큰술을 두른 후 섞어준다.참치기름은 빼지않고 같이 넣는다.",
+		"3. 그릇에 밥 - 상추잘게 찢은것 - 김순으로 얹는다.",
+		"4. 김 위에 만들어놓았던 양념을 얹은 후 계란후라이를 얹는다.",
+		"5. 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/7bb582703d87168366fdd77432fad5251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/3cbb60b131d885dc6e1d0eec92387dce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/1a1584104be0b00bee49243662f334c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/eeb445abb8b9f2fafe4ef489de3bfc151.jpg"
+	]
+}

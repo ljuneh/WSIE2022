@@ -1,0 +1,113 @@
+{
+	"id": "6944772",
+	"name": "중국식 돼지고기 가지볶음 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/946c38a9802a2f0f86f30834c9705cef1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944772",
+	"ingredient_ids": [
+		18,
+		487,
+		497,
+		13,
+		504,
+		643,
+		234,
+		226,
+		379,
+		233,
+		28,
+		383
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미향",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "감자전분",
+			"ingre_count": "2.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "마늘콩소스",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 주재료 : 가지, 돼지고기 다진고기 대신 앞다리살 찌개용을 길게 잘라서 준비했어요",
+		"2. 소스 : 설탕 1T , 간장 1T 섞어주세요  청경채를 다지듯 썰어주세요  다진마늘, 다진생강을 준비합니다  가지를 4등분 해서 두툼하게 어슷썰어 주세요",
+		"3. 가지에 소금 1.3T 뿌리고 섞어서 10분간 두었다가 소금물이 생기면 가지만 건져 주세요  돼지고기에 미향 1t, 감자 전분 1t 넣고 섞어주세요",
+		"4. 건져낸 가지에 전분가루를 골고루 뿌리고 섞어주세요 2T 정도 넣어줍니다 가지 양이 많아서 소량씩 전분가루를 뿌리고 그 위에 다시 가지를 담고 전분가루를 뿌려주세요",
+		"5. 식용유를 넉넉히 붓고 전분가루를 뿌려 보글보글 올라오면 튀김 기름 온도가 됩니다 가지를 두번 나눠서 넣고 골고루 섞어서 튀겨준 후 가지를 그릇에 담아 주세요",
+		"6. 다른 팬에 식용유를 두르고 예열한 후 청경채, 마늘, 생강을 넣고 볶아주세요 마리네이드한 고기에 마늘콩소스 1t 를 넣고 고기가 익도록 센불에 볶아주세요",
+		"7. 고기가 익으면 가지를 넣고 간장소스를 넣고 다진 풋고추를 넣고 밀가루 1t 넣고 센불에 골고루 볶아주세요",
+		"8. 남은 식용유에 달걀 후라이 해서 상추쌈에 싸서 먹었어요 남은 식용유는 공기에 노출(산화)되어 가능하면 빨리 먹어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/75b42532d33abbe2bc98d56b7f14ef621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/4c15305000b02b287e4064d3d6ad1d081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/88f40fafb5182c77436b79b170e20e021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/c76ee87d13b0fa044d0f9c1e1676ff621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/fe1ff33179b6ac14d87ceb729583fe021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/bded08f63f9ae14e0f34c408cabe0d891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/f1b988eab53ee8650bf51792e7c989c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/6a6d83882779a8f5483a9b4714bde47e1.jpg"
+	]
+}

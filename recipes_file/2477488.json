@@ -1,0 +1,127 @@
+{
+	"id": "2477488",
+	"name": "김치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/5f3b44465ae09cccff898f68ca35f0ac.jpg",
+	"url": "https://www.10000recipe.com/recipe/2477488",
+	"ingredient_ids": [
+		398,
+		27,
+		323,
+		198,
+		233,
+		473,
+		938,
+		233,
+		225,
+		224,
+		233,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "배추김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "돼지고기목살",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "떡국떡",
+			"ingre_count": "8",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "멸치국물",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "김칫국물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "김칫국물",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "들기름(식용유)",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 목살을 준비하여 적당한 크기로 자르고 양념을 버무린 다음 하룻동안 재어 놓습니다.",
+		"2. 팬에 버터와 김칫국물. 들기름을 넣고 썰은 김치를 넣어 달달 볶음을 합니다.",
+		"3. 멸치육수와 김칫국물을 냄비에 붓고 볶음김치를 넣은 다음 끓여줍니다.",
+		"4. 10분 정도 끓인 다음 고춧가루, 다진 마늘, 소금을 넣어 간을 맞추고 두부를 넣어 약 3~5분 여정도 끓여줍니다.",
+		"5. 어슷썰기를 한 대파를 넣고 한소꿈 끓여 불에서 내리고 찌개용 그릇에 담아 냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/d9d9e738838bc0a9b1c0eb4f5d6608531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/51d85c55cb5ee4c9cc2ac6d92b2a29091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/1c3bc4cc14bb0828300814feb8350a071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/37f913c0ffaa7d233f6fd123f5c4b0391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/15653795724ed6746bcf7047ba5bb9d21.jpg"
+	]
+}

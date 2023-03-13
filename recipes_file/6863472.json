@@ -1,0 +1,53 @@
+{
+	"id": "6863472",
+	"name": "옥돔미역국 끓이는 방법 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/04/c60d97a82c07f689db399a7386029bc91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863472",
+	"ingredient_ids": [
+		573,
+		936,
+		91,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "옥돔",
+			"ingre_count": "160",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "조개",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료 : 옥돔1마리(마른옥돔도 괜찮아요) 미역,조개(없어도 괜찮아요) 마늘,대파나 쪽파",
+		"2. 조개로 국물을 냅니다.  조개가 없으면 옥돔만 넣어도 국물이 진해서  없으면 통과~",
+		"3. 미역을 불려서 잘게 썬 후 물이 끓으면 넣어주세요",
+		"4. 1분후 먹기좋게 자른 옥돔 투하.. 마른옥돔 하시면 나중에 소금간 안하시고 드셔도 되시구요.",
+		"5. 소금간이나 국간장 간으로 하시면 되세요. 마른옥돔(냉동옥돔)을 구매하셨다면 그냥 드시면 되세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/04/d32f28f4666a0dd58622e7a20708f9d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/04/cc712bd16fd6f256dc6d755529b3ff371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/04/6a177776d35b9e21b36b2871974a9c721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/04/16d1a73232a8c423e37fc19d2ee3099f1.jpg"
+	]
+}

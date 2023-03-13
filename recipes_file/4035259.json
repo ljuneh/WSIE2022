@@ -1,0 +1,74 @@
+{
+	"id": "4035259",
+	"name": "밑반찬 무조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/22/2c8336db6c5977326bc9792b9b0b9f561.jpg",
+	"url": "https://www.10000recipe.com/recipe/4035259",
+	"ingredient_ids": [
+		660,
+		233,
+		226,
+		224,
+		543,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "무(중간크기)",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "6",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "송송썬파",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "종이컵"
+		}
+	],
+	"recipe": [
+		"1. 무는 1.5~2cm정도의 두께로 큼직하게 썰어 준비하고..",
+		"2. 진간장6스푼, 참기름약간, 다진마늘1/3스푼, 송송썰은파1스푼, 설탕1/2스푼, 고춧가루1스푼, 통깨 1/2스푼을 넣어 양념장을 만듭니다.",
+		"3. 무를 먼저 한켜깔고 양념장을 올려놓고, 다시 무를 깔고 양념장을 올린후에... 남은 양념장과 물1/2컵을 섞어 냄비에 부어줍니다.",
+		"4. 그런다음 센불에서 한소끔 끓기시작하면 불을 약불로 줄여서 15분가량 뭉근하게 쪼려줍니다. 그래야 무 속까지 양념이 잘 베인답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/99f7495c0939cdfde5794832bdadc7171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/8d221206b2d1ef3b5e35f96bc21a4c1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/6252bc4f4d6e484898c0a98f1ab3af001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/d4972524fe6ae5c3ec14db171a65ad631.jpg"
+	]
+}

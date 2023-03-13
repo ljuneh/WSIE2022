@@ -1,0 +1,56 @@
+{
+	"id": "6844505",
+	"name": "집밥백선생 백종원 카레 만드는법 ^^",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/ec480c64b1b675dbb155d31b9860a7f71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6844505",
+	"ingredient_ids": [
+		3,
+		5,
+		9,
+		487
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 백종원씨는 재료를 채썰어서 만들었지만 저는 큐브형태로 당근과 감자는 손질하고 양파는 채썰어서 준비했습니다",
+		"2. 돼지고기는 취향에 맞는 부위를 사용하시면 됩니다 먹기 좋은 크기로 잘라서 준비해주시구요",
+		"3. 백종원 카레의 포인트는 양파의 카라멜라이즈!!! 양파를 약불에서 오래 볶아서 단맛을 뽑아주는게 포인트입니다 이렇게 조리하면 카레가루를 넣기 전에도 노랗게 변하는게 독특한 점이죠",
+		"4. 양파가 갈색빛이 나도록 충분히 카라멜라이즈했다면 나머지 재료를 넣고 같이 볶아주세요 이때는 불을 중불로 올리셔도 됩니다",
+		"5. 충분히 볶아진 재료에 물을 넣어주세요  들어간 재료가 충분히 잠길 정도로 넣어주시면 됩니다 물이 끓기 시작하고 재료가 충분히 익어간다고 판단되었을때 카레가루를 넣고 마무리를 해주시면 되는데 카레가루를 물에 풀지않고 그냥 넣으면 뭉치기때문에 조금씩 넣고 저어주셔야 됩니다",
+		"6. 걸쭉하게 완성된 카레에 후추로 마무리하면 백종원 카레 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/a1ba1d6de1e90070ea5c0c7c32114b2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/45504cf17f529ee2e1ca25cc8c18074d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/91a42ef5f7f541b088e222f0e236f0801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/af6f099d8a45740da999b1b8082eaccb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/669d3adf8e2991ff9c7d317003290ec41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/978fddb72facdbbd3e9098a311ba2ee51.jpg"
+	]
+}

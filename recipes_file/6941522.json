@@ -1,0 +1,107 @@
+{
+	"id": "6941522",
+	"name": "[김밥] 가와지 1호 초간단 한끼 진주땡초김밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/fea799bfcfd12e8401c18b5ce9f1f9331.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941522",
+	"ingredient_ids": [
+		660,
+		290,
+		295,
+		548,
+		379,
+		477,
+		233,
+		575,
+		343,
+		504
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "김밥김",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 청양고추는 반으로 갈라 안에 씨를 다 빼주세요.청양고추 10개맨손으로 하면 손에 화상입어요. 위생장갑 꼭 끼고 해주세요.",
+		"2. 반으로 갈라 씨를 빼준 청양고추는 잘 다져주세요.청양고추10개야채다지기당근 있으신 분들은 당근도 잘 다져서 준비해주세요.",
+		"3. 어묵 2장도 잘 다져주세요.사각어묵 2장 야채다지기",
+		"4. 간장 3T, 굴소스 2T, 다진마늘1T, 올리고당1T, 미림1T 넣어 양념장을 만들어주세요.간장 3T, 굴소스 2T, 다진마늘1T, 올리고당1T, 미림1T 굴소스가 없으신 분들은 간장으로 대체 가능합니다. ",
+		"5. 약불에 식용유를 두르고, 다져준 재료들을 다 넣어 노릇노릇해질때까지 볶아주세요.식용유1T, 다진 청양고추, 다진 어묵약불",
+		"6. 노릇노릇해지면, 만들어 둔 양념장을 넣고 살짝만 볶아주세요.양념장, 다진 청양고추, 다진 어묵 약불양념이 다 졸아들때까지 볶으면 안되고, 양념이 묽게 남아있게 볶아주세요.",
+		"7. 밥 2그릇에 참기름1t, 깨1t 넣어주세요.밥 2그릇, 참기름1t, 깨1t",
+		"8. 밥에 양념을 다 넣어주신 후 잘 섞어주세요.",
+		"9. 김밥 김을 펼치고, 위에 밥을 올려주세요.  잘 말리도록 윗부분에는 흰밥 조금 묻혀줬어요.",
+		"10. 돌돌 말아서, 위에 참기름을 한번 쓱 발라 준 후 먹기 좋은 크기로 썰어주세요.",
+		"11. 우리품종 경기미 \"가와지1호\"는 캠핑요리, 김밥, 도시락에 잘 어울리는 중간찰 쌀로 찰지면서 부드러워요. 식어도 부드러움이 오래 유지되어서- 김밥, 도시락 등 잘 어울리더라구요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/2864865a36f725343f2e07daccb73ce01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/e7bfd4554148aaa9fde475d70dff4e661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/8d2c6e2835f1c520ed8237cb9a8985151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/49a2a474e58bacd47ccb31975260447e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/114552577b905309d3ae46d0013679991.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d64c444f62372b207a145ca8b632e24d1.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/59b3134fd2027584d0daf7d6076ee8b41.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/429dbc1d159b6b17c8928ffa3d2880a21.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/ed7dc8c40ddfc25bce70efe6aac552fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/5babf137299c835ec02ded8cfe2207991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/21375fe074b9942beeba577e379ef6c91.jpg"
+	]
+}

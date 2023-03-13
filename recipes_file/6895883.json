@@ -1,0 +1,45 @@
+{
+	"id": "6895883",
+	"name": "닭봉카레구이♡닭고기 초간단요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/09/14/69cefccf4be5405c1d12dbcbc8af5f131.jpg",
+	"url": "https://www.10000recipe.com/recipe/6895883",
+	"ingredient_ids": [
+		804
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭봉",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 닭봉을 깨끗이 씻어요. (사진은 1kg이예요^^)",
+		"2. 우유에 20분이상 담궈주세요. 잡내를 잡아주고 육질이 부드러워져요.",
+		"3. 체에 받쳤다 키친타올로 눌러 물기를 잘 제거해주세요.",
+		"4. 비닐봉지에 닭봉을 담고 카레가루를 넣어요. 봉지를 오므려 잘 흔들어주세요.",
+		"5. 팬에 종이호일 깔고 닭봉을 올리세요. 뚜껑덮고 약불에서 20분 가열합니다.(요만큼이 500g이예요)",
+		"6. 뒤집어서 뚜껑 덮고 10분 더 가열해주세요. ☆만약 물기가 있다면 뚜껑 열고 5분 더 가열해서 수분을 날려주세요.",
+		"7. 그릇에 담아 파슬리가루 조금 뿌렸어요. 완성입니다^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/14/ec5d14f1fba80e6169a7df204b16e8ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/14/dbaf9d8b77aba09fd06bc1004df8dbeb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/14/eb33f27b112820b0a99353e653f9b4e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/14/920a113d94b561c719c0b887ae413f531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/14/24b267859eacc6efdaaaa9efb0d9cb261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/14/b199857167b3e0143225c0470df44d1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/14/83ccddbcd5272fc3f38983e50932f6ee1.jpg"
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"id": "6942313",
+	"name": "경기미 가와지1호 쌀로 만든 초간단 명란마요주먹밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/1e99fe85844f54218f30ae0593ae68491.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942313",
+	"ingredient_ids": [
+		322,
+		8,
+		228,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "170",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "명란",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술반"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 우리쌀 경기미 가와지1호 쌀로 밥을 지어 주었어요",
+		"2. 밥이 다 되면 그릇에 담아 잠시 식혀두세요",
+		"3. 오이는 작게 다져주세요",
+		"4. 큰 볼에 식혀둔밥과 명란, 마요네즈,오이를 넣고 섞어주세요",
+		"5. 재료가 다 섞였으면 참깨, 김가루, 참기름을 넣고 마저 섞어주세요",
+		"6. 마지막으로 한입크기로 동그랗게 빚어 명란으로 예쁘게 마무리 해주면 초간단 명란마요 주먹밥 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/eda4db31008149529f350574d7476b5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/30c8465e32a0b1541ca39f2b642a8d601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/525a034250ce88e25120744147c01f301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/c36c7e9abae5812f9cbe8f967cf33da21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/d366c3cb3727d437e761db6fa115c1791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/068a84b2d812f5523a4203996c596bac1.jpg"
+	]
+}

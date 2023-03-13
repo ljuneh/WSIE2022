@@ -1,0 +1,91 @@
+{
+	"id": "6942122",
+	"name": "단호박견과류 조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/e58a54f67ad4c22826f92391cefc83bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942122",
+	"ingredient_ids": [
+		328,
+		193,
+		148,
+		460,
+		543,
+		995,
+		379,
+		226,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "단호박",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "크랜베리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "건포도",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "180",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "60",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "8",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "매운고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 단호박,통마늘,간장,물,설탕,아몬드,크랜베리등 견과류를 준비해 주세요",
+		"2. 달구어진 마른팬에 견과류를 먼저 볶아주세요",
+		"3. 물,간장,설탕을 넣어 간장물을 만들되 설탕이 녹을때까지 저어주세요",
+		"4. 다 녹았음 모든재료를 다 넣고 졸이기 시작해요",
+		"5. 반쯤 졸여지면 대파를 같이 넣어 더 졸여주세요",
+		"6. 단짠단짠 맛있는 단호박견과조림 완성했네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/8a79c11b3dc188fb7df91b35d785d1781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/b122cb67b074eefb7c574a8ce953ff821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/5855033239f9a480dc3e20cc3ae3e58e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/3a070794c28057248e7a2b259526dc2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/b4040c9e00dbd421998fa37eaccff53f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/201deefc5a7b5c829e8540b4b6fba4131.jpg"
+	]
+}

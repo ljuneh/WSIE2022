@@ -1,0 +1,89 @@
+{
+	"id": "6837023",
+	"name": "전복죽 맛있게 끓이는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/11e9c4c99926add71d07c976dcc9f54d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837023",
+	"ingredient_ids": [
+		86,
+		9,
+		3,
+		53,
+		995,
+		497,
+		660
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "​찹쌀1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마(5×5㎝)",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "7",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 전복은 광택이 있고 탄력이 있는 것을 고르세요. 전복의 암컷은 진한 녹색을 띠고 수컷은 노란색을 띠는데 산란기에 그 색이 두드러지게 차이가 난답니다. 전복은 생식용으로 쓸 때는 진한 녹색을 띠는 암컷이 좋으며, 찜과 조림에는 노란색을 띠는 수컷이 좋답니다.",
+		"2. 찹쌀은 깨끗이 씻어 물을 넣고 2시간 이상 불려 물기를 뺀 다음 방망이로 찧거나 믹서에 넣고 쌀알이 1/3 정도 크기가 되도록 간다.",
+		"3. 물 2컵에 다시마를 넣고 30분 이상 두어 다시마을 우려낸다.",
+		"4. 전복은 조리용 솔로 문질러 깨끗이 닦은 후 흐르는 물에 씻는다. 껍데기와 살 사이에 숟가락을 넣고 살을 떼어낸다.",
+		"5. 가위로 조금씩 자르며 내장과 모래주머니 부분을 떼어준다. 모래주머니는 제거한다. 전복이빨 아랫부분을 쭉 누루면 사진처럼 불그스름한 이가 나와요 요걸 제거해 주면 됩니다.",
+		"6. 손질한 전복살은 잘게 다진다. 내장도 잘게 다진다.",
+		"7. 표고버섯, 당근, 양파는 잘게 다진다. ",
+		"8. 달군 냄비에 참기름을 두르고 전복살을 넣고 볶는다. 전복이 익으면 쌀을 넣고 쌀알이 투명해질 때까지 볶는다.",
+		"9. 물 5컵에 다시마 우린 물 2컵을 붓고 끓인다.",
+		"10. 팔팔 끓어오르면 표고버섯, 당근, 양파를 넣고 약불에서 뭉근히 나무주걱으로 저어가며 끓인다. ",
+		"11. 쌀알이 퍼지고 잘 어우러졌을 때 내장을 넣어 한소끔 끓인다. 깔끔하게 먹고 싶을 땐 내장을 그냥 다진 채로 넣어 끓이면 되고요. 내장을 쌀과 함께 볶아서 만들어도 되고요. 먹을 때 청장이나 소금으로 간을 맞춰 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/db70d0a6df91be0354d597114060f4de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/98f4e68ba8ea3e16d20c468a25228b811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/6f7604795aa4ee16aa1b1a1481347e681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/8c8ed0854f93bd9f5fd984858619e84c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/630c12c2cfd2b7dfa2f63008ed6035851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/348b9307db498756180186e6dab9e5001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/1db040cb1b29c54e55c06c2be39273bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/f5d40a85d2d4766bae98f2ed7e2b13631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/9527ac8fdd2d000908fff115d76933fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/aa62615a06acd98d2acfc7f008687e5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/f55ca2adff0dfeda270fe94e41287e001.jpg"
+	]
+}

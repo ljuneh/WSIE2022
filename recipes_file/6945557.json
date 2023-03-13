@@ -1,0 +1,66 @@
+{
+	"id": "6945557",
+	"name": "무청 시래기볶음 시래기 지짐",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/ad7c00a2cfb0354acead3390ba47b7471.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945557",
+	"ingredient_ids": [
+		502,
+		349,
+		29,
+		337,
+		327,
+		757
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "시래기",
+			"ingre_count": "30",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "6",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "멸치다시육수",
+			"ingre_count": "1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 동치미 무에 달린 시래잎을 시래기라고해요 무에서 잘라내지말고 손으로 비틀어서 무와 시래기를 분리해서 한번씻은후에 삶아줍니다 푹 삶아야해요 20분정도",
+		"2. 잘삶아진 무청 시래기를 찬물에 여러번 헹궈요 생각보다 흙이 많이나옵니다  깨끗이 몇번을 씻어내서 줄기부분에  사진에 보이듯이 시래기 껍질을 제거해줘요 끝부분을 손으로 살짝 눌러서 들면 껍질이 나옵니다 쭉 길게 벗겨내요",
+		"3. 껍질 벗겨내고 먹기좋은 크기로 5등분정도 잘라줘요 볶아줄 냄비에 넣고  마늘.국간장.들기름2스푼 넣고 조물조물 밑간을 먼저 해줘요",
+		"4. 밑간은 10분정도 해두면 되요 이제 팬에 불을 켜고 시래기를 볶을건데요 끓어오르려 하면 멸치다시육수를 넣어줘요 넣고 중불에 20분정도 푹 조려줄거예요",
+		"5. 20분정도 조려서 간을 한번보고 싱거우면 국간장이나 소금을 넣고 들깨가루 넣고 한번더 뒤적이고 들기름 2스푼도 넣고 쪽파 썰어놓은거 넣고 뒤적거려주고 1분후에 불을 끄면 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/06e0643955859320abc5e63fd14bf0e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/11cc75ffebd8dc8b1eec95c233a5ab011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/05c2afb8610223a4d00ad3a47020f85f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/0e3f2d7d19668e8f53f33a2c74a0e6401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/ea488cc1394cc272616510332a4b6ca51.jpg"
+	]
+}

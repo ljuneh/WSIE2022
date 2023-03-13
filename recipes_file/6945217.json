@@ -1,0 +1,53 @@
+{
+	"id": "6945217",
+	"name": "베이컨 계란말이 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/1064be6283f0b817a3d60d8ec71465561.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945217",
+	"ingredient_ids": [
+		219,
+		406,
+		9,
+		3
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 달걀을 포크로 곱게 풀어줍니다",
+		"2. 양파, 당근을 곱게 다지듯 썰어주세요",
+		"3. 베이컨을 준비합니다",
+		"4. 팬에 식용유를 두르고 예열한 후 달걀물 반정도 포크나 수저로 양을 조절해서 부어줍니다  달걀물 위에 베이컨을 올려 주세요",
+		"5. 채썬 야채를 달걀물 위에 올리고",
+		"6. 나머지 달걀물을 베이컨에 붙도록 부어주세요",
+		"7. 달걀을 말아 주세요 좀더 촘촘하게 말거나 달걀양을 늘리면 도톰하게 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/6a2a0957576b510faa76a20352f5b8d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/fe48d7659d7a30dcc11dabf5b488090b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/2281430ef8cdf57dc0a42f03471e0dcf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/7d0ba02626a0ae3155bcbd04b95128141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/13f548fb8622e59f4e1ab17c0a6a82fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/373de3c3645b74a66fc073e5f3f8fa471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/0c7c8aff5158f0224c140c738279cf7e1.jpg"
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"id": "6848377",
+	"name": "소세지 꽃 주먹밥 만들기 # 피크닉 도시락",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/18/5070f5c55076ca66ceef663729163d1d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6848377",
+	"ingredient_ids": [
+		3,
+		9,
+		7,
+		497,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "통통소세지",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 양파, 당근, 애호박 채소들은 적당히 잘라준 다음 다지기로 다져주세요. 잘게 다져야 주먹밥 만들 때 잘 뭉쳐진답니다.",
+		"2. 소세지는 반으로 자르고 + 모양으로 칼집을 내주고 그 다음 X 모양으로 총 4번갈라 8등분 칼집을 내주세요.",
+		"3. 끓는 물에 소세지를 넣고 꽃처럼 예쁘게 펴지면 건져주세요.",
+		"4. 달군 팬에 식용유를 두르고 소금 한꼬집 넣고 다진 채소를 볶아주세요. 채소 익은 냄새가 솔솔 날 때 까지 당근이 잘 익도록 볶아주세요. 불을 끈 후 밥을 섞어주세요.",
+		"5. 고소하게 참기름 둘러주세요.",
+		"6. 밥이 한소끔 식으면 동그랗게 모양을 잡아주고 소세지를 쏙 넣어서 전체적으로 동그랗게 다듬어 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/18/5c520b84845017807ce3f4348952c3e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/18/fe02dafab6fde227e51f357d5a3035d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/18/6ccd96bb2d635543202aac15167aeb371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/18/37c3893a9685ed5dae1c469c56668cc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/18/a1cbe3873475c47e6277dc61d4bfb99a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/18/4bec460e1548567c9b163ddebcfd8c921.jpg"
+	]
+}

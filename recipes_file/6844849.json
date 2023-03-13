@@ -1,0 +1,74 @@
+{
+	"id": "6844849",
+	"name": "꼬리곰탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/17/38a97f971e22c286b8f7e42bf4a596c21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6844849",
+	"ingredient_ids": [
+		29,
+		3,
+		497,
+		379,
+		29
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "소꼬리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 소고기 한박스를 사왔습니다.",
+		"2. 꼬리가 8개 들어있습니다.",
+		"3. 꼬리를 잘라 물에 1시간담구어 핏물을 뺍니다.",
+		"4. 꼬리를 한번끓여서 물을 버리고 다시 물을 붓고 샌불로 30분 끓이다가 양파 마늘 파를넣고 중불로 2시간끓이고, 약불로 뭉근하게 3시간 끓이면 뽀얀 국물에 꼬리는 흐믈흐믈 하게 익습니다.",
+		"5. 꼬리 곰탕이 완성 됐습니다.",
+		"6. 푹익은 꼬리는 건저서 맛 있는 양념간장에 찍어 먹습니다.",
+		"7. 꼬리국을 끓이다가 꼬리를 건저 양념을 해서 푹익혀 꼬리찜을 만듭니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/17/29b1365720f8efd906f6164dbc6db6ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/17/d695a049541929a6153947a04c0ca5f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/17/131b002d38005276eda0bb012ae0b5e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/17/d688db4fe26e391627040a500fe62bf61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/17/1adafec0bbdd0e8b932b4f28d404b1851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/17/978b3bf24a75b11b321556ffae626f491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/17/4827395b20f6794d0891bf7cc93d06b21.jpg"
+	]
+}

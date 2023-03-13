@@ -1,0 +1,104 @@
+{
+	"id": "6878415",
+	"name": "시금치국/고추장시금치국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/d9c60ce9d15620a9f974149fa41286101.jpg",
+	"url": "https://www.10000recipe.com/recipe/6878415",
+	"ingredient_ids": [
+		2,
+		995,
+		996,
+		761,
+		233,
+		473,
+		848,
+		497,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "1/2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "멸치가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "새우가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "표고버섯가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추씨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛간장(국간장)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. 시금치는 반단입니다.",
+		"2. 찬물을 가득 부어 식초 2큰술을 넣고 5분간 시금치를 담가줍니다. 이렇게 하면 흙같은 이물질들이 가라앉아요. 서너번 헹궈준 후 체에 받쳐 물기를 제거합니다.",
+		"3. 뿌리를 잘라준 후 5cm 길이로 잘라줍니다. 뿌리에 영양이 많기에 그대로 사용하셔도 됩니다. 저는 부드러운 식감 때문에 뿌리를 잘랐어요.",
+		"4. 천연조미료를 사용했는데요. 멸치가루는 멸치를 내장 제거하고 기름없이 마른 팬에 볶아서 분쇄기에 갈아주세요. 새우가루는 보리새우를 마른 팬에 볶아서 분쇄기에 갈아주세요. 마른 표고버섯은 그대로 분쇄기에 갈아주세요. 마른 고추씨는 그대로 사용했는데 이것도 갈아주셔도 되요. 맛간장을 사용했는데 없으면 국간장을 사용하세요. 고추장 시금치국이라도 고추장만 넣는 것보다 된장을 약간 넣어주는 것이 훨씬 맛있어요. 다진마늘도 준비하시구요.",
+		"5. 천연조미료들을 다시백에 넣어주면 너무 좋아요. 멸치가루, 새우가루, 표고버섯가루, 고추씨, 다진 마늘이 들어갔어요. ",
+		"6. 대파 반 대는 어슷 썰어주세요. ",
+		"7. 물 1리터가 끓으면 천연조미료가 든 다시백을 넣어주세요. 그리고 고추장 2큰술과 된장 1큰술을 망에서 잘 풀어줍니다.",
+		"8. 육수가 끓으면 시금치를 넣어줍니다. 시금치는 많은 것 같아도 숨이 죽으면 얼마 안 되요.",
+		"9. 맛간장 1큰술을 넣어주고 다시백을 건져냅니다. 맛간장이 없으면 국간장을 넣어주세요. 싱거우면 소금을 약간 넣어줍니다. 간이 맞으면 생략하시구요.",
+		"10. 마지막에 대파를 넣어줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/84ccc8c517f984c5249f3185d8161e4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/26ff8dddb78ce0efcde6cd0a44ee199c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/82acc3c0247d09b6cc68ae5cb4e5378c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/3b7964e2775b5b37d179cfe4b238f5e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/466bbc13a75f5a4c99cb333680a710351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/484f094503ecce6ac9289454654da0061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/1540cbe5572472040cf51f2a6c3389f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/cae36c9d962a3ee27b78896aa49c6f9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/8a8e197ec45520703ebc0a8d68df01fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/eafae2c7876c18a6c15f3230cf43af6c1.jpg"
+	]
+}

@@ -1,0 +1,91 @@
+{
+	"id": "6941635",
+	"name": "해물우동(feat.징거미새우)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/4a1d620a91901c0903687274c7f3963a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941635",
+	"ingredient_ids": [
+		995,
+		19,
+		29,
+		90,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "해물모듬",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "징거미새우",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "우동사리",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "실란트로",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "다시멸치",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "파뿌리",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료는 아주 간단! 해물모듬과 징거미새우 우동입니다. ※우동은 사리만 사용하고 스프는 넣지 않습니다. ",
+		"2. 오늘의 맛을 담당할 징거미 새우는 민물과 바닷물이 만나는 곳에서 서식하며 특징은 집게발을 가지고 있어요. 맛은 바다새우와 맛이 조금 다르고 오히려 랍스타 맛과 흡사 담백 고소해요.",
+		"3. 육수를 먼저 만듭니다. 물 1리터 다시멸치 5마리 파뿌리 10개 무 1/4개 마늘 5개 물이 팔팔 끓으면 중불로 줄이고 20분 끓입니다.",
+		"4. 불 끄기 2분전에 다시마 (10*10 ) 1장을 넣습니다. 육수를 채에 걸러 맑은 우동국물을 받은 후 ",
+		"5. 센불에서 해물들을 넣고 끓입니다. ",
+		"6. 물이 끓을 때 우동을 넣고 2분 더 끓인 후 ",
+		"7. 소금으로 간을 하고 불을 끕니다. ",
+		"8. 그릇에 우동과 해물을 담고 징거미 새우로 장식하고 실란트로를 곁들여 냅니다. ※실란트로 향이 싫으면 쏭쏭 썬 파나 쑥갓을 넣어주어도 좋습니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/0be41e18bf7f1f92ed48879141d431531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/7ed6e000bce74524d27a815da293a9f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/071dfe4449e348e75eaf25b01b0fbc691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/3bacf9875237b21c25bf3dbd7b1684d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/fd5872c6de006f2dc479422685503b601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/387590f3fe8720c38bcc3dc15f3325631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/2562df50c80233cf35a7bbae82cc4b161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/4cfdfc4df2de486bc61f93d8b90255a21.jpg"
+	]
+}

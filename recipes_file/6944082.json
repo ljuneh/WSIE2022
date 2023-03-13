@@ -1,0 +1,47 @@
+{
+	"id": "6944082",
+	"name": "발효 포도쥬스 # 포도 에이드 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/1dbc3302536a20b9fe93af3ff45bba001.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944082",
+	"ingredient_ids": [
+		174,
+		1022,
+		655
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "포도",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "원당",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "탄산수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 포도와 원당을 켜켜로 넣고 포도청을 만들어 주세요",
+		"2. 뚜껑을 덮고 검은 봉지를 덮고 서늘한 곳에 둡니다",
+		"3. 며칠 후 수저로 적당히 눌러서 원당을 녹여주세요",
+		"4. 10일 후 꺼내서 미니 국자로 포도를 눌러서 즙을 더 내주세요",
+		"5. 발효쥬스 원액 진한 포도 쥬스 완성~!",
+		"6. < 포도 에이드 만들기 >포도 쥬스에 탄산수를 섞어주세요",
+		"7. 포도 에이드 만들기 간단해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f4b09b620e2824633022cb08546735e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/c3ba1eeccbfc6e2ab8c3c92d10a3faae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/39f408edba605544c86067b5c88269bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/259ef1d281b0ad8207f519241529dbe31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/d60e2a75328766a7c0222f95dc2400341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/22e72f5deed8fd61ec599ebc1a1006331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/726ac0ad102795466168c52df7cc28a11.jpg"
+	]
+}

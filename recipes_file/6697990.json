@@ -1,0 +1,72 @@
+{
+	"id": "6697990",
+	"name": "미나리무침 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/04/3e9224cb773d582051e0367ff8b259361.jpg",
+	"url": "https://www.10000recipe.com/recipe/6697990",
+	"ingredient_ids": [
+		20,
+		333,
+		250,
+		543,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1/4",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 찬물에 식초를 3-4 큰술 정도 넣어서 고루 섞어주고 미나리를 넣어줍니다.  미나리를 식초에 10분 정도 담갔다가 서너번 맑은 물에 헹궈서 물기를 빼둡니다.",
+		"2. 가위나 칼로 미나리 줄기의 요런 부분들을 제거해주시구요.",
+		"3. 4-5cm 로 먹기 좋게 잘라주세요.",
+		"4. 색상을 위하여 파프리카를 약간 넣어주는데, 홍고추도 좋아요. 대파는 곱게 다져주시구요.",
+		"5. 고추가루 1큰술, 멸치 액젓3분의 2큰술( 까나리 액젓도 가능해요.), 후추 약간, 레몬즙 1큰술, 통깨 3분의 1큰수, 참기름 반큰술, 다진 대파 1큰술을 넣어 고루 섞어줍니다.",
+		"6. 미나리를 넣어서 무쳐주고 파프리카들도 넣어주고 무치면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/e6eeb9adb58340573a4d461327a61d521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/64f001ddca52c276c274d908b79322641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/c2a0f35597d5e61e8a02d3bc0890bca81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/94b606e5a430e0bc028b31618d831f0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/e947a6366c87c6cefea86c4d63fcc6f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/ca249978ba4ac02ebee12705b7cfd2e01.jpg"
+	]
+}

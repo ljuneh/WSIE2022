@@ -1,0 +1,73 @@
+{
+	"id": "6893869",
+	"name": "깔끔매콤 차돌박이 숙주찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/7a5ceba8311ef90511ad0f0714ef37ec1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6893869",
+	"ingredient_ids": [
+		379,
+		477,
+		497,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "차돌박이",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "숙주나물",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청량고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 차돌박이, 숙주, 청량고추를 준비하세요.",
+		"2. 차돌박이에 소금 후추를 뿌리고 중불에서 가열합니다. 2/3 정도만 익혀야 부드럽습니다.",
+		"3. 2/3 익은 고기에 숙주를 얹고 뚜껑 덮고 약불에서 5분 정도 익힙니다.",
+		"4. 청량고추를 넣구요.",
+		"5. 밥숟가락으로 굴소스와 간장을 넣고 섞어줍니다.",
+		"6. 약간의 소금과 참기름을 넣고 비벼주면 완성!!!",
+		"7. 그릇에 예쁘게 담아 드세요. 국물까지 맛있어요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/8c2f875cb0d158b1abdc72f2f4db35481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/ec505a57c308bdf3a0545ba4d25639e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/f334c86f9096805c2559664e260ec3da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/18a655247c47299a7a1df8fd5a9fcf641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/aa02fd3419a3dabae2678ac06ab3ef3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/2651400371b62a4155d95328834f5d4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/499c0ceabba318807c66b75af9a090061.jpg"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"id": "1754658",
+	"name": "손쉬운 파프리카 잡채",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/d6020990291c0884fd1f601710a897bf.jpg",
+	"url": "https://www.10000recipe.com/recipe/1754658",
+	"ingredient_ids": [
+		9,
+		22
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "당면500g(10인분)",
+			"ingre_count": "500g(10인분)",
+			"ingre_unit": "g(인분)"
+		},
+		{
+			"ingre_name": "잡채용소고기",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카색깔별로",
+			"ingre_count": "1",
+			"ingre_unit": "개씩"
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 먼저 들기름 3큰술, 진간장 9~10큰술을 함께 끓입니다.",
+		"2. 당면을 끓는 물에 6분 정도 삶아 건진후 찬물에 씻어 물기를 뺍니다. 간장이 끓으면 불을 약불로 하고 당면을 넣어 볶아줍니다. 이렇게 하면 당면이 덜 불습니다. 맛도 있고. 간이 잘 맞고 색이 들면 불을 끕니다.",
+		"3. 들기름 2큰술과 다진 마늘을 함께 볶습니다.",
+		"4. 잡채용 고기를 넣어 함께 볶습니다.",
+		"5. 당근을 채썰어 함께 볶습니다.",
+		"6. 파프리카와 피망의 씨를 제거한 후 채 썰어 함께 볶습니다. 파프리카는 살짝 볶아주세요.",
+		"7. 소금, 후추, 설탕, 참기름, 깨소금으로 간을 합니다.",
+		"8. 불을 끄고 당면을 넣어 함께 섞으면 됩니다. 몸에 좋은 파프리카로 건강도 챙기시고 맛있게 드세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/10702d2284d36b6ca7d89dc02160bcec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/f5d5e2bebfe6a185e7a7a44bfc29289c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/7a25017cf909af0d7038ad772c7617f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/1ae2804828b7f94bd6945cdb684a187a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/a28d25c39f4a4dbeebd54259c21fbd3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/45d264835468b91c77f43ef702a367281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/b783c0037bf901e7acc7f0d8ca22eb6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/6f218a4d25cde47c7a5d90a1a023b0051.jpg"
+	]
+}

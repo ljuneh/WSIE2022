@@ -1,0 +1,68 @@
+{
+	"id": "6237045",
+	"name": "간장 어묵볶음 만드는법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/df0bb2f1d2e6d746e7830c95a4253ddb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6237045",
+	"ingredient_ids": [
+		548,
+		3,
+		172,
+		379,
+		341,
+		504,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파인애플",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청피망",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 파인애플, 양파, 피망, 어묵은 먹기 좋은 크기로 썰어줍니다.",
+		"2. 기름을 두른 팬에 다진마늘을 볶다가 양파와 오뎅을 넣어서 먼저 볶아줍니다. 양파가 어느정도 익으면 청피망과 파인애플을 넣고 다시 볶아줍니다.",
+		"3. 그 다음 간장 한큰술과 물엿을 넣고 양파와 피망의 수분이 없이질때 까지 볶아줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/edc6de495bed1fae4f8d19647fb238101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/94de36c918808db2b4de62bdf684d5491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/fb20a9a624cb5892c9fbfb03e818d7ed1.jpg"
+	]
+}

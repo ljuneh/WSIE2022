@@ -1,0 +1,48 @@
+{
+	"id": "6844638",
+	"name": "#늙은호박 김치국#",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/2efd382fdabff7300b87a259330c4b2a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6844638",
+	"ingredient_ids": [
+		355,
+		226,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "늙은호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 냉동실에 호박푸래",
+		"2. 김치",
+		"3. 1과2를 넣고 끓입니다.",
+		"4. 3이 푹익으면 기호에 따라 설탕과소금으로 간을 합니다.",
+		"5. 진잇국이 완성이 되었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/d6e51e34123dbba31f1c42aa5d1f5d301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/9a4144dc3fc6e56f0f784d07970837871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/0805b78a0a9a60f91a8c0864c35c8dc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/8a0021fd77d6dcab2e9cae0fad7da7d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/658a690d228a2d6e73a3f5aeda3f14fc1.jpg"
+	]
+}

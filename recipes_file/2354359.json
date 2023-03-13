@@ -1,0 +1,80 @@
+{
+	"id": "2354359",
+	"name": "야채 참치죽 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/9e71919bf77f66e020cd9a2ee09e9840.jpg",
+	"url": "https://www.10000recipe.com/recipe/2354359",
+	"ingredient_ids": [
+		659,
+		505,
+		9,
+		911,
+		350,
+		660,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀(또는그냥쌀)",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시마우린물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1/2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 찹쌀이나 멥쌀은 반컵정도 물에 충분히(30분~1시간정도) 불려줍니다. 다시마 우린물은 물에 다시마 넣고 하룻밤정도 냉장고에 넣어두면 됩니다. 야채와 버섯은 잘게 다져줍니다.",
+		"2. 쌀알이 어느정도 투명하게 볶아지면 다시마 우린물 3컵을 부어주고 한번 보글보글 끓어오르면 불을 줄여 뭉근하게 쌀알이 퍼질때까지 끓입니다. 눌러붙지 않게 중간 중간 저어줍니다. 죽의 물양은 쌀의 6배정도가 딱 맞습니다. 쌀알이 어느정도 퍼지면 다진 야채, 버섯과 참치를 넣어주고 잘 저어주며 야채가 익고 죽이 마저 푹 퍼질때까지 끓여줍니다.",
+		"3. 마지막에 소금으로 간을 합니다.",
+		"4. 그릇에 담고 깨소금과 김가루를 뿌려내면 영양가득 고소한 야채 참치죽 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/0f4d9e50ccea0934b79a7aaa168b24791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/717a14866143c457f6ee8453c266effe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/a4b6922bcc0620041298d6221cb49f641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/6fe396e400f9c7f8a184d9ff570b62281.jpg"
+	]
+}

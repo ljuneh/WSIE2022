@@ -1,0 +1,64 @@
+{
+	"id": "6941548",
+	"name": "손반죽으로 고소한 두유 바게트 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/925ec966f75eac018bb3bee4e0663a521.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941548",
+	"ingredient_ids": [
+		497,
+		567,
+		324,
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "인스턴트드라이이스트",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두유",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "45",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 볼에 강력분, 소금, 이스트를 직접 닿지 않게 넣고 주걱으로 살짝 섞어요.",
+		"2. 두유와 물을 넣고 주걱으로 한덩이가 되게 섞어 줍니다.",
+		"3. 작업대로 옮겨 매끄러워질 때까지 손으로 반죽합니다. 늘려 봤을때 얇은 막처럼 투명했을때가 100%반죽이라면 그보다 덜 반죽한 80%에서 마무리합니다.완성된 반죽 온도는 27~28도가 좋아요. 실내온도가 높을 경우 반죽 온도가 너무 올라가지 않게 두유랑 물은 차게 사용해 주세요. ",
+		"4. 볼에 다시 담고 비닐 덮어 1시간 1차 발효합니다. (처음 부피의 2~2.5배 정도)손가락에 강력분을 묻혀 찔러 봤을때 모양이 그대로 있으면 발효가 잘 된거예요.",
+		"5. 반죽을 2등분하고 둥글린 뒤 젖은 면보나 비닐, 볼을 덮어 15분 중간발효합니다.",
+		"6. 밀대를 사용하지 않고 손바닥으로 눌러 3겹 접기후 4번에 걸쳐 돌돌 말아 30cm 둥근막대 모양으로 만들어요.(영상 참고) 밀대를 사용하거나 많이 만져 가스가 너무 많이 빠지면 딱딱한 빵이 만들어지니 주의해요.",
+		"7. 6. 간격 맞춰 팬닝하고 비닐이나 젖은 면보 덮어 40분 2차발효합니다.반죽이 비닐에 붙을까 신경 쓰이시면 위에 강력분을 살짝 뿌리고 비닐 덮어 주세요.",
+		"8. 쿠프나이프나 커터칼로 칼집을 넣어 줍니다. 길이7cm, 깊이1cm, 쿠프 간격 1cm 정도. 한번 쿠프를 넣고 커터칼을 살짝 뉘여 다시 한번 깊이 넣어 줍니다.",
+		"9. 220도로 예열해둔 오븐에 넣기 직전 칼집에만 물을 분무해 줍니다.",
+		"10. 오븐 천정과 벽에 물을 여러번 분사한 후 200도 20분 굽고 180도 낮춰 10분 더 구워요.오븐구움색이 너무 날 것 같으면 쿠킹호일을 덮어 마저 구워주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/5368bc28dca14feb46e10f7f4d481d7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/26f5596586d86d8b3870d981200469ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/e6534da8152cc84d953bb4580a108b421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/c16af605913948a48d70992a11d8366c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/2dea518f0fbf47a80418769a3fc650d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/520c4defa1e0da5ee5bc7edfa42c27e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/36c2acba160f67eee5cdfbcc8a3f1fa31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/40781b66f661f95d7e2e5a21169075af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/2af9b6682c52a8e4f01c26dc4c1e64ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/5c01f3fe1864d8c1af1a25e58ff437c21.jpg"
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"id": "6942988",
+	"name": "추석요리~명절 남은 나물 활용 나물밥전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/b6186b22da28923e6eaff30a050d6bdd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942988",
+	"ingredient_ids": [
+		41,
+		47,
+		2,
+		219,
+		387,
+		504,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "고사리",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/6",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 시금치무침과 고사리볶음, 콩나물무침을 준비합니다.시금치무침20g, 고사리볶음20g, 콩나물무침20g",
+		"2. 밥과 다진 나물, 부침가루, 계란, 소금을 넣어 잘 섞어줍니다.밥1공기, 부침가루2큰술, 계란2개, 소금1/6큰술",
+		"3. 달군 팬에 기름을 두르고 한숟갈씩 떠넣어 앞뒤로 노릇하게 부쳐줍니다.식용유1큰술후라이팬, 숟가락, 뒤집개중불"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/9137a4e9bfae57411519595facb527ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/3d61b4061abebbbaf2aa2e778a7513b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/e9946ae186e0a767a0842c7192e29baf1.jpg"
+	]
+}

@@ -1,0 +1,131 @@
+{
+	"id": "6940577",
+	"name": "백종원 닭곰탕 만들기 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/10b5f6c40220d3b1bb200b42efd06f621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940577",
+	"ingredient_ids": [
+		3,
+		29,
+		19,
+		497,
+		379,
+		226,
+		660,
+		543,
+		843,
+		295
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "백숙용닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "파뿌리",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "3/1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2/1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 백숙용 닭을 먼저 껍질을 벗겨주세요.엉덩이부분 똥집과 날개 양쪽 끝부분은 다 잘라주세요.",
+		"2. 냄비에 닭을 덯고 바뿌리 + 양파1개 + 마늘6개를 넣어주세요.껍질을 벗기지 않아도 괜찮아요! 껍질을 벗기면 더 담백한 국이 완성되어서 저는 벗겨줬어요.",
+		"3. 센불로 끓이다가 끓어오르면 중불로 낮춰 40분정도 끓여주세요.",
+		"4. 닭이끓는동안에는 먼저 양념장을 만들어 줄거에요.고추가루 2T + 간장1T + 설탕2/1T +매실액2T + 참기름2T +통깨1T +다진파 + 다진 청양고추1개",
+		"5. 섞어주고 양념장을 보관해준 다음",
+		"6. 국에 들어갈 파 + 무3/1을 썰어주세요  파는 다져주고 무는 깍뚝썰어주세요",
+		"7. 닭이 익으면 닭을 빼주고, 양파와 파 마늘을 채에 걸러 빼주세요.",
+		"8. 우러나온 육수에 다진 파 + 깍뚝썰기한 무를 넣어주고",
+		"9. 후추 1T + 소금1T를 넣고 끓여주세요.",
+		"10. 닭은 손으로 잘게 찢어주세요.",
+		"11. 닭다리느 날개 목 부분은 그냥 먹을 수 있으니 저는 그냥 넣었어요! (터벅이만 잘게 찢어줬답니다)모든 부위를 다 찢어도 괜찮아요.",
+		"12. 국이 끓어오르면 손질한 닭을 넣고 한소끔 끓여주면 끝!",
+		"13. 무가 들어가서 시원하고 담백한 닭 육수라 그런지 깔끔한 몸보신용이에요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/7f00d65c04177acf93a1162432e365731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/6da059608501394c47dfe391f9fffd271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/01f79211eb2aeb25d8a44e597c29cfba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/8cdc11c842f5915f3163ca6682a8a2ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/6e951157c987b1f921f2ea2c899eeb341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/b4e37173f476018ca357d46afe5deda01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/365c89143e0170f35711d133d86012161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/63d57fa0c13d8d4d0eb5ac4a8b1c9fc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/0c855dbc69aca7a76a53467677fb56331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/2b54ed4b304bd9a2ba69ea1d3c1d70e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/3fff6a1d5137962a4675acf450e50bc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/5f49517d960d11f13e2026f2f6eb30601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/aad150be03dd9152679e058f448ed48f1.jpg"
+	]
+}

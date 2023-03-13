@@ -1,0 +1,95 @@
+{
+	"id": "6881865",
+	"name": "양송이 수프",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/07/e31ae658790457a9c008240a02c0e7da1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6881865",
+	"ingredient_ids": [
+		54,
+		234,
+		198,
+		467,
+		995,
+		485,
+		608,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "100",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "50",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "50",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "우유1/2컵(7큰술)",
+			"ingre_count": "1/2컵(7큰술)",
+			"ingre_unit": "컵(큰술)"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료준비",
+		"2. 물5컵에 치킨스톡을 넣어 녹인다.",
+		"3. 양송이 버섯은 얇게 채썬다.",
+		"4. 냄비에 버터를 녹이고 밀가루를 넣어 볶는다.",
+		"5. 덩어리지는 것이 없게 잘 볶아지면",
+		"6. 치킨스톡을 넣어 녹인 육수를 부어준다.",
+		"7. 양송이 버섯",
+		"8. 월계수잎을 넣고 끓인다.",
+		"9. 끓기 시작하면 불을 중약불로 줄이고 5분 정도 뭉근하게 끓인다.",
+		"10. 월계수잎은 빼고 믹서에 넣고 곱게 갈아준다.",
+		"11. 다시 냄비에 넣고 생크림과 우유를 부어 끓인다. 간은 소금,후추로 한다. 한소끔 끓이고 불을 끈다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/07/6c4311dc68c1a53e33f010acca2280e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/07/dc18e4a2e5f74b3e1ff1a6974d34c0b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/07/98a3f1552d31fc29cbc1a71a8c6635be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/07/474a1ba0bbaa7dea827e0bff6904a72f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/07/0b15a5944f4682a7afb53eaaf94d74851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/07/0854f9dc0f48cf12296df1d1a1768a9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/07/23520f19bd0924fefbee7ddb19a5d3b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/07/8d6adfaf1e83d515a8b4df9694161d321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/07/00f56aacef54016fe1f9b0eece168e4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/07/755005e1434784aa23407fba1591d48f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/07/c2779bc8a5b41962d82a2cfca131b0011.jpg"
+	]
+}

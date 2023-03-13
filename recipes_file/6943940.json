@@ -1,0 +1,38 @@
+{
+	"id": "6943940",
+	"name": "두부전 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/9d05bb05fdca62f707a24b0b07d137471.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943940",
+	"ingredient_ids": [
+		219
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "부침용두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 두부의 간수는 모두 버리고 차가운 물에 두어번 행군다음 차가운물에 20분 이상 담궈둡니다.",
+		"2. 달걀은 미리 풀어서 준비하시고 간을 하고 싶으시면 소금을 살짝만 뿌려주세요. 단 양념장이나 장아찌와 같이 드실 분들은 너무 많이 넣으시면 안됩니다.",
+		"3. 두부의 물기를 빼준다음 한입크기로 썰어주시면 됩니다. 달걀물을 입힐 경우 부치기가 생각보다 까다로워서 한입 크기가 가장 좋아요.",
+		"4. 한입크기로 썬 두부는 잘 풀어둔 달걀물에 넣고 앞뒤로 골고루 묻혀줍니다.",
+		"5. 식용유는 5스푼 정도 넣고 앞뒤가 노릇해질때까지 구워주세요.강불-중불",
+		"6. 접시에 담아서 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b5d55b396818557a5fa7079e629b48431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/cfb9f845548bc8aef1eb72b8b2acc6161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/7c8a3900a15c575a0376dc64a20268581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/279ecfd1ef0e2854b2aecf90bf7f16121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/3aae0b80dac51f2629b7f781c38f1f461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b540d81643ad97f9a5f02cf5da8f6f1b1.jpg"
+	]
+}

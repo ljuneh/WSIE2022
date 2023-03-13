@@ -1,0 +1,79 @@
+{
+	"id": "6939988",
+	"name": "밥솥 서대구이 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/5231ada4eaf74a06f6ffc26cb0ab6e771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939988",
+	"ingredient_ids": [
+		491,
+		504,
+		379,
+		224,
+		660,
+		543,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "서대",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "생쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 서대 2마리를 비늘과 내장을 제거해주세요. 손질된 반건조 서대 쓰셔도 좋아요",
+		"2. 밥솥에 식용유 2T 넉넉히 둘러주세요. 서대는 담백해서 기름을 많이 둘러도 좋아요. 그리고 식용유가 충분해야 들러붙지 않아요",
+		"3. 서대 두마리 놓고 재가열 9분 해주세요",
+		"4. 예전에 만들어둔 국수용 양념장에 설탕 조금만 첨가하셔도 되고 새로 양념장 조금 만드셔도 좋아요. 진간장 1T, 설탕 1/2t, 마늘가루 1/4t(혹은 다진마늘 1/2t), 참기름 1t, 통깨 1/2t, 고춧가루 1/4t",
+		"5. 구워진 서대를 그릇에 옮겨주세요",
+		"6. 양념장을 바르고 다진 생쪽파를 위에 올려주세요. 생파가 아삭해 식감이 좋고 풍미를 업그레이드 해줘요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/f1ac88d06938b2f647057ad3715ad2f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/dbc3843789f2bc6ddc80223fe9fa2d9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/8dd211bee92e739b64be67074905158f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/5686361a3fa83c93f7a6abfceaf6cf491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/a686482b4267635b8dedf7acbe0299b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/2f6a246a4c26c9a56906f770c5b4d58a1.jpg"
+	]
+}

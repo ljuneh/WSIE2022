@@ -1,0 +1,96 @@
+{
+	"id": "6878024",
+	"name": "약밥만들기 압력밥솥으로 만드는 간단 약밥 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/f9d823453d14f7ac0701ae4f3a6485af1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6878024",
+	"ingredient_ids": [
+		99,
+		478,
+		526,
+		379,
+		660,
+		188,
+		187,
+		460
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "조청또는꿀",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "계핏가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "건포도",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 밤은 껍질을 벗기고 적당한 크기로 잘라요. 대추를 넣으면 아이들이 먹지 않아서 대추 대신 건포도를 넣었어요.",
+		"2. 찹쌀은 씻어 2~3시간 정도 불려 줍니다. 불린 찹쌀은 체에 받쳐 물기를 빼주어요.",
+		"3. 압력솥에 불려 건진 찹쌀을 담아요. (저에게는 약밥과 구운 달걀만을 만드는 전용 압력솥이에요.)",
+		"4. 흑설탕, 황설탕, 간장, 참기름, 조청, 계핏가루를 넣어요.",
+		"5. 분량의 물을 넣고 섞어요.",
+		"6. 고명을 위에 올리고 뚜껑을 덮어 불에 올려 밥을 지어요. (전기 압력솥으로 취사를 하셔도 됩니다.)",
+		"7. 밥을 지어 압력솥의 압력이 다 빠지고 나서 뚜껑을 열면 이런 비주얼이 됩니다~",
+		"8. 주걱으로 고명과 찹쌀밥을 섞어줍니다.",
+		"9. 원하는 크기의 그릇이나 틀에 담아 모양을 잡은 후 랩에 감싸줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/89dd7031ed66b6af82867499830a55721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/bbcf78e1ebc97abd3985e136b4687aa11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/26ad23493968a77b69732a8039c994811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/e10c06831ba69d44048197a4875cf5fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/ef182268eb9723b63b080f9474e15d8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/42b986e33ccfd907e82af68605cf1df61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/369ef79b8e5e02b13d8ffe18288ca1051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/0d39a95d50663d0e0c0da38b9f0b11f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/6a0eae7f4111ecf185073a105f4cbe471.jpg"
+	]
+}

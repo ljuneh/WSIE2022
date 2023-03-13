@@ -1,0 +1,75 @@
+{
+	"id": "6942932",
+	"name": "백파더 눈꽃만두",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/03f748bf6246b5c2d0b79077575a894b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942932",
+	"ingredient_ids": [
+		734,
+		995,
+		504,
+		231,
+		233,
+		224
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "교자만두",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 불을 켜지 않고 팬에 만두를 꽃처럼 모아서 세팅해요. 만두끼리 잘 붙게 하는 이유도 있어요.",
+		"2. 눈꽃만두를 만들기 위해서는 요 과정이 필수인데요. 튀김가루, 부침가루, 밀가루, 감자전분 등 아무 거나 다 괜찮아요. 그 중 튀김가루가 바삭하게 잘 만들어지는 것 같아요. 튀김가루 1큰술, 종이컵으로 물 1/2컵, 식용유 2큰술이 필요해요. ",
+		"3. 튀김가루, 물, 식용유를 잘 섞어주어요.",
+		"4. 먼저 만두를 강불에서 구워주고 칙~ 소리가 나면 튀김가루물을 넣어줍니다. 바로 뚜껑을 덮어주고 4분 동안 구워주는데 계속 강불입니다.",
+		"5. 요렇게 노릇하게 구워지지요. 만약 만두 밑면이 까맣게 탔다면 물 양을 늘려서 만들어 보세요. 시간 4분은 그대로 지키세요.",
+		"6. 접시를 팬 지름에 맞는 걸 올려서 꺼내면 되지요. ",
+		"7. 백파더 눈꽃만두 완성입니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/bee82e0bb65273a33dcb10704508f0981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/efd92a1487f6e56396d525fabacc59281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/623be6a92a672ab0243ab9ddcc7f91c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/538ae0d527b33fecd23f1815a9d3c2591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/1472dfcb25e38366cecf1e53e32520ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/8e9415b6db655dad691ff3be68b9b61b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/a1134e4f3e68af41aa3be060ac283f461.jpg"
+	]
+}

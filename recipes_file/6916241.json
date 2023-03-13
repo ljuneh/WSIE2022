@@ -1,0 +1,35 @@
+{
+	"id": "6916241",
+	"name": "오이지무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/07/21/fa541a7a8fbbc80abeb02587b76540ec1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6916241",
+	"ingredient_ids": [
+		1010
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오이지",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 절인 오이지는 깨끗한 망사 수세미로 겉 표면을 문질러 닦아 돌기를 제거합니다. - 오이지에 겉 표면이 맨들맨들해졌으면 오이지 위 아래 꼭지와 밑둥을 칼로 잘라냅니다.",
+		"2. 절여진 오이지는 많이 짜기 때문에  적당히 얇게 잘라 물에 넣고 염분기가 빠지도록 20분정도 기다립니다.",
+		"3. 염분기가 어느정도 빠진 오이지는 물기를 꾸욱 짜서 준비합니다. *오이지 물기 제거하는 팁 - 손으로 짜게 되면 힘도 많이 들고 시간도 많이 소요되니 키친타월에 올려 짜는 방법이 쉽고 간편해요",
+		"4. 볼에 물기를 뺀 오이지와 고춧가루, 참기름을 넣고",
+		"5. 통깨를 뿌린뒤",
+		"6. 버무려 줍니다.",
+		"7. 완성된 오이지를 반찬통에 옮겨 담으면 끄읕~~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/21/9ea3fe18bc6aad85c7324715897884a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/21/5e439e739a0d7265902b8c89190238281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/21/3d17fbc37f47db39dfde81604cc9871a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/21/72beb3d105fc56221d865063db1a45fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/21/45335f7354a868b0266859c7bc09fc7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/21/03ba9393119951f0b48a325031b3707a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/21/962f012a5292dec890746f6bd1ab923c1.jpg"
+	]
+}

@@ -1,0 +1,101 @@
+{
+	"id": "1773608",
+	"name": "생태탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/8e51e51eaf39182dce8342ebae0efe6f.jpg",
+	"url": "https://www.10000recipe.com/recipe/1773608",
+	"ingredient_ids": [
+		323,
+		46,
+		27,
+		295,
+		349,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "생태중간거",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시마5cm",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "무나박썰어서",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/3",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "냉이",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 생태는 깨끗히 씻어 비린내도 없애고 살도 단단해지도록 소주한잔 부어두었습니다.",
+		"2. 찬물에 다시마랑 무넣고 끓여주다가 물이 끓기전에 다시마는 건져내고 무는 80%정도까지 끓이면서 익힙니다.",
+		"3. 무를 익히면서 고추가루, 간마늘, 간생강, 국간장으로 양념하여 같이 끓여줍니다. 조개가 있으면 같이 끓여주면 더 감칠맛나고 좋아요. 없으시면 조개다시다 살짝 넣으셔도 되요.",
+		"4. 무가 익어가면 팔팔 끓을때 생태넣고 익혀주세요.",
+		"5. 삶은냉이, 두부, 청양고추, 대파넣고 소금, 후추 간하여 마무리합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/20/bba57588ae6db1b249b0a8c829a0f8681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/20/13c92de3f4c8d10878c5eced1fbc6bdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/20/c9e3593ff6b02de7678361b05a6533511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/20/38393c38d638756017c90147c71b3cd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/20/a548bd958b28895a658deb93f93bcb301.jpg"
+	]
+}

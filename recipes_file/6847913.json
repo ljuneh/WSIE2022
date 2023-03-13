@@ -1,0 +1,47 @@
+{
+	"id": "6847913",
+	"name": "정성가득 쌀로 만든 흰죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/06/42363975e657a9e991e36e8ea311945d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847913",
+	"ingredient_ids": [
+		96,
+		995,
+		379,
+		660
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 쌀은 깨끗이 씻은뒤 물에 1시간 정도 불린뒤 물을 넣고 끓여줍니다.",
+		"2. 쌀이 눌러붙지 않도록 계속 저어주며 끓여줍니다.",
+		"3. 물을 추가해주면서 쌀이 푹 익을때 까지 계속 끓여줍니다. 1시간 정도 끓여주면 아플때 먹기 좋은 정도의 흰죽이 완성됩니다.",
+		"4. 간장 1T에 참기름 1t를 넣어 함께 곁들여 먹을 간장소스를 만들어 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/06/e99616b7d91326e22dccd1cffbe9fb191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/06/48e490eaf0fec7272c9d3ff97ebbe8e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/06/15cc931fce2e85b62b86bb193c3b36ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/06/2ddfb1506d3ee4323730fde771e105f11.jpg"
+	]
+}

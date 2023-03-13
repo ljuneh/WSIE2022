@@ -1,0 +1,67 @@
+{
+	"id": "6940449",
+	"name": "단돈, 10000원으로 인생 마라탕 만드는법(+땅콩소스 만드는 법)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/af2cf85e5894b2050e90e5a7663c2cf01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940449",
+	"ingredient_ids": [
+		323,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "냉동양지소고기",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "숙주나물",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "모듬버섯",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "하이디라오청유마라탕조료",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".L"
+		}
+	],
+	"recipe": [
+		"1. 이 소스 하나면 진한 육수와 향신료 맛을 초보도 누구나 낼 수 있어요!",
+		"2. 양지 600g은 너무 많아, 반으로 잘라줍니다.(나머지는 냉동 보관 해주세요)",
+		"3. 준비한 모듬 버섯 1팩을 물로 씻어줍니다.버섯은 적당히 넣어줘요. 왜냐면 버섯의 특유 향에 사로잡혀 마라탕의 본질의 맛을 가릴 수 있어요.",
+		"4. 숙주를 물에 3~5번 헹궈줘요.",
+		"5. 두부 한모 중 넣고 싶은 만큼을 먹기 좋게 썰어줘요.",
+		"6. 물이 끓기 전에 소스 2/3을 넣고 5분 더 끓여줘요.",
+		"7. 준비한 야채들과 고기를 넣어줘요.",
+		"8. 집에 있는 피넛버터를 한 스푼 떠준다.",
+		"9. 물을 땅콩소스와 여러번 저어 섞어준다.비율->피넛버터(4):물(6)",
+		"10. 평소에 배달로 시켜먹는 마라탕 보다 훨~씬 맛있는 마라탕 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/c64a674921ee6880d8cf1f3ed31e75631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/a61047676208e66ce51ff7998afe034d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/a4b055ce9e60f177cf7f08541c2560061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/f69554deb48819503c09674b5bdd54c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/6b77d4fc788fcd8a7844cce68f3ba9d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/3f25ad71e6d31a880d91c9d83bf809161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/a5869e6d17542c55b3c3beb045ff6b8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/a6c519510fe91d34692660b80f855a691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/33aaea56fe0d92f34581923130dfa51c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/03ad56a59668c799cb47c932456ea5011.jpg"
+	]
+}

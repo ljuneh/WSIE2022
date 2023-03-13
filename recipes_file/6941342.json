@@ -1,0 +1,81 @@
+{
+	"id": "6941342",
+	"name": "정식품 콩국물로 더 고소하게 소시지크림스파게티",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/e6cdc3b8d5f241b196762aab55f77e881.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941342",
+	"ingredient_ids": [
+		735,
+		911,
+		29,
+		643,
+		214
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "정식품콩국물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금약간",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추약간",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 스파게티는 끓느물에 올리브유 소금 살짝 넣고 삶아줍니다. 스파게티면이 삶아지는 동안 버섯,소시지,마늘,풋고추는 적당한크기로 잘라서 준비합니다.",
+		"2. 스파게티면을 삶아낸후 달궈지낸에 올리브유 두르고 편으로 자른 마늘을 넣고 볶아줍니다.",
+		"3. 마늘향이 나기 시작하면 버섯,소시지를 넣고 볶아줍니다.",
+		"4. 재료들이 익으면 정식품 콩국물을 2컵 넣어줍니다.",
+		"5. 정식품 콩국물을 넣고 보글보글 끓기시작하면 슬라이스치즈 2장을 넣고 크림소스를 완성합니다.",
+		"6. 정식품 콩국물로 고소진하게 만든 크림소스에 삶아둔 스파게티면을 넣고 볶듯이 잘 섞어주면서 크림스파게티를 만듭니다.",
+		"7. 마지막에 잘라 둔 풋고추를 넣어서 칼칼함을 더해줍니다.",
+		"8. 완성후 소금,후추 살짝 뿌려서 담아냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/bcd62d92505b32b1972640333ce703a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/ac0d607d6f4d32a499d9c91f28dd3daa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/55eccb9ef2d65670304ec824ef90bb4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/2d162451f7980f1ac7e4393e051ad96f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/abb3d9626a3854ce0d4e4cdcf4a5b4791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/9c652d4b8df3da1eb8aa31ba11eecbd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/bfb6cf4355574e7e1828831c0db3d1e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/23216fdb444ab1a59c6832ce1a7989a91.jpg"
+	]
+}

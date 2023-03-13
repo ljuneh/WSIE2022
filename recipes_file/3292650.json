@@ -1,0 +1,90 @@
+{
+	"id": "3292650",
+	"name": "사골떡국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/cd5e04bd9f424fc2b973bc50cd4f0905.jpg",
+	"url": "https://www.10000recipe.com/recipe/3292650",
+	"ingredient_ids": [
+		325,
+		219,
+		27,
+		379,
+		938,
+		660,
+		233
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "사골곰탕",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "쇠고기다짐육",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "떡국떡",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "만두(선택)",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 떡국떡은 물에 한번 씻어 준비해주시구요. 쇠고기는 다짐육으로 준비해주세요",
+		"2. 호박은 채썰어 기름두르고 소금약간 넣어 호박색이 선명해질때까지 볶아주세요",
+		"3. 쇠고기는 양념재료를 넣어 30분정도 재워주신후에 센불에서 후다닥 볶아주세요",
+		"4. 사골은 냄비에 넣어 끓어주신후에 떡과 만두를 넣어 끓여주시구요 간은 소금으로 살짝이 해주세요. 끓인 후 지단과 호박과 쇠고기를 올려주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/32a4a0a9b51b2e0ac223e03454bf87291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/8034e3d6ad609e636aa7d5a08d684ba01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/dfd313061a72937b206cf832ccef97071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/aff73b7da4560fc770101ee545d2c3331.jpg"
+	]
+}

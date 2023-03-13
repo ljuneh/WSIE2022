@@ -1,0 +1,47 @@
+{
+	"id": "6667608",
+	"name": "매생이굴국 쉽게 끓이는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/ad31cd1c3e7b73fdb024b1ccc09b91631.jpg",
+	"url": "https://www.10000recipe.com/recipe/6667608",
+	"ingredient_ids": [
+		93,
+		82,
+		497,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "매생이",
+			"ingre_count": "1",
+			"ingre_unit": "재기"
+		},
+		{
+			"ingre_name": "굴",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 디포리와 다시마로 약 10분정도 육수를 내주고 건더기는 건져줍니다.  소금을 2/3정도 넣고 매생이를 넣어주세요. 간은 기호에 맞게 가감 하시면 되겠지요.",
+		"2. 매생이를 나무젓가락으로 잘 풀어주고 굴을 넣어 끓여줍니다.",
+		"3. 다진마늘 한큰술을 넣고 끓어오르면 고추를 넣어 후루룩 끓여내면 끝. 굴이 다 익을정도로만 끓여주심 되요. 참기름에 볶다가 끓이시는 분들도 계시는데, 매생이는 이렇게 끓이는게 더 시원하고 바다향도 그대로 나서 좋더라구요.",
+		"4. 지금처럼 추운 겨울에만 맛볼 수 있는 별미 매생이굴국이네요. 요거 드실때 천천히 조심해서 드셔야 해요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/c2e297881a2443e5ae6e1e03d07b20f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/af39c29b0a9bed689cf0a1f7f67025ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/a43760066664c939001c61714e04052a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/a20e62756caf82c0955ee3ae174d4d0e1.jpg"
+	]
+}

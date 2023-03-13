@@ -1,0 +1,62 @@
+{
+	"id": "6943487",
+	"name": "명절전,손님초대,생일상 음식 추천:꼬지전 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a9df5779863f8f6180209856574f06f91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943487",
+	"ingredient_ids": [
+		628,
+		289,
+		496,
+		17,
+		387
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "햄",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "2/1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "마늘쫑",
+			"ingre_count": "2/1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 준비한 재료를 5cm정도로 잘라주세요.",
+		"2. 이쑤시개에 맛살,햄,마늘쫑,단무지,마늘쫑,햄 순서로 꽂아주세요.마늘쫑말고 쪽파를 사용해도 ok",
+		"3. 부침가루를 앞뒤 골고루 묻혀주세요.",
+		"4. 후추,소금간을 조금 한 계란물에 똑같이 양쪽다 묻혀주세요.",
+		"5. 기름 두른 팬에 앞뒤 골고루 익혀주세요.중약불",
+		"6. 예쁘고 맛있는 꼬지전이 완성되었어요!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/e420a2a7ba7e40d5de6e7b31b69512721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/b3384f045287b8301a44a4ed91c9de661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/fc7ebc1918b5a4c2e6d711c2785f812f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/52a31be61c6764dff83ff449e26288661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/0d1791e626ecea8643eedb1aa39012861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/42ac48a33784fbd23ae19833b0effce41.jpg"
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"id": "6943399",
+	"name": "추석음식, 부추겉절이로 더 맛있게 즐기는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/e2d9935886c9a1f71bba4d8dde37d21c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943399",
+	"ingredient_ids": [
+		30,
+		3,
+		333,
+		29,
+		224,
+		231,
+		350,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "붉은고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 부추, 양파, 고추는 먹기 좋은 크기로 잘라준다.",
+		"2. ㉡ 준비된 재료에 액젓, 마늘, 식초, 고춧가루, 참기름, 깨소금을 넣어둔다.                           ",
+		"3. ㉢ 두부, 수육, 문어는 썰어 접시에 담아준다.                   ",
+		"4. ㉣ 전자레인지에 30초 정도만 데워준다.전자레인지",
+		"5. ㉤ 부추겉절이를 올려 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/18da722fef56766ad57c2d0615d850c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/1ef5d768718b5646e2b880d62340b0131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/7224c9be1d59b756ba3f030a890023c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/0e7f71d72b9f08b743ea234c72b268ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/4249bee2ed2dd6381d0b5b20e852a5b01.jpg"
+	]
+}

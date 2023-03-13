@@ -1,0 +1,58 @@
+{
+	"id": "6860706",
+	"name": "*동치미* 입동전에 담구어야합니다 조기젓국물을넣었습니다",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/e6a9f39774f1c18966eb7ed54c16f1fd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6860706",
+	"ingredient_ids": [
+		29,
+		28,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "동치미무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "삭힌고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 동치미무를 준비합니다",
+		"2. 삭인고추도 집에서삮여놓습니다  시장에가면 구입할수있습니다",
+		"3. 1을 소금에 굴려 하루 절여놓습니다",
+		"4. 절여진 무에 물 10:소금1비율로 소금물을 넣습니다 조기젓국물을 넣습니다",
+		"5. 4에 싹인고추 파 마늘 생강 을 넣고 2주정도 익힙니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/d9705136abbd85fe880fe811494ed3841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/a20145f6e573d8510b46d824e69129071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/97695bf01ebb9366c95fd8ff959fc1f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/0c28f648a11226ec1deef8c780dc9f651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/4f4316acb53593164e7bb3956e1722ca1.jpg"
+	]
+}

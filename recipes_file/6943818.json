@@ -1,0 +1,51 @@
+{
+	"id": "6943818",
+	"name": "전복손질하기 전복구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/621298031dae0aa5e1152d3461d928ab1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943818",
+	"ingredient_ids": [
+		86,
+		29,
+		660,
+		198
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 칫솔로 면쪽을 박박문질러주세요. 불순물제거",
+		"2. 전복을 들쳐보면 내장반대쪽으로 숟가락으로 들쳐줍니다.",
+		"3. 이제중요한 이빨을 뽑아주세요",
+		"4. 전복과 내장을 잘분리해주세요",
+		"5. 참기름1t넣고 마늘3~4개볶아줍니다.",
+		"6. 마늘이 반쯤바삭하게 익었을때 전복2개 슬라이스를 넣고 버터1t넣고 / 2분만 볶아주세요. 간은 소금&후추조금만 뿌려주세요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/e271fd2ccb8206a83c2a2d25cdc764261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/9de1a9e7275af78e451c8fdd5a2c91da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/b9d752923b42fb59792f3a20884f9a501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/480862ff28b15910ef896a52deed1a6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/7b9221549392ebbc0ee785d63bd1bd1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/649b79b6300d4160bae638de3e233b9d1.jpg"
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"id": "6943656",
+	"name": "초간단 겉저리김치담기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/5f5e4497dd5c3e3b67ceca4a8f6ec7901.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943656",
+	"ingredient_ids": [
+		583,
+		3,
+		27,
+		287,
+		226,
+		995,
+		545
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "알배기배추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "12",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "12",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘크게",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강크게",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "갈은양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "3",
+			"ingre_unit": "주먹"
+		}
+	],
+	"recipe": [
+		"1. 배추는 4등분해서 꼭지 자르고 사선으로 잘라주세요",
+		"2. 물은 3컵정도만 뿌려주듯 부어줍니다. 천일염 3주먹을 고루고루 뿌려줍니다 10분후 한번 고루고루 뒤집기를 해줍니다.10분있다가 다시 뒤집기를 해주세요",
+		"3. 그사이에 양파한개랑 액젓을 넣고 믹서기로 갈아줍니다.갈은 양파에 고추가루,설탕,마늘,생강을 넣고 섞어주세요(저희는 액젓보다 육젓을 넣었어요)",
+		"4. 잘 절여진배추를 2번 헹군 배추를 물기가 빠지게 채반에 담아놓습니다 (배추 간을보시고 헹궈주세요~배추가 너무 싱거워도 맛이 없어져요)",
+		"5. 양념장을 배추에 담고 다진파도 넣고 골고루 섞어줍니다.간을보시고 싱겁다 싶으시면 소금을 반큰술 안되게끔 넣고 섞어줍니다..부족한 간은 맛보시고 추가하셔도 되요^^",
+		"6. 겉저리 김치가 완성이 되었습니다~~ 감사합니다^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/9210cc00bf39cfa4b03af401731dfcb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/3b36ed6ca903f77a7d9f5e28149713321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/3bbe40d2bc7050f25a693279677c2db01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/50a6290804431d80c1543924db74163d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/006c35308a42e354097abdc4287137421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/2ce2a0351da9c47d34d068099510d36e1.jpg"
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"id": "6640397",
+	"name": "나물비빔밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/02d0a9304d5efdb7f1cdff0335038c021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6640397",
+	"ingredient_ids": [
+		48,
+		47,
+		473,
+		660,
+		290
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "취나물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무생채",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "시금치나물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 믹싱 볼 아주 큰 걸 준비했어요 밥 옆에 나물들 예쁘게 세팅",
+		"2. 고추장 듬뿍 맵게 먹어야 더 맛있는 나물 비빔밥이죠.",
+		"3. 계란 프라이도 올려주고요.참기름도 아낌없이 듬뿍 비빔밥의 생명은 참기름이라죠. 잘 구운 김 부수어서 올려주세요.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/34a3c00aa0168984fc17f7716d80a1891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/7d74ef3cb1aab740d1e6648b67fba9a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/7a0602ac8ba74be758c6becdfb8f279e1.jpg"
+	]
+}

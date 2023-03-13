@@ -1,0 +1,107 @@
+{
+	"id": "6941071",
+	"name": "순두부콩국물찌개, 정식품 콩국물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/d52dd2a452f297925f8e74ea2eb4c40e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941071",
+	"ingredient_ids": [
+		498,
+		995,
+		3,
+		27,
+		233,
+		224,
+		469,
+		660,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "순두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진한콩국물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "콩",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "돼지고기앞다리살",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 분량의 재료 준비합니다. 콩국물은 정식품 진한 콩국물을 사용했어요.",
+		"2. ﻿콩은 미리 불려서 준비합니다. 믹서기에 불린 콩과 분량의 콩국물을 넣고 곱게 갈아줍니다. ﻿",
+		"3. ﻿양파는 채썰고 돼지고기는 한 입 크기로 썰어줍니다.",
+		"4. ﻿뚝배기에 카놀라유와 참기름을 1:1 비율로 넣고 고춧가루, 다진 마늘을 넣고 달달 볶아줍니다.",
+		"5. 4의 ﻿고추기름이 만들어졌으면 돼지고기와 신김치를 넣고 볶아줍니다.",
+		"6. ﻿물과 갈은 콩국물을 넣고 끓여줍니다.",
+		"7. ﻿보글보글 끓으면 채썬 양파 넣어줍니다. ﻿",
+		"8. ﻿순두부를 큼직하게 수저로 떠서 넣고 끓입니다.",
+		"9. 마지막에 ﻿대파를 넣고 계속 끓여주다가 마지막 간은 소금이나 국간장으로 맞춰줍니다. ﻿"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/8b07cadba8fe9a4e9cff509e110c3a451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/516d8140b99f5a84e407a5f7d53e64ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/f607cf2d26fa18ed5d5401b9c6042cc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/15285cebda950c6adf48b6d6f219470c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/4a613552604f68f8f5869846cf51e8221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/919d26400127cd06ad572bb5782f7d521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/3cc82a4bc1797690be1e824190aa43071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/73655454bf81a28b120112033959151d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/eee42ded5d7d872af90b4d7088bdebd11.jpg"
+	]
+}

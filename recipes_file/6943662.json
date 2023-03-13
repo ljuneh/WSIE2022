@@ -1,0 +1,49 @@
+{
+	"id": "6943662",
+	"name": "추석요리 _ 남은 잡채로 만드는 잡채김말이 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/7f43d1df8b54a4b6d7c419d06c7120ef1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943662",
+	"ingredient_ids": [
+		1025,
+		95,
+		219,
+		234
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "잡채",
+			"ingre_count": "1",
+			"ingre_unit": "접시"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 김은 4등분 하는데요 저는 조미김 사용했어요 잡채올리고 말아줍니다 끝 부분에는 달걀흰자 묻혀 마무리.. 잡채는 너무 많지않게 담아요 전 많이 담아서 옆으로 삐져 나왔어요 ㅡㅡ;;",
+		"2. 밀가루 톡톡 묻히고 달걀옷 입혀 줍니다",
+		"3. 에어프라이어에 담고 200도 10분 돌려요에어프라이어",
+		"4. 뒤집고 180도 4분돌려 마무리합니다",
+		"5. 맛있게 완성되었어요 모양이 살짝 부족해 보이지만 삐져나온 당면이 바삭하니 맛은 더 좋아유~~ ㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/feae04ed424daa88d3d842ff07d7c5fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/c2df6d4aafc32f117cae6f7e1f2ff12c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/5cd3cfe32bdab424633475c093e3b6751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/a80c43f4b2f0b01120eaa60d1145e1961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/211e4da96eda699829abedcde8ba64bf1.jpg"
+	]
+}

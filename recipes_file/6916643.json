@@ -1,0 +1,48 @@
+{
+	"id": "6916643",
+	"name": "알토란 보다 더 쉬운 옥수수 맛있게 삶는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/07/30/7575e900f84f861813f96d147d6baa571.jpg",
+	"url": "https://www.10000recipe.com/recipe/6916643",
+	"ingredient_ids": [
+		995,
+		104,
+		282
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "옥수수",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "뉴슈거",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 옥수수 겉껍질, 수염을 때내고 속껍질만 남겨둔다.                     ",
+		"2. ㉡ 옥수수 수염을 압력솥 밑에 깔고 옥수수+옥수수 껍질+옥수수+옥수수 껍질을 덮어준다.                         ",
+		"3. ㉢ 소금, 뉴 슈거를 물에 풀어 압력솥에 부어준다.                     ",
+		"4. ㉣ 뚜껑을 닫고 압력 추가 돌면 10분 정도 삶아준다.",
+		"5. ㉤ 압력이 빠지면 아래위 뒤집어 10분 정도 삶아주면 완성된다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/30/e8f02f6440c42d1f3b10bc4a5eef0bf21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/30/c92282353768322b34f9656141f598fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/30/f16260c0312247b347c32edc01c0808c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/30/146b5d3b100f3f1100ae67a8a26ffb541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/30/79c5a0c81c4a555d26b93d98cdc8ddb31.jpg"
+	]
+}

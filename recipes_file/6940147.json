@@ -1,0 +1,92 @@
+{
+	"id": "6940147",
+	"name": "여름 무생채 맛있게 만들기! [시원한 음식]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/5a7d55ff63875524ab57faafe5c585091.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940147",
+	"ingredient_ids": [
+		19,
+		47,
+		757,
+		231,
+		939,
+		233,
+		350,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "매실액기스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료는 깨끗이 손질해주세요. 홍고추는 생략해도 되고 매콤하게 드시고 싶으면 청양고추 추가하세요",
+		"2. 무는 곱게 채썰어 주시고 홍고추는 반갈라 총총 썰고 쪽파도 총총 썰어 줍니다, 마늘도 다져주세요",
+		"3. 무는 설탕과 고운소금 각각 1/2T씩 넣고 15분정도 절여줍니다",
+		"4. 콩나물은 데쳐서 찬물에 식혀주세요",
+		"5. 절여진 무 짜고 데쳐 식힌 콩나물도 물기를 빼서 준비합니다",
+		"6. 분량의 양념재료 넣어서 버무려 주세요",
+		"7. 식초와 설탕은 기호에 맞게 추가하시고 모자라는 간은 소금으로 마무리하세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/7daa8938cda51a3d8ba8c2cc3b5923de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/df9fa32d256149c926a2a5f615af71dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/ad210cde1eaf2059c0143cbb25ec46961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/55fbd85fd1c871c88464bb02b7e080d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/b02e6ee31fe19fc90336e896ee0b38701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/d8aa9780ce9b21af47dbd72890b01efe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/057f3c0e7716f18f3a5211269f2a62341.jpg"
+	]
+}

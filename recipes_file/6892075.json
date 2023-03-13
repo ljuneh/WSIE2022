@@ -1,0 +1,56 @@
+{
+	"id": "6892075",
+	"name": "고기랑먹으면딱 ♥ 사과양파샐러드 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/06/6df4b7dbd01bda4a1932b2d90fb4d96b1.png",
+	"url": "https://www.10000recipe.com/recipe/6892075",
+	"ingredient_ids": [
+		158,
+		3,
+		840,
+		228,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "머스타드",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 사과, 양파는 채 썰어 서 준비한다.",
+		"2. 양파는 찬물에 잠시 담가 매운맛을 제거 한다.",
+		"3. 볼에 사과, 양파를 넣고 소스재료를 넣어 버무려 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/06/68602c635dd39f4b44bcddb4d1b7f8641.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/06/671bc12b22ad1e0227ed88231dcdfd9a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/06/d6840aea17089f0ee7918edd1c97b2401.png"
+	]
+}

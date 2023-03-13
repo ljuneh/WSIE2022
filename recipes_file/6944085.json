@@ -1,0 +1,114 @@
+{
+	"id": "6944085",
+	"name": "닭볶음탕 레시피 생강 먼저 넣고 볶은 후 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/edc6258260fd1c44aad03c2123efa60f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944085",
+	"ingredient_ids": [
+		5,
+		3,
+		53,
+		28,
+		27,
+		295,
+		292,
+		473,
+		224,
+		226,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "800",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 1,재료를 준비합니다.",
+		"2. 2,생강을 다져서 팬에 식용유하나를 두르고 닭을 넣습니다. 생강도 같이 넣고 센불에 볶아줍니다 3분정도요",
+		"3. 3, 볶아주면서 맛술도 4스푼 넣어줍니다.",
+		"4. 4,고추장 2스푼을 넣소 볶아줍니다.",
+		"5. 5,고춧가루와 진간장 4스푼도 넣어주고요.",
+		"6. 6, 이제 생수른 250ml 넣어주고 불을 중약불로 바꿔줍니다.",
+		"7. 7,감자와 설탕 2스푼을 넣어주고 뚜껑을 덮고 닭고기와 감자를 푹 익혀줍니다.",
+		"8. 8,이제 마지막으로 마늘과 표고 양파를 넣어주고 1분후 불을 꺼줍니다.",
+		"9. 9, 전골냄비에 옮겨 담고 홍고추와 청고추를 넣고 대파를 넣어주고 가스버너에 다시 끓이면서 먹으면 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/24f5d765cdc95c1d056375a5cfd32df81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ce854b620b4103bad286156394a090341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/396e835f66d4237e81ce75e61e80b2ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/8c8be8b0d4624b17e7f74ec1f62960251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/880b4162d2e7fd018ab458052e6d9fdc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/03b0c7ee58132a35f46d86409de873c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/63eece202420baa5872020a46c1ec5701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/148238234a1e5cac95e3a5b0f56146291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/e9e1d4f900c1795538682b18effa7d791.jpg"
+	]
+}

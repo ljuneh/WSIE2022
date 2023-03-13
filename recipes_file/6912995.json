@@ -1,0 +1,76 @@
+{
+	"id": "6912995",
+	"name": "냉동오징어도 생물오징어 못지않은 맛~ 오징어볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/05/31/b3815d46925da14c7523ac968477d8001.jpg",
+	"url": "https://www.10000recipe.com/recipe/6912995",
+	"ingredient_ids": [
+		3,
+		295,
+		473,
+		477,
+		29,
+		227
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어몸통",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오징어다리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "기름(파기름)",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 양파 고추를 썰어놓습니다",
+		"2. 오징어도 썰어놓습니다",
+		"3. 웍에 야채를 볶다기 순서대로 양념을 한후 볶습니다",
+		"4. 오징어를 넣고 볶습니다",
+		"5. 오징어가 익으면 나머지 양념을 합니다",
+		"6. 접시에 담아냅니다"
+	],
+	"recipe_img": []
+}

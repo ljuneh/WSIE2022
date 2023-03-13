@@ -1,0 +1,84 @@
+{
+	"id": "6887425",
+	"name": "세상 간편하게 만드는♥납작떡갈비",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/04/17/7eee30af66a77da510720345fd8284401.png",
+	"url": "https://www.10000recipe.com/recipe/6887425",
+	"ingredient_ids": [
+		852,
+		914,
+		436,
+		379,
+		226,
+		292,
+		233,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기다짐육",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "돼지고기다짐육",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 볼에 소고기, 돼지고기, 다진 양파, 빵가루, 전분가루를 넣고 양념 재료를 넣어 버무린다.",
+		"2. 찰기가 생길 때까지 버무린 후 납작하게 떡갈비 모양을 만든다.",
+		"3. 스마트 그릴에 기름을 바르고 떡갈비를 넣어 뚜껑을 닫아 전자레인지에 약 7분을 익혀 내어 완성한다.전자레인지"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/17/da4c73737f51d8332edd193ea728c3471.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/17/dcd3c3eb2227a75692d725e6bfa559771.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/17/59fd5a34f04ab4101f9d2744fc1c0e0c1.png"
+	]
+}

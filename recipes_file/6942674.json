@@ -1,0 +1,123 @@
+{
+	"id": "6942674",
+	"name": "매운 등갈비찜 (코로나극복!)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/36c0baeb6cb070f81340fb5cc7b2a0181.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942674",
+	"ingredient_ids": [
+		850,
+		3,
+		9,
+		608,
+		379,
+		673,
+		592,
+		995,
+		660,
+		233
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지등갈비",
+			"ingre_count": "2",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가래떡",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "2~3장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지갈비양념장",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파즙",
+			"ingre_count": "120",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 돼지등갈비는 손질하여 잘라주세요.",
+		"2. 찬물에 담가 2시간 정도 핏물을 빼주세요.",
+		"3. 끓는물에 등갈비와 월계수잎 2~3장을 넣어 함께 넣어주세요.월계수잎이 없으면 청주를 넣어주거나 통후추 넣어 끓여줘도 좋아요.",
+		"4. 데쳐낸 후 건져내주세요.",
+		"5. 간장양념을 넣어준 후 양파,당근,파,홍고추를 넣어 양념이 고루 섞일 수 있도록 섞어주세요.압력밥솥에 조리할 경우 등갈비 먼저 끓여주다가 야채는 나중에 넣어 조리해주세요. 처음 부터 한꺼번에 넣고 조리하게 되면 야채가 너무 익어서 식감이 좋지 않을 수 있어요!",
+		"6. 뚜겅을 덮고 30분 이상 끓여주세요.",
+		"7. 매운 갈비찜이 거의 완성되어 국물이 자작해지면 데쳐놓은 가래떡을 넣어 양념이 베이도록 섞어 7~8분 정도 더 끓여줍니다.떡은 끓는물에 데쳐서 사용하면 양념이 잘베어 더 맛있게 드실 수 있어요!",
+		"8. 매운 갈비찜에 깨소금을 뿌려 완성해주세요.",
+		"9. 완성되면 그릇에 담아주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/2e8c71bac783bcc8da40e23eb401187d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/3873827b1328e2ea0e4bc02c46b2b74f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/254267b434f24ebe77eff17d962789c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/15d2e48bf0bb628c446ea265b31e13331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/9db27ca4330952ad98c46db147ce9f4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/edfde846a834b7abe33abb704441d1ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/fbfd215d0fb0bc281b08525eff25f8491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/2e91b92e9636cc87ef86e791a3a8cd921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/251b0b5eb8332c66829f26395a5a53c11.jpg"
+	]
+}

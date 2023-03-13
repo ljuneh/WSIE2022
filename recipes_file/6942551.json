@@ -1,0 +1,67 @@
+{
+	"id": "6942551",
+	"name": "뜨끈하게 호호 불어먹어요. 비오는 날 더 맛있는- 당근을 넣어 알록달록 예쁜 <당근 수제비>",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/b9c3567288a686a5322bb7775e80785b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942551",
+	"ingredient_ids": [
+		9,
+		234,
+		7,
+		5,
+		757,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1/2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "요리에센스연두",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "mL"
+		},
+		{
+			"ingre_name": "요리에센스연두",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. [반죽 만들기] 강판에 간 당근과 밀가루, 연두를 섞어 반죽을 만든 뒤 볼에 넣고 랩을 씌워 30분간 숙성해 주세요.",
+		"2. [재료 손질하기]  감자, 애호박은 나박 썰고 쪽파는 송송 썰어 준비해 주세요.",
+		"3. [수제비 끓이기] 냄비에 연두만능밑국물을 만들어 붓고 감자를 넣고 끓이다가 당근 반죽을 얇게 뜯어 넣어주세요. 애호박을 넣고 끓이다가 쪽파를 넣고 한소끔 끓이면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/41d4b2633b60466e7026ff2b1c37d4b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/5ad99bc22208212ad4aad58fb2b057911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/e8c7b5b611af8184920494c7b6ed05fc1.jpg"
+	]
+}

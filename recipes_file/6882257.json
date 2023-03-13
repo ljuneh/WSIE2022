@@ -1,0 +1,52 @@
+{
+	"id": "6882257",
+	"name": "비엔나커피 아인슈페너 만드는법 ,부드러운 맛!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/13/fc717fefbe9f3f39c76851382bfceb451.jpg",
+	"url": "https://www.10000recipe.com/recipe/6882257",
+	"ingredient_ids": [
+		599,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "휘핑크림(요거트농도)",
+			"ingre_count": "80",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "에스프레소",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "뜨거운물",
+			"ingre_count": "150~180ml",
+			"ingre_unit": "~ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계핏가루",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 커피잔에 에스프레소와 뜨거운 물을 넣어주세요.",
+		"2. 기호에 따라 설탕을 넣고 잘 저어주세요.집에 에스프레소 머신이 없다면 시중 인스턴트 블랙커피를 이용해도 좋아요. 대신 우리가 평소에 먹는 아메리카노보다 조금 진하게 준비해주세요.  달게 먹고 싶다면 크림이 아닌 커피에 설탕을 넣어 잘 저어주시고요.",
+		"3. 되직한 요거트 질감의 휘핑크림을 커피 잔 가득 채워주세요.크림이 너무 단단하면 커피와 잘 어우러지지 않으니 무겁게 흘러내릴 정도까지만 휘핑하는 것이 아인슈페너 만들기 핵심인 것 같아요.",
+		"4. 계피가루 뿌려 장식하면 아인슈페너 완성이에요.계피 향이 싫은 분들은 빼거나 초코 파우더를 대신 뿌려주세요. 그럼 데코레이션 하기에도 좋고 크림, 커피와 잘 어우러져 맛있어요!",
+		"5. 젓가락 혹은 꼬지를 이용해 지그재그로 저어주면 예쁜 모양도 만들 수 있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/13/e6b1cecc71732d26c5359e48fe83d5671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/13/1dd388a4e2bdd193e38cdad8f3e0b1db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/13/d7710bffe0d8b44ad8eea28f9b9b70f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/13/a4e7fc463807ba6b4170577b0a7dad871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/13/db685f3fd68fdc677c86b2ae143506971.jpg"
+	]
+}

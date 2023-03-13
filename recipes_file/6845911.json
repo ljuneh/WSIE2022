@@ -1,0 +1,66 @@
+{
+	"id": "6845911",
+	"name": "양배추 미나리부침개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/13/2035f6aa399d5c7fb3e2c5802cccf0d41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6845911",
+	"ingredient_ids": [
+		20,
+		3,
+		295,
+		504
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "곱게채썬양배추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "차가운생수1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 곱게 채썬 양배추 1줌, 다듬어 씻어 5~6cm길이로 자른 미나리 2줌, 양파 1/4개 채 썰고 청양고추 2개 곱게 어슷 썰어 준비했습니다.",
+		"2. 볼에 부침가루 1 +1/2컵, 차가운 생수 1 + 1/2컵 을 붓고 덩어리 없이 잘 풀어 줍니다.",
+		"3. 그리고 준비한 채소를 몽땅 넣고",
+		"4. 고루 잘 썩어 반죽을 완성합니다.",
+		"5. 달군 팬에 기름을 넉넉하게 두르고 반죽을 한국자 얇게 펴서 앞, 뒤 노릇하니 부쳐 줍니다.",
+		"6. 미나리전은 드실때 초간장보다는 초고추장에 찍어 먹음 더 맛나요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/15/3a7ba6ee3b5be885b3c2ee44a8706f4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/15/f1cf4087bd47590e39c023f3c15e9a281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/15/facb4eee0cfbefc6da915a3359a24ec51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/15/17bdd09b2f1e66410ece429471ecc98f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/15/e4db0b7d666a2b1e5879e3aea2279abf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/15/ac3b5f39e59c73614a3e33a841a4dba91.jpg"
+	]
+}

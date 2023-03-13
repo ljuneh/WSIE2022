@@ -1,0 +1,70 @@
+{
+	"id": "6865767",
+	"name": "로제떡볶이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/b5ee022c773ad57ab0492c83257b39811.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865767",
+	"ingredient_ids": [
+		972,
+		3,
+		732,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토소스",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 양파와 스팸을 잘라주세요",
+		"2. 떡을 물에 불려주세요",
+		"3. 양파를 볶아주세요",
+		"4. 양파가 좀 익으면 스팸을 넣어주세요",
+		"5. 토마토소스를 넣어주세요",
+		"6. 조금 졸이다가 우유를 넣어주세요",
+		"7. 떡을 넣어주세요",
+		"8. 좀더 졸여주시면 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/4239fba2f814c4c16c493d7990d115cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/e68ad1f4e1b991f9351ca8300e6fad1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/5dea07189b2d38856dfcbd2dee23f44c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/8f31b9b6a801cafd10edd76623a7f1361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/80bff9200b84183891ac499623f486951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/5183b5ecb60b79917119c3692dcee78f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/7297683765673bf29a628bc1a8b271341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/6f306d602fe2f9ca1b90619eaf46067b1.jpg"
+	]
+}

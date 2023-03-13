@@ -1,0 +1,106 @@
+{
+	"id": "624947",
+	"name": "깻잎향이 솔솔 깻잎 떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/71590154eea2077641dbaf5848d4f220.jpg",
+	"url": "https://www.10000recipe.com/recipe/624947",
+	"ingredient_ids": [
+		972,
+		15,
+		3,
+		27,
+		548,
+		90,
+		320,
+		462,
+		995,
+		473,
+		226,
+		224,
+		379
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "5",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "건표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3~4컵",
+			"ingre_unit": "~컵"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "요리당or물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1~2큰술.",
+			"ingre_unit": "~큰술."
+		}
+	],
+	"recipe": [
+		"1. 양파와 대파는 잘게 채썰고 어묵과 깻잎도 먹기 좋은 크기로 잘라서 준비 하세요.",
+		"2. 물을 팔팔 끓여 물이 끓으면 멸치와 다시마, 표고버섯을 넣고 10분후에 멸치와 다시마를 건져내고 5분 더 끓인후 표고버섯을 건져서 국물을 내줍니다. 국물을 내준후 고추장과 고춧가루, 설탕, 요리당, 간장을 넣고 끓여 줍니다. 국물이 끓으면 떡볶이 떡을 넣고 끓여 줍니다.",
+		"3. 떡을 넣고 국물이 끓으면 어묵을 넣고 대파와 양파도 넣고 국물이 반쯤 졸아 들때까지 끓여 줍니다. 국물이 걸쭉해 지면 깻잎을 마지막에 넣고 불을 꺼 줍니다.",
+		"4. 향긋한 깻잎향이 솔솔 매콤달콤 떡볶이 완성. 깻잎은 마지막에 넣어줘야 아삭하니 향도 더 좋아요. 먹기전에 그냥 위에 수북히 올려서 먹어도 맛있어요. 매콤달콤 쫄깃한 떡볶이에 깻잎을 넣으니 아삭아삭 향긋하니 더 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/ee5bb02dca7e710a7a1d991eebe317131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/f82876ae029d762ed0ab4fbea5e0806d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/32f8ee05167de216e15b6d131e1a6e261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/ff113af3d3ceddeb22e00c6eb990611c1.jpg"
+	]
+}

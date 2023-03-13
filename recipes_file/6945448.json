@@ -1,0 +1,54 @@
+{
+	"id": "6945448",
+	"name": "귤 탕후루",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/bd645a492e96d43dab9388bd8fcca35a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945448",
+	"ingredient_ids": [
+		129,
+		226,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감귤",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "산적꼬지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 산적꼬지에 귤을 몇 개씩 꽂아주기도 하고, 통째로 만들기도 해요.",
+		"2. 종이컵 기준으로 설탕 1컵과 물 반 컵을 준비해요.",
+		"3. 냄비에 설탕과 물을 넣고 끓여줍니다. 이 때 주의할 점은 절대로 젓지 마세요. 불은 센불로 하시구요. 기포가 크게 생기다가 기포가 작아지고 시럽이 노릇해질 때까지 끓여줍니다.",
+		"4. 시럽이 노릇해지면 약불로 줄여서 끓이다가 불을 꺼요.",
+		"5. 시럽이 완성되면 얼음물에 넣어 시럽이 굳으면 완성된 것입니다.",
+		"6. 스푼으로 시럽을 발라줍니다.",
+		"7. 통귤은 시럽에서 굴려줍니다.",
+		"8. 실온에서 종이호일을 깔고 15분 정도 굳혀줍니다. 시럽 농도에 따라 굳히는 시간을 가감해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/dcb4eb96e1dc998af1d7f3a2bf893e111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/382bb60cb86f6a0f3f0a684cf065b9ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/0367fe83349931611d451b333281c7811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/dc2a93d08d948bbb232df13a6f7bd6111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/ae7d6dfe5ff099669dccb4decb44a5d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/a939878a6aaf59eba852a4e9e7138ae71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/0bc66022273e5fd6180c561193eff2ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/91c219a39cc0c69c44c18093d509a02d1.jpg"
+	]
+}

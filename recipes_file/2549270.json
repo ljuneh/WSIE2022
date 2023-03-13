@@ -1,0 +1,53 @@
+{
+	"id": "2549270",
+	"name": "새우살미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/ead4a20e337f04195accb61c1b20212f.jpg",
+	"url": "https://www.10000recipe.com/recipe/2549270",
+	"ingredient_ids": [
+		867,
+		91,
+		497,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "새우살",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 냉동실에 보관중이던 미역 자연해동시켜주시구요..",
+		"2. 새우살도 자연해동 해놓으시구요",
+		"3. 끓는물에 불린미역 넣어주시구요",
+		"4. 새우살도 넣어주세요",
+		"5. 간은 소금으로 하시면 되구요.",
+		"6. 이제 보글보글 끓이시기만 하면 끝",
+		"7. 기호에 따라 참기름 한방울 넣으시고 불을 끄시면 되네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/e9d7d83f6b8de2d8523376591852a2511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/70025bf09d2a0bcb633521cb2612989a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/c3e21733ed48e0c3148f3f81c07c97ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/7c4e962df658b42397185e4a3a6d96a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/26651238c01b8c3eea92a030a9b588951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/10c1c2f074de3f479455ecc783236e521.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/dc49fc0b73915d5bceff0e23a0f1e3061.jpg"
+	]
+}

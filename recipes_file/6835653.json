@@ -1,0 +1,73 @@
+{
+	"id": "6835653",
+	"name": "양송이 치즈구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/05/6bf3d7bef8b12fbfc7972cb4a8cebcfc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6835653",
+	"ingredient_ids": [
+		3,
+		212
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노랑파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "주황파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양송이",
+			"ingre_count": "15",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토스파게티소스",
+			"ingre_count": "4-5TS",
+			"ingre_unit": "-TS"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": "취향것"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 버섯은 기둥을 제거하고 깨끗하게 손질한다",
+		"2. 양파와 파프리카는 잘게 다지고 1에서 제거한 버섯 기둥 또한 잘게 다진다",
+		"3. 중강 불로 달군 팬에 2의 야채를 넣고 볶는다",
+		"4. 야채가 어느 정도 익으면 토마토 스파게티 소스를 넣고 잘 섞어가며 물기가 없도록 볶는다",
+		"5. 손질 한 버섯에 4의 볶은 야채를 넣는다",
+		"6. 모짜렐라 치즈를 뿌린다",
+		"7. 200도로 예열한 오븐에서 치즈가 녹고 노릇해지도록 약 8-10분간 구워낸다오븐",
+		"8. 파슬리 가루를 뿌려 마무리 한다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/05/cadecdd4334b87dc2d6add4356346d7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/05/205bfe92f3ba96390a12e3fbd0c2319d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/05/b6a11b3c52b33128f741ffbdb112724f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/05/2cd4e19d0bfa686819bc1555eb92eb3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/05/fd98604bf75485e1aed85922bedf6dda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/05/c9f8d00e3bde474953f8375645a2f3431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/05/732bfd653d99692885007b63ec3fee9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/05/8424998eac0db418ad75335ade5c0b481.jpg"
+	]
+}

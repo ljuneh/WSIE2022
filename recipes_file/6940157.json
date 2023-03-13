@@ -1,0 +1,77 @@
+{
+	"id": "6940157",
+	"name": "언제나 맛있는 매콤달콤 '고추장 진미채볶음'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/5b497d1ee2d02c73d13a29ee0d4150c81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940157",
+	"ingredient_ids": [
+		571,
+		224,
+		473,
+		292,
+		575,
+		660,
+		228,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "진미채",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟갈"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟갈"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "팍팍"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비",
+		"2. 진미채는 찬물에 담가 10분간 불리고, 먹기 좋게 잘라 줍니다.",
+		"3. 불린 진미채는 물기를 제거하고 마른 팬에 볶아 줍니다. (약불로~ )",
+		"4. 볶아지는 동안, 양념장(고춧가루/고추장/맛술 1숟갈, 참기름/올리고당 0.5숟갈)을 만들어 주세요.",
+		"5. 진미채가 노릇하게 볶아지면 불을 끄고!! 양념장 투하!!",
+		"6. 간이 잘 배이게 무친 다음, 마무리로 마요네즈 2숟갈과 통깨를 넣고,",
+		"7. 맛있게 버무리면 완성!! (뜨거워요! 숟가락으로 잘 섞어 주세요!!)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/b26cc35354ae9492b76d3adb326986241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d1134e4d20f8df189f89eee2e8bd1cd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/c3d0fc382853c67739b5ef55ae2aafcd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/c78768738529c34db354b2a101ce5cb91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/61f7c899909b1fc0aef8d5b20c82da7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/f66b0a2920127e90fe52d418c082c0f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/9adafc2530bbfa70ae3dd463993443cb1.jpg"
+	]
+}

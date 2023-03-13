@@ -1,0 +1,46 @@
+{
+	"id": "6941305",
+	"name": "(아기반찬) 초당옥수수달걀전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/c464217957be7950a18c8af3f4f990841.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941305",
+	"ingredient_ids": [
+		219,
+		574
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "초당옥수수",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 초당옥수수는 생으로 먹어도 되지만  아기가 먹는 것이니 10분 정도 미리 쪄줘요.초당옥수수1개찜기",
+		"2. 포크를 사용해서 초당옥수수의 알맹이를 쏙쏙 긁어내요포크",
+		"3. 볼에 초당옥수수알맹이와 달걀 2개를 풀어 잘 섞어줘요볼",
+		"4. 후라이팬에 올리브유를 두르고 먹기 좋은 크기로 조금씩 떠서 구워요어른숟가락으로 한 숟가락씩 떠서 구워요",
+		"5. 뒤집어서 한번 더 익히면",
+		"6. 아삭하고 달콤한 초당옥수수전 완성!",
+		"7. 완성된 초당옥수수전은 닭볶음덮밥과 애호박버섯들깨볶음과 함께 식단을 짜보았어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/5a005a1706e27c5055c1c4d80ce02b541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/c303096697bfd096c4f190254bfe69a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/62485a7e2d4c5bfb1da2920980027c3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/4c1a9c0a8eb7752edc1573b1ec2952751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/dce8f06649afd3b4b2eac805b1fac6e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/0511efab7bbb775d7769bbd43285d34b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/b6b49db78236a167f1f0babc17ce227f1.jpg"
+	]
+}

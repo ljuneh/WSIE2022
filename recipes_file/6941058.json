@@ -1,0 +1,52 @@
+{
+	"id": "6941058",
+	"name": "여름별미, 고소한 콩국과 콩국수 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/c7611beb766b0f7dd6e3b02115e995d51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941058",
+	"ingredient_ids": [
+		1004,
+		8,
+		350,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "콩국",
+			"ingre_count": "4",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "콩가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 콩은 손질하여 하룻밤 물에 담가 둔다.",
+		"2. ㉡ 소금을 약간 넣고 거품은 걷어내 가며 삶아준다.",
+		"3. ㉢ 삶은 콩, 물을 넣고 믹스기에 곱게 갈아준다.                     ",
+		"4. ㉠ 소금으로 간을 맞추고 오이는 돌려깎기를 하고 깨소금을 뿌려 완성한다.                         "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/a8aab0ed859c6058f90c4f2b0688675a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/18ae3a3f200a9a20d515418e13b590d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/b8d656a07069941b6744b023a4736f941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/6d586ca6fe2e1ba16f38b844f1cda6eb1.jpg"
+	]
+}

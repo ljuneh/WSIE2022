@@ -1,0 +1,65 @@
+{
+	"id": "6903698",
+	"name": "두부닭가슴살유부초밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/06/8a350cc766ba99e365f53856293f97801.jpg",
+	"url": "https://www.10000recipe.com/recipe/6903698",
+	"ingredient_ids": [
+		300,
+		323,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "유부1개(2~3인용)",
+			"ingre_count": "1개(2~3인용)",
+			"ingre_unit": "개(~인용)"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 냉동 (or 훈제)닭가슴살을 삶아서 찢어준다",
+		"2. 찢은 닭가슴살 작게 잘라준다(가위나 칼 사용) 유부에 들어가니깐 기호대로 크기는 알아서^^",
+		"3. 두부를 물에 데쳐서",
+		"4. 건진 다음",
+		"5. 자른 닭가슴살과 함께 버무린다 이때 소금이나 후추로 조금 간을 해요",
+		"6. 버물버물/ 잘 두부랑 닭가슴살이 섞이도록 무쳐주세요",
+		"7. 유부초밥 안에 있는 후레이크와 소스 넣아주세요",
+		"8. 다시 버물려줍니다",
+		"9. 잘 버물려지면 유부의 물기를 짜서",
+		"10. 두부닭가슴살을 유부안에 담아줍니다",
+		"11. 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/06/733a6797452118b1994114418a349bb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/06/bba888d2f69208a1f2d955bbfeb76df81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/06/5038a145a52d6dec6d1ef03de9d3a5731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/06/675df33733d85e56f6740f35dbb428971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/06/11cfc49574d346c9921a8ce6a0c8178f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/06/f6103a7e05003c3a78ba334971fd21d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/06/dc8c9410137c02ec16fd9998cc9410aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/06/5d1f123abc70daff237e5305b12859ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/06/a15b36158d20294f80680d8b621e8d1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/06/2ad9aa3cd81425cc70d916730bd947541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/06/4919d775c293d7496390ea2aa7fad7921.jpg"
+	]
+}

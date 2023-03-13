@@ -1,0 +1,59 @@
+{
+	"id": "6944336",
+	"name": "가시오이장아찌~밑반찬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/00ab420c8f10ba9eab6c4f16c9015ee51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944336",
+	"ingredient_ids": [
+		608,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "가시오이",
+			"ingre_count": "12",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "2배사과식초(200ml)",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕1+1/2종이컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "800",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 가시오이를 깨끗하게 씻어 물기를 닦아내신후 반으로 잘르고 가르시어 씨부분을 숫가락으로 긇어내주세요",
+		"2. 진간장/2배식초/설탕/물을 넣고 월계수잎2장만 넣고 펄펄 끓여주세요",
+		"3. 가시오이를 통에 차곡히 담아주시고 펄펄 끓은 간장촛물을 국자로 조심히 떠서 고루부어주세요",
+		"4. 간장촛물이 가시오이담은 통에 2/3만큼만 들어가도 되요",
+		"5. 30분~1시간이 지나면 가시오이에서 수분이 나와서 충분하게 잠기네요",
+		"6. 반찬통에 물을 담아서 5번위에 올려주신후 1일을 숙성시켜 주신후 반찬통을 빼주시고 냉장보관하시면서 조금씩 꺼내드시면 되세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/3fe12cef2cc6f08a9e43c9e6a5e44a211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/4f62666026a9a5f85b0fd258a9967b171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/d709f2a7e04a3c35ffe6d3a3f7f0fd541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/168aa430ffd04ee1f1ef260c0e5703441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/a1807e10832f549c57cb57458c734f4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/e5bdf9de984ad12c7f74b40e907e64dc1.jpg"
+	]
+}

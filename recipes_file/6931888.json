@@ -1,0 +1,115 @@
+{
+	"id": "6931888",
+	"name": "짜장밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/05/01/0edd3f95817ffe793be3c8cee73dd0261.jpg",
+	"url": "https://www.10000recipe.com/recipe/6931888",
+	"ingredient_ids": [
+		5,
+		3,
+		21,
+		833,
+		233,
+		432,
+		226,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "춘장",
+			"ingre_count": "1/2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "3",
+			"ingre_unit": "잎"
+		},
+		{
+			"ingre_name": "쥬키니호박",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "전분가루+물",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "오이채",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨약간",
+			"ingre_count": "",
+			"ingre_unit": "등"
+		}
+	],
+	"recipe": [
+		"1. 양파, 감자, 쥬키니 호박 등은 깍뚝썰기합니다. 양배추도 사각으로 썰어주고요. ",
+		"2. 삼겹살을 사용했는데, 적당히 기름이 있어서 더 고소한 것 같아요. 삼겹살도 사각으로 썰어주세요. 목살을 사용해도 되구요.",
+		"3. 팬에 기름을 2큰술 두르고 다진 마늘 1큰술을 넣고 삼겹살을 볶아주세요. 여기에 양파를 넣어 볶아주세요.",
+		"4. 양파가 살짝 투명해지면 감자, 호박, 양배추 순으로 볶아주세요. 양배추는 많은 것 같아도 숨이 죽으면 그리 많지 않아요.",
+		"5. 요렇게 고기와 야채들을 잘 볶아두었어요. ",
+		"6. 다른 팬에 기름 2큰술과 춘장 반 봉지를 넣고 약불에서 5분간 저어가며 볶아주세요. 춘장을 그냥 넣는 것보다 이렇게 기름에 볶아서 넣어주는 것이 풍미가 좋아요. 약불에서 볶아야 춘장이 타지 않아요.",
+		"7. 볶은 고기와 야채에 볶은 춘장을 넣어서 한번 더 볶아주세요. 여기에 물 3컵을 넣어주세요. 재료들이 잘 익도록 끓여주세요. 물과 전분물을 넣지 않으면 간짜징이 되는 것이고요, 물과 전분물이 들어가면 짜장이 되는 것이죠. ",
+		"8. 전분물을 만들어 주는데요. 전분가루 2큰술과 물 2큰술을 넣어 잘 저어주세요. ",
+		"9. 재료들이 다 익으면 설탕 2큰술을 넣어주는데요. 설탕은 조미료 역할을 하지요. ",
+		"10. 마지막에 전분물을 조금씩 넣어가며 농도를 맞춰주세요. 한꺼번에 전분물을 넣으면 뭉쳐요. 그러므로 조금씩 나눠서 넣어주세요.",
+		"11. 밥이나 면을 넣어주면 되는데요. 밥을 넣어서 짜장밥이 되었어요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/fdaa8ca7afb71355ec902e13be2351a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/12d3031efe055250b1fa7cc3ae6666001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/f0420e0aee40565d1a5341309f91e0931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/fe32807599f827a8c26fefa660a3ccd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/6499348b0f237a24ddd8759c2f2d9eca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/78088fbcd3e10f1d57fd45616eced0e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/ef8e7e33c29ce0fd435d5f85b19a166f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/7064ef27d4d60d6f609286be2190c3481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/cbb6c37dd18e4bcce3b9a2e9ffb42e411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/39ff239fa75269867bca12dccbe6b7ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/2c3865b8ad9307076bab9755d74f31e71.jpg"
+	]
+}

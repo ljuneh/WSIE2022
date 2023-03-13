@@ -1,0 +1,36 @@
+{
+	"id": "6866423",
+	"name": "배추 겉절이 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/07/202eaec1533780f049fa6b19091e482b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866423",
+	"ingredient_ids": [
+		757
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "배춧잎",
+			"ingre_count": "12",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "6",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. 배추는 적당한 크기로 잘라주세요. 저는 길쭉하게 ~ 길게 길게 잘라줬어요.",
+		"2. 분량의 양념을 넣고 양념장을 미리 만들어주세요",
+		"3. 물 2컵에 굵은소금 3숟갈을 녹여 배추를 절여주세요. 배추가 잘 절여지면 반으로 획 접어도 부러지지 않아요. 절이는 시간 1시간~1시간 30분 정도",
+		"4. 쪽파도 길쭉하게 배추랑 비슷한 크기로 잘라서 같이 무쳐 줬어요. 쪽파가 없으면 안 넣으셔도 돼요.",
+		"5. 마무리로 통깨 팍팍! 간을 보고 싱거울 경우 액젓을 추가로 살짝 넣어 주심 돼요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/07/940be3fdb9cf4a2b9171b72e11daf5aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/07/d1bf8a2f25f75e63300250a1a833b9cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/07/d0120ef21af28fa5a5d3bd6536066d6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/07/72878c4ffc1323cee587187216f0f7001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/07/2c5a854d4b7ac97649355086f5f223861.jpg"
+	]
+}

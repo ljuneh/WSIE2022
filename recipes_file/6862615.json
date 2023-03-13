@@ -1,0 +1,68 @@
+{
+	"id": "6862615",
+	"name": "얼큰 칼칼하니 맛있는 김치칼국수, 추운날 최고~~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/14/5567a69aec012b92c48915e904e07b4b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6862615",
+	"ingredient_ids": [
+		362,
+		320,
+		90,
+		27,
+		848
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "칼국수면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "김치(썬것)",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "디포리",
+			"ingre_count": "6",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "4",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "양파(껍질째)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 육수부터 냅니다 디포리, 멸치, 다시마, 대파, 양파를 넣고 된장 쪼매풀어 끓이다가 다시마 건지고 팔팔 끓여요",
+		"2. 끓는물에 시판 칼국수면을 넣고 끓여 흐르는 물에 헹궈놓아요",
+		"3. 끓인 육수에 삶아건진 칼국수면을 넣고 팔팔 끓입니다",
+		"4. 쫑쫑썬 김치, 다진마늘 넣고 마무리해요 간은 따로하지 않았습니다 얼큰 칼칼한 맛이좋은 김치칼국수 완성입니다 깔끔하고 개운한 국물이 더해져 더 맛난 김치칼국수네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/14/bba5ff109588693c833885a2ef7e11cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/14/ed470b60cf87fd61306d79f66a22021b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/14/ff430c9f6e7fb64093cafb0a923e3d401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/14/444eebd872d2b9ac6f0b73c01e9ee4731.jpg"
+	]
+}

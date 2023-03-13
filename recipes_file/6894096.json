@@ -1,0 +1,70 @@
+{
+	"id": "6894096",
+	"name": "너무 간단한데 맛있어서 놀라는 백종원 분식점 떡볶이 황금 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/13/3233d427883d15239f297aeeaf1775531.jpg",
+	"url": "https://www.10000recipe.com/recipe/6894096",
+	"ingredient_ids": [
+		27,
+		543,
+		473,
+		379,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡2컵(종이컵)",
+			"ingre_count": "2컵(종이컵)",
+			"ingre_unit": "컵(종이컵)"
+		},
+		{
+			"ingre_name": "물2컵(종이컵)",
+			"ingre_count": "2컵(종이컵)",
+			"ingre_unit": "컵(종이컵)"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 종이컵 기준 물 2컵에 떡볶이떡을 넣고 센불에서 팔팔 끓여 줍니다.냉동 떡이라면 물에 잠깐 담궈두셨다가 사용하세요",
+		"2. 물이 팔팔 끓으면 양념을 다 넣어준 뒤 잘 풀어주고 또 자글자글 끓여 줍니다.양념을 미리 섞어두시면 좋아요",
+		"3. 국물이 졸아들면 대파를 가위로 쫑쫑 썰어 넣어주시고 통깨 약간 뿌려 주시면 끝!",
+		"4. 너무 간단한데 맛있어서 놀라는 백종원 분식점 떡볶이 완성입니다!",
+		"5. 한개 먹어보니 어머머!정말 분식점에서 파는 떡볶이 맛이 나면서 넘 맛있어요. 너무 간단한데 맛있어서 놀랬어요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/13/7dadc471546884a68fa6baa95ea6d3621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/13/0db57da3a7ac9ff787511ac8422334891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/13/d47e6cb00015a8335d32afc8d6f637e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/13/6be419a5657af84707e57fe1f3e3cf741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/13/fb1285c8dfc68966308a4688ed82f7b81.jpg"
+	]
+}

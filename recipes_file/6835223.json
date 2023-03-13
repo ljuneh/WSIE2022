@@ -1,0 +1,91 @@
+{
+	"id": "6835223",
+	"name": "누구나 쉽게 성공가능한 닭다리오븐구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/29/4bfd134838dfe1fd5fecd9f513b069501.jpg",
+	"url": "https://www.10000recipe.com/recipe/6835223",
+	"ingredient_ids": [
+		365,
+		3,
+		371,
+		393,
+		574,
+		574,
+		497,
+		225
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭다리",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "방울양배추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "발사믹식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "말린바질",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 소요시간 :: 약40분",
+		"2. 먼저 요리를 시작하기 전 손을 깨끗하게 씻고 필요한 재료를 준비 해 주세요.",
+		"3. 방울토마토는 크기가 크지 않기 때문에 굳이 자르지 않고 그대로 사용하셔도 좋습니다. 방울양배추는 2등분 해 주시고 앵파는 4등분해서 준비 해 볼게요.",
+		"4. 달다리를 손질 해 볼까요? 칼집은 서너군데 넣어 주시고 치킨시즈닝으로 올리브유2T,소금1t,후추1/3t,드라이바질1t를 볼에 한데 넣고 가볍게 섞어주신 다음 손질한 닭다리에 넣고 잘 버무려서 15분정도 재워주세요.",
+		"5. 준비한 채소는 발사믹식초2T/올리브유1T를 넣고 가볍게 버무려서 준비 해 주세요.",
+		"6. 오븐은 섭씨200도로  미리 예열 해 두겠습니다.오븐",
+		"7. 재워 두었던 닭다리를 오븐트레이에 얹고 예열한 오븐에 넣고 굽기 시작 해 주세요. 저는 총 30분간 구웠습니다. 오븐 컨벡션 성능에 따라 조리시간에 차이가 있을 수 있습니다.",
+		"8. 20분정도 지났을 때 닭다리를 한번 뒤집어 주시고 준비한 채소를 트레이에 얹어 10분간 더 구워주세요.",
+		"9. 고소한 닭다리구이의 풍미가 느껴지시나요? 이렇게 쉽고 맛있는 닭다리오븐구이가 완성되었습니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/29/c9e8b27cb4829f70fbb152bdfb7a20681.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/29/9cf55cf1efd43f8d026c01d88c2f8a811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/29/677a68f10f7d3bd73cb7f7c8abdcfa321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/29/c39d3b934d0f69c69a48af17370053061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/29/c9bc42b0102b998432658c7e1b1d32d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/29/971bebce33ffaa36d72f64675ee495541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/29/75188f1064252991cd532eba7eaf3aca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/29/6e18fc9fca4ea26396f7718f2fd7cfd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/29/2fbc19ad94d294e2aed023837589bdad1.gif"
+	]
+}

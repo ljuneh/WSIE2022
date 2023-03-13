@@ -1,0 +1,93 @@
+{
+	"id": "6940296",
+	"name": "소고기 감자 전골 # 스파게티 면",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/13395299c18fcf73f10e85e69ec6390c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940296",
+	"ingredient_ids": [
+		495,
+		58,
+		3,
+		9,
+		643,
+		735,
+		226,
+		379,
+		458
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자소",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미향",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1/4",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 설탕 1T 미향 1T 간장 1.5T 생강즙 1/4T 넣고 뒤적뒤적 섞어주세요",
+		"2. 감자 2개를 납작하게 썰고",
+		"3. 감자를 물 300ml 넣고 끓여주세요",
+		"4. 썰어 놓은 새송이버섯, 양파, 당근, 물을 추가하고 끓여주세요",
+		"5. 고기와 풋고추를 넣고 센불에 끓여 줍니다",
+		"6. 삶아 놓은 스파게티 면을 넣고 고기를 익혀주세요  오래 끓이면 고기가 맛이 없어요",
+		"7. 곁들임 소스 만들기  다진 양파, 설탕 1T 고추장 2T 담근 매실청 3T 간장소스 2T(간장 설탕 미향 각각 1T 씩 넣고 만들어둔 것) 넣고 섞어주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/ee2ad50145470ca167f0e8d1d7db92381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/3f3becd92b736fd744bf6a90f845ba0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/22422a59f1910dd4fa8038ec3ae80f141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/99cfd460a6defbc322946d028e56db421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/6ad22c188999cc13e3fc45247971823f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/353b7164894c344b66d71e97ac3245951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/32dbb494ee250203fc538265bc2e1a4c1.jpg"
+	]
+}

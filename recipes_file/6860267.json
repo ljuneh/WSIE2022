@@ -1,0 +1,72 @@
+{
+	"id": "6860267",
+	"name": "[간단 자취요리] 미친 매운맛! 빨간오뎅 집에서 만들어 먹기! / Spicy fish cakes",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/4b55327585e2e041530f515f8862352e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6860267",
+	"ingredient_ids": [
+		548,
+		34,
+		473,
+		379,
+		226,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "8",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물200ml(약종이컵4/5컵)",
+			"ingre_count": "200ml(약 종이컵4/5컵)",
+			"ingre_unit": "ml(약 종이컵컵)"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다.어묵, 물, 고추, 고추장, 간장, 설탕, 다진마늘",
+		"2. 고추 1개는 썰고, 1개는 다져줍니다. 다질 것은 씨를 제거해줍니다.",
+		"3. 나머지 하나는 어슷 썰어주세요.",
+		"4. 이제 꼬치에 어묵을 끼워줍니다. 저는 한 꼬치에 어묵을 2개씩 끼웠어요!",
+		"5. 팬에 물과 양념들을 넣어줍니다.양념 재료 : 물, 고추장, 간장, 설탕, 다진마늘",
+		"6. 꼬치에 끼운 어묵을 넣어줍니다.고루 뒤집어가며 조려줍니다.",
+		"7. 어슷 썬 고추도 넣고 마저 조려주세요.",
+		"8. 마무리로 다진 고추를 얹어주면 끝!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/a5df154fd40ef66a77a7c8dfa55d38481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/09d33c4db68ef9b6b92307b1c94acac51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/be6bd61260635c8db14ba861aee0f7ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/cb8f898fde11d2f3f98388874e5e32d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/b31949581a7fcea8576ab55863535cd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/a46abd6f68a8f2de64a19c780aa036321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/e2946f504df58034702d1d1c9849ef171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/7bfaef307a5ca088d0d035bcdec58bf41.jpg"
+	]
+}

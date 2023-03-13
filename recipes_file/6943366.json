@@ -1,0 +1,49 @@
+{
+	"id": "6943366",
+	"name": "간식이나 고기요리의 가니쉬로 좋은 웨지감자",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/a8bbbd610c891821c08ff9b69e5679551.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943366",
+	"ingredient_ids": [
+		5,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 감자는 흙을 깨끗하게 씻어 6등분합니다.",
+		"2. 커다란 볼에 올리브오일 3큰술과 소금 파슬리가루를 넣어 섞어주세요.",
+		"3. 올리브오일에 감자를 넣고 골고루 섞어주세요.",
+		"4. 예열된 오븐 200도에서 10~15분간 익혀주세요. 에어프라이어로 구울 경우 180도에서 15~20분간 익혀주세요.오븐,에어프라이어",
+		"5. 다 익은 감자는 접시에 담아내어 간식으로..",
+		"6. 고기요리의 가니쉬로 곁들여 내시면 완성입니다. (돼지고기 등갈비 바베큐 레시피는 여기를 참고하세요.  @6943132 )"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/e42be52ba9e2f9144522a29b6003a98a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/315461a3bd296721cd4169ea85d8cadd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/9c3226cefe0c955f327d96096f6a401b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/9624962a47e4101a440615214ebf5f9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/fa44db8052853d21ca7d2267484a7d7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/97ba60401ab9b2ed96f5dfae5c9919541.jpg"
+	]
+}

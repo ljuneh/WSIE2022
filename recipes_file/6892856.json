@@ -1,0 +1,51 @@
+{
+	"id": "6892856",
+	"name": "빠르고 간단하게 먹는 참치마요덮밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/873ce2434ce1c1435e658c546908adc71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6892856",
+	"ingredient_ids": [
+		228,
+		231,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		}
+	],
+	"recipe": [
+		"1. 먼저 참치캔기름을 쪽 빼주세요",
+		"2. 무김치를 잘게 잘라주세요",
+		"3. 마요네즈, 식초, 설탕을 넣어 섞어주세요 밥을 깔고 참치를 그 위에 올려주세요",
+		"4. 마요네즈를 뿌려주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/37ec02043f7cfee9eb4ac2f867c05aa31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/32f019388abac654f2b8297795ca39c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/569bc55ca6703370b1c81f3c5567d07d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/c92162319ef4981fef80bb8c392cfa221.jpg"
+	]
+}

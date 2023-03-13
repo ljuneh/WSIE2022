@@ -1,0 +1,78 @@
+{
+	"id": "6944917",
+	"name": "색다르게 만드는 돼기고기야채말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/4b601768d38d85d62fbf3b41acb7ff871.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944917",
+	"ingredient_ids": [
+		7,
+		379,
+		226,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "얇게썰어진돼지고기뒷다리살",
+			"ingre_count": "16",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "빨강파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노랑파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘쫑장아찌",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 돼지고기 뒷다리살 비계를 제거하고, 소금, 후추를 뿌려서 밑간해요혹시 해동된 고기라 핏물이 있으면 키친타올로 제거해 줘요",
+		"2. 파프리카, 애호박을 젓가락 굵기로 길쭉하게 썰어서 고기 위에 올려서 돌돌 말아줘요",
+		"3. 고기 안에 팽이버섯, 대파, 새송이버섯 등 다양하게 넣을 수 있어요",
+		"4. 후라이팬을 데운 후, 약한 불 위에서 고기를 익혀줘요",
+		"5. 고기말이를 굴려가며 노릇하게 익혀줘요",
+		"6. 간장 1숟갈, 설탕 1/2숟갈을 섞은 후, 고기말이 위에 발라주며 구워요",
+		"7. 고기가 이미 익은 상태이므로, 고기 위에 양념을 바른 후 잠깐만 익혀요. 타지 않게 조심하세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/f71b5f51acabc54f05bcfdfd158147d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/46abb8723e3c07cea71ab43e25ae05361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/de614ddd79a2dba36d81e7027c2858021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/432bb9945d958e7241df57ea851fd16e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/e462e45d020750a3a52c9d9e0253cbd41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/b2712f3ccc99cc119c13711dbd33f72c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/4fecd30814e6ac57998a3c399898b88a1.jpg"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"id": "6942635",
+	"name": "인기 베이킹 구름빵 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/c8d2bec30e87a45a81844526d94772ef1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942635",
+	"ingredient_ids": [
+		570,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀흰자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "옥수수전분",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파란색색소",
+			"ingre_count": "1",
+			"ingre_unit": "방울"
+		}
+	],
+	"recipe": [
+		"1. 먼저 흰자와 노른자를 분리해 주고 흰자를 휘핑해주세요.",
+		"2. 맥주 거품처럼 올라오기 시작하면 설탕 30g을 넣고 다시 휘핑해주세요.",
+		"3. 잠깐 더 휘핑을 하다 옥수수 전분 10g을 체질해 주세요.뭉칠 수 있기에 꼭 체질해 주세요!!",
+		"4. 이제 단단한 머랭이 나올 때까지 휘핑해주세요.",
+		"5. 단단하면서도 조밀한 머랭이 완성된다면 구름 색을 내기 위해 파란색 색소를 조금 넣어주세요. 저는 머랭의 절반만 가볍게 섞어주었어요.",
+		"6. 머랭이 꺼지지 않도록 조심히 팬 위로 올려주세요. 모양은 원하시는 대로 스크래퍼를 이용해문질러가며 잡아주시면 돼요.",
+		"7. 150도 예열된 오븐에서 25분간 구워주기!!오븐",
+		"8. 표면은 노릇노릇 최종적으로 완성이 된 구름빵의 전체 모습이에요.",
+		"9. 오븐에선 탱탱했던 구름빵이지만 금방살짝 꺼지면서 쪼글해져요. 그래도 손으로 조심스럽게 갈라보면 구름처럼 몽실몽실 속은 예쁘게 잘 나온답니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/b049edf08d4bf7c702800c863330702b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/9bb26ff4e7d15f897720a2ff6d6be4b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/5a2e807a817958ef09b4cd03fe3664931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/c90a84e5d60bc8b68496510c3bdcb8661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/9e3964abf101f1105ea821f3dcf107631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/7f7f944d5c52c16641111190bb89ba5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/7d83042205629706868354afa36e96251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/c43e83bd721d8bffe2c94b8c16172a4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/6245e1f70019a6d095aaa0edf1b66b851.jpg"
+	]
+}

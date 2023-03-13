@@ -1,0 +1,110 @@
+{
+	"id": "6923362",
+	"name": "전복장만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/0dcc4186592be416c7eb0165f0ab8f561.jpg",
+	"url": "https://www.10000recipe.com/recipe/6923362",
+	"ingredient_ids": [
+		86,
+		3,
+		27,
+		379,
+		995,
+		90,
+		292,
+		227,
+		253,
+		608,
+		694,
+		250
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액기스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "로즈마리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "울금또는생강가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "아로니아",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 전복은 깨끗이 씻어서 삶아 알맹이만 빼주세요",
+		"2. 준비된양념을 잘넣고(대파.양파) 끓이세요 약 10분",
+		"3. 팔팔 끓인후 손질 전복넣고 5분정도 끓이세요. 그리고 레몬즙이나 식초 약간뿌려주시면 비린내가 더 안나요",
+		"4. 전복만 그릇에담고 체에 양념장 걸러 담은후 하루정도 숙성후(냉장)드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/622d7bdfb7dae537aa920678eb17b4821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/a1d92485648a158e5dfc87353bac38cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/98cfe4c32ac854e83d8991654e52b4491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/05e2a4b5b2027d89507a5d51632a4b8b1.jpg"
+	]
+}

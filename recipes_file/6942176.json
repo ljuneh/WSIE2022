@@ -1,0 +1,134 @@
+{
+	"id": "6942176",
+	"name": "닭 비린 맛 1도 없는 닭찜 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/b9cd19d94d00b72a2b0b0b69049aa68b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942176",
+	"ingredient_ids": [
+		126,
+		27,
+		5,
+		50,
+		473,
+		224,
+		292,
+		341,
+		29,
+		579,
+		995,
+		350,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "미니양배추",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "붉은고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 닭고기는 핏물을 제거한다.                   ",
+		"2. ㉡ 소주 1숟가락을 넣고 끓는 물에 살짝 데쳐낸 후 찬물에 씻어 이물질을 제거한다.                   ",
+		"3. ㉢ 준비한 양념을 넣고 잘 섞어둔다.                     ",
+		"4. ㉣ 미니 양배추, 대파, 고추, 감자, 마는 먹기 좋은 크기로 썰어둔다.                   ",
+		"5. ㉤ 냄비에 데쳐낸 닭고기, 감자, 마를 넣고 자작하게 물을 부어준다.                       ",
+		"6. 이 절반으로 줄어들면 양념과 썰어둔 채소를 넣고 졸여준다.                   ",
+		"7. ㉦ 참기름, 깨소금을 넣고 마무리한다.                   ",
+		"8. ㉧ 통깨를 뿌려 완성한다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/62c9efcc07cf27bc04cd77b303a079521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/bca4baa37a3629b2168f314fc3254eb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/df5029e75eb1e92e2031a128d5e57a181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/92c2217266b8c6e19a4c5cd364f910841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/7e5d7192237cecb636080d00c87a9f031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/599ca49245742d0e41cb3d2e7babad561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/407b8afc7549455578473a77a26f8bdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/8ac8c5ecb890fa08ec14bbc588279ae61.jpg"
+	]
+}

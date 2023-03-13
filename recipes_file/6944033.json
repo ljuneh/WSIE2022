@@ -1,0 +1,76 @@
+{
+	"id": "6944033",
+	"name": "김치전 만들기, 치즈를 올려서 고소함이 업업!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/54c180ef9923f117e4e90e46120c4c0d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944033",
+	"ingredient_ids": [
+		953,
+		387,
+		734,
+		995,
+		216,
+		497,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 저는 김치전 만들기 를 할 때 튀김가루와 부침가루를 1대 1 비율로 섞어서 만들어요.그냥 부침가루만 만들기보다는 튀김가루를 추가로 섞어주면 더더욱 바삭하더라구요.",
+		"2. 김치는 한주먹정도 잘게 잘라서 넣어주었어요. 최대한 잘게잘게 가위로 잘라주세요.김치는 도마에서 자르기보다는 이렇게 볼에 넣은 뒤 가위로 자르는게 설거지도 줄고 좋아요!",
+		"3. 김치국물을 한스푼정도 넣어준 뒤 나머지는 차가운 물을 넣어서 농도를 맞춰주세요. 너무 되직하지 않고 반죽이 주르륵 흐르는 정도면 좋아요ㅎㅎㅎ",
+		"4. 더 예쁜 색감을 내기 위해서 고춧가루 한스푼과 간을 위해 소금과 후추를 한꼬집정도 넣어주세요.",
+		"5. 기름을 낭낭하게 두른 팬을 중불로 예열해 준 뒤 김치전 반죽을 올려주세요.중약불최대한 얇게 펴주기!! 그리고 기름은 많이 들어갈수록 바삭하고 맛있다는 거~~",
+		"6. 아랫면을 노릇하게 구워주신 후 뒤집에서 불을 약불로 줄여주세요!",
+		"7. 피자치즈를 한움쿰 올린 후 바로 뚜껑을 덮어서 열기로 피자치즈를 녹여주세요.중불로 굽던 김치전을 뒤집은 후 약불로 줄여서 아랫면이 타지 않도록 해주는 것이 팁!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/839b0d02cbc1e1b9635968d826761acb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/d9cd0ba708ea34ac447909198e334f351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/906d0b0b3121e70df30026a64908f5ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/5229bfe57facc441b860160daf7fadd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/91de008edd693e00ee70dbf1a3f004eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/5a30e06f80d42c44efc1cf0690eacb891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b82816c991d938188c3a9dcedf346e5a1.jpg"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"id": "6845451",
+	"name": "두부닭가슴살너겟",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/26/fbbf48ec994f6c958cad34e4a77b1ead1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6845451",
+	"ingredient_ids": [
+		300,
+		323,
+		868,
+		436,
+		734,
+		219
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "파마산치즈가루",
+			"ingre_count": "3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "5",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 모든 재료는 다져서 준비합니다. ",
+		"2. 파마산치즈가루 3, 빵가루 5, 튀김가루 2를 넣어 반죽을 합니다. (밥숟가락 계량) 소금, 후추도 적당하게 넣어주세요. ",
+		"3. 익힌 닭가슴살을 사용해서 반죽이 좀 되직해서 달걀 1개를 넣었습니다. 반죽 상태를 보고 너무 되직하면 달걀 1개정도 넣어주세요. ",
+		"4. 원하는 모양으로 반죽을 성형해주세요. 그리고 팬에 기름을 두르고 약중불에서",
+		"5. 노릇 노릇 익혀주심 됩니다. ",
+		"6. 두부닭가슴살너겟 완성. 닭가슴살도 담백하고 두부도 담백하고 기름에 구웠지만 참 깔끔한 맛? 새콤한 케찹에 찍어 드심 딱 좋아요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/5c24078593c03f948f8ed920f09074a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/dc9efda7bfb74bf9d6c61de5eebdb1301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/d1dc6fc57060a645048deb175e8b4e101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/db002091b357d772ad70f6ac75a84d261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/036079a87ceb921d04549104f29f8d451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/c1f7fe1603e15c632035356226687ce11.jpg"
+	]
+}

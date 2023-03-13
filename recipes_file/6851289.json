@@ -1,0 +1,59 @@
+{
+	"id": "6851289",
+	"name": "방울양배추 요리♬방울양배추는 요렇게 먹어야 맛나쥬~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/4def7168a34b33c52a8062e651ddb5e31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6851289",
+	"ingredient_ids": [
+		963,
+		3,
+		9,
+		497,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "대패삼겹살",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "쪽"
+		}
+	],
+	"recipe": [
+		"1. 겉의 시든 양배추잎을 떼어내구요. 끝에 검은색부분은 갈로 도려내고 큼지막한것은 반으로 갈라주세요. 제법 큰거는 1/4로 잘라주셔도 되어요. ",
+		"2. 양파는 반을 1/2로 듬성듬성 양배추크기만큼 썰어주세요. 마늘은 5쪽을 편으로 잘라 준비해주시구요. 파프리카도 조금 준비를 했어요.",
+		"3. 올리브유 두른 팬에 편썬 마늘을 먼저 넣어 마늘기름을 만들어주세요. ",
+		"4. 그런다음 방울양배추를 넣어서 볶아주시면 되는데요. 미리 살짝 데쳐서 볶아주셔도 되는데 저는 한번 기름에 볶아 지용성비타민 흡수를 높였어요.",
+		"5. 반정도 익었을때 양파도 넣어서 볶아주세요. 이때 간은 소금을 살짝 넣어 양배추와 양파에 간을 해주세요.",
+		"6. 그런다음 삼겹살을 넣어서 볶기!삼겹살이 없다면 식감을 더해줄 베이컨이나 소시지도 좋아요~ !",
+		"7. 대패삼겹살이 어느정도 익으면 파프리카를 넣어주시면되요.이때 후추약간과 시즈닝을 반스푼만 넣어서 감칠맛을 더했구요. 간은 소금으로 간을 해주시면 되어요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/30/a1edf894a90c581201d37cb4c89891671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/30/fab901b18902165b2a3f18c3e6d361ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/30/c3be7ca8c7fc8625c75a146a4a10a6461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/30/15f45a543964b3214eb551475a57c3c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/30/ced849f3f7b124dfb40bfe423c1154a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/30/75d89975e314450f5ff073ac5a11b57a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/30/1c408a125972707e03353edea64d0af71.jpg"
+	]
+}

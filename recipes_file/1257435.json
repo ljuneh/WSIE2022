@@ -1,0 +1,72 @@
+{
+	"id": "1257435",
+	"name": "파프리카 소세지볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/70f2b326eb945bfe0e4c355e0dd6e46d.jpg",
+	"url": "https://www.10000recipe.com/recipe/1257435",
+	"ingredient_ids": [
+		3,
+		477,
+		724,
+		379,
+		526,
+		29
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소세지",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "파프리카색깔별로",
+			"ingre_count": "1/4",
+			"ingre_unit": "개씩"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "우스터소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 소세지는 끓는물을 부어 여분의 기름기를 제거해주세요. 양파와 파프리카들은 먹기좋게 잘라주시구요.",
+		"2. 달구어진 팬에 오일을 조금 두르고, 양파를 볶아주세요. 양파가 살짝이 익어가면 소세지와 파프리카들을 넣으세요.",
+		"3. 미리 만들어두었던 볶음양념을 넣고 후다닥 볶아주세요. 오래 볶으면 소세지가 질겨지고 파프리카의 아삭거림도 사라진답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/9889958ac203b71635de92a8bcafdecc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/b7c87f831d91527128a2b60ddcb304521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/6e95f8c6f22718d387accfe5385f129c1.jpg"
+	]
+}

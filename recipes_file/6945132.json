@@ -1,0 +1,81 @@
+{
+	"id": "6945132",
+	"name": "가지 찌는 방법, 가지나물 무침 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/db266c2a9ae259cf44e0f4120a7e7c4b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945132",
+	"ingredient_ids": [
+		18,
+		27,
+		233,
+		295,
+		660,
+		349,
+		938,
+		350
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 가지는 넉넉하게 준비 합니다.",
+		"2. 가지는 찜솥 싸이즈로 토막을 내주고, 반으로 갈라  찜솥에 세워서 넣어 줍니다.",
+		"3. 김이 오른 찜솥에 가지를 넣어 줍니다.",
+		"4. 가지가 알맞게 익는건 가지양에 따라 달라지지만 김이 오른 찜솥에 8~10분정도 쪄주면 적덩합니다.",
+		"5. 한김 씩혀 두었던 가지는 포크를 사용하여 가늘게 찢어 줍니다. 가늘게 찢어주고. 완전히 식힌후 한번 먹을만큼씩 용기에 담아 냉장 보관 합니다.",
+		"6. 가지를 적당히 쪄 주었다면 나물로 간단하게 무쳐 봅니다.",
+		"7. 대파는송송송 썰어주고 고추는 다져서 넣어 줍니다. 다진마늘도 조금만 넣어 주세요.",
+		"8. 국간장, 매실청, 참기름, 깨소금 듬뿍 넣어 조물조물 무쳐 줍니다.",
+		"9. 참기름과 깨소금은 듬뿍 넣어 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a77367390a508f5e4104b1e193ee1a631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/56436f1a34c98c11091bcf14da1f238a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/87369a1d1df5f0bf3fadeef6f42ba5291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/f71b3f7d48b7a9079e4267f737341a531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/e7e4c72b1a605f1752364ce820e0fdc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/ac46114e8c51b3d079feef38734b7dfb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/bdbd284507f22653b9421c9c378ae5c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/1492cf15c505f22ba75d3a0f6fdbf1861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/386af242fe40b97d7e0e5f8895561add1.jpg"
+	]
+}

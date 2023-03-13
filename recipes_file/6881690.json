@@ -1,0 +1,75 @@
+{
+	"id": "6881690",
+	"name": "건갈치조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/22/32c02a9ebdf9e0cb3a57c615c917c53c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6881690",
+	"ingredient_ids": [
+		594,
+		575,
+		233,
+		457,
+		224,
+		343
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "건갈치",
+			"ingre_count": "6",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "어간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다시마육수",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 꾸덕하게 건조한 갈치입니다",
+		"2. 등지느러미를 가위로 자르고 건조전 불순물이 많아 조리전 깨끗이 씻어 준비합니다",
+		"3. 고춧가루 어간장 올리고당 다진마늘 생강 을 분량데로 넣고",
+		"4. 약불에 바글바글 끓이다",
+		"5. 잘라논 건갈치와 다시마육수1컵 넣고 뚜껑은 연 상태에서 10분정도 조려 조리는 중간에 전체적으로 한번 뒤집어 주고",
+		"6. 갈치가 익었을때 고추 넣고 고추가 아삭하게 한김만 쏘여 조려냅니다 매콤함을 주려면 청양고추 몇개 넣어도 좋구요",
+		"7. 쫄깃한 갈치살이 톡톡 떨어지는 건갈치조림 양념장에 잘 조리면 어렵지 않아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/22/5e0388f2e0213f9ee9965a1bd0ff05361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/22/ca7832bfb0fe47660f5a4ac00cd25e771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/22/2ff801933b92786069fecab78f713ef11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/22/d8d4b7beb9f00c5372174699f1c438861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/22/4fb5e6bcf32631d34fe11ebaecb724fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/22/ed72b04a72b90499e197a1ae4790b5711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/22/5fdbf48b4fb4cb5d62e855ad82f7c5e61.jpg"
+	]
+}

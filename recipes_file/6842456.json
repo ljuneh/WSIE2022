@@ -1,0 +1,89 @@
+{
+	"id": "6842456",
+	"name": "갈릭 닭가슴살버섯볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/b00ba818099e92d6a36a10c694c141751.jpg",
+	"url": "https://www.10000recipe.com/recipe/6842456",
+	"ingredient_ids": [
+		300,
+		58,
+		574,
+		379,
+		341,
+		233,
+		226,
+		367
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "바질",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 재료준비 버섯 종류는 새송이나 천송이 가능",
+		"2. 닭가슴살 한번 헹구어준 후",
+		"3. 먹기 좋은 크기로 잘라주세요",
+		"4. 버섯도 어슷썰기로 잘라주세요",
+		"5. 팬에 올리브유를 적당히 두른후 다진마늘 두큰술 넣어주세요",
+		"6. 약한불에 마늘을 잘 익혀주세요",
+		"7. 마늘이 살짝 익으면 자른 닭가슴살 넣어주세요",
+		"8. 고기의 잡내를 잡아줄 바질",
+		"9. 닭가슴살 위에 솔솔 뿌려주세요",
+		"10. 닭가슴살이 익으면 버섯도 넣어 익혀주세요",
+		"11. 양념 간장2T, 설탕1T, 물엿1.5T를 넣어 잘 섞어주세요",
+		"12. 양념을 넣고 볶아주세요 양념이 잘 베였으면 완성",
+		"13. 닭가슴살과 먹음 맛있는 샐러드와 함께 준비"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/d5a1437323902c201d1fe5698d7adfc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/ffc02005922b311aad963a60f510d4c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/7101bb3b1eed8a8bd4cdb65ab1d0a47b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/3bfcafe29bfa59fa03abc757d767dc031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/b309385bad0633ea1cf7bda4a59c902f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/224ed7f6dcafc7adbfb25a01216ddc601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/f432b4cf01bdf12a6f1c405a3a2e04ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/a7ff69ed1e7871acf2b8dcb8238c85551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/60f996d5693df81eb5829cecd052ff741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/8790ed1a3f4082c7f39540052b2668381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/204812f59cad5806e6f22163680fc6271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/03bf1f46f4eeca93fe8fbc1a904b984f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/3314f955b71be7563282e5f734b622711.jpg"
+	]
+}

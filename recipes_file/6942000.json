@@ -1,0 +1,42 @@
+{
+	"id": "6942000",
+	"name": "브라우니 믹스 더 맛있게 만들기★",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/c7c15012eaa3e5bc46180e8b10fca2a11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942000",
+	"ingredient_ids": [
+		995,
+		568
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "브라우니믹스",
+			"ingre_count": "320",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "인스턴트커피",
+			"ingre_count": "2~3큰술",
+			"ingre_unit": "~큰술"
+		}
+	],
+	"recipe": [
+		"1. 준비 된 물에서 몇술을 덜어내서 미지근하게 데운 뒤, 그 물로 인스턴트 커피를 녹여줍니다.",
+		"2. 브라우니 믹스에 준비 된 물과 만든 커피물을 넣습니다.",
+		"3. 잘섞어줍니다.",
+		"4. 전자렌지 용기 안을 식물성기름으로 꼼꼼이 발라주고 반죽을 부어줍니다. 그리고 전자렌지에서 1차로 3분 30초, 김을 빼주고 2차로 1분을 돌려줍니다.전자레인지",
+		"5. 잘 식힌뒤 뒤집어 꺼내주면! 찐하고 촉촉한 브라우니 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/2041d8b36a24d7261a8b88cba25260351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/1365027c58f2cb093030ec4cfa2149281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/11c772d842d20384b3f0ad74cc99cfae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/ca37d06646088a571b574c23a08940de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/87a816cf4090a4d1cbf8168367ebb4821.jpg"
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"id": "6941576",
+	"name": "아삭아삭 양파장아찌 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/08a5b252c7d2c86f302279f6e055a0ea1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941576",
+	"ingredient_ids": [
+		3,
+		29,
+		295,
+		379,
+		231,
+		995,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "12",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "550",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "550",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "550",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비",
+		"2. 재료는 깨끗하게 씻어 물기를 뺀 다음, 큼직하게 썰어 줍니다.",
+		"3. 열탕 소독한 병에 마늘, 청양고추, 양파를 순서대로 담아주면 준비 완료!!",
+		"4. 간장 550ml, 식초 550ml, 물 550ml, 설탕 400ml을 넣고, 부르르르~ 끓어오르면 30초 뒤에 불을 끈 다음,",
+		"5. 뜨거울 때 바로 부어줍니다.",
+		"6. 랩으로 한번 감싸서 뚜껑을 꽈악~ 닫고,",
+		"7. 하루 숙성하고 냉장 보관하면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/50e5279406ee7badae38cd683f6f27e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/49fbd3b23583c2bbf5f96d9f6b9e4d8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d3548fda3bb2b92411b76de397cf9d721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/977d5275edb8248c5252bcca8e8f74ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/c393929885faecbe8482430740ea2edf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/0eb631fac901128e3bffb0fa230c9f061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/517d835002cd7b5ed06a9b4584589f871.jpg"
+	]
+}

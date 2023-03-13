@@ -1,0 +1,67 @@
+{
+	"id": "6940126",
+	"name": "토마토 요리 / 토마토 쫄면",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/c9d4a5c2269498e4c9002b9bb87199811.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940126",
+	"ingredient_ids": [
+		51,
+		900,
+		233,
+		379,
+		226,
+		231,
+		473
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쫄면",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 토마토는 적당한 크기로 자른다.",
+		"2. 믹서기에 토마토를 넣는다.",
+		"3. 다진 마늘, 간장, 설탕, 식초, 고추장을 넣고 갈아 준다.",
+		"4. 쫄면은 뜨거운 물에 삶아 찬물에 씻어 준비한다.",
+		"5. 쫄면은 그릇에 담고 소스를 담아 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/d51e9e2c72a23f47cf4fb5660bf588b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/203f7ce7dca73bcc21be7da6270b5c991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/05bbe7443863d6770c44ad2341dab0601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/62548d3c78d09ff6a3d669443f59a11f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/2099e9fc2e0bb490e5b174af2d2361071.jpg"
+	]
+}

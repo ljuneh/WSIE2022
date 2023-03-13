@@ -1,0 +1,101 @@
+{
+	"id": "6940708",
+	"name": "목살을 활용한 정말 맛있는 덮밥!! 이건 그냥 먹어도 맛있다!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/4b3b66c90fabbe0bde72ab0086ee3b731.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940708",
+	"ingredient_ids": [
+		233,
+		226,
+		379,
+		343,
+		477,
+		333,
+		514
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지목살",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "채썬양파",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "채썬무우",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "핫소스",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 계량스푼은 집에서 사용하는 8cc 정도의 밥숟가락입니다. 무우와 양파를 0.5cm 정도 두께로 채썰어 줍니다. 대파도 잘게 채썰어 줍니다. **새로운 레시피 제작에 힘좀 나게 동영상도 좀 시청 해주세용^^... 두율이네 유툽 놀러 오시면 더많은 레시피와 최신 레시피를 더 빠르게 보실수 있습니다~",
+		"2. 양념장을 모두 한데 넣고 잘 섞어 줍니다. 핫소스는 따로 사지 마시고 피자시켜먹고 남은 소스를 사용하세요. 봉지 1개에 든게 약 4g 정도 입니다. 저는 한개 넣었는데 나중에 2개 넣으니 맛이 더 좋더라고요. 1스푼은 1개를 표기 한겁니다. 선택 따라 2개 넣으셔도 됩니다. 양념은 설탕이 완전히 녹을때 까지 잘 저어주세요.",
+		"3. 식용유 2~3스푼을 후라이팬에 붓고 마늘과 파를 넣은 다음 중약불로 볶아주세요. 그리고 마늘이 노릇하게 익으면 불을 강불로 바꾸고고기를 넣어 줍니다.  파와 마늘을 볶을때는 중약불 고기를 넣고 강불입니다.",
+		"4. 고기가 50% 이상 익었으면 양파와 무우를 넣고 양파가 투명해 질때까지 볶아 주세요.",
+		"5. 양파가 투명해지고 고기가 완전히 익을때까지 볶아준 다음 양념장을 모두 넣어 줍니다.",
+		"6. 이제 2~3분 정도 강불에 잘 볶아 주면 완성!!",
+		"7. 흰쌀밥위에~ 푹푹 올려서 맛있게 드세용^^~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/22d14e4efa6182a70ea8d673810c61ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/4c5d64c8cf08cd257a512afb8abf24441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/566932fdb26e7aec55feac6cf7d1e06b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/51b892cf3cf75dde8aad04b4d8c922071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/2ccfb23b4b3e8291d40f76b6663f08a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/8340a2a31933177619fdb9073f336a831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/1d4defb7d53747358dbc3e4db871d95d1.jpg"
+	]
+}

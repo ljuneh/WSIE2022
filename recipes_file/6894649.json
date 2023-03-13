@@ -1,0 +1,82 @@
+{
+	"id": "6894649",
+	"name": "간단한 요리 레시피, 덮밥으로도 술안주로도 OK! 10분만에 만드는 소고기숙주볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/23/d62e6e54a3d8700f694a5e6b71ed247f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6894649",
+	"ingredient_ids": [
+		495,
+		52,
+		3,
+		29,
+		477,
+		379,
+		579,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 먼저 양념장 부터 만들어 주세요.",
+		"2. ﻿팬에 기름을 붓고 채썬 마늘, 양파를 달달 볶아주세요.",
+		"3. 마늘과 양파가 어느정도 익었으면 소고기도 같이 볶아줍니다.",
+		"4. 고기의 핏기가 안보이면 바로 숙주도 얹습니다.",
+		"5. 숙주의 숨이 죽을때까지  달달 볶다가 양념장을 부어줍니다.",
+		"6. 그리고 부족한 간은 굴소스로 맞춰주시면 되요~",
+		"7. 덮밥, 술안주, 밥반찬으로도 좋은 소고기 숙주볶음 완성~ 간단한 레시피로 집에서도 빠르게 해먹을 수 있어요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/bd278ab8c9a979f99acdf74d51f459d01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/155376b9022fc10c672204013d49382d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/244731403aff0cb0cb0c112fd12fa74e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/f5c242c593482933d98b06720378d35c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/bbbeddbde7feac2887853597dbd8ffa01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/054a202e3a33c45ce079d61cd101faa81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/835c036d6d18e3474562aa5b911f739e1.png"
+	]
+}

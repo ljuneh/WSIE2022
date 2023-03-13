@@ -1,0 +1,100 @@
+{
+	"id": "6913982",
+	"name": "총각김치 담는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/a91daaae0382edec429de4d7caef00931.jpg",
+	"url": "https://www.10000recipe.com/recipe/6913982",
+	"ingredient_ids": [
+		882,
+		545,
+		995,
+		224,
+		3,
+		158,
+		390,
+		939,
+		233,
+		90,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "총각무",
+			"ingre_count": "2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "찹쌀풀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": "물"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 각종 양념재료는 갈아서 준비해둡니다!",
+		"2. 열무와 쪽파는 천일염을 푼 소금물에 2시간이상 절여둡니다",
+		"3. 알타리무는 크다싶으면 중간을 쪼개는쪽이 나아요,무우가 휠정도로 되면 알맞게 익은거에요",
+		"4. 양념과 골고루 만들어주는데 총각무의 물기는 뺀 채로 버무려주세요",
+		"5. 적당하게 버무립니다",
+		"6. 실온에 반나절정도두면 맛있게익어요",
+		"7. 차곡차곡 잘쌓아줍니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/7215608cfd924c2df233e477173139311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/4e88bc74da06a6d32493f8e2b8e73aca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/22d18d3ae0e4d30dad94607410e6fd721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/a598e3e85eedc6d98325bda0640cc3151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/c1be555b3b0a7428fe12239aa00eed001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/63eeeb763fa068cc6b44de591f19cc751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/c2c17230054c64de37754e8283f11ba11.jpg"
+	]
+}

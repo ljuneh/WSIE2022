@@ -1,0 +1,66 @@
+{
+	"id": "6943524",
+	"name": "아보카도 요리 에어프라이어로 아보카도 계란구이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/c43bbac6ae1297e185e6f1857c4c34d61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943524",
+	"ingredient_ids": [
+		162,
+		406,
+		212
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "페퍼론치노가루",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 베이컨은 잘게 썬다.",
+		"2. 아보카도는 칼집을 내어 반으로 가르고 씨에 칼날을 조심스럽게 넣은 다음 옆으로 살짝 돌려 제거한다.",
+		"3. 그다음 숟가락을 사용해서 과육을 조금 파내 계란을 넣을 수 있는 공간을 확보한다.",
+		"4. 둥글둥글한 겉면을 조금 썰어서 평평하게 만든다.",
+		"5. 속을 파낸 아보카도에 계란을 넣고 그 위에 모짜렐라 치즈, 베이컨을 올린다.",
+		"6. 그 다음 에어프라이어 전용 팬에 담고",
+		"7. 에어프라이어에 넣어 180도에서 15분 정도 익힌다.에어프라이어가정에서 사용하는 에어프라이어마다 성능이 조금씩 다르기 때문에 시간 조절하면서 굽는 것이 좋습니다.",
+		"8. 15분 뒤 알맞게 익으면 에어프라이어에서 꺼내",
+		"9. 페퍼론치노 가루, 파슬리 가루를 뿌리면 아보카도 계란구이 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/819294fbe17e632925c368bf10d67eda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/967770dabdb6361c7ec0f48c82bba9911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/0a0d66f6680b50bb0682a6c8f4402f331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a71da87e18897bf50ff713346eaa8a361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/0dc21126f7445247e7810f4dedcb96dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a28ad7c13564675c78f392731a9a6bae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f4c00016696fe445bedacd924987b21d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/6a785dbf6201b3ea36eecbfb7cd62d2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/b1e8095cdc9dc9c83ab5450f7e6ba05f1.jpg"
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"id": "6944203",
+	"name": "해산물 듬뿍 맛있는 물짜장면",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/cd40332625eb7f19262eb04c7358a8971.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944203",
+	"ingredient_ids": [
+		65,
+		3,
+		995,
+		29,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "우동면사리",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "냉동새우",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "바지락육수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "바지락숙회",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "짬뽕다시",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 바지락을 해감 시킵니다",
+		"2. 바지락을 삶습니다",
+		"3. 웍에 마늘 양파를 볶습니다",
+		"4. 해산물을 넣고 볶습니다",
+		"5. 물을 붓고 양념을 하고 물짜장소스를 만듭니다",
+		"6. 면을 삶아 그릇에 담습니다",
+		"7. 물짜장소스를 붓습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/2287203d4fe839acc9187d85f88cf1401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/ac095b0716dc95645f6b63ae70bb4cca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/784b319f3872f97850c95fed2fd745b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/16b1fa99877b1d05ae9bf484d1bb65591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/146940aee53e8b85030d123cfc6acb241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/f4c308b2a6942c598950fc79e47f7c991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/8b59d0f0c0c808ce393a5e6be6bf223a1.jpg"
+	]
+}

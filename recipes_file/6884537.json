@@ -1,0 +1,72 @@
+{
+	"id": "6884537",
+	"name": "우엉무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/25/ea45f097518f2e63c72bfacec0cfb1a71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6884537",
+	"ingredient_ids": [
+		26,
+		1005,
+		660,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "우엉",
+			"ingre_count": "2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "풋마늘",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "집간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술반"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 우엉 2뿌리 풋마늘1뿌리만 쓸거에요",
+		"2. 우엉이랑 풋마늘 손질하고요",
+		"3. 우엉은 어슷 쓸기로 하구요",
+		"4. 냄비에 물이 끓으면 우엉을 넣고 한번 끓으면 바로  채에 부어주세요",
+		"5. 풋마늘도 어슷 쓸기해서 준비 해두고",
+		"6. 양념 모두 넣고",
+		"7. 삶은 우엉 풋마늘 넣고 무쳐주면",
+		"8. 완성이네요",
+		"9. 풋마늘 넣고 콩나물도 무쳤어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/25/94d661e336b9fddc6406dd148ddd6b521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/25/dda4b5f3ef63c3edb9611e358554ef621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/25/5125aef521b5fa91e33a7fa6cee3eb8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/25/9d1fe08b6476ae8e86750457a90329511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/25/e86b60784e70c70082427248b47d6cdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/25/b1341af96e717d2301d8f352378dd78f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/25/6478cbcc32c33ddf3b424fcb301d308f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/25/f2df2648c0a889820f04ce4604207c9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/25/8d539d430e968fa44df7db62f0b83e471.jpg"
+	]
+}

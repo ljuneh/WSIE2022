@@ -1,0 +1,48 @@
+{
+	"id": "6900443",
+	"name": "5분 맥주안주!중독성 강한 '황태채 버터구이'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/20/a0cf3bd26c5d5eba8f17bc8c46fb6e681.jpg",
+	"url": "https://www.10000recipe.com/recipe/6900443",
+	"ingredient_ids": [
+		973,
+		198,
+		226
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "황태채",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 먼저 황태채를 먹기 좋은 사이즈로 가위를 사용해 잘라주세요",
+		"2. 달궈진 팬에 버터 2스푼을 녹여 줍니다스푼:성인숟가락 기준",
+		"3. 버터가 녹으면 손질한 황태채를 넣고 노릇하게 볶아주세요",
+		"4. 버터가 잘 베였다 싶으면 설탕을 넣어 살짝 더 볶아주시구요. 마지막으로 파슬리가루 솔솔 뿌려주시면 끝입니다^^파슬리가루 없으시면 빼셔도 되요",
+		"5. 5분 맥주안주 '황태채 버터구이'완성입니다.한개 먹어보니 정말 바삭하면서도 달콤고소하니 참 맛있어요. 한번 먹으면 멈출수 없는 중독성 강한 맥주안주에요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/20/61cdef5d1df574ef1da85b2c9ebdf7a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/20/4b02267a4d9d6b953f13bb6b6548e4191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/20/30264f89b159255e9e5400becaedcf381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/20/664ff1ec68ca90ad72d31e4e51927f521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/20/798a553f761ca4bdad944f170ee741261.jpg"
+	]
+}

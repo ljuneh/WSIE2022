@@ -1,0 +1,108 @@
+{
+	"id": "6889676",
+	"name": "자연산 농어를 이용해 끓인 맑은 국물요리 : 농어지리탕 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/0a297580f6fc687e85401ff2f5f290cc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6889676",
+	"ingredient_ids": [
+		815,
+		19,
+		55,
+		20,
+		47,
+		295,
+		362,
+		333,
+		497,
+		579,
+		233,
+		455
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "농어",
+			"ingre_count": "1/2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "디포리",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 야채손질하기 ① 팽이버섯은 밑둥을 자르고 물에 헹궈주세요, ② 콩나물도 물에 씻어주세요. ③ 청양고추는 어슷썰어주세요. ④ 미나리는 깨끗히 씻은 후 먹기좋은 길이로 잘라주세요.",
+		"2. 무는 나박 썰어주세요.",
+		"3. 나박썬 무와 디포리를 넣고 끓여 국물을 내주세요.",
+		"4. 손질된 농어는 먹기좋은 사이즈로 토막내주세요. *비늘과 지느러미 제거는 살때 해주셨어요",
+		"5. 끓이기 ① 손질한 농어와 다진마늘 1T, 생강가루 ½T, 후추를 넣고 끓여주세요. ② 멸치액젓 2T, 소금 ½T, 소주 약간 넣고 농어가 익을때 까지 끓여주세요.",
+		"6. 미나리를 뺀 나머지 야채들(팽이버섯, 콩나물, 청야고추)를 넣고 끓여주세요.",
+		"7. 미나리를 넣고 마무리 해주세요.",
+		"8. 시원하고 맑은 농어지리탕 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/d84ff1392aecc777283f922d759792e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/69d4d4d8dca3e14c623961b2f7996e521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/4f2d8411e79abb5dc78f7086dccbed6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/2bcba73b0aadce0d776bbe67933d51c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/880a8b7dab1bd1e0b9ceb51a85ab84901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/917b2321108dad780af72e88d7692b931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/2d5b80c3992b5a090b4fa9527a0a1baa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/63eab6edaf6bbcbc85ffd4aec29582b21.jpg"
+	]
+}

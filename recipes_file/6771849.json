@@ -1,0 +1,83 @@
+{
+	"id": "6771849",
+	"name": "두릅&엄나무순&오가피순 장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/d9ad9c728ae11f255cd2be4e488f40c01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6771849",
+	"ingredient_ids": [
+		49,
+		379,
+		1015,
+		226,
+		231,
+		579
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "두릅",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "엄나무순",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오가피순",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "집간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파액기스",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 장아찌를 담그기 위해 손질한 두릅이에요. 두릅에는 잔가시들이 많은거 아시죠. 많이 신경은 안쓰셔도 되는데요. 손질하면서 큰것만 제거해줬어요.",
+		"2. 오가피순과 엄나무순도 같이 장아찌를 담궈먹으면 맛이 괜찮아요.                   ",
+		"3. 끓는 물에 소금 1T를 넣고 두릅과 엄나무순 오가피순을 모두 살짝씩만 데쳐서 건져낼거에요.",
+		"4. 저희집의 경우는 이렇게 살짝 데쳐서 새파랗게 보이는 두릅과 엄나무순, 오가피순을 물기를 빼고 채방에 널어서 물기를 완전히 말려서 준비합니다.",
+		"5. 집간장 1컵, 간장 3컵, 육수 3컵, 설탕 1컵, 양파액기스 1컵 식초 2컵, 소주 1컵을 넣고 섞어줍니다. 양파액기스가 없으시면 매실액기스를 넣으셔도 돼요~",
+		"6. 통에 두릅, 엄나무순, 오가피순을 담고 간장을 부어 하루이틀 정도 실온에 누름통에 넣어두었다가 간장만 따라내어 끓여 식힌 후 다시 부어주세요. 이과정을 두세번 반복해주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/f87f9c067f81664f963775ee968989e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/9c6762ba754d628295c0312bd1adca941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/2c34d688a49280bbd2e0bfb7f850441a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/3c2031dd55a70ed9a800cf1719a661641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/b036c4ecd2d85f4120724f85ec80d2131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/d4b8e91a701c340e37d3c280554ea0831.jpg"
+	]
+}

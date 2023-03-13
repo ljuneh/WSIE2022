@@ -1,0 +1,87 @@
+{
+	"id": "6940275",
+	"name": "한 입 주먹밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/bc921eebade5be5f6080ab8491e9fb221.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940275",
+	"ingredient_ids": [
+		9,
+		34,
+		953,
+		966,
+		497,
+		938,
+		660,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/5",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "4~5조각",
+			"ingre_unit": "~조각"
+		},
+		{
+			"ingre_name": "조미김",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3~4꼬집",
+			"ingre_unit": "~꼬집"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 저는 당근채와 계란을 각각 기름을 두르고 볶았어요. (여기에 당근대신 어떤 야채를 추가하셔도 되고, 바꾸셔도 괜찮아요.) 그리고 밥과 당근채, 계란을 넣고 소금 3꼬집, 참기름 1t, 매실액 1t, 깨소금 1t를 넣고 비벼주세요.",
+		"2. 김치는 물기를 짜주시고 먹기 좋은 크기로 잘라 두시고,  고추도 너무 크지 않게 잘라주세요. (고추대신 파프리카, 오이 등 원하는 것으로 하셔도 되고 추가를 하셔도 되요.)",
+		"3. 밥 한숟갈 정도의 양을 손에 뭉쳐 살짝 펴주시고",
+		"4. 그 위에 김치, 고추 순으로 올려주세요. (물기가 좀 더있는 순으로 올리시면 되는데, 물기가 있는 재료가 마지막에 올라오면 김이 젖을 수 있어요)",
+		"5. 마지막으로 조미김 한 장을 올려서",
+		"6. 조미김 양끝이 밥에 붙도록 꼭 쥐어 주시면 한 입 주먹밥 완성입니다~",
+		"7. 간단하면서 든든한 한끼로 건강하세요~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/cf920e996e651f269427817d91f22bfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/9b238740a4b29c2cd184fc9b720ab6c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/43f1ad20b02a5212146568380a9756cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/acd0b867c3df5eccf22d7e38901cb5cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/83b65449675bff2e54e422733e66d7561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/3ccf1b248a3b5a1766bf3b12883d7a1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/be7318266d0043b3068054a7d0d300b51.jpg"
+	]
+}

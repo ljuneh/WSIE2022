@@ -1,0 +1,79 @@
+{
+	"id": "6942747",
+	"name": "수육, 보쌈,(돼지 수육 삶기) 정말쉬운 수육 삶기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/d69484a19bbad31a677833668a93dc6d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942747",
+	"ingredient_ids": [
+		487,
+		29,
+		28,
+		3,
+		349,
+		608,
+		27,
+		579
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "1.",
+			"ingre_unit": ".키로"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장밥숟갈크게",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "12/1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "2/1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기는 깨끗이 씻어서 큰 냄비에 넣고 고기가 물에 잠기게 물을 채운다센불뚜껑을 열고 삶는다",
+		"2. 1시간정도 계속 삶는다센불에서 중불 사이뚜껑은 계속 열고 삶는다",
+		"3. 다 익은 고기 건져서 얇게 썰어준다뜨거우니 목장갑이나 고무장갑 끼고 일회용장갑을 끼고 자른다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/65e0cd0f4ce4979272a73dcc4da5ec901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/1c101f1fcde131b8dda6e6b4acfefa611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/385d7611e396ac78334b417b3f5b32fc1.jpg"
+	]
+}

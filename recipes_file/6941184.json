@@ -1,0 +1,74 @@
+{
+	"id": "6941184",
+	"name": "두부라따뚜이:다이어터의 야식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/2241c538bf1361323a39354bdaae1c941.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941184",
+	"ingredient_ids": [
+		323,
+		18,
+		7,
+		732,
+		497,
+		212,
+		275
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토소스",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "그라나파다노치즈",
+			"ingre_count": "",
+			"ingre_unit": "선택"
+		}
+	],
+	"recipe": [
+		"1. 물 뺀 두부와 가지,애호박은 얇게 썬다두부는 냉장고에 둘 때 미리 물빼는 작업을 해두면 편해요. 아님 전자렌지에 슬쩍 돌려주세요.",
+		"2. 접시에 토마토소스를 적당히 담는다.",
+		"3. 두부와 채소를 차례로 번갈아 담는다",
+		"4. 소금,후추, 모짜렐라치즈를 뿌린다. *치즈가 헤비하다 싶으면 생략해도 돼요. 전 뿌린동만동 조금 뿌려주었어요",
+		"5. 에어프라이어 200도 15분정도 돌린다에어프라이어",
+		"6. 깻잎과 그라나파다노치즈를 뿌려주었어요. 다른 허브나 치즈로 대체가능해요.  *깻잎은 꼭 안 넣어도 되지만 야식이라도 익힌채소 생채소를 함께 먹으려는 노력의 일환이지요;;"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/fbaa9602a6b3653385c0b904338af6f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/e1c7f3c578fa3cdf48be4cfbaf32f4901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/69b6eede1f7a4508b254514d4cff85731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/0dafc5b013ebdfcc1e256029b46af05b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/0e20bc0da68bc3fec8ba051e1453ef531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/a53ddca82d7fc46d1779f16251421f3a1.jpg"
+	]
+}

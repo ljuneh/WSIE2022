@@ -1,0 +1,92 @@
+{
+	"id": "1047221",
+	"name": "삼치조림 만드는 방법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/ea08dd10f1fd2775ffe81cba75a365cd.jpg",
+	"url": "https://www.10000recipe.com/recipe/1047221",
+	"ingredient_ids": [
+		643,
+		27,
+		224,
+		233,
+		226,
+		458,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삼치(중간크기)",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "붉은고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "물1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "맛술(청주)",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 장만해온 삼치는 깨끗히 씻어 냄비에 담아놓아요.",
+		"2. 물, 진간장, 고춧가루, 생강즙, 맛술, 설탕을 모두 다 섞어서 생선이 있는 냄비에 붓고 끓이기 시작합니다.",
+		"3. 처음에는 센 불에 냄비 뚜껑에서 김이 모락모락 나며 끓기 시작하면 불을 확~ 줄여 중약불에서 10분간 끓여주다가 뚜껑을 열고 풋고추와 붉은 고추를 넣어줍니다.",
+		"4. 이때부터는 뚜껑을 열고 계속 아랫쪽의 국물을 생선 위에 부어가며 졸여주세요. 불은 가장 약하게 줄여놓으시고요.",
+		"5. 국물이 잘박잘박해지면 마지막으로 대파를 어슷썰어 넣고..후춧가루 뿌리고 살짝만 더 끓여주면 완성입니다. 국물이 있어야 맛있어요. 너무 졸아들었으며 뜨거운 물을 조금만 더 넣고 끓여 국물이 있도록 해줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/d42d4dc22300fc7f8ec4be2c7e102b741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/550fb6636d962847fa443850d42749e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/aebacc13d9f17b2c1b93099c7d2724791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/b327b43cf0964124a96ee5e86f27ae5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/672d59bca6be1780182b60b19f2d3c561.jpg"
+	]
+}

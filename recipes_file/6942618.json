@@ -1,0 +1,77 @@
+{
+	"id": "6942618",
+	"name": "뒷다리살 묵은지찜..",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/ea3dae69de54b8dba8b834683a041de21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942618",
+	"ingredient_ids": [
+		923,
+		327,
+		224,
+		665,
+		226,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "1",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "뒷다리살",
+			"ingre_count": "1",
+			"ingre_unit": "근"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "자박하게"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 우선 전골냄비에 묵은지 한포기를 반으로 잘라줍니다.",
+		"2. 뒷다리살은 찜용으로 썰어왔어요. 김치 위에 올려주세요~비계가 싫어서 뒷다리살로 했지만 목살이나 앞다리살, 사태등 좋아하시는 부위로 하시면 됩니다.",
+		"3. 여기에 들기름 1큰술 빙 둘러 넣어주고..",
+		"4. 고춧가루 2큰술도 골고루 뿌려줍니다.",
+		"5. 참치액 2큰술도 넣어주고요. 설탕 1큰술도 넣어줍니다.묵은지가 너무 실땐 설탕을 넣어 신맛을 중화시켜 주면 됩니다. ",
+		"6. 물 자박하게 넣어주고 끓여줍니다.",
+		"7. 중간중간 섞어주고 국물도 끼얹어 가며 중불에서 고기가 익고 김치가 무를동안 끓여주면 됩니다. 중불에서 끓이다 고기가 익으면 중약불에서 천천히 뭉글하게 끓여주세요~",
+		"8. 마지막 먹어보고 다시다 1티스푼 넣어 간을 해주면 뒷다리살 묵은지찜 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/c348b4faa6f54e91cf396bdb97fbc9151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/75430667be0319ff263bc41187649db91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/07c25f1afc8ff7514d65c0a71ba720af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/170f67897cd12e8f3fef1907fcda98111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/04e5ba9815087ce4012882abc092c3f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/cf59de4d03a5cf991d0f279c1a4da3341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/9ed902d22459647a9310ec5552308f911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/42e65809621cf33bf6377f3e9b9a78911.jpg"
+	]
+}

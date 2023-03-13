@@ -1,0 +1,38 @@
+{
+	"id": "6945585",
+	"name": "달콤한 찹쌀호떡",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/eca1ceed10d732e65d86e7ea9ed132661.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945585",
+	"ingredient_ids": [
+		641
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "호떡믹스",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "부침용카놀라유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 시판용 호떡 믹스를 구입하시면 호떡 믹스, 잼믹스, 이스트 등 3개가 들어 있어요.",
+		"2. 볼에 이스트 한 봉지에 뜨거운 물 180 ml 를 넣어줍니다. 물 온도는 40~45도인데요. 찬물과 끓는 물을 섞어서 사용하면 편해요. 이스트와 뜨거운 물을 잘 섞은 다음 호떡용 믹스 가루를 넣어줍니다.",
+		"3. 스푼이나 주걱으로 먼저 섞어준 후 5~10분 정도 손으로 반죽을 해줍니다.",
+		"4. 잼믹스를 그릇에 담고 비닐 장갑을 껴 1개 분량의 반죽을 떼어서 오목하게 만든 후 잼믹스를 넣어 오므립니다.                    ",
+		"5. 팬을 달군 다음 기름을 넉넉히 두르고 호떡 반죽을 넣고 호떡 누르개로 눌러줍니다.                   ",
+		"6. 노릇하게 앞뒤로 구워주면 되지요. 약 7개 정도 나옵니다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/fee4eb8c509eb8a4626575f35b9f419b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/dc65c8c021b2e970f99ac803fe1c5bb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/d4f4ea2abe2faec54333d3e4e7145b2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/89e034f1df0762217156b1ab569db7a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/172219e3c6a6bb7f29f2f8bd466eb3ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/ec4aea6f4e74d257a0788aeb601445541.jpg"
+	]
+}

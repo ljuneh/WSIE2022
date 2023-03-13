@@ -1,0 +1,56 @@
+{
+	"id": "6909464",
+	"name": "탕후루",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/f8cf5941fffd9e04b1107153a03b81561.jpg",
+	"url": "https://www.10000recipe.com/recipe/6909464",
+	"ingredient_ids": [
+		226,
+		155,
+		995,
+		341
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "딸기",
+			"ingre_count": "12~15개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 딸기를 깨끗히 씻은 후 물기가 없도록 닦아준다. 꼭지는 절대 떼지 않는다.",
+		"2. 냄비에 설탕 200g을 넣는다. 넣은 뒤 냄비를 흔들어 평평하게 펴준다.",
+		"3. 물 100g을 넣어준다.(젓지 말고 설탕이 퍼질때까지 기다린다.) 그 후 물엿 2스푼을 넣어준다.(마찬가지로 젓지 않는다)",
+		"4. 냄비를 중약불에 끓인다.",
+		"5. 젓지 않고 계속 끓이면 가에부터 거품이 끓어오른다.",
+		"6. 설탕이 전체적으로 걸쭉하게 끓기 시작하면 숟가락으로 약간 떠서 차가운 물에 떨어뜨려본다.",
+		"7. 차가운 물에 떨어뜨리고 잠시 기다렸을 때 딱딱하게 응고된다면 준비완료.이 상태까지 끓이는데 약 18분가량 걸린다. 응고된 설탕을 세게 눌렀을 때 뚝뚝 소리가 나며 부숴진다면 완료",
+		"8. 준비해둔 딸기를 설탕에 푹 담근다.(딸기의 하얀부분 직전까지 담글것)중간중간에 설탕이 굳는다면 약불에 약간 끓여준다.",
+		"9. 종이호일에 얹고 서늘한곳에서 2~30분간 식혀준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/ff003347d1c60ebc4399f397d46c19631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/b3338f97ff880627eb09b4576e8bdc471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/a9b3a25798438461049e44a99067097e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/f9b687b95d2e4f27d5c9b795bda341d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/56be28631e42573f5f2c8633749fb5451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/5f7670f070e76330411bbe13247d1a401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/51d29aeb646a97ed09ca5938110836571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/03df0ff18614bf9d8b8e8ca1cb02b7081.jpg"
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"id": "6940872",
+	"name": "고추참치 볶음밥 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/b2eff8d6a6ab9258b12a5153c3d07c7d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940872",
+	"ingredient_ids": [
+		3,
+		473,
+		224,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "고추참치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "모차렐라치즈",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 양파 1/4개를 다져 주고",
+		"2. 냄비에 양념 재료인 고추장(1), 설탕(0.5), 고춧가루(0.5), 케첩(1)을 한데 넣고",
+		"3. 다져 놓은 양파, 고추참치 1캔을 붓고 ",
+		"4. 고루 볶아 주고 (타지 않게 중약 불로~) ",
+		"5. 여기에 밥 1공기를 넣어 밥과 양념이 잘 섞이도록 볶아주세요. ",
+		"6. 볶아 놓은 밥은 고루 펴 주고 여기에 모차렐라 치즈를 고루 올려 덮어주고 불을 약불로 줄이고 뚜껑을 덮어 치즈를 녹여 주면 된답니다.",
+		"7. 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/cad5e0e311a5ea73d81cea20d2b2c3241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/ef9e0f55c49d3221a620842ab2bce9c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/9a423e9777d455d74a1f576b4be97a5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/e3b5e028425d7d3bff8546004e39a51b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/0618a40fd8ac8b5131feb117d687ce7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/4008c3df5a84caf6942d9c4d4ff2db241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/7cfd1fb63cd51d6509ca61522894c3ae1.jpg"
+	]
+}

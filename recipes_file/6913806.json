@@ -1,0 +1,59 @@
+{
+	"id": "6913806",
+	"name": "♥[신혼밥상] 닭가슴살양배추말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/06/16/943ecafd5e928849983cb52d8273e5021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6913806",
+	"ingredient_ids": [
+		772,
+		21,
+		9,
+		8,
+		515
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살통조림",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/4",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "칠리소스",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 양배추, 당근, 오이를 깨끗하게 씻어주세요.파프리카나 양배추를 채썰어 사용해도 좋아요.  즐겨먹는 야채 듬뿍듬뿍!",
+		"2. 양배추가 너무 흐물흐물 거리지 않도록  약 7분~10분정도 쪄줍니다.아삭함이 조금 사라질 만큼 돌돌 잘 말릴 정도로만 찌기!",
+		"3. 양배추가 익는동안 오이랑 당근은 채를 썰어 준비.",
+		"4. 먹을 수 있는 만큼 양배추 잎을 한장한장 떼어주세요.남은 양배추는 된장에 밥이랑 싸드셔도 좋아요.  일명 양배추쌈밥 추천!",
+		"5. 양배추 잎에 오이, 당근, 닭가슴살을 올려 돌돌돌 말아주세요.",
+		"6. 먹기 좋은 크기로 잘라주세요.",
+		"7. 요즘은 양배추가 달아서 그냥 드셔도 좋겠지만,  야채만 먹기 거북하다면 칠리소스에 살짝 찍어 냠냠! 모두 건강한 S라인 만들기 성공하세요 ♡~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/250e12ff18d73aa0fb4ad224de6c1dd01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/9dfec72fba38da1bca35f06a1c44ffda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/3c291759502b4b5e7791e66f66e51b691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/2e5a1252f3cf29d4eed276212632ccd51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/d4b301a565c959d3c2f5e1fa85de85241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/35eb55f2812fd65a158e130dd84e95531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/dbeca1cf6a8f79f430996405863ce4bf1.jpg"
+	]
+}

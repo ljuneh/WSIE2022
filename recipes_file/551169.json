@@ -1,0 +1,94 @@
+{
+	"id": "551169",
+	"name": "돈나물과 함께 먹는 연어간장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/04/f8a3993cc971dcb9ef1084605fcdb624.jpg",
+	"url": "https://www.10000recipe.com/recipe/551169",
+	"ingredient_ids": [
+		58,
+		11,
+		556,
+		845,
+		618,
+		292,
+		478
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "연어포(슬라이스)",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "송이"
+		},
+		{
+			"ingre_name": "편생강",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "돈나물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "춘권피",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "파흰부분",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "초고추장",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "정종",
+			"ingre_count": "0.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "0.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 연어포는 냉장실에서 해동해서 꺼내 한번 씻어놓고 새송이와 생강은 편으로 썰어놓았어요.",
+		"2. 냄비 바닥에 새송이버섯을 깔고 그 위에 연어포를 올리고 생강편과 아라니소스(진간장 0.5컵, 정종 0.8컵, 맛술 0.8컵, 흑설탕 2큰술)와 물 1/2컵을 부었어요. 일식 아라니소스에는 색을 진하게 내주는 카라멜소스도 들어가는데요 없어서 생략했답니다.",
+		"3. 센 불에서 끓이다 끓기 시작하면 중불에서 끓이는데요. 중간중간 거품을 걷어가며 끓여줍니다.",
+		"4. 국물이 졸아들고 자작자작해지면 브로컬리를 잘라 넣고 국물을 계속 생선에 끼얹어가며 졸여줍니다. 끈적한 국물이 어느 정도 남아있을 때 불을 꺼주면 됩니다.",
+		"5. 생선을 올릴 접시에 돈나물을 씻어 야채탈수기에서 물기를 싹 빼고 춘권피는 가위로 가늘게 잘라 후라이팬에 기름을 넉넉하게 두르고 튀겨줍니다. 춘권피를 튀겨놓으면 굉장히 바삭바삭 식감이 좋아요.",
+		"6. 가운데 연어조림을 올리고 대파를 파채칼로 길쭉하고 가늘게 썰어위에 올리면 파의 향기가 솔솔나면서 별미랍니다. 돈나물과 춘권피 튀긴 곳에는 초고추장을 살짝 뿌려주었지요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/9f7d34e181072c12c2455a5d9a257ee71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/4d1aa38124c66c2b9283b140209428d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/82ccfa01d1376977e5bf1bfbf7751a831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/dcab15fb08d50b49b51eadda61a0ad711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/5f538f4fec35cb606f5170d83cd1d5711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/b103c11a099496610331b2f37a868cb41.jpg"
+	]
+}

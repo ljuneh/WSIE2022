@@ -1,0 +1,68 @@
+{
+	"id": "6695902",
+	"name": "등갈비김치찜 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/089f164fdbe245f1d7219e072d6fe72a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6695902",
+	"ingredient_ids": [
+		398,
+		233,
+		292,
+		27,
+		995
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "등갈비",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "배추김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "김칫국물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "홍고추(or청양고추)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 등갈비 500g 하니까 10쪽정도 되더라고요. 등갈비는 1시간정도 찬물에 담궈 핏물을 제거하고~ 먹기 좋게 썰어서 준비해 주세요.",
+		"2. 김치 위에 등갈비를 올리고, 김칫국물 200ml, 맛술 2큰술, 다진마늘 1큰술을 넣어준 뒤 물 600ml를 넣어주세요. 뚜껑을 닫고 센불에서 한번 끓어오르면 약불로 줄여서 30분정도 푹~ 끓여주세요. 김치가 푹~ 익어야 맛있어요. 국물이 너무 쫄지 않도록 보시는것도 잊지마세요.",
+		"3. 30분 푹~ 끓이는 동안 등갈비에 김치양념이 베이도록 앞뒤로 뒤적여 주세요.",
+		"4. 대파와 홍고추를 썰어서 다 익을때쯤 넣어 주시면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/1a643fc3b5a76f9441db3b51600e2aa41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/e4f8c04092ca9a7e1c7214f7b9d3c8f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/6c0215ca388e592e208680a0fa8b80251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/11991d79b2db6becffc0a1c6583e86061.jpg"
+	]
+}

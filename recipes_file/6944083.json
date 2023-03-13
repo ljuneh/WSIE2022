@@ -1,0 +1,37 @@
+{
+	"id": "6944083",
+	"name": "치즈 스크램블 에그 초간단 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/0f1e0d235205d0519edc85075c7a88ab1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944083",
+	"ingredient_ids": [
+		219,
+		214
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 팬에 식용유를 두르고 예열한 후 달걀을 풀어줍니다",
+		"2. 달걀을 익히다가 휘저어 주세요",
+		"3. 슬라이스 치즈를 두개 넣고",
+		"4. 뒤집개로 섞어줍니다",
+		"5. 치즈가 달걀 속으로 녹도록 뒤집개로 여러번 섞어서 팬이 눌러붙을때까지 익혀주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/00d2954bc535529d9e2013b83b1a349e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/00acac1eb2799ba9da955b339d59e9f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b1001f48c3e12b463f4973d60d9da3281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/4fa5de241b764d56ec653ed00048dbd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/153602a7b4ed9a8d0fb86cfc516620e11.jpg"
+	]
+}

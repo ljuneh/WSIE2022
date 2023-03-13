@@ -1,0 +1,60 @@
+{
+	"id": "6857144",
+	"name": "[간단 자취요리] 휴게소 안가도 돼! 알감자 버터구이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/e733650b94285b17a5df2a0bfbf087421.jpg",
+	"url": "https://www.10000recipe.com/recipe/6857144",
+	"ingredient_ids": [
+		497,
+		198,
+		497,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자(알감자)3~4개(10개~12개)",
+			"ingre_count": "3~4개(10개~12개)",
+			"ingre_unit": "~개(개~개)"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다.감자, 소금, 버터, 설탕",
+		"2. 우선 감자의 껍질을 벗겨줍니다.",
+		"3. 감자를 한입 크기로 썰어줍니다. 알감자 쓰실 분들은 생략하셔도 돼요.",
+		"4. 이번에는 돌려깎기를 보여드릴게요. 감자의 모서리를 돌려가면서 깎아주시면 됩니다.닭볶음탕이나 조림류 할 때도 유용합니다. 보기도 좋지만 요리할 때 국물이 탁해지는 걸 막아줘요.",
+		"5. 이제 물에 소금을 넣고 감자를 삶아줍니다.",
+		"6. 잠시 냉장/냉동실에서 겉을 식혀주세요.볶을 때 부서짐 방지!",
+		"7. 버터를 녹인 후, 소금, 설탕을 녹여줍니다.약불",
+		"8. 감자를 굴리면서 골고루 구워줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/f0ad0deaac67c1dd98f1b89fb256f4f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/d9f859823b5aca075e06541e7ed28b9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/35e352047f72ac37f37d9ec9642941461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/da32a892e4c69e54cf7624d63b052a8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/0f17302403eed2de27112419e30a11ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/6d3c16622e76652b428359776e4e39381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/d1b40f31507ab56e0a5b1b960c28d0941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/f53b771dad39c4e2cd8102111716e4a51.jpg"
+	]
+}

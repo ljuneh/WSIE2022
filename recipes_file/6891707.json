@@ -1,0 +1,79 @@
+{
+	"id": "6891707",
+	"name": "음식점보다 맛있는 닭백숙 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/29/28d617158cd569ea98414933734dbc921.jpg",
+	"url": "https://www.10000recipe.com/recipe/6891707",
+	"ingredient_ids": [
+		944,
+		497,
+		99,
+		9
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "산닭(혹은토종닭)",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "마늘큰걸로",
+			"ingre_count": "40",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "황기",
+			"ingre_count": "2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "수삼",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리브잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 산 닭의 안쪽 뼈 부분을 깨끗하게 씻는다. 찬물에 15분 정도 담가둔다 닭을 배가 위쪽으로 오도록 뒤집은 뒤, 안쪽에 삼 1뿌리, 마늘 12개, 황기 1 뿌리, 파 흰 부분을 넣고 소금 반 큰 술을 뿌린다",
+		"2. 닭을 그대로 뒤집은 뒤, 등쪽 부분을 재외한 나머지 부분은 물로 채운다. 나머지 마늘과 황기 1 뿌리는 물쪽에 넣는다 (올리브 잎이 있으면 올리브잎도 이때) 등쪽에 후추를 뿌린 뒤, 파의 파란 부분을 등위에 올린다",
+		"3. 20 분 정도 지난 뒤, 우려 낸 육수를 1-2 분 간 등쪽에 여러차례 반복적으로 뿌려 준다. 파는 계속 등쪽에 있도록 조정한다. 그대로 40분이 지나면 가슴살과다리살의 맛을 본다 익었으면 멈추고, 안 익었으면 20-30분 더 끓여준다 (이때 소금으로 나머지 간도 맞춘다)",
+		"4. 닭죽을 먹고 싶으면, 안의 내용물과 기름을 걸러 낸 뒤, 불린 찹쌀 (불리기 전에 밥 한 공기 양)과 잘게 자른 당근과 가슴살을 넣고 15분 간 끓여 준다 (바닥에 늘어 붙지 않도록 바닥을 잘 긁어 주세요)",
+		"5. 닭을 접시에 건저낸 뒤, 육수를 세 국자 정도 닭 위에 골고루 뿌려준다 (매우 중요한 작업입니다.) 접시채 상에 올리면 완성~ 닭을 거의 다 먹을 때 쯤,  닭 죽 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/29/5e1bf170701a3dd212fc11f2ddc3527b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/29/3d3a096e81449afac0998d4d541bfdd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/29/ae4df09ef5172d3b8105ce7ad5e1992e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/29/ad183be3bf26be176af2a124aafb0c7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/29/3829366b258a4e8b96bc6042af2a0ae21.jpg"
+	]
+}

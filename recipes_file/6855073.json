@@ -1,0 +1,55 @@
+{
+	"id": "6855073",
+	"name": "[오징어채요리]맥주안주로 좋은 오징어채 버터구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/06726be2dffba2a848cd1775a82e465b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6855073",
+	"ingredient_ids": [
+		198,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어채",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1~2스푼",
+			"ingre_unit": "~스푼"
+		},
+		{
+			"ingre_name": "파슬리가루(없으면패스)",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 재료:오징어채 2줌, 버터3스푼,설탕1스푼~2스푼,파슬리가루조금(없으면패스)",
+		"2. 오징어채 2줌정도를 준비해서 먹기 좋게 가위로 잘라줍니다.",
+		"3. 잘라준 오징어채를 물에 1번 헹구어 준뒤 물기를 꼬옥 짜주세요 여기서 물기를 꼬옥 안짜면 나중에 버터에 볶을때 기름이 마구 튄답니다.",
+		"4.  후라이팬을 준비한뒤 버터3스푼을 넣고 버터가 어느정도 녹기 시작하면,",
+		"5. 오징어채를 넣고 버터가 스며들도록 볶아줍니다.",
+		"6. 여기에 설탕을 1스푼~2스푼 넣어주세요 한개 먹어봐서 달달하게 드시고 싶으시다면 2스푼정도 넣으시면 됩니다. 저는 1스푼넣었어요^^",
+		"7. 설탕이 녹고 1분정도 더 볶아주세요.",
+		"8. 그릇에 옮겨 담은후 멋을 위해 파슬리 가루를 뿌려줍니다. 없으면 패스!",
+		"9. 오징어채로 만든 버터구이 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/40d7462139581f99163881c1e489619f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/b692cd954859caa29f48e632f7f74d9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/7e79edd6ac8ea095513aec4c001699541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/a4e31c295c84414e9fa127d9c0e6905d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/8d9a4b53199aa885ece8d8eed54ed4e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/5f5446583e4a08f251f9a75c05a73c291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/1fd5537c78b5063f376d51a0a70ba3fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/65b244bc628a7cacda66fa6cefbdc01e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/22/4bffe6b76db1de99b7e3ba5eb44696e21.jpg"
+	]
+}

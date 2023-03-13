@@ -1,0 +1,55 @@
+{
+	"id": "6838698",
+	"name": "간단한 보쌈 · 보쌈고기 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/25/54b307ba9b4670d097ab34c27e4006e51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838698",
+	"ingredient_ids": [
+		119,
+		848,
+		27,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기앞다리",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "커피",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 앞다리살을 뺀 나머지 재료들을 냄비에 넣고 물은 냄비의 2/3를 채워주신 후 끓여주세요.",
+		"2. 물이 끓기 시작하면 고기를 넣어주세요. (잘 익히시려면 칼집을 조금씩 내주세요.)",
+		"3. 핏기가 없어질 때 까지 익혀서 완성해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/25/e1b94e1f593bb6fc2617f0908cc0cacd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/25/4a342bdce3305faef862f357e05dc7f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/25/626caa781f16fc34d527554bc57971e11.jpg"
+	]
+}

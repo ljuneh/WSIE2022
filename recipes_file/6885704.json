@@ -1,0 +1,69 @@
+{
+	"id": "6885704",
+	"name": "닭가슴살 치킨(콜팝)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/3aa7396afd663770899aa6af6c02c7a81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6885704",
+	"ingredient_ids": [
+		300,
+		379,
+		473,
+		226,
+		233,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 닭가슴살을 깍뚝썰기 해주세요  카레.파슬리.소금.후추 뿌려주세요",
+		"2. 이제 쭈물쭈물 해서 10분간 냉장고 숙성 시켜주세요",
+		"3. 숙성이 끝나면 계란 흰자 밀가루 1 전분 3큰술넣어  주세요",
+		"4. 쪼물쪼물 반죽 해주세요",
+		"5. 하나씩 조심히 넣어 튀겨주세요 한김 식힌뒤  한번 더 튀겨주셔야 바삭 바삭해져요",
+		"6. 기름 빼주시고 접시에 담아주시면 완성 이예요",
+		"7. 냄비에 고추장2 간장1 설탕2 다진마늘1 올리고당2 간양파1 넣고 쫄여주세요  간 보시고 취향에 따라 케첩ㆍ올리고당 더 첨가 하셔서 입맛에 맞춰주세요",
+		"8. 후리이드반ㆍ양념반 완성 입니다",
+		"9. 일회용 테이크아웃컵을 이용해 콜팝 (콜라.치킨) 만들었어요 아이들이 너무 좋아하네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/bb4043412e674e48890ec9dfe89b64bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/a2cbc01a0510aea7038f1a1ede2bce321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/93f0fd5e392c7821d77d75c1c6eb74531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/84bc87af5e5336a22776213ad9f1dbf11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/45ddf753d7b4fe7a5327310a93a805631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/8969f7c8ce890a116f08451158db44ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/fef29f559b77292e42360b3437445f201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/cc82a8bf6f1e4cbe52ffa3937127c54a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/35a83f9a4f93d090eaeaa56335c656671.jpg"
+	]
+}

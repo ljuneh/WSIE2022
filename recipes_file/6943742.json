@@ -1,0 +1,101 @@
+{
+	"id": "6943742",
+	"name": "문어삶는법/문어손질법/문어숙회삶는법/문어숙회소스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/a657c44154957de3eee5fc552df4aa401.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943742",
+	"ingredient_ids": [
+		77,
+		234,
+		19,
+		660,
+		497,
+		233,
+		225,
+		845,
+		577
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "문어",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "초고추장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "와사비",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 통영에서 활문어를 배송받았는데 오는중에 죽어서 손질하기엔 오히려 편했다",
+		"2. 문어손질법을 소개한다 먼저 문어를 깨끗이 씻어준다",
+		"3. 문어 머리 뒤쪽에 가위로 내장,눈,입을 제거해준다",
+		"4. 문어를 밀가루나 굵은소금을 이용해서 박박 문지르며 세척해준다 문어를 2~3번 씻어주었다",
+		"5. 이제 문어삶는법을 소개한다",
+		"6. 큰 냄비에 물을 넣고 무1/5 정도를 잘라서 넣어준다",
+		"7. 물이 끓으면 문어를 다리부터 넣었다 뺐다를 반복한다",
+		"8. 그 다음 몸통까지 넣고 10~15분 더 삶아준다",
+		"9. 문어를 다 삶으면 차가운 물에 문어를 담가준다",
+		"10. 삶은 문어로 문어숙회를 만들어보자",
+		"11. 문어 다리 뒤쪽 얇은 막을 제거해준다",
+		"12. 문어를 차가운 상태로 썰어야 얇게 썰어진다",
+		"13. 문어숙회 완성입니다~",
+		"14. 문어숙회 소스도 만들어 보았어요 참기름2T,소금1T,다진마늘1T,후춧가루를 섞어줍니다 문어숙회를 기름장에 찍어먹으면 고소하고 맛있어요~~",
+		"15. 문어숙회를 초고추장이나 초간장에 찍어먹어도 꿀맛이에요",
+		"16. 쫄깃하면서 연하고 맛있는 문어숙회~ 정말 맛있었어요>< 보양식으로 으뜸인 문어 손질법 배워보세요~*"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/1beca84000f01ddacc361f13fb5437fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/f2d8b541d0013f09ca02df3bdd97e34f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/994b0be807d9efc2e99eeb567512332c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/30cee80b755c52d9932c4d97ce389cb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/84222ab49bcd77ca12ede5bdc6157d9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/598d80f2f04447b940d10d6f381a495c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/af189d072594d6ea34491011a3b563791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/1b25f64a886b1b7aed75f7936e4b94751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/230da21c0e4f33a7c20e2dccd1209d321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/8f868e0d5f949314397b7b5cba5367741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/2ca687204e653a8e40fb0d75cf7ce6b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/1c1e6fa92a5483d8c201924e641676031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/1df6d561dc28ae383753ac39590bc2c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/2f5c8f4036cc29fc7480533c25435c751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/7a3e24eee6bb98277e2ac6719621fa841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/f1e5cb2d12089b8fddd7c78ea400406c1.jpg"
+	]
+}

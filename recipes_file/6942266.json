@@ -1,0 +1,63 @@
+{
+	"id": "6942266",
+	"name": "고구마줄기 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/5b7e10fb5cb7cf5320a9af629ebd1f271.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942266",
+	"ingredient_ids": [
+		801,
+		327,
+		337,
+		540,
+		29,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마줄기",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꽃소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 고구마줄기는 굵은소금을 살짝 녹인 물에 2~3시간 담궈놓아요. 살짝 절여지면 껍질 벗기기가 수월해요.",
+		"2. 껍딜을 벗긴 고구마줄기를 끓는 물에 넣고 5분 정도 삶아줍니다. 삶을 때 소금을 반스푼 넣으면 색감이 예뻐요.",
+		"3. 살캉하게 삶은 고구마줄기는 찬물에서 깨끗이 씻어 건진 후 먹기좋은 크기로 썰어요.",
+		"4. 팬에 고구마줄기와 물반컵, 마늘1, 꽃소금1/3을 넣고 뚜껑을 닫고 강불에서 7~8분 익힙니다.",
+		"5. 물이 졸면 들깨가루2와 들기름1을 넣고 중불이하에서 1~2분 볶아주면 완성입니다.",
+		"6. 따뜻해도 맛있고 차게 먹어도 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/d185b1e20a8f20253c2738a31fee7a7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/201dfe51a7d28f5b2899de3049093ea11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/3f59daaba58cb074bbe3f569637b0a6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/67d31dc878ee7614f46e418539a035411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/178b60875946dd5d36ff078a3bc7d7d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/a43a04afc5e7662fb18b838e964b23cd1.jpg"
+	]
+}

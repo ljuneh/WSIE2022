@@ -1,0 +1,85 @@
+{
+	"id": "2907624",
+	"name": "잔멸치 무우 조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/0a3166380f2d422e9fca7449d962b0ae.jpg",
+	"url": "https://www.10000recipe.com/recipe/2907624",
+	"ingredient_ids": [
+		320,
+		27,
+		379,
+		592,
+		995,
+		341,
+		226,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "무작은거",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "청량고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "10",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파즙",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 무우는 껍질벗기고 적당히 썰어줍니다.",
+		"2. 청량고추와 대파를 준비합니다.",
+		"3. 간장 10, 양파즙 1봉, 물 한컵, 마늘, 청주, 생강즙, 물엿 2, 설탕 1,고추가루 3을 섞어 조림장을 만듭니다.",
+		"4. 냄비에 무우올리고 멸치를 넣어주세요.",
+		"5. 준비된 양념장 붓고 보글보글 끓이시기만 하면 끝.",
+		"6. 센불에서 끓이다가 중불로 끓인후 약불로 줄여 은근히 졸여주심 됩니다. 마지막으로 참기름과 대파 청량고추를 넣고 불을 끄시면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/123fe60437c8ac7a65a9903e255f324c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/b8ad6db4b3f542cbaf93241dc21368f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/d5f45a26e49557ed24ea9e966892cec01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/c62b926445785a5e8c6eaa0d8e1059a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/09ae54d5fd4a0199e193bd3cbe9ab02b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/1b57147c40306324ecd7ddbe330a97bb1.jpg"
+	]
+}

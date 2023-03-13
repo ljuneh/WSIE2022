@@ -1,0 +1,51 @@
+{
+	"id": "6944029",
+	"name": "오이피클 만들기, 비트로 색을 내 너무예뻐~!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/e9340384ea3deddd188ce1a54ebba9451.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944029",
+	"ingredient_ids": [
+		8,
+		995,
+		231,
+		226
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 먼저 오이는 껍질까지 사용해주어야 하기 때문에 껍질을 깨끗하게 닦아주세요. 베이킹소다를 이용해서 빡빡 닦아주었답니다.",
+		"2. 오이는 우리가 평소에 아는 크기로 썰어주세요.",
+		"3. 대부분의 피클 만들기 비율은 똑같아요. 물 : 식초 : 설탕 = 2 : 1 : 1",
+		"4. 식초는 설탕과 소금이 다 녹고 물이 끓으면 바로 넣어준답니다. 그리고 또한번 바글바글 끓기 시작하면 바로 불에서 내려줘요!",
+		"5. 썰어놓은 오이는 준비한 유리병에 넣어 준비해주세요.",
+		"6. 준비한 식촛물을 오이에 부워주면 끝!!! 빠르게 뚜겅을 닫아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/dc3f314a454a7a8c91df677bc8de88791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ecef670bfad13d0cceb73a8960c77b511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/7b0ffb5ea3d49db6ff25544642c501401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/79523a606d37d90f04227ee288bb281d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1d17f0d6029dff2816e79fadbaca4d511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/33337893300b6ce281251476abded66b1.jpg"
+	]
+}

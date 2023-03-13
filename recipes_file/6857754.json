@@ -1,0 +1,104 @@
+{
+	"id": "6857754",
+	"name": "새우 is 뭔들~ 카레버터새우볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/01/1ecfd9aa242318d78de1a782005fc0841.jpg",
+	"url": "https://www.10000recipe.com/recipe/6857754",
+	"ingredient_ids": [
+		79,
+		3,
+		9,
+		29,
+		295,
+		504,
+		198,
+		497,
+		846,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "새우",
+			"ingre_count": "15",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1-2개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 새우 밑간 재료를 넣어 잘 버무려 주세요.청주 1T, 소금 한꼬집, 후추",
+		"2. 팬에 기름 1T 두르고 마늘을 넣어 약불에서 약 2-3분간 볶아주세요.기름 1T, 마늘 10알약불마늘은 도톰하게 썰어주세요.",
+		"3. 그 다음 중불로 올려 양파, 당근을 넣어 약 2분간 볶아주세요.양파, 당근중불양파와 당근은 작은 크기로 깍뚝 썰어주세요.",
+		"4. 약 2분 후, 새우를 넣어 약 2분간 볶아주세요.새우중불",
+		"5. 볶아진 재료들을 한 쪽으로 치우고 버터 작은 한 조각을 넣어 잘 녹여주세요.버터 1t중불",
+		"6. 녹인 버터와 재료를 잘 섞은 다음 송송 썬 청양고추를 넣어 한번 더 섞은 후 불을 끄고 카레가루를 넣어 주세요.청양고추, 카레가루 0.5T",
+		"7. 그 다음 후추 넣어 잘 섞으면 완성입니다. 부족한 간은 소금으로 맞춰주세요.후추, 소금"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/01/ff9fc1de4431f2dd42c59457aeca9b981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/01/bb4a00ccc837f596b914ab86591f186c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/01/1e6580cef1545d50c3b9e3a30d8e66af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/01/4729e053f3380e8b56d6768f1ce01e941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/01/1a636ae8fe3afeaf5344be2fc27f2c6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/01/d062360cab15061acf0d45752e9752161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/01/0d229d9f330576144abd6b906b044aeb1.jpg"
+	]
+}

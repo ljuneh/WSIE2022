@@ -1,0 +1,44 @@
+{
+	"id": "2831171",
+	"name": "깻잎계란말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/fb5afe0310c450b01976c3aca5e53bc21.jpg",
+	"url": "https://www.10000recipe.com/recipe/2831171",
+	"ingredient_ids": [
+		504,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 깻잎은 잘게 다집니다.",
+		"2. 계란은 볼에 깨서 둡니다.",
+		"3. 계란에 우유를 조금 넣어주세요.  계란 2개정도에 2스푼 정도 넣어주시면 됩니다.",
+		"4. 깻잎을 넣고 소금으로 간해줍니다.",
+		"5. 달구어진팬에 식용유 두르시구요. 약불로 낮춰 계란물을 부어줍니다.",
+		"6. 돌돌 말아주면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/1cdd77ea5ef754f906d47b83a217a1c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/a02dde0f7a065be03624b5ee663aa1c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/32a68294daafd60e83cbd111217732181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/4c118112be40ff20c9a6578fe6df99a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/2ae66bb9a97b7cafb21f8db7def479a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/0ba295ad0548199afc4d92fe86383ab21.jpg"
+	]
+}

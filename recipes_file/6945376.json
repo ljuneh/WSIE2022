@@ -1,0 +1,58 @@
+{
+	"id": "6945376",
+	"name": "가지부추전 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/4cf58c91f1a7839824ac77283dd83e361.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945376",
+	"ingredient_ids": [
+		18,
+		30,
+		219,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "",
+			"ingre_unit": "넉넉하게"
+		}
+	],
+	"recipe": [
+		"1. 가지, 부추, 달걀을 준비 했어요. 부추 대신 쪽파를 넣어도 좋아요.",
+		"2. 가지는 적당한 길이로 썰어주고 조금 얇은듯하게 편으로 썰어 주고, 소금 살짝 뿌려 줍니다.",
+		"3. 부침가루 살살살 뿌려 덧가루를 살짝 뭍혀주고",
+		"4. 부추한줌 썰어 넣고 달걀 2개를 풀어 줍니다.",
+		"5. 달걀물을 입혀 줍니다.",
+		"6. 예열된 팬에 오일 넉넉하게 두르고 가지는 세장씩 살짝 겹치듯이 놓아 부쳐 줍니다.",
+		"7. 앞뒤로 노릇하게 지져 줍니다. 불은 약불로 부쳐 주세요. 타요 ㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a888c5bc1daf87a7a51a0528055b756c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/137d17a66996880d6b58f750a8d228981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/29008a6330513bd0a50eca2a9fcf7dba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/3fa6be1f56687e2f11678697402070331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/4fe9dea06ffbf3af447d2603bd3bcdac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/7465157bd7d36a08bab2f9193a57fc801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a824a3c703db0ef9dd477ffb183984641.jpg"
+	]
+}

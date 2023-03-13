@@ -1,0 +1,34 @@
+{
+	"id": "6562758",
+	"name": "오뎅탕 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/8841198ee0fcf29791a570f14e487c5b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6562758",
+	"ingredient_ids": [],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오뎅",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "1/4",
+			"ingre_unit": "토막"
+		}
+	],
+	"recipe": [
+		"1. 다시마 멸치 마른새우를 넣고 한번 끓여주세요",
+		"2. 오뎅과 나무젓가락을 준비한다음, 아이들이 먹기좋게 오뎅꼬치를 만들어줄꺼에요~",
+		"3. 물이 끓어오르면 다시마를 제일 먼저 건져내고, 멸치랑 새우도 싹 다 건져내주세요.",
+		"4. 그리고 간은 소금과 국간장으로 해주시면 되는데, 간장을 많이 사용하면 국물도 탁해지고 맛도 조금 텁텁한거 같아서 저는 굵은소금으로만 간을 했어요. 오뎅이 불어오르기 시작하면, 꼬치를 돌려가며 전체적으로 익혀서 바로 드시면 되어요.",
+		"5. 오뎅탕을 끓이는 중간에 양념장도 준비하구요. 청양고추, 양파, 고추가루, 간장, 참기름, 통깨 넣어서 만들었어요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/b5893a5de37bc8a1ebd29f231dad01f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/79bad3db3e7b38cfbd4b63fc999da9cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/ad6efc767e25c1193222a4e6258c34141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/f8a358607448a6135fc8fcfec1dc5a751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/12ba4176609b29add9b39380505883fc1.jpg"
+	]
+}

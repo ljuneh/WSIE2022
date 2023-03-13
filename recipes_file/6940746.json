@@ -1,0 +1,58 @@
+{
+	"id": "6940746",
+	"name": "아삭이고추쌈토장무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/61e1d55ea3129662616d90a5e58dbbd81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940746",
+	"ingredient_ids": [
+		834,
+		228,
+		575,
+		290
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "아삭이고추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쌈토장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비해볼까요?",
+		"2. 아삭이고추4개를 먹기좋게 잘라주세요",
+		"3. 쌈토장 아님 쌈장을 준비해주세요",
+		"4. 쌈장3스푼 넣어주세요",
+		"5. 올리고당1스푼넣어주세요",
+		"6. 마요네즈5스푼> 깨 1스푼넣어주시고 섞어주세요",
+		"7. 완성~!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/b138fe8cc496d7b66822074fe7c430101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/d5930a9221a7fc8f43c74e52766016601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/ae0fb2c256f73b93626921cf8911a0a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/84227575a6d4dd3c2d13599421e416f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/9e5db31b7d19d5a976c8c9788718810a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/78afa4a690fd3a97e04b3f38ce77af151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/20044a04747c7e32adc137cc78844f711.jpg"
+	]
+}

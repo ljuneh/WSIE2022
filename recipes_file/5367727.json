@@ -1,0 +1,35 @@
+{
+	"id": "5367727",
+	"name": "베추막김치 쉽게 담그는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/94272254409b30cc69d2e4be98ffa1f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/5367727",
+	"ingredient_ids": [
+		32,
+		282
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "배추",
+			"ingre_count": "1/2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 배추는 먹기좋은 크기로 잘라주고 흐르는 물에 잘 씻어준후 굵은소금을 넣고 절여줍니다. 전 커다란 배추반통에 굵은소금 5큰술을 넣고 절여주었는데요.. 소금양은 배추크기에 따라 조금 조절하셔야 할듯해요.",
+		"2. 배추가 절여질동안 김치양념을 만들어요. 고추가루, 액젓, 배즙, 사과즙, 마늘, 생강, 새우젓 등을 넣고 잘 섞어서 사용하시면 된답니다..",
+		"3. 양념을 준비하는동안 김치가 절여졌는데요. 한시간 이상은 절인거 같아요..소금양을 알맞게 했다면 그대로 건져서 물기를 빼주시구요. 배추를 한개 먹어보고 너무 간이 세다 싶으면 물에 한번 휑궈서 물기를 빼주시는것도 요령이랍니다.",
+		"4. 이제 절여진 배추와 김치양념 잔파를 넣고 쓱쓱 버무려주기만 하면 끝입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/2dfef0e5dcfab3dcc80729c68f4f0ea51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/cc10e28dcc75b533dba22d244196db271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/726fd6ada0c312cab22f76248d945fe41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/e07a62208e4d283ab506b6b8e78edf981.jpg"
+	]
+}

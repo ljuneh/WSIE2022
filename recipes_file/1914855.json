@@ -1,0 +1,87 @@
+{
+	"id": "1914855",
+	"name": "생새우 무국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/eed92cbdfa5f306d03c28dd4f3f8308a.jpg",
+	"url": "https://www.10000recipe.com/recipe/1914855",
+	"ingredient_ids": [
+		3,
+		27,
+		349,
+		497,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "생새우",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "무나박썬것",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "마른다시마작은것",
+			"ingre_count": "1~2장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "물5컵(1L)",
+			"ingre_count": "5컵(1L)",
+			"ingre_unit": "컵(L)"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 생새우는 등쪽을 요지로 찔러서 길쭉하고 까만 내장을 제거하고 깨끗히 씻어서 준비했습니다. 양파 반 개랑, 청홍고추 1개씩, 대파, 무 나박썬 것 한 줌, 마른 다시마 작은 것 1~2장을 준비했어요.",
+		"2. 뚝배기에 물 5컵, 즉 1리터 정도 붓고 무와 다시마를 넣고팔팔 끓입니다. 끓기 시작하고나서 잠시 후 다시마를 건져내고 무가 익어가도록 끓여줍니다.",
+		"3. 무가 반쯤 투명해졌으면 내장을 제거한 새우를 넣습니다. 뚜껑을 닫고 팔팔 끓여주세요.",
+		"4. 국간장 1큰술을 넣고 나머지는 소금으로 간을 맞추고요.",
+		"5. 청홍고추 송송 썰어넣고 후춧가루도 갈아서 넣어주세요. 청양고추 반 개도 잘게 다져 넣으면 국물이 아주 시원~~해집니다.",
+		"6. 위에 동동 뜨는 거품은 걷어내주시구요. 마지막에는 대파 송송 썰어넣고 바로 불을 끕니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/909d706680acf87226e60a48bb34d2dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/8774c0631cddf810318bc4d6526ef6091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/2226e18b5d9af6c05ebcb85dd37ef00a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/f88e9c77b31ef7547f30de09431380051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/a3643229eb3f76e39a786b28327e2dd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/c2f0eb7df647a2f797651ee1af1c4ec81.jpg"
+	]
+}

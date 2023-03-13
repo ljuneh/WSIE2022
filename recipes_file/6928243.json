@@ -1,0 +1,66 @@
+{
+	"id": "6928243",
+	"name": "고등어 강정 만들기. 단짠단짠 맛있는 고등어 요리.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/6b2697b079333298c91f76f309fe7d601.jpg",
+	"url": "https://www.10000recipe.com/recipe/6928243",
+	"ingredient_ids": [
+		995,
+		379,
+		292,
+		341,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "손질고등어",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 손질 고등어는 씻어서 뼈를 발라 냅니다. *가시가 있으면 먹기 힘드니 큰 가시만 발라 내세요. ",
+		"2. 고등어는 먹기 좋은 크기로 잘라 후추와 생강술을 뿌려 둡니다. (비린내 제거) *비린내 때문에 고등어를 싫어하면 삼치를 이용해 보세요. *삼치는 고등어와 거의 비슷하면서 비린내가 덜 나는 생선이랍니다.",
+		"3. 자른 고등어는 전분을 2번 묻혀 주세요. *전분을 2번 묻힌 이유는 물기가 있으면 튀길때 기름이 튀어 다칠수 있고 더 단단하게 튀길수 있습니다. ",
+		"4. 팬에 기름을 넉넉히 두르고 열이 오르면 전분 묻힌 고등어를 노릇하게 튀겨 주세요. ",
+		"5. *이대로 튀겨 먹어도 좋지만 더 맛있게 양념에 졸여 먹어요. ",
+		"6. 5.간장,물,맛술,물엿,고추,후추 넣어 소스 끓입니다. *소스가 많은 것 같아도 고등어에 전분을 묻히니 빨아 들여서 금방 졸여 지더라구요. ",
+		"7. 소스가 바글바글 끓으면 튀긴 고등어 넣어 소스가 남지 않을때 까지 졸입니다.",
+		"8. 장어인지 고등어인지 모르게 너무 윤기나게 잘 졸여 졌어요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/d3192534a780d769e8f4ebb2b25ade331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/47922c313c30624502def94cd38646af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/a0d192eea79cea0355fb256f6fc78b781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/6d5b523f9fccdf7aa5094aa265bd601c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/cb99f0fa5fbd181ad646b0b12f9feb721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/7ee765812ee56168612257711d7bc6421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/586cb82f13e968a2305e22999654d68b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/f10de988b6c3592c8ab40169c1f1349f1.jpg"
+	]
+}

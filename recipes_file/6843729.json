@@ -1,0 +1,63 @@
+{
+	"id": "6843729",
+	"name": "팥양갱 단호박양갱",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/27/0f5ba7104f034cf5575e7048638bd62d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843729",
+	"ingredient_ids": [
+		907,
+		226,
+		341,
+		497,
+		840
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "팥앙금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "단호박푸레",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "한천(잴로재료)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 한천은 물에 1시간정도 불립니다 한천을 물을자작하게 붓고 5분정도 끓이다가 채에 받처서 녹지안은 한천찌꺼기를 걸른다",
+		"2. 1을 설탕과 물엿을넣고 끓이다가 팥양금과호박푸레를썩습니다",
+		"3. 2를 양갱틀에 넣어견과류로 장식을하고 2시간정도 두면 맛있는 양갱이 만들어집니다",
+		"4. 맛있고 모양이 좋은 양갱이 완성 돼었습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/27/3cc2ec4133da99bc86ec961fea352efb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/27/2da283b0815690350d639c8952aca9de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/27/fc543af8153d15675075065e0161a0421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/27/52d7367c9f1d37573057849e22133eda1.jpg"
+	]
+}

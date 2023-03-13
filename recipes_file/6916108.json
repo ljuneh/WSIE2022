@@ -1,0 +1,66 @@
+{
+	"id": "6916108",
+	"name": "제육볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/07/19/218ecc5ba620b0b9645cc64fedbdf5fa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6916108",
+	"ingredient_ids": [
+		3,
+		473,
+		341,
+		458,
+		29,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "목삼겹살",
+			"ingre_count": "1",
+			"ingre_unit": "근"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기는 목삼겹준비하고 보기좋게자른다",
+		"2. 양파채썬것과 파를썬다 그리고 고기와 물을넣고 볶는다",
+		"3. 양념은 고추장 마늘 생강즙 설탕 물엿 넣고 볶으면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/19/b68e159c43cf2df967122cb16cf971a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/19/cc5fc6a391a67eeda29d0953d160674a1.jpg"
+	]
+}

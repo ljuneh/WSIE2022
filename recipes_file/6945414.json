@@ -1,0 +1,138 @@
+{
+	"id": "6945414",
+	"name": "#굴요리, 굴국밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/643b23ec53f309468216670ba772f8601.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945414",
+	"ingredient_ids": [
+		82,
+		53,
+		91,
+		19,
+		323,
+		660,
+		390,
+		995,
+		19,
+		90,
+		455,
+		3,
+		423,
+		349,
+		282
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "굴",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "숙주나물",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/4",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "4",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "북어포",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 육수재료를 손질하시고, 물을 넣고 끓입니다.- 약 20~30분이면 충분합니다. - 삼계탕용 육수팩으로도 사용 가능합니다.",
+		"2. 숙주, 미역, 무 등의 재료를 손질 해주세요.- 야채는 깨끗하게 씻어 주세요. - 미역은 물에 불리고, 무는 채썰어 주세요. - 무채는 육수 끓일때 중간에 같이 넣습니다.",
+		"3. 끓는 육수에 채썬 무를 넣어 주세요.- 채썬 무는 국밥위에 고명으로 올릴 예정입니다. - 육수용으로 넣은 무를 꺼내 잘라 주셔도 됩니다.",
+		"4. 뚝배기 아래에 밥-숙주-굴 순서로 넣어 주세요.- 밥 반공기로 뚝배기 2그릇을 만들었습니다.",
+		"5. 끓여진 육수를 뚝배기에 적당량 넣어 주세요.- 육수를 너무 많이 넣으면 뚝배기가 끓기 시작하면 넘칠 수 있습니다.",
+		"6. 6. 굴국밥을 팔팔 끓여 주시면 됩니다.",
+		"7. 7. 마지막으로 참기름을 넣고 드시면 아주 시원한 맛을 느낄 수 있습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/8042a70ebf9c59c31832220e8e5332181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/b965c16a238b423ee5c3defd18d453bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/0ef28444257ec62960d71bbcc9b9cffc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/c1e8e4dd53abd4cd4fc3b48f348aa4661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/b4a4d7d2e57aaae6078f341f564b6e1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/aaf2c8ed7e24cdb1cd7e74aa982740d11.jpg"
+	]
+}

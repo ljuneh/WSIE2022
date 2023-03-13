@@ -1,0 +1,93 @@
+{
+	"id": "6930961",
+	"name": " 양배추 참치덮밥 /Cabbage tuna bowl of rice",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/04/18/4fa103e626a1a3c1314acf9de77fde361.jpg",
+	"url": "https://www.10000recipe.com/recipe/6930961",
+	"ingredient_ids": [
+		21,
+		3,
+		27,
+		504,
+		224,
+		473,
+		575,
+		477
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "170",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "쌀밥",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 참치캔은 기름을 제거한다.",
+		"2. 양배추는 사각으로 잘라 준다.",
+		"3. 양파는 사각으로 잘라 준다.",
+		"4. 대파는 송송 썰어 준다.",
+		"5. 프라이팬에 식용유, 대파를 넣고 향이 날 때까지 볶는다.",
+		"6. 대파의 향이 나면 양배추를 넣고 볶는다.",
+		"7. 양파를 넣고 볶는다.",
+		"8. 고춧가루, 고추장, 참치, 올리고당, 굴 소스를 넣고 볶는다.",
+		"9. 그릇에 밥을 담아 준비한다.",
+		"10. 밥위에 덮밥소스를 올려준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/18/43bf05d118fd17cab335c61570bb46e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/18/f5488fcdc5cc728371e50c37602dd6e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/18/fd903da67a8a30752d665f5229d4128b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/18/07edb425ebdf98e9c03471281b62ea1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/18/2fa2f8787915f0ed08e157e4904966851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/18/4b2d6f90274e56d32a93a91499d53d871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/18/fcf16e7f0357dbcab159312fd9b118271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/18/d19cc4245bbc7b087a1448ab054f76ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/18/1bde5e8fa6f3d1f8d1fab33380b4b98f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/18/0e49d213764f08bae396e4bcf2a9eb2f1.jpg"
+	]
+}

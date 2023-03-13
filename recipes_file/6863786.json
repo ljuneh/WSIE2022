@@ -1,0 +1,70 @@
+{
+	"id": "6863786",
+	"name": "감태(가시파래)무침 새콤달콤하게~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/2402e00f7d0f6e230f2f722dda2d51b01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863786",
+	"ingredient_ids": [
+		19,
+		379,
+		231,
+		226,
+		224
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "김(감태)",
+			"ingre_count": "312",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "145",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "굵은소금(무)",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "5",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 감태를 준비합니다",
+		"2. 무는 채를 썰어 굵은소금에 절입니다",
+		"3. 살짝 절인 무는 물에 헹궈 꼭 짭니다  감태는 분순물을 잘 골라내고 깨끗히 씻어 꼭 짭니다",
+		"4. 모든 양념을 합니다  (기호에 맞게 간장 설탕 식초를 가감하세요)",
+		"5. 접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/73a3119208eabbbc8c97f3056e42bf191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/349c48d1824d396b9020082edb60d55b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/f3ebc8b1329b360543414cb77137de9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/1c66cdc45eb8424081712e3b6075ce9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/27ec99ad30e8fc7dbcf0df3a2d5e6eb61.jpg"
+	]
+}

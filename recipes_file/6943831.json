@@ -1,0 +1,63 @@
+{
+	"id": "6943831",
+	"name": "밤 요리 / 밤 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/0ce213c0232d6c7ef27dba2338ccb07e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943831",
+	"ingredient_ids": [
+		187,
+		473,
+		226,
+		233,
+		575,
+		660,
+		224
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "밤",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 밤은 껍질을 제거하여 준비한다.",
+		"2. 껍질을 제거한 밤은 적당한 크기로 편 썬다.",
+		"3. 자른 밤에 고추장, 고춧가루, 설탕, 다진 마늘, 올리고당, 참기름을 넣고 버무린다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/3c8b5d640f70afc48bdcac7c37c0ddae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/e2134a9b38aa520e4eb3f1c4d35c67a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/a0c9b25c8ce40e5d24f129c6911a55851.jpg"
+	]
+}

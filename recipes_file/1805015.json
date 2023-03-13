@@ -1,0 +1,91 @@
+{
+	"id": "1805015",
+	"name": "미니새송이 시금치 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/85bdb47b2f4f08c59dcde7648a59d449.jpg",
+	"url": "https://www.10000recipe.com/recipe/1805015",
+	"ingredient_ids": [
+		2,
+		58,
+		3,
+		233,
+		379,
+		287,
+		292,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "들깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 시금치를 끓는물에 살짝 데쳐도 좋구요. 저렇게 랩에 씌워서 웃부분에 살짝물을 뿌려주고 렌지에 2분10초 정도 돌리면 데친것 처럼 된답니다.",
+		"2. 양념장을 만들어둡니다.",
+		"3. 팬에 미니송이를 먼저 볶고 양파를 넣어 함께 볶아주세요.",
+		"4. 시금치와 양념장을 재빨리 볶고 깨를 뿌려 마무리해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/bcdd6e1d200bd0f76a306d249c8bb3ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/5a999d91f442bdebc8dad6db73e2d04f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/6d6c1c6e3b7adfb99b60ba462a64cefb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/9aaa684e64f0e3ad7da627c00928815a1.jpg"
+	]
+}

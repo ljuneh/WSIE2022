@@ -1,0 +1,71 @@
+{
+	"id": "6846541",
+	"name": "참돔구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/d8b6d9d2a0b72969dd37356577fc03ac1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846541",
+	"ingredient_ids": [
+		469,
+		846,
+		282,
+		455,
+		419
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "돔대자",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "3-4큰술",
+			"ingre_unit": "-큰술"
+		},
+		{
+			"ingre_name": "양파작은것",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "백후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 참돔 크기가 대자라서 정말 크네요.",
+		"2. 비늘 제거하고 내장 손질해야 하는데, 미리 손질된 것이라서 더욱 간편해요. 밑간을 하는데, 굵은 소금 1큰술, 청주 2큰술, 생강가루, 반작은술, 백후추가루 약간을 고루 뿌려줍니다. 전 하룻밤 냉장실에서 재워주었구요. 굽기 전에 키친타올로 물기를 한번 제거해줍니다. 그래야 구울 때 물기로 인해 기름이 튀지 않아요.",
+		"3. 껍질쪽에 칼집을 넣어주면 생선살이 속까지 잘 익기도 하며 모양도 예쁘답니다.",
+		"4. 양파는 곱게 채썰어주시구요.",
+		"5. 팬을 먼저 달군 다음 양파를 가장자리로 얹어줍니다. 그리고나서 카놀라유(식용유도 가능)를 넉넉히 뿌려줍니다. 참돔을 올려줍니다. 두 마리가 아니고 한 마리를 펼친 것이구요. ",
+		"6. 노릇해지면 뒤집어줍니다. 양파가 익으면서 양파향이 정말 좋답니다. 양파 기름이 되면서 이 양파기름이 참돔 속에 쏙 배이는 것이지요. ",
+		"7. 각 한번씩만 뒤집어줍니다. 참돔이 연해서 잘 부스러지기 때문.",
+		"8. 참돔구이가 완성되었습니다. 간장에 와사비를 곁들여주었구요. 껍질도 바삭하구요. 돔살도 아주 두툼하고 부드러워요. 그냥 먹어도 맛있구요. 간장에 살짝 찍어먹어도 맛있답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/33ceb99d2799289b07bb3872779ccda41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/e1b53ef5ceee38a6fe31a7a69ced74691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/123658f4627183a9e55343d93ad8058d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/ab47fd9258dc21c00a62937be25e87331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/ecd4ed29cc5f8ee56c10b54354d06e601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/21deee2eb37167491cbc325aa654d9021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/65fc13c29f970d2ee2f7521a38e3957e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/a79d1bada554f522851b487a523714921.jpg"
+	]
+}

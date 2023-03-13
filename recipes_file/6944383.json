@@ -1,0 +1,47 @@
+{
+	"id": "6944383",
+	"name": "달콤 고소한 아몬드 토스트~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/ea70d7702d3edbf7f6ed6f3c6a2051461.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944383",
+	"ingredient_ids": [
+		503,
+		193,
+		198,
+		204
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "아몬드",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 식빵에 버터를 펴 발라준다",
+		"2. 연유 취향대로 발라주고",
+		"3. 슬라이스 아몬드 얹어 줍니다",
+		"4. 에어프라이어 바스켓에 담고 180 온도에서 7분 정도 구워 줍니다 (온도,시간 참고합니다)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/a437b39bdf84e4cdcaf421b65b5b98d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/8d4f89b902fc1aa9efbf5dd7d888eb421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/f97393fa7df8a4806c04f2a39a1890241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/3abd606f02a8d25ccaa951d35a3d861c1.jpg"
+	]
+}

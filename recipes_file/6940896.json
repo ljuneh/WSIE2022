@@ -1,0 +1,58 @@
+{
+	"id": "6940896",
+	"name": "생강청멸치볶음:둘이 이렇게 잘 어울릴 줄이야!?!(feat.면역력up)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/9f30a2ec7a9ecd1734fa9d83605dc4bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940896",
+	"ingredient_ids": [
+		677,
+		575,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "잔멸치",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "당근채볶음",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "생강청+",
+			"ingre_count": "1+",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 멸치는 기름 두르지 않은 마른 팬에서 타지않게 볶는다 소독과 잡내제거, 식감을 좋게 하기 위해서 약불에서 멸치가 노릇노릇해질 때까지 볶아주세요.",
+		"2. 볶은 멸치는 체에 담아 잔가루를 털어낸다",
+		"3. 팬에 식용유 조금만 두르고 채썬 당근을 소금 뿌려 살짝만 볶는다. 당근은 선택재료에요.넣으면 색감이 좋아져요.",
+		"4. 팬에 올리고당,생강청,고추청을 넣고 바글바글 끓인다. 집에 있는 청들 활용해 보세요.",
+		"5. 올리고당과 청이 끓으면 볶아둔 멸치와 당근 넣거 재빠르게 뒤적인 후 불 끄고 깨를 넉넉히 뿌린다. 간장과 참기름은 넣지 않았어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/d7bbdf60eb62523922c0047948a499f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/349bec795f39318c46dea87c459dec011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/73ec4864025c40c3ce5aec24649da3901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/56466f2bc57f88b51651164a8ff888d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/b4967825e93c7aabeda1395dda33f0341.jpg"
+	]
+}

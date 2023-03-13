@@ -1,0 +1,77 @@
+{
+	"id": "6943633",
+	"name": "가장 기본적인 플레인 스콘",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/1ee9c6551c78aebd0b08cb8e6c9fd58f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943633",
+	"ingredient_ids": [
+		373,
+		226,
+		497
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "6",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "실온버터",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "실온계란",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 각 재료들을 개량해서 준비를 해두고 계란은 풀어서 풀어두어주세요.",
+		"2. 가루류는 모아서 채쳐주세요. 한번만 해도 충분합니다.",
+		"3. 채친 가루에 실온에 둔 버터를 넣어주세요.무조건 실온버터를 사용해주세요. 그렇다고 중탕을 해서 사용하면 안됩니다.",
+		"4. 손바닥으로 비비듯이 버터와 가루를 섞어주세요. 살짝 몽골몽골모이면 충분히 된겁니다.",
+		"5. 풀어둔 계란과 우유를 넣고",
+		"6. 주걱으로 날가루로만 안보이게 섞어주세요.",
+		"7. 치대듯이 섞어주면 스콘의 독특한 그 부스스 한 식감이 사라진답니다.",
+		"8. 비닐에 쌓아서 원하는 모양으로 잡아주고 냉장고에 30분 이상 휴지를 해주세요.휴지를 해줘야 각재료들이 얼기설기 잘 만나 친구처럼 지냅니다. ",
+		"9. 휴지가 충분하게 되었으면 칼로 원하는 모양으로 자르거나 쿠키틀로 컷팅해도 됩니다.",
+		"10. 오븐팬 위에 자리를 잡아주고 계란을 풀어둔게 조금 남았을 탠데 그걸로 스콘 윗표면을 칠해주세요.계란물을 바르면 매끄러운 표면이 됩니다.",
+		"11. 190도로 예열된 오븐에 15~20분 구워주세요. 15분뒤 한번확인하고 갈색표면이 덜되어있으면 좀더 구우면 됩니다.오븐",
+		"12. 그러면 맛있는 스콘이 완성이됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/523058bfc8bc153bda68c7f3a020c09e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f474bbc74d852ddad116434151c836011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/feddef677a5fa9c8cb88b234ba23d3b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/52bd05a3fb5aa88a3ec1cf581384ae8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/bf253ed87e7673fd4649d3e1349fe80c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/36b40a6cb8e04607d47bc842f2a13d3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/95846849c28fac48b77e26d947330a781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/5d55ab0beabb3c313f5b40eb0569fed91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/4a302dc77a8b5d5217c142daf00dc07c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f1ab5b7eeef1cae0be3cd333230254791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a58ec46e987c98a8e0dde199a188ea261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/38d2e10f4ff2203b496d8e84b3e9df221.jpg"
+	]
+}

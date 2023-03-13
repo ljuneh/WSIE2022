@@ -1,0 +1,53 @@
+{
+	"id": "6844524",
+	"name": "뚝배기계란찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/a518994d784411319971612b1fcea7811.jpg",
+	"url": "https://www.10000recipe.com/recipe/6844524",
+	"ingredient_ids": [
+		390,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3~4개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "파채",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 계란은 서너개, 새우젓 조금, 파채 조금, 물",
+		"2. 뚝배기에 물을 조금 넣고 끓으면",
+		"3. 계란을 풀고 물을 반컵 정도 부은 후 고루 섞어 뚝배기에 부어주고",
+		"4. 새우젓으로 간을 하고",
+		"5. 파도 조금 넣고 센불에서 휘휘 저어줍니다.",
+		"6. 약불로 줄이고 오목한 뚜껑이나 밥공기를 덮어서 김이 빠지면 불을 끄고 뜸을 들여줍니다.",
+		"7. 뚜껑을 열어보니 봉긋하게 잘 올라와서 기분 좋더라고요.",
+		"8. 기분 좋은 것도 잠시 조금 지나니까 푹 꺼지는데 다음엔 언니한테 배운 황금레시피로 먹는 내내 꺼지지 않게 만들어봐야겠어요. 그래도 보들보들 맛은 좋아 밥이랑 잘 먹었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/bc19957f0293f7abe14de06a005199081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/e8e4de8eb932574380350eca2b73bb1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/b72792bc27cae62c07aaac555eb03e711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/1a62f03d74363b08be1f3557408853d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/0c44775a95a737d8874eac5bac31c44b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/37793671102ddb2906bb5603fa03e3851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/e87b76e1e500644a71d5df78b6a956061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/14/183ff75ff8e6e182d0875d0b43ed63f11.jpg"
+	]
+}

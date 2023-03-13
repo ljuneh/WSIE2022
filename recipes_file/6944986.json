@@ -1,0 +1,61 @@
+{
+	"id": "6944986",
+	"name": "마늘콩소스 가지무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/df4ed153401ed3cdcf6158dbfb4c274f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944986",
+	"ingredient_ids": [
+		18,
+		643,
+		575,
+		660,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘콩소스",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 가지를 4등분 해서 찜기에 넣고 찝니다",
+		"2. 찜기에 김이 올라오면서 가지가 익어요 집개로 눌러서 익으면 꺼내서 식혀주세요",
+		"3. 양념 : 마늘콩소스 1/2T , 고추가루 1/2T, 올리고당 1/2T, 참기름 1/2T 넣고 채썬 풋고추와 같이 조물조물 버무리고 통깨를 뿌려 주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/38acbc7de3747d1ded5100eb136db9241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/dbcc655332a2e40667664ea7b16b7a251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/0460dc157eee84a1391df4cd58cb392d1.jpg"
+	]
+}

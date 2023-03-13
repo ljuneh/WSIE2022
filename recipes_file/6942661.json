@@ -1,0 +1,75 @@
+{
+	"id": "6942661",
+	"name": "두부동그랑땡 추석 전 부치기 부드러운 식감의 동그랑땡",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/820111a3500b24742c2a0443ba063baf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942661",
+	"ingredient_ids": [
+		323,
+		15,
+		9,
+		3,
+		219,
+		497,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 두부는 물기를 짜고 칼 등으로 곱게 다져요.",
+		"2. 양파는 곱게 다져요.",
+		"3. 깻잎도 다지고요.",
+		"4. 당근도 다져요.",
+		"5. 물기를 짠 두부에 다진 채소 소금을 넣어 섞어요.",
+		"6. 달걀을 풀어요.",
+		"7. 풀어 놓은 달걀을 넣고 섞어요.",
+		"8. 두부동그랑땡 반죽 완성이에요.",
+		"9. 달군 팬에 기름을 두르고 두부 반죽을 한 스푼씩 넣어 노릇하게 구워요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/fc27336250cad8c177171b03162151eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/5a9d4364fc0bf2f45c84e12bf93a51811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/303d187afd98a6802e6b94ebdcaa58751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/e72675fa08d658f442e75bfec9adc94a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/617966b8870c577eeed3d53853b150221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/193bef04bb6a962bd88bd3542b94f8411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/0c45d602ddb812af29c3b22a88a840001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/a4dbd4d15f7fac6b6994e85af59020a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/1ddc594e2afb54b5fd38ae174951697c1.jpg"
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"id": "6876269",
+	"name": "마늘쫑무침 마늘쫑고추장무침 매콤달큰 아삭하게!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/7c70708136c7076048dac41cbadcdb831.jpg",
+	"url": "https://www.10000recipe.com/recipe/6876269",
+	"ingredient_ids": [
+		17,
+		497,
+		224,
+		473,
+		379,
+		575,
+		226,
+		938,
+		660,
+		290
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘쫑",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 마늘쫑은 손가락 두마디 정도의 먹기좋은 크기로 잘라서 준비해주세요귀찮을 땐 가위로 싹뚝!",
+		"2. 씻고나서 잘라도 좋고 자른상태에서 씻어도 좋고 편한데로 깨끗하게 씻어주세요",
+		"3. 마늘쫑을 데쳐줄 냄비에 물과 소금0.5T를 넣고 끓여주세요",
+		"4. 물이 끓으면 마늘쫑을 넣고 1분정도 데쳐주세요짧게 데쳐내야 아삭해요^^",
+		"5. 데쳐낸 마늘쫑은 찬물샤워!",
+		"6. 마늘쫑 물기를 빼주는 동안 분량대로 양념장을 만들어주세요",
+		"7. 마늘쫑을 넣고 잘 버무려주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/20790210947a7878348fc5825b8189df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/011d9784f615ceb2aa83a2d0e9adb91e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/d7d3966128e3a84afa75af283fbe06bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/e2929485d89720255ea135645d5d19961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/3521fad1be812239d125cdeb89e84dc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/6fab9a45f0138a11bce2f90c5f20415b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/9b524cc373071e21865081913cd9f1291.jpg"
+	]
+}

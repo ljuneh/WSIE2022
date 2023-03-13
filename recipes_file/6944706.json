@@ -1,0 +1,57 @@
+{
+	"id": "6944706",
+	"name": "칼로리 걱정 덜자~ 두부면 스파게티",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5e077ccfb00a49c4c04495f970bd286f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944706",
+	"ingredient_ids": [
+		371,
+		13,
+		865
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "두부면",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "7~8알",
+			"ingre_unit": "~알"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "1~2뿌리",
+			"ingre_unit": "~뿌리"
+		},
+		{
+			"ingre_name": "미니파프리카",
+			"ingre_count": "2~3개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "스파게티소스",
+			"ingre_count": "2~2.5컵",
+			"ingre_unit": "~.컵"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해 주세요저는 방울 토마토, 청경채, 미니 파프리카 사용. 야채는 양파, 마늘, 양송이 버섯, 시금치 등 기호대로 넣으시면 돼요~",
+		"2. 방울 토마토를 십자(+)로 칼집내어 저수분으로 익혀주세요끓는 물에 살짝 데치셔도 돼요. 하지만 저수분 저온에서 익히면 맛과 영양 손실이 적어요",
+		"3. 익힌 토마토의 껍질를 벗겨주세요소스가 토마토소스라 굳이 안 넣으셔도 돼요. 하지만 토마토를 넣으면 맛과 풍미가 UP",
+		"4. 두부 담긴 물를 빼고, 찬물에 살짝 헹구어, 체에 밭쳐 물기를 빼주세요",
+		"5. 팬에 올리브오일 살짝 두르고, 토마토 소스와 야채를 살짝 데우듯이 볶아주세요",
+		"6. 두부면도 함께 넣어 소스가 잘 배이게 섞어 주세요",
+		"7. 이제 완성 접시에 담아서 드시면 돼요~ 간단하죠^^ (저는 익힌 방울토마토를 두르고,  노른자 살린 달걀프라이를 올리고, 청경채를 꽂아 담아 보았어요)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/d5dfb6449831c6e23eff3505c34b14c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/d2f35f4faad1b76d6feba0df8aa38f541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/f9bc411ce0852e59faeddd6a124ee7fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/4ddc8ce27dc8c7ca94e0eaf7a647f5f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/970466b84dbf163a43fdf32c9dd9fc821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5fd1c6c5d1dab25e67c96e5692c2ea551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/4234b21721a9b1d8cdc3865e84ffad511.jpg"
+	]
+}

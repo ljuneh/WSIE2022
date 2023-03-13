@@ -1,0 +1,66 @@
+{
+	"id": "6890342",
+	"name": "오이김치 간단하게 담기, 오이김치 양념 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/06/70c06311dabdda5e72ab54382d93101d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6890342",
+	"ingredient_ids": [
+		8,
+		282,
+		939,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "배간거",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실엑기스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 우선 오이를 소금으로 문질러 씻어줍니다. 그래야 오이의 겉표면의 가시도 제거되고 깨끗이 닦이거든요. 먹기 적당한 크기로 잘라줍니다.",
+		"2. 요렇게 십자모양으로 잘라줬어요. 오이소박이를 할때는 칼집을 넣어주지만 간편하게 담아 먹을꺼라 잘라주었답니다~~~",
+		"3. 다자르면 요런 모양이 나오겠죠? 스텐볼에 한가득이네요. 이제 양념만 넣고 쓱쓱~~~",
+		"4. 이틀전에 만들어 놓은 양념장이에요. 배를 갈아서 만들어 놓은 양념이라 설탕은 하나도 안들어갔어요. 저희는 김치 담을때 배를 갈아 넣어서 단맛과 김치의 시원한맛이 좋드라구요. 요렇게 만들어 놓으면 숙성되서 금방 만들어도 맛있어요.",
+		"5. 양념을 오이와 쓱쓱 비벼주면 됩니다. 양념을 많이 넣었어요 그래야 맛있거든요 ㅋㅋ",
+		"6. 아삭한 오이와 함께  양념이 어울러져 너무 신선해요. 오이김치는 막 담아 먹어도 맛있지요. 라면 먹을때 먹어도 맛있고 맨밥에 올려 먹어도 맛있어요~~~ 맛있는 아삭한 오이 김치 만들어 드셔보세요~~~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/06/3b661a0e4136fc3354d30edd0f63dd081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/06/7a208468e78a03c75a2294e803e017691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/06/348640d47a24352c3a539fc1234ec9d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/06/3ee673a74db3f046df242501815d33bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/06/22de04d7b1066ec5e213f4edb604fb381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/06/061a106c44479dddfd16615c7d4bdb701.jpg"
+	]
+}

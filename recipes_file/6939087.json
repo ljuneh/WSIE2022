@@ -1,0 +1,88 @@
+{
+	"id": "6939087",
+	"name": "복날음식엔 삼계탕! 처진 몸을 한방삼계탕으로 기력보충하자! ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/ee00aeee12048c209b3c46dddab680e21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939087",
+	"ingredient_ids": [
+		27,
+		3,
+		857,
+		995,
+		132,
+		29,
+		99,
+		30
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "한방팩",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "생밤",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 닭은 꼬리 쪽 노란 기름 덩어리를 제거하고 목, 날개 끝부분도 잘라 정리한다.                     \r                             헹켈 하비가위 230mm/9inch_HK41374-000                          ",
+		"2. 찹쌀은 물에 불린다.",
+		"3. 닭 뱃속에 불린 찹쌀, 대추, 생밤, 마늘을 채워 넣고 다리 쪽에 칼집을 내어 정리한다.",
+		"4. 멀티쿠커 압력 솥에 속을 채운 닭, 한방팩, 양파, 대파, 통후추, 물을 넣고 압력 뚜껑을 닫는다.                     \r                             닌자 멀티 쿠커 푸디 OP300KR                          ",
+		"5. 높은 압력 모드에서 30분간 조리하여 완성한다.마지막에 부추를 넣고 뜸을 들여 곁들여 주셔도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/626ed6f4d80638e35203dad7bc62a8b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/598741a20c4a0b5d3c01dd460fc418b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/336c6c5749023d4ffc8f31b0289247721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/2c439735de162a3c533b2764cbe26e311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/12/2363637bbad1dcb9b7bcf38b2cb6f1601.jpg"
+	]
+}

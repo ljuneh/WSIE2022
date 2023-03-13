@@ -1,0 +1,75 @@
+{
+	"id": "6843560",
+	"name": "노버터 초코 크랙 쿠키",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/c58f2659cf569e4dc4ea0a22f173e8f91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843560",
+	"ingredient_ids": [
+		219,
+		872,
+		373,
+		432
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "110",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "흰설탕",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "코코아가루",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "35",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "흰설탕(굴릴것)",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "슈가파우더(굴릴것)",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 초코칩 넣은것도 맛있고 넣지 않은것도 맛있어요",
+		"2. 식용유에 설탕을 넣고 잘섞은뒤 계란을넣어 섞어줍니다(계란사진이없어졌어요ㅜㅜ)",
+		"3. 가루류를 체쳐넣어줍니다",
+		"4. 40g정도씩 나눠주시고 이때 오븐 180도로 예열해줍니다오븐",
+		"5. 설탕에굴린뒤(너무 동글동글한거보단 약간 눌러주는게 좋은거같아요)",
+		"6. 슈가파우더에굴립니다",
+		"7. 팬닝후 180도로 12분굽습니다",
+		"8. 완성! 바삭 폭신 쫀득 완전 맛있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/0ce59e1b2d44d14664edbde8a32c80441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/0fe02db82c43d520bf4c8c681715a4b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/778d64dd102504e76df3a9ae6553ccca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/2c39b4db606482add19bc0febfd4f9ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/a6bff8e32b1417cd049ed169bb4858841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/1d213f50fa5fcaf8a79a56536fa5df061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/eec1db388891cad5b9d563d4a9eb13951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/e5face3d0ccb00b227d00dbbadeea6061.jpg"
+	]
+}

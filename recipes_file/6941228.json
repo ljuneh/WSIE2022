@@ -1,0 +1,95 @@
+{
+	"id": "6941228",
+	"name": "소떡소떡 초간단 레시피 아이들 간식으로 안성맞춤",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/1dbf33012b674e8a97c77db93b85eda41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941228",
+	"ingredient_ids": [
+		504,
+		473,
+		379,
+		292,
+		341,
+		226,
+		224,
+		995
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "떡",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "비엔나소시지",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "3.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 떡은 한번 데쳐서 사용해요. 꼬치에 끼우기도 쉽고 익히기도 쉽답니다.",
+		"2. 비엔나도 살짝 칼집을 내어 데쳐 줍니다.칼집을 너무 많이 내면 꼬치에 끼울 때 갈라져요!",
+		"3. 나무꼬치에 떡,비엔나 순으로 두개씩 꼽아줍니다.꼬치는 다이소에서 구매했어요. 작아서 아이들이 들고 먹기에도 편리하답니다!",
+		"4. 양념을 계량만큼 팬에 잘 개어 섞어 준 뒤 약불로 조려줍니다.약불아이들이 먹을때는 고춧가루를 빼고 케첩을 반스푼~한 스푼 정도 더 넣어주세요!",
+		"5. 기름을 살짝 두른 팬에 꼬치에 끼운 소떡소떡을 구워줍니다.약불",
+		"6. 키친타올로 기름을 한번 제거하고 만들어진 소스를 위에 발라주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/9fc147a23fadaa407764e804a0772b791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/b3c015bd772179bce8033706bee6d5881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/2e8710efb37fab05a28e6564fe6f70101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/3e7dcf3ab8f25805e335e6ef447ab6f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/6cde68fd64a2d061f9fd1efe81b36bb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/57035e31bea61e8603ddb020f7981f081.jpg"
+	]
+}

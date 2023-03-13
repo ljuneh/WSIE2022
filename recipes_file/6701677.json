@@ -1,0 +1,78 @@
+{
+	"id": "6701677",
+	"name": "얼갈이 열무김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/9a61805ca6d6c57c55f40e9168de201b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6701677",
+	"ingredient_ids": [
+		35,
+		3,
+		29,
+		28
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "열무",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "얼갈이",
+			"ingre_count": "1/2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "실파(or쪽파)",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "찹쌀풀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 열무와 얼갈이는 다듬어서 깨끗하게 씻어 주세요 2~3번정도~",
+		"2. 소금물를 타서 절이셔도 되고 저는 천천히 절이려고 소금을 뿌렸네요. 윗부분에 숨이 죽으면 한번만 뒤집어 절이시면 됩니다. 열무는 많이 뒤집으면 풋내가 나서 맛이 없어집니다.",
+		"3. 찹쌀풀이 식으면 고추가루를 넣어 풀어주세요.",
+		"4. 절여진 열무와 얼갈이는 씻어서 물기를 빼주세요.",
+		"5. 양파와 실파(쪽파)도 썰어 준비했어요.",
+		"6. 마늘과 생강도 채썰어 넣어주고, 찹쌀풀에 고추가루 풀어놓은걸 넣어주었어요. 여기에 액젓(멸치, 가나리)와 매실액을 넣었네요. 또 한가지 칼칼한맛을 위해 고추씨를 한줌 넣었습니다.",
+		"7. 살살 버무리시는데요. 간을 보시고, 고추가루와 액젓을 더 넣으시면 됩니다. 깨를 살살 뿌려서 버무리면 완성~ 익지 않은걸 좋아하시면 바로 드셔도 좋구요. 저는 이틀쯤 익혀 냉장고에 넣고 먹을까 합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/15406cb49ce751650f4165057e8f41771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/b089deb3d374b395b0026d28d0e579b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/4b3bd501ffbb8a5c72b13014fcc9b49c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/7b96152c2f321686dd2dd98849c7e6e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/60795b17146722fa592728d26ffd531b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/8d3d8d5881f6216f1d8374a2df1c70611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/28bb7941497004091a323611fc5da7b61.jpg"
+	]
+}

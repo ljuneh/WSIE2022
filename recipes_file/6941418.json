@@ -1,0 +1,70 @@
+{
+	"id": "6941418",
+	"name": "알토란, 밥도둑 백서 김하진의 비름나물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/37831824e4514daaca760facd0d6312e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941418",
+	"ingredient_ids": [
+		3,
+		473,
+		660,
+		350,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "비름나물",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "땅콩가루",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 볶은 땅콩은 조각을 내어주고 비름은 손질해 둔다.                   ",
+		"2. ㉡ 청양초, 양파도 채 썰어다.",
+		"3. ㉢ 소금을 1숟가락 넣고 손질한 비름을 삶아 찬물에 헹궈준다.                     ",
+		"4. ㉣ 마늘, 고추장, 땅콩가루, 참기름, 깨소금을 넣고 조물조물 무쳐준다.                     ",
+		"5. ㉤ 모자란 간은 소금으로  하고 썰어둔 청양초, 양파를 넣고 섞어준 후 마무리한다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/2b46c530d0ff0d66a66ea416e9f446321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/3f2679b4600ad296bcbc6c7a272e5b441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/22de951fafa34512af0310fe4616ce641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/7c4118c00c99dae84dad6de263073d171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/0019cd3c97b0db8a12c3f884c06ee8821.jpg"
+	]
+}

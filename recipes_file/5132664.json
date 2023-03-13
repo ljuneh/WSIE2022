@@ -1,0 +1,50 @@
+{
+	"id": "5132664",
+	"name": "명란젓 양념 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/7c0eee747dc5f352b9ef013fd587e371.jpg",
+	"url": "https://www.10000recipe.com/recipe/5132664",
+	"ingredient_ids": [
+		281,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "명란젓2개(130g)",
+			"ingre_count": "2개(130g)",
+			"ingre_unit": "개(g)"
+		},
+		{
+			"ingre_name": "참기름1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "굵은고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 분량의 명란젓을 꺼내고",
+		"2. 칼로 다져 주세요 ~~",
+		"3. 약간의 고춧가루 , 깨 , 다진파, 참기름 넣고 살살 비벼 주면 끝",
+		"4. 냉장고에 2-3주 보관 가능하구요 ~ 되도록 조금씩 먹을만큼 해서 넣어 놓는것이 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/8a54c4d8624fd7834c1fa263003cbfc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/49d06a6bad21e4b312cadab66b1885fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/6876ecce6ab242235927c976afd653941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/467e9fe833d005cbdba59f7e8ec93b871.jpg"
+	]
+}

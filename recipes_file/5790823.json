@@ -1,0 +1,62 @@
+{
+	"id": "5790823",
+	"name": "세발나물김무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/ea746463fbdbbe706f9eb2b05ed64636.jpg",
+	"url": "https://www.10000recipe.com/recipe/5790823",
+	"ingredient_ids": [
+		343,
+		660,
+		281,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "세발나물",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "조미김가루1컵정도",
+			"ingre_count": "1",
+			"ingre_unit": "컵 정도"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "굵은고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 세발나물은 물에 헹구어 체에 받쳐 놓는다.",
+		"2. 진간장과 미림, 참기름을 넣고 골고루 살살 무쳐주세요.",
+		"3. 준비한 김가루를 넣고 무쳐주세요.",
+		"4. 약간의 고추가루를 넣고 무쳐주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/da9fd0f2f42e8dda310e857c8f7313b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/666f2b500842085e9879e8e0e2bbd8ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/cd84a28c4a8faef94d6619f05e30f18c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/ab63cad8548522f875922914a32b2d761.jpg"
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"id": "6944991",
+	"name": "이색 유부초밥 크래미 유부초밥 맛있게 만드는 법 크래미 유부초밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/457de4d0b53c23a0397d9293a094ae021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944991",
+	"ingredient_ids": [
+		609,
+		3,
+		228,
+		577,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "유부",
+			"ingre_count": "20",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "크래미",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "조미볶음",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "초밥소스",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "와사비",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 밥에 초밥 소스와 조미 볶음을 넣고 골고루 섞어주세요",
+		"2. 크래미에 마요네즈와 와사비, 설탕, 후추를 넣고 섞어주세요",
+		"3. 유부 안에 밥을 2/3정도 넣어주신 다음에 밥을 최대한 눌러주어 크래미를 넣어줄 공간을 확보해주세요",
+		"4. 밥 위에 크래미를 올려주세요",
+		"5. 위 과정을 반복하여 유부초밥을 전부 만들어 주세요 그리고 완성된 크래미 유부초밥은 예쁘게 플레이팅 하여 마무리해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/912783d7acd9de3f98e48b29240849a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/564e724b3ce7f2a903d1d470e2064e221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/47385c3e36841922375398a55decaffd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/bba1f1e5c9edc437c857b058ebc10fc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/53e1c5dda0ea5bbe029f4a631c4fc1c11.jpg"
+	]
+}

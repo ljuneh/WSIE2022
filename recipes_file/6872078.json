@@ -1,0 +1,84 @@
+{
+	"id": "6872078",
+	"name": "국물닭발 초간단 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/01/1c8d5280079c0ccaeea80e3d9526d94d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872078",
+	"ingredient_ids": [
+		28,
+		846,
+		473,
+		233,
+		379,
+		292,
+		295
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭발",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "5",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "4",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 손질된 닭발을 깨끗히 씻은후 우유에 담가 잡내를 빼줍니다.",
+		"2. 흐르는물에 닭발을 한번더 씻어내고 끓는물에 닭발과 생강, 청주를 넣고 5분동안 삶습니다.",
+		"3. 채에 닭발을 건져 찬물에 행궈주세요 그래야 닭발이 쫄깃합니다.^^ 분량의 양념장을 넣고 잘 버무려 냉장고에 넣고 재워두세요.",
+		"4. 조리용 용기에 닭발과 물을 넣고 끓여주세요. (물양을 넉넉히잡고 우려내듯 끓여줘야 닭발이 뼈와 쉽게 분리됩니다) 취향에따라 고춧가루나 청양고추를 추가해주셔도 좋습니다.",
+		"5. 국물이 졸아들때까지 끓여주세요 닭발이 달라붙어 탈수도있으니 틈틈히 저어주세요.",
+		"6. 다진파를 올려서 맛있게 발골해주시면 끝~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/01/fa559e372e5e35ab3c94a7f269e10da61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/01/830fe313bf1ee328720eb858f2c3ad7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/01/e322b2056c0faebb5b10533df54dbb351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/01/158b07762cca64dca51279f31fdc34b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/01/59ea35cb5f6f53af46d01b73068b468f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/01/102151c1d36c25fc9576381ea63e64321.jpg"
+	]
+}

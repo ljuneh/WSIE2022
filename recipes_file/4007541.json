@@ -1,0 +1,54 @@
+{
+	"id": "4007541",
+	"name": "미숫가루 컵케익",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/02/12961bd6b2ffb5edc38203d50e7ccdac.jpg",
+	"url": "https://www.10000recipe.com/recipe/4007541",
+	"ingredient_ids": [
+		364,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "미숫가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "8",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "녹인버터",
+			"ingre_count": "6",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 계란흰자 3개 분량에 설탕8스푼을 넣고 거품기로 힘껏 저어 줍니다",
+		"2. 머랭을 거꾸로 들어보았을 때 거품이 흐르지 않을 정도로 만들어 줍니다",
+		"3. 우유 50ml를 조금씩 나누어 넣어가면서 거품이 죽지않도록 잘 섞어줍니다~ 그리고 녹인버터 6스푼도 나누어서 넣어 줍니다",
+		"4. 반죽에 미숫가루 1컵을 체에 내려서 넣어주고 거품이 꺼지지 않게 잘 섞어줍니다",
+		"5. 머핀팬에 종이머핀컵을 깔고 반죽을 넣은후, 잘데 다진 호두와 아몬드를 올려줍니다",
+		"6. 180도 오븐에서 20분가량 구워내시면 된답니다오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/02/1191104352eb33152ede3089f452139a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/02/d17512175d69d1fc5943d8f3f599c19f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/02/8104bb784714183209ae28bb282cc2ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/02/da599817deb42ae887403ff2608a829f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/02/5bc9171fc04d2e520b6616d51629b26c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/02/2d96122556ef0f216ed1fd75c16b39001.jpg"
+	]
+}

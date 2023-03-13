@@ -1,0 +1,90 @@
+{
+	"id": "6942487",
+	"name": "경기미 참드림쌀을이용한 야채계란죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e4510d204e25141775956771cb0f9ec71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942487",
+	"ingredient_ids": [
+		27,
+		219,
+		95,
+		497,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "불린쌀",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "당근3분",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "t스푼"
+		}
+	],
+	"recipe": [
+		"1. 대파는 얇게 썰어줍니다.",
+		"2. 다른 대파는 고명용으로 어슷썰어준다.",
+		"3. 당근은 채썰어서 다이스로 썰어준다.",
+		"4. 계란두개를 소금으로살짝간한뒤 계란물로 만들어준다.",
+		"5. 기름을두르고 파를 볶아준다.",
+		"6. 파향이 올라오면 당근을 넣고 볶아준다.",
+		"7. 파와 당근이 어느정도 색이날때 쌀을넣고 타지않게 볶아준다.",
+		"8. 물을조금씩 넣어가면 쌀이 퍼지게하여 죽을만들어준다.",
+		"9. 어느정도 퍼진 죽에 소금,후추로간해준다.",
+		"10. 참기름을 살짝둘러준다.",
+		"11. 풀어둔 계란물을 붓고 죽을 완성시킨다.",
+		"12. 김을 구워준다.",
+		"13. 구워진김을 부셔서 고명용으로만들어준다.",
+		"14. 완성접시에 죽을담고, 고명을 얹어준다.",
+		"15. 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a1b4b76c8aaedc62e411a84a2ea5b3521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a11440cf09560e172989cb5bbd77f31f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/ca5194d3d4531dfc8eb07441916cb2b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/04324d80c34e1037a6abe97c045ed3991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/bf5dd007fc9801f8fa001f511025be991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/043102d426e42be8cb3f767b0ee7bdbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/f912762cedd18b81b6284b7c82165c1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e0fcbeb1964443569dd631270954df5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/318acf87d282ff59253d92e8698e73021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/26743f15b6e58016b75bf6e02a59f6301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d720d9b1c649baa95a7b6f1b8298879b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/03f0b1ce3d2e1ee3f14350b595cc27bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/59f40d858ee85575c5cdad83230efbfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/8196ed2e4cbbc141a92c4a8a060c29d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/2378b75fed997e2bdaf71020b5120df71.jpg"
+	]
+}

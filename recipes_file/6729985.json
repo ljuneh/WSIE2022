@@ -1,0 +1,43 @@
+{
+	"id": "6729985",
+	"name": "매쉬포테이토 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/4bc2ae83478b7814ee7e11cdd05820a61.JPG",
+	"url": "https://www.10000recipe.com/recipe/6729985",
+	"ingredient_ids": [
+		5,
+		198,
+		485
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "1/2",
+			"ingre_unit": "C"
+		}
+	],
+	"recipe": [
+		"1. 감자는 깍둑 썰어준 후 감자가 잠길 정도로 물과 소금 1t을 넣고 삶아주세요.",
+		"2. 감자가 다 삶아지면 마지막에 물을 조금 따른 뒤, 냄비에 남은물이 거의 없이 수분을 날려주세요.",
+		"3. 뜨거운 상태를 꺼내서 으깨주세요.",
+		"4. 버터 1T,와 우유 생크림 1/2C를 넣어준 후 섞어줍니다.",
+		"5. 마지막으로 후추로 간을 맞추어주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/07e433ace03cffcdf9b403e02000bc5b1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/b7893d5026f9e185b3a3e430d22d676e1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/d886e184b4c2af9d38186ac5c732a03f1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/7d29b16ca52542488f3e2327dc72d37b1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/c2f2520472525857db6bcfe6a672abc71.JPG"
+	]
+}

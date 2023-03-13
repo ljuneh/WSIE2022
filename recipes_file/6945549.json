@@ -1,0 +1,100 @@
+{
+	"id": "6945549",
+	"name": "노영희 쉐프님의 굴밥 만드는법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/ced44b22268384cd9c1d529130a751631.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945549",
+	"ingredient_ids": [
+		96,
+		82,
+		19,
+		660,
+		757,
+		379,
+		543,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "굴",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무즙",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".Ts"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".Ts"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 쌀은 첫물은 가볍게 씻어서 버리고 잘 문지른후 맑은물이 나올때까지 씻어주세요. 씻은 쌀은 체반에 물기를 빼주세요.",
+		"2. 굴을 세척해주는데요. 이 방법은 예전에도 소개했던 방법인데 제방식과는 살짝 틀렸어요. 일단 무를 갈아서 반컵정도 준비해주세요.",
+		"3. 굴 200g에 갈아놓은 무를 넣고 잘 섞은후 3분간 잠시 놔두면 불순물이 생겨서 밑에 가라앉아요.",
+		"4. 체에 거르고 깨끗한 물에서 가볍게 무건더기를 거를정도로 헹궈주세요. 굴은 체반에 걸러 물기를 제거해주세요.",
+		"5. 이제 무를 4센치 길이로 썰어 두께는 0.5mm정도로 썰어주세요. 무를 이정도로 써는 이유는 너무 얇으면 밥이 완성될때 무가 뭉개져버려요. 적당히 굵은 사이즈로 썰어주셔야 한답니다.",
+		"6. 이제 쌀과 무를 냄비에 넣고 물은 쌀과 동량인 1:1로 우선 부어주세요. (일반 밥물보다 살짝 덜잡아야 해요. 무와 굴에서 물기가 나오거든요.) 만약 밥물이 적다 싶으시다면 중간에 밥물을 보충해주세요. 이땐 굴넣기 전에 해주셔야 해요.",
+		"7. 이제 밥물이 끓기 시작하면 씻어놓은 굴을 넣고 불을 줄여 10분간 익혀주세요. 그리고 뜸을 들이면 굴밥 완성이에요.",
+		"8. 마지막으로 뜸이 다들면 참기름을 살짝 넣고 휘저으면 밥알이 살아난답니다.",
+		"9. 곁들어 먹을 양념장을 만들어볼께요. 대파는 다져서 3큰술정도 준비해주세요.",
+		"10. 홍고추는 씨를 빼내고 다져주세요.",
+		"11. 쪽파는 있으면 송송썰고 전 없어서 패쓰했어요.이제 볼에 모든 야채를 넣고 간장 1.5Ts에 통깨 1/2Ts를 넣고 참기름 1Ts를 넣어주시면 양념장 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/00c228b1d80cad00760eb65bef2324b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/73b100bd4e9bb016b91faa4ed7afc0bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/b02b4140b633817c270d04285d4b00561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/e8d01b00e22b1b84acd504c462d7860c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/0fa18f32a2b24dfd361e0406130eb76b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/29e72e9f9dde24506e9765f83c4f68411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/e7f1b2c8b4518a548508721a56121c761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/e7511b4a88fe48b3dacd75aed03bf9d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/812acb3422fee110ee8fab46fef506bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/21f67a37265bde9907868329bc9b38f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/880d5f33a5b42c1efb7f7adb17d1a2181.jpg"
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"id": "6591458",
+	"name": "얼큰한 부대찌개 끓이는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/0c34a2ac2b7a5a7ab56286c1984d4e001.jpg",
+	"url": "https://www.10000recipe.com/recipe/6591458",
+	"ingredient_ids": [
+		58,
+		3,
+		201,
+		224,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "햄(통살햄사용)",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "미트",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "프랑크소세지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김치+김치국물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "라면스프",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 햄, 소세지, 미트는 먹기 좋은 크기로 썰어놓고 새송이버섯과 대파, 양파도 썰어주세요.",
+		"2. 냄비에 김치와 김칫국물을 넣고 고춧가루 2큰술, 라면수프 조금, 소금 조금, 물을 넣어 풀어준 후 준비한 재료를 듬뿍 담아주세요",
+		"3. 이제 부대찌개 세팅이 끝났으니 식탁에 옮겨 즉석에서 끓여주면 된답니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/17292bd2add3c8828240bb19dba0c0de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/3454ae0838fc22ac8f438d9a3ebfac6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/28fe1c0e273010c7e042ed47ea9cd3331.jpg"
+	]
+}

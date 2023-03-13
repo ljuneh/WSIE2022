@@ -1,0 +1,84 @@
+{
+	"id": "6895379",
+	"name": "멍게젓갈 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/09/06/83e208fcef257e4c5b141d120f4532b01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6895379",
+	"ingredient_ids": [
+		295,
+		505,
+		29,
+		3,
+		292,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "멍게젓",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "매실효소",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 멍게젓 150g 준비 하고 ~",
+		"2. 멍게젓은 조갯살 크기 정도로 잘라 주고 채소는 깨끗이 씻어 주세요 (청양고추는 씨 제거 해 주세요)",
+		"3. 마늘은 다져 주고 실파는 송송 썰고 쳥양고추와 양파는 잘게 다져 주세요",
+		"4. 조갯살 크기로 자른 멍게 준비 하고 ~",
+		"5. 멍게에 고추가루 먼져 넣어  무쳐 주세요",
+		"6. 고추가루 무침한 멍게에 다른 재료들도 넣어 주고 ~",
+		"7. 조물 조물 무쳐 주세요",
+		"8. 무쳐 준 멍게에 통깨 뿌려서  마무리 합니다",
+		"9. 접시에 담아 주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/06/dfdb4946aa32bde016d84a85138141a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/06/8720024e6c19e16f0d5d5b69da293a2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/06/35405c5823d503b23bd30a00300dcbb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/06/70a50635e64a9ff512893c78744cdddd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/06/feff1878adb9ed0cbd33f1ccb046020e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/06/ae2f96377042191238c7def0a831177e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/06/6f3fffd2e3f37850101b8219ec16d2171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/06/626cecb0f1415679205b62f6a40133491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/06/dc0d80ad1eea05ad3736ba98bd5ad0e71.jpg"
+	]
+}

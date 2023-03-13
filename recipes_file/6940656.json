@@ -1,0 +1,59 @@
+{
+	"id": "6940656",
+	"name": "고소한 아몬드 라떼 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/2ed34dcc18801253092ac03cf6f5fcaf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940656",
+	"ingredient_ids": [],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "맘스리얼베이스아몬드",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "에스프레소1샷",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "초코파우더",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "아몬드시럽",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "구운아몬드분태",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마쉬멜로우",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 잔에 '맘스리얼베이스 아몬드' 40g을 넣어줍니다.",
+		"2. 아몬드 시럽을 부은뒤 잘 섞어주세요.",
+		"3. 잔에 스팀한 우유를 가득 부어주세요.",
+		"4. 에스프레소 1샷을 추출하여 넘치지 않게 천천히 부어주세요.",
+		"5. 구운 아몬드 분태와 마쉬멜로우를 토핑해준 뒤, 초코파우더를 솔솔 뿌려주세요. 완성~!마시멜로우 토핑이 없다면 생략하셔도 됩니다 ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/7c1e40450d58e5d652b86677335d5f291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/012ef936b6674c64058b2b0eb1f55b3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/3be28cc680e257a0184054b8bef7bd211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/9ea043498196d5402cfe086158212c231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/d0f8df3b1b4a487c6f4c8fab79175b891.jpg"
+	]
+}

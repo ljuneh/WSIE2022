@@ -1,0 +1,65 @@
+{
+	"id": "6943993",
+	"name": "유자청 요리 / 유자청 피클",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/00a7e74b88ffa4308a81788d22b279c11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943993",
+	"ingredient_ids": [
+		19,
+		980,
+		995,
+		231,
+		226,
+		497,
+		857
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "유자청",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 무는 길쭉하게 냉면무 처럼 자른다.",
+		"2. 무에 유자청을 넣고 버무린다.",
+		"3. 냄비에 물, 식초, 설탕, 소금, 통후추를 넣고 끓인다.",
+		"4. 만들어진 촛물을 무에 부어 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/05e545971eadf8ff77b3bf6c22f3da271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/7bd986e3e4cf4eeda48fbf56c7e366921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ddeb8ea6fcad785e4e68e2910fdf298b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/eed4cedd3528d475df6ffab84079f0511.jpg"
+	]
+}

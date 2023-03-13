@@ -1,0 +1,67 @@
+{
+	"id": "6943097",
+	"name": "고슬고슬 계란 볶음밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/44d5c400435ab30ebd69abe27d25148d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943097",
+	"ingredient_ids": [
+		219,
+		477,
+		198,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 파를 먼저 다져주세요.",
+		"2. 밥에 달걀을 넣고  골고루 섞어주세요.",
+		"3. 팬을 달군 후 식용류를 둘러 줍니다.",
+		"4. 파기름을 내기 위해 파를 넣고  노르스름해질때까지 볶아주세요.",
+		"5. 파가 익어가면 버터를 넣고 볶아주세요.",
+		"6. 파가 노르스름해졌네요.",
+		"7. 밥을 넣고 달걀이 익을때까지 볶아주세요.",
+		"8. 굴소스를 넣고 간이 잘 베이도록 볶아주세요.",
+		"9. 그릇에 담아 맛있게 먹으면 돼요.  고슬고슬하니 정말 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/ee5c7be2493749141d7b9b7549469f0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/d2a519c6835cd196cf825fa1f03125041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/160a21a7ddeb32b9fac24b3630b1934b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/74c4d278bc965b2edad1fab306da69271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/52c43aaf69415aa24861a808368f64a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/58d88613c6d64b7c81f7347757ca34ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/30b65ca254bff9dd5b007225b39d62eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/cd02b22361ba09c997087f60f8ea506e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/e7d04db11f2a2978dc90a5fc56e00e851.jpg"
+	]
+}

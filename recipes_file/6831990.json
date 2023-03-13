@@ -1,0 +1,41 @@
+{
+	"id": "6831990",
+	"name": "부추베이컨말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/15/2e35349d4ca6d65611bab97efeec7a621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6831990",
+	"ingredient_ids": [
+		30,
+		406
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "9",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 부추는 흐르는 물에 씻은 뒤, 물기를 제거하고 베이컨 길이에 맞춰서 잘라줍니다.",
+		"2. 베이컨은 길이대로 반을 잘라서 준비합니다.",
+		"3. 베이컨을 하나씩 떼어 펼쳐주고, 그 위에 미리 잘라놓은 부추를 조금씩 올려줍니다.",
+		"4. 그대로 돌돌 말아주기, 베이컨의 기름으로 자동접착이 되어 풀리지 않으니 한번에 말아주세요.",
+		"5. 베이컨9장을 사용, 반 잘라서 총 18개가 완성되었어요.",
+		"6. 후라이팬을 깨끗이 닦아준 뒤, 부추베이컨말이를 차곡차곡 올려줍니다. 베이컨에서 기름나오니 식용유는 전혀 필요없습니다.",
+		"7. 베이컨이 말린 끝부분을 바닥면으로 향하게 하여 먼저 구워주고 완벽하게 접착이 됩니다. 앞뒤로 굴려가며 노릇노릇 중약불에서 구워주면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/15/7c8c6ecdbc58eaf3dff7a36e711e05ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/15/c168282fe2cebf46b24e60b2308a20321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/15/d0c9193eb00873f6c74e18357e87c29c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/15/30fd26fc24b3c76d9da141b2f3c24b011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/15/54abdf8ba3768f83fac696c15d305d7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/15/1af071dd28543bf46510a9c9597e00b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/15/00e6d9dfe24612856cb90756464501231.jpg"
+	]
+}

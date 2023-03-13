@@ -1,0 +1,71 @@
+{
+	"id": "6861965",
+	"name": "[간단한 간식만들기]마늘버터떡볶이,길릭떡볶이,간장떡볶이 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/01/6bc4f94befd5bcad219c30336e2f3ac01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6861965",
+	"ingredient_ids": [
+		198,
+		504,
+		379,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "밀떡",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. [간단한 간식만들기]마늘버터떡볶이,길릭떡볶이,간장떡볶이 조리시간 : 15시간 조리분량 : 2인분 난이도 : ★☆☆☆☆",
+		"2. 재료: 밀떡 200g ,통마늘10개,버터2스푼,식요유,간장2스푼,설탕1스푼",
+		"3. 냄비에 물을 넣고 떡볶이떡을 1분간 데쳐줍니다.",
+		"4. 데친떡은 찬물에 헹구어 준뒤 체에 걸러 물기를 제거해주세요.",
+		"5. 통마늘을 준비해서 슬라이스채칼로 편을 썰어 준비합니다.",
+		"6. 후라이팬에 기름을 넣고 튀기듯 편마늘을 볶아주세요.",
+		"7. 마늘이 노릇노릇해지면 키친타올에 올려 기름을 빼줍니다.",
+		"8. 후라이팬에 버터 2스푼을 넣고",
+		"9. 물기를 제거한 떡볶이 떡을 넣고 튀겨줍니다.",
+		"10. 어느정도 볶다가 간장2스푼,설탕1스푼을 넣고 볶아주면 끝이예요. 짭쪼름한것이 싫으신 분들은 간장을 1스푼만 넣어주세요.",
+		"11. 간장에 볶은 떡을 그릇에 담고 마늘튀긴것을 올려 파슬리가루를 뿌려주면 마늘버터 떡볶이 완성입니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/01/438ab33eb8c21754b4618e7891dc3e3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/01/0ed37e0e8fc733ec539fc0a6a7d25df31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/01/cf6df430e11401c09aeb5036f52630471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/01/552da4290d44043b1dcd54c6b812afbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/01/34b7cd24d4b0f9b1725ec733f10551e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/01/6081601761ab08c83f4c53d1f52c6a871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/01/f49ff3e7c9223b48417b14d58d7217fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/01/bd5aa2397e5df62e65845ca7a2b94f741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/01/2313bc448013e3f0f92f144b8f49685a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/01/2d77aec3f46f101ab2d80a5d5ad1d50e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/01/f10a416d05667cfd93381a99692d33641.jpg"
+	]
+}

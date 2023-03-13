@@ -1,0 +1,107 @@
+{
+	"id": "6940089",
+	"name": "표고버섯 잡채 만들기 잡채레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/5162d4a3636eba13300b5b40836eec9e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940089",
+	"ingredient_ids": [
+		53,
+		30,
+		9,
+		3,
+		219,
+		302,
+		379,
+		292,
+		660,
+		226,
+		291
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "잡채용고기",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 물에 간장을 3T정도 넣고 당면을 먼저 삷아줍니다.",
+		"2. 잡채용 앞다리살에 간장1,맛술1T와 후추로 밑간을 합니다.",
+		"3. 나머지 채소들은 채썰어 준비하고 달걀은 지단을 부쳐줍니다.",
+		"4. 표고버섯도 듬뿍 썰어 준비합니다.",
+		"5. 삶은 당면은 찬물에 헹궈 간장4T,참기름1T,설탕1T로 간을 해 줍니다.",
+		"6. 표고버섯은 참기름 2T를 두르고 볶다가 숨이 죽으면 간장 1T를 넣어 줍니다. 밑간한 고기와 채소도 따로 볶아주세요.",
+		"7. 익힌 재료를 모두 넣고 맛소금 1t,참기름1T,후추,설탕1T,간장2T를 넣고 잘 버무려 줍니다.",
+		"8. 달걀 지단을 올려주면 완성! 먹기 전에 잡채를 한번 팬에 볶아주시면 더욱 맛있답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/efba8e3a60b76ec14588a19d48612ebb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/781a4e5943bcad0bb2ae01c8d0d741b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/25dd30ba13fc9dee65ee7c239c8480ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/cf5011519d14702ad790a767bcaf64eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/69c959f758c05e687a2654d0b080cb321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/4237655db3fe17d69d8d69cb72697ee51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/a3c95deb048f24ca56328aa7ec858b791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/dc06707e6a6a40d0a4573fb9ce2bb9891.jpg"
+	]
+}

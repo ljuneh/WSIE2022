@@ -1,0 +1,87 @@
+{
+	"id": "6940011",
+	"name": "깻잎전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/07/23/1a51049e9f45d6286ed1f68181b7ffe61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940011",
+	"ingredient_ids": [
+		323,
+		15,
+		234,
+		379,
+		233,
+		458
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "다진돼지고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진소고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "30",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 다진돼지고기와 다진소고기로 간장 후추 생강즙 으로 양념을해 두부는 물기를 짜고 섞어서 만들어둔 만두소 입니다",
+		"2. 깻잎은 미리 씻어 두었다가 사용해요 깻잎 안쪽에 밀가루를 펴 발라서 밀가루를 바르면 반죽이 잘붙어요",
+		"3. 깻잎 위에 만두소를 올려 주세요",
+		"4. 깻잎을 반으로 접고 밀가루를 무쳐 줍니다",
+		"5. 계란물을 입혀",
+		"6. 약불에 올려 구워 주세요",
+		"7. 앞뒤로 노릇노릇~",
+		"8. 두부를 넣어 퍽퍽하지 않고 부드러운 깻잎전 입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/23/9a179e171ebcdc01eba69601d77565011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/23/a8b9ddd76f133d925d4b38605cdbd7a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/23/0bbcff70bb54b64101285b679fda47e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/23/d0399737c9a33886ba98a2321ef472791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/23/454e50179174801526cc21617e7c22f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/23/6e195418a926f9c054e70cd7769069d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/23/4bf851329e2272277432c5c45e84e8eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/23/ee7a545258f3be8e5bb6399f8cb4c8c21.jpg"
+	]
+}

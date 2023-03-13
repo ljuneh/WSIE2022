@@ -1,0 +1,94 @@
+{
+	"id": "6688343",
+	"name": "두부조림 황금레시피 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/16/c638e3d9e48facfcfdf7fd3bf4df709e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6688343",
+	"ingredient_ids": [
+		323,
+		995,
+		379,
+		575,
+		233,
+		660,
+		343,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 키친타올을 깔고 두부를 올린뒤 소금을 뿌려서 잠시 재워주세요. 밑간도 되고 두부의 수분이 제거되어서 더 좋아요.",
+		"2. 양념장을 만들어 두었습니다. 분량은 위에 적어두었으니 참고해 주세욤.",
+		"3. 재워두었던 두부를 물기를 제거하고 기름을 두르고 구워주세요.",
+		"4. 바닥에 채썰어둔 양파를 적당히 깔아주세요.",
+		"5. 만들어둔 양념장을 고루 뿌려주세요.",
+		"6. 저는 미리 만들어둔 육수가 있어서 육수를 150ml 정도 넣어주었습니다. 육수가 없다면 물을 사용하셔도 됩니다 (참고로 저는 멸치다시육수인데 양파껍질을 넣고 끓여서 색이 진하게 나왔어요)",
+		"7. 육수를 넣었더니 국물이 좀 많아졌지요 이상태로 국물이 반정도 줄여질때까지 끓여주시면 됩니다. 국물이 보글보글 끓을떄 청홍고추를 썰어서 넣어주면 칼칼한 맛을 더해줘요.",
+		"8. 저는 3분 정도 끓였더니 이렇게 국물이 반정도 줄었더라구요 먹어보니 간도 딱 맞고 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/16/40ae784d5bdca724400e6d061e3422a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/16/618b5de81d2c896fddd2febaf9ef86341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/16/05d3b3044c321279bb4054fee76d09941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/16/71ff4bec60fd87658a28e4899f9abb3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/16/51753ab8fec3c6b19268ba516490b7b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/16/f6eabaaff7ed144bfe9306d8389803df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/16/3641c3c1618bf9068f5f274ede6b2e611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/16/e745b6af3f113e60d42b748ec18f87a41.jpg"
+	]
+}

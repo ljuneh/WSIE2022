@@ -1,0 +1,78 @@
+{
+	"id": "6912602",
+	"name": "매콤 새송이버섯볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/05/17/f45d69e02a6a34a3746ac37c9574795d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6912602",
+	"ingredient_ids": [
+		58,
+		995,
+		473,
+		224,
+		660,
+		379,
+		226,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 후라이팬에 오일을 살짝 두른 후 버섯을 올려서 구워줍니다.",
+		"2. 반대편도 맛있게 구워줍니다.",
+		"3. 버섯을 굽는동안, 양념장을 만들어줍니다.",
+		"4. 버섯 위에 양념장을 부어줍니다.",
+		"5. 버섯에 양념이 잘 베도록 볶아주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/17/81ff1b0a9e4b430a64dcc3451bc5f7d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/17/d9b13baaa440c3a30a28d1cc5f7110681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/17/f3cbcabb5dbe524b11b91576356653591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/17/2e8ce130cec6d8ff35ac3102da57d9721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/17/fd0558673cd7155ffc1658a205be30561.jpg"
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": "6943565",
+	"name": "비엔나소시지 쪽파말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/07a64f8c9a69471f5bdce445b4ec8dea1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943565",
+	"ingredient_ids": [
+		757
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "비엔나소시지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "초장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 비엔나소시지를 끓는물에 데쳐줍니다.",
+		"2. 쪽파도 끓는물에 살짝 데쳐 찬물에 헹궈 물기를 쪽 빼주세요.",
+		"3. 비엔나 소시지에 쪽파를 돌돌 말아 묶어준 다음 초장 콕 찍어 술안주로 드세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/28dcc5a90db4f07506decaa0db779ae51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/e299515632986199e41567c76783d2cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a85063f65511b9316cf79899b67970471.jpg"
+	]
+}

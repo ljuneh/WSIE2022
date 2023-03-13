@@ -1,0 +1,152 @@
+{
+	"id": "6837305",
+	"name": "든든한 보양식! 장어탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/13/bf839a42f38269041c507dff564837141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837305",
+	"ingredient_ids": [
+		74,
+		27,
+		234,
+		995,
+		846,
+		29,
+		28,
+		848,
+		224,
+		337,
+		349,
+		233,
+		497,
+		225
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "장어",
+			"ingre_count": "4",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "장어뼈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "데친단배추중간크기",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "데친토란줄기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "데친고사리",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "참치액(선택가능)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".L"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 뼈와 분리된 장어는 밀가루 2큰술을 넣고, 살짝이 치대준뒤 깨끗하게 씻어 물기를 제거해주세요.",
+		"2. 냄비에 장어, 장어뼈, 마늘, 생강을 넣고,",
+		"3. 물과 청주를 넣고, 끓이다가 끓어오르면 은근히 끓여주세요.",
+		"4. 데친 야채들은 먹기좋게 잘라주세요.",
+		"5. 먹기좋게 자른 야채들을 볼에 담고, 양념을 만들어 넣고 조물조물 무쳐주세요.",
+		"6. 장어살이 푹 무르도록 끓였으면 면보에 걸러준뒤, 건더기에 약간의 장어육수를 넣고 믹서기로 곱게 갈아주세요.",
+		"7. 뽀얀 장어육수에,",
+		"8. 미리 양념해둔 야채들을 넣고 끓여주세요. 끓으면 불을 줄여 은근히 푹~ 끓여주세요.",
+		"9. 대파를 먹기좋게 썰어 넣고 한번 더 끓여준뒤 간을 맞춰주세요, 저는 참치액으로 마지막간을 했어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/02/756389ce0c4001a61ec805c1bb17396d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/02/c9f343e96cf617f8fdcacca4bd61a1ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/02/1c53dc2219474b0f5b1bddc71be842ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/02/4363cec9f88fda7374a45d16828568621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/02/902f80e6e33c962fb7304f7b337abe951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/02/04ab99c123e2a8d4443a8dd6325074861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/02/526bf21017dcb1d09366b92c72ba8cfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/02/f6a7bdd8ba4737a5dad9ddf3d78d41791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/02/cde2a7cf3d58287a395ea9990fa3d3d11.jpg"
+	]
+}

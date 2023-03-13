@@ -1,0 +1,63 @@
+{
+	"id": "6942587",
+	"name": "계절 식탁 고구마 맛탕 쉽게 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/a46892c6fb06befbd4aa4eda9dc7613c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942587",
+	"ingredient_ids": [
+		971,
+		476,
+		476
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마중형",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리고당(쌀엿물엿꿀)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "흑임자",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "튀길기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리고당(쌀엿꿀물엿)",
+			"ingre_count": "2",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "흑임자",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "튀길기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 고구마 껍질을 깨끗이 닦고 거의 비슷한 크기로 잘라서 물에 담가 둡니다. (약20분)볼",
+		"2. 물기를 빼준 다음 기름을 두른 팬에 익혀줍니다. 볶는 것보다 약간 기름을 더해서 고구마에 골고루 기름이 묻히도록 굴려가며 익혀줍니다.",
+		"3. 겉이 노릇노릇해지고 젓가락으로 찔렀을때 쏙 들어가면 건져내어 그릇에 담고,  꿀이나 물엿, 올리고당 등을 뿌려줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/305cf55c06a5d5a59f13048cdd293c651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/2256dfdce267c439eb8bc900ce9b84461.jpg"
+	]
+}

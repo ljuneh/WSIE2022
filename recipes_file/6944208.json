@@ -1,0 +1,51 @@
+{
+	"id": "6944208",
+	"name": "국민반찬 감자볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/51eb5f1940fb1be882899a5f4eec3ff31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944208",
+	"ingredient_ids": [
+		3,
+		497,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "작은감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 감자 채 썰어 물에 헹군 후  물기를 빼고 팬에 담아준다 양파도 채 썰어 담고",
+		"2. 취향껏 후추,소금을 넣어",
+		"3. 달달~ 볶아주세요",
+		"4. 감자가 익으면 통깨 솔솔 뿌려 휘리릭~ 볶아 냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/3eb9f85700c3d7870ce3e17590227ab61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/bd7591eef5ef7f0527527ed78f32e7161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/18494331cd650a7d06f616f7fe191eec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/395b6e7d615aa085ab9771b443c218b21.jpg"
+	]
+}

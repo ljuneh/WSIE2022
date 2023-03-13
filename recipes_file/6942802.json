@@ -1,0 +1,83 @@
+{
+	"id": "6942802",
+	"name": "강식당 김치밥이 피오씁니다 만들기~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/67741712cae934b7e5815df16b5255521.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942802",
+	"ingredient_ids": [
+		953,
+		95,
+		226,
+		212,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/6",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": "가득"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 우선 파 1줌은 잘게 다져주세요 그리고 팬에 식용유를 넉넉히 부은 후 다진파를 파기름 내듯이 달달 볶아줍니다~ 파가 노릇노릇 해지면                   ",
+		"2. 김치 1/6포기를 잘게 썰어서 넣어 같이 볶아주세요 김치는 종이컵 기준으로 1컵이라고 하는데 1/6포기가 언뜻 맞더라구요                     ",
+		"3. 그렇게 김치를 볶다가 김치가 어느정도 익기시작하면 설탕 1/2큰술과 진간장 1큰술을 넣어 프라이팬 가장자리에서 잘 녹여주세요                     ",
+		"4. 고추가루 2큰술 넣어 또 달달 볶아줍니다                   ",
+		"5. 밥 2공기는 넓은 그릇이나 볼에 퍼서 담아주고 볶아 놓은 김치를 담아서 밥과 잘 섞이도록 비벼주세요                     ",
+		"6. 다시 깨끗한팬에 식용유를 넉넉히 부은후",
+		"7. 비빈 김치밥을 넣어 골고루 잘 펴줍니다                   ",
+		"8. 한쪽 면의 반만 피자치즈를 듬뿍 올리고 프라이팬에 뚜껑을 덮어 치즈를 잘 녹여주었어요 불은 중약불로 익혔네요^^                   ",
+		"9. 치즈가 녹으면 접시 한쪽에 살살살 옮겨 담으면서 치즈가 덮힐 수 있도록 밥을 반으로 촥 덮어 줍니다                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/77e94448117851314a5ddd1c6f617de01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/43217cdae1a68a5f4d44ac5e87779f181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/4101a64604fbf93dafa3061fd11c50c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/dab12ce233b0f119dabeaffb7234967a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/52eabb8cc0037076841b0c000b6c27701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/22d4b352487e9730e4c51046346037a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/da0f42da1293ba00fc06ea3781e691f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/1eb7b9c8545a6e3ed2dc1d39503b63b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/205112c5feeb37fa697ce82a4df6a3e31.jpg"
+	]
+}

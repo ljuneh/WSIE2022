@@ -1,0 +1,60 @@
+{
+	"id": "6850811",
+	"name": "#간편하게 만드는 오이냉국만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/12/b743ec17748912bd665c220bde957a581.jpg",
+	"url": "https://www.10000recipe.com/recipe/6850811",
+	"ingredient_ids": [
+		8,
+		995,
+		231,
+		597
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "냉면육수",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "연겨자",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 그냥 냉면육수1이라면 물을 0.5 정도 넣어 주세요. 그리고 식초 3큰술 넣어 주시고요. 겨자의 맛을 좋아하시면 겨자도 넣어 주시면 맛있죠~~~ 여기에 청고추와 홍고추를 썰어서 넣어 주시면 색도 이쁘고요. 오이 채썰어서 넣어 주시고요.",
+		"2. 그리고 마지막으로 파 다져서 넣어주시면 오이냉국 완성입니다. 약간의 단맛을 넣고 싶으시면 설탕 쪼금 넣어주시면 되고요.",
+		"3. 렇게 만들어서는 밀폐용기에 담아서 냉장고에 넣어 두거나 단시간에 드실려면 냉동실에 넣어 두고는 살얼음이 생길때에 드시면 시원하니 좋지요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/12/93b1a4cd0bddb0ebf723fd4a1e04008c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/12/c40edfcc7de3e2ee13b2b8bff82759f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/12/37968ce6017b8d629d0fafd162fbffec1.jpg"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"id": "6940918",
+	"name": "꼬들 단무지무침 황금레시피 꼬들꼬들 단무지무침 초간단 밑반찬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/6ac922c5ae26a4631d38014cf919ecb01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940918",
+	"ingredient_ids": [
+		496,
+		29,
+		660,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 단무지를 먹기 좋은 크기로 썰어주세요. 이때 단무지의 국물을 조금 남겨주세요. 단무지국물 1스푼 정도",
+		"2. 고추가루 1T 뿌려줍니다. 다진마늘 0.5t 넣어주세요.",
+		"3. 통깨도 뿌려줍니다.",
+		"4. 이제 참기름을 넣어주세요.",
+		"5. 조물조물 무쳐 주세요",
+		"6. 이렇게 무치셨나요? 이제 그릇에 담아볼께요.",
+		"7. 너무나도 간단하고 쉬운방법이죠."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/133041bef92ba842de723f0ed8ccf1151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/241e01019b602843808313a2f110a7b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/52301d3b79e2d509f14f1c77d12e97c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/51ec49831a34e667ba099f691c6299a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/f42234767f0c1f6bb25b418ffa8566661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/26c7b948575b1cdc0af79d91f2fe7b2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/13183b74cb2a35950aa61914ec0dbcf41.jpg"
+	]
+}

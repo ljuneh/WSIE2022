@@ -1,0 +1,78 @@
+{
+	"id": "6945472",
+	"name": "[노오븐 베이킹]10분 완성 티라미수 만들기!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/ca5d93388dc10b3e233637c8e74782f41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945472",
+	"ingredient_ids": [
+		485,
+		204,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "마스카포네",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "35",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "사보이아르디쿠키",
+			"ingre_count": "4",
+			"ingre_unit": "ea"
+		},
+		{
+			"ingre_name": "코코아파우더",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "에스프레소(40g)",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물(60g)",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 준비사항 커피시럽은 차가운 상태로 준비해주세요.",
+		"2. 1.틀에 사보이아르디를 넣고 커피시럽을 부어주세요. *기호에 따라 시럽의 양을 조절해주세요",
+		"3. 2.마스카포네를 부드럽게 풀어주세요",
+		"4. 3.설탕,연유를 넣고 섞어주세요.",
+		"5. 4.생크림을 넣고 50%정도 휘핑 해주세요.*기계 사용시 튈 수 있으니 깊은 볼을 사용해 주시고 저속으로 휘핑해 주세요.",
+		"6. 부드럽게 뿔이 휘어지는 정도까지만 섞어주세요.",
+		"7. 5.틀에 크림을 넣고 스패츌러로 평평하게 정리해 주세요.",
+		"8. *크림이 모자란 부분이 있으면 채운 후 정리해주세요",
+		"9. 6.코코아 파우더를 뿌려주세요.",
+		"10.  보관방법.  2일 이내 드신다면 냉장보관 해주시고 2일 이상은 냉동고에 보관해 주시고 드실때는 냉장해동해 주세요. 코코아파우더는 뿌린 후 시간이 지나면 습을 먹어 색이 진해지니 선물하실거라면 데코화이트를 뿌리고 코코아파우더를 뿌려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/35c5e1046d17c907747e5fac740aa3f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/e7839142c977a88fbdb5843f1aa72e321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/a52d4c65c4dc20960f52f0678b184ae71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/3acffd7bfcb384161ba6432664bcad641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/833edd2e59b835801182f8d93d97c80e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/e093fcc06b712f85114ac7956cab03041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/520ae36ac3de86f99362ae6b5e5f8ae91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/02e4f1497b484ce9f9968e88d226c8451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/3aad29c310e6da3697194b324bdf87511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/0fa93d8d88be166b0f2e87654870a63d1.jpg"
+	]
+}

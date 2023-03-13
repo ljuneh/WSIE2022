@@ -1,0 +1,99 @@
+{
+	"id": "6846990",
+	"name": "바지락 손수제비~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/20/e9fd1f6df642cf3dd6c52f9bee53e8111.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846990",
+	"ingredient_ids": [
+		325,
+		3,
+		95,
+		84,
+		497,
+		282,
+		250
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밀가루(중력분)",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "달걀(지단까지포함)",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "100",
+			"ingre_unit": "m"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "바지락",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "다시육수",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 계란두개 .밀가루 (칼국수.수제비용 )",
+		"2. 우유100ml넣고 주걱으로 저어주세요",
+		"3. 몇번치대서 동그랗게만든후 ㅡ치댈때 식용유나 레몬즙조금넣어주면서 치대세요.",
+		"4. 비닐봉지에넣고 냉장고에하루보관하면 발효됩니다 .",
+		"5. 야채준비 ㅡ호박.양파.파.고추.달걀지단 .",
+		"6. 바지락은 굵은소금에담아 해감해줍니다.",
+		"7. 다시육수에ㅡ멸치팩넣고끓인거ㅡ 야채를(양파.호박.) 넣어주고",
+		"8. 하루보관된 반죽을 컵이나 밀대로 밀어줍니다.",
+		"9. 손으로 조금씩 뜯어서",
+		"10. 육수안에 넣어줍니다.해감한 바지락을 씻어 넣어주고 간은 파.김을 넣은후 소금으로 맞춥니다.",
+		"11. 담아서 달걀지단올리면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/20/9c475cfca9ac9a47a5728a2b0a676e271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/20/3a8007598512a88578ccba14ec18cded1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/20/0e530a6603d7e2c2a911d2a5323d5e9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/20/b8e197cc137fae8a949659f10f69f4381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/20/7057d11ed66706002792e4c153430b981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/20/f52671761aedd07c5f3616cff1b1b1ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/20/40f6d9d9b0d4d6a641d0082db14152b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/20/9b592ac8c9d85cc4c15ec3226bf367c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/20/08f213a8f719b346c0a01458d14ffba61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/20/d7af5f7dab553a27010777b24d85313a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/20/8677d87ecd9489861fa258ef5c7b60671.jpg"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"id": "6944518",
+	"name": "참치캔으로 미역국 끓여 보셨어요? 참치 미역국~~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/4955487e31d8e970f6e9aa348c0df3971.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944518",
+	"ingredient_ids": [
+		91,
+		349
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "85",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "밥숟가락"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "고운소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 참치캔 기름을 냄비에 쪼로록 따라주세요",
+		"2. 참치기름에 불려놓은 미역을 볶아주세요",
+		"3. 볶다가 참치를 넣어주시구요.",
+		"4. 간마늘도 약간 넣어주세요",
+		"5. 물을 국대접으로 3개 넣어주세요.",
+		"6. 국간장으로 한스픈 넣고 푹 끓여주세요.",
+		"7. 참치 미역국 완성 됐어요. 맛있게 드시면 돼요. 정말 국물맛이 끝내줘요~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/b0934a93b86a00109b1c0ee68c40e8581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/c327fe7865655f1987a54cd3d20d0dd41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/4b2a5200b7d4e51aa0433e11bd5366151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/711fe8d466c7758a06b73839a314ee3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/f0142a6d9c42627dc65f8e64380b57571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/db264114b01064699911cbb037e9ac6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/e2f6b10614ececdb8617a8212c9d0ccf1.jpg"
+	]
+}

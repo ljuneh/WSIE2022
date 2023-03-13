@@ -1,0 +1,66 @@
+{
+	"id": "6845723",
+	"name": "꽈리고추멸치볶음 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/31/ad005f63c1793a0be0a9b0d1fef20c7c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6845723",
+	"ingredient_ids": [
+		293,
+		379,
+		292,
+		575
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "고추장멸치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 꽈리고추는 꼭지를 따고 깨끗히 씻어놓습니다  고추에 포크로 하나하나 콕콕 찔러 놓습니다",
+		"2. 팬에 고추와 오일 1T 간장3T 를 넣고 볶습니다",
+		"3. 고추 숨이 반쯤 죽으면 멸치 오일을 넣고 볶다가 맛술을 넣고 약불로 볶습니다",
+		"4. 고추가 다 익으면 모든 양념을 합니다",
+		"5. 불을 끄고 파 올리고당을 넣습니다",
+		"6. 그릇에 이쁘게 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/31/ad9e493375510ced0fb763255bd93bb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/31/b80534a9f83180460264cfb652f08fd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/31/0120b98e25ff4bb2c2a4ac0c574009091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/31/a084deb6606793e0aacaa590ca866b561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/31/35a3c44a00877f4fdeee75070db9ce4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/31/9443dad67c3c5d360c299db522c804151.jpg"
+	]
+}

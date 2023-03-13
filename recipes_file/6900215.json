@@ -1,0 +1,60 @@
+{
+	"id": "6900215",
+	"name": "너무나도 고소한! 콩국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/15/7c59ce4d83caab997153e9d2075b67c31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6900215",
+	"ingredient_ids": [
+		523,
+		8,
+		371,
+		219,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노란콩",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "검은깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 오이는 채썰어 두고 토마토는 1/4크기로 잘라둬요!",
+		"2. 냄비에 물을 올리고 노란콩을 삶아요!'콩'은 아삭거리는 식감이 있을 때까지만 삶고 불리면 7~8배까지 불어 '밭에서 나는 고기' 라고 일컫네용!",
+		"3. 콩을 찬물에 헹궈 껍질을 벗기고 믹서에 물을 4컵정도 넣어 갈아요!",
+		"4. 팬에 지단을 부치고 2cm정도로 썰어둬요!",
+		"5. 국수를 삶아 줘요!찬물을 중간에 2~3번 넣어주면 면이 탱글탱글해진답니다!",
+		"6. 면을 접시에 담아 지단, 토마토, 오이, 은깨를 올려 장식하고 콩국을 따로 담아요!소금으로 간을 맞춰 말아드시면 됩니다!"
+	],
+	"recipe_img": []
+}

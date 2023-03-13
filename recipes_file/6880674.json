@@ -1,0 +1,56 @@
+{
+	"id": "6880674",
+	"name": "10분 완성 꿀레시피] 마늘 불고기 간단하고 맛있게!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/08/a5d9a4593c1e7934d07c0d0d61e3f4ad1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6880674",
+	"ingredient_ids": [
+		226,
+		233,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "불고기용고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 소고기나 돼지고기를 담백 고소한 등심부위로 골라서, 핏물을 제거하고 먹기좋게 썰어주세요",
+		"2. 이제 양념장을 만들러 고고! 진간장, 다진마늘, 설탕을 1:1:1비율로 넣고 후추도 조금 넣고 섞어줍니다 야채가 들어가지 않기때문에 마늘을 듬뿍 넣어주는게 핵심이자 포인트!",
+		"3. 달군 프라이팬에 불고기를 올려 익혀주세요",
+		"4. 초간단 마늘 불고기 완성! 갑자기 손님이 찾아온다거나, 후다닥 집밥을 차려야 할때, 너무나 든든하게 우릴 지켜줄 꿀같은 메뉴 'ㅂ' 초간단 마늘 불고기! 우리 이웃님들도 한번 도전해보세요~ :) 저는 다시 돌아올게요 남은하루 즐겁게 보내세요 씨유쑨! ♥"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/08/5c27b3a53cb0e8facdd840d59509ed261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/08/d67e171e6911f90b7ffc5f219e04e7941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/08/9418b9ed3005a0a4877cf6c591f2e0141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/08/01928e1914a51d60cec7a556b2fa40e21.jpg"
+	]
+}

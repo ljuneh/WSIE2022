@@ -1,0 +1,45 @@
+{
+	"id": "6944005",
+	"name": "쌓여가는 피부독소! 김소형한의사와 함께 피부해독주스 만들어보세요! ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/2c8d680d87fbba45548a80191f8f11811.png",
+	"url": "https://www.10000recipe.com/recipe/6944005",
+	"ingredient_ids": [
+		21,
+		51,
+		9,
+		158
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 토마토는 꼭지만 제거하고, 사과는 씨 부분을 도려 내고. 적당한 크기로 자른다.",
+		"2. 당근, 양배추는 깨끗이 씻어 적당한 크기로 자른다.",
+		"3. 믹서기에 모든 재료를 넣고 갈아 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/3cf4b671b79d4502392f62a3b0e7fb1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/273a7b9faa00c4a1662ff2154cf4fdfc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/7f16dc32e1d176e6e64aee807c5f94e51.jpg"
+	]
+}

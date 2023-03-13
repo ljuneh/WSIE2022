@@ -1,0 +1,56 @@
+{
+	"id": "6943537",
+	"name": "너무 너무 간단한 아보카도 명란젓 덮밥 만들기(초간단 버전)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/8fe4586b701815d0c28188b902465bad1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943537",
+	"ingredient_ids": [
+		162,
+		219,
+		342,
+		660,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "햇반",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "명란젓",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "6",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 먼저 아보카도를 손질해 줍니다.",
+		"2. 프라이팬에 식용유를 두르고 달걀 프라이를 만들어줍니다.",
+		"3. 그릇에 밥을 깔고 위에 아보카도, 달걀 프라이를 이쁘게 얹어줍니다. 마지막으로 명란젓을 올려준 뒤, 참기름을 넣어주면 완성요새 명란젓은 튜브형으로 나온 제품들이 많아서 요리할떄 편리하게 사용하고 있답니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/21de328a08b763f0a1706d0f780e09491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/6178e25f50cd9be8b36ca030912362861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/af7dc30f4547da2ca3f5895bd8bc77581.jpg"
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"id": "6865904",
+	"name": "[집밥 2] 백종원 어묵탕 # 어묵전골 육수 우리는 방법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/26/b3715db2b7e2f46d870ef8c2bc7278fb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865904",
+	"ingredient_ids": [
+		548,
+		19,
+		3,
+		295,
+		292,
+		90
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2~3장",
+			"ingre_unit": "~장"
+		}
+	],
+	"recipe": [
+		"1. Tip. 천연조미료 백선생 멸치가루 만들기 # 멸치가루 만드는 방법 멸치 내장과 똥을 제거합니다. 머리 버리지 말고 그냥 사용합니다. 손질된 멸치를 달궈진 프라이팬에 아무것도 두르지말고 볶아줍니다. 비린내 제거를 위함이며 냄새가 고소한 정도까지 볶아주세요 한소끔 식힌 다음 믹서기에 갈아 줍니다. 끝. 한번 만들때 넉넉히 만들어 두고 냉장고에 두고 사용하면 됩니다.",
+		"2. 냄비에 물을 담고 멸치가루 2T 투하, 무는 어느정도 두께감 있게 썰어서 냄비에 퐁당 멸치 육수를 낼때에는 센 불로 비린내를 날려주세요.",
+		"3. 양파 1/2개 통으로 넣어주세요. 파의 양은 적당히 원하는 만큼 투하.~ 청양고추 1개를 썰어서 넣어주세요. 요게 생각지 못 한 한수!! 칼칼하니 좋아요. 양파 넣는 이유는 단 맛도 있지만 약간의 멸치의 비린 맛을 잡아주기 때문.",
+		"4. (집밥백선생 2리터 기준 간장1컵) 평소 기호에 따라 3T만 넣어줘도 충분할 것 같아요. 비린내를 잡고 부드러운 맛을 살리는 용도로 맛술 1/4컵 넣어주세요.",
+		"5. 간마늘 1T 그냥 넣어줘도 좋지만 간마늘 알갱이가 육수에 퍼지면 어묵 육수 특유의 맑은 느낌이 사라져 되도록 작은 체에 거르면서 풀어주세요. 다시마 2~3장 육수용 재료 투하 끝.",
+		"6. 육수가 우러나는 동안 어묵을 손질합니다.",
+		"7. 육수에 넣고 한소끔 끓여주세요.~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/26/a387f7608a1945bd6335e9d85762558d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/26/161408a2053c929bc3a5ee753aba8c7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/26/932853d6388e5ee3d0947a18965cf2ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/26/8a48ca34bd3f30aff132a28bfff9efd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/26/28b2098ca427687bd517dc005c1bfa531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/26/2a89252cc49cc856c2cc0ed43c4dd7a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/26/5b6be9469b73438382b90a4a75a30afb1.jpg"
+	]
+}

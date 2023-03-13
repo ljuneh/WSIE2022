@@ -1,0 +1,69 @@
+{
+	"id": "6945241",
+	"name": "홍어무침 비빔국수 매콤한 별미",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/bece3cc8e43cec17598b84112dafb16a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945241",
+	"ingredient_ids": [
+		16,
+		473,
+		231,
+		226,
+		290,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "민들레국수",
+			"ingre_count": "3",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "상추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "홍어회무침",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 끓는물에 국수 삶아요 민들레 국수라 색이 좀 짙어 보입니다 우르르~~ 끓으면 물 붓기 3번하면 맞춤하게 삶아지는 것 아시죠",
+		"2. 삶은 국수는  흐르는 물로 여러번 비비며 씻어 건져요 ",
+		"3. 볼에 국수담고 고추장, 식초, 설탕, 깨, 참기름넣고  비벼요 상추 겉절이도 함께 넣었어요 ",
+		"4. 그릇에 비빔국수 담고 홍어무침 넉넉히 올려 냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/fee9c483aa3ca248afb490c7638f2a7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/6821f291a50cbd497bf1eef3ed5dc6131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/9decb6b6ae624e2e09f1b07466b727741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/9f112894e20342a5304e679c5111bf0b1.jpg"
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"id": "2468143",
+	"name": "실타래 초콜릿",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/ba76431f33a6adb62e72e6805e2c4745.jpg",
+	"url": "https://www.10000recipe.com/recipe/2468143",
+	"ingredient_ids": [],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "다크커버춰",
+			"ingre_count": "130~140g",
+			"ingre_unit": "~g"
+		}
+	],
+	"recipe": [
+		"1. 물이 든 냄비나 볼에 다크 커버춰가 든 볼을 넣고 약불에서 스패출러로 저어가며 녹여주세요.",
+		"2. 볼을 냉수에 받쳐서 천천히 섞어가며 온도를 27도까지 내려주세요",
+		"3. 템퍼링을 마친 다크 커버춰는 전체적으로 윤기가 흘러야 해요",
+		"4. 실타래 몰드에 템퍼링한 초콜릿을 붓고 표면을 정리한 뒤 서늘한 곳에서 굳혀주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/66edf5cf385b1f710281b786290bc88c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/0143859ffd9d161eebd35720e9dc507f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/a9c1127910d059940072f39f5034b37b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/2efad9c2c9d46abe62e106c41a99d61f1.jpg"
+	]
+}

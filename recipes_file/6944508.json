@@ -1,0 +1,89 @@
+{
+	"id": "6944508",
+	"name": "아침 식사 메뉴/ 사과무화과 잼 브런치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/51056aefbd52068c4862d86c26bae9361.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944508",
+	"ingredient_ids": [
+		158,
+		140,
+		250,
+		219
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "사과",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무화과",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "사과진액",
+			"ingre_count": "8",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "무화과진액",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터(혹은마가린)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "슈거파우더",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 냉장고에 굴러 다니는 맛없는 사과. 지인이 시골집에서 농사 지은 것이라고 준 건데 딱딱하고 맛이 없어~~ ㅎㅎ",
+		"2. 상한 부분은 도려내고 깎아서  잘게썰어 주었다.",
+		"3. 무화과도 껍질채 먹어도 되지만  껍질을 제거 하였다. 두 개 깎아서 준비하였다.",
+		"4. 칼들으로 으깨니 숙성이 잘되서 잘 으깨진다.",
+		"5. 잼을 만들 냄비에 두 재료를 넣고 잼 만드는 작업을 한다.",
+		"6. 설탕 대신 만들어 두었던 사과 진액과 무화과 진액을 이용 하여고 한다.",
+		"7. 무화과 진액 5T와 사과 진액 8T를 넣고 나무 주걱으로 저으면서 졸여 준다.",
+		"8. 거의 졸여 졌을때 레몬즙 2T를 넣어준다.",
+		"9. 뜨거운 물에 병을 소독하여  꺼내 식힌후에 물기를 제거해 준다.",
+		"10. 작은 병으로 1개 준비되었다.",
+		"11. 식빵은 테두리를 잘라내고 밀대를 이용하여 넓적하게  밀어준다.",
+		"12. 테두리를 달걀물로 칠해 접착하게 만들어서 팬에  버터나 마가린을 넣고 굴려가며 구워준다.",
+		"13. 고소한 냄새가 진동을 한다.",
+		"14. 마지막으로 슈거파우더를 올려서 과일과 함께 아침 식사를 만들어 보았다.",
+		"15. 커피 한 잔을 곁들여도 좋고 우유 한 잔과 먹어도 좋은 아침 식사 메뉴 브런치 이다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/40908d0b464a1fde77c47ba7f6f490f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/2af781b4a26b93d59c0e5aa5c962d5141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/5a45ffb3da641713c56de76d201801cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/55b8c5cb293273cb5c594571f8d0ec791.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/091ecdb5a9b34b3947673ccf64d62e6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/257ffb60de3267793e25b066b1f1628d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/3cdce6262994b5027443d7ce6dbd6a3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/b14a6d83f1827611bacafb6c121c8ed91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/287245b186f6061cb3c64dc2165a51771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/40bb62fab9b516749843f716545af1741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/135a8d154a919c26789de7ef06341dea1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/851a4188f0526cea0481903547a67f7b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/f4df01e998190dd48fc1ca3ce2bac6821.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/f93dfab40f0ceadfa732e81393da531b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/acf83cfe1b01330329cc65308634aad41.jpg"
+	]
+}

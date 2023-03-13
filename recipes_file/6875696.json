@@ -1,0 +1,50 @@
+{
+	"id": "6875696",
+	"name": "참치 맛 가루 (후리 가케)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/01/4d62a081b2bb5032f320c4a80e7d41cc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6875696",
+	"ingredient_ids": [
+		379,
+		292,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 참치는 체에 밭쳐 기름을 제거해주세요꾹꾹 눌러 기름을 빼주는것이 좋아요",
+		"2. 달군 중불에 기름 뺀 참치 넣고 볶아 수분을 날려주어요",
+		"3. 어느정도 볶아 색이 날 즘에 간장 맛술 설탕을 넣어 섞어 볶아주고중불 ~ 약불참치 볶을때 눌러가며 볶는데요 누르게 되면 치~익 소리가 나게돼요 소리가 안날때까지 볶으면 됩니다",
+		"4. 색이 진해졌지요 약불로 줄이고 계속 볶다보면 바스락 소리가 들려요~ 수분 없이 볶아지면~~끝",
+		"5. 참치 맛 가루를 밥에 넣고 통깨와 참기름 한두 방울 넣어 섞어 김에 돌돌 말아 봤어요",
+		"6. 바쁜 아침에 좋을듯해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/01/8bd29aff5fb9e9902c560f3eeab4fb8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/01/81b2e18691f4822c9f8260e3df7f908b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/01/dae1e039a4aa9ff906253d18ab4541d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/01/2edad5cfdc71c8af466a10e11f2071451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/01/4280655401758a745d6588beeb2e27cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/01/f5115955a6a3dfdb665df45fed5943731.jpg"
+	]
+}

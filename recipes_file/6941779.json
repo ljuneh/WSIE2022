@@ -1,0 +1,63 @@
+{
+	"id": "6941779",
+	"name": "맛 없기 힘든 조합! 스팸과 딸기잼이란,,,,,,, 스팸치즈롤 ★",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/e393089dce0dc6e98382fa1b6e52cfd91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941779",
+	"ingredient_ids": [
+		503,
+		214,
+		219
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "잼",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 식빵은 가장 자리를 자른 후 밀대로 민다.                     \r                             나무밀대                           \r                             카카두 호주 캄포도마 시드니                          ",
+		"2. 스팸을 자른 후 달군 팬에 기름을 약간 두르고 굽는다.                     \r                             도블레 스팸 슬라이서 & 바나나 에그 커터기                          ",
+		"3. 식빵에 잼을 바른 후 치즈> 스팸을 넣고 돌돌 만다.",
+		"4. 볼에 달걀, 우유, 파슬리가루를 넣고 달걀물을 만든다.",
+		"5. 식빵>달걀물을 묻힌 후 달군 팬에 기름을 약간 두르고 구워 완성한다.                     \r                             네오플램 노블레스 프라이팬                          "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/a33e51e554642fe57b6a25edf0e5f1e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/f5f3f39f8a3197fdd28e8b7effa02ea11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/51c551e94c52aa9dc72e13be88fef05a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/4cdaa6787078be38f31364c5b41953be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/47de517403adf6f55574fbf43bf48bf01.jpg"
+	]
+}

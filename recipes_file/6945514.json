@@ -1,0 +1,76 @@
+{
+	"id": "6945514",
+	"name": "빼빼로데이에 까르보나라 달걀프라이 토스트 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/546f2b79854774fc31da87f1b76c54cf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945514",
+	"ingredient_ids": [
+		503,
+		219,
+		228,
+		406,
+		574
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "슈레드치즈",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파르메산치즈",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 재료는 아주 간단합니다. 파르메산치즈는 없으면 생략 모짜렐라 치즈는 꼭 준비 하세요.",
+		"2. 베이컨은 잘게 썰어 팬에 바삭하게 볶아 주고 키친타올에 올려 기름기를 빼 줍니다.",
+		"3. 식빵에 올리브 오일을 넉넉하게 발라 줍니다.",
+		"4. 식빵 테두리에 마요네즈를 짜주고",
+		"5. 그 위에 슈레드치즈(모짜렐라치즈)로 둑을 만들어 주고",
+		"6. 에어프라이어에 넣어 줍니다.",
+		"7. 가운데 달걀을 한개 넣어 주세요. 깨지지 않게요.",
+		"8. 치즈와 달걀 사이에 베이컨을 올려 줍니다. 그리고 에어프라이어 160도로 10~15분 정도 구워 주시면 됩니다..달걀 반숙을 원하시면 10분정도 해주시면 되요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/39a34247441b4ca3027179888aed626f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/83ad1c71d5eb2f9ff68c0330723169c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/b232c7d32bf0b81e23ab32395cb347951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/3caabcec7ea2b1ef341c2c46636e746a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/549545f8b7dae207391b6df8264111231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/e4a244ae08d668697d1e67dedd91e6c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/b66dd55efe0aed154a5eeddd19a17ea01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/24b5fa8aa0a79d0c645974187a7ea2541.jpg"
+	]
+}

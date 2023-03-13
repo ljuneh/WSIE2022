@@ -1,0 +1,71 @@
+{
+	"id": "6941449",
+	"name": "맛있는 콩비지찌개 만드는 법(김치비지찌개)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/9825fd5ffbe3cfbe8dbdd2f4882be8a41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941449",
+	"ingredient_ids": [
+		434,
+		487,
+		953,
+		27,
+		295
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "비지",
+			"ingre_count": "2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/5",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치육수3C​",
+			"ingre_count": "3",
+			"ingre_unit": "C ​"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 비계가 적당히 있는 돼지고기를 넣고 살짝 볶아준다",
+		"2. 비지찌개 육수로 멸치육수3C를 사용해보았다",
+		"3. 김치1/5포기,대파1/2대를 총총 썰여준다",
+		"4. 냄비에 볶은돼지고기,김치,대파,비지,멸치육수를 넣고 끓여준다",
+		"5. 신김치국물2C를 넣고 약불로 끓여준다",
+		"6. 청양고추1개를 썰어 넣어준다",
+		"7. 맛있는 콩비지찌개 완성입니다~ 김치와 고소한 콩비지가 어우러지는 맛이 일품이에요",
+		"8. 비지찌개를 떠먹어도 맛있고 밥에 넣고 비벼먹어도 맛있어요 밥한그릇 뚝딱하는 콩비지찌개 레시피였습니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/820b78c67fee6cdb4685d91cb90878131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/cc5ac298a1b30b77252e8ccfd5ac635c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/95638a183b48e29781bce84a20b0cc2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/d631e6c4abce44ab8ec35fca781528641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/1274d24a41ec24aa92c0f107211ac0b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/91c1de519be6b7b31215ae33fc18e6391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/3987b8f203030bb022ef466df3e592171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/f45500a8ef5735e511c843bd1918d39c1.jpg"
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"id": "6942442",
+	"name": "우리 품종 '가와지 1호'로 만드는 제철 영양밥 - 미역굴밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/8b18497cbb26ae09cc5feba2b8eef6b41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942442",
+	"ingredient_ids": [
+		250,
+		233,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "자른미역",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생굴",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "가와지쌀1호1/3컵또는90g",
+			"ingre_count": "1호1/3컵 또는 90g",
+			"ingre_unit": "호컵 또는 g"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요",
+		"2. 가와지 1호를 1인분 양에 맞게 씻어줍니다. (적게 드시는 성인 여성 기준 70g~90g)",
+		"3. 1인분 기준으로 미역 한 큰술을 준비해주세요.",
+		"4. 씻은 쌀과 미역을 솥에 넣고 불려줍니다. (쌀은 반드시 불려 주지 않아도 되지만 조금 더 찰기있고, 쌀알이 살아있으려면 불려주는 과정을 거쳐주시는게 좋아요.)",
+		"5. 굴 100g에 레몬즙을 살짝 둘러 준비해둡니다.",
+		"6. 쌀 불린 물을 따라내고 밥과 동량으로 물을 잡아줍니다. 중약불로 한번 끓어오를때까지 끓여줍니다. 끓어오르면 약불로 낮춰 솥에 수분기가 거의 없어질때까지 끓여줍니다. (보통 솥밥은 흰쌀밥 기준 쌀과 물의 비율을 1:3 정도로 해주는데요. 굴에서 나오는 수분도 있기때문에 1:1로 잡아줍니다.)",
+		"7. 밥이 거의 다 되어가죠? 전처리 해두었던 굴을 넣어줍니다.",
+		"8. 굴이 익을때까지만 더 끓여주고 불에서 내려줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/2e1a15a6d3bef0e23329deabf190b1941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a3dc12d4a115ad292bde15894a0af14c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/52a9f8c372a0b0e2f43b47d6e7c21c361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/3e65c768da7714f60b09c97cdfc5713b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/3115350f476a4b7b8c647d396a027d6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/1435a1aadc1b4f803b6cb79685480d361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/07a84b0aa2caf1bdeaa55bb1b7b43cd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/226c771e86920ecc40468ac1c37525771.jpg"
+	]
+}

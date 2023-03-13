@@ -1,0 +1,111 @@
+{
+	"id": "6843494",
+	"name": "열무김치 맛있게담그는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/8b587dd0a566b18af027ae05a46ec8f61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843494",
+	"ingredient_ids": [
+		35,
+		29,
+		28,
+		497,
+		295,
+		9,
+		19,
+		613,
+		757
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "열무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "장아찌원액",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "복숭아효소",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "자색양파",
+			"ingre_count": "1.",
+			"ingre_unit": ".개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 열무를 손질하여",
+		"2. 소금물에 절여줄것이랍니다.",
+		"3. 천일염을 물에 먼저 풀고 열무를 물에 담구어서 절여주세요. 천일염을 줄기부분에 살짝 뿌려주시구요.",
+		"4. 절여진 열무를 깨끗히 손질하여주시구요.",
+		"5. 복숭아효소건지랍니다.",
+		"6. 장아찌원액1컵",
+		"7. 복숭아건지효소 마늘 생강을 넣고 갈아주세요.",
+		"8. 아로니아효소건지도 갈아주었어요.",
+		"9. 생수에 아로니아 마늘 생강 갈아준것을 망에 넣고 흔들어주세요.",
+		"10. 장아찌원액과 소금으로 간을해주시구요.",
+		"11. 청량고추10개, 당근 1개, 무우 약간, 자색양파 1개반, 쪽파를 적당한 크기로 잘라주세요.",
+		"12. 야채들을 골고루 섞어주시구요.",
+		"13. 용기에 열무를 넣고 위에 야채들을 넣어주세요.",
+		"14. 맨위에 야채로 마무리를 해주시구요.",
+		"15. 준비한 육수를 마지막으로 부어주세요.",
+		"16. 몇일 숙성을하면 맛있는 열무김치 완성이 되겠지요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/9a86de8f3a36ddc84304923b103f6be11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/7cc5ad45c663af6cd2ed4715171ce63c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/db7b628cac83a3b0b4d32ae4a10d8d081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/143b8a2890ffa3af253ac4d28e6b09a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/8e5a727afae4933349ca0968f86a188a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/3aaa9e049608d7a847682af1274a9bb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/3a8e5386e4c5861b6cf7aeaac1e9e34b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/47948e5408e6ebe8c43d657e2f5cd9dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/0e875ba0533ca0a8ebbf6ec295393bf11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/3c6f2e5a61b357a79bc8a7f487415c9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/2ffd474d0d916f07e0232ef72d2292571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/04ac515e5783ce983d55f093d7d5d9401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/e8f3561e63f7cda9752ff21f1391914e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/c3e748376eed86f847f5c5a45bbe01a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/80a4ea58dddc1aefb7b63faf2f63c2681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/26/397b65b85ba26076d452eb099b260bf61.jpg"
+	]
+}

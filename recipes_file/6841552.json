@@ -1,0 +1,40 @@
+{
+	"id": "6841552",
+	"name": "옥수수 버터구이~~ 냉동실에 쟁여두었던 옥수수가 있다면 완전 쉽게 간식해결~~gogo",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/13/50d455192cb2e66920231bc40ab93b721.jpg",
+	"url": "https://www.10000recipe.com/recipe/6841552",
+	"ingredient_ids": [
+		198,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "찐옥수수",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 열이 오른 팬에 버터를 올려녹여 주었어요",
+		"2. 버터가 녹기 시작하면  냉동실에서 미리 꺼내 해동시켰던 옥수를 올려주었어요  ",
+		"3. 팬에서 옥수수를 굴려주어  버터가 골고루 묻으면서 구워지도록 했어요",
+		"4. 버터가 골고루 묻은 옥수수에 소금 약간 뿌려 주었어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/13/c8ed1b2943e6743cf3a6a6519528c9ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/13/40f9adfe23a8659bd1095c7d5b2784731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/13/ce4d04217d026533383041981192d72a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/13/4fc7317b8c0c4793bf1515a3780b6b7c1.jpg"
+	]
+}

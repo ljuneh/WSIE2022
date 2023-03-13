@@ -1,0 +1,96 @@
+{
+	"id": "6943605",
+	"name": "들깨토란탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a4b58e7951d7cfce98b96d9f2fbd043a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943605",
+	"ingredient_ids": [
+		337,
+		58,
+		27,
+		295,
+		233,
+		349,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "손질된토란",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "6",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2/1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다시육수",
+			"ingre_count": "8",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2/1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 토란을 가려움증이 있으니 장갑끼고 깨끗이 씻어 준비합니다 팔팔끓는물에 데쳐주세요",
+		"2. 토란을 데치면 껍질이 잘 벗겨진다",
+		"3. 토란을 벗겨서 1시간이상 담가두세요 *아릿맛을 제거해야 합니다",
+		"4. 손질된 토란을 먹기좋은 크기로 썰어주세요 2~3등분 하시면 됩니다",
+		"5. 그사이 다시물을 만들어주세요",
+		"6. 끓는물에(쌀뜨물)굵은소금 한스푼 넣고 토란을 5분이상 끓여줍니다",
+		"7. 핏물뺀 소고기을 다시물8컵에 넣어서 20분이상 끓여줍니다 *불순물을 제거해주세요",
+		"8. 새송이.대파.홍고추.청양고추을 어슷썰기해서 준비합니다",
+		"9. 다시육수가 4컵정도 줄어들면 토란을 넣어서 10분정도 끓여줍니다",
+		"10. 끓이다가 들깨가루 6스푼 넣어서 5분정도 끓여줍니다",
+		"11. 5분정도 끓이다가 다진마늘2/1 ,국간장2/1,소금으로 기호대로 가감합니다 준비된 부재료을 넣어서 5분정도 끓여주면 완성입니다",
+		"12. 완성된 들깨토란탕 구수하고 고소하니 맛있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/920c95fb5d6e1b7e6e2f0801de06abfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/53fc19310e92c525982da699166efa991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/661299de4ec03931ebf028f389818a831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a9061cd11ff86a0b10b6d57692e351981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/e5f13e1e38e8d79fe4019ba11ff8b0731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/54a5fcc3826caafe4d8084393576240b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/97f6782c9e3f78415590d14b54ee78581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/505e4f61355b2ce93d6d5cea5d8ebb0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/7d3af37f5244a0782f9363c9523d4a731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/3148b3c95450deedb8836b84868962b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/c12f09c4471514ead69d63f4af5cbd171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/88a9248ad8e29e8260f9ea0f27e952cd1.jpg"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"id": "6942171",
+	"name": "(경기미 참드림)애호박명란비빔밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/b5149d282a511979daf3d3c91415fb261.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942171",
+	"ingredient_ids": [
+		7,
+		342,
+		327,
+		497
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "명란젓",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		}
+	],
+	"recipe": [
+		"1. 맛있는 경기미 참드림으로 밥을 하고 애호박을 채썰어줍니다",
+		"2. 애호박에 소금을 넣고 볶아줍니다",
+		"3. 그사이 계란후라이도 합니다",
+		"4. 재료들을 밥위에 올려줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/755d45c6728705b44e682522574eba5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/15f9cfa23a2f7775223365dbbd5428b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/5970b21443b57c37a30ea67a0e4978c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/12387cfad1b53088e6f87cf38d939c181.jpg"
+	]
+}

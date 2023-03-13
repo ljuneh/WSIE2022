@@ -1,0 +1,52 @@
+{
+	"id": "6901278",
+	"name": "쫀득쫀득 돼지껍데기 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/04/641abb9344ce47301ab419db545adef41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6901278",
+	"ingredient_ids": [
+		295,
+		3,
+		29
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지껍데기두루치기400g",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 먼저, 수월한 돼지껍데기두루치기를 해동시켜 둡니다.- 자연해동 : 사용하기 전날 냉장고에 넣어 두세요. - 빠른해동 : 찬 물에 담구어 두시거나, 전자레인지로 해동해주세요.",
+		"2. 해동된 돼지껍데기를 뜯어주세요.- 사용하는 돼지껍데기는 국내산으로 61.287% 들어 있습니다.",
+		"3. 준비해 놓은 부재료들은 미리 손질해 둡니다.",
+		"4. 돼지껍데기두루치기를 후라이팬에 넣고 중간불에서 익혀주세요.- 불이 강할 경우 탈 수 있으니 사이사이에 눌러붙지 않게 저어 주세요.",
+		"5. 돼지껍데기가 어느 정도 익으면 준비해 놓은 야채를 넣어주세요.",
+		"6. 양념이 돼지껍데기에 배일 때까지 졸여주세요.",
+		"7. 그릇에 담아 냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/04/b42910075c160631ebee769652f065ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/04/eb604323d88ffe752d6e3231df4d36041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/04/d1551171f3915b945b198814c02936771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/04/6d1d90d8f5fe7ee654b45bbba02f62371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/04/27bd7012c423f3a68268341898a4a1431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/04/f05172948104006c3372c596f2e8a8b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/04/b901cfd8f87342f91495d8863d1e75691.jpg"
+	]
+}

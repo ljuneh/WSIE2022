@@ -1,0 +1,83 @@
+{
+	"id": "6941789",
+	"name": "초간단 초스피드 가지볶음 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/53683d48b76b827c1586fb1ccdafb5531.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941789",
+	"ingredient_ids": [
+		18,
+		379,
+		477,
+		575,
+		543,
+		224,
+		9,
+		3
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "움큼"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 오늘은 휘리릭 볶아서 만드는 쉬운 도시락반찬 메뉴 가지볶음 황금레시피.가지볶음 만들기",
+		"2. 우선 가지는 원하는 모양으로 썰어 준비해 주세요 양파도 썰어서 준비해 주시구요 너무 얇으면 볶은 뒤 흐물 흐물 부서지기 쉬우니 약간 도톰하게 잘라서 팬에 기름을 두르고 예열하고 썬 가지와 양파를 넣고 볶아 주세요.",
+		"3. 간장2T.굴소스1T.올리고당1T.간마늘1t.통깨.고춧가루1t.당근한움큼.파약간.양파1/4개을 넣고 잘 섞어가며 볶아 주세요",
+		"4. 그럼 휘리릭 볶아서 만들 수 있는 가지볶음이 요렇게 모습을 드러낸답니다.",
+		"5. 쉬운 가지볶음 완성이랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/bebf15d99be130eb74f07914381ca6501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/0d842bb65e06ff0327cfd2bd7c8cac411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/d5fc6e5ad0eaf03917b5aa6f4f296be91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/ee63887f2dbe0bae111e69ae25e757ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/a80cc3fe72537de84983b64ebf3ec7531.jpg"
+	]
+}

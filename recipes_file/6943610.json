@@ -1,0 +1,93 @@
+{
+	"id": "6943610",
+	"name": "밥솥 제육볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/c6953e5661afe16becf973de90bdcd351.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943610",
+	"ingredient_ids": [
+		497,
+		3,
+		543,
+		473,
+		224,
+		477,
+		227
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 삼겹살 250g 썰어진 것을 밥솥 바닥에 놓고 소금 2꼬집, 후추로 살짝 간을 해서 재가열 9분 해서 구워주세요 *비계가 굵은 상태라면 느끼하니까 얇게 써는 것을 추천해요",
+		"2. 고기가 구워지는 동안 양념장을 만들어주세요  *고추장 1T, 고춧가루 1/2t, 진간장 1T, 굴소스 1/2T, 꿀이나 올리고당 1T, 마늘가루 1t(혹은 다진 마늘 1/2T)",
+		"3. 고기 구워진 모습. 뒤집어서 한번더 재가열 9분 해서 구워주세요",
+		"4. 양파 1/4개도 썰어주세요",
+		"5. 바로 먹어도 될만큼 아랫면이 노릇노릇 구워졌어요",
+		"6. 양념장과 양파 모두 넣고 고기와 함께 버무려주세요. 재가열 9분 해주세요",
+		"7. 재가열이 끝나면 밥솥을 열고 뜨거운 상태에서 고기와 바닥 양념을 잘 저어주세요. 아직 하얀 양파가 있다면 그것도 양념과 저어주시면 돼요",
+		"8. 그릇에 담고 통깨 솔솔 뿌려서 맛있게 드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/12e8def7f07c6166ad0f4f81bb1e51dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/7d34873e4c7f587dba7cec8f73c3e2921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/d2fa46002cfc723157870a2416edd3281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/e2c84c08b1546c6f227dd551d985b0741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/eb1177d6c9998a5afda8fb6757ad669b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a9d850113855e9ab8b818c6e6af593a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/5f6dd031468517338e978cbd3c81561d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a1d5a460a2c2d7ba5ec5da2a2a74b64b1.jpg"
+	]
+}

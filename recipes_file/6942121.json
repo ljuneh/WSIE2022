@@ -1,0 +1,77 @@
+{
+	"id": "6942121",
+	"name": "데치지 않은 콩나물 무침, 신박한 '아삭함'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/8a6ed0930abc822cb381a83615f47c7d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942121",
+	"ingredient_ids": [
+		233,
+		660,
+		497,
+		543,
+		27,
+		333
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물한봉지",
+			"ingre_count": "380",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2큰술10g",
+			"ingre_unit": "큰술g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 콩나물을 깨끗히 세척해주세요.상한 콩나물, 콩깍지 등 잘 걸러주세요.",
+		"2. 물을 넣지 않고 콩나물을 냄비에 넣어주세요.중약불*콩나물 자체에 수분이 있어서 물을 넣어 끓이지 않아도 익힐 수 있답니다!",
+		"3. 간장을 반술 넣어주고 뚜껑을 닫고 콩나물을 익혀주세요.",
+		"4. 뚜껑에 물방울이 송골송골 맺히면 약약불로 바꿔 7~8분간 익혀주세요! 중약불중간에 절대 뚜껑을 여시면 안됩니다! 비린내가 나요",
+		"5. 다진마늘, 참깨를 먼저 넣고 살짝 비벼서 전체적으로 고소한 향을 스며들도록 해줘요.",
+		"6. 2분 정도 있다가 소금, 후추, 참기름, 파를 넣어 무쳐줘요.",
+		"7. 잘 섞어 준 뒤 간을 보고 싱겁다면 소금을 조금 더 넣어주어요.저는 멸치액젓이 없어서 소금으로만 간 해주었어요! 멸치액젓이 있으시면 소금말고 사용하도록 해요^~^",
+		"8. 완전 아삭아삭한 단백질 덩어리 콩나물무침 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/56a9a12d7252ebd7acb1dd8ff72131bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/58cf02e56a40816763837b3c60636aae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/b2e048969b286444556f8ef3a5b041401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/6362a5d3cd6793fbe23e20f277aab6d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/be9393716efc1da27881a6fe7426a6871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/ced960ffd2a4cfc9b21b58eac446de251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/b11ec75a8f1d96e8c5813c649d379b5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/9422d3ec46a7f2292d0f22b6117aef181.jpg"
+	]
+}

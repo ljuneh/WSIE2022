@@ -1,0 +1,111 @@
+{
+	"id": "6843465",
+	"name": "집에서 부대찌개 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/b7f4dd04b5f86a72dc7774f96a4c74fb.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843465",
+	"ingredient_ids": [
+		487,
+		3,
+		27,
+		295,
+		224,
+		349,
+		960,
+		473,
+		233,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "캔햄",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "부어스트소시지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "잘익은김치",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "시판사골육수or멸치다시마육수",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 스팸, 리챔 등 캔햄을 준비해 주시고 비엔나 또는 프랑크 소시지 등을 준비해 주세요. 전 부어스트 소시지를 사용했습니다. 돼지고기 찌개용도 준비해 주었습니다.",
+		"2. 대파와 청양고추는 어슷 썰고, 양파는 채 썰어 주었습니다.",
+		"3. 캔햄과 부어스트 소시지는 먹기 좋은 크기로 잘라 주었습니다.",
+		"4. 냄비에 고기와 김치를 넣고 달달 볶아 주세요. 고기의 표면이 익을 때까지 볶았습니다. 김치는 기름기가 있는 곳에서 살짝 볶아서 사용하면 훨씬 맛있습니다. 심지어 잘 익지 않은 김치로 김치찌개를 맛있게 끓이는 방법 중에 하나가 기름에 김치를 볶아서 사용하는 것이니 이 과정 생략하지 마세요.",
+		"5. 요즘 시판 사골육수가 매우 잘 나오더라고요. 사실멸치 다시마 육수를 대량으로 만들어 냉동실에 얼려 사용하는데 어제는 똑 떨어져서 급하게 시판용 사골육수를 사용했는데 맛이 음 더 진하면서 인스턴트 느낌이 살짝 더 강하게 나더라구요. 그바람에 울 아이들은 더 맛있다고 난리 났습니다. 사골 육수를 넣고 중불에서 약 10분 이상 정도 김치가 살짝 무를 때까지 끓여 주었습니다.",
+		"6. 양념장과 양파, 청양고추, 대파를 넣고",
+		"7. 캔햄과 부어스트 햄을 넣고 맛을 우러날 때까지 조금 더 끓인 후 상에 내 주었습니다.",
+		"8. 김치찌개와 비슷하지만 맛은 다른 부대찌개입니다. 김치찌개에는 김치 국물을 넣고 진한 맛을 내지만 부대찌개에는 김치의 양은 살짝 적게 햄의 양은 풍성하게 넣어야 하고 김치국물을 넣지 않습니다. 햄의 맛이 더 강하게 나는 부대찌개입니다. 맛있어요. 그리고 라면 사리 꼭 넣어 끓여 보세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/d8902fa145fa3aacda8f331126eaeb371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/5266affd4f91d1488f674346067488521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/23f977756bcdab8edd6ce7e3628feeab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/771ede737b8d18bbef8fcb269f0120d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/243ad134814a189bbc7c54e42a086f5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/576e627403f710b1044c2f6d37be65ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/79297ba6888aaf65e82aebe897cc77aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/fbc4b8749773d97574974fb82a46fe841.jpg"
+	]
+}

@@ -1,0 +1,118 @@
+{
+	"id": "6944816",
+	"name": "맛있는 간식, 식빵으로 만드는 블루베리 파이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/39d263f775dbd879dc10c1e26a7ec5a71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944816",
+	"ingredient_ids": [
+		503,
+		198,
+		503,
+		429,
+		503,
+		429,
+		198,
+		198,
+		198,
+		205
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "블루베리쨈",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "블루베리잼",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터계란물",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "블루베리잼",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "계란물"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "자투리",
+			"ingre_count": "",
+			"ingre_unit": "식빵"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파마산치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 접착제가 될 버터를 녹여 계란을 풀어둔다.                   ",
+		"2. [블루베리파이] ㉠ 식빵은 밀대로 밀어 얇게 펴준 후 1/2로 접은 면에 칼집을 내준다.                     ",
+		"3. ㉡ 버터 계란 물을 바른 후 잼을 2숟가락 올린 후 접어 포크로 꾹꾹 눌려 모양도 내고 접착시켜준다.                     ",
+		"4. ㉢ 에어프라이어에 210도 6분 정도 돌려 반으로 잘라준다.                         ",
+		"5. [롤구이] ㉠ 식빵 가장자리를 잘라낸 후 밀대로 밀어준다.                   ",
+		"6. ㉡ 잼을 올려 돌돌 말아준 후 버터 계란물을 발라 붙여준다.                       ",
+		"7. ㉢ 버터를 두르고 롤 식빵을 올려 노릇노릇 골고루 구워준 후 먹기 좋은 크기로 잘라준다.                         ",
+		"8. [식빵스틱] ㉠ 버터를 두르고 자투리 식빵을 구워낸다.",
+		"9. ㉡ 파마산치즈, 파슬리가루를 뿌려 완성한다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/43bee83c9bc4af504efdd543208475c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/7db5fc456f51062acffce7adad441a4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/8834fb0dee89d439737ec3dd168688e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/34a8a2521dcdaca265eb6282b999bc7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/9d473335980ea821c67cbffeab9328691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/526ffb05c927ba989387aeeba8f69fc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/16e78e23ff835c2d73131a87a0289fb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/5d32d074995271076a3bd38a49bfee101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/afed85b482814d3536cabd7dcf395f581.jpg"
+	]
+}

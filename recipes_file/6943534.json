@@ -1,0 +1,55 @@
+{
+	"id": "6943534",
+	"name": "초간단 우엉조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/5fcefdd75b7ac6056aee0f5d6ae2e66a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943534",
+	"ingredient_ids": [
+		504,
+		995,
+		341
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "우엉600g양조간장",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "맛술1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 우엉을 준비해요.",
+		"2. 우엉껍질은 칼등으로 긁어서 제거하거니 감자칼로 벗겨줍니다. 껍질을 벗기지 않고 깨끗이 세척해서 그대로 요리하는 분들도 계세요. 껍질에 영양이 많거든요. 먹기 좋은 크기로 채썰어줍니다.",
+		"3. 우엉 변색을 막기 위해서 찬물에 식초를 3큰술 정도 넣고 담가두었다가 한두번 맑은 물에 헹궈줍니다. 체에 받쳐서 물기를 제거해주세요.",
+		"4. 조림을 할 때 냄비는 깊은 냄비보다는 낮은 냄비가 좋아요. 그래야 조림 국물이 잘 날아가서 좋아요. 양조간장 100ml, 맛술 1과1/2컵, 식용유 4큰술, 물 500ml 를 넣고 우엉을 넣어줍니다. 이제부터는 할 게 거의 없어요. 중불로 졸여주기만 하면 되지요. 50분에서 1시간 정도 졸여주시구요. ",
+		"5. 어느 정도 조림 국물이 줄어들면 물엿 5큰술을 넣어서 센불에서 졸여줍니다. 물엿 대신 올리고당도 좋아요.",
+		"6. 조림 국물이 1~2cm 남도록 졸여주세요. 그래야 반찬통에 담았을 때 조림국물까지 넣어서 우엉조림이 마르지 않아요. 통깨를 뿌리고 마무리합니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/211bfd1b1828e29849f9282eab575ab41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/bd01c6a617d00582bbeb9180a24918ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/01e2547c14bc1d9b62d7c7a475468e921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/ab0fcf2a34016596990a4b4555c1598f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/3fe2277cc4ebebf875bca107ce6c71761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/d15553c00e8b34c408b567e8cc00d3ca1.jpg"
+	]
+}

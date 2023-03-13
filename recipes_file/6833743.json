@@ -1,0 +1,51 @@
+{
+	"id": "6833743",
+	"name": "백종원 프렌치토스트 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/025374831bb6b61e0d55b217784ed3911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6833743",
+	"ingredient_ids": [
+		219,
+		574,
+		198,
+		204
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "",
+			"ingre_unit": "마음껏"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해요. 달걀(3개)은 식빵의 낱장 갯수(3개)에 맞게 동일한 갯수로 준비하시면 되요.",
+		"2. 우리가 알고 있는 프렌치 토스트는 달걀에 설탕과 우유를 전부 섞어 빵을 적셔주었다면, 볼에 계란만을 깨 빵을 적셔준답니다.",
+		"3. 달걀을 휘핑기로 풀어주세요. 훨씬 더 부드럽게 드시고 싶다면 달걀의 알끈을 제거한 뒤 체에 풀어주세요. 달걀물에 식빵을 5초가량 담궈주세요.",
+		"4. 팬을 중불로 맞춰주고 올리브유를 둘러주세요. 팬에 열이 오르면 달걀물을 묻힌 식빵을 구워줘요.",
+		"5. 식빵을 자주 뒤집지 말고, 한쪽이 바싹하게 구워지면 다른 한쪽을 뒤집어 구워줘요.",
+		"6. 어느정도 식빵이 익으면 접시에 펼쳐놓고 버터(1t)를 발라준뒤 연유를 먹고 싶은만큼 뿌려주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/9fbf06199421b7aa029656095c33b1021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/c559696a41dafec869896f68e4fc91d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/d2de814027ce18636035f8700f917fd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/e4c7fd75e2226e3dcc92cf7370cb3f391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/9cf9c8fd937d7ef7922ca09ac64815121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/13ec89f771004b02e8accb315681eadb1.jpg"
+	]
+}

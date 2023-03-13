@@ -1,0 +1,102 @@
+{
+	"id": "6944288",
+	"name": "감자샐러드 샌드위치 만들기 핵존맛탱!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/d10dc48f3705e74afc40c95d0b929c781.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944288",
+	"ingredient_ids": [
+		503,
+		5,
+		16,
+		708,
+		214,
+		228,
+		497,
+		3,
+		9
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "8",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "상추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "슬라이스햄",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "머스타드",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추약간",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		}
+	],
+	"recipe": [
+		"1. 쨘~ 우선 감자먼저 삶아 줄거에요~ 껍질을 미리 벗겨서 삶아도 되지만~ 그냥 깨끗이 씻어서 물로 삶아주었습니다 끓는 시점으로 30분 삶아주면 왠만해선 다 익어요~",
+		"2. 당근 소량과 양파 1/4은 넣어도 되고 안넣어도 되는데 저는 샌드위치 먹을때 아삭한 식감이 있어야 먹기도 좋가 텁텁하지 않아 좋더라구요 그래서 감자가 삶아지는 동안 잘 다져 주었어요",
+		"3.  삶아진 계란은 볼에 담아 으깨 주는데요 뜨거울때 으깨주어야 잘 으깨집니다 저는 포크로 으깨주었어요",
+		"4. 감자가 다익었는지 궁금하다면 젓가락으로 쿡! 찔러서 잘들어가면 잘 익은거랍니다~ 중간에 조금이라도 뭔가 더 걸리는게 있다면 5분간격으로 더 끓이면서 확인해 주세요~ 삶은 감자는 껍질을까서 볼에 담아주세요 감자는 2개입니다",
+		"5. 감자를 잘 으깨주고 마요네즈 5큰술, 머스타드 2큰술 후추약간 넣고, 소금 1작은술 넣어 잘 섞어줍니다",
+		"6. 슬라이스햄은 한번 구워줍니다",
+		"7. 식빵 한쪽 면에 만들어 놓은 감자 샐러드를 두둑히 올려즙니다",
+		"8. 상추를 깨끗이 씻어 물기를 털어 올려주세요~",
+		"9. 그 위로 슬라이스 치즈 1장 올려주고 슬라이스 햄 1장 올려주고~ 빵을 덮어주면 끝!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/6c241e098bceccb1bd93c65f9aea3a981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/5db9c225dde0ef342a1f3cf13ffc566c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/36083dd1bb2324d83e9aac9cb6be199f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/8379b03e58e9f5f4ec96ce6d614286021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/d72c20655dac05f9f80a6c3d41bfa6f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/d1854f0375909115dafa14e250ad89b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/43a1e852c71fa9b3cfa465e7f749a3901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/e1df3e24fcf8357ee7cea5abc8d157331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/c927602c68074ce1ca8226d5b95b7d581.jpg"
+	]
+}

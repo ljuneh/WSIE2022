@@ -1,0 +1,82 @@
+{
+	"id": "6939870",
+	"name": "파김치 만드는법 파김치 담그는 방법 라면에 파김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/0d58d86b9646f315954bcb1229b287341.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939870",
+	"ingredient_ids": [
+		757,
+		543,
+		28,
+		29,
+		333,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1/2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "2",
+			"ingre_unit": "소주잔"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "3",
+			"ingre_unit": "소주잔"
+		},
+		{
+			"ingre_name": "찹쌀풀",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실원액",
+			"ingre_count": "1",
+			"ingre_unit": "소주잔"
+		}
+	],
+	"recipe": [
+		"1. 파를 깨끗하게 씻어줍니다. 얇은 파김치를 좋아하시면 칼집을 내서 갈라줍니다.",
+		"2. 파의 흰부분을 먼저 절여줍니다. 멸치액젓 소주잔3컵정도를 부워 골고루 절여주세요. 5분의 한번씩 뿌리부분을 골고루 묻힐수 있도록 섞어주세요.",
+		"3. 풀쓰는법:) 찬밥한숟가락 소주잔으로 물을 2컵 넣어주세요.  믹서기에 갈아주세요. 그리고 미음을 끓이듯이 끓여주세요. 이렇게 완성되면 식혀서 1T 넣어주세요.",
+		"4. 파가 다 절여졌다면 파를 잠시 두고 양념장을 만들께요. 고추가루 종이컵1컵 생강1/4T, 마늘1스푼,  액젓은 절이고 남은것, 풀1T, 설탕1T, 매실원액 소주잔1컵 이렇게 만들어 주세요.",
+		"5. 통깨도 넣어주세요.",
+		"6. 양념을 묻혀볼께요. 파뿌리부터 펴서 발라주세요.  살살살 발라주세요.",
+		"7. 가지런히 발라주시면 됩니다.",
+		"8. 이제 용기에 담아주세요. 잠시 밖에 두었다가 냉장보관해서 꺼내시면 됩니다. 계절마다 다르지만 지금같은 경우 밖에 반나절이상 두시고 냉장보관해서 드세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/fc665e7424a5050dbff725322a1832c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/c1d52b1eda02f74351c28ee813279e8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/631802d3e2d3a8e1ced44b90f695bcdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/5dafc63b0ce4418be0a7d77130a13de61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/bb94a2e51023bc830b95bb224c790d701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/1910578c1d300440ef866c9d54c667461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/e7bbf78a783c776bf226bfaa8eb63e151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/6ecf015b07d37793aa0a93144d3958011.jpg"
+	]
+}

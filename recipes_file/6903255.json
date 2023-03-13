@@ -1,0 +1,100 @@
+{
+	"id": "6903255",
+	"name": "[홈베이킹] 초코머핀 만들기 / 왕초보베이킹",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/5a480ddf24041fcc3d2ab20a6baa0e141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6903255",
+	"ingredient_ids": [
+		497,
+		373
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "무염버터",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란2개(약100g)",
+			"ingre_count": "2개(약 100g)",
+			"ingre_unit": "개(약 g)"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "갈색설탕",
+			"ingre_count": "98",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "178",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "코코아파우더",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "6",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "초코칩60g(생략가능)",
+			"ingre_count": "60g(생략가능)",
+			"ingre_unit": "g(생략가능)"
+		}
+	],
+	"recipe": [
+		"1. 미리 꺼내어 둔, 상온의 버터를 거품기로 부드럽게 풀어줍니다.거품기",
+		"2. 설탕과 소금을 넣어주세요.거품기",
+		"3. 거품기로 섞어주세요.거품기",
+		"4. 상온의 계란을 2-3회에 나누어 넣습니다.거품기",
+		"5. 가볍게 섞어주세요.  마요네즈같은 질감을 확인합니다.거품기",
+		"6. 박력분, 코코아파우더, 베이킹파우더를 체쳐 넣고, 주걱으로 자르듯 섞어주세요.주걱",
+		"7. 주걱으로 퍼올리며 밑바닥에 가루가 있는 것을 중간중간 확인하고, 날가루 없이 고루 섞이도록 합니다.주걱",
+		"8. 상온의 우유를 넣어서 계속해서 섞어줍니다.주걱",
+		"9. 초코칩의 3/4을 넣어주세요. (생략가능)  (나머지는 토핑용으로 사용할 거에요.)주걱",
+		"10. 비닐팩이나 짤주머니를 긴 컵에 넣어주세요.",
+		"11. 반죽을 넣어주세요.",
+		"12. 머핀틀에 머핀컵을 준비해주세요.컵이 없다면, 식용유나 녹인 버터를 칠하는 걸로 대신해주세요.",
+		"13. 반죽 속 초코칩이 잘 나올 수 있게 짤주머니 입구 쪽을 넓게 잘라줍니다.",
+		"14. 머핀컵에 반죽을 짤아줍니다.",
+		"15. 머핀컵의 80프로 반죽을 채워주세요.",
+		"16. 반죽에 넣고 남은 초코칩을 반죽 위에 올려줍니다. (생략가능)",
+		"17. 175도로 예열된 오븐에 25분간 굽습니다.오븐",
+		"18. 이쑤시게나 마른 꼬지로 머핀 중앙을 한번 찔러서 덜익은 반죽이 묻어 나오나 확인해 보세요!",
+		"19. 초코칩이 콕콕박힌 촉촉한 초코머핀이 완성되었어요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/e6be35a2600227d6af0a3f44172535001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/d1f53c3dccfe480ed2a7da42c55bab771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/b0d1a08b0bfc5f55dbd89fdea35dc6e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/4262a5c91dca0f2f5df2aba272ccc0e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/70085d5e59941058d83923e8470a3d371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/4a4ec9e8cedc246fb62e07de66525e9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/7b4055a6443c94528a90bbc603d16d791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/dbd24b3f4022c63c1e4ba6a4ada739eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/0b1b7a0803b92ce9cd32a03dbacba2371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/e9851c8737c81b8ffba10fe188d56a0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/bf0904f25eed5163f330d8fe3cd16cae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/845495f1b38612354214d14ba74e653c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/009061cdbf05701e3a9b4dc6cd14e6ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/eade75365cf435e1d1cb40ae461f89731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/c5c7d365e65b45707c7de7a6942fef411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/666b4ded98d5556d8668c2c73e0c8d0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/c369026614f8c9ecb16ee4d87d3afb3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/247d1c17159e2752cd2151d7c15023911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/31/05cdf6e051d478e9e6d2c9cdf4a2c4d41.jpg"
+	]
+}

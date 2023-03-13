@@ -1,0 +1,115 @@
+{
+	"id": "6941974",
+	"name": "고등어조림 만드는법. 간고등어로 비린내 제거와 손질 하는법.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/f26090bce5a009133a4ac5592199b8d21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941974",
+	"ingredient_ids": [
+		4,
+		3,
+		27,
+		379,
+		224,
+		226,
+		846,
+		473,
+		995
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "간고등어",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "청",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "C"
+		}
+	],
+	"recipe": [
+		"1. 고등어는 종이 호일을 깔고 큰 뼈를 골라내 손질해 2등분 합니다. *호일을 깔고 손질하니 냄새도 안베고 좋더라구요. *고등어 뼈가 억세고 날카로워서 큰 뼈는 손으로 잡아 뺐어요. 미끄러우니 쪽집게를 사용해도 좋아요.",
+		"2. 손질한 간고등어는 쌀 뜬물에 담궈 짠기와 비린내를 제거 합니다. *비린내 제거로 쌀 뜬물에 담궜는데 쌀 뜬물이 없다면 생강술이나 청주도 비린내 제거에 좋답니다. 짠기는 물에 30분 정도 담궈 없애 주세요. ",
+		"3. 바닥에 깔아줄 고구마는 껍질 벗겨 2cm 두께로 썰어 줍니다. *바닥에 깔아 얇게 자르면 다 부서지니 두툼하게 썰어 주세요. ",
+		"4. 고추와 대파는 송송 썰어 주세요.",
+		"5. 통마늘은 다져 줍니다.",
+		"6. 간장,고춧가루,설탕,간생강,청주,고추장,간마늘,후추로 고등어 양념장 만듭니다. ",
+		"7. 냄비 바닥에 고구마를 깔고 고등어,양념,양파 순으로 올려 끓여 주세요.",
+		"8. 냄비 바닥에 고구마를 깔고 고등어와 양념장,양파,물을 넣어 푹 끓여 대파와 고추 넣어 완성 합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/328e92f57adc9e1957945ec3f2d0b7c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/ffedbaea449e34630ec035048dc6340b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/b60c8cf4c76eb0553fe6e75d3057f6811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/d5dcd83de83838b51966c902764fef2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/4b299ce731658e2cd0cd3adbcaf755741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/4f089788409fd1d8f1374ad0c9cdb7e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/e1ad783228dff181330ff81e28bdd4311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/c8636ee1568028d47ab66acaa023892a1.jpg"
+	]
+}

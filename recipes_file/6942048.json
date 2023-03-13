@@ -1,0 +1,67 @@
+{
+	"id": "6942048",
+	"name": "한우 차돌박이 물냉, 비냉 레시피(feat. 피코크)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/ee78eedd72b6aca4088e7a6a584d97e71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942048",
+	"ingredient_ids": [
+		354
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "피코크물냉비냉",
+			"ingre_count": "4",
+			"ingre_unit": "인세트"
+		},
+		{
+			"ingre_name": "메밀면",
+			"ingre_count": "4",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "물냉육수",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "비냉양념",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "초절임무",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "겨자소스",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "한우차돌박이",
+			"ingre_count": "",
+			"ingre_unit": "자유량"
+		}
+	],
+	"recipe": [
+		"1. 팔팔 끓는 물에 면을 넣고 50초 정도 삶아 줍니다.절대로 1분 30초가 넘어가면 안됩니다!",
+		"2. 찬물에 넣고 끈적임이 사라질때 까지 행궈 준 뒤 그릇에 옮겨주세요~",
+		"3. 메밀면을 차가운 물로 씻어 탱탱하게 만들어줘요.",
+		"4. 한우 차돌박이를 구워줘요!소고기이기 때문에 오래 익히면 질려진다는 점!! 취향 껏 익혀드세욥!ㅎㅎ",
+		"5. 고기는 맨 마지막에 구워주어야 따끈하게 면과 함께 먹을 수 있답니다~!",
+		"6. 고기와 함께 싸서 먹어주면 말이 필요없죠~!",
+		"7. 비빔냉면 소스도 함께 넣어 먹어요~!",
+		"8. 와사비도 함께 먹으면 더 맛있는거 아시죠??"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/33e6dc6e5b8bdad9772873a328c516a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/83060b0240a6ac3085fa5144314a9d731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/75c670b6c09f6507e2f3f05bcf1cd0411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/56d034908fd88c6d11f37664a556fc8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/1362a834a17b687f981b9ca2031817161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/79639b8389a7c94a1a8563b55071ecc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/57aad82ab41f7928699303783da88fa71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/7ce9838a1572c95abe645c552423f9981.jpg"
+	]
+}

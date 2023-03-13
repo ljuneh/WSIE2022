@@ -1,0 +1,64 @@
+{
+	"id": "1882141",
+	"name": "부추 콩가루찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/68e484ecec69463f6fb20691d37b71b3.jpg",
+	"url": "https://www.10000recipe.com/recipe/1882141",
+	"ingredient_ids": [
+		30,
+		592,
+		224,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생콩가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "채소국물",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "양파즙",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 분량의 양념장을 섞어 두세요. 부추향을 제대로 느끼기 위해서 다진 마늘이나 파는 양념에 따로 넣지 않았어요. (채소국물은 양파와 파, 다시마를 넣어 미리 육수 내어 놓은 것인데 없으면 그냥 물 넣으셔도 되요.) 부추는 흐르는 물에 깨끗하게 씻은 후 체에 받쳐 물기를 제거해 주세요.",
+		"2. 손질한 부추는 5cm 정도로 먹기 좋게 잘라 주세요.",
+		"3. 잘라 놓은 부추에 생콩가루를 뿌려 살살 버무려 주세요. 이때 부추에 물기가 너무 없으면 콩가루가 잘 묻지 않아요.",
+		"4. 생콩가루를 버무린 부추를 김오른 찜기에 잠시만 쪄주세요. 양이나 부추 상태에 따라 찌는 시간은 조절해 주세요. 오래 찌면 부추가 질겨지고 너무 덜 찌면 생콩가루에서 비린맛이 나요.",
+		"5. 쪄낸 부추에 섞어 놓은 양념장을 올려 살살 버무려 주시면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/ed51d8d7a6ce03c63ac17a4018c450781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/05ec990449657b8ab1b3c59b894c0dab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/195f33aeb0f528d40a3428b388833ab11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/9b862573c44ae33ccdecb7ebfdb19afd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/ccdcd2e6070ba2b4b591e45224237f211.jpg"
+	]
+}

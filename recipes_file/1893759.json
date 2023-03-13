@@ -1,0 +1,73 @@
+{
+	"id": "1893759",
+	"name": "매콤 개운한 열무비빔국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/d559af03bd4e69bceb8cde64bc2dad5b.jpg",
+	"url": "https://www.10000recipe.com/recipe/1893759",
+	"ingredient_ids": [
+		1003,
+		8,
+		473,
+		843,
+		660,
+		224
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "국수",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "열무김치",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "검은깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 냄비의 물을 올리시고, 양념을 준비해 주세요. 물이 끓으면 소면을 넣어준뒤, 중간중간 부글부글 넘치려고 할때 찬물을 넣어 소면을 익혀주세요. 3~4분정도 익혀주시면 된답니다.",
+		"2. 물을 끓이는 사이 오이는 채썰어주시구요.",
+		"3. 양념을 만들고 열무김치를 넣어 먹기좋게 가위로 김치를 좀 잘라줍니다. 이때쯤 국수는 다 익었을 테니, 찬물에 헹궈 물기를 빼주세요.",
+		"4. 물기를 뺀 국수를 열무김치양념에 넣고 쓱쓱 비벼 그릇에 담은 후",
+		"5. 채썰은 오이와 검은깨를 국수 위에 얹고, 참기름을 뿌려주시면",
+		"6. 매콤하고 시원, 개운한 열무국수 완성이랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/71e17fa03d5e1348491e0f624e3c1ba31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/f29df0bbad695ef7294d0b81b2e6ecf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/dac6e557953d188a74f54ba0af4d01cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/549418651055a56e87dea5a93b6ccede1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/657b902636fb21a93ed197c2909bc5111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/cabf578a46b54ca466c62d12dca0c7f91.jpg"
+	]
+}

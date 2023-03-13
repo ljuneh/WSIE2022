@@ -1,0 +1,59 @@
+{
+	"id": "6943490",
+	"name": "잔멸치볶음 주먹밥~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/1362b3ff132778cdde522bcb21b846331.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943490",
+	"ingredient_ids": [
+		9,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "잔멸치볶음",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 잔멸치볶음 준비합니다 @6943446 ",
+		"2. 약불에서 계란 물을 붓고  앞,뒤 구워",
+		"3. 다져 준비합니다",
+		"4. 당근 잘게 다져 팬에 담고",
+		"5. 소금 약간을 넣어 기름을 두른 뒤 볶아준다",
+		"6. 준비한 계란,당근,잔멸치볶음 참기름1,통깨 넣고",
+		"7. 고루 섞어줍니다",
+		"8. 동글동글 주먹밥을 만들어  접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/4023229987ff44c018954e6f637a73ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/908c8e8f566ad1c3487eed0a5b28e8751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/a1731511c1d05eee330224c3f039e0661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/62bd688d803899e2e74a89beda6592501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/de61d0350f6b2d5deba33425316d855f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/b2d8ccb5c67e2ce68bd78d8d499fad151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/0c5a0ac92fbc6c8e486d4e0b816221861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/fd03412012505bb5b449bc5c8d1a101b1.jpg"
+	]
+}

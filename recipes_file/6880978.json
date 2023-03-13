@@ -1,0 +1,99 @@
+{
+	"id": "6880978",
+	"name": "참치쌈장 만드는 법, 짜지 않고 맛있어요!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/66a7e1c737087b0a8737492fd40a507a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6880978",
+	"ingredient_ids": [
+		3,
+		27,
+		295,
+		848,
+		473,
+		224,
+		233,
+		226,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔(中)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 양파 1/2개, 대파 1/2대, 청양고추 2개는 다져서 준비합니다.",
+		"2. 약불로 예열한 팬에 참치 캔 기름을 꾸욱 짜서 넣어준 뒤 채 썰어둔 양파와 대파, 청양고추를 넣고 볶아주세요.",
+		"3. 된장 1 큰 술, 고추장 1 큰 술, 고춧가루 1 큰 술, 다진 마늘 1 큰 술과 물 1컵 반을 넣고 보글보글 끓여주세요.",
+		"4. 보글보글 끓는 쌈장에 설탕 1 큰 술을 넣어주시고요.",
+		"5. 이어서 참치를 넣고 약불에서 자작하게 졸여줘요.",
+		"6. 쌈장이 잘 졸여졌으면 참기름 한 큰 술과 통깨를 넣고 마무리해주세요!",
+		"7. 10분도 안 돼 완성된 참치쌈장은 짜지 않고 맛있어서 good ~  밥 차려먹기 귀찮은 날은 계란 후라이 하나 해서 밥이랑 참치쌈장 쓱쓱 비벼 먹기만 해도 꿀맛이라는 거 ~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/42bb335b5b5e8cc48b5419d9a52ba6e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/e0a101ce12672a9fc3090398685b8fa71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/340a6d67bbf639d39243e281ff2ab9f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/3c224454742255c710513cdfcfe2c09e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/93e6d304494d70a44344ecb25db6bf6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/e513f7df02b760dbf5e50ad96f31d6311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/6e34ed0e7ef74f9acb52e657a61766a61.jpg"
+	]
+}

@@ -1,0 +1,88 @@
+{
+	"id": "6829975",
+	"name": "달콤하고 짭조름한 감자조림 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/838fa3888146674a694a877d6d4eda8c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829975",
+	"ingredient_ids": [
+		5,
+		9,
+		3,
+		543,
+		226,
+		575,
+		995,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "검은깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 감자를 먹기 좋은 크기로 썰어 올리브유 두른팬에 잘볶아주세요.",
+		"2. 감자가 어느정도 익으면 당근도 넣고 볶아주세요.",
+		"3. 그리고 준비한 양념장과 물 두컵을 넣고 15분정도 약불로 조려주세요.",
+		"4. 그리고 조리기 시작하며 양파를 넣어주세요. 너무 일찍 넣으면 흐트러지네요~",
+		"5. 마지막으로 통마늘을 넣어 주세요. 다진마늘은 웬지 텁텁해보이고 해서 통마늘로 넣어주니 몸에 좋은 마늘도 함께 즐길수 있고 조림장이 더 깔끔하고 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/4f49e6c181f917683d434a853b6342eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/ad506be23af6c530f5b9d6462ecd5fd01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/8cf5733e7bc13cd4476448ed1416d1231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/cb13e84625a205bfed5f43da97c701b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/4cd16e173e21e9ef1e5d34b5fafc20811.jpg"
+	]
+}

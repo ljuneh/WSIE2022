@@ -1,0 +1,59 @@
+{
+	"id": "6845589",
+	"name": "닭볶음탕, 닭도리탕 만드는 방법!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/e8289ac9977ead8408a8611b8d2841ff1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6845589",
+	"ingredient_ids": [
+		3,
+		9,
+		27,
+		295
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 닭고기를 넣고 소주를 부은뒤 살짝 데쳐줍니다. 이때 먹고 남은 소주나 맥주 등 알콜을 같이 넣어주면 좋아요. * 뚜껑은 반드시 열어주세요.",
+		"2. 닭이 끓어오른 물이 다시 끓어오르면 찬물에 살짝 데쳐줍니다.",
+		"3. 믹서기에 고추가루 6큰술, 고추장 4큰술, 진간장 2큰술, 국간장 2큰술, 양파 반개, 마늘 4개, 생강 2개, 후추, 설탕 1큰술, 물엿 2큰술, 양파즙 1개(양파즙이 없으면 대신 물을 반컵!), 청량고추 3개를 넣고 갈아줍니다.",
+		"4. 닭고기에 양념을 잘 섞은 후 냉장고에 3시간 정도 재워줍니다.",
+		"5. 바닥이 두꺼운 냄비에 뚜껑을 닫고 중약불로 끓인 후에 당근이나 감자, 양파를 넣고 약불로 20분 정도 더 끓여주면 짜잔~ 불닭볶음탕 완성! (썰어놓은 파와 고추는 색이 변할 수 있으니 다익은 후 마지막에 넣어주세요)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/77a607a4b587006ec4784b87b43c9f101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/a15b1327b6843214a91704ae07b72a361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/5ead535224435c65494a9fa74e6c30fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/b7015541fad182aa07a5382b449df1eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/9ba7cb147db63a48d6b48a10fd6d08bb1.jpg"
+	]
+}

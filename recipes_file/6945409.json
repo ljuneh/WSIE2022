@@ -1,0 +1,85 @@
+{
+	"id": "6945409",
+	"name": "#김&당면활용, 김말이튀김 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/11c0c41f8d7142d13ddcbca3b8e106021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945409",
+	"ingredient_ids": [
+		302,
+		379,
+		660,
+		574
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 당면을 물에 불려 주셨다가 끓는물에 삶아 주세요.당면은 크게 2줌 준비 했습니다.",
+		"2. 삶은 당면은 찬물에 살짝 헹궈 주시고, 물기를 제거해 주세요.",
+		"3. 당면에 간장과 참기름, 후추를 넣고 잘 비벼 주세요.- 간장(2스푼), 참기름(1스푼) - 개인 기호에 따라 간장은 추가 하시면 됩니다.",
+		"4. 김은 반으로 자르고, 그 위에 당면을 올려 주세요.김의 크기를 고려해서 당면의 양을 조절 하시면 됩니다.",
+		"5. 돌돌 말아 주시고, 끝에 밥풀을 이용해서 떨어지지 않도록 마감하시면 됩니다.",
+		"6. 나머지도 이렇게 돌돌 말아서 두세요.",
+		"7. 전분가루를 준비해 주세요.계란 옷을 입히기 전에 김말이 표면에 바를 예정입니다.",
+		"8. 전분가루를 준비해서 말아 놓은 김말이의 표면에 묻혀 주세요.튀김가루 및 밀가루 등 대체 가능합니다.",
+		"9. 계란을 풀어 준비된 계란물에 김말이를 넣고 묻혀 줍니다.",
+		"10. 에어프라이어에 초벌로 5분가량 구워 주세요. - 중간 중간 표면이 일정하게 구워지도록 위치를 돌려 주세요.- 굽기 전 표면에 올리브유를 살짝 발라 주세요. (눌러 붙음을 방지하기 위함 입니다.) - 180도 정도로 해주시면 됩니다. (에어프라이어에 따라 온도가 다르니 참고하세요) - 김말이 끼리 달라붙지 않도록 넣어 주시면 됩니다.",
+		"11. 초벌된 김말이를 약 3분가량 추가로 돌려 주세요.- 전체적으로 노르스름하게 하기 위함 입니다.",
+		"12. 먹기 좋은 크기로 잘라 주시면 완성 입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/fbb655a37ba26b91dbf98ace717009651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/f44ad6bba21c204c63500abbcb44dbb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/c1986cc254c291f0784ad7c0e30ead571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/77971dc4f8501083620fe7e7add5413b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/595de2e86304b243b316ea75e5dcd6891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/dffe9f3a05c0a6db4dbe532e0bf79d511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/4fea0debbabaee65dfc7ad5eba5440771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/0b0c4937ce41328965c523b6a602481d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/28a8e87ca811d46ff08f4f2bf8ecae361.jpg"
+	]
+}

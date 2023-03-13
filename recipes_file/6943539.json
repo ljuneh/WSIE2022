@@ -1,0 +1,62 @@
+{
+	"id": "6943539",
+	"name": "집밥/ 콩나물 김칫국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/e38c60cb585a8899259ecde481dc5e161.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943539",
+	"ingredient_ids": [
+		398,
+		323
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물300g",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "배추김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "내린육수",
+			"ingre_count": "7",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "소금(혹은새우젓)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 간단하지만 속 든든한 콩나물 김칫국 재료 : 콩나물 1봉지 300g.  마트에서 구매 하였다.",
+		"2. 콩나물은 씻어서 물기를 제거해 준비한다.",
+		"3. 배추김치는 1/2포기 먹기좋은 크기로 썰어서 국물까지 버리지 말고 사용한다.",
+		"4. 두부 반모. 마찬가지로 먹기좋은 크기로 썰어서 준비한다.",
+		"5. 항상 사용하는 내린 육수. 7C 을 기준으로 냄비에 넣고 끓여준다.",
+		"6. 육수가 끓기 시작하면 준비한 배추김치를 넣고 한소큼 끓여준다.",
+		"7. 배추김치의 맛있는 냄새가 올라온다. 콩나물도 넣어서 끓여 주는데, 뚜껑을 닫지않고 계속 끓여 준다. 뚜껑을 열어놓고 끓여야 비린내가 나지 않는다.",
+		"8. 두부도 넣어준다.",
+		"9. 별다른 조미료나 양념을 넣지 않아도 시원하고 맛있는 콩나물 김칫국이  완성되어 가고 있다. 김치의 양념과 육수의 개운함, 콩나물의 시원함이 어우러져 이런 맛이 나오는것 같다.",
+		"10. 완성. 밥 한 덩어리 말아서 먹고나면 집밥의 힘이 느껴진다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/988648648b27051c754eccfb0f60400c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/dc849360f7d2bdf72f2ed391832a2d0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/b1761b050e32de860a4c6e8f19c3d7da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/6d265fccdaf4277738e932fc81a2bcf81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a996e5aee8b143c1343e4e1951d71a2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/0939abefa73833d24e06de483e334fc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/460ddb444c434c36436536c9524b36461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/bde12b513107b21f5a01b7a922f0f1131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/704bc985c723175d8613541fb7bd9e391.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/02b350a1b17ef5ab4aac0ee080331f861.jpg"
+	]
+}

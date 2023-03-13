@@ -1,0 +1,78 @@
+{
+	"id": "6944435",
+	"name": "가을아욱으로 맛있는 버섯된장아욱국 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/81bc45231045510714dce404b79e43601.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944435",
+	"ingredient_ids": [
+		33,
+		876,
+		848,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "아욱",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "1200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "일자콩나물",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다시멸치",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "5",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "멸치다시다",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 아욱을 손질 해서 깨끗히 씻어 놓습니다",
+		"2. 다시멸치를 오일 없이 볶다가 물을 붓고 끓입니다",
+		"3. 버섯을 썰어놓습니다",
+		"4. 육수가 우러 나오면 다시멸치를 건집니다",
+		"5. 된장을 풀고 아욱을 넣습니다",
+		"6. 순서대로 재료와 양념을 넣습니다",
+		"7. 그릇에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/aae5109c1f312bb3a427acabc14cd5e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/6f33efabab36612f377938da9f3fa27d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/99cc1f4bfcface936d19bb721cc539e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/a38d2b0ddeb6664788f066efa0a7582c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/b9247c45d8d27afe76d4b89c2f292b491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/d626a6b52d3e72c9e0ff3bff170006bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/2b31cc63e6f360d554002ac65ab332451.jpg"
+	]
+}

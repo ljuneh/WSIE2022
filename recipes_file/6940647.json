@@ -1,0 +1,137 @@
+{
+	"id": "6940647",
+	"name": "코다리콩나물찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/3eb90b568891e4d1f02cefd4ec2a56441.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940647",
+	"ingredient_ids": [
+		721,
+		19,
+		47,
+		29,
+		995,
+		20,
+		497,
+		224,
+		341,
+		226,
+		667
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "코다리",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "작은감자",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "매운고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1/3",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참치액젓",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "시크릿코인",
+			"ingre_count": "1",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 코다리를 깨끗하게 손질해 주세요",
+		"2. 무와감자를 넓게 잘라 냄비에 넣어주세요",
+		"3. 그위에 잘 손질된 코다리를 올려 주세요",
+		"4. 물600ml 과 시크릿코인을 넣고 끓여주세요",
+		"5. 새송이버섯,홍고추,매운고추를 먹기 좋게 잘라주세요",
+		"6. 마늘 10개를 다져 주세요",
+		"7. 파 한개는 채 썰어 줄게요",
+		"8. 감자,무,코다리가 익을때까지끓여주세요",
+		"9. 물이 졸아 들면 고춧가루를 넣어주세요",
+		"10. 마늘과 콩나물을 넣고 뚜껑을 닫아 콩나물 숨을 죽여주세요",
+		"11. 한번 뒤적 거리고 찹쌀가루를 넣어주세요 소금과 참치액젖으로 간을 해주세요",
+		"12. 물엿과설탕 파와 미나리를 넣고 한번 뒤적이시면 완성",
+		"13. 코다리콩나물찜 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/ef48b3db043b333708fddd54e3a369ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/78fca7f1b50bf893513b16101a2af2b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/618518da19659c4c45722b57e1ddd5531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/dd6f176cbdf0279c5dc696b3664407881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/44a7d6f92b856e5599b2762a502020b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/7f6d72ef8e3c6b06810ac85b1c9098311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/350a20c4b6919eae6799741a45dbe9c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/bfc680a5e89b6bb7d2819eff096606761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/df275f100ce4a08437e2cfc7835064c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/65e4e66b83a9d2871e966c7a7ced48dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/a1683a7c5542fcb0537d66fe005f4b411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/d3d67de8fd5701061d509d7978ae2a021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/6a88e4aac3efd268757432509ead94971.jpg"
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"id": "6915735",
+	"name": "깔끔고소한 아침국~~들깨무국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/07/11/e35399cd4afecaa53e194ef96b827a3a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6915735",
+	"ingredient_ids": [
+		27,
+		995,
+		337,
+		497,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "채썬무",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 채썬 무를 냄비에 넣고, 소금1/2큰술,참기름1큰술을 넣고 볶아요.",
+		"2. 볶다보면 무에서 물이 살짝 나오죠?",
+		"3. 물3컵을 붓고 끓여요. 생수인데도 국물이 벌써 뽀얗죠?^^",
+		"4. 무가 익을정도로 끓으면 들깨까루3큰술 넣어요.",
+		"5. 파1줄도 썰어서 올려요. 마지막 간은 소금으로 하세요.",
+		"6. 한소끔 끓이고 그릇에 담아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/11/8efde1b1593ee499e91892b0a1e1b1341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/11/3cffe32048337e86309985a90ee349331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/11/0f44a8baadca1a93c0283ebd963441b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/11/7302d5e1996bb0540e6d4b5251da4eaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/11/80188e4469a1855777588b0bf04ca50b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/11/9e60119aac5e647ba8d5b7a94cef702e1.jpg"
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"id": "4763744",
+	"name": "돼지고기 김치볶음 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/78e63ed2c2c346bb925b094fe0d1b851.jpg",
+	"url": "https://www.10000recipe.com/recipe/4763744",
+	"ingredient_ids": [
+		379,
+		473,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 썰어놓은 돼지고기를 잘 비벼진 양념장 속에 넣어서 재워주세요.",
+		"2. 고기를 팬에 넣고 물을 조금 부어서 익히도록 합니다. 이때 청양고추를 같이 넣어주세요.",
+		"3. 고기가 어느정도 익어갈때 쯤에 잘익은 김치 반포기 넣어서 같이 볶아 줍니다",
+		"4. 마지막으로 양파 넣고 볶아주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/90625e2dc148c956e0a539e1cfe496071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/127df53edada7d327c183fc1487fc6bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/2d92a2c012c2cb8ce49c7568dc708ec61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/2b4fe5c9914f6bf37d1c10e552ddcd8c1.jpg"
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"id": "6829922",
+	"name": "돼지고기 수육 삶는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/033597bb69ebc9468a5539229bf5d6fc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829922",
+	"ingredient_ids": [
+		27,
+		3,
+		29,
+		608,
+		848,
+		857
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기삼겹",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기는 후라이팬에 겉만 노릇하게 익혀주세요.",
+		"2. 압력솥에 돼지고기랑 수육삶을 재료를 넣고 물을 잠길정도 부어준 후 삶아주세요.",
+		"3. 압력솥에서 수육을 삶으니 20분도 채 안걸린답니다.",
+		"4. 수육이 좀 식었을때 자르면 잘 잘라져요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/ceeda8ae3e0e9ac70d9d182287a89f211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/43bbc3276e811f1bb3c5a9d7d4438eab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/a1502c4987ad40efc6dd770ec23813a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/c5ef8c3546f67df3094159df4517a0191.jpg"
+	]
+}

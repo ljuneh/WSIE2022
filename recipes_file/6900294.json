@@ -1,0 +1,93 @@
+{
+	"id": "6900294",
+	"name": "오레오 크림치즈 머핀 만들기｜효썸",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/ec2fe89e413af48d043d1746fc0661171.jpg",
+	"url": "https://www.10000recipe.com/recipe/6900294",
+	"ingredient_ids": [
+		208,
+		226,
+		884,
+		696,
+		373
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "무염버터",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "70~80g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "달걀(L)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "1",
+			"ingre_unit": "tsp"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오레오",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오레오",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 볼에 말랑한 버터와 크림치즈를 넣고 부드럽게 풀어준 다음 설탕을 넣고 충분히 섞어주세요.",
+		"2. 푼 달걀을 조금씩 넣어가며 잘 섞어주세요.일반 거품기로 섞어도 됩니다.",
+		"3. 박력분과 아몬드가루, 베이킹파우더는 체에 내려서 넣고 우유와 바닐라익스트랙도 넣은 다음 가루가 약간만 보일 정도만 섞어주세요.",
+		"4. 오레오를 지퍼백에 넣고 대충 부서주세요(너무 곱게 부수지 마세요.).오레오의 크림을 제거하지 않아야 곱게 부서지는 걸 막을 수 있습니다.",
+		"5. 부순 오레오를 넣고 잘 섞어주세요.",
+		"6. 머핀 틀에 80%씩 채워주세요.",
+		"7. 머핀 1개당 오레오 1개씩 손으로 부셔서 약간 꾹 눌러가며 올려주세요.",
+		"8. 170℃로 예열한 오븐에 25~30분간 구워주세요.오븐",
+		"9. 잘 구워진 머핀은 충분히 식힌 후 드세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/e8044ea020106fd51092aaa3f967960b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/7add0ec92a46e212ceee9016cbffa36a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/1a02d9e02fd7f57d5f5d4276709d0ed91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/2caaf6e87ef86e7757fa5491fcfb725e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/f2984debfd85d6a0d517c4bc400cc33b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/6182df801bf4ad5e501dd8f429b09c591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/38fa7bd4ff7098b69c91cfc957293b621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/2be99ff48f414aaaa951f29fb3378e8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/16/4c25e553d1882d64c54e410caba9636f1.jpg"
+	]
+}

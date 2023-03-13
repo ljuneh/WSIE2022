@@ -1,0 +1,72 @@
+{
+	"id": "6940273",
+	"name": "간단하게 끓이는 삼겹살 묵은지 김치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/763d9035a09472da814d60e80d2550721.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940273",
+	"ingredient_ids": [
+		487,
+		923,
+		379,
+		292,
+		224,
+		390
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "편마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 삼겹살을 먹기 좋게 썰고 묵은지를 넣어 달궈진 팬에서 달달달~~~볶습니다. 삼겹살 2컵 묵은지 3컵 (종이컵으로 계량) 종이컵 계량",
+		"2. 간장 1큰술 맛술 1큰술밥숟가락 계량",
+		"3. 고춧가루 1큰술 편마늘 1큰술 (또는 다진마늘 1큰술) 양념을 넣고 볶아줍니다.",
+		"4. 돼지고기 색이 하얗게 변하며 익으면 물을 부어줍니다. (건더기가 잠길 정도로 자박하게) ",
+		"5. 바글바글 끓기 시작하면 새우젓으로 모자란 간을 맞춥니다. ",
+		"6. 식초를 조금 넣으면 새콤~~한 맛이 감칠 맛이 돌아 맛있습니다. ",
+		"7. 중불에서 10분정도 바글바글 더 끓여 준 다음 불을 끕니다.",
+		"8. 묵은지와 구수한 삼겹살의 어우러짐이 맛있는 얼큰~~~~ 삼겹살 묵은지 김치찌개 였습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/87743d48438475c69c600619e419205c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/4d3dcde4b8cdac74776eef105e3181c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/5e937868abcb16d3b64f309ba0f9cef71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/480e9925b2c2f88589d1ef786683ce611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/4c2e7c126f11e6a3e2abd6098d1b58811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/e74f176f605c71cfc0ed41728e4611781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/2f90e9f7f918f9b0bd3c1ee4cb1cc3151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/04e93ec3c0e85377157ef4f2715064291.jpg"
+	]
+}

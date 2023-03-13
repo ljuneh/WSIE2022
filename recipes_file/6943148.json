@@ -1,0 +1,84 @@
+{
+	"id": "6943148",
+	"name": "명절음식. 소불고기 황금레시피. 언양 불고기, 바싹불고기 만드는법.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/6583fdf2874bf9857d8e723fda1bf5461.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943148",
+	"ingredient_ids": [
+		3,
+		27,
+		379,
+		226,
+		459,
+		292
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "쇠고기",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀이나올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 소고기는 먹기 좋도록 작게 썰어 주세요.다지면 안돼요. 불고기 부위로는 살코기로 연한 부위면 다 됩니다. ",
+		"2. 대파,양파는 송송 썰어 주세요.",
+		"3. 마늘은 곱게 다집니다.",
+		"4. 썰어 놓은 고기에 간장과 설탕,맛술,생강청,올리고당,간마늘,후추로 양념 합니다. *배를 넣어도 연해 지지만 생강청을 넣어 고기의 누린내도 잡고 연하게 만들었어요.",
+		"5. 양념한 고기에 다진 양파와 대파 넣어 많이 치대 주세요. *많이 치대야 야채가 빠져 나오지 않고 잘 뭉쳐져요. *어찌 보면 함박 스테이크와 비슷하지만 빵가루나 계란이 전혀 들어가지 않았어요.",
+		"6. 고기 반죽을 150g 씩 분할해 저울에 달아 동그랗게 모양 만듭니다. *1인분으로 혼자서 먹기 딱 좋더라구요.",
+		"7. 반죽한 고기를 랩으로 씌워 냉동실에 1~2시간 넣어 두세요. *살짝 얼어야 굽기가 좋아요. 고기는 식감있게 두툼하게 만들었는데 석쇠에 구울땐 익히기 좋도록 얇게 펴서 얼려야 합니다. ",
+		"8. 팬에 올리브유 두르고 반죽한 고기를 노릇하게 구워 줍니다. *1회용 버너가 있다면 석쇠에 올려 타지 않게 구워 보세요. 탄성이 저절로 나오게 맛있어요. ",
+		"9. 노릇하게 구워지면 접시에 통깨나 잣가루 송송 썬 대파 올려 완성합니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/2ac93f4dd4341e6bbf99f48d06b1f9721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/2c2f487479b4b436b8e86569eb307db91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/595509783f84df6cb49f9af7f0a49e191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/0c5530943dcf733feee3668c33a2bc541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/d341f5187d93caff1d4f83ab007b45891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/d1b14d779da0d13bc896de7ad76fa6f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/5fadd426b8b3052024a09ea46559f2481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/c46ee8ed9c0b19a529277ae517c5f1321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/b7ce9d602d2a9c5de556d1c4885deb961.jpg"
+	]
+}

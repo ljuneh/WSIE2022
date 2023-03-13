@@ -1,0 +1,86 @@
+{
+	"id": "6942716",
+	"name": "추석요리 식탁을 풍성하게 돋보이는 민어술찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/d7368bcd7b8f87fa4265d0ab1e7f8bdf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942716",
+	"ingredient_ids": [
+		291,
+		995,
+		497,
+		846,
+		29,
+		716,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "생물민어",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "조미료",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "실고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 민어를 손질해서 밑간을 합니다",
+		"2. 양념장을 만듭니다",
+		"3. 민어를 넣습니다",
+		"4. 센불에서 조립니다",
+		"5. 양념장이 반쯤 조려지면 뚜껑을 덮고 약불에서 익힙니다",
+		"6. 민어가 다 익으면 뚜껑을 열고 고명을 올립니다",
+		"7. 접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/7cdea7c1a06c515b2ff8ca1e462dbfdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/cace1ef76117862d5de36187224642261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/2aeba6ce8d95397e533c9d554cf7d5291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/95a69085a70cfcfe4df3738e5303e4b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/b056f9772abec5238e45c34c6dd37c291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/cd550b2494c1f34dfbd423a6b9a840791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/8d02f694ad86286ec2337d7bc18806371.jpg"
+	]
+}

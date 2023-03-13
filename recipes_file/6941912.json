@@ -1,0 +1,65 @@
+{
+	"id": "6941912",
+	"name": "[공모전] 경기미 참드림으로 만드는 표고버섯밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/be3080fc07e93b0a5c6691b7555e9ffc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941912",
+	"ingredient_ids": [
+		462,
+		219,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "경기미참드림",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "건표고버섯",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "콩나물무침",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "부추무침",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장(비빔밥용)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 우리품종 경기미 입니다",
+		"2. 경기미 참드림은 찰진식감이 좋은 쌀인데요 비빔밥, 죽 등에 사용하기에 좋습니다",
+		"3. 경기미 참드림으로 밥짓기 합니다",
+		"4. 냄비밥 지을게요 쌀씻어 냄비에 앉히고  건표고버섯도 물에 살짝 불려서 함께 넣어요 냄비밥은 밥물을 조금 더 부어요",
+		"5. 뚜껑닫고 끓이다가 우르르 끓으면 중불로 줄여  밥 지어요",
+		"6. 불 끄고 뜸들이기 5분 해주면 표고버섯밥 완성입니다 맛있게 표고버섯밥 완성입니다 비빔밥에 잘 어울리는 참드림이라 비빔밥으로 먹어요 역시 찐 입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/1aa2952600acd0978d4a2ebf3b9c11911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/72e5f18609234221ca04c1423d5707be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/c1684822a3ba4084ea4306376e2140281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/787ae2e9ab3cf20003deb6b602dc406a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/12bd3905c348a491433368c733a2d8fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/58993b0fba858c00b904832db0febfdf1.jpg"
+	]
+}

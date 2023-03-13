@@ -1,0 +1,131 @@
+{
+	"id": "6853631",
+	"name": "고추장 멸치볶음...밥도둑 고추장 멸치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/28/3beb19e05472fec55468dfc1c1937e001.jpg",
+	"url": "https://www.10000recipe.com/recipe/6853631",
+	"ingredient_ids": [
+		320,
+		29,
+		293,
+		840,
+		876,
+		90,
+		473,
+		853,
+		341,
+		843,
+		592,
+		458,
+		846,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "양파즙",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "마늘즙",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "타바스코소스(핫소스)",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "방울"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 쌀뜨물에 다시마 1장을 우려요. 15분 후에 끓여서 한소뜸하면 불을꺼요. ",
+		"2. 궁중팬에 기름없이 멸치, 마늘편을 볶아요. 20초 (사진은 2배분량)",
+		"3. 꽈리 고추는 2cm로 잘라 놓아요.",
+		"4. 고추기름 1t를 넣고 꽈리고추 2개분량, 한줌 견과류를 넣고 코팅만 시켜요. 10초 후 불을 꺼요.",
+		"5. 옆불에서 ...소스팬에 고추장양념을 만들어요. 고추장, 다시마우린물 1/3컵, 물엿, 매실액, 청주, 생강즙, 양파즙, 마늘즙을 넣고 졸이다가.. 바글바글해지면 불을 끄고 핫소스1t, 참기름1t를 넣고 섞어 주어요. ",
+		"6. 불이 꺼진 상태에서 고추장양념소스를 멸치 있는 궁중팬에 부어서 섞어 주어요. 통깨 톡톡톡은 나중에.."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/536df09b9526c26de878fa2c142f0f431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/bb131e9534e383e8f7d79683fdf506af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/8af01b80949822106bbdabc19556a4c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/4ff22c47ab803f9c778c6f3c0376005a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/39427e0d5e285d44f3286d284d2deca71.jpg"
+	]
+}

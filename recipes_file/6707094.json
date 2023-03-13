@@ -1,0 +1,54 @@
+{
+	"id": "6707094",
+	"name": "감자칩 만드는법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/0eb7f1794143999aa718eb3c9ffafa6c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6707094",
+	"ingredient_ids": [
+		5,
+		497,
+		504
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 감자는 껍질을 벗겨 깨끗이 씻어줍니다.",
+		"2. 씻어놓은 감자를 얇게 썰어 주세요.",
+		"3. 찬물에 행구어 전분을 빼줍니다.",
+		"4. 끓는물에 소금을 넣고 썰어놓은 감자를 넣어 익혀주세요..",
+		"5. 너무 익히면 감자가 으깨지니 조심하세요.",
+		"6. 건조기에 올려 말려줍니다. 70º온도에서 14시간 말려줬답니다. 그러면 아주 바삭한 감자가 되는데요. 익힌 감자라 그냥 먹어도 되겠지만 바삭한맛이 없어 먹기 나쁘답니다.",
+		"7. 팬에 기름을 넉넉히 두르고, 말린 감자를 넣어 감자의 색깔이 하얗게 변하게 튀겨주세요. 아주 순식간에 익어버리는데요. 깜빡하고 늦게 건져내면 노오랗게 변합니다.",
+		"8. 튀겨낸 감자침은 키친타올에 올려 기름을 빼줍니다. 접시에 담고 파슬리가루를 뿌리면 완성이요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/62d32313cf6b862b0b52dc970f43bd091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/6b5536a02156843528371c2613ead82c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/4c5ebadc70d7fcfc74a81452c458b5f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/913b11ccb0a3f7be5dcd5118ef0ae6de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/e9685fbfab33f5d0168c8b67951188231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/2eaafc5dd19eaa12f21e5a8ab749d0ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/0e1d66e590eb72844130019e8e0056f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/fa6dacd8123f6136ad54f05b37e1233c1.jpg"
+	]
+}

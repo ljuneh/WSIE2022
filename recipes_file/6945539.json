@@ -1,0 +1,68 @@
+{
+	"id": "6945539",
+	"name": "빼빼로데이 _초보 베이킹 황남빵 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/3e7a65e0445d8fb1a141ee6e4dfba46d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945539",
+	"ingredient_ids": [
+		204,
+		373,
+		907
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "연유",
+			"ingre_count": "112",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀노른자",
+			"ingre_count": "24",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "중력분",
+			"ingre_count": "90",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "팥앙금",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 연유와 노른자를 주걱으로 잘 섞어줍니다.",
+		"2. 중력분과 베이킹파우더를 넣고 잘 섞어줍니다.",
+		"3. 밑에 중력분을 깔아두고 반죽을 놓고",
+		"4. 일자로 밀어줍니다.",
+		"5. 반죽은 25~27g으로 나누어주세요. 팥앙금은 30g씩 해서 동그랗게 만들어줍니다.",
+		"6. 반죽에다가 팥앙금을 넣고",
+		"7. 잘 감싸줍니다.",
+		"8. 똑같은 과정 반복하기",
+		"9. 반죽 가운데를 눌러주고 달걀물을 발라줍니다.",
+		"10. 180℃로 예열된 오븐에서 180℃로 20분 정도 구워줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/20ab55012503fa51477d6d44831729f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/0dea5029e6f760017b89776284eaf4981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/58eed18190e895abf8bdd193f4b7d3881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/34cdd4c2ff47a0f4cb49f6eafaee0f331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/c5501a18dbb5db85eb6cfc9fa2b9d3c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/81631b87a3e31884811de9e6e00c6d421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/8f1cccce0ce059569eff32241c78d9c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/5ac04699853b756d2d9c25b1e5d31f6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/777b232a9b877624303e7fa0402be1401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/2db3527937a4b5dceb1b4ad39587c4271.jpg"
+	]
+}

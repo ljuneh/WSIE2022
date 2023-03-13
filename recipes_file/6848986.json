@@ -1,0 +1,64 @@
+{
+	"id": "6848986",
+	"name": "냉 잔치국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/a3d3936882a21118e687d51845545c1d.jpg",
+	"url": "https://www.10000recipe.com/recipe/6848986",
+	"ingredient_ids": [],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "소면70g",
+			"ingre_count": "70",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "애호박10g",
+			"ingre_count": "10",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "표고버섯5g",
+			"ingre_count": "5",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "대파5g",
+			"ingre_count": "5",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "김가루1g",
+			"ingre_count": "1",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "멸치액젓10g",
+			"ingre_count": "10",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "다시마육수250g",
+			"ingre_count": "250",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "식용유10g",
+			"ingre_count": "10",
+			"ingre_unit": " g"
+		}
+	],
+	"recipe": [
+		"1. 정제수 4,000ml, 다시마 30g을 넣고 20분간 낮은 온도에서 육수를 끓인 후 냉장고에 식힌다.",
+		"2. 애호박, 표고버섯은 슬라이스 하고 대파는 0.3cm 두께로 송송 썬다.",
+		"3. 식용유를 팬에 넣고 애호박,표고버섯을 살짝 볶아준다.",
+		"4. 소면은 끓는물에 4분간 삶아 얼음물에 씻어주고 다시마 육수에 멸치액젓을 잘 섞어준다.",
+		"5. 삶아진 국수에 육수를 넣고 고명(애호박,표고버섯,대파,김가루)을 올려 마무리 한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/efb8ced5a6303a73343945a38322ee27.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/fa9e16aa75febf8a3b7adbc1e62226f2.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/7ec1db9254a9e00f3c59c2d9150ed8c5.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/e7502c3e093cbe9f224444bef1aa6e0e.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/d81fa08bc7012097dabce7831015f082.jpg"
+	]
+}

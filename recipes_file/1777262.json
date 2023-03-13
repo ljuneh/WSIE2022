@@ -1,0 +1,82 @@
+{
+	"id": "1777262",
+	"name": "조개젓 무치기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/948e3000a0baf3f1562184a7dbd06a01.jpg",
+	"url": "https://www.10000recipe.com/recipe/1777262",
+	"ingredient_ids": [
+		497,
+		158,
+		847,
+		938,
+		660,
+		543,
+		757
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "바지락살",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "배즙",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘다진거",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 잘 익은 조개젓은 채에 받혀서 소금물을 쪽 빠지게 받혀 놓구요.",
+		"2. 사과랑 배는 강판에 갈아서 즙을 내서 준비해 두고",
+		"3. 조개젓에 양념재료를 다 넣고 버무려주세요.",
+		"4. 묻쳐진 조개젓은 바로 드셔도 되는데 냉장고에서 하루밤 재워서 먹으면 짜지도 않으면서 감칠맛 나는 조개젓을 드실 수 있답니다.",
+		"5. 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/b9b688c5d2de11f6ed643c6db3ffe7b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/87e62427f26c8d6bcb97b7d6dc9811dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/f9e6970f576ae529e670491a657393b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/92deb0ed9bfd4c594ba5e864fdd829e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/dc448b49eb3aea3251a9b490f7ab27a41.jpg"
+	]
+}

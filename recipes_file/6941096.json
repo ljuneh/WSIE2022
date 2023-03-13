@@ -1,0 +1,86 @@
+{
+	"id": "6941096",
+	"name": "팽이버섯 요리 / 팽이버섯 덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/c9a46b729b12519043842049d0cb7fc31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941096",
+	"ingredient_ids": [
+		55,
+		27,
+		660,
+		995,
+		379,
+		292,
+		226,
+		225,
+		224
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "210",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		}
+	],
+	"recipe": [
+		"1. 팽이버섯은 3등분으로 자른다.",
+		"2. 대파는 송송 썰어준다.",
+		"3. 물, 간장, 맛술, 설탕, 후추, 고춧가루를 넣고 양념을 만든다.",
+		"4. 프라이팬에 참기름, 대파, 버섯을 넣고 볶는다.",
+		"5. 팽이버섯에서 수분이 나오면 양념을 넣고 끓인다.",
+		"6. 밥 위에 덮밥소스를 올려준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/b454a4a39dcc85d821c8a1227a99735e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/0575b3fe5c298a99780e1282eb8fb7621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/8b916903c72f430f0008a708ba5ba8bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/717b9b51d766104885e16c690c73204a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/1b397ce3891c57d3b359d855f1bf6cd71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/1cb20913192ddfcff5785f55abcf7a181.jpg"
+	]
+}

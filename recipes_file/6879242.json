@@ -1,0 +1,82 @@
+{
+	"id": "6879242",
+	"name": "백종원 돈가스덮밥. 양파듬뿍올려 먹는 가츠동.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/6b09d0a2759fbb5c683ab22ca0e0b53f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6879242",
+	"ingredient_ids": [
+		978,
+		3,
+		379,
+		292,
+		226,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돈가스",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파or대파",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "10",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 돈가스를 기름에 굽거나 튀겨주세요.  돈가스는 튀기는 것이 바삭하니 더 맛있는 것 같아요.(취향껏 요리해주세요)",
+		"2. 돈가스를 튀겨내는동안 양파를 잘라주고, 쪽파를 쫑쫑 썰어주었어요. 계란2개도 풀어주시고요.",
+		"3. 잘 튀겨진 돈가스는 거름망에 올려 기름을 좀 빼주시고요.",
+		"4. 다른 냄비에 물+간장+맛술+설탕을 넣어서 덮밥소스를 만들어주세요. 물 10T + 간장 2.5T + 맛술 2.5T + 설탕 1.5T 로 만들었어요.",
+		"5. 만들어진 덮밥소스에 양파를 넣어 같이 끓여주세요.",
+		"6. 양파가 반 정도 익어가면 돈가스를 잘라서 가운데 올려주시고요. 그 옆으로 계란물을 빙~ 둘러주세요.",
+		"7. 마지막으로 쪽파를 뿌려 올려주시면 됩니다. 그리고 불을 끄고남은 잔열로 계란을 익혀주시면 되요. 계란이 너무 많이 익으면 식감이 거칠어(?) 지니 약간만 익혀주세요.",
+		"8. 뜨거운 밥 한그릇 위에 올려주시면 되는데요. 스르륵~ 올라갈 줄 알았는데  잘 안올려지더라구요 :D 돈가스 먼저 집어서 밥 중간에 올려주시고요. 계란떠서 옆에 올려주세요.  바삭하게 튀긴 돈가스에 덮밥소스가 촉촉히 베어 들어가서 부드러운 돈가스덮밥이 완성된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/a74994b83fc5e9763ab5d56d8723203e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/a0edca099f74e1baafdefd22807e6e921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/65c2634e13cce83b2ee5f82d9d6d2be21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/f4b4570cd414ae8159c6232f100ba78a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/dd7992f63ca1e9a312acabe1d145b3841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/0f88f5d3a9c804d94dd6b291d0e293b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/36b41925ee028fab0754c1af4ccf7d0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/6bd187d830e5be6a129d9532f4a4129e1.jpg"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"id": "6880868",
+	"name": "호떡 맛 나는 떡맛탕(가래떡이나 떡국떡으로 해보세요)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/56b17fa65700bdc587e1447dddabeaf21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6880868",
+	"ingredient_ids": [
+		226,
+		995,
+		341,
+		840
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡국떡",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "계핏가루",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비",
+		"2. ⇒ 기름 2큰술 정도 넉넉히 두른 팬에 약불에서 떡 바삭하게 굽기",
+		"3. Tip. 색은 내지 말고 떡 겉면이 부풀어 오를 때까지만 구워주세요. 오래 구우면 오히려 딱딱해져요.",
+		"4. ⇒ 떡, 견과류를 제외한 나머지 재료 넣어 바글바글 끓이기",
+		"5. ⇒설탕이 녹으면 구운 떡,",
+		"6. ⇒견과류 넣어 소스가 없어질 때까지 버무리기",
+		"7. 그릇에 담고 고소한 깨를 솔솔 뿌려주면 호떡맛 나는 떡맛탕 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/078aafc6bee8f7f3e4d86b911766f4021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/1f366956fde45798328e35881632b7bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/bb726d60596f1fa3cb5eac7bea5fbca91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/74997e8d320e617869e8d45e9ab984931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/4c198798a84ad5cbfe78a3984cdd0e1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/b8a07e1426227bbbbb71b9a9d0e9ab4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/01b4bb5ee64d082097022dd27319cde21.jpg"
+	]
+}

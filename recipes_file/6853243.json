@@ -1,0 +1,46 @@
+{
+	"id": "6853243",
+	"name": "밤늦게 배는 고프고.. 간편한 야식 애호박전 너로 정했다! ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/22/e0e5bc3d39b6ef43f596af6ec1d1bd561.png",
+	"url": "https://www.10000recipe.com/recipe/6853243",
+	"ingredient_ids": [
+		7,
+		259,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 애호박과 양파는 채썰어 소금을 넣고 10분간 절여놓는다.애호박 1/2개, 양파, 소금 1/4큰술",
+		"2. 건새우는 믹서에 갈아 준비한다.건새우 1/2컵",
+		"3. 절여놓은 애호박에 전분과 건새우가루를 넣고 버무린다.전분 2큰술믹서",
+		"4. 달군팬에 기름을 두르고 전을 올려 바삭하게 구워낸다.팬"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/22/99fb5d762efd8306b5d170a1d089df221.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/22/50ecaf4b192df1fe24eff171f571b4111.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/22/84904661848770a9ab71b038878345901.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/22/c4137ba5dd42c796e1868d69be2f6b1e1.png"
+	]
+}

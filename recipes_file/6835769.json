@@ -1,0 +1,78 @@
+{
+	"id": "6835769",
+	"name": "[전복요리]전복조림,전복간장조림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/6ba8bfbd2e8a35c8de9cdd9c3457e6f91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6835769",
+	"ingredient_ids": [
+		86,
+		379,
+		226,
+		343,
+		341,
+		3
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물1.5컵(종이컵)",
+			"ingre_count": "1.5컵(종이컵)",
+			"ingre_unit": ".컵(종이컵)"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 우선 전복을 손질할건데요~ 안쓰는 솔이나, 칫솔로 전복의 평평한 부분의 물때를 제거해주세요 솔이나 칫솔을 이용해서 닦아내면 제거가 된단답니다. 옆에건정부분은 물때이므로 깨끗하게 제거해 주세요 그리고숟가락을 이용하여 껍데기의 사이에 넣고 제껴주시면 힘들게 분리가 된답니다. ㅋㅋㅋㅋㅋㅋ 여기서 좀더 쉽게 분리를 하시려면 이빨부분의 반대쪽에 숟가락을 넣고 해야 내장이 터지지 않고 깔끔하게 분리가 된답니다. 그리고 존복살이 분리가 되면, 내장은 분리해 주시고, 저기 보이는 돌기 같이 생긴게 전복의 이빨이라는것인데요 저것도 제거해 주셔야 합니다. 4.번 사진처럼 전복,내장, 전복이빨 이렇게 분리해 주시면 됩니다.",
+		"2. 전복과 내장이 분리하고 나면 전복내장을 이용하셔도 되지만, 전 쌉싸름한 맛이 싫어서 넣지 않고 요리했습니다. 만약에 전복내장도 넣고 조림을 만드실거면, 양념이 반정도 줄었을때 넣어주셔야 내장이 터지지 않는답니다.",
+		"3. 전복의 평평한 부분을 칼로 칼집을 내어주세요.",
+		"4. 양파1개와,파반뿌리를 준비하신후에, 양파는 채썰어주시고, 파는 길쭉5cm정도 크기로 잘라서 4등분해주세요.",
+		"5. 물1컵반(종이컵기준),간장5스푼,미림1스푼,물엿2스푼,설탕1스푼,후추조금을 넣고 양념을 먼저 끓여주세요.",
+		"6. 양념이 끓기시작하면 손질해뒀던 전복과 야채를 넣고 양념이 잘스며들도록 졸여주세요 양념물이 어느정도 없어졌으면 다 졸여진 상태입니다^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/d46b11da0daf795063d0be948dfeaab71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/48412ddb3cf3e2fa5904ff1238e849ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/ee9e1315b55e6f5e1331bdc4870918e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/98125e7ac83d52ff2b47d11ec9c4bf9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/b9f9671bef962f44b67a19b44a12bdab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/2f65f7f390ccb96fd474dcb5cd6611901.jpg"
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"id": "6945154",
+	"name": "소금 넣지 않고 진짜 맛있게 담그는 파김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/74e51d79e57ce73a854a2a47683bc9901.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945154",
+	"ingredient_ids": [
+		757,
+		667,
+		995,
+		333,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물고추",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "조미료",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 파를 손질합니다",
+		"2. 깨끗하게 씻어 체에 받쳐 물기를 뺍니다",
+		"3. 마른고추를 물에 불려 갈아 놓습니다",
+		"4. 파를 반으로 자릅니다",
+		"5. 파 흰쪽 부분을 절입니다",
+		"6. 찹쌀풀을 쑵니다",
+		"7. 파에 양념을 하고 버무립니다",
+		"8. 통에 담아 기호에 맞게 숙성 시킵니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/6c90fb82b973610e937d1f80149fce571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/a71a0811d6ba3a4bc738adce6e58132f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/37ac03f0caefde567c6baefc6c02c4401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/36c74d4954c689f67acf15f5e23be8111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/d31c633c4bbccb5e9195bd1e38ab7bdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/5dae55f1d2b2bb2b0335054f9ef1be4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/b6111ffbe1335b8e19118f5cb3ad61411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/a49208fabfc50fa15329747107f929641.jpg"
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"id": "6854562",
+	"name": "[집밥] 백종원 닭곰탕 # 삼계탕 육수로 닭곰탕 뚝딱",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/13/c3df29ca6594f5787b44b2f7149b61aa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6854562",
+	"ingredient_ids": [
+		302,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "닭고기살",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "닭백숙육수",
+			"ingre_count": "1",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "채썬파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 전날 당면은 찬물에 미리 불려줘요. 무더운 여름철이라 냉장고에 넣어둠.",
+		"2. 고기를 건져내 닭고기살을 먹기좋게 찢어줍니다. 너무 크게 자르면 간이 잘 안베고 너무 잘게 자르면 나중에 육수에 고깃살이 퍼져버려요. 그러니 적당히",
+		"3. 육수는 따로 바글바글 끓여줍니다. 이때 육수에 소금 1t로 간 해주어요. 먹을 때 간 해주어도 됩니다.",
+		"4. 뜨끈한 육수 구석구석 스며들게 밥 한알한알 따뜻해지라고 토렴까지 해줍니다.",
+		"5. 따뜻하게 데운 밥에 미리 불려둔 당면, 찢어둔 닭고기를 듬뿍 얹고 그 위에 육수를 쏴아 채 썬 파 한줌 넣고 후추 톡톡 해주세요.",
+		"6. 초간단 3분 닭곰탕 완성이오~! 깊은 내공의 개운한 맛. 당면도 잘 어울리는 깔끔한 닭곰탕 이랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/13/c23305fd6706053d0acc260d919c32be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/13/6146853e003da0d4df1cccb829bd79551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/13/eea609cf5aa03df1f56d17da365c564e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/13/b0fc81936097e4536b7445e1014a75541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/13/0331d64281566b4cb1d23ddbcbce4a4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/13/a2893e52ca4f5fa159d3ff74b05dc8ec1.jpg"
+	]
+}

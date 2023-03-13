@@ -1,0 +1,75 @@
+{
+	"id": "6943234",
+	"name": "바삭한 반찬가게 멸치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/d630fd14e187d971e51438f9082306bc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943234",
+	"ingredient_ids": [
+		320,
+		840,
+		350,
+		292,
+		226,
+		379,
+		575
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "4",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "",
+			"ingre_unit": "적당"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "적당"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 멸치는 체에 한번 쳐서 부스러기를 걸러 준비해요 멸치는 얼마나 짠지 한번 먹어봅니다. 제 멸치는 짜지않아서 간장을 추가해 달콤짭짤하게 볶을거에요",
+		"2. 기름을 넉넉히 둘러 가열합니다. (약 종이컵 반컵) 멸치 몇개 넣어봐서 바로 떠오르면 타이밍이에요",
+		"3. 멸치를 노릇 바삭할때까지 볶아줘요. 기름에 부글부글 끓으며 멸치가 바삭하게 익도록 기름이 충분해야해요",
+		"4. 다 볶아진 멸치는 체에받쳐 기름을 빼줍니다.",
+		"5. 프라이팬을 한번 닦고 미림 2T, 설탕 4T 넣어 중불에 녹여줘요. 설탕이 녹으면 기름뺀 멸치를 넣습니다.",
+		"6. *생략가능* 멸치와 설탕을 한번 볶아준 뒤, 가운데 구멍을 내주어 간장 1T 를 한번 부글 끓인 후 섞어줍니다.멸치를 먹어봤을 때, 짜다면 이 간장과정은 생략해주세요.",
+		"7. 견과류를 넣어 같이 섞어줘요 제 견과류는 이미 볶아진 거라 따로 추가로 볶지 않았습니다. 간을 보고 올리고당(or 간장) 을 가감합니다. 저는 더 달았으면 싶어서 올리고당을 약 6T 더 둘러줬어요",
+		"8. 깨소금을 둘러 마무리!",
+		"9. 큰 반찬통으로 한통 꽉 나오는 양이네요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/e29d6937ebc80b75224457ed84a305751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/30d91a84e8315183a20634f40bec788a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/33fc210d83e12ebf873e20272bab23891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/66fe3765357da78321a18e7a07ccea501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/01e0300637d1fd6389f40b24dfd625e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/4d8327a2c8e97def8eebe1b535c527be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/e7e165c21f66f69469114b17e32a97b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/d42f51dd58880f1a22e36b30d2adb6071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/b44b58e4792132c2fe8f29e0ae9816311.jpg"
+	]
+}

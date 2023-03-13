@@ -1,0 +1,71 @@
+{
+	"id": "6934984",
+	"name": "여름엔 오이가 최고죠. 오이 초고추장무침, 초고추장 오이무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/06/25/27039be2ef1a270352f67f7e7b1e5bc01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6934984",
+	"ingredient_ids": [
+		497,
+		224,
+		233,
+		938,
+		543,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "​오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "초고추장1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "살짝"
+		}
+	],
+	"recipe": [
+		"1. 오이 한개를 준비해 필러를 사용해 오돌한 가시부분을 벗겨 제거해 줍니다. 그리고 0.5~1cm 두께로 잘라줍니다. ",
+		"2. 그리고 소금 1큰술로 버무려 20분 이상 재워 줍니다.",
+		"3. 소금이 녹고 오이에서 물에 촉촉하니 생기면 흐르는 물에 훌훌 씻어 건져 줍니다.",
+		"4. 씻어 건진 오이를 탈수기에 돌려 물기를 최대한 빼 줍니다.",
+		"5. 오이 한개 크기가 보통 다른 오이에 비해 좀 작은 듯합니다. 절여진 오이 양에 따라 양념 양을 조절해주세요. 그릇에 절여진 오이를 담고 고춧가루 1/2큰술, 초고추장 1+1/2큰술, 다진마늘 1/2큰술,매실청 1큰술, 통깨 1/2큰술, 참기름 살짝을 넣고 고루 잘 섞어 줍니다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/25/607651a0e3c4c582bd5b80ba7c48363e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/25/0d29e2dea41af80dc25e4662f52f1fef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/25/68fb087da428c5d98b341b21f28c280f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/25/c492b12a400ea89b7e8d996454c3fc671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/25/4e9c3fca4401fc258bbe3e0e571eabb01.jpg"
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"id": "6944998",
+	"name": "초간단 홍합요리 / 홍합탕 끓이기 / 시원한 국물, 초간단 소주안주 홍합탕 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/0a6005f4773ce626acf311a2161b5f0c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944998",
+	"ingredient_ids": [
+		88,
+		995,
+		295,
+		27,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "홍합",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "700",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 홍합의 족사(수염)를 제거해주세요.뾰족한 쪽(밑)으로 잡아 당겨주면 잘뜯겨요.",
+		"2. 홍합껍질에 붙어있는 이물질을 제거해주세요.홍합끼리 문지르며 껍질에 붙은 이물질을 긁어내주세요.",
+		"3. 홍합을 깨끗하게 손질 해준 후 흐르는 물에 바각바각 2~3회 씻어주세요.홍합껍질 깨진게 있을 수도 있으니 조심하기! (고무장갑 착용 후 안전하게 씻어주셔도 돼요.)",
+		"4. 냄비에 물 700ml와 홍합을 넣고 끓여주세요.물700ml홍합이 물에 덜 잠기도록 물의 양을 잡아주세요.  홍합은 처음부터 물과 같이 넣고 끓여야 입을 벌려요. 물이 끓을 때 넣으면 입을 꽉 다물고 열리지 않을 수 있어요.",
+		"5. 대파를 송송 썰어주세요.대파 약간",
+		"6. 청양고추를 썰어주세요.청양고추 2개청양고추 갯수는 취향껏 넣어주세요. 2개 넣으면 많이 매울 수도 있어요.",
+		"7. 국물이 뽀얗게 우러나면 불을 약불로 줄이고, 홍합살이 빠져있는 껍질을 건져주세요.끓여주는 동안 올라오는 거품을 걷어주세요.",
+		"8. 청양고추를 넣어주세요.한 번에 다 넣지 말고 조금씩 넣어서 맵기를 조절해주세요.",
+		"9. 소금으로 간을 맞춰주세요.맛소금 or 꽃소금 0.5티스푼소금을 조금씩 넣고 간을 맞춰주세요.",
+		"10. 대파를 넣고 약불로 1분정도 끓여주세요.",
+		"11. 그릇에 잘 담아주면 간단하고 쉬운 홍합탕이 완성됐어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/2ec8f2b04d8066dbbe00b9b80cf1fb7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/8e142dce724d0210c8afed21a382b7a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/d25f11d7d6a169867947060d2c6579b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/9122be0e718329cbb89fac0c9d9284751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/5d1546c2b0c46e46c37bb1c7cc58c6661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/bd406548970640aabe7fa0ed55f79f091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/8bfb45dc6573112f76151af2be0c91f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/c78c4035fb3f98194eeb33e5eab8ccf01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/53054969b36eddbaa393b98af8215aa91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/8d5e4c2b8e9a2a9e873d76878ace6a8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/b1efa588af7c649d0cc82cce2baeeccb1.jpg"
+	]
+}

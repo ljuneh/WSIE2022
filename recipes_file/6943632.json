@@ -1,0 +1,72 @@
+{
+	"id": "6943632",
+	"name": "무생채 대신 단무지 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/de92e9785aa7afdde0e71e9469603eee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943632",
+	"ingredient_ids": [
+		29,
+		231,
+		224,
+		938,
+		660,
+		543,
+		27
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "통단무지한개...",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. 통단무지 하나...400g 을 곱게 채썰어 줍니다.",
+		"2. 간이 강한 단무지는 물에 한번 씻어 사용하세요. 채썬 단무지는 물에 한번 씻어 탈수기에 넣고 물기를 최대한 빼 줍니다.",
+		"3. 흰부분과 초록부분이 모두 있는 대파 가운데 부분으로 대파 1/2대를 준비해 쏭쏭 썰어 줍니다.",
+		"4. 그릇에 쏭쏭 썬 대파를 넣고 마늘 2톨을 곱게 다져 넣고 식초 2큰술, 고춧가루 2큰술, 매실청 1/2큰술,참기름 1/2큰술, 통깨 1큰술을 넣고 양념을 만들어 줍니다.                   ",
+		"5. 그리고 준비한 단무지 채를 넣고 조물 조물 무쳐 줍니다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/9320d50060a116ebbe443c33f5d124871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/d9e32dd082b1496210a37c178dd64d711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/695dc29ca8a8d5c66cbd3e152d6a7ab01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/d2e6257339b28d947b251f3a519530851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/cf79de5a775966d489edb7d0d694a95b1.jpg"
+	]
+}

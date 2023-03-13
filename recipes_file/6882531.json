@@ -1,0 +1,78 @@
+{
+	"id": "6882531",
+	"name": "채쳐서 바로 무치는 초스피드 밑반찬, 상큼한 양배추 생채",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/19/5ec82459559164485157cb0e098618551.jpg",
+	"url": "https://www.10000recipe.com/recipe/6882531",
+	"ingredient_ids": [
+		231,
+		938,
+		333
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추채",
+			"ingre_count": "600",
+			"ingre_unit": "g가량"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀/물엿",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장(조선간장)",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1/2",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "깨소금(볶은통깨간것)",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 양배추는 채칼로 얇게 채썰어 물에 헹궈준 다음 체반에 받쳐 물기를 뺍니다.",
+		"2. 양배추 물기 빠질 동안 양배추를 무칠 큰 보울에 양념재료를 모두 다 넣고 섞어준 다음,",
+		"3. 생채 양념 위에 양배추채를 붓고",
+		"4. 버물버물 양념과 양배추채 잘 섞어주고",
+		"5. 그릇에 담으면 끝!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/19/d1e74fd76043cb032c8d0a62a9850d6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/19/7cbd93d34834bb36814b9701eda73b511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/19/3d7177be917be96f191a04954dfd929d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/19/de5e1c131c1f961de359f6b69105b0701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/19/441ccd55121cf002826a24a3725725131.jpg"
+	]
+}

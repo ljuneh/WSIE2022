@@ -1,0 +1,61 @@
+{
+	"id": "6851769",
+	"name": "담백한 닭고기미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/7d620e68472259ee64ee30204749a0481.jpg",
+	"url": "https://www.10000recipe.com/recipe/6851769",
+	"ingredient_ids": [
+		660,
+		233,
+		379,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "불린미역",
+			"ingre_count": "4",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "닭안심살",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 불린 미역과 닭안심살은 먹기 좋은 크기로 잘라주세요.",
+		"2. 냄비에 참기름 1T를 두르고 불린 미역을 넣어 중불에서 약 1분간 볶아주세요.",
+		"3. 그 다음 닭안심살을 넣어 약 1-2분간 볶아주세요.",
+		"4. 닭안심살의 표면이 하얗게 변하면 물을 붓고 센불에서 팔팔 끓여주세요.",
+		"5. 이렇게 끓어오르면 약불로 줄여 약 20-30분 동안 푹 끓여주세요.",
+		"6. 약 20-30분 후, 미역이 충분히 부드러워 지면 다진마늘 1T, 간장 1T, 소금 0.5T 넣어 한소끔 끓이면 완성입니다. 간 보시고 부족한 간은 소금으로 해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/d0603beb6c17801f7d6ad4a9191360cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/a5806b5763f420ea7fd8bc4c41ad80af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/696d57097002d0f1a5da89c8d576e4b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/044acd584ab8b025d8ab30b5cba60f3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/8994394eb08ab809ba622a8285844c221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/7b0b05bcfb34b9fb54333c39518fbe381.jpg"
+	]
+}

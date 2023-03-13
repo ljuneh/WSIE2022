@@ -1,0 +1,66 @@
+{
+	"id": "6852963",
+	"name": "비쥬얼 요리가 나타났다! 스페셜 2색 달걀말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/42ce8abe67d16c4f646e9e4b843130cf1.png",
+	"url": "https://www.10000recipe.com/recipe/6852963",
+	"ingredient_ids": [
+		219,
+		497,
+		660,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "시금치1줌(80g)",
+			"ingre_count": "1줌(80g)",
+			"ingre_unit": "줌(g)"
+		},
+		{
+			"ingre_name": "채썬당근",
+			"ingre_count": "1/8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물(4컵)에 소금(1/2큰술)과 시금치를 넣고 10초간 데친 뒤 찬물에 헹궈요.시금치 1줌(80g)",
+		"2. 시금치 데친 물에 당근도 넣고 15초 정도 데친 뒤 건져요. 데친 시금치는 물기를 짜고 밑간에 버무리고, 데친 당근도 물기를 제거해 소금(약간)에 버무려요.채 썬 당근 1/8개 [밑간]: 소금 약간, 참기름 1/3큰술",
+		"3. 달걀은 소금(약간), 후춧가루(약간)을 넣고 곱게 풀어요.달걀 5개",
+		"4. 중약 불로 달군 팬에 식용유(1큰술)를 두르고 달걀물(1/2분량)을 부어 익혀요.팬중약 불",
+		"5. 반숙으로 익으면 당근을 얹어 달걀물로 감싼 뒤 시금치도 얹고 돌돌 말아요.",
+		"6. 남은 달걀물(1/2분량)을 붓고 이어 붙여가며 익혀 한 번 더 돌돌 말아 속까지 익힌 뒤, 먹기 좋게 썰어 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/15a2fd1ad8457afc3c3abc95c5e59a0e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/cb34d5034b7ffaec8ff95324e54993c71.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/e4a090dc7fa8e9a2943ba0bdb712caa21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/1c9f39c73019f9509b574f92ae8030ad1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/37fdb0a49bef841f19f6e5ac5d7dca711.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/d7c88e262eb81517674029629a96fc011.png"
+	]
+}

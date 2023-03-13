@@ -1,0 +1,68 @@
+{
+	"id": "6152541",
+	"name": "우엉조림 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/6f86c02798d193158434d654f17b4a841.jpg",
+	"url": "https://www.10000recipe.com/recipe/6152541",
+	"ingredient_ids": [
+		26,
+		379,
+		343,
+		995,
+		341,
+		660,
+		350
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "우엉",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "매실액기스",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 우엉은 껍질을 벗기고 먹기좋게 썰어 끓는 물에 1~2분정도 데쳐냅니다.",
+		"2. 간장, 물, 미림, 매실액기스를 반컵 분량 정도로 1 : 1 : 1 : 1 비율로 부어 주었습니다. 조림장에 우엉을 넣어 끓입니다. 매실액기스를 먼저 넣었기 때문에 단맛이 맛있게 날 수 있도록중간에 올리고당을 한번 더 넣어주어야 한답니다.",
+		"3. 센불에 처음에 5분정도 팔팔 끊이다 중간불에 넣고 다시 15분정도 끓여주세요. 뚜껑을 덮어 20~30분 정도 끓이고 물엿을 3스푼 정도 더 넣고 5분정도 더 졸이면 완성입니다. 마지막에 참기름을 넣고 한번 조려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/28d609c587912772a9945f03cf464fab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/9fbf629615819c0bed0fafeae6c00a7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/5a9d96a8f38e91aa9289cbe0a8e4e7c01.jpg"
+	]
+}

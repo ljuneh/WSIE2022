@@ -1,0 +1,75 @@
+{
+	"id": "6941700",
+	"name": "에그슬럿 페어팩스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/e06c6dbce431277ff56d9a1fcf2a1b7b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941700",
+	"ingredient_ids": [
+		3,
+		226,
+		228,
+		1006,
+		219
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "햄버거번",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "스리라차소스",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무염버터",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 버거번을 팬에 구워주세요.",
+		"2. 스리라차 마요 소스를 만들어요.  마요네즈 4스푼에 스리라차 1스푼이 딱 좋습니다. (취향껏 조절가능)",
+		"3. 양파는 세워서 2등분 하고 곁방향으로 썰어주세요.",
+		"4. 후라이팬에 기름을 두르지 않고 설탕 한스푼과 함께 양파를 볶아요. 볶다가 캬라멜라이즈 될 때까지 조리합니다.",
+		"5. 계란 3개와 무염버터 2스푼을 팬에 넣고 섞어준 뒤 중불로 가스불을 켜주세요.",
+		"6. 실리콘주걱을 이용해 동그랗게 계속 저어주세요. 바깥 부분이 먼저 익어요 그 주위를 밀면서 스클램블 에그를 만듭니다.  어느 정도 익어 몽글몽글해 질때 불을 꺼주세요.  차이브나 썬 실파, 파슬리 등이 있으면 뿌리신 후 동그랗게 뭉쳐주세요.",
+		"7. 빵의 양면에 스리라차 소스를 뿌려주세요.",
+		"8. 아래번에 스크램블 에그를 얹고, 위에번에는 양파를 얹습니다.",
+		"9. 체다치즈 2장을 추가하고 둘을 합쳐주세요.",
+		"10. 페어팩스 샌드위치 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/f2b77b4b8107baffac3b49e5c4464de91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/a9789e156af93d77c7641873e01711a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/8675233184a4c3b55f2d8f54b8ac32c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/7afec01834b367b516fb7e0b099948ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/ee112ee386976ca25544680bcaf5fe1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/4de414b50c4135f74dbf506371f453ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/79290377685c4fbb5609553023e409201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/7f3868342131a6e532f193e6ed80f02f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/b4109bbb41d2affd315633ac2d33ee8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/48b5a77a21288699ad3602612b7a4b611.jpg"
+	]
+}

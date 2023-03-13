@@ -1,0 +1,78 @@
+{
+	"id": "6942947",
+	"name": "감자 요리 웨지감자 만들기 에어프라이어로 만들었어요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/b253698c896fbe5ff048bdb8188de4111.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942947",
+	"ingredient_ids": [
+		5,
+		497,
+		551,
+		367,
+		225
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "오레가노",
+			"ingre_count": "1/4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "바질",
+			"ingre_count": "1/4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1/5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 감자는 흐르는 물에 깨끗하게 씻는다.",
+		"2. 그다음 웨지 모양처럼 8등분 하고 물에 10분 정도 담가 전분을 제거한다.",
+		"3. 10분 뒤에 물에서 건지고 체에 밭쳐 물기를 제거한다.",
+		"4. 물기를 완벽하게 제거하고 싶으면 키친타올로 살포시 닦는다.",
+		"5. 볼에 감자, 파프리카 가루 1/2T, 소금 1/3T, 오레가노(홀) 1/4T, 바질(홀) 1/4T, 후춧가루 1/5T, 파슬리가루 1T, 올리브오일 3T를 넣고 골고루 섞는다.",
+		"6. 그다음 에어프라이어 전용 팬에 담고",
+		"7. 에어프라이어에 넣어 200도에서 10분 정도 굽는다.에어프라이어",
+		"8. 10분 뒤에 에어프라이어에서 감자를 꺼내 한 번씩 뒤집고 10분 정도 더 굽는다.가정에서 사용하는 에어프라이어마다 조금씩 다르기 때문에 시간 조절하면서 굽는 것이 좋습니다.",
+		"9. 웨지감자가 알맞게 익으면 접시에 담고 원하는 소스를 곁들이면 웨지감자 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/e928f95e3c44748f5d7f04d01a7458381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/fc175104c85f21f177024966b28fcba01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/0020ea2bcfe38348bd6f52673ff021ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/248de4fd0727d854244362b10099bb871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/8cb61c3c0f5c56237f6a455290880b461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/3efc67a9916c7dfbc9ab4590d0d66b881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/9983b418ef16380aeaeec8e442a747891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/63a562ad6bb4b0c9e4066e82d644d99b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/2c4d28b4887031fd12ba0bad771796d41.jpg"
+	]
+}

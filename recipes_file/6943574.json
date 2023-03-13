@@ -1,0 +1,97 @@
+{
+	"id": "6943574",
+	"name": "캠핑요리 튀김 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/e883858b978149d4ec60625b5068da6a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943574",
+	"ingredient_ids": [
+		4,
+		5,
+		9,
+		15,
+		3,
+		734,
+		497,
+		495
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "5~6개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 고구마,감자,양파,당근,깻잎등 튀김에 들어갈 재료를 깨끗히 손질해줍니다.",
+		"2. 야채들은 약간 도톰한 굵기로 일정하게 채썰어주세요.",
+		"3. 튀김가루한컵을 붓고 물을 조금씩 넣어가며 반죽이 너무 질지않게 버무려줍니다.",
+		"4. 야채와튀김가루 반죽에 소금 반수저정도만 넣어주세요.",
+		"5. 튀김팬에 식용유를 적당히 붓고 튀김옷을 떨어트렸을때 바로 올라오면 튀김하기 좋은 온도입니다. 젓가락으로 야채들을 적당한 크기로 한번에 잡어 튀겨주세요.재료를 넣으면 튀김온도가 내려갈수있으니 쌘불에서 튀겨줍니다.나무주걱에 야채들을 올려놓고 젓가락으로 잡으면 모양이 흐트러지지않고 편하게 튀김을할수있어요.",
+		"6. 고구마는 적당한 두께와크기로 썰어줍니다.",
+		"7. 튀김가루 2컵에 물을 넣고 주르르~흐를정도로 반죽후 파슬리가루를 넣고 썰어놓은 고구마를 넣어 버무려줍니다.",
+		"8. 튀김온도가 적당하면 고구마를 넣어주세요.",
+		"9. 깻잎안에 소고기는 소금0.5t과튀김가루3t넣고 반죽하고 깻잎 한쪽에 소고기를 발라 반으로 접어줍니다.소고기에 튀김가루를 넣어 같이 반죽을 하면 깻잎 안쪽에 별도로 밀가루를 바르지않아도 고기가 떨어지지않습니다.",
+		"10. 적당한 튀김온도에 깻잎을 넣고 튀겨주세요.",
+		"11. 완성된 튀김들은 완성접시에 담아줍니다.",
+		"12. 매콤 누들떡볶이와 튀김에 조합! 캠핑장가서 아이들 해줬더니 너무 잘 먹더라구요. 만들기 쉬운 튀김요리 도전해보세요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/cc899ef9d5d5384e9b75fa8b25cb843a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/d3b47d5b1925a674b605d182c559abb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/1073daf0776652af9b6982c05c2f46681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f31efc48d4aa4d0c7e02057a020cc6e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/7329e3c4a68a1a59886969b689150bac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a57c14231a5e15b0b8a8161e64f27e1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/4f3578bdfa55e41f928e0e2d98dcea361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/2c330a3a4d21cd7ed71de1c4e76db1eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/2f2d264130fbf7354a1497a53882f0921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/b7370e60d2f6845ac8c793038b57ff061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/335d3d30fb278952af44b747d53179b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/89cb3ad1cd64aa7ae11f60dd1803a3411.jpg"
+	]
+}

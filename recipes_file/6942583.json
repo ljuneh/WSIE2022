@@ -1,0 +1,75 @@
+{
+	"id": "6942583",
+	"name": "네? 고사리를 파스타에요? 가을의 향, 멋, 풍미 가득 담은 브런치 메뉴 <고사리 파스타>",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/340e5fdc76005fefe266eb891994655e1.png",
+	"url": "https://www.10000recipe.com/recipe/6942583",
+	"ingredient_ids": [
+		505,
+		29,
+		432,
+		995,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "삶은고사리",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "스파게티면(80g)",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "요리에센스연두",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "면수",
+			"ingre_count": "50",
+			"ingre_unit": "mL"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. [재료 손질하기] 삶은 고사리는 흐르는 물에 한 번 헹궈낸 후, 물기를 제거하고 4-5cm 길이로 잘라주세요.",
+		"2. [재료 손질하기 - 2] 마늘은 편으로, 실파는 송송 썰어주세요.",
+		"3. [파스타 삶기]  파스타는 소금을 넣은 물에 7분간 삶아주세요.",
+		"4. [재료 볶기] 달궈진 팬에 포도씨유를 두르고 마늘과 고사리를 넣어 볶아주세요.",
+		"5. [재료 볶기] 삶은 파스타면과 면수, 연두, 실파를 넣고 끓이듯이 볶아주면 완성!⠀"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/dc613dc9817e372c021cecce69639ce21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/d21bde617b006cac6348b7f4bebd484d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/68846d91ad8b11198780d078dcf6534f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/20494c3f1b00570dc4e58651d4a192401.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/630a32cc78d8d227901f0276ad6f932b1.png"
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"id": "6944990",
+	"name": "에그 마요 핫도그",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/1acec83c3d02b344a2eb3e9f6509a9241.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944990",
+	"ingredient_ids": [
+		3,
+		228,
+		226,
+		632
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "핫도그용빵",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "삶은달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "피클",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비하기 핫도그 용 빵, 삶은 달걀, 양파, 피클, 설탕, 마요네즈",
+		"2. 달걀은 10~15분 정도 완숙으로 삶기 에그 마요 속 재료 준비 삶은 달걀, 양파, 피클, 설탕, 마요네즈단맛을 원하지 않으면 설탕 생략해도 상관 없다.",
+		"3. 달걀은 흰자, 노른자 분리 하기",
+		"4. 흰자는 칼로 0.5cm 크기로 다져주기 노른자는 체망을 이용해 곱게 으깨주기",
+		"5. 양파는 0.5cm 이내의 크기로 다져주기 (양파 대신 양배추 사용 - 느끼한 맛을 잡기 위해 사용)매운맛을 제거하기 위해 차가운 물에 10분 정도 담근 후, 체망에 걸러 물기 제거",
+		"6. 피클은 곱게 다져주기 (생략 가능)",
+		"7. 큰 볼에 다진 달걀, 양파, 피클, 마요네즈를 넣어 골고루 섞기",
+		"8. 마요네즈만 넣어도 맛있지만, 약간의 단맛을 위해 설탕 1t 넣기",
+		"9. 핫도그 빵에 속 재료를 풍성하게 넣어 만들면 완성한번 핫도그용 빵을 전자레인지 20초 정도 데운 후 사용하면 촉촉해서 더 맛있게 먹을 수 있다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/b1b4b462dfba7f838823b84dcfcb90ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/d1c616048e12ace8ab976759e4921b7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/d5570dee70b3c7ec668afc819c88ea041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/6a95768372b5cadc963f15d87ee887e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/c187ee8ea7b2db047db111dc541bd7c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/a3ee20be03566f0d46148969fec41a241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/1c5ed170f967e156c4e3751fb698cfe81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/2043acc95de4009b375caa66e90740431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/23dbe66e9bf75ba5518d087079d30f5e1.jpg"
+	]
+}

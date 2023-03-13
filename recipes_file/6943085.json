@@ -1,0 +1,90 @@
+{
+	"id": "6943085",
+	"name": "중국식비빔국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/c3a0c1c30a0da9b523059a3ab825934d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943085",
+	"ingredient_ids": [
+		52,
+		457,
+		233,
+		660,
+		504,
+		379,
+		226,
+		231
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "국수",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "송송썬파",
+			"ingre_count": "1/2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "땅콩버터1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 제일먼저 국수를 삶아 주세요 국수종류는 취향에 맞추어 우동사리도 좋고 쌀국수도 좋은데 저는 집에 우동국수가 넉넉히 있어서 오늘은 우동국수로 삶아줍니다",
+		"2. 국수가 익으면 재빨리 채에 부어서 차거운 물로 박박 마구 비벼서 물기를 빼 줍니다 냉면국수든 모든 국수는 이 과정이 완전 중요:) 국수를 빨래 하듯이 마구 비벼주면 전분이 제거 되면서 국수발이 탱탱하고 쫀득한 면발이 완성 되어집니다",
+		"3. 볼에 비빔소스 재료 몽땅~~ 다진 생강 1큰술,다진 마늘1큰술, 땅콩버터 1 큰술 반 참기름 반큰술,식용유 반 큰술,간장 3큰술, 설탕 2작은술,식초 2작은술 모두 넣고 잘 혼합시켜주세요                    ",
+		"4. 파는 종종 썰어서 놓아주시고                    ",
+		"5. 숙주는 깨끗히 세척해서 물기를 제거하시고 ",
+		"6.  소스는 따로담아 내어 식탁에서 각자 덜어 비벼먹도록 해주어야 숙주의 아삭한 식감이 살아 있게 드실 수 있고 각자 간의 정도가 달라서 각자의 식성을 배려하는 면에서도 좋답니다 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/f873d85137257cee278cd9541ef97e281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/fcddbb0c6192661086e7b523531a0eec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/4263007c1b3da2e379abe22035f95a9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/875e9f79294f32bbf456661ff08919e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/aaf3446d16594dfd6d58352e52667dd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/47349520870137f4c788809dcd5621ae1.jpg"
+	]
+}

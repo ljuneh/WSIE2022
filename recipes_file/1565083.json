@@ -1,0 +1,108 @@
+{
+	"id": "1565083",
+	"name": "총각김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/23/c42bfe8c82d6046b216251577bd15336.jpg",
+	"url": "https://www.10000recipe.com/recipe/1565083",
+	"ingredient_ids": [
+		882,
+		757,
+		20,
+		925,
+		282,
+		667,
+		995,
+		390,
+		224,
+		29,
+		28,
+		3,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "총각무",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "10",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "10",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "갓",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "김치전용액젓",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "10",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/3",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 총각무는 다듬어서 씻은 후 굵은소금을 뿌려서 절여 줍니다. 쪽파, 갓, 미나리는 다듬어서 씻어 놓고 양파, 마늘, 생강은 껍질을 벗겨 씻어 줍니다.",
+		"2. 총각무가 어느정도 절여졌을 때 쪽파와 갓을 넣어 함께 절여 줍니다.",
+		"3. 총각무와, 쪽파, 갓이 고루 절여 지도록 한번 뒤집어 주고 다 절여 지면 흐르는 물에 행군 다음 체에 밭쳐 물기를 제거해 줍니다.",
+		"4. 찹쌀풀은 미리 쑤어 식힌 후 넓은 볼에 담고 마늘, 양파, 생강은 믹서기에 갈아 주고 미나리는 적당한 크기로 썰고 김치전용액젓, 새우젓, 고춧가루, 설탕을 넣어 김치 양념을 만들어 줍니다.",
+		"5. 총각무와 쪽파, 갓을 김치 양념에 넣어 고루 버무려 주고 총각무와, 쪽파, 갓을 몇가닥씩 모아 잡아 한데 묶은 후 김치통에 꾹꾹 눌러 담아 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/f9658cf3c3f499e1d5ecd95f5f2fb2c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/7111eed174154227fdd5c89df9e5ee851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/a11f7ebd0dd0998d9e07398d8235f05c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/eab2eee374b2f80531a45073103d68261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/39fcaa109605d5e10b5307e16fec8a491.jpg"
+	]
+}

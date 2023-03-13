@@ -1,0 +1,93 @@
+{
+	"id": "6917129",
+	"name": "백종원표 :: 참치감자조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/08/08/99716f84bfb62866190694c01dd775831.jpg",
+	"url": "https://www.10000recipe.com/recipe/6917129",
+	"ingredient_ids": [
+		659,
+		5,
+		3,
+		27,
+		295,
+		29,
+		473,
+		226,
+		224,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "참치",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물참치캔으로",
+			"ingre_count": "3",
+			"ingre_unit": "캔"
+		}
+	],
+	"recipe": [
+		"1. 모든 재료를 썰어주신 다음 준비된 냄비에 감자를 맨 밑에 깔고 양파를 올려주고 청양고추를 올려주세요순서 - 감자 > 양파 > 청양고추  감자를 맨밑에 까는 이유는 감자가 다른 야채들보다 익는 시간이 길어서예요",
+		"2. 준비된 양념장을 올려주세요마늘 1T, 고추장 1T, 설탕 0.5T, 고춧가루 1T, 진간장 2T, 참기름 1T저는 따로 따로 넣었지만 양념을 한번에 만들어 넣어주면 더 좋아요",
+		"3. 양념을 넣고 참치를 넣어주시고 참치캔으로 물 3캔을 넣어주세요  감자가 익었으면 준비해둔 파를 넣고 마무리 해주세요강불 > 약불밑에서 부터 휘휘 섞어주세요 감자가 눌러붙지않게 중간중간 저어주고 센불로 끓이다 한번 끓어오르면 약불로 줄여서 졸여주세요",
+		"4. 충분히 졸여주면 완성이예요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/08/a0908b13187d204a5da7701f0fa620371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/08/f20a1b452c7ee90c413e3e610b418af31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/08/98e23ecaed1812a30096d945d42ef4441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/08/e24be078ef1feafb6212ab4039a39ce71.jpg"
+	]
+}

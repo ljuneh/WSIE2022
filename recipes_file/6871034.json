@@ -1,0 +1,66 @@
+{
+	"id": "6871034",
+	"name": "물없이 오이지 담그는법 물엿vs설탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/89e26f8cd46f4450bdc067b64098e2751.jpg",
+	"url": "https://www.10000recipe.com/recipe/6871034",
+	"ingredient_ids": [
+		545,
+		231,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "오이반접",
+			"ingre_count": "50",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		}
+	],
+	"recipe": [
+		"1. 오이 크기가 작으면 오이지 담그기가 한결 편하답니다 너무 키가 큰 오이지는 김치통에 넣을때 조금 불편할 수 있어요",
+		"2. 깨끗이 씻어서 물기를 제거한 오이를 김치통에 차곡 차곡 넣어 줍니다 길이가 일정하지 않거나 키가 크면 삐쭉 빼쭉 정리가 않되서 김치통 1개에 담기가 쉽지 않더라구요",
+		"3. 오이 반접 50개에 설탕 1kg 한 봉지를 넣어 주는데 많다고 생각하지 마시고 다 넣어 주세요 설탕을 넣는다고 몸에 안좋은게 아니라 소금과 설탕의 삼투압으로 절이면서 오이의 수분을 빼주는 역할을 합니다",
+		"4. 식초와 소금 설탕을 넣고 섞어주는데 소금 결정체는 다 녹지 않아도 됩니다 혹시 물엿으로 담그신다면  소금과 식초만 넣어주고 3일 뒤에 절인 물을 따라 버린후 물엿을 넣어 줍니다",
+		"5. 오이에 설탕과 식초 소금물을 넣어 주면 이렇게 녹지 않은  소금 결정체가 남게 되지요",
+		"6. 다음날이면 오이지의 물의 많이 생기면서 소금 결정체는 없어지게 됩니다",
+		"7. 누름돌을 올릴 필요도 없이 뚜껑을 닫아주면 되는데요 오이가 좀 많아서 뚜껑을 닫으면 상처가 생길까봐 랩으로 씌워줬어요",
+		"8. 다음날 아침 소금은 많이 빠지고 물이 엄청 생겼어요",
+		"9. 오이 부피도 많이 줄었죠",
+		"10. 위쪽에 있는 오이지를 아래쪽으로 넣어서 골고루 색이 노랗게 절여지도록 한 번만 뒤적거려 줍니다",
+		"11. 오이의 부피가 줄어들었으니  플라스틱 물통을 올려 준 뒤  뚜껑을 닫아서 3일 더 절여줍니다",
+		"12. 뜨거운 소금물을 넣는 게 아니라서 누름돌까지는 필요 없어요",
+		"13. 그리고 삼일이 지나니  이렇게 노랗게 잘 절여졌네요",
+		"14. 이렇게 담근 오이지는 너무 맛있어서 50개는 금새 먹습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/b39477e8f5a50ab98d7aa6cd800834701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/75f9d1ae6372e80d22ea26e60fe407a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/2c922855f71da62789c0266e1735441f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/6e7e1273bd8a505d33f1c8cad53399011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/08891400da87b244ce6c34d065a37fd71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/02dda311f223284f19a8756d088b247c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/e8aa6859ff10df9ba1d443d88f6eedd01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/2c6e9b2c6f4deffff451249c4adbdeaa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/7d8f6603175858f796bdb7c575f20ef51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/2625307153afefa7baed1273cd0a346e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/309b5ebab73f0c8e5a136fee720f61e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/4d8185442fecf66875fe3db03eba05861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/532c5177989797c97454642e4dc4cbdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/10/8c6871c89aedcc87bd2e4ac19791f4dd1.jpg"
+	]
+}

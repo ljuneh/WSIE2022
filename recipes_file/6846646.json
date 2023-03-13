@@ -1,0 +1,52 @@
+{
+	"id": "6846646",
+	"name": "비오니까 백종원 애호박전 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/18/9664d074cc7fba872d6b895f094211ae1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846646",
+	"ingredient_ids": [
+		7,
+		383
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우가루",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "감자전분",
+			"ingre_count": "3",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 애호박한개 씻어준비합니다.",
+		"2. 세등분해서 다시 세워 다섯등분",
+		"3. 가늘게썰어줍니다 .",
+		"4. 채썬 애호박을 볼에담아",
+		"5. 홍새우가루 2수저ㅡ 마트에팔아요.",
+		"6. 감자전분가루 3수저 ㅡ",
+		"7. 묻힙니다.",
+		"8. 후라이팬에 기름두르고 팬이달궈지면 한국자떠서",
+		"9. 중불로 굽습니다.",
+		"10. 뒤집어서 노릇하게구워지면 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/18/1d6bbb612cc20dca1cd9f57ca09b378c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/18/ba69c228cdb2821ffb0aad0dbe6530351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/18/da7df3a37da0d7e4cd9af272b2d706e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/18/4ad9159d9f4bad684168244f513b74581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/18/1e59a062727728cb10f3fe346d0d4c701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/18/c83463b9aa43bf2f3a2f08af97b1260b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/18/055847b41b7ef287caa313495c0c63341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/18/565380a5f8183dc9a0720a8de44d32cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/18/c613c9e150b809312c9074436e06ff331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/18/14ab44828ad95df03022fae3bd26fd951.jpg"
+	]
+}

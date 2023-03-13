@@ -1,0 +1,71 @@
+{
+	"id": "6848354",
+	"name": "짜장면 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/29/3dfd53ca99843fba47bc8f336f28b3d71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6848354",
+	"ingredient_ids": [
+		487,
+		9
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "짜장분말",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자(중)",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파(중)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양송이7개등",
+			"ingre_count": "7",
+			"ingre_unit": "개 등"
+		}
+	],
+	"recipe": [
+		"1. 짜장면에 넣을 짜장에 들어갈 돼지고기는작게 썰어 소금과 미림 그리고 다진 마늘을 넣고 밑간해서 미리 준비해주세요. (오래 재워놓지 않으셔도 돼요.)",
+		"2. 껍질을 벗긴 감자는 바로 깍둑썰기해서 찬 물에 담궈 전분을 빼주세요.",
+		"3. 당근도 잘 씻어 감자와 같은 모양으로 썰어주세요.",
+		"4. 양파도 껍질을 벗겨 적당한 크기로 썰어주세요.",
+		"5. 우묵하고 재질이 두꺼운 팬에 포도씨유를 넉넉히 넣고밑간한 돼지고기를 먼저 볶아주세요.",
+		"6. 돼지고기가 좀 익었다 싶을 때, 감자와 당근을 함께 넣고 잘 볶아주세요.",
+		"7. 단단한 감자와 당근도 투명한 빛에서 색이 변하면바로 양파를 넣고 잘 뒤적어가며 볶아주세요.",
+		"8. 다진 마늘도 넣고 볶아주세요.",
+		"9. 짜장 분말 한 팩당 600g의 물을 붓고 채소가 완전히 익을 때 까지 끓여주세요. 그 다음에 짜장 분말에 물을 조금 넣어 잘 개어준 다음에 잘 섞어주시고요.",
+		"10. 볶은 채소가 익은 다음에 짜장 분말 갠 것을 넣어주고마지막에는 양송이를 넣어 마무리. 간단한 짜장 완성.",
+		"11. 면은 잘 삶아 체에 받쳐 물기를 제거해 준비해주세요. 면을 삶은 다음에는 찬 물에 충분히 헹궈주셔야 밀가루 냄새도 안나고 더 탱탱한 면이 되니 잘 헹궈주시는 것도 잊지 마시고요.",
+		"12. 짜장면 만드는법, 참 쉽죠? 아이들이 좋아하는 재료를 더 넣어 특별한 짜장을 만들어보시고 밥 위에 올려 짜장밥으로 즐겨도 제법 근사한 일품 요리가 되니 그렇게 해보셔도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/8c65a0938fac275b694ddf5a7a3ef4221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/59246da9b3d48a05b97fc2c87ab5235e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/ad664ed05ef636a4f064c811402926c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/19aeab6934b4ecafdfe560f283a0adf81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/a068444c4fe7cc9b1d64dfa2a327caf21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/eb9ca7abeedc15397083ed6fc47c7d911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/fed52652fc0489cd3a3142e4acf7f1681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/5608278792322c1323f7b5c30fdd56121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/a39c274f75995ed1088b6619bebfae0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/e231f518cc4a90702137ef1c30e8e0dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/56864944736dc9eeb92e2a7bfe83a6981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/3b8e7b576b93d1f6ec24b6bd4c4bd0191.jpg"
+	]
+}

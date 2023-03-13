@@ -1,0 +1,44 @@
+{
+	"id": "6862032",
+	"name": "아이들이 좋아하는 고소한 콩나물무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/a05d77b4118fc9615d3541bc65fe12ec1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6862032",
+	"ingredient_ids": [
+		47,
+		34,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "170",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "청정원나물엔고소한맛",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		}
+	],
+	"recipe": [
+		"1. 콩나물은 잘 씻어 놓은 후, 끓는 물에 뚜껑을 덮고 약 2분간 삶아 건져놓아요. 청. 홍고추를 반으로 잘라 씨를 제거 하고 얇게 채썰어요.                   ",
+		"2. 유리 볼에 삶은 콩나물, 청.홍고추, 통깨, 나물엔 고소한 맛을 넣고",
+		"3. 조물조물 버무려주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/e5b77e8f225d5ccf48011711f4e2dbc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/e28bd621d3664d71632b388f2014fdfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/1319de6705ab8bbcdc383224ddf44eb71.jpg"
+	]
+}

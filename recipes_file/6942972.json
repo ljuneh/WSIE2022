@@ -1,0 +1,163 @@
+{
+	"id": "6942972",
+	"name": "백파더 만두전골,눈꽃만두 만드는 법 쉽고 간단해요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/90d6a0e45042b5eebed5e8daedb14eff1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942972",
+	"ingredient_ids": [
+		3,
+		27,
+		295,
+		53,
+		995,
+		349,
+		233,
+		225,
+		497,
+		995,
+		387,
+		379,
+		231,
+		233,
+		295
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "냉동교자만두",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "알배추",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "700",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "냉동만두",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 냉동만두 2개는 얇게 썰어주세요. 이건 육수용으로 쓰일거에요.",
+		"2. 양파 1/2개는 채썰어주세요.",
+		"3. 알배추3~4장은 손가락 두마디 길이로 썰어주세요.",
+		"4. 표고버섯 2개도 밑동을 떼고 썰어주세요.",
+		"5. 대파 1뿌리도 배추 길이로 썰어주세요.",
+		"6. 냄비에 으깬 만두를 깔고 그 위에 양파를 담고",
+		"7. 십자로 마주보면서 알배추도 담고",
+		"8. 나머지 버섯과 대파도 보기좋게 둘러담아주세요.",
+		"9. 그 위에 만두를 꽃모양으로 둘러담아주세요.",
+		"10. 물을 만두가 자박하게 잠길때까지 부어주세요. 전 700ml정도 부어준것 같아요.",
+		"11. 간은 국간장 3T, 다진마늘 1T, 후춧가루 약간을 넣어주세요.",
+		"12. 싱거우시면 나머지 간은 소금으로 해주세요.",
+		"13. 청양고추도 썰어 넣어주세요.",
+		"14. 거의 다 익으면 가운데 부분에 달걀 1개를 깨서 조심히 넣어주세요. 보글보글 끓여가면서 드시면 백파더 만두전골 완성이에요.",
+		"15. 물 반컵에 부침가루 1T를 풀어주세요. 여기에 기름 2T를 넣어 잘 섞어주세요.",
+		"16. 프라이팬에 만두를 둘러담아주세요. 이때 프라이팬은 너무 큰것은 피해주세요.",
+		"17. 센불에서 만두를 굽다가 틱틱 소리가 나면 만들어놓은 반죽을 골고루 위에 뿌려주세요.",
+		"18. 뚜껑을 덮고 불을 살짝 줄여서 4분간 익혀주세요. 전 반은 괜찮았는데 반은 좀 탔어요. 불이 골고루 안 퍼지면 저처럼 될수도 있으니 돌려가면서 구워주시는게 좋을것 같아요.",
+		"19. 양념장을 만들어줄께요. 간장 1T, 식초 2T, 다진마늘 1/3T, 청양고추 1개 청양고추는 없으면 굳이 안넣으셔도 되요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/acee3744347f14784376a873b48452001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/5f5b884e352c43155ae7f1493ef3b5f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/e37fec542a4308de211e3fc0ce6b30cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/defb7013b5fbca0ebd5da9922cbb47151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/46c604893d31bf40d28eae794d3d05ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/28684eb722dc72cbf56faabc0c8f04181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/ed98d49a49f01fa7e06b0b68df3d87931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/e0760d7264344802b843729bb77d65f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/5c5114770565b14bf812354bfccc506a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/9b6923bdcd5c63685a0da68f90d131591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/7b2914745b1d6977d906ae071fef0b101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/b22cf4fc649e870c95093621fd38f0181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/28c90e9e8d727732d5ae77487e9cba7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/f6a86e8db9836a69e1c4f7446fa64b9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/c1d37300c8ab37dd5948c6ef4394d4491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/d2fe79d28673ec25a4fdabe9648eec2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/6bc36d5ebb55103bd5df6a5cee325ce11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/b4c2400fc39a03a154a1f4448ec6bfcf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/3a39425ebf8b811c692c1c6b41faed661.jpg"
+	]
+}

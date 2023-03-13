@@ -1,0 +1,72 @@
+{
+	"id": "6940568",
+	"name": "간편 샌드위치로 아침 한끼",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/8ffe74e9de88a5841abd140496302f291.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940568",
+	"ingredient_ids": [
+		51,
+		708,
+		214,
+		198
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "샌드위치용빵",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슬라이스햄",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "청상추",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "허니머스타드",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		}
+	],
+	"recipe": [
+		"1. 먼저 빵을 적당한 두께로 잘라주었어요. 샌드위치용 빵은 취향대로 선택하면돼요.",
+		"2. 토마토를 5mm두께로 잘라주세요.",
+		"3. 예열된 팬에 버터를 녹인다음 빵을 올려주세요.",
+		"4. 앞뒤 노릇노릇해지도록 약불에 빵을 구워주세요.",
+		"5. 슬라이스햄도 앞뒤로 살짝 구워주세요.",
+		"6. 빵위로 청상추와 햄을 올려주구요.",
+		"7. 햄위로 치즈를 올려주세요.",
+		"8. 치즈위로 토마토를 올려주고 남은 빵엔 허니머스타드를 적당량 발라주세요.",
+		"9. 마지막으로 머스타드 바른 식빵을 올려주면 간편 샌드위치가 완성돼요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/9a546aeed94403a8b202e6f4190c6e4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/9db246ba865c0a70791cd9520ba0df1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/24a718ef1e7524a5098be70dd85ffffe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/0b4057520ef59e5332632e3f14e8cab01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/168597ed64e801254c110aabee362df41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/6e3ae491ab169580a8d3f691e8e7dc0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/08c454763ac2dbb81f35101d11c3611e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/788ec1ca2bb0f0fed267e3fab82c23381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/d585f607dd879ac9d59270f7585e84951.jpg"
+	]
+}

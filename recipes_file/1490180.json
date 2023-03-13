@@ -1,0 +1,82 @@
+{
+	"id": "1490180",
+	"name": "와인숙성 통삼겹살구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/61f20a861e751a94f0bd2f662d555640.jpg",
+	"url": "https://www.10000recipe.com/recipe/1490180",
+	"ingredient_ids": [
+		29,
+		857,
+		246,
+		379,
+		846,
+		227,
+		608
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "보쌈용통삼겹살",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "15",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "레드와인",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 통삼겹을 준비해주세요.",
+		"2. 마름모꼴로 칼집을 내어주시고 사이사이에 편마늘과 통후추를 끼워주세요~",
+		"3. 드라이한 레드와인과 청주, 간장, 꿀 두 큰술을 섞어 고기를 재워주세요~",
+		"4. 전 용기에 넣어 냉장고에 숙성시킬거랍니다.",
+		"5. 반나절동안 숙성된 와인통삼겹살이예요~ 이미 잡내는 다 날아갔지요~ 시간이 된다면 하루쯤 숙성해도 좋아요.",
+		"6. 오븐에 넣고 기름이 많이 떨어질거라 호일을 깔았어요~",
+		"7. 그리고 윗부분만 타는 걸 방지하기 위해 호일로 덮어주시구요.",
+		"8. 콤비 자동메뉴 4-3 통삼겹살 코스를 선택했지요. 그냥 오븐이라면 190도로 40분 구워주세요~오븐",
+		"9. 전 5분 남겨놓고 호일을 벗겼어요~",
+		"10. 맛있게 익은 통삼겹살~~~향도 참 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/c772850c9fabc78ea6e0173e434398371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/d00d7df8a3a0b550e7c982fbdc6290f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/b39a396ca785d0db9867465139bf9c1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/74977c6f59b88feff0982497c414ae3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/d9f45d594304333b4572642697685ee91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/7d33f87ed879739a41a31a50e1c00ef51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/41c96054a664b0cc1cc28faf5ffde25d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/e802c7cfad060c47662231f78c293f811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/91f6fbd6236408834bdcc20b2e1a12541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/d515ce24b049672300a89b9871b8f623.jpg"
+	]
+}

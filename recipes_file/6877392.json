@@ -1,0 +1,92 @@
+{
+	"id": "6877392",
+	"name": "[무드앤쿡 #6] 요리, 세계와 만나다 : 이탈리아 편 - 아란치니 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/45da879421c0623fa90a142a2bf2b79a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6877392",
+	"ingredient_ids": [
+		628,
+		9,
+		212,
+		219,
+		198
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "420",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "슬라이스체다치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "적정량"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "적정량"
+		}
+	],
+	"recipe": [
+		"1. 양파를 사방 0.5cm크기로 다져줍니다",
+		"2. 당근을 사방 0.5cm크기로 다져줍니다.",
+		"3. 햄을 사방 0.5cm크기로 다져줍니다 *한 도마로 사용할때는 야채 ->육류, 해산물류 순서로! 하얀색 식품에서 진한색 식품으로 사용합니다!",
+		"4. 름을 두른 팬에 버터를 녹인 후 앞서 준비한 재료를 넣고 볶아줍니다.",
+		"5. 양파가 투명해지면 밥을 넣고 골고루 섞어줍니다.  이때 소금과 후추를 넣는데 나중에 튀김옷을 입히므로 간을 쎄게 해야 맛의 균형이 맞아요! :)",
+		"6. 슬라이스 치즈를 넣고 잘 섞어줍니다. 약불로 줄여줘야 패 바닥에 치즈가 타지 않아요! 이 치즈를 넣는건 치즈 맛을 내기 위함도 있지만, 나중에 잘 뭉쳐지도록 끈끈한 점성을 내기 위한 과정입니다 :)",
+		"7. 한김 식힌 볶은밥 안에 모짜렐라 치즈를 넣어 동그랗게 빚어줍니다.",
+		"8. 나중에 풀어지지 않도록 꼭꼭 힘을 주어 모양을 잡아주세요!",
+		"9. 이제 튀김옷을 만드는 순서! 의 차례입니다 :)",
+		"10. 1. 밀가루를 겉면에 얇고 균일하게 묻혀주세요!",
+		"11. 2. 달걀물을 입혀줍니다.",
+		"12. 3. 빵가루를 묻혀 마무리합니다.",
+		"13. 빵가루에 파슬리 가루를 넣어 색깔이 알록달록해지도록 해줬습니다!",
+		"14. 2번에 걸쳐 아란치니를 튀겨줍니다. 1차는 약불에서 오랫동안 안까지 익혀주는 느낌으로!",
+		"15. 2차는 센불에서 단숨에 색깔을 내주는 느낌으로 튀겨줍니다!",
+		"16. 노릇노릇한 색으로 튀겨낸 아란치니 완성입니다! 안에 모짜렐라 치즈가 주르륵 늘어나는 아란치니는 든든한 한끼이자 간식으로도 또 맥주 안주로도 최고의 메뉴랍니다:)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/54a4d8888aee5a12fa98bee887a671a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/00cc324da985d9ffb3c2dfdfeee246e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/d246623f1b23c881de5ccc12f27b871a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/1ddf96348b12d697c91b9b9c4b8f32a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/7be904f0f1b3b1d7521f3490c69821671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/04aaf006a0d72a82cf5a9aacf05553401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/6fb6553789037ccf63f1ee3b2491da6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/9158af4942d66ab1a579e540a50a209c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/86616ec848d5e42c4df244a1c72cd9e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/5bdc2f0e8681ff4c8265feaf523c76c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/cafafc06aaf57e14731146b04a038e7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/61144990865a5ff31f6b6a5448f37d131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/48e0a7d9d2608df59adc934b92ee9ff01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/fc5a443790f1de811d3ab687c828da081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/ce192263f1328e9513f09a05e04b2ab51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/fee814fd303b67680c664df9608f476f1.jpg"
+	]
+}

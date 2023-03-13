@@ -1,0 +1,44 @@
+{
+	"id": "929698",
+	"name": "변비예방에 좋은 바나나 주스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/67e3279c13647f280127ee6c9550e4b9.jpg",
+	"url": "https://www.10000recipe.com/recipe/929698",
+	"ingredient_ids": [
+		141,
+		679,
+		227
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "저지방우유",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "시나몬가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 바나나는 껍질을 벗겨 대충 썰어요.",
+		"2. 믹서기에 바나나와 저지방 우유 1컵, 꿀 0.5을 넣어 곱게 갈아줍니다.",
+		"3. 컵에 따르고, 시나몬가루 약간을 뿌려 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/22e35a51e7bb3c8b5a0fdff41f35da251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/2e7634b23da16c1693a69e1db65f93381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/66d588045614c29c57d533e4f6f89a531.jpg"
+	]
+}

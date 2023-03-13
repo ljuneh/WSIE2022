@@ -1,0 +1,123 @@
+{
+	"id": "6942368",
+	"name": "참드림 쌀 보틀 샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/bb53c93ad0c36408ffe208dd1c0a3dbd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942368",
+	"ingredient_ids": [
+		995,
+		371,
+		42,
+		3,
+		379,
+		575,
+		29,
+		3,
+		660,
+		56,
+		379,
+		575
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "참드림쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "콘옥수수",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "익힌참드림쌀",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 1. 재료를 준비한다. (재료는 상단 쪽에 기재되어 있음) ->필수 재료 : 참드림 쌀!!",
+		"2. 2. 참드림 쌀은 30분 차가운물에 불린 후 쌀과 물을 섞은 후 밥을 짓는다.",
+		"3. 3. 오리엔탈 드레싱을 만든다 아래 재료를 넣고 모두 섞는다. (간장, 양파, 마늘, 참기름, 올리브오일,올리고당)",
+		"4. 4. 2번 밥을 지으면 뜨거울 때 3번 드레싱을 넣고 섞어준다. (그래야 잘 섞이고 간이 안쪽까지 스며든다.)",
+		"5. 5. 팬에 오일을 두르고 느타리버섯을 볶은 후  숨이 죽으면 간장과 올리고당을 넣고 볶는다.",
+		"6. 6. 재료를 준비한다. 1) 양파는 큼직하게 다진다. 2) 양상추는 한입 크기로 썰어준다. 3) 방울토마토는 1/2컷팅한다",
+		"7. 7. 보틀안에 재료를 넣는다. 1) 첫번쨰 : 4번 참드림 밥 2) 두번쨰 : 양파를 올린다. 3) 세번째 : 양상추를 올린다. 4) 네번쨰 : 방울토마토를 올린다. 5) 다섯번쨰 : 옥수수를 올린다.",
+		"8. 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/19d7d496dc3c0e09d90280fdce61941d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/9b93d6924760fa033a445108e7afb21e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/e9125cd719d732137922db6adbab81381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/788039ab0a9c4b40753f9b9c899d0ccf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/df722df07ed043dca804e1876e06fe791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/b0d992d7e5d7ce6fda81a6b64cfadeed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/a74ca2cb142ecaa7bf3da4b9e61e0dc01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/755dbd1f077a2ceddcd65d31551eec511.jpg"
+	]
+}

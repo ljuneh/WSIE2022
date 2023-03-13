@@ -1,0 +1,69 @@
+{
+	"id": "6838408",
+	"name": "가지볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/20/20258a02082febaac4fb7324fd7c77e51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838408",
+	"ingredient_ids": [
+		18,
+		3,
+		295,
+		504
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "백종원의만능간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요  가지는 반달모양으로 썰어주고요  양파 조금  청양고추는 취향껏 넣어주세요  (저희부부는 매콤한걸 좋아해서 )",
+		"2. 후라이팬에 식용유, 다진파를 넣어주세요",
+		"3. 파기름을 만들어주세요  ( 향긋한 파양이 올라오면 되는거에요)",
+		"4. 파기름 완성 !",
+		"5. 가지, 양파 넣고 파기름과 충분히 섞이도록 잘 볶아주세요  (가지가 기름에 흡수되니까 휘리릭 )",
+		"6. 송송 썬 청양고추도 넣어서 볶아주세요",
+		"7. 인내심을 갖고 야채들을 뒤적뒤적 볶아주면 가지의 숨이 죽어서 색이 변할꺼에요",
+		"8. 가지의 숨이 죽으면 백종원만능간장을 짜지않게 적당히 넣어주세요  (만능간장을 한꺼번에 많은양을 넣게되면 짜지니까  소량씩 넣고 간을 한번 봐주세요 )",
+		"9. 만능간장을 넣고 휘리릭 한번 볶아주면",
+		"10. 완성 ! 접시에 담을때 깨 솔솔 뿌려주면 더 예쁘겠지요?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/20/678159472262da298806a9e5f1e954d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/20/ba409cdfd241612c9180473f50204ea01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/20/9b12ab286ce70ae7787b4c73f5f356ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/20/8b1379c2f435caaacc353e9f90cc2cfd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/20/8bc1ecf58317df19a914f0f3f3daaab31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/20/7925bc9f6b4aa4691804e12b1ae6f0be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/20/ca3d5b9391db8a1941d9088735fc5fa01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/20/4cd37d12c2d0d1fcc16d59f5ac4d49c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/20/a973c86dbba94058253cf5fc85d9324d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/20/63a098300a317c25afadaea341be49fd1.jpg"
+	]
+}

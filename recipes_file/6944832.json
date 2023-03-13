@@ -1,0 +1,93 @@
+{
+	"id": "6944832",
+	"name": "(아기 국) 새우 순두부 국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/aaf7f37a997ed89f895b308e41f229e51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944832",
+	"ingredient_ids": [
+		79,
+		498,
+		27,
+		19,
+		233,
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "새우",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "순두부",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "멸치다시마육수",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "아기간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".t"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해요.새우 5마리, 순두부 1봉, 대파 15g, 무 200g, 멸치다시마육수 500ml, 다진마늘 1t, 참기름 1.5t, 아기간장 1.5t육수는 꼭 멸치다시마육수가 아니어도 괜찮아요. (야채육수를 사용해도 됩니다.)",
+		"2. 무는 얇은 네모 모양으로 썰어주세요도마, 칼",
+		"3. 대파도 송송 썰고",
+		"4. 새우는 깨끗하게 손질 후 먹기좋은 크기로 썰어요.새우의 등과 안쪽에 있는 내장을 깨끗하게 제거해주세요.",
+		"5. 냄비에 참기름을 두르고냄비약불",
+		"6. 무와 다진마늘을 넣고 볶아요약불",
+		"7. 무가 어느정도 익으면 새우도 넣어주세요",
+		"8. 새우가 빨갛게 익을 시점에",
+		"9. 육수 1/2 (250ml)를 넣고육수는 두번 나눠서 넣어요. ",
+		"10. 아기간장을 넣고 끓여요.",
+		"11. 끓는 동안 순두부는 겉면을 깨끗하게 씻은 뒤",
+		"12. 반으로 갈라서 넣을 준비를 해요.순두부의 위꼭지를 따고 짜면서 넣는 경우가 있는데.. 그러면 순두부가 다 으깨져요! 꼭 반으로 갈라서 넣어주세요.",
+		"13. 냄비에 나머지 육수와 순두부를 넣고 중불에 팔팔 끓여요중불",
+		"14. 위에 뜨는 거품은 모두 건져내주세요.",
+		"15. 마지막으로 대파도 넣어서 한번 더 끓여주면 완성!",
+		"16. 아기 국그릇에 맛있게 담아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/49893807b63332c067b49b6add6990ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/4d55c465b05d4b19aa97f97e799649b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/4234996914e3569a01993601ef24e5591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/e1e8443e56eceb6051626bc7921e300c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/0ce5d0f9794a02f646cd1729fdb892761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/c267aad6e83a6d700e9c74a7fb7c13b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/527d4cac84364503fe9f21941e3d12141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/113b2ea14acce0ad515ecb20149526d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/6c23528658c93ff6fce80edff6bc81db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/e2afcf2f25aca999a70750107eeda6df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/1313728356969fa31182a5846c3947bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/6b221b8f605658baf9bc71092a3cab3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/266b5b893774f33940a24b7193a274811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/67b3ba3bab5591378d85900e4244a0b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/a26aaddc4d40df441d25ef9405bf30661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/d0eaa4e75bd2dcbbbe6b7ee2605b791d1.jpg"
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"id": "6942482",
+	"name": "연어장 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/665b5a70542d62cdc22a3aa94399bfd71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942482",
+	"ingredient_ids": [
+		61,
+		29,
+		379,
+		292,
+		226,
+		231,
+		459
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "연어",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파큰거",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "파흰부분",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물1컵반",
+			"ingre_count": "1",
+			"ingre_unit": "컵 반"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "40",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "통후추20알정도",
+			"ingre_count": "20",
+			"ingre_unit": "알 정도"
+		},
+		{
+			"ingre_name": "마른고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 연어를 1cm두께로 썰어서 열탕소독한 용기에 담아주세요.",
+		"2. 양파랑 마늘을 편 썰어서 올려주세요. 달임간장 만들동안 잠시 냉장고에 두세요.",
+		"3. 양파 반 개, 파 흰 부분 1대를 썰고, 통후추 20알, 마른고추 1개를 부셔서 냄비에 넣고, 간장, 맛술, 물, 설탕을 넣어 끓여주세요. 미지근하게 식혀주세요.",
+		"4. 달임간장을 걸러서, 연어에 자작하게 부어주세요. 생강청 1숟가락, 식초 1숟가락을 넣어서 섞어주세요.",
+		"5. 마늘은 통으로 집어 넣어도 되지만 편써는 게 먹기 좋아요. 청홍고추 넣어서 예쁘게 꾸며도 좋아요.^^",
+		"6. 3시간 후부터 먹을 수 있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/02a8d19b887629eaecfe9c541bfd04011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/0fcbcd12b55113e1780c17457f36107b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/2469ef638376ae0303d0e95a5f0774a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/565541015b169af33032fb56c3ff11841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d8b3f1aaa8a8269b586ebad189ce54511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/93f601fcd552a14b1e49b75e7f5706fa1.jpg"
+	]
+}

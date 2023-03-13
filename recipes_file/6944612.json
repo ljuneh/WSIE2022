@@ -1,0 +1,76 @@
+{
+	"id": "6944612",
+	"name": "된장찌개 어렵게 생각하지 마세요 맛있어지는 마법가루 넣어보세요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/60314a64ad306e447542bf517084cf4b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944612",
+	"ingredient_ids": [
+		995,
+		325,
+		3,
+		53,
+		34,
+		848,
+		473
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 재료를 먹기 좋게 썰어주세요  호박은 시들시들해서 껍질을 벗겼어요",
+		"2. 종이컵2컵에 된장1스푼 넣어주세요",
+		"3. 고추장1스푼 넣어주세요",
+		"4. 다시다약간1스푼 넣어주세요  다 풀어서 섞어주세요",
+		"5. 다진 야채를 가득 넣어주세요  푹 끓여주세요",
+		"6. 거품 걷어내주세요",
+		"7. 푹끓여주면 완성~!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/f04107215060b5cb56cd11e89d221abf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/442542cec673518af509a11744373c7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/6d59c2c57ebf5a3cd3b286e508118b621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/2a3899ba328e41c5389681b13310abb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/65623f078bb23b8f0f870a090a5f71781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/e17be942cce38c81aab366b5716abf081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/0ebff2c1b8f29265efc802e0cfbc32b71.jpg"
+	]
+}

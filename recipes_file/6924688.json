@@ -1,0 +1,102 @@
+{
+	"id": "6924688",
+	"name": "해물파전(동래파전st) 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/01/12/3f8fda1c0aaada1c025156bc0a728b3c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6924688",
+	"ingredient_ids": [
+		387,
+		295,
+		1027,
+		757,
+		995,
+		504,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "해물믹스",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "건보리새우",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 쪽파는 2등분 잘라주세요.",
+		"2. 청양고추는 송송 썰어주세요.",
+		"3. 부침가루에 준비된 물을 넣고 거품기로 덩어리 지지 않게 섞어주세요.거품기",
+		"4. 반죽이 완성되면 건새우를 넣어 섞어주세요.(보리새우 추천)반죽 물은 약간 묽게 나오면 완성",
+		"5. 냉동 해물 믹스는 흐르는 물에 해동 후 물기를 제거하시고 소금, 후추를 약간 뿌려주세요.냄새가 조금 나면 맛술도 조금 넣어주세요.",
+		"6. 밑간 한 해물 믹스에 부침가루를 1스푼 넣고 버무려 주세요.",
+		"7. 예열된 프라이팬에 중불에서 쪽파를 깔고 위에 반죽물을 뿌려주세요. ",
+		"8. 반죽이 어느 정도 익으면 다시 스크램블 하듯이 익혀서 펼쳐주세요두꺼운 파전이라 어느 정도 익혀야 속까지 잘 익어요",
+		"9. 어느 정도 익은 반죽 위에 빈 공간에 반죽물을 뿌려주세요.약불~중불",
+		"10. 어느 정도 익은 반죽 위에 빈 공간에 반죽물을 뿌리고 그 위에 해물 반죽을 펼쳐주시고 고추도 뿌려주세요.",
+		"11. 가장자리에 식용유를 뿌려주세요.기름이 적으면 색도 잘 안 나고 잘 타요",
+		"12. 계란을 올려서 노른자를 터트려서 펼쳐주시고 뚜껑을 덮고 약불에 1분 정도 있어주세요.안에 해물과 반죽을 내열로 어느 정도 익히기 위해서",
+		"13. 뚜껑을 열어 전을 뒤집어 주시고 식용유를 한 번 더 뿌려주세요. ",
+		"14. 뚜껑을 덮고 1분 정도 지나면 밑바닥을 확인하고 뒤집어 주세요. ",
+		"15. 한 입 크기로 잘라서 접시에 담아주세요.기호에 따라 간장이나 초장에 찍어드시고 저는 저번에 만든 양파장아찌랑 같이 먹었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/431a8eed410981a8a0af9554cd9648971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/cd856a0d565bb3ea04ba54952a7d33871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/832eb8e3b967c032899d79ebc4b682fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/f3ea7dbe2cf16506abe82acb7a7051cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/d87a995b3289797c42b649b3d33c42e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/8ca86aec3ebd89cd9cc76e827ccc5a1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/4f9c2b6eb38a88ee6625d619e38a24e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/b9c522e482fe51b0e253407f5da7df351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/333d58d1f5e106652e92393c1686f6f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/c7ef9a2b5966797693ef64cc614065fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/70aabdaf6f4840e54663b1daf8a66c1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/ea4d2591a201cafdbb26df3e353be2561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/27d745235951da6018354012ac04b24f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/959655145800b9882177be4207f893ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/08/c71391191b93e2a554736002f430bf291.jpg"
+	]
+}

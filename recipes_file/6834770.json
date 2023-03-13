@@ -1,0 +1,37 @@
+{
+	"id": "6834770",
+	"name": "고소한 두부구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/55e510ddaaf05dd026924e3ca8d9bdbb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6834770",
+	"ingredient_ids": [
+		323,
+		327
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 두부는 1cm간격으로 썰어 줍니다.",
+		"2. 키친타올을 이용해서 물기를 제거 합니다.",
+		"3. 달군 팬에 들기름을 넣어준 후",
+		"4. 두부를 넣어 구워 줍니다.",
+		"5. 두부가 으깨지지 않도록 조심스럽게 뒤집어 앞뒤 노릇노릇하게 구워주면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/7dde070b206898956d3d646ef132b1b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/c1ef58cf03dbd3f7a6c39fced65228521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/3ba2c714ba9c6b2631fcfa39794c6d381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/b3b6003c42dbcf7b6242ffb0341ed1551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/d0f726b04109823b88027846aee998641.jpg"
+	]
+}

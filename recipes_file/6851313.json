@@ -1,0 +1,66 @@
+{
+	"id": "6851313",
+	"name": "밑반찬으로 딱 좋은 짠지 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/20/ff6a69659642d25e5027c7e511c1a4161.jpg",
+	"url": "https://www.10000recipe.com/recipe/6851313",
+	"ingredient_ids": [
+		27,
+		543,
+		327
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "짠지무작은것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "붉은고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 무짠지 1개를",
+		"2. 이렇게 썰어서 ~",
+		"3. 채를 썰어주세요.",
+		"4. 썬 다음엔 차거운 물에 10분 정도 담가두었어요. 짜요ㅡ~~",
+		"5. 대파를 1/2대 정도를 총총 썰고 붉은 고추 반개 정도를 썰어 놓고  다진 마늘을 준비했어요.",
+		"6. 10분 정도 있다가 건져서 소쿠리에  건져서 ~",
+		"7. 꼭 짜준 다음~",
+		"8. 썰어놓은 대파와 마늘 붉은 고추를 넣어주세요.",
+		"9. 고춧가루 1스푼을 넣고 통깨 1스푼,  들기름을 넣고 무쳐주시면 정말 맛있는 짠지 무침 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/20/ec88eebc5274ad44eb76a748f913eb4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/20/db08664bb426e3d65761407ba845dcd01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/20/25049922233ef837487291185e316d4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/20/5c889c63deef31eab911e472424035d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/20/45f29f6d99cc7cbe149de4297b6089ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/20/7d95752e0b1b37c9bbefbefaf4ec60941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/20/56386e6271b01d3c0f97546c591b57161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/20/db9e3f845fc16c6943fcb1e5c66941121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/20/053a9597a3b10615124c1f7412b8331d1.jpg"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"id": "6834159",
+	"name": "홍합 미역국 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/cd6e15478da8d00e22313b672688e36f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6834159",
+	"ingredient_ids": [
+		91,
+		349,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "마른홍합",
+			"ingre_count": "1",
+			"ingre_unit": "주먹정도"
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "15",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "연두",
+			"ingre_count": "2",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 미역과 홍합을 미리 불려야겠지요? 홍합은 20분 정도 불리시면 됩니다. 미역도 20분간 불리시면되구요. 불린 미역을 깨끗이 씻은 다음 물을 붓고 끓여주세요.",
+		"2. 마늘도 넣으시고 국간장으로 간을 맞추세요. 미리 불려둔 홍합을 넣으시고 팔팔 끓여주시면 됩니다.",
+		"3. 대부분 소고기를 넣으시고 끓이시는데요. 가끔은 이렇게 홍합으로도 끓여드시면 색다른 맛을 느끼실 수 있답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/6630414fa645ad53d1353fa0664a9f6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/fb17ae9a31cf132250bf9b0de146e6901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/cd9f547d53f7f04f530334979261b5111.jpg"
+	]
+}

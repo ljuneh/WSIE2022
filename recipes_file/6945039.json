@@ -1,0 +1,97 @@
+{
+	"id": "6945039",
+	"name": "반찬계의 끝판왕! 소고기 메추리알 장조림!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a8182aaabd032849814ac9d85acc01511.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945039",
+	"ingredient_ids": [
+		3,
+		27,
+		857,
+		608,
+		221,
+		995,
+		379,
+		292,
+		575
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기양지",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2/3",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "설탕(2T)",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해 주세요. 고기는 한우양지를 준비했고, 메추리알은 시중에 까져 있는걸로 샀어요. 양념장은 미리 섞어주시고 대파,양파는 통으로 사용할거기 때문에 한번 씻어서 준비해주세요.",
+		"2. 양지는 약 1시간정도 핏물을 빼줍니다.",
+		"3. 육수를 만들어 주세요. 물 1리터에 양파,대파,월계수잎,통후추를 넣고 약 15분 끓여주세요.",
+		"4. 핏물 뺀 고기를 끓는 육수에 넣고 약 30분 정도 삶아 주세요.",
+		"5. 고기는 따로 건져내고 체에받쳐 나머지 재료는 버리고 육수는 남겨두세요. 육수는 최소 600ml는 남겨두세요. 부족하면 물로 채워 섞어주세요.",
+		"6. 고기가 한뜸 식으면 먹기 좋게 찢어주세요.",
+		"7. 육수를 냄비에 붓고 준비한 양념장을 넣고 한소끔 끓여줍니다.",
+		"8. 끓어오르면 고기를 넣고 중불에서 약 10분간 조려줍니다.",
+		"9. 깐 메추리알을 넣고 약 10분 더 조려주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/1bcceb271cf8a6de87f926e8ebc0db131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/778ba0207b2c74b1740e58da71ca16201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/876bb2da707f01e19bd1be88e4e53a291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/fdd463c2e7843e9841c6c3c84bc09e001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/78bf9a680fd3a5c280cb2c39c3fd48851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/e0a391fa9bd81a84ab7ff354c39c618e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/fba6fc87c3e3c03c812549951a7913951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/c52d7641be976bf990f95a098076123e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/c624d5de684241f777f67c2a3640ee4c1.jpg"
+	]
+}

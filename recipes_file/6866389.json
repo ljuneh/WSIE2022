@@ -1,0 +1,87 @@
+{
+	"id": "6866389",
+	"name": "전기밥솥으로 간편하고 쉽게 만든 등갈비찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/8d98a3ccd4e1645622fc98bfdf8c15a31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866389",
+	"ingredient_ids": [
+		579,
+		938,
+		379,
+		459,
+		292,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "등갈비",
+			"ingre_count": "700",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "바베큐소스",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "토마토케첩",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "생강청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 등갈비는 찬물에 담가 핏물을 빼줍니다.30분정도",
+		"2. 한쪽씩 뼈 안쪽에 칼집을 넣습니다",
+		"3. 물을 끓인후 소주를 넣고 데쳐줍니다.",
+		"4. 체반에 받쳐 물기를 빼주고",
+		"5. 양념을 만들어 줍니다",
+		"6. 등갈비에 붓고",
+		"7. 전기밥솥에 넣고 찜기능 35분으로 해놓습니다.",
+		"8. 그릇에 담아냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/c62148cd5e2e5b936715fda27090d5f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/17d9284ab7112b473561c6ab48f28d571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/f24f9b70313c2529d8c843284077db7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/596b7c18945a7b310925a03cfd510c971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/8be499b93db20d060ff180afe1adcaac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/95d963bd6ef16e462535a258bf6d85171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/64ffddf04a344934d737b0fe9083e5001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/79f78d1407c8cc431c69ea327cc1ed0d1.jpg"
+	]
+}

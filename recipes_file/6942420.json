@@ -1,0 +1,89 @@
+{
+	"id": "6942420",
+	"name": "초간단한 콩나물 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/ebcdfa7b6e372073ed62105fa87735e21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942420",
+	"ingredient_ids": [
+		47,
+		497,
+		995,
+		665,
+		224,
+		497,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "1/2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "1/2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 우선 콩나물 1봉지는 씻어서 냄비에 담아줍니다.",
+		"2. 그런 다음 소금 1티스푼과 다시다 1/2티스푼을 넣고..",
+		"3. 물 1컵을 넣어준다음 콩나물을 뒤적거려 소금이 내려가게 한다음..",
+		"4. 뚜껑을 덮고 5분간 쪄줍니다. 그런다음 3~5분 정도 뜸들여주기.. 이때 절대 뚜껑을 열지마세요~~~",
+		"5. 뜸들인후 콩나물.. 숨이 잘 죽엇어요~",
+		"6. 이제 볼에 옮겨담아 식혀줍니다.",
+		"7. 그런다음 분량의 양념을 넣고 조물조물 무쳐주는데요. 무친다음 먹어보고 간을 보세요.. 먹어보고 싱거우면 소금이나 참치액을 더 넣어 간 맞추면 됩니다.",
+		"8. 간이 맞으면 콩나물 무침 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e60e72b82cc9b7ae4983ead8f4d7d07f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/2020a621867be19db843703cb49c48681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/3d64bb9b831b91d074093803fef549411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/3fe9a0721e7b8520e86c079f5584fd7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/2d114997e6fb12e4c34df7d9646c3fa81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/425d58e01e72735be70004056996ac311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/6a2d1006c8fab18312810419234534161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/46d9e0fc8888e639561327007c0300f81.jpg"
+	]
+}

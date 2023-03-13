@@ -1,0 +1,96 @@
+{
+	"id": "6941252",
+	"name": "토마토 스파게티 간단하고 쉽게 만들기!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/b075a7928eb94f77657af26e6145c22b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941252",
+	"ingredient_ids": [
+		51,
+		495,
+		29,
+		3,
+		54,
+		205,
+		920
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1.",
+			"ingre_unit": ".개"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "토마토퓨레",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "파마산치즈",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파스타면",
+			"ingre_count": "3",
+			"ingre_unit": "인분"
+		}
+	],
+	"recipe": [
+		"1. 생토마토토는 많이 들어갈수록 맛있어요. 큰 사이즈로 4개 준비했습니다",
+		"2. 깨끗이 씻은 토마토는 끓는 물에 넣고 살살 굴리면서 껍질이 살짝 벗겨지면 건져냅니다. 칼로 대충 3~4등분 해주세요",
+		"3. 양파와 마늘도 다져 준비해 주고 버섯은 가늘게 썰어줍니다",
+		"4. 소고기 대신 새우나 냉동 해물 믹서를 사용해도 괜찮습니다.",
+		"5. 달궈진 팬에 올리브오일을 충분히 두르고 마늘 부터 볶아줍니다",
+		"6. 마늘향이 올라 오면 양파와 버섯 고기까지 다넣고 같이 볶아주세요",
+		"7. 다음에 데친 토마토를 넣고 끓이면서 뭉게줍니다. 그리고 케첩이나 퓨레를 넣고 간을 확인하고 추가 간은 소금으로 하세요.",
+		"8. 농도를 조절해서 다 되었다 싶으면 파마산 치즈와 파슬리 넣고 마무리 합니다.",
+		"9. 농도가 묽다 싶으면 더 조리세요",
+		"10. 파스타 면은 종류에 따라 삶는 시간이 다르니까 직접 삶으면서 확인하는게 확실하겠죠.",
+		"11. 바로 드실 면이 아니라면 오일에 한 번 볶아서 보관하세요",
+		"12. 소스 넉넉히 얹어서 드시면 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/9fcd27aa019807f897327b46ab0018721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/9508e21b50dbd80cbfd9c82695a4254b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/74564b191c7c2e62fc7591ce54cd2cf71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/68e2696f57358337d02fc21c5499c5cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/cac993d7c37b83b5a55ad31f2db83d5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/4dcd9186cc0234cb379c9536be20045b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/a1f7c59f21c207db7186dc042521df5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/2e8f58ae13a348d1b894d5f79f887ff71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/4a2926efb56741745e2d30b3808c384d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/0a44be3384bef13cb1e249d72ac6c1401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/d313f42f6e081759545a168ac8ea893e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/c05cf147f6b534ed5b694bc1880513a81.jpg"
+	]
+}

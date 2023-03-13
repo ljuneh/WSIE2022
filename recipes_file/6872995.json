@@ -1,0 +1,52 @@
+{
+	"id": "6872995",
+	"name": "바삭바삭한 튀김 : 고구마 튀김 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/6b6802b60b30072faf05cbff6b6360151.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872995",
+	"ingredient_ids": [
+		226,
+		734,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마10개정도(크기마다다름)",
+			"ingre_count": "10개 정도(크기마다 다름)",
+			"ingre_unit": "개 정도(크기마다 다름)"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "차가운물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 고구마를 깨끗이 씻어서 껍질을 깐 뒤 적당한 사이즈로 썰어 주세요.",
+		"2. 찬물에 설탕을 한큰술 정도 넣고 녹인 후 썰어둔 고구마를 담가 두세요.",
+		"3. 찬물에 튀김 가루를 넣고 큰 덩어리가 없도록 잘 섞어주세요.",
+		"4. 고구마에 반죽을 입힌 후 180도 기름에서 초벌로 살짝 튀겨 주세요. (튀김 옷이 입혀질 정도로만!)",
+		"5. 튀김을 건져서 식혀 준 다음 다시 반죽물에 풍덩~ 180도 기름에 노릇 노릇하게 튀겨 주세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/24/8dfa41c411fe0688a67140e6ec5533ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/24/95fa6ad69cfc8cf5782aed73c9113cfd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/24/7d8f14ebfc2758ff477973fbcf496acf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/24/016a9e8239a6a2a90e83877d821b59311.jpg"
+	]
+}

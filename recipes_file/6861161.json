@@ -1,0 +1,54 @@
+{
+	"id": "6861161",
+	"name": "당신의 취향은 바삭or눅눅? 시나몬향 솔솔~ 식빵시리얼!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/4554573f2376d60974217efb4f2480011.png",
+	"url": "https://www.10000recipe.com/recipe/6861161",
+	"ingredient_ids": [
+		503,
+		526
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "시나몬가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "모둠견과류(아몬드/해바라기씨/호두)",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 식빵은 사방 1cm 간격으로 썰어 준비한다. 모둠 견과류는 작게 다져 준비한다.식빵 4장, 모둠 견과류(아몬드/해바라기씨/호두) 1줌",
+		"2. 볼에 황설탕 2T, 시나몬 가루 1/2T, 올리브 오일 3T를 넣고 섞어 준비한다.볼",
+		"3. 잘라놓은 식빵에 견과류와 만들어 놓은 시럽을 넣어 고루 잘 섞는다.",
+		"4. 전자레인지용 그릇에 유산지를 깔고 식빵을 고루 펼쳐 2분간 가열한다.전자레인지용 그릇, 유산지",
+		"5. 가열한 식빵을 꺼내어 한 김 식힌 후 4번의 과정을 두 번 더 반복한다.",
+		"6. 우유와 함께 곁들이면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/9056bbf4bcb311c231379306571f55231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/0e00e1f02b3004fe71f5d988973b1d471.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/20781afc05729c967d823c06e97488e11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/de91a93f265ecf1e60e76566c867976c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/ab02d818a4c96aef63f008235cd5b6e81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/5b1c6f7dc3d8e2478fd3e6ea7f6a28601.png"
+	]
+}

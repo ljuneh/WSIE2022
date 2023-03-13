@@ -1,0 +1,86 @@
+{
+	"id": "6941567",
+	"name": "코로나 극복! 식당에서 먹던 그 맛, 된장찌개 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/2ed5708f6a0ded071adcccfc38762beb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941567",
+	"ingredient_ids": [
+		5,
+		3,
+		9,
+		325,
+		29,
+		848,
+		1015,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "스시",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "표고버섯분말",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 준비한 재료는 먹기 좋은 크기로 썰어준다. ㉡ 자투리 채소, 다시마, 멸치로 육수를 내준다.",
+		"2. 썰어둔 채소, 된장, 스지를 넣고 끓여준다.",
+		"3. ㉣ 얼린 청양초, 표고버섯 가루, 대파를 넣고 마무리한다.",
+		"4. 그릇에 담아낸다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/010bf66774c9d3184468409ee440baa81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/f919bd98d82b61ebabed4eaab272c3981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/0c420d0c3c8b2141181f31fb7bd4b8061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/a9b7012eddb269cf3a7f04795fd8fae71.jpg"
+	]
+}

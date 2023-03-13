@@ -1,0 +1,45 @@
+{
+	"id": "6943547",
+	"name": "향긋한 두릅회 만들기/두릅 데치기/두릅효능/두릅제철",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/2f8dc73ce9d2930c72f7263e322eff721.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943547",
+	"ingredient_ids": [
+		49,
+		497,
+		845
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "두릅",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "초고추장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 두릅을 깨끗이 씻어준다",
+		"2. 감자칼로 두릅 밑동의 지저분한 부분을 다듬어주었다",
+		"3. 소금1t를 넣고 물이 끓으면 잎 부분을 잡고 밑동부터 30초 정도 데친다",
+		"4. 그 다음 잎까지 다 넣어서 30초 정도 더 데친다",
+		"5. 데쳐낸 두릅을 찬물로 헹궈준다",
+		"6. 향긋하고 아삭한 두릅회 완성입니다 두릅회를 찍어먹을 초고추장을 준비합니다~ 봄 대표 산채 두릅순을 데쳐서 초고추장과 곁들여 먹는 두릅회 레시피였습니다:) "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/06bc82548fc9e2208b2fd6388e5c2feb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/cf29126fd5bc2d8a3942f90b9f143c8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/aafb3b9b402796a076357d5056c1e8091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/33623d9a7f4c994d6e8d5269d167da681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/01950db7bb34cb76c742050bf319fcff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/dc80e40a05386d3b2e2ed6811142a7d71.jpg"
+	]
+}

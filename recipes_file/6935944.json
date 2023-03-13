@@ -1,0 +1,65 @@
+{
+	"id": "6935944",
+	"name": "간단 어묵전~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/13e4a06c51e80447360d359896c46e6a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6935944",
+	"ingredient_ids": [
+		548,
+		219,
+		27,
+		9,
+		3,
+		390
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 어묵 잘게 다져 볼에 담는다",
+		"2. 양파,당근,파 곱게 다져 준다",
+		"3. 후추,새우젓,계란 넣고",
+		"4. 고루 섞어 준다",
+		"5. 달군 팬에 동그랗게 떠 올리고",
+		"6. 앞,뒤로 노릇노릇 구워",
+		"7. 접시에 담아 완성합니다 케찹에 콕~ 찍어 맛나게 찹~~ 챱~~~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/f112a582b276fa501abd9e5c5fcf48b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/688bfddea16477464c6c486d26ea43fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/91b744c57cedf5dfbb4fb6445ed88ace1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/617a7a9a2ed8b5dc76a5da15ae52be581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/60d7f8e43e474beb9e1f915e745016271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/542d85e94fcf651a784e289828d9b1851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/4fc38e4fc7a57bf18b35762ece99e7fc1.jpg"
+	]
+}

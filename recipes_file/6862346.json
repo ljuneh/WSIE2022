@@ -1,0 +1,78 @@
+{
+	"id": "6862346",
+	"name": "즉석굴무침:생굴 초보자에게 추천할만한 굴요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/08/016ed0efa3c2546b74f09c29239da5ec1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6862346",
+	"ingredient_ids": [
+		82,
+		142,
+		349,
+		853,
+		224,
+		226,
+		233,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "굴",
+			"ingre_count": "150~200그램",
+			"ingre_unit": "~그램"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 굴은 체에 올리고 소금뿌려 뒤적이며 흐르는 물 씻은 후 물기는 빼두세요: 보통은 소금을 넣어 씻는데 이날은 귀찮아서 넣지 않았어요",
+		"2. 볼에 물기를 완전히 뺀 굴을 담고 국간장+맛간장+고춧가루+(설탕)+다진마늘을 넣고 가볍게 버물버물 하세요:설탕은 넣는동 만동 넣거나 넣지 않아도 상관없어요",
+		"3. 배를 채썰어 넣고 다진파도 넣어 가볍게 섞어주세요무를 채썰어 넣어주어도 좋은데 잠깐이래도 절이고 하려면 시간이 걸릴 것 같아 생략했어요:너무 바쁘게 해야 하는 것 아니면 무채도 넣어주면 좋아요 ",
+		"4. 마지막으로 깨소금을 뿌려 역시 가볍게 섞으세요",
+		"5. 그릇에 굴무침을 담고 깨소금을 한번 더  솔솔 뿌려준다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/08/f90f19cd6786ab4265bd8708bb8940b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/08/79a4233f151813ef7290668f1d0716931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/08/5c17dcaee87d7cd320fd2cfd1540ff0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/08/3fb69627732c6aa4b0b85879b31e559d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/08/61e1c5a53fc81a2ae19546a066d1dc8c1.jpg"
+	]
+}

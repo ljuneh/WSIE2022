@@ -1,0 +1,61 @@
+{
+	"id": "6700100",
+	"name": "들깨 감자 미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/08/37836190fe801ece5a5dbe0a0863950e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6700100",
+	"ingredient_ids": [
+		5,
+		876,
+		337,
+		540
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "마른미역",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "1200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "홍게맛장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꽃소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 마른 미역은 손으로 대충 잘라서 넣어주시고요. 찬물에 미역이 충분히 잠길 정도로 담가주고 15분 정도 불려줍니다.",
+		"2. 감자는 껍질을 벗기고 반 잘라서 반달썰기를 해줍니다. 너무 도톰하면 먹기가 나쁘고 익는 데도 시간이 걸리므로 0.5cm 두께면 되겠네요.",
+		"3. 쌀뜨물을 사용하면 좋은데, 요게 500ml 이므로 2컵하고 200ml 가 더 들어갔네요. 쌀뜨물은 쌀을 씻고 두번째나 세번째물을 사용하시면 좋아요.",
+		"4. 냄비에 쌀뜨물을 넣고 바로 미역과 감자도 넣어줍니다. 끓을 때까지 기다립니다.",
+		"5. 국이 끓으면 거품을 걷어내구요. 홍게맛장 2큰술, 꽃소금 3분의 1큰술 정도 넣어주세요. 들깨가루는 망에서 풀어서 넣어주시고요.",
+		"6. 국이 바글바글 끓기 시작하면 불을 줄여서 15~ 20분 정도 불을 낮춰서 끓여주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/08/5bf37f0b5933fee1260066b61c1945031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/08/5ecacc42cc55fb59721a6f0eef6233101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/08/40e63935af5d8e0c673e95ed1b3391041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/08/83a2dd65cd15c2eb4244c143eec38fdb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/08/569ab3ced5ff3fd65c481d6a1c7cc78e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/08/8526a1c50673e6fb9af652f1e0deaff91.jpg"
+	]
+}

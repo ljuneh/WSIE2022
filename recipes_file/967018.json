@@ -1,0 +1,89 @@
+{
+	"id": "967018",
+	"name": "떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/b78aaccac39c8092aa30820b1b9853e5.jpg",
+	"url": "https://www.10000recipe.com/recipe/967018",
+	"ingredient_ids": [
+		972,
+		3,
+		219,
+		226,
+		341,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "15~20개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "납작어묵",
+			"ingre_count": "2~3장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "굵은파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "만두",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "우동(or라면사리)",
+			"ingre_count": "",
+			"ingre_unit": "취향것"
+		},
+		{
+			"ingre_name": "고추장2큰술듬뿍",
+			"ingre_count": "2",
+			"ingre_unit": "큰술 듬뿍"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘(다질것)",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3~4컵",
+			"ingre_unit": "~컵"
+		}
+	],
+	"recipe": [
+		"1. 멸치 다신물을 준비해서 분량의 양념재료를 넣고 잘풀어가며 끓여줍니다.",
+		"2. 한소쿰 끓으면 적당한 크기로 썬 어묵과 떡볶이 떡을 넣고 끓여줍니다.",
+		"3. 양파와 파 등을 채썰어서 넣어 자작하게 끓이며 졸여줍니다.",
+		"4. 매콤하고 맛있더라고요. 특히나 집고추장보다 요 양념은 시판 고추장으로하시는게 더 맛있어요. 쌀떡을 이용해서 그른지 좀 퍼지는 감이 있었지만 식어도 쫀득하니 맛있더라고요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/49cdebea04932bcfdfa408e957ce2e361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/6617d710b6d45baf386bfaabd1add5ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/b208792537c88c4b941e9eb8e0349c7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/2846bcf9887ef63db45f16c5fffa91f21.jpg"
+	]
+}

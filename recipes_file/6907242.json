@@ -1,0 +1,96 @@
+{
+	"id": "6907242",
+	"name": "청국장 끓이는 방법[간단하게 청국장 만드는방법]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/25/4db1edbfd05eb463834c7178d8d462df1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6907242",
+	"ingredient_ids": [
+		953,
+		848,
+		670,
+		233,
+		3,
+		224,
+		27,
+		34,
+		323
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀뜬물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1~1.5컵",
+			"ingre_unit": "~.컵"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청국장",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "멸치액젓(생략가능)",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "2~3개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "버섯(생략가능)",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 쌀 2~3번째 씻은 물로 쌀뜬물 준비해 주세요.쌀뜬물로 된장,김치찌개 끓이면 더 구수하고 맛있습니다. 그리고 밥하시면서 쌀뜬물 버리지 마시고, 설거지나 기름때 닦을 때 저는 잘 사용하고 있어요.",
+		"2. 뚝배기에 쌀뜬물 넣으시고, 된장,청국장 풀어주세요.약불",
+		"3. 적당한 크기로 자른 김치 넣어주세요. 양파 반개(쪼그만한 양파일 경우 1개)넣어주세요. 애호박이 있을경우 1/3 넣어주시면 더 맛있습니다. 저는 없어서 못 넣었어요.중불",
+		"4. 5분정도 끓이신 뒤, 다진마늘1T, 멸치액젓1T, 고춧가루0.5T 넣어주세요.중.약불",
+		"5. 5분 정도 뒤,  이 쯤에서 간 한 번 보셔야 합니다. 짜면 물을 좀 더 추가해 주시고,  너무 싱거워도 안됩니다. 두부가 들어가면 약간 싱거워 지면서 물이 생기기 때문입니다.",
+		"6. 대파, 고추, 두부 넣고 5~10분정도 끓이시면  청국장 완성!약불"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/25/f6a629ee5aa148ad0dd981645c1760411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/25/3091a293c7b5708a1759c212d1f496c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/25/1670d10d8394b9da09b70a000ba60d211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/25/df2367cb986470a916e7cdf0a2f114b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/25/7065448046cc64c14b441b8a03ae94cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/25/6ac39bec15d98e3e4db6eb007ac0fca81.jpg"
+	]
+}

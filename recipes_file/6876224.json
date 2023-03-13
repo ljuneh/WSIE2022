@@ -1,0 +1,97 @@
+{
+	"id": "6876224",
+	"name": "카르보나라 만드는 법(까르보나라 만들기)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/16f7e5df24ae667036aa88ce15ce62151.jpg",
+	"url": "https://www.10000recipe.com/recipe/6876224",
+	"ingredient_ids": [
+		29,
+		406,
+		3,
+		54,
+		219,
+		497,
+		574
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "파스타1줌(100g)",
+			"ingre_count": "1줌(100g)",
+			"ingre_unit": "줌(g)"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파르메산치즈",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "면수",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 파스타는 끓는물에서 올리브유약간과 소금한꼬집을 넣고 익혀주세요. 파스타 익는 정도는 기호에 따라 다르지만 전 푹익히는게 좋아서 7분정도 익혔어요. 다 익힌 파스타는 건져내고 면수는 따로 놔두세요. 이제 마늘은 슬라이스하고 양파는 채썰어주세요. 베이컨은 1센치두께로 썰어주세요.",
+		"2. 후라이팬에 올리브유를 두르고 마늘은 넣고 볶다가 양파와 베이컨을 넣고 볶아주세요.",
+		"3. 얼추 볶아지면 스파게티도 같이 넣고 소금한꼬집과 후추로 간을 살짝 해주세요. 소스랑 섞으면 퍽퍽할수도 있으니 면수를 추가해서 잘 섞어주세요.",
+		"4. 더 고소하게 드시고 싶으신분은 면수와 함께 우유반컵정도 섞어주세요. 볶은 재료는 한김 식혀주세요.(소스랑 섞으면 달걀이 익을수 있으니 충분히 식혀주시는게 좋아요.) 이제 볼에 달걀1개와 달걀노른자한개를 더 해서 잘 섞어주고 여기에 파르메산치즈가루를 반컵넣고 잘 섞어주세요.",
+		"5. 미지근한 정도로 식혀진 파스타와 소스를 버무리면 완성된 카르보나라랍니다. 고소하니 생크림넣는것보단 덜 느끼한것 같아요.(제 개인적인 견해)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/6ce94a067fd4d8470408b514aa005b3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/e0fece5342c76e1e8007271a38e8d4481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/c0c9ec92b1128f6648e28e62ee20c00d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/e2bb62fb3e09470da3d49ca43934b3eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/11/902b332794dc6705021684fe838aa2661.jpg"
+	]
+}

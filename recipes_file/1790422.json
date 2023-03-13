@@ -1,0 +1,68 @@
+{
+	"id": "1790422",
+	"name": "만두피 들깨수제비",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/6c777cd694868a46814bad3fab8c388b.jpg",
+	"url": "https://www.10000recipe.com/recipe/1790422",
+	"ingredient_ids": [
+		286,
+		757,
+		540
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "만두피",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "멸치다시마육수",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "들깨즙",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "꽃소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "들깨",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "처음갈때물",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "두번째갈때물",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		}
+	],
+	"recipe": [
+		"1. 들깨는 물에 씻어 바닥에 가라앉은 돌등을 버리고 물위에 뜬 들깨만을 건집니다. 이 과정을 2번정도 반복한 후에 믹서기에 들깨를 갈아줍니다. 처음 갈때 들깨와 물 100ml을 넣고 간 후, 체에 들깨즙을 거른다. 두번째 갈때 처음갈아준 들깨에 물을 100ml을 부어 들깨를 한번더 곱게 갈아 첫번째 들깨즙과 합쳐줍니다.",
+		"2. 멸치다시마 육수를 500ml을 넣어 끓이세요.",
+		"3. 멸치 다시마육수가 끓으면, 만두피를 한장씩 넣어주세요. 조금 먹기좋게 하시려면, 만두피를 반으로 잘라 넣는것이 먹기에 수월합니다.",
+		"4. 만두피가 달라붙지 않도록 젓가락으로 저어주면서 1분정도 익혀줍니다.",
+		"5. 갈아놓은 들깨즙을 100ml넣어 만두피가 익을때까지 한소끔 더 끓여주시면 됩니다. 만두피가 얇아 금방 익는답니다. 모자른 간은 소금으로 맞춰주시고 쪽파를 얹어주시면 완성이랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/ee07480649e4287822bc6021afc203e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/e5901afe444c48a32750de8a3360073d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/36623e86e35243acbcd2e28d07e943451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/9acf39b480d64b80e317c70fb59fdacb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/f5a4a7e2a05c1736b4c999e486ae23091.jpg"
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"id": "6944950",
+	"name": "가지밥만들기 양념장레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/5b4b5942a43e3e93e927ef56eb2232801.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944950",
+	"ingredient_ids": [
+		19,
+		527,
+		379,
+		292,
+		660,
+		27,
+		224,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "작은가지",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "황태",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 1, 재료를 준비합니다.",
+		"2. 2, 가지를 큼직하게 썰어줍니다 너무 얇게 썰어서 밥을 지으면 형태가 다 없어지고 씹는 식감을 못느낍니다. 무도 채썰어놓습니다.",
+		"3. 3, 전기밥솥에 쌀 2인분을 세척해서 바닥에 깔고 가지와 무그리고 황태를 얹어주세요 그런다음 버터를 2조각 넣습니다. 물은 100ml만 넣어줍니다.",
+		"4. 4, 15분만 지나면 아주 맛있는 가지밥이 완성됩니다",
+		"5. 5, 간장 5스푼에 대파 넣고 맛술 1개 그리고 참기름 간마늘 통깨 고춧가루는 반스푼씩만 넣어줍니다 골로루 섞어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/585c056a52cfc39240e74a0cdea281f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/22cee4b7112aa165c564d9fc4c2ba15a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/274138fba31f7a5dbb0ee614459919351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/80bf7c595730e72b49205935f7710cbc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/fc3b0bff9e8d6e23a9dbd561bdd8160e1.jpg"
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": "6939955",
+	"name": "깔루아 칵테일 깔루아 스파클링",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/0fb11002a1c0768e1d5957ebae4ba8941.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939955",
+	"ingredient_ids": [
+		655
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "커피술깔루아",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "탄산수",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "125",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 깔루아를 먼저 넣고..",
+		"2. 탄산수를 부은 뒤..",
+		"3. 얼음을 넣고 잘 저어주기. 깔루아와 탄산수가 1:2 비율정도면 적당한 깔루아 스파클링이 완성됩니다. 저는 좀 진한 것 같아서 탄산수를 좀 더 넣어주었더니 제 입맛에 딱이었어요. 탄산수의 양은 취향껏 조절하시면 될 것 같아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/ebabd0a94a1bfc790f26f7c011d68e7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/c193c5346da6190cf615829192eccb731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/9eee8a328ce1c1d066db18a6a24714a41.jpg"
+	]
+}

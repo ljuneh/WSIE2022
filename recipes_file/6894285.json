@@ -1,0 +1,59 @@
+{
+	"id": "6894285",
+	"name": "끓이지 않아도 오독오독 맛있게 담그는 마늘장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/16/3b18d8c1a3bcc09f8ac09d261fb4b1891.jpg",
+	"url": "https://www.10000recipe.com/recipe/6894285",
+	"ingredient_ids": [
+		29,
+		231,
+		995,
+		579
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "Kg"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "비율"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "비율"
+		},
+		{
+			"ingre_name": "설탕(기호에맞게가감)",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "굵은소금(기호에맞게가감)",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 마늘을 손질한후 깨끗히 씻어 체에 받칩니다",
+		"2. 통에 마늘을 담고 식초와 물을 동량으로 부운뒤 실온에서 3일 숙성시킵니다",
+		"3. 3일후 마늘을 체에 붓습니다",
+		"4. 소스물을 만듭니다",
+		"5. 통에 마늘을 넣고 소스물을 붓습니다",
+		"6. 기호에 맞게 숙성시킵니다"
+	],
+	"recipe_img": []
+}

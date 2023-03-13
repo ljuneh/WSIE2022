@@ -1,0 +1,61 @@
+{
+	"id": "6744107",
+	"name": "파래김무침 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/31ab82afd5b2eb84668d1a55e0e2265b1.JPG",
+	"url": "https://www.10000recipe.com/recipe/6744107",
+	"ingredient_ids": [
+		757,
+		224,
+		226,
+		660,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "파래김",
+			"ingre_count": "15",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 구운김을 비닐봉지에 넣고 곱게 부숴줍니다.",
+		"2. 분량의 재료를 넣고 양념장을 만듭니다.",
+		"3. 큰볼에 양념장과 쪽파, 김을 넣고 가볍게 섞어주면 완성!                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/49746ca96573785d28f9152850893a301.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/dcbdffe4def73d31fde3f48a834458d41.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/cb77dbe2015ae35a673c8abd288997231.JPG"
+	]
+}

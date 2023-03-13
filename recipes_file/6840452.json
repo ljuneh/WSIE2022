@@ -1,0 +1,60 @@
+{
+	"id": "6840452",
+	"name": "새알 동동, 동지팥죽 만들기!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/22/26a3f741dcbdc7ec6d97cdacd24f01aa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6840452",
+	"ingredient_ids": [
+		995,
+		497,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "붉은팥",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쌀1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "18",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "새알",
+			"ingre_count": "320",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		}
+	],
+	"recipe": [
+		"1. 동지팥죽은 만들기위해 냉장실에 있던 팥을 꺼내 씻어준뒤 요렇게 미리 전날 밤에 불려주었어요. 쌀도 씻어 불려주세요.",
+		"2. 불린 팥에 물을 부어 끓여주다 끓으면 첫 물은 버리고, 다시, 물 15컵을 넣고 팥이 무르도록 푹~ 끓여주었어요.",
+		"3. 팥이 완전히 무르도록 익으면 체에 받쳐 삶은 팥은 뜨거울때 체에 받쳐 국자나 나무주걱으로 짓눌러가며 팥 앙금을 걸러주세요. 물 3컵을 부어가면서 남아있는 앙금을 걸러준뒤 팥앙금과 섞어 앙금은 가라앉을때까지 기다렸다가 가라앉은 앙금은 그대로 두고, 윗물만 냄비에 넣고 끓여주세요. 끓으면 불려두었던 쌀을 넣고 끓여주세요. ",
+		"4. 쌀이 익으면 남겨두었던 팥앙금을 넣고 저어가면서 끓여주세요.",
+		"5. 찹쌀로 만든 새알심은 떡집에서 가져왔어요. 저희 대빵이 찹쌀떡을 사니깐 서비스로 그냥 주셨다고 하더라구요. 아무래도 동짓날이 다가오니깐 떡을 사시는 고객에게 서비스차원으로 미리 준비를 하신 것 같더라구요, 새알심이 없으시다면 찹쌀가루 1컵에 소금을 넣고 섞어주고, 뜨거운 물을 조금씩 넣어가면서 익반죽을 해 동글동글 빚어주심되요.",
+		"6. 준비된 새알심을 넣고 끓이다가 새알심이 동동 떠오르면 기호에 따라 소금과 설탕을 간을 해준뒤 불에서 내리면 되요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/22/d7169db33c7736cdfe2ed2d865bc5c911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/22/f8b8c9bd77d12eb13e721c87bf695ae61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/22/0dc96ee42e270c0e9da28357c083ff4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/09/903d274c7a786ce35702a7b38cfdb0a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/09/e9cb3d98ec18ca79aba97ea5a73c78b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/09/879e17ac5c179b565bf43f235e4c91db1.jpg"
+	]
+}

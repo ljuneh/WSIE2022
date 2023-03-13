@@ -1,0 +1,129 @@
+{
+	"id": "6939888",
+	"name": "족발 황금레시피! 식당 퀄리티의 족발 집에서 만드세요~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/4adf56229014160db4716abc9e52489c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939888",
+	"ingredient_ids": [
+		3,
+		158,
+		19,
+		9,
+		262,
+		29,
+		28,
+		857,
+		379,
+		226,
+		341,
+		846,
+		995,
+		660
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지족",
+			"ingre_count": "1000",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "건고추",
+			"ingre_count": "4-5개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "8-10톨",
+			"ingre_unit": "-톨"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "2",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "20",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "계피스틱",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "7",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. (위의 동영상으로 더 쉽게 레시피를 확인하세요) 돼지 족은 최소 6시간 정도 찬물에 담궈 핏물을 빼줍니다",
+		"2. 핏물을 뺀 족발은 된장 1스푼과 생강 1톨을 넣고 약 15분동안 삶아 준비해줍니다. 물은 채에 받쳐 빼주고 족발을 잠깐 식혀줍니다.",
+		"3. 족발과 같이 삶기 위해 재료를 손질해 줍니다.양파1, 사과1, 무 1/3, 당근 1",
+		"4. 국물을 우려내기 위해서 준비한 재료들을 모두 다시백에 넣어줍니다.건고추 4-5개, 마늘 8-10, 생강 2톨, 통후추 20알, 계피 스틱 1개다시백",
+		"5. 족발을 삶기 위해 간장 소스를 준비해 줍니다. 큰 볼에 간장과 물 그리고 설탕을 비율에 맞춰 넣어준뒤, 물엿 혹은 쌀엿 2 큰술 그리고 청주를 반컵 넣어서 잡내를 잡아줍니다간장 1컵, 물 7 컵, 설탕 0.5컵, 물엿 2큰술, 청주 1/2 컵간장:물:설탕 = 1:7:0.5 의 비율로 간장소스를 준비해줍니다",
+		"6. 초벌을 마친 고기와, 야채, 다시백, 그리 간장소스까지 모두 냄비에 넣어서 최소 2시간 정도 푹 삶아줍니다.",
+		"7. 두시간 동안 삶은 족발을 식혀줍니다",
+		"8. 풍미와 윤기를 더하기 위해 족발에 참기름을 발라줍니다.",
+		"9. 혹시 모를 잔털제거를 위해 토치로 족발 겉면을 살짝 불로 구워줍니다 (이 과정은 생략 가능합니다)",
+		"10. 적당히 식힌 후 썰어서 준비해주면 족발 완성~맛있는 족발 꼭 도전해보세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/3bc630512c2dc1ca8f13c1a916a45c401.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/948d9e5ac072149e7e056a24bb2d42551.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/720f176af18ea4642bd8cd7d3c62dd561.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/07ea20a70846fb94cd632cbb853906ba1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/fa45f54b298f617a075e7c1624c04ab01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/735118cf16fe054babe0aac80da79eab1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/62033ff13357e0aab28c5d76210839d91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/6f60f0ad318803cfc2e8ec4b4af7aed41.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/50fc56f1e0057d020d3aa445c9e658a01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/9dca179ca2841d7640da68f230e9ca161.png"
+	]
+}

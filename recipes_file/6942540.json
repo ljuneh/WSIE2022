@@ -1,0 +1,77 @@
+{
+	"id": "6942540",
+	"name": "대패삼겹살볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/de41728b137cebd0b5815e92468797c71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942540",
+	"ingredient_ids": [
+		963,
+		3,
+		27,
+		29,
+		224,
+		292,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "대패삼겹살",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "불고기양념장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 후라이팬에 대패삼겹살과 맛술한스푼, 썰은양파와 마늘을 넣고 후추살짝 뿌려 볶아줍니다",
+		"2. 대패삼겹살이 익었을때쯤 불고기양념장을 넣어줍니다",
+		"3. 살짝 매콤함을 더해줄 고춧가루를 살짝 뿌려주고 계속 볶아줍니다",
+		"4. 마지막에 대파와 남은양파를 넣어 살짝 익혀줍니다",
+		"5. 지글지글 간편하고 맛있는  대패삼겹살볶음이 완성됐습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/ebb9d9ff7724840bf3f2495e24f05c871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/2154aa8d959afec5ab054ecf718fd5791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/d3ae4a3cdef6b960f14817fa68023b621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/38eee79be3a620bd7f9b64b2f3879e0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/843bc5f7d0e8ab16cbdb87ed61c447331.jpg"
+	]
+}

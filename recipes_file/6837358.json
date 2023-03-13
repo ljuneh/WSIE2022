@@ -1,0 +1,45 @@
+{
+	"id": "6837358",
+	"name": "감자된장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/22/3bbcf1edc7ad20dadc4714cfa2e59b831.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837358",
+	"ingredient_ids": [
+		5,
+		7,
+		848
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 물을 끓여 줍니다. 끓는 물에 육수재료를 넣어 줍니다. 15분간 끓여주면 되는데 그동안 재료 손질을 하면 됩니다.",
+		"2. 애호박은 깨끗하게 씻습니다. 꼭지부분과 밑부분을 썰어 줍니다. 반으로 썰어 줍니다. 1/4로 썰어준 후 큼직하게 썰어 줍니다.",
+		"3. 감자도 깨끗하게 씻어 줍니다. 필러로 감자껍질을 깍아주고 큼직하게 썰어 줍니다.",
+		"4. 육수는 15분간 끓인 후 육수재료를 꺼내 줍니다.",
+		"5. 육수에 된장 3T를 체에 거른 후 감자와 애호박을 넣어 줍니다.",
+		"6. 집에서 사용하는 된장마다 염도가 다르니깐 된장양을 조절해서 간을 맞춰 줍니다. 감자가 푹 익어야 되기 때문에 10분 정도 끓여 줍니다. 감자가 익으면 대파를 송송 썷어 넣어 줍니다. 대파를 넣고 살짝만 더 끓여주면 감자된장국 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/25/b659d5a1cb5643a4a4e19210d2b6107c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/25/61dba1e0d6c0cc6552f2eb3da2b32bdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/25/e3d2c61b10450fbfe53d2f0052efe1e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/25/7b6480dd9b9601fa02748aeed9e463641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/25/0ca9b3ea52821867f5d8152f5ecef2321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/25/4196646b9828c2d47636957167a3945b1.jpg"
+	]
+}

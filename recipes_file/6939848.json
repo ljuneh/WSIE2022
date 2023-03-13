@@ -1,0 +1,60 @@
+{
+	"id": "6939848",
+	"name": "[말복] 문어탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/e314e9632dbb96ede857fe9aec4a7c371.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939848",
+	"ingredient_ids": [
+		19,
+		497,
+		939
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "작은문어",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "해물티백",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 문어손질,삶기  @6897162  문어 준비합니다",
+		"2. 물 700ml 해물티백을 넣고 육수를 우려 준 후 건져버린다",
+		"3. 무 먹기좋은 크기로 썰어  육수에 넣고",
+		"4. 보글보글 끓여준다 무가 거의 익으면",
+		"5. 준비한 문어 넣고 5분 정도 끓여 주다가",
+		"6. 파 어슷 썰어 넣고 액젓,소금  취향껏 간 맞추고 한소끔 끓여 완성합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/cdfbb61f58dd0e7be1576e191d04a8931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/981f0f11b9db3a2230b4afe09461c9581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/493aab2fa239d6abed140b554ea72c6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/8cf9c882739c4506515fcad41f2947791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/8cc91896643b88c34b107ef6b524ccfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/249cd8af7b3b94ef1bb1427af48cc76f1.jpg"
+	]
+}

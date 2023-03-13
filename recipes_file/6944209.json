@@ -1,0 +1,66 @@
+{
+	"id": "6944209",
+	"name": "단짠단짠 멸치볶음! 간단하게 만들기 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/3003551a43a20ee858f0f87234a1011d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944209",
+	"ingredient_ids": [
+		677,
+		574,
+		575,
+		660,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "잔멸치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "슬라이스아몬드",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 예열된 팬에 멸치를 약불로 볶아준다음",
+		"2. 올리브유2T를 넣고 휘리릭 볶아주세요.",
+		"3. 단맛을 더해주기위해 2T를 더해주고",
+		"4. 슬라이스아몬드를 넣고",
+		"5. 참기름1T를 넣어 재빨리 볶아주세요.",
+		"6. 고소한맛을 더해주기위해 통깨를 뿌려주고",
+		"7. 멸치가 타지않게 볶아준다음 완성!",
+		"8. 단짠단짠 멸치볶음 너무괜찮죠?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/f533e6d1a20a15e7113b1334748941a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/a20d63299b99dd65e2063cf5155305c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/7cac5ef3674bac3c59edc6ab2f35610b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/9397f4d1db2a88dfbd3a2fd9bfbb099c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/18d3ce4ce4956e0fbc9a4bcefaafecd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/8bebff02bde9aa4a41590a30195fcfc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/4a9202e93c318fa4d2d0374236bea81b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/1fa0027427e909dbf1664ad8002355321.jpg"
+	]
+}

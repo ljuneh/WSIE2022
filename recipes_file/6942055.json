@@ -1,0 +1,79 @@
+{
+	"id": "6942055",
+	"name": "코로나 극복요리/꼬시래기 오징어롤조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/47e1256fd76982382431a0c571719b201.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942055",
+	"ingredient_ids": [
+		65,
+		983,
+		504,
+		995,
+		379,
+		477,
+		575,
+		292
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "꼬시래기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비해 주세요~",
+		"2. 염장된 꼬시래기는 물에 몇번 헹군 뒤  30분 정도 물에 담가 소금기를 빼 주세요~",
+		"3. 오징어는 다리와 몸을 잘라 분리하고  몸통 껍질은 벗겨내고  껍질 안 벗긴 안쪽에 격자로 칼집을 내 주세요~",
+		"4. 오징어 칼집 안 낸 쏙에 꼬시래기 듬뿍 올린 후  돌돌 말아 준 다음 이쑤시개 꽂아 고정시켜 주세요~이쑤시개 대신 실로 묶어도 좋구요~  ",
+		"5. 팬에 식용유 1스푼과 적힌 분량의 조림 양념  물, 간장, 굴소스, 올리고당, 맛술을 넣고  양념이 바글바글 끓으면 오징어롤과  다리 같이 넣고 조려 주세요~",
+		"6. 오징어에 간이 잘 배이도록 굴려주고 양념 한번씩 끼얹어 주면서 국물이 거의 없을때 까지  중약불에서 조려주면 꼬시래기 오징어롤조림 완성~",
+		"7. 완성한 꼬시래기 오징어롤조림은 알맞게 썰어 주세요~ 썰을때 속안 꼬시래기가 삐져 나오는데 신경 안 써도 돼요~ 어차피 먹을때는 가위로 한번 더 잘라 먹을거니깐요ㅎㅎ",
+		"8. 다른반찬 눈에 안 들어 올 정도 맛있는 꼬시래기 오질러롤조림입니다  비주얼도 근사한 오징어반찬이라 특별한 날 손님초대요리도 손색 없답니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/c51581ea3024d750544b23f86c6df0d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/1565f8894aff3d533493f46e470650421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/a7b86b5de0e0a11e67919ecc9e23ba201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/2eb2435d950ae3edcced882c2c5b6bc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/4ce14d8ca5a1241c54a868057e668cb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/08e7245257f9b337627442f20e4609f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/670612462ff9b0b2d66d343f1097c0721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/2cd35c6db97ef424c32b3abb6088a07a1.jpg"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"id": "6942659",
+	"name": "간식으로 만든 치즈감자채전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/54ae00709201d5108f8d055869f846371.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942659",
+	"ingredient_ids": [
+		5
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "체다치즈+모짜렐라치즈약",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 감자 4개를 채썰어서 준비해주세요. 물에 10~20분 정도 담가두면 바삭한 감자채전을 먹을 수 있는데, 전 빠르게 하려고 생략했어요.",
+		"2. 감자에 전분 2숟가락을 넣고 섞어주세요.",
+		"3. 체다치즈와 모짜렐라치즈 슬라이스를 약간 넣고 섞어주세요.",
+		"4. 한숟가락씩 떠서 중불로 부쳐주세요. 감자가 익는 시간이 좀 걸려요. 한 면이 노릇노릇해지면 뒤집어서 굽다가 위에 치즈를 올려주세요. 뚜껑을 덮어서 치즈를 녹여주세요.",
+		"5. 치즈가 녹으면 끝.",
+		"6. 케찹을 찍어드세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/2cfbf597164281e7bcbcd3294d4513021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/65446e5088a2c167522b42eef8200fdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/f4f6dacf38883dcc9a1c9a83f2cce2a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/b0841d2bc923e2877c4dc990a9d425b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/1f5217d11ee598c4dc4e20f42aadfae71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/4efa7b26fd1975d1c65ad04a0330e28c1.jpg"
+	]
+}

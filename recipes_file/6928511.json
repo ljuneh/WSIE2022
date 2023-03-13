@@ -1,0 +1,53 @@
+{
+	"id": "6928511",
+	"name": "휘리릭~ 초간단 맛살볶음~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/03/15/d2df00abb5327324e5a1d491084459561.jpg",
+	"url": "https://www.10000recipe.com/recipe/6928511",
+	"ingredient_ids": [
+		289,
+		27,
+		477,
+		543,
+		469
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "5",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 맛살 먹기좋게 썰고 대파는 어슷썰기",
+		"2. 예열된 팬에 기름을 두르고 맛살을 볶아준다",
+		"3. 대파,굴소스 넣고 볶아준다",
+		"4. 마무리 통깨 솔솔 뿌려 휘리릭~ 볶아 접시에 담아낸다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/15/b1dbf4a9ff94fd6b6641e669f9c1829c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/15/22b265afafe2bae2e457b046edf29a701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/15/664816c7d882e78a78627fabbef1b6721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/15/545d5acaa6a4428962da97514ed37aba1.jpg"
+	]
+}

@@ -1,0 +1,97 @@
+{
+	"id": "6842811",
+	"name": "속풀이 짬뽕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/10/11e75fa5c7f60c412a0ec7a632fc5cea1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6842811",
+	"ingredient_ids": [
+		79,
+		88,
+		65,
+		3,
+		52,
+		759,
+		233
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "새우",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "홍합",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근채손으로",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "소금반",
+			"ingre_count": "1/2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "고운고춧가루1+1/2티스푼",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "배추잎",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "물8부(그릇)",
+			"ingre_count": "8부(그릇)",
+			"ingre_unit": "부(그릇)"
+		},
+		{
+			"ingre_name": "짬뽕8부(그릇)",
+			"ingre_count": "8부(그릇)",
+			"ingre_unit": "부(그릇)"
+		},
+		{
+			"ingre_name": "혼다시",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "훗추가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 팬에 기름을두르고 야채와 고은고춧가루 1티스픈 반, 함께 볶으새요",
+		"2. 준비된 물 ,짬봉그릇으로 8부 부으시고",
+		"3. 우동면 하고 양념 재료 넣으세요 (참기름은 재외) 혼다시 소금 훗추가루 다진마늘",
+		"4. 국물이끓면 해물 넣으시고요 한번더 끓으면",
+		"5. 짬봉그릇에 참기름 약간두르고",
+		"6. 끓은 짬봉을 그릇에 담아서 맛있게드세요"
+	],
+	"recipe_img": []
+}

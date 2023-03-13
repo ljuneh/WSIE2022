@@ -1,0 +1,73 @@
+{
+	"id": "6858107",
+	"name": "약고추장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/532aeef16c3c0f13f93e1f547623721e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6858107",
+	"ingredient_ids": [
+		233,
+		473,
+		995,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "다진소고기",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실원액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "표고버섯가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 소고기는 살때 이유식용 주세요 하면 욜케 다져주세요 키친타올로 꾹꾹 눌러서 핏물제거 해요",
+		"2. 다진마늘 후추 매실원액 넣고",
+		"3. 요래 밑간해줍니다",
+		"4. 후라이펜에 식용유 살짝 두르고 볶아주세요",
+		"5. 그리고 물 고추장 표고버섯 가루넣고 졸여주면됩니다",
+		"6. 마지막에 꿀2T 참기름1T 넣고 마무리 하지요",
+		"7. 꿀없음 올리고당 넣으시구요 표고버섯가루는 안넣으셔도 돼요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/08/f9206f0558852af27a5509df71dbf3131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/08/4d07a1169b7d2c88c9a0d929ef0407641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/08/624e3980bece43653c3473f7f53982561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/08/a3cb7ce1a3f6dbff04e70120829cbd5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/08/c0b6e01b8f961752943d83282d2d22d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/08/e70cb76ad14aafb734d8f8b5e60217171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/08/54dae2e383f6ef68e3725f7b323c51ad1.jpg"
+	]
+}

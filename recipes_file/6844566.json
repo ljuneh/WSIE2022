@@ -1,0 +1,37 @@
+{
+	"id": "6844566",
+	"name": "백숙/삼계탕 간단한 셀프보양식 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/12/c36f5d70d69b3728b1bc420f93dfa37f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6844566",
+	"ingredient_ids": [
+		29
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "백숙용닭(or영계)",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "한약재",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "15",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 한약재와 물 3L정도(준비한 닭이 잠길정도, 많아도 좋아요 오래끓이므로)를 넣고 끓여주세요",
+		"2. 육수를 끓이는 동안 닭을 고인물에서 깨끗이 씻어 담궈놓아요 (반듯이 고인물에서 씻어야 해요~ 흐르는 물에 씻으면 사방으로 균이 튀어요) ★날개 끝부분+똥집부분은 제거해주세요 (날개 끝부분은 균이 많다나~ 똥집부분에선 기름이 많이 나와요)",
+		"3. 육수가 팔팔 끓기 시작하면 닭+마늘 15개 정도를 넣고 40분~1시간 동안 뚜껑을 닫은채로 팔팔 끓여내면 완성! (마늘 10개는 통으로 5개정도는 편썰어 넣어주세요- 편썬 마늘은 육수에 섞여 감칠맛을 돋구워 줍니다) ▶ 완성된 음식은 뚝배기에 담아 한번 끓여내면 세팅끝!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/12/1bb2480c98f7429646213e2f268cf9a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/12/23ae30c60bfedc016227b35cf16de9991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/12/244077e0ab71d55a20e7431f3b135fe51.jpg"
+	]
+}

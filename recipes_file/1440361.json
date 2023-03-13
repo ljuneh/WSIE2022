@@ -1,0 +1,51 @@
+{
+	"id": "1440361",
+	"name": "호박죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/1507d02995dd97ce9893795e3f357b23.jpg",
+	"url": "https://www.10000recipe.com/recipe/1440361",
+	"ingredient_ids": [
+		325,
+		667,
+		497,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 호박은 껍질을 벗겨내고 씨를 빼내고 나박설기를 해두었어요. 5~7mm정도 두께로 썰어주시는게 빨리 익어서 좋답니다.",
+		"2. 물 2컵을 호박에 넣고 푹 끓여주세요.",
+		"3. 끓기 시작하면 불을 낮춰서 끓여주셔야해요. 호박이 익으면 믹서기로 갈아주거나 주걱으로 호박을 으깨주세요. 믹서기에 넣고 갈아주시면 조리시간이 훨씬 단축되어 쉽고 빠르게 만들수 있어요. 저희집은 호박 씹히는 맛을 좋아해서 믹서에 갈지 않을꺼라 직접 뭉개주었어요.",
+		"4. 으깨준 호박에 물을 2컵 붓고 불을 올려 더 끓여주시고 끓기 시작하면 약한불로 바꿔주세요.",
+		"5. 호박이 풀어져서 걸쭉한 느낌이 들면 다 끓여진거에요. 찹쌀가루에 물을 넣고 잘 풀어주세요.",
+		"6. 풀어둔 찹쌀가루를 넣고 중불로 끓이다 끓기시작하면 약한불로 은근히 끓여주세요. 이때 설탕과 소금을 넣어 밑간을 해주세요. 소금은 약간만 넣어주시고 설탕은 단맛을 좋아하는 정도에 따라 넣어주시면 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/a7becbdae472e39229e834e49798777c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/0a220deb8123b3d685f60ac908069b3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/b1821b06f38b3f6daf9090bb036f012f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/1c3426989e667bb88193513135e96e241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/f84843078a1e871905a55b936628fb321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/30e052cef8cd1735c349e009a666218a1.jpg"
+	]
+}

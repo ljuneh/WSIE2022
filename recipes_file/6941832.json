@@ -1,0 +1,139 @@
+{
+	"id": "6941832",
+	"name": "당근컵케이크 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/612cc8fa8b29ca3b86dde8fa64b7c3fc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941832",
+	"ingredient_ids": [
+		9,
+		478,
+		227,
+		884,
+		373,
+		497,
+		696,
+		546,
+		208,
+		198,
+		546
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "당근",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "포도씨유or카놀라유",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "190",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "시나몬가루",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호두or피칸",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "흰자",
+			"ingre_count": "7",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "55",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "45",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 식용유, 흑설탕, 꿀, 계란, 바닐라익스트랙을 넣고 잘 섞어주세요.",
+		"2. 박력분, 시나몬가루, 베이킹파우더, 소금을 체에 쳐서 넣고 섞어주세요.",
+		"3. 당근을 갈아서 넣고 섞어주세요.",
+		"4. 호두 or 피칸을 잘게 다져 넣고 섞어주세요.",
+		"5. 틀에 반죽을 80% 정도 채워준 뒤 170도에서 25분 구워주세요.",
+		"6. 구워진 컵케이크를 식혀주세요.",
+		"7. 아몬드가루, 슈가파우더, 흰자를 넣고 뭉쳐 한 덩어리로 만들어주세요.",
+		"8. 냉장고에서 30분~1시간 휴지시켜주세요.",
+		"9. 색소를 넣고 섞어주세요.",
+		"10. 당근 모양으로 만들어주세요.",
+		"11. 실온에 둔 크림치즈와 버터를 풀어준 뒤 슈가파우더를 넣고 섞어주세요.",
+		"12. 짤주머니에 담아 준비해주세요.",
+		"13. 식은 컵케이크 위에 크림치즈 프로스팅을 짜주세요.",
+		"14. 크림치즈 프로스팅 위에 시나몬가루를 뿌리거나 마지팬을 올려 장식 후 마무리 해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/63cbaa211bb2e1218eacd1a0ade432f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/a4f8d870f6ca7224ad220fd74b63c2ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/f18f0646375967c54db7bbfbf29affe11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/8ba50d6d35aff8f74776960d0adf47771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/8fead1f97d715795024b3f79beef742b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/19e4edbb56b3534a6c5099f2d9831d041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/a6eee9e8c805f4bd0d2d2319b70482c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/f7153c2339ef09720d0b5630434852851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/0b61e711865c6f89e112919de398aab11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/79664949c1447fb02be3e8c4f208bbe81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/b53a2328207d420d7caa06965e990b571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/fe46613b9360cb1af7aab24ac6f27df01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/068ec901dbf7f6e7605d4c0fe419a02d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/7e537ac6ba251ba4edc07651febf554b1.jpg"
+	]
+}

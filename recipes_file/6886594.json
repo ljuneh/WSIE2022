@@ -1,0 +1,48 @@
+{
+	"id": "6886594",
+	"name": "보양이필요하다면♥잣죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/04/03/ffab611e9f85e0579bb213f7cbf8d4c51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6886594",
+	"ingredient_ids": [
+		188,
+		995,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "불린쌀",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 쌀은 불려서 준비한다.",
+		"2. 스무디차퍼에 불린 쌀, 잣, 물 1종이컵을 넣어 갈아서 준비한다.",
+		"3. 냄비에 갈아놓은 재료와 물 2종이컵을 붓고 끓인다.",
+		"4. 걸쭉해 지면 불을 끄고 완성한다.",
+		"5. 소금간은 먹기 전에 따로 해 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/03/bd56b95aef9bcf86e6ccccadd33223791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/03/b47c4dfddbc27373180df571ead3e9201.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/03/72c6450574499241835a75ba81e01e731.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/03/8d969e1d45ab2ad11ed3e16235a162af1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/03/54f96ab3ba00d86d255c130fb8c33aed1.png"
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"id": "6944815",
+	"name": "홍합이 와인을 만나면? 초스피드 홍합요리~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/297a672dacaef5ba0fb3eea2f423d1ea1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944815",
+	"ingredient_ids": [
+		88,
+		198,
+		402,
+		233,
+		6,
+		295
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "홍합",
+			"ingre_count": "2",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "화이트와인",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 달군팬에 버터1T을 녹이고 다진마늘1T를 넣어줍니다강불",
+		"2. 화이트와인 반컵을 붓고강불",
+		"3. 재빨리 홍합을 부어준뒤 한번 훌훌 섞고, 뚜껑을 덮어줍니다강불",
+		"4. 홍합이 입을 벌리기 시작하면,뚜껑을 열고 잘게 썬 파프리카와 청양고추를 부어 뒤적이며 섞어주세요.중불",
+		"5. 홍합 속에 와인과 야채가 스며들도롤 훌훌 저어주면 나머지 홍합도 익으면서 풍미가 배입니다.중불"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/92e00e542e759d00ea0c2288a834903b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/b59ef4a6675e52f6a2d8cdfa5a9cd5c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/351197c522af5862c489a7d204ed0b9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/61c17e52073bf8ac050b5b959e8a33091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/72b8893ae205a4af8bfee9a4d59937b51.jpg"
+	]
+}

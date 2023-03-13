@@ -1,0 +1,107 @@
+{
+	"id": "6870111",
+	"name": "백순대볶음. 집밥백선생 백종원 순대볶음. 술이 술술~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/e561bb81fe63aa2a6dfe208508b6d5961.jpg",
+	"url": "https://www.10000recipe.com/recipe/6870111",
+	"ingredient_ids": [
+		684,
+		3,
+		27,
+		21,
+		15,
+		295,
+		497,
+		226,
+		337,
+		845,
+		337
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "순대",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "새송이버섯1개(저는느타리버섯을썼어요.)",
+			"ingre_count": "1개(저는 느타리버섯을 썼어요.)",
+			"ingre_unit": "개(저는 느타리버섯을 썼어요.)"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "12",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "초고추장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 순대를 적당한 크기로 썰어주세요. 요즘은 동네 마트에 가도 이렇게 순대를 쉽게 살 수 있죠.. 얼마나 편한가요..                   ",
+		"2. 채소를 준비합니다. 양파 1개를 썰고, 대파 2뿌리 정도를 큼직하게 썰어주세요. 양배추를 적당량 먹기 좋을 크기로 큼직하게, 새송이 버섯 1개(저는 느타리버섯으로)를 먹기 좋게 썰어주세요. 청양고추도 두어개 썰고(전 청양고추가 많이 들어간게 맛나더라구요. 두어개 더 넣었어요), 깻잎 12장은 얇게 썰어 손으로 풀어주세요.",
+		"3. 들기름과 식용유를 1:1비율로 넣어주세요.",
+		"4. 순대와 대파를 먼저 볶아줍니다. 순대를 먼저 볶으면 쫄깃한 식감을 살릴 수 있대요. 너무 오래 볶으면 순대가 퍼질 수 있으니 살짝만 볶아주세요.                   ",
+		"5. 양파, 버섯, 양배추, 청양고추를 넣고 볶아요.",
+		"6. 설탕 2t, 소금 2t, 깻잎, 들깨가루 2T 넣고 볶아주세요.                   ",
+		"7. 린 당면과 후춧가루를 넣고 휘리릭 볶아주면 끝. 저는 당면은 넣지 않았어요.",
+		"8. 소스를 준비합니다. 초고추장4T, 다진마늘1/2T, 들깨가루2T, 들기름 섞어주세요. 요 소스가 포인트에요.. 소스 없으면 정말 백주부 순대볶음이 될 수 없어요..                     "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/26cf49f40aaa054ed5dd934a9eac7ed71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/ad05bec6c5403cd1a68352ff38b50cdb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/49e6fd59aef6d6f86313924e18af5ade1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/230429af06f53a1e1ab444872d4ac2821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/61ffca1be2ca4e93f8ad375aa9846bab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/0d896e10f79b5b20f70f6c4491af19391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/bcb5e79eb70cf4b8d680894804066a581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/b157439799df75e792aa5a0db46a4dab1.jpg"
+	]
+}

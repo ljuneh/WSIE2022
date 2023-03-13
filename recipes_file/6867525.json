@@ -1,0 +1,88 @@
+{
+	"id": "6867525",
+	"name": "수제비 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/27/57f9a6e75b3f7dbeb8965402196fd1bb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867525",
+	"ingredient_ids": [
+		234,
+		5,
+		325,
+		29,
+		349,
+		497,
+		90,
+		579
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국멸치",
+			"ingre_count": "7",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 국멸치와 다시마를 소주 2스푼 넣고 10-15분 정도 끓여 육수를 내 주세요. 끓이며 나오는 거품을 제거해 주세요.(다시마는 5분 이내에 꺼내주세요)",
+		"2. 밀가루에 계란 1개를 넣어 소금 1티스푼 넣고 반죽을 해 주세요. 저는 반죽할때 끓이고 있는 멸치다시마 육수를 넣고 익반죽합니다. 그럼 더 고소하더라구요. 그리고 계란 넣어 반죽하면 색깔도 노란색으로 예뻐 우리딸은 잘 먹더라구요.                     ",
+		"3. 야채를 적당히 썰어 준비하고 육수의 건데기를 건져 감자부터 넣고 끓입니다.                     ",
+		"4. 반죽을 끓는 국물에 떼어 넣고 국간장 및 소금을 넣고 파, 마늘 및 나머지 야채도 넣습니다.                   ",
+		"5. 10분-15분 정도 끓여 그릇에 담아냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/28/c45ffe598f5a8fddcdfdfa1f1fabb3ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/28/b4e14cd357af0ad9d5d21ccfa896c2c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/28/68eacc4202780d2a4b0efe7eccea20401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/28/71eca1be210207bfc51e5fd9c7d93d8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/28/f7756c9d4cfb8d655f4fd2600acc62b51.jpg"
+	]
+}

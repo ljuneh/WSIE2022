@@ -1,0 +1,81 @@
+{
+	"id": "6891654",
+	"name": "바다의 키토산 칠게 튀김+볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/b5a13cc8c7d58ee2899c77a54ac15cf61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6891654",
+	"ingredient_ids": [
+		960,
+		292,
+		379,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "칠게",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "생강술",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 칠게는 뻘에서 자라 잘 씻어야 합니다. 맑은 물이 나올때 까지 씻어 줍니다.",
+		"2. 통마늘은 슬라이스하고 고추하고 파는 송송 썰어 줍니다. 생강은 잘라서 소주 부어 생강술을 만듭니다.",
+		"3. 칠게는 전분 1C을 넣고 칠게 넣어 봉투를 흔들면 골고루 묻힙니다.",
+		"4. 팬에 칠게 기름 넉넉히 넣고 뚜껑 닫아 튀깁니다.",
+		"5. 어느정도 튀겨지면 고추와 대파 넣습니다.",
+		"6. 마지막으로 통깨 넣습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/4406ed2e1e77d9b14c254ef90a89928b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/a9d62fd8dd48d47fe9b2a9bb16712ade1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/bd92f3299f7980db6f2c7d79fcb5e60b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/07943ceee4497ef8ae87bd187a7fa5801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/0d6fb476066a1641f5a45ebe81e7921a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/2ee66b1a5f36b67c3a4a865a10cdcc8c1.jpg"
+	]
+}

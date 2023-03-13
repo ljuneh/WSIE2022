@@ -1,0 +1,53 @@
+{
+	"id": "6908529",
+	"name": "딸기청 만들기...",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/03/16/2fcc7f9460a11a57a22ece3b9f5ee1e61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6908529",
+	"ingredient_ids": [
+		155,
+		226,
+		250
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "딸기",
+			"ingre_count": "1",
+			"ingre_unit": "키로"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "800",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 딸기 1키로는 꼭지 떼고 깨끗하게 씻어서 준비합니다.",
+		"2. 감자 으깨는(매셔)로 마구마구 뭉게 줍니다.뭉게져서 지저분한게 싫다면 딸기 하나하나 칼로 깍뚝모양을 썰어서 준비하셔도 좋아요~",
+		"3. 다 으깼어요..",
+		"4. 이제 설탕을 넣어주는데요. 딸기가 달다면 설탕양을 좀 더 줄여줘도 되고, 딸기가 새콤한게 더 많다면 설탕야을 늘려서 넣어주시면 됩니다.",
+		"5. 이제 골고루 섞어서 설탕을 녹혀줍니다. 가만 놔두면 잘 안 녹으니 가라 앉은 설탕을 계속 저어 녹혀주세요. 그럼 금방 녹아요~",
+		"6. 다 녹은 다음 보니 가장자리에 거품이 있길래 거품은 걷어내주었어요.",
+		"7. 굳이 안 넣어도 되지만 양이 많은듯하여 레몬즙 1큰술 정도 넣어주었어요. 양이 적으면 안 넣으셔도 됩니다.",
+		"8. 이제 딸기청 완성..",
+		"9. 열탕 소독한 병에 담아준 다음 냉장보관하시면서 드시면 됩니다.",
+		"10. 다음날 저는 딸기청 4큰술에 우유를 부어 섞어서 마셔봤는데 맛있었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/16/cf02b5d55f19b65a8e1d009cb6ad6ec41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/16/8dab4d48fbab935b1a92523f30dd4c0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/16/79ce4bce0cf52bbeed54dc579e2710b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/16/ac77858ad38c1519f882ca091784ac151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/16/35d4ed2110f35206171247fe89d2f7e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/16/dc264353756a1db2f23c9e897dd15b011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/16/3b9538bf28881c5a6202b5994815d15f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/16/fece20a26f0189a5e1523735c43d16761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/16/cc8ca7ffa7430abcb08272cf3d2d8f951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/16/6506fd4b5b5fa42e2bf6108b0dfdf3201.jpg"
+	]
+}

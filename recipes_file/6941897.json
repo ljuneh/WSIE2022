@@ -1,0 +1,53 @@
+{
+	"id": "6941897",
+	"name": " 복숭아 통조림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/5b5f60aa4999bc36671ab11c60a4e0091.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941897",
+	"ingredient_ids": [
+		144,
+		134,
+		995,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "복숭아",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "레몬",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 만들기 전에 유리병 먼저 소독해 주세요. 사진이 또 없다는요 ㅎㅎ 저는 딱딱이 복숭아로 만들었어요. 사진에는 3개지만 5개 깎아서 주었답니다. 큰 사이즈로 준비했는데 작다 싶으면 넉넉하게 더 추가해 만들어도 괜찮아요. ",
+		"2. 반달 모양으로 잘라 준비해 놓고 복숭아 샀는데 맛이 덜할 때 만들면 좋긴 하나 맛있는 걸로 만들면 더 맛나유~ ",
+		"3. 냄비에 담고 물 2컵 부어주고",
+		"4. 설탕 100g 넣어 주고 레몬 반개는 짜서 넣고 반개는 슬라이드 해서 넣어주었어요. 레몬 없으면 생략하셔도 되고 아니면 노란 통에 들어 있는 레몬즙 2숟가락 정도 넣어도 됩니다. ",
+		"5. 불을 켜고 10분 끓여 마무리 너무 오래 끓이면 맛없어요.",
+		"6. 잘 익은 황도로 만들 때에는 위 시간 보다 더 줄여 조금만 끓여주심 된답니다. ",
+		"7. 소독해 놓은 유리병에 담아 냉장고에 보관해 시원하게 드심 된답니다. 복숭아 통조림 만들기 쉽죠"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/e37e5582b3e2ea25cbe74b7b10fa692f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/3138650c7ab52384d2b159877b8957bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/84330f944f7184d94c5f64739873bf4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/b45e2b723217e099df84ca98b19a0a841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/24e489bdba5fef2be701698812ddeb5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/2ba0a284386732042d7d6c1f5704f74d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/55324d30ff5c267efe4746f5b176716b1.jpg"
+	]
+}

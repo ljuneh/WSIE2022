@@ -1,0 +1,55 @@
+{
+	"id": "6940081",
+	"name": "3천원으로 만드는 케이크 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/075c4a82aa365d772152ee2af18c1e951.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940081",
+	"ingredient_ids": [
+		485,
+		135
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "잼",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "카스테라",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "망고",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료를 준비해요.",
+		"2. 그리고 카스테라를 반으로 잘라줘요.",
+		"3. 그다음 딸기 잼을 발라줘요.",
+		"4. 다음 반을 다시 올려요.",
+		"5. 그다음에 생크림을 발라줘요.",
+		"6. 이렇게요.",
+		"7. 그다음 망고를 올려줘요.",
+		"8. 이렇게요.",
+		"9. 그러면 완성! 맛있게 드세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/e5faba48de12da02b21298ae5db4f1751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/fda512e0a72a91e521eba7bd6dfabeaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/987b2574d5b7e0bbf7326b3513d1b2f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/0185ca590cdba4fb037f20a2df06fa0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/cc0e2063d3db3b3660b67bec3cf898a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/605f87904ab94d0de99fefdf8a439b631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/10b860db3445fcf7d7153709be48ca991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/37c032da2dcaf2fce3e96ec9095cf56a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/27064d43d67140ecfed80a5690c9bfb51.jpg"
+	]
+}

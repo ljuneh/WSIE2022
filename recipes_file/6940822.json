@@ -1,0 +1,77 @@
+{
+	"id": "6940822",
+	"name": "백종원 무생채 까나리 액젓으로 맛내기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/7cb611bee7f156ec0b1c05f5e85a9c761.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940822",
+	"ingredient_ids": [
+		27,
+		224,
+		291,
+		543,
+		226,
+		287
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "무우",
+			"ingre_count": "2/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 1,재료를 준비합니다.",
+		"2. 2, 무우를 중간 크기로 채를 썰어줍니다. 너무 얇게 고운채를 치면 아삭아삭 씹히는 맛이 덜해서 맛이없어요.",
+		"3. 3.대파는 넉넉히 2줄기 썰어줍니다.",
+		"4. 4,무우를 큰 볼에 넣고요 파를 넣어줍니다.",
+		"5. 5,고운 소금을 한수저 넣고 무 숨을 죽입니다.",
+		"6. 6,고춧가루와 마늘 식초를 넣어줍니다.",
+		"7. 7,까나리 액젓 2스푼을 넣어줍니다.",
+		"8. 8,설탕 2스푼과 통깨를 넣고 맛있게 조물조물 무쳐줍니다. 이제 다되었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/9b2760ac4a450a5311c79def12de33cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/01fcab2d961420eafd90bdf98d1094bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/58d1abd207337c047442d7002abc75391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/49c32602d5b2851158a906633c9c91831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/eccdc51ae51d37c91f2de0c5047fd5ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/68af769b25fa83762d9df5fe62bb53691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/83a5127323f981266cf694e85acc28671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/598ec7cb28c70c8d083ff65ab8bf13f31.jpg"
+	]
+}

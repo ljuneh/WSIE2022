@@ -1,0 +1,45 @@
+{
+	"id": "6866529",
+	"name": "미끌미끌 낙지! 빠르게 손질해봐요♥ 낙지손질법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/09/2bbe7fdf973759fc493348f458f978531.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866529",
+	"ingredient_ids": [
+		64,
+		234,
+		282
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "낙지",
+			"ingre_count": "",
+			"ingre_unit": "먹을만큼"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 가위로 머리와 내장이 이어진 부분을 자른 후",
+		"2. 머리를 뒤집어 내장을 제거한다.손질이 어렵다면 머리를 가위로 잘라 내장을 제거해주세요. ",
+		"3. 가위로 눈을 제거한다.",
+		"4. 다리를 뒤집은 후 꾹 눌러 이빨을 제거한다.",
+		"5. 밀가루와 소금을 넣고 빡빡 주무른다.밀가루는 낙지의 이물질 제거, 소금은 낙지에 간을 배게 해줘요.",
+		"6. 깨끗한 물에 씻어준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/09/6f097d4166fa3aec5c7c8339767720761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/09/55dfa623d802931bea954bff08b6a5ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/09/553d8be61947f7f6c053aa78ef3291251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/09/18a015792451c95d93c617ce90b7b6471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/09/9097a660b91e5e14c284e1c215df193c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/09/db6c793cbcb32c10aa6438b4e134a3841.jpg"
+	]
+}

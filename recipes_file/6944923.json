@@ -1,0 +1,122 @@
+{
+	"id": "6944923",
+	"name": "스테이크 솥밥/집에서 근사한 한끼 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/04e1c47d91868b862708b1040f310bac1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944923",
+	"ingredient_ids": [
+		96,
+		495,
+		53,
+		757,
+		29,
+		198,
+		219,
+		497,
+		379,
+		343,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "3",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생와사비",
+			"ingre_count": "",
+			"ingre_unit": "취향껏."
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 쌀 1컵 반 (300ml)을 씻어서 20분간 불려주세요.",
+		"2. 스테이크용 소고기에 소금,후추로 밑간을 하고 올리브오일을 넉넉하게 뿌려주세요.  (스테이크 위에는 로즈마리 올려줬어요.)올리브오일은 고기를 연하게 하고 수분이 빠져나가는 걸 방지해줘요 !",
+		"3. 마늘 2개는 편으로 썰고, 2개는 다져주세요. 표고버섯도 편으로 썰어주고 쪽파는 송송썰어주세요. (집에 건 표고버섯 밖에 없어서 불려서 사용했어요~)표고버섯 대신 새송이 버섯도 좋아요 !",
+		"4. 냄비나 솥에 버터 반스푼을 녹이고 다진 마늘을 볶아주세요.",
+		"5. 불린 쌀에 물기를 빼고 같이 볶다가 물과 표고버섯을 넣고 밥을 지어주세요.강불에서 끓으면 약불로 줄여 10분, 불을 끄고 5분 뜸들이기불린쌀과 물은 동량으로 넣어주세요.",
+		"6. 팬에 식용유를 두르고 편을 썬 마늘을 넣고 튀겨주세요. 색이 나면 체에 받쳐 기름을 빼주세요.160도 에서 튀겨주세요.",
+		"7. 팬에 식용유나 올리브오일을 넉넉하게 두르고 팬을 달궈주세요. 스테이크를 넣고 앞뒤로 바싹하게 구워주세요. (앞뒤로 1분30초씩) 약불로 줄여 속까지 익혀주세요.",
+		"8. 구운 스테이크를 종이호일에 5분 정도 감싸 놓으세요. (레스팅) 레스팅을 해줘야 고기를 썰었을 때 핏물이나 육즙이 나오지 않아요.",
+		"9. 스테이크를 먹기 좋은 크기로 썰어주세요.",
+		"10. 소스만들기 - 고기 구운 팬에 간장 2스푼, 미림 2스푼, 설탕 1스푼을 넣어주세요. 설탕이 녹을 정도로만 끓여주세요.",
+		"11. 뜸이 들여진 밥을 잘 저어주세요.",
+		"12. 밥 위에 쪽파를 올리고 스테이크를 올려주세요.쪽파는 열이 가하지면 단맛이 나요.",
+		"13. 그 위에 노른자와 마늘칩을 올려주세요. 만들어 놓은 비법소스를 뿌려주세요. 생와사비도 곁들여 주세요. 고기와 잘 어울려요 ~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/7c420fa769344f82fada8d611b3434611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/056958ba143a1097f583864c209953231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/a0a63518b643be1c3c91327fbd02ee6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/cee1a8f03b2ec527ea8e63b1aef57fd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/fc4af1c8b5a33409c46e46fe7e1780e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/db8f1479e4fb321b3f723ba801e60bb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/0b04a0e723ea1c054775c4980f1001bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/61ea04a82a2c206fdc1e14733121afca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/6753a2a300c7009c3d75fb56079e688b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/a32285da4ee83988ed53697ce4e531951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/8d11aecdad4dc49482f1713c106fc60c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/92415c0da7a3a8a9a60d65f29d9819331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/c0cd1f5780063c52b6b6d46fef3c20111.jpg"
+	]
+}

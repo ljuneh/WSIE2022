@@ -1,0 +1,83 @@
+{
+	"id": "6832044",
+	"name": "여름엔 진리, 참치오이롤초밥♪",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/16/84788060b17a8792d15230d6061004f91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6832044",
+	"ingredient_ids": [
+		8,
+		3,
+		228,
+		226,
+		497,
+		290
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "참치1캔(1캔100g)",
+			"ingre_count": "1캔(1캔 100g)",
+			"ingre_unit": "캔(캔 g)"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 참치캔을 따서 기름을 제거하고 그릇에 담은 다음, 숟가락으로 으깨줍니다.",
+		"2. 양파 4분의 1조각도 다져서 준비하구요~",
+		"3. 으깬 참치에 양파를 넣고 분량의 양념을 넣어줍니다.",
+		"4. 그리고 잘 섞어주세요~ 이러면 참치 샐러드 완성인데요.. 이건 숟가락으로 그냥 퍼먹어도 맛나답니다.",
+		"5. 오이는 흐르는 물에 깨끗이 씻은후 필러를 이용해서 포를 떠듯이 한겹 한겹 벗겨내줍니다.",
+		"6. 오이에 필러대면 부드럽게~ 한번에 벗겨진답니다.",
+		"7. 밥1공기도 준비해주고요, 그냥 사용해도 무방하나 참기름, 소금으로 살짝 간해주면 더 맛있게 먹을 수 있어요.",
+		"8. 도마위에 오이를 펼쳐놓고 주먹밥을 만들듯 밥을 뭉쳐서 오이 너비에 맞춰 손으로 빚고 올려줍니다.",
+		"9. 그리고 돌돌 말아주세요.",
+		"10. 오이 수분으로 인해 자동접착이 되니 그냥 말아주기만 하면 되구요~  이렇게 놔두면 오이롤초밥 완성인데요~",
+		"11. 더 맛있게 먹기 위해 참치샐러드를 올려주어 참치오이롤초밥을 완성합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/16/14db1cde8e95e937271b58bc1a48f6851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/16/e659d1351b97b8372bd8789c78291c0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/16/d42a44086d885e6c823fd4646e860fd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/16/8e69db1ebf32663bd8de0cb33688ee5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/16/b94448979c39071d91fb89c8f734e59d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/16/ce43e8a70aaea4a8863187c4b076cdd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/16/ed0e9a262a1ca9c02ad33cbe20f276851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/16/ffcd4bf906d7cbf94058edc16bed05f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/16/71af7f47fa9a7ef5ec0750e39a09d1241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/16/c4096f5c7b862d8acd731cab7d730f041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/16/3abea8d79383bae8ca6e2c598e7727ea1.jpg"
+	]
+}

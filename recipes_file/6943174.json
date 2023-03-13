@@ -1,0 +1,128 @@
+{
+	"id": "6943174",
+	"name": "닭고기 간장조림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/631b0a4cb12a45d23128c642c06cfbff1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943174",
+	"ingredient_ids": [
+		126,
+		5,
+		9,
+		27,
+		233,
+		55,
+		504,
+		497,
+		3,
+		379,
+		292,
+		226,
+		233
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭고기",
+			"ingre_count": "2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "육수또는생수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 감자와 당근 및 양파를 씻어주시고, 먹기 좋은 크기로 잘라 주세요.",
+		"2. 닭고기에 밑간을 해주세요. - 소금과 후추를 뿌려 밑간을 하시면 됩니다. (다른 종류 향신료 등 가능함)",
+		"3. 전분가루를 고기의 앞뒷면에 발라 주세요. - 고기를 먼저 살짝 구워서 육즙을 가두려고 합니다.",
+		"4. 팬에 식용유를 살짝 두르고, 고기의 앞뒷면을 초벌하여 주세요.",
+		"5. 나중에 다른 재료와 함께 조려 주기 때문에 고기는 겉면만 잘 익혀 주시면 됩니다.",
+		"6. 고기를 초벌한 팬에 야채를 볶아 줍니다. - 단단한 종류의 채소부터 먼저 볶아 주시면 더 좋습니다.",
+		"7. 초벌된 닭고기를 먹기 좋은 크기로 잘라서 팬에 넣어 함께 볶아 주세요.",
+		"8. 준비된 육수, 육수가 없으시면 물을 넣어주시고 간장, 다진마늘 등의 양념재료를 넣어주세요.",
+		"9. 팽이버섯도 넣어 함께 볶아 주세요.",
+		"10. 마지막으로 대파를 넣고, 모든 재료에 양념이 스며들 수 있도록 끓여주시면 완성 입니다. - 짭쪼름한 맛을 좋아하시면 소금이나 간장으로 양념을 첨가하시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/21c500d1c7184031b8f208e5a22441951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/82598d4e903feb4797d2b8e798c86b361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/0d0db2aca2b0c707d67b916d4dfcfdce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/5f6fe0804c919cedcdb333fb66842f001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/19533dbe445e4c11cbca53716dc44a451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/19e5985dfd87eed4a3bfc909b2cfa7d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/378459f8f3193963e266cbc661ab05721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/7445c44a82a452d6379b8791b59569551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/02b9e4f368c1b609c3cb23f6fed268111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/35f3ae974ec49665d076405ed8c529d11.jpg"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"id": "5134285",
+	"name": "매실장아찌 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/190cfa942b631baa3940bbdeeb4847f21.jpg",
+	"url": "https://www.10000recipe.com/recipe/5134285",
+	"ingredient_ids": [
+		473,
+		543,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "매실장아찌",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 매실은 흐르는 물에 깨끗하게 씻은 후 꼭지를 제거하고 체에 밭쳐 물기를 빼줍니다.",
+		"2. 물기가 마른 매실은 칼을 이용해 과육을 도려내고 씨를 제거해줍니다. 손이 아프기는 하지만 과육 모양이 예쁘거든요..ㅎㅎ",
+		"3. 매실과육은 유리용기에 담고 설탕으로 덮은 후 용기뚜껑을 닫아줍니다. 매실 과육과 설탕의 비율은 1:1이랍니다. 공기가 들어가지 않아야 곰팡이가 생기지 않는답니다.",
+		"4. 매실장아찌만 건져서 고추장, 통깨, 참기름을 넣고 조물조물 무쳐줍니다.",
+		"5. 매실장아찌무침을 접시에 담고 통깨를 조금 뿌려냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/c999fd65ae619f65bb2a20ed17593cf21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/a20b2039cb26dc41aa0ae905dd4eb7cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/be88783e2595163d4622302de06d4a581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/b21e0092e8b64cabcab6dd42d0448e081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/476d445e7883edb30270a4262320cf571.jpg"
+	]
+}

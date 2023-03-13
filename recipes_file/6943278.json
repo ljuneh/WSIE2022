@@ -1,0 +1,101 @@
+{
+	"id": "6943278",
+	"name": "콜라 찜닭 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/136036a04183591dec9d91e36e1a8f181.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943278",
+	"ingredient_ids": [
+		3,
+		5,
+		9,
+		302,
+		647,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭볶음탕용닭",
+			"ingre_count": "800",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "1",
+			"ingre_unit": "움큼"
+		},
+		{
+			"ingre_name": "콜라",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진마늘1+1/2T",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 제일 먼저 우선 당면을 물에다가 불려주기당면 종류 아무거나 상관없습니다. 자기가 좋아하는 당면으로 요리해도 됩니다.",
+		"2. 닭을 깨끗이 씻은 후 물에 살짝 데쳐줍니다.",
+		"3. 그 사이, 양파 잘라줍니다.",
+		"4. 감자도 잘라줍니다.",
+		"5. 당근도 잘라줍니다.",
+		"6. 홍고추, 청고추 어슷 썰어줍니다.",
+		"7. 그 다음 물을 버리고 찬물에 한번 헹궈주고나서 콜라와 진간장을 넣어줍니다.",
+		"8. 감자 -> 당근 -> 양파 순으로 넣어줍니다.",
+		"9. 그리고 다진마늘과 청고추, 홍고추, 당면을 넣고 줍니다.",
+		"10. 그 다음 마무리로 후추와 참기름을 약간씩 넣어주고 살짝만 더 끓여주면 콜라찜닭완성~혹시 끓이다가 물이 줄어들면, 물을 추가해서 끓이셔도 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/8164e43e437985b504bd80d12ed136ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/f60900c90679571d6ef7b7b77e8ca5301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/74596294a896a25bac66070faf2a213d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/33a55795c5b3b79b29194788859da46d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/9b61cec70e384d79e55ccf5ce64e9a871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/92fc0ed6c5d7dbb4cf82bf915d7cdee31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/5e1d0acb99f2728b132cc26e35ff1f371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/0a7ce806eaddb54621d1778c49ed15021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/1d5497d5688d39a6a70c927a139681d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/ba613ca1defe51d78f9a06bd48aa098c1.jpg"
+	]
+}

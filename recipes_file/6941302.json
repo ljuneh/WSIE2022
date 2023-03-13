@@ -1,0 +1,97 @@
+{
+	"id": "6941302",
+	"name": "대구탕 끓이는 법, 황금 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/29e17f7c309c7da58fbeeadc23ed4be01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941302",
+	"ingredient_ids": [
+		68,
+		19,
+		47,
+		20,
+		224,
+		362
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "대구",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "해산물",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "붉은고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "1.",
+			"ingre_unit": ".리터"
+		},
+		{
+			"ingre_name": "디포리",
+			"ingre_count": "4",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "국물새우",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 1,재료를 즌비합니다.",
+		"2. 2, 대구는 깨끗하게 세척해놓고 채반에 물기를 빼줍니다.",
+		"3. 3,야채를 썰어놓습니다, 무는 약간 두껍게 썰어줍니다. 무를 오래 푹 끓여야 맛있거든요.",
+		"4. 4,디포리랑 새우를 불에 볶다가 물을 1.2리터를 넣습니다.",
+		"5. 5. 육수를 15분이상 끓이면 물이 반으로 줄어들어요 이때 무우를 넣어줍니다.",
+		"6. 6. 끓인육수에 생선을 넣어줍니다.",
+		"7. 7, 고춧가루 2스푼에 진간장 2스푼을 넣습니다.",
+		"8. 8, 마늘과 대파 홍고추 미나리를 넣고 불을꺼줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/cde03782bd44f6a301491323c41888371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/a14886c7eb48ff379e7aa743dc8ccbee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/c92667a395e3a8527269fe08d5354d951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/16e326f6a1739954d3a0efb5a3e43d371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/7abcc60dce0959fa9a43a36f7c525dd51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/6d9f402ce6ba49d695b6a0de58fbe83f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/e48247d338c214468264a12d83312fde1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/118905fffbab1b7249aa013fbaa08b981.jpg"
+	]
+}

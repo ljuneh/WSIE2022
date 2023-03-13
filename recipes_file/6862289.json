@@ -1,0 +1,66 @@
+{
+	"id": "6862289",
+	"name": "나래바 추천!!새우로 초간단하게 만드는 술안주, 감바스★",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/07/6dd56f58251cccdde4bcf579c41d2de31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6862289",
+	"ingredient_ids": [
+		79,
+		29,
+		497,
+		469
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "새우",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "1/2",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "페페론치노",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바게트빵",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 마늘은 편으로 썰어 준비한다.마늘 2톨",
+		"2. 새우는 키친타월에 물기를 제거한다.새우 10마리키친타월",
+		"3. 소금과 후추로 새우에 밑간을 한다.소금 약간, 후추 약간",
+		"4. 팬에 카놀라유를 부어 끓인다.카놀라유 1/2cup팬",
+		"5. 끓는 기름에 편으로 썬 마늘을 넣는다.",
+		"6. 마늘이 노릇해지면 새우를 넣고 페페론치노를 손으로 반 갈라 넣어 완성한다.페페론치노 4개"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/07/5cc7e34521d3efd924483167fc1a1c821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/07/8233ee601ae0f2af52a3d4b678ebd8f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/07/422b366509e946ff88b076554e63cc521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/07/7806ce4e32e3107304cdb4e62b4088f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/07/e035643637cb1e9df1ecc58227c460e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/07/b4fe6fd07202e4a3436cb3a66cfd778d1.jpg"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"id": "6943699",
+	"name": "오래된 열무김치로 찌개 해보세요 은근 맛있어요 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/813194aa12aa56c8d92ef2a8489df2021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943699",
+	"ingredient_ids": [
+		1003,
+		327
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "열무김치",
+			"ingre_count": "",
+			"ingre_unit": "먹을만큼"
+		},
+		{
+			"ingre_name": "쌀뜬물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 잠자고 있는 냉장고의 열무김치를 먹을만큼만 꺼내주세요",
+		"2. 들기름1스푼 넣어주세요",
+		"3. 다시다1스푼 넣어주세요",
+		"4. 쌀뜬물3컵을 넣어주세요  그냥 물이여도 상관없어요",
+		"5. 자박자박한 느낌으로 물을 넣으시면 됩니다.",
+		"6. 푹끓여주세요 그럼 완성~!! 예쁜그릇 냄비에 담아볼까요?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/3f3bae48a4af95d44105c92d3affe6851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/7a6fe9704962a3fe3f393541f3c986201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/24e5e36aa984b34df4f93595104eac2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/9f057a48d39d00cfa6a2661e946a85f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/334d1c2b3229d43ca634c8d1f00abcc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/dcca80170585d4a556bb50d8027616561.jpg"
+	]
+}

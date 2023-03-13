@@ -1,0 +1,42 @@
+{
+	"id": "6945624",
+	"name": "도시락반찬 건강한도시락 닭가슴살구이 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/0979415302117d6d1ca1ec86892b52631.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945624",
+	"ingredient_ids": [
+		300,
+		535
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "허브솔트",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 냉동닭가슴살을 해동시킨 뒤 키친타올로 물기를 제거해주세요.",
+		"2. 허브솔트 솔솔 뿌리고 마늘가루 듬뿍 뿌려서 밑간을 해주세요.",
+		"3. 에어프라이어에 180도에서 10분 돌려준 뒤 뒤집어서 다시한번 허브솔트와 마늘가루 뿌려주고 180도 10분 돌려줬어요.",
+		"4. 완성!!",
+		"5. 먹기좋은 크기로 잘라주면 됩니다:)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/58dd90ed7fd6d233ef0a8e60cedfd4c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/c8044c4a2338c454df29454407df92461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/9a95737aacee4b35b1a9458ea5d5116f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/10be34d663ae2fa3af127403d58146af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/e6b1cc9e643f247b1ee738c899cf42cc1.jpg"
+	]
+}

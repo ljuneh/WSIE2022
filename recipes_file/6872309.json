@@ -1,0 +1,45 @@
+{
+	"id": "6872309",
+	"name": "수박주스 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/06/450e085a2374e8107ec23804389d4c981.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872309",
+	"ingredient_ids": [
+		161,
+		226,
+		227
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "수박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 수박주스 만들기위해 씨를 제거해야죠.",
+		"2. 맛이 별로인 수박을 주스로 만들어 마시면 맛이 좋아요.",
+		"3. 수박주스 만들때는 역시 수박이 별로 달지 않으니 저는 설탕반, 꿀반 큰술 넣고 갈아요.",
+		"4. 수박주스 만들때는 다른 과일과는 달리 수분이 많이 물을 따로 넣지 않아도 되서 좋아요.",
+		"5. 뚜껑을 열어보니 이렇게 예쁜 빛깔 뽐내며 잘 갈렸네요.",
+		"6. 이렇게 컵에 따라 마시는 수박주스 달콤하고 시원해서 좋네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/12/9072271f6dcf2c85b86143891d77d94a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/12/af83b535afdb26b75a208847346ef5441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/12/feb33f34d0bf419481bbb74da9ff4c251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/12/43b548b437260c1a7716efeb125ea7391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/12/0274f8d9e74462deff7538358b6478441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/12/e1008aed77cd78307c0468aada6c022f1.jpg"
+	]
+}

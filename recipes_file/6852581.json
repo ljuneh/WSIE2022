@@ -1,0 +1,82 @@
+{
+	"id": "6852581",
+	"name": "드디어 나왔다! 집에서 KFC 비스켓 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/12/fb5d2062a1ef2b3c98c3c9b51902e6581.png",
+	"url": "https://www.10000recipe.com/recipe/6852581",
+	"ingredient_ids": [
+		373,
+		219,
+		226,
+		497,
+		198,
+		492,
+		198
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "달걀물",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "딸기잼",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 박력분, 설탕, 소금, 베이킹파우더는 고운체에 내려준다.박력분 1컵, 설탕 3T, 소금 1/3T, 베이킹파우더 1/3T ",
+		"2. 냉장고에서 꺼낸 버터를 잘게 조각내어 가루에 넣고 주걱으로 포슬하게 섞는다.버터 3T주걱",
+		"3. 달걀에 우유3T를 넣고 섞는다.달걀 1개",
+		"4. 버터를 섞어 놓은 반죽에 달걀물을 넣고 대충섞는다.",
+		"5. 오븐팬에 종이호일을 깔고 듬뿍 한수저씩 떠 놓고 180도 오븐에 약25분에서30분간 색을 봐가면서 구워낸다.오븐팬, 종이호일"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/12/6db174228bccd779f465d6903a353f671.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/12/7951c211b7f3c99a4d72780efa6b81771.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/12/332c414935d7677a1a025c37d73e00a11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/12/0bcb23693ced2415490f2803e9730f351.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/12/15b87de83f55349a9cba59671f724b051.png"
+	]
+}

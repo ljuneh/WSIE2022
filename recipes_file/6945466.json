@@ -1,0 +1,92 @@
+{
+	"id": "6945466",
+	"name": "버섯들깨찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/69b173025686169085a8c6b74586788d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945466",
+	"ingredient_ids": [
+		53,
+		58,
+		56,
+		27,
+		295,
+		337,
+		327,
+		233,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "5~6T",
+			"ingre_unit": "~T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 버섯종류는 한입크기로 썰어주고 대파 1/2대, 청양고추 1개, 홍고추 1개는 어슷썰어준다",
+		"2. 냄비에 들기름 3T를 넣고 버섯을 모두 넣고 볶아준다중불들기름이 버섯에 쏘옥 베도록 볶아준다",
+		"3. 버섯의 숨이 죽을 정도로 볶아준다중불",
+		"4. 버섯이 자작하게 잠길정도로 물을 부어준다중불",
+		"5. 물이 끓어오르면 다진 마늘 1T을 넣어준다중불",
+		"6. 보글보글 끓어오르면 들깨가루 5~6T를 넣고 끓여준다걸죽한게 싫으면 들깨가루를 덜넣어도 되고 국물 진하게 먹고싶을 땐 5~6T을 넣어준다",
+		"7. 대파, 청양고추, 홍고추를 넣어준다",
+		"8. 마지막으로 소금으로 간을 맞춰준다깔끔하게 소금간을 해줘야 들깨의 담백함과 고소함을 느낄 수있다",
+		"9. 위 과정을 지나고 한참을 보글보글 끓여준다들기름넣고 볶는 과정과 들깨가루넣고 오래도록 끓이면 국물의 진한 맛을 느낄 수있다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/235ec21cb95636ab331d49c0f7d361f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/918110b57980065b308e0b6d286eeca41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/52adeb39f5a204c9f83c572270e497141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/3675349af02b38345a2be0c5567b41321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/8c66841118a9d5781943e529c2527a291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/efe2244529bf7defcfaf557cb0ac74c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/3dfacbc99a9b833b5697d41eb01b5b6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/370304c23a040ad588581321d37e22671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/639c09f92a598d4cef2a398ec132417a1.jpg"
+	]
+}

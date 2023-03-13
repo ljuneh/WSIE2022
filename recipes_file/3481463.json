@@ -1,0 +1,75 @@
+{
+	"id": "3481463",
+	"name": "봄의 색을 닮은 단호박머핀",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/94c2f79c642b1e3b0d1e3aaaa1a603a2.jpg",
+	"url": "https://www.10000recipe.com/recipe/3481463",
+	"ingredient_ids": [
+		226,
+		219,
+		388,
+		373,
+		940
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무염버터",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "230",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "단호박으깬것",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바닐라에센스",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "베이킹소다",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		}
+	],
+	"recipe": [
+		"1. 실온에 두어 말랑말랑한 버터를 핸드믹서로 부드럽게 풀어 주세요. 설탕을 넣고 핸드믹서로 3분 정도 섞어 주세요.",
+		"2. 달걀은 1개씩 넣으면서 핸드믹서로 섞어 주세요. 한개씩 넣어야 버터와 달걀이 분리되지 않습니다. 바닐라 에센스도 같이 넣어 주세요.",
+		"3. 반죽에 쪄서 으깬 단호박과 우유를 넣고 잘 섞어 주세요.",
+		"4. 체에 친 박력분과 베이킹파우더, 베이킹소다를 넣고 고무 주걱으로 날밀가루가 보이지 않을 정도로만 섞어 주세요.",
+		"5. 머핀틀에 유산지를 끼우고 반죽을 80% 정도만 채워 주신 후 180℃로 예열된 오븐에서 20분 정도 구워 주세요.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/32fe29c85ef6247bb7708663ba6e62931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/e027383e8c0cf0eae37619c72651f5e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/835f7073903e0d7a3d8d9f87d4348eb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/b9a795b2ba67eb3ef4ca962ad13546ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/2d6ab902c9a06525259ea366f97d48711.jpg"
+	]
+}

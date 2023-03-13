@@ -1,0 +1,72 @@
+{
+	"id": "6940825",
+	"name": "매콤하고 바삭한 만두강정 만들기!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/5f20c4ebf405cbc2e58c0118aa70a2671.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940825",
+	"ingredient_ids": [
+		504,
+		473,
+		724,
+		575,
+		292,
+		233,
+		995
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "만두",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 비닐봉지에 만두 10개를 넣고 식용유를 약간 부은 뒤 잘 흔들어 식용유가 고루 묻게끔 해 주세요.",
+		"2. 볼에 양념장 재료를 모두 넣고 잘 섞어 양념장을 만들어요.",
+		"3. 예열한 에어프라이어에 만두를 겹치지 않게 넣고 180도에 5분 돌린 뒤 다시 뒤집어서 5분 더 (총 10분) 조리합니다.에어프라이어에어프라이어 기종에 따라 조리 시간이 다를 수 있으니 중간에 한 번 확인해 주세요.",
+		"4. 만두 조리가 끝나면 넓은 팬에 만들어 둔 양념장을 넣고 가열해요.",
+		"5. 양념장이 끓어오르면 군만두를 모두 넣고 잘 버무리며 한소끔 볶아 주면 완성입니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/f160142e2ac984b8be451cb7a6fa4d9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/2b572fcebcd7cea37defec8a53785f501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/b982346f23b0eec6d43d2254b8aef46b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/34fe7988694166226d0d72098a47dba11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/435b4c0ff9093946a4d5ddd989f2a5c31.jpg"
+	]
+}

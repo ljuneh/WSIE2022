@@ -1,0 +1,53 @@
+{
+	"id": "6942918",
+	"name": "[초고추장 한그릇 요리]초고추장&오징어&브로콜리 밥반찬 야식 상차림 메뉴로도 좋은 한 그릇 요리!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/53d997643445fb11cda3702e9ededa531.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942918",
+	"ingredient_ids": [
+		11,
+		65,
+		282,
+		845
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1/2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "초고추장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. (초고추장은  @6942355 -[초고추장 만드는 법]을 확인해 주세요.)",
+		"2. 브로콜리를 먹기 좋은 크기로 잘라 깨끗이 씻어 주세요.",
+		"3. 끓는 물에 브로콜리, 굵은소금 1꼬집을 넣고 30~40초 정도 데쳐 주세요.",
+		"4. 데친 브로콜리를 체에 밭쳐 흐르는 물에 헹군 후 물기를 제거해 주세요.",
+		"5. 끓는 물에 오징어를 넣고 1분~1분 30초 정도 데쳐 주세요.",
+		"6. 데친 오징어를 먹기 좋은 크기로 잘라서 준비해 주세요.",
+		"7. 브로콜리, 초고추장, 오징어를 그릇에 예쁘게 담아 한 그릇 요리를 완성해 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/0523c94be27e822387882bf84714b1681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/0ab32c25161951e9e9b552184d9964631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/08f59c8de12cef3fdb01f8f7bbd4107d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/4d9b7414b0ff86541c45f619d380a4291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/6a64f8613835d0ea4e771c01b613f2321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/8542d25480cf6104ff9e6c88b73cf74d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/43e0d3cf980635c0ce102571defebe6a1.jpg"
+	]
+}

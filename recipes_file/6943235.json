@@ -1,0 +1,88 @@
+{
+	"id": "6943235",
+	"name": "스팸요리는~ 스팸김치찌개가 딱이야!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/8834d09bd1b359184bb53134a45c4d011.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943235",
+	"ingredient_ids": [
+		3,
+		295,
+		27,
+		226,
+		333,
+		58,
+		327
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "묵은지김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "갈은마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 김치찌개 재료 준비 했어요 새송이버섯도1개 넣었는데 사진에서 빠졌네요ㅠㅠ",
+		"2. 냄비에 들기름 1~2스푼 넣어 줍니다",
+		"3. 묵은지를 넣고 달달 볶아 줍니다 김치가 야들야들하게 중불 에서 오래 볶아주는데 물기가 없어지면 김치국물을 조금씩 넣으면서 볶아주면 타지 않습니다",
+		"4. 김치가 다 볶아지면 물은 자작하게 부워 주고 양파와 버섯을 넣었어요",
+		"5. 다진마늘도 넣어 줍니다",
+		"6. 스팸을 넣어 주고",
+		"7. 중불에서 푹~끓여 줍니다 청양고추도 넣었어요",
+		"8. 저는 멸치액젓으로 간을 했어요 부족한 간은 새우젓이나 소금으로 취향에 따라 간을 해도 됩니다 고추가루를 넣지 않았는데도 칼칼하니 맛 있어요~~~ 스팸요리는 역시 김치찌개로~!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/9c834ec7fd163fb5560ce605e8b950ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/8261ed97dfe387c05111e8e8cd03e6b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/137c5649513bae515fe332e4ce1073d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/22b91c328c6ba5ed43344c7572a68fcb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/5b598fc32bfb15ecc8539d1ee6f574761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/df42401926c8e6cd31799702e7023c361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/fc1a170aa185effec60adbedd4c154dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/947b60ec9a5b5107918bfdbadd4ea7b11.jpg"
+	]
+}

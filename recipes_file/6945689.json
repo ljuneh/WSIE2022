@@ -1,0 +1,124 @@
+{
+	"id": "6945689",
+	"name": "모듬버섯덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/2f495fce85dbb7bf360c894b18d583911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945689",
+	"ingredient_ids": [
+		53,
+		56,
+		58,
+		27,
+		295,
+		665,
+		575,
+		224,
+		225,
+		660,
+		543,
+		995,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 표고버섯 2개, 새송이버섯 1개는 비슷한 크기로 썰고 느타리버섯 150g은 적당한 굵기로 찢어주고 대파 1/2대, 청양고추 1개, 홍고추 1개는 어슷썰어준다",
+		"2. 진간장 2T, 참치액 3T, 올리고당 1.5T, 고춧가루 0.5T, 후춧가루 톡톡 넣고 섞어 소스를 만들어준다",
+		"3. 팬에 기름을 넣고 대파를 먼저 볶아준다중불",
+		"4. 대파가 익으면 모든 버섯을 넣고 볶아준다중불",
+		"5. 버섯이 익으면 양념장을 모두 넣고 물 100ml를 넣고 끓여준다중불",
+		"6. 소스가 끓으면 전분가루 1T, 물 1T를 섞어 부어준다중불",
+		"7. 불을 끈 후 청양고추와 홍고추를 넣고 골고루 섞어준다",
+		"8. 마지막에 참기름 1T를 넣고 고루 섞어준다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/2a84728efb1b1b6811ff0d9e0ba9bd031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/80c55c0c2ca2e8dd6f88c434ca272e9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/21a239b2fff7187f2eed6ab72f8201fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/cd432f7da6f16794aa988a9d736be8a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/62ef3e32fe3d0a71bf338d0369cf5c271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/c0d2c76c329cddaeb27447ebc462d0be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/da3a6d600d6e73e93e14ef82534acbbe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/ada1d1f98060cf5ff505aea25e4eb9e31.jpg"
+	]
+}

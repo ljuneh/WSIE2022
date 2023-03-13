@@ -1,0 +1,97 @@
+{
+	"id": "1869008",
+	"name": "고소한 배추전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/09aa7741b8955c569851ddd29698f30b.jpg",
+	"url": "https://www.10000recipe.com/recipe/1869008",
+	"ingredient_ids": [
+		583,
+		387,
+		667,
+		497,
+		716,
+		504,
+		282,
+		379,
+		505,
+		543,
+		231
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "알배기배추",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찬물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "실고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 배추는 굵은소금 풀어서 2시간정도 절여두었어요.",
+		"2. 절여진 배추 잘 헹구어서 반죽을 앞.뒤로 묻혀주었지요.",
+		"3. 기름두른 팬에 앞, 뒤로 노릇노릇하게 구워주면 완성. 양념장과 실고추를 얹어서 곁들입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/acaee09bb9322624f0cc1a90bdbd2b1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/2952f68a62a84ccb52040f854d644f381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/1a12fec2f6548d97ed9297529621cd651.jpg"
+	]
+}

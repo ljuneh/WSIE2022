@@ -1,0 +1,45 @@
+{
+	"id": "6944272",
+	"name": "호떡믹스 시나몬롤 노오븐으로 굽굽했어요! 아이간식 추천",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/8a067d0b7282ef82d59ce126ea8025e91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944272",
+	"ingredient_ids": [
+		641,
+		995,
+		204
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "호떡믹스",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "250",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 호떡믹스에 들어있는 호떡믹스 반죽믹스와 이스트를 잘 섞어주세요.",
+		"2. 물 250ml를 넣고 반죽을해요.",
+		"3. 발효시간 필요없구요. 집에 있는 방망이로 반죽을 밀어주세요. 전 랩을 이용해 밀었어요. 피자 도우정도의 크기가 되면 됩니다.",
+		"4. 잼믹스를 잘 펴발라요. 이때! 가장자리는 남겨두세요.",
+		"5. 김밥 말듯 잘 말고 끝부분은 꼬집꼬집 눌러주세요.",
+		"6. 2cm정도 두께로 썰어서 식용유 두르고 뚜껑은 덮으시고 앞뒤로 잘 굽굽해주세요.중약불"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/b5238d83f0f57199d61b3c3c22d432e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/11b59e34e01e340a247dd912149c2b071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/8b0843e76344d19f1a6d794a391ba2361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/e3cab4789de42cc9142a3d14781150921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/7c783a8f34092a72dd08f53b604fe6131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/da086a2d0841024944c29efcba2a30951.jpg"
+	]
+}

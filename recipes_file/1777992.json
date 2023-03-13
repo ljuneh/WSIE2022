@@ -1,0 +1,58 @@
+{
+	"id": "1777992",
+	"name": "찰시루떡 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/c67e329701358afa25bb7fd9479d4e6f.jpg",
+	"url": "https://www.10000recipe.com/recipe/1777992",
+	"ingredient_ids": [
+		667,
+		226,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "팥고물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "cc"
+		}
+	],
+	"recipe": [
+		"1. 찹쌀가루1kg과 설탕100g,물 100cc,팥고물을 준비해 둡니다.",
+		"2. 찹쌀가루는 어레미(굵은체)에 한번 내려줍니다.",
+		"3. 물100cc를 넣고 고루 비벼줍니다.",
+		"4. 다시한번 어레미(굵은체)에 내려줍니다~ 어레미에 내리면 떡이 빨리 쉬는걸 예방해주는 효과가 있어요.",
+		"5. 설탕을 고루~ 잘 섞어줍니다.",
+		"6. 찜기바닥에 시루밑이나 얇은 면보 종이시루밑등을 깔아주고 팥고물을 뿌려줍니다~ 요면이 시루떡 젤 윗면이 되니깐 고루 잘~~깔아줍니다 만일 달게 시루떡을 드시고 싶다면~팥고물위에 설탕을 조금씩 뿌려주세요~ 방앗간에선 그렇게 한답니다~",
+		"7. 쌀가루를 반으로 나눠서 고루 뿌려 모양을 잡습니다.",
+		"8. 그위에 팥고물을 뿌려줍니다. 그리 촘촘하게 뿌릴 필요는 없는데~그래도 잘 뿌려주세요. 위단과 아랫단이 분리 될수있도록이요.",
+		"9. 다시 위에 쌀가루를 올리고~그위에 팥고물을 솔솔~뿌려줍니다~ 이건 뒤집으면 젤 밑면이니깐 고루 촘촘하게 뿌리진 않아도 되요~ 그리고 젓가락같은걸로~구멍을 송송~~여러군데 찔러주세요~ 수증기가 통할 구멍이요~ 그래야 고루 잘~익는답니다~^^ 요거 빼먹음 안익어요~!",
+		"10. 반드시~면보로 뚜껑을 싸서 물이 팔팔~~끓은 찜기에 올려줍니다. 30분 쪄줍니다. 뒤집어서 꺼내면 잘 익어있을꺼에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/c28b1b51d69d1ce62a6e7cc9dcb053371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/5547f754699ac4610e82923e61abdc591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/590d15ab794b5ad0d576cc05e6f4a76d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/c30af81c83b95ba81f184bf0640397431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/541622293d9e8756d796558a05dde3701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/d47b8f38c1c6669d1ee093704952a6101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/b9f7c5e53fdc3cf20e5a60361c32adc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/0f79386316a7bb58324f0a2234f415fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/6c52252044a01dd523abaaafc74ba1961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/d2e96c3132de5a6801ab11e9fd6304321.jpg"
+	]
+}

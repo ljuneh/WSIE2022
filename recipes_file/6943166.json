@@ -1,0 +1,67 @@
+{
+	"id": "6943166",
+	"name": "홈메이드 펄슈가 뿌린 슈케트 만들기 chouquette",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/5405d89194643cb86244d3ee303b81651.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943166",
+	"ingredient_ids": [
+		198,
+		995,
+		234,
+		226,
+		219,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "버터",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "250",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 버터, 물, 설탕, 소금을 모두 넣고 버터를 녹이면서 끓여주세요.오븐은 190도 베이킹모드 (팬+위아래 열선) 혹은 일반 모드로 예열하세요. 저는 베이킹모드로 했어요.",
+		"2. 살짝 끓으면, 밀가루를 몽땅 넣고 힘차게 섞어주세요. 덩어리가 생기지 않게 신경쓰며 섞어주세요. 중약불저는 이번에 실수를 했어요. 알고보니 버너 불이 꺼졌더라구요. 초기 열로 버터가 녹긴 녹았는데 살짝 끓을 정도로 뜨겁지 않았어요. 그래서 반죽이 물같이 나왔답니다. 하지만, 실수해도 괜찮아요. 반죽을 버려야하나 싶었는데 괜찮은 슈케트가 나왔어요. ",
+		"3. 반죽을 약불에 올리고, 스파출라로 뒤적이며 수분을 날려주세요. 공을 만든다는 느낌으로요. 수분을 잘 날려야 슈가 가라앉지 않는답니다.약불냄비와 스파출라에 달라붙지 않으면 잘 된거에요. ",
+		"4. 볼에 옮겨담고, 얇게 펴주어서 5분 정도 식혀주세요.",
+		"5. 이제 계란을 1개 깨서 넣고, 섞어주기를 반복해요. 다섯개 모두 넣을 때 까지 반복해요.반죽에 계란이 완전히 흡수 된 후에 계란을 추가하세요!",
+		"6. 지막 5개까지 전부 넣고 섞어주면 이렇게 되직하면서도 부드러운 반죽이 완성되어요.",
+		"7. 보통은 짤로 하는데, 짤이 없으신 분들도 많고 저처럼 짤 사용이 귀찮은 사람들도 있죠. 숟가락 두개로 했어요. ☞ 양은 숟가락 1/4정도로 잡는게 좋은 사이즈 같아요.부풀어 오르니까 사이사이 간격을 넓게 주시는게 좋아요.",
+		"8. 직접 만든 펄슈가를 후하게 뿌려주고, 오븐에 20~30분 구워주면 된답니다. 오븐 시간은 오븐에 따라 상이해요. DIY펄슈가 레시피도 올려두었으니 참고하세요.오븐절대로 중간에 오븐을 열거나, 익자마자 오븐 문을 확 열지 마세요. 슈가 가라앉는 원인이 된답니다. 오븐 문을 살짝 열어서 열기를 천천히 빼준 뒤에 꺼내니까 가라앉는 일이 줄어들었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/20e185f030572236a1b8e3086c7146221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/ae58f216a85cec9a349399c92e905c861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/e451ad66c6cacf82a2a52eaad20ee4d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/a2a3dff95b048e50078a622d98f5f6f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/117fcc5a122490de2a1daa6f2f4b4fb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/08e95bdac488d263108a1d2a999269551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/ad99e18a6b59463143fc771216d7ee0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/f788195f72172a9f376563cd4a5511e91.jpg"
+	]
+}

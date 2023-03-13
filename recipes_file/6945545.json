@@ -1,0 +1,80 @@
+{
+	"id": "6945545",
+	"name": "칠리소스 활용 요리 칠리 탕수육 만드는 법 칠리 탕수육 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/6cc2111fcaf5a8224baeb35ec66b7b0a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945545",
+	"ingredient_ids": [
+		3,
+		9,
+		233,
+		724,
+		477
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "탕수육",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "스위트칠리소스",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노랑파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빨강파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 탕수육을 기름에 넣어 4분 정도 튀겨주세요170℃",
+		"2. 4분 정도 튀겨준 탕수육은 건져내 주신 다음에 키친타월 등에 올려주어 기름을 빼주시고 바삭한 튀김 식감을 위해서 기름에 다시 한번 넣어주어 1분 정도 추가로 튀겨주세요 그리고 1분 정도 추가로 튀겨준 탕수육도 똑같이 건져내 주신 다음에 키친타월 등에 올려주어 기름을 빼주세요",
+		"3. 프라이팬에 기름을 둘러주신 다음에 스위트 칠리소스, 양파, 당근, 노랑 파프리카, 빨강 파프리카, 케찹, 다진 마늘, 굴소스를 넣고 볶아주세요소스 농도가 맞지 않으신 분들께서는 전분물을 조금씩 부어주어 농도를 맞춰주세요",
+		"4. 탕수육을 넣고 탕수육에 소스가 골고루 묻을 수 있도록 볶아주세요",
+		"5. 완성된 칠리 탕수육은 그릇에 담아 예쁘게 플레이팅 해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/1d6b1ed2562a74715c7bbc7176aa27f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/d05f039db2684c78c3371c03451586961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/d44933aece7cc0b5149b3f990079eb511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c5b6a9437e348af6f031617fd26f10741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/8d23f5b57ccc056f417d1c2a590b5ff31.jpg"
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"id": "6838910",
+	"name": "호박죽 만드는 법 - 자취요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/42742d5ed13d0021734a13ee990b63c61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838910",
+	"ingredient_ids": [
+		355,
+		667,
+		226,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "늙은호박",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "6",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 채썰어진 늙은 호박과 찹쌀가루 3T를 보울에 준비합니다.",
+		"2. 찹쌀가루에 데운 물을 조금씩 뿌려가면서 찹쌀가루 반죽을 만들어 줍니다.",
+		"3. 반죽한 찹쌀 가루를 새알모양으로 만들어 줍니다.",
+		"4. 끓는물에 늙은호박을 넣어 푹 끓여서 익혀 줍니다.",
+		"5. 호박이 다익으면 호박을 믹서기에 넣고 물 1.5컵을 넣고 갈아줍니다.",
+		"6. 갈아준 호박을 냄비에 넣고 중약불로 끓여 줍니다.",
+		"7. 끓이는 동안 물 1/2컵에 찹쌀가루를 넣고 풀어줍니다.",
+		"8. 호박물이 끓으면 찹쌀가루를 풀어 놓은 물을 부어 줍니다.",
+		"9. 새알을 넣고 넣어준 새알과 찹쌀이 익어서 색깔이 투명한 노랑색으로 변하면 완성!",
+		"10. 완성된 호박죽에 설탕 6T 소금 1t를 넣고 취향에 맞게 간을해서 마무리~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/82f741ea029093c648ef6fd004d6b07f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/3515f7d864df69956da6cc057fc004271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/d01a080007841a3d4834c187e581d58f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/4f0c9d7cd70c7997c931225d53dc27911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/718f1ebdd5c41a6f2634ab5fdb2d122d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/b0b309326e281d8cf1bddd33475a27461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/d51ab2d4eb6f8a99c9d7842b50b9b76f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/404c535258604430060cee55025d547c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/65be48c93a963928f407ca311b98d3d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/6e655daa26872ea57a870e2dcb5c850b1.jpg"
+	]
+}

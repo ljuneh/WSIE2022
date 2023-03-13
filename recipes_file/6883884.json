@@ -1,0 +1,92 @@
+{
+	"id": "6883884",
+	"name": "토마토 스파게티 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/12/9774f922a557f88cba7c8c08a1041c6f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6883884",
+	"ingredient_ids": [
+		406,
+		563,
+		371,
+		3,
+		735,
+		214,
+		995,
+		865,
+		574
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "칵테일새우",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "10~15개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "스파게티소스",
+			"ingre_count": "1",
+			"ingre_unit": "병"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "솔솔"
+		}
+	],
+	"recipe": [
+		"1. 칵테일새우와 베이컨은 뜨거운 물에 잠시 담구었다  흐르는물에 한두번 헹구어 준비해요 면 삶을 물도 재료 준비하는 동안 냄비에 준비해서 끓여요",
+		"2. 양파는 다지고 방울토마토는 1/4등분으로 잘라요",
+		"3. 달궈진 후라이팬에 올리브유를 넉넉히 두르고 방울토마토와 양파를 먼저 볶아요",
+		"4. 양파와 방울토마토가 어느정도 익으면 베이컨과 새우에 후추를 솔솔 조금만 뿌려 볶아줘요",
+		"5. 모든재료가 잘 볶아지면  시판용 스파게티 소스 한병을 모두부어 5분정도 저어가며 볶아줘요 요로케 소스는 완성",
+		"6. 물이 끓어오르면 올리브유를 살짝 두르고 면을 넣기 전 아이들이 먹기좋게 반으로 뿌러트려 뭉치지않게 잘 넣어요 젓가락으로 가끔 저어줘야 엉겨붙지 않아요 15~20분정도 삶아요",
+		"7. 면을 체반에 넣고 물기를 빼고 올리브유를 살짝뿌려 불지않게해요  (스파게티면은 찬물에 씻지 않아요)",
+		"8. 준비되어있던 소스에 면을 넣고 중불에서 면에 양념이 잘 베도록 잘 섞어줘요 이때 올리브유를 넉넉히 더 둘러주면 촉촉한 스파게티를 먹을수 있어요^^",
+		"9. 마지막에 슬라이스 치즈 두장을 올려 녹아들면 잘 섞어 접시에 담으면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/12/08c4de88f8e7e7739001864663870eba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/12/5806ee4c98bf3aed6ae7c12f3d5250311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/12/580ee35ba742b9853651867f30c3cc801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/12/c57602ae4b59974b2d5164aa94fcc5421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/12/cddd3ffa54e2cec34c0f122951cf2e9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/12/d7e24037b7583a82880f3034c7522db91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/12/5dbf640f69dde34fdfb3eaeaebf959d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/12/b8a7530e22c7fb1c23e9d2a12aa6e6561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/12/2245a8529c65a72fc24d13f962511c2d1.jpg"
+	]
+}

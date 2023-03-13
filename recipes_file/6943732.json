@@ -1,0 +1,68 @@
+{
+	"id": "6943732",
+	"name": "간장어묵볶음 만들기 / 밑반찬 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/f0ae93c662a6d4978bb9fc611d4920201.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943732",
+	"ingredient_ids": [
+		548,
+		3,
+		379,
+		575,
+		292,
+		226,
+		477
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 식용유를 두르고 양파를 볶아주세요.",
+		"2. 어묵을 넣고 타지 않게 살짝 볶아주세요.중약불",
+		"3. 간장, 올리고당, 맛술, 설탕, 굴소스를 넣고 볶아준 뒤 참깨를 뿌려 마무리해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/1b5859c73eb21908545ee9a7955020ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/7c4219345a642d61192fb0485b3876fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/9a959c2f40db1e0ef8d8aea3935f34c11.jpg"
+	]
+}

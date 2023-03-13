@@ -1,0 +1,77 @@
+{
+	"id": "4406728",
+	"name": "초보주부도 쉽게 동치미 담그는 법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/d6f9f5d8208a376f354d43b4dbc2444b.jpg",
+	"url": "https://www.10000recipe.com/recipe/4406728",
+	"ingredient_ids": [
+		925,
+		757,
+		28,
+		29,
+		158,
+		142,
+		497
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "동치미무",
+			"ingre_count": "1",
+			"ingre_unit": "다발"
+		},
+		{
+			"ingre_name": "갓",
+			"ingre_count": "1/3",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1/3",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "삭힌고추",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 무를 무청과 분리해서 잘 씻어줍니다.",
+		"2. 천일염을 깔고 무를 굴려서 소금을 묻혀주세요. 물이 조금 묻은 상태에서 굴려주면 좋아요.",
+		"3. 차곡차곡 장독에 넣어서 하룻밤을 절여줍니다.",
+		"4. 베보자기에 배, 마늘, 생강,갓, 쪽파,대파,사과를 넣고 잘 메어서 넣어줄거에요.",
+		"5. 베보자기를 넣고 삭힌고추도 넣고 생수에 천일염을 타서 물을 부어줍니다. 무가 떠오르지않게 무거운 돌로 눌러줍니다. 상온에 2~3일정도 두면 익을거에요. 익는냄새가 나면 김치냉장고에 옮겨서 보름정도 숙성시켰다가 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/22/c7adaf3963f5ca410b5565b13c1d6c471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/22/0231f1190683fec14acc59cbf317aeda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/22/be4ff6ea2ed4ad0a326bdfa5779dcc7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/22/b2e730d2987d42066da481e0fb49c3461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/22/f588571894aa4f1cfd78262998cf91d01.jpg"
+	]
+}

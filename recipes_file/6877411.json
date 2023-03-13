@@ -1,0 +1,75 @@
+{
+	"id": "6877411",
+	"name": "명절음식 도라지나물 볶기 간단한 엄마레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/cf43ca6d6e4644239378cb64b596462d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6877411",
+	"ingredient_ids": [
+		38,
+		27,
+		29,
+		497,
+		660,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "도라지",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "빨강청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유각각",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 도라지에 천일염 1T를 넣고 박박 문질러",
+		"2. 서너번 물에 씻어 소쿠리에 건져놓고",
+		"3. 씻어놓은 도라지를 4cm길이로 썰어 놓는다",
+		"4. 붉은고추와 대파를 어슷썰기 해 놓고",
+		"5. 나머지 양념중 참기름만 빼 놓고 모두 넣고서",
+		"6. 중불에서 도라지를 볶아낸다",
+		"7. 맛있는 도라지 나물 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/4935521362287f9c39b0cb3e36247ee71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/caa3db6e69a77bea6f52fb23bc97063d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/36ffa1667ca7eec18c2330a535fbcc9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/dfc3d62b3add90ee66027e98e3f708d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/077e907e098322c37df618569258eb5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/fff4173f396efe2e84fd079e3817ea181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/eb14dd8609e1b3188deeaac7c176896d1.jpg"
+	]
+}

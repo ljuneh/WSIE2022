@@ -1,0 +1,39 @@
+{
+	"id": "6918179",
+	"name": "아로니아쨈",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/08/25/9b2911b0a304805b383e610aed5c1abe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6918179",
+	"ingredient_ids": [
+		694
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "아로니아",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "바나나-잘익은것으로1개~",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕반컵~",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 아로니아 꼭지따기 ㅡ 씻기 ㅡ 체에 받쳐 물기 제거",
+		"2. 아로니아 2컵 + 바나나1개 + 설탕1/2컵 ** 달달한 쨈같은 맛 원하시면 설탕 추가하세요 설탕을 늘리기 싫으심 바나나를 더 넣으셔도 좋습니다 반컵만 했더니 아이 입맛엔 별루라네요",
+		"3. 믹서에 갈아줍니다  아로니아 으깨기 힘들어요 미리 갈아주면 편합니다 냄비에 쏟아 중불에 끓입니다",
+		"4. 식힌 후 병에 담아줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/25/03c9d50a7740196abd4e0de5c574e78a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/25/04d1dd317ecc4e7572ab4b604b9c03ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/25/64bd2de6227e1ace85f78be3acf7efce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/25/1802b2a299cf95683047df8ac85f52bc1.jpg"
+	]
+}

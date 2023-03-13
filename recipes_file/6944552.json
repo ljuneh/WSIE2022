@@ -1,0 +1,86 @@
+{
+	"id": "6944552",
+	"name": " 매운감자조림 감자요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/28fb26e798fb677eff3b00201f4322e51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944552",
+	"ingredient_ids": [
+		5,
+		27,
+		3,
+		9,
+		295,
+		473,
+		233,
+		228
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰스푼"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 양파와 당근은 깍뚝 썰어주시고, 파와 청양고추는 총총 썰어줍니다.",
+		"2. 고추장, 진간장, 다진마늘, 마요네즈는 한군데 잘 섞어주세요",
+		"3. 감자도 깍둑 썰어줍니다.",
+		"4. 그리고 전분기 제거를 위해서 찬물에 20분정도 담궈둡니다.전분기가 있으면 식용유를 둘러도 팬에 다 들러붙어요. 그러니까 꼭 제거해주시는게 좋아요.",
+		"5. 감자를 뺀 양파, 당근, 파, 청양고추를 한군데 모은 후 양념장을 넣고 버무려줍니다.",
+		"6. 전분기를 제거한 감자는 식용유를 두른 팬에 넣고 볶아주세요약불",
+		"7. 그리고 뚜껑을 덮고 중간중간 섞어주면서 뚜껑을 꼭 덮어주세요약불감자를 삶거나 찌지 않고 이렇게 바로 익히는 경우 속까지 안 익거나 풀어지는 경우가 많은데요. 무조건 약불에서 뭉근하게 끝까지 익혀주시고, 속까지 완전히 익히기 위해서는 뚜껑을 덮어주셔야해요.",
+		"8. 감자를 찔러봤을때 약간 걸리지만 안쪽가지 들어간다. 그러면 양념장을 넣고 약불에서 5~8분정도 계속 볶아줍니다.약불",
+		"9. 접시에 담아서 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/3fe1d1b30b36cd5adde72bc00c6658611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/cf3f8ff8be3c68d6094849ff79eb354e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/4339fef1b948c64385edd0b6834a452c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/6dd3439abf68040f40526fd92854c11a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/1aa43439cd870ecbb090af0516e6c4c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/909d35aa161bd26667aecfb814db9f491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/d51702e6f79197b819d2b4aa839ebf481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/f9050aa99cdc804031e241f5c0cff22c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/2813b433f4f6fa1bb94a4c1164cbb8281.jpg"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"id": "6841483",
+	"name": "라면볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/12/dfc33cf70bae37b39723e62bab87c2451.jpg",
+	"url": "https://www.10000recipe.com/recipe/6841483",
+	"ingredient_ids": [
+		441
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "라면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 끓인 물에 건더기 스프 와 면을 넣어 줍니다",
+		"2. 다 끓었으면 물을 빼줍니다",
+		"3. 그 다음 분말스프를 넣으며 골구루섞어줍니다 불위에서!!",
+		"4. 그다음은먹으면됩니당"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/12/e49fbfe323058d07426455ebafc862b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/12/f03de8db46c0f3ca1777fcefb1ab23c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/12/abc135c72cbbfddb22fd16e3499a3aad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/12/b3b35a84325c0cdb513b2ec69f217bf21.jpg"
+	]
+}

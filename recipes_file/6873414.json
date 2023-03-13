@@ -1,0 +1,83 @@
+{
+	"id": "6873414",
+	"name": "냉동실 절편으로 만든 떡복기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/7efd531892303a7360aa2ffd6277d75a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6873414",
+	"ingredient_ids": [
+		379,
+		665,
+		995,
+		27,
+		473,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "냉동실절편​",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "불린당면",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "​다시마가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 냉동 절편을 한입크기로 썰어놓고",
+		"2. 궁중팬에 위에 양념을 넣고,큼직하게 썬 대파잎도 넣고",
+		"3. 끓으면 떡을 넣고 끓이다가",
+		"4. 불린 당면을 넣고 끓입니다당면은 미리 불려서 냉장고에 보관 했다가 사용하시면 됩니다.",
+		"5. 송송썬 대파도 넣고 끓입니다.",
+		"6. 완성접시에 담아 냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/561378fcb0ce3a215e534cf58d552e191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/4dbdbad673c5422633956b9ee2c28af51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/a7b8dcbaa720db0a300b3924a1b66a161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/e005969277415e82af7a48a205af057d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/503304a279fe0e61599309e52172d61d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/29343f58e6d4d47beb518885ac00b2331.jpg"
+	]
+}

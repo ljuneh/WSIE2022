@@ -1,0 +1,114 @@
+{
+	"id": "681500",
+	"name": "닭봉케찹조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/85544897953532c510af614db081cc42.jpg",
+	"url": "https://www.10000recipe.com/recipe/681500",
+	"ingredient_ids": [
+		804,
+		3,
+		198,
+		194,
+		608,
+		995,
+		225,
+		724,
+		514,
+		538,
+		526,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "닭봉",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "120",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "7",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "우스터소스",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "핫소스",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "현미식초",
+			"ingre_count": "2",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "요리당",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "TS"
+		}
+	],
+	"recipe": [
+		"1. 닭봉을 볼에 담고 우유를 붓고, 후춧가루를 넣어 30분정도 재워두세요.우유가 닭고기의 누린내와 잡내를 없애준답니다.저는 저렇게해서 냉장고에 넣어두었어요.",
+		"2. 우유에 재워두었던 닭봉은 찬물에 헹구어 물기를 제거한뒤 오븐팬에 석쇠를 올린뒤 석쇠에 오일을 조금 발라준뒤 닭봉을 올려주세요. 230도로 예열된 오븐에서 30분정도 구워주세요. 중간에 한번 뒤집어주시구요.오븐",
+		"3. 닭봉을 뒤집어준뒤 조림양념장을 만드세요. 달구어진 프라이팬에 버터를 넣고 녹이다 잘게다진 양파를 넣고 볶아주세요. 분량의 조림양념재료를 넣고 물도 넣고 끓여주세요. 월계수잎도 넣고 뽀글뽀글 끓여주세요.",
+		"4. 조림양념장을 만드는 동안 닭봉이 맛나게 익혀져있네요.",
+		"5. 뽀글뽀글 끓인 조림양념장에 오븐에서 막 나온 닭봉과 미리 전처리를 해둔 호두를 넣고 조려주세요.",
+		"6. 빨간 양념장에 새콤한 닭봉이 나왔네요. 호두가 닭봉과 마구 섞여 자기가 호두라는걸 잊어버린 새콤고소한 호두."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/25/18b71b6a0db73173932636b67116eec01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/25/c0462c9e6c01393e9deaa9e9d29634a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/25/d3d7e666318be18046cf2dbfd42f13c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/25/7b5bb85e235c662cf2067683f30e9b101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/25/bdcbd17993db8e251a2aabe250c43a6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/25/1fa9e22ba9c160794bb41475183f430e1.jpg"
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"id": "6945583",
+	"name": "밥솥 애호박볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/b0d0192f577178b1239ed166a6a1f6101.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945583",
+	"ingredient_ids": [
+		7,
+		3,
+		390,
+		504,
+		224,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 애호박 혹은 쥬키니를 두껍게 채로 썰어주세요",
+		"2. 양파 1/4개를 가늘게 채썰어주세요",
+		"3. 밥솥에 식용유 2T 깔고 양파썬 것과 마늘가루1t(혹은 다진 마늘 1T) 넣어주세요",
+		"4. 애호박 썬 것과 새우젓 2t, 고춧가루 1꼬집 넣고 잘 섞어준 후 재가열 9분 해주세요  *새우젓을 고르게 섞어주시려면 손으로 버무려주시는게 좋아요",
+		"5. 완성이에요. 참기름 1t 넣고 뜨거운 상태에서 잘 저어주세요",
+		"6. 밥반찬으로 냉장고에 두면서 꺼내드세요. 통깨 솔솔 뿌려서 고소하게 드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/45b1fa83170b9e6ab4dc82d4dddaa43d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/758aa81264eb6919f9b0ea2c7d027c541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/6e6906b1ee1686d6c51e00fe2e7d9ce61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/b996fc97df109221655982b90f655d361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/f96c13eeb5a25c52260decdb04a8fffd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/eac2d3bd4d76b390dc10a1c9e4f28fa41.jpg"
+	]
+}

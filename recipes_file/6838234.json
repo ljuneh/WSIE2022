@@ -1,0 +1,54 @@
+{
+	"id": "6838234",
+	"name": "포실포실한 감자햄볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/11ad8c58d486992b2d15d4c50d2c38641.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838234",
+	"ingredient_ids": [
+		5,
+		628,
+		575,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "1/3",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 캔을 따서 흐르는 물에 살짝 씻어주면 햄이 쏙 빠져나온답니다.",
+		"2. 감자와 햄은 깍둑썰기를 해주었어요.",
+		"3. 감자는 물을 넣고 거의 다 익을 정도로 삶아주세요.",
+		"4. 프라이팬에 익은 감자와 햄을 넣고 올리고당과 진간장을 넣어 볶아주세요.",
+		"5. 기호에 따라서 후춧가루를 뿌려주세요. 감자와 함께 볶아놓으니까 도시락 반찬으로도 좋고 간단하게 만들어 먹기 좋아요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/32b8d4506cefe69b82a194cad2e41b8a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/dbca99a0b2d63273437cf00434f677011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/97810c1bbedc8eaab6a7fe9f356c9fce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/594dddf22d96ea5cf2430664232893df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/75ca850f5dd6a4673d44376569d6a53b1.jpg"
+	]
+}

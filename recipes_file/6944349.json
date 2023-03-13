@@ -1,0 +1,52 @@
+{
+	"id": "6944349",
+	"name": "국요리 저녁요리 참치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/72986d795d5a430944fae192492eb4601.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944349",
+	"ingredient_ids": [
+		659,
+		3,
+		953,
+		233
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1/3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 먼저 파와물을 넣고 준비한다",
+		"2. 그리고 양파를 썰고 또 다른 재료 있으면 썰어 넣는다 그리고 참치와 함께 준비한다",
+		"3. 그리고 가스레인지 키고 물 끓을때 까지 준비 한다",
+		"4. 다 끓으면 좀 더 기다린다음 마무리 한다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/55c683609db40908512c711e22e25d661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/5d08d0b12f2d55b0bd4a9ec78f482ab11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/49a0f545a85e16d74cb942299f5b1e501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/fc34218c8f6f9c63e1d65884e455efb41.jpg"
+	]
+}

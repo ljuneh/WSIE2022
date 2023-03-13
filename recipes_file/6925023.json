@@ -1,0 +1,89 @@
+{
+	"id": "6925023",
+	"name": "간식으로 딱 좋은, 닭가슴살로 만든 치킨핫바",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/01/15/d0bf81db8edcf276c71e383507bdf6a31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6925023",
+	"ingredient_ids": [
+		300,
+		497,
+		972,
+		289,
+		15
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "160",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물기제거한두부",
+			"ingre_count": "75",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "체다슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "약간의(당근부추)",
+			"ingre_count": "",
+			"ingre_unit": "채소"
+		},
+		{
+			"ingre_name": "꼬치",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 닭가슴살을 적당한 크기로 잘라 믹서기에 담아주세요.",
+		"2. 맛살은 반으로 잘라 4조각을 만들어 줍니다. 빨간 부분만 따로 떼어놓고 나머지 부분은 믹서기에 담아둡니다.",
+		"3. 닭가슴살과 맛살을 믹서기에 담고 갈아주세요. 갈아둔 재료를 볼에 담아 둡니다.",
+		"4. 준비된 약간의 채소도 잘게 썰어 담아줍니다",
+		"5. 물기를 제거한 두부, 소금도 담아둡니다.",
+		"6. 꼬치에 말랑한 떡을 꽂아 줍니다.",
+		"7. 볼에 담긴 재료들을 주물러 골고루 섞어줍니다. 골고루 섞인 재료를 4등분 해줍니다.",
+		"8. 한 덩어리의 반죽을 스패츌러를 이용해 직사각형 모양으로 펴주세요. 깻잎, 치즈, 떡을 차례로 올려줍니다.",
+		"9. 스크래퍼를 이용해 돌돌 말아 주세요. 위, 아랫부분은 손으로 마무리해 줍니다. ",
+		"10. 남겨둔 맛살의 빨간 부분을 얹어 줍니다.",
+		"11. 오일을 두른 오븐 팬에 올려주세요. 핫바의 윗면에도 오일을 발라줍니다.",
+		"12. 210℃ 오븐에서 15분~20분 구워줍니다. 오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/15/f1ec5b0aa3fc4aadb59f1c4f4a3397691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/15/203bdc8604ee9e438b2a7ab9c3ec9c741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/15/ee21efb8335a42e7e303c92a1a3c32561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/15/960fb21c649b6adcff5fd0a168144e7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/15/331b2a597d3a82934a7d13aaf820d6121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/15/72a93f8892544c5bb427706bdf6b6d8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/15/b8b2999ac13ccbbd69fde5b92d86cd721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/15/f05309f283a06c159378751f317107871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/15/60417bb8f6cf843aa87ddf84b621756a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/15/f797caeb0595f26a2441f863aaf1c3811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/15/d37ae7a0a7224afc7456a29ff55d51751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/15/27eedb7ff5fd5f86c7991a5042f4f0351.jpg"
+	]
+}

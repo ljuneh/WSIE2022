@@ -1,0 +1,87 @@
+{
+	"id": "2019882",
+	"name": "참치볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/3d93dbed520d39a5eb03d13d34b3c50c.jpg",
+	"url": "https://www.10000recipe.com/recipe/2019882",
+	"ingredient_ids": [
+		21,
+		3,
+		27,
+		477,
+		497,
+		432,
+		266
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "참치작은거",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "0.",
+			"ingre_unit": ".공기"
+		},
+		{
+			"ingre_name": "계란(선택)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "스테이크소스",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 양배추와 양파는 잘게 잘라둡니다.",
+		"2. 달군팬에 오일 1큰술 두르고 양파와 양배추, 대파를 볶아줍니다.",
+		"3. 야채가 투명하게 익어가면 참치를 넣고 후춧가루와 소금 한꼬집정도 약간만 뿌려주고 잠시 볶아주다가 밥을 넣고 골고루 잘볶아줍니다.",
+		"4. 굴소스1큰술을 넣어 간을 한뒤 골고루 잠시더 볶아주면 완성입니다. 굴소스 없으면 간장넣으시면 되요. 볶음밥은 센불에 후다닥 볶아주는게 고슬고슬 맛있답니다.",
+		"5. 밥위에 달걀 프라이와 소스를 뿌려드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/43f91707f578d18362d58f06171648671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/106747f93c4e0440f1ec74fb2faee1a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/dc40e5e3a97d5585b94ff9aea1a3497f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/e9ee48692092cd10a570c1ac3ef55a431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/c207e56ed84bd926d492baf7365cbc0d1.jpg"
+	]
+}

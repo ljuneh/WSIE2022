@@ -1,0 +1,48 @@
+{
+	"id": "6807072",
+	"name": "냉이 된장찌개 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/8085f5453e302fd8652768741806c4ce1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6807072",
+	"ingredient_ids": [
+		3,
+		7,
+		323
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "냉이된장찌개양념(시판용)",
+			"ingre_count": "찌개양념(시판용)",
+			"ingre_unit": "찌개양념(시판용)"
+		}
+	],
+	"recipe": [
+		"1. 냉이 된장 찌개 양념을 준비하고, 양파 1/2개, 애호박 1/2개, 두부 1/2모, 대파는 적당한 크기로 썰어 줍니다.",
+		"2. 뚝배기에 물 400cc를 넣고 끓여주세요.",
+		"3. 냉이 된장찌개 양념과 양파를 넣고 센 불에서 끓여줬네요.",
+		"4. 끓어오르면 두부와 애호박을 넣어줬어요.",
+		"5. 된장찌개에 들어가는 대파는 이렇게 두툼하게 썰어서 넣어줘야 더 맛있어요~ 팔팔 끓여주세요. 매콤한 걸 원하시면 청양고추를 넣어주세요~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/9e211244851f29810457c68231d1e7cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/cade1d73499f465383d778587b4598011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/f451a79eb0059507cfb4d7d6b1bdd6431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/adbec00d71b04295fa27547ec27392461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/7a383bfedea9087b0f9f961c7b319f9f1.jpg"
+	]
+}

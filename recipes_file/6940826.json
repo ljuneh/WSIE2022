@@ -1,0 +1,84 @@
+{
+	"id": "6940826",
+	"name": "게살수프 느낌으로....맛살 계란국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/866bddbb95d861bed14434d76f8ce5611.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940826",
+	"ingredient_ids": [
+		55,
+		27,
+		497,
+		383,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "길이가짧은맛살",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "​다시마멸치육수",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "국간장1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "감자전분",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 길이가 짧은 맛살 5개를 결대로 찢어 담아 줍니다. 팽이 버섯 1봉지는 밑동을 자르고 가닥가닥 떼어 담아 줍니다. 대파 1대를 준비해 흰부분을 길게 어슷 썰어 담아 줍니다. ",
+		"2. 그리고 냄비에 다시마 멸치육수 4컵을 부어 줍니다. ",
+		"3.   그리고 국간장 1 + 1/2큰술을 넣고 끓여 줍니다.",
+		"4. 국물이 전체적으로 고르게 팔팔 끓으면 대파 초록부분을 어슷 썰어 넣어 줍니다.",
+		"5.   그리고 계란 1개에 소금 한 꼬집을 넣고 알끈 없이 고루 잘 풀어 준 후 팔팔 끓는 국물에 넣고 덩어리 지지않게 한번 고루 저어 줍니다.",
+		"6.   그리고 감자전분 1/2큰술 + 물 2큰술로 섞어 만든 전분 물을 넣고 고루 저어 줍니다. ",
+		"7. 그리고 마지막으로 후추약간을 넣어 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/01a266e676edbaecbc9cc34287cddb3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/6da6b7749ced748133a31deffbca9cca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/e068d318b201f5a49d0fe28356743acb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/253c7d6d69c5efaf4c6258476ff723d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/05e40fb21ce7759a76f4d817f185f0f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/19c3ed66949515a52dd68727c90cb7a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/13474d5058d620275eb94658238dc1391.jpg"
+	]
+}

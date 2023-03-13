@@ -1,0 +1,75 @@
+{
+	"id": "2737364",
+	"name": "골드 키위와 쥬스와 그린 키위 쥬스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/04/e65e2b8ff574ede0bc4151be83f99ce5.jpg",
+	"url": "https://www.10000recipe.com/recipe/2737364",
+	"ingredient_ids": [
+		995,
+		938,
+		575,
+		995,
+		575
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "골드키위1+1/2개",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "그린키위",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 골드 키위 쥬스 : 믹서기에 썰어둔 골드 키위를 넣는다.",
+		"2. 올리고당과 매실청을 넣는다. 레몬즙을 몇방울 떨어뜨려주면 더욱 맛있어진다.",
+		"3. 물과 얼음을 넣고 갈아준다.",
+		"4. 그린 키위 쥬스 : 믹서기에 썰어둔 그린 키위를 넣고 올리고당을 골드 키위보다 조금 더 넣는다. 그린키위는 골드키위보다 새콤하기 때문, 키위의 향긋함을 맛보려면 레몬즙이나 꿀 같이 향이 강한 재료는 넣지 않는게 좋다.",
+		"5. 물과 얼음을 넣고 갈아준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/d178c7d71775d15f996c6f66c6197ff31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/b3a89879499b2ebde46969e3485c4c7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/529deaa67ec30801af80c186e95b15aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/e2e48c0435e1c77dc298c65b76b979ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/20864d474d84205aecdc71f9b43456841.jpg"
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"id": "6886805",
+	"name": "소세지 야채볶음 아니 아니~ 닭 야채볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/3ee35c8c93d758cef75f3b1790ae09581.jpg",
+	"url": "https://www.10000recipe.com/recipe/6886805",
+	"ingredient_ids": [
+		3,
+		9,
+		22,
+		514,
+		473,
+		575
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살볼200g(10개)",
+			"ingre_count": "200g(10개)",
+			"ingre_unit": "g(개)"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "핫소스",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 닭가슴살 볼 200g..10개를 반으로 잘라 준비했습니다.",
+		"2. 양파 1/2개를 준비해 한겹씩 벗겨 닭볼 크기에 맞춰 네모나게 잘라 주었습니다.",
+		"3. 당근 1/4개, 피망 1/2개를 씨를 빼고 크기에 맞춰 네모나게 잘라 줍니다.",
+		"4. 케첩 4큰술, 핫소스 1/2큰술, 고추장 1/2큰술, 올리고당 1/2큰술을 섞어 소스를 만들어 줍니다.",
+		"5. 달군 팬에 식용유 1+1/2큰술을 두르고 먼저 양파를 한번 볶아 준 후....",
+		"6. 당근, 피망을 넣고 고르게 볶아 줍니다.",
+		"7. 그리고 닭가슴살 볼을 넣고 볶아 주세요.",
+		"8. 닭 볼이 노릇하니 볶아 지면 준비한 소스를 넣고 양념이 타지않게 고르게 볶아 주시면 되겠습니다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/09/186d09c198790c2ea5e8a0c6506aca211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/09/1a7c21c2da17d13db57bf03167d46fe71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/09/d338308b00aae4081d63d500cae254bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/09/1ae5231dd23906e867675c6b2c5ebf781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/09/96753b9fbb5a3d85ffa191a9f399a55b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/09/1e8594037640e026d48f9d1df877b5bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/09/751e386c97c2fa49c32864f4d5ad610d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/09/cf2aadcb173de8b707fb83a851c3c6b11.jpg"
+	]
+}

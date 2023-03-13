@@ -1,0 +1,47 @@
+{
+	"id": "6942317",
+	"name": "삼색 나물 / 무청나물 (무잎나물)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/d6c7a1667c26cfd19082d2b2547fb1821.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942317",
+	"ingredient_ids": [
+		977,
+		497,
+		379,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "무청",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 어린 무청은 깨끗이 씻어 준비한다.",
+		"2. 씻은 무청은 끓는 물에 소금을 넣고 살짝 데친다.",
+		"3. 데친 무청은 찬물에 씻어 물기를 제거한다.",
+		"4. 물기를 제거한 무청에 간장, 소금, 참기름을 넣고 버무린다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/6584052ab2e9368795e0769c8bee9f741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/18bd61526a6afbfb04491f1a30ddf8741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/8ee8bd30b403cf0209696c53faaf6ea01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/e785c299586da219227277b03f95f7731.jpg"
+	]
+}

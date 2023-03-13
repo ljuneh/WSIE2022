@@ -1,0 +1,63 @@
+{
+	"id": "6942833",
+	"name": "산모미역으로 끓이는 황태미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/0e3cc365abfaba37c74d03f1838d8c4c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942833",
+	"ingredient_ids": [
+		996,
+		327,
+		939,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "산모용미역",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "황태채크게",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "멸치가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 건미역은 물에 불려서 사용 합니다 10분 불리니 딱 좋네요",
+		"2. 흐르는 물로 씻어주고.. 물기걷고 먹기좋은 사이즈로 잘라 줍니다 산모용미역은 길이가 길~~어요 ㅎ",
+		"3. 황태채도 잠시 물에 불립니다 잠시만 담궈도 되는데요, 담궜던 물은 사용하니 버리면 안되요 역시 먹기좋게 가위질 해 주고..",
+		"4. 황태채, 멸치가루, 들기름넣고 잠시 볶아 줍니다 미역도 넣고 함께 볶아요",
+		"5. 물 붓고 끓입니다 멸치육수 사용해도 되는데요 저는 없어서 멸치가루 함께넣고 볶아서 사용해요 팔팔 끓으면 중약불로 줄여 끓입니다",
+		"6. 액젓으로 간하고 다진마늘도 넣어요 한 소끔 끓여 마무리 합니다 ",
+		"7. 미역국은 오래 끓여야 제맛 나지요 산모용미역은 오래 끓여도 풀어지지 않아서 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/f556b011115772065f137f6806dc9c2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/8ba554599633c91c7b09e165663919241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/fa68800ba6da5a5c3276560b39450fb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/285f5e151a5ba78ae820352e9c1785a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/8eb07abe59e7d8e01a84337bad41abcf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/19141b56c31bd677ee4720bcf55f08ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/24292776fda6588852723697bcd9c9b51.jpg"
+	]
+}

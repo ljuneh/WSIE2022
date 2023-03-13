@@ -1,0 +1,108 @@
+{
+	"id": "6924453",
+	"name": "된장찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/01/03/26c710dfde040563813bdabe412ca0791.jpg",
+	"url": "https://www.10000recipe.com/recipe/6924453",
+	"ingredient_ids": [
+		5,
+		3,
+		7,
+		323,
+		911,
+		27,
+		1015,
+		848,
+		224,
+		233,
+		1018,
+		333
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "800",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "다대기",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "천연조미료",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 야채를 먹기좋게 깍뚝썰기해주세요",
+		"2. 육수에 감자를넣고 끓이세요",
+		"3. 끓기시작하면 된장넣고 거품걷어내시고",
+		"4. 마늘도 넣으세요",
+		"5. 다대기와 고춧가루넣으세요(김장하고나면 다대기만 냉동실에 보관해두셔서 요긴하게 쓰세용)",
+		"6. 거품은 걷어내면서 감자가 어느정도익으면 호박.버섯.양파넣고 끓이다",
+		"7. 멸치액젓과 천연조미료가루(버섯.다시마.새우)넣고 간맞추세요",
+		"8. 파와두부넣고 한소끔끓이시면됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/03/3445cae252a80cbb08934206a5dc8bdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/03/54c1db8cf90ad1ffa70ba95b5bfa035f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/03/c75986f4bf49cb19b66f164872d7df8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/03/c1bd7319b9e944f7cd84241ed9a84f741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/03/6f76f6d8205eb8c76cc9d0b5c8cd3b141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/03/72a79812cbd2ed55f7b106942ed81c761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/03/0b09bd1337045a897a41d2cdff15c5a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/03/034e00deb078657cf43e184b706593e51.jpg"
+	]
+}

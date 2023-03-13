@@ -1,0 +1,108 @@
+{
+	"id": "6945269",
+	"name": "비빔만두",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/a7b5d1697feb6eb7195d1bea5a0e55f31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945269",
+	"ingredient_ids": [
+		3,
+		9,
+		392,
+		6,
+		660,
+		226,
+		473,
+		29,
+		224,
+		226,
+		660,
+		843
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "4/1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "샐러리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "4/1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "집간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "견과류가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 면삶기ㅡ소금한수저 넣고 물이 끓으면 면넣고 다시끓으면 찬물 넣고 삶기 삶긴면ㅡ찬물이 살살 비비며 물기제거 물기제거면ㅡ참기름넣고 집간장넣고 설탕넣고 섞어주기 양념장넣고 비벼주기 (집에서만든 양념장넣기ㅡ 고추장 .마늘.고추가루.설탕 참기름.매실.견과류 가루 )",
+		"2. 야채 냉장고에 있는것들로 먹기좋게 준비",
+		"3. 냉동만두ㆍ전자랜지에 3분 돌려 녹히기  후라이팬에 기름 드루고 노릇노릇하게 익혀 접시에 담기"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/89c014a44070f39a4e6f69b00458f3fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/c8515805426d2642873036d160e50a221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/500d1a70f8ea6caeb47bdacd4e9b05741.jpg"
+	]
+}

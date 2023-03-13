@@ -1,0 +1,81 @@
+{
+	"id": "6883052",
+	"name": "식빵만드는법 보들보들 우유식빵만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/29/f1a67bc36ab008cdde4706908e4ab0d61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6883052",
+	"ingredient_ids": [
+		565,
+		226,
+		497,
+		995,
+		198
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "350",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "이스트",
+			"ingre_count": "5",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "35",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "5",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "120",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "110",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "20",
+			"ingre_unit": "그램"
+		}
+	],
+	"recipe": [
+		"1. 제빵기에 따뜻하게 데운 물, 우유, 설탕, 소금을 넣고 강력분, 이스트, 버터를 넣어 제빵기 반죽 코스로 돌려 반죽하고 볼에 반죽을 담아 따뜻한 물을 컵에 담고 뚜껑을 닫아 1차 발효해요.",
+		"2. 한 시간 정도 발효했어요. 3배쯤 부풀고 손가락으로 꾹 눌러 모양이 유지되면 발효가 된 거랍니다.",
+		"3. 1차 발효가 끝난 반죽은 가스 빼기를 하고 둥글리기 후 10~15분간 중간 발효합니다.",
+		"4. 중간 발효 후 다시 가스를 빼고 기다란 타원형으로 밀어요.",
+		"5. 삼절 접기 후 팬에 담아요.",
+		"6. 6개 만드느라 5개는 하나로 둥글게 말아 성형했어요.",
+		"7. 끝을 꼬집듯 붙여 반죽이 풀어지지 않도록 합니다.",
+		"8. 팬에 비닐을 씌우거나 큰 통이 있으면 반죽을 담고 뜨거운 물을 컵에 담아 함께 덮개를 덮어 2차 발효합니다. ( 발효는 온도나 습도에 따라 달라지기 때문에 몇 분이라는 시간보다는 어느 정도로 부풀었는지가 중요해요. )",
+		"9. 틀 위로 반죽이 부풀어 오르면 2차 발효를 끝냅니다. 170도로 예열한 오븐에서 색을 보며 20분간 구워요.오븐",
+		"10. 6개를 한 번에 굽느라 3개는 늘 사용하는 오븐에서 굽고 3개는 가스레인지 아래 빌트인 오븐에서 구웠어요. 빌트인 오븐은 사용을 안 해서 온도가 높았나 봅니다.",
+		"11. 늘 사용하는 오븐에서 구운 식빵~",
+		"12. 속을 볼 시간~~ 으음.... 우유가 많이 들어가 부드러움이 정말 탁월하더라고요.",
+		"13. 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/30/eab663a18e5abe55e92eb1e9d354ae4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/30/053351abe6e18f9265085e77e64717611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/30/ac8c2ee78e8d15e74e2452e12a3241dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/30/6ff3c1b0f7598251f8cde08c297bd9b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/30/f3eb5caa9af6157a60a234fe277ad8701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/30/e5ceb36887673cd86a19685cb689719d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/30/14da3627c92c8374320c3965fe9a59f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/30/aab2320fd6518ba5482693b98baecae81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/30/4f5d50537e26ffbe532df5f65f2c64141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/30/b5d907a526512381612b4272babfb8091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/30/1fe53c77b8f5f5a1598addab2f3125231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/30/9efee3454caebf1dab58fcc4ae7017ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/30/e4b13878d0c6fc459087d6e50c7f93241.jpg"
+	]
+}

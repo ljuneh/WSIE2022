@@ -1,0 +1,60 @@
+{
+	"id": "6940695",
+	"name": "참외짱아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/03e506682b9c7364f76cfa6649d1db4f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940695",
+	"ingredient_ids": [
+		169,
+		579,
+		497,
+		226,
+		940
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "참외",
+			"ingre_count": "10",
+			"ingre_unit": "키로"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1",
+			"ingre_unit": "병"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "4",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "발효현미식초",
+			"ingre_count": "4",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "베이킹소다",
+			"ingre_count": "2",
+			"ingre_unit": "숱갈"
+		}
+	],
+	"recipe": [
+		"1. 청참외는 채반에 담아서 고무장갑끼고 천일염으로 한번 문질러서 깨끗하게 씻어줍니다.그렇게 한번세척하고나서 베이킹소다 푼물에 세척한 참외를 10분담아놓고 깨끗하게 3번 헹궈주면되요~",
+		"2. 세척다된 참외는 채반에 담아서 물기를 빼주고 재료부터 준비해주시고요",
+		"3. 물기좀빠진 참외를 반갈라서 속을 파내주고 한번 헹궈주시면되요",
+		"4. 김치통이나 짱이찌 담는통에다가 소금 설탕 식초 순으로 조금씩 뿌려서 차곡차곡 담아서 쌓아주시면되요.이렇게 해서 다 담으셨으면 마지막으로 소주한병을 골고루 부어주시면됩니다",
+		"5. 하루지나고나서 이틀째되서 밑에있는걸 위로 올려주시면 되요..3~4일쯤 되면 참외에 수분이 빠져서 물이 흥건하게 가득채워진게 보이실거에요..이제 물은 버리고 냉장보관해주시면됩니다. 채썰어서 양념무쳐서 맛있게 드시면된답니다~감사합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/d0ff44e72fefe50f71cfa2f503e27ba11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/50e99880e728b88381b9c68810d0af941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/93410aacbcfba328cafc71790f9954ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/632cc8fc3df84367ad61ebd9cf3652bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/962b436e0125a4d3e3a91fd01f2389231.jpg"
+	]
+}

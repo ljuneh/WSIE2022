@@ -1,0 +1,86 @@
+{
+	"id": "6944562",
+	"name": "수미네 어묵볶음 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/45cee6f21b45d096bee15042491973ee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944562",
+	"ingredient_ids": [
+		548,
+		3,
+		30,
+		995,
+		226,
+		660,
+		227,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장2+0.5숟가락",
+			"ingre_count": "2+0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		}
+	],
+	"recipe": [
+		"1. 어묵 10장을 원하는 크기로 썰어 주심 돼요. 저는 길게 그리고 좀 얇게 썰어 보았어요. 수미네 어묵볶음에는 양파는 안 들어가요. 근데 저는 1/4개 채 썰어 함께 준비했어요. 또 청양고추 1개 도 들어가는데 아이 반찬이라 생략하고 색감을 위해 부추를 넣어주었으니 참고하셔서 만들어 주세요. ",
+		"2. 볶을 팬에 간장(2+0.5), 물(3), 설탕(1)을 한데 넣어 주고",
+		"3. 약불에서 설탕이 녹도록 끓여주고 양념장이 바글바글 끓어오르면 ",
+		"4. 어묵, 양파를 한데 넣어 양념이 배도록 볶아주고",
+		"5. 이어 부추를 넣고",
+		"6. 참기름(1)",
+		"7. 통깨(0.3)",
+		"8. 꿀(1)을 한데 넣어 고루 섞어 마무리합니다. ",
+		"9. 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/eef4a4b126490b63e72bff06875660ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/096ca8f6cc0cd0916efda6b3ec4628f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/f24f8adab0e2b023088ad0765e392ba91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/7afb081e1529e469c156c97a4346867f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/5d9d6d9cb96b15af9b97d825bf1c31dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/c2be1c07c0f127a37dc449279c3a27b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/330f3439f501cbbfcbf9f93afaad653e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/c796f174a9209808c3c6c4a7ecc5e84b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/cd37769ccb053c90e5042800e689600a1.jpg"
+	]
+}

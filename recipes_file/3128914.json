@@ -1,0 +1,46 @@
+{
+	"id": "3128914",
+	"name": "초간단 밥반찬 무전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/5a92aaa7c4063b5d7ec73ed7a161475d.jpg",
+	"url": "https://www.10000recipe.com/recipe/3128914",
+	"ingredient_ids": [
+		19,
+		387,
+		790
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물이나육수",
+			"ingre_count": "",
+			"ingre_unit": "부침가루와동량"
+		},
+		{
+			"ingre_name": "초간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 무는 얇게 슬라이스하고 부침가루는 물과 동량을 넣고 반죽합니다.",
+		"2. 얇게 썬 무를 반죽에 담갔다가 부쳐 주기만 하면 됩니다,",
+		"3. 오일 넉넉하게 두르고 약불로 부쳐 줍니다",
+		"4. 그리고는 슴슴한 초간장과 함께 식탁에 올렸지요. 밥반찬으로 충분합니다,"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/f3aa296e6d323fe72b366de93a723afa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/3699256c37449fc167b914878f416b5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/e0275778ceac633e6bc6b36864917a681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/13befad828a273995721d71ced271fea.jpg"
+	]
+}

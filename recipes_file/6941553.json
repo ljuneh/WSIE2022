@@ -1,0 +1,87 @@
+{
+	"id": "6941553",
+	"name": "가정식 왕족발",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/31b383e6f5cc068bd12cd11d658ea75f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941553",
+	"ingredient_ids": [
+		379,
+		292,
+		136,
+		478,
+		3,
+		29,
+		27
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지생족",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "500",
+			"ingre_unit": "미리"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "병"
+		},
+		{
+			"ingre_name": "매실",
+			"ingre_count": "100",
+			"ingre_unit": "미리"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "알카리수물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매운고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강조금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 생족을 잡내를 제거하기위해 알카리수에 30분이상 담구어주세요",
+		"2. 모든 야채와 양념을 다 넣은뒤 두시간 이상 푹 끓여주시면 됩니다",
+		"3. 가정에서도 시중의 족발집 못지않은 비쥬얼을 낼수 있고",
+		"4. 향신료 전혀 안 넣어어요",
+		"5. 순수 야채와 양념만으로 대왕족발 완성이요  두시간 이상 푹 끓여주었네요 워낙 생족이 커서요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/0528f04521408ea86200f6646a576c321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/3615df79aec026fa372e04796a606e671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/7ad8d164d7482c1524489fae1024b0181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/c000308254fbdb5358de8ee9fd0a8d561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/aab8b9c78b46b009f978fa95d22854271.jpg"
+	]
+}

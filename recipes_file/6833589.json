@@ -1,0 +1,67 @@
+{
+	"id": "6833589",
+	"name": "굴소스마요라면 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/b98477372aecbc4b37a7ff6e489f76a81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6833589",
+	"ingredient_ids": [
+		441,
+		295,
+		477,
+		198,
+		228
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "라면스프",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		}
+	],
+	"recipe": [
+		"1. 라면을 3분정도 끓여줍니다",
+		"2. 물은 약간만 남기고 버리고 라면수프 반개를 넣어 잘 섞어줍니다",
+		"3. 굴소스를 넣어서 섞어주고",
+		"4. 국물이 자작자작해지면 버터를 넣습니다",
+		"5. 파를 넣고 잘 볶아준 후 불을 끕니다",
+		"6. 마요네즈와 청양고추를 위에 얹으면 완성 +_+"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/389a013756482169b88986182bd902571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/7c1ccbba7fc2f33e564cdbcc839d050e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/ae52c11cd1f38840486d2fed2b19101d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/8eec9ab4366517c2e8e3c1ed6d7bd02d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/84859bc8f0166c9972341195c76a80891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/83cc20cc817b1bf2b32aec59fc284f7b1.jpg"
+	]
+}

@@ -1,0 +1,101 @@
+{
+	"id": "6938004",
+	"name": "더덕구이 만들기(더덕요리)/ 더덕구이 양념장 쉽게 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/7a7abc5bc192d00829db161fe26171131.jpg",
+	"url": "https://www.10000recipe.com/recipe/6938004",
+	"ingredient_ids": [
+		37,
+		27,
+		660,
+		379,
+		473,
+		224,
+		938,
+		226,
+		233,
+		327,
+		995,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "더덕",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "12",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "12",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 더덕은 얇게 펴야 맛있는데 두들기면 부러지거나 끊어지거나 해서 저는 밀대로 말어서 폈어요^^ 밀대로 살살 밀어서 펴주세요. (식감도 이렇게 하는게 더 맛있는거 같아요 ㅎㅎ)                   ",
+		"2. 밑간 양념장 참기름과 간장을 섞어 만들어 주세요^^",
+		"3. 고추장 양념장 재료를 섞어 양념을 만들어 둡니다. (더덕 펴시기 전에 양념장 부터 만들어 두시면 좋아요^^)                   ",
+		"4. 더덕에 밑간 양념장을 붓으로 고루 펴발라 주세요~^^                   ",
+		"5. 팬에 들기름을 넉넉히 두르고 약불에서 초벌구이 해주세요. 요렇게 초벌구이 하고 양념장 발라서 구우면 양념이 덜타고 양념도 더 잘베어들어서 더 맛있더라구요^^",
+		"6. 앞뒤로 약불에서 초벌구이한 더덕에 양념장을 올리고 붓으로 펴발라 주세요 ㅎ                   ",
+		"7. 뒤집어서 한번더 발라주고 타지않게 익혀주면 더덕구이 완성이에요^^                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/0eb7f310298acfdc8c66eb3f2850ba371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/5c350ee140364c8dabff00b3045869de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/6bec4daa9066a6c0135b1d7dfa5cee9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/d0ff7491027f49a0901d9ed2a52b09831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/d357431565252c8781974be3bdf459c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/9d6044d18058ae778f6c0ac3d2ce37c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/359e343015b8b6196de00438880584791.jpg"
+	]
+}

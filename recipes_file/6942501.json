@@ -1,0 +1,124 @@
+{
+	"id": "6942501",
+	"name": "킹크랩내장파스타 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/4fa71eb5e88ad8586b934b7b585747161.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942501",
+	"ingredient_ids": [
+		29,
+		3,
+		54,
+		2,
+		485,
+		497,
+		203
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "게내장",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마른고추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "면수",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 킹크랩내장으로 이색적인 파스타 요리를 만들어 볼게요",
+		"2. 대게 혹은 킹크랩",
+		"3. 큰 냄비로 킹크랩을 쪄주세요  킹크랩살은 맛있게 드시고 내장으로 파스타를 만들어 보아요^^",
+		"4. 마늘, 양파, 양송이버섯, 시금치를 준비해 주시고",
+		"5. 마늘 4개를 슬라이스 해 주시고",
+		"6. 양송이 버섯도 4개를 슬라이스 해 주시고",
+		"7. 양파는 반개만 채 썰어 주세요",
+		"8. 파스타 면 삶기: 물이 끓으면 면 2인분을 넣고 8분동안 삶아 주세요1인분: 500원 짜리 동전 크기",
+		"9. 면수(면 삶은 물)반컵정도만 남겨 주세요",
+		"10. 면이 익으면 건져 주시고, 올리브유를 넣고 버무려 주세요올리브유를 넣으면 면이 잘 퍼지지 않아요 ",
+		"11. 예열된 팬에 포도씨유를 두르고 마늘을 볶아 먼저 향을 낼거에요",
+		"12. 마늘이 노릇노릇해 지면 채썬 양송이 버섯, 양파, 마른고추를 넣고 볶아 주시다가",
+		"13. 게 내장을 넣어 주세요",
+		"14. 소스: 생크림 반컵",
+		"15. 우유 한컵",
+		"16. 면수 반컵",
+		"17. 후추랑 소금으로 간을 해 주세요",
+		"18. 소스가 끓으면 면을 넣어 주세요",
+		"19. 다시 끓기 시작하면 체다치즈 한장을 넣고",
+		"20. 불을 끄고 시금치를 넣고 마무리 해 주세요",
+		"21. 예쁘게 플레이팅 하시면 맛있는 게내장파스타가 완성 됩니다  맛있게 드세요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/12c9e47cfe3071dbdbc506233d0c14771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/24bc5917746088b7c320361bbc2c3dff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/3fc2919ca8caa18eec95990a5b9b545d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/90a7d8493bceae2209f02a6cdf12ba1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/3c4d7b95c42d6be7cd7c91ca40d85c721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/7b5ff753730f40ce674547f25a9b71d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/61dc603f054ec1af19ec0150b35cfb0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/1a7cb8fc2de10b73e2fac70fb2ed53921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/c49b7f4fa02f18df1a632fe8e98985e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e1da9ecea50381aa28ccda09bb680ebb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/260e225c69402932bcabc55fa869b0081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/4d4c1a3a7439acdeb49cd95e229749a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/f684862550983b84aff26a02ca07a78b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/c5058eb55ee87289db0a3c1e6113e80e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/074136efb25da218d18991ec0ca1f6a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/5aa6162b6e0a9bf926f3a422d86edad21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/556c55a2303cef138cab3cf2c0d4de991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/194d03086975d6ffdf97e48b921318e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/fb1e6a58c0b08a3b49e107c997c348861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/36158c604c3fb1f705cffe6921450c6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/fa099ba36f4b23669d836b73b45c50bb1.jpg"
+	]
+}

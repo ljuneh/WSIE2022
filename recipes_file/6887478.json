@@ -1,0 +1,67 @@
+{
+	"id": "6887478",
+	"name": "김치전 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/04/17/f6fff7341172e3f39aa338e94327b5871.jpg",
+	"url": "https://www.10000recipe.com/recipe/6887478",
+	"ingredient_ids": [
+		295,
+		504,
+		734,
+		473,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "묵은지(배추신김치)",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "치킨",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "150",
+			"ingre_unit": "cc"
+		}
+	],
+	"recipe": [
+		"1. 배추김치와 청양고추 송송썰고",
+		"2. 치킨은 작은크기로 잘라줍니다",
+		"3. 볼에 튀김가루와 차가운 물을 넣어 대충 섞고튀김가루는 약간 수북하게 계량했구요 반죽은 묽은 정도로합니다",
+		"4. 썬 김치와 청양고추 넣어 섞고",
+		"5. 달군 팬에 기름 적당히 두르고 반죽올려 구워줍니다",
+		"6. 노릇노릇하게 구우면 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/17/f8cc31adabaedcd98957533bcb0d8ffc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/17/bb85b042d4c7223e2df841741fcb860d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/17/95787872e33c9b375ea909c4d01d32201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/17/5cb9182b572b08fa91507c41ff4e314c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/17/0edfbc21ade91e59d180f311918f200c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/17/b8ccf8db8559c2edcdca2c4cb3a652431.jpg"
+	]
+}

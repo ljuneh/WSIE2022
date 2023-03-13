@@ -1,0 +1,83 @@
+{
+	"id": "6945237",
+	"name": "그냥 먹어도 맛있지만 스팸과 두부가 함께하여 더 맛있는 스팸 두부김치 만드는 법 볶음김치 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/b2441f146d2052eef75e4efc9b887e7a1.png",
+	"url": "https://www.10000recipe.com/recipe/6945237",
+	"ingredient_ids": [
+		953,
+		323,
+		3,
+		224,
+		226,
+		660,
+		290
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 스팸을 30초 정도 데쳐주어 불순물을 제거해주세요",
+		"2. 프라이팬에 기름을 둘러주신 다음에 스팸을 앞뒤 노릇노릇 구워주세요중불",
+		"3. 새 프라이팬에 기름을 둘러주신 다음에 두부를 앞뒤 노릇노릇 구워주세요중불",
+		"4. 볶음김치를 만들 냄비에 기름을 둘러주신 다음에 파를 넣고 파기름을 내주세요볶음김치에서는 파기름이 크게 중요한 부분은 아니기 때문에 파의 향이 올라올 정도로만 파기름을 내주세요",
+		"5. 파의 향이 올라오기 시작하면 양파를 넣고 볶아주세요",
+		"6. 양파가 투명 빛으로 변하기 시작하면 김치와 김치 국물, 고춧가루, 설탕을 넣고 볶아주세요고춧가루 같은 경우에는 금방 탈 수도 있기 때문에 주의해주세요",
+		"7. 김치의 색이 누르스름해지면 참기름을 넣고 30초 정도 추가로 볶아주세요",
+		"8. 완성된 볶음김치는 두부와 스팸을 각자의 취향 맞게 예쁘게 플레이팅 해주시고 깨를 뿌려주어 마무리해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/3beae9b254dbb1726352b868d8b6885e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/d3df4acbf544e8c060a7d493abd9282d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/4960777a26a7465482b9c8dc86da8a641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/67db68dc10ee7bab65fba3c9c25d0c471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/05c4b52a71f84ea7937a0fb134f9d3161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/162d8165dcb5d2938e5082849f8b3b2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/414ea0e1809706969c10447e00f0168c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/870378380887f1f1efe897034405a4371.jpg"
+	]
+}

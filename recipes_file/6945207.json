@@ -1,0 +1,51 @@
+{
+	"id": "6945207",
+	"name": "토마토바질청 & 토마토바질에이드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/89d297f34280f540fbbc877e6802ab8b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945207",
+	"ingredient_ids": [
+		371,
+		226,
+		367
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바질",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 토마토바질청을 담을 유리병을 열탕 소독 후 물기를 말려 주세요.",
+		"2. 바질 잎을 깨끗하게 씻어 물기를 제거해 주세요. 보이는 바질 잎의 두 배가 약간 넘는 양을 넣었어요.",
+		"3. 방울토마토를 깨끗하게 세척 후 열십자 모양으로 칼집을 넣어 주세요",
+		"4. 끓는 물에 넣어 살짝 데쳐 주세요. ",
+		"5. 살짝 데친 방울토마토를 얼음 물에 담갔다가 체에 건져 주세요. ",
+		"6. 방울토마토의 껍질을 벗겨 주세요.",
+		"7. 껍질을 벗긴 방울토마토에 바질과 설탕을 넣어 섞어 주세요. 설탕의 양을 줄여서 넣었는데 오래 두고 먹을 경우 설탕과 토마토의 양을 1 : 1 동량으로 넣어서 만들어 주세요. ",
+		"8. 설탕이 어느 정도 녹으면 열탕 소독한 유리병에 넣어 주세요. 하루 정도 상온에서 숙성시킨 후 냉장고에 넣어 보관해 주세요.",
+		"9. 컵에 얼음과 토마토를 넣고 청을 3~4스푼 넣고 탄산수를 콸콸 넣어 섞으면 토마토바질에이드가 완성돼요. 로즈마리와 생바질도 톡 뜯어서 올리고, 레몬도 두 조각 넣었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/010a883d112eb066204eb67ce6a82a241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/ac32c35dddabef7720c133c92bec612b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/e031f1ea4bdc741548c9050cd2ce95d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/566cfac4cdf3a890a02c2b2f7c89290d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/b0b5e89e01aaef9f1e76e38f387680f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/869bb4984c76bc57077854a17c1232631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/0a4573288a9d612a355c2708761611411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/a62cbc25033e95194cebc32f5cf1277e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/6023da04b62bda2d94766d6f524544761.jpg"
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"id": "6861325",
+	"name": "양념꼬막 꼬막삶는법 제철음식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/21/ce3ba52711705e39413b38edf2fdcdf11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6861325",
+	"ingredient_ids": [
+		379,
+		224,
+		29,
+		660,
+		543,
+		292
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "피꼬막",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금1큰술​",
+			"ingre_count": "1",
+			"ingre_unit": "큰술 ​"
+		}
+	],
+	"recipe": [
+		"1. 꼬막은 찬물에 소금을 넣고 한시간 정도 담가 해감을 해준 뒤 솔로 껍질을 손질해 줍니다",
+		"2. 위의 양념재료(고춧가루, 간장, 파, 마늘, 통깨, 참기름, 맛술) 넣고 양념장을 만들어줍니다",
+		"3. 꼬막이 잠길 정도로 물을 붓고 소금과 꼬막을 넣고 끓여줍니다 입이 벌어지는데 바로 불을 꺼줍니다                   ",
+		"4. 꼬막의 한쪽 껍질을 떼어내고 양념을 얹어주면 완성이에요 미리 손질만 해 두면 만드는건 정말 쉽고 간단하죠~                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/21/de8f7a6b68cbfd1d1165bc14d45305421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/21/713e63e7f6651541a1770c4654e2b30d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/21/ee202029e677862df079edf16f8450c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/21/17db1aec37c1dca226064b4782fdaf451.jpg"
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"id": "6943051",
+	"name": "추석요리 남은 잡채로 속보이는 잡채만두",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/5c7042815563f615771e8a9dcbcd764c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943051",
+	"ingredient_ids": [
+		238
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "남은잡채",
+			"ingre_count": "1",
+			"ingre_unit": "접시"
+		},
+		{
+			"ingre_name": "라이스페이퍼",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 잡채는 그대로 가위로 잘게 잘라서 준비",
+		"2. 이때 밑간을 조금더 해줘도 좋겠지만..그냥 하고..싱거우면 간장에 찍어먹는걸로...양 늘리지 않는 방향으로..",
+		"3. 월남쌈 뜨거운물에 담궜다가 잘라놓은 잡채 두스푼 올려서 돌돌말아 완성! 월남쌈있어서 활용한~만두피도 괜찮구요..없으시면 반죽해도 좋구요..",
+		"4. 만들어진 속보이는 잡채만두는 구워야제맛!!! 달궈진팬에 노릇바삭하게 구워져야 맛나죠~~ 기름진 음식들 먹고도 고소한 맛에 또다시 구워 완성해요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/37adb08f681b7041e6d2e882c7f5522e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/7715946bf2d5c36097d8ec3190acfe081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/859014f4ee4d0bdde34c8d6ab90645a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/bcea15f788041f54e187b24b0aeb25491.jpg"
+	]
+}

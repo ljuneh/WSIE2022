@@ -1,0 +1,97 @@
+{
+	"id": "1209669",
+	"name": "간식이나 안주로 그만 간장양념 닭꼬치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/91ec6589b71c1b0c1230a88c1ff30fbb.jpg",
+	"url": "https://www.10000recipe.com/recipe/1209669",
+	"ingredient_ids": [
+		27,
+		292,
+		995,
+		226,
+		341,
+		3,
+		29,
+		28,
+		857
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살혹은다리살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파초록부분",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "마른고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 양념 재료를 넣고, 5분 정도 끓이다가 불을 줄여 5분 끓인다음 식혀준비합니다. 가슴살과 다리살을 적당한 크기로 잘라 준비하고 파도 썰어 준비합니다.고기가 익으면 좀 줄어드니깐 크기를 생각해서 썰어서 준비하세요. 손질한 닭살을 식힌 양념에 넣고 3시간 정도 재워둡니다.",
+		"2. 꼬치에 재워둔 닭살과 파를 번갈아가며 끼웁니다.",
+		"3. 210도로 예열된 오븐에 15분 정도 구워냅니다.오븐",
+		"4. 중간에 남은 양념을 더 발라주며 뒤집어서 15분정도 더 구워냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/f4aa34bf9c6bd3e466d9320e75b406751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/9f381ca4780cbc3e9d0869c4fc5666c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/2ed764ccc48a34fe40653352e085774c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/c48d211dd1c6c0882698b927f466c1e71.jpg"
+	]
+}

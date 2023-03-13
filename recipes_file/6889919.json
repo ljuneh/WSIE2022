@@ -1,0 +1,73 @@
+{
+	"id": "6889919",
+	"name": "서리태 콩국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/05/30/95825caed3679dd352e003983baf2d301.jpg",
+	"url": "https://www.10000recipe.com/recipe/6889919",
+	"ingredient_ids": [
+		51,
+		8,
+		497
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "콩2컵(종이컵)",
+			"ingre_count": "2컵(종이컵)",
+			"ingre_unit": "컵(종이컵)"
+		},
+		{
+			"ingre_name": "물4컵(종이컵)",
+			"ingre_count": "4컵(종이컵)",
+			"ingre_unit": "컵(종이컵)"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "삶은계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소면3인분(500원동전1인분)",
+			"ingre_count": "3인분(500원 동전 1인분)",
+			"ingre_unit": "인분(원 동전 인분)"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 콩을 8시간 정도 불려주세요",
+		"2. 콩 : 물의 비율을 1:2로  냄비에 넣고 10분 끓여주세요  소금 한큰술 넣어주세요",
+		"3. 휴롬에 넣고 콩을 짜주세요",
+		"4. 믹서기에 넣고 갈아도 됩니다:D",
+		"5. 끓는물에 소면을 넣어주세요 500원짜리 동전 크기 1인분",
+		"6. 끓어오르면 물 반컵을 부어주세요 두번 정도 부어주고 세번째 끓어오르면 건져주세요",
+		"7. 얼음물에 넣어서 씻어주세요",
+		"8. 냉면용기에 소면을 담아주세요",
+		"9. 콩물을 부어주세요",
+		"10. 삶은계란과 토마토, 오이를 고명으로 올려주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/30/2a3044c844d9f228bdaa0b44b85b939e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/30/a0c118bd675a86543e2b39c6a7aaa7591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/30/a49bc3daa406e23ebc21613f5876c2841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/30/18afeb8d6742495c2807dc2f6751111b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/30/37be2e08809366c391b1d4d70d9bab391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/30/037484659700e34897d5b225d6f114bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/30/af9fa8c0c96fa56de1316d3459f392461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/30/579e74a1f10e6c9b93e7bc0dc35fb00c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/30/4227e0bb32b970f29f078871126cd0aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/30/f1faeca2bafa0b43477d749a9ccc463f1.jpg"
+	]
+}

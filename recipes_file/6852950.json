@@ -1,0 +1,44 @@
+{
+	"id": "6852950",
+	"name": "너무 쉬운 시원한 수박화채",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/2a919e683981ecc4133c95bfef20280d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852950",
+	"ingredient_ids": [],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "수박작은거",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "황도",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "덴마크드링킹요구르트딸기맛",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "6~8개",
+			"ingre_unit": "~개"
+		}
+	],
+	"recipe": [
+		"1. 수박은 스푼으로 동그랗게 파주세요 계랑스푼같은걸로 파시면 더 예쁜 동그라미모양이 나와요",
+		"2. 황도캔은 국물은 따라버리고, 황도만 1cm 간격으로 슬라이스해줍니다",
+		"3. 볼에 파낸 수박과 슬라이스한 황도를 넣어주세요",
+		"4. 덴마크 드링킹 요구르트 딸기맛을 몽땅 부어줍니다",
+		"5. 그리고 얼음을 넣어준뒤, 잘 섞어주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/a05e2ce6ffd5af7b0b61fd861db8bf271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/10c550379ecf8146227605dbe0845efd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/0f2b43b41f4b4068fca7aa9d39dfe2041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/bfc556646f7221bbf5be3a34909280b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/b109023725ecd81726b3ae128b49312b1.jpg"
+	]
+}

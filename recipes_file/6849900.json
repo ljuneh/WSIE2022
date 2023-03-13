@@ -1,0 +1,74 @@
+{
+	"id": "6849900",
+	"name": "팥빙수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/12/42badc24da0e7d186a1bb9b43d62d48e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6849900",
+	"ingredient_ids": [
+		364,
+		204
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "원형얼음",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "동원고구마통단팥",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미숫가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "빙수용젤리",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "찹쌀떡",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "우유5큰술등(1인분)",
+			"ingre_count": "5큰술 등(1인분)",
+			"ingre_unit": "큰술 등(인분)"
+		}
+	],
+	"recipe": [
+		"1. 빙수는 팥이 가장 중요한 것 같구요. 고구마통단팥으로 국산 고구마가 군데군데 들어 있어서 달콤하면서 골라 먹는 재미도 있구요.",
+		"2. 재료는 원형얼음, 팥빙수용팥, 미니 젤리, 미니 찹쌀떡, 연유, 미숫가루, 우유 등이 필요합니다.",
+		"3. 이번에 새로 바꾼 빙수기입니다. 눈꽃 빙수 스타일로 곱게 갈아보았습니다. ",
+		"4. 빙질이 참 곱지요?",
+		"5. 고구마통단팥을 듬뿍 올려줍니다. 3큰술이구요. 통단팥과 군데군데 달콤한 고구마가 섞여있답니다. ",
+		"6. 미숫가루를 1큰술 올려줍니다. 좋아하시면 더 많이 올려주셔도 됩니다. 여러가지 곡물이 들어간 미숫가루라 색상이 좀 푸르스름합니다.",
+		"7. 빙수용 젤리도 1큰술 올려주고요.",
+		"8. 빙수용 미니 찹쌀떡도 5개 정도 올려주었습니다. ",
+		"9. 연유는 1큰술 올려주었습니다. ",
+		"10. 우유는 상에 내갈 때 곁들여서 취향에 따라 부어 먹도록 합니다. 팥빙수가 완성되었습니다.",
+		"11. 가장 많은 분들이 좋아하는 스타일이 아닌가 싶네요. 일찍 찾아온 더위에 시원한 빙수 한 그릇, 더 바랄 것이 없네요. 눈꽃 빙수라 아주 부드러워요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/13/4c1fb4ca0c9f7675d72a9fb4df728cae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/13/cbf03e659e18e07488aee2046139fecd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/13/f976c3a8194056587a6ae21752c9945c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/13/5c474362129a611ce74149191ec3107b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/13/f5b5bbebfabda6c53be618a7bc7586fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/13/bf9d842b06cf7a1ec156d3c6c390b80d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/13/af1bdbac267c3437dac14eeeb14b3bc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/13/ac414b305a9b685cd3d54de14496a5561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/13/b9a5f2ff0965da9b4d4f20b0062a4eb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/13/249cc7d3443600c1a0c2383812e138a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/13/ddcb83f5a9fcd73297d68ecf9afc4c761.jpg"
+	]
+}

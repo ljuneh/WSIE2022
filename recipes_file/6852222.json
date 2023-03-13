@@ -1,0 +1,59 @@
+{
+	"id": "6852222",
+	"name": "꽁치김치찌개 맛있게끓이는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/ac7ba223536dde2739cf48744969850a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852222",
+	"ingredient_ids": [
+		479,
+		295,
+		233,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "꽁치통조림",
+			"ingre_count": "2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "총각김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 적당히 신 김치(총각김치)와 물을 넣고 보글보글 끓여주세요.",
+		"2. 총각김치가 끓으면 꽁치통조림의 꽁치를 넣어주세요.",
+		"3. 다진 마늘 한 큰술도 넣고 계속 끓여주세요.",
+		"4. 꽁치통조림 꽁치를 넣고 6-7분 정도 더 끓이고 청양고추를 쫑쫑 썰어 넣어주세요. 김치 국물도 넣어주시고 간을 맞춰주세요. 싱거우면 굵은 소금을 조금 넣으시고요. 김치가 너무 신 경우에는 설탕을 조금 넣어주셔도 좋아요.",
+		"5. 고추를 넣고 1-2 분 정도 더 끓여주신 다음에 불에서 내려주세요. 맛있는 꽁치김찌기개 완성!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/c6521158e4cec9338be61f992a120f971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/0bbb64cd01e36cf8f484b31c6f398cba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/f9cc13fed5df8f6b1794ecbca26ef4f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/e0819af48ebe631c116b8a9330776e581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/2bff5ea3e4eca27c710ce0d1f336995d1.jpg"
+	]
+}

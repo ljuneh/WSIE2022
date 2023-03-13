@@ -1,0 +1,107 @@
+{
+	"id": "6945152",
+	"name": "훈제오리떡볶이 아이들이 좋아하는 떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/c943d093e56affed19055e72de6ab09b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945152",
+	"ingredient_ids": [
+		972,
+		9,
+		3,
+		53,
+		543,
+		547,
+		477,
+		575,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "훈제오리",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "사각어묵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 분량의 양념재료를 모두 넣어 섞어줍니다.",
+		"2. 떡은 찬물에 한번 씻어 체에 받쳐주고, 냉동고에 있던 떡은 끓는 물에 살짝 데쳐서 찬물에 샤워시켜 준비합니다. ",
+		"3. 재료들은 떡볶이떡과 비슷한 크기로 먹기 좋게 썰어 줍니다. 표고버섯은 밑둥을 제거하고 눕혀 썰어줍니다. 고추는 어슷 썰고 통마늘은 편으로 썰어줍니다.",
+		"4. 훈제오리는 에어프라이에서 180도에서 15분정도 돌려주어 기름기를 제거해 줍니다. ",
+		"5. 팬에 기름을 두르고 마늘을 넣어 볶아줍니다. ",
+		"6. 양파를 넣어 볶아 줍니다.",
+		"7. 떡과 훈제오리, 표고버섯, 당근, 사각어묵을 넣고 골고루 섞어 가면서 볶아줍니다.",
+		"8. 떡이 말캉거리면 분량의 양념을 넣고 빠르게 재료들을 볶아줍니다. ",
+		"9.  다 볶아지면 불을 끄고 썰어놓은 청홍고추와 통깨를 넣어 골고루 섞어 줍니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/93d67423cb3b8fcb75c21054e9dcca0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/1417d4c7217f8711bca80f9705db11e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/9072fa594fa558018014b424cdb05c341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/5820c954f0219a420dce55fa20e270f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/9036f44cf560df70d08dcac0fa76c42e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/aafab8706d5ea09c2aff74cf0f63b8721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/6d5960d11a0aeb1bf48a23bdbadc2e871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/b2c33c9fa3f90d9ed4ac6032b957deef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/ebb9306b402253ffca91ff8974a6adf21.jpg"
+	]
+}

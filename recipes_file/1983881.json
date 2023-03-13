@@ -1,0 +1,154 @@
+{
+	"id": "1983881",
+	"name": "닭죽 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/9ef9c076757acacf839b694e40fc61fb.jpg",
+	"url": "https://www.10000recipe.com/recipe/1983881",
+	"ingredient_ids": [
+		99,
+		9,
+		30,
+		233,
+		660,
+		27,
+		608,
+		846,
+		3,
+		857,
+		995,
+		349,
+		225,
+		497,
+		660
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "맵쌀",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "닭고기육수",
+			"ingre_count": "1.",
+			"ingre_unit": ".L정도"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "15",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "닭다리",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마육수",
+			"ingre_count": "2",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "다시마4장(10x10cm)",
+			"ingre_count": "4장(10x10cm)",
+			"ingre_unit": "장(xcm)"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 다시마에 정수기 물을 받아 1시간정도 다시마를 담궈놓으면 다시마에서 액이 나와 맛있는 다시마육수가 만들어 진답니다. 끓여서 만들면 더 진한 다시마육수가 나와 좋기는 하지만, 닭고기를 찬물에서 끓여야 하는 관계로 끓인육수를 다시 식혀 또 끓이기에는 날씨가 너무 더워요. 그래서 그냥 찬물에 1시간 정도 담궈놓은 다시마육수를 사용했어요. 귀찮으시면, 그냥 닭고기 육수를 만들때 물을 넣고 만드셔도 된답니다. 찹쌀과 멥쌀도 씻어서 정수기 물에 쌀을 불려놓습니다.",
+		"2. 닭다리는 하림의 닭다리 살을 이용했구요, 한봉에 다리가 7개 들어있네요.",
+		"3. 닭다리와 양파, 대파, 월계수잎 1장, 통후추 10알, 청주, 다시마육수를 넣어 중불에서 30분정도 푸욱..끓여 닭고기 육수를 만들어 줍니다.",
+		"4. 만들어진 육수를 체에 걸러 육수와 물에 불린 쌀과 함께 준비해 주시고",
+		"5. 이렇게 밑간을 해 주면, 씹을때 닭죽안의 닭고기가 훨씬 더 맛나답니다.",
+		"6. 불린 쌀은 체에 받쳐 물기를 제거하고",
+		"7. 냄비에는 참기름을 둘러 쌀을 투명하게 볶아줍니다. 쌀이 투명해지면, 미리 만들어 놓은 육수를 반만 넣고, 잘 저어주면서 쌀을 익혀줍니다. 육수는 죽의 점도를 보아가면서 추가로 넣는 것이 좋기는 한데, 위의 쌀의 분량대로 만드시다 보면, 만들어 놓은 닭고기의 육수를 다 넣게 된답니다.",
+		"8. 이렇게 쌀을 익히는 동안, 당근과 부추를 다져놓고",
+		"9. 다져놓은 당근을 넣어 익혀주고",
+		"10. 당근이 익으면, 밑간한 닭다리살과 다진마늘을 넣어 닭고기의 양념과 마늘이 죽에 잘 배이도록 하고",
+		"11. 마지막으로 썰어놓은 부추를 넣어준 뒤",
+		"12. 부추의 숨이 죽도록 한소끔만 끓여주시면 완성. 간은 각자 기호에 따라 소금으로 해주시면 되구요, 아니면 죽을 완성 후, 꽃소금을 2t정도 넣어주시면 죽 전체의 간이 적당히 맞는것 같습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/3c4e3e86d0f2f9a8b5df415b46a0ba191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/e6ef84af8541a0e02eb5971e21b564111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/d21d7390d2e15ef94cfb1a089d88fcde1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/2620ca5d990b86ca96225dcaab83f2241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/715c3dbcf4c2d29e8fc76950500e35ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/a39a29f58106dfee9014cc9bdba3ea301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/5c15f4c3714c04a6786a1f264511db4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/bac9bec613c6ee9ed34b591ceec89ef81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/bfcd01b44c75a9948f45c9a7812040051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/97b500de3f5ba91cdc69097c3f7070901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/64e00a90bbe78bc9dc8309ec6da2390e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/e0b91a0397bbc9fddd35263659dd8bef1.jpg"
+	]
+}

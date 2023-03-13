@@ -1,0 +1,43 @@
+{
+	"id": "2965834",
+	"name": "콩나물국밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/12/c65dab478464433841d8e8896da4f6f01.jpg",
+	"url": "https://www.10000recipe.com/recipe/2965834",
+	"ingredient_ids": [
+		390,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 황태대가리와 멸치를 조금 넣고 20분간 끓여 줍니다.",
+		"2. 냄비에 물과 콩나물을 넣고 뚜껑덮고 콩나물이 비린내가 가실때까지만 살짝 끓여 줍니다.",
+		"3. 김치는 잘게 썰은 후 참기름과 깨소금을 넣고 조물조물 무쳐 둡니다.",
+		"4. 매콤한 청, 홍고추는 잘게 다져 줍니다.",
+		"5. 파도 잘게 다져 줍니다.",
+		"6. 그릇에 밥 반공기를 넣어 줍니다.",
+		"7. 그 위에 콩나물을 놓아 줍니다.",
+		"8. 황태국물을 넣고 끓여 줍니다. 끓어 오르면 김치, 청, 홍고추, 파, 새우젓 1/2작은술, 고춧가루 1/2작은술을 넣고 한소큼 끓인 후 맛나게 드시면 OK."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/72d92db144f98b681833a516ef02870b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/ca3aab5268edcc5767fb759d1131ae3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/22329e310c4501f44849c4474e29fd9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/f49412a411550862c4953729314769e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/c55270a568d71a18c550cfa38731a5b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/c39a3d30faba3d205875bc6c9777f2e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/a5421b00eca95b2df58a78783c2091151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/fde799e92d76370bc26a311528631a6a1.jpg"
+	]
+}

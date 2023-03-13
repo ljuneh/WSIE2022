@@ -1,0 +1,50 @@
+{
+	"id": "6856896",
+	"name": "만물상에 나온 느타리버섯 튀김",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/619d3c691b942a9599ac6e5476fdb90d1.png",
+	"url": "https://www.10000recipe.com/recipe/6856896",
+	"ingredient_ids": [
+		734,
+		219
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "느타리버섯2줌(200g)",
+			"ingre_count": "2줌(200g)",
+			"ingre_unit": "줌(g)"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "Cup"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진청고추",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 느타리 버섯은 깨끗이 손질 해 면보를 이용해 물기를 최대한 꽉 짠다.느타리버섯 2줌(200g)면보",
+		"2. 볼에 물기를 없앤 느타리버섯과 튀김가루 1/2 cup , 달걀 1개를 넣고 섞은 후 다진 청고추 1T, 홍고추 1T 를 넣고 한번 더 섞는다.볼",
+		"3. 반죽까지 완성 된 느타리 버섯을 달군 기름에 튀겨 낸다.",
+		"4. 채에 걸러 한김 식힌 후 다시 한번 튀겨 내어 바삭함을 더 한다.채"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/098817038094b451291cbf7e287564851.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/ec6afe4314caae16e4f3333c09a904591.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/a2dfe7017f1b51214cc63785d515115e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/a8628b8b2e5c0fa9dd4f39420eff589b1.png"
+	]
+}

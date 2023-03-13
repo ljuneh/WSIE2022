@@ -1,0 +1,122 @@
+{
+	"id": "6166702",
+	"name": "고등어 한마리로 만든 바삭하고 촉촉한 고등어 덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/f9f81bcd5cbd3c27b0fae8c5782563011.jpg",
+	"url": "https://www.10000recipe.com/recipe/6166702",
+	"ingredient_ids": [
+		59,
+		52,
+		134,
+		911,
+		995,
+		343,
+		379,
+		28,
+		29,
+		27,
+		3
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "고등어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "레몬",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "절임용소금",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강채썬것",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "녹말",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3~4컵",
+			"ingre_unit": "~컵"
+		},
+		{
+			"ingre_name": "적포도주",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "아로니아1큰술(옵션)",
+			"ingre_count": "1큰술(옵션)",
+			"ingre_unit": "큰술(옵션)"
+		}
+	],
+	"recipe": [
+		"1. 채소는 깨끗이 씻어 준비했어요.",
+		"2. 고등어 한 마리는 포를 떠서 소금을 뿌려 30분 정도 절여 주세요.",
+		"3. 절인 고등어를 그릇에 놓고 미림과 얇게 저민 생강과 레몬을 올려 주세요. 여유 있으면 30분 정도 두고 금방 조리할 경우엔 10분 정도 마리네이드 해주세요.",
+		"4. 냄비에 준비한 맛간장 재료를 넣고 뭉근하게 15분 정도 끓여 2컵 반 정도 나오도록 해요. 이것을 냄비에 붓고 버섯과 녹말물을 넣어 농도를 조절해주고 한번 끓여 불을 끄고 홍고추를 넣어 주세요.",
+		"5. 미림과 레몬에 담근 고등어를 녹말가루 → 달걀 → 빵가루를 꼼꼼하게 입혀주세요. 위에 올리브유를 뿌리고 180도의 오븐에 15분 익혀 줬어요.오븐",
+		"6. 고슬고슬하게 지은 밥 위에 살짝 데친 숙주를 한 줌 올려주고 생선 포 뜬거 한 장을 적당하게 썰어 밥위에 올려 주세요.",
+		"7. 오븐에서 노릇하게 익혀진 고등어를 올리고 채설어 물에 담가둔 생강채 올리고 맛있는 맛간장을 부어 주세요.",
+		"8. 얇게 채를 썬 생강과 무순을 올린 고등어 덮밥."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/67173b739d1ffe9ea9e89a22f100f9521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/e1456846333e4d133247264bf4c989f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/08007891c35c5705d419510be6b725c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/0962a0aead892d75b545d68f5b50f26e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/01daa6cc0bff688a5e2484d217a1c34d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/ff97e265c1649cd916913007fe1a3e201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/2b909001e91c8ff60814816d09e631ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/dd23b655f5c70cf6cced64cc91d8e3c61.jpg"
+	]
+}

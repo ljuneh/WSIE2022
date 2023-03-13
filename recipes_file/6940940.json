@@ -1,0 +1,43 @@
+{
+	"id": "6940940",
+	"name": "백파더 마요 라면땅",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/dc9b5b3a6ff60d34532264bedc7568301.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940940",
+	"ingredient_ids": [
+		441,
+		228,
+		526
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 라면은 면이 굵은 것은 안 좋을 것 같구요. 면 굵기가 보통이거나 얇은 것이 좋을 것 같아요.",
+		"2. 접시에 라면을 놓고 라면 위에 마요네즈를 짭니다. 숟가락으로 고루 펴발라주세요. 반대쪽도 마찬가지고요. 양쪽 면 합해서 마요네즈 3큰술입니다.",
+		"3. 앞뒤로 설탕 1큰술을 뿌려줍니다.",
+		"4. 라면 스프 1/2봉지를 앞뒤로 고루 뿌려주세요. 마요네즈도 짭짤하여 라면 스프를 너무 많이 넣으면 안 된답니다.",
+		"5. 전자레인지에서 2분 50초간 돌리거나 에어프라이어 180도에서 5분 돌려줍니다. 가정마다 전자레인지 출력이 다르니 시간을 가감하세요. 저는 전자레인지에서 2분 20초간 돌려주었어요. 전자레인지,에어프라이어"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/36d7e6c4545455a1451084b7bb1d04d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/2a36161e6732568de86a7c62ec04087e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/2776541e16293d70cefe0a6b7cf88faf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/83980079abcc7dc3780b3842e92af5b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/3590d0b4a99eae38ee0e17be0dec73df1.jpg"
+	]
+}

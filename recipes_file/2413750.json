@@ -1,0 +1,52 @@
+{
+	"id": "2413750",
+	"name": "홈메이드 깨찰빵 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/5dbbc9d9c52309948ed0bfceb20952fc.jpg",
+	"url": "https://www.10000recipe.com/recipe/2413750",
+	"ingredient_ids": [
+		219,
+		995,
+		198,
+		547
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "깨찰빵믹스",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "124",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "151",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "86",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "85",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 깨찰빵프리믹스 제품을 이용했기 때문에 만드는 과정은 참 편합니다. 실온에 둔 버터를 부드럽게 풀어 주세요. 달걀을 넣고 잘 섞어 주세요.",
+		"2. 상온의 물과 양조간장을 넣고 잘 섞어 주신 후 깨찰빵 프리믹스 가루를 넣고 잘 섞어 주세요.",
+		"3. 반죽이 완성된 상태입니다. 많이 진 상태이기 때문에 성형하실 때에는 덧밀가루를 사용하셔야 모양이 잡힌답니다.",
+		"4. 대략 50-60g 정도로 분할하여 오븐 팬에 올려 주세요. 160도로 예열된 오븐에서 약 40-50분 정도 구워주세요.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/1215dddc33b2c3646a66cdeb274bb2261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/44e9fa7614d398c1c1579fdcff00cf3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/9ed2b0c55f1adfdb2346b0d0b0b544181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/8f9083a9481390e23cf9fc0bad3744e51.jpg"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"id": "2828054",
+	"name": "집에서 해먹는 양갈비 스테이크 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/ed19f005d277e6d0e2633511fb3f1a83.jpg",
+	"url": "https://www.10000recipe.com/recipe/2828054",
+	"ingredient_ids": [],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "양갈비",
+			"ingre_count": "4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "스테이크시즈닝",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "와인",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 양갈미에 칼집을 잔잔하게 넣어준 다음 와인을 뿌려주세요. 시즈닝 솔트(스테이크 소금, 없으면 소금, 후추, 허브로 대체)도 솔솔 뿌려주고 올리브오일을 뿌려둡니다. 마리네이드 한다고 하죠?",
+		"2. 보통은 뜨겁게 예열한 팬에 앞뒤 겉면만 살짝 익혀준다음 오븐에 구워주는데 전 다행이도 직화구이팬이 있어서 바로 올려 구웠습니다.오븐",
+		"3. 노릇 노릇, 지글지글 잘 익어 갑니다. 젓가락이나 포크로 찍어 보아 핏물이 솟아나지 않으면 잘 구워진거죠."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/1185d5b84c927a1f66f0eea51e23eb691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/e881c687030565d284740f5baf46c0161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/242470687b40398b6a05c72dbf9b143f1.jpg"
+	]
+}

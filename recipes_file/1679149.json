@@ -1,0 +1,104 @@
+{
+	"id": "1679149",
+	"name": "고추장 감자찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/f7714b86b55d17c5ce141a5d0d86be1b.jpg",
+	"url": "https://www.10000recipe.com/recipe/1679149",
+	"ingredient_ids": [
+		320,
+		325,
+		295,
+		473,
+		224,
+		233,
+		349,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "20",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "다시마小",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물3컵+1/2컵",
+			"ingre_count": "3컵+1/2컵",
+			"ingre_unit": "컵컵"
+		},
+		{
+			"ingre_name": "감자中",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파小",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파15센티1대정도",
+			"ingre_count": "1",
+			"ingre_unit": "대 정도"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 감자는 껍질을 벗겨 네모지게 썰어 준비하세요.",
+		"2. 양파, 호박, 대파, 청양고추도 알맞게 썰어 준비합니다.",
+		"3. 냄비에 분량의 물을 붓고 멸치, 다시마 넣어 끓이고 끓기 시작하면 다시마는 건져 내세요. 멸치도 함께 끓여줄거라 따로 건지지 않을 거예요~고추장 찌개는 멸치 육수맛이 진해야 맛있거든요.",
+		"4. 썰어 둔 감자 넣고요.",
+		"5. 고추장을 풀어 넣어요.",
+		"6. 감자와 고추장을 넣고 끓기 시작하여 조금 더 끓여준 후 썰어 둔 호박, 양파를 넣어주세요.",
+		"7. 끓기 시작하면 다진마늘, 국간장 넣고 또 끓이세요.",
+		"8. 감자와 호박이 익고 국물이 재료들과 잘 어우려져 적당한 농도가 되면 마지막으로 고춧가루, 대파, 청양고추 넣어 가볍게 우르르 끓여 마루리 하세요~ 모자라는 간은 소금으로 해요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/90086a56c66c292aedd8e5113a9302ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/dab988907c30acd32063cf2fa1f5efe61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/5e4e59e79985c3ffbd9e05ddfb48832f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/d070cf3bd03f32dd4de0858663ed84bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/ab809d21e6374a1b7edee69e4604f6471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/3bd99c91e09c925c0f361747d261690f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/3a6d877204f40938c494d662053395ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/18d456faa3798d0888942d133c79bb531.jpg"
+	]
+}

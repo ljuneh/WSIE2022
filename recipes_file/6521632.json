@@ -1,0 +1,38 @@
+{
+	"id": "6521632",
+	"name": "멸치국수 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/9d1fd227c69007c4aa75cb25c86c06aa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6521632",
+	"ingredient_ids": [
+		523
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "다시멸치(육수용)",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 우선 국물을 낼때 머리랑 똥은 제거해줘야 국물맛이 깔끔하게 나니까 한꺼번에 싹 다듬어서 보관하도록 할게여 한번에 다 손질하려니 목도 아프고 허리도 아프긴 하지만, 이렇게 해놓으면 국물 낼때마다 바로 사용할 수 있으니 편리해요.",
+		"2. 다시멸치를 한웅큼 넣어 멸치육수를 내주세요.  다시마는 너무 오래 끓이면 끈적이는 점액이 나와 국물이 탁해지니까 물이 끓어오르면 건져서 고명으로 사용하도록 할게요",
+		"3. 소면 삶고 확 끓어오를때 찬물 끼얹어주면 쫄깃한 면발 완성! 체에 받쳐 물기 제거해 주시구요 멸치국수에 올릴 고명을 준비해볼게요.",
+		"4. 호박은 채썰어서 팬에 들기름 두르고 달달 볶아주세요. 계란지단은 귀찮으니 그냥 흰자노른자 섞어서 만들고... 지단도 채썰어주시면 되요",
+		"5. 신김치는 잘게 다져서 설탕,참기름 넣고 조물조물.. 아까 육수내고 건졌던 다시마도 채썰어주면 멸치국수 위에 올릴 고명 완성.",
+		"6. 뜨끈하게 데운 도기그릇에 소면과 멸치육수 그리고 고명을 얹어주면 맛있는 멸치국수 완성-"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/5b536cc8c6eca45528d8cb32194109651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/0ed2a086b84b73f3e2b14a2591a6cb921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/bf64f928b7f5f158942f80f06a2f27cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/095591c02644326ef81459e16c9908bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/dd4c38614cf175589f2b061099048dcb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/c80da2be61841b09b1f1d81602972bfe1.jpg"
+	]
+}

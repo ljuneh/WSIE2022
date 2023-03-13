@@ -1,0 +1,73 @@
+{
+	"id": "6901431",
+	"name": "양지머리로 끓인 '소고기 미역국'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/06/ed64378603247e536a8c65dbec5650e91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6901431",
+	"ingredient_ids": [
+		660,
+		846,
+		995,
+		233
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기국거리(양지)",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "건미역",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "집간장(국간장)",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		}
+	],
+	"recipe": [
+		"1. 핏물을 제거한 고기는 청주와 후추만 뿌려서 잡내를 잡아요. 간장넣어 조물거린 후 볶아 육수를 끓이면 염분때문에 탈수가 일어나 육수가 잘 되지 않아요.",
+		"2. 미역은 물에 담궈 불려주는데요.미역을 빨리 불리려면 물에 담군채로 전자렌지에 1분 돌려보세요~",
+		"3. 고기를 참기름에 달달 볶아요~",
+		"4. 고기가 표면이 익어가면 미역을 한입크기로 잘라서 넣어 같이 볶아줍니다~",
+		"5. 물 1200ml를 넣고 끓여요. 끓어오르며 떠오르는 거품은 불순물과 함께 떠오르니 건져내어 주세요~",
+		"6. 간 하기 전에 다진마늘 먼저 넣어줍니다.  미역이 단단해서 40분정도 끓여주고요. 집간장으로 간을 맞췄어요~",
+		"7. 완성되었어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/06/884896a5ba8fbae2da7f3bec3f4edca91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/06/c61b8f495b7896621a73c0ce79f313f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/06/e8629b80436a4297ca44d779da8c74471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/06/8872b4f0d00ba46c56a0bee9b57e10751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/06/d17a58fb339dfc1a09c4c29ef903bedd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/06/ca619f97a0c9be3d11b2ddf1e00c5be71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/06/8fa6b49466bdf5464f6c4557f942faef1.jpg"
+	]
+}

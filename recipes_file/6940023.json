@@ -1,0 +1,50 @@
+{
+	"id": "6940023",
+	"name": "시원한 음식 디저트 / 토마토 매실액 절임 (토마토 마리네이드)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/f943853071e9743b35c9e803728420101.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940023",
+	"ingredient_ids": [
+		590,
+		253,
+		51
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "애플민트",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "로즈마리",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "매실액기스",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 로즈마리, 애플민트를 준비한다.",
+		"2. 토마토는 꼭지 반대 부분에 십자 모양으로 칼집을 넣는다.",
+		"3. 칼집을 넣은 토마토는 뜨거운 물에 껍질이 살짝 벗겨질 때까지 데쳐준다.",
+		"4. 데친 토마토는 찬물에서 껍질을 제거한다.",
+		"5. 소독한 병에 로즈마리, 애플민트, 토마토를 넣는다.",
+		"6. 매실액기스를 넣어 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/7585574a34745e670490f24b7c88f9ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/7ce5bfc1b5a41f30207a88febe65ca421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/150f71391ec722a712990028067fa3041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/ad3f2f234a3bcb0545557cd241be5cf31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/b596251431edda152c5603a62d2333901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/436b6fafd81b3d8ced93b7ab6f154b271.jpg"
+	]
+}

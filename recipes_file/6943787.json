@@ -1,0 +1,78 @@
+{
+	"id": "6943787",
+	"name": "떠먹는 피자 만들기 아이와 함께요리^^",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/0ea1242632c64e82eb080aae7cc85f531.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943787",
+	"ingredient_ids": [
+		6,
+		3,
+		5,
+		54,
+		732
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "소세지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콘옥수수",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "피자치즈큰",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "토마토소스",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 감자는 껍질을 다 까주고 냄비에 물을 담아 팔팔끓여 삶아 주세요 젓가락이 푹 들어갈때까지 삶아주면 다익은거니 중간중간 젓가락으로 찔렀을때 푹 들어가면 물을 빼주면 됩니다~",
+		"2. 소세지는 많을수록 맛있는거 같아요^^ 아이들이 소세지를 좋아하니까 저도 더 많이 넣게 되더라구요 소세지는 납작 동글하게 썰어주고 파프리카 1/3은 작은 큐브로 썰어줍니다                   ",
+		"3. 양파 1/2도 작은 큐브로 썰어주고, 양송이버섯은 편으로 썰어 주세요 참고로 저는 야채와 소세지의 절반 가량을 아이가 전부 썰었어요^^ 불 다루는 요리는 같이 할 수 없으니 썰기는 아이에게 전적으로 맡겨주는게 좋을거 같아요                   ",
+		"4. 다익은 감자는 물에서 건져 전자렌지에 돌려도 되는 유리그릇등에 담아 포크등을 이용해 꾹꾹 눌러 으깨주시고                   ",
+		"5. 다 으깬 감자는 숟가락 등을 이용해여 평평하게 펴주세요",
+		"6. 아이와 같이 썰은 야채들과 햄은 기름을 두른팬에 달달 볶아주세요 이때 콘옥수수 3큰술도 담아 볶아줍니다~                   ",
+		"7. 토마토 소스는 6큰술을 퍼서 야채들과 함께 같이 볶아주세요 충분히 소세지와 야채들이 볶아지면                   ",
+		"8. 으깨서 펴주었던 감자위에 전부 올려 펴주세요~",
+		"9. 피자치즈를 듬뿍 위에 올려서 전자렌지에 2분이상! 피자치즈가 다녹을때 까지 돌려주면 완성!전자레인지                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/34f372a87d7776ceb6ad542a4a6e57b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c754d816c1901baa1f41dac6ba50c4bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/235f9a4c94598ec7d60ae4888936117b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/67d87b35ab16f9d3774e2df2e846f43d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/aa4adc420fc8f56235c07cc9143976541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/ea5166daf01acd8e23e1b9624cbb051f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/dc87355a9350c0946c56a39202f0ea241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/4cef5c3ac264627f8f6dde67a43e95201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/8b0d26e4bc98d4729de74c14a6231ebc1.jpg"
+	]
+}

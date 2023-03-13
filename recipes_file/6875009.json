@@ -1,0 +1,136 @@
+{
+	"id": "6875009",
+	"name": "잡채 어렵지 안아요! 초간단 잡채만들기.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/19/023458b870f75383a18391ac1a7ee27f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6875009",
+	"ingredient_ids": [
+		302,
+		57,
+		53,
+		3,
+		6,
+		9,
+		469,
+		660,
+		343,
+		575,
+		233,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "당면",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "목이버섯",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "동충하초버섯",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소고기(불고기감)",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "80",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "설탕35ml(2수저)",
+			"ingre_count": "35ml(2수저)",
+			"ingre_unit": "ml(수저)"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 당면250g은 한시간 정도 물에 푹 불려 주고 카놀라유 1수저 넣어 골고루 섞어 줍니다.",
+		"2. 불고기용 소고기는 다진마늘, 미림, 진간장,후추를 넣어  조물조물 밑간을 해 줍니다.",
+		"3. 7중 웍이 필요 해요. 양파를 채썰어 넣어 줍니다.",
+		"4. 양파위에 소고기를 올려 주고",
+		"5. 한시간 정도 불려서 씻어 준비한 목이버섯을 올려 줍니다.",
+		"6. 그 위에 표고버섯이나 새송이 버섯을 올려 줍니다.",
+		"7. 불려둔 동충하초버섯을 올려 줍니다. 없으면 생략 하셔도 괜찬아요.",
+		"8. 곱게 채설은 당근을 올려 줍니다.",
+		"9. 불려둔 당면을 올려 줍니다.",
+		"10. 파프리카는 맨위에 올려 줍니다. 미리 만들어둔 양념장을 2/3정도 부어 줍니다.",
+		"11. 인덕션 7단으로 25분 설정합니다. 가스불은 약불로 해주시면 되요.",
+		"12. 20정도 지나면 웍에 수봉현상이 일어나요. (웍 뚜껑이 물방울 때문에 들썩들썩 할때) 뚜껑을 열어 골고루 섞어주고 부족한 간은 남아있는 양념장으로 더해주고 참기름 한수저와 참깨를 넣어 골고루 섞어 주면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/19/78552a3d46eb2abc8cdc86b70b97a24b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/19/912255d122ea1e25f4a668a72a40b9cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/19/4ef24c8a8b956d23698a7e50ae3ceec31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/19/ec7e7ababe57f9bce30f02b3f46e51bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/19/1ef2b26a71a3049bac4a923db5d90e171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/19/a7f011a06b4285ba21c0ff44ece265931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/19/b1bbf6290d3667dbb26f31a75582734b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/19/7f566c22217b0e232fc71dff7c2ba4811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/19/d57c51f87f5867d9ddf4fce37413d6a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/19/648f27fabb80e0760b8d757bf4c2cbd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/19/6170dddcefccad50be3645c99b0c77961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/19/c9176cd8da401e711b408280165c77ca1.jpg"
+	]
+}

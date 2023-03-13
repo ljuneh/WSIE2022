@@ -1,0 +1,51 @@
+{
+	"id": "6945663",
+	"name": "정말 맛있는 초간단 구운 불고기버터주먹밥 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/3ed7e070dbf9925200c774b1f26281bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945663",
+	"ingredient_ids": [
+		198,
+		379
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥2+1/2공기",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "소불고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 소불고기를 바싹 볶습니다",
+		"2. 가위로 고기를 자릅니다",
+		"3. 볼에 버터를 넣습니다",
+		"4. 밥을 넣고 비빔니다",
+		"5. 삼각틀에 밥을 넣고 주먹밥을 만듭니다",
+		"6. 팬에 밥을 굽습니다",
+		"7. 접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/6df6f221eff1f0d2d915a46c1fe6e6b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/73f99f22de5b4d7ebd2d3f3c71cd79821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/6f9efbf1191ad5bac5de2bf8f9df1f831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/e89c90f41ab803b91290772229caf2281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/f79bbb023327383c88b84ec338d6cb6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/72abbec806112e5f9d7c3eedafa380fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/1bb8f9a69b006467b8b7f11c613b459f1.jpg"
+	]
+}

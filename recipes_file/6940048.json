@@ -1,0 +1,55 @@
+{
+	"id": "6940048",
+	"name": "복숭아청 만들기 복숭아에이드 시원한 음식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/a9ab94695734f1278f714b4780d8f9001.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940048",
+	"ingredient_ids": [
+		144,
+		226,
+		442
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "복숭아",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "선택사항라임or레몬",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "사이다",
+			"ingre_count": "1",
+			"ingre_unit": "병"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 복숭아를 베이킹소다 혹은 소금으로 표면을 문질러주고 흐르는 물에 깨끗하게 씻어주어요.",
+		"2. 유리병은 끓는 물에 3분가량 끓여 소독 후 뒤집어서 바짝 말려주어요.약불",
+		"3. 복숭아는 1개는 껍질을 벗겨서 얇게 썰고 나머지 1개는 껍질째로 얇게 썰어주어요. 껍질을 다 벗겨도 되지만 색깔이 이쁘라고 이렇게 반반 다르게 해봤어요.",
+		"4. 복숭아과육 400g, 설탕 300g 을 그릇에 넣고 숟가락으로 잘 섞어준다. 이때 레몬이나 라임을 섞어주어도 좋아요.",
+		"5. 유리병에 과일청을 넣고 뚜껑을 덮은 후에 1일 실온에 두었다가 다음날 냉장고에 넣어두고 드시면 돼요.",
+		"6. 하루 숙성한 복숭아청, 얼음, 사이다를 섞어서 복숭아 에이드로 즐겨요. 한모금만 마셔도 온몸이 짜릿해지는 시원한 음식!라임, 레몬을 조금 썰어 넣어도 트로피컬한 무드를 주어서 좋아요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/908b4f76144b250f12e00170be3048621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/09e93c3189dc57fe6cf3b0a90959afe71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/653a89e110a1325ae186c0882257c56d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/fafc813004b392f9ec8d63bc240287a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/c087f0da03e12ea8755c6310485b22d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/1f21a4d89546b1a4752a6004ae55b6fe1.jpg"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"id": "6940156",
+	"name": "돼지고기청국장맛있게끓이는법 청국장 맛있게 끓이는 방법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/86f7665c479686a483f06a14709aa3231.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940156",
+	"ingredient_ids": [
+		670,
+		911,
+		3,
+		325
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "청국장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기가 있다면 넣어주세요. 버섯과 양파 애호박을 준비해주세요.",
+		"2. 청국장을 3T 넣어주세요. TIP: 청국장의 좋은성분이 많으므로 마지막에 넣는것이 중요하다고 합니다. 저는 미리 넣어 버렸어요.",
+		"3. 야채와 돼지고기를 넣어주세요. 고추가루1T 넣어주세요.",
+		"4. 보글보글 끓을때 까지 기다려 줍니다.",
+		"5. 보글보글 끓어오르면 거품을 걷어주세요.",
+		"6. 야채가 다익었다면 이제 밥에 비벼 먹을수 있는 맛있는 돼지고기청국장이 완성되었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/d36efa295331c6e1c2439c9207d9ca541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/01ea06350fbaac26217a46a1028747211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/8baeb311af7df6b4caf2fa9e7a938fe71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/7adada35dcfb8b42c87994ef02887abf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/2de36d1c3e684e1500173e7a41d703591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/16453038788423fa7172371568a3a8661.jpg"
+	]
+}

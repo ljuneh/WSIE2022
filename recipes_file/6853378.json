@@ -1,0 +1,61 @@
+{
+	"id": "6853378",
+	"name": "달걀감자국 - 고소하고 담백한 감자국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/25/95056ce919e83fd524524bf0e6066d1d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6853378",
+	"ingredient_ids": [
+		5,
+		3,
+		27,
+		90,
+		219,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 감자 양파는 안입 크기로 썰어 준비해 줍니다. ",
+		"2. 냄비에 물 3컵 1/2를 넣고 감자와 다시마를 넣어 중간불에서 끓어줍니다. ",
+		"3. 물이 끓어 오르면 다시마를 건지고 양파를 넣어 감자가 다 익을 때가지 끓여줍니다. ",
+		"4. 소금으로 간을 맞춘 뒤 달걀을 풀어 붓고",
+		"5. 대파를 넣어 마무리 합니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/25/8566a074657577acecc3c7ca2b22fcfb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/25/33c18dc4f0cce2379317062b4207a2ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/25/3a39d95b926bbb6ca431fe4764ed8e1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/25/3c167a9f195da2b6792fc7efd2c428b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/25/26ae61477a7a81e710fda9bf22ec8de01.jpg"
+	]
+}

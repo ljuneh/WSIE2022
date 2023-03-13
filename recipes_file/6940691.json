@@ -1,0 +1,72 @@
+{
+	"id": "6940691",
+	"name": "베이컨 토스트 만들기 무조건 맛있는 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/ce72a0aa0529f3d575cb9b4d12e0f8281.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940691",
+	"ingredient_ids": [
+		406,
+		724,
+		228,
+		21
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "토스트",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "스위트콘",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 토스트와 재료를 준비해 주세요. 집에 있으신거 사용하시면 되는데 저희집에 스위트콘도 있어서 저는 활용해 볼께요.",
+		"2. 계란2알을 까서 양배추를 썰어서 넣어주세요. 소금1꼬집 넣어주세요.",
+		"3. 이렇게 크게 해서 반을 잘라주셔도 되고  모양을 상관없어요.  네모 2개만 나오면 됩니다.",
+		"4. 베이컨이 살짝구은 베이컨과 바삭구운 베이컨이 있는데 저는 바삭한 베이컨을 좋아해서 이렇게 해봤어요.",
+		"5. 후라이펜에 버터를 두르고 식빵을 앞뒤로 구워줍니다.",
+		"6. 아까 만들어 두었던 계란을 올려주세요.",
+		"7. 베이컨도 빠르게 올려줍니다.",
+		"8. 케찹과 마요네즈를 지그재그로 뿌려주세요. 설탕도 살짝 살짝만요.",
+		"9. 이렇게 반으로 접어서 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/ec191a6cda207a81d806330957cfd0fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/0383068f7ec5a05f5440ac4e733c551f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/c530e31ec12575707ee1e007dfb7c9941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/0d4e24bfe45150300fa574ba7a1aa9c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/6d15f941c8c5e08d7b9dfe901d4a6faa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/9643b55789b3baca01fa20c627b397771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/53a0db682a41e0bf90c499b4263fd99a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/127b1c1f97a311addf77e27b347b205b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/21218c5a1679a8c9a20a7f20d08c24571.jpg"
+	]
+}

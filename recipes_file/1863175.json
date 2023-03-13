@@ -1,0 +1,63 @@
+{
+	"id": "1863175",
+	"name": "깍두기 비빔밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/80ad02e059075ed15ccd020ae32e44c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/1863175",
+	"ingredient_ids": [
+		505,
+		660,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "흑미밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "깍두기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깍두기국물(또는고추장이나장조림간장소스)",
+			"ingre_count": "3~4스푼",
+			"ingre_unit": "~스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 그릇에 밥 한공기를 넣어주세요.",
+		"2. 밥위에 깍두기를 잘게 썰어넣고 깍두기국물도 3~4스푼 뿌려주고",
+		"3. 실파도 뿌려주고",
+		"4. 김가루도 뿌려주고 참기름, 통꺠로 마무리해주세요. 여기에 고추장이나 장조림한 간장소스있으면 넣어도 되지만 상큼하게 맛보려고 깍두기국물, 참기름만 넣어도 깔끔한게 더 맛있어요.",
+		"5. 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/03/e3631d86ed3b27d3d2f6b56e9babcd0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/03/d672e28953dece3c533e4385c0d225021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/03/a6a817a8197c9ac30302b3671bef13ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/03/002546b31b90982191a3ec27b3567a7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/03/8116ab52cf6806cdf7145d97a774b7431.jpg"
+	]
+}

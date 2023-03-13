@@ -1,0 +1,95 @@
+{
+	"id": "6945434",
+	"name": "프랑스 요리 감자 그라탕 만드는 법 감자 그라탕 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/78cfa688493fa751e8458e111376b11b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945434",
+	"ingredient_ids": [
+		5,
+		406,
+		198,
+		3,
+		233,
+		104,
+		234,
+		497,
+		212
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "옥수수",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "250",
+			"ingre_unit": "mL"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 0.5cm 정도 두께로 잘라준 감자를 15분 정도 냄비에 물을 받고 삶아주세요",
+		"2. 15분 정도 삶아준 감자는 체에 건져내어 자연스럽게 물기를 빼주신 다음에 소금과 후추를 뿌려 간을 해주세요",
+		"3. 베이컨을 노릇노릇 구워주세요중불베이컨 기름을 좋아하시는 분들께서는 생략해주셔도 좋습니다",
+		"4. 프라이팬에 버터를 녹여주신 다음에 양파와 다진 마늘을 넣고 양파가 갈색빛으로 변할때까지 볶아주세요약불양파가 갈색빛으로 변하는데는 생각보다 오랜 시간이 필요하기 때문에 조급해하지 마시고 천천히 볶아주세요 ",
+		"5. 밀가루를 넣고 볶아주세요",
+		"6. 우유와 감자, 베이컨, 옥수수를 넣고 볶아주세요",
+		"7. 우유가 걸쭉해지기 시작하면 취향에 맞게 소금과 후추를 넣어 부족한 간을 맞춰주세요",
+		"8. 소금으로 부족한 간을 맞춰주었으면 그릇에 담아 모짜렐라 치즈를 위에 뿌려주시고 오븐 또는 전자레인지를 사용하여 모짜렐라 치즈를 녹여주세요 모짜렐라 치즈를 전부 녹여주었으면 감자 그라탕 완성입니다오븐 : 200도 7분, 전자레인지 : 700W 4분 (절대적인 시간은 아니므로 참고만해주세요)집에 오븐이 있으신 분들께서는 먹음직스러운 그라탕을 만들기 위해 오븐을 사용해주시는 것을 추천해드립니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/41467a4a471feae97af23577c3c838d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/8785db17ade87121da6dc86e470d7c8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/fe9ddb5e1b45650a6fcfc771835ecb041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/841d52d8bff2736593510a885f550cc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/3eada5340f0be63e338509c1a2c23c061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/916515150c1e28db25039c651c7411b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/56dfd8fae92ed0c357ea28d8e9442fb21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/5c094748f0babb57eeec663f5f055e291.jpg"
+	]
+}

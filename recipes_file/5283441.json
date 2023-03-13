@@ -1,0 +1,107 @@
+{
+	"id": "5283441",
+	"name": "매콤달콤 돼지갈비찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/d2418fdbc0f77ff5b5c92f7351102a3f.jpg",
+	"url": "https://www.10000recipe.com/recipe/5283441",
+	"ingredient_ids": [
+		187,
+		9,
+		543,
+		379,
+		136,
+		29,
+		3,
+		142,
+		27,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지갈비",
+			"ingre_count": "1.",
+			"ingre_unit": ".kg정도"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대추20개정도",
+			"ingre_count": "20",
+			"ingre_unit": "개 정도"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "7",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "요리당",
+			"ingre_count": "3.",
+			"ingre_unit": ".TS"
+		},
+		{
+			"ingre_name": "매실",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "청양고추(생략가능)3개정도",
+			"ingre_count": "3",
+			"ingre_unit": "개 정도"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 돼지갈비는 찬물에 담궈 물을 여러번갈아주면서 핏물을 빼줍니다",
+		"2. 냄비에 월계수잎, 마늘, 대파를 넣고....핏물을 빼준 돼지갈비를 넣고 10분정도 데쳐줍니다",
+		"3. 믹서기에 양파, 배, 마늘, 청량고추, 대파를 넣고 갈아주세요",
+		"4. 데친 갈비와 갈아놓은 야채들과 함께 간장양념을 적당히 해주시고 냉장고에서 잠시 숙성시켜줍니다",
+		"5. 적당히 숙성시킨 돼지갈비는 물한컵을 넣고 조려주세요 첨에는 쎈불에서 끓어오르시 시작하면 중간불과 작은불사이에서 조려줍니다 국물이 반정도 졸여지면 밤과 당근, 대추를 넣고 마져 자작하게 줄여주시면 됩니다 부족한 간은 간장으로 하시면 됩니다",
+		"6. 양념에 아주 잘 베인 돼지갈비 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/70e26f6d8aea44e1492a8130b1f616d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/770ce9dde9e85a32c1c4ad22883c3a931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/cac3e8066e18e49be3da57948b7cc1931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/36a0024c6135f3f39786da122f57d3621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/799dcebd097b3aec7545a4c5a23cf5e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/01b8d84270d739d29b012f1c2a1045e11.jpg"
+	]
+}

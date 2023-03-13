@@ -1,0 +1,100 @@
+{
+	"id": "1773663",
+	"name": "매콤한 오뎅볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/6d089218e10ca786ff38a8ca7fbc3fc6.jpg",
+	"url": "https://www.10000recipe.com/recipe/1773663",
+	"ingredient_ids": [
+		3,
+		27,
+		473,
+		379,
+		226,
+		497,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "넙적한오뎅",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시마사방5cm",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "국물멸치",
+			"ingre_count": "6~7마리",
+			"ingre_unit": "~마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 찬물에 다시마, 멸치 넣고 끓이다가 다시마는 건져내고 멸치만 둔채로 우려냅니다. 그동안 오뎅도 썰고 대파, 양파도 썰구요. 한쪽불에 오뎅 데쳐낼 물도 올려둡니다. 이제 멸치는 건져내고 멸치국물에 고추장, 고추가루, 간장, 설탕, 간마늘, 양파넣고 끓여줍니다. 다른 끓는물에 오뎅도 살짝 데쳐 기름기와 잡내를 제거합니다.",
+		"2. 끓는 양념에 데쳐낸 오뎅을 넣으세요.",
+		"3. 대파도 넣고 끓이면서 소금, 후추로 간하여 마무리합니다.",
+		"4. 통깨 살살 뿌려 담아내면 먹음직스러운 오뎅볶이 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/13d0c192323c12915328bc2385a8007d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/de851b7f458f7948ea158804474aabb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/fb15046a104a2c3c53b1c5293bfd9b2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/293b38cb98c8f262437d5ab0aa39c46d.jpg"
+	]
+}

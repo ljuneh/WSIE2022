@@ -1,0 +1,88 @@
+{
+	"id": "6943994",
+	"name": "유자청 요리 / 돼지고기 유자청 덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/2b16c40531a606c2e17398157fbdd5331.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943994",
+	"ingredient_ids": [
+		963,
+		497,
+		225,
+		379,
+		292,
+		231,
+		575,
+		980,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "대패삼겹살",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "유자청",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 대패삼겹살에 소금, 후춧가루로 밑간한다.",
+		"2. 밥을 준비한다.",
+		"3. 간장, 맛술, 식초, 올리고당, 유자청, 다진 마늘을 넣고 양념을 만든다.",
+		"4. 프라이팬에 기름 없이 센 불로 고기를 볶는다.",
+		"5. 프라이팬에 양념을 넣고 센 불에서 끓인다.",
+		"6. 양념이 끓이면 볶은 고기를 넣고 센 불로 졸인다.",
+		"7. 밥은 그릇에 담고 덮밥 고명을 올린다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/7ba061b7e68010b22ec352c4fe1e2ab71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/c891d516af4fa69d2ce959cd200f4c371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/5070163cbc4cb0f748e0b8f7b3332fc21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/abbf88e066683edfdd79d7078953a1431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ed73086874a3253742e241cd19006b3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/bdaf3803a2c1c955e90804464f898cf41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/84dcaca51e849aa77f044ac243e1d2211.jpg"
+	]
+}

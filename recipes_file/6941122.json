@@ -1,0 +1,84 @@
+{
+	"id": "6941122",
+	"name": "컵 샐러드 초간단 레시피 (아보카도 비트)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/84d97c8612d18ec628fe7ebe6fa88afa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941122",
+	"ingredient_ids": [
+		497,
+		231,
+		574,
+		162,
+		324
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "디종머스타드0.5티스푼이하",
+			"ingre_count": "0.",
+			"ingre_unit": ".티스푼 이하"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "3",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "비트0.5개이하",
+			"ingre_count": "0.",
+			"ingre_unit": ".개 이하"
+		},
+		{
+			"ingre_name": "맛살3~4개정도",
+			"ingre_count": "3~4개 정도",
+			"ingre_unit": "~개 정도"
+		},
+		{
+			"ingre_name": "두유",
+			"ingre_count": "1",
+			"ingre_unit": "큰숟가락"
+		},
+		{
+			"ingre_name": "래핑카우",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		}
+	],
+	"recipe": [
+		"1. 샐러드 드레싱인 프렌치 비네그레트를 만들어요. 소금, 후추는 한 꼬집씩 넣고, 식초 1티스푼으로 소금을 녹여요. 머스타드 0.5티스푼 넣어 섞은 후, 올리브유 3티스푼 넣어 섞으세요.소금후추 한 꼬집, 식초 1티스푼, 머스타드 0.5 티스푼 이하, 올리브유 3티스푼.디종 머스타드는 생략해도 괜찮아요. 머스타드는 소량만 넣으세요. 많이넣으면 셔요. ",
+		"2. 저는 원래는 진짜 게살을 넣는 것을 좋아하는데 못 찾아서 이번엔 맛살도 만들었어요. 진짜 게살이 더 예쁘고 짠 맛이 없어서 좋아요. 완성 사진 중 하나는 맛살이고 하나는 게살이에요. 맛살이던 게살이던 잘게 잘라주면 준비 끝.볼에 넣어 나이프로 잘라주면 쉽게 할 수 있어요. 새우는 칵테일 새우 추천해요.",
+		"3. 비트는 티스푼으로 떠먹을 수 있도록 잘게 잘라 준비해요.저는 준비하기 쉽게 미리 삶아서 파는 비트를 구입해요. 통조림은 인터넷에서 쉽게 구할 수 있어요.",
+		"4. 아보카도는 반으로 갈라 열어 씨를 빼고, 숟가락으로 속살을 꺼내요. 포크로 뭉게주고 레몬즙을 살짝 뿌리세요.레몬즙을 뿌리면 갈변을 막을 수 있어요.",
+		"5. 래핑카우가 있으면 넣어주면 더 맛있어요. 한 조각 넣었어요. (생략가능) 저는 부드러운 텍스쳐를 위해서 두유도 살짝 섞어줘요. 이 또한 생략가능한데, 두유는 정말 추천해요.우유로 넣으셔도 되어요.",
+		"6. 잘 섞어주면 준비 끝이에요.",
+		"7. 투명한 컵에 비트-아보카도-토핑 순으로 예쁘게 올려주면 되어요. 저는 방울 토마토로 장식했어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/d826b8b9e0a4e1a51b625d509c9777e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/e567ec77c8ad5141d1bc79e8664eef461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/37b52fda249de1a6e85ce0e947abef551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/477be744cc09c0b729da16d90bab7ca81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/f64a1f0db86c7fb27ed99f81ea01b4651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/3e6163fee3513a1e3d9abda591aa151b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/888bd53054a8cf5dbcc51e467d06615d1.jpg"
+	]
+}

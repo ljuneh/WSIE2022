@@ -1,0 +1,104 @@
+{
+	"id": "6928699",
+	"name": "집에서도 쉽게 만드는 방구석 푸팟퐁커리 만들기(aka. 계란카레 레시피)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/03/17/5d0dad338b2fbd3959e06e54998c067a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6928699",
+	"ingredient_ids": [
+		27,
+		3,
+		224,
+		233,
+		379,
+		575,
+		231
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "크래미",
+			"ingre_count": "90",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "페페론치노",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 양파와 대파는 송송 썰고, 페페론치노는 잘게 으깨주세요.",
+		"2. 크래미 맛살은 먹기 좋은 크기로 썰어줍니다.",
+		"3. 튀김가루와 물을 넣고 튀김반죽을 만들어 준 뒤 맛살을 넣어줍니다.",
+		"4. 프라이팬에 식용유를 두르고 맛살을 노릇하게 튀겨주세요.",
+		"5. 그 다음 팬에 대파를 넣고 파기름을 내준 뒤  고춧가루 1큰술, 다진마늘 1큰술, 페페론치노를 넣고 같이 볶아주세요.",
+		"6. 재료들이 잘 섞이면 여기에 양파를 넣고 살짝 볶아주세요.",
+		"7. 양파가 반투명하게 익으면 여기에 간장 1큰술, 올리고당 1큰술, 식초 1큰술을 넣고 다시 한번 더 볶아주세요.",
+		"8. 다음 카레가루 3큰술을 넣어주세요. (카레가루는 듬뿍)",
+		"9. 살짝 한번 볶아준 뒤 우유 400ml를 부어주세요.",
+		"10. 카레가 걸쭉하게 끓어오르면 계란 2개를 넣고 잘 섞어주세요.",
+		"11. 계란이 다 익으면 여기에 맛살튀김을 넣고  살짝 한번 끓여주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/17/74b805c483a18028651320a2abf3a32f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/17/59506cdd0021ef4ce188284cc75972c31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/17/58984bc90378cf27c362d0ae62950bd31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/17/9c3aa0820295465ee35969ee9d0cdfe81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/17/ddd80bac5e7558f637033bea9b27cf3c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/17/5badd8493f53fd85cdf0ee5884fe08351.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/17/87d7f1bfc27b474ed49d39606654eac61.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/17/2cba5a8f6fbf8e5af6cdb45ef7829b961.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/17/c72a36e1077c15b39cf85604f60e9d8c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/17/9e4e22a60014fff818c456d11bc822a81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/17/c1b04a820ea15927122c834c55a934ad1.png"
+	]
+}

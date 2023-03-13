@@ -1,0 +1,149 @@
+{
+	"id": "6896927",
+	"name": "#현지에서먹힐까 #이연복셰프의 황두장을 넣은 물짜장만들기 #중국된장 황두장의 구수한맛이 들어간 걸쭉한 황두장짜장면!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/763ba6819620321e6e6d319c13fda6ac1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6896927",
+	"ingredient_ids": [
+		8,
+		3,
+		21,
+		65,
+		233,
+		457,
+		477,
+		1028,
+		660,
+		467,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "카레용돼지고기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "주키니5cm",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧기름",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "썬파",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "중국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "황두장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "짜장가루",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "달걀후라이",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 양배추, 양파, 주키니, 오이를 준비해 놓았어요. 양파는 썰다보니 양이 적어서 한개반을 추가해 넣어 주었습니다. 총 양파는 3개가 들어갔네요. 원래 현지에서먹힐까 짜장에 들어가는 양파는 채를 썰어서 넣어 주었는데 다른 재료들을 생각해서 깍둑썰기로 썰어 주었습니다. 모든 재료들은 비슷한 크기로 깍둑썰기로 썰어 주시면 될 것 같아요. 물론 여기에 들어가는 재료 말고 배추, 버섯 등 다른 재료들로 대체하셔도 됩니다.",
+		"2. 일단 양파, 오이, 주키니를 썰어 놓았어요. 오이도 볶아서 먹으면 의외로 맛있거든요. 단!!! 오이가 쓰지 않을 경우에서만요.",
+		"3. 양배추도 비슷한 크기로 마저 썰어 준비합니다. 그럼 들어가는 재료들은 모두 되었네요. 돼지고기는 카레용으로 구입해서 이미 잘라져 있기 때문에 따로 칼질을 할 필요가 없었고요.",
+		"4. 오징어는 채썰어서 팔팔 끓은 물에 한번 데쳐 줍니다. 소금을 넣어서 데치시면 더욱 탱탱한 식감의 오징어가 될 수 있다고 하네요. 전 간편하게 냉동절단오징어를 사용했지요. 데친 오징어는 체에 걸러 물기를 빼 줍니다.",
+		"5. 이제부터는 센불에서 볶아주기만 하면 끝이지요. 고춧기름을 넣어 주고요. 대파썬것과 다진마늘, 다진생강을 넣어서 볶아 줍니다. 이번 짜장은 황두장이 들어간 물짜장이지만 좀더 사천식으로 매콤하게 만들고자 고춧기름을 사용했어요.",
+		"6. 파기름이 나왔다면 이제 카레용 돼지고기를 넣어서 같이 볶아 줍니다. 고기가 뭉쳐지지 않도록 볶아 줍니다. 그리고 여기에 청주나 소주를 넣어서 고기의 잡내를 잡아 줍니다. 화력이 좋다면 이 타이밍에 불쇼가 나왔을텐데 말이죠 ㅋㅋ",
+		"7. 돼지고기가 익으면서 회색빛이 돌고 돼지기름까지 나왔다면 모든 재료들을 한꺼번에 넣고 센불에서 볶아 줍니다.",
+		"8. 그리고 중국간장이나 진간장을 살짝 넣어서 다시금 볶아 줍니다. 간장을 조금 넣어 주면 풍미가 더욱 살아나고 불맛도 나기 때문이겠죠.",
+		"9. 이제부터 본격적으로 간을 해 주기 시작합니다. 황두장과 굴소스를 넣어 줍니다. 잘 섞이도록 볶아 주세요. 그럼 자연스럽게 국물이 생기게 되겠지요.",
+		"10. 마지막으로 데쳐 놓았던 오징어를 투하 합니다. 같이 센불에서 잘 섞어가면서 볶아 주세요. 지금까지 걸린 조리시간은 10분도 걸리지 않은 것 같은데요.",
+		"11. 점점 채소에서 물이 나오기 시작합니다. 하지만 물짜장이기 때문에 약간의 물 1/2컵을 넣어 줍니다. 그리고 후추랑 치킨스톡도 넣어 줍니다.",
+		"12. 그리고 짜장가루를 넣어 줍니다. 짜장가루에는 전분성분이 들어 있기 때문에 굳이 전분물을 넣지 않으셔도 됩니다. 자연스럽게 걸쭉한 상태가 되지요. 짜장가루가 자연스럽게 녹으면서 재료들에 스며들도록 웍을 들고 잘 섞어 주세요.",
+		"13. 드디어 황두장을 넣은 짜장이 완성된 것 같네요. 걸쭉한 상태의 너무 검지도 않은 짙은 황토색의 황두장 물짜장이네요. 불을 끄시고는 참기름 한바퀴 정도 둘러 주시고 섞어 주시면 됩니다.",
+		"14. 달걀후라이를 위에 올려 주면 현지에서먹힐까 이연복셰프를 따라한 황두장으로 만든 물짜장 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/41220373ff9ccbc98e15e6cb0c5c2a651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/b340de79ad71276a81be7e4a979d29111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/41bd5112091acd589462b8d2cb0778df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/1f43e7909640c37f62c5e706953496861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/285d0123e12213de54465c04418b73a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/1195dd173f174aeb7227ab0c80df7f481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/a7b3282b1682796cb6ad016eb4a24ddb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/823df2c13c174aebbc187f78119764e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/5d97bd8a691cc09c50f0ade77a13da9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/6c55ce3d39a9db25b9a5df988609ed5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/334664ac07313134cfc7556449c5bd6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/6a25f3247821664f2f29938f5071b7411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/29238a515d29bab5f748140d3db539b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/c8d9e67f383fc72ccfa0db8a95e5331f1.jpg"
+	]
+}

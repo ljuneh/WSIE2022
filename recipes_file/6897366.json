@@ -1,0 +1,47 @@
+{
+	"id": "6897366",
+	"name": "초간단 찬밥 잣죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/08/cc758b10af7bdf549797e78d2d73aed41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6897366",
+	"ingredient_ids": [
+		188,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "찬밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "뜨거운물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 뜨거운 물을 사용하기 때문에 유리믹서기나 환경호르몬이 나오지 않는 젖병 소재인 트라이탄 믹서기를 사용하면 좋아요. 저는 핸드믹서기를 사용했어요. 그래서 스텐볼에 따뜻한 밥1공기, 잣 3큰술, 소금 약간 등을 모두 넣었어요.",
+		"2. 종이컵 분량의 물 3컵을 전기주전자에서 끓여서 넣었어요. ",
+		"3. 요런 상태에서 핸드믹서기로 갈아주면 됩니다.",
+		"4. 끓는 물을 사용했기에 불을 사용하지 않아도 되지요. 그래서 아주 간편해요. 아주 곱게 갈아주어도 되고, 밥알이 약간 씹히게 갈아주어도 되는데, 저는 곱게 갈아주었습니다.",
+		"5. 부드럽게 잘 갈아졌답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/08/2a3feae2db28552b81c48025d540ee021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/08/7557e04016ff14312347a205891ffd3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/08/5896c46f3a66ec926b196493c892bcae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/08/c868ca436cd0f09b1682ca9bd2b487c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/08/b5f6ca43c1730fb3d3584dc6f98d0a841.jpg"
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"id": "6866412",
+	"name": "아욱국, 건새우 넣은 아욱 된장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/18f8f28953ae42c939715761193989671.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866412",
+	"ingredient_ids": [
+		33,
+		259,
+		995,
+		848,
+		233,
+		379,
+		292
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "아욱",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "6",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "조각다시마",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청양고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마지막간ㅡ소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 아욱은 밑둥을 잘라 버리고 바락바락 씻어 물기를 짜줍니다.",
+		"2. 물6종이컵에 다시마를 넣고 5분간 끓인뒤 다시마는 꺼내줍니다.",
+		"3. 다시육수에 된장을 넣어 풀어줍니다.",
+		"4. 고추가루,맛술,다진마늘,간장,아욱,건새우를 넣어 중불로 끓여줍니다.",
+		"5. 10분정도 끓여준뒤 간을보아 부족한 간은 소금으로 해줍니다. 저는 꽃소금 한꼬집 넣었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/0eb5c9e24a80866986dc8b253f5ccf5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/0c59260a1a325bc6e93e53c6caa88cc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/2fd51d0ca65ff071099ab89874e4aa821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/e52ca34f0c7026b1ad6a0d6d1b598b581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/06/099cf3a21cb8342b5c7c4c93cb8b37741.jpg"
+	]
+}

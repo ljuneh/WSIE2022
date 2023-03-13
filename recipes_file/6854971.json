@@ -1,0 +1,62 @@
+{
+	"id": "6854971",
+	"name": "소고기미역국 생일 미역국 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/19/593b50bad19e35b9fb615407b6ce53af1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6854971",
+	"ingredient_ids": [
+		122,
+		660,
+		29,
+		349,
+		497,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "불린미역",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소고기등심",
+			"ingre_count": "1",
+			"ingre_unit": "덩이"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 먹기 좋은 크기로 썰은 소고기와 참기름을 넣고 겉면이 익을 때까지 볶다가 불려놓은 미역을 적당히 잘라 넣고 달달 볶아줍니다                   ",
+		"2. 물을 냄비의 7~8부 정도 넣고 끓으면 마늘, 국간장, 소금을 넣고 폭 끓여줍니다                     ",
+		"3. 미역국이 완성되어 대접에 담았는데 특별히 생일인 사람은 고기를 듬뿍 넣어주었어요 고기반 미역반 ㅋㅋ 맛있게 먹고 더욱 건강하길 바라며~!! 덥지만 미역국에 밥 말아서 먹으니 아주 든든하니 속이 편하더라고요 덥다고 찬 음식만 먹어서 배가 냉할땐 가끔씩 따순 국물을 먹어줘야 좋답니다                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/24/b70a863c7bb1b03c6d02293d9999034c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/24/4e69f8b246f7b26303b76fd86597e8e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/24/27166b10a280ae3d663aa19920efa9e31.jpg"
+	]
+}

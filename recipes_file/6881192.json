@@ -1,0 +1,61 @@
+{
+	"id": "6881192",
+	"name": "이상민 짜장면. 궁셔리 만두소짜장면 레시피.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/21/4d9c00e06f4e61fd29b4fd40b9c5c17c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6881192",
+	"ingredient_ids": [
+		3,
+		21,
+		28
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "짜장라면",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "냉동만두",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		}
+	],
+	"recipe": [
+		"1. 냉장고 속 야채들을 넣어주시면 되는데요. 저는 양파와 양배추를 준비했어요. 냉동만두 3개도 준비하고요.",
+		"2. 한쪽에는 짜장라면의 면을 끓여줄  물을 끓이고요.  옆에서는 올리브유를 부어서  (짜장라면의 기름 이용하셔도 되요) 양파와 양배추를 볶아주세요.",
+		"3. 냉동만두는 껍질을 벗기고  속만 준비해주었어요.",
+		"4. 궁셔리 만두소짜장면에 들어가는 재료하나!바로 생강인데요 : ) 생강을 넣어야 맛이 좋아진다고 하더라구요. 저도 한번 넣어봤습니다. 나중에 먹어보니 생강 향이 은은하게 올라오면서 정말 잘 어울리더라구요.",
+		"5. 양파와 양배추를 볶아주는 팬에 만두소를 넣고 같이 볶아주었어요. 저는 짜장라면의 들어있는 건더기도 같이 넣어 볶아버렸다는요.",
+		"6. 끓는 냄비에 짜장라면의 면을 넣어주고요. 살짝만 익혀주세요.  다시 볶아야 하니까 면이 풀어질 정도만 삶아주세요.",
+		"7. 면을 건져서 야채볶음에 같이 넣고  짜장소스를 넣어 같이 볶아주세요 : ) 면을 끓인물을 버리지 마시고 퍽퍽하면 조금 넣어주면서 볶아주세요 : )",
+		"8. 휘리릭 섞어가면서 볶아주세요",
+		"9. 빠르게 볶아서 담아내주시면 완성이예요. 사진은 조금 면이 불어버렸지만  맛있는 만두소짜장면이 완성되었어요.  약간은 간이 세기는 하더라구요. 그래도 그냥 짜장라면보다는 더 맛있더라구요 : ) 야채와 함께 먹으니 간짜장같기도 하고요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/21/784f354f5d10041691e5ee205333bf061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/21/dd35886c6697dbb5ef3b01fd628915da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/21/e6025fb702543c31c38d3422c8cdc0ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/21/5e22a5828a58d43ec5442f73fdf3396a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/21/8321bbffca37cc5042198d52945711401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/21/ac9d2dcaa2b83f8960f3ac7737af4f0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/21/dce234c2e70db923239cd555ec0297fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/21/c9209663c2361d065383758e70c529f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/21/6b4cd6a402fbf6eb01553c8eb250206b1.jpg"
+	]
+}

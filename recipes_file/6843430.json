@@ -1,0 +1,73 @@
+{
+	"id": "6843430",
+	"name": "소고기 미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/69d1ab79cd35bf2d53bb56c27802e4dd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843430",
+	"ingredient_ids": [
+		495,
+		660,
+		939
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "건미역",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물(육수)",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 마른 미역을 25g 준비합니다.",
+		"2. 냉동실에 미리 준비 해놓은 소고기(양지)와 육수를  꺼내 놓습니다. 소고기 국거리를 시용 하면 바로 끓여도 됩니다.",
+		"3. 마른미역에 뜨거운물(커피포트이용)을 부어줍니다. 부어준 다음 저어줍니다.",
+		"4. 바로 차거운물로 헹구어줍니다,",
+		"5. 소쿠리에 담아 물기를 빼줍니다.",
+		"6. 물빼는 동안 가위로 잘라줍니다.",
+		"7. 젖은 미역의 양은 밥 공기로 2공기 정도 됩니다. 적당한 솥에 넣어줍니다.",
+		"8. 참기름 1스푼반을 넣어줍니다.",
+		"9. 액젓은 2스푼을 넣어줍니다.",
+		"10. 물을 조금만 넣어줍니다.(소주컵으로 1컵)",
+		"11. 한 5분정도 볶아줍니다.",
+		"12. 준비해 놓은 육수와 물을 넣어줍니다.(육수500+물500ml)",
+		"13. 미리 준비 해 놓은 소고기 넣어줍니다.",
+		"14. 뚜껑을 닫고 30분 정도 끓여줍니다.",
+		"15. 맛있는 소고기 미역국이 완성 되었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/7a240b8cc360ccea5df97dd026d5aad01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/7672f3069dbb9733775fb83503fbec341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/ba3408031aed79dd844e50b4a26b8a3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/741ec833ec7e6c94e690f5e798ff01221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/de483c76ae82dec633929a4257f52fb21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/f10bb41e1f84f302e8467fb2d264f54e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/970d9e331774dae893b6e71426716c6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/567f30ca7c9facddc5a92e11372729561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/1587a6721870e6bd9335543907f720801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/c6a0ee196f9883404963a6eb795e45081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/2858de3328322106094ec2a255ad04651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/c697ed74928ffbdf2e1e184e7eeab2c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/14ba04618950abd492af73913e28f3741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/8276860c7f782e71e24f666fe6012af61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/22/b14a1d6ac9851787834139746cf9d94b1.jpg"
+	]
+}

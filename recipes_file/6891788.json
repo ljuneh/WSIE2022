@@ -1,0 +1,131 @@
+{
+	"id": "6891788",
+	"name": "냉동 꼬막 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/30/a54b5c9452e03840abcff927e3fe6eed1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6891788",
+	"ingredient_ids": [
+		3,
+		30,
+		643,
+		8,
+		497,
+		341,
+		473,
+		379,
+		226,
+		231,
+		938,
+		233,
+		660,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "냉동꼬막",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "3",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 냉동 꼬막은 물에 담가 해동 시킨후 체반에 받쳐 물기를 빼줍니다",
+		"2. 양파는 채썰고,부추도 썰고,홍고추 풋고추도 어슷 썰고",
+		"3. 오이는 반으로 자른후 얇게 썰어 준후 소금과 물엿에 재웠다 꼭 짜줍니다(10분)",
+		"4. 위의 분량의 양념장을 만들어 놓습니다",
+		"5. 볼에 꼬막,오이,양파,고추,부추를 넣고 양념장도 넣고 버무려 준후",
+		"6. 그릇에 담습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/30/afa1350fc290c830ee4d911480e7b40a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/30/f0cfc7a69bb6b249b406138d6dc2c9e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/01/a3b403314941703b3150146a9d3654c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/01/fcbffe6b6b96062821a172a8876effff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/30/82cc2aa07a0c8d59bacf5b7365d57f491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/30/eb757a4462da9a43082966408f520b8a1.jpg"
+	]
+}

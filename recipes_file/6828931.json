@@ -1,0 +1,62 @@
+{
+	"id": "6828931",
+	"name": "일본풍 가지덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/58e91146070dace05c5a8cae64a352961.jpg",
+	"url": "https://www.10000recipe.com/recipe/6828931",
+	"ingredient_ids": [
+		379,
+		226,
+		846,
+		343,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "가지1개(약24cm)",
+			"ingre_count": "1개(약 24cm)",
+			"ingre_unit": "개(약 cm)"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 가지는 껍질을 벗기고 반으로 자른다. 오목한 그릇에 담아 랩을 씌운 뒤 전자렌지에 1분 30초 정도 돌려주세요.전자레인지",
+		"2. 가지를 살짝 식힌뒤 칼집을 내서 펼쳐줍니다.",
+		"3. 간장, 설탕, 청주, 미림, 물을 모두 1:1:1:1:1 비율로 섞어 소스를 만들어주세요. 가지 크기에 따라 1T~1.5T가 적당하고 설탕양은 기호에 따라 조절하세요.",
+		"4. 팬에 오일을 두르고 가지를 앞뒤로 노릇노릇하게 구워냅니다.",
+		"5. 만들어둔 소스를 붓고, 살짝 졸이면 완성입니다.",
+		"6. 밥위에 남은 소스를 뿌리고 가지조림을 얹으면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/d166308d21bdb87cae1786dd50ddaa861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/7e1fdab9aea7c8e3f89049db444a3cfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/5f14a526dfcdc700b0081ea97b48a2a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/0426961c5ca95403f856cb742d0fdabe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/4a73938adca47d3c54709d25d94829a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/c699edd467f9ffca7541f2b948742bf71.jpg"
+	]
+}

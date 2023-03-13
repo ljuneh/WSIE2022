@@ -1,0 +1,41 @@
+{
+	"id": "6859756",
+	"name": "파인애플식초 만들기::파인애플 손질법, 다이어트식초",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/cf8cf478fbe0ba87efddbca6aa3060b51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6859756",
+	"ingredient_ids": [
+		172,
+		226,
+		231
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "파인애플",
+			"ingre_count": "970",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "970",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 파인애플은 깨끗하게 닦아서 손질해줍니다",
+		"2. 파인애플은 줄기까지 사용합니다 손질할때 줄기와 과육을 따로 담아놓고  무게를 재어줍니다.",
+		"3. 무게를 잰후 설탕과 식초도 같은 양을 준비해 줍니다",
+		"4. 밀폐가능한 통에 파인애플, 설탕, 파인애플, 설탕으로 겹겹히 쌓아주시고 준비된 식초를 부워주시면 됩니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/7b531f2fa3874120d81e15fb8dac2f0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/4665a96c6ffe5c3bf428243045c37d6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/c908db64ea88437e9873fcd5f5011ba41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/f993457dfc561ee6713c4aa11c1178911.jpg"
+	]
+}

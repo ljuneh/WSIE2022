@@ -1,0 +1,73 @@
+{
+	"id": "6940882",
+	"name": "집밥 TV) 알리오 올리오 | 집밥 백선생의 기본에 충실한 오일 파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/d71198c3ced984ecc64db159d8d03a901.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940882",
+	"ingredient_ids": [
+		920,
+		497,
+		574,
+		233,
+		757,
+		205
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "파스타면",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "4-5개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "파마산치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "페퍼론치노",
+			"ingre_count": "2-3개",
+			"ingre_unit": "-개"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 소금을 넣고 파스타 면을 넣어 삶는다.타이머로 8분 설정",
+		"2. 면을 익히는 동안 쪽파를 쫑쫑 썰고 마늘은 편마늘로 썰기 한다. 면이 익으면 그대로 불을 꺼둔다.",
+		"3. 팬에 올리브유를 듬뿍 두르고 편마늘과 다진 마늘 2T, 페퍼론치노를 찢어서 넣는다.올리브유가 끓어오르면 약한 불로 익힌다.",
+		"4. 마늘이 노란 빛이 나면 삶은 면을 물기를 빼고 팬에 투하한다.면수를 버리지 마세요.",
+		"5. 면과 올리브유를 볶다가 면수를 2국자 넣고 볶는다.소금으로 간을 하세요",
+		"6. 면수가 다 날라가기 전에 그릇에 담는다. 면을 담고 쪽파, 파마산 치즈, 파슬리 가루 등으로 데코한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/b93398f368d8f1bb5035939e9b8c9e131.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/e7bd940b3e6216da64d277c8894be2f21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/8d593c27009cdf30356bccf37edce7dc1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/a046ed3dc6b1572157c548a5db67cf0e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/c265b8aba45be9a6f7f9fa75e1731faa1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/a1ec744361d5cbff3d00ed84dc8ad2a91.png"
+	]
+}

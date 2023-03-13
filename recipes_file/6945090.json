@@ -1,0 +1,67 @@
+{
+	"id": "6945090",
+	"name": "휴게소 명물 알감자 버터구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/d7844765fe208108b4657c70b6af99b61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945090",
+	"ingredient_ids": [
+		582,
+		497,
+		226,
+		198,
+		231
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "알감자",
+			"ingre_count": "25",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1~2큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 알감자는 세척하여 필러로 껍질을 제거해주세요.",
+		"2. 냄비에 물을 반 정도 붓고 식초를 1큰술 정도 넣고 물을 끓여주세요.",
+		"3. 물이 끓으면 감자를 넣고 약 20분 정도 삶아주세요. 감자의 크기에 따라 익는 시간이 틀리니 젓가락으로 크기가 큰 감자를 찔러서 잘 들어가면 다 익은 것입니다. 보통 알감자는 20분, 큰 감자는 25분 정도면 익어요. 감자가 다 익으면 채에 건져 물기를 제거해주세요.",
+		"4. 팬에 버터 1~2조각(약 2큰술)을 넣고 버터를 녹여주세요.중약불",
+		"5. 감자를 넣고 설탕 1큰술(단맛을 좋아하면 2큰술), 맛소금 2/3큰술(짠맛을 더 느끼고 싶다면 1큰술), 후추를 톡톡 뿌리고 중, 약불에서 잘 버무려주세요. 설탕을 1큰술만 넣고 나중에 먹을 때 단맛이 부족하면 설탕에 찍어 드셔도 되요.중약불",
+		"6. 접시에 담아내고 파슬리 가루가 있다면 뿌려주면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/344b7f42f7838d1dfd241e06b73bcf981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/b3fc7c4de29c15b8458130ba1f9d2fe51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/37813ca740f0b21b7cbf2f937ab4b8991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/95c8562c09a5eeb0b55907f994844fae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/8d4142798de6c1a2c0c242e34f7070e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/76e1c8902d4baec4226cf766a44911621.jpg"
+	]
+}

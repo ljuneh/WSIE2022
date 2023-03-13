@@ -1,0 +1,76 @@
+{
+	"id": "6868545",
+	"name": "색다른 쑥요리, 쑥버무리뿌리떡.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/381ee00013e02b2ad5480e477f3d4ab91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868545",
+	"ingredient_ids": [
+		4,
+		44,
+		189,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "방앗간에서빻아온맵쌀가루",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "어린쑥",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "비트",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "은행",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "소금커피수저로",
+			"ingre_count": "1/2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "물물",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "강황가루커피수저로",
+			"ingre_count": "1/2",
+			"ingre_unit": "수저."
+		}
+	],
+	"recipe": [
+		"1. 쑥한줌을 뜯어 왔어요. 쑥이 제법 자라서 수버무리하기에는 조금 많이 자랐더라구요. 그래도 연하고 작은 쑥으로 준비했어요.",
+		"2. 비트와 고구마는조그맣게 깍뚝썰기 해주세요. 비트의 빨간물이 베이지 안도록 물에 30분정도 담가 둡니다. 그러면 쑥버무리를 해도 빨간물이 묻어나오지 안아요.",
+		"3. 분량의 재료들을 체에 내려 줍니다. 그래야 강황의 노란빛이 골고루 물들어요. 치자를 이용하여 노란물을 들여도 좋아요.쌀가루200g, 설탕1수저, 소금1/2t, 강황가루1/2t중간크기의 체.분량의 재료들을 체에 내려 줍니다.",
+		"4. 체에 내려 놓은 쌀가루에 쑥, 고구마, 은행에 물 1수저 넣고 골고루 버무려 줍니다.",
+		"5. 김이 오른 찜솥에 쪄 줍니다.버무려 놓은 재료들찜솥센불김이오른 찜솥에, 젖은 면보 깔아주고, 20~30분정도 쪄 줍니다.",
+		"6. 노란 강황가루가 물들어 색감이 너무 이쁘지요. 은은한 쑥향에 고구마, 비트, 은행 씹는 재미가 느껴지네요. 쑥만으로 만든 쑥버무리보다 훨씬더 담백하고 맛있는거 같아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/ea4ce9333967a73d1425b8767dcf7bb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/77ab55bb0b97cee3c7f2abfdae4747c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/e748e583a02ab1d301d8f3504bf5bf551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/da0a7e296c454d434a1b2fe4004aa5241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/06bbe0aa8f887f31f777a6be2a77bdcd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/3b4fe8238bf1207db2ace33e5f6eb7101.jpg"
+	]
+}

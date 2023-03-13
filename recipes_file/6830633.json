@@ -1,0 +1,34 @@
+{
+	"id": "6830633",
+	"name": "다양하게 활용할 수 있는 춘장 볶는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/ae8bcd8d7a422665147c61b7ee99217b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6830633",
+	"ingredient_ids": [],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "춘장",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 원래는 춘장과 기름의 양을 1:1로 하는 것이 원칙이나 춘장300g 1봉을 따라보니 1.3컵 정도 나오더라구요~",
+		"2. 달군 팬에 기름1컵을 부어 끓인다.",
+		"3. 춘장을 넣어 고루 섞어준다.",
+		"4. 기름과 따로 놀던 춘장이 사이사이 기름이 침투, 잘 어우러지게 계속 저어가며 볶아준다.",
+		"5. 볶은 춘장은 밀폐용기에 볶았던 기름과 함께 냉장보관해요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/6b526d137f1f8076541b6a0a50b5c5911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/f3fabae568bae237ecbd5c655c8b17951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/b0e95095212e2e80b763ff5097424afc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/aa5add004a59c7bb43dddb9f44dc95e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/8d6837a10fcd198015863e7f32b53dc01.jpg"
+	]
+}

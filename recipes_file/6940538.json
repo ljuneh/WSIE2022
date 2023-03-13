@@ -1,0 +1,50 @@
+{
+	"id": "6940538",
+	"name": "냉동새우로 새우 감바스만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/4d0d19270eb0660c7dc1540816460fd31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940538",
+	"ingredient_ids": [
+		29,
+		574
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "냉동새우",
+			"ingre_count": "15",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "페퍼론치노",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 냉동새우를 미리 꺼내서 흐르는물에 씻으며 분리해주세요. 마늘도 썰어서 준비해주세요.(저는 편마늘 구매해서 했어요)",
+		"2. 달궈진 팬에 올리브유를 넣고 편마늘과 페퍼론치노를 먼저 넣고 끓여주다가 새우를 넣어주세요.중불새우에 물기가 많으면 기름이 튈 수 있으니 주의!",
+		"3. 미리 간을 해둬도 되지만 저는 팬에 직접 후추와 소금을 적당량 뿌려주었어요.후추,소금은 취향껏 뿌려주기",
+		"4. 마지막에 파슬리가루 솔솔 뿌려주면  너무 간단하고 맛있는 새우감바스 완성!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/9bf4b20799818b30ee601ebfba2b31c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/47a317452c963043f0d070ad12e01ccd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/32e20bf6857dfd4a48867d11e3b935ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/25ecc29fea0fbdf8d6395a0d4a54609e1.jpg"
+	]
+}

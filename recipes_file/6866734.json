@@ -1,0 +1,81 @@
+{
+	"id": "6866734",
+	"name": "[베이컨요리]간단한 반찬 만들기 베이컨숙주볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/13/6a036072709354edfaba5557a4b23a051.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866734",
+	"ingredient_ids": [
+		52,
+		406,
+		13,
+		757,
+		660,
+		477
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "270",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "220",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "3",
+			"ingre_unit": "송이"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. [베이컨요리]간단한 반찬 만들기 베이컨숙주볶음",
+		"2. 재료:숙주270g,베이컨220g,통마늘6개,청경채3송이,쪽파1개 [청경채와 쪽파는 없으면 패스] 양념재료:참기름1스푼,후추조금,굴소스2스푼",
+		"3. 숙주는 찬물에 헹구어 채반에 걸러서 물기를 제거해줍니다.",
+		"4. 베이컨은 먹기 좋은 크기로,청경채는 2등분,쪽파는 쏭쏭 썰어주시고 통마늘은 편썰어서 재료를 준비해주세요.",
+		"5. 기름을 두른 후라이팬에 마늘과 베이컨을 넣고~",
+		"6. 마늘이 노릇하게 올라오기 시작하면",
+		"7. 숙주와 청경채를 넣어줍니다.",
+		"8. 여기에 굴소스2스푼,참기름1스푼,후추를 조금 넣은뒤",
+		"9. 숙주의 숨이 어느정도 죽을때까지 볶아줍니다. 숙주는 센불에서 볶아야 물이 많이 안생기고 아삭한 식감을 느끼실수 있어요.",
+		"10. 요렇게 해서 베이컨 숙주 볶음이 완성이 되었어요. 썰어두었던 쪽파를 위에 올려준뒤 통깨를 뿌려서 좀더 맛있어 보이게 데코하였지요~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/13/a58b70d16d84958660f996ee9598c2e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/13/9f17cc15e6227dd208bfd8c7fa4314511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/13/c63eeb0b032b015e24d8a820faa17add1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/13/222f14d0684ec1002c0ebb014d78707b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/13/bf2bd8d7f701fab7808b774330c9bb951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/13/cdfb822bcbb970de5915347606373aed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/13/83bba5679f39e36682cf90fe4cb3068c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/13/dd081e43e6167e1b0962e0a1988a6fa41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/13/fdcbcd645254d79d7806e36c9572a6231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/13/53fb7d3e3c2c868e8bf0790ced4c2cda1.jpg"
+	]
+}

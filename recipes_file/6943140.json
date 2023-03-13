@@ -1,0 +1,85 @@
+{
+	"id": "6943140",
+	"name": "간장양념 가지무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/23d64442b5c8ff53e17cfea2d10457571.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943140",
+	"ingredient_ids": [
+		18,
+		3,
+		9,
+		29,
+		27,
+		379,
+		34,
+		379,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 가지는 깨끗히 씻어서 어슷썰기로 하구요",
+		"2. 중불에 기름없이 가지를 구워요 물이 살짝 생겨서 타진않을거예요",
+		"3. 물약간.양파.당근.마늘.고추 등을 살짝 끓인후. 간장.고추가루.설탕과 버무리면 완성^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/a2ec3acdf74f862ca957bbbd23abf3ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/a6a7cf487992e796e36535a8a5e1f7c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/48305988eb5bd1d3593e52bcc6f6ddc41.jpg"
+	]
+}

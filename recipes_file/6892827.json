@@ -1,0 +1,86 @@
+{
+	"id": "6892827",
+	"name": "출출할땐 행복의나라 ♥ 치킨스낵랩",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/c1f0e232530a03891d44d82478fee4b11.png",
+	"url": "https://www.10000recipe.com/recipe/6892827",
+	"ingredient_ids": [
+		42,
+		214,
+		228
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "또띠아",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "구운치킨텐더",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "구운베이컨",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "빨강파프리카",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노란파프리카",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이채",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "슬라이스토마토",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "머스타드",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "홀그레인머스타드",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 팬에 기름없이 또띠아를 굽는다.",
+		"2. 소스재료를 모두 섞는다.",
+		"3. 또띠아에 소스를 바르고 준비한 재료들을 모두 올린다.",
+		"4. 유산지나 포장지로 고정하여 말아 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/3ab3eeae373746316477fcae65adcfc91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/c0bfc742e534dff7fb16a678ca2032331.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/a07a4818fca66946ffec90ee9f48be171.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/7c44cc44286c6fce1620bc54c8d7d7bd1.png"
+	]
+}

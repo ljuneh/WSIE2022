@@ -1,0 +1,78 @@
+{
+	"id": "6839483",
+	"name": "돼지고기 김치찌개 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/30/4e387e93756798398ea0d42ed6673f401.jpg",
+	"url": "https://www.10000recipe.com/recipe/6839483",
+	"ingredient_ids": [
+		487,
+		953,
+		1015,
+		27,
+		233,
+		846,
+		455,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기 김치찌개는 누린내가 나면 망해요!! 고기가 신선하면 냄새가 나지않지만 혹시 모르니 생강가루와 마늘, 청주를 넣고 조물조물한뒤 센불에 볶아줬어요. 돼지고기를 충분히 볶아야 잡내가 나지 않아요.",
+		"2. 돼지고기가 절반정도 익으면 김치를 넣고 볶아주세요. 중간불로 3~5분정도 볶아주심되요.",
+		"3. 육수(멸치+다시마+무) 2컵 육수가 없을 경우 물로 대체하시거나 쌀뜯물 넣어도 좋아요. 김치국물 3숟가락을 넣어주세요. 김치국물을 넣으면 감칠맛이 더해져요.",
+		"4. 고춧가루 반큰술, 다진마늘 반큰술을 넣고 5분간 더 끓여주세요. 마지막에 대파를 넣고 한번 더 끓여주면되요. 전 소금간은 따로 하지 않았어요.",
+		"5. 돼지고기김치찌개 완성. 고기가 넘 많이 들어가 고기찌개같은 느낌. 오랜만에 돼지고기 넣고 끓여 먹으니 맛있네요. 고추 송송 썰어 넣으면 칼칼한게 맛있어요. 간단한 저녁메뉴 김치찌개 괜찮죠!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/30/3e8f6e197a4ac7afa69028305d28491c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/30/308cd7046ece520a8106fdc99c88781b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/30/03dac9f8b06a9fcac8d581799ac9ee0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/30/2bc6986b2ccb4e5bf8ab6735c822607f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/30/214803597cd7e39f44cee09964cf51221.jpg"
+	]
+}

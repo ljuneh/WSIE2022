@@ -1,0 +1,70 @@
+{
+	"id": "6943275",
+	"name": "명절 나물로 간단하고 맛있는 돌솥비빔밥 만들기!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/dfd3dd0eea3d5654ec3db3aa76877b861.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943275",
+	"ingredient_ids": [
+		473,
+		341,
+		290,
+		219
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "고기가들어간전",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "명절나물",
+			"ingre_count": "",
+			"ingre_unit": "종류별로조금씩"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		}
+	],
+	"recipe": [
+		"1. 먼저 일반 고추장을 사용해도 좋지만 고기가 들어간 동그랑땡이나 깻잎전, 고추전이 있다면 볶음 고추장을 만들어 주면 좋아요.",
+		"2. 고기가 들어간 전을 잘게 잘라서 준비합니다",
+		"3. 팬에 참기름 약간만 넣고 잘게 썬 전을 볶다가 고추장, 진간장, 물엿이나 설탕, 물도 약간만 섞어서 볶아줍니다. 나물간이 있어서 짜지 않도록 조절하세요.",
+		"4. 뚝배기에 참기름을 먼저 넓게 펴 발라 주시고 밥을 깔아줍니다.",
+		"5. 나물을 이쁘게 올려주시고 만든 볶음 고추장도 올려주세요. 그리고 약불에서 천천히 데워줍니다",
+		"6. 그동안 후라이도 준비합니다",
+		"7. 따닥따닥 소리가 나기 시작하면 준비한 후라이 올리고 깨뿌려서 1~2분 있다가 불을 끄고 마무리합니다.",
+		"8. 누릉지가 살짝 있는걸 좋아하시면 데우는 시간을 조금 더 늘려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/1a8876b336ca3905b14b6c9689b8ce9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/b7d1f3b8f96357f73efc60021ba9538a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/45df0bf2c8edc83b4ea34e56843195c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/f91a4b20e2abd9297f39d46d7853a2cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/a5e6e73b34f3bfce4e31ded33f4986401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/8ea4e91abb4bcabe1fec44c49055816a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/2590e9f654e9931902d437db8146b0fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/b4df6356c79549f1349030442e52acd91.jpg"
+	]
+}

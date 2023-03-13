@@ -1,0 +1,69 @@
+{
+	"id": "6945209",
+	"name": "고구마 애플 에그샌드위치~어린이간식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/71becd8489c49ecdac50a18b135080361.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945209",
+	"ingredient_ids": [
+		394,
+		228,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삶은계란",
+			"ingre_count": "9",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밤고구마",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "사과어른주먹크기",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "샌드위치식빵",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "6~7큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "허니머스타드",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 밤고구마를 껍질을 벗겨서 작게 썰어주신후 삶아주세요 *껍질째 찜기에 찐후 껍질을 벗겨서 잘라주셔도 되세요",
+		"2. 삶은계란을 준비후에 반으로 잘라 노른자를 분리해주시고 흰자를 작게 다져주세요",
+		"3. 삶아낸 고구마는 차게 식혀주세요",
+		"4. 다져놓은 계란에 삶은식힌 고구마를 넣고 잘 으깨어 섞어주세요",
+		"5. 사과를 다져서 넣어주세요 저는 껍질채했지만 싫으신경우 벗겨내신후 하셔도 되세요",
+		"6. 마요네즈/허니머스타드/소금을 넣고 잘 버무려주세요 *마요네즈나 머스타드소스는 취향껏 넣고 빼세요",
+		"7. 샌드위치 식빵에 버무려진 고구마 애플에그 버무려놓은것을 두툼하게 올려주신후 덮어주신후  *식빵이 너무 두툼하다면 밀대로 살짝 눌러주신후 넣어주시면 되시고요 식빵테두리를 싫어하는 아이들때문에 잘라주었어요",
+		"8. 한입크기로 4등분으로 조심히 잘라주세요 도시락을 싸시는경우 랩핑을 하신후 반으로 잘라서 넣어주시면 되세요 저는 바로 먹는거라서 그냥잘라서 예쁜꽂이만 찔러서 주었어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/116065be1e637f3a4b8b4285d9a59a271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/ccfad9c24c9c3f6cb36b59b1dca0075a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/51041000864d85eacad09b9b2f5a46ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/8cc21cdf5d81a7d3c6586b6b713ee9911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/94069a817c3a9e2662dddfbc61141d941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/22531d01e8cf1745577e8f363d5ffbbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/10fc335708e89df6143b8f1da61110891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/38480c3242ceebafab74a9f09467932f1.jpg"
+	]
+}

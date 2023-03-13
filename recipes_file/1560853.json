@@ -1,0 +1,43 @@
+{
+	"id": "1560853",
+	"name": "오리훈제 야채볶음 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/29/8cd555bce1797d1c02c294ed47b38ad4.jpg",
+	"url": "https://www.10000recipe.com/recipe/1560853",
+	"ingredient_ids": [
+		56,
+		757
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "넘버원덕오리훈제풀팩",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파(중)",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		}
+	],
+	"recipe": [
+		"1. 적당한 두깨로 썰은 오리훈제를 예열된 후라이팬에 구워주세요. 일단 기름이 많으면 느끼하니깐 어느정도 기름은 제거해주시고, 오리훈제를 노릇하게 구우시면 되겠습니다.",
+		"2. 오리훈제가 노릇하게 구워지면 찢어놓은 느타리버섯과 쪽파, 양파를 넣고 볶아주세요.",
+		"3. 느타리버섯의 숨이 살짝죽으면 굴소스로 간을 맞춰 볶아주시면 완성입니다. 매콤한거 좋아하시면 청양고추 한두개넣고 볶아드시면 더 좋아요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/7e00c183cc2d608c1936c9e6492924a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/cc1eb320c1b8668b378dcf0f1efd81541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/9a158bca2515b849b53f48bb9482daa51.jpg"
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"id": "6945562",
+	"name": "[내멋대로요리] 달콤 아이들간식 약밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/19afa6c29d4025d2d4efbb266b6704061.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945562",
+	"ingredient_ids": [
+		99,
+		132,
+		187,
+		115,
+		460,
+		526,
+		995,
+		379,
+		545
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "15~20개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팥",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "건포도",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "3",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 밤을 깎아서 절반 자르고, 대추는 가운데 씨만 남기고 돌려깎이 한 뒤 0.3cm  두께로 자른다.(미리) 가장 먼저 찹쌀 5컵을 30분~1시간가량 불려둔다.",
+		"2. 대추 씨를 버리지 말고  냄비에 물 4컵, 황설탕 1컵,  간장 5T, 천일염 3t을 넣고 5~6분 끓인다.다 끓고 난 뒤, 상온에 식혀둔다. ",
+		"3. 압력밥솥에 준비해둔  재료를 넣고 섞는다.대추, 밤, 건포도, 팥 (재료는 호두 등 다른 견과류로 대체해도 된다.)",
+		"4. 섞은 재료에 식혀둔  대추물을 넣어 한 번  더 휘저어준다.",
+		"5. 압력밥솥에 불을 올려 본격적으로 밥을 한다.  밥이 다 되면, 참기름을  넣고 한 번 더 섞어준다.-압력밥솥 종이 울리면 3분 내 불을 끈다. (안 그러면, 탈 수 있음)",
+		"6. 밥이 다 됐다면, 상온에 식혀둔 뒤 사진과 같이 소분하여 냉동실에 넣어놓고 먹어도 좋다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/7c88c7f2ab2a9a111dcb9ba1b60c76ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/20fa3c23ed37160f7835d6b7abf9ee0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/60d86d361073c6716c90a7bcfe60f0611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/30095238838b71340e74ab2e073dd9d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/819b96fbda924c2a6d87e2497cb6b0b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/b39926891d20fddb1b894a63738366751.jpg"
+	]
+}

@@ -1,0 +1,125 @@
+{
+	"id": "6872728",
+	"name": "안동찜닭 간장찜닭 만들기 복날음식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/14/e3bbf4e15be2dceaeb9cd84ed5c238411.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872728",
+	"ingredient_ids": [
+		3,
+		7,
+		27,
+		295,
+		28,
+		477,
+		226,
+		575,
+		292,
+		497,
+		660,
+		543,
+		302
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭고기토막낸것1+1/2마리",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "햇감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 닭고기는 기름을 떼어내고 끓는 물에 넣고 데쳐 찬물에 씻어 준비하고",
+		"2. 채소는 큼직한 크기로 썰어줍니다.",
+		"3. 위의 양념을 모두 넣고 섞어놓고 찬물에 당면을 미리 불려줍니다.",
+		"4. 냄비에 물은 1/3정도 붓고 양념을 넣고 삶은 닭을 넣고 뚜껑을 덮어 간장양념이 잘 배도록 끓여줍니다.",
+		"5. 닭고기가 잘 익었으면 썰어놓은 채소 중 감자, 양파, 당근, 대파 푸른부분을 넣고 감자가 익으면 대파 흰부분과 청양고추, 애호박을 넣고 살짝 졸여줍니다.",
+		"6. 불려놓은 당면을 넣고 참기름, 후추로 마무리합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/14/e02d6dd5539ef9a3e80f6db97fce528e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/14/ac282f0e402fa3c32f01e2f96de7b7381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/14/96167ae1012cb997321449ace9e86e871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/14/8558198bc2fe795a4fadfbd5bd57dd561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/14/0adfac3ab84838e726ebc9d6298228a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/14/d9f63d73859ffc602d1fe507930dc7e11.jpg"
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"id": "6941651",
+	"name": "노버터 바삭 비스코티",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/a97397508543896c9fc156ab434e73861.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941651",
+	"ingredient_ids": [
+		226,
+		696,
+		373,
+		504,
+		884,
+		840
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 견과류를 180도 오븐에 5분 구워 전처리 과정을 거쳐주세요. 이후 지퍼백에 넣어 잘게 부셔주세요 (비닐봉지 사용시 찢어져요ㅠ) *생략가능하나 자를때 모양이 부서질수있어 미리 구워주었어요",
+		"2. 가볍게 계란을 볼게 풀고 설탕을 넣어 가볍게 저어주세요",
+		"3. 이후 바닐라 익스트랙과 식용유를 넣어주세요",
+		"4. 가루류를 치쳐 넣고 가루가 보이지 않게 섞어주세요",
+		"5. 견과류를 넣고",
+		"6. 한덩이를 만들어주세요",
+		"7. 봉지에 넣어 모양을 만든 후 30~50분 휴지시켜주세요",
+		"8. 170도 예열되 오븐에 15분 구워주세요오븐",
+		"9. 구워진 비스코티를 식힌 후 1cm간격으로 조심스레 잘라주세요. *식지 않았는데 자르면 다부서져요!",
+		"10. 옆으로 눕혀 170도 오븐에 10분 구워주시면 완성입니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/a7e8ef05693d3662ad181a9f1a4a39191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/95570a16a52f7489a7dc38d2878e0d791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/3f9ae4a1c7298331e7fc269cea6863841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/c27fd660dbb091e2bc1ab5af5af11b621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/0c1a597a085671c89452156490036e3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/6efe85d4fdf71fb824bf2a8cf5d5fa4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/c4348da4c56222dafe337aa4974e93431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/c41b2ddbc10bb0b1bbedd6f6e83fe7f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/86b0d65efef079943ec10c448e805e041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/41d9ae9fee285a3f3d591d2d68e5eb661.jpg"
+	]
+}

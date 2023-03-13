@@ -1,0 +1,53 @@
+{
+	"id": "6940545",
+	"name": "토마토피클~아삭하게 새콤달콤하게 시원한 음식!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/87211dabf54d6121f1d1d8749369dffb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940545",
+	"ingredient_ids": [
+		589,
+		226,
+		508
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "단단한토마토",
+			"ingre_count": "3",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "양조식초",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "6",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "피클링스파이스",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 너무 물컹거리지않는 단단한 토마토를 준비후에 깨끗하게 씻은후 키친타올로 물기를 닦아서 4등분을 잘라주신후 밑에 꼭지부분을 잘라주세요",
+		"2. 저는 넉넉하게 3kg를 준비했어요",
+		"3. 양조식초/설탕/소금/생수/피클링스파이스를 넣어서 촛물을 만들어주세요 식초는 사과식초보다는 양조식초를 쓰시는게 토마토의 향과 맛을 더 느끼게 되네요 설탕/소금의 개인의 입맛에 맛게 조절하셔도 되세요",
+		"4. 센불에서 펄펄 5분간 끓여주신후 10분을 식혀주세요",
+		"5. 썰어두신 토마토를 통에 담아주시고 한김식은 촛물을 조심히 부어주신후 차게 식혀서 냉장고에서 1~2일을 숙성후 바로 드셔도 되세요 차게해서 더운여름 시원하게 새콤달콤하게 반찬이자 디저트로 즐겨보세요 *디저트로만 드실분들 께서는 촛물을 좀더 연하게 농도를 잡아주시면 되세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/3c9f76b98162e2ce06d176370edc1b941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/82b478ad4993574b840f5d02b76fb5001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/24db0afb21e8352d19ad2a28e69c643e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/3b35aaaae4f3748cc99ce06ccebb951c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/7651ba6ff887a0ea309ab0a318f213c31.jpg"
+	]
+}

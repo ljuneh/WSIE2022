@@ -1,0 +1,99 @@
+{
+	"id": "6844556",
+	"name": "열무김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/12/96823f34e43c84e25b1a7f82696cdfa61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6844556",
+	"ingredient_ids": [
+		35,
+		29,
+		8,
+		30,
+		643,
+		28,
+		497,
+		234
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "열무",
+			"ingre_count": "4",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "감미료",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 열무4단을 준비합니다.",
+		"2. 열무를썰고 오이. 홍고추.풋고추 마늘 생강 고추가루 밀가루를 준비합니다.",
+		"3. 열무를 소금에 살짝 절입니다.",
+		"4. 각종 재료를 썰어 놓습니다.",
+		"5. 밀가루풀을 만듭니다.",
+		"6. 밀가루풀에 고추가루와소금 감미료를 넣어 놓습니다.",
+		"7. 모든재료를 6에넣어 섞어 상온에서 하루나 이틀 익힘니다.",
+		"8. 맛있고 시원한 열무김치가 잘 익었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/12/8be365d2246dee90c6b07bdb727dae4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/12/f814cfd42fcfe9b01acbbcf939aea0d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/12/9af292e3b47c8921a31de5519399f0831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/12/836833907646dfb794d300d38e32ad9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/12/38f9d6c7d367c58c52ca12e11afca0f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/12/98759c82dd3806532ad6993de4bf06c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/12/d883d0450d8e75e0eaa5f473061bd5991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/12/38f005939b013f9174ae110b353507361.jpg"
+	]
+}

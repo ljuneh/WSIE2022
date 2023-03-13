@@ -1,0 +1,91 @@
+{
+	"id": "1188760",
+	"name": "쇠고기장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/0f5072d2bedf6ad0bf51e219daa0aa24.jpg",
+	"url": "https://www.10000recipe.com/recipe/1188760",
+	"ingredient_ids": [
+		995,
+		29,
+		28,
+		846,
+		379,
+		292,
+		478,
+		341
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쇠고기장조림용홍두깨살(600g)",
+			"ingre_count": "1",
+			"ingre_unit": "근"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "7",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "7",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "대파흰부분",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추나마른고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "12",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마른고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 쇠고기는 덩어리채로 찬 물에 약 30분 정도 담가 핏물과 누린내를 제거합니다. 보통 쇠고기는 덩어리로 된 고기나 뼈가 붙어 있는 고기 등은 이렇듯 찬물에 담가서 핏물과 누린내를 빼주는 과정을 해줘야 해요. 그러면 훨씬 더 고기 냄새 없이 맛있게 드실 수 있어요. 그나마 홍두께살은 약 30분 정도만 담가 두어도 충분 나중에 또 포스팅을 하겠지만 뼈가 있는 고기나, 사골 등은 더 오랜 시간 흐르는 물에 담가 두셔야 하지요.",
+		"2. 고기 삶는물 재료인 물 7컵, 마늘 7쪽, 생강 1톨, 대파 흰 부분 2대, 청양고추나 마른 고추 2개, 청주 5 를 넣고 팔팔 끓이다가 물이 끓으면 핏물을 뺀 쇠고기를 넣고 바글바글 고기가 푹 익도록 뚜껑을 열어 둔 상태로 끓여줍니다. 어느 정도 뚜껑을 연 상태로 끓여야 고기의 누린 냄새가 휘발되어서 날라가요. 약 40~50분 정도 삶아주면 이렇듯 고기가 푹 우려져서 맛있게 삶아집니다. 중간에 위로 뜬 거품이나 찌꺼기가 보이면 숟가락으로 걷어내 가면서 요리해요. 체에 밭쳐 고기와 건더기, 그리고 쇠고기 육수를 따로 분리해 둡니다. 쇠고기 육수만 따로 받아놓은 상태로 나중에 여기에 양념을 해줄 거예요.",
+		"3. 삶아진 쇠고기는 따뜻하게 온기가 남아 있을 때 결대로 찢거나 먹기 좋게 잘라줍니다.",
+		"4. 따로 받아낸 쇠고기 육수에 조림장 재료인 간장 12, 맛술 3, 흑설탕 1, 물엿 2, 마른고추 1개 를 넣고, 결대로 먹기 좋게 찢은 쇠고기를 넣고 국물이 잘박하게 남아 있을 때까지 조려주면 끝. 마른고추는 맛을 봐서 취향대로 넣거나 빼거나 하세요. 그리고 달기도 물엿이나 설탕으로 조절하시고 쇠고기 장조림의 짙은 색깔을 위해서 전 설탕을 흑설탕을 사용했어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/0fba999e9280c8e2f835500d79a7bdec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/c90dc385d10aa191e9f40aeabe8a95bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/72055c3fc3312d65043b14ace9bb27ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/9a9b93af6f8785b517776d494c3d852d1.jpg"
+	]
+}

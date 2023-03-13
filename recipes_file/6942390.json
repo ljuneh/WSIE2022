@@ -1,0 +1,56 @@
+{
+	"id": "6942390",
+	"name": "정식품 콩국물로 만든 바나나오트밀 흑당스무디",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/52cf3992152658723afb6a99c5c7a7dc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942390",
+	"ingredient_ids": [
+		572,
+		893
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "정식품콩국물",
+			"ingre_count": "250",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "얼린바나나",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오트밀",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "흑당시럽",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "아이스크림",
+			"ingre_count": "1",
+			"ingre_unit": "스쿱"
+		}
+	],
+	"recipe": [
+		"1. 얼린 바나나 한개를 믹서에 넣어주세요. 얼린 바나나가 없는 경우, 그냥 바나나를 사용해도 좋아요.",
+		"2. 오트밀 2T를 넣어주세요.",
+		"3. 정식품 진한 콩국물 250ml 를 넣어주세요. 콩국물은 원하는 만큼 추가해서 농도를 조절해주어도 괜찮아요.",
+		"4. 흑당시럽 2스푼을 넣어줍니다. 기호에 따라 코코아파우더를 추가하거나 바닐라시럽으로 대체해도 좋아요.",
+		"5. 믹서에 넣은 재료를 모두 갈아주세요.",
+		"6. 아이스크림 한스쿱을 만들어진 스무디 위에 얹어주세요.",
+		"7. 아이스크림 위에 흑당시럽을 원하는 만큼 뿌려줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/783b3381d2255a454d27e4b166cf91361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/edc22581d6cf50d752b79a9a5f06b81b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/7b076d519eb90f808eacdbf2bf10061e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/ca6e880dc9d885fab6985c330598646c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/a95b5b045519b48dc6c9d3846673018d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/8ea8188104e7c7a0d2da728f7259bef51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/88c86db0486f40fc9e84eb13d24beaaf1.jpg"
+	]
+}

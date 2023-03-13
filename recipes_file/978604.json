@@ -1,0 +1,36 @@
+{
+	"id": "978604",
+	"name": "겨울내내 따뜻하게 꿀생강차",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/b0d5b877c3f542872067961e448761e0.jpg",
+	"url": "https://www.10000recipe.com/recipe/978604",
+	"ingredient_ids": [
+		28
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "생강",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "꿀500g이상",
+			"ingre_count": "500",
+			"ingre_unit": "g 이상"
+		}
+	],
+	"recipe": [
+		"1. 먼저 생강은 껍질을 벗겨서 깨끗히 씻어 준비합니다.",
+		"2. 손질한 생강을 핸드 블렌더 안에 조금씩 나눠서 넣고 갈아줍니다. 원래 채 썰거나 편으로 썰거나 하는데, 그렇게 하면 생강의 진한 맛이 잘 우러나오지 않을것 같아서 이렇게 갈아 버렸지요.",
+		"3. 보슬보슬 간 생강에 꿀을 생강 양의 2배 이상 되는 양의 꿀을 넣습니다. 1:1로 하면 다소 적어요. 꿀의 양이 훨씬 많다 싶게 넣어야 보관 자체도 오래 하면서, 생강이 시간이 오래 지나면 지날수록 꿀에 절여져 곰삭는다고 해야하나 굳리 생강을 조리지 않아도, 생강 자체가 오래 보관할수록 젤리처럼 절여진 형태를 하게 된답니다. 또 꿀의 양을 2배 이상을 한다고 하더라도 나중에 타서 먹으면 별로 생각보다 달지 않아요. 넉넉하면 굴을 3배까지 넣어도 좋고 꿀이 없다 싶으면 설탕을 넣으셔도 괜찮아요",
+		"4. 그럼 오래 보관해서 먹기 위해서는 병 소독합니다. 냄비에 찬물을 담고, 찬물 상태일 때부터 병과 뚜껑을 뒤집어서 넣고 삶아줍니다. 그러면 병이 나중에 뜨거워져도 깨지거나 하지 않거든요. 물을 끓이고 나서 뜨거울 때 유리병을 넣게 되면 자칫 병이 차가운 상태이면 서로 급격한 온도차이로 인해서 병이 깨질 수가 있습니다.",
+		"5. 소독이 된 병에 꿀에 재운 생강을 담아서 실온에 약 2-3일 보관하고 냉장고에 넣고서 겨우내 보관해서 먹으면 되지요. 바로 드시면 안되고 일주일 정도 지나서부터 드시는 것이 좋은것 같아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/8286d637904e9d96b8ac3fe71e5e1ffd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/d29031533ca497a59e162771ccabfc661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/e1653adc4efec4f2ece435cabafdea0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/57d00431c2d1debebc8e771aec0b59281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/a46f01bcd35029fe7c0ef6db0863a59b1.jpg"
+	]
+}

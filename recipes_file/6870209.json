@@ -1,0 +1,62 @@
+{
+	"id": "6870209",
+	"name": "묵은지 삼겹살 김치찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/23/b4126d49ed442c049dcc484fb21d37e21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6870209",
+	"ingredient_ids": [
+		224,
+		1018,
+		226,
+		327
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "묵은지작은거",
+			"ingre_count": "1/2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "천연조미료",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 묵은지 1/2쪽과 삼겹살을 넣고 물을 조금 넉넉히 부어준 다음  고춧가루와 천연조미료 등을 넣고 푹 끓여주었어요~~~",
+		"2. 김치가 조금 새콤하게 많이 익었기에 설탕을 1 큰 술 넣고 끓여주었지요~~ 신 김치를 요리할 때는 설탕을 조금 넣어주면 신맛을 잡아줍니다~~",
+		"3. 식탁에 올릴 때는 예쁜 옹기그릇에 담아서 올리면 한결 더 맛나 보이지 않을까요 음식이 덜식어서 좋아고요~~",
+		"4. 남도장터 돼지고기를 구매해서 먹으면서 고기가 맛나기에 계속 먹고 있네요~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/23/430acb0986976ea1a1570804fcdf683f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/23/d0bad15802c5e77d7b048990b9155b371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/23/7b052b9129d2711f1566b421c94fac401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/23/5e006aea2bfe2576504447505c3d497b1.jpg"
+	]
+}

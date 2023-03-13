@@ -1,0 +1,84 @@
+{
+	"id": "6940815",
+	"name": "호두 크랜베리 베이글 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/96c103e4caa2967600f2b9c8b5dff7621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940815",
+	"ingredient_ids": [
+		874,
+		995,
+		226,
+		567,
+		148
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "270",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통밀가루",
+			"ingre_count": "33",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "164",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "르방",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "6",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "인스턴트드라이이스트",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "크랜베리",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호두분태",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 크랜베리는 그냥 사용하면 너무 딱딱할 수 있으니 물에 불려주시고 사용 직전에 물기를 짜서 준비해 줍니다.",
+		"2. 호두는 오븐이나 에어프라이어에 약 3분정도 구워서 준비해 주세요. 이렇게 하면 더 고소해져요.에어프라이어",
+		"3. 크랜베리와 호두를 제외한 모든 재료를 볼에 넣어줍니다. 물은 여름엔 찬물, 그 이외계절엔 미지근한물 사용하시면 되요.",
+		"4. 글루텐은 약80%정도로 반죽해 주세요. 반죽이 완성된 시점에 호두와 크랜베리를 넣고 반죽기를 잠깐 작동시켜 고루 섞이게 해줍니다.",
+		"5. 완성된 반죽은 한 덩어리로 둥글리기 하여 볼에 넣고 비닐 씌운 뒤 2~3배 부풀때까지 1차발효 해줍니다.",
+		"6. 1차 발효가 완료된 반죽은 5등분 해주고 다시 둥글리기 후 비닐 덮어 10분간 중간발효해 줍니다.저는 좀 크게하고 싶어서 5등분 했는데 117g씩 나오더라구요. 좀 작은사이즈 원하심 6등분 해도 적당할 것 같아요. ",
+		"7. 중간발효가 끝나면 베이글 모양으로 성형해 줍니다.",
+		"8. 물에 데치기 편하도록 종이호일 위에 팬닝해 주었어요.  밀폐된 곳에 두고 2차발효를 해줍니다.",
+		"9. 크기가 커지고 촉감이 말랑말랑해지면 발효 완료입니다.",
+		"10. 물 1L당 설탕1큰술 넣어서 물을 끓여주고 발효가 완료된 반죽을 앞뒤로 뒤집어가며 약 30초간 데쳐줍니다.만약에 반죽을 물에 넣었을 때 가라앉는다면 발효가 덜 된 것이니 얼른 건져내어서 좀 더 발효시켜 주세요. ",
+		"11. 데친 반죽은 이렇게 조글조글 하지만 구우면 팽팽해지니 걱정하지 마세요.",
+		"12. 190도로 예열된 오븐에서 약 15분간 구워줍니다.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/1720b0cc76b2e2197f7d2b6974d6bcef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/f3499798d6615366b9785e94966eecf81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/43fac4c89ec3893fc9caffa0be856a991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/e4a5c2213df0ab6212f34c508a3ce2d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/5c38b7578a2fd31817e5bc4b92ea7d261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/d5e8f2f4e776f92976d4b44e74b691e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/917b3255887753888f6ab76d45bbfd141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/825f043129213823ac51640cd58665f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/71a0b770ad21bbc2f6b82afbb269d1091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/82923aa4cd2e8148d7cf65d66b9a96fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/0ee39921950ab4495e3df20eff7ae1691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/58845ecd4544820f213c10c3f802ff2a1.jpg"
+	]
+}

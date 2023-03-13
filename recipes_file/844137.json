@@ -1,0 +1,54 @@
+{
+	"id": "844137",
+	"name": "맛있으니깐 맛탕이지~ - 고구마 맛탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/29/4819bc3dcd8f48ddbfc0f2aa2866e931.jpg",
+	"url": "https://www.10000recipe.com/recipe/844137",
+	"ingredient_ids": [
+		4,
+		341,
+		226,
+		504
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "3~4개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "튀김용",
+			"ingre_count": "",
+			"ingre_unit": "기름"
+		},
+		{
+			"ingre_name": "흑임자가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 고구마를 잘 씻어 껍질을 까서 적당한 크기로 썰어줍니다.",
+		"2. 물에 담궈 전분기를 빼준 다음 물기를 잘 닦아 준비합니다.",
+		"3. 160도 정도의 기름에서 노릇하게 튀겨냅니다. 2번 튀겨내면 더 바삭한데 공기중에 노출시켜가면서 튀기면 2번 튀긴 효과가나요.",
+		"4. 럽의 재료를 넣어 바글바글 끓으면 튀긴 고구마를 넣고 잘 섞어주면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/29/b17a97f85b12496bad415dc8e1496c261.jpg"
+	]
+}

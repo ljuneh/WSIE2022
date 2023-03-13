@@ -1,0 +1,97 @@
+{
+	"id": "6939907",
+	"name": "밥솥 닭고기계란탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/cabfefb7e46486f2027c05eef8ac2f151.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939907",
+	"ingredient_ids": [
+		126,
+		3,
+		53,
+		504,
+		995,
+		477,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭고기",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "250",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 표고버섯 1개를 물에 불리고",
+		"2. 밥솥에 식용유 1T넣고 닭고기 살코기 60g(닭다리살이나 허벅지살, 지방있는 부위) 를 잘게 자르고 다진파 한 줌 넣어주세요",
+		"3. 양파 1/4개와 표고버섯 1개 썰고",
+		"4. 다같이 밥솥에 넣고 굴소스 0.5T, 진간장 0.5T넣고 섞은 후 재가열 9분 해주세요",
+		"5. 재가열이 되는 동안 물을 끓이고",
+		"6. 재가열이 다 되면 끓는 물 250ml(머그컵 한 컵) 부어주고 다시 재가열9분 해주세요",
+		"7. 계란 한개를 풀고",
+		"8. 전분1T에 물 2T넣고 전분 물도 만들어주세요",
+		"9. 재가열이 다 되자마자 계란물을 둥글게 붓고, 전분물도 둥글게 고루 부어주세요. 밥솥뚜껑을 잠시 닫아주면 뜨거운 열기에 모두 익어요",
+		"10. 그릇에 옮겨서 참기름 1T, 후추 뿌려서 섞어드시면 맛있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/55013462e3691aadcbf7012ca64368771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/5d9c1b4c0dcfb0ac39d289f0682c0edb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/3b0c948dfcc2807012f399f7a084d6751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/15c30eeefae0edf3080eb4485bf54f961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/8690a7f67d75bc34b4127682fc207a3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/ba87fd3d8a486040e5055420c2dec9cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/0ae6588b047462c207c6567b1fdf74981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/13491778dbc0903642c398e540479d141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/3c8033214f01fa37f8dad5d20ef67be11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/127c4d1749a9da6f47410661e6b58ea91.jpg"
+	]
+}

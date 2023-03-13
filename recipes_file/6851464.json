@@ -1,0 +1,51 @@
+{
+	"id": "6851464",
+	"name": "고소한 전복죽 맛있게 끓이는법!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/bc74a62c9054014fa23cea1ef439e8c81.png",
+	"url": "https://www.10000recipe.com/recipe/6851464",
+	"ingredient_ids": [
+		96,
+		349
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "흙애서전복",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "뜨거운물",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 참기름 2 투하~",
+		"2. 먹기 좋게 썰은 전복을 넣어주고",
+		"3. 살짝 볶아주다가",
+		"4. 가위로 터트려 잘게 잘라놓은 내장을 넣어주세요!",
+		"5. 내장을 넣은 후 바로 불린 쌀 넣고 달달달 볶기 (쌀은 3시간 정도 불리라고 하는데 전 1시간 30분정도 불렸어요/저보다 시간이 없다 하시면 쌀을 갈아서~)",
+		"6. 뜨거운물 5컵 부어주고!",
+		"7. 쌀알이 잘 퍼질때까지 푸우욱 끓여주다가 국간장 1 넣고 간을 해줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/f869e8dce9be6647924cc138ebb009431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/1ac461f7bb72d14facc37f542fdc3e3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/75ed4aea391f1971b90923a2cd02a3341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/15d96ebd33672cbde57ef7dcf577fc761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/3579b3982ce0f9f7a155b9b1b28e90251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/d1e665b578ff5da22f7fdc387693ed421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/af2d3dc62ff2dc8968be92211aff6ca51.jpg"
+	]
+}

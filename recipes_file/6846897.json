@@ -1,0 +1,60 @@
+{
+	"id": "6846897",
+	"name": "뽕잎나물 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/01aff14dfdcd95db7e2899cceb69371d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846897",
+	"ingredient_ids": [
+		349,
+		233,
+		327,
+		497
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "건뽕잎나물",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "아마씨유또는식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 건 뽕잎나물은 찬물에 하룻밤 정도 불린 후 약불에 30분정도삶은 후 30분 정도는 그대로 놔두세요. 삶은 후에는 다시 찬물에 2시간 정도 넣어둔 후 다시 찬물로 헹궈내고 물기를 짜주세요.",
+		"2. 꼭 짜낸 나물에 간장 2스푼, 다진마늘, 다진파를 넣고 조물조물 무친 후 팬에 들기름과 아마씨유(없으면 식용유)를 두르고 볶아주세요. 기름을 섞어 쓰면 더 고소한 맛이 나더라구요.",
+		"3. 부족하다 싶으면 소금으로 간을 하시고 그릇에 플레이팅 하면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/d6a53b4a1f43a030530f28349f2a66951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/34f30deb65547ff79840d257d523d7fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/48b775ff303b455a0d091adb02d0ba621.jpg"
+	]
+}

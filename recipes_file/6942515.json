@@ -1,0 +1,81 @@
+{
+	"id": "6942515",
+	"name": "코로나 극복 추석요리 지금이 제철인 전어와 싱싱한 전복 전복버터구이&전어구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/b6566e737e9bf5dfece3f828fd0441001.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942515",
+	"ingredient_ids": [
+		86,
+		75,
+		29,
+		198,
+		725,
+		291,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "전어",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "코코넛오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 전어를 손질해 밑간을 합니다",
+		"2. 전복을 손질 합니다",
+		"3. 먹기좋은 크기로 썰어놓습니다",
+		"4. 전어를 굽습니다",
+		"5. 웍에 버터를 녹입니다",
+		"6. 전복을 넣고 볶으면서 순서대로 양념을 합니다",
+		"7. 접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/d821a048a722c9350b58bd61b8477cd71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/b4a535a85ec59dd58a93a516638ac2811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/1addd35daa9a8d3c8e0ad181b932f27b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/cce2055567f5a371321aa419071da1e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/be24984ebf29cd59ada3e2d53bd1783e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/daa3b296f8b1d6992fa9976b51afcc9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/04226abaead0ce28c16af890b6adb8821.jpg"
+	]
+}

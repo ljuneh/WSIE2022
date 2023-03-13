@@ -1,0 +1,52 @@
+{
+	"id": "6940861",
+	"name": "참치간장스크램블볶음밥!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/36600e9af765830aed44bfccd392ed991.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940861",
+	"ingredient_ids": [
+		219,
+		504
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장이나마요네즈",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 참치와 밥,그리고 간장을 조금 섞어 놓습니다",
+		"2. 식용유를 프라이팬에 두르고 스크램블을 만들어줍니다.",
+		"3. 그리고 참치와밥,간장을조금 섞은것 위에 스크램블을 올려줍니다.",
+		"4. 그리고 잘섞어주세요.",
+		"5. 김을넣어주셔도 좋습니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/a88c17322fc6b2d6241ae9b3a3d7d2451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/2d55eb9eabe263287bf8f2cd71e7a4cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/dc30af3489fa474455f3a6fe998043551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/66172bb25e8ff4654d5457f5a6a60a741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/0837d26c3e31cafde03b30e09b2af4f41.jpg"
+	]
+}

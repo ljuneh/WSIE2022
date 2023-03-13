@@ -1,0 +1,54 @@
+{
+	"id": "6942637",
+	"name": " 겉바속촉 젤라또 크로플 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/5e308abb30b00ecb9c1b9b398db5b4451.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942637",
+	"ingredient_ids": [
+		546,
+		654
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "흥국미니버터크로와상",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "일레디젤라또비앙코밀크",
+			"ingre_count": "1",
+			"ingre_unit": "스쿱"
+		},
+		{
+			"ingre_name": "초코소스",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "타임",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 미리 예열해둔 와플메이커에 '미니 버터 크로와상'을 나란히 올려주세요.",
+		"2. 3~4분 정도 지난 뒤, 잘 익은 크로플을 꺼내서 식혀주세요.뜨거우니 집게 등을 이용해 크로플을 꺼내줍니다",
+		"3. 크로플 위에 슈가파우더를 가볍게 뿌려주세요.",
+		"4. 젤라또 1스쿱을 떠서, 크로플 가운데 올려주세요.너무 뜨거운 상태에서 젤라또를 올리면 녹아서 지저분해질 수 있으니, 살짝 식혀서 올려주세요",
+		"5. 초코소스를 드리즐해줍니다.",
+		"6. 멋지게 타임을 올려줍니다. 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/e855f93c051c1796824e70861c36b4f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/1df35120e8164e4b719e1a872a9a59a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/8c729d0ee7aebe6377b20c6964004e441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/0aad777a0a6cd68816a9eeb1266bdd721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/31a1fc17e84492faa7dd8ce4092ecafc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/7c5e0608c0db2887f112628429421d3c1.jpg"
+	]
+}

@@ -1,0 +1,93 @@
+{
+	"id": "6916540",
+	"name": "[노버터] 초코 비스코티(+영상)｜효썸",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/07/25/cd37e7e98b1c8467aa5ad6091780b1fa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6916540",
+	"ingredient_ids": [
+		219,
+		226,
+		568,
+		995,
+		504,
+		373
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "인스턴트커피",
+			"ingre_count": "1",
+			"ingre_unit": "tsp"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "tsp"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "코코아파우더",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통아몬드",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "초코칩",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 아몬드를 굵게 다져주세요.",
+		"2. 인스턴트커피는 뜨거운 물에 녹여주세요.",
+		"3. 볼에 달걀과 설탕을 넣고 뽀얗게 될 때까지 섞어주세요.",
+		"4. 녹인 커피랑 식용유를 넣고 잘 섞어주세요.",
+		"5. 박력분과 코코아파우더, 베이킹파우더를 체에 내려서 넣어주세요.",
+		"6. 가루가 약간 보일 정도만 섞은 후 아몬드와 초코칩을 넣고 잘 섞어주세요.",
+		"7. 반죽을 1.5~2cm 두께의 직사각형 모양으로 만들어주세요.",
+		"8. 170℃로 예열한 오븐에 15~20분간 구워주세요.오븐또 굽기 때문에 처음부터 바짝 굽지 않아도 됩니다!",
+		"9. 한 김 식힌 후에 썰어주세요.따뜻할 때 썰면 부서지기 쉬워요!",
+		"10. 1cm 두께로 썰어주세요.",
+		"11. 150℃로 예열한 오븐에 12~15분간 바삭하게 구워주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/25/621efa738dc434c1cbbedc5b055c14a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/25/096696102023ed8bf87bea2d46c731e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/25/4c937f46fd994f0be3001d0bab8be5c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/25/945c7ee7d875c896b981c89e85580ea41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/25/d0c92f57ce30e19b3da3da8861fe52df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/25/248a29697a9906e25ec6091b3a70120b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/25/1910ab9e86d6666131f3f9e30b9477d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/25/0705f7a6b611da9dfd45c9b9a7dc804b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/25/5211d0fc5c7e765a7fc0d3d945d42ad41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/25/5c747dc613bffa4e04a2ea4ce2f1584c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/26/5b8074b70cb78f4d58a8e73c364c307d1.jpg"
+	]
+}

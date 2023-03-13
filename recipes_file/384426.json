@@ -1,0 +1,52 @@
+{
+	"id": "384426",
+	"name": "바질 페스토 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/26d4ce4ad73291e4040ec53434582c24.jpg",
+	"url": "https://www.10000recipe.com/recipe/384426",
+	"ingredient_ids": [
+		188,
+		205
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "바질잎",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "180",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "파마산치즈",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 생바질을 깨끗하게 씻어 물기를 모두 털어서 준비해 주세요.",
+		"2. 푸드 프로세서에 바질을 뺀 나머지 재료를 모두 혼합한 후",
+		"3. 준비한 바질을 넣고",
+		"4. 뚜껑 닫아 드륵드륵 갈아주면 끝. 분쇄기가 없으면 절구를 이용해서 올리브오일을 뺀 나머지 재료를 다 빻고 올리브 오일을 섞어줘도 된다고 하네요.",
+		"5. 향긋함이 그대로 살아있는 바질 페스토 완성. 마늘의 알싸함이 싫으시면 반쪽만 넣으셔도 돼요. 저는 분량보다 마늘도 더 넣고 올리브오일도 더 넣어서 걸쭉하게 만들었답니다. 그래서 저위의 레시피는 제가 원 레시피에서 조절한거예요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/2ebe6c08343aac59f8acae257b26f62b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/70fb6880a67aa3cd736894eb0eab57f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/b2ac36331ac19b17e4696f3b848298a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/639b7a2037f3de54c82195fa4eabdf8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/f9ff0fd825a518c7a8180a9deddd94fa1.jpg"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"id": "6865535",
+	"name": "빨리볶아 맛있게 먹기좋은 김자반볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/19/eaf9a82e912af7d5a1235ba01ced8d2e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865535",
+	"ingredient_ids": [
+		327,
+		291,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "김자반",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 팬에 오일 들기름을 넣고 약불로 가열합니다",
+		"2. 김자반을 넣습니다",
+		"3. 약불로 은근히 볶습니다  다 볶아지면 나머지 양념을 넣고 버무립니다",
+		"4. 기호에 맞게 소금 설탕을 가감하세요",
+		"5. 그릇에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/19/dbef1da1b5966640fb7575edd29a67981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/19/ed2d72074445a93a572ea7716a188c751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/19/1fd32fb3406afdce5ff0725132c04c0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/19/2f9768b34d568bfa0c2a36cb369127ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/19/59b82af846519536e3767560a75472f21.jpg"
+	]
+}

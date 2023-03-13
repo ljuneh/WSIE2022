@@ -1,0 +1,39 @@
+{
+	"id": "6904044",
+	"name": "베이컨 떡말이 꼬치구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/10/c81e96b2e018c43a76fc4e40d9142dff1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6904044",
+	"ingredient_ids": [
+		972,
+		406
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "5",
+			"ingre_unit": "줄"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 떡을 말랑말랑할 때까지 익힌다",
+		"2. 떡을건져서 넓은 그릇에 서로 붙지않게 펼쳐놓는다.",
+		"3. 베이컨을 반 잘라서 떡에 만다.",
+		"4. 그것을 이쑤시개에 꼿는다.",
+		"5. 기름을 두르지 않고 후라이팬에 굽는다",
+		"6. 그릇에 옴겨 담으면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/10/2adbff97286bc898fac66637e12447231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/10/8a991fdb1590bd5a4ebe712f7a65da541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/10/097e3bb535767ac3b60d63a7b4b7267d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/10/dc73033e5c847206b177b9384b4f05ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/10/3dc98de144c32555ceec345ab15bb7461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/10/259add39c21e16d2b165b1436e4d3b9c1.jpg"
+	]
+}

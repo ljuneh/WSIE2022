@@ -1,0 +1,80 @@
+{
+	"id": "6941516",
+	"name": "(아기반찬, 아기국) 황태무콩나물국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/fd8fffc5116d0ed12ea8fc55bd752e771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941516",
+	"ingredient_ids": [
+		19,
+		995,
+		3,
+		27,
+		327
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "황태가볍게",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "콩나물크게",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "3",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "아기간장",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요.황태(가볍게 한주먹), 콩나물(크게 한주먹), 무(3cm), 양파(1/4개), 대파(1/4개), 아기간장(1t), 들기름(1t)",
+		"2. 황태를 물(600ml)에 불려요*불리기전에 혹시 잔가시가 있나 잘 확인하고 제거해주세요",
+		"3. 무, 양파, 대파를 썰고 콩나물도 적당한 길이(1/4정도)로 썰어요무는 얇은 네모모양으로 썰어주세요",
+		"4. 냄비에 들기름을 두르고 무를 볶아요냄비약불들기름이 없으면 참기름을 넣어도 됩니다.",
+		"5. 물에 불린 황태를 건져내서 물기를 짜고 적당한 크기로 썰어요황태 불린물은 절대 버리지 마세요. 육수로 활용됩니다.",
+		"6. 볶은 무에 황태를 넣고 같이 볶아요냄비약불",
+		"7. 무가 익으면 황태 불린물 (1/2)을 부어 한번 끓이고냄비중불두번 나눠서 끓이면 육수가 더 구수하게 우러나와요",
+		"8. 콩나물과 나머지 불린물을 모두 부어 팔팔 끓여요냄비중불",
+		"9. 마지막으로 대파도 넣고 한번 더 끓이면 완성중불위에 뜨는 거품은 걷어내요",
+		"10. 황태무콩나물국은 아들이 정말정말 좋아하는 국 중 하나입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d4da659dca3193023b94f977a0b5a3981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/e22c3d0771164c78bfb420f8df0c5da21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/868e9ee7a4ca94ec787ba5a4abb86a561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/85d191e3c66b30ec1f1b1640be6ee73d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/94d357a8ab6fd3b7c68827bc5da69fde1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/ce490cc0f97898b2475d6f30c0c023271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d173b7cac029d8fc29d2442edb74d1961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/43f59ee4a5d1c96fc96091f76b5dd32b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/ad7cfef8132403b51ba758d64c1c042e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/aa43e1e32d04259c7d328d652b62182a1.jpg"
+	]
+}

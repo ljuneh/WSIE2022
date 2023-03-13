@@ -1,0 +1,83 @@
+{
+	"id": "6870757",
+	"name": "콩나물국 간단하게 끓이기!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/04/7e568e3b22b99c9d3dfead267489b2c11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6870757",
+	"ingredient_ids": [
+		47,
+		34,
+		27,
+		233,
+		379,
+		497,
+		90,
+		320,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "9",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 콩나물은 깨끗하게 씻어서 손질해주세요다듬으면 깔끔하고 좋겠지만 뿌리에 영양분이 많다는 핑계로 패스했어요^^",
+		"2. 잘닦은 다시마와 육수용 멸치를 10마리 정도 넣고 끓여주세요 (육수용 멸치가 똑떨어져 볶음용멸치로 대체했어요 ㅎㅎ)",
+		"3. 끓고나면 다시마를 건진후 약불로 줄여서 15분정도 끓여주세요",
+		"4. 시간이 지나고나면 멸치를 건져주세요",
+		"5. 잘 걸러진 육수에 콩나물을 넣고 끓여주세요처음부터 끝까지 뚜껑을 닫으려면 닫고, 열려면 끝까지 열고 끓여야 콩나물 비린내가 나지않아요",
+		"6. 부르르 끓어오르면 다진마늘을 넣어주세요",
+		"7. 간장과 소금으로 간을 맞춰주세요. 고추나 파도 함께 넣어주세요.간장을 너무 많이 넣으면 국물색이 진해지니 간장조금과 소금으로 간을 맞추는게 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/04/b1c2905a5feb2107b1e905a50e71ba9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/04/8946c50fd45a18cf94c319e874ecf1b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/04/383d803ef4dbbcbeb60ee12b248748821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/04/9380bb074f97d5d93b782fc599ab2d881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/04/77da0cb34176c5e64e10ecf22a1b9c4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/04/3e131f6033bda414d97de175578959c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/04/1e77b442060c2b452c4c9a8596ed7c361.jpg"
+	]
+}

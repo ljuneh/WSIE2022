@@ -1,0 +1,104 @@
+{
+	"id": "6906627",
+	"name": "무청으로 뼈다귀 해장국끓였습니다. 무청 뼈다귀해장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/15/3e6f420e67a0338abdaeec956311bf851.jpg",
+	"url": "https://www.10000recipe.com/recipe/6906627",
+	"ingredient_ids": [
+		995,
+		29,
+		27,
+		977,
+		233,
+		848,
+		27,
+		349
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지등뼈",
+			"ingre_count": "2",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "무청",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 돼지등뼈 2kg을 물에 4~6시간 이상 담궈 핏물을 빼줍니다. 중간 중간에 물을 갈아 주세요. ",
+		"2. 핏물 뺀 등뼈는 흐르는 물에 한번 씻어 줍니다. ",
+		"3. 준비한 등뼈가 충분히 잠길 물 4리터 를 냄비에 붓고 마늘5톨, 대파 1대를 잘라 넣고 끓여 줍니다.",
+		"4. 물이 전체적으로 고르게 팔팔 끓으면 준비한 등뼈를 몽땅 넣고 삶아 줍니다.                    ",
+		"5. 그리고 물이 전체적으로 고르게 팔팔 끓으면 등뼈를 건져 줍니다. ",
+		"6. 한번 삶아 준 등뼈는 흐르는 물에 씻어 체에 건져 줍니다.",
+		"7. 체에 면보나 키친타올을 깔고 삶은 등뼈 물을 부어 걸러 육수를 준비해 줍니다. ",
+		"8. 그리고 냄비에 손질한 등뼈와 육수를 붓고 끓여 줍니다. ",
+		"9. 센불에서 팔팔 끓으면 중~약불로 줄여 1~2시간을 푹 끓여야 고기가 부들부들하니 뼈에서 쏙 빠져 나옵니다. 그리고 끓이면서 생기는 거품은 걷어 주세요. ",
+		"10. 무청 2줌을 그릇에 담고 다진마늘 2큰술, 된장 3큰술, 고추가루 3큰술, 대파 3대를 준비해 흰부분을 쏭쏭 썰어 넣고 조물조물 무쳐 준 후.... ",
+		"11. 푹 끓인 등뼈 국물에 넣고 끓여 줍니다. ",
+		"12. 무청이 부드럽게 끓여지면 국간장 4큰술로 간을 하고.... ",
+		"13. 마지막으로 대파 초록부분을 어슷하게 썰어 넣고 후추 1/2작은술을 넣어 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/f82348a9effe52bdbac55f76712995831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/c7abc4dfd99a64f170211462efaec7831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/a21f61cd7775ef78f965f2db9fba90cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/5462ab0b309a946f85a930de91a3c3a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/4f8bc95196557114a4fc6ad34b64ad6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/82a7ee84140df69f0869b95375f89b9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/84ea6421bf4926635a5e57e0b42dcb3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/f02c824f6d03160b8fd64f3e7b100ee11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/c1c394d1984967ecb9b5733000242f421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/47bedc67518ca41351ec57fc365a917c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/fee616960de38860999f7b5e179ba1a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/060575795eb7508fb5ed13e71fe22dd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/919aa7c7741fcf8550b2980c96e01a8f1.jpg"
+	]
+}

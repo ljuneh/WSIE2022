@@ -1,0 +1,88 @@
+{
+	"id": "6943036",
+	"name": "추석요리 소고기 대파 육전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/f02861bb5e6a82329e3b0be93d53a4531.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943036",
+	"ingredient_ids": [
+		495,
+		27,
+		497,
+		225,
+		458,
+		226,
+		343,
+		667,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		}
+	],
+	"recipe": [
+		"1. 소고기는 불고기감으로 준비해 소금 미림 훗춧가루 생강즙 설탕1/2~1스픈 (기호에맞게)참기름 넣어 조물조물 밑간을 합니다",
+		"2. 송송 썬 대파도 듬뿍 넣어 주고요",
+		"3. 계란도 깨트려 넣어 줍니다",
+		"4. 양념한 소고기와 달걀을 섞어 마른 찹쌀가루 1스픈 넣어 줍니다 밀가루보다 찹쌀가루를 넣으면 더 고소하고 맛있습니다",
+		"5. 예열된 팬에 식용유 넉넉히 두루고 반죽을 올려 윗면으로 핏물이 송송 올라오면 뒤집어 노릇하게 구워 줍니다",
+		"6. 만들기도 간단하고 식어도 촉촉하고 대파향이 좋은 대파 소고기 육전 입니다",
+		"7. 초간장 곁드려 내면 느끼한 맛을 잡아 주기도 합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/3882eed5b1aed966d5477840cea68bc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/f84f488801e0b1d26d895bd4e53181971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/73cf57f55a8b6e2950fe8ac6594aebe91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/23046583659c1af0741dc40f2a2912c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/1949e27316eda410efaa83f592bc1a321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/2c270df6732863886ecc97af24bcb0f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/6fb0caf80137ef6e8c46bffee136b5ce1.jpg"
+	]
+}

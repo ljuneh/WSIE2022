@@ -1,0 +1,115 @@
+{
+	"id": "6941003",
+	"name": "시원한 냉국수 만들기 !! ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/8f8ad8f209534477ecd718b57e2704dc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941003",
+	"ingredient_ids": [
+		995,
+		349,
+		843,
+		226,
+		291,
+		231
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "채썬오이",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "얇게썬대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진청양고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "얇게슬라이스한양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "4",
+			"ingre_unit": "덩어리"
+		},
+		{
+			"ingre_name": "검은깨",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "중면",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 중면 400g을 넣고 면을 삶아 주세요!!",
+		"2. 면이 다 삶아졌으면 거름망에 걸러주시고 찬물로 행궈주세요!  찬물로 1분정도 행궈주셔야 합니다. 찬물로 10초~ 20초 정도 대충 행구시면 면안에 뜨거운 열기가 남아있어요!!",
+		"3. 시원한 생수 600ml에 진간장, 국간장, 매실액, 설탕, 소금, 식초를 넣어서 잘 저어주세요 !  그러면 냉국수 육수 다 됐어요!",
+		"4. 냉국수 육수에 얇게 썬 대파, 다진 청양고추, 다진 홍고추를 넣어주세요.",
+		"5. 삶은 면을 다른 접시에 옮겨 담아서 얼음 4덩어리와 채썬 오이, 양파를 면위에 얹어주세요!  그리고 검은깨도 뿌려주세요~!",
+		"6. 냉국수 육수를 면이 담겨진 그릇에 부어주세요~!",
+		"7. 그다음 김가루를 드시고 싶을 만큼만 냉국수에 올려주시면 끝입니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/8f3902702d64d0bc9d924a9b05a6fad71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/2e1ea24f5419e91c404636a4b3173c931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/f20f72d4adab664bb535ca540514fdc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/a619b4c33f134f2311b55b4f0fe0d0ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/2c73ca71292e4a896a61fd024e07bbcb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/3abe6ec4b54c3ff4ac348ba850ef75f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/1ca42e3014cfd7b803060ba7e4b3957d1.jpg"
+	]
+}

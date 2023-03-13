@@ -1,0 +1,49 @@
+{
+	"id": "6859800",
+	"name": "간단하게 해먹는 간식 휴게소감자, 버터구이감자",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/8e424bf0c76ede2466c264d630c1c97f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6859800",
+	"ingredient_ids": [
+		198,
+		226,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "감자큰거",
+			"ingre_count": "4-6개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 감자는 깨끗하게 닦아서 먹기좋은 크기로 잘라, 물기를 빼줍니다. 후라이팬에 버터를 두른 후 감자를 넣어준 후 소금 반숟가락 정도를 넣고, 통 후추를 기호에 맞게 살짝 뿌려주세요",
+		"2. 노릇노릇하게 감자를 익혀주다가 버터가 자작해지고 감자가 잘익었을때 (젓가락으로 찔러서 푹 들어가면 익은거예요) 설탕을 두스푼정도(기호에 맞게 가감하면 됩니다) 넣어줍니다.",
+		"3. 감자 겉면이 달콤하고 바삭하고 속은 부드러운 버터구이 감자 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/fdaf336376afeca5e73a3ef8b33ac4261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/078c944e26015463ba5c525c1513940d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/b9cb44da7c1c3fd63f3ee35168c6e8c91.jpg"
+	]
+}

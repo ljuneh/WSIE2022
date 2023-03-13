@@ -1,0 +1,110 @@
+{
+	"id": "6941232",
+	"name": "부채살 찹스테이크 부드럽고 맛있게 만들기 (+소스레시피)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/6307fcda1d8dd18da8d4406c0cca4bae1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941232",
+	"ingredient_ids": [
+		29,
+		535,
+		724,
+		575,
+		292,
+		233,
+		477
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "구이용부채살",
+			"ingre_count": "4-5장",
+			"ingre_unit": "-장"
+		},
+		{
+			"ingre_name": "파프리카색깔별로",
+			"ingre_count": "1/2",
+			"ingre_unit": "개씩"
+		},
+		{
+			"ingre_name": "양파반",
+			"ingre_count": "",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "올리브유아주",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		},
+		{
+			"ingre_name": "허브솔트",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "로즈마리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "돈까스소스",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1/3",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 부채살은 얇게 펴 놓고 올리브유, 후추, 허브솔트로 밑간을 살짝 해주세요 로즈마리나 기타 다른 허브가루가 있다면 함께 밑간해주세요",
+		"2. 야채는 취향껏 먹기 좋은 크기로 썰어주세요버섯이나 브로컬리, 아스파라거스 등을 넣어줘도 좋습니다 ",
+		"3. 돈까스소스 5스푼, 케찹2스푼, 올리고당1스푼, 맛술1스푼, 다진마늘1/3스푼, 굴소스 1/3스푼을 넣고 잘 섞어 소스를 미리 만들어 둡니다",
+		"4. 예열한 팬에 올리브유를 살짝 두르고 부채살을 구워주세요",
+		"5. 선홍빛이 사라지고 적당히 익었을 때  먹기 좋은 크기로 잘라줍니다  익은 고기는 잠시 접시에 덜어두어요",
+		"6. 팬에 남은 기름으로 야채를 센불에 빠르게 볶아주세요 중간에 허브솔트도 살짝 뿌려주고요",
+		"7. 마늘, 양파가 익으면 소스와 고기를 투하하고",
+		"8. 소스가 골고루 섞이도록 1-2분 정도만 더 볶아 완성해요",
+		"9. 밥과 함께 곁들여 덮밥으로 세팅해도 좋고  반찬으로 드셔도 좋습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/4caffc203ca0c0cff6c840e7a2ecdc841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/2f9b98219b0981e3bbb6241d91f453951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/f590f7552fccaf61117c60b22ccf08131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/157587fbeadfbb998e39c34f371f7abc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/a71b25756413e289feb98631485dc30c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/2dd487ce8b5c18eb1fb9508cd153b50f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/5b696f0cc8f37e0fb97d90bfe5adf3291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/d68f59e522b2d0a4d335d63c3b49fc9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/b46f8add43af20b3ca818307be8c42d71.jpg"
+	]
+}

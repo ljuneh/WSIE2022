@@ -1,0 +1,109 @@
+{
+	"id": "6940659",
+	"name": "[크림 파스타] B·M·S 크림 스파게티 Ver.2",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/662f25a414fe8aed21a00c2227c4a7aa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940659",
+	"ingredient_ids": [
+		485,
+		79,
+		54,
+		406,
+		233,
+		574,
+		402,
+		467,
+		868,
+		702,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "스파게티",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "150",
+			"ingre_unit": "㎖"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "6~7마리",
+			"ingre_unit": "~마리"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1~2큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "적정량"
+		},
+		{
+			"ingre_name": "화이트와인",
+			"ingre_count": "",
+			"ingre_unit": "적정량"
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "",
+			"ingre_unit": "적정량"
+		},
+		{
+			"ingre_name": "파마산치즈가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 물을 넣고 끓으면 소금을 넣고 스파게티를 7~8분간 삶는다.",
+		"2. 베이컨과 양송이버섯을 먹기 좋게 자른다.",
+		"3. 팬에 올리브유를 두르고 베이컨을 넣어 노릇하게 볶는다.",
+		"4. 다진 마늘을 넣고 볶아 향을 낸다.",
+		"5. 양송이버섯과 새우를 넣고 화이트 와인을 살짝 넣어 어느 정도 숨이 죽을 때까지 볶는다.",
+		"6. 생크림을 넣고 치킨 스톡으로 농도를 맞추면서 약불에서 끓인다.",
+		"7. 원하는 농도가 되면 삶은 스파게티와 파마산 치즈가루를 넣고 잘 섞는다.",
+		"8. 파슬리와 후추를 뿌려 마무리한다.",
+		"9. 접시에 담아 통후추와 파마산 치즈를 갈아 뿌린다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/4771373c81851f31a24ad1ffb98db14f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/1b269291df59170c700f6ef5b624614c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/277b42d74f7c2defc4dd07235b9001a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/2d7525b4bd69f6dea3bb35f2b7eba0d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/cd7beb99b1f5c39720438cc2feb11b981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/843b604f2714f99e1f7ac45409fe973f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/528962cab5e6e85aa38dfabd70e0c7bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/4ff18ecca187ea3f5d0a7383ab29dbed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/43ec131fde1f6b373903244803b289871.jpg"
+	]
+}

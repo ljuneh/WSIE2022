@@ -1,0 +1,76 @@
+{
+	"id": "6938742",
+	"name": "지코바치킨 따라하기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/09/06d5bb2b87646fb0784ac007fdf22f751.jpg",
+	"url": "https://www.10000recipe.com/recipe/6938742",
+	"ingredient_ids": [
+		299,
+		295,
+		473,
+		477,
+		341,
+		224,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭다리살",
+			"ingre_count": "600",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 닭다리살 구매 껍질과 지방은 떼내줍니다 손질된닭은 술과 후추로 재워줘요",
+		"2. 다리살 그대로 구워줍니다 구울때도 다진마늘 술 첨가했어요",
+		"3. 먹기좋게 잘라 노릇노릇  속까지 익혀줍니다 떡을 넣고싶을땐 이때 넣어  같이 볶아줍니다",
+		"4. 옆에는 준비했던 소스를 끓여 준비해줍니다",
+		"5. 잘구워진 닭을 소스에 풍덩~",
+		"6. 청양고추 2개넣어  같이 볶아줍니다(생략가능)",
+		"7. 완성이예요 아주 쉽게 지코바치킨완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/09/c14b898b89633f4a27633ac3a774116d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/09/436d5bfdf1c83d30167d434466089c331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/09/54fa256a8e3f705cff42aa3c2fb295cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/09/6cebb6efefadc01d4ab80282d3426bd41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/09/613b36c37427fb208bd111f451e614c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/09/871aeb564543e080e59db24099ca431c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/09/c1cde5400ddb74537a3876e4b6b88e301.jpg"
+	]
+}

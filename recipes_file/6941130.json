@@ -1,0 +1,61 @@
+{
+	"id": "6941130",
+	"name": "냉털용 요리 야채덮밥 만들기 도시락 반찬 메뉴",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/4f3c8e32650c2a888d3ed3d9715ebb141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941130",
+	"ingredient_ids": [
+		477,
+		995
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "집에있는야채",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "김밥싸고남은맛살햄없으면",
+			"ingre_count": "",
+			"ingre_unit": "생략가능"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2~3스푼",
+			"ingre_unit": "~스푼"
+		}
+	],
+	"recipe": [
+		"1. 기름을 두른 팬에 냉동야채를 적당히 넣어주세요집에 있는 야채 아무거나 넣으시면 됩니다",
+		"2. 김밥싸고 남은 맛살과 햄을 먹기좋은 크기로 잘라서 넣어주세요.집에 있는 소세지나 햄 대체 가능합니다.",
+		"3. 야채를 한쪽으로 옮기고 계란 2개를 풀어서 따로 익혀주세요",
+		"4. 굴소스 1스푼을 넣고 볶아주세요",
+		"5. 물 2~3스푼을 넣어주면 촉촉해요",
+		"6. 완성 !!",
+		"7. 밥을 넣어주고 그 위에 만들어놓은 요리를 올려주면 끝!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/b8a0b3ff1b8531dbfe5ffdaa6eb128461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/e1b164c72a8b765a1f49fc0ef7d0b7d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/ba8dc6673a330017b799453f857cd21a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/0d237cfebed2c58ec55637c5644c9b491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/957e9f855679f23fcdc01292aeb4fc071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/3fdf96a82abdd27ff6f81759ae99a6791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/e85a166e4cece2c1692cc3d9dddf24111.jpg"
+	]
+}

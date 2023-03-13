@@ -1,0 +1,85 @@
+{
+	"id": "6942565",
+	"name": "남은 치킨 요리 초간단 치킨마요덮밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/2757b978c981d7183b8548d994c02c571.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942565",
+	"ingredient_ids": [
+		3,
+		219,
+		228,
+		379,
+		477,
+		995,
+		575
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "치킨",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": "취향에따라"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "0.5-1스푼",
+			"ingre_unit": ".-스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "",
+			"ingre_unit": "취향따라서"
+		}
+	],
+	"recipe": [
+		"1. 양파는 반달모양으로 썰어주세요전 좋아해서 많이 했어요",
+		"2. 간장2큰술과",
+		"3. 굴소스 0.5-1큰술 넣어주세요",
+		"4. 물은 반컵 정도 넣어줬어요",
+		"5. 양파를 넣고 숨이 죽을 때까지 끓여주세요",
+		"6. 올리고당 조금 넣으셔도 되는데 양파도 달고, 양념치킨도 달아서 생략하셔도 되요",
+		"7. 치킨은 전자렌지에 살짝 돌려서 먹기 좋게 살을 발라주세요전자레인지",
+		"8. 달걀은 스크럼블로 준비해주세요",
+		"9. 밥을 덜고 치킨, 달걀, 소스를 붓고, 마요네즈를 뿌려주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/da542bb8d7b22aa938df1ba487b345711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/ffd160e5fde3fa75aafee63aee4a473a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/80873b10fefd4b5407d16cfd2be7a9011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/b810e5889743417d03e8f90b6344b6881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/55f24234ee1c0f589088fa78322ee37c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/b617394f08c94186ad259e91d123de7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/a6c2c037faa4d37782ebd1722211a8161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/2f18d5b6dd26fd3e575ad8829052d5751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/26d5b0011e9b1f0d660077e09f0bbde31.jpg"
+	]
+}

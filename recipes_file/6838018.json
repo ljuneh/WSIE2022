@@ -1,0 +1,55 @@
+{
+	"id": "6838018",
+	"name": "달콤한 고구마맛탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/8e65ee629330d1ff37959cafd8c5d94b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838018",
+	"ingredient_ids": [
+		4,
+		504,
+		575,
+		226,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".수저"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 고구마는 깨끗이 씻어서 껍질 벗겨 먹기좋게 썰어준다.",
+		"2. 랩 또는 비닐봉지에 씌어서 전자레인지에 3분간 돌려준다.전자레인지",
+		"3. 전자레인지에서 꺼낸 고구마는 팬에 기름을 두르고 약한 불로 겉면만 바삭하게 구워준다.",
+		"4. 잘 구워진 고구마는 기름을 한번 빼주고 팬에 남아 있는 기름은 닦아내고 올리고당 2수저, 설탕1수저를 넣고 녹여준 다음 고구마를 넣어 버무려 준다.",
+		"5. 마지막으로 깨 약간, 설탕 0.5수저 넣고 한번더 버무려 주면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/53a1c925c4dd94a43cad905d128c7e871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/b4090beea8d26e725ae08a4988941aae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/2d2c860ff90e02a9824fd1b47c103bd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/c547d082042354663d89340308693f801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/c6b288ca00ede9aea4d161634d0f84c01.jpg"
+	]
+}

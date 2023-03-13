@@ -1,0 +1,42 @@
+{
+	"id": "6868357",
+	"name": "[초간단 노오븐 베이킹] 5분완성 브라우니 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/13/cab42c4a34388ab5c11e650cbe226a6e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868357",
+	"ingredient_ids": [],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "설탕큰",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "핫초코가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰스푼"
+		},
+		{
+			"ingre_name": "데코용딸기(필수아님)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 계란을 한 알 그릇에 넣고 알끈을 제거한 뒤, 티스푼이나 젓가락으로 휘저어주세요",
+		"2. 설탕을 큰 한스푼 넣고 설탕이 다 녹을때까지 풀어주세요",
+		"3. 핫초코 가루를 큰 세스푼 듬뿍 넣어준 뒤, 잘 섞이도록 꼼꼼하게 저어주세요스틱에 들어있는 핫초코라면, 한봉지만 뜯어 넣어주면 됩니다!",
+		"4. 전자렌지에 20-30초만 돌려주면 완성!!! 진짜 쉽죠^ㅠ^전자레인지슈가롱은 양을 적게해서 20-30초로 끝났지만, 양을 좀 더 많이 하는 분들은 그만큼 더 많은 시간 돌려줘야 맛있게 잘 익으니 참고하세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/13/bd195b5b37045218d8f74d590c496b2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/13/53c68de53b6ca90829fcc59c6145faaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/13/a7bdd6bb4b997427ca3682a9b084ca6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/13/54902882ab9bfb9b24fdf6b2dac7a7091.jpg"
+	]
+}

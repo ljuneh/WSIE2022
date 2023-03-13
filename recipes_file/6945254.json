@@ -1,0 +1,38 @@
+{
+	"id": "6945254",
+	"name": "간단 귤 꽃 카나페 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/95b44e15777ba643710d480177041bf91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945254",
+	"ingredient_ids": [
+		984,
+		208
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "크래커",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "귤",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 크래커를 뜯어 접시에 놓아주세요",
+		"2. 그런 다음 크림 치즈를 크래커에 발라주세요",
+		"3. 마지막으로 귤을 꽃모양으로 올리면 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/6c33740edaad48affb9a2c0a66b5bfc21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/7dfab1d0cecc1292343ce45f188d09871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/464f76240cbbcabe71eec26e2a4de4ce1.jpg"
+	]
+}

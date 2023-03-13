@@ -1,0 +1,70 @@
+{
+	"id": "6945289",
+	"name": "아보카도명란비빔밥 영양가득 챙기는 한그릇음식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/d2536c7cca67f11f1fa7b421b0f17f2e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945289",
+	"ingredient_ids": [
+		162,
+		660,
+		379
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "명란젓갈",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1/3",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 스팸은 뜨거운 물에 햄을 샤워시킨 후 키친타올로 물기를 닦아서 잘게 큐브 모양으로 썰어줍니다. ",
+		"2. 기름없이 팬에 노릇노릇 볶아 키친타올에 올려 기름기를 빼 줍니다.                      ",
+		"3. 아보카도는 껍질을 벗기고 씨를 제거한 후 얇게 슬라이스해 줍니다                        ",
+		"4. 명란젓갈은 칼로 갈라준 다음 숟가락으로 긁어 껍질을 제거해 줍니다. ",
+		"5. 계란후리이는 반숙으로 약불에서 부쳐 줍니다. ",
+		"6. 갓 지은 밥을 접시에 담고 아보카도,명란, 스팸볶은 것, 김가루를 올리고 반숙계란후라이를 올려주면 되는 아보카도명란비빔밥 이랍니다.                    "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/da4daed76f2f3e0d43e3e383ee891f761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/b43fe982d726c0d2d2fc3617e61581741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/505029367af7db9bdd03f2c42a7b11711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/39db9d4b3d961c8289baa17454fbda441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/89671096ba0ce2ca76aff5db97dba8c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/256b477ada98492983554bade02441111.jpg"
+	]
+}

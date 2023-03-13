@@ -1,0 +1,56 @@
+{
+	"id": "6944680",
+	"name": "향긋하고 은은한 사과수정과 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/30239baa6368ef5e31242f12ea94a8701.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944680",
+	"ingredient_ids": [
+		158,
+		995,
+		478
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "계피",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "8",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "700",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 껍질이 있는 계피는 손으로 문질러 씻어요",
+		"2. 씻어놓은 계피는 끓일 물을 붓고 30분정도 담궈둡니다",
+		"3. 사과는 베이킹소다로 깨끗이 씻고 물기를 닦아 적당한 크기로 자릅니다",
+		"4. 재료준비가 간단합니다",
+		"5. 계피부터 40분이상 끓입니다",
+		"6. 다끓인 계피는 건져냅니다",
+		"7. 끓인 계피물에 사과도 넣고 40분이상 끓입니다",
+		"8. 면보에 찌꺼기를 걸러냅니다",
+		"9. 걸러낸 사과계피물에 흑설탕을 20분이상 끓이면 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5d74a23fcbea6b400c547fe928a51c281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/2e94783e02c178f777bae886b6943e9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/d369eabd6a51b6b8c811eb55bc72572e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/ce1ebb7a11bd539c733afb50f7e944611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/eaf9066c6e36ae6126a27c0fd016fab51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/4da9014e639bc8a8ba9c21380f2e7eb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/77aceda5633fbf0f0178430f49cf30481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/0d37a65b32b45cc22db0ddc0bc849c311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/9f4a6e78fc1ac31f6001e71d68a9f8251.jpg"
+	]
+}

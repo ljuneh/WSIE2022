@@ -1,0 +1,61 @@
+{
+	"id": "6862661",
+	"name": "돼지고기김치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/160a46e9268682feeb7b41a39748f7d41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6862661",
+	"ingredient_ids": [
+		487,
+		27,
+		3,
+		953
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "5000",
+			"ingre_unit": "원"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "연두1+1/2T",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "1",
+			"ingre_unit": "국자"
+		}
+	],
+	"recipe": [
+		"1. 집앞에서 사온 찌개용 돼지고기 한팩 5천 찍혀있어용  물1리터넣고 고기를 먼저 삶아줍니다",
+		"2. 고기육수가 끓으면 위에 불순물들 걷어내 줍니다",
+		"3. 그리고 묵은지 한포기  잘라서 넣어줍니다  다시 중불에서 끓여주세용",
+		"4. 양파 반개와 대파한줄도 썰어서 준비해주세요",
+		"5. 다시 끓기시작하면  양파대파 김치국물 국자로 한국자 넣어줬네요 따로 멸치육수 하지않아서 연두로 대신했어요",
+		"6. 중불에서 계속 끓여줍니다  마지막에 간보고 부족한간은 천일염으로 합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/83544344d5b78637e5d6e9ed42220e321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/671e4bc108865a177b2f86d3091f20341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/d6b8e3789a88d4313e2226d81bb405d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/aa63a26d4f5cc2b2359add360e784a261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/9c3a682840d320ae4fbdd089488a51ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/e1a2e7e0b8d20eed7b273990d378b3bd1.jpg"
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"id": "835107",
+	"name": "날치알 오이롤초밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/3f21d768fee946b5b479b6d731705152.jpg",
+	"url": "https://www.10000recipe.com/recipe/835107",
+	"ingredient_ids": [
+		482,
+		250,
+		231,
+		497,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "청오이",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이장아찌",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "날치알",
+			"ingre_count": "100~200g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "튜브형와사비",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 오이장아찌를 반개정도 썰어서 찬물에 15분 정도 담궈 둡니다. 식초, 설탕, 소금을 섞어 배합초를 만들어 두고 날치알은 레몬즙을 약간 뿌려서 준비 합니다.",
+		"2. 찬물에 담궈둔 오이장아찌는 꼭 짜서 잘게 다져 줍니다. 준비해둔 밥에 배합초를 넣고 골고루 섞어서 준비 합니다. (배합초를 섞고나서 부채질을 하면서 섞어 주거나 밥을 넓게 펼쳐두고 식혀야 밥이 질어지지 않아요.)",
+		"3. 배합초를 섞고나면 잘게 다진 오이장아찌를 넣고 섞어 줍니다. 밥을 한손에 들어오게 적당한 크기로 쥐어 초밥을 만들어 줍니다. (이때 손에 물이나 배합초를 바르고 초밥을 쥐면 손에 달라붙지 않고 좋아요.)",
+		"4. 청오이는 깨끗하게 씻어 필러로 얇게 슬라이스해서 준비 합니다. (이때 되도록이면 씨가 있는 가운데 부분은 사용하지 마세요.) 미리 쥐어둔 초밥을 슬라이스한 오이로 감싸서 말아 줍니다.",
+		"5. 오이롤초밥위에 와사비를 약간씩 발라 줍니다. 그위에 날치알을 소복히 올려주면 완성.",
+		"6. 신선함이 톡톡 오이장이찌를 넣은 날치알 오이롤초밥 완성입니다. 그냥 먹어도 맛있고, 와사비 간장을 콕 찍어 먹어도 맛있고. 한입 가득 상큼하고 날치알이 톡톡, 오이장아찌가 새콤 짭짤, 진짜 아삭아삭 새콤달콤 짭짤 여러가지 맛이 입안 가득 어우러져서 너무 맛있었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/59aa1080aee019538cccb72972a7264a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/ecde26374cddffc5208d8e7f28fab1ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/e9e5a39e0c0793eb86a664999640a1af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/11fda3f85b9b634ed4323f94ff9008f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/306ddc8f795a34741b38a07b327b9aba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/f3c90987cbe6e5a46e73104c274aa74e1.jpg"
+	]
+}

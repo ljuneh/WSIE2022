@@ -1,0 +1,70 @@
+{
+	"id": "6858665",
+	"name": "고기반찬 부럽지 않은 쫄깃쫄깃 느타리버섯볶음♥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/19/0f716e51b295535f250a7eeedc629b541.png",
+	"url": "https://www.10000recipe.com/recipe/6858665",
+	"ingredient_ids": [
+		9,
+		3,
+		379,
+		497,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "느타리버섯1팩(200g)",
+			"ingre_count": "1팩(200g)",
+			"ingre_unit": "팩(g)"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 버섯을 손질한다.느타리버섯 200g",
+		"2. 양파와 당근은 채 썬다.양파 1/2개, 당근 1/2개",
+		"3. 달군 팬에 식용유를 두르고 양파, 당근, 버섯을 넣어 센 불에서 볶는다.팬불이 약하면 버섯에서 수분이 나와요. ",
+		"4. 양념 재료를 넣고 볶은 후 불을 끄고 참기름을 넣어 섞는다.[양념 재료] 간장 1T, 소금 약간, 후추 약간, 참기름 1/2T",
+		"5. 통깨를 뿌려 마무리한다.참깨 1/2T"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/19/87248efd7c62c99fca7be05ebcc4b88b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/19/60d3216e5c005f1bb0aa18f3ef8a790e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/19/840490ce5b9313e37e94c25fb5742b301.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/19/60892b5a6a0acb3ca224a919219f63171.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/19/04495a3794935abe870bae3459009dda1.png"
+	]
+}

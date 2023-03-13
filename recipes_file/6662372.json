@@ -1,0 +1,66 @@
+{
+	"id": "6662372",
+	"name": "속풀이 해장라면",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/a8cbdef7af878117903ff65083aab0fb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6662372",
+	"ingredient_ids": [
+		441,
+		47,
+		27,
+		295,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "자른미역",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 집에서 구하기쉬운 재료들로만 준비해봤는데요, 해물을 좋아하시는분들은 오징어나 홍합을 추가해도 좋아요~",
+		"2. 자른미역은 미리 찬물에 불려서 준비하시구요.",
+		"3. 500ml 분량의 물을 끓이다가 라면, 콩나물순으로 넣어주세요.",
+		"4. 중간에 뚜껑을 열거나 닫으면 콩나물 비린내가 날수있으니, 뚜껑을 열어놓고 면이 잘 풀어지도록 저어가며 끓여주어요.",
+		"5. 불린 미역도 한줌 넣어주고요, 라면먹고 나서 잘 붓는사람들은 미역한번 넣어드셔보세요~ 붓기예방에도 좋고 꼬들꼬들한 식감이 짱!",
+		"6. 마지막에 스프를 넣고 잘 풀어지도록 휘~휙 저어주기.",
+		"7. 속풀이 해장라면이 보글보글 끓고있어요~",
+		"8. 기호에따라 파나 청양고추까지 넣어주면 속이 뻥~ 뚫리는 속풀이 해장라면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/e21a907d3ce25afaf478edf6a67679e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/f32c1e4b961f972cbcc4a686e8379ae21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/a0ade5392173c96be7abb57d442e232b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/ec841dd84047b875992c29b19ff69c1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/9005036021887221ca24beaa01f3f1531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/0cf9c076677d94b38e7c9cafee33aa081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/d8d85d7ce0c357abf52a265b673bda001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/f22edd85413b00bdaaca0de01426d68f1.jpg"
+	]
+}

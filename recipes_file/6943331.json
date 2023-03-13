@@ -1,0 +1,93 @@
+{
+	"id": "6943331",
+	"name": "초보 베이킹 단팥빵 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/649cb2c8bc454b3f42b18d257ffe140b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943331",
+	"ingredient_ids": [
+		226,
+		497,
+		866,
+		219,
+		198,
+		907
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "240",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "45",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "드라이이스트",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "따뜻한물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "팥앙금",
+			"ingre_count": "280",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "검은깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 강력분에 설탕, 소금, 이스트를 넣고 섞어줍니다.",
+		"2. 푼 달걀과 따뜻한 물을 넣고 섞어줍니다. ",
+		"3. 한 덩어리가 되면, 버터를 넣고 손 반죽을 해줍니다. (15분 ~20분 정도)살짝 늘려봤을 때 잘 늘어나고 반죽이 손에 비치면 잘 된 반죽!!",
+		"4. 그리고 따뜻한 곳에서 1시간 정도 1차 발효해 줍니다.",
+		"5. 그리고 따뜻한 곳에서 1시간 정도 1차 발효해 줍니다.",
+		"6. 15분 후, 밀대로 밀어서 팥앙금을 35g씩 넣고 빚어줍니다.",
+		"7. 잘 여며줍니다!!",
+		"8. 그리고 따뜻한 곳에서 35~40분 정도 2차 발효를 해줍니다.",
+		"9. 비닐을 덮은 채로 반죽 중간 부분을 손으로 눌러서 모양을 내주었습니다.",
+		"10. 그다음 달걀물을 바르고 검은깨를 한쪽으로 올려준 뒤,",
+		"11. 190℃에서 12~15분 정도 구워줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/df7c019c8002ed69d3b2869a70522ec11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/6c09d73890c39b4fcc7dfeb79d0b15731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/1ba53cb281f1d4c645222108dd352b901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/76714e245764b8d08dceba706a35d9981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/8fa734fae60c9d1fa912d867d76190f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/a63b7c1375f1e817401a1102081cffac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/4f3016cf95a7c5f6b625869544303fd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/3dcfb04f7693c0540b0724d315a6a94c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/8573d66fbd0d6c632379354b64a53f2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/68ad741aee4a667c0a0d1b3f635831e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/6d95472c1c1afc7f6afdbd1db24ab2f51.jpg"
+	]
+}

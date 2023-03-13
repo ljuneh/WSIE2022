@@ -1,0 +1,143 @@
+{
+	"id": "6944733",
+	"name": "#닭요리, 간장찜닭 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/508f909f94907ed76035e0599b3446871.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944733",
+	"ingredient_ids": [
+		126,
+		5,
+		9,
+		3,
+		53,
+		27,
+		295,
+		579,
+		290,
+		302,
+		478,
+		233,
+		660,
+		995,
+		980
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭고기",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "유자청",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 닭을 깨끗하게 손질하고, 술(또는 우유 등)에 재워 둡니다.드시고 남은 술로 사용하면 좋습니다.",
+		"2. 손질된 닭은 냄비에 물을 넣고 10분 정도 삶아 주세요.- 거품이 나오니 물이 넘치치 않도록 주의!! - 삶은 고기는 깨끗한 물에 씻어 주세요.",
+		"3. 닭이 삶아 지는 동안 양념을 만들어 주세요.설탕 등 재료가 잘 섞이도록 저어 주세요.",
+		"4. 삶은 고기는 양념간장에 재워 주세요.- 청양고추를 넣어 주시면 좋습니다. - 시간은 대략 10분, 생락도 가능합니다.",
+		"5. 당면을 물에 불려 주세요.제일 마지막에 넣을 재료 입니다. 먹기 전에 삶아 건져 나머지 재료와 함께 조금 더 끓이면 됩니다.",
+		"6. 감자, 양파, 당근, 버섯 등의 야채를 알맞은 크기로 잘라주세요.",
+		"7. 양념에 넣은 고기를 삶으면서 국물을 졸여 주세요.",
+		"8. 감자 등의 손질된 야채를 넣어 주세요.",
+		"9. 약불로 끓여 주세요.양념장 맛을 보고, 개인 기호에 따라 간을 맞춰 주시면 됩니다.",
+		"10. 전분가루 1스푼을 물에 풀어서 넣어 주세요.- 전분가루가 없을 시에는 생략도 가능 합니다.",
+		"11. 물에 불린 당면을 건져 별도로 삶은 후에 찜닭냄비에 넣고 살짝 데워 주세요.",
+		"12. 접시의 아래에 당면을 깔고, 담아주신 뒤 깨를 뿌려주시면 완성 입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/ae4f92008239060d2cf4dc64de684ef91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/cb26712ae5ecefd3dd768004cfdbf94c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/70941a39f2d41ec44ec722a1b51384511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/2381d79c119e6b1b47390996294ef7251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/0c685109c37734de51e4f1eecc3ddcec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/67661d0995dcd64289961cbbe8d35d6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/7e2741d15d0082a856d83db73df176c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/ef0be0d47d9411c1488edbf6c92041b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/fb9ed3d23cc93c7e9d485d453246a55b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/e84a53a456b7b5076d73f015a62937321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/81c6eb8c84f053c89b0cb8aa6733948e1.jpg"
+	]
+}

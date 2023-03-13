@@ -1,0 +1,61 @@
+{
+	"id": "6945611",
+	"name": "호두 커피강정",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/ab4be14f507462620825b2d5c57c13b91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945611",
+	"ingredient_ids": [
+		194,
+		226,
+		568,
+		995
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "호두",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "인스턴트커피",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 호두를 준비한다.",
+		"2. 설탕을 준비한다.",
+		"3. 인스턴트커피를 준비한다.",
+		"4. 준비한 호두는 주물러 씻어 준다.",
+		"5. 씻은 호두는 물기를 제거한다.",
+		"6. 호두는 오븐 팬에 담는다.",
+		"7. 오븐 190도에서 10~15분가량 굽는다.",
+		"8. 냄비에 설탕, 인스턴트커피, 물을 넣고 약불에서 한번 끓인다.",
+		"9. 끓어오르면 호두를 넣고 졸인다.",
+		"10. 졸인 호두는 오븐 팬에 담는다.",
+		"11. 오븐 180도에서 5~10분가량 굽는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/3480a2c0492d7a9c10ed5f7d83b8cb101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/f151263ad35038a531a44a27d089e1361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/8bc7526a67dcd0cbb0343b416859a8731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/5a10ed49e2207eeb30dd6f45b80708531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/c974ca131513132d4188fcfffd4ecd7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/76d39cb175cdc45a5c7b2bb914176fb91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/0b05b4fbd9014d95edb8ed7c728bc2451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/3a38e01f2899d09eb9268f35aa65d3f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/6beaf0a2a5fd0704c6511bf0de4a65841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/d619ea17e7fda3e2ab73332e8b2ca6ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/34f2c8e94f806e10a151fd7a3213b8321.jpg"
+	]
+}

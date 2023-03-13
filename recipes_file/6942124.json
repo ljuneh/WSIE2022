@@ -1,0 +1,135 @@
+{
+	"id": "6942124",
+	"name": "조기매운탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/b6473aed64aee0db15c5fbf6f1fc95191.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942124",
+	"ingredient_ids": [
+		3,
+		27,
+		295,
+		323,
+		58,
+		939,
+		233,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "생물조기",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2/1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 싱싱한 생물조기 입니다",
+		"2. 조기을 먼저 손질해주세요",
+		"3. 꼬리.지느러미을 잘라주세요",
+		"4. 조기 비늘도 제거해서",
+		"5. 깨끗이 씻어주세요 *조기내장은 제거하지 마세요 생선살이 흐트러 집니다",
+		"6. 먼저 다시물을 만들어주세요 *물1리터에 15분정도 뚜껑열고 끓여주세요",
+		"7. *부재료는 손질해서 새척해줍니다 무는 한토막정도 나박썰어주세요",
+		"8. 대파는 어슷썰기",
+		"9. 새송이버섯도 먹기좋은 크기로 썰어주세요",
+		"10. 청양고추.홍고추도 어숫썰기합니다",
+		"11. 두부도 먹기좋게 썰어주세요 두부는 안 넣으셔도 됩니다 전 두부을 좋아해서요",
+		"12. 양파도 채썰기해주세요",
+		"13. 매운탕 부재료 준비됬네요 *팽이버섯.쑥갓.미나리 등.. 냉장고 재료 응용합니다",
+		"14. 매운탕 양념장을 만들어줍니다 고추가루4,국간장1,맛술2,다진마늘1,생강즙2/1.후추약간 *생강은 생강가루 대체하셔도 됩니다",
+		"15. 다시육수을 10컵정도 전골냄비에 준비합니다",
+		"16. 무와",
+		"17. 양념장을 넣어서 센불에서 끓여주세요",
+		"18. 국물이 끓으면 중불로 줄이고 10분정도 끓여줍니다",
+		"19. 무가 익으면 조기을 넣고 5분정도 끓여줍니다 *뚜껑열고 조리합니다",
+		"20. 살짝 익혀줘야 모양이 흩어지지 않아요",
+		"21. 준비된 부재료 을 넣어주세요 *대파는 나중에 넣어줍니다 깔끔한 국물을 위해 거품은 걷어주세요",
+		"22. 5분정도 끓여주다가 간을 기호에 맞게 소금으로 조절하세요",
+		"23. 대파을 넣어주세요 *쑥갓이나 팽이버섯도 이때 넣주시면 됩니다",
+		"24. 한소큼만 끓여 불을 꺼주세요",
+		"25. 칼컬하고 시원한 조기매운탕 완성입니다",
+		"26. 조기살이 흐트러지지 않고  얼큰하면서 담백한 찌개가 맛있네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/7e62a6584f504f90f2536ce9681073631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/2f0d6e94b739e6596a254b66a2ce30851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/eaceda1fe405a3ea8614472519d7cf1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/c0090baa879691d1a7b47522df4943251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/43ec8ced999e492cb76f22a52a1739c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/0237aa3d3541f15c33bfa2ea9ce3087d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/d898da6451d14afb45cd2b105ceec0c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/20cd438a86250bb77a72c7d5b68352921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/391e1e4c57887ee015938e133f61ff161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/209af2a001f8a3b0e2f9ce0549a8b0de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/c486bd6ae1eda3fe55ce8b0de3765b7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/0919be15e9eb32cdcb6cdefc3a19b6561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/ca6a903e45aafded66d8f792f971caed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/3e6884855746f27892e38205f09e2afc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/980b39c98230f7f90fe53a972e72565c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/53770741077ae3a48942d7166ce4c7a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/fe44007c739539f44a3772eb5118b99f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/1d840cac2ee8e0275ce58acd91eb1a831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/d746c3adfbca431c1af1d97a8202a03c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/babc0177daacee52bd0a13d6e9b8e66e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/e5fabb235bc9c39c6ed5c185396876f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/b8bc1052a71358fa11ae9d7f8bba0dbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/67cec932017592f1b9dd98e5576c791e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/f40ec272ee41c304415a23b111bd988f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/47dc1778a1a6fd1dd3c0cb5a323909c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/f9598bc97e14eb3ffdd4f71040eb85511.jpg"
+	]
+}

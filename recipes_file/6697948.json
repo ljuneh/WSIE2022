@@ -1,0 +1,82 @@
+{
+	"id": "6697948",
+	"name": "조개젓 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/8eedf75320d2d5c74241727d8eff2e891.jpg",
+	"url": "https://www.10000recipe.com/recipe/6697948",
+	"ingredient_ids": [
+		737,
+		938,
+		660,
+		455,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "조개젓",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "청양고추(작은것)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파(다진것)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고운고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 조개젓 국물은 체에 받쳐서 따라내야 짜지 않습니다.",
+		"2. 청양고추 2개는 동글동글 썰어두시구요. 통마늘 3알은 얇게 저며 썰어줍니다. 대파는 다져서 1큰술이 되도록 합니다.",
+		"3. 체에 받친 조개젓 4큰술을 큰 볼에 담아줍니다.",
+		"4. 조개젓을 한쪽에 밀어 둔 뒤에 고운 고추가루 1큰술, 매실청 1작은술, 참기름 1작은술, 후추 약간, 통깨 1작은술, 생강가루 약간을 넣어줍니다.  고운 고추가루를 써야 무쳤을 때 입자가 고와서 겉돌지 않고요. 매실청을 넣어주면 조개젓의 비린내를 잡으면서 단맛을 낼 수 있습니다.  매실청이 없으면 식초와 설탕으로 넣어서 만드세요. 생강가루도 조개젓의 비린내를 잡아줍니다.",
+		"5. 양념만 같이 혼합해 준 다음 조개젓을 먼저 무쳐줍니다.",
+		"6. 저민 마늘, 청양고추, 대파를 넣고 다시한번 무쳐줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/265e28a13cdb2b3ce1b89d60ce0d69c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/05e9e30c6eeae4a89bcb97dc32ff91161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/f490663353bdda8afafae18de11b7da91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/3b9944843fe8a6b1ef8536de3c635cc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/a6c0c73cf9ef5c17e52a1b24924ba2c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/ee896b0282d2a070895852378126a5161.jpg"
+	]
+}

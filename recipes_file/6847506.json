@@ -1,0 +1,71 @@
+{
+	"id": "6847506",
+	"name": "건강 가지를 스테이크로 즐겨요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/032f72b4e96c4b62277277a1dea047981.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847506",
+	"ingredient_ids": [
+		18,
+		473,
+		29,
+		575,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕(적은)",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": "솔솔"
+		}
+	],
+	"recipe": [
+		"1. 가지는 단단하고 보라색이 진한것 좋아요.. 깨끗하게 씻어 주어요.",
+		"2. 가지를 반으로 잘라서 칼집을 내어요. 너무 깊게 내면 찢어 질수가 있으니 조심.. (벌집 모양처럼)",
+		"3. 가지스테이크 소스를 만들어 줄거예요. 고추장2, 마늘1, 설탕1,올리고당1, 참기름2, 참깨 넣고 * 맛을 보아 조절 하세요..",
+		"4. 팬에 참기름을 조금 두르고 살짝 구었어요. * 약불에서 구어 주어요.",
+		"5. 가지살이 살짝이 이렇게 익으면 된답니다. * 너무 물러도 좋지 않아요.",
+		"6. 만들어둔 양념을 가지살에 살살 발라 주어요.",
+		"7. 양념이 다 발라졌다면 뒤집어서.. 아주 살짝이 양념이 배이면서 익도록 해요.(1~2분정도) * 불조절 약약불로.. 그렇지 않으면 탈수가 있어요.",
+		"8. 접시에 한꺼번에 담아서 먹었지만.. 접시에 가지 스테이크 담고, 밥을 담아서 드셔도 좋을듯 합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/31860314ea33809b5f0bdaae044624591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/a711aa682e3a870d4bbd92f651cea9ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/37ba9226e88fcf1174a3518c355717d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/ad72dfcd64a7fb36e6f20c4adf4aaf871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/defd8e7a126f0768471bbf354c9879671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/54b50c984a9d01c9ac2f62af0c9087f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/1e5b4a9c26963f99bfc035e62b8713ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/28dc98dd289a28026d3c7747b30154b91.jpg"
+	]
+}

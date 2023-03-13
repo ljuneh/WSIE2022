@@ -1,0 +1,65 @@
+{
+	"id": "6881023",
+	"name": "김치볶음밥 만들기 초간단 돼지고기 김치볶음밥 만드는 방법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/16/ba03d358507973f0cc7d2e68cbcc59dc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6881023",
+	"ingredient_ids": [
+		487,
+		292,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "찬밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 김치는 잘게 썰고 돼지고기는 간것으로 준비한다.",
+		"2. 후라이팬에 식용유를 조금 두르고 김치를 달달 볶는다.",
+		"3. 계란후라이도 하나 만들어 놓고",
+		"4. 돼지고기에는 맛술을 살짝 넣고 계속 볶는다.",
+		"5. 돼지고기가 익으면 찬밥도 넣고 쉐킷쉐킷",
+		"6. 간을 봐가며 소금, 후추 조금 뿌리고 완성~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/16/9ef03c4b63c2381225ec041e10b6b3851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/16/47ef8757e0d716203c02b2a136741c4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/16/3c812af17912465f743de259e19cbc041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/16/470609ad970276704fdc03f4b42e5e0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/16/77e5dd725a5fc225257f7eff95dde1fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/16/ccea8c7525d7890e5fc4e8c62500f0401.jpg"
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"id": "6945331",
+	"name": "호박죽 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/da72ba476123ce46dad1800034a5492e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945331",
+	"ingredient_ids": [
+		115,
+		995,
+		497,
+		667,
+		995,
+		667,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "찐단호박",
+			"ingre_count": "510",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "팥",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "8",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 단호박을 잘라 씨를 제거하고 찜기에 얹어 쪄주세요.",
+		"2. 팥은 물을 붓고 끓으면 물을 버리고 다시 찬물을 넣어 팥알이 터지지 않을 정도로 삶은 후 체에 건져 물기를 제거해 주세요. ",
+		"3. 찹쌀가루 2컵에 뜨거운 물 5큰술을 넣어 익반죽해 주세요. 물의 양은 반죽의 상태를 봐가면서 조절해 주세요.",
+		"4. 새알심을 동그랗게 만들어주세요.",
+		"5. 동그랗게 만든 새알심을 끓는 물에 넣어 삶아 주세요.",
+		"6. 새알심이 위로 올라오면 찬물을 약간 넣고 1~2분 정도 뜸을 들인 후 체에 건져 얼음 물에 담가 열을 뺀 후 건져 주세요.",
+		"7. 물 150ml에 찹쌀가루 8큰술을 넣어 잘 섞어 주세요.",
+		"8. 찐 단호박과 물400ml을 넣고 곱게 갈아 주세요.",
+		"9. 단호박이 끓기 시작하면 찹쌀물을 넣고 저어가면서 끓여 주세요.",
+		"10. 찹쌀이 익어 투명하게 되면 삶은 팥을 넣고 바닥이 눌지 않도록 저어가며 끓여 주세요. 다 끓으면 소금 1/3큰술을 넣어 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/8c5c93f905ea2d4caa67bd91e9c15a931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/e16063241d87e426d745b621b0b40d2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/a2552206dde8416430e7f3d69b70337e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/0950924012545176dc05b074c05cba561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/e6cb344d6826e4e8174fe47aa2f847a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/70b2acdfb7323674a83bc41663a430fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/5f8a738d255e2b4bf0399cf31e2ed90c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/9b2c69694eebe92225f5e80cebacf55b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/3ed2ce90c748309f3d7339617882a7be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/50ce78554fb325aae49cbff2a72b80801.jpg"
+	]
+}

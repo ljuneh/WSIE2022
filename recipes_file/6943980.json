@@ -1,0 +1,48 @@
+{
+	"id": "6943980",
+	"name": "아이가 좋아하는 에어프라이어 닭봉구이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/96b3c7f4ca097586d14e513a2ced28c61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943980",
+	"ingredient_ids": [
+		804,
+		734
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭봉",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "300",
+			"ingre_unit": "밀리"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 요렇게 찰랑찰랑 잠기도록 우유를 부어 20분간 잡내를 제거해줘요~ 집에 우유가 조금 밖에 없으면 탈탈 털어넣고 조물조물 해주시고~ 남은 분유가 있으면 분유에 담아놔도 좋아요.",
+		"2. 이렇게 20분이 지나면 이렇게 우유가 살짝 분홍색으로 변해요~ 그럼 찬물에 깨끗이 씻어줍니다^^",
+		"3. 채반에 받쳐서 물기를 빼주고요~ 평소에는 이대로 바로 에어프라이어에 구워 먹으면 담백 쫄깃한 닭봉구이가 완성되는데요~",
+		"4. 오늘은 바삭하게! 튀김가루를 묻혀서 구워보기로 했어요~ 저는 바스켓형 에어프라이어를 쓰고 있어요~ 바스켓에 종이호일을 미리 깔아서 옆에 준비해줍니다.",
+		"5. 부침개만들때 섞어서 쓰면 더 바삭하고 맛있다기에 구비해둔 튀김가루를 펴두고요~ 닭봉을 넣고 살살 굴린 다음 가루를 한번 털어 줍니다. ",
+		"6. 바로 옆에 준비해둔 에어프라이어 바스켓에 쏙쏙 넣어줘요~ 짜잔~ 서로 달라붙지 않게 틈을 벌려 놓아주고 180도에 15분간 구워줍니다. 에어프라이어",
+		"7. 이렇게 반쯤 익으면 한번 뒤집어 주고 다시 180도 15분으로 구워줍니다. 집집마다 출력이 좀 다르니까 10분정도로 해두시고 색이 덜난다 싶으면 조금 더 돌려주셔도 좋아요.",
+		"8. 짜잔! 간단하게 바삭 쫄깃한 닭봉구이가 완성되었어요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/878d87ebf7a23ab4d6266939628f48b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/bcb342a4f5657731d83de10822b944971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ac4fc2ca49403359f72462cd4c023b631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/77fcb64a734729b150fe3048e48664171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/dfa671daac6585f284c38ef930ebee211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/31e1e3b6a206c2980104ed6594498ef01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ca059f4ac171bbda1db9c864d2d682741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/68cf6e542654c97319572be13939839b1.jpg"
+	]
+}

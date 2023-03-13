@@ -1,0 +1,69 @@
+{
+	"id": "6945656",
+	"name": "황태 굴국, 굴국밥 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/d08ca5fe556a5af6afd9b8c558305d251.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945656",
+	"ingredient_ids": [
+		82,
+		973,
+		56,
+		757,
+		643,
+		333,
+		233
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "굴",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "황태채",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 황태를 2cm 길이로 잘라서 물 1.2 리터 넣고 끓여주세요",
+		"2. 느타리버섯은 길이로 잘라주고 쪽파는 1.5cm 정도 잘라주세요 풋고추는 채썰어 주세요",
+		"3. 황태채 물이 끓으면 버섯과 파, 고추, 다진마늘을 넣어 주세요",
+		"4. 굴은 흐르는 물에 가볍게 씻어서 국에 넣어 주세요",
+		"5. 황태향이 나면서 굴과 야채를 넣으니 뽀얀 국물이 우러나오네요 멸치액젓 1T 로 간을 합니다 싱거우면 좀더 넣어주세요",
+		"6. 뽀얀 국물이 속을 시원하게 해주네요 굴은 싱싱하고 탱글탱글해서 씹을 때마다 굴향이 아주 진해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/ff291b905dcbb635dc71a254fec887261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/5ec1be0a8451a4b32bd90085cef5f0d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/d3ab1d5e525194dbc2e3a03e14e42d7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/67e054671815b8d46e1f5c77e7ec393d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/6497744ffbe3dbf04643a607ef4e8f6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/61f1231a213165f1c657caa9529d981a1.jpg"
+	]
+}

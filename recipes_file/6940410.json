@@ -1,0 +1,90 @@
+{
+	"id": "6940410",
+	"name": "오징어채볶음 오랜만이 하니 꿀맛이에요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/a643730844d9a14a468a91cbf3ab69dc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940410",
+	"ingredient_ids": [
+		473,
+		29,
+		228,
+		226,
+		327
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어진미채",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물국자로",
+			"ingre_count": "1",
+			"ingre_unit": "번"
+		},
+		{
+			"ingre_name": "볶을때들기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 오징어채를 준비해주세요",
+		"2. 오징어채를 먹기좋게 가위로 잘라주세요",
+		"3. 물을 한국자를 오징어에 뿌려주세요 그럼 부드러운 오징어채가 되어요 물은 안버리셔도 되어요",
+		"4. 양념을 준비해볼까요? 고추장3스푼>고추가루1스푼>진간장2스푼>설탕1스푼>들기름1스푼>마늘1스푼>마요네즈1스푼 섞어주세요",
+		"5. 준비한 오징어채에 양념을 넣고 섞어주세요",
+		"6. 마지막에 깨까지 넣고 조물조물 해주세요",
+		"7. 들기름2스푼을 넣고 볶아주세요",
+		"8. 1~2분정도 살짝 볶아주세요",
+		"9. 맛있게 되었네요~^^",
+		"10. 완성~!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/031919bcaf2eb0230a2d0b4619a8b6a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/b222c8faf658a0176f83655ca705e8cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/ef79883c234cac16eab3659d8e258ce61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/007a7443af4659668a41f029560482201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/c7dbc674cbd9fdc76039d635cd1366101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/4cf15f7539568228914ad6351760df821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/cc741f31929b208f5841e1d8a12892c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/009b910e236a194c05e27d8d2ea765681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/da74ea338f88d805e0884b8f19a13e8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/67e17e8ce89887acae242a9c83467a231.jpg"
+	]
+}

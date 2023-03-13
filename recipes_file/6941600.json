@@ -1,0 +1,48 @@
+{
+	"id": "6941600",
+	"name": "동부콩 찰떡",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/37bc504c8584a5ec08dcbfefa00d6d7b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941600",
+	"ingredient_ids": [
+		667,
+		226,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "1",
+			"ingre_unit": "킬로그램"
+		},
+		{
+			"ingre_name": "동부콩겨피",
+			"ingre_count": "600",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 7중통판 찜솥에  동부콩겨피먼저 깔고  찹쌀가루 깔고 두번반복해 주세요",
+		"2. 너무너무 맛있는 동부콩겨피찰떡 완성이요~~^^",
+		"3. 30분정도 원적외선 하이라이트 전기렌지 센불에서 쪄주면 이렇게 근사한 떡 한판이 탄생한답니다~",
+		"4. 보를 깔지 않아도 전혀 달라붙는게 없네요",
+		"5. 자꾸만 손이가게 만드는 동부콩겨피찰떡 입니다~~ 떡 집에서 하는거 너~~무 쉽네요~~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/fe6b1f1c2c4d8283cf3e7549b1a6f1201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/490064caa0361ebecfdcfd5ca6e8985c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/ae33ba21e0c293b2bc7736d8674c66501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/21e681055e5158b43e1d65f35d99824b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/20a4d0cc25ee12ec454a010595ea02831.jpg"
+	]
+}

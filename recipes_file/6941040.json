@@ -1,0 +1,96 @@
+{
+	"id": "6941040",
+	"name": "메밀 비빔 국수..",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/01832f373917ccb45f1920693f21d9f91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941040",
+	"ingredient_ids": [
+		354,
+		21,
+		16,
+		9,
+		845,
+		224,
+		655,
+		231,
+		577,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "메밀면",
+			"ingre_count": "4",
+			"ingre_unit": "인분양"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/4",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "상추",
+			"ingre_count": "7",
+			"ingre_unit": "장정도"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "삶은달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "초고추장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "탄산수",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "와사비",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 우선 분량의 양념장을 넣고 섞어서 만들어줍니다. 그냥 초고추장에 비벼도 되는데요. 조금밖에 없길래 양을 늘렷어요~",
+		"2. 메밀면은 4인분 들은거 한봉지 모두 사용했구요.",
+		"3. 5분 정도 삶아주면 됩니다.",
+		"4. 찬물에 바락바락 씻어서 헹궈내고 물기를 빼줍니다.",
+		"5. 야채는 집에 있는걸 사용하면 되는데요. 집에 있는 야채가 이거뿐이라 이것만 사용했어요. 오이나 콩나물등 다른것들도 넣어도 됩니다.",
+		"6. 볼에 메밀면 넣고 야채 넣고..",
+		"7. 양념장 모두 넣고 버무려 줍니다.",
+		"8. 잘 비벼졌네요. 이렇게 메밀 비빔 국수 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/3b9ccb8eab632714119eb16699ec48e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/7623dacafe61b87149d2bf997ba32af11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/ff44dba24267123b4782b458626aae951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/d96e58ae856b0b0c79a3cc004c36fe731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/77372e29bb1eed2adc4c071a603a11c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/8c9aec6da22014c19bf6c87a4dff24b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/862552a8f5df5e073bb83d4f541fd3f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/3386100ce867c1044db005a4ac5b64261.jpg"
+	]
+}

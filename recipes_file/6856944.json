@@ -1,0 +1,90 @@
+{
+	"id": "6856944",
+	"name": "남은 빵만 있으면 끝! 이태리식 샐러드 판자넬라",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/13/667aa7aaebdba90266413ec27c7e58651.png",
+	"url": "https://www.10000recipe.com/recipe/6856944",
+	"ingredient_ids": [
+		574,
+		371,
+		8,
+		574,
+		497,
+		225,
+		205
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "빵",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "적양파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "그린/블랙올리브",
+			"ingre_count": "1/3",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "샐러드용채소",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "발사믹식초1+1/2T",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파마산치즈",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 오래되어 말라 꾸덕해진 빵은 한입 크기로 썰어 올리브유(1T)를 두른 팬에서 노릇하게 볶아 건진다.빵 1조각",
+		"2. 드레싱을 만들고 토마토와 오이, 올리브, 샐러드잎채소는 한입 크기로 썰고, 적양파는 곱게 채 썬다.방울토마토 1C, 오이 1/3개, 적양파 1/3개, 그린/블랙 올리브 1/3C, 샐러드잎채소(비타민/치커리등) 1줌 [드레싱] 발사믹식초 1+1/2T, 올리브유 3T, 소금 약간, 후춧가루 약간",
+		"3. 채소를 넣고 버무린 뒤 빵을 넣고 가볍게 섞는다.",
+		"4. 그릇에 담고 파마산치즈를 갈아서 뿌린다.파마산치즈 적당량"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/13/6dde237039c037e19e00a00457df59831.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/13/7c503550f24dd0c9504d619422e314601.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/13/230789c2e2d33fbd251f6274b034bc4d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/13/b3a33d9a75d094d80959cde803d6feff1.png"
+	]
+}

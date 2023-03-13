@@ -1,0 +1,74 @@
+{
+	"id": "6940322",
+	"name": "어묵볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/f4eee8c055ecdd6599c80711ca877e851.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940322",
+	"ingredient_ids": [
+		548,
+		29,
+		379,
+		477,
+		290
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "4",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "7",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 오븐구이어묵은 간식용으로 프라이팬에 구워먹거나 오븐에 구워먹어도 맛있는데요 이번엔 아이들 밥반찬으로 만들어 볼게요",
+		"2. 쫀쫀한 어묵을 먹기좋은 크기로 잘라볼게요",
+		"3. 프라이팬에 카놀라유를 뿌리고 어묵을 살짝 볶아주세요",
+		"4. 마늘을 넣을건데요 마늘은 편썰기 할게요",
+		"5. 마늘을 어묵이랑 같이 볶아주세요",
+		"6. 마늘이 살짝 익을때 쯤 굴소스 한스푼 넣어서 같이 볶아주세요",
+		"7. 대파를 넣을게요 양파가 있다면 같이 넣어주셔도 되요",
+		"8. 대파를 넣고 볶다가 간을 보시고 싱거우면 간장으로 간을 맞추세요",
+		"9. 한번 볶아진 어묵에 불을 끄고 올리고당 한스푼을 넣을게요",
+		"10. 감칠맛 폭발 어묵이 완성 되었어요",
+		"11. 예쁜 그릇에 담아  통깨 한꼬집 뿌려주세요",
+		"12. 쫀득 탱탱한 어묵볶음 맛있게 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/18e87f28cac517a660f8dc0012d10f971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/a650690914338072e6e8bc798a2160041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/c508b684a789833471e6a6c6396e58021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/92bb85a67b7460388667b126ccbdca0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/cb05dfc1f77f7ec2e3b14f11b233e9c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/6a2f319b2370cc4e846049de879f122b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/79ee4098d7232937590dd76e2c60d2f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/f70a1948fadac844622066025cd4eafc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/471b59f2be5866d75a82f72f8b2bf5b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/76984294daf108c599284e98aa6782891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/f5371ecb5d3148380376d20f928b0b1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/93dc85f53c9e7c227cbe9314fa1a2f4f1.jpg"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"id": "6941197",
+	"name": "매콤 짭짤 밥 반찬 멸치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/270ad3a525c79890f8495e175be1caba1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941197",
+	"ingredient_ids": [
+		320,
+		295,
+		379,
+		341,
+		469
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "3",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "2",
+			"ingre_unit": "바퀴"
+		}
+	],
+	"recipe": [
+		"1. 멸치의 비린내를 없애기 위해 달군 후라이팬에 멸치를 볶아주세요",
+		"2. 달구어진 후라이팬에 카놀라유를 넣고 잘게 썰은 청양고추를 넣어주세요",
+		"3. 청양 고추를 살짤 익힌다음 멸치를 넣어주세요",
+		"4. 살짝 볶은 멸치에 간장 한스푼 둘러주세요",
+		"5. 볶은멸치는 불을 끄고 올리고당을 한스푼 둘러 섞어 주세요",
+		"6. 매꼼 짭짤 멸치볶음 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/3443dff6a4e7166bef7e7065075cffbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/f7ad4200330979f5e533bb72c7555de71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/ab8b16d3506a47603380554d25c070c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/30c03adb007019082015ffdc057693661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/65811352a2929982b4c682d5181a56a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/8f874d6d36383576b74c0d765ded7be61.jpg"
+	]
+}

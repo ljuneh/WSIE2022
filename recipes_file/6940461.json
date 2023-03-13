@@ -1,0 +1,98 @@
+{
+	"id": "6940461",
+	"name": "백종원 콘슬로우 황금 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/2173b037494e0b486b5a22eed142c8911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940461",
+	"ingredient_ids": [
+		21,
+		11,
+		3,
+		231,
+		226,
+		497,
+		228,
+		485
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "옥수수캔",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "피망2가지색",
+			"ingre_count": "30",
+			"ingre_unit": "g씩"
+		},
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 1,모든야채를 아주 곱게 썰어줍니다.",
+		"2. 2,곱게 다져서 준비합니다.",
+		"3. 3,양배추는 썰어서 세척한후 보에 꼭 짜줍니다. 물기없게 해주는게 중요해요. 그런다음 소금으로25분 절여줍니다. 그리고나서 몇분후 다시 짜줍니다.",
+		"4. 4,준비된 양배추와 옥수수를 큰 볼에 넣어줍니다.",
+		"5. 5,모든 야채들을 골고루 다 넣어줍니다.",
+		"6. 6,여기에 생킈림 100ml를 넣어줍니다",
+		"7. 7,식초와 설탕도 넣어주고요.",
+		"8. 8, 마요네즈를 4스푼 넣고 잘 져어줍니다. 마요네즈는 하프1/2 마요네즈로 체지방을 줄여줍니다.",
+		"9. 9,마지막으로 후추와 통깨를 넣어주면 끝입니다. 식빵을 노릇하게 굽고 아메리카노 커피아 곁들여 드시면 너무 맛있어요.",
+		"10. 10,이렇게 완성됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/212cc8960739505e51757d5c361c5cfd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/b1ab438d20188f5f0ef1015ff64fed1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/e754918dcae8fe9e6677cb11ac8769851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/394d3fe72acc4277762911ef030a30251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/dfa9d56208d4dcab1fbe4f5c26f444c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/ba32edf566233c4fde57d09e94c162111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/42fb9394d812c9c2c08114b84e161f2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/4ab0ac70b0664b227ff49c16d6c701911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/5e51b0535ba65e2c1fa5a3e58af6044a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/8cfd353a4b8f3c0ecc2a54484e69cc051.jpg"
+	]
+}

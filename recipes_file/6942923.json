@@ -1,0 +1,57 @@
+{
+	"id": "6942923",
+	"name": "감자채전 # 밥반찬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/ca7c1de9c86eae362333dc32308785031.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942923",
+	"ingredient_ids": [
+		5,
+		9,
+		21,
+		3,
+		477,
+		938
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 감자채볶음 재료: 감자 1개, 당근, 양배추, 양파 양념 : 굴소스 1.5T, 매실청 1T",
+		"2. 감자, 당근, 양배추, 양파를 채썰어 주세요 감자에 밀가루 1/2T, 전분가루 1/2T 를 넣고 골고루 섞어주세요",
+		"3. 웍에 식용유를 넉넉히 두르고 예열한 후 감자를 넣고 튀겨주세요 감자를 튀긴 다음 나머지 야채도 밀가루 1/2T, 감자전분 1/2T 넣고 버무린 후 같이 넣고 볶아주세요 굴소스와 매실청을 넣고 간을 해주세요 접시에 담고 통깨를 뿌려 주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/fab815fdcff3151aeff65a9e430d4be71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/f1dfd533b8320745ff3406adf3b7319f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/5dacd4822c479bfa7aa5fd7cb5aa3c721.jpg"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"id": "6944009",
+	"name": "과즙이 풍부한 비파쨈",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/e41c505ad20e6592f4f1325903a35d1a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944009",
+	"ingredient_ids": [
+		226,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "비파열매",
+			"ingre_count": "2",
+			"ingre_unit": "키로"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 비파는 한알한알 깨끗이 씻어 소쿠리에 바쳐 물기를 제거해 주세요",
+		"2. 한알한알 껍질과 씨를 뺍니다",
+		"3. 냄비에 비파와 설탕을 일부 넣고 끓여 주세요",
+		"4. 졸아들면서 새콤하고 달큼한 향이 코끝을 자극합니다",
+		"5. 너무 달지않게 나머지 설탕을 넣고 소금1t스픈 넣어 졸여 주세요",
+		"6. 자작하게 졸여진 상태",
+		"7. 유리병은 열탕 소독해 식혀 줍니다",
+		"8. 열탕한 용기에 담아 보관합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/d374e4eed138bd9ca629e9b7bf7c1c641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/8bda5a3e3e9dac9c949ad19ca4fab8981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/412363bcc3d9c28b58762b79ca5dc3d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/3ec569f95cbc731505b2e7a2defb397b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/dd76706f31223a4cee3b06d5a6ba59581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/25b8d397bfaa166ab1d599669136b9c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/517c379184a6e233027647062a2377e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/c48412e6e476855b4ef4057ee209ebce1.jpg"
+	]
+}

@@ -1,0 +1,88 @@
+{
+	"id": "1320267",
+	"name": "뜨끈한 국물 들고 가세요 소고기 감자국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/dd7be5094f477dabb4c06bf35c6ba0b4.jpg",
+	"url": "https://www.10000recipe.com/recipe/1320267",
+	"ingredient_ids": [
+		5,
+		19,
+		3,
+		995,
+		349,
+		379,
+		233,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기(양지머리)",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파(흰부분)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 소고기 양지머리는 키친타올로 핏물을 닦아준 다음 적당한 크기로 썰어미리 섞어둔 양념에 넣고 조물조물 해줍니다. 10분 정도 재워두세요.",
+		"2. 물을 끓인 다음 적당한 크기로 썬 무와 양파를 넣고 한소큼 끓여준 후 중불로 10분정도 끓여서 무와 양파를 건져내 준비합니다.",
+		"3. 달궈진 팬에 참기름 약간 두른 다음 재워둔 소고기를 넣고 중불에서 볶아줍니다.",
+		"4. 잠깐 볶다가 감자를 넣고 같이 볶아줍니다. 오래 볶을 필요는 없고 1분 이내로 볶아주세요.",
+		"5. 만들어둔 국물을 붓고 센불에 끓이다가 한소큼 끓어오르면 중불로 3~5분정도 끓이다가 국간장이나 소금으로 간을 해서 내립니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/2fb2d52df4cd4fc4bf62df694969e9591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/e1de89dfd54fe323f84385910ee764c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/1c86b00c213272c8ac2134902d76025b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/f42cf097da5771a332f38459fa3b21ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/033216df4e0aa6184dae243d6c94b2c81.jpg"
+	]
+}

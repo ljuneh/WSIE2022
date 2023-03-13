@@ -1,0 +1,76 @@
+{
+	"id": "6940179",
+	"name": "아이간식 식빵 핫도그 아이와 함께 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/f4f74e56a5a888c440faf97feeff16f81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940179",
+	"ingredient_ids": [
+		503,
+		201,
+		436,
+		432,
+		724
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "후랭크소시지",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "치즈",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "",
+			"ingre_unit": "저당량"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 식빵 핫도그 만들재료들을 준비해주세요.",
+		"2. 소시지는 끓는 물에 삶어서 사용해야 불순물도 제거하고 염도도 낮아집니다. ",
+		"3. 식빵은 밀대로 얇게 밀어서 주세요.",
+		"4. 김밥 말듯이 잘 말아주세요.마지막 부분은 물이나 계란물을 발라주면 잘 붙어요.​",
+		"5. 계란물에 굴려준 후 빵가루를 입혀주세요.빵가루에 파슬리 가루가 들어가면 보기도 좋고 맛도 좋아요.  손으로 계란물 빵가루를 만지면 손가락이 퉁퉁부은 빵가루 장갑이되니까 젓가락이나 포크를 사용하세요.   ",
+		"6. 빵가루를 골고루 입힌 후에 핫도그를 바삭하게 먹기위해 오븐에 넣기전에 포도씨유를 살짝 뿌려줍니다.",
+		"7. 예열한 오븐에 넣어 줍니다. 200도 8분 전후 오븐오븐이 없으면 에어후라이나 후라이팬에 직접 구워주세요.",
+		"8. 오븐에서 노릇하게 구워진 식방 핫도그 바사바삭합니다. 아이가 스스로 만들면서 요리에 대한 자신감도 올라가고 더 맛있게 먹어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/b6d034456c3024ff0f7117ae77849e801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/28609d41093cda4e607ae42336a46ef51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/6d1edfa83c2321e5bfd468a3447554e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/be0bf37102311c82206ddd90072f8a731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/5b170a6858ffd6961682bd0b2cc93c301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/327f124299aa6f51d1cd48c3f58b202a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/e2b028658a445e9141c465afc02824991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/0274490127bad663ab049df1d429e7d31.jpg"
+	]
+}

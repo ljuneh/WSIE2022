@@ -1,0 +1,79 @@
+{
+	"id": "6910091",
+	"name": "떡국떡으로 떡볶이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/08/1b8e8cc99908a3138e970940308ce3dc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6910091",
+	"ingredient_ids": [
+		53,
+		320,
+		27,
+		473,
+		575,
+		379
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삶은달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오뎅",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "육수다시마",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "1",
+			"ingre_unit": "움큼"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "떡국떡종이컵",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 움푹한 후라이팬에 물과 멸치3개 다시마2개 버섯한움큼으로 육수를 냅니다.",
+		"2. 양념:간장1스푼 고추장2스푼 올리고당2스푼",
+		"3. 삶은계란 떡국떡 오뎅 을 넣고 팔팔 끓여줍니다.",
+		"4. 이제 완성된 떡볶이 를 대파를 추가 하세요. 저는 일부러 안추가 했답니다.."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/08/18919ff8d048df87b475178042dad93c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/08/713a1ff327affd52073d8710491e82671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/08/a95cb04d4c5574a08d4d64cb4cd2b5dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/08/9407fffca41fc774674e70ae21de72ed1.jpg"
+	]
+}

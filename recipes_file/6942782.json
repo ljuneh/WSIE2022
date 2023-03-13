@@ -1,0 +1,90 @@
+{
+	"id": "6942782",
+	"name": "불고기숙주 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/5838088cee43696498c12bb15017c2411.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942782",
+	"ingredient_ids": [
+		52,
+		58,
+		3,
+		379,
+		226,
+		233,
+		350,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "120~150g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "50~60g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "불고기용소고기",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "15~20ml",
+			"ingre_unit": "~ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비하기 숙주, 새송이버섯, 양파, 불고기용 소고기모든 재료는 손질 및 세척하기 / 소고기는 키친타월에 올려 핏물 제거",
+		"2. 양파 - 0.3cm 두께로 채썰기 숙주 - 흐르는 물에 씻어 다듬기 _ 거두절미 새송이버섯 - 0.3cm 두께로 편 썰기 소고기 - 0.5cm 이내 두께로 채썰기소고기는 결 반대 방향으로 썰면 부드럽게 씹힌다.",
+		"3. 양념 소스 준비하기 간장, 설탕, 다진 마늘, 참기름, 깨소금",
+		"4. 양념재료를 모두 한곳에 넣고 섞어주기",
+		"5. 팬에 기름을 넣고 양파 볶기 (코팅 정도만 하기)중간불",
+		"6. 버섯 넣고 한번 볶기중간불",
+		"7. 소고기를 넣고 80% 정도 익을 때까지 볶기중간불",
+		"8. 재료를 한곳으로 모아 그 위에 양념소스 1/3 정도 넣어서 볶기약불간장이 들어가서 그냥 넣으면 금방 타지므로 익힌 재료 위에 올린 후 볶기",
+		"9. 양파, 버섯, 소고기에 어느 정도 간이 배면 숙주, 양념 2/3을 넣어 마지막으로 볶기약불",
+		"10. 숙주가 숨이 죽으면서 수분이 나오면 센 불로 켜서 수분 날리면서 볶기센 불",
+		"11. 수분이 날아가면 불을 끈 뒤, 깨소금 & 참기름을 넣고 한번 버무리고 그릇에 담기"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/26ae950effff1a7c02f7cf80ff3436401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/2936b7b96ce5ac38b392ebd69bb3593b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/106a1574fff7fc0395ffd10c4ad7b0151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/8028a084ce7dda95bc235a3bc271f8d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/44c631e3b49266ead41ec51ff4fd7e871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/b5a0e11ddffe02837006e146531a5a661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/e98e8e7d0ae6d3fbafd1d6700f2fd9601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/d2a7cd0f08d47cfa2edc0914ba09d7e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/313e8cdc97589629678cec3f6936e5131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/b3c7caaad507b73936922d491f29f8491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/afd141dd372155ea642a680e3e66a9711.jpg"
+	]
+}

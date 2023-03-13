@@ -1,0 +1,61 @@
+{
+	"id": "6945459",
+	"name": "연근조림 만드는법 쫀득하고 아삭한 도시락 반찬 메뉴",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/313100c06892521742c96c9bc91eb7a51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945459",
+	"ingredient_ids": [
+		24,
+		995,
+		379,
+		575,
+		660,
+		543
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "연근",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 맛있는 리얼 밥반찬 연근조림 만들어 볼께요.",
+		"2. 물 100ml. 간장 반컵을 넣고 끓여 주세요. 저는 삶아져 있는 연근을 사용한거라서 오래 삶지 않아도 되요.",
+		"3. 올리고당1/3컵.참기름1T.통깨 약간을 넣고 양념장이 줄고 간이 잘 배도록 약불로 졸여 주세요.",
+		"4. 그럼 요렇게 빛깔도 예쁘고 맛있는 연근조림이 완성",
+		"5. 윤기 좔좔 식감도 좋아서 아이들도 참 좋아해용"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/08514112e07fe08c220d331c41d1bb3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/34ad9ee8d5a3be78c3c8f64a5b6cb8b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/d9253727f4a83fccb55e502594f2866e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/8578d76bd414d5c59aea0dad331fce231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/b0fea65c506859b09c30df4e08e66dd11.jpg"
+	]
+}

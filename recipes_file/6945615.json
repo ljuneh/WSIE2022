@@ -1,0 +1,125 @@
+{
+	"id": "6945615",
+	"name": "매운 참치김밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/18876bda88ccfbe1c6f0198453d061a61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945615",
+	"ingredient_ids": [
+		219,
+		659,
+		15,
+		289,
+		504,
+		3,
+		473,
+		738,
+		843,
+		477,
+		9,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "김밥용단무지",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 다진 양파를 넣어 볶아줍니다.양파1/4개팬중불",
+		"2. 양파가 투명해지면 기름을 뺀 참치를 넣어 볶아줍니다.참치50g",
+		"3. 매실액, 굴소스, 조청, 고추장을 넣어 물기가 없어질 때까지 볶아줍니다.매실액1작은술, 굴소스1작은술, 조청1작은술, 고추장1큰술",
+		"4. 김밥김 위에 밥을 골고루 펼치고 랩을 덮어준 후 뒤집어줍니다.김밥김1장, 밥1공기랩, 김발",
+		"5. 김 위에 깻잎을 깔고 볶은 참치를 얹어준 후 남은 깻잎으로 덮어줍니다.깻잎3장",
+		"6. 단무지와 길이로 2등분한 게맛살을 올려준 후 랩을 제거하며 돌돌 말아줍니다.단무지1줄, 게맛살1/2줄",
+		"7. 다진 파와 다진 당근, 계란을 넣어 잘 섞어줍니다.대파1/4대, 당근1/4개, 계란3개",
+		"8. 달군 팬에 기름을 두르고 달걀물을 부은 후 달걀이 반 정도 익으면 김밥을 놓고 돌돌 말아줍니다.식용유1큰술달걀이 다 익기전에 말아줘야 김밥과 떨어지지 않아요.",
+		"9. 먹기 좋게 썰어줍니다.칼, 도마"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/60ac0dfc3aec05126de274acdf4f534a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/5a45aa7d2e7a4bffab289c85eb8c681e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/332870ab4f76db7f3c50ddedc00ead3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/e2e842bb0b8196686723d784fc9c481b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/c2189317cb4280dbb604a8e934997c751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/b66f9a755b7a647d0c74ac6ca54d71b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/870e51a098cf3bf29b795ca82bca365b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/8765bfdd9a3ffd352b51816adde1f25a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/9ceb6d08026fbb8ba9dee43636c665d31.jpg"
+	]
+}

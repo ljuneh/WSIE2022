@@ -1,0 +1,53 @@
+{
+	"id": "6927971",
+	"name": "매운 팽이버섯 조림 간단 반찬/술안주/맥주안주/소주안주 굿굿!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/03/08/7f30d319399045be9491fa710fc260a71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6927971",
+	"ingredient_ids": [
+		55,
+		473,
+		226,
+		233,
+		995
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼반"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 팽이버섯 밑둥을 자르고 한입 크기 덩어리로 분리해줍니다",
+		"2. 팬에 기름을 두르고 팽이버섯을 앞뒤로 30초씩 구워 줍니다강불",
+		"3. 분량의 소스를 팽이버섯 위에 부어 줍니다",
+		"4. 앞뒤로 30초씩 조려 주면 완성!"
+	],
+	"recipe_img": []
+}

@@ -1,0 +1,45 @@
+{
+	"id": "6907928",
+	"name": "군만두 간장양념 만들기~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/03/07/29798d718954d9f40ed8be9ae55f93381.jpg",
+	"url": "https://www.10000recipe.com/recipe/6907928",
+	"ingredient_ids": [
+		379,
+		231
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루티스푼",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리고당티스푼",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 볼에 간장 2큰술",
+		"2. 식초 1큰술",
+		"3. 고춧가루 티스푼으로 1",
+		"4. 올리고당 티스푼으로 1  넣고 섞어주면 끄읏~ ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/07/62f7b26f8e0eb8f525ebaba8c6b8b3b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/07/f2ab88b7ef21ab6095db7ea6d40d587f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/07/baf75971f52a393ace908aeabc1a5e8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/07/cc95213e1e359b35654f2ac87faa65bc1.jpg"
+	]
+}

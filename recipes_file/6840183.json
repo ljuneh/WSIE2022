@@ -1,0 +1,54 @@
+{
+	"id": "6840183",
+	"name": "견과류 강정 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/a2f014ba9eef941f30769f94d38d62911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6840183",
+	"ingredient_ids": [
+		226,
+		995,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "각종견과류",
+			"ingre_count": "",
+			"ingre_unit": "적당량씩"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 전에 카페에 갔을 때 커피와 함께 강정이 몇 개 나오더라구요. 참 맛나게 먹어서 지인들과 집에 있는 견과류를 합쳐서 만들어 보기로 했어요. 모아보니 해바라기씨, 크랜베리, 구운 아몬드, 슬라이스 아몬드, 호두가 있더라구요.",
+		"2. 설탕과 물을 동량으로 넣고 시럽을 만들어요. 젓지 말고 중불에서 자연적으로 녹도록 두세요.",
+		"3. 보글보글 설탕이 다 넉으면 올리고당을 추가해 살짝 졸이세요.",
+		"4. 설탕을 녹이는 사이에 쟁반에 식용유를 약간 넣어 골고루 발라줘요. 강정을 넣어 펼쳐서 굳힐 곳이에요. 그래야 나중에 잘 떨어져요.",
+		"5. 견과류를 모두 넣었어요",
+		"6. 골고루 잘 버무려 주구요",
+		"7. 쟁반에 납작하게 펼쳐서 평평하게 해요. 이 쟁반을 찬 베란다 밖이나 냉동실에 넣어서 굳혀줘요.(위에 종이호일이나 비닐을 덮어 밀대로 밀어주면 평평하게 되요)",
+		"8. 크기가 다양한 견과류가 알콩달콩 꼬소한 냄새가 나는거 같죠? 시럽의 양이 그리 많지 않아 생각보다 많이 달지 않아서 좋아요. 굳은 것을 떼어내 칼로 썰어서 지퍼백에 넣어 냉동실에 보관해야 찐득해지지 않아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/5b97295a0d6ef141a3b937f502e2da621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/6158b259d40f33a0d79b25c25400b7231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/b1a416ae3504e091b45cc95d4ff33a001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/9f41fa0a731d9f46e9e20da9cb2c9f581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/e819ca5200e7f2925a5eb329a80c43821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/88c0d8aa5db5c98b51b74743a5a43d2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/0988d4952d65d4241a53eb912c120e381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/17/56bd8b803fb61384e90637a3e2b3a7f41.jpg"
+	]
+}

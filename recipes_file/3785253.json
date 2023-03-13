@@ -1,0 +1,112 @@
+{
+	"id": "3785253",
+	"name": "정어리조림 맛있게 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/fc9ed7afded5ecb6be9953c42bbef78a.jpg",
+	"url": "https://www.10000recipe.com/recipe/3785253",
+	"ingredient_ids": [
+		3,
+		295,
+		27,
+		853,
+		29,
+		458,
+		846,
+		848,
+		226,
+		341,
+		224,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "정어리700g정도",
+			"ingre_count": "700",
+			"ingre_unit": "g 정도"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "7",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 냄비에 양파나 고사리등을 깔아줍니다.",
+		"2. 정어리를 올려줍니다.",
+		"3. 미리 만들어 숙성시켜둔 양념장을 부어주세요.",
+		"4. 양념그릇에 묻은 양념에 물을조금부어 양념을 씻듯이해서 넣어주세요. 대파를 제외한 야채를 넣고 뚜껑을 닫고 중불로 끓여줍니다.",
+		"5. 수저로 양념을 떠 끼얹어가며 조립니다. 마지막에 대파를 넣고 불을 끄면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/0b629f98215163df7e761b9d5f723cf21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/f7250e33151558a58e58110055abbe7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/e48d3645e29f19d6c35797d5f6ca08751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/065a5e4bbe0e0ef87a92f4fbaec2ca441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/f682db1ccf58c9323ceb9ef3ee405e551.jpg"
+	]
+}

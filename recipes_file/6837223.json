@@ -1,0 +1,88 @@
+{
+	"id": "6837223",
+	"name": "쭈꾸미삼겹살 황금레시피 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/67dc67cde78394a15490f967cf0806511.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837223",
+	"ingredient_ids": [
+		63,
+		295,
+		3,
+		7,
+		224,
+		497,
+		233,
+		290
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쭈꾸미",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "삽겹살",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실액or",
+			"ingre_count": "",
+			"ingre_unit": "설탕"
+		},
+		{
+			"ingre_name": "요리당(선택)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 쭈꾸미는 깨끗하게 씻어 손질합니다.",
+		"2. 약한불에 살짝 달궈주시고 야채먼저 볶아주세요. 어느정도 익으면서 물이 나오면 삼겹살 먼저 넣어주세요.",
+		"3. 그위에 쭈꾸미 넣어주세요.",
+		"4. 고춧가루 3큰술, 간장 2큰술, 매실액 또는 설탕 3스푼, 요리당(선택), 다진마늘, 소금 한꼬집 넣고 익혀주세요.",
+		"5. 이쯤에서 청양고추랑 대파 넣어주세요. 잘 익히면서 쫄여주면 그릇에 예쁘게 답아서 깨까지 솔솔 뿌려주면 야식에도 좋고 밥반찬에도 좋고 술안주에도 좋은 쭈꾸미삼겹살 황금레시피 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/0a1d1aab042e2ecdbd908848e9d6dd5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/36cb5d01ac5dd4832c96ac27863e0e791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/96563cf78d0ed40d8f2439e6563e84581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/b206f3ba02578bb1a8a1756e9e7cbd131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/42f7bc8565d049b09807ee2581c59d651.jpg"
+	]
+}

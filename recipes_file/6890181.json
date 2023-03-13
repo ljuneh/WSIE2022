@@ -1,0 +1,61 @@
+{
+	"id": "6890181",
+	"name": "<노오븐> 톡톡 깨먹는 재미 달달한 크림브륄레 만들기!!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/04/4d5b9a92d015e94714efcd31b3ea153e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6890181",
+	"ingredient_ids": [
+		570,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "바나나우유또는원하는우유",
+			"ingre_count": "240",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "계란노른자",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "설탕A",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕B",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "옥수수전분",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 계란노른자에 설탕A와 옥수수전분을 넣고 가루가 안보일때까지 섞어주세요",
+		"2. 우유를 넣고 덩어리가 지지않게 잘섞어주세요",
+		"3. 냄비에 2번을 넣고 약불에서 계속 휘저어가며 걸쭉해질때까지 5분정도 끓여주세요",
+		"4. 짤주에 만들어진 크림을 담아주세요",
+		"5. 원하는 공병에 짤주에 담은 크림을 2/3정도 담아줍니다",
+		"6. 위에 설탕B 10g을 뿌려주세요",
+		"7. 라이터총이나 토치로 윗면에 뿌린 설탕이 녹을정도로 데워주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/04/26b684157e3a2a61dd11b6d0d561c7e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/04/eafe07d1efc8acdcf0704a068d2823d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/04/d2e1431bc38f393c48b64c6a35c993f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/04/89c8d5f96c1d119ce0ab2d726b24a8911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/04/f740c9e78ba6ad996e655048120f817a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/04/b81329d34768c5479dd5094edc06b2ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/04/22512721bc99c22d30481e22d591fcee1.jpg"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"id": "6940841",
+	"name": "TV에 나온 파인애플심지 구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/c2b03f66b9ae565595bff0101d0c92951.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940841",
+	"ingredient_ids": [
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "파인애플심지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1/2",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 파인애플 심지를 준비하세요",
+		"2. 팬을 달궈요.",
+		"3. 기름 살짝 둘러요.",
+		"4. 파인애플 올려요.",
+		"5. 이 색이 나올때까지 8분간 굽습니다.",
+		"6. 접시에 옮기고",
+		"7. 썰어서 맛있게 드세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/1f326bba43010e7d57647111be3582571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/406b5056c36fb846bfe046ea11b023241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/77a68082bb66d3731846e6de1f219cf41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/e9b266f5306ecb2a13743af90505d40f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/152a8d0343abb04b50ce983081b36fb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/24db35d4086a15984db7c4f20587cea81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/6be11b13663e988e73f765e7e08dc93b1.jpg"
+	]
+}

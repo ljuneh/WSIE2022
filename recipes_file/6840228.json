@@ -1,0 +1,29 @@
+{
+	"id": "6840228",
+	"name": "맛있는 건취나물볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/21/3ac6773b447190753a2cf8aa5b6421ad1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6840228",
+	"ingredient_ids": [],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "건취나물",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 나물투데이 데친건취나물 준비. 물에 헹구시면 준비 끝!",
+		"2. 기름을 두르고 잠시 볶다가 다진마늘 1/2스푼을 넣어주세요.",
+		"3. 간장 2스푼을 넣고 볶아주세요!",
+		"4. 대파를 함께 넣는다면 신선함을 배로 느낄 수 있죠! 대파를 송송썰어 넣어주세요.",
+		"5. 그리고 이제 마지막으로~~ 참기름을 두르고 마저 볶아주세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/21/78e10a3d79f4cc2b3ce770c329e25f1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/21/8c074577755c82101c6a41a6eb16c5041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/21/b8602360ce3670c7400a213e229301521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/21/fe5ad3ca517ee60dfc5e89679026d1d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/21/ec44cfeb7ce658402a3ca0db23409f271.jpg"
+	]
+}

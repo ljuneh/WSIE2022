@@ -1,0 +1,50 @@
+{
+	"id": "6944339",
+	"name": "메추리알 장조림.20분완성 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/84d2f9d22bf9cf70fd26487a18cbf6bb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944339",
+	"ingredient_ids": [
+		995,
+		226
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "다시마손바닥만한거",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "20",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 깐 메추리알은 씻어서 바구니에 건져놓습니다  물 종이컵 3컵.다시마2조각,통마늘20개.진간장 종이컵 반컵.국간장 2스푼,설탕 3스푼을 넣고 끓입니다물 종이컵 3컵.진간장 종이컵 반컵.설탕 3스푼.국간장 2스푼.다시마 큰거2조각 ,통마늘 20알",
+		"2. 물이 끓어오르면 메추리알을 넣습니다 넣고 뒤적여줍니다 8분간 조려줍니다 중간중간 색이 고루 입게 뒤적여줍니다센불",
+		"3. 8분정도 지나면 어느정도 물도 줄어들고 간도 배어들었을겁니다 이제 썰어둔  고추를 넣어줍니다",
+		"4. 고추넣고 3분정도 더 뒤적여주고 불을  끄면 완성입니다 집집마다 불 세기가  달라서 간이 덜 배었다면 진간장 2~3스푼 더 넣고 몇분만 더 졸이시면 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/5dc64bf5a71494291dfb05c783e5e4191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/3c21e8b069adfddeadd20dd2d9848db81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/2d0f83b4831abcc4a8bb368aee1e2e471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/a0535b57433719772c038a6e845726721.jpg"
+	]
+}

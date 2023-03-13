@@ -1,0 +1,117 @@
+{
+	"id": "6932924",
+	"name": "최애반찬 소시지 감자조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/05/19/9fb4cf31154f7175bcee4901f886444a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6932924",
+	"ingredient_ids": [
+		5,
+		295,
+		504,
+		231,
+		379,
+		477,
+		995,
+		233,
+		292,
+		526,
+		575,
+		660,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "비엔나소시지",
+			"ingre_count": "10",
+			"ingre_unit": "여개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비해 주세요~",
+		"2. 감자는 먹기 좋은 크기로 썰고 청양고추는 송송 썰고  비엔나소시지는 끓는 물에 한번 샤워시켜 준 다음 이등분해 썰어주면 재료 준비 끝!",
+		"3. 팬에 기름 약간 두르고 감자 넣고 1~2분 볶아  기름코팅을 시켜 준 다음 물 반컵 넣어 주세요~감자 기름에 볶은 후 조리면  잘 부서지지도 않고 간도 잘 배여요~",
+		"4. 적힌 분량의 간장, 굴소스, 황설탕, 맛술,  다진마늘, 올리고당을 넣어 주세요~",
+		"5. 소시지 넣고 한번 휘저어 섞은 후 뚜껑 닫고  감자가 익도록 3분 정도만 끓여 주세요~",
+		"6. 마지막에 식초 1티스푼 넣고 센불로 볶아 식초향 날린 후 청양고추 넣고 한번 뒤적거려 준 다음 불 끄고  참기름, 깨소금 , 후추 약간 넣어 마무리 하면 완성!",
+		"7. 슴슴하게 간이 적당하게 배여  밥반찬으로 넘 좋은 소시지 감자조림입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/19/8244957aaea489e351da6dcf6d4013731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/19/8bd0655f1bca5b314a3b384372e594181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/19/22d8befbea52dd0ecd6c9b8a087d35c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/19/cecb61653984873a53d832f2a9c30fbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/19/257b8a5e9ac12955d4ebb001192eeb0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/19/a20b01b473cbd7f98cacfd9796bddacb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/19/e727c23ef67aabda0a6c5d7b37e60dec1.jpg"
+	]
+}

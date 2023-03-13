@@ -1,0 +1,50 @@
+{
+	"id": "6942646",
+	"name": "밥도둑 박대구이 만들기 :)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/6d61200d8e53b33ab0a3637bd1474d101.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942646",
+	"ingredient_ids": [
+		540,
+		469
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "박대",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "꽃소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 냉동된 박대는 30분정도 밖에 두어 자연 해동 합니다.",
+		"2. 흐르는 물에 깨끗하게 씻어 줍니다.",
+		"3. 키친타올로 물기를 꾹꾹 눌러 제거해줍니다.",
+		"4. 꽃소금 살짝 뿌려 추가 밑간을 합니다.",
+		"5. 팬에 기름을 두르고 예열되면 박대를 올려 구워줍니다.",
+		"6. 센불에서 조리하면 탈수있으니 중약불에서 은근히 익혀줍니다. 뒤집기는 딱 3번!! 도톰한 부분은 7분정도 익혀주고 노릇해지면 뒤집어서 5분정도 익혀줍니다.",
+		"7. 마지막으로 한번 더 뒤집어 1분정도 더 구워주면 완성 :)",
+		"8. 접시에 예쁘게 담아 맛있게 드세요 :)",
+		"9. 짭쪼름하면서 고소하고 담백하고 조리방법도 간단해서 밥반찬으로 최고 인거 같아요 :) 완전 밥도둑!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/e020fa77b4b360176ad64f44b580d1f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/af9b0e7a541802b074af280526de6b611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/7a0e11f87751536f227306705b7abc1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/fc735e2aaf8fbca8e10121b4bba59e411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/93050c0a612f51d5a22a3a5d91a09ce11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/d20da438b1746c4b7d2e538bf94dc96b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/9cfa820b91d2b7c01444e3fb205c9dc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/c5e6aacc485faeaaef3b10e2d57400ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/7d6b11a22b43045d8e586f7651f8ad941.jpg"
+	]
+}

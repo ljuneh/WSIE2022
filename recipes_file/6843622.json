@@ -1,0 +1,74 @@
+{
+	"id": "6843622",
+	"name": "닭발 매운 조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/25/9bf106bdecb35fa5779d41b118e21a761.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843622",
+	"ingredient_ids": [
+		3,
+		643,
+		473,
+		28,
+		29,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "닭발",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 닭발.고추장.고추가루 물엿 .풋고추.홍고추 생강.간장.양파를 준비합니다",
+		"2. 후라이팬에 식용유에 생강을 넣고볶는다",
+		"3. 2에 야채를넣고볶다가 매운 양념장을 넣습니다",
+		"4. 3에  닭발을 넣고"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/25/7221594cfcce7f308d64c2bc22d132151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/25/fd417467b52e40022c44035948576d851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/25/ce730a7f14e7388edf00c9a261aa34a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/25/41c8fe86b5d30e79010fe6af7fee73561.jpg"
+	]
+}

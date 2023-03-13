@@ -1,0 +1,112 @@
+{
+	"id": "6908524",
+	"name": "해물탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/03/06/e8d67de4ca1ba2df18159e23164241511.jpg",
+	"url": "https://www.10000recipe.com/recipe/6908524",
+	"ingredient_ids": [
+		81,
+		480,
+		79,
+		65,
+		20,
+		47,
+		27,
+		29,
+		497,
+		292
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "가리비",
+			"ingre_count": "26",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "반지락",
+			"ingre_count": "1",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "꽃게",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "12",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "3",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "땡초",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "다시물",
+			"ingre_count": "5",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 1 가리비껍질을 솔로깨끗이 박박 씻어 주세요  2 반지락은 해감을 충분히 하세요 반지락에는 모래나 뻘이 많이 있어요 해감방법: 살아 있는반지락에 물이 잡길정도로 넣고 굵은 소금을 두수저 정도 넣고 냉장고에 하루 두면 충분히 해감이 됩니다 3 새우는 수염은 가위로 제거하고 씻어 주세요 4 오징어는 내장을 제거하시고 깨끗이 씻어 준비해 주세요",
+		"2. 꽃게는 집게발 끝부분은 잘라 주시고 등이랑배쪽을 솔로 깨끗이 씻어 주세요 그리고 반도막 내어 주세요",
+		"3. 콩나물,미나리,파,땡초를 그림처럼 준비해주세요",
+		"4. 위에있는 모든해물을 모두넣고 그위에 콩나물이랑 고추가루3수저,다시물5대접,소금3수저,맛술2수저를 넣고 센불에서 끓여주세요",
+		"5. 해물탕이 팔팔 끓으면 파,땡초,마늘2수저,후추조금을넣고 끓이다 마지막에 미나리를넣고 10초후에 불을 꺼주세요",
+		"6. 완성된 시원하고 칼칼하 해물탕 완성 맛나게 만들어 드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/06/60c1c4da2e6fe2085ed634e9a791d78c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/06/ae1e71fbb1fc28220825f444e55ed8f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/06/6a8a841673396eb40c717405e477dcf11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/06/a90a091151e2bf87db080d20399c021b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/06/66b6ef572a3f7587e1a453b2d9f5d8d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/06/ffd8e59d553d4a0043dfe7d01b0872f01.jpg"
+	]
+}

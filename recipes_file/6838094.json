@@ -1,0 +1,74 @@
+{
+	"id": "6838094",
+	"name": "진정한 밥도둑 소고기 볶음 고추장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/11/bc91fb8dbb081080d7162ce681e2a4da1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838094",
+	"ingredient_ids": [
+		3,
+		473,
+		233,
+		379,
+		226,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "갈은소고기",
+			"ingre_count": "480",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "9",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿(생략가능)",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 넉넉한 크기의 그릇에 갈은 소고기와 다진마늘, 간장, 설탕, 후추를 넣고 잘 섞어주세요. 그리고 고기를 양념에 재운다 생각하시고 잠시 옆에 놔두고 STEP2로 넘어갑니다.",
+		"2. 양파는 잘게 썰어주신후에 후라이팬에 참기름을 붓고 양파가 완전히 익을때까지 잘 볶아주세요.",
+		"3. 양파가 다 익으면 소스에 재워놨던 고기를 후라이팬에 넣고 고기가 다 익을때까지 볶아줍니다. 고기가 다 익으면 불을 약불로 낮춰주신후에 고추장을 넣고 잘 섞어주시면서 고추장이 고기에 잘 스며들게 볶아주세요.",
+		"4. 마지막으로 물엿을 넣고 20~30초 정도만 더 볶아주세요.  물엿이 없으면 설탕을 넣으셔도 되고, 맛 보시고 더 달지 않아도 되겠다 싶으면 넣지 않으셔도 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/11/27991e029d95235cc8cfb69e86625ee81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/11/5224745886d6651ba0341b7ea4f29ab61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/11/70eaf69dd1b89425a650a6b5dfac49f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/11/14298211a89be7e98b85f926152918a41.jpg"
+	]
+}

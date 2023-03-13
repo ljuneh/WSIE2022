@@ -1,0 +1,56 @@
+{
+	"id": "6941703",
+	"name": "(코로나19 극복!)양파 튀김",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/c8e21818f88cbf740ed8c9997b11e58a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941703",
+	"ingredient_ids": [
+		3,
+		734,
+		387
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "2",
+			"ingre_unit": "이컵"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "물머그컵1~1+1/2컵",
+			"ingre_count": "1~1+1/2컵",
+			"ingre_unit": "~컵"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비 -튀김가루와 부침가루를 2:1비율로  한다.",
+		"2. 양파(대) 1개 준비한다.",
+		"3. 튀김 가루와 부침가루와 물을 약 2:1:1로  믹스 반죽을  고루 잘 섞는다. (*반죽이 묽어지지 않도록 한다.)",
+		"4. 양파를 반달채썰기 한다.",
+		"5. 양파를 작게 썰어놓는다.",
+		"6. 작게썰기한 양파를 볼에 믹스반죽에 넣는다.",
+		"7. 튀김이 반정도 잠길정도로 식용유를 후라이팬에 두른다.",
+		"8. 숟가락으로 양파믹스반죽을  한 스푼씩 떠서 기름이 끓을때 즈음 넣는다. 5분~10분간  튀김 앞뒷면을 노릇노릇 바삭 하게 튀긴다.",
+		"9. 완성/시식- 아삭아삭 소리까지 바삭한 양파튀김 Great!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/06a7505b1a393aafe798037afd3d89d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/c0ef2abd42187f313608300d52710eac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/357334cf78257472d89c956e31bf00c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/1de9c010e3732f79becf6acd40b3d19d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/65a29c7701097d26f2d7249a0b155f551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/92bfe135a2160d32b1bb5ff597c707d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/6b7326473e84b8d5d1fe8d06a31b6afb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/552dee558f2f2901a6bf62ed9de6525c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/30c2c4df7d96de88a4bfcf9fb252c41c1.jpg"
+	]
+}

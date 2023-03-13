@@ -1,0 +1,113 @@
+{
+	"id": "6942507",
+	"name": "#코로나 극복#애호박덮밥#든든한끼",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/1c35e75ad0a10e1f0d259d67420743771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942507",
+	"ingredient_ids": [
+		7,
+		27,
+		3,
+		390,
+		233,
+		224,
+		477,
+		226,
+		225,
+		543,
+		327,
+		504,
+		219
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 대파, 양파를 썰어주세요.",
+		"2. 애호박은 0.8cm정도의 두깨로 썰어주세요.얇게 썰면 볶을때 쉽게 무르고 씹는 식감이 없어져요.",
+		"3. 썰어 놓은 야채를 큰 팬에 담고 다진마늘 반숟가락, 새우젓 반숟가락을 넣어주세요.새우젓이 없다면 소금으로 간을 해주세요.",
+		"4. 고춧가루 크게 한숟가락, 설탕 한숟가락을 넣어주세요.",
+		"5. 굴소스 1숟가락과 들기름 크게 1숟가락, 식용유 크게 1숟가락을 두르고 중약불에서 약2~3분 정도 볶아주세요.너무 오래 볶으면 부서지기 쉬우니 후다닥 볶아주세요.",
+		"6. 자박자박해지면 후춧가루 약간",
+		"7. 통깨 많이 뿌려주면 밥도둑 애호박볶음 완성!",
+		"8. 달걀 2~3개 프라이를 해주세요.",
+		"9. 밥을 담고 애호박볶음 수북, 달걀을 얹어주세요.",
+		"10. 노른자를 터트려서 쓱쓱 비벼 함께 먹으면 최고! 달걀국까지 같이 먹으면 환상의 궁합입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/dbb1710436cc91e849191f57cd9dd4991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/f1213bcfc43b5147640e8f12dabcb6371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/eb3faffcedf6b25dd23391e1db8f99411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/69c2bde6126bd262512f458aed32c9591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/7b792618dd8783f6d3a68c8f86ce2edb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/807104cc37e1d29ca3746d049c83efa11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/82b3fb1643fd697d8794b6ddb9b32b001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/3fb6493b35345b059acfc5abb7ae1df81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/b8b70d520e0f0d3c307c99f254e8b7ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/5403ea2c500a902b9f767f2634ee205a1.jpg"
+	]
+}

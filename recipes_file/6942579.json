@@ -1,0 +1,42 @@
+{
+	"id": "6942579",
+	"name": "포슬포슬~ 여름 제철 감자와 에어프라이어로 만드는- 겉은 바삭 속은 촉촉 <웨지감자 & 알감자구이>",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/bbf1808ee896aded29ee8ba48f5dd8ac1.png",
+	"url": "https://www.10000recipe.com/recipe/6942579",
+	"ingredient_ids": [
+		432
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자(10알)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진파슬리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "요리에센스연두",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. [감자 손질하기] 웨지감자구이 - 껍질째 씻은 후 8등분으로 자릅니다. 알감자구이 - 껍질째 씻어 반으로 자릅니다.",
+		"2. [양념하기] 손질한 감자를 봉지에 넣고 연두, 포도씨유, 파슬리를 넣어 잘 흔들어 섞습니다.",
+		"3. [조리하기] 에어프라이어 180도에서 20분간 익히면 완성!에어프라이어"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/7b10dda0d65ad87b4edff0c69d949deb1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/481373c68741f83b2b5f890fb5e362cd1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/1b3e0bfece2c8373df4865ac938ca0e61.png"
+	]
+}

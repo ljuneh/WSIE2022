@@ -1,0 +1,83 @@
+{
+	"id": "6872452",
+	"name": "여름김치 배추 무우 석박지",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/09/77c10e6b6db6f4a0dbf8036befb141e41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872452",
+	"ingredient_ids": [
+		32,
+		333,
+		457,
+		233,
+		27,
+		545
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "배추",
+			"ingre_count": "1",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "밥끓인것",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "3",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 배추는 크기에 따라 4~6등분해 물에 한번 적셔 줄기부분에 천일염을 뿌려 여름배추라 4시간정도 절였어요",
+		"2. 무우는 납작하게 썰어 소금2스픈 넣고 30분정도 절여 수분이 빠져나오면 나른해지지는 느낌이날때 한번 행궈 채에 건져 놓아요",
+		"3. 배추는 행궈 씻어 채반에 바쳐 물기를 빼주고요",
+		"4. 찹쌀풀대신 찬밥을 이용하는데 찬밥 1/2공기 넣고 밥을 끓여 믹서기에 갈아줍니다",
+		"5. 흰밥 갈은거 멸치액젓1컵 고춧가루2컵 다진마늘 1/2컵 생강넣고 버무려 놓아요  까나리액젓 멸치액젓 어떤액젓이든 본인 식성에 맞는 액젓을 사용하면됩니다",
+		"6. 절여논 배추는 먹기 좋은 크기로 썰어주고~",
+		"7. 천연소화제 역활을 하는 무우를 먼저 버무려 주는데",
+		"8. 섴어논 양념을 한스픈 덜어 무우부터 버무려~",
+		"9. 절여논 배추넣고 나머지 양념을 넣고 골고루 베이게 버무려주세요",
+		"10. 파를 넣어서 한번 더 버무려줍니다",
+		"11. 하루정도 실온에서 익히면 무우가 숙성되어 시원하고 맛있습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/08/b0c460d07a0799ac3905bc3f16f8f4861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/08/cb0fc97f2b985758e681c4b68018b63b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/08/6bd0bd9f757a7820f161c2d36aa6ba561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/08/670b226e5f8c0d63fab8412f910b24cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/08/bc06df991ed1a36ef68addf602ffbfa21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/08/4ece48b8c2bc3adcc9bb818dd9a65d351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/08/82e83c1ad105f8075e0035fb19ff66001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/08/f37b20a6f276aad5f95adea99a1c14521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/08/61e801e8953657cc1d688ef8282672b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/08/45e2427e1e564e941511644258e603991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/09/7fd042748d955f09e0c2e6790ba6fcaa1.jpg"
+	]
+}

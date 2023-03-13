@@ -1,0 +1,54 @@
+{
+	"id": "6945251",
+	"name": "무떡 만드는 법 (영상있어요)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/14d65eb408169963915678a12d1cde541.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945251",
+	"ingredient_ids": [
+		19,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "3/1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 깨끗이 씻은 무를 준비하고 믹서기에 갈릴 정도로 작게 썰어 주세요",
+		"2. 물 한 컵을 넣고 덩어리가 다 없어질 때 까지  갈아주세요잘 안갈리면 무를 더 작게 썰거나 물을 추가해주세요 ",
+		"3. 갈은 무를 채반에 받쳐서  물기를 빼주세요물기를 빼지 않으면 무떡이 너무 질어진답니다",
+		"4. 물한컵 추가한것과 무에도 물이 나와서 생각보다 물이 많이 나와요~",
+		"5. 물기를 제거한뒤 무에 전분 2 큰 술, 소금 한꼬집을 넣어주세요",
+		"6. 가루가 뭉치지 않게 잘 섞어주면  무떡 반죽이 완성됩니다",
+		"7. 팬에 기름을 두르고 중간불에서 팬을 달궈주세요중불",
+		"8. 어느정도 열이 올라오면 반죽을 숟가락으로 떠서 작게 동그랑땡 크기 정도로 올려줍니다",
+		"9. 무떡이 하얀색이라 밋밋해 보일까봐 부추를 조금 썰어서 올려주었어요",
+		"10. 반죽위에 총총썰을 부추를 올리고",
+		"11. 뒤집어 주세요 반대쪽도 겉면이 바삭하게 익으면 무떡 완성입니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/10868b1ef6889ce65c94cfadcadffb9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/1638ab4d2aeea7716b8ff421f6af1c6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/b8e38703bf0552f6b83d730de0aee29d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/14ea9abec188e31947f74c00fbf7e4a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/3743f007b00397ddbd8850d56e62c86c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/ac8c5b4678ca227bf1ee2d54c80e38691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/f24ca6e48c10f06f33483162bf0052d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/93a68f40e776419b6d92674876a29b4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/c518537a593a1b40ba4ba6b7091c3d1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/36b004bc26c1a6414ae72a03587297ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/dee7ee3817278be343c47f9d51159ee01.jpg"
+	]
+}

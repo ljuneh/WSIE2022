@@ -1,0 +1,54 @@
+{
+	"id": "6894746",
+	"name": "야들야들 문어 삶는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/25/929d8984c7494529451d59efa12f8f191.jpg",
+	"url": "https://www.10000recipe.com/recipe/6894746",
+	"ingredient_ids": [
+		234,
+		845
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돌문어",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "초고추장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 돌문어 3마리 준비했어요.",
+		"2. 문어를 한번 씻어 준비하고 밀가루를 뿌려서 빨판에 있는 이물질을 제거해야 합니다. 굵은소금은 문어가 상처가 생길 수 있으니 사용하지 마세요.",
+		"3. 밀가루를 넣고 빨판에 거품이 나오지 않을 때까지 충분히 주물러 씻어 줍니다. 맑은 물이 나올 때까지 여러 번 찬물로 헹궈 주세요.",
+		"4. 다리를 뒤집어 안쪽 입 주변을 꾹 눌러 주면 쑤~욱하고 튀어나온답니다.",
+		"5. 가위로 눈을 잘라내고",
+		"6. 문어 머리 안쪽에 연결되어 있는 부분을 잘라",
+		"7. 안쪽에 뒤집어 내장을 꺼내 손질해 주세요.",
+		"8. 냄비에 물을 충분히 담고(문어가 잠길 만큼) 물이 끓어오르면 문어 머리를 잡고 다리 쪽을 먼저 넣어 주세요. 그리고 다시 건졌다 넣었다를 3회 정도 반복하다 문어 전체를 푹 담가 삶아 주세요.",
+		"9. 문어 크기 정도에 따라 삶는 시간이 다르겠지만 돌문어는 사이즈가 작아서 5분 정도 삶았습니다.",
+		"10. 삶은 문어는 자연스럽게 식혀 주세요. 그리고 다리를 낱개로 잘라 랩에 싸서 냉동실에 살짝 얼려 잘라먹기 좋게 잘라 주심 돼요.",
+		"11. 문어숙회 완성 ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/25/3e65dcfe1e0cf2e48350e9a39564b1a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/25/6fabe4febb843327f54a44aa691d89031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/25/bef95397ee4b76aa5152abfbaa7d71011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/25/473b30f3384bad1c4eef230e411839a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/25/b21c4745471ff05d5a44e30c33d3c4ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/25/296f8d6b367021cdd944ab7906a4bc9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/25/09e4f635e2b7bfc19bbeda0d518617bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/25/8aa91ca3f9626ebbb530e0f6440237f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/25/ec47fea662b212d2890013159a6f97dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/25/b8f7031adcd61e94f94668a1424b106a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/25/4ac45b91e26d81d96126594cdb7d83f31.jpg"
+	]
+}

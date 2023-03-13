@@ -1,0 +1,49 @@
+{
+	"id": "6944850",
+	"name": "브로콜리 요리 / 브로콜리 조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/f95db3298a011b1f0e8d94b2d552186f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944850",
+	"ingredient_ids": [
+		11,
+		995,
+		379,
+		341
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "4",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 브로콜리는 적당한 크기로 자른다.",
+		"2. 자른 브로콜리는 끓는물에 소금을 넣고 데친다.",
+		"3. 데친 브로콜리는 찬물에 씻어 물기를 제거한다.",
+		"4. 물기를 제거한 브로콜리는 프라이팬에 넣어 준다.",
+		"5. 물, 간장, 물엿을 넣고 졸여 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/ae49dc3b63a32fdb09d4497b6110d6401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/85a4b0b5317d029bcbf1f5033a48ddb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/dd1d6ba9142e2961056a4582a8758f341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/efeba11e86374e7dc6fea1d6137401d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/5bd3ebb69e3d949a68503e7a1dba41441.jpg"
+	]
+}

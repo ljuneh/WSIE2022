@@ -1,0 +1,56 @@
+{
+	"id": "931629",
+	"name": "담백한 소고기미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/363c56c97fa33bc4f8957790953ec3ee.jpg",
+	"url": "https://www.10000recipe.com/recipe/931629",
+	"ingredient_ids": [
+		995,
+		349
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기(양지머리)",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "불린미역",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2500",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금간(입맛에맞게)",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 소고기는 양지머리를 덩어리로 준비해서 찬물에 30분~1시간 정도 우려내 핏물을 빼줍니다. 보통 잘게 썬 소고기를 달달 볶다가 미역을 넣고 끓이기도 하는데 그러면 육수가 진하지 않아 맛을 내주는 다른 다시 재료를 넣어야 국물맛을 낼 수 있지요.그리고 짧은 시간 부르르 끓이면 고기가 질겨서 치아가 좋은 분 외에는 드시기 힘들어요.",
+		"2. 적당한 크기로 잘라 냄비에 물을 붓고 찬 물에 넣어 끓이기 시작합니다. 처음부터 찬 물에 넣고 끓여야 육수가 많이 우러나오고 국산 양지머리로 끓여야 육수가 맛있어요. 수입산은 오래 끓여도 국물이 진하게 우러나오지 않아요.",
+		"3. 잠시 끓이다보면 고기 속에 들어있는 핏물이 또 나오기 시작할 거에요. 위에 거품이 둥둥 뜨는데 말끔하게 다 건져내세요. 국물도 지저분해지고 누린내도 나기 때문이죠. 거품을 제거한 다음에는 뚜껑을 닫고 약한 불에서 1시간 30분 이상 뭉근한 불에서 끓여주세요. 이렇게 해야 소고기 육수가 충분히 우러나와 국물맛이 좋아져요.",
+		"4. 찬 물에 1~2시간 정도 불린 미역을 손으로 바락바락 주무르듯 비벼 씻어서 4cm정도로 적당히 잘라놓으세요.",
+		"5. 소고기가 푹 물러지고 국물이 진하게 우러나왔으면 고기덩어리를 건져내고 썰어놓은 미역을 넣고 끓여요. 처음엔 센 불에 끓기 시작하면 약한 불에서 뭉근하게 오래오래 끓이면 미역에서 맛이 우러나와 국물맛이 좋지요.",
+		"6. 고기는 한 김 식혀서 결대로 죽죽 찢어줍니다. 뭉근한 불에서 오래 끓였기 때문에 아주 부드러울 거에요..",
+		"7. 고기를 끓고 있는 미역국에 넣고 국간장으로 간하고 소금으로 간을 맞춥니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/eb3be4cdaba2996a245b48fb0a7968c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/176a64cf26b9a13722273e0521da4dc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/664920aeeec78490237d986b2fbaa34a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/f4e8fad72c0cd8873b2c444825c490ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/66d789c2bcdd885eceb14cada598d3fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/c4c60bd8a855b75bcdfc4169da078a8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/d3594bb0e46ced868bcb3fcde99672721.jpg"
+	]
+}

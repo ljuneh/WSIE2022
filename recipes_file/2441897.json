@@ -1,0 +1,83 @@
+{
+	"id": "2441897",
+	"name": "치즈 크림스파게티 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/60a42c8d051f2b7a4375421072045137.jpg",
+	"url": "https://www.10000recipe.com/recipe/2441897",
+	"ingredient_ids": [
+		406,
+		54,
+		3,
+		22,
+		497,
+		225,
+		995,
+		212
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "스파게티",
+			"ingre_count": "160~200g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "4~5줄",
+			"ingre_unit": "~줄"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "3~4개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "폰타나수프",
+			"ingre_count": "2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "350",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 식용유 둘러 달궈진 팬에 베이컨, 양송이버섯, 피망, 양파를 썰어 넣고 볶아주세요. 소금, 후추간은 입맛에 맞게 해주세요.",
+		"2. 재료가 반쯤 익으면 분량의 물과 수프를 넣고 잘 풀어준다음 4분 내외로 끓여주세요. 그냥 수프로 드실 때보다 농도를 진하게 한다고 생각해주시면 되요.",
+		"3. 끓는 물에 소금을 넣은다음 8~10분 정도 삶은 면을 내열용기에 담아주세요.",
+		"4. 소스를 끼얹어주세요.",
+		"5. 치즈를 원하는 만큼 올려주세요. 그릴기능을 눌러준 다음 5~10분정도 구워주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/3c2e064aeea0a772ce63f16f19abcb4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/af5506b1723777462423c3cbe26d653e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/fa0e65fade5ce6c53d5218678f59c47b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/aeb59d9b998fb362589a9170aaaedcc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/5780361760d1841a404c0f021215107a1.jpg"
+	]
+}

@@ -1,0 +1,131 @@
+{
+	"id": "6834927",
+	"name": "백종원 오징어볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/23/be379b903b7766743321ec46d7c8e3211.jpg",
+	"url": "https://www.10000recipe.com/recipe/6834927",
+	"ingredient_ids": [
+		65,
+		7,
+		9,
+		3,
+		27,
+		295,
+		504,
+		233,
+		281,
+		473,
+		225,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굵은고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장10큰술설탕",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물1/2컵(95ml)",
+			"ingre_count": "1/2컵(95ml)",
+			"ingre_unit": "컵(ml)"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간​"
+		}
+	],
+	"recipe": [
+		"1. 오징어볶음 레시피의 야채양이 g이라 감이 안와서 모아봤습니다. 당근 1/3조각, 호박 1/3조각보다 약간 더, 양파작은거 1개, 대파 2뿌리, 청량고추 4개 정도분량이네요.",
+		"2. 양파는 1cm 폭으로 채 썰고, 호박과 당근은 양파 크기에 맞춰 얇게 썰기.",
+		"3. 청량고추와 대파는 어슷썰기. 대파를 제외한 야채를 모두 함께 볶기 때문에 분류해 좋았어요.",
+		"4. 끓은 물에 2~3분정도 삶기.",
+		"5. 전 2분30초 정도 삶았는데 팔팔 끓진 않더라구요.",
+		"6. 몸통을 반으로 가른 후, 1~2cm폭으로 썰기.",
+		"7. 다리도 몸통 길이에 맞춰 썰기. 요렇게 싹뚝 가위집을 낸후...",
+		"8. 가위로 다리를 하나씩 잘라 떼어내면 편해요. 책따라 몸통을 칼로 잘라봤는데, 역시 가위를 사용하는 것이 더 쉽고 편하다는 결론!",
+		"9. 오징어 준비 끝!",
+		"10. 팬을 달군 후 식용유+다진마늘을 볶다가,",
+		"11. 고춧가루, 진간장, 설탕, 고추장, 후춧가루를 넣고 물을 부어가며 끓이다가 끓어오르면,",
+		"12. 오징어를 넣고 양념과 섞은 후,",
+		"13. 채소를 넣고 센불에서 반쯤 익을 정도로 빨리 볶기. 채소를 천천히 익히면 물이 생겨 맛이 덜할 수 있다는 점!",
+		"14. 대파와 참기름을 넣고 불끄기. 그릇에 담아 통깨 솔솔 뿌리면 끝!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/db83ef0138f2f5978afd38d9b48680961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/64e5ab12e3aa7d096e32a26d621b95c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/7f0b39d25e364c38723aef7472c1a9811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/2aa369bfa0d556ee557040845d5381dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/8f9d45879c925a19f1253a643357a3f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/7cbcebb5c480b5bf88605ad482db09e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/7fde36bc9848325bf217e31bc68062981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/f4e22f2ca76dff50ea93dfb292a07c8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/8faf341f45e13cad7902de8df56f28101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/8a8db9acbd033df72889ddb0668e466f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/746efc90f24dc408d9263d7647f560de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/dd58d39fac81b8f2dace4d657569de5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/bd3369467b44b3e7b0bc2fa94c2059bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/d98e27df374ae8d2d34e52832350de0a1.jpg"
+	]
+}

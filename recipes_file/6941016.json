@@ -1,0 +1,85 @@
+{
+	"id": "6941016",
+	"name": "팽이버섯 요리 / 팽이버섯 샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/178e6f6d30b4a7438e92868e8d99cfac1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941016",
+	"ingredient_ids": [
+		3,
+		6,
+		55,
+		379,
+		226,
+		575,
+		233,
+		231,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 양파는 채 썰어 준다.",
+		"2. 채 썬 양파는 찬물에 담가 아린맛을 제거한다.",
+		"3. 파프리카는 채 썰어 준다.",
+		"4. 팽이버섯은 끓는 물에 소금을 넣고 데쳐준다.",
+		"5. 데친 팽이버섯은 찬물에 씻어 물기를 제거한다.",
+		"6. 간장, 설탕, 올리고당, 다진 마늘, 식초, 참기름을 넣고 양념을 만든다.",
+		"7. 준비한 재료는 그릇에 모두 담는다.",
+		"8. 양념을 넣고 버무려준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/55f1206fd7b4087cf239d4d6a0ddcdd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/d167a22d0b18740b724d5fba6fa6adc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/ee119d7ee0604769649d3f61d24433c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/acbf3bad0dc3730981752f124af3f7d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/953cb1506d425284ed74657ea70c3ad71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/3bb2d4a9b188c993897ec18ca3e854441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/78d1b177e935798ea37ce137819d08c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/ea45008feba6188d1e04b59cab1bf7f91.jpg"
+	]
+}

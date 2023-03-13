@@ -1,0 +1,83 @@
+{
+	"id": "6940672",
+	"name": "자꾸땡기는 [ 달걀 장조림 ]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/14259f86eed93f6b6af9adbdc7571d0e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940672",
+	"ingredient_ids": [
+		295,
+		9,
+		53,
+		995,
+		226,
+		575
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "삶은달걀",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빨간고추큰거",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 달걀은 15분정도 삶아서 흐르는 찬물에 오래 담궈야 잘 까져요.",
+		"2. 위의 양념재료와 달걀을 넣고 30분 알람해두고 끓는 동안 야채를 준비합니다.",
+		"3. 청양고추는 칼집만 내어 두개 퐁당~ 매우거 좋아하시면 더 넣으세요. 두개넣으니 아이들도 먹을 수 있네요.",
+		"4. 빨간 큰 고추가 있어서 지저분하지 않게 큼직하게 썰어주었어요.",
+		"5. 당근은 얇게썰어 조금만 넣고 마늘은 썰지않고 통으로 10개 정도 넣어주었어요. 통으로 넣으면 모양도 깔끔하고 이쁘게 담을수 있어요.",
+		"6. 30분 알람이 울리고 나서 이쁘게 칼집낸 표고2개를 넣고 십분정도 더 끓여주었어요. 국물맛을 보시고 더 끓여도 상관없어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/4c35575f403cd64a27653bae8a962d571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/268a50d32791cce4ff7445ae967579461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/ba191c2a7f0ae4d83518253e463190c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/3ec2945142afb120020a291f5d00e2871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/904de3cc213e376d3ffb37eb3b2e20eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/5ed50b18865840767bfb0365da58dce01.jpg"
+	]
+}

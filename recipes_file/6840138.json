@@ -1,0 +1,87 @@
+{
+	"id": "6840138",
+	"name": "백종원 김치찌개 간단하고 깊은맛도 최고~!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/20/f5e67edf180c65987ebe228fd05dc7071.jpg",
+	"url": "https://www.10000recipe.com/recipe/6840138",
+	"ingredient_ids": [
+		487,
+		643,
+		3,
+		876,
+		233,
+		349,
+		390
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파송송썬것",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "4~500ml",
+			"ingre_unit": "~ml"
+		},
+		{
+			"ingre_name": "고운고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "굵은고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		}
+	],
+	"recipe": [
+		"1. 양파는 길쭉하게 썰김치는 한입 크기로 썰어주시고, 김치양념도 좀 넉넉하게어서 준비, 대파와 고추는 송송 썰어서 준비해주세요.",
+		"2. 고기는 한입 크기로 썰어주세요. 저는 썰어져있는 돼지고기로 준비했어요.",
+		"3. 뚝배기(냄비)에 고기를 넣고, 쌀뜨물을 4~500ml(없으면 일반물or육수로)를 넣고 팔팔 끓여서 돼지고기 기름과 육수가 우러나게 해주세요.",
+		"4. 김치와 대파, 양파와 고운 고추가루 1TS , 굵은 고추가루 1TS, 다진마늘 1TS, 국간장 1TS, 새우젓 1TS을 넣고 푹~ 끓여주세요. (방송에서는 빠른시간내에 끓이는것처럼 보였지만, 실제로 끓여보니 30분정도 끓여야 맛이 나오고, 김치도 푹 익더라구요.)",
+		"5. 중불과 약불을 오가면서 끓이시되, 중간에 김치찌개 국물이 모자라보이면 쌀뜨물을 좀 더 넣어주시거나 물을 추가해주세요. 마지막으로 다 끓여졌으면 간을 보시고 모자라는 간은 국간장이나 소금으로 해주시면 맛있고 깊은맛이 좋은 백종원 김치찌개가 완성되옵니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/c966539a8ead5442edb499314d0d56fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/cc4f03d7da164c0fc8a045c3f6f76fd41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/0173619afe762e45b009672cf458a6f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/4fd4c94cf63e5418297ccd42d57a12281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/47bd044618b6635e2b9fc5982611f0531.jpg"
+	]
+}

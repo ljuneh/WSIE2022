@@ -1,0 +1,87 @@
+{
+	"id": "6940995",
+	"name": "ABCT떡볶이:건강한맛 아니고 그냥 맛있음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/7fd7fd825cb92371bc18fc0771a0eaad1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940995",
+	"ingredient_ids": [
+		473,
+		995,
+		379,
+		292,
+		738,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밀떡",
+			"ingre_count": "250",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "ABCT주스",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵이내"
+		},
+		{
+			"ingre_name": "야채어묵",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물만두",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "유기원당",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브마늘",
+			"ingre_count": "",
+			"ingre_unit": "선택"
+		}
+	],
+	"recipe": [
+		"1. 사과,비트,당근,토마토를 갈아서 만든 ABCT주스에 고추장과 올리브마늘을 넣는다: 올리브마늘은 깐마늘을 올리브오일에 담가 냉장고에 두고 사용하고 있어요. 올리브마늘은 마늘만 넣거나 생략해도 괜찮아요.비트는 쪄서 냉동시켜 놓고 사용하고 토마토는 살짝 데치고 사과는 껍질째 갈아줘요.  ​ ",
+		"2. 물을 붓고 맛술,조청을 넣고 한소끔 끓으면 밀떡,어묵,물만두를 넣어 끓인다.떡볶이떡은 물에 담갔다 넣고 어묵은 끓는물에 데친 후 넣어주세요. 만두는 선택재료에요.",
+		"3. 대게백간장으로 간을 맞추고 국물이 적당히 졸아들면 불을 끈다: 어떤 간장이든 입맛에 맞는 걸로 간을 맞춰주세요.두 가지 이상 간장을 섞거나 간장+소금이 더 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/03b043b2775bd4ce51648cb608cad0cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/230fb6a95bde493eb39665771360d38f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/b398f90337e96d510b9d89400f5614811.jpg"
+	]
+}

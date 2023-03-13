@@ -1,0 +1,86 @@
+{
+	"id": "6943478",
+	"name": "무스비",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/5d4d7d9c4b33bcb869ad06aaa57705ae1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943478",
+	"ingredient_ids": [
+		628,
+		15,
+		219,
+		201,
+		228,
+		724,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "햄",
+			"ingre_count": "170",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".작은술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "0.",
+			"ingre_unit": ".작은술"
+		}
+	],
+	"recipe": [
+		"1. 햄을 얇게 썰어요. 만들때 두장 넣으면 됩니다.",
+		"2. 소금,후추간 한 계란을 풀어요.",
+		"3. 지단을 만들어요. 계란을 풀어서 팬에 얇게 펴주면 됩니다.",
+		"4. 햄도 구워요.",
+		"5. 밥을 깔고",
+		"6. 남은 재료를 얹어요.",
+		"7. 다시 밥으로 덮고 김가루를 뿌려요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/3d4e9e5532a1222f78d07fcdfc11897f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/eb36fe0a68f64651406caa975bd3a27d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/26b87e8ad0e997d0a2f3bff76576787c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/cb30361dd8815201a2a0da540319685a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/2db0dfa3e7a85e07c756650b190d6a5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/1b3d7799d40b1b6d52700e8946f250541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/37eb9f87dfb78525237e40bb4441480f1.jpg"
+	]
+}

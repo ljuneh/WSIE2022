@@ -1,0 +1,78 @@
+{
+	"id": "6940865",
+	"name": "순두부동죽조개탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/4a2a71a367cbda6ade95c131b93f50a21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940865",
+	"ingredient_ids": [
+		498,
+		29,
+		287,
+		295,
+		27,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "동죽조개",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "순두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "옥수수티백차",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		}
+	],
+	"recipe": [
+		"1. 순두부는 크게 3등분해두어요. ",
+		"2. 옥수수티백차 대신 보리차 티백도 좋구요. 마늘은 편썰어주고 대파, 홍고추, 청양고추는 동글동글 썰어주어요.",
+		"3. 물 1리터에 옥수수티백을 넣고 편썬 마늘을 넣어주고 까나리액젓을 2큰술 넣어줍니다. 옥수수티백을 넣어서 국물을 우려주면 맛이 더욱 구수해요. ",
+		"4. 찬물에서부터 동죽조개를 넣어주어야 국물이 더 잘 우러나오구요. 끓기 시작해서 5분 정도 지나면 옥수수 티백을 건져냅니다.",
+		"5. 순두부를 넣어줍니다. 순두부가 깨지므로 젓지 마세요.",
+		"6. 홍고추, 청양고추, 대파 등을 넣어줍니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/d5e153e7e3552c51f833d843afd72beb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/0e90a881f716f219560c82ffbb7db0dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/6988ccb5baba77d519a1004d790f7bd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/a1a3456073a96b2011b3d9d98dc2acd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/fb37c15ba8793f8c9c2580c394d92e351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/a15acafc91bae69989075aff518d9aad1.jpg"
+	]
+}

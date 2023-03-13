@@ -1,0 +1,33 @@
+{
+	"id": "6877771",
+	"name": "밤 삶기 간단하게 삶아 맛있게~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/12/08ea9b73bb973e11d78d8b9ea13e41a81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6877771",
+	"ingredient_ids": [
+		187,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밤",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 흐르는 물에 씻어 줍니다.",
+		"2. 밤 삶기는 간단히 냄비에 물을 넣고 끓으면 찜통에 넣어서 쪄 주기만 하면 된답니다. 중불에서 약 25~30분 정도 쪄 주면 됩니다. 불의 세기에 따라 약간의 차이가 있을 수 있답니다.",
+		"3. 불을 끄고 약 5분정도 뜸을 들여 주면 밤 삶기 끝~ 요 상태에서 그냥 까서 드셔도 좋고, 찬물에 살짝 담궜다가 드시면 껍질이 더욱 잘 까진답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/13/650910c92c5711ae0a58632d17c020a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/13/7c66f2fd1cb7b4d5c9f5c401b4d8ebbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/13/73794e9600da1d50466d7226a67e36181.jpg"
+	]
+}

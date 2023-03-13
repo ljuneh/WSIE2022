@@ -1,0 +1,59 @@
+{
+	"id": "6942158",
+	"name": "집밥 TV) 떡볶이와 찰떡궁합! 부산의 명물 계란만두 Egg Mandu 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/628ae14cd4d900bf795a8e23ec4f4a171.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942158",
+	"ingredient_ids": [
+		302,
+		9,
+		497,
+		234
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "당면",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 당면 한줌 정도를 물에 불렸다가 한번 삶아 물기를 빼놓습니다.",
+		"2. 파, 당근 1/2, 당면은 다져서 계란 5개 소금 1/2T, 밀가루 2T를 넣어 반죽을 만들어주세요.",
+		"3. 팬에 기름을 넉넉히 두르고 반죽을 타원형으로 펴줍니다.",
+		"4. 다 익기 전에 반을 접어서 반달모양으로 만들어 구워냅니다.꼭 중불을 유지하세요",
+		"5. 반죽 모두 구워서 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/70a6293031e424a8c2ee711af58b0bd11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/2f5a733ad7b191a784afb6c40d44d7c91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/c13804ff508dd2c562d336bbd04255581.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/a511842eefa3d8aa01109754f2be8b761.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/7ea7163f9c6c50602d3f5166f46b77a71.png"
+	]
+}

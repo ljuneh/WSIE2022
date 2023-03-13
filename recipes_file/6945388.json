@@ -1,0 +1,112 @@
+{
+	"id": "6945388",
+	"name": "스펠트 오트밀 쿠키 :: 키친 싱크 쿠키",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/3ca69f75bd0cbe77a10de8fe8ca93a4b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945388",
+	"ingredient_ids": [
+		483,
+		219,
+		884,
+		940,
+		373,
+		272
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "스펠트밀가루",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "가염버터",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백설탕",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "머스코바도",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "13",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "베이킹소다",
+			"ingre_count": "1",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "롤오트밀",
+			"ingre_count": "85",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "코코넛슬라이스",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "건크랜베리",
+			"ingre_count": "105",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "세미스윗초코칩",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밀크초코칩",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "구운호두분태",
+			"ingre_count": "90",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 실온의 가염버터를 부드럽게 풀고, 백설탕과 머스코바도 설탕을 두세번에 넣어가며 충분히 휘핑해주세요.",
+		"2. 저는 가염버터를 사용했는데요, 무염버터 사용하신다면 소금 1/2 ts 정도 넣으시면 됩니다. ",
+		"3. 계란, 우유, 바닐라 익스트랙을 섞은 혼합물을 조금씩 넣어가며 휘핑해주세요.",
+		"4. 설탕이 만져지는 정도로 휘핑해주시면 됩니다. ",
+		"5. 체친 스펠트 밀가루와 베이킹 소다, 베이킹 파우더를 넣고 잘 섞은 후,",
+		"6. 코코넛 슬라이스, 건크랜베리, 초코칩, 구운 호두, 오트밀을 넣고 가볍게 섞어주세요.",
+		"7. 완성된 반죽은..",
+		"8. 스쿱으로 떠서 팬닝 한 후, 윗면을 살짝 눌러 줍니다. 175도로 예열된 오븐에서 총 14~16분 정도 구워주는데, 굽기 시작한지 10분 정도 지났을때, 주걱으로 쿠키를 가볍게 누른 후 나머지 시간을 구워줍니다. 황금갈색으로 익으면 오븐에서 꺼내서 팬채로 2분 정도 두었다가, 식힘망으로 옮기면 완성~! 완전히 식은 쿠키는 밀폐용기에서 3일 정도 보관이 가능합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/06268b336b817db4948c4fe42c189d301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/1b0eae31225738d8addb041d88dc522f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/d4433a4d2b5af0561b6ff033e1923e6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/7bcf6053fa1b30abf9f68111278853a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/fe5dd5b88b78f38f40a69117f366c5bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/94b3fd70fdda222225e03dee35c5beed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/35a2b5dc7d6668c0adef615cc5a0566e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/a16b2418307688fc8c2b40adfd9e1be51.jpg"
+	]
+}

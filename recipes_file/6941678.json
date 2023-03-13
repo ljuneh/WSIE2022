@@ -1,0 +1,62 @@
+{
+	"id": "6941678",
+	"name": "부추겉절이 5분만에 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/7ee8d4ca6b04ee5e123a81bd282e30da1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941678",
+	"ingredient_ids": [
+		30,
+		3,
+		379,
+		660,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "2",
+			"ingre_unit": "주먹정도"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2/1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2/1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 깨끗하게 씻어주고 한입크기로 잘라준 부추를 통에 넣고 아삭함을 더해주기 위해 양파 2/1를 채썰어 넣어주세요.",
+		"2. 간장 2T",
+		"3. 참기름1T",
+		"4. 고추가루2/1T",
+		"5. 통깨1T넣어주고 조물조물 버무려주면",
+		"6. 아삭하고 너무 맛있는 부추겉절이 완성! 너무쉽죠?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/0dce5d8f255e7d2a9eab7382d4cd37c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/afa1c219715bca4760ad70ace3fb8c5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/08932d8632df75161b56782590d512d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/ff4e4c9a21bb2ede3303e7e268aabbc01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/94f953581c48b3b56d5464cecc206cb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/caab9defb22e33497a16e0822f3650891.jpg"
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"id": "6945432",
+	"name": "가을무생채 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/8f18b935f8f22107958972242dc7c5c61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945432",
+	"ingredient_ids": [
+		19,
+		757,
+		233,
+		3,
+		497,
+		287,
+		938,
+		575,
+		231,
+		455
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "10",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 무, 쪽파, 양파를 준비 합니다.",
+		"2. 무는 솜씨를 발휘해서 가늘게 채썰어 줍니다.",
+		"3. 채썰은 무는 천일염 반수저 정도 뿌려 10~15분정도 저려 줍니다. 그냥 무생채를 해도 좋은데... 물이 너무 많이 생겨서 소금에 살짝 쪄려 줍니다.",
+		"4. 절여놓은 무생채는 물기만 살짝 따라버리고 고추가루를 넣고 버무려 줍니다. 고추물을 입혀 주는거죠.",
+		"5. 고추물을 골고루 입혀 놓고",
+		"6. 다진마늘, 쪽파, 양파, 분량의 액젓, 매실청, 올리고당, 식초를 넣고 버무려 줍니다.",
+		"7. 부족한 간은 소금으로 해주시면 됩니다. 마지막에 깨소금 듬뿍 뿌려 마무리 해주시면  맛있는 가을무생채 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/0490533c6555ff25a8788f5bda554bd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/0545c3cebd420d4ebe77b23f940fca981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/a264152805cd811b849bf56e780c23ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/19816c3cf84027092a293890763dfe481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/71d364ad4100e68c0b5ce205bf1d3df31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/19fcc3e6b88949ad8b7c4bd182ab23ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/5573a0f982c8d832fe4e557f9cd60ece1.jpg"
+	]
+}

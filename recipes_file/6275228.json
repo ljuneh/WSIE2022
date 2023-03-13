@@ -1,0 +1,55 @@
+{
+	"id": "6275228",
+	"name": "느타리버섯볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/66f46184e7501065546604f42e9a06ec1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6275228",
+	"ingredient_ids": [
+		586,
+		327,
+		379,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "애느타리버섯",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "당근채",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파채",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 당근이랑 양파는 채 썰어 놓고 애느타리버섯은 가닥가닥 먹기 좋은 크기로 뜯어서 준비해요.",
+		"2. 팬에 오일 두르고 양파와 당근부터 먼저 볶구요.  양파와 당근이 말캉하게 익으면 버섯을 넣구요.  버섯이 숨이 죽을때쯤 간장과 들기름 넣고 휘리릭 볶아내면 완성이에요.",
+		"3. 버섯 식감도 좋고 향도 좋고~~ 양파와 당근이랑 어우러지는 맛도 너무 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/1b64d702f456679a907909b26007a3121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/fc703a22b132aee80d0d308b3dc98b151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/f3b6861d633c2e3a461b12372d54f9b31.jpg"
+	]
+}

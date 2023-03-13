@@ -1,0 +1,66 @@
+{
+	"id": "6940874",
+	"name": "햄치즈김밥만들기 초간단김밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/9d484f59be3b6ac13b1238db8cc094fb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940874",
+	"ingredient_ids": [
+		628,
+		497,
+		660,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "5",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "체더치즈",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밥1+1/2공기",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 소시지는 뜨거운 물에 데쳐 자연스럽게 식혀주고",
+		"2. 넓은 볼에 밥 1공기 하고 반 공기 더 넣어 소금, 참기름, 통깨를 넣어 간을 해 주고 ",
+		"3. 양념된 밥, 데친 소시지, 체더치즈, 김밥용 김 김밥 재료 너무 간단하죠.",
+		"4. 김 위에 양념한 밥으로 고루 펴 올려주고 체더치즈 2장 그리고 소시지를 올려 돌돌 말아줍니다. ",
+		"5. 같은 방법으로 3줄 말아서 먹기 좋게 썰어 주면 끝! ",
+		"6. 초간단 김밥 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/3bd78c25a14fe6f882c64576c6392aad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/c158ae0b12f5f73476600cf081691d811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/4bffca97455adc8ce6885225635ca84e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/4c5ffab85d2ad2bc9d0c61f0019678ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/812fefc434698187b945f87889aa3b181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/726386b22973741b7c05907e14a0dd1f1.jpg"
+	]
+}

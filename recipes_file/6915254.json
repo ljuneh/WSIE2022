@@ -1,0 +1,62 @@
+{
+	"id": "6915254",
+	"name": "무 대신 단무지로~ 단무지채무침, 단무지무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/07/04/39ceca547ac3a3f3bbe343f4ad92a47c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6915254",
+	"ingredient_ids": [
+		231,
+		938,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "채썬단무지",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "고운고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "가는대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. 반달단무지 1줄을 곱게 채썰어 2줌을 준비해 줍니다.",
+		"2. 그리고 흐르는 물에 가볍게 씻어 탈수기에 돌려 물기를 최대한 빼 줍니다.",
+		"3. 채썬 단무지 2줌을 그릇에 담고 고운 고추가루 1큰술을 넣고 먼저 고루 버무려 줍니다.",
+		"4. 그리고 식초 1큰술, 매실청 1/2큰술, 참기름 1큰술, 통깨 1큰술, 가는 대파 1대를 쏭쏭 썰어 넣고 고루 버무려 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/04/27603214beb3f3f188e3ad263405b1121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/04/90c97fee93f640992bf9fd9fa84dd7b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/04/3b5867e3b480de9ef976cb08a9a114d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/04/0f8f699fe0565f7a73940d191567e7051.jpg"
+	]
+}

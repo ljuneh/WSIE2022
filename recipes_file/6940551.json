@@ -1,0 +1,48 @@
+{
+	"id": "6940551",
+	"name": "포도잼 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/344cfe5a14860810c9f0d4e87b6bc0d01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940551",
+	"ingredient_ids": [
+		174,
+		231
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "포도",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "베이킹",
+			"ingre_count": "",
+			"ingre_unit": "파우더"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 포도알만 모아서 물로 2번 행구고 ,베이킹 파우더와 식초로 깨끗하게 씻어줍니다.",
+		"2. 포도알과 껍질을 나눠 주세요.",
+		"3. 포도알이 물처럼 될 때 까지 끓여주세요.",
+		"4. 끓인 포도알을 체반에 바쳐 씨를 거르세요.",
+		"5. 껍질을 믹서기에 곱게 갈아줍니다.",
+		"6. 씨를 거른 알맹이와 믹서에 간 껍질을 섞어주고 저어주며 끓여줍니다.",
+		"7. 이 정도 농도가 되면 예쁜 병에 옮겨주세요",
+		"8. 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/f8ff0290c5a7af1db4016c7cd4fa831e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/b5b68ae65cbc2abb3847e774b9390a811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/efdcbc7bf3d3a581bf89daa9de4346961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/dd450a2dfb8e26ab2809d41833f834e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/1a26e1512d17574740ce558bb991c0f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/ad2ce6f96a2184fb181fd17c9426ae381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/6923a1a3eb6d8e1e89bbe99a36f88f0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/4e3bd970e5b3a8e728615edcfd3056fd1.jpg"
+	]
+}

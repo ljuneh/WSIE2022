@@ -1,0 +1,83 @@
+{
+	"id": "6894890",
+	"name": "담백한 두부스테이크 만들기!고기없이도 맛있는 다이어트 요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/28/93692ef1c4086671d14840c630d69ac81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6894890",
+	"ingredient_ids": [
+		323,
+		55,
+		3,
+		9,
+		27,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "돈까스소스or케찹",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 먼저 두부를 면보에 싸서 물기를 꽉 짜줍니다.물기를 최대한 잘 제거해야 나중에 부서지지 않아요",
+		"2. 야채들을 잘게 다져 줍니다.버섯은 다른 버섯 사용 가능하고 다른 야채 추가하셔도 되요",
+		"3. 두부에 야채들을 섞어주신 뒤 계란1개와부침가루4T,소금1/3T,후추톡톡 뿌려 잘 섞어 줍니다.전분가루에 간이 되 있어서 소금을 많이 넣지 마세요",
+		"4. 반죽을 양손으로 치대면서 동그랗게 모양을 만들어 준 뒤 겉면에 전분가루를 묻혀 줍니다.겉면에 전분가루를 묻혀 주시면 부서짐을 막아줄수 있어요",
+		"5. 달궈진 후라이팬에 기름을 두르고 약불에서 익혀 줍니다자주 뒤집지는 마시고 1-2번만 뒤집어 주세요",
+		"6. 접시에 담아내고 소스를 뿌려주시면 담백한 두부스테이크 완성입니다!한입 먹어보니 고기가 전혀 들어가지 않아도 담백하면서 참 맛있습니다!브로콜리나 토마토 같은 야채를 구워 함께 데코해주시면 훨씬 비쥬얼이 예뻐요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/28/b7a59268e560e5a8a450d501a2be09f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/28/80ed6605681c70237eadb81c2e1ba2ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/28/0a023ec29df1b748ca5e515bc9ac29611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/28/5dc8b479e5d1c60bf436fe2f61a40d181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/28/c8a8a54c7166b2cfb4b2e84a299e56461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/28/3c4b5928107509ae5d0a0290c4866edf1.jpg"
+	]
+}

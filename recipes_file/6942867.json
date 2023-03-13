@@ -1,0 +1,80 @@
+{
+	"id": "6942867",
+	"name": "크림연어롤로 연어 제대로 즐기기!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c11102ab83da15bbb69e12007e8a24bb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942867",
+	"ingredient_ids": [
+		61,
+		8,
+		295,
+		95,
+		208,
+		719,
+		227,
+		250
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "연어",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "케이퍼",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 연어를 슬라이스한다.빵칼로 썰면 잘 썰려요! ",
+		"2. 청양고추는 송송 썰고 오이는 국수 모양으로 길게 썬다.",
+		"3. 물 1종이컵, 소금 1/2숟가락을 넣고 오이채를 절인 후 물기를 제거한다.오이는 10~15분간 절여 주세요 ",
+		"4. 볼에 크림치즈재료를 넣고 고루 섞는다.",
+		"5. 랩을 깔고 연어 >김 1/2장>오이채,크림치즈를 넣고 말아 먹기 좋은 크기로 썬다.",
+		"6. 송송 썬 청양고추를 얹어 완성한다.베이비채소, 바질페스토를 같이 곁들여도 좋아요 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/3c431766556ec86563a9b0db8f2bf1621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/d6754bf614a0793efb21d63678479aa01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/9fe0f437bf02e58e8c2b2bb866bda9911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/4835175e04894a1255ca4ff6c35556b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/7aca3df49bc076791ca93a6ae3cc0f8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/a616793fbb1a2e9176cfab5846ba702b1.jpg"
+	]
+}

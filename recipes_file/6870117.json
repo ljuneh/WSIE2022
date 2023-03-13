@@ -1,0 +1,76 @@
+{
+	"id": "6870117",
+	"name": "집밥백선생 단호박 스프",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/6c5f73202dffba7e46c80c1b89eaf07d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6870117",
+	"ingredient_ids": [
+		234,
+		198,
+		212,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "단호박1개(900g기준)",
+			"ingre_count": "1개(900g 기준)",
+			"ingre_unit": "개(g 기준)"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 단호박은 깨끗이 씻어서 뚜껑을 만들 부분이 아래로 가도록 접시에 놓아줍니다.",
+		"2. 전자레인지에서 6분간 돌려줍니다. 뚜껑을 자르려면 딱딱해서 자르기 어렵기 때문에 미리 익혀주는 것이랍니다. 나중에 요리하기도 편하구요.전자레인지",
+		"3. 전자레인지에서 단호박이 익을 무렵 먼저 스프를 만들어 주는데요. 우유 1컵 반에 밀가루 1큰술을 팬에서 잘 풀어줍니다. 이 때는 불을 켜지 않은 상태입니다.",
+		"4. 밀가루를 잘 풀기 위해서는 거품기가 더욱 좋답니다. 거품기가 없으면 그냥 주걱으로 풀어주세요.",
+		"5. 밀가루가 잘 풀어졌으면 불을 켜고 버터 1조각을 넣어 풀어 준다음 소금을 약간 넣어줍니다. 나중에 모짜렐라 치즈가 들어가기 때문에 많이 넣을 필요는 없답니다. 치즈도 짭잘하기 때문이지요. 약간 묽다 싶을 정도의 농도로, 살짝 끓인 상태면 됩니다.",
+		"6. 단호박은 뜨거우므로 전자레인지에서 꺼낼 때 장갑을 끼고 꺼내시구요. 장갑을 낀 채로 단호박을 잡고 뚜껑 부분을 칼로 잘라줍니다.",
+		"7. 스푼으로 씨와 실같은 부분을 파줍니다.",
+		"8. 끓여놓은 스프를 넣어줍니다. 7부만 넣어주세요. 너무 많이 넣어주면 끓어 넘칩니다. 사진보다 약간 덜 넣어주는 것이 좋습니다.",
+		"9. 모짜렐라 치즈도 넣어주시구요. ",
+		"10. 단호박 뚜껑을 덮고 오목한 접시에 단호박을 넣은 후 전자레인지에서 7분간 돌려줍니다.",
+		"11. 단호박 스프가 완성되었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/288d3ff7acff7f50508f3840ac5c70da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/2985d31cc0fba0eff82fef5dd937ebee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/7c98a82b4c3abaeb8a2bb6fd15baaf1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/6022242cf3ee02ce56731cfb4a7a328f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/119bf8e095fa21dda63e15478c875c791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/3498e585874b42c40d3598e163f5ac671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/7a3089ce9d6595ab60bd0a559e716ca81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/2f9f6e277223ee114b6b5b2a0be8c8e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/5a6ca17edd75a84907f482eee909c9ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/2bc3e6fc6712b3efce5cc6b59bfa39911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/fe0b6523cee99b993183946ac7a9bad51.jpg"
+	]
+}

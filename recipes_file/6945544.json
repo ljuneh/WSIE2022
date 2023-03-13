@@ -1,0 +1,59 @@
+{
+	"id": "6945544",
+	"name": "청경채표고버섯볶음 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/af566e5529b84860207012c96ebc16a51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945544",
+	"ingredient_ids": [
+		13,
+		53,
+		477
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "냉동야채",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 표고버섯과 청경채를 준비해주세요",
+		"2. 표고버섯은 밑동을 제거한 뒤 먹기좋은 크기로 잘라주세요",
+		"3. 기름을 두른 팬에 냉동야채를 넣고 볶아주세요.",
+		"4. 냉동야채가 투명해질때쯤 표고버섯을 넣고 볶아주세요.",
+		"5. 마늘가루를 반스푼 넣고 볶아주세요.마늘가루가 없다면 다진마늘을 넣어주세용!",
+		"6. 굴소스 1스푼을 넣고 살짝 볶아주세요.",
+		"7. 청경채를 넣고 청경채 숨이 살짝 죽을때까지 볶아주면 끝!!",
+		"8. 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/d686ca5cb710f653bddb0961d55f1f371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/4f5e6cc61382068ced357cb704368d1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/500fd9205346ccc1a9eb17e5749afded1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/e84b56bc6808884b6cfc5237edb816e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/548f3392bb9bbb300cbae412354972b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/2f237e36786040e78874946c76317f931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/4b9abd82e739bfa227d6b8d8cdcdf57f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/08c62e2dfd2b39b341c8efabca7122531.jpg"
+	]
+}

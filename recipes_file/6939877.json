@@ -1,0 +1,29 @@
+{
+	"id": "6939877",
+	"name": "군밤만들기 밤따서 군밤 만들어 먹기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/89bd16f4340718101e00661a1aa090c31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939877",
+	"ingredient_ids": [
+		187
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "밤",
+			"ingre_count": "3",
+			"ingre_unit": "종이컵"
+		}
+	],
+	"recipe": [
+		"1. 밤을 잘씻어서 중간중간에 칼집을 내주세요.",
+		"2. 이제 불을 조금 부워주세요. 소주잔2잔 정도요.250도 15분 위아래 구워줍니다.",
+		"3. 7분정도에 오븐을 열어서 뒤집어 주세요. 섞어주시면 됩니다.오븐",
+		"4. 이렇게 완성이 되어서  속은 익고 밖은 구워졌네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/ce453dcb1452d59e5d47b965eedd21341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/d639d0a4ca6a8b37e4ebb3c3b3200eb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/380b670906055f2037a986aa2d39c3431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/f8c36046575bb58fdabaf11ea86d00261.jpg"
+	]
+}

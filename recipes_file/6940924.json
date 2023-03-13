@@ -1,0 +1,68 @@
+{
+	"id": "6940924",
+	"name": "참외양배추김치:냉동실 속ABCT김치양념으로 초간단김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/57593b255e7e14ab43dc3eb030b283231.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940924",
+	"ingredient_ids": [
+		21,
+		169,
+		8,
+		282,
+		224,
+		30
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1.",
+			"ingre_unit": "..킬로"
+		},
+		{
+			"ingre_name": "참외",
+			"ingre_count": "1",
+			"ingre_unit": "개반"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1~2큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "ABCT김치양념",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 양배추는 썰어서 물에 10여분 담갔다가 여러번 깨끗이 헹군다 양배추는 특히 깨끗이 씻어야 해요",
+		"2. 양배추와 함게 참외, 오이도 썰어서 소금(물)에 절인다. 절일 때 온수에 굵은소금 풀어 넣었고 사이사이 굵은소금 뿌려주고 2시간 정도 절였어요",
+		"3. 냉동실의 김치양념은 냉장고로 옮겨 해동시킨다. ☞ABCT김치양념 삶은감자1개/사과 1개/비트즙 한봉/당근1개/토마토1개/양파 1개/마늘 1컵/매실액 1/2컵새우젓 1큰술/액젓 1/4컵/고춧가루 2/3컵",
+		"4. 다 절여지면 절인 믈만 따라내고 고춧가루로 1차 버무리고 김치양념으로 버무린다.",
+		"5. 부추를 썰어넣어 버무린다",
+		"6. 김치통에 담고 반나절 지난 후 냉장고에 넣는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/1499e2eba71929b3cbe65dcb6dd19bb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/5371cb3616acdef46efbd08fe1190c911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/7f1ed47d2356df06edbf6960c2fdd3271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/bfd5b9ef7cc2c08497515ef529128c6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/5e4edde10f01dd2d78b638597eacc0f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/ab785d396d22ff41d8cc8e2a4a81af031.jpg"
+	]
+}

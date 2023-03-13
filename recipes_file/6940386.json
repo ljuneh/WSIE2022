@@ -1,0 +1,86 @@
+{
+	"id": "6940386",
+	"name": " 떡갈비볶음 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/bd2ad0aa29cdbfe7b281f7928b00528f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940386",
+	"ingredient_ids": [
+		22,
+		3,
+		995,
+		473,
+		233,
+		341
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "노란파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "떡갈비4장이상",
+			"ingre_count": "4",
+			"ingre_unit": "장 이상"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 양념장 재료는 모두 한군데 모아서 섞어주시되 고추장보다 케첩이 많아야 터벅하지 않고 우리가 아는 맛있는 양념장 맛이 나요.",
+		"2. 노란 파프리카와 피망은 한입 크기로 깍둑썰어주세요",
+		"3. 양파도 마찬가지로 한입크기로 깍둑썰어줍니다.",
+		"4. 떡갈비는 미리 해동시켜두시고 4등분 정도로 썰어주세요.",
+		"5. 기름을 한큰술정도만 넣고 강불에서 떡갈비를 앞뒤가 노릇해질 때까지 구워주세요강불",
+		"6. 그리고 떡갈비가 앞뒤로 노릇해지면 준비한 야채를 넣고 같이 볶아줍니다.강불",
+		"7. 양파가 약간 노르스름 해지려고 할때 소스를 넣어줍니다.강불",
+		"8. 그리고 물을 1~2큰술 정도 넣어주세요. 물이 안들어가면 탈 수 있으니 꼭 넣어주세요강불",
+		"9. 그리고 소스가 골고루 배일 수 있도록 볶아주면 끝강불",
+		"10. 접시에 담아서 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/0558604227527761d2da7ebfe2c1d5331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/865bf37949d4f71322e74d0de7bcd50b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/c6969b66b7f9041a0b443bacd9c939401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/4baf0478115f0a23fbba45b30022e04e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/a3fb51a544d2f504af9be4413773c1b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/fee148d0a5d5e84c4970f6fba80edc931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/3b0a68042f854794c525d44d2fa145581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/4f6cb65b960bfee9cbb91872f216435a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/aa3e97a1102e1e38a99a7fec21da8ef21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/3a74ce25fa6fdcebcb6d1eb0684bff641.jpg"
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"id": "6942494",
+	"name": "블루베리케이크: NO베이킹파우더 과일케이크(코로나극복)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/7bd54a16a400861c7871bde8c8c20c4a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942494",
+	"ingredient_ids": [
+		145,
+		874,
+		226,
+		198,
+		250
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "블루베리",
+			"ingre_count": "100",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "우리밀가루",
+			"ingre_count": "50",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "통밀가루",
+			"ingre_count": "50",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "50",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "170",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "70",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 말가루와 설탕 체쳐섞고 버터는 녹여넣는다.",
+		"2. 버터는 미리 전자렌지나 중탕을 하여 녹인 후 식혀두세요.전자레인지",
+		"3. 우유와 레몬즙도 넣는다. 우유는 그램 아니고 밀리리터 1컵 조금 못되게 넣어주세요",
+		"4. 거품기로 날가루 보이지 않도록 가볍게 섞는다",
+		"5. 18센티팬에 오일을 바른다.",
+		"6. 반죽을 넣고 탕탕 팬을 내리친 후 블루베리를 넣는다. 냉동블루베리인 경우는 해동하고 물기를 제거한 후에 넣어주세요.",
+		"7. 예열한 170도 오븐에서 45분정도 굽는다.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/b23af62dd20cdc40d5f9ccf4440b38fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/0b0f2b570d202153dcf5fd5e123fb6751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d0027228eca7eff8f38410fa539153791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/31dc201ad040ed7d12017edd5c63266d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/94766c88bbe9492d05e60e72488fb9a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/57d6e2fa63dc1ffb1b55ab99836575271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d027786e8f19004f82ad68bf62382def1.jpg"
+	]
+}

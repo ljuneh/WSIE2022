@@ -1,0 +1,62 @@
+{
+	"id": "6944158",
+	"name": "프랑스 전통 디저트 크림브륄레",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/eafc3897e127235443aba3cf8847f3251.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944158",
+	"ingredient_ids": [
+		485,
+		226,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "500",
+			"ingre_unit": "ML"
+		},
+		{
+			"ingre_name": "계란노른자",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 계란 노른자에 설탕을 모두 넣고 골고루 섞어줍니다",
+		"2. 생크림 혹은 휘핑크림을 냄비에 모두 부어주세요",
+		"3. 생크림에 소금 2꼬집도 넣어줍니다",
+		"4. 중불에서 천천히 끓여주시고 나무 주걱으로 바닥이 눌지 않도록 저어주세요",
+		"5. 생크림에 거품이 올라오려는 순간까지 끓여주신 다음 불을 꺼주시면 됩니다",
+		"6. 끓인 생크림을 계란+설탕에 부어주는데 소량씩 부어가며 휘퍼로 골고루 섞어주세요생크림이 뜨겁기 때문에 한번에 넣어버리는 경우 계란이 완전히 익어버리거나 덩어리져 버릴수 있기에 소량씩 넣어주는 것입니다",
+		"7. 생크림과 계란을 완벽히 섞어주신 다음 거름망에 한번 걸러주세요",
+		"8. 오븐에 사용할수 있는 사기 그릇에 재료를 옮겨 담고 쿠킹 호일로 감싸주세요",
+		"9. 그릇 아래에 있는 오븐 팬에는 물을 가득 채워주세요. 그 뒤 그릇을 올려주시고 예열된 오븐에서 170도 30분간 구워내주시면 됩니다오븐각 가정마다 오븐의 세기가 다르기에 구워내는 시간이 조금씩 차이가 있을 수 있는 점 참고해주시길 바랍니다.",
+		"10. 구워낸 재료를 냉장고에서 속 안까지 완벽히 식혀주세요.",
+		"11. 완벽히 식은 재료 윗면에 설탕을 골고루 뿌려줍니다.설탕 양은 자유입니다. 하지만 설탕을 재료 윗면에 골고루 뿌려주시는 것을 권장합니다.",
+		"12. 토치로 설탕을 그을려서 맛있게 드시면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/19493e67cc507adcd0e640960fe08eaa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/8d231e499fb69bbf4b5ede2f868101691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/cf675999b64ac91f33e1a69fb03ef2aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/e3f83eb8ac3328df2360713665aaa4fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/e70cb74583ef94904cbebba560b60f831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/786839f520b6f6d500cae4be25d929d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/619ded6f374afcbf56ccb73847b23a601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/63830c0d931a539d631dee9413717fc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/32cc10fe18124b305b0d7c4d559534ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/2a751ecb39a4e2d3262b68a3713e20fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/48eaf6dc3466bea7204a1ae8c096df951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/ea247d8e9ccdb462d4b7bd88ee7e15131.jpg"
+	]
+}

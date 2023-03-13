@@ -1,0 +1,107 @@
+{
+	"id": "6867104",
+	"name": "조기 찌개 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/1ef78ee1d63a85786583ee02ea8909751.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867104",
+	"ingredient_ids": [
+		76,
+		3,
+		29,
+		226,
+		843,
+		473,
+		333,
+		579,
+		876,
+		5,
+		19
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "조기",
+			"ingre_count": "7",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "",
+			"ingre_unit": "잠길정도"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 조기 작은걸로 7마리 준비합니다.",
+		"2. 갖은 양념을 분량대로 섞어 놓습니다.",
+		"3. 조기를 깨끗이 헹구어 씻어 놓습니다.",
+		"4. 감자와 무를 냄비 바닥에 나박썰어 깔아줍니다.",
+		"5. 양념장을 쌀뜨물과 부어 줍니다.",
+		"6. 조기를 올리고 그 위에 양파, 파, 마늘을 얹어줍니다.",
+		"7. 한소끔 끓이다가 약불로 10분정도 끓여줍니다.",
+		"8. 그릇에 담아 냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/a16ddba443e5ace15ee4823263bfea2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/fbe2205941768b951476166624a046991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/4916cdfeb63bee3cc83e7d4f2174eb2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/f879e837e15f0d7244f6f0e8faabb57d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/f74b76b6545504afee36456844f4e3961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/fbf33b5abe62fac114e44822b77f63e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/ca1566818773a319993a33914f02839d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/f18e7572ed526572e6b329229dcafc311.jpg"
+	]
+}

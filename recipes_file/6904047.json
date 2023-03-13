@@ -1,0 +1,36 @@
+{
+	"id": "6904047",
+	"name": "에어프라이어 군고구마 만드는 법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/10/f53a755de12b95550e439fffa3aa3c7e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6904047",
+	"ingredient_ids": [
+		4
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "에어프라이어",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. 고구마는 물에 씻어 흙을 제거하고 에어프라이어에 담아주세요.에어프라이어",
+		"2. 온도는 190도에 설정하고 10분간 구워 줍니다",
+		"3. 10분 구운 후 고구마를 집게로 아래쪽을 위쪽으로 뒤집어주세요. 그러고 나서 10분 더 구워 줍니다,",
+		"4. 고구마 익기 정도를 확인한 후 10분 더 구워 주었습니다. 고구마의 크기에 따라 시간을 조절해 주심 좋을 것 같아요.",
+		"5. 군고구마 완성 ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/10/ad23296f981c45f1bf82d51405f9e56c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/10/b2e3ae6f6f3336e345fa679055466af41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/10/84de1cf5e8e8c3929b08640a7ada41f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/10/89165c5cbe85f6c3754d486280f61c861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/10/fd28187aa91321cdc0d25cb1c3536bfa1.jpg"
+	]
+}

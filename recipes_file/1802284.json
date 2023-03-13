@@ -1,0 +1,42 @@
+{
+	"id": "1802284",
+	"name": "바나나 우유",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/4e4d4425d26cb3f563efd19f7fd4546f.jpg",
+	"url": "https://www.10000recipe.com/recipe/1802284",
+	"ingredient_ids": [
+		141
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 바나나는 반으로 잘라 주세요.",
+		"2. 가장자리도 깔끔하게 잘라 주시구요. 그런 다음에 두토막으로 난 바나나 중 한토막의 옆구리를 꾹 찔러서 잘라 주세요.",
+		"3. 옆구리를 짜른 바나나에서 칼을 빼주시고 세로로 잘라 주세요.",
+		"4. 이때 주의 하실 점은 옆구리 찌른 만큼 세로로 잘라 주셔야하고  바나나의 반만 잘라주시면 된답니다.",
+		"5. 바나나를 뒤집어서 다시 같은 방법으로 바나나의 반쯤만 칼즙 넣어진 부분까지만 잘라 주세요.",
+		"6. 바나나의 양쪽을 모두 자르면 이런 모양이 된답니다.",
+		"7. 바나나의 껍질을 벗기면 노랗게 갈변하니까 껍질은 벗기지 마시고 그냥 그대로 접시에 담아 내시면 된답니다.",
+		"8. 이젠 바나나 우유를 만들 거랍니다. 바나나는 껍질을 벗기고 손으로 뚝뚝 잘라 넣어 주시고 우유는 바나나가 잠길 만큼 취향에 따라서 가감하시면 된답니다. 그리고는 갈아 주세요. 핸드믹서기나 블랜더가 없으시면 포크로 으깬 후 우유를 넣으셔도 괜찮아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/0cd245ffd0fcf6636ee76e6a6a38d98f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/6279c1f41fab614d5c4d6a8d50ee10e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/3c0feb3d12ff8dc37549474e34877f591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/51f169b190f43d814648341eb0840f0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/eb55544d8a96014da093f527c729ef881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/8a6fb830cf9bffe162a46872cba393b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/f8bf236fa0ad73ac403d356b1bb692621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/5df268b489792c404d5ca0fca5e71ba81.jpg"
+	]
+}

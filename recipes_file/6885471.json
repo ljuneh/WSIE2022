@@ -1,0 +1,52 @@
+{
+	"id": "6885471",
+	"name": "쥐포채볶음~~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/13/c358bf2e7dd0b44792bdcf00d25350471.jpg",
+	"url": "https://www.10000recipe.com/recipe/6885471",
+	"ingredient_ids": [
+		379,
+		341,
+		432
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "쥐포채",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "2~3큰술",
+			"ingre_unit": "~큰술"
+		}
+	],
+	"recipe": [
+		"1. 쥐포채는 먹기좋게 잘라주어야 아이들이 먹기 편해서 먼저 잘라준후 만들어 준답니다",
+		"2. 팬에 포도씨유를 두른후 미리 살짝 잘라 준비한 쥐포채 100g을 넣어주어요~",
+		"3. 간장 1큰술을 넣어 쥐포채가 잘 섞이도록 볶아줍니다                   ",
+		"4. 중불에서 약불로 불조절하시면서 볶아주면 되고요 ",
+		"5. 쥐포채는 너무 많이 볶아주다보면요 오그라들어서 모양도 예쁘지 않을뿐더러 딱딱해질 수 있으니 살짝 볶아주시다가 물엿 1큰술을 넣어 살짝만 더 볶아주시면 되어요~",
+		"6. 설탕을 넣어도 되는데요~~설탕을 넣음 쥐포채가 딱딱해지더라구요 그래서 언제부터인가 설탕대신 물엿을 넣어주곤 한답니다.",
+		"7. 그런 다음 통깨를 솔솔 뿌려주면 간단하면서도 맛있는 쥐포채 볶음이 완성된답니다 정말 간단하면서도 쉽게 만들수 있는 밑반찬,,, 아이도 어른들도 가끔 만들어 주면 맛있게 먹는거 같아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/23/3c311569fdf3805009706c11782bd85c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/23/ab949245e5f5dba398b340afacbbbe301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/23/d9bc4e207660c2f2d3944df1f4b558631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/23/864e0af0f39602af7c9cb6c35ec94ed91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/23/cfe261bd71f0cff4708166cd004514a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/23/68d47398369e6a6ebfd906ed6837fbbc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/23/98c76367c7f8837bbc9b930e770e754d1.jpg"
+	]
+}

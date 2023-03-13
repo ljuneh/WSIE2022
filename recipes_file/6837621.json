@@ -1,0 +1,65 @@
+{
+	"id": "6837621",
+	"name": "추석명절 제사음식 소고기산적만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/29/998c929a6423a1cf0b9239be47f591211.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837621",
+	"ingredient_ids": [
+		379,
+		995,
+		575,
+		227,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "등심",
+			"ingre_count": "1",
+			"ingre_unit": "Kg"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "10",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "10",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "5",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": "or설탕"
+		},
+		{
+			"ingre_name": "양파간거",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 고기는 물에 담궈 핏물을 제거하고 칼집을 내주시면 간이 쏙쏙 베서 맛있어요.",
+		"2. 강판에 간 양파를 넣고, 간장, 올리고당, 물을 넣고 섞어주세요. 설탕이나 꿀로 나머지 단맛을 맞춰주세요.",
+		"3. 물에 담가 핏물을 뺀 고기는 칼집을 넣어주세요. 고기를 부드럽게 만들어주고 익었을때 고기가 말리는것도 잡아줘요.",
+		"4. 간장과 고기를 켜켜이 담아 하루정도 재워둔다.",
+		"5. 등심이라 그런지 찢어지네요. 잘 펴서 고대로 구우심 상관없어요. 노릇하게 구우놓으면 비쥬얼은 좋은데 고기가 너무 질겨져요. 이정도만 구워서 접시에 올려주세요. 그리고 남은 국물은 제사가 끝나고 상차릴때 산적을 먹기좋게 잘라 이 국물에 한번 데워서 나감 되구요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/be12193e2153e9cd7f83d5289af1c25e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/8f30a33fc166db52f6a75ceec35928c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/0256ebf002c1ac2f67e95f007706bc161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/b3e4f00cc3d44aa2d74e908ea5950b291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/088a62a0f0382c86ff862adf1681afd71.jpg"
+	]
+}

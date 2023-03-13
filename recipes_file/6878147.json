@@ -1,0 +1,77 @@
+{
+	"id": "6878147",
+	"name": "애호박 달걀죽 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/2f72ada65495b37bcfc27adfa8af948c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6878147",
+	"ingredient_ids": [
+		219,
+		7,
+		27,
+		390,
+		995,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3~4컵",
+			"ingre_unit": "~컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "김가루또는통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 애호박, 대파를 다져 줍니다. 다른 채소가 있다면 함께 넣어도 괜찮겠죠.",
+		"2. 팬에 참기름 2를 두르고",
+		"3. 다져놓은 애호박, 대파를 넣고 달달 볶아주다",
+		"4. 새우젓 0.7을 넣어 함께 볶아주세요. 호박은 새우젓으로 간을 해야 맛있는",
+		"5. 곧이어 공깃밥 1을 넣어 볶아주다.",
+		"6. 물 3~4컵을 넣어주고",
+		"7. 밥 알이 퍼질 때까지 젓어가며 죽을 끓여주세요. 드셔보시고 부족한 간은 소금으로",
+		"8. 완성된 죽을 그릇에 담고, 그 위에 달걀 1개를 깨트려 올려주고 김가루, 통깨를 뿌려주고, 마지막에 참기름 1~2방울 더 첨가해 드심 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/d785740380144918bd63c165edd2a6311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/ee78654c54160a41a4b53c946106edd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/1edd091b3429826be898666fa8f88ea71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/bfbe6fbab08562d88efb5d2158f222fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/1b8f90c19579c75880eee6442ad508b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/6e971f9a08c884de52c452269c2763c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/e582f5a11d32a883394bfc82c5b7c7aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/4ee4ad2e58c3530a4d0eba47453ea6431.jpg"
+	]
+}

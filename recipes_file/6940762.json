@@ -1,0 +1,80 @@
+{
+	"id": "6940762",
+	"name": "만두속 재료를 이용한 납작군만두",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/07/25/e7bc21bc88cbe84199b860a3787c92621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940762",
+	"ingredient_ids": [
+		487,
+		495,
+		323,
+		30,
+		286,
+		379,
+		458
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "만두피",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "훗춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 다진돼지고기 다진소고기 부추 물기짠 두부로 간장 생강즙 훗춧가루 섞어서 만들어둔 만두소 입니다",
+		"2. 만두소와 시판용 만두피~",
+		"3. 만두피를 펴서 만두소 반수저 넣고 납작하게 반으로 접어",
+		"4. 만두피 가장자리에 물을 발라 반으로 접어 가장자리를 붙여 주세요",
+		"5. 납작하게 빗은 만두",
+		"6. 찜솥에 면보 깔고 만두를 넣고 7분 쪄주세요",
+		"7. 만두 피가 얇아 투명하게 속이 보이네요",
+		"8. 팬에 식용유 두루고 앞뒤로 노릇하게 구워줍니다",
+		"9. 간장에 찍어 먹거나 기호데로 셀러드와 담아 냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/20/73f1b272586b7eb8bf256de2622fb4071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/20/1400aa4e91974737a9fe1828a84cf6231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/20/789b013f09b70ecd1927cbf32bca2f9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/20/3a0f83bfd8166b913ae09e2a4d68b23f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/20/5509328b6859519e4c5e7f1df4dbfaa91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/20/fc6950a786fafa545a11e5d52c4eaef71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/20/ce5976d6b6b37aea6967db4737de7de91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/45c959a9f52114d2c5ed3b2f6e143bc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/25/5f06503d8af84973aa8d49502cc5a1c51.jpg"
+	]
+}

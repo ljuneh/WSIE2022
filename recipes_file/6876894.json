@@ -1,0 +1,118 @@
+{
+	"id": "6876894",
+	"name": "집밥 백선생의 그레이비소스활용 요리! 새우그라탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/22/4b5efd692723ef08cfc8d7d96aa3a51f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6876894",
+	"ingredient_ids": [
+		234,
+		5,
+		3,
+		995,
+		212,
+		203,
+		497,
+		497,
+		225,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "간소고기",
+			"ingre_count": "1",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "스틱형버터",
+			"ingre_count": "3/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "냉동새우",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "2",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 팬에 버터를 넣고 간 소고기를 넣어 볶는다.간 소고기 1cup, 스틱버터 3/4개팬",
+		"2. 소금 약간, 후춧가루 약간 넣어 간을 한다.",
+		"3. 소고기 수분이 완전히 날아갈 때까지 볶은 후 밀가루를 넣어 저어주며 끓인다.밀가루 3T",
+		"4. 믹서기에 양파, 감자를 잘라 넣고 물을 넣어 간다.양파 1/2개, 감자 1/2개, 물 1cup믹서기",
+		"5. 다 갈아지면 우유 2컵을 넣어 섞는다.우유 2cup",
+		"6. 5를 3에 부어 저어주면서 걸쭉해질 때까지 끓인다.",
+		"7. 소금 1/2T, 후춧가루를 뿌려 간을 하여 그레이비소스를 완성한다.후춧가루 약간",
+		"8. 팬에 냉동 새우, 그레이비소스를 넉넉하게 넣고 밥 1공기를 넣어 볶다 소금을 약간 넣어 간을 한다.냉동새우 1줌",
+		"9. 그릇에 담은 후 위에 모차렐라 치즈와 체다치즈를 올린 후 전자레인지에 돌려 완성한다.모짜렐라치즈 2cup, 체다치즈 2장전자레인지"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/22/ea794feefc805bd2207c02efa92403631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/22/a6ab5f53729dde680812521101d1f9f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/22/abf1f6f8e0572c88fc2a1e7ae0ee94431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/22/d4af7bbee77f0f99c1c31b8b2e75c6fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/22/7502796c97e8885294c50b70bfd561bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/22/c25c370b53443e901fdb73965bd062a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/22/25272db01e38c37a9c317092e74d12641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/22/ad0baa1a07cde4868d81610f106cc4121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/22/e91dfd6088df93eb5cf4ea577ab31f3a1.jpg"
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"id": "6897374",
+	"name": "꿀마늘 닭강정(아이들 단골메뉴 찜♡♡)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/07/da4e0452ac3bd20bb0528f4abc1211881.jpg",
+	"url": "https://www.10000recipe.com/recipe/6897374",
+	"ingredient_ids": [
+		6,
+		379,
+		226,
+		227,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭봉1팩(500그램)",
+			"ingre_count": "1팩(500그램)",
+			"ingre_unit": "팩(그램)"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "15",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 닭봉에 소금 1작은술 넣어 조물조물한 후에 20분정도 둬요",
+		"2. 끓는물에 데쳐요",
+		"3. 팬에 간장,설탕,마늘넣고 내용물 반정도 잠기게 물을 넣어요",
+		"4. 뚜껑닫고 국물 반정도 될때까지 중불정도에서 끓여요",
+		"5. 뚜껑연채로 꿀3숟가락.후추가루넣어요",
+		"6. 국물이 없어지고 갈색될때까지 졸여요",
+		"7. 파프리카넣어서 버물버물 마무리해요~ 저는 기본적으로 통깨 팍팍을 더 좋아해요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/07/b1365099f2e974904af6f61c199efb151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/07/80963f14492687e61c9301207815c2951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/07/fed3735b2476de426d43c6cdf917a75b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/07/18455f1f344fb2cc4da2ae58a71365741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/07/eff1ae0680ea5987f8ddafa49f5c5e821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/07/c6998b7efd1364a18f0f2f4317c63a391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/07/e539689a951b02a7185591e75b4c5db01.jpg"
+	]
+}

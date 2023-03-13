@@ -1,0 +1,101 @@
+{
+	"id": "6894933",
+	"name": "육우말이떡볶이 야들야들 쫀득쫀득♥ ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/29/75182a098fea157bda36866f31e7aa841.png",
+	"url": "https://www.10000recipe.com/recipe/6894933",
+	"ingredient_ids": [
+		972,
+		379,
+		226,
+		660,
+		379,
+		995,
+		226,
+		341,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "육우(샤브용)",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "14",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "채썬깻잎",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "다진잣",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 떡볶이 떡은 끓는 물에 약 30초간 데쳐 건진다.",
+		"2. 데친 떡은 떡 양념재료에 버무린다.",
+		"3. 샤브용 육우는 떡을 넣고 돌돌 말아준다.",
+		"4. 팬에 조림양념재료를 넣고 끓으면 육우말이 떡을 넣고 조린다.",
+		"5. 그릇에 채 썬 깻잎을 담고 육우말이떡볶이를 올린다.",
+		"6. 다진 잣을 뿌려 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/29/0625bac73d8f63592d973d6ec56ca2501.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/29/420fbc7be5f268364037b46547ea2e6d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/29/9f00b6e10aa6e660388b479a4338b9de1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/29/899a49b84df14b5112e00a28deb20d6a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/29/d47e9640ea1773d5d0ab6cacf61663d91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/29/c11df3e70deca719c5e5abb4e3de68d31.png"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"id": "6944737",
+	"name": "언양 불고기 볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/08bbd44abf159adb0b2d787fb05ca25f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944737",
+	"ingredient_ids": [
+		27,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "언양불고기",
+			"ingre_count": "1",
+			"ingre_unit": "인분량"
+		},
+		{
+			"ingre_name": "자반김",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 파 송송 썰고 마늘 편 썰기 합니다",
+		"2. 팬에 기름을 적당히 두르고 파,마늘을 볶아주세요",
+		"3. 불고기 넣고 달달 볶아줍니다",
+		"4. 밥 투하~  후추톡톡,참기름 반큰술 넣어",
+		"5. 슥슥~ 볶아 주세요",
+		"6. 김가루 취향껏 넣어 휘리릭~ 볶아 그릇에 담아 냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/b14e86c4f720c901477295c2e54ea6861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/7cc1a54a6cbd810d10374583fc63b2741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/db495d1da984061c4da22b671fefdec91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/393d5ad7f058c31df6f99a1d446099c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5b0928b9ed311c559968e9120d75df6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/6ea153dc29761c1f8f5736a27deb5d931.jpg"
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"id": "6841938",
+	"name": "부드럽고 쫀득한 아롱사태 장조림 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/21/60e3244639175d2d50b72e569ec742ea1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6841938",
+	"ingredient_ids": [
+		29,
+		28,
+		293,
+		24,
+		995,
+		379,
+		846,
+		343,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "미국산아롱사태",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "연근",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "곤약묵",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "7",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 아롱사태는 약 4cm 정도 길이로 잘라 적당하게 토막치고, 생강은 납작 썰고, 연근과 곤약묵은 먹기 좋은 크기로 깍뚝 썰어 준비해주세요.",
+		"2. 찬물에 아롱사태를 넣고 약불로 고기가 익을 때까지 삶아주세요. 물이 끓으면 생강을 넣어 주세요. 젓가락으로 찔러 부드럽게 들어갈 정도로 충분히 익으면 연근을 넣고 5분간 더 삶아주세요.",
+		"3. 여기에 간장 양념장과 마늘, 곤약을 넣고 국물이 반으로 줄어들 때까지 중불로 졸여주세요. 불끄기 5분 전에 꽈리고추를 넣고 졸여주세요.",
+		"4. 불을 끄고 결을 따라 고기를 적당한 크기로 찢어 국물에 잠기게 세팅하면 완성!!(by 정미경 요리연구가)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/21/75ec71ee7cddf547c28eb558f7a095281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/21/1f05ff1656f094088ffd03f9a1ffc9331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/21/50a6fbdac20336bfcd2fa219921b45b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/21/6f5a0944b306e1eb38d129e1e3e4e3381.jpg"
+	]
+}

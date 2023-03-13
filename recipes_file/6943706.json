@@ -1,0 +1,65 @@
+{
+	"id": "6943706",
+	"name": "카라멜 식빵 팝콘 만들기 달달한 간식 타임 즐길 준비되셨나요?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/4cb8e78302ab1383ac1a48a5159af7051.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943706",
+	"ingredient_ids": [
+		503,
+		226,
+		995,
+		198
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "시나몬가루",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 식빵은 2x2cm 간격으로 썰고",
+		"2. 기름을 두르지 않은 팬에 식빵을 넣어 노릇노릇하게 볶는다.",
+		"3. 그다음 카라멜 시럽을 만들 차례인데 팬에 설탕 4T, 물 4T를 넣고 약불에서 끓인다.이때 절대 섞으면 안 됩니다. 팬에 설탕과 물을 넣어 끓일 때 두 재료를 섞으면 딱딱하게 굳어서 사용할 수가 없기 때문에 그 순간 카라멜 시럽이 실패됩니다.",
+		"4. 수분이 날아가면서 설탕이 녹고 보글보글 기포가 올라올 때쯤 버터 1T를 넣고 끓인다.",
+		"5. 버터가 녹고 갈색이 되면 우유 5T를 넣고 섞으면서 끓이는데 진한 갈색이 되고 조금 끈적한 상태가 되면 카라멜 시럽 완성.",
+		"6. 완성된 카라멜 시럽에 노릇노릇하게 볶아 놓은 식빵을 넣고 골고루 섞는다.",
+		"7. 그다음 유산지에 서로 달라붙지 않도록 옮겨서 한 김 식힌 후",
+		"8. 시나몬 가루 2꼬집을 뿌리면 카라멜 식빵 팝콘 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/272d06a137e20b93a01a1a61bbcff8e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/b32786e354272360ca8635cfa8926c261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/7e0d6c3dbcb87032170b9135d793c7881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/1c865acb50b3e7a9c5aadc3da44f7f011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/d0e50803aa90994c0bb3a99156f285191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/eb62d749c846187085f58563be2a09381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/ad23beed07a6d3ced42597f39b824b011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/444d16a632fb175b6bb1d80b2b5066b51.jpg"
+	]
+}

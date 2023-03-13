@@ -1,0 +1,84 @@
+{
+	"id": "6334040",
+	"name": "멸치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/9cb17869eff9b1c6caf59ee53175bcd91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6334040",
+	"ingredient_ids": [
+		840,
+		432,
+		292,
+		226,
+		660,
+		341,
+		543,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "지리멸(자멸)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진쪽파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진쪽파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 멸치는 기름을 넣지 않은 상태에서 볶아주다가 기름을 넣어 볶습니다. 기름 없이 볶을 때 멸치가 볶아지면서 투명했던 색감이 불투명해지면 포도씨유를 2숟가락 정도 넉넉하게 넣어 볶습니다. 지리멸은 바삭하게 볶아줘야 더 맛있답니다.",
+		"2. 맛술 2숟가락(맛술 대신 포도주도 가능)에 물 1숟가락을 넣고 유기농 설탕 1큰술을 넣어, 설탕이 녹고 보글보글 끓을 때 볶아놓은 멸치를 넣어 재빠르게 섞어 주고 불을 끕니다.",
+		"3. 불을 끄고 나서 견과류, 통깨, 쪽파 송송 썰고 참기름 한 숟가락 넣어 버무려 주면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/9b683c6c3044f5d1f80087180b6c0e431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/b960562a87439d17c57993c5b3c613651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/3dd93d411b5dc837d22da8949572af781.jpg"
+	]
+}

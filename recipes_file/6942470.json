@@ -1,0 +1,57 @@
+{
+	"id": "6942470",
+	"name": "치즈 감자전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/6ef863deb39c5fe8ca22203dee07a0a81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942470",
+	"ingredient_ids": [
+		5,
+		216,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "45",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파마산가루",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밀가루(튀김가루부침가루)",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비하기 감자, 피자치즈, 파마산 가루, 밀가루, 소금  tip. 슬라이스 체다치즈를 썰어서 넣으면 더 맛있게 먹을 수 있다.",
+		"2. 감자는 씻어서 껍질 제거  → 얇게 편 썰기 (0.2cm) → 얇게 채썰기 (0.2cm) → 물에 담아 전분기 없애기 (흐르는 물에 한번 씻기)",
+		"3. 물기 제거 후, 볼에 감자 + 피자치즈 + 파마산 가루 넣어서 한번 섞기",
+		"4. 밀가루를 넣어 한 번 더 섞기  tip. 피자치즈가 녹으면 접착제 역할을 해주기 때문에 반죽에 최대한 물기가 없는 상태의 농도로 잡아주기 피자치즈가 없을 경우 물 약간 추가해서 점성 추가날가루가 보이거나 반죽이 뭉쳐지지 않으면 물 약간 넣기 (1 ~ 2 큰술)",
+		"5. 팬에 기름을 약간 넣고 예열하기",
+		"6. 감자 반죽을 적당량 덜어 얇게 펴주기중간불",
+		"7. 어느 정도 익으면 반대편으로 뒤집어 감자 반죽 익혀주기약불타지지 않게 불 조절하면서 익혀주기"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/556d0acd22ff0898ed1d89c7887f0fee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/0b918ee1bb9aab46a9ed06eaad6171321.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/b1cadd739fd744c76e01033c4978a8131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/bc4a37c613acfc76a70529fd8512ddb21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/711d9ca5d36d6ab3cf3c33b0877e27bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/9762a9924bd5016a89eb65d6f4ccad121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/80dc625c13e355c36b9e1c685025c6091.jpg"
+	]
+}

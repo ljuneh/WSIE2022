@@ -1,0 +1,96 @@
+{
+	"id": "6942526",
+	"name": "간단하지만 폼나는 한 끼, 연어덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/bf13598b3171c193989c046b243817d61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942526",
+	"ingredient_ids": [
+		96,
+		61,
+		3,
+		162,
+		339,
+		379,
+		995,
+		231,
+		226,
+		233
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시마사방5cm",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "연어",
+			"ingre_count": "200",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "무순",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "8",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 쌀 한 컵을 씻어 물기를 빼고, 채반에서 30분 불려주세요.  불린 후, 한 컵의 물과 다시마 한 조각을 넣고 고슬고슬한 덮밥용 밥을 지어줍니다.",
+		"2. 연어를 숙성지나 페이퍼타올로 싸서 기름기를 제거해요. 10분이면 충분해요.",
+		"3. 칼을 수직으로 세워 0.7센치 두께로 썬 다음, 랩핑해서 먹기 10분 전에 냉동실에 넣어둡니다.",
+		"4. 그 사이 양파는 슬라이스해서 찬물에 담궈 매운 기운을 제거해주시구요.",
+		"5. 아보카도를 곁들이실 분은 슬라이스 해주세요.",
+		"6. 잘 지어진 밥을 그릇에 담아 연어와 양파, 아보카도, 무순 등을 취향에 맞게 올려 세팅하면 완성이에요.",
+		"7. 서빙할 땐, 연어덮밥 소스와 알싸한 와사비 곁들이는 거 잊지마세요~",
+		"8. 소스 재료를 냄비에 한꺼번에 넣고 중불로 가열해 부르르 끓기 시작하면 불을 끄고 식혀둬요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/60d9793fbfcdc064d10381856e7c0bdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/1556084f790b02426d6f42ac2a516fe51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/4e59495a72890c4200c1b86211b37a061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c3f3027cdc81c1bd06149b872b8f602f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/919bdebf48bc87029400fdbc477938e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/8894ac403eb062410236047e01ab622a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/f5b7771116861bf3718b72dc9bb8f1321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/324b8b1b9eff5329a763a09a46004e5c1.jpg"
+	]
+}

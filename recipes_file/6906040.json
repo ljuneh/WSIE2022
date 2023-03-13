@@ -1,0 +1,60 @@
+{
+	"id": "6906040",
+	"name": "간장게장 간장으로 메추리알장조림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/07/2df2c6c0b2d0c7e65983eb138d812a101.jpg",
+	"url": "https://www.10000recipe.com/recipe/6906040",
+	"ingredient_ids": [
+		221,
+		27,
+		995,
+		226,
+		292
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간장게장간장",
+			"ingre_count": "5",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "국자"
+		}
+	],
+	"recipe": [
+		"1. 먼저 냄비에 물 500ml, 간장게장 간장 5국자, 설탕 1스푼, 맛술 1국자를 넣는다 간장마다 짜 정도가 달라서 조금씩 간을 보면서 간장을 넣어야하는데 좀 밍밍하게 넣어줘야 졸였을때 적당히 짭쪼롭하게 만들수 있다.",
+		"2. 간을 맞췄으면 대파 1대를 적당한 크기로 썰어서 넣고 메추리알도 넣어준다",
+		"3. 강불로 끓이기 시작해서 팔팔 끓으면 중불로 줄인다. 중불로 줄인후 15분 정도 더 끓은 후에 대파를 건져낸다",
+		"4. 대파를 건저낸뒤 15분정도 중불로 끓여주면 되는데 국물 양에따라 더 끓여줘도 괜찮다 이번엔 국물 양을 좀 많이 잡아서 30분정도 끓였다. 국물이 아예 없는거보다 살짝 자작자작하게 남을때 까지 졸이면 된다.",
+		"5. 짬쪼롬하고 감칠맛 나는 메추리알 장조림 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/07/35cb8620884d9c6d869feac8ab6189571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/07/b9048b34185c48667b1ba69d65e08cf51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/07/a35343dfaef247329d779ae8644352631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/07/ea52026bfc19444ea45a41b8894e16051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/07/d498058de6799cd05a4b3987072480281.jpg"
+	]
+}

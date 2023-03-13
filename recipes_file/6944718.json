@@ -1,0 +1,172 @@
+{
+	"id": "6944718",
+	"name": "NO48 홍합요리 홍합탕,홍합장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/9341004257bc90ddab5a7eea9bd2e3951.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944718",
+	"ingredient_ids": [
+		27,
+		3,
+		995,
+		455,
+		545,
+		853,
+		738,
+		960,
+		660,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "껍질홍합(마트구매)",
+			"ingre_count": "2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "3",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘큰거",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "건조박",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "600~700ml",
+			"ingre_unit": "~ml"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강술",
+			"ingre_count": "1~2T",
+			"ingre_unit": "~T"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 껍질홍합 두팩을 물에 담궈서 족사를 떼어내고 서로 부딪히게 여러번 깨끗이 씻어 줍니다.",
+		"2. 깨진건 과감히 버리 시고요.(변질 되었을수 있음)",
+		"3. 넓은 냄비에 씻은 홍합을 넣고 물 600~700ml를 부어 줍니다.",
+		"4. 대파 한대와 양파 1개를 썰어넣고 끓입니다.",
+		"5. 홍합 껍질이 벌어 질때까지 끓인후~",
+		"6. 채망에 걸러서 육수와 홍합을 따로 분리 합니다.",
+		"7. 식은후 껍질과 속살을 분리해 줍니다.",
+		"8. 건조박은 미리 요리 시작전에 불려 둡니다.(1시간전에)",
+		"9. 대파와 청량초 마늘 등을 잘라 놓습니다.",
+		"10. 1.홍합탕을 먼저~ 따로 분리해둔 홍합수를 조금만 남기고 끓여 줍니다.",
+		"11. 육수가 끓는동안 불린 건조박을 한입 크기로 자릅니다.",
+		"12. 박을 넣고 한소큼 끓입니다.",
+		"13. 마늘을 넣어 저어 줍니다.",
+		"14. 분리해둔 홍합살 150g을 넣습니다.",
+		"15. 끓어 오르면 대파를 넣고 한소큼 끓입니다.",
+		"16. 청량초도 넣습니다.",
+		"17. 소금간을 합니다.",
+		"18. 후추도 취향껏 뿌려 줍니다.",
+		"19. 넓은 대접에 담아 내어 맛있게 먹습니다.",
+		"20. 2.홍합장조림 불을 예열한후 썰어 두었던 마늘을 웍에 넣고 맛간장 2T와",
+		"21. 생강술 1T를 넣고 끓이면서",
+		"22. 깐 홍합을 넣어 줍니다.",
+		"23. 저어주며 홍합육수 2~3T를 넣고",
+		"24. 바글바글 조립니다.",
+		"25. 조청 2T를 넣고 볶은후(조청없으면 원당2T)",
+		"26. 썰어 두었던 대파와 청량초를 넣고 휘리릭 재빨리 볶습니다.",
+		"27. 불을 낮추어 국물 이 줄어들때 까지 조린후~",
+		"28. 생강가루1t를 넣고 볶은후~",
+		"29. 불을 끄고 참기름을 넣고 뒤적 입니다.(참기름은 발연점이 낮아 열을 가하면 발암물질 생김)",
+		"30. 통깨를 톡톡 뿌린후",
+		"31. 그릇에 담아냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/4539f66b9447e44f5da0ca469e5216a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/33ab2370f19ed6ec9028c9510bb6b17a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/21440191308c8b816425436891eddf631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/087b7e9c9c0bc0dfee3ea9b0df69550f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/34af2d54e1df71546861baea0d2f91a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5a7a79b7e37720f6642b231b9574ed881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/b29448f7d57c2cbb855869d52d1840651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/c7419ebba0622628bd99c723522e4a621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/eb4b8c9b899bb54fbbdd67b414b5e2421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/3e3d3fc50c202a860b7167bcff8e4ead1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5ead00c41945942dfd3a523096fb6b951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/9b50729a23fee52e62a2e71b67b0d5861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/3c7b5b20a12941bb8227a244f94d03d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/cc21c8fd2d81bedf49a6b5af24b2e4771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/3b6f0a874ef577dc9163ddfeadd3d76e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/c6e77c2800bf1ff8c839c4c89bb41ed41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/238711a36f373e0015a4ae607ee9093f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/eea63440c6ae2ac9a068963382fd35411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/8488b39a36760136d6b2861a4ff2ff641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/2599b8983f81119d8dc9b8d74a3dd2ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/17801223e441ac98cfe77ab525ea99ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/fa82926c3468597fe055d8480cc8a5eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5c161fb63ddda0502d38bc2c73c29eba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/ffa8869c9b109b63d566d55bb8023ee71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/a2dec45765ae3957608bd64f2db5ba501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/3c89b54484d97e4fcc9a85048a0524841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/97c530ef9d06f64a9d99405a2b2cf8001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/3133caf63e049080d6810d6a55bc931d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/986ef0bc198e0064761b777240dbf77f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/192d5fd8831f19df1cc9ac06785256981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/db48ae461de741066c253b44c78dc5a61.jpg"
+	]
+}

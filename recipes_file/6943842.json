@@ -1,0 +1,72 @@
+{
+	"id": "6943842",
+	"name": "콩나물국 끓이는법 시원해",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/58f236894e25a1af41d3c425534ee2c71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943842",
+	"ingredient_ids": [
+		47,
+		233,
+		349,
+		333,
+		497,
+		27,
+		295
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1.  가장먼저 멸치육수를 내주시구요 (다시마도 있으면 같이 내주세요, 저는 없어서 패스) 콩나물은 누런부분과 껍질부분을 제거하고 깨끗히 씻어 채반에 받쳐주세요 ",
+		"2.  육수가 잘 우러나면 여기에 콩나물을 넣어 5분정도 끓여주시구요 이때 뚜껑은 닫지 않고 연채로 끓여주세요 ",
+		"3.  그리고 다진마늘 반스푼, 국간장 1스푼 그리고 멸치액젓 1스푼 넣은 후 바글바글 끓여주시면 되요 부족한 간은 소금으로 채워주시면 된답니다 ",
+		"4.  그리고 얼큰칼칼하게 드시고 싶다면 대파와 청양고추 송송 썰어 넣어주시구요 아이들과 먹을거라면 청양고추는 생략하고 대파만 넣어주시면 되요 ",
+		"5.  정말 별거아닌데 시원하고 맛있는 콩나물국 끓이는법 완성!! 보통은 국간장을 넣고 나머지 간은 소금으로만 넣게 되는데 멸치액젓을 넣으니 더 감칠맛이 나더라구요 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/ee369e5c1cca77dac10a1a69c3aa5f671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/5e87997e7eeff66ed7869b57fd72d9cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/43a981f49a9bcf84229c37848e84cdcd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/2f2b1fb0e4a8d950ae83ac697b99f3f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/819ff02508612653e1d85b95376ae12f1.jpg"
+	]
+}

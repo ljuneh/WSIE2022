@@ -1,0 +1,81 @@
+{
+	"id": "6876644",
+	"name": "소고기육전 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/ec52f3f3799ab6f741ccbf28e00c809f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6876644",
+	"ingredient_ids": [
+		379,
+		458,
+		233,
+		738,
+		660,
+		667,
+		219
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "채끝살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".Ts"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "0.",
+			"ingre_unit": ".Ts"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 먼저 소고기는 키친타월로 앞뒤로 덮어서 꾸욱 눌러서 핏물제거를 할거에요. 그래야 자칫 있을수 있는 잡내를 없앨수 있는 가장 기본적인 방법이에요.",
+		"2. 채끝살을 보는데 살짝 도톰하기도 하고 힘줄이 보여서 칼등으로 두들겨 줬어요. 칼등으로 두들겨줄때에는 손목에 힘을 빼고 살살 앞뒤로 두들겨줘야 부드러워지고 힘줄도 끊어져요.",
+		"3. 이제 고기는 분량의 양념장 간장(2),생강즙(1ts),다진마늘(0.5Ts),조청(0.7Ts),참기름약간,후추약간을 넣고 조물조물 30분간 재워둬요.",
+		"4. 재워둔 고기는 앞뒤로 찹쌀가루를 꾹꾹 눌러서 묻히고 살살 털어주세요.",
+		"5. 달걀은 풀어서(노른자부분이 더 많으면 더 좋아요. 전 노른자3개와 흰자2개를 썼어요.) 앞뒤로 잘 묻혀주세요.",
+		"6. 후라이팬에 기름을 살짝 두르고 달궈지면 잘 펼쳐서 놔주세요.",
+		"7. 이때 불은 센불로 하시면 타요.(간장양념으로 했기에 탈수 있으니 약불로 하시면 좋아요.) 전은 구울때 처음엔 기름을 적게 넣다가 나중에 기름을 넉넉히 넣으면 이쁘게 전이 되요. 중간중간 탈것 같으면 키친타월로 후라이팬을 닦고 전을 부치셔야 이쁘게 된답니다. 노릇하니 맛있게 소고기육전이 완성되었네요. 드실때 고추장아찌간장과 같이 나가면 느끼하지 않고 맛있게 드실수 있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/d2d31cc62483bdea640dc43efd76c2611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/4b67f4795eef8cc33c4b3e19319592f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/671e0c73e55ca57567ffdb9886a5dfee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/1b93515f2361514024d9dcdb00e2c1fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/84a8b9553f88771466011cc6d8701f5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/edf2c75a993c6811a403c148e20efa0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/18/821d8683f89e8000aa1446bcbfe5b9ff1.jpg"
+	]
+}

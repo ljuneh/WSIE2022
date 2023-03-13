@@ -1,0 +1,63 @@
+{
+	"id": "6943966",
+	"name": "♥[신혼반찬] 맛살계란말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f069fe893238644e3977df44988f98d01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943966",
+	"ingredient_ids": [
+		219,
+		289,
+		343,
+		30,
+		9
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4~5개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "아주약간"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "아주약간"
+		}
+	],
+	"recipe": [
+		"1. 노른자와 흰자를 분리한 뒤 부드럽게 잘 풀어주세요.",
+		"2. 생략가능하지만 조금 더 예쁜 색감을 주기 위해 부추 또는 대파, 당근을 다져 흰자에 넣어주세요.",
+		"3. 달군팬에 기름을 두르고 최대한 약한 불로 조절한 뒤 흰자를 부어주세요.",
+		"4. 맛살을 올리고 또 올려 (겹쳐)주세요. 색감을 강조하기 위해 김을 추가해봤는데 물론 생략 가능해요.처음부터 끝까지 약불 유지",
+		"5. 흰자를 돌돌 말아주세요.숟가락과 뒤집개를 동시에 사용한다면 쉽게 돌돌 할 있어요.",
+		"6. 돌돌 말린 흰자를 팬 끝으로 보낸 뒤 노른자를 2~3번에 나눠 부어주세요.",
+		"7. 돌돌 말아주세요.",
+		"8. 남은 노른자를 붓고 또다시 돌돌 말아주세요.",
+		"9. 달걀말이는 도마 위에 올려 충분히 식혀준 뒤 먹기 좋은 크기로 잘라주세요.달걀말이를 식혀주면 단단해져서 자르기 간편! "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/ff9bb45ff397730978a10f6a286f8c461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/74af62bdedb73adc51e66a1eff8983491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/b9f1712bfcc4cab85ed326bc1a7e4cf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f878c63c8cd1dc1a5e5b9836f1fbfa8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a8f3939fc221f49eab9bd74784d71e411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/edb99f97d2783a178f36914bd1cf53e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/1ffff42a9138073df750381cec57c67e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/714ad9b05dfc0b898f0f6993acaeddb21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a4b6ff790470e0b3e51a65069a5bdf5f1.jpg"
+	]
+}

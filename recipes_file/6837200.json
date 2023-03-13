@@ -1,0 +1,47 @@
+{
+	"id": "6837200",
+	"name": "알밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/4b27f561761ba1dc5f62ebe9d21d135d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837200",
+	"ingredient_ids": [
+		95,
+		290
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "김",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 김치는",
+		"2. 흐르는 물에 여러 번 헹궈준다.",
+		"3. 김치, 단무지, 당근, 맛살은 잘게 썰어준다.",
+		"4. 뚝배기에 참기름을 두르고",
+		"5. 밥을 올려준다.",
+		"6. 탁탁 소리가 나면 재료들을 밥위에 올려주고 소금간 살짝 해준다 ",
+		"7. 냉동날치알은 물에 담가 해동시켜준뒤",
+		"8. 밥위에 올려준다.",
+		"9. 김도 썰어서 올려주면 알밥완성. ",
+		"10. 깨뿌려서 쓱쓱 비벼서 먹으면 맛있다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/12/081c48319f17a82283ed8695591486cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/12/d8fd40eadea9910bce7ddd7d042eb67e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/12/03588be38e4725d2df37a100cb5b5c321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/12/e74169a809015049e8f4af2493f28e731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/12/99b1802acc4526efe5607d0962b9e5d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/12/c4960c9cbf4073c86d9b7fe46d5df2d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/12/236853c162a3bd1638b8b90d1227a0d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/12/b0f57aef2dcc3a50b10d12129a363ffb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/12/e96b80a00c6985788a707a56fe5062971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/12/de646774063a60c3c4822f21268a47851.jpg"
+	]
+}

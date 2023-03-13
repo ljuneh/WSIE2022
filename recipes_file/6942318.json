@@ -1,0 +1,56 @@
+{
+	"id": "6942318",
+	"name": "우렁이 강된장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/3eb9222539a642cf506b5b732176fd771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942318",
+	"ingredient_ids": [
+		3,
+		295,
+		848,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "우렁이",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 우렁이는 깨끗하게 씻어 알맞은 크기로 썰어줍니다.",
+		"2. 양파는 다져줍니다.",
+		"3. 청양고추는 송송 썰어줍니다.",
+		"4. 냄비에 다진양파, 썰어놓은 고추,된장2큰술 물200ml를 부어 끓여줍니다.",
+		"5. 바글바글 끓여주면 우렁이를 넣고 국물이 졸여질 때까지 끓여줍니다.",
+		"6. 국물이 어느 정도 줄어들고 걸쭉해지면 불을 꺼줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/70850b35af2ae30c582947050ba0049a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/a9c254edbe809f9e83fabc63904d08b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/2705d129fcfa3c0e86003be5c1c635221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/65812c0c5d0e581b257b219c34ac04681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/6e38d8a07d97bf59ae3e3776b6a8eff21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/9ef2d508e6b74063c2d07fedb11e7e9e1.jpg"
+	]
+}

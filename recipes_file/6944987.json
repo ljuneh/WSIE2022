@@ -1,0 +1,57 @@
+{
+	"id": "6944987",
+	"name": "편스토랑 곶감잼 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/5fdb142baa0e379156b3c71b2116cda41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944987",
+	"ingredient_ids": [
+		151,
+		226,
+		485
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "곶감",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 곶감 5개 손질하니 대략 300g 정도 되더라구요. 곶감마다 차이가 있으니깐 손질 후 저울에 계량하심 될 것 같아요.",
+		"2. 곶감은 반으로 잘라 안쪽에 부드러운 부분은 숟가락으로 긁어 그릇에 담고 씨가 들어 있는 경우도 있으니깐 이때 제거해 주심 된답니다. ",
+		"3. 그리고 난 뒤 씹히는 식감을 위해 칼로 다져 주세요. ",
+		"4. 같은 방법으로 300g 준비하고",
+		"5. 설탕은 300g이 필요해요.",
+		"6. 저는 흑설탕, 백설탕 반반씩 계량해서 사용했어요 (곶감 달기 정도에 따라 설탕량을 조절하심 좋을듯싶어요. 계량대로 만들고 보니 저희 입맛에는 많이 달더라고요 그러니 참고하셔서 만드세요)",
+		"7. 생크림은 250g 준비하면 된답니다",
+		"8. 팬에 설탕을 한데 넣고 약불에서 설탕을 녹여주세요. 이때 저으면 설탕이 뭉쳐 딱딱해질 수 있어요.",
+		"9. 설탕이 어느 정도 녹으면 손질해 놓은 곶감을 한데 넣어 약불에서 8분 정도 저어가며 끓여주고",
+		"10. 이어 생크림을 넣어가며 끓여주심 된답니다. ",
+		"11. 어느 정도 끓이다 보면 걸쭉한 농도가 되는데요. 식으면 뜨거울 때보다 더 되직해지니 오랫동안 끓이지 않아도 된답니다. 적당한 농도가 되면 마무리해 주세요.",
+		"12. 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/ee2a541c9454032a6de9e683af5a60001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/fa571ecc747b646558932c05f88dadc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/f856f4a1872edb6423333930fa9b583f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/0ac9914f0c8533a0e68580eb3fd77af51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/89b8d0dae876f1b11c530678d93c63341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/b0d36b90e3df76acbf8bdabbaf760bda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/2b7d603f1444ae25e57e6a04c03806951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/83e2f839a5d944456439f656ea5465b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/49713f71c9a7a206c03d5f8603a278e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/64db63331fe3fe1ae17cfd6d45a311411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/f1c24e75c7d71faafdfe1519721b69981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/7335a29c5450335896968f577f12471e1.jpg"
+	]
+}

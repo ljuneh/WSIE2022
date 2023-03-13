@@ -1,0 +1,104 @@
+{
+	"id": "6943265",
+	"name": "얼큰한 고추장찌개.(매운국물요리,밥도둑, 술안주)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/74bce36809cf20a206004343a0add04e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943265",
+	"ingredient_ids": [
+		5,
+		7,
+		295,
+		473,
+		224,
+		349,
+		996
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "돼지고기또는소고기",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물또는멸치다시물",
+			"ingre_count": "1.",
+			"ingre_unit": ".공기"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "멸치가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 채소를 씻어서 준비한다.",
+		"2. 감자, 호박은 작게 깍뚝썰기하고 고추는 어슷썰고 마늘은 다진다.",
+		"3. 고기도 얇을 수록 편하지만 두꺼워도 상관없다.",
+		"4. 냄비에 고기를 넣는다.",
+		"5. 고기를 완전히 익힐 필요는 없지만 반이상은 익혀준다.",
+		"6. 고기가 익으면 감자를 넣고 살짝 볶고,",
+		"7. 물을 넣고 센불로 올린다.",
+		"8. 멸치가루를 넣고  (멸치다시물 사용하면 필요없어요.)",
+		"9. 고추장을 풀어주고 국물이 끓으면 약불로 낮추고 감자가 익도록 뚜껑은 닫아둔다.",
+		"10. 5분쯤 끓이다가 고춧가루를 넣고,",
+		"11. 불순물 거품을 걷어준다. (걷어내야 국물이 깔끔하고 지저분하지 않아요.)",
+		"12. 다진마늘을 넣고",
+		"13. 국간장도 넣어 간을 한다.",
+		"14. 다시 3분정도 보글보글 끓이다가",
+		"15. 애호박을 넣고 푹 익히지 말고 살짝만 익혀준다.",
+		"16. 고추를 넣어 마무리해준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/8eae7df375f74680e7347277d92154df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/def7e598b98e3794f87eeb4f7333f0b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/c9def2eef6b5ca2cfde0e76bb916608e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/996945735bd9b4db4d1ef5fbe754109f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/3a823b34bfd9cdc5d56485ae78cc99571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/aa108f2c66d8c2ca46cfbe85f71c69c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/e4cee2395108b168e4e47377881b814e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/b9e6955291bc10dfc77a55d01209bbe21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/82b44bd727784c5aa4b07472d656f8e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/7d256ed0cca83b330e57bdb18d60c92c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/86c9fcb31f821e4cbb8afcd090ac10c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/d2aca8ef31a60a3413533a26f25693561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/6710cfa17280f52e713b34f5442d259c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/59b58a0f727b37925794e968be42e3a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/f92987921af12dd276182db7dc1d197b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/1ad848fb9b6e0706f874cc7e6bcfb7d41.jpg"
+	]
+}

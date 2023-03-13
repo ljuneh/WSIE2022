@@ -1,0 +1,59 @@
+{
+	"id": "6945621",
+	"name": "[집밥] 스테이크 맛있게 굽는 법 #빼빼로데이 #파티음식 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/0821c8a10a6a76b788592db1c28805bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945621",
+	"ingredient_ids": [
+		504,
+		198
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "스테이크용소고기등심",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "충분히"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "와인소금",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 소고기는 키친타올로 꾹꾹 눌러 핏기를 제거해주세요.키친타올",
+		"2. 마리네이드를 해줄거에요. 앞 뒤 모두 식용유를 바른 뒤 소금 톡톡 후추 톡톡 뿌려주세요.식용유, 와인소금, 후추 와인소금이 없으신 분들은 일반 소금 사용하셔도 됩니다.",
+		"3. 마리네이드 해 준 소고기는 파슬리가루 톡톡 뿌려 30분간 방치시켜주시면 됩니다.파슬리가루 톡톡 ",
+		"4. 팬에 버터 한조각을 올린 후 강불로 1분간 예열해주세요.버터 1조각 강불 1분 ",
+		"5. 강불로 앞, 뒷면 1분씩 각각 구워주시면 됩니다강불 앞 1분, 강불 뒤 1분",
+		"6. 중불로 줄여 4분간 익혀주시면 됩니다.중불 4분미디엄 웰던으로 4분이 딱 좋아요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/f079b212a05f39ae491767c8172920821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/753b3751dfb3ef91c2a7194a01b224261.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/f54d94c71393a663360402bd569c3a5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/3db30432b7586a9f0df5e911e450db0a1.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/e6dcc9d1e52e23c84800e288db4f638b1.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/cd4d3ea93d9f2c51f9aaf2e91c50c06c1.gif"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"id": "6940631",
+	"name": "[시원한 음식] 습하고 더운 날...딸기 요거트 스무디로 시원하게!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/bdf39449acc7bfbebe5714c8440635e91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940631",
+	"ingredient_ids": [
+		752
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "우유",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "요거트파우더",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "냉동딸기",
+			"ingre_count": "1",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "18",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "딸기쨈",
+			"ingre_count": "2~3큰술",
+			"ingre_unit": "~큰술"
+		}
+	],
+	"recipe": [
+		"1. 우선 믹서기에 500ml 우유를 부어줍니다. 저는 4명이 먹을꺼라 양이 많으니 드실만큼 우유를 따라주시면 됩니다.",
+		"2. 요거트 파우더를 2개 넣어줍니다.요거트 파우더가 없으면 플레인 요플레를 넣어주시면 됩니다.",
+		"3. 냉동된 딸기 한 대접 정도 준비하구요.",
+		"4. 얼음도 준비합니다.",
+		"5. 믹서기에 모두 넣어준 다음 올리고당 대신 딸기쨈 2~3큰술 넣고 갈아줍니다.",
+		"6. 그럼 이렇게 딸기 요거트 스무디 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/0ab9d26853d175b61f900efe0ea334c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/1322cec2467822560c28dfff6988cac01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/122fa26a7b6d80f6f4dc7d72e49f4dd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/23d882f52e7759925a786b80cc767a981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/bf963036079402f177a587ebe706da671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/daa19ef1e86476047d62236677251d091.jpg"
+	]
+}

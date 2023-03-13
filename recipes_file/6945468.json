@@ -1,0 +1,62 @@
+{
+	"id": "6945468",
+	"name": "굴만두 만들기/ 굴만두레시피/ 굴만두 맛있게 만들어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/c8fdfa9c447fd9e9cfbe640c75d8cea11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945468",
+	"ingredient_ids": [
+		219,
+		82,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴",
+			"ingre_count": "8",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "골파",
+			"ingre_count": "4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집씩"
+		}
+	],
+	"recipe": [
+		"1. 1. 연한 소금물에 잡티나 껍질을 제거하며 세척 하고 재료를 준비합니다",
+		"2. 2. 청고추, 골파는 곱게 다져 달걀 2개에 풀어서 준비 합니다",
+		"3. 3.팬에 달걀물을 수저로 동그랗게 부쳐 줍니다.중불로 조리해요",
+		"4. 4.달걀물 가운데에 굴을 한개 올려 줍니다.청양고추로 칼칼하게 만들어도 되고, 홓고추로 색을 내도 되요 아이들은 파프리카를 이용해도 좋아요",
+		"5. 5.달걀피를 반으로 접어 줍니다",
+		"6. 6뒤집어 양쪽 모두 노릇하게 부쳐 줍니다.오래 익히지 않아도 되요. 중불로 하면 금방 익어여",
+		"7. 7. 초간장에 찍어 먹으면 맛있는 굴만두가 됩니다초간장 말고 식초에 후추를 넉넉하 넣어 찍어 먹어도 별미에요 구운만두에 색다른 소스랍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/942f1d3720c68fe4aac9a9786f438bd01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/448177fe4c7e5b6a39db3acfda60c2501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/432df9335ea4053b1c38051228952bd71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/a67780a5134c476f5ee2b25a309e3d5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/98dfa8589ac03992bc74775df5391e751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/c0d8a213e72fe4b4eaef3ee92f6e50b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/7fd3f45d9380344edfc556bb43232c0b1.jpg"
+	]
+}

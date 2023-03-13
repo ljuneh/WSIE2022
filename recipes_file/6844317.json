@@ -1,0 +1,38 @@
+{
+	"id": "6844317",
+	"name": "머위장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/08/86655bbcf97273942e878d080d1e65c71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6844317",
+	"ingredient_ids": [
+		875
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "머위",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다오네장아찌원액",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 머위가 어린것을 준비해주세요. 자르고 나면 또 나오니 오래도록 드실수 있답니다.",
+		"2. 머위줄기가 가늘고 부드러워서 껍질을 까지 않아도 되요.",
+		"3. 머위를 끓는물에 살짝 데쳐주세요. 삶는정도가 아닌 살짝 데치는거 꼭이요.",
+		"4. 살짝데친 머위를 깨끗히 손질하여 물기를 빼주시구요.",
+		"5. 다오네 장아찌원액. 어떠한 재료든지 부어만 주면 장아찌완성.",
+		"6. 머위를 용기에 담고 장아찌원액을 눌러서 잠길정도로 부어주세요. 간단하고 쉽지요. 봄철 입맛없을때 새콤달콤 맛있는 머위장아찌. 입맛을 돌려준답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/95b5ba80b1e4eb7b46989f36d9d4ddb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/0588de5ef07c333c5fa340fb921c74951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/01cae37a998f8996eefeea7193d1c8fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/ec078aa47446d797af60bf9427af8b891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/d5eb531966de72a5a1416cbde0a514fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/b356222a2e67962f5bf068e8fc27fcaa1.jpg"
+	]
+}

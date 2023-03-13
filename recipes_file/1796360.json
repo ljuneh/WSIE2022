@@ -1,0 +1,71 @@
+{
+	"id": "1796360",
+	"name": "콩나물 두부국 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/08/7d2a7ccdbc106396464ee33081afcc6b.jpg",
+	"url": "https://www.10000recipe.com/recipe/1796360",
+	"ingredient_ids": [
+		47,
+		323,
+		27,
+		458,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마늘즙",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		}
+	],
+	"recipe": [
+		"1. 두부, 고추 대파는 사진처럼 썰고요.",
+		"2. 콩나물은 꼬리 떼주고 깨끗이 씻어서 냄비에 담고 두부 얹고 마늘 생강즙 넣고, 찬 멸치육수를 붓고 소금간을 하세요. (요렇게 해야 비린내,잡내,다 잡을 수 있고 콩나물도 아삭하고 콩나물과 두부에 간과 맛이 베어서 맛있어요) 그리고 뚜껑을 덮어야겠죠. 보글보글 끓는 소리가 나면서 콩나물 익는 냄새가 솔솔~나면 뚜껑을 열고 (미리 열어 보시면 콩나물 비린내가 나는건 다 아시겠지만 노파심에 한마디 합니다) 고추, 대파 썬거 넣어주면 됩니다.",
+		"3. 요렇게 끓이면 아삭한 콩나물은 비린내도 안나고 국물도 담백하니 시원하고 부드럽고 따스한 두부가 씹을거도 없이 술술 넘어 가면서 얼었던 몸이 스르르 풀린답니다. 좀 칼칼해야 되겠다 싶으시면 매운 고추를 넣으면 되겠죠."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/08/d50c4fc0b2e7ab7e70dad5a4414719c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/08/99e277490f4d556e45879aca8fb819091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/08/49d4d18cf97f3e948717649d3bd0f3931.jpg"
+	]
+}

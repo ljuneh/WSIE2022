@@ -1,0 +1,51 @@
+{
+	"id": "6943406",
+	"name": "통조림 고등어 김치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/88e394178bfc87a4d089f36e741e851c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943406",
+	"ingredient_ids": [
+		27,
+		224,
+		939
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "익은김치",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 익은 김치 썰어 냄비에 담고 고등어 통조림 국물까지 다  부어준다 통조림 깡통으로 물 1캔 반을 붓고 고춧가루,후추 넣고",
+		"2. 보글보글 푹~ 끓여주다가",
+		"3. 대파 어슷썰어 넣고",
+		"4. 보글보글 끓여주면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/3de2811eddaf39c3d0aa83f04752c3f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/dc882a4d32bacf2369703d4045d3f1ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/63db079da9ae014795f350c347e482601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/488bc30d8ef5e2f353788fceed8e2b141.jpg"
+	]
+}

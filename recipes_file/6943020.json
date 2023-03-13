@@ -1,0 +1,75 @@
+{
+	"id": "6943020",
+	"name": "집밥 TV) 5분 요리 만물상 톳 & 김조림 | 톳요리로 다이어트",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/2846fa86225c11ea8b7ace2f66640b021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943020",
+	"ingredient_ids": [
+		94,
+		379,
+		226,
+		28,
+		846,
+		231
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "마른김",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "톳",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 마른김 10장을 기름을 두르지 않은 팬에서 앞뒤로 구워주세요. 바삭하게 구운 김은 여러번 찢어 먹기 좋은 크기로 만듭니다.",
+		"2. 미리 불려둔 톳은 물에 헹궈서 체에 받쳐 물기를 빼주세요.",
+		"3. 파는 송송 썰어 놓고 간장 3T, 설탕 1T, 저민 생강에 청주 1T를 넣어 조물 조물 한 뒤 망에서 꾹 짜 생강주를 만들고 물 반 컵을 넣어 양념장을 만듭니다.",
+		"4. 기름을 두른 팬에 파를 넣어 파기름을 내고 물기 뺀 톳을 넣고 볶아주세요.",
+		"5. 잘라 놓은 구운 김을 넣고 김과 톳이 잘 섞이게 볶아주세요.",
+		"6. 양념장을 넣고 볶습니다.",
+		"7. 마지막으로 김의 비린내를 잡기 위해 식초 조금 넣고 깨 뿌려 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/d73b6259e87a361be8eadf2dcfd7f5cf1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/3a379f91792d6112f1b7c570390340bf1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/782066ff7fb3f5f60519e9adf429e7b91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/63b05303b579c411e084800147cbd1441.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/4c30f0c6ef4fb90b88517e7383e4b5b81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/dce9b345b96184e18c38eca3c0dcbbbd1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/b29d40a17f13b16a04a8b99af6653e571.png"
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"id": "6942749",
+	"name": "치즈형이 거기서 왜 나와..? 맛보장 우유치즈돈까스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/ae884146cde35ace9a0fc8f2da221a2b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942749",
+	"ingredient_ids": [
+		202,
+		497,
+		219,
+		234,
+		436
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지등심",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "스트링치즈",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기는 잠시 우유에 담가 잡내를 제거해요.",
+		"2. 고기를 고기망치나 칼등을 이용해 얇게 펴요.",
+		"3. 얇게 펴진 고기에 소금, 후추로 밑간을 해요.",
+		"4. 고기에 스트링치즈를 넣어 동그랗게 말아요.",
+		"5. 밀가루, 달걀물, 빵가루 순서로 튀김옷을 입혀요.",
+		"6. 예열된 기름에 노릇하게 튀겨내요.",
+		"7. 칼로 한입 크기로 잘라 완성해요.케첩이나 돈가스 소스를 곁들여도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/438a6bbcb5df02b09513d78569bd8b841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/539c1df810f3759c741e6449bdb8bbca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/461e12a3f85a2a6ce7762dbc88788bfd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/7d9114a991dd16788288447877ca56a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/e3c2e0fea301275b275c905688c3c4de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/f0be85fd568c9d3d8a81a96a50edc9951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/329b1d440de4dce8c1d6dbeb85412d381.jpg"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"id": "6943582",
+	"name": "쥬키니(애호박) 초절임 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/3d2c2d4c067e85f7f64105893050982d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943582",
+	"ingredient_ids": [
+		833,
+		995,
+		231,
+		226,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "쥬키니호박",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 쥬키니 호박이나 애호박을 손가락 정도 길이로 자르고 반으로 갈라 주세요",
+		"2. 옆면을 필러로 깍아서 편을 썰어주세요",
+		"3. 쥬키니를 모두 깍아줬어요",
+		"4. 물200ml, 식초나 레몬즙 100ml, 설탕 5T넣고 끓여주세요. 한번 끓고나서 저어서 남은 설탕을 녹여준 다음",
+		"5. 썰어준 쥬키니를 넣고 식을 때까지 기다려주세요",
+		"6. 식은후 물과 함께 용기에 담아서 느끼한 거 드실때 같이 곁들여 드시거나 샐러드에 같이 첨부해서 드시면 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/48285d7aae3fd517664f44ae394040d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/59ddcbb7fdb043d961df59b98e276cc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/abae84a733d1c6e53141c2c188683b571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/444d987ff65f2da3c7305cf3330f84341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/186e144a905fd403dba4f8a988fdd7e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/59d9bc16997ca2fd04beb1785bf39e951.jpg"
+	]
+}

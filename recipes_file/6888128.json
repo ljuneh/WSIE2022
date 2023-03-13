@@ -1,0 +1,50 @@
+{
+	"id": "6888128",
+	"name": "간단한 아침, 오트밀 먹는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/05/01/e9e6ff26cadefed2f61d1b16c99ca52d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6888128",
+	"ingredient_ids": [
+		572,
+		995,
+		227
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "오트밀",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "mL"
+		},
+		{
+			"ingre_name": "테이블크림",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 시중에 다양한 오트밀 제품이 있는데요. Costco에 주로 많이 준비되어 있고  또 인터넷에서도 쉽게 구하실 수 있어요. 대중적으로 한국에서도 쉽게 구할 수 있는  퀘이커 오트밀 제품도 괜찮습니다. 그리고 워낙 맛이 심심한 오트밀이라, 견과류나 건조과일이 첨가 된 제품이 있는데  개인적으로 이런 제품을 더 추천해요. 식감도 좀 더 풍성하고  풍미도 일반 플레인 제품보다 좋더라구요.",
+		"2. 특히 호텔 조식에 꼭 등장하는 오트밀. 그 사이드에는 늘 메이플 시럽이 있는데요. 메이플시럽과 오트밀의 조화가 아주 좋은 편이에요. 간편하게 먹을 수 있는 오트밀, 이제 준비 해 볼까요?",
+		"3. 먼저 물200mL 정도를 끓여주세요. 보통 끓는 물만 부어도  2분이면 바로 먹을 수 있답니다.",
+		"4. 물이 끓는 사이 그릇에 오트밀을 담을게요.",
+		"5. 끓는 물을 오트밀이 담긴 그릇에 담아주세요.",
+		"6. 한번 가볍게 저어주시고 2분간 기다릴게요. 정말 쉽고 간단한 아침메뉴, 오트밀이 이렇게 준비되었습니다. 맛이 심심한 편이라, 좀 더 든든하게 먹을 수 있는 방법을 알려드릴게요. 크림(커피에 타는 테이블크림)을  한 두스푼 정도 넣어주시면  훨씬 맛이 고소하고 든든해요. 여기에 취향에 따라  꿀이나 메이플시럽을 넣고  잘 저어서 드시면 훨씬 맛이 좋아요. 오트밀에는 특히 메이플시럽이  아주 잘 어울리는 편 이랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/01/7de39270ee44abcfb0201ca9d86610ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/01/c04e78938c7545223ae5eb211219226d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/01/6daec9cd364a223cebd0cf3c0644497e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/01/83b52a8fc4707b08b6358b46b5a2391f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/01/c7d8299c9157ed9bdddaa8777a57ed321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/01/9925322158fd10ad833cdca514f980f31.jpg"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"id": "6943231",
+	"name": "호박 죽 - 친절한 라앤타의 쉽게 만드는 추석 요리 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/3b31f3a403b1b6911bff021d5897b7491.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943231",
+	"ingredient_ids": [
+		99,
+		226,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마마스쿼시(단호박)",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금1작은술",
+			"ingre_count": "1",
+			"ingre_unit": "작은 술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "리터"
+		}
+	],
+	"recipe": [
+		"1. 찹쌀은 미리 불려 두었다가",
+		"2. 체에 받혀 물기를 빼고 굵게 갈아 줍니다.",
+		"3. 호박은 전자레인지에 3-4분 돌려 익힌 후전자레인지",
+		"4. 반 잘라 씨를 파 내고",
+		"5. 껍질을 벗겨 냅니다.",
+		"6. 물과 껍질 벗긴 호박을 넣고 익혀 줍니다.",
+		"7. 호박이 익으면 블렌더를 이용하여 갈아 줍니다.",
+		"8. 갈은 찹쌀을 넣고",
+		"9. 재 빨리 저으면서 섞어 주어요. 이때 퍽퍽 튀어 오르니 조심 하세요.",
+		"10. 소금과 설탕으로 간을 합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/d4d2149c0b1e470c93fa7086ce82cde91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/ca4ef116e2df867c70e55d410e1629f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/4c4a059fe557da9d08b9cd27fec31dce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/f9c98c2aefbdda4bce7bbf04de929ff01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/085e7847706410766aa628b21ef4c5bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/dbc62205c383c6aa6295b96e4a24db281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/48981fa6f3b2f65a67cfd458b0eac4671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/51c25ab07c20b6b38d54ccbf7e7e7c5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/6a0b155f253dee97c159fb4c0f5255fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/b7c8e825f9524e9e1071f145373bd71d1.jpg"
+	]
+}

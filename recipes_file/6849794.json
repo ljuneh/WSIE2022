@@ -1,0 +1,109 @@
+{
+	"id": "6849794",
+	"name": "오이간장피클/오이양파장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/55dfb51ba0830b078e713c0c6e82dd091.jpg",
+	"url": "https://www.10000recipe.com/recipe/6849794",
+	"ingredient_ids": [
+		8,
+		3,
+		295,
+		579,
+		938,
+		608,
+		857,
+		547,
+		231,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장(양조간장3:국간장1)",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "황태육수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "파인애플식초",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "육수(생수)",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 오이,양파,고추는 깨끗이 씻어 물기를 바싹 말리거나 닦아주세요",
+		"2. 모든 재료를 먹기 좋은 크기로 썰어 소독한 보관용기에 담아주세요",
+		"3. 식초와 매실청을 제외한 국물재료와 월계수잎과 통후추를 넣고 한소끔 끓여주세요",
+		"4. 불을 끄고 식초와 매실청을 넣어주세요",
+		"5. 한김 식힌 국물을 재료에 부어주세요 *뜨거울 때 부으면 오이가 더욱 아삭하다고 하는데 플라스틱 김치통이라 시곃서 부어주었어요",
+		"6. 재료에 간장물이 푹 잠기도록 그릇을 올리고 뚜꺼을 덮어주었어요 하룻밥 실온에서 두었다가  냉장보관 해주세요",
+		"7. 다음 날 아침, 재료에서 물이 나와 국물이 흥건해졌어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/4f954f164ca952b3bcf474e546205fe91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/43de8b54f93e287eafb89afff617cef41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/9e13f1876ad37c31672894079aba45021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/0062fe9fbf43721d99849b5f6c48c7a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/295860a87d244031b3ded6bab39abdfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/ca67850f649280a8c92e7855115730961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/d1718cb8be3bca9309d9d3c4669e319e1.jpg"
+	]
+}

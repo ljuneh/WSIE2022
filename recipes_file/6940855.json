@@ -1,0 +1,106 @@
+{
+	"id": "6940855",
+	"name": "백종원 오징어볶음 이대로만 해",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/e65a0817c93c05920589a3d11244fda51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940855",
+	"ingredient_ids": [
+		65,
+		21,
+		9,
+		27,
+		3,
+		473,
+		224,
+		226,
+		233,
+		660,
+		995,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1.  먼저 채소 손질을 해주셔야 되요 양배추, 당근, 양파, 대파 준비했어요 대파는 처음에 파기름낼거 송송 썰어주고 같이 볶을거 따로 길쭉하게 썰어줬어요 매콤하게 즐기고싶다면 청양고추도 한두개 썰어주세요                    ",
+		"2.  팬에 파기름을 먼저 내주는데요 기름을 넉넉히 두르고 대파를 넣어 파향이 향긋하게 올라올때까지 볶아주세요 ",
+		"3.  파가 노르스름해지면 오징어를 먹기좋게 썰어 넣어 볶아주다가 설탕 1스푼을 넣어 볶아주세요                    ",
+		"4.  그리고 다진마늘 1스푼과 고추장 1스푼도 넣어 볶아주다가 진간장 5스푼과 고춧가루 3스푼 넣어 같이 볶아주세요                      ",
+		"5.  이렇게 되면 좀 뻑뻑한 느낌이 드는데 이때 물 반컵 같이 넣어 볶아주세요 ",
+		"6.  그리고 손질한 채소들 몽땅 넣어 같이 볶아주시구요                    ",
+		"7.  채소도 익고 잘 볶아지면 마지막으로 참기름 1스푼 뿌려주고 한번 더 볶아주면 끝!                    "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/e14e365d66f8b804f99f27daf0c417141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/fddcf86c693720ffefc67922a6f6ca991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/8a9f862b7e8d74e57691821f39c0a22b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/eb2446b104e8725788f6c7667a66f50f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/e367ef443b537b660afa06313952449d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/52303005853fa54e79974abdf88157da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/49fd0e38ccca0bb35365565f7825fa921.jpg"
+	]
+}

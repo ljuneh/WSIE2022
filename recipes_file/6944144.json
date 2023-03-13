@@ -1,0 +1,83 @@
+{
+	"id": "6944144",
+	"name": "두부김치 만드는 법, 삼겹살이 들어가 더 맛있어요~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/221282a6a636a0ca0ecad2e49b009c141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944144",
+	"ingredient_ids": [
+		323,
+		473,
+		224,
+		226,
+		29,
+		343,
+		3,
+		953
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 물이 바글바글 끓으면 5분정도만 삶은뒤 물에서 건져주세요. ",
+		"2. 돼지고기는 물론 생략이 가능하지만 들어가면 정말 너무너무 맛있는 두부김치가 된다는 거!!",
+		"3. 위에 적어놓은 양념들을 미리 섞어서 준비해주세요~",
+		"4. 고기와 양파를 미리 만들어놓은 양념장에 투하!! 손으로 조물조물 해주신 후 냉장고에서 30분가량 숙성시켜 주세요.",
+		"5. 고기가 어느정도 익어가면 잘게 잘라놓은 두부김치 만드는 법의 하이라이트 김치를 넣고 같이 더 볶아주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/52b6e6a198010b6fe180cf1d0ba005c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/ecde1fda1b942a55383d5e681e73bf741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/65bd1d83cc58b401a8e5e60dbef856cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/0a4d7d5b4d72c36fcb258ed20f8842211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/cf7b9a3f0cc4b8c9e3f94542ecc518961.jpg"
+	]
+}

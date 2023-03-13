@@ -1,0 +1,60 @@
+{
+	"id": "6940600",
+	"name": "묵은지들기름볶음 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/7214a2141615a40ceafa2d0199611c0e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940600",
+	"ingredient_ids": [
+		923,
+		327,
+		543,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식용유1설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 묵은지를 준비하고",
+		"2. 찬물에 여러 번 헹궈 주고",
+		"3. 헹군 김치는 먹기 좋은 크기로 썰어 주세요. ",
+		"4. 그리고 달군 팬에 식용유(1), 들기름(3)을 두르고",
+		"5. 썰어놓은 묵은지를 넣고 2분 정도 볶아 주다가 ",
+		"6. 이어 설탕(1)을 넣어 양념이 배어들게 3분 정도 더 볶아 줍니다. 묵은 김치는 많이 익어서 시어졌기 때문에 설탕을 넣어 신맛을 잡아주며 감칠맛도 더 해준답니다. 갖고 계신 김치 익힘 정도에 설탕은 조절해 주세요. ",
+		"7. 설탕이 녹고 김치가 볶아지면 마지막에 통깨를 취향껏 넣어 고루 섞어 주면 끝! ",
+		"8. 묵은지들기름볶음 완성 많은 간 필요 없이 고소한 들기름이면 됩니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/6540e52c4ba5a764efea52bae69ef1b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/3d4402343d230554daba289a15f6bbf71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/81c8689cb1e5e85334792a8f17c859901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/30df4f8f7670709bc52ce81f44df72f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/b0b1b883e437de93b7a5367c6f3ea8c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/3b6de24243228dbc40001100a765289a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/ccb7deda4dd10370ebd755802736234f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/e2b21ac6c03a13fb74dcad4a3d2888f71.jpg"
+	]
+}

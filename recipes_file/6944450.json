@@ -1,0 +1,63 @@
+{
+	"id": "6944450",
+	"name": "오이 피클 만들기 간단해요 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/7e0fa5d495efbe502e152615b3cfcc1c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944450",
+	"ingredient_ids": [
+		8,
+		995,
+		226,
+		231,
+		857,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 오이 돌기를 제거하고 깨끗이 씻어주세요",
+		"2. 먹기 좋게 썰어주세요",
+		"3. 물 2컵, 설탕 1컵, 식초 1컵, 통후추 조금 소금 1/4t 넣고 끓여주세요",
+		"4. 설탕을 녹이면서 끓여주세요",
+		"5. 오이를 내열 용기에 담고 끓인 식촛물을 넣어 주세요  상온에 서너시간 두었다가 냉장고에 넣고 먹어요",
+		"6. 피자집에서 먹었던 피클보다 더 맛있어요  바로 만들어서 먹으니까 아삭하고 촛물도 새콤하면서 개운해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/5a1419264d002a726f08b799a320d9491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/efd0089787471575ddfd2275d5d8121f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/f7572163056570bf0f4ff17f1d08a9841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/b65230ccc8c478aa633c306a249c0ff81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/9ac5d8403bcfa38a4c9f7fb022091fd01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/24e348f5d96123157a238d826318b0f91.jpg"
+	]
+}

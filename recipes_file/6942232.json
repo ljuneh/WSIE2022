@@ -1,0 +1,67 @@
+{
+	"id": "6942232",
+	"name": "양파빵 에어프라이어",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/780f46261da2ed825609b6ce621e9fc21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942232",
+	"ingredient_ids": [
+		503,
+		212,
+		214,
+		574,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진호두",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 식빵을 한꺼번에 사서 바로 먹을꺼만 두고 나머지는 냉동실에 넣어 두었어요 장보는거, 나가는거도 일이고 신경쓰지 않아도 되니까 좋더라구요 견과류가 몸에 좋은 건 알고있지만 잘 안먹게 됩니다 그래서 빵에다 넣기로 했어요 재료 : 식빵 3개, 다진 양파, 다진 호두, 모짜렐라치즈, 슬라이스 치즈 3장 올리브유 2T, 소금 톡톡",
+		"2. 냉동실에서 식빵을 꺼내서 다진 양파를 넣어 주세요",
+		"3. 소금 톡톡, 올리브유 2T 를 빵 위에 뿌려주세요",
+		"4. 호두는 곱게 갈지 말고 알갱이가 씹히도록 잘라주었어요",
+		"5. 호두 위에 모짜렐라 치즈와 슬라이스 치즈를 넣어줍니다",
+		"6. 165도 5분 에어프라이어에 돌려서 먹어요 바삭하게 먹으려면 온도를 올려 주세요에어프라이어"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/170f52ebb2318878dd042180e876b6ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/bc7fc3dbc44900b44f8f6d156499b49c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/ab38705f6f55c888313abeaa5dfe728d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/7b25466f268204141360811f47fbd0c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/49d13fdb0dd61c7fdc304d361334264f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/6d78bd0624a10294645e7dac07b9f2eb1.jpg"
+	]
+}

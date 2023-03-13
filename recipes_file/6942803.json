@@ -1,0 +1,130 @@
+{
+	"id": "6942803",
+	"name": "추석요리 별다른 재료없이 맛과 차이가 나는 명품 모듬전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/0de966be430dacc517f92ce82aef5d331.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942803",
+	"ingredient_ids": [
+		563,
+		3,
+		9,
+		295,
+		53,
+		325,
+		387,
+		579,
+		292,
+		846,
+		291,
+		29
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "다진돼지고기",
+			"ingre_count": "706",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "칵테일새우",
+			"ingre_count": "256",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 새우를 다집니다",
+		"2. 호박을 썰어 가운데를 파놓습니다",
+		"3. 표고버섯에 모양을 만듭니다",
+		"4. 호박 버섯에 들어갈 소를 만듭니다",
+		"5. 새우전 양념을 합니다",
+		"6. 동그랑땡 양념을 합니다",
+		"7. 꼬치전을 만듭니다",
+		"8. 전을 만들 모양을 만들어 밀가루를 묻힙니다",
+		"9. 전들을 노릇노릇 부쳐 냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/da2dff910559046db1497446b8ca3c0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/4c6bdbbee150c20cec52db33fe86834b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/c246b00291e1e6e1b2661ad5dbddc4821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/f5a2b4a0dcadc4dd7e24edf83a1c17b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/0afae866369ab2e39dacf450efcefe041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/703e1c2760dd39734aaea3a0e1bc49631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/a8c9fd3c6cdd5edd22f4bb861572af6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/57ef0e4f8ee57abf6fa54657259936591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/42dc98ede499909dbf4bc0dc77f57f991.jpg"
+	]
+}

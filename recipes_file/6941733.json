@@ -1,0 +1,45 @@
+{
+	"id": "6941733",
+	"name": "진미채 영화관 버터오징어!반찬으로도 간단하고 정말 맛있어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/1553b79305dd5f16c104f5f1de239a3a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941733",
+	"ingredient_ids": [
+		198,
+		497,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "진미채종이컵",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "땅콩잼",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 진미채를 먹기좋게 잘라 물에 3분 정도 불린다",
+		"2. 팬에 버터 4스푼,땅콩잼1스푼을 넣고 섞이면 진미재를 넣고 볶아줍니다약불",
+		"3. 설탕반스푼,소금 한꼬집을 넣고 4분더 볶아주면 완성 입니다"
+	],
+	"recipe_img": []
+}

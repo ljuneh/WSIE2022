@@ -1,0 +1,81 @@
+{
+	"id": "6945250",
+	"name": "다이어트식단 문어샐러드 부드럽게 문어 삶는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/9a4d61494cc2fce76809d35668d6726e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945250",
+	"ingredient_ids": [
+		77,
+		3,
+		497,
+		250
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "문어",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자중간사이즈",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "귤사믹식초",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "할라피뇨피클",
+			"ingre_count": "3~4조각",
+			"ingre_unit": "~조각"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "샐러드채소",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 손질문어는 해동시켜서 끓는물에 6분간 데쳐준다.센불큰문어라면 무와 식초를 넣어서 10분가량 데쳐줘야 질기지 않다.",
+		"2. 감자는 깍둑썰기해서 랩을 씌운 후 전자렌지에 5분동안 돌려준다.",
+		"3. 다진양파,소금,후추,올리브오일,귤사믹식초(화이트발사믹으로 대체가능), 레몬즙을 넣고 섞어준다.",
+		"4. 삶은 문어는 찬물에 살짝만 헹궜다가 감자와 비슷한 사이즈로 썰어준다.",
+		"5. 문어와 감자가 따뜻한 상태에서 모든 재료를 넣고 섞어준다. 5분정도 기다렸다가 먹으면 간이 배어서 더 맛있어진다.",
+		"6. 접시에 샐러드채소와 방울토마토 등을 깔아주고 그 위에 버무린 문어샐러드를 얹어준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/e2790a0711bb6fdc6dbb7dfa1d8a954a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/35115602ddfbddc44c36f166bc86b9be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/8161cadd625e9578c9ad17fc711c70e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/0c6090c51392271cf01b718b720c5ecc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/ce794bc64944b12b11438badfc8a7d8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/4ef74e14bdedcb849d118bddab7e16071.jpg"
+	]
+}

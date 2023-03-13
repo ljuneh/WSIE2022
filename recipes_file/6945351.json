@@ -1,0 +1,86 @@
+{
+	"id": "6945351",
+	"name": "김장김치 동치미",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/5eff64f51cab3cd1c1f425e2899b12ab1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945351",
+	"ingredient_ids": [
+		757,
+		977,
+		142,
+		158,
+		29,
+		28,
+		545
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "동치미무",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "무청",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "정수물",
+			"ingre_count": "7",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "뉴슈가",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 손질한 무는 물을 조금 묻힌 후 굵은소금에 굴려서 보관통(김치냉장고 김치통)에 넣어요.",
+		"2. 뚜껑을 닫은 후 24시간 동안 절입니다.",
+		"3. 무에서 나온 절임물은 버리지 않고 그대로 사용합니다.",
+		"4. 무가 절여지면 쪽파와 무청은 살짝만 소금물에 절여주고  분량의 사과와 배는 속을 파내고 껍질채 썰어 준비합니다.",
+		"5. 마늘 10쪽, 생강 1쪽은 다시망에 넣어 준비합니다. 이때 마늘 생강은 편을 썰어도 좋아요.",
+		"6. 무 위에 4),5)의 재료를 얹고  생수에 소금과 뉴슈가를 녹인 후 부어 줍니다. 통이 가득 차도록 물을 붓는데  물1L:소금50g의 비율로 조절하세요.",
+		"7. 누름판으로 누르고 베란다에 두면 7일~10일 후엔 새콤한 동치미가 됩니다. 이 후엔 김치냉장고에 보관해요. 좀 짜게 되어야 변질이 없고 먹을 때마다 정수물을 살짝 부어 간을 맞춰 먹는 게 좋습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/9000b10a068f3f436625be22014b74251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/9267308d9c3eba04058d66e82c7ba63c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/0b0ed5d08c01fd113f0abdc1a0d931d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/40a7f1684573f53094cdfbc9f94c02fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/f7ea760532d4900d88f6139a7c73a0391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/a41a5ba3d8f05dd11278da8cce6be3991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/c2f14f4fa9b0429cb5948d542ef53f7b1.jpg"
+	]
+}

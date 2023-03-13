@@ -1,0 +1,78 @@
+{
+	"id": "6944973",
+	"name": "분식집 떡볶이 만들었습니다. 떡볶이 양념장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/79876398610127dee2f1936a1363533d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944973",
+	"ingredient_ids": [
+		226,
+		972,
+		379,
+		27,
+		3,
+		548
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "​고운고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다시마멸치육수",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다시마멸치육수",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 고운 고춧가루 3큰술, 설탕 3큰술 을 그릇에 담고 다시마 멸치육수 1/4컵 을 부어 미리 양념을 섞어 만들어 줍니다.                   ",
+		"2. 깊이가 있는 냄비나 팬에 다시마 멸치육수 4컵을 붓고 간장 2큰술로 간을 해줍니다. ",
+		"3. 단단한 떡볶이 떡 400g을 한번 씻어 넣고 끓여 줍니다.                   ",
+		"4. 떡볶이 국물이 끓기 시작하면 준비한 떡볶이 양념을 넣고 풀어주고 센불에서 고르게 한번 팔팔 끓으면 중~약불로 줄여 떡이 눌려붙지않게 저어주면서 끓여 줍니다.                   ",
+		"5.  떡이 부드럽게 익고 양념이 떡에 배어 들면 사각어묵 2장을 딱볶이 크기와 비슷하게 잘라 넣고 저어주면서 부드럽게 익혀 줍니다.                   ",
+		"6. 대파 1대를 어슷하게 썰어 넣고 양파 1/4개는 채썰어 넣고 채소가 익도로 고루 저어주시면 되겠습니다.                    "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/df9b9520c5bf4a0fb8fd529f722f55b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/8577deae251b25f1d5ac735b15d352bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/e1a0c3b4e10e9ed3d74204a3eeacb4971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/421d61149937cfd71e1e524a2dba07691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/4a1580e6387eec3cb79ca7300acea8a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/0dee5fb2b6f25e1545090c2da59e06401.jpg"
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"id": "6943627",
+	"name": "홍가리비술찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/29c07185e8f39f25ca3b77a95a61a9df1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943627",
+	"ingredient_ids": [
+		574,
+		29,
+		134,
+		846,
+		295,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "홍가리비",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "페페론치노",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "레몬",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 홍가리비술찜을 만들기 위해 1kg 를 준비해요.",
+		"2.  수돗물에 홍가리비를 담가서 30분에서 1시간 정도 담궈줍니다. 뻘에서 자라는 것이 아니므로 소금물 해감이 필요없어요.",
+		"3. 칫솔로 홍가리비를 깨끗이 닦아주고 서너번 헹궈줍니다.",
+		"4. 물기를 한번 빼주세요. ",
+		"5. 마늘은 편썰어주고 청양고추 2개는 동글동글 썰어줍니다. 매운 게 싫은 분들은 양을 가감하세요. 페페론치노는 이탈리아 고추인데 반씩 썰어줍니다. 레몬은 베이킹소다에 문질러 세척하거나 식초를 넣고 세척한 뒤에 동글동글 썰어줍니다.",
+		"6. 청주 한 컵을 준비해요. 소주나 화이트 와인 다 되구요.",
+		"7. 팬에 올리브유 1큰술을 두르고 저민 마늘과 페페론치노를 넣고 볶아줍니다. 그런 다음 홍가리비를 넣고 볶아줍니다. 홍가리비가 입을 벌리기 시작하면 청주 1컵을 넣어줍니다.",
+		"8. 뚜껑을 닫고 입을 다 벌릴 때까지 익혀줍니다. 마지막에 청양고추를 넣어줍니다. 상에 올리기 전에 레몬 슬라이스와 후춧가루를 뿌려줍니다. 레몬은 익히지 마세요. 청주는 끓으면서 알콜 성분이 날아가므로 술을 못 먹는 분들도 안심하고 드세요. 술은 조개 특유의 비린맛을 날려주는 역할을 하지요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/793ab5b4c11c2b84795867232cdbcf051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/d2a0c609b431b6467eddd96e74459f6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/30741c3f15c2b7811f128a30fb6e47561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/23f6b5a1670c8d7494192466348d61811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/b4ae3483e3c44928d243bf48eeb6f1811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/73818e333d2f13383409ec3457eb70b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/01bbc118457027cf574b7d55ff4b136f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/824bce4f5404bd061d1191cb343186361.jpg"
+	]
+}

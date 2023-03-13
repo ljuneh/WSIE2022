@@ -1,0 +1,102 @@
+{
+	"id": "6942398",
+	"name": "경기미 가와지1호로 만든 한그릇요리 가지밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/ffe88ac8fd0c610204e38eadd96666fb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942398",
+	"ingredient_ids": [
+		18,
+		757,
+		349,
+		292,
+		29,
+		455,
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "가와지1호",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "가지",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "채썰은돼지고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "10",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": "조금씩"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 가와지1호는 한시간정도 불려 줍니다. 그리고 불린쌀과 동량으로 물을 잡아 줍니다. 돼지고기는 분량의 양념을 넣어 밑간을 해주고 가지는 사선으로 큼지막하게 썰어 줍니다.",
+		"2. 예열된 팬에 오일은 넉넉하게 두릅니다.",
+		"3. 가지를 넣고 볶아 줍니다. 기름이 적다고 해서 추가 하시면 안됩니다. 처음에는 가기가 기름을 흡수해도 익으면서 수분이 다시 생겨요.",
+		"4. 가지가 반쯤 익으면 국간장을 가장자리에 두르고 볶아 줍니다. 이대로 먹어도 맛있어요 ㅎㅎ",
+		"5. 돼지고기는 예열된 팬에 센불로 휘리릭 볶아 줍니다.",
+		"6. 무쇠솥에 불린쌀과 동량으로 물을 부어 주고",
+		"7. 볶아 놓은 돼지고기를 올려 주세요.",
+		"8. 그위에 볶아 놓은 가지를 올려 주세요. 그리고 밥을 지어 줍니다. 센불로 끓이다가 끓기 시작하면 약불로 15분 불끄고, 10분 뜸들여 주시면 됩니다.",
+		"9. 가지밥 완성입니다.",
+		"10. 송송송 썰어 놓은 쪽파와 다져 놓은 홍고추를 듬뿍 넣어 주세요. 양념간장을 만들어도 좋은데 여기에 약갼의 진간장과 참기름 넣어 비벼 먹어도 완전 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e92e567eaa693d7b2d79f0dc4b2d54d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/79656f3ae76f707508e326cbc199d61f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/9952ad93c60f7e6824587c1dbbf269721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/3d6670901db1d27bc0d54774b19598e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d541d077f34dc2ae886b792c73170cff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/9de81b34988e7b8fedfece040782df791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a6051c31326cc47c3aa5e920d4b528931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/78a32807b8dcc59f0af0ce92bcfbff221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d2c6d0813f0ba74eaccf8d9548ceef701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e1817ddaaf7eeb54afdd8ddeb0c01b8d1.jpg"
+	]
+}

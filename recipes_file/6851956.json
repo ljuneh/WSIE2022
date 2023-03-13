@@ -1,0 +1,76 @@
+{
+	"id": "6851956",
+	"name": "새콤아삭 오이피클(피클 스파클링 없이) 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/f60f3ca4a35b7e222f000104ad50e8451.jpg",
+	"url": "https://www.10000recipe.com/recipe/6851956",
+	"ingredient_ids": [
+		8,
+		608,
+		857
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕(흰색)1+1/2컵(300cc)",
+			"ingre_count": "1+1/2컵(300cc)",
+			"ingre_unit": "컵(cc)"
+		},
+		{
+			"ingre_name": "매실식초1+1/2컵(300cc)",
+			"ingre_count": "1+1/2컵(300cc)",
+			"ingre_unit": "컵(cc)"
+		},
+		{
+			"ingre_name": "물1컵(200cc)",
+			"ingre_count": "1컵(200cc)",
+			"ingre_unit": "컵(cc)"
+		},
+		{
+			"ingre_name": "소금(중간굵은)50cc(3숟가락)",
+			"ingre_count": "50cc(3숟가락)",
+			"ingre_unit": "cc(숟가락)"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "8~10개정도",
+			"ingre_unit": "~개정도"
+		},
+		{
+			"ingre_name": "플라스틱통이나유리병(2리터)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 오이는 깨끗하게 씻어 준비를 합니다. 월계수잎과 통후추를 준비합니다.",
+		"2. 오이는 너무 두껍지도 얇지도 않게 썰어 줍니다.. * 얇은것보다는 두꺼운게 좋아요.. * 1cm 조금 못되게아니면 1cm정도..(개인 입맛에 따라서 조절)",
+		"3. 식초를 부어 줍니다.",
+		"4. 설탕은 집에 황설탕만 있어서...ㅠㅠ 흰색 설탕을 넣어주면.. 피클 색깔이 더 이뿝니다.",
+		"5. 식초+설탕+물+소금을 넣고, 월계수잎을 씻어 몇장+통후추를 넣고 바글바글 끓여 줍니다.. 피클 비율은 식초:설탕:물=1:1:1이라고 하지만... 오이에 수분이 빠져 나오므로..새콤달콤한 맛이 덜 느껴져 식초와 설탕을 조금씩 더 넣어 주었어요. * 입맛에 따라 조절 하세요.",
+		"6. 팔팔 끓으면 썰어 놓은 오이를 넣어 줍니다. * 팔팔 끓을때 넣어주면 식감이 더 좋아요. * 물이 뜨거우니 화상에 조심합니다.",
+		"7. 뜨거운물에 오이가 초록색으로 변하면서.. 식어집니다.",
+		"8. 식어지면 소독된 유리통이나 플라스틱통에 담아줍니다. * 상온 하루 숙성후 냉장보관 합니다.",
+		"9. 냉장보관 2~3일후 먹기 시작~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/98fffa91439241f43a4ba301e826b3bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/910a26de6410a077f388be91f678b2761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/e9e8027b6d405136c1a12f60f1f1b1ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/36e6d5e894ff2a5eed22cd11c8d13e2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/ece2f008f26d5db34462c1e7332580861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/308e3cedb052eb97404548a3f474c9af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/af95d417bfd225d93d97909662682dfd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/92561e80cdfaa9980cb8e522c6728bb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/60e8c3cd2e10830efdf0ede168e53e571.jpg"
+	]
+}

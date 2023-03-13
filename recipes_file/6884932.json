@@ -1,0 +1,35 @@
+{
+	"id": "6884932",
+	"name": "압력밥솥으로 고구마삶는법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/05/2c493d221041975ee15d412fd669c8761.jpg",
+	"url": "https://www.10000recipe.com/recipe/6884932",
+	"ingredient_ids": [
+		4,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "",
+			"ingre_unit": "크기에따라달라요"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 고구마를 깨끗하게 씻어주세요",
+		"2. 밥솥에 넣어주고 물100ml를 넣어주세요고구마양이 많다고 더 넣지마세요 - ",
+		"3. 압력밥솥에 찜 기능선택 ! 시간은 30분 !만능찜, 영양찜, 찜들어가는 기능은 다 가능해요 - ",
+		"4. 30분 지나면 이렇게 맛있는 고구마를 먹을 수 있어요 !"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/05/f5d875458147d138b6926a93f309c84a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/05/407189a29265c7528ce635fbb42f4e751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/05/b0e80f7c03149cb3610d3028139e22141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/05/161f6fb2da1e5e7ae6000c2c7aeb97df1.jpg"
+	]
+}

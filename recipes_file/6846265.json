@@ -1,0 +1,46 @@
+{
+	"id": "6846265",
+	"name": "집에서 수제 아이스크림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/11/c35c73e10aaa42fd595e646766d0aafe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846265",
+	"ingredient_ids": [
+		170,
+		204
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "키위",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "플레인요거트",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 준비물은 플레인요플레1개, 키위 1개예요.",
+		"2. 키위는 먹기좋게 다져주세요. 가운데 심지는 저는 제거해주었네요.",
+		"3. 플레인요거트1개 + 다진키위1개를 고루고루 섞어주세요. 그리고 집에 연유있으면 넣어주시고, 없으시면 꿀이나 다른걸로 대체해주세요. 좀더 건강하게 드시고 싶으시다면 생략",
+		"4. 아이스크림틀에도 얼려주었어요. 그리고 냉동가능한 반찬통등에도 얼려주었답니다.",
+		"5. 키위맛만 먹으면 아쉬우니깐  냉동블루베리, 딸기잼도 요거트와 섞어서 얼렸답니다.",
+		"6. 냉동실에 2시간뒤.. 꺼내서 포크로 폭폭!! 찔러주고, 스쿱으로 떠서 그릇에 담아주시면 된답니다.",
+		"7. 짠 : )"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/11/ffc8986a60998c22ce3a3cda3f0bf36c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/11/c3077e6f273979f383d28a4f137f31851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/11/e4d5d83118da40fed063d8d2bb8559841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/11/c100837ace1ef379271ad4b341ad19c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/11/aa93bfa7c703277cc9b95fdaff52bd9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/11/74f81588c0d38968b822aff433bd5bfb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/11/38a67032bdf28f2f366183738af8014d1.jpg"
+	]
+}

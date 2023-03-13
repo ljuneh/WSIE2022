@@ -1,0 +1,97 @@
+{
+	"id": "6941701",
+	"name": "아이반찬 새송이버섯볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/d523dc41961452c00fae47703547e3801.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941701",
+	"ingredient_ids": [
+		58,
+		3,
+		27,
+		504,
+		29,
+		477,
+		292,
+		497,
+		225,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/5",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		}
+	],
+	"recipe": [
+		"1. 적당한 크기로 썰어주고 양파는 채 썰고 대파는 송송 썰고 (사진에는 없지만 마늘 5개를 편 썰어 준비했습니다)",
+		"2. 달군 팬에 식용유를 두르고 편 썰어 놓은 마늘을 달달 볶아주고 (다진 마늘 1숟가락 넣어도 돼요)",
+		"3. 마늘이 볶아지면서 향이 올라오고 노릇하게 구워지면 새송이버섯이랑 양파 그리고 대파를 모두 한데 넣어 함께 볶아주고",
+		"4. 맛술(1",
+		"5. 굴 소스(1)을 한데 넣어 센 불에서 재빠르게 볶아 냅니다. 2~3분간",
+		"6. 양념이 배어들면 중불로 줄이고 드셔보시고 부족한 간은 소금으로 해주시고",
+		"7. 취향껏 후춧가루 그리고 참기름(0.5), 통깨를 넣어 볶아 마무리합니다",
+		"8. 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/9f916d758c2ad1b8c8bae785848a64d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/a3385bb9c0d5ce26f22945dee89c30401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/154a929d849b3aec99547d6ce16ff08f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/de81c1c23abf344d650a5bb595d913d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/e10c06f3a3c4130fc94e91d46bfc6d961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/e69d41558a7b8b15e940a4fc92df46151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/2fecb3170ee977d8cb62a9ac5e6998581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/1cc16e57cea69208f83012784ba972751.jpg"
+	]
+}

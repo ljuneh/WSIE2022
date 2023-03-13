@@ -1,0 +1,62 @@
+{
+	"id": "6940526",
+	"name": "♥[신혼간식] 소시지 바게트피자",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/b3ed264a1b7e154127c5af62ee04b8581.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940526",
+	"ingredient_ids": [
+		386,
+		212,
+		203
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "바게트",
+			"ingre_count": "10~15조각",
+			"ingre_unit": "~조각"
+		},
+		{
+			"ingre_name": "비엔나소시지",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "2~3장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "토마토스파게티소스",
+			"ingre_count": "10~15숟가락",
+			"ingre_unit": "~숟가락"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 바게트를 옆으로 길게길게 잘라주세요.너무 두껍게 잘라주면 바삭함이 덜해요.",
+		"2. 비엔나 소시지를 4~5등분이 나오도록 잘라주세요.",
+		"3. (토마토, 로제, 미트볼, 커리등) 시판용 소스 1숟가락 떠서 고루고루 펴발라주세요.",
+		"4. 비엔나 소시지를 올려주세요.",
+		"5. (선택재료) 치즈를 좋아하는 분이라면 체다치즈를 잘라 올려주세요.",
+		"6. 모짜렐라치즈 한줌씩 올려주세요.소스가 발린 바게트를 에어프라이어에 넣어 준 뒤  그 안에서 토핑을 올려주면 흘림 걱정 뚝!",
+		"7. 파슬리가루 톡톡톡 에어프라이어 180도 10분 정도 구워주면 바삭 소시지바게트피자 완성!에어프라이어에어프라이어 종류마다 온도 차이~노릇노릇 상태 보면서 시간 체크!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/d7467135f301fe019bb76a469198b9441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/3f0979ef657fbb29c173e8edc8db40341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/12804e2b2d71e21cb6d2c151a65b96d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/009d5e4276e9646cd50b5046bf8c43631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/02b976553cae1258ff93cad725649eff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/55f98f9d8fedffff90ca21be0eb047851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/fa48f4434784af341a5187a5cfc6473a1.jpg"
+	]
+}

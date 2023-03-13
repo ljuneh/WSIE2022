@@ -1,0 +1,108 @@
+{
+	"id": "6829769",
+	"name": "고사리 조기조림 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/03/60b8f3df4183cf6e4c96a7ca7782b5f21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829769",
+	"ingredient_ids": [
+		3,
+		27,
+		31,
+		224,
+		379,
+		233,
+		938,
+		327,
+		343,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "​조기",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "삶은고사리",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쑥갓",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 소주 0.5컵, 물, 말린 고사리를 넣고 삶아줍니다. 처음엔 센 불에 끓이다가 물이 끓어오르면 중불로 줄여 약 10분쯤 삶아주면 됩니다.",
+		"2. 삶은 고사리는 흐르는 물에 깨끗이 씻어 찬물에 담가둡니다. 약 1시간정도 담가두었던것 같아요.",
+		"3. 조기는 비늘, 지느러미, 내장을 제거하고 흐르는 물에 깨끗이 씻어줍니다.",
+		"4. 고춧가루, 간장, 다진마늘, 매실청, 들기름, 미림을 넣어 잘 섞어 양념장을 만들어 줍니다.",
+		"5. 냄비에 고사리를 깔고, 양념장 2큰술을 넣어 조물조물 무쳐줍니다.",
+		"6. 고사리 위에 조기를 얹고, 남은 양념장을 모조리 끼얹어 줍니다. 그리고 물을 부어 끓여줍니다.",
+		"7. 물이 팔팔 끓어오르면 양파를 채썰어 넣고, 대파와 홍고추를 어슷썰어 넣어줍니다. 그리고 냄비 뚜껑을 덮고 푹 끓여 줍니다.",
+		"8. 조기가 다 익으면 쑥갓을 넣고 바로 가스불을 끕니다. 쑥갓이 익으면 고명으로 쓸 수 없기에 익히지는 않았어요.",
+		"9. 이렇게 고사리 조기조림이 완성되었어요. 홍고추와 쑥갓이 올라가니 색감이 훨씬 예쁜듯 해요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/a49b27c9b939a6b57a4b0bac3978123d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/63a2407fa5ce798186e6414811067c1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/43a3be5edecfda9cad6c90df9c7d4b8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/b06f5ec6c28e8a8089b111b6ecc18b231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/5e256463e8d12e54244ecae3e38f83881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/0b3bdf5b79c26a0519432b5e41e0007c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/91416073a21303ac79c892b33a88e2ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/9c5ec4592e0fc98771cc7755f4a794191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/06/5c6fcb60c06e563246b64d82b7d7b06e1.jpg"
+	]
+}

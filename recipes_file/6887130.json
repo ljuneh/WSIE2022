@@ -1,0 +1,50 @@
+{
+	"id": "6887130",
+	"name": "마늘버터 새송이 / 오늘도 고생한 나에게#20 [ 심야레시피 ]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/04/12/3cf049e1aa647c97fc139a16e2134f791.jpg",
+	"url": "https://www.10000recipe.com/recipe/6887130",
+	"ingredient_ids": [
+		58,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "버터1스푼(전자레인지에녹여)",
+			"ingre_count": "1스푼(전자레인지에 녹여)",
+			"ingre_unit": "스푼(전자레인지에 녹여)"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		}
+	],
+	"recipe": [
+		"1. 새송이버섯을 적당한 크기로 잘라준다.",
+		"2. 잘라준 버섯에 소금을 살짝 뿌린다",
+		"3. 소스를 앞뒤로 발라준다",
+		"4. 중약불에서 구워준다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/12/634ea4b26bfc7a17387d68f91ce4483e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/12/07df4273ac1e48e88f0fc01adab0cf491.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/12/48a2cb39f0beaff26ac952219a722c0b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/12/615a9db6655d43de6b77520cf922c6411.png"
+	]
+}

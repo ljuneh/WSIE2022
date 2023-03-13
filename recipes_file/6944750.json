@@ -1,0 +1,60 @@
+{
+	"id": "6944750",
+	"name": "제철 고구마 요리/ 고구마 샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/a9fb7ae4212e8b29c620de48b45adc201.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944750",
+	"ingredient_ids": [
+		497,
+		228
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마소",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕혹은꿀",
+			"ingre_count": "1/2",
+			"ingre_unit": "ts"
+		}
+	],
+	"recipe": [
+		"1. 고구마는 작은 것으로 준비해  흙을 씻어내고 준비한다. 혼자 먹을 거라서 두 개만 준비 하였다.",
+		"2. 한 김 오른 찜기에 쪄준다. 찜기에 음식을 익힐때는 한 김 오른 뒤에 올려줘야 달라붙지 않고 모양이 예쁘게 쪄진다.",
+		"3. 고구마가 익는 동안에 콩을 삶는다. 약간의 소금을 넣고 두껑을 열고 익혀준다. 익히는 중간에 뚜껑을 열면 콩 비린내가  나므로 처음부터 뚜껑을 닫지않고 삶아주는것이 좋다.",
+		"4. 보글보글 잘 익어가고 있다.",
+		"5. 익힌 콩은 물은 버리고 찬물에 식혀서 물기를 제거해 준비한다.",
+		"6. 잘 익은 고구마는 도구를 이용하여  으깨준다.",
+		"7. 콩을 넣고 마요네즈 1T와 설탕 1/2ts를 넣고 잘 섞어준다. 올리고당이나 꿀을 넣어도 좋지만  엄마의 음식이 그리워 설탕으로 대체 하였다.",
+		"8. 완성 되었다. 엄마의 음식이 그리운 날에 해 먹는 고구마 범벅요리.",
+		"9. 고구마는 실온에 보관하고 싹이 나기전에 찐 고구마나 군고구마를 만들어  지퍼백에 넣어 냉동실에 보관하면 필요할때 꺼내 먹을수 있어서 좋다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/5ef9e10c74f260bf52e75622468c519f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/1f84f243524cceb147af2da23df5534c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/e292eca1059ad9e49cb84bd38efa7b3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/095bf83ffd6f19218f7cf71c504515861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/74a3dbd41f4dd32379bb51b09f43d14d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/f8f89ed13f245a0148604f81b520847c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/42e3022f98e487a52002081097b213761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/836d4ea49dc4d36d2072cee7263c55201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/488c7296e5b6ea01db14b4e6d16913341.jpg"
+	]
+}

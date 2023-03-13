@@ -1,0 +1,79 @@
+{
+	"id": "1052615",
+	"name": "돼지고기 장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/893ee059c144cfa9fecd7565e30534e4.jpg",
+	"url": "https://www.10000recipe.com/recipe/1052615",
+	"ingredient_ids": [
+		27,
+		28,
+		34,
+		219,
+		221,
+		379,
+		995,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "장조림용돼지고기",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "12",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "8",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기는 찬물에 1~2시간 담궈 핏물을 뺀 뒤 물 8컵에 돼지고기와 통마늘 5개를 넣고 속까지 익도록 푹 삶아줍니다. 끓이는 동안 뜨는 거품을 걷어냅니다. 달걀도 미리 삶아 껍질을 까서 준비하세요. 소금을 넣고 삶으면 달걀이 잘 깨지지 않고 껍질도 잘까져요.",
+		"2. 고기는 건져서 찢고 거품을 걷어내 맑은 육수는 3컵정도 남겨 식히고, 통 마늘과 나머지 부유물은 버립니다.",
+		"3. 육수에 찢어놓은 돼지고기, 삶은 달걀(메추리알), 통마늘 5개, 대파, 생강, 고추, 그리고 양념 재료를 넣고 국물이 반으로 졸아들 때까지 약한불에 졸여줍니다. 간이 잘 베도록 고기를 뒤집어가며 졸여주세요. 완성되면 생강은 빼고 한김식혀 보관합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/c346d328db0cec7010fcc7b287a02c641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/26f8d30f5fc1ee4e31f6411e209c68ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/f8a55242c971a6cf16eb65caa81439781.jpg"
+	]
+}

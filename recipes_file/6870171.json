@@ -1,0 +1,93 @@
+{
+	"id": "6870171",
+	"name": "탱글탱글 낙지가 입안에서 살아움직이는 듯!? 낙지전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/23/401de24602a785fbf84332467b5c22aa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6870171",
+	"ingredient_ids": [
+		64,
+		30,
+		7,
+		53,
+		295,
+		219,
+		387,
+		995,
+		379,
+		231,
+		995,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "낙지",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 낙지는 작게 자르고, 애호박은 채 썰고 부추는 약 2cm길이로 자르고 표고버섯은 채 썰고 청양고추는 송송 썰어 준비한다.낙지 2마리, 부추 1줌, 애호박 1/2개, 표고버섯 2개, 청양고추 2개",
+		"2. 볼에 부침가루, 달걀, 물을 넣고 준비한 재료를 모두 넣어 섞는다.달걀 1개, 부침가루 1cup, 물 1/2cup볼",
+		"3. 예열된 팬에 기름을 두르고 낙지 전을 노릇하게 부쳐 내어 완성한다.[선택재료] 간장 2T, 식초 1T, 물 1T, 고춧가루 약간팬선택 재료로 초간장을 곁들여 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/23/6e29eac19cf2122f0501422209d08f5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/23/92f83d9d5f1d6bda91747c00315a951a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/23/c5f8ffab1b5424e123226f3e20e9e1c51.jpg"
+	]
+}

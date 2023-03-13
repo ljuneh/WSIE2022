@@ -1,0 +1,83 @@
+{
+	"id": "6893425",
+	"name": "아삭아삭한 노각무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/01/708a95d526652898ceeeefbcf57e269c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6893425",
+	"ingredient_ids": [
+		784,
+		27,
+		282,
+		473,
+		233,
+		224,
+		660,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "노각",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파(중)",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "스테비아",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 노각은 씻은후 반으로 자르고 가운데 속을 파내어 버려주시구여^^",
+		"2. 있는모양대로 자르시고~ 굵은소금 1T를 뿌려주시고 5~10분정도 절여주세요",
+		"3. 다 절여져 전 헹구지안고 바구니에 담아 물기를 빼고 사용했습니다^^",
+		"4. 고추장· 고춧가루· 다진마늘· 양파· 스테비아·노각을 섞어 조물조물 무쳐주시고 (새콤달콤하게 드시고 싶으면 식초 넣어도 되구여~^^)",
+		"5. 맨 마지막에 대파와 참기름· 깨소금을 넣어 무치면 노각무침 완성^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/01/3eaf755d7cb842da76e549a04db4ddcb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/01/b9e14e83cc7bf3bdd9288ac2f6ae66291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/01/5fea99f8dc248528a0013b886477dabd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/01/1337c3407fcd2bbd9f34652c5d8d094e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/01/de8edbd0231bfb6d6d972a7e9796c86e1.jpg"
+	]
+}

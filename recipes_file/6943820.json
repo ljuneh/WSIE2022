@@ -1,0 +1,60 @@
+{
+	"id": "6943820",
+	"name": "소고기 볶음< 초간단 >",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/2dd4247f2cf13f3ef25875a5502ea4f01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943820",
+	"ingredient_ids": [
+		3,
+		58,
+		226,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "소불고기",
+			"ingre_count": "160",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "흑마늘소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 불고기를 웍에 넣고 넓직하게 펴줍니다 설탕 1/2T 넣고 센불에 볶아주세요",
+		"2. 양파와 새송이버섯을 채썰어 주세요 고기가 익으면서 육즙이 나오는데 이때 야채를 넣고 같이 볶아주세요",
+		"3. 흑마늘 소금과 통후추를 갈아서 골고루 뿌려줍니다 야채가 익으면 불을 끄고 통깨를 뿌려 주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/a96fbd5dac85ffd012397fbb32360e681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/8e6a3653885b5fb50bf804763e6ac96a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/f9ecaa5780b40a39397223e4f71e26681.jpg"
+	]
+}

@@ -1,0 +1,96 @@
+{
+	"id": "6943663",
+	"name": "추석요리 _ 연휴마무리는 매콤 치킨강정으로~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/4b3ac7fe1b05774ebcc31870c8c248de1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943663",
+	"ingredient_ids": [
+		300,
+		473,
+		276,
+		379,
+		292,
+		843,
+		226,
+		995,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "녹말가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "10",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고운고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 닭가슴살은 한 입 크기로 먹기좋게 썰고 녹말가루, 카레가루 섞어서 옷 입혀 줍니다 일회용비닐팩 사용하면 수월하게 할 수 있어요",
+		"2. 200도 예열한 에어프라이어에 닭가슴살 넣고 10분 돌려요에어프라이어",
+		"3. 아래 위 뒤집여주고 다시 200도 8분 돌리는데요 통마늘도 함께 돌릴게요",
+		"4. 그동안 소스 만들어요 물에 설탕녹이고 고추장, 고춧가루, 간장, 맛술, 매실액넣고 팔팔 끓여요",
+		"5. 맛있게 튀겨진 닭가슴살넣고 소스에 버무립니다 ",
+		"6. 참기름 둘러 마무리해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/142d38d9145a0c8461d322a9ed52676c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/5ebaf457d25532f6eaea22e080bac0dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/4235bcd1ef87b210beb93ed6cf2420331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/67a79cf18f1ca5884797d5721c42333f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/ed0823c38f620cd3570ad873945b70671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/bd42f38f9f2f23358964e2719b8a8af11.jpg"
+	]
+}

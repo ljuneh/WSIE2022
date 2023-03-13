@@ -1,0 +1,59 @@
+{
+	"id": "6845806",
+	"name": "봄동겉절이 이것 하나만으로도 입맛 확 살죠!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/02/1db432a5604aa4257ec5931130b7e6171.jpg",
+	"url": "https://www.10000recipe.com/recipe/6845806",
+	"ingredient_ids": [
+		417,
+		282,
+		287,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "봄동",
+			"ingre_count": "1917",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "7",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "조미료",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 봄동을 하나하나 깨끗히 씻습니다 봄동을 먹기좋은 크기로 자릅니다  (봄동은 작은 포기로 되어 있는걸 사야 맛있어요)",
+		"2. 굵은소금에 절입니다",
+		"3. 숨이 죽은 봄동은 씻어 체에 받칩니다  물기가 빠지면 양념을 넣습니다",
+		"4. 봄동을 살살 버무립니다",
+		"5. 접시에 이쁘게 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/02/b8045fd150aa813b176d5815326f79471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/02/c7f96a253a7597fbd24d92ff5156c3081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/02/6718f747dcd7600099b4c8f8f24c7a3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/02/0c987f4be007e2a070efbba74654d6661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/02/ca123dd9c440bf21503a934004424f651.jpg"
+	]
+}

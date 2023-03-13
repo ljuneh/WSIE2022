@@ -1,0 +1,96 @@
+{
+	"id": "6879985",
+	"name": "등갈비찜 & 등갈비오븐로스트",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/23/348f1a5151947bbc73a08c0dab01a6211.jpg",
+	"url": "https://www.10000recipe.com/recipe/6879985",
+	"ingredient_ids": [
+		28,
+		497,
+		473,
+		515
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지등갈비10파운드(4.5kg)",
+			"ingre_count": "10파운드(4.5kg)",
+			"ingre_unit": "파운드(.kg)"
+		},
+		{
+			"ingre_name": "파인애플캔",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "20",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "칠리소스",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "흑설탕/황설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "청주(조리직전)",
+			"ingre_count": "1/3컵x2군데",
+			"ingre_unit": "컵x군데"
+		}
+	],
+	"recipe": [
+		"1. 코스코에서 등갈비 한팩을 사면 13-14대씩 붙은 갈비가 3줄 묶여있어요. 냉동실에 들어가면 나중에 해동도 어렵고 자리도 많이 차지하니까 갈비대 사이로 갈라서 한대씩 잘라놨어요. 갤런 사이즈 지퍼백에 20대정도씩 해서 두팩 나왔습니다. 이렇게 썰어 정리해놓은 등갈비는 일단 냉장실에 두고요, 고기를 재워놓을 소스를 만들차례입니다.",
+		"2. 단맛과 신맛을 위해 파인애플 캔을 사용했어요. 연육작용에도 도움이 되지요. 파인애플캔에 들어있는 쥬스(요즘은 시럽에 들어있는 거 눈에도 안 띄는 것 같아요)는 블렌더에 붓고 파인애플은 잘라서 블렌더에 넣어줍니다. 슬라이스 된 거 아니고 조각난 거 들어있는 파인애플 캔이면 그냥 쏟아부으면 되겠죠. 그 위에 통마늘20톨, 편생강5조각 넣고 먼저 함께 갈아 큰 보울에 옮겨넣어주세요.",
+		"3. 파인애플, 마늘, 생강 간 것에 나머지 소스재료를 차례로 넣고 모두 한 데 섞어주세요. 여기서 칠리소스는 단맛과 신맛과 매운맛이 같이 있는 시판 칠리소스를 말합니다. 칠리소스가 없으시면 케찹으로 대체하셔도 큰 차이는 없어요.",
+		"4. 소스가 만들어지면 냉장고에 넣어두었던 고기를 꺼내어 지퍼백 안에 소스를 넣어주세요.",
+		"5. 이렇게 지퍼백 속에서 소스에 잠긴 등갈비는 냉장실에서 최소 4시간~최대24시간 숙성을 시켜주세요.",
+		"6. [찜버젼1] 큰 냄비에 양념에 재워놓은 등갈비 한 팩(등갈비20대, 약 5파운드가량)을 양념과 함꼐 쏟아붓고 청주나 맛술을 1/3컵 고루 뿌려준 다음 강불에 올려놓습니다. 끓이기 시작한 시간으로부터 20분후쯤 중약불로 내려주세요.",
+		"7. [찜버젼2] 끓이기 시작한 시간으로부터 30분후(불을 줄이고나서 10분뒤) 주걱을 이용해 아래 위를 뒤집어주시고 약 20분 간격으로 반복해주세요.",
+		"8. [찜버젼3] 시간이 2시간 가까이 되면 냄비 아래부분에서 늘러붙어 타려고 해요. 불조절이 각자 조금 차이가 있을 수도 있으니 2시간 꼭 채우지 않으셔도 된답니다. 마지막 30분은 수시로 들여다보시고 다 졸아서 탈 것 같다 싶으면 불을 꺼주세요.",
+		"9. [오븐로스트버젼1] 13x9인치 유리팬에 양념에 재워놓은 등갈비 한 팩(등갈비20대, 약 5파운드가량)을 양념과 함께 쏟아붓고 청주나 맛술을 1/3컵 고루 뿌려준 다음 오븐에 2시간 가량 익혀줍니다.오븐",
+		"10. [오븐로스트버젼2] 오븐에서 익힌지 4-50분후 아래위를 뒤집어주세요. 냄비에 찌는 등갈비와는 달리 윗부분이 먼저 익어요. 하지만 양념 속에 잠겨야 익으면서 양념이 더 배어드니까 자꾸 섞어주면 더 좋겠죠. 20분간격으로 반복해주세요.",
+		"11. [오븐로스트버젼3] 냄비에 찐 갈비보다 색이 흐리죠? 아무래도 육안으로 오븐로스트보다 찜이 간이 더 잘 밴것 같은 느낌적인 느낌."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/22/ee5d4fdac4e137ee23ca0955916d9eb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/22/083e268fea5d221074653b47bb35b9ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/22/7ecd6288683b49398f1eaf11c389d3b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/22/24da8492eee15d92cac532970e1013571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/22/0c321d02ee5d969e4f7db316a2e8f4e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/23/4d8f0966d42dfccc19c5b1ff7e2610341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/23/34184395c056367d1ca5a7b0945c90fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/23/d8808504c72b20591e1a7aa2755ddf4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/23/6554d04e8f523417d1bb8ac47f77293a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/23/4433a7cb65bf1e0cb46a2475e89b78b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/23/0622f46c806f2bd99953e2f4a91dd81b1.jpg"
+	]
+}

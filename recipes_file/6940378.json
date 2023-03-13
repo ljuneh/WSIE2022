@@ -1,0 +1,45 @@
+{
+	"id": "6940378",
+	"name": "#시원한음식 #여름간식 #수박화채만들기 #달달하면서도 시원하고 상쾌한 기분좋은 시원한 맛!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/fdae4df1759fca639f861525c198d0fb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940378",
+	"ingredient_ids": [
+		161,
+		655
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "수박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "딸기요거트",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "포도요거트",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "탄산수",
+			"ingre_count": "700",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 수박 속을 긁어서 그릇에 담아 줍니다. 수박을 동그랗게 더는 도구가 있다면 그것으로 예쁘게 덜어서 사용하셔도 되고요. 없으시면 그냥 수저를 이용해서 퍼서 담아 주시면 됩니다.",
+		"2. 여기에 딸기요거트, 포도요거트를 넣어 줍니다. 단맛과 고소한 맛은 이녀석들이 책임을 지지요. ",
+		"3. 여기에 탄산수를 가득 채워 줍니다. 그리고 냉장고에 차갑게 해 두었다가 드시면 맛있습니다.",
+		"4. 달달하면서도 상쾌한 시원함이 있는 마시기만 해도 속이 뻥뚫리는 수박화채 완성입니다. 딸기맛도 나고 포도향도 나고요. 씹히는 식감도 수박과 더불어서 좋더라구요. 예전에는 그냥 사이다로 했는데 색다르게 이렇게 해서 먹어 보니 사이다보다는 훨씬 100배는 더 맛있는 듯 싶었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/41e1acdb4de8f406c386a8229841b58b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/09464b48c117b35128c154c205196c071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/0476c5e053f2ef1f342442fbd6f7c67e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/9f080c9aa3e7c53a8e1e9a4987cbd87e1.jpg"
+	]
+}

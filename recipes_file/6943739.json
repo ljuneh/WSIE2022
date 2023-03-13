@@ -1,0 +1,72 @@
+{
+	"id": "6943739",
+	"name": "백파더 김치볶음밥 넘나 쉬워",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/12e519450bcafb3de89d825180a55ff31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943739",
+	"ingredient_ids": [
+		226,
+		224,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2/3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3~5스푼",
+			"ingre_unit": "~스푼"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "그릇"
+		}
+	],
+	"recipe": [
+		"1.  김치는 신김치로 종이컵 1컵정도 준비해주시면 되는데요. 저는 없어서 그냥 배추김치 준비했어요. 신김치가 없다면 식초 반스푼 넣어주시면 되는데, 이때 사과식초 말고 양조식초로 넣어주세요 .저는 사과식초밖에 없어서 그냥 패스- ",
+		"2.  햄은 스팸으로 준비하는데 없다면 일반 햄도 상관은 없어요. 스팸은 작은거 반통 100g정도 준비했구요. 따로 칼질할 필요 없이 비닐에 넣어 손으로 마구마구 으깨주시면 되서 너무 좋아요.",
+		"3.  이제 팬에 기름 2스푼정도 두르고 으깬 햄을 넣어 노릇하게 볶아주세요.",
+		"4.  햄이 노릇해지면 설탕 3분의2스푼 넣어주시고 잘 섞어 볶아주다가 진간장 2스푼을 넣어주세요. 간장은 팬에 넣고 바글바글 끓여주시는데 5~10초정도 두었다가 볶아주시면 되요.",
+		"5.  그리고 썰어둔 김치를 넣어 잘 섞어주다가 고춧가루 반스푼도 같이 섞어주세요. 좀 더 칼칼하게 드시고 싶다면 1스푼을 넣어도 좋아요 .",
+		"6.  고춧가루가 들어가니 좀 뻑뻑한 느낌인데 이때 물을 3~5스푼정도 넣어주시면 되요. 그러면 타지 않고 촉촉하게 볶을 수 있답니다 ",
+		"7.  그리고 밥 한그릇 넣어 잘 섞어주시면 되요. 이때 불을 끄고 볶아주시면 타지 않고 여유롭게 볶을 수 있으니 참고하세요~ "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/880f340bbb627a30cee044c85029238e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/d0c0dc973bdb7482296e95dabcbb0f401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/6c9e344939abf88f4a3a41cd071a07101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/4821ed9e936e145c349de11cda62ffd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/9e7643df737634cd7489ce7e5edc27611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/9550ab3d2747262a8954607ff463503f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/a56431f911082f5a26b42194695ca1ae1.jpg"
+	]
+}

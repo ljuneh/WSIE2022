@@ -1,0 +1,55 @@
+{
+	"id": "6889709",
+	"name": "쉬운 계란요리 밥반찬 양배추 계란전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/4556c289afda00e53f1ad35b9c4574fe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6889709",
+	"ingredient_ids": [
+		21,
+		504,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 계란2개를 잘 풀어준 후 소금 한꼬집을 넣어주세요.",
+		"2. 양배추는 채를 썰고 흐르는 물에 잘 씻어주세요.키친타올로 물기를 제거해주세요.",
+		"3. 계란물에 채썬 양배추를 넣고 잘 섞어주세요.양배추에 계란물을 골고루 잘 흡수시켜주세요.",
+		"4. 후라이팬에 기름을 두르고 섞은 재료를 올려주세요.양배추는 평평하게 잘 깔아 주고 남은 계란물까지 골고 부어주세요.",
+		"5. 한쪽면이 어느 정도 익었다면 뒤집어서 반대쪽도 잘 구워주세요뒤집기 전 계란이 잘 익었는지 보려면 겉 테두리를 보세요.",
+		"6. 양쪽 모두 노릇노릇 잘 구워졌다면 양배추 계란전이 완성이 된거예요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/f0d9f0c62c54bb637f138d67458ade0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/3e4a377ba4e4432b1ca2cdecbf286c1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/5445eb94ccabfb3b7dbaab9875df451a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/75d1496e5bc021ec986bd48125a50e361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/c4ee973bdb046fe350fa4939f44318a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/28/a2f523b9fc1df12ddd3f9518ad97a1081.jpg"
+	]
+}

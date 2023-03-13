@@ -1,0 +1,94 @@
+{
+	"id": "6943747",
+	"name": "추석요리 건강반찬 연근조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/a4337a80823e71babdedc3d25fd8142c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943747",
+	"ingredient_ids": [
+		24,
+		504,
+		90,
+		231,
+		995,
+		379,
+		231,
+		350,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "연근",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "갈색설탕",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비해 주세요~",
+		"2. 흙이 묻은 연근은 물에 대충 씻고  양쪽 끝은 약간 잘라내고  필러로 필어 껍질을 벗긴후 0.5Cm정도 되는 두께로 썰어 주세요~",
+		"3. 팬에 식용유를 두르고 연근을 넣고 볶아  기름 코팅을 한번 시킨 후 물을 붓고 다시마 1조각을 넣어 주세요~",
+		"4. 적힌 분량의 간장과 갈색설탕을 넣고 한번 휘저어 섞은 후  뚜껑을 덮어 중약불에서 10분 정도 은근하게 조려 주세요~간장과 설탕은 연근양에 따라 가감해 주세요~",
+		"5. 설탕은 갈색설탕 사용했는데  흙설탕 사용하면 색도 빨리나고 예쁘게 낼 수 있어요~",
+		"6. 뚜껑 열고 5분 정도 더 볶아 주세요~",
+		"7. 국물이 거의 다 없어지면 다 조려졌어요~",
+		"8. 마지막에 식초 1티스푼 넣고  센불에서 휘리릭 볶아 식초향 날려주면 연근조림에서 윤기가 돌아요~",
+		"9. 불 끄고 깨소금과 참기름 약간씩 넣어 주세요~",
+		"10. 몇번 뒤적여 골고루 섞어 주면 연근조림 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/93b78e4ae04c7f20b0d807dc5e2f626f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/0e79a3adea1a42e1bc9c14e487af087a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/0ed345e7c676caaee47c52e565f01e611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/1b2495f7958341dfa122925a2828bdcc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/fea2c7c37d28b17779e1bf801f62cc661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/033dd82649e508ec8fba22d1e2dc180f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/f3626e90d59cce8705c8500eeb8c4b271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/2c5466df02ce228bc543b59afb532ef51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/a342224a82cfe588be98c08aec862ee11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/9e6ff29600495c92beba59b4bfba783e1.jpg"
+	]
+}

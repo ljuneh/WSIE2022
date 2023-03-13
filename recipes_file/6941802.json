@@ -1,0 +1,69 @@
+{
+	"id": "6941802",
+	"name": "콘치즈 오믈렛 < 간단 레시피 >",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/61e7d9474e851cebcd40437016aa46641.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941802",
+	"ingredient_ids": [
+		219,
+		233,
+		212,
+		214
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "캔옥수수",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진당근",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 재료 : 달걀 3개, 캔 옥수수 3T, 다진 당근 2T, 다진마늘 1/2T, 모짜렐라 치즈 , 슬라이스 치즈 2장",
+		"2. 달걀을 포크로 곱게 풀어줍니다 팬에 식용유를 두르고 뒤집개로 팬 바닥에 식용유를 펴주고 예열한 후 달걀물을 부어줍니다",
+		"3. 당근을 넣고",
+		"4. 팬을 가장자리 쪽으로 돌려서 달걀을 익혀주세요",
+		"5. 다진마늘을 넣어 주세요",
+		"6. 옥수수알을 넣어 주세요",
+		"7. 모짜렐라 치즈를 골고루 뿌려줍니다",
+		"8. 슬라이스 치즈를 넣어줍니다",
+		"9. 불을 끄고 양쪽을 접어서",
+		"10. 담을 접시에 팬을 엎어서 오믈렛을 놓습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/b3cc01e44aa27971fe677d8e9a701e1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/9d6dd70383408d830c3e1728d8b5bb7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/bb2831b0c24a5b03a4b68354e5ed54d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/e870cb1ec1c8a06e388c5e87e39e08791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/59a3655ec8673947e0b81f1cd55029411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/9201d8c0d001b3b138a081a1494757ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/98a44c3e1fe0b5b22fe152343428f4ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/8a3d6a9c85582bfdec883bc247b6d90d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/94b39b8298d196e3d1e2b1b0608ac56b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/b71bf81979d35dec42f80d005715f40f1.jpg"
+	]
+}

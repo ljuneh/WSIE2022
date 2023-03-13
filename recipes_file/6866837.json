@@ -1,0 +1,35 @@
+{
+	"id": "6866837",
+	"name": "간편하게 김굽기! 들기름 김구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/14/cfdf8763c961603d5d33a3fada2c4df71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866837",
+	"ingredient_ids": [
+		95,
+		327
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "김",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 우선 파래김을 준비했어요~",
+		"2. 들기름을 바를때에는 한장한장 바르지는 않았고 편하게 굽기 위해서 일종의 편법이랄까요~~ㅎㅎ 팬을 아주 살짝 달구어서 약간 따뜻한 기운이 있을때 불을 끄고~ 들기름을 둘러주고요~",
+		"3. 그 위에 김을 뭉탱이로 올려서 들기름 동그랗게 돌려서면서 묻혀줘요~ 그럼 바닥에 있는 김은 들기름이 많이 묻어 있잖아요~ 그걸 가운데에 끼우고 기름이 안 묻은 김은 다시 들기름을 묻히고~ 또 다음장~~ 들기름이 없어지면 또 살짝 부어서 묻혀주고~~ㅎㅎ 이런 방식으로 들기름을 바른 후~~",
+		"4. 다시 불을 켜고 중간 불에서 김을 굽습니다. 소금 없이 김에서 파릇파릇한 초록빛이 날때까지 구워야 맛있어요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/3a101dec545403b24cb2e2355a2f28481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/072dcab0c3ef8089a98748f561b040161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/e1c23f64d1dbaf416c82629ccb6d96ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/25b5b4f0e47c664a143d2b9cb259e3b91.jpg"
+	]
+}

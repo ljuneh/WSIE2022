@@ -1,0 +1,76 @@
+{
+	"id": "6943084",
+	"name": "[추석요리]산적꼬치전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/e735966746efef3e90c9da311a00e7b01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943084",
+	"ingredient_ids": [
+		289,
+		628,
+		505,
+		58,
+		387,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 맛살은 세로로 길게 절반 썰고, 햄과 새송이버섯은 맛살과 비슷한 두께로 썰어주세요. 실파는 씻은 후 키친타올에 물기를 제거하고 맛살길이에 맞춰 썰어주세요.",
+		"2. 4가지 재료를 꽂아 산적을 만들어 볼게요.새송이버섯 대신 기호에 맞게 단무지나 우엉, 소고기를 사용하셔도 좋아요.",
+		"3. 꼬치에 준비한 재료들을 꽂아주세요.산적꼬치 길이 7~8cm",
+		"4. 15개 정도 나오네요 ~",
+		"5. 넓은 쟁반에 부침가루, 볼에 달걀 5개와 소금 1/3t을 넣고 풀어주세요.",
+		"6. 부침가루를 입혀주세요.산적꼬치 앞면에 부침가루는 살짝만 입혀야 색이 예쁘게 나와요.",
+		"7. 달걀물을 입혀 산적꼬치 앞면이 위로 가도록 하여 지져주세요.",
+		"8. 뒷면이 익으면 뒤집어 주세요. 앞면은 달걀옷만 익으면 바로 빼주세요.",
+		"9. 키친타올이나 기름종이를 깔고 그 위에 산적꼬치를 올려주세요.",
+		"10. 한김 식은 후 꼬치를 빼주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/0ea7bd41ffb77a1a7f92e13e8f8bd6741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/2f68a996fa6c2bdd7632f72c32f313241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/1dab021b0a7dbbe58e9617fdf962d47f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/2d3fe93ab0513f903dd80efb5cb732e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/aab2149b106eae01ee674452c350d3031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/1146eb69e4078e24c1e1ee58a1efb44f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/760a41aff8cd908f29bc57068b8950f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/2a1e07c6025176377e18757967211aa11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/5c3d4ea8f39de29ef980c2c9f4b453f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/b1f1dc7e7b67e919afccf3bd2390ef151.jpg"
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"id": "6733395",
+	"name": "바나나밀크쉐이크 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/05/ee151023296fa1b68bb734964e2b23f81.JPG",
+	"url": "https://www.10000recipe.com/recipe/6733395",
+	"ingredient_ids": [
+		141
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "120",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "10~11개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "꿀or시럽",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 믹서기에 얼음을 부어주세요.  바나나 1개와 우유를 부어주세요.                   ",
+		"2. 시럽 혹은 꿀을 넣어주세요.",
+		"3. 믹서기로 갈아주시면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/7778310cf6066f1b9fc6d3363278462a1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/d92c693ecbac37da6c274bafd1a01b3c1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/1bff51a96c52b021e2dfeb6d8d790d8d1.JPG"
+	]
+}

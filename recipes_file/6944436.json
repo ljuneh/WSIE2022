@@ -1,0 +1,101 @@
+{
+	"id": "6944436",
+	"name": "을지로 골뱅이무침 따라하기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/50b38e6034edbc3ae7d32c6e1b9f91fb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944436",
+	"ingredient_ids": [
+		475,
+		3,
+		8,
+		523,
+		27,
+		473,
+		224,
+		575,
+		938,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "골뱅이통조림",
+			"ingre_count": "1",
+			"ingre_unit": "캔."
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소면",
+			"ingre_count": "4",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "당근채",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 골뱅이 통조림에서 내용물과 국물을 분리하세요. 국물은 버리지 마세요. 골뱅이만 2등분 해주었어요.",
+		"2. 대파는 깨끗이 씻어서 채를 썬 다음 물에 10분 정도 담궜다가 물기를 제거합니다. 오이는 반갈라서 어슷썰어주고요. 당근과 양파는 채를 썰어줍니다.",
+		"3. 골뱅이 국물 한 컵에 고추장 1큰술, 고춧가루 2큰술, 진간장 1큰술, 올리고당 1큰술, 매실청 1큰술, 참기름 1큰술, 통깨 1큰술 을 넣어 잘 섞어줍니다.",
+		"4. 골뱅이와 오징어채를 버무린 후 야채들을 다 넣어버무려줍니다.                   ",
+		"5. 소면은 물이 팔팔 끓으면 넣어주고 3분 30초 정도 삶아주면 되는데요. 처음에 소면을 넣고 다시 물이 끓으면 찬물 반 컵을 넣어주고 두번째 물이 끓이면 또 찬물 반 컵을 넣어줍니다. 다 삶아진 면은 찬물에 넣고 양손으로 면을 비벼 가면서 전분기를 제거해줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/52d966ddb815b44d1d0e283b2c8807cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/1f2377ff281c5a39f57ffc638431044c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/51ba4355cc4d7df1c235efc1af6578611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/47e5b0d046088359d85324224438b9f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/a8b4cf7a85a00cff8ba0bcedfcb8f4491.jpg"
+	]
+}

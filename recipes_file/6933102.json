@@ -1,0 +1,75 @@
+{
+	"id": "6933102",
+	"name": "오독오독 맛깔나는 오이지무침, 최애반찬 오이지 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/253f772899b7868cecf3f6486a823f501.jpg",
+	"url": "https://www.10000recipe.com/recipe/6933102",
+	"ingredient_ids": [
+		1010,
+		281,
+		226,
+		233,
+		660,
+		290
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "오이지",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굵은고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "송송썬파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 오이지는 만들어도 좋지만 마켓에서도 쉽게 구매가능하거든요. 1팩을 샀는데 4개가 들어있습니다.",
+		"2. 송송 잘 썰어준 다음 찬물에 담구어 짠기를 좀 빼 주세요. 두께감은 원하는대로 편하게 하심 됩니다.",
+		"3. 20분 정도 지난 후 하나를 건져 맛보세요. 오이지마다 짠정도가 다르기 때문에 찬물에 담그는 시간이 달라지거든요. 짠맛이 빠지면 이제 건져 아주 힘껏 꽈악! 짜서 준비합니다.",
+		"4. 굵은 고춧가루 2큰술, 설탕 2큰술, 진간장 2큰술, 다진마늘 1큰술을 먼저 넣고요",
+		"5. 첨엔 조물조물 무치다가 마지막에 바락바락 무쳐주세요. 간이 쏙쏙 베이도록~",
+		"6. 마지막에 송송파(또는 쪽파), 참기름, 깨를 넣고 무쳐 마무리 하면 오독오독 맛있는 오이지무침 완성!!",
+		"7. 방금 지어낸 따뜻~한 밥 위에 올려 먹어도 넘 맛있구요, 시원하게 물 말은 밥에 올려 먹어도 아주 좋지요~ 맛있게 드세요 :)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/82cc047802fadd5868c1897d8f5c56891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/6c18d392777bbd9b8a681d0eb5f4b7a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/c5cbe9df54bd6cee81a9e6dee57e854f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/38090286ab0a016dc81afbbb226f46801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/6be891fe4600671e767e633f59fa9d511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/9ccefa6af7b70bdbabbd8574cd0c91d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/d522d8aadc8c64795167f7e4726a170f1.jpg"
+	]
+}

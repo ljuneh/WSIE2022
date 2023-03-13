@@ -1,0 +1,108 @@
+{
+	"id": "6942372",
+	"name": "경기미 참드림 계란 닭갈비죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/db10de56ebdafe03b1ddce9190ef871e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942372",
+	"ingredient_ids": [
+		995,
+		467,
+		300,
+		473,
+		226,
+		379,
+		292,
+		233,
+		660,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "종이컵두컵"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 우리품종 경기미 참드림을 준비한다.",
+		"2. 밥 반공기를 준비해 줍니다.",
+		"3. 밥 반공기와 물(종이컵 2컵)과 치킨스톡 반개를 넣고 끓여 줍니다.",
+		"4. 죽이 다 끓었으면 계란 1개를 넣고 약한불에 30초 정도 끓여 줍니다.",
+		"5. 그리고 닭가슴살은 먹기 좋은 크기로 썰어 줍니다.",
+		"6. 양념은 고추장 1스푼, 설탕 1스푼, 간장 1스푼, 맛술 1스푼, 다진 마늘 1스푼, 후추 약간을 넣어서 섞어 줍니다.",
+		"7. 그다음 닭고기와 잘 섞습니다.",
+		"8. 식용유를 약간 넣고 볶아 줍니다.",
+		"9. 다 볶았으면 죽 위에 참기름을 넣고 그 위에 닭갈비를 얹습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/4f51bc3adcbc1492b97b3288e1fb69e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/69274dfb37ca9c75be889f519243a9ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/e5c61ccf281136f19b417226f96772d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/fbbf08e6e5379b34b0d037b48f116b241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/9ea90bb231f26eebae2dae00c8b379061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/140a69b75f5aa77a2e6ad082be9c29d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/395b7d50bc315ec1df413e9a532f78101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/16ff0f4bbe7c9dbf8399a81f9341d9331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/c4f59907f8f9e99905f510593b16df051.jpg"
+	]
+}

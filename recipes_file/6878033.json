@@ -1,0 +1,85 @@
+{
+	"id": "6878033",
+	"name": "전복미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/714b8859f174e2186a82dafe33c63d3a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6878033",
+	"ingredient_ids": [
+		86,
+		660,
+		853,
+		233,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마른미역",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "표고버섯가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금1/3큰술등",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술 등"
+		},
+		{
+			"ingre_name": "전복껍질",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "7",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 전복과 미역이 주재료이구요. 특이한 점은 전복껍질을 끓여서 육수를 만들 예정입니다.",
+		"2. 마른 미역은 찬물에 15분 정도 불린 다음 서너번 헹군 뒤 물기를 제거합니다. 먹기 좋은 크기로 미리 잘라 불렸어요.",
+		"3. 찬물에 굵은 소금 1큰술을 넣어 녹여준 후 전복을 넣어줍니다.",
+		"4. 물에 적셔가며 전복을 손질하면 깨끗해지지요.",
+		"5. 스푼을 깊게 넣어 전복을 떼줍니다. 스푼이 얇을수록 좋아요. 과도를 사용할 때는 조심하세요.",
+		"6. 빨간 살이 보이는 전복이빨은 그 부분을 손으로 눌러 주면 속에서 나옵니다. 전복이빨은 꼭 제거해주시구요. 내장도 제거해줍니다. 초록색 내장과 노란색 내장은 암수구별을 나타냅니다.",
+		"7. 먹기 좋게 썰어줍니다.",
+		"8. 전복껍질은 솔로 깨끗이 닦은 다음 전복 7개에 물 7컵을 넣어 뚜껑을 닫고 센불에서 끓이다가 끓으면 불을 줄여 30분을 끓여줍니다. 완성된 맛을 보면 조개탕 맛이 그대로 납니다. 해물맛이죠.",
+		"9. 냄비에 참기름 2큰술을 넣고 전복과 불린 미역을 볶아줍니다. 전복껍질 우린 육수를 부어 끓여줍니다.",
+		"10. 다진마늘 1/2큰술, 표고버섯가루 1큰술, 맛간장 3큰술, 소금 1/3큰술을 넣어 완성합니다. 간장과 소금을 섞어 사용하는 것이 국물이 검게 되지 않아 좋아요. 파는 미역과 궁합이 안 좋으니까 넣지 마세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/d34c6437db87f4beb554f7e2bb732d3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/9acc2defad0054d6a1f4ec66971e0fd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/9399af9a9bfe6a2061aaf470ca81f1361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/9c26d4e218f2a54375ab6cae273b97861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/6c0bab02e84cb31d2484e7505e5bae661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/952ce3c4c0bd3d4eaf21dcbb8de9ab551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/d748c43095754adbc8efaccd4d97f4561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/3cfed8be26b3af3615590d8aba0db57f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/3c7e8746374742fabc5d7d07ad5fb8c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/1e4dba30594659a0cf899967e6221ab51.jpg"
+	]
+}

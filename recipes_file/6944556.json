@@ -1,0 +1,75 @@
+{
+	"id": "6944556",
+	"name": "다이어트에 좋은 차! 히비스커스로 샐러드드레싱 만들기! ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/23cb8a38f043971548677fd2cec601cb1.png",
+	"url": "https://www.10000recipe.com/recipe/6944556",
+	"ingredient_ids": [
+		53,
+		54,
+		58,
+		56,
+		575,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "히비스커스차",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 버섯들은 밑둥을 제거하고 먹기 좋은 크기로 자른다.",
+		"2. 달군팬에 기름을 두르고, 버섯과 소금을 약간 넣고 약한 불에서 볶는다.                     \r                             네오플램 피카 프라이팬                           \r                             닥터하우스 트윙클 스토브 (크림)                          ",
+		"3. 버섯에 수분이 나오고, 노릇하게 볶는다.",
+		"4. 구워진 버섯은 한소끔 식힌다.",
+		"5. 드레싱 재료를 올리브 오일을 제외하고 가볍게 섞는다.",
+		"6. 잘 섞인 드레싱 재료에 올리브오일을 천천히 잘 섞는다.",
+		"7. 접시에 버섯을 올리고, 드레싱을 곁들여 낸다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/17635acd79dc9e0856e3386b511499f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/e53094107aae69f9eb7e61a9878c22301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/55f83d4daf2e74fea70c26098c349ae81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/7a2a58b7e28493152a417e51d49ed2f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/39c909fa2ed7794fa9b639f0055fcdb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/68c630632c6c7fd704e0a6d52c6a56001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/a1ace1f4160e3325a282994dd5763daf1.jpg"
+	]
+}

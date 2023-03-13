@@ -1,0 +1,63 @@
+{
+	"id": "6860341",
+	"name": "오이냉국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/09/c8eb1cbac5aabff4588e1d6da379b4661.jpg",
+	"url": "https://www.10000recipe.com/recipe/6860341",
+	"ingredient_ids": [
+		91,
+		8,
+		226,
+		231,
+		290,
+		497,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "미역",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "18",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "28",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "2.",
+			"ingre_unit": ".g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2.",
+			"ingre_unit": ".g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 미역은 불려두기",
+		"2. 오이는 채썰기",
+		"3. 물600ml에 식초28 설탕18 소금2.5 깨2.5를 넣고 저어준다음 오이 미역을 넣어 준다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/09/8ea61d9e2b8d8630e47b1a60932758361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/09/c0599dc09bb114b95bb055e9de45211b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/09/b7551305bc54f8a6774cda8384ba5a691.jpg"
+	]
+}

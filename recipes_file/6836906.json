@@ -1,0 +1,57 @@
+{
+	"id": "6836906",
+	"name": "비스켓",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/75824892ef186515cb9b99840f5117cc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6836906",
+	"ingredient_ids": [
+		347,
+		226,
+		497,
+		373
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밀가루박력분",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "27",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무염버터",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "110",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "6",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 볼에 밀가루, 설탕, 소금을 섞어주세요. 차가운 상태의 버터를 넣고 주걱 또는 스크래퍼로 버터를 잘게 잘라주며 밀가루의 색이 노란색이 될 때까지 섞어주세요. 우유와 베이킹파우더를 넣어서 섞은 후 냉장고에서 30분정도 휴지시켜주세요.",
+		"2. 팬 위에 유산지를 깔고 적당한 크기로 반죽을 떼어서 올려주세요.",
+		"3. 예열한 오븐에서 180도로 15분간 구워주세요.오븐",
+		"4. 완성입니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/eb730650f290d065d15d747f8e77dfa81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/0536a2612025654688b8b833e412ce8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/14d8ff5c9bc66b58378823501da545891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/1790eaf3f9493fbc8bb2a099e27310ca1.jpg"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"id": "6945099",
+	"name": "[실파무침]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/525fad75d8d9e773bf0b311e53c134ed1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945099",
+	"ingredient_ids": [
+		505,
+		379,
+		660,
+		224,
+		226,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "실파",
+			"ingre_count": "2",
+			"ingre_unit": "줌정도"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 실파 깨끗히 씻어 먹기좋은  크기로 썰어 볼에 담아요",
+		"2. 분량의 양념을 모두 넣고 (간장입맛에맞게가감해요)",
+		"3. 살살살 ~ 무쳐 그릇에 담아 냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/ec910c76cd6c9ac99ac5e68808bc183d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/722b2ccc2feab80e2da1984d3d865a171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/e4ca24211753df86991ecdb3a1a1efda1.jpg"
+	]
+}

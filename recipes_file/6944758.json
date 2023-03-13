@@ -1,0 +1,91 @@
+{
+	"id": "6944758",
+	"name": "여러가지 버섯을 넣어 간단 반찬만들기! 모둠 버섯볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/a14986a11a03cbf8420de3badfa2f1f61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944758",
+	"ingredient_ids": [
+		56,
+		53,
+		3,
+		27,
+		233,
+		349,
+		497,
+		350,
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "백만송이버섯",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "10",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은숟가락"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 느타리 버섯은 결대로 찢고, 표고버섯은 편으로 썰고 백만송이 버섯은 기둥을 잘라 가닥가닥뜯어 준비해요                     \r                             라오메뜨 이태리 천연세라믹 트레이 도마                          ",
+		"2. 양파는 얇게 채 썰고 대파는 송송 썰어 준비해요.                     \r                             라오메뜨 이태리 천연세라믹 트레이 도마                          ",
+		"3. 예열된 팬에 기름을 두르고 양파, 대파를 넣어 볶아요.                     \r                             네오플램 피카 프라이팬                           \r                             닥터하우스 트윙클 스토브 (크림)                          ",
+		"4. 양파가 반쯤 투명해 지면 버섯을 넣어 볶아요.",
+		"5. 버섯이 숨이 죽으면 다진 마늘, 국간장, 소금, 후추를 넣어 간을 해요.",
+		"6. 불을 끄고 깨소금, 참기름을 넣어 섞어 완성해요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/05fe82b064bd0b842869c9e13bc036ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/4eb2e1fac6ae534a1c23c38c4ee168461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/190937be6c604e8f899d198d195b02951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/963c4d8d8bf5a8d63188358a6e3f8c8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/454b786b0cd59d4517997545f37c2f291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/d472028d06e7701f49c2afcf86ce9a551.jpg"
+	]
+}

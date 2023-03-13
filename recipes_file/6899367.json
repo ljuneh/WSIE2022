@@ -1,0 +1,53 @@
+{
+	"id": "6899367",
+	"name": "녹네 녹아.. 전자렌지 1분 30초 컷. 고소 짭짤 수란마요밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/05/3ad58336218c24351e8ca6f08b7790111.jpg",
+	"url": "https://www.10000recipe.com/recipe/6899367",
+	"ingredient_ids": [
+		219,
+		228,
+		477,
+		660
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 밥그릇에 물을 7부 넣어준 후 소금을 넣어 줍니다",
+		"2. 달걀을 깨서 넣어준 후 전자렌지에 1분 30초간 돌려줍니다.전자레인지",
+		"3. 수란이 완성됬습니다.",
+		"4. 작은팬에 굴소스 1큰술을 넣은 후 한번 파르르 끓여줍니다.",
+		"5. 그릇에 밥을 담아줍니다.",
+		"6. 끓인 굴소스를 취향에 맞게 뿌려줍니다.",
+		"7. 마요네즈를 올리고 참기름을 뿌려 완성합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/05/633251be1b7bde95ccae42274f104f901.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/05/3fa541182eb065c473e27071bac65a0b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/05/93b204dce7866af0c3f4497a40dadcd31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/05/21fd4c8ca49e5d086df381539864a7f01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/05/55f0d2f01448ab999bf5aa312cce1ef81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/05/809bb3b864e0c7c48a6bee0f068b0ba31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/05/697d6b0833be9b9d8077842576610f3a1.png"
+	]
+}

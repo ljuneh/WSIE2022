@@ -1,0 +1,62 @@
+{
+	"id": "6942761",
+	"name": "다른 반찬이 필요 없는, 깔끔한 오이지무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/2cce322bb19e77c6fc15a3f76ba96b3c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942761",
+	"ingredient_ids": [
+		1010,
+		27,
+		843,
+		327,
+		543
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "오이지",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "3",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "팍팍"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비",
+		"2. 오이지는 얇게 송송~ 썰고, 대파는 흰 부분만 다져서 준비합니다. (영상 참조)",
+		"3. 썰은 오이지는 10분간 담가 짠 기를 빼줍니다.",
+		"4. 두어 번 헹궈 물기를 꽈악~ 짠 다음,,",
+		"5. 대파, 매실액 3T, 들기름 2T, 간 마늘 1T, 통깨를 넣고",
+		"6. 조물조물 무치면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/8bbfd306e52645d5471ab341a8d45edc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/cd0ce4bca95723906313f5c2451e612c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/4093f354911e4c86ea6881a8bb3819ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/3e15dffd18ee2a2d43f10bf581acd8461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/83661b20943190cf95713bdbf36b6a1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/d7017bf23f02aacca264af854fafdfad1.jpg"
+	]
+}

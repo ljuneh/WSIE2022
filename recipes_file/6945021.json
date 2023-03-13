@@ -1,0 +1,97 @@
+{
+	"id": "6945021",
+	"name": "제철 고구마로 만든 영양간식 고구마치즈볼",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/d581c3c4520a94125eaae3dde84fee591.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945021",
+	"ingredient_ids": [
+		4,
+		193,
+		212,
+		234,
+		219,
+		436,
+		497,
+		504
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "아몬드",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 먼저 고구마를 찜기에 넣고 쪄주세요.",
+		"2. 젓가락으로 찔러보아 익은 상태를 확인해주세요. 씻은 고구마를 봉지에 넣고 전자렌지에 손쉽게 찌는 방법도 있으니 편한 방식대로 쪄내면됩니다.",
+		"3. 쪄낸 고구마의 껍질을 벗긴 다음 볼에 넣고 으깨주세요.",
+		"4. 아몬드 한 줌은 도마위에 놓고 잘게 다져주세요. 아몬드 외 호두, 땅콩, 피칸 등 좋아하는 견과류를 넣어줘도돼요.",
+		"5. 으깬 고구마에 다진 아몬드를 넣고 섞어주세요.",
+		"6. 적당량의 고구마 반죽을 둥근모양으로 만들고 모짜렐라치즈를 넣어주세요.",
+		"7. 치즈를 감싸면서 동그란 볼 모양으로 만들어주세요.",
+		"8. 중간크기 고구마를 이용해 17개 볼모양을 만들었어요.",
+		"9. 빵가루, 밀가루 그리고 달걀물을 준비해주세요.",
+		"10. 1차로 밀가루옷을 입혀주구요.",
+		"11. 2차로 계란물에 담궈주세요.",
+		"12. 빵가루로 마지막 옷을 입혀주세요.",
+		"13. 팬에 식용유를 붓고 가열해주세요.",
+		"14. 기름이 끓어오르면(약180도) 만들어놓은 치즈볼을 넣어주세요.",
+		"15. 앞뒤 굴려가면서 노릇노릇 해질때까지 튀겨주세요.",
+		"16. 튀겨낸 고구마치즈볼을 키친타올에 올려 기름을 제거해세요.",
+		"17. 제철 고구마로 만든 영양간식 고구마치즈볼 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/d3ea0aec43834200d9e45925fa94eff21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/bcd47033d803f050c230cad3b978062c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/96f7c05325360568332837f7629e99401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/5c1ec9eb1f305a5e9c39b9cd7740fa5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/61f2e6a0a3883c8b1307d9921e3a54341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/6037602e659e6ad1193aec978a372fb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/ca7e7e0ac6671da492bf22b8aba32bf71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/f9a1f8a17f773d5d2f48af3b246286101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/ac3e93c4473b6c9600624dc85cfff11e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/f5f6b163ccd6942711ebe55ca36a00151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/5465fc7484429786dd7998174c67f57f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/40a5f8502539693468f6598d8619c0811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/fdf0849cb52146169fdfdb70c0450ce91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/7123a5a784d19c6ffa54e6dd9f5d85b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/7653f47c47fd9ae4090a545dd36373ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/e97bd5c2b9a46f22eb55170f2278bcaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/0181338ac6e936919246dee5af9be4411.jpg"
+	]
+}

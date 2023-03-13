@@ -1,0 +1,86 @@
+{
+	"id": "6945186",
+	"name": "간단간식 레시피 소시지롤빵 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/9daac89a5bb60e1e244d4cce34a1e6f31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945186",
+	"ingredient_ids": [
+		226,
+		497,
+		565,
+		574,
+		724,
+		228
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "18",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "이스트",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 계량한 강력분은 곱게 체 쳐주세요",
+		"2. 소금, 설탕, 이스트를 사진과 같이 세 곳으로 나뉘어서 넣어주고요",
+		"3. 가운데 홈을 만든 후 따뜻한 우유를 부어가며 반죽을 해주세요 한 번에 섞지 말고 소금, 설탕, 이스트 각각 반죽을 하다 섞어줄 거랍니다                   ",
+		"4. 빨래하듯이 손 반죽을 10분 정도 해주세요 한 덩어리가 되면 올리브오일을 넣고 5분 정도 다시 치대주세요 오일이 없으시면 버터를 사용하셔도 좋아요",
+		"5. 반죽이 완성되면 비닐을 덮고 1차 발효 시작 40~50분 정도 해주세요 따뜻한 곳에 두셔야 발효가 잘 되어요 저는 온수매트 틀어놓고 이불 덮어놓으니깐 잘 되더라고요",
+		"6. 1차 발효가 끝난 후 한껏 부풀어진 반죽은 손으로 눌러 가스를 빼고 8등분 해서 둥글리기 해주세요 그리고 비닐을 덮고 실온에서 20분 정도 중간 발효해주세요                   ",
+		"7. 끓는 물에 후랑크소시지를 넣고 데쳐줍니다.",
+		"8. 중간 발효가 끝난 반죽을 길게 밀어주세요 ~ 그리고 데친 소시지 위에 돌돌 말아주기                   ",
+		"9. 오븐 팬에 종이호일을 깔고 그 위에 성형한 빵을 올려준 후 비닐 덮고 2차 발효 시작 따뜻한 곳에서 40분 정도 발효                   ",
+		"10. 반죽 위에는 케첩과 마요네즈를 뿌려주세요 저는 일회용 비닐팩에 넣고 끝을 살짝 잘라서 뿌려주었는데요 아이들 약통에 넣고 뿌려주셔도 잘 뿌려진답니다 그리고 180도 예열된 오븐에서 15분 구워주면 끝~                     "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/e44f34a1444d1ee48e0542ea55f0c4791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/7c3eb3098e730c00d3f62d59849ba4a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/3c1935845dc8f72f5d3bbac0d9e32ae01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/951cdfb24fb0734607e6979f67d24e471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/66fdfda5cf86d9401ea96c594537155d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/d37dba6f54d97793da1b50f16ce5bfee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/66ec43122a8047fd0a5f75d4d724d93f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/914b62b5a9fca233bd3a2d8285063e801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/658fd069d200947c299b0aca6b426ed41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/3e7af41586be7d6840d541cb9ccb02d81.jpg"
+	]
+}

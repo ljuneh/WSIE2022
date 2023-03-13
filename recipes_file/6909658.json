@@ -1,0 +1,125 @@
+{
+	"id": "6909658",
+	"name": "된장찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/01/87f7667be4932479edb9bf1f569867011.jpg",
+	"url": "https://www.10000recipe.com/recipe/6909658",
+	"ingredient_ids": [
+		3,
+		5,
+		323,
+		7,
+		58,
+		295,
+		848,
+		473,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "물냄비",
+			"ingre_count": "2/1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파뿌리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "말린표고버섯",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2/1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "2/1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "3/1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "2/1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "2/1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "버섯가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		}
+	],
+	"recipe": [
+		"1. 재료는 양파.감자.애호박. 청양고추.파.버섯.두부입니다 손질합니다",
+		"2. 재료는 먹기좋은 크기로 자릅니다",
+		"3. 육수를 끓일때는 파뿌리.말린표고버섯.다시다를 넣고 바글바글 끓을때까지 끓입니다",
+		"4. 육수가 끓으면 파뿌리.버섯.다시다를 건집니다",
+		"5. 그리고 양념장을 체에 거르고  풀어줍니다",
+		"6. 그리고 양파 감자 애호박을 넣어 줍니다",
+		"7. 양파 감자 애호박이 익었다 싶으면 청양고추 파 버섯 두부 넣어 줍니다",
+		"8. 완성!!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/01/91c3eb5b3bbc43ff6add7c6a025afab21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/01/89e7d02bf792b97453937fd67d1ef2fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/01/a8ab18b6f72a20b83fc27fe0748a16b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/01/1ebca0aa5ed19c7653f30aa198bf20d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/01/021440a278e4a45b35871fc8bcb776cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/01/bfa986f7550e5aed1aeb5b331d76d6b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/01/8328ce104a92be00438c05c5cbac2e1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/01/f020609cd58c6737af435749a57a8e4b1.jpg"
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"id": "6943054",
+	"name": "추석요리 꿀송편구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/7cbed88a9141c0902761fa29b40b7d251.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943054",
+	"ingredient_ids": [
+		840,
+		227
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "송편",
+			"ingre_count": "1",
+			"ingre_unit": "접시"
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2~3스푼",
+			"ingre_unit": "~스푼"
+		}
+	],
+	"recipe": [
+		"1. 남아서 딱딱해진 송편과 견과류 한봉을 준비합니다.",
+		"2. 오븐팬위에 송편과 견과류를 올리고 180도에서 5분간 구워줍니다. 에어프라이어로 구워도 되고 기름없는 팬에 구워도 됩니다.오븐,에어프라이어",
+		"3. 구워서 말랑해진 송편과 고소해진 견과를 큰볼에 넣고 꿀2~3스푼 넣고 잘 버무려서 완성합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/b244eba0298d496eab6175d78de1e0d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/e067f2c6485d68c44114ada7a8e302761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/c1c0af84fa9476fa3fcdc883c3a19a011.jpg"
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"id": "6937505",
+	"name": "참치 덮밥!! 정말 간단한데 맛은 장난 아닌 덮밥을 소개합니다!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/07/25/efd16659272ecdb7332089f8adae07131.jpg",
+	"url": "https://www.10000recipe.com/recipe/6937505",
+	"ingredient_ids": [
+		226,
+		473,
+		343,
+		379,
+		660,
+		995,
+		228
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "캔참치작은거",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 불을 켜지 않은 상태에서 후라이팬에 계란 김가루를 제외한 모든 재료를 넣어 줍니다. 참치 캔은 작은거로 100g 짜리 캔이고 기름은 따로 버리지 마시고 한데 다 넣어주세요. 후라이팬은 손으로 한뼘 정도되는 작은크기를 사용하세요. **레시피 페이지속 동영상 시청은 새로운 레시피 제작에 커다란 힘이 되며 두율이네 유툽 놀러 오시면 더많은 레시피와 최신 레시피를 더 빠르게 보실수 있습니다~ ** T(15cc) , t(5cc), = 는 계량 스푼을 사용할 경우 단위이고 스푼은 그냥 집에서 사용하는 밥숟가락 입니다.밥숟가락 계량이나 무게계량이 필요하신 분은 동영상 참고하세요.",
+		"2. 양념을 골고루 섞어서 불을 켜고 양념이 끓기 시작하면 30초간 휘휘 저어주며 볶아 주다가 계란 1알을 냄비 중간에 까 넣어 줍니다.",
+		"3. 계란을 완전히 풀어서 섞지 마시고 노른자만 살짝 깨서 계란 후라이 하는 정도의 범위에서 살살 저으며 익혀주세요. 계란이 반이상 익으면 완성입니다~ 계란이 맛에 크게 영향을 안미치니 계란을 따로 구워서 올려드셔도 됩니다. 단 계란을 따로 구우실때는 30초간 볶아 주던 소스를 40초~50초 정도 볶아 주시면 됩니다!",
+		"4. 김가루는 생략하셔도 충분히 맛있어요^^~ 그래도 더 좋은 맛을 위해 김가루를 뿌려주시면 좋아요~",
+		"5. 초간단 하지만~ 정말 맛있는 참치 덮밥 완성!! 맛있게 드세용~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/25/0b5f554135d5f24c0f989c84a2e202151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/25/e728414fa9d1a066a24b1daeb7c5c2561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/25/e3feea390bfabd4a44d634248abeeb2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/25/ebe994c6446e0c52e7d595ea7ff769061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/25/570a2a2cbc759303a1b592553505aee41.jpg"
+	]
+}

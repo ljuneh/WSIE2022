@@ -1,0 +1,49 @@
+{
+	"id": "6834543",
+	"name": "깨송편 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/14/99c271707fc5ea7d7dbae5965faac8c41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6834543",
+	"ingredient_ids": [
+		391
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "갈색설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 쌀가루를 이용하여 반죽을 합니다.",
+		"2. 참깨를 갈아 갈색설탕과 섞어 소를 만들어주세요.",
+		"3. 반죽을 동그랗게 빚어주세요.",
+		"4. 가운데 꾹 눌어서 홈을 만들고 소를 넣어주세요.",
+		"5. 예쁘게 송편 모양으로 빚어주세요.",
+		"6. 쿡마스터 스팀탱크에 물을 부어주세요.",
+		"7. 바스켓을 올리고 예쁘게 빚은 송편을 올려주세요.",
+		"8. 쿡마스터 스팀모드에서 15분동안 조리해주세요.",
+		"9. 15분 완료 후 속까지 잘 익은 송편이 완성되었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/17/4f232df50878f95bbbe693bed575842f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/17/84b72229636df8ce199b5933959bd5a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/17/18d7f649f1244594a169d4cf794c50551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/17/ae7c57a197a1e9e51e1d93c7944022371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/17/e2f3592eda269391e95b83c27992fa231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/17/bf4c2520b6229358a388734171dde1a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/17/559cd213eb73f013444dac2be8660aff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/17/5480af032ac21ff5e26e9d6703309cac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/17/c021d0fe3c61f55cd600c7371b3fc5931.jpg"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"id": "6939991",
+	"name": "재료 단 3가지~!!베이컨달걀밥만두 레시피 ★",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/eede0b15f0d32cd8883de688fc8decba1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939991",
+	"ingredient_ids": [
+		219
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "127",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "목살베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 달걀물을 풀어 준비해요.",
+		"2. 베이컨 세장을 접시에 펼치고 밥을 위에 올려요.",
+		"3. 베이컨을 반 접어 군만두 모양을 만들어요.",
+		"4. 프라이팬에 식용유를 두르고 강불을 켜요.",
+		"5. 밥만두에 달걀물을 입혀요.",
+		"6. 프라이팬에 달걀물 입힌 밥만두를 올려요. 이때, 불은 중약불로 줄여줍니다.",
+		"7. 계란의 가장자리가 익으면 붙어있는 계란을 살살 잘라주세요.",
+		"8. 조심스럽게 뒤집어요.",
+		"9. 남아있는 계란물을 빈공간에 투하해요",
+		"10. 바닥면에 계란물이 뭍혀질 수 있게 팬을 살살 흔들어요.",
+		"11. 지저분한 부분을 제거하면 완성~!",
+		"12. 방문해주셔서 감사합니다~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/d7e7640ce71c6d441d1dfbdc12887c331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/e2bd6381d54821ffab5e1dcb9a9a34c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/0b9b830ab18abd74ffa36e460e4d9af51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/e2f5fcdef66025b7aa5049110ca360e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/895bdbdabd773f6ec5a705d22d5d03461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/2cda2081805d119a22dc989600a6e73d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/d0684dda5a2f0b1b5319b355e203915e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/27458ea5921a6a74886723f5e1063b9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/96c45a6ee1f7ba5dd25bdbc1c2c2c62b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/7c3d3579eee300dd432d0ad0459871fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/003e96644895545de7055ab9654f833a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/ffb0546510cb5d64d14bb3d77ad7f0541.png"
+	]
+}

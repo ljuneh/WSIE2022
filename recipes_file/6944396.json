@@ -1,0 +1,85 @@
+{
+	"id": "6944396",
+	"name": "홈레스토랑, 양송이 버섯리조또 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/65a59d2aed93705a2cc88e4dd26837621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944396",
+	"ingredient_ids": [
+		54,
+		18,
+		27,
+		485,
+		995,
+		201
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "찬밥",
+			"ingre_count": "3",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "야채스톡또는치킨스톡또는국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큐브"
+		},
+		{
+			"ingre_name": "치즈",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "버터또는올리브유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 버터를 녹여요. 오래 볶거나 끓이는 요리에 버터를 이용하면 풍미가 좋아져요.",
+		"2. 다진 대파를 볶고,",
+		"3. 편으로 썬 버섯, 다진 가지를 넣고 볶아요.",
+		"4. 채소가 살짝 익으면 밥과 물을 넣고 익혀요.",
+		"5. 끓어오르기 전에 생크림과 우유를 붓고 야채스톡을 넣고 끓여요. 없다면 국간장, 참치액 등으로 간을 맞춰도 좋아요.",
+		"6. 국물이 자작해지면 치즈 가루나 슬라이스 치즈 한 장을 넣고 섞어주세요.",
+		"7. 그릇에 담고 치즈를 뿌리면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/ddd9ba8b240b9344faa94dc01dab9c9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/d54535c831753579b4ec159047033f511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/73e1f8588dc2219a153a207ee294caed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/4bf453d9b0fc18643837010e14115cfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/2bed96275dc37d817e1cd82def11bf2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/ee22b88d656c3677ba38dfe5e2f3cc351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/0ccc77f278504a76ab20eba414d731331.jpg"
+	]
+}

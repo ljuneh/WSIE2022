@@ -1,0 +1,60 @@
+{
+	"id": "6940164",
+	"name": "고소한~ 크래미 유부초밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/8fb2a7b28249f795b9943d9b565e28c51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940164",
+	"ingredient_ids": [
+		3,
+		228
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "크래미",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "머스타드",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "시판유부초밥",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		}
+	],
+	"recipe": [
+		"1. 시판 유부 가볍게 국물기를 짜서 준비한다",
+		"2. 크래미 결따라 잘게 찢어 볼에 담고",
+		"3. 양파 다져 담는다",
+		"4. 마요네즈,머스타드 넣은 후",
+		"5. 고루 섞어준다",
+		"6. 밥 볼에 담고 동봉된 소스를 넣어 골고루 섞어준다",
+		"7. 유부 속 밥을 조금 작게 넣고",
+		"8. 준비한 크래미를 넣어 주면 크래미 유부초밥 만들기 끝",
+		"9. 맛있게 챱~ 챱~~ ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/f98f7f88722819ac6aa874e3965cf1de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/ae81202a8870dbeb3525ee2d7eaa80c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/fbd4194c99f2a9c91b621392ac114e241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/68f3aa9305858375ee23ecb44b6593051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/d06637841be54511aa9623af0a8c769d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/b2016da7a828ee2c93e66f8b89de17841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/f85fb4b3daacafb1b9d9353f947802c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/cb4da512aaa68e08d4e77c3e375e60a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/5f4d313e099929b05ccfec4c02e383941.jpg"
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"id": "6942956",
+	"name": "마파두부밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/5aa220a38063860434549468bc7ce8e81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942956",
+	"ingredient_ids": [
+		487,
+		323,
+		29,
+		489,
+		224,
+		1013,
+		379,
+		497,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "즉석밥한개",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "두반장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "전분물",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료를준비한다",
+		"2. 먼저 마늘을 슬라이스해서 기름을 두르고 마늘기름을내준다",
+		"3. 기름을 내고 돼지고기를 넣고 볶아준다 이때 살코기로되어 있는것을 쓴다 카래용 고기 추천",
+		"4. 고기가 익을때쯤 두반장을 넣는다",
+		"5. 간을보면서 고춧가루 소금또는 간장을넣는다 이때 약간 짜게 하는것이 좋다 두부 넣을때 약간싱거워 지기때문이다",
+		"6. 양념에 두부를 넣는다 두부크기는 주사위정도의 크기가좋다",
+		"7. 전분물을넣어 적당한 농도를 맞춘다 이때 간을 다시 맞춘다",
+		"8. 완성된 마파두부를 밥위어 얹어 먹으면 맛있는 마파두부밥이 된다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/fc80ae17a494da4f185e491d639366fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/afa1aa0ea738d5e302ba6b9e9a76cdc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/9e91c9fa0a517325934c45394598e4341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/2cea2eb250eaaf417eb192f3d0b893d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/34607dfa5cfa54bf82a381febd40d60f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/60f604e407118f19aec4cc9352236d721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/e28025f81b633bdd0edd590c61072ba61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/38ed82686cb123f20c0ab735f4161f0a1.jpg"
+	]
+}

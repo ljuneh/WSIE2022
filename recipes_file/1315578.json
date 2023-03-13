@@ -1,0 +1,67 @@
+{
+	"id": "1315578",
+	"name": "도너츠 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/58eb854054ea847ec7cee19df34b5900.jpg",
+	"url": "https://www.10000recipe.com/recipe/1315578",
+	"ingredient_ids": [
+		373,
+		198,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1.",
+			"ingre_unit": ".ts"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "와인",
+			"ingre_count": "10~20g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "튀김용기름",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 큰 볼안에 말랑해진 버터를 넣고 마요네즈처럼 크림화를 만들어준다.",
+		"2. 설탕을 넣고, 골고루 섞어주다가 계란을 넣고 설탕의 서걱거림이 사라질때까지 골고루 섞어준다.",
+		"3. 박력분과 베이킹파우더는 체쳐서 넣어주고, 주걱들고 섞어준다.",
+		"4. 어느정도 섞다가 와인을 넣고 반죽을 한덩어리로 만들어준다. 와인은 한번에 다 붓지말고 조금조금씩 넣으면서 반죽의 질기를 맞춰준다. 반죽이 대충 한덩어리로 만들어진다 싶을때까지만 넣어주면 된다. 와인이 없으면 물로 대체한다.",
+		"5. 비닐이나 랩에 반죽을 넣고 납작하게 누른후, 냉장고에 약 30분간 넣어준다.",
+		"6. 반죽을 꺼낸 후, 덧밀가루 뿌린 도마위에 올려 . 밀대로 두께 약 1.5cm 정도 되게 밀어준다. 평평하게 밀은 반죽에 도넛 틀을 이용해 꾹 찍어준다. 도넛틀이 없으면. 컵을 이용해 큰 원을 찍고 가운데부분은 병뚜껑을 이용해 작은 구멍을 만들어주면된다.",
+		"7. 깊은 팬안에 튀김용 기름을 반쯤 붓고 뜨겁게 데워준후, (160~170도씨) 도넛 반죽을 하나씩. 조심히 넣어서 노릇하게 튀겨준다. 한쪽이 노릇해지면 얼른 뒤집어 다른 한쪽도 튀겨준다. 여러번 뒤집어 버리면 기름을 많이 먹게 되므로, 한번에 1~2번씩만 뒤집어준다. 튀긴 도넛은 키친타올 위에 올려 한김 식힌 후, 따뜻할때 설탕을 묻혀준다. 비닐봉지안에 설탕을 충분히 넣고, 도넛 하나를 같이 넣어 봉지입구를 막은 후 위 아래로 살살 흔들면 설탕이 자연스럽게 묻혀진다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/a697ace15922a19f4ed4a25d05696d521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/ec6bd9919347677e206deec5218d16781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/1ef619888598ba3a08da84b410a2014b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/3f4ed3d5708dd65619f206043317164c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/b2ae7040d5b707ae455196862c5540a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/f49fa61c6b441e852ca678653d66f9481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/d731e215ca4b008815bdd6012b9978ea1.jpg"
+	]
+}

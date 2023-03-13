@@ -1,0 +1,56 @@
+{
+	"id": "6842861",
+	"name": "집에서 닭튀김 :) 깐풍소스와 함께 먹어요 !",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/11/ac75f8130d6626808d49dc3561dd52d01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6842861",
+	"ingredient_ids": [
+		497,
+		734
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "1/2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "",
+			"ingre_unit": "닭이잠길만큼"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 통째로 있는 생닭의 경우 먹기 좋게 손질합니다",
+		"2. 손질한 닭에 칼집을 약간씩 내주고 볼에 담아 소금 반스푼, 후추 적당히 뿌립니다",
+		"3. 잡내제거를 위하여 닭이 잠기게 우유를 붓고 30분 동안 놔둡니다",
+		"4. 30분이 지나면 닭이 절반만 잠기게 우유를 버립니다",
+		"5. step4에 튀김가루 1컵을 넣어 반죽을 만들어서 버무립니다 농도를 보면서 튀김가루가 더 필요하다 싶으면 더 넣으세요",
+		"6. 비닐봉지에 튀김가루 적당량을 깔고 그 위에 반죽한 닭을 건져 올리고 튀김가루, 닭, 튀김가루, 닭의 순서로 층층이 쌓아 튀김가루가 골고루 묻게 흔들어 줍니다",
+		"7. 기름을 가열하여 튀김반죽을 떨어뜨렸을 때 3초 후 반죽이 올라오면 step6을 넣고 7~8분 정도 튀깁니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/11/90fcee6233b7ecbfa1c998570d1a31b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/11/87d2637d060fa7c62154f6e21323d2b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/11/604e3ba5aaa9d37422b04fcd712f90151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/11/ff0eb3c0de59c5929efa3c204ec94d821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/11/26b91e6e22664a98af5a71598d275faf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/11/eca8d6bd3cf4e292c505afb2674653c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/11/8b1ec7b625dff7cf479dca3e162077aa1.jpg"
+	]
+}

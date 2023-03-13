@@ -1,0 +1,75 @@
+{
+	"id": "6941613",
+	"name": "[정식품 콩국물이용한] 콩무스케이크",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/71a0ad9df86f57ccfe7f583eb493755c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941613",
+	"ingredient_ids": [
+		620,
+		226,
+		113,
+		192
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "콩국물",
+			"ingre_count": "170",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "젤라틴",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고구마(중)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "병아리콩",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "캐슈넛",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오트밀또는시리얼",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. - 젤라틴을 뜨거운 물100ml에 넣고 불린다. - 고구마와 병아리콩은 삶아준다.젤라틴의 물은 100ml가 적당하고 골고루 풀어줘야된다.",
+		"2. 고구마는 껍질을 제거하여 삶은 병아리콩과 함께 섞어준다.",
+		"3. 계란노른자+설탕10g+레몬즙(선택)을 섞어준다.- 고구마가 당도가 있으므로 설탕은 조금만 넣는다. - 레몬즙은 노른자의 비린맛때문에 넣는것이다.(선택)",
+		"4. - 콩국물 150ml를 냄비에 데워주고 젤라틴물을 섞어준다.  - 3번을 검은콩&일반 콩국젤라틴물에 넣는다.노른자와 콩국물이 분리되지 않도록 주의!!",
+		"5. 2번에 콩국10ml를 넣고 부드럽게 으깨준다- 되직함은 콩국물을 넣으면서 조절한다. - 병아리콩이 입에 거칠할수 있으므로 잘으깨줘야 합니다.",
+		"6. 준비한 푸딩용그릇,컵케잌용 그릇,블랜딩잔,요거트볼 등 다양한 그릇에 고구마반죽을 넣는다.- 용기의 1/3정도로 채워준다. - 1층과 2층이 혼합되지 않도록 꽉채워줘야된다. - 맨밑에 오트밀,시리얼을 넣어주면 그릇에 뒤집었을때 위에 올라온다.",
+		"7. 용기의 2/3부분까지 식은 4번을 넣어준다.- 미지근한 온도나 차가울때 넣는것을 추천드립니다. - 견과류나 시리얼,오트밀을 미리 넣어서 냉장보관해도 가능하다. ",
+		"8. 냉동고에 1~2시간정도 넉넉히 얼려서 시럽이나 올리고당을 얹고 캐슈넛과 함께 먹는다.냉장고도 가능하지만 시원한 무스를 느끼기 위해 냉동고를 추천합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/33224abd15e9d497ac9e44fc02e2a7ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/b9d26cf809f7f8311db57e5ae47f571e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/37228ca68a34ff3b5a10fa992bb039c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/f50e207c1defbdb2980a1c0321b009981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/969d2b7227f33b84b9864368a62a5f4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/1959f712e053351746e57d762aa49cf31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/951c57b5c37ed4dd05d183f06b4e5f3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/b9e523efc7065534dfdbaba829bccc091.jpg"
+	]
+}

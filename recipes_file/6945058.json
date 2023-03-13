@@ -1,0 +1,70 @@
+{
+	"id": "6945058",
+	"name": "찬란한 우렁쌈장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/62da53bc4de42e2dc31fe1da1ceda8c31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945058",
+	"ingredient_ids": [
+		753,
+		3,
+		29,
+		848,
+		473,
+		226,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "우렁",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 1) 양념을 만들어요 * 미리 만들어 두면 양념이 잘 섞여요",
+		"2. 2) 재료를 손질해요",
+		"3. 3) 우렁을 데쳐요 * 이물질과 균을 제거하기 위해 데쳐요",
+		"4. 4) 양념에 손질한 재료를 넣고 잘 섞어요"
+	],
+	"recipe_img": []
+}

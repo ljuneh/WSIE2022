@@ -1,0 +1,81 @@
+{
+	"id": "6941509",
+	"name": "순두부찌개만들어 맛있는 점심먹어요~^^",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d116ebb5cc8386695a436acf596c33751.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941509",
+	"ingredient_ids": [
+		936,
+		325,
+		27,
+		34,
+		3,
+		498
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "조개",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "순두부",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "순두부양념장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물종이컵1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 종이컵1컵 반을 넣어서 조개를 넣어주세요  양념장을 2스푼 넣어주세요",
+		"2. 끓으면 양파넣어주세요",
+		"3. 대파 호박 을 넣고 푹 끓여주세요",
+		"4. 순두부를 반을 자른후",
+		"5. 세우고 살살 하면 이렇게 빠져요",
+		"6. 예쁘게 썰어주세요",
+		"7. 보기에도 좋은 음식이 맛있는 법이지요 이렇게 썰어서 조심히 떠서 냄비에 담으시면 되요",
+		"8. 펄펄 끓으면 계란 넣어주세요 심심하시면 소금으로 간하세요",
+		"9. 나머지 순두부는 간장에 발라서 먹어주세요 남기면 언제 꺼낼지 모르니 바로 먹어주세요",
+		"10. 완성~!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/a6cdb74bdcb2108e4e16d88218ce03991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/105d47eb247e9e59a6488768aaa7c2b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/856bd2bdb25de2753b14c9bf97664abc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/bda8105b7cadf4b28a22dbe2b15224711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/07814f924a01ee5d5c63168dd11d06441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d57cab6f174ccfd052ca005a6c40990b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/20370a1dc21834eb7706bb2cc21aaf5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/5c179d910849e9b0a11d76db5d48141e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/dfa0e4ccd9a8fd04882b82f223f7fcfb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/fad2f04ae7f4e51ba699bb6645ba8f4a1.jpg"
+	]
+}

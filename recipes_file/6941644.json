@@ -1,0 +1,80 @@
+{
+	"id": "6941644",
+	"name": "볶음김치 비빔밥ㅡ경기미참드림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/12ab601ac60a6c752b96f7b3209f9f0d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941644",
+	"ingredient_ids": [
+		27,
+		504,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "묵은김치",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "양파작은것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루가득",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해요 #올갱이묵은 취향에 따라 사용하세요 꼭 안 넣으셔도 되요",
+		"2. 대파와 양파를 다지고",
+		"3. 김치도 다져서 준비해 주세요",
+		"4. 팬에 식용유를 두르고 대파와 양파를 넣고 볶다가",
+		"5. 파 향이나면",
+		"6. 다진 김치와 설탕을 넣고",
+		"7. 물 100ml 넣고",
+		"8. 고추가루를 고봉으로 1큰술 넣고 물기가 거의 없을때 까지 볶아 주세요",
+		"9. 김치가 다 볶아 졌으면",
+		"10. 윤기 좔좔 고슬 고슬 하게 잘 된 밥을 그릇에 담고",
+		"11. 볶음김치와 계란 후라이를 올려 주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/9b3019b89eee0162eb823ac7caf5fa2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/92e63b9601ee8395bc91a185d9446f2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/c5649d15f01df9ab1d19f4da597eacdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/147422336f1e8e38bd283d6c966ddb811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/bac9f67a677e332c6a35f071e208e0321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/0c9d38f4b5b8d37efb75671ad58e984e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/0951cb7208ecfd20ae300064443188f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/e1b3803cbdf2ebe39edac56cf3adcafa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/9a6303b866ad97b4f8e1f87872c292241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/1f78d8be52316c3daec1ecd56d4501441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/917dd36053ae9bf4038db4e38c1df56d1.jpg"
+	]
+}

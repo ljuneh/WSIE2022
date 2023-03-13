@@ -1,0 +1,116 @@
+{
+	"id": "6942365",
+	"name": "정식품 콩국물 키토 퐁듀 두부 버거",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/7c0e344bb0345e460e685b80bfb57a961.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942365",
+	"ingredient_ids": [
+		212,
+		667,
+		56,
+		547,
+		575,
+		497,
+		198,
+		42,
+		371
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "정식품진한콩국물종이컵",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "정식품진한콩국물검은콩종이컵",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "홀그레인머스타드소스",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "부침두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 1. 재료를 준비한다. (재료 목록은 위칸에 기재되어 있음) 필수 재료!! -> 정식품 콩국물, 정식품 콩국물 검은콩, 두부",
+		"2. 2. 재료를 다듬어준다. 1) 두부는 1/4등분으로 컷팅 후 가로로 한번씩 더 컷팅하여 총 8개를 만들어준다. 소금 후추를 뿌려서 수분끼를 날려주면서 양념을 해준다. 2) 느타리버섯은 2~3번 손으로 찢어준다. 3) 방울토마토는 가로로 1/2컷팅 4) 양상추는 한입크기로 잘라준다.",
+		"3. 3. 팬에 버터를 두른다.",
+		"4. 4. 버터가 녹으면 두부를 앞뒤로 노릇노릇 익혀준다.",
+		"5. 5. 팬에 버터를 두르고 느타리버섯을 볶은 후 양조간장과 올리고당을 넣고 익힌다.",
+		"6. 6. 팬에 정식품 콩국물과 정식품 콩국물 검은콩, 모짜렐라치즈를 넣고 끓이다가 치즈가 녹으면 찹쌀가루를 넣고 가루가 보이지 않을때까지 저어준다.",
+		"7. 7. 정식품 콩국물 치즈 퐁듀 완성!!",
+		"8. 8. 익힌 두부위에 홀그레인 머스터드를 바른다.",
+		"9. 9. 8번 바른 후 양상추->방울토마토->볶은버섯->정식품 콩국물퐁듀 순으로 올려준다.",
+		"10. 10. 두부로 덮어준다. 완성!!",
+		"11. 11. 콩으로 만드는 키토 건강식 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/d220723599e61984d5241a0373a0f8201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/22a7201d9978a9ef0a65d3bf098f1ffe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/7dc4ac0c9d4b44c3a660fad3a55e975e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/7b1a9346791990a619f9e30f9609bf6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/4af064617e9ef6d6e633def2c37fed9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/b4be5397b773a058d184fe311491a2971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/d987bfa3e88362f0fcf9e69acf8ccd721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/4646976e451d155f6bbd9d5508e0898a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/a76dbbac643f025d0ae310748cd5f6341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/14b741c1a54c57f08c8f12f5e0ea3bd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/2ad885b1024398f94428d3bfefb3db8a1.jpg"
+	]
+}

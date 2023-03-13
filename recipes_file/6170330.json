@@ -1,0 +1,51 @@
+{
+	"id": "6170330",
+	"name": "멸치볶음 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/c2836e45ccc371b80bea9e9ac07372041.jpg",
+	"url": "https://www.10000recipe.com/recipe/6170330",
+	"ingredient_ids": [
+		379,
+		341,
+		350,
+		233,
+		574
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 올리브유 약간을 넣고 다진마늘과 다진 청량고추를 함께 볶아주세요.",
+		"2. 마늘향이 가득해 진 후라이팬에 멸치를 넣어주시면 된답니다",
+		"3. 간장 한스푼과 물엿 두 스푼을 넣고 물엿이 다 졸여 질때까지 5분정도 볶다가. 마지막으로 깨소금을 넣어서 수분이 날라갈 때까지 볶아주시면 된답니다 ."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/742a5f842c9715e3156b8def90eaabb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/8104028754cbcff109220515517e469a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/6117c5b8f3eeb901f93f276734e6dcb81.jpg"
+	]
+}

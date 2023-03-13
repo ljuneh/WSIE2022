@@ -1,0 +1,110 @@
+{
+	"id": "6843813",
+	"name": "구수한 순대국 만드는법(순대국 끓이기)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/814681afb657a16ef369902dab78a31e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843813",
+	"ingredient_ids": [
+		684,
+		30,
+		15,
+		337,
+		224,
+		349,
+		390,
+		29,
+		579
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "순대",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "순대부속품",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "돼지사골육수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".Ts"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "다진청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".Ts"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 먼저 사골육수는 준비되셨다면 혹은 준비가 안되신다면 팁을 알려드릴께요. 흔히 먹는 돼지족발 다 드신후에 남은 뼈를 깨끗이 씻어서 우려내셔도 되구요. 감자탕뼈를 이용하셔도 된답니다. 아니면 그냥 정육점 사골육수를 쓰셔도 되구요. 그것도 여의치 않다면 사골곰탕의 스프를 이용하셔도 되요. 그렇게 육수는 준비하시고요.",
+		"2. 전 남편이 오소리감투까지 사와서 푹 삶아 이용했어요.(압력솥에서 익혀주시면 금새 삶아져요.) 이때 팁! 오소리감투는 얇게 썰어서 이왕이면 반나절 놔두면 연해져요~",
+		"3. 간단히 하시려면 떡볶이 집에서 순대일인분만 사오심되요.(부속품포함)",
+		"4. 육수가 준비되면 순대부속품고기를 먼저 넣고 팔팔 끓여주세요.",
+		"5. 끓이신후에 순대는 듬성듬성 크게 썰으세요.(떡볶이집에서 썰어달라할시에는 크게 썰어달라 하세요.) 순대는 금새 퍼지니깐 찬거라면 팔팔 끓을때 넣고 5분정도 끓이시면 되구요. 이미 쩌진 순대라면 먹기직전에 넣어주세요. 부추는 큼직하게 썰어놓고 깻잎은 한입크기로 썰어주세요. 양념장은 만들어 놓고 드시기 직전에 타서 드시던지 아님 미리 풀어서 익혀드시면되요.",
+		"6. 들깨가루는 드시기 직전에 넣어주심 좋아요~",
+		"7. 매운게 싫으신분들은 새우젓으로만 간을 해서 드셔보세요~",
+		"8. 어렵지 않죠? 그럼 맛있게 드세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/eac9a8630a6e268fa31f946bb2ed54cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/6477cd7f8f9e8c99d80c8b303d66a48b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/54e5f2169568605b5bee0981ee81e29f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/2e93f92e68a395d677a72f3c625aa4511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/d5572fe16cf0ff7f9e620cd0a345488c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/3011ba22c3daf63377214e00b75706871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/947e6972c97fa5217cfb49d7feecd6b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/29/983b3392c26696f28d734a1db4548b471.jpg"
+	]
+}

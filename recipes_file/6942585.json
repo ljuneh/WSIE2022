@@ -1,0 +1,50 @@
+{
+	"id": "6942585",
+	"name": "이것만 기억하면 내가 우리 동네 전 마스터- 쉽고 맛있게 즐기는 추석 대표 전 요리 <애호박전> ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/4402c9d040330a9f351454964907889b1.png",
+	"url": "https://www.10000recipe.com/recipe/6942585",
+	"ingredient_ids": [
+		7,
+		234,
+		219,
+		432
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "요리에센스연두",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 분량의 재료를 준비해주세요.",
+		"2. [애호박 손질하기]  애호박은 0.8cm 두께로 자르고 연두를 발라 5분간 재워주세요.",
+		"3. [전 부치기] 밀가루, 계란 물 순으로 옷을 입히고 예열된 팬에 포도씨유를 두른 후 부쳐주면 완성!전은 딱 한 번만 뒤집어주세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/f942790d785b42a80f965f02eab9afaa1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/574f147d240f45a7d5401d7b271fbae81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/f91513dcc17bdeecc0b5d97f9b6669551.png"
+	]
+}

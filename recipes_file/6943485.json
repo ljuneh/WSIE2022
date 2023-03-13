@@ -1,0 +1,70 @@
+{
+	"id": "6943485",
+	"name": "컵라면 볶음밥 간단하게 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/155a129146d2e7ced4c71aabb456309e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943485",
+	"ingredient_ids": [
+		504,
+		27,
+		477
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "컵라면",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료를 준비해주세요. 공기밥은 1인분만 요리할시 반 공기나 2/3공기만 준비해 주세요. 가득 담아서 2공기를 준비하면 3인분의 양이 나와요. 라면은 신라면 작은 사이즈로 준비했지만 다른 라면도 가능해요.",
+		"2. 대파를 너무 크지 않은 사이즈로 (약 0.5센티) 로 송송 썰어주세요.",
+		"3. 라면과 스프를 지퍼팩(위생봉지는 구멍 나요)에 넣고 잘게 부숴주시구요.",
+		"4. 잘게 부순 라면을 다시 컵라면 용기에 담아주세요.",
+		"5. 뜨거운 물을 용기 선의 반까지만(라면이 잠길 정도)물을 부어 익혀주세요.",
+		"6. 컵 라면이 익는 동안 팬에 식용유를 적당히 두르고 센불에서 송송 썬 대파를 넣고 파기름을 내며 볶아주세요.",
+		"7. 파 향이 올라오면 가스레인지 불을 약불로 낮추고 계란을 넣고 나무젓가락으로 계속 저어 스크램블을 만들어 주세요.",
+		"8. 밥을 넣고 볶다가 굴소스 1큰술을 넣고 계속 볶아 주세요.",
+		"9. 익힌 부순 라면을 넣고 물기가 없어질 때까지 볶아주세요. (물기가 많으면 중불로 올려 주세요)",
+		"10. 이렇게 그냥 먹어도 되지만 더 예쁘게 그릇에 담아내기 위해 라면 볶음밥을 다시 라면 용기에 넣고 꾹꾹 눌러주세요.",
+		"11. 접시를 라면 용기 위에 올리고 뒤집어 주면 예쁜 모양이 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/affbfd4ee1ed20ba49605585e08b8b571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/c399596b039ee31e92cc9eb1bfa020921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/b9b5b217086a539451d2aa327e1794561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/46479e494c2cd82810dee0ab26c2cead1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/72b7c1447e6a7efaa55cd1a7c06091b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/d18001ebf1e65f70b7e14544618a7d5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/ca8a04598647355417ab5567584e51eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/2bab11a4b89d7cabfc3cd2154c6188b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/77ac98be7e5ef3597bc450b9ac6294c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/648d632990fd11cf40355781ea650d021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/5a1bf696b1ccc894055a08a6a824bb261.jpg"
+	]
+}

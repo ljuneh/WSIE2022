@@ -1,0 +1,59 @@
+{
+	"id": "6868286",
+	"name": "짭쪼롬 달달한 콩자반 올려 밥 한 술 뜨고 싶구나~ 콩자반!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/12/123039092f2c32c8815f9b74b9dc384a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868286",
+	"ingredient_ids": [
+		379,
+		226,
+		575,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "검정콩",
+			"ingre_count": "2",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/3",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 검정콩은 깨끗이 씻어 콩이 잠길 만큼의 물을 붓고 약 1시간 이상 불린다.검정콩 2cup너무 오래 불리면 껍질이 다 벗겨져요.",
+		"2. 불린 콩은 물과 함께 소금을 1/4T넣고 약 10분에서 15분간 삶는다.중간중간 거품은 겉어 낸다.",
+		"3. 물이 어느 정도 줄어들면 간장, 설탕을 넣고 졸인다.간장 1/3cup, 설탕 2T",
+		"4. 양념이 조금 남았을 때쯤 올리고당을 넣고 더 졸인다.올리고당or물엿 1T",
+		"5. 불을 끄고 참기름과 참깨를 넣어 완성한다.참기름 1T, 참깨 1/3T"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/12/fa672b60df21bc7bdec2ea2f5adaad571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/12/d4b8bbdddbbcaf4187c104a70385774f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/12/aa81d6d116a4593a048093206595db601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/12/b93f9b4eb845ab5f70d0cc77d4c092831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/12/d27ad3fa70ad675111713f883f9572521.jpg"
+	]
+}

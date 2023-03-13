@@ -1,0 +1,58 @@
+{
+	"id": "6895918",
+	"name": "김굽기 초간단 방법, 전자렌지로 구워먹기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/09/15/79745e2404fe370c6f7158791bd897a61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6895918",
+	"ingredient_ids": [
+		95,
+		379,
+		660,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "김",
+			"ingre_count": "9",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "키친타올",
+			"ingre_count": "6",
+			"ingre_unit": "칸"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 김을 준비해 주세요.9장 정도면 두분 드시기에 충분합니다.",
+		"2. 키친타올 3칸을 잘라 바닥에 깔고 김 9장을 위로 올려 주세요.3칸이면 김 면적을 덮어줄 수 있어요.",
+		"3. 김 위로 키친타올 3칸을 뜯어 내어 김 위로 덮어 주세요. 이상태로 전자레인지에 넣고 1분을 돌려 주세요.전자레인지",
+		"4. 1분 뒤에 그대로 뒤집어서 전자레인지에서 1분을 더 돌려 주세요.파워가 높은 전자레인지는 40초씩 돌려 주세요.",
+		"5. 2분 뒤에 꺼내셔서 가위로 4등분 잘라 주세요.",
+		"6. 밀폐용기에 담아 양념장 (간장 1T, 참기름 1/2T, 통깨 1/3T)을 만들어 밥에 싸 드세요.",
+		"7. 남은 김은 밀폐용기 뚜껑을 닫아 습기에 노출을 피해 보관하셨다가 꺼내 드시면 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/15/5846941849b57b5d7a96b301a73390311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/15/67b8bd78adb9961ea09b3f56b75e703b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/15/80acef82b3f7e7b47df0f632295e7be21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/15/957e68ad5b10103d28eef133a88ac4141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/15/6c177bb21ac5d4f72115a6a33a939d361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/15/1e4525994d4f2f4d1b7241180169acee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/15/25d237965376b7247fa1100c533cc1c21.jpg"
+	]
+}

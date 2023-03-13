@@ -1,0 +1,74 @@
+{
+	"id": "6943603",
+	"name": "언제 먹어도 맛있는 잡채 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/ad623fc7a4a48888e4432e447efdf8fd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943603",
+	"ingredient_ids": [
+		302,
+		2,
+		6,
+		548,
+		379,
+		226,
+		543
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "당면",
+			"ingre_count": "4",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "1/4",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 어묵잡채 만드는법 불지않고 쉽게 저녁메뉴로 굿인 어묵잡채 만들기로 하려구요",
+		"2. 우선 어묵도 길게 채를 썰어 주시구요 시금치는 손질해서 세척해서 물기를 빼주시구요 파프리카도 썰어서 준비해 주세요. 그리고 팬에 기름을 두르고 어묵과 다른 채소를 한꺼번에 넣고 숨이 죽을 정도로 살짝 익혀 주세요. 그리고 잡채를 하려고 하면 당면을 물에 10-15분 미리  담가서 불려 두세요.",
+		"3. 그리고 후라이팬에 기름을 두르고 불려 두었던 당면을 볶아 주세요. 그리고 장반컵.후추약간.설탕1T.통깨약간을 넣고 볶아 주세요.",
+		"4. 그럼 요런 모습의 잡채 향과 잡채 모양이 거의 나온답니다.",
+		"5. 색이 요렇게 곱게 입혀지면 이제  아까 볶아서 따로 두었던 채소를 넣고 섞어 가면서  1분 정도만 더 볶아 주세요.",
+		"6. 그러면 아주 간단하게 휘리릭 잡채 만들기 완성이랍니다. 어묵을 넣어서 식감도 참 좋은 어묵잡채 황금레시피 완성이네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/8538e562a69ecb1da42ece15cf38f1361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/61dc0a95a88c9b19c3a595fe777a4cfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/029748a134cf438b5f21575370ca42e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/dcaf42123aa9a6a98ac30eec830043fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/385d5fcb5d4f0dc212cee3bc90730c591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/313495b512298d8c945c1dedb2e733731.jpg"
+	]
+}

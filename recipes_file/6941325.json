@@ -1,0 +1,53 @@
+{
+	"id": "6941325",
+	"name": " '견과류죽'을 경기미참드림으로",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/154197a43ec7bd402cd0c5230571a97a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941325",
+	"ingredient_ids": [
+		194,
+		995,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "껍질벗긴볶은땅콩",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 땅콩, 호두는 팬에 살짝 볶아 식힌다.기름 없이 볶아 주세요.",
+		"2. 믹서에 밥, 물 200ml(한컵), 땅콩, 호두를 넣고 간다.아주 곱게 갈지 않아도 된다.",
+		"3. 냄비에 2를 붓고, 물 400ml를 더 붓고 섞은 후 끓인다.",
+		"4. 끓기 시작하면 아주 약한 불로 줄이고 10분 정도 뭉근하게 끓인다.눋지 않도록 저어가면서 끓여야 해요",
+		"5. 마지막에 소금으로 간을 하고 불을 끈다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/bf88124c1ee4616f898f5957495a9a0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/86b57223a5fdca73545fb9236c0152671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/60c9eab3a64b3a6df4d88b019e7ee4a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/a25cb8d194a3db3722db5988f47d5eb21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/b227b6e9e398b2d57343c169306152671.jpg"
+	]
+}

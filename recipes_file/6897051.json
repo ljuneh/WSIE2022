@@ -1,0 +1,36 @@
+{
+	"id": "6897051",
+	"name": "달콤한 군고구마♡쫄깃한 군계란 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/ea5872ab4d178032c74c45e5cd8131fd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6897051",
+	"ingredient_ids": [
+		4
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 고구마와 계란을 씻어요. 빈냄비에 고구마 놓고 계란 놓고 뚜껑을 덮어 1시간 가열해주세요. ※가스렌지는 중불/인덕션은 쎈불",
+		"2. 1시간 후, 잘 익었어요.",
+		"3. 익었나 확인하는 법은 젓가락으로 찔러보기^^",
+		"4. 뒤집어보면 고구마는 잘 구워졌고 냄비는 타지않았어요.",
+		"5. 뜨끈할 때 드세요.^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/728ef243f04093a4942edc8cc10bb3ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/ee313864ab03a05be527d34b4fe724cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/0f85fc844c987ebb6394407e5e8cc3561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/98da024c7c12a8d8f73198f47fad2f7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/23dbbf68d0a34f271291909fbce5d8d61.jpg"
+	]
+}

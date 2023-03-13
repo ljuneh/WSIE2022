@@ -1,0 +1,113 @@
+{
+	"id": "6944270",
+	"name": "굴짬뽕 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/8fc45d2baddb27a9d222071b135258e01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944270",
+	"ingredient_ids": [
+		82,
+		65,
+		79,
+		57,
+		53,
+		3,
+		32,
+		29,
+		900,
+		423,
+		90,
+		477,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "굴",
+			"ingre_count": "2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "6",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "목이버섯",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배추",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쫄면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "북어포",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 굴을 깨끗하게 씻어 주세요.",
+		"2. 오징어와 굴은 끓는 물에 먼저 살짝 데쳐 주세요.- 굴을 먼저 데쳐 주시면 불순물을 미리 제거할 수 있어서 좋습니다.",
+		"3. 나머지 야채류도 깨끗하게 씻어서 잘라 주세요.- 마늘은 편으로 썰어 주세요. - 다진 마늘을 넣어도 좋지만 국물에 입자가 뜨지 않고 깔끔하게 하기 위해 통마늘을 편으로 준비 했습니다.",
+		"4. 물과 북어포, 다시마를 넣고 육수를 끓여 주세요.- 일반 물로도 상관 없습니다.",
+		"5. 기름을 살짝 두르고 데친 오징어와 굴, 야채를 넣고 볶아 주세요.- 타지 않도록 만든 육수를 조금씩 넣으며 볶으세요.",
+		"6. 쫄면을 물에 담그고, 붙은면을 분리해 주세요",
+		"7. 끓는 물에 쫄면을 삶아 주세요.",
+		"8. 볶은 재료에 육수를 넣고 굴소스, 소금, 후추를 넣어 간을 맞춰 주세요.",
+		"9. 마지막으로 짬뽕국물에 삶은 면을 넣고 간이 배이도록 한번 더 삶아 주세요.",
+		"10. 그릇에 담아주시면 완성 입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/c159e4d200911f3de9e68448bc3014571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/3f5b2bde927e52c545e5bcb4290a30141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/22b018f93aa7c76a1c119cb8e8cbc2871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/c069f356842f75a36aaddc857e8bdfcc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/f6be2e8c2fb26d9832b7beda6445db161.jpg"
+	]
+}

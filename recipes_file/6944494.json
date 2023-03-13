@@ -1,0 +1,63 @@
+{
+	"id": "6944494",
+	"name": "돌나물 무침 비빔밥 초고추장 양념으로 입맛이 살아나",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/bff0ead72f4e02018280383c02c3eb191.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944494",
+	"ingredient_ids": [
+		999,
+		473,
+		224,
+		226,
+		843,
+		231
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "돌나물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 돌나물을 준비해주세요",
+		"2. 채에 받쳐서 깨끗하게 흐르는 물에 씻어주세요",
+		"3. 초고추장 양념 만들기 고추장1, 고춧가루1, 설탕1, 매실액1, 식초3을 넣고 섞어주세요매실액은 없어도 되요",
+		"4. 그릇에 밥을 담고 참기름 한바퀴 둘러주세요",
+		"5. 깨끗하게 씻은 돌나물을 위에 올려주세요 (전 집에 참나물이 있어서 추가로 넣어줬어요)",
+		"6. 맛있게 만든 초고추장 양념을 올리고 통깨 조금 뿌려 준 후 비벼 먹으면 꿀맛입니다 ♥"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/27222cacdbe560078907ad1e95b86ea21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/59bffb4a513f6eb56aea49dada3b34dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/10134a14b3018555f08a7f78c015f7ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/0876a7fa5768ceebfc8d601238420ec41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/539812e59b8cc6b9082c7664328b0c101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/13fa2a5f4d2d531081d937a3bdf185801.jpg"
+	]
+}

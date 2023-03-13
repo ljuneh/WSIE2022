@@ -1,0 +1,83 @@
+{
+	"id": "6939935",
+	"name": "말복요리 돈까스 하이라이스 오무라이스 맛을 한번에 돈까스하이라이스덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/abc127486d11a3bfc5142de1d7b504991.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939935",
+	"ingredient_ids": [
+		198,
+		3,
+		497,
+		995,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "돈까스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "하이라이스가루",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 양파를 얇게 썰어 놓습니다",
+		"2. 웍에 버터를 녹이고 양파를 오래 볶습니다",
+		"3. 하이라이스가루를 물에 개어 놓습니다",
+		"4. 양파에 우유 하이라이스가루 갠물을 넣고 끓입니다",
+		"5. 물은 농도에 맞게 넣어가며 끓입니다",
+		"6. 계란을 풀어 스크램블을 만듭니다",
+		"7. 돈까스를 튀겨 오일을 제거하고 썰어 놓습니다",
+		"8. 밥에 계란을 올리고 소스를 뿌린뒤 돈까스를 올립니다",
+		"9. 식탁에 냅니다"
+	],
+	"recipe_img": []
+}

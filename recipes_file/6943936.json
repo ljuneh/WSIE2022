@@ -1,0 +1,78 @@
+{
+	"id": "6943936",
+	"name": "백종원처럼 손쉽게! 햄감자볶음만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/7e27dc0888716b859bda874ab5a1b89a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943936",
+	"ingredient_ids": [
+		5,
+		6,
+		9,
+		497,
+		504,
+		575,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "만능맛간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 감자는 껍질을 벗겨  한번 씻어 준 다음에 채썰어 줍니다.",
+		"2. 채 썬 감자는 소금물에 담가서  전분기를 없애 주세요.",
+		"3. 감자를 물에 넣어둔 사이에 당근, 햄, 파프리카를 준비해주세요.",
+		"4. 감자는 10분 정도 물에 담가 놓은 뒤 빼내어서 체에 받쳐 물기를 빼주세요.",
+		"5. 달군 후라이팬에 기름을두르고 감자를 가장 먼저 넣고 볶아주세요. 감자 위에 소금으로 간을 해주세요. 감자가 조금 설컹거리면 당근과 햄을 넣어줍니다.  기름이 약간 부족하면  물을 넣어주세요.",
+		"6. 만능 맛간장 2스푼을 넣어 감칠맛을 살려줍니다. 야채가 어느 정도 익었으면 마지막으로 파프리카를 넣고 살짝 더 볶아줍니다. 윤기를 내기 위해 올리고당을 둘러주었어요.",
+		"7. 다 익으면 불을 쓰고 깨소금을  솔솔 뿌려주세요.",
+		"8. 햄 감자 볶음 완성! 애들 반찬으로 이것만큼 간편하고 손쉬운 것도 없죠. 아이들도 물론 잘 먹고요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/539c96064617fec152cf28bfdb0a42501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/cb6c285405cafeb87ce84ed18e8f93081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b01a673378048a707cc36fe60fbb28c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/0d5351e3a8d8cd51d466b814025568871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/bfc59626f33460ae53d211cc61e58d6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/e1b343425bc0b86dcdf162bf8ed9a73e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b3c9d0f51c423ecdeda24de1dbdcd9331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/6b8f27abc26fd34a6aca03670beba04b1.jpg"
+	]
+}

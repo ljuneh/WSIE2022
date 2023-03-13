@@ -1,0 +1,94 @@
+{
+	"id": "6942524",
+	"name": "명절전 만들기. 색다르게 새우전과 애호박전 만들기.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/69d825a8503fba96161547cda69670fe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942524",
+	"ingredient_ids": [
+		307,
+		7,
+		3,
+		9,
+		27,
+		497,
+		504
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "대하",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간돼지고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 애호박은 0.5cm 두께로 잘라 주세요. *전 치고는 두툼하죠? *애호박은 가운데 씨가 있어 구멍을 뚫어서 속을 채우는 방법을 선택했어요.",
+		"2. 애호박은 도구를 이용해 씨를 파내 줍니다. *동그란 도구가 없어서 과자 만들때 쓰는 꽃모양 찍기를 사용했는데 병뚜껑 같은 도구를 이용해 씨를 파내주면 됩니다. ",
+		"3. 양파,당근은 채 썰어 다져 주세요. *분쇄기로 입자 있게 갈아 줘도 됩니다.",
+		"4. 파낸 호박씨와 대파는 송송 썰어 작게 다져 주세요. *호박 파낸 씨도 버리기 아까워서 다져서 속재료로 넣었어요. ",
+		"5. 간 돼지고기와 다진 야채를 한 군데 넣어 섞어 준 다음 계란과 부침가루를 넣어 속재료를 만듭니다. *재료가 많아서 계란을 2개 넣었는데 질척 거리니 1개만 넣어 주어도 될것 같아요. ",
+		"6. 대하는 꼬리만 두고 머리와 껍질 벗깁니다. *원래 대하도 손질할때 비린내가 많이 나는데 요즘 대하철이라 그런지 비린내가 안나고 너무 싱싱했어요.",
+		"7. 새우 등쪽에 칼집을 내어 까만 내장을 꺼내고 반드시 펼쳐 주세요. *배쪽보다 등에서 칼집을 내야 전부칠때 오므라 들지 않습니다.",
+		"8. 잘라 놓은 호박에 밀가루를 체에 쳐 바른 다음 7)번의 속재료를 넣어 주세요. ",
+		"9. 껍질 벗긴 새우도 밀가루를 묻히고 속재료를 얹어 줍니다. ",
+		"10. 전 부칠 계란 2개는 깨서 맛술과 소금 넣어 풀어 둡니다. ",
+		"11. 팬에 기름을 넉넉히 두르고 계란물 묻힌 새우와 애호박을 노릇하게 부쳐 완성합니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c6661439757ddaca27fb8434c3cc81fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/e497ee1fcdeaca7ae4dccf2005241a141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/8688fb5a4b6e03f16472e36547593b951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/50322474bf410c1ae4c5cd31374e36031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/75cab12fba897856992ec9d4ba97a8bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/9ae707262d578823aeae7dcd5296a4e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/aa3e2bfd10df3e81752673f9331f68201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/8e8cf83905c5254075fa17207fc41c971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/69b5a3c1d61e9a8352518c1610c7e4a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/225bd7e99ec25b6f73a69436d34400201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/288b4a50c2526d7bd8e99896c8c5b1d91.jpg"
+	]
+}

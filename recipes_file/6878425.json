@@ -1,0 +1,45 @@
+{
+	"id": "6878425",
+	"name": "카레로 비린내를 꽉~잡아 맛있다! 갈치구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/72b3cd936d83b4d05614d81cb0e9cdfd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6878425",
+	"ingredient_ids": [
+		67,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "갈치",
+			"ingre_count": "2",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 갈치는 칼집을내 소금을 뿌려 둔다.갈치 2토막, 소금 약간",
+		"2. 전분 가루와 카레가루를 잘 섞는다.전분 2T, 카레 가루 1T ",
+		"3. 소금을 뿌려둔 갈치에 전분과 카레를 섞은 가루를 입힌다.",
+		"4. 예열된 팬에 기름을 두르고 앞 뒤로 노릇하게 구워 완성한다.예열된 팬"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/a1d8b55238bc7b321610b281a1e4d8fd1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/eaa1ac13e63b5951b10700bae9185dab1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/d14fbda169e15be4a9491ea3328ff96e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/24/f0704e0ac11689816d3c5cf59f4a07c11.png"
+	]
+}

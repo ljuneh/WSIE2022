@@ -1,0 +1,82 @@
+{
+	"id": "6911373",
+	"name": "콩나물국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/30/fda055a51611895253984fd77bb0fa681.jpg",
+	"url": "https://www.10000recipe.com/recipe/6911373",
+	"ingredient_ids": [
+		47,
+		3,
+		58,
+		495,
+		327,
+		349,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다시마소",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고운소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 콩나물 깨끗이 씻기 자른 고기 넣기 들기름 1T 남비 바닥에 넣기 고운소금 1t 콩나물 위에 골고루 뿌리기 점화하여 센불로 콩나물과 고기를 살짝 익히기",
+		"2. 다시마 1조각, 물은 콩나물이 잠길 정도로 넣기 (남비의 반 정도) 센 불에 끓이기",
+		"3. 끓기 시작하면 채썬 양파, 새송이 버섯, 다진 마늘 넣고 국간장 넣어 간하기 고추가루 넣기(고추, 파 추가 가능)",
+		"4. 국을 끓이기 전에 국 남비에 콩나물 무침용으로 콩나물의 반을 물이 끓을 때 소금 뿌린 후 익힌다 (남비 뚜껑을 연다) 익히고 남은 물은 콩나물 국에 같이 넣는다(요리순서1)",
+		"5. 무친 콩나물에는 양파 피망등 생야채로 먹을수 있는 것을 얇게 채썰어 같이 먹는다(오늘 점심 혼밥후)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/27/3f34517a0e91d3f4d7870a6e9ac20f0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/27/d42e8b092fb16412a0e3bde446ccf9bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/27/57557f021892bc32875248bce6755b971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/27/718ca2a0c75adbff73645a7f2b19deb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/30/fa5024f4ff505fcf805afb8e49564dc61.jpg"
+	]
+}

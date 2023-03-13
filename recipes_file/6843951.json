@@ -1,0 +1,107 @@
+{
+	"id": "6843951",
+	"name": "골뱅이무침 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/02/0ae8705eae290682c2a7ca73fa636e1b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843951",
+	"ingredient_ids": [
+		461,
+		3,
+		8,
+		295,
+		15,
+		226,
+		473,
+		231,
+		290
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "골뱅이",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "골뱅이통조림국물",
+			"ingre_count": "3",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1.",
+			"ingre_unit": ".수저"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1.",
+			"ingre_unit": ".수저"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 파",
+		"2. 양파는",
+		"3. 채썰어서 물에 담가 매운맛을 빼준다.",
+		"4. 오이, 깻잎, 청양고추는 먹기좋은 크기로 썰어서 준비.",
+		"5. 믹싱볼에 깻잎을 뺀 나머지 야채를 담고 골뱅이는 먹기 좋은 크기로 잘라준다.",
+		"6. 위의 양념장을 넣은 뒤",
+		"7. 조물조물 무쳐주다가",
+		"8. 깻잎 넣고 무쳐주면 골뱅이무침 완성.",
+		"9. 새콤 달콤 매콤 술안주로 딱인 맛있는 골뱅이 무침. 골뱅이무침 황금레시피 양념장만 이대로 하면 쉽게 완성된답니당."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/60ab47707ab8e6dee9bfd369accece541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/c47935ff5e42bce4c5a2c2b7559eb47e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/5282dad98227ed9c16ad227a88d8dabd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/4d1dca485b249945d3c3f3f9f52359d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/2b31535b4dd350f1149d33502aec71231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/c3aba1edf95585e7bc4fce6fc7fad92d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/12298bd0b2924ed9470ec3149c9651ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/fd03c4d12423b34711c3eb15ff93ea811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/3c31f5135f7bf6bbf1fbb0bd315d19131.jpg"
+	]
+}

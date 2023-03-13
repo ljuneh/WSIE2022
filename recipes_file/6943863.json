@@ -1,0 +1,82 @@
+{
+	"id": "6943863",
+	"name": "쉽고 맛있는 나폴리탄 만들기★",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/4856eac926b016d60d23df0c945a6d971.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943863",
+	"ingredient_ids": [
+		920,
+		3,
+		29,
+		295,
+		18,
+		477,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "파스타면",
+			"ingre_count": "3",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "소시지또는햄",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "9",
+			"ingre_unit": "술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "3",
+			"ingre_unit": "술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 파스타면을 끓는물에 삶아줍니다.",
+		"2. 면이 삶는 동안, 채썬 양파와 마늘을 버터 또는 식용유에 노릇하게 볶습니다.마늘은 안넣어도 돼요~",
+		"3. 양파와 마늘이 반쯤 익으면 소시지와 가지를 넣고 볶아줍니다.가지도 안넣어도 돼요~",
+		"4. 팬에 익은 파스타면을 건져서 소스와 청양고추, 후추와 함께 빨리 볶다가, 물을 넣어 간을 조절해주세요.중불로 볶아주세요~센불은 타요물의 양에 따라 간이 쎄고 약해질 수 있어요~ 청양고추 안넣어도 돼요~",
+		"5. 나폴리탄 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/76226c3d12bcccef24f6bf0b0160837e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/3430890e6c6f00b06f1cc26348026d941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/c907e4c74889478c9a402497b0652f041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/20bd9d46ea69b130b33a8b4de1d4e7851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/d69cc8bd2a3d97d59c0c4afcba772e4e1.jpg"
+	]
+}

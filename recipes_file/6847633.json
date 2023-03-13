@@ -1,0 +1,86 @@
+{
+	"id": "6847633",
+	"name": "매콤 병어조림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/05/ecf427a7415466eb37691855cbfa7b191.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847633",
+	"ingredient_ids": [
+		70,
+		5,
+		3,
+		939,
+		29,
+		27,
+		224,
+		876
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "병어",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장1+1/2스푼",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "210",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 병어. 감자를 준비해 놓았어요.",
+		"2. 쌀뜨물(90ml)을 붓고 감자를 썰어 냄비에 깔아주세요.  (쌀뜨물 대신 물 부어도 괜찮아요.)",
+		"3. 감자위에 병어를 얹어주세요. 병어에 칼집을 어슷어슷 넣어주세요. 그래야 병어에 양념이 골고루 베어 더욱더 맛있게 드실 수 있어요.",
+		"4. 진간장 1+1/2스푼, 액젓 1/2스푼",
+		"5. 마늘 1스푼, 대파 1/2스푼, 양파 1/4개",
+		"6. 고춧가루 2스푼, 쌀뜨물이나 물(120ml)을 붓고 섞어주면 되요.",
+		"7. 진간장, 액젓, 다진 마늘, 대파, 양파 쌀뜨물을  넣고 섞어주면 돼요. ( 청주, 물엿이나 설탕은 넣지 않았어요) 그래도 병어 자체가 단맛이 나면서 맛있었답니다.",
+		"8. 섞어 놓은 양념을 병어 위에 골고루 얹어주고  10분 정도 뚜껑을 닫고 중불에 놓고 끓여주세요.",
+		"9. 뚜껑을 열고 조리듯이 끓여 주세요.  맛있는 병어조림이 완성되었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/05/920367702b8153bee6af69a47c3751891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/05/54d976fc721d7b1d3d4e4e5f613ac2001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/05/fb606f5a1bcdd682288cc363cf14fd431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/05/519d7d583ddafb8e46697d807532cec21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/05/4187ffa542acc2c29c749aaa3c79ac951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/05/a0d7bb188f1b5c834c6852f687a6b0331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/05/34e98fe9b4703337513c10bf9a00318c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/05/fd52beed7933fc7933f788487353317e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/05/76f9dd233653c9c87d17e276646e25e11.jpg"
+	]
+}

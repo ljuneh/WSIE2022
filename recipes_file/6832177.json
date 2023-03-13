@@ -1,0 +1,37 @@
+{
+	"id": "6832177",
+	"name": "4. 물엿(설탕물엿) 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/d924a2cf8a71d39966f3de100da8be591.jpg",
+	"url": "https://www.10000recipe.com/recipe/6832177",
+	"ingredient_ids": [
+		995,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. - 설탕과 물을 준비해 주시구요.",
+		"2. - 냄비에 물 400미리정도를 먼저 붓고,  (작은 밥그릇 2번 물 가득 부음)",
+		"3. - 설탕도 같은 양을 투하시켜 줍니다. (역시 작은 밥그릇에 설탕 그득담아 2번)",
+		"4. - 그다음에 중불에 몽글몽글 끓여주시구요 ♣ 절대 끓이는 동안 젓지 말아주세요!!!",
+		"5. - 기포가 생기고 아래 가라앉아있는 설탕 이 지 혼자 용해될때까지 중불에(15~20 분정도) 끓여주신후에 - 짝퉁 물엿을 담아둘 통에 그득히 부어주 시고, 3시간 정도 식혀서 냉장고에 보관해 주시면 어느정도 끈쩍함이 살아있는 짝퉁 물엿 완성!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/c44c828fba7776a4647df0222e4374321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/c15acf09c3d58abc090bb6634a6399181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/9b4eff0920ad33a6379b074ca362040b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/758e645da0fff6544817646314894b391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/925b2a903831d5f4f6228aad569badca1.jpg"
+	]
+}

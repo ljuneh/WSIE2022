@@ -1,0 +1,63 @@
+{
+	"id": "2334175",
+	"name": "명태껍질 볶음 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/dc65937c156b06b0532de82001a7a2a7.jpg",
+	"url": "https://www.10000recipe.com/recipe/2334175",
+	"ingredient_ids": [
+		469,
+		575,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "명태껍질",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 명태 껍질을 적당한 크기로 잘라주고 뼈가 붙어 있는건 잘 정리 해줍니다.",
+		"2. 분량의 양념장을 만들어둡니다.",
+		"3. 팬에 카놀라유 조금 넣고줍니다.",
+		"4. 명태 껍질을 살짝 튀겨줍니다. 잘 섞어줘야 타지 않아요.",
+		"5. 만들어둔 양념장을 부어서 잘 섞어줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/e0e56f857784d2686de9b509983a994d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/a323742c6aff02561ecb0b15a69ed9e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/c652158fd3a0fe85a723f1564165178a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/c818177dd79872876ae2a59f43cb87c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/7c7ab1ac02dbe585d2b14aca384b27a41.jpg"
+	]
+}

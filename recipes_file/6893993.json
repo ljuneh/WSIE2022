@@ -1,0 +1,83 @@
+{
+	"id": "6893993",
+	"name": "에어프라이어로 만든 식빵핫도그♪",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/9dcdc8bc41c0fd32e4693c64d29adfe41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6893993",
+	"ingredient_ids": [
+		214,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "(우유)식빵",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "후랑크소세지",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 우선 식빵5장을 준비합니다.",
+		"2. 빵칼로 식빵의 테두리 부분을 잘라내주고요~",
+		"3. 잘라낸 테두리는 믹서기에 넣어서 갈아줍니다.",
+		"4. 빵가루를 만드는 과정입니다~",
+		"5. 볼에 계란과 우유를 넣어서 부드럽게 잘 풀어줍니다.계란을 먼저 잘 풀어준 다음, 우유를 넣어 섞어주세요.",
+		"6. 핫도그 안에 들어갈 후랑크소세지와 슬라이스치즈도 준비하구요~",
+		"7. 테두리를 잘라낸 식빵은 밀대를 이용, 납작하게 밀어주세요. 전 밀대가 없어서 마늘찧는걸 대신 사용했어요^^실온에 있던 식빵은 바로 밀어줘도 상관없으나, 냉동실에 넣어뒀던 식빵이라면 반드시 자연해동 후 밀어주세요~ 안그러면 밀리지 않고 다 부서집니다.",
+		"8. 납작하게 밀어준 식빵을 도마위에 먼저 펼치구요~ 그 위에 슬라이스치즈를 올려줍니다.",
+		"9. 후랑크소세지도 올려주세요.",
+		"10. 그대로 김밥 말듯이 돌돌 말아주고요~ 끝부분엔 미리 만들어뒀던 우유계란물을 발라서 접착시켜 주세요.",
+		"11. 우유계란물로 접착시칸 부분은 밑으로 가게 해서 잠시 놔두고요~",
+		"12. 순서를 식빵핫도그-우유계란물-빵가루 순으로 나열을 합니다.",
+		"13. 미리 만들어둔 식빵핫도그를 우유계란물에 먼저 굴리구요~",
+		"14. 이어서 빵가루에도 굴려줍니다.",
+		"15. 그리고 핫도그에 바삭함을 더하기 위해 식용유 약간 뿌려줍니다.붓으로 발라도 되구요~ 설거지거리 늘어나니까 소스뿌리듯 대충 식용유 뿌려줘도 됩니다.",
+		"16. 에어프라이어 안에 식빵핫도그를 차곡차곡 넣어주고요~ 제 에어프라이어는 3.5리터이고..5개 넉넉하게 들어가는 사이즈입니다.에어프라이어",
+		"17. 180도에서 10분간 가열해주면 바삭한 식빵핫도그가 순식간에 완성입니다!!",
+		"18. 완성된 식빵핫도그에는 산적용 꼬지를 꽂아주고 소스뿌려주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/f58330acc5c72530b29e91600012554a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/0886080911f21c42c2daff23b0989aaa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/357ed713daee3d8d05b5cc55836d08141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/5ee9df21ab773748af69f9d6ad8ad33e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/d4358cb34b72be0c289f5a495b0850541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/bebed3b6caf6bec49c2187192c6b85291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/5da3e6ed335685c8070a87f5e2f7bbe61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/054980097fc41a1423c83d547d5d15661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/11af595d18b70a4fe3976f47d642760c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/cef12a456be7e51458df9aa8f0bf4a791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/ce7db94e2466db4df4f7bb42b3d4b3061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/1670a1b4221201e286e6fbf3c387e3c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/5addd32cf082ce5f793ce9d54d3f70cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/e685687c46a962b6d846b8c1579417311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/c2bdf741fc6d3a16697192d26948a92a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/f50f75430aeec628ebab93b36115e5911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/050d0361ee4dd29750fba837fefb32841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/11/87e9eb45c9980f6002f197c47444cf8a1.jpg"
+	]
+}

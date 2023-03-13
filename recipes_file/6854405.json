@@ -1,0 +1,56 @@
+{
+	"id": "6854405",
+	"name": "단호박죽 쉽게 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/12b831b0366fa801493a8343d41829ee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6854405",
+	"ingredient_ids": [
+		328,
+		995,
+		497,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "단호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "찹쌀1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 단호박을 전자레인지에서 5분 정도 익혀줬어요 그럼 딱딱했던 껍질이 잘 벗겨져요~전자레인지",
+		"2. 껍질째 넣어도 좋겠지만 예쁜 색감을 위해서 껍질은 벗겨주고 깍뚝썰어 줬어요",
+		"3. 간단하게 믹서기에 갈아주면 편해요~",
+		"4. 불려 놓은 찹쌀과 단호박을 믹서기에 휘리릭~갈기!!!!",
+		"5. 물을 3컵 정도같이 넣고 끓이는데요 끓이면서 농도에 맞춰 물을 더 넣어 줍니다",
+		"6. 죽이야 뭐 별거 있나요~ 바닥에 눌어붙지 않게만 끓여 주면 되죠!! 그러고 보면 죽은 참 쉬우면서도 맛있는 음식 같아요 너무 강한 불에 끓이면 바닥이 눌어붙으니 꼭 약한 불에서 은근히 끓여 줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/331542cbd85e4545cd66ee5cdc5da1d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/dfc2b20737ac780550978fbbd7ef60f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/91d69517760dc660d903df6634a15f831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/be48886bebaedc8648c67ecb6c5980781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/dd6f919f3a83c0d884d28ac3e1360b2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/30462468a12b34a12a7b91dcdf2b71b91.jpg"
+	]
+}

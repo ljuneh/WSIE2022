@@ -1,0 +1,102 @@
+{
+	"id": "6847125",
+	"name": "멸치주먹밥 :: 맛있는 주먹밥 만들기~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/26/36b94869a51c4e43e2e44a3c6df153e01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847125",
+	"ingredient_ids": [
+		15,
+		320,
+		504,
+		228,
+		233,
+		379,
+		292,
+		575,
+		497,
+		660,
+		543,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "멸치볶을때소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1~2꼬집",
+			"ingre_unit": "~꼬집"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		}
+	],
+	"recipe": [
+		"1. 깻잎은 깨끗하게 씻어서 등분을 내어준 뒤 잘게 썰어저 준비해주고, 잔멸치도 꺼내 놓으셔요. 작은 그릇에 간장1TS, 맛술 1TS, 올리고당 1TS를 넣고 잘 저어서 섞어주세요.",
+		"2. 프라이팬에 식용유를 약간 두르고, 다진마늘을 살살 볶다가 멸치 투하~ 뒤적뒤적 약한 불에서 볶아주다가 미리 만들어 놓은 간장물을 넣어준 뒤 살살 볶아주다가 소금 한꼬집과 마요네즈 1TS넣고 마무리!* 이때 멸치가 타지않게 불조절 잘 해주시고요. 이렇게만드는 과정까지는 일반 멸치볶음과 거의 똑같아요~ ^^집에 멸치볶음 만들어 두신게 있으시면 그대로..ㅋㅋ 주먹밥에 넣어주시면 되시겠어요!",
+		"3. 큰 볼에 볶은 멸치, 다진 깻잎, 밥 두공기를 넣어주시고,",
+		"4. 밥에만 먼저 밑간을 할께요. 밥의 밑간 - 소금 1~2꼬집, 참기름 1TS를 넣고 밥을 먼저 조물조물해서 밑간을 해줍니다. * 이렇게 밑간을 살짝 해주셔야 나중에 멸치와 깻잎과 함께 버무려서 주먹밥을 만들 때 따로 놀지 않아요.",
+		"5. 그 다음 밑간한 밥과 멸치, 깻잎을 전체적으로 버무려서 원하는 크기의 주먹밥으로 만들어 주시고, 마무리로 통깨와 참기름 넣어서 마무리 해주시면 맛있는 멸치주먹밥 만들기 완성이에요~~!!! 저는 밑에 깻잎을 깔고 그 위에 멸치주먹밥을 올려서 식탁으로 가져갔지여..ㅋㅋㅋ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/05/c122fe8205ce6d7932edd1104d51e42e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/05/2fb44538410c5adc63d711c4748b55901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/05/c4e21a51274f8f1b9becaa786e7aa4701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/05/4674b07419dbc64c1f15d6d3f58559201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/05/0a561223c96b0d9b07a8a2cbb3ac28491.jpg"
+	]
+}

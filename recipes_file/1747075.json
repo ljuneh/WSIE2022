@@ -1,0 +1,112 @@
+{
+	"id": "1747075",
+	"name": "얼큰한 소고기국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/ee9d9c2b0852da7985a40fce4bf523fc.jpg",
+	"url": "https://www.10000recipe.com/recipe/1747075",
+	"ingredient_ids": [
+		47,
+		27,
+		233,
+		349,
+		224,
+		660,
+		497,
+		233,
+		458,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기국거리용",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무1토막(3~4cm)",
+			"ingre_count": "1토막(3~4cm)",
+			"ingre_unit": "토막(~cm)"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "국선생소고기(소고기육수나멸치육수대체가능)",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1/3",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 소고기는 국거리로 준비해서 다진 마늘 1/2작은술, 생강즙 1/3작은술, 소금, 후추 약간 넣어 밑간을 해 두세요.",
+		"2. 무는 납작하게 썰고, 대파는 굵게 어슷썰기, 콩나물은 깨끗이 씻어 준비 하세요.",
+		"3. 냄비에 참기름 1/2큰술을 두르고 밑간해 둔 소고기를 넣어 중불에서 달달 볶아 주세요.",
+		"4. 납작하게 썬 무와 고춧가루1큰술, 다진마늘, 국간장 2큰술, 후추 약간을 넣어 2~3분간 볶아 주세요.",
+		"5. 국선생 소고기(육수)를 넣어 한소큼 끓여 주세요.",
+		"6. 콩나물과 대파를 넣어 무가 무를 때까지 푹~끓여 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/c477bf36864c17ebade9e8f78255fda61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/92b79e5e7c05161fca844fcc70e964771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/cb19f5ef4e3cdc1b449a6f2431f6dfc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/0b2c6589eb1d3df8bf09454de26434131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/d52859184b110da61c0a9ef4762b5e2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/ee07620116a59b27554e182e5ccbeca21.jpg"
+	]
+}

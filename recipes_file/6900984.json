@@ -1,0 +1,54 @@
+{
+	"id": "6900984",
+	"name": "짭짤하고 달달하니 밥반찬으로 제격! 소고기장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/28/6b9730fbcede824066d0e42862b4dd2a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6900984",
+	"ingredient_ids": [
+		29,
+		262,
+		379,
+		226,
+		341
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "우둔살",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "건고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 우둔살은 찬물에 담궈 핏물을 제거해줘요!핏물을 제거해야 누린내를 없앨 수 있어요!",
+		"2. 끓는 물에 우둔살을 3등분정도 잘라 삶아주세요!삶을 때 마른 홍고추를 같이 넣고  삶으면 매콤한 맛을 낼 수 있답니다!",
+		"3. 고기가 반정도 익고 나면 간장 1큰술, 설탕을 넣고 졸여줘요!물엿은 간장과 설탕이 주르륵 흐를 정도가 되면 마지막에 넣는답니다!",
+		"4. 양념이 걸쭉하게 되었으면 이때 마늘 편을 썰어 물엿과 함께 넣어주세요!물엿은 막을 형성하기 때문에 양념들의   침투를 막아요!  소량은 같이 넣어도 상관없으나 대량으로 조리할 때는 주의 하셔야 합니다!",
+		"5. 장조림이 식었으면 결방향대로 썰어 양념장에 다시 버무리고 접시에 담아 완성해요!"
+	],
+	"recipe_img": []
+}

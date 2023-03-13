@@ -1,0 +1,36 @@
+{
+	"id": "6930753",
+	"name": "간단간식 식빵팝콘 보다 간단하고 바삭한 러스크 에어프라이어요리 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/442978a2768f19080ca0a67cc0812aad1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6930753",
+	"ingredient_ids": [
+		503,
+		226,
+		504
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 식빵을 작게 잘라 주세용",
+		"2. 봉투에 식빵을 담고 설탕4스푼,식용유 3스푼을 넣고 잘흔들어 골고루 섞어줍니다",
+		"3. 에어프라이어에 섞은 식빵을 넣고 180도로 4분 돌려 줍니다에어프라이어",
+		"4. 뒤집어 180도 4분 구워주면 완성 입니다식빵의 모든면이 노릇해지게 추가로 더 구워 주셔도 됩니당"
+	],
+	"recipe_img": []
+}

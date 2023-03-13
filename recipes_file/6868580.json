@@ -1,0 +1,79 @@
+{
+	"id": "6868580",
+	"name": "향긋하고 바삭한 엄나무순(개두릅)전~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/436f25c55adea5dc4fc08dc03ff91f991.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868580",
+	"ingredient_ids": [
+		734,
+		995,
+		379,
+		575,
+		231,
+		224,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "엄나무순(개두릅)2줌정도",
+			"ingre_count": "2",
+			"ingre_unit": "줌 정도"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 엄나무순은 손질해서 깨끗이 씻어줍니다",
+		"2. 튀김가루 1컵에 물2/3컵을 넣고 대충 섞어주세요",
+		"3. 엄나무순을 하나씩 반죽에 담갔다 기름 넉넉히 두른팬에 앞뒤로 노릇하게 부쳐주세요",
+		"4. 접시에 담고 초간장 곁들여 내심됩니다",
+		"5. 엄나무순을 하나씩 떼어서 반죽에 넣고 크게 한장으로 부쳐줍니다",
+		"6. 앞뒤로 노릇하게 부쳐지면 접시에 담습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/95614ae1e740167088b2816b9e48136f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/0b2c3ca3c273ceb4c096e1a76da3575c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/18fcad087a4a498ef2cc9bd8934859f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/031c6b602dcad902c0dc058ba75b77571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/be723a4a4903238ca34f3965d64fb3021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/17/b4457ad6c24272a1da05c8a3ab98d4421.jpg"
+	]
+}

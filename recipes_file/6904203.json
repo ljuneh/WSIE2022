@@ -1,0 +1,75 @@
+{
+	"id": "6904203",
+	"name": "부드러운 크림 카레",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/a990fcc817468956519032834a6eea031.jpg",
+	"url": "https://www.10000recipe.com/recipe/6904203",
+	"ingredient_ids": [
+		470,
+		219,
+		29,
+		3
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "카레",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "스팸또는베이컨",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 마늘 꽁다리를 잘라내 주신후 다지지말고 으깨주세요.",
+		"2. 양파는 작은 네모 모양으로 다져주듯이 잘라줄게요.",
+		"3. 햄도 양파와 같은 네모모양으로 다져주듯이 잘라주세요. 베이컨으로 대체 하셔도 됩니다.",
+		"4. 팬에 올리브오일 혹은 식용유를 두르고 빻아놓은 마늘을 볶아주세요.",
+		"5. 마늘 향이 올라오면 양파를 넣고 볶아주세요.",
+		"6. 그 후, 햄도 넣어 볶아주세요.",
+		"7. 재료들이 갈색으로 변하면 우유 200ml를 넣어줄게요",
+		"8. 우유가 끓기 시작하면 카레를 넣고 끓여주세요. 4인분 기준 가루 카레를 넣으실경우 반만 사용해주시면 되요.",
+		"9. 물을 살짝넣어 카레의 농도를 맞춰줄게요.",
+		"10. 달걀 4개를 깨서 소금 한꼬집을 넣어 풀어주세요.",
+		"11. 풀어놓은 달걀에 우유 두스푼을 넣고 다시한번 풀어주세요.",
+		"12. 기름을 두른 다른 팬에 달걀을 넣고 스크램블 해주세요. 다익은 스크램블이 아닌 약간 몽골몽골해질때 까지만 해주세요. 바닥을 긁었을때 바닥이 보이는 정도로만 해주시면 됩니다.",
+		"13. 그릇에 밥을 담고 카레를 얹어주시고 부드러운 스크램블을 카레위에 이불을 덮어주듯이 올려주세요. 파슬리로 마무리해주면 완성입니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/2c3f8964ccdb717f3c0e77caa1d75bdb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/eaba97d3eb74aa3f17d7c99bc8bf76ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/ec4ca58b18a807335920e514bedae2bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/7a7c17014ea3e769e6f7da4ae4f4da0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/b11a17aefb16139b490ca64b0ee5864d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/5370ef1284957db3d7462d4e68e0a52b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/21c86b07c4aca1eb38dea6561f6c9b3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/f001133bcd1509ad39203481ef1f65e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/b75d18e2ff34f0ff6b4286700c5b787e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/38cf72b12bfd33fb491e8a96cba397d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/e94aa49ec2667614d247f9fe9da589d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/548a57e3520428f5063bca41aea9ca6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/efde6b50c02ba2a6ab75eefbe6e04ef81.jpg"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"id": "6942292",
+	"name": "어린열무나물무침~아삭아삭한맛이 좋아",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/092d7d17baee8ce6fc962a5c1243048a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942292",
+	"ingredient_ids": [
+		291,
+		660,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "어린열무",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "데칠때소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 완전어린열무를 준비후에 누런잎이나 무른잎을 골라내주신후 펄펄 끓는물에 소금1작은술을 넣고 30초간 데쳐주세요",
+		"2. 데쳐낸 어린열무는 찬물에서 2~3번을 씻어주세요",
+		"3. 물기를 최대한 꼭 짜주신후 다진파/맛소금/참기름을 넣어서 잘무쳐주세요",
+		"4. 통깨를 넉넉하게 뿌려주시면 아삭한식감 좋은 열무나물무침이 완성이네요",
+		"5. 겉절이로 만들어서 저혼자 먹을까하다가 아이들과 같이 먹으려 데쳐서 무쳐봤어요 딸랑구가 아삭하고 맛있다고 아주 잘먹어주네요ㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/aa0d92737c2041764e36b72acac2548d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/62c3ad906ac18bc00d587d407cfb4f4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/ebce488b3cf90f3f5f5b4caec57a20ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/725ec1b2fb8f8cd3c37ffde6faab7b321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/4f7a27a60a693286ce68a897aeb516811.jpg"
+	]
+}

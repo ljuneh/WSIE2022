@@ -1,0 +1,69 @@
+{
+	"id": "2823042",
+	"name": "두부조림 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/22/2239264a74aa9820e7b7a30c4f791747.jpg",
+	"url": "https://www.10000recipe.com/recipe/2823042",
+	"ingredient_ids": [
+		323,
+		995,
+		379,
+		292,
+		226,
+		575
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 두부 1모는 살짝 도톰하게 자른뒤에 소금을 살짝 뿌려 20분 이상 둡니다. 소금을 뿌려두면 두부의 수분이 빠져서 지질때 기름이 튀지않고, 지질때 잘 부서지지 않고... 간도 베어 더욱 맛있답니다.",
+		"2. 키친타올로 수분을 제거해 줍니다.",
+		"3. 김을 길이로 길게 잘라 두부 가운데 띠를 둘러줍니다.",
+		"4. 김으로 띠를 두른후에 앞뒤에 골고루 전분을 묻혀 줍니다.",
+		"5. 달궈진 후라이팬에 기름을 넉넉히 두르고 두부를 노릇노릇 지져줍니다. 처음에는 센불로 조리하시다가 어느정도 열이 오르면 중불에서 조리하셔야 두부가 노릇노릇 색이 고르게 납니다. 센불에서 하시면.. 금새 타버리기 쉽거든요~",
+		"6. 두부를 지지는 사이에 조림소스를 만들어 줍니다.  소스 재료를 분량대로 넣고 재료가 섞이도록 저어줍니다.",
+		"7. 두부의 앞.뒷면이 노릇노릇 해져야 조림을 했을때 색이 더욱 잘나는거 같아요.",
+		"8. 두부를 노릇노릇 지진후에 만들어둔 소스를 부어준후 센불에서 조립니다.",
+		"9. 소스를 스푼을 이용하여 골고루 끼얹어 가며 조림을 하셔야 색이 고루 납니다! 소스가 살짝 남았을때 불을 끄셔야 촉촉한 두부 조림이 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/22/74cbb3f1e109d6f81e96044433e1a2341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/22/3d9dc20797f9f81048db5eebd1b290741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/22/f980a81db30d8ef248a7e02537a2ea081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/22/2d4ea5b8eb70f7bdd08345e6026c57fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/22/1f1ae00e5158c3407d4fa752ac154d0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/22/ad47a95e58beeb9ff2b7e7b0905f0a241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/22/2d49a6ffdf4de48be58d824e2436d5041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/22/006f9a61eaf01b4dc3c8b7c79018d7891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/22/57d6d189720c33cc19cb5641bf63a7731.jpg"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"id": "1086069",
+	"name": "♬ 쑥요리 1 - 봄, 거져 먹는 쑥 된장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/ef54f17c7ca838d1557760b5225b4a60.jpg",
+	"url": "https://www.10000recipe.com/recipe/1086069",
+	"ingredient_ids": [
+		848,
+		506,
+		27
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "멸치다시물3+1/2컵",
+			"ingre_count": "3+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2/3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "쑥",
+			"ingre_count": "100",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들깨가루(or콩가루)",
+			"ingre_count": "2~3숟가락",
+			"ingre_unit": "~숟가락"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 육수에 된장을 풀고 홍고추를 어슷썰어 넣고 끓여줍니다. 된장국이 끓으면 손질한 쑥을 넣어준다.",
+		"2. 쑥과 들깨 가루를 넣고 국이 끓으면 대파를 넣고 바로 불을 끈다.",
+		"3. 정말 간단하지요? 다른 국물요리에 비하면 정말 거져 먹는 국이랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/11/e70d928ad69524329b32aad82890e5011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/11/4e925a4a9b9b8e26cb461fee0deaea791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/11/bf5470bad5074a83d4660590c48b658a1.jpg"
+	]
+}

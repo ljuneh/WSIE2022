@@ -1,0 +1,83 @@
+{
+	"id": "6880121",
+	"name": "안익은 김치로 찌개 만들어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/0661adf43783da259a06b6f963b67fd91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6880121",
+	"ingredient_ids": [
+		231,
+		995,
+		660,
+		27,
+		659,
+		224
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "안익은김치",
+			"ingre_count": "1",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "1",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 다들 김장 하셔서 집에 안익은 김치 가지고 계시죠!?",
+		"2. 안익은 김치를 먹기 좋게 썰어서 냄비에 넣어주세요",
+		"3. 참기름 두스푼 두르고 김치를 맛나게 볶아주세요",
+		"4. 물을 한컵정도 넣는데요 김치가 잠길정도로만 넣어주심 돼요",
+		"5. 김치국물은 한국자 넣어주시구요",
+		"6. 안익은 김치는 색이 좀 하얀편이라 고춧가루도 한스푼",
+		"7. 그리고 묵은지처럼 신맛을 내기위해 식초 한스푼",
+		"8. 묵은지 김치찌개보다 조금더 푹 끓여주세요 물이 쫄아들면 물을 살짝 더 넣어가면서 김치가 좀 흐물해지고 국물이 살짝 탁한 느낌이 날정도로 끓여주세요중불",
+		"9. 대파를 한줌 넣고",
+		"10. 김치가 흐물해지고 국물 색이 제법 나면 참치를 넣어주세요 참치기름도 함께 넣어요~",
+		"11. 참치는 건드리면 다 풀어지니까 국물을 끼얹어주기만 하세요~ 기름이 살짝 섞일 정도로요~ 바글바글 끓이면 안익은 김치로 맛난 김치찌개 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/b705253e98b8f084f857e367428628901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/f5a1e0f5d2743881fbe11a29f2e8b42f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/28ef1a6e63b4c9d741b31573d4dc323a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/7ba355bc4fe88fb1d2f4160bca85221a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/93f2608580c83377aacabad79b57e42e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/33310ab129310d1a97683a088789273d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/2f2841c8e7e0d66c3041d769f9704c3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/aae1cbdc48aebde354a05732fd4db8541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/c0f22127ecd7a3fd01b2299770adb9f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/c81406c1fe692c974ed65898e42493101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/27/4722c782cc6fd422e80ca49a4821afd31.jpg"
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"id": "6537163",
+	"name": "멸치볶음 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/2211664fbcc1ba32a49ed839907e78971.jpg",
+	"url": "https://www.10000recipe.com/recipe/6537163",
+	"ingredient_ids": [
+		320,
+		233,
+		292,
+		575,
+		290
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 멸치를 체에 받쳐 가루를 빼주세요",
+		"2. 기름을 두르지 않은 팬에 중불로 멸치를 3분정도 볶아주세요.",
+		"3. 약불로 줄여 멸치 옆쪽에 500원 동전크기의 오일을 두르고 다진마늘 1T를 기름에 잘 볶아주세요~",
+		"4. 마늘이 어느정도 볶아지면 맛술 1T를 마늘에 뿌리고 마늘이 보글보글 끓으면멸치랑 마늘을 함께 섞어주세요. 그리고 올리고당 3~4T를 넣어주세요.",
+		"5. 통깨를 뿌려서 잘 섞고 불을 끄면 끝~",
+		"6. 맛있는 멸치볶음 완성~신동이는 밥먹으려고 식탁차리고 있으면식탁앞에 서서 과자처럼 막 먹고있어요 ㅋㅋ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/90e3c46a51ed129357f185cbfab1bdd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/c7920510c8b7e887a3a9d5e8fd261f2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/d50aea4861eb8efbd862dbd7c6b250f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/0525a1b886d279d44e574b81dc1d605b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/b40af97512262bce93b03c2ffb2235d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/4ecf6a7bdc88afc275eb1ec3e3a401a91.jpg"
+	]
+}

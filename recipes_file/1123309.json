@@ -1,0 +1,108 @@
+{
+	"id": "1123309",
+	"name": "고등어 신김치찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/26226fa391678932b290d1dec5bf4faf.jpg",
+	"url": "https://www.10000recipe.com/recipe/1123309",
+	"ingredient_ids": [
+		59,
+		3,
+		27,
+		349,
+		224,
+		226,
+		846,
+		660,
+		455,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고등어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "멸치다시마육수",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "마늘4알(다지기)",
+			"ingre_count": "4알(다지기)",
+			"ingre_unit": "알(다지기)"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 비리내제거한 고등어, 잘~ 익은 신김치, 양파, 청홍고추, 대파는 어슷썰어주세요.",
+		"2. 냄비에 신김치 반을 깔고 그 위에다 고등어를 올려주세요.",
+		"3. 다시 신김치랑 양파를 올려주세요. 양념장과 멸치&다시마육수를 넣고 뽀글뽀글 끓여주세요. 어느정도 끓어오른다 싶으시면 불을 낮추어서 은근히 끓여주세요.",
+		"4. 마지막에 청홍고추, 대파를 넣고 한소끔 더 끓여주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/784e3d21dd3e24058607402d96ade3261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/308db467fc189f5c54238242117f3f891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/9db9f3d6181e332c0f594cacfd029cd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/1a709e926f682f045dc2a63b136b6f891.jpg"
+	]
+}

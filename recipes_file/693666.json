@@ -1,0 +1,88 @@
+{
+	"id": "693666",
+	"name": "달걀볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/14ef9942f059e1a7838458de3abe821d.jpg",
+	"url": "https://www.10000recipe.com/recipe/693666",
+	"ingredient_ids": [
+		219,
+		3,
+		9,
+		27,
+		504,
+		660,
+		497,
+		225,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/6",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 양파(1/2개), 당근(1/8개), 대파(1/6뿌리)는 잘게 썰어 준비합니다.",
+		"2. 달걀(1개)에 참기름(0.3큰술), 소금, 후춧가루(약간)를 넣어 젓가락으로 섞어주세요.",
+		"3. 달군팬에 식용유(2큰술)를 두르고 양파, 당근을 넣어 센불에 1분정도 볶아줍니다.",
+		"4. 달걀을 원을 그리듯이 부어주세요.",
+		"5. 나무 젓가락으로 휘저어 스크램블 에그를 만들어 줍니다.",
+		"6. 밥(1공기)을 넣고 나무주걱으로 자르듯이 섞어 볶은 후 소금으로 간을해주세요. 볶음밥의 밥은 고슬고슬하게 지어주시는게 좋고요. 볶을때 나무주걱으로 자르듯이 섞어주셔야 밥알이 뭉개지지 않아요.",
+		"7. 잘게 썬 대파, 통깨(약간)를 넣어 살짝 뒤적여 불을 꺼 마무리해주면 완성! 볶음밥은 처음부터 센불에서 빠르게 볶아주는게 포인트랍니당. 매콤한거 좋아하시면 대파 대신 청양고추를 총총 썰어서 넣어주셔도 좋아요. 또 새우나 오징어를 잘게 썰어서 넣어주시면 새우볶음밥, 해물볶음밥이 된답니다. 달걀볶음밥의 간은 소금으로만 했는데용. 그 외 굴소스나 핫소스를 약간 넣어주셔도 맛이 좋아요. 없으신분들은 그냥 소금으로만 간해도 맛있어요! 딱히 해먹을꺼 없을땐 간단한 볶음밥이 정말 좋네용."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/2d389b8cfe7918ad3c6feb656c57cdb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/f6e75f02ab524a7595358fb59998baee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/24456ec31f59e64df5b1d96f123e56f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/ce0482644b7b0754a9dd92d8779ae5711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/56dcac7aada9e0994a0302c3aa2da0a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/c41c04a0c7d8d9ebb1c1734df35205ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/3cdc2660afbd74e43ea40f78f387c3901.jpg"
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"id": "6942142",
+	"name": "내 생의 첫 에어프라이어 요리 닭구이 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/eb66d6024aa71344f837c97f71dc9b3b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942142",
+	"ingredient_ids": [
+		379,
+		575,
+		233,
+		654,
+		551,
+		225,
+		253
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "타임",
+			"ingre_count": "1/4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "오레가노",
+			"ingre_count": "1/4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "로즈마리",
+			"ingre_count": "4",
+			"ingre_unit": "줄기"
+		}
+	],
+	"recipe": [
+		"1. 닭은 흐르는 물에 2~3번 정도 깨끗하게 씻고 체에 밭쳐 물기를 제거하고 양념이 잘 배이도록 칼집을 낸다.",
+		"2. 볼에 닭, 간장 3T, 올리브오일 3T, 올리고당 2T, 다진마늘 1T, 타임(홀) 1/4T, 오레가노(홀) 1/4T, 후춧가루 1/4T를 넣고 골고루 섞는다.",
+		"3. 그다음 에어프라이어 전용 팬에 담고 로즈마리를 올린다.",
+		"4. 준비되었으면 에어프라이어에 넣고 180도에서 20분 정도 굽는다.에어프라이어",
+		"5. 20분 뒤 에어프라이어에서 꺼내 뒤집는다.",
+		"6. 그리고 다시 한번 180도에서 20분 정도 굽고 알맞게 구워진 상태가 되면 에어프라이어에서 꺼낸다.참고로 가정에서 사용하는 에어프라이어마다 조금씩 차이가 있기 때문에 시간 조절하면서 굽는 것이 좋습니다.",
+		"7. 그다음 접시에 담고 원하는 소스를 곁들이면 닭구이 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/bd9540b584b65d6fc9c53e01b365a1ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/65bab907658c23e4d20616d7fa2bfac61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/001566a2e229dd58504ccb8995d7790e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/21f2c9c34839b711418d62a2cc5f733a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/b08f497364a9026783bcaec687ec8f8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/09ba6d152608d3dace2abe5a3d9d5a421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/ec6bb7606bc83d272819dfdaafe93bcd1.jpg"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"id": "6945604",
+	"name": "파래요리 파래계란말이 매력있어",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/34b1c47c667811b39b1e687096a5389d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945604",
+	"ingredient_ids": [
+		497,
+		504
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "파래작은",
+			"ingre_count": "1",
+			"ingre_unit": "덩이"
+		},
+		{
+			"ingre_name": "다진야채",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4~5개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 파래는 불순물이 많다는 말에 볼에 넣고 소금을 넣어 손으로 바락바락 문지르고 헹궈주었어요                   ",
+		"2. 볼에 다지다시피 칼로 잘게 다진 당근,양파,버섯들과 계란4~5개 담아서 잘 섞어주었어요 집에 있는 자투리 채소도 있다면 잘게 다져 준비합니다.                    ",
+		"3.  볼에 담아 젓가락으로 슥슥 섞어서 준비했어요 파래 자체에 염분이 있지만 간을 한다면 소금 살짝 넣어도 좋고 저는 아이와 먹을거라 소금은 생략 후 케찹을 콕 찍어먹었어요.",
+		"4. 팬에 기름을 넉넉히 둘러주고 중불에서 계란물 3분의1을 부어 돌돌 말아줘요 센불로 하면 들러붙거나 탈 수 있으니 꼭! 중불에서 조리해주시구요 뒤집개로 돌돌 말아주시면 된답니다 대략 3번정도 반복하면 도톰한 계란말이가 완성되요                      ",
+		"5. 너무 뜨거울때 썰면 부서질 수 있으니 살짝 식힌 후 썰어주시면 예쁘게 썰릴 수 있답니다                    "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/fa149aced409489c56a7e56af240ced11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/72288600df12c67005d87d034a6da2e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/76597115e3f355ec185bfb864eb255651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/138b1d4abc2dac27dbc382a5bdb584ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/9034de1321f4702417c7b8c75a7fe7a31.jpg"
+	]
+}

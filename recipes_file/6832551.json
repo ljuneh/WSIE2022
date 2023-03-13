@@ -1,0 +1,69 @@
+{
+	"id": "6832551",
+	"name": "너무 간단한 베이킹~블루베리 크럼블 타르트 에요~^^",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/22/c29c3ae67d795294af11785d14057e811.jpg",
+	"url": "https://www.10000recipe.com/recipe/6832551",
+	"ingredient_ids": [
+		696,
+		198,
+		226,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "160",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "90",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "냉동블루베리",
+			"ingre_count": "1",
+			"ingre_unit": "컵정도"
+		}
+	],
+	"recipe": [
+		"1. 아몬드가루와 밀가루는 체에 한번 내려주고 설탕과 소금을 넣어 고루 잘 섞어준다",
+		"2. . 버터를 넣고 주걱으로 자르듯이 섞어준다",
+		"3. 전 도우블랜더가 있어서 주걱대신 사용했습니다",
+		"4. 어느정도 버터가 잘게 잘라지면 손으로 날가루가 보이지 않게 반준해준다",
+		"5. 보슬보슬 반죽이 되면 끝",
+		"6. 타르트 틀에 반죽한 가루중 2/3 를 넣고 꾹꾹 눌러준다",
+		"7. 블루베리를 고루 넣어준다 (전 모듬베리로 한개 더 준비해 봤어요~^^*)",
+		"8. 나머지 반죽을 위에 뿌려준다",
+		"9. 180도로 예열한 오븐에서 30분정도 구워준다 (각자 오븐 온도 살피시고 구워지는 색을면서 구워주세요~)오븐",
+		"10. 완성~!! 꺼내서 식혀주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/22/4f0c6a158aa153dc82b00f28c0ff409b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/22/48ca0072bb24ef1c44a359ce18dfc4f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/22/610e11a57cd6c51e743ec866225a511b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/22/b04b35506e4912be877e853b522f514d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/22/34a012cab9ccde9c7c7343d55a78b2191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/22/43c41b67ee345eeea7821b2ff1e55cf41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/22/d8960c3df30dee336a7f442abb5fae0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/22/1629c3a7780360629664028401987ebe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/22/9feab0f28cc7604973e350bd7b455ff51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/22/32e9c4021d5a4581242299f728930e831.jpg"
+	]
+}

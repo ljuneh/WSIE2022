@@ -1,0 +1,111 @@
+{
+	"id": "6941565",
+	"name": "토마토카레밥:코로나극복, 간단한 한그릇밥으로 기운내기 (w.구운채소,구운고기)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/3e00c41d525d2b8a2e9643101858e32c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941565",
+	"ingredient_ids": [
+		995,
+		349,
+		51,
+		495,
+		7,
+		9,
+		29,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀+잡곡",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새송이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 쌀과 잡곡을 씻어 밥솥에 앉히고 간장과 카레가루를 넣어 섞는다. 잡곡은 늘보리,발아찰현미,흑미,완두콩 등을 넣어주었어요.30분이상 불려주세요.",
+		"2. 카레가루만으로는 간이 맞춰지는데 부족할 것 같아 (양념간장을 따로 곁들이지 않을 것이기도 하고) 간장을 넣어주었어요. 소금을 넣어도 돼요.",
+		"3. 밥물을 1:1로 맞추고 꼭지 딴 토마토를 넣어 취사한다.",
+		"4. 올리브오일도 조금 넣어주세요",
+		"5. 채소를 팬에 올려 소금, 후추 뿌려 굽다가 뒤집어 식용유나 올리브오일 두르고 굽는다.오일을 처음부터 두르지 말고 뒤집을 때 조금만 둘러주면 적은 기름에도 노릇하게 더 잘 구워져요.",
+		"6. 소고기는 키친타올을 꼭꼭 누른 후 소금, 후추, 올리브오일에 미리 재워두었다가ㅡ",
+		"7. 마른 팬에 센불에서 빠르게 굽는다.",
+		"8. 카레밥을 접시에 담고 ㅡ",
+		"9. 채소와 소고기 구운 걸 밥위에 담는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/b4d4e7018b5c284d8cb126b1235c9e0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/77055e9c721346ca9f5f8436ad31c5e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/9757c3d1b6c172e3adabbaafd9ffcd701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/4f3f05cc340b4d258296be63f11b89a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/34efb5d8153131a14fd484080dc8de671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/cc28b03871e032c2cfda10e90bed8f681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/eef1d8617f3390495cf05601c3678bc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/ab07a2f1f6cc817eeee6576290d7d2dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/6984d3506ed05c0f9d034b51d3a399c01.jpg"
+	]
+}

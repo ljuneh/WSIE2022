@@ -1,0 +1,46 @@
+{
+	"id": "6921417",
+	"name": "베이컨 치즈말이 주먹밥 간단요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/10/30/8f980f5209940825fcd8c9c58fafcd781.jpg",
+	"url": "https://www.10000recipe.com/recipe/6921417",
+	"ingredient_ids": [
+		406,
+		203,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "7",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "3",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		}
+	],
+	"recipe": [
+		"1. 볼에 밥,후추,참기름을 위 분량대로 넣고 잘 섞어준후 한입 크기로 뭉쳐 줍니다",
+		"2. 치즈는 3등분 해 줍니다",
+		"3. 베이컨 한장을 깔고 치즈,뭉친밥 순으로 올린후 돌돌 말아 줍니다",
+		"4. 봉합된 부분부터 노릇하게 구워 줍니다약불기름을 두르지 않아도 베이컨에서 기름이 나와요 봉합된 부분부터 익혀야 베이컨이 잘 풀리지 않아요"
+	],
+	"recipe_img": []
+}

@@ -1,0 +1,83 @@
+{
+	"id": "6690730",
+	"name": "국물이 끝내주는 바지락 된장찌개 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/d6c3fbbd19763e7c748dc949be705e611.jpg",
+	"url": "https://www.10000recipe.com/recipe/6690730",
+	"ingredient_ids": [
+		84,
+		323,
+		27,
+		995,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "바지락",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/3",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "국물용멸치1줌(듬뿍)",
+			"ingre_count": "1줌(듬뿍)",
+			"ingre_unit": "줌(듬뿍)"
+		},
+		{
+			"ingre_name": "감자1개(중)",
+			"ingre_count": "1개(중)",
+			"ingre_unit": "개(중)"
+		},
+		{
+			"ingre_name": "양파1개(소)",
+			"ingre_count": "1개(소)",
+			"ingre_unit": "개(소)"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청량고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "집된장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 일단 멸치육수를 내야 하는데요. 냄비에 물을 1리터정도 붓고 국물용 멸치 한줌 넣고 끓어오르면 약불로 줄여 12분정도 푹 끓여줍니다. 한 10분정도 지나면 감자를 넣어서 함께 끓여주면 시간도 절약되고 좋아요.",
+		"2. 멸치육수가 완성이 되면 건져내어 주시구요. 집된장을 취향에 맞게 풀어줍니다.",
+		"3. 국물이 끓어오르면 나머지 재료들을 넣어주시면 되는데요. 바지락, 두부, 양파 넣고 부르르 끓여줍니다.",
+		"4. 바지락이 입을 벌리면 고추와 파, 고춧가루를 넣고 한번 더 부르르 끓여주고 불을 끄면 바지락 된장찌개 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/e6e3adc4d23995fe40ffe1d4c52a72c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/f993ff5dcd33cf18a2feea18890c6f7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/0f877d3f97113dc3c48fb744fec53edd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/8591ecc3064078b5ea522620e193adca1.jpg"
+	]
+}

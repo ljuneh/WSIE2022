@@ -1,0 +1,86 @@
+{
+	"id": "6942260",
+	"name": "마늘쫑 김치 - 당신도... 밥도둑 이십니까?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/2718359e85822efb3723612d9190f6851.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942260",
+	"ingredient_ids": [
+		17,
+		3,
+		3,
+		333,
+		390
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘쫑",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2-3개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "고추가루2/3컵​",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵 ​"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5-6개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "2",
+			"ingre_unit": "Tbs"
+		},
+		{
+			"ingre_name": "자몽청",
+			"ingre_count": "3",
+			"ingre_unit": "Tb"
+		},
+		{
+			"ingre_name": "물1/2컵​",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵 ​"
+		}
+	],
+	"recipe": [
+		"1. 마늘쫑은 억센 부분을 잘라 내고 물에 깨끗이 씻어 준다.",
+		"2. 끓는 물에 소금을 넣고",
+		"3. 30-40초 정도만 살짝 데쳐서",
+		"4. 찬물에 헹군 후 물기를 빼 준다",
+		"5. 고추 가루를 뺀 양념 재료를 모두 넣고 믹서기에 갈아 준 다음",
+		"6. 고추가루를 섞어 준다.",
+		"7. 물기를 뺀 마늘 쫑과 채 썬 양파를 볼에 넣고 양념을 넣어",
+		"8. 잘 버무려 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/91cf62a2577deddcc94539c1efcb226c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/7df6c9026ec8db0be6acd1243c7332fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/dc98ee530ce5d3ca314248a8ff045a961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/b02fdb9d389763d511ad3e0147b7f57a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/76899ffc0f13889455409bdca24c7c2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/371719d55d35d6b518cc4158e5613a7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/44913ed6985d3360e02941822a75924d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/933ffe62930e14d5a4630aa5bce69a2d1.jpg"
+	]
+}

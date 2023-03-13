@@ -1,0 +1,114 @@
+{
+	"id": "6944741",
+	"name": "간단덮밥 한그릇요리/감자덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/8900e2a2fab58c79c18cd1f69d260e771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944741",
+	"ingredient_ids": [
+		5,
+		259,
+		27,
+		504,
+		379,
+		477,
+		526,
+		995,
+		231,
+		667,
+		660,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비해 주세요~",
+		"2. 감자는 비벼 먹기 좋게 작게 썰고  파는 송송 잘게 썰어 주세요~",
+		"3. 건새우는 머리만 떼 내고  준비하면 재료 준비 끝~",
+		"4. 팬이 뜨거워지면 기름을 두르고  파를 넣고 달달 볶아 파기름을 내 준 다음 감자를 넣고 1분~2분 정도 볶아 준 다음 감자가 잠길 만큼의 물을 부어 주세요~",
+		"5. 건새우 넣고 뚜껑 닫고 중약불에서 5분 정도만 감자가 익도록 끓여 주세요~",
+		"6. 적힌 분량의 간장, 굴소스,  황설탕, 식초, 후추를 넣어 주세요~",
+		"7. 감자에 간이 잘 배이도록 2~3분만 더 끓여 주세요~",
+		"8. 찹쌀가루 0.5스푼만 넣고 휘저어 주세요~물전분 만들려면 귀찬아 찹쌀가루 넣었는데 약간 국물있는 덮밥 좋아하시면  찹쌀가루도 패쓰해도 괜찬아요~",
+		"9. 서로 잘 엉기면 깨소금도 약간 넣어 주시구요~",
+		"10. 불끄고 참기름 한바퀴 둘러 주면 짭짤한 감자볶음 완성~요 상태로 감자반찬으로 드셔도 맛있어요~",
+		"11. 밥위에 감자볶음 듬뿍 올려 파 약간 올려 주면 감자덮밥 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/4d4a1fc00bd32c6d18c943b46092a0f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/80ed6217813fabd53a985f19632e57e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/11afc3ab4301ebc12e90dc1c9d3024441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/ab71ee7a9916a83996e813e863d3e67e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/cb76954812f80913f01fe8336369def21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/64549c9291b7085897da76ce4a4478c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/eeb63c485c74bc26ab04613bcf0ebf7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/c737b1df0d28d219f73f43f24d3750681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/eed5f4c3b93193dbe832239dfc2665d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/a66de0aa68932ee72b3d0962c012f5db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/29fe9d36fdb7e2db42b8394b9774efcf1.jpg"
+	]
+}

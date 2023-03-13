@@ -1,0 +1,70 @@
+{
+	"id": "6943916",
+	"name": "할머니도 몰래 드시는 쑥 머핀",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/e6adb96b8216dd4ae22a359a8ea5a3701.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943916",
+	"ingredient_ids": [
+		226,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "실온버터",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "실온계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쑥가루",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 실온의 버터를 크림화 시켜주세요. 거품기로 휘저어주시면 됩니다.기계로 한다면 사진보다 살짝 더 뽀얀 색깔이 될 때 까지 해주세요! 손으로 한다면 힘드니까 여기까지..^^",
+		"2. 저어준 버터에 설탕을 넣고 어느정도 녹을 때 까지 섞어주세요. 기계로 하는게 팔이 안 아파요.. 손으로 한다면 적당히 섞어만 줍시다ㅎㅎ",
+		"3. 계란 하나를 풀어서 넣어주세요. 이때 절!대! 한번에 넣으면 안되고 꼭 4번으로 나눠 *조금씩* 넣어주세요",
+		"4. 한번에 너무 많이 넣거나, 버터와 계란의 온도가 너무 낮으면 이렇게 분리가 됩니다. 이럴 때는 당황하지 말고 아주 잠깐만 중탕해주면서 저어주면 수습이 가능합니다!그래도 너무 쎈 불은 안돼요 ",
+		"5. 잘 섞이면 대충 이런 모습이 됩니다.",
+		"6. 모든 가루 재료를 체에 걸러 준비된 버터와 섞어줍니다. 이 때 우유를 넣어 농도를 적당하게 조절하면 됩니다. 반죽의 농도는 마치 시판 고추장보다 살짝 더 꾸덕한 느낌이면 됩니다.",
+		"7. 틀에 넣고 섭씨 170도 에서 20~25분 구워주세요. 틀에 70% 정도만 채워주면 됩니다.저는 크지 않은 틀에 50% 정도만 채워 4개가 나왔습니다.",
+		"8. 부풀어 갈라진 틈에 젓가락으로 푹 찍어 꺼냈을 때 묻어나오는 것이 없다면 다 익은거에요. 젓가락을 틈새로 넣어야 티가 안나요",
+		"9. 짜잔~~ 틀에서 꺼내어 식혀주면 완성입니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/995192aa0dbbb845c63ffdbc1c35ac121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/78e3302e5513f11180022a0fa76cca871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/e6972081adaa21ed3b816b9dc88282211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/3730ae1bb6cc3c80222a22a841314f451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c4b7e1b539d57448753a0d12886264661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/0fde0ef61432ea7b6c656ed28640c73e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/fd333766e17b8b4614c02f414a0ba9d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/ef69c5efba13dd788f0ae115f95d8c7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/2b9716be30e145739430ca5118480ced1.jpg"
+	]
+}

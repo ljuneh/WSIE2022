@@ -1,0 +1,92 @@
+{
+	"id": "6846851",
+	"name": "누구나 성공, 깍두기 맛있게 담는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/ae129023a7b2bb0b3a220fec818d96d61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846851",
+	"ingredient_ids": [
+		224,
+		226,
+		28,
+		287,
+		757,
+		667,
+		995
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "무(큰것)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "15",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘2+1/2숟가락",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "7",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "천일염(소금)",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "15",
+			"ingre_unit": "뿌리정도"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "5",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "15",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 무는 초록색이 많은쪽으로 단단한것으로 골라요.",
+		"2. 무를 깍둑썰기를 적당히 하여.. 소금을 뿌려 절여 주었어요.. 2시간정도 절이면 저렇게 물이 생겨요.. 이 국물을 버리지 말고 양념할때 사용할거랍니다.(그릇에 담아 두어요) * 소금을 뿌린후... 뒤집어 주어요.",
+		"3. 파는 너무 길지 않게 송송 잘라 두어요. 뿌리쪽으론 반으로 잘라요.",
+		"4. 찹쌀풀도 쑤어서 식혀 둡니다. 찹쌀풀이 만들어지면.. 투명해져요.",
+		"5. 깍두기 양이 적어... 옆에다 깍두기양념을 만들어요.. 고춧가루, 까나리액젓, 마늘, 생강, 설탕, 찹쌀풀.. 너무 되다 싶으면... 깍두기 절여둔 국물을 이용해요.",
+		"6. 양념을 잘 섞고, 쪽파 송송 넣어.. 잘 버무리다가 절여놓은 무도 살살 버무려 주어요.",
+		"7. 간을 보아 싱거우면... 조절 하세요.. 천일염이나 액젓을 더 넣어도 된답니다. 생김치를 좋아한다면 양념을 더 추가하고, 익은 김치를 좋아한다면 양념을 과하지 않게 하는게 좋아요.",
+		"8. 무가 커서 이렇게 작은 통에 2통이 나왔어요.",
+		"9. 김치는 보관하는것도 중요한데요.. 최대한 공기를 차단하는게 좋아요.. 그래야 끝까지 아삭아삭 먹을수가 있어요.",
+		"10. 생김치를 좋아한다면 바로 냉장고로.. 익은 김치를 좋아한다면 요즘날씨 1~2일 상온 보관(온도 20도) 익으면서 기포가 생겨요...(발효가 된답니다.) 뚜껑을 열지말고 바로 냉장고 2~3일 보관후 드시면 맛있는 김치를 드실수 있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/74279c4c2e90791ac48bae31bf2e555d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/370f59af2331f4775d5ee6789c433fd51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/facf2569bd5d45c5a8dae13b337c13a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/815d048b3ced9bff23db86444cb11f2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/ff46d24d2c8880a23af9574b7fbeee1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/ac9ab3a9a00dc577caf7d721d0f9d26e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/4c1fce0937fa2d3d2427c11715000acf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/9c9e94265324f52280886c458e0058eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/0936b7cb9e0a4fa393b0208a90ebe9e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/373bdfcb96f3b39df840b6d66289942c1.jpg"
+	]
+}

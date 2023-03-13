@@ -1,0 +1,76 @@
+{
+	"id": "6942894",
+	"name": "우엉 조림- 정말 맛있는 황금 레시피(활용도 짱)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/21e076c4a8248cb07302a89c987dcad81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942894",
+	"ingredient_ids": [
+		26,
+		575,
+		995,
+		379,
+		226,
+		292,
+		504
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "우엉",
+			"ingre_count": "2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추약간",
+			"ingre_count": "",
+			"ingre_unit": "​"
+		}
+	],
+	"recipe": [
+		"1. 우엉 2뿌리는 껍질을 긁어내고 채 썰어 찬 물에 담구어요.",
+		"2. 졸임 장(물 1컵, 간장 1/2컵, 설탕 1/3컵, 맛술 1큰술, 식용유 1큰술, 후추 약간)을 섞어",
+		"3. 넓은 팬에 넣고 끓여 주어요.",
+		"4. 졸임장이 끓어 오르면 건져 놓은 우엉을 넣고",
+		"5. 1-2분에 한번 씩 뒤적여 양념이 고루 배도록 졸여 주어요. 약 15-18분 쯤 걸릴 거예요.",
+		"6. 국물이 바닥에 살짝 남고 거의 졸았다 싶으면",
+		"7. 올리고당 2큰술을 넣고 완전히 졸여 마무리 해요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/8225bec0f16692c3450334319b337c8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/039a22330700d57443c928549f177d5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/8831c74546a5d483d02a2612679253351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/d6cbae07b205a6bb5fac48d9343ee6ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/196f16ad543aadce521785601b580f3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/14d8f2507138c244a284b9563eb0781c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/6dc0f6fb603ce543560aee0724c3e3681.jpg"
+	]
+}

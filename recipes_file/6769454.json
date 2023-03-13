@@ -1,0 +1,41 @@
+{
+	"id": "6769454",
+	"name": "간단한 전기밥솥 백숙 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/dcec3827d47680d815ab07d166fc14061.jpg",
+	"url": "https://www.10000recipe.com/recipe/6769454",
+	"ingredient_ids": [
+		99
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "백숙용닭",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "삼계탕재료",
+			"ingre_count": "2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 생닭을 우유에 담구거나, 물에 담궈두세요. 닭죽을 만들 찹쌀을 물에 불려두고 양파를 잘게 다져주었어요. 저는 전기밥솥을 이용해서 백숙을 만들려고 합니다. 같아요. 먼저 불려두었던 찹살을 밥솥에 넣고 그 위에 다져놓았던 양파를 올려주세요.",
+		"2. 물에 담궈두었던 생닭 두마리도 밥솥에 넣어 주세요.",
+		"3. 닭백숙에 들어갈 한약재와 대추등을 넣어주세요.",
+		"4. 마지막으로 생닭이 절반이상 잠길정도로 물을 넣어주세요. 물을 너무 많이 넣으면 끓는 동안 밥솥 밖으로 물이 넘쳐흐를 수가 있으니 적당히 넣어주셔야해요.",
+		"5. 전기밥솥 기능 중 영양찜 기능으로 40분간 조리해주었어요. 너무 오랜 시간을 조리하다 보면 살과 뼈가 다 분리되서 녹아흐르는 느낌이 나더라구요. 40분으로 조리하면 딱 좋습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/82a0379b3a0c3c9c5c121b1ae3ab56a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/4e719b37ba98a2d248cf61c7735247fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/3383536d25d93b225e5b0f49efe09c3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/22819f5f413b8573239dd932f4c592c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/6e2966a7937bfff4ebaad440b82ae88c1.jpg"
+	]
+}

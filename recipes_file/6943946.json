@@ -1,0 +1,62 @@
+{
+	"id": "6943946",
+	"name": "보늬 밤 조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/9d6e68aa3b6425c0b0b6873dc984927e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943946",
+	"ingredient_ids": [
+		187,
+		226,
+		940,
+		379
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "밤",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹소다",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술(럼주또는와인)",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 밤은 드거운 물에 1시간 정도 불려줍니다.",
+		"2. 칼로 밤의 겉껍질만 벗겨줍니다. 내피가 벗겨지면 밤을 삶을 때 밤이 뭉그러집니다.",
+		"3. 냄비에 밤과 베이킹소다를 넣고 물을 부어 하룻밤 재워둡니다.",
+		"4. 하룻밤 재워둔 밤을 물은 버리지 말고 그대로 약불에서 30분 끓여줍니다. 거품이 생기면 거품을 제거해 줍니다.",
+		"5. 30분이 지나면 찬물에 깨끗하게 헹궈줍니다.",
+		"6. 이쑤시개로 밤의 심을 제거해줍니다.",
+		"7. 다시 냄비에 깨끗한 물을 갈아 약불에서 30분정도 끓여주고, 찬물에 헹궈주고 마지막으로 냄비에 깨끗한 물로 갈아 약불에서 30분 정도 끓여주고 찬물에 깨끗이 헹궈줍니다. 이 과정을 3번 반복해 줍니다.",
+		"8. 냄비에 밤의 무게60%의 설탕을 넣고 물은 밤이 잠길 정도로 부어주고 약불에서 졸여줍니다.",
+		"9. 물이 반 정도 졸여지면, 간장2큰술,맛술2큰술을 넣고 약불에서 10분정도 졸여 뜨거운 물에 소독한 용기에 담아 식힌 뒤 냉장고에 3개월 정도 보관해 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b06cecad3670e615f6ef6e31156c95b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/1b8298c2bd4fc259bb19e60a388f1bfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/03e94499c765b9b46f0a0d25021932531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/cada66fb15db0e44eb86077a48b4c0b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/39c3115e6ca1f521a274af3ad7b9b5bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c5c4fa09f6abc400b31767445f66b2ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/25d9d59d6471a36b55bc64580168ec8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/4464aa41d45f340d95998408918fa62f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/12e1a5463907c1e70ac4cd51542529ac1.jpg"
+	]
+}

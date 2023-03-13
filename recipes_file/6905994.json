@@ -1,0 +1,85 @@
+{
+	"id": "6905994",
+	"name": "가자미식해",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/fd6eda5383e284187a57e4888276eaab1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6905994",
+	"ingredient_ids": [
+		66,
+		19,
+		673,
+		457,
+		233
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "가자미",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "좁쌀",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "엿질금가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "중대파",
+			"ingre_count": "4",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "고춧가루1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "청양고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 가자미는 비늘과 지느러미 꼬리 내장을 제거해 물에 깨끗이 씻어 소금에 절여 하룻밤 재어 놓는다",
+		"2. 절인 가자미는 씻지말고 채반에 널어 2틀동안 꾸덕하게 말려 줍니다",
+		"3. 무우는 굵직하게 채썰어 천일염에 절여 물기를 꼭 짜서 준비해놓고 ~ 마늘 생강 은 각각 곱게 다져 준비~ 엿기름은 고운 체에 내려 가루만 준비하고 대파도 준비 합니다 메조는 깨끗이 씻어 한나절 불려 잘 일어 고두좁쌀밥을 지어 식혀 줍니다 꾸덕하게 마른 가자미는 사선으로 큼지막하게 썰어 둡니다",
+		"4. 넓은 그릇에 가자미 고춧가루 생강 다진마늘 넣고 먼저 버무려 붉은 물을 들이고",
+		"5. 무우를 넣고 고춧가루를 넣어 곱게 물들여 주세요",
+		"6. 고슬하게 지은 메조밥과 천일염 다진마늘 생강 발효를 위해서 고운채에 내린 엿기름 가루를 넣어 좁쌀이 뭉치지 않게 고루 섞어줘야 합니다",
+		"7. 간을 보고 모자란 간은 액젓으로 해도 좋아요 삭히는 시간이 길기 때문에 짠거보다 싱겁게 간을 하는게 좋아요 대파 넣어 마무리 합니다 (조밥을 넣으면 조의 풍부한 칼륨 식이섬유로 나트륨을 줄여주는 효과도 있어요)",
+		"8. 잘 버무린 가자미는 항아리나 유리병에 넣어 실온에 2틀 김냉에 일주일 삭혀 조금씩 먹어요",
+		"9. 실온에 2틀 숙성시킨 상태~",
+		"10. 엿기름으로 숙성시킨 가자미는 뼈째 먹을 수 있어 칼슘을 다량 공급해 줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/76a2fc86cb0e94b7077680eb7b204ed11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/6c557d6f9707c1f108cb9c533ea99d541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/63bc669cbf37cce3e740b756c57910951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/33105fda6184777fc94fb5db25c830f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/01adc3ec925b7c47f1416ea397eaf8aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/e187494f5ecf7f4c423aaf90a4ddfff01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/170dca44700ffd191b54dac1d30edfa51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/738229526efe8512d7af08e4c940b75d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/2bd285bfc790947297a9654845f5030b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/07a23f85566e5ea9954c419adeff405c1.jpg"
+	]
+}

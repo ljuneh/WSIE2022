@@ -1,0 +1,79 @@
+{
+	"id": "6944550",
+	"name": "곤드레된장볶음 짭쪼롬한 별미반찬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/c53df2e36491d8990a87202682d51c291.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944550",
+	"ingredient_ids": [
+		848,
+		233,
+		327,
+		27,
+		996,
+		295,
+		224
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "반건곤드레나물",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "멸치가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 반건조 곤드레나물인데요 잘 씻어서 먹기좋은 크기로 썰어 준비해요",
+		"2. 된장, 들기름, 다진마늘넣고 조물조물 무쳐 놓아요",
+		"3. 들기름에 대파부터 볶아 줍니다 쫑쫑썬 대파면 좋은데 냉동실에 있는 대파가 이것밖에 없어서.. ㅠ",
+		"4. 파기름에 밑간해 둔 곤드레나물을 넣고 멸치가루, 생수넣고 볶아요 멸치육수 사용하면 더 좋아유~~ ㅎ",
+		"5. 국물 없도록 볶아지면  청양고추, 고춧가루넣고 잘 섞어주고..",
+		"6. 마무리해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/1b800aa1dded88e6f6136e89ff761c681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/e2bdcaabdcf41d8b163c83b267f8b22e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/4f6be0114f90ae5d7b438ed07491995c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/7f99576f5f385bf78bac6562f6b1ae3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/4fc711362c917cf2650777f0d695fbd41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/ed8935022a4e90b8a7b8f786b1f1d6b51.jpg"
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"id": "6940321",
+	"name": "영양 듬뿍 우렁강된장 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/17541f8408eb8b78cdf3775a6f75a0941.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940321",
+	"ingredient_ids": [
+		3,
+		7,
+		53,
+		295,
+		27,
+		233,
+		848,
+		473,
+		224,
+		226,
+		327
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "우렁이살",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자작은것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 준비한 야채들을 취향에 맞게 적당한 크기로 다져주세요. 두부도 으깨서 준비합니다.",
+		"2. 냄비에 들기름 2숟가락 넣어주세요",
+		"3. 다진마늘, 된장, 고추장, 고춧가루 등 양념을 넣고 볶아줍니다.약불",
+		"4. 준비해놓은 멸치 육수 한컵( 종이컵) 넣고 바글바글 끓여주세요.중불",
+		"5. 설탕 0.5 숟가락 넣어줍니다.",
+		"6. 우렁이살 150g 넣고  저어가며 끓여주세요",
+		"7. 으깬두부도 넣고 조금 더 끓입니다.",
+		"8. 마지막에 다진 대파와 청양고추 넣고 한소끔 더 끓여내면 완성!",
+		"9. 검증된 밥도둑 우렁강된장 탄생!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/445d9f6e01aa981ad669b9d43e06cf4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/da32115aee1d71e4c8d4088fdd8b91e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/d0f38de778adb6e979675787b9f31bea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/710a923194e187ccd31b6858445977a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/c98ffb838c4c7c3c457bd0cc3d1e6d3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/151e58c9e81f8b4f7c445ed4610cde061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/56b9cefe964efeaccb3904eea8e834351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/c819f3767bbd050758a7622d5f83525a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/a841c928e9c63416526acd2f9366cce51.jpg"
+	]
+}

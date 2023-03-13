@@ -1,0 +1,67 @@
+{
+	"id": "6887551",
+	"name": "베이컨치즈 밥말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/04/19/538315d8c56b99cdde69c774fada64981.jpg",
+	"url": "https://www.10000recipe.com/recipe/6887551",
+	"ingredient_ids": [
+		406,
+		497,
+		660,
+		290,
+		214
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "햇반",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "8",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 밥에 소금과 후추로 밑간을 해줍니다.",
+		"2. 참기름과 깨를 약간 넣고 먹기 좋은 크기로 뭉쳐줍니다.",
+		"3. 슬라이스 치즈를 반으로 칼집을 내어 주세요.",
+		"4. 베이컨을 깔고 그 위로 치즈,밥을 올리고 말아줍니다.",
+		"5. 팬에 돌돌 돌려가면서 노릇하게 구워줍니다.",
+		"6. 접시에 담으면 베이컨치즈 밥말이 완성~~!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/19/ca88adc3845379aff4574500b69c6bd11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/19/9e0e2fb1536f0a9466e29ac2c5938ec21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/19/8cb8c39dbf40c6011069c29ee389e98b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/19/9cfd81b4505c2120fab93156323100871.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/19/15413b273c330d862c12ce506eab1f201.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/19/d72ead831b5f92ad08b29d1cf14067681.png"
+	]
+}

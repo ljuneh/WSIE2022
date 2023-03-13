@@ -1,0 +1,95 @@
+{
+	"id": "6940117",
+	"name": "상큼하고 시원한음식 양배추,비트 피클 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/bb4bffdce8a9a4bc2b250f5593490fb21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940117",
+	"ingredient_ids": [
+		21,
+		44,
+		3,
+		295,
+		995,
+		497,
+		231,
+		226,
+		608
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "비트",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "고추절임간장",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 비트는 한개만 준비 하셔도 되는데  저는 농사지은 비트가 많아서 양배추보다 넉넉하게 준비 했어요.",
+		"2. 양배추는 한입 크기로 썰어 줍니다.",
+		"3. 비트도 너무 크지 않게 한입 크기로 준비 해 주세요. 비트 피클 아삭아삭 식감도 좋고 맛있어요. 넉넉하게 준비 하세요.",
+		"4. 양파도 적당한 크기로 썰어 줍니다.",
+		"5. 청양고추와 오이고추도 넉넉하게 넣어 주세요. 매콤한 청양고추 한개씩 건져 먹으면 아주 칼칼해요.",
+		"6. 준비한 재료는 볼에 담아 주세요.",
+		"7. 절임물을 만들어 줍니다. 저는 고추절임간장이 많이 남아서 2컵 넣어 줬어요. 청양고추 담갔던 간장이라 칼칼하고 맛있어요.",
+		"8. 절임물은 팔팔팔 끓여 주고 한김만 식혀서 부어 줍니다. 완전히 식힌후 용기에 담아 냉장고에 보관했다가 다음날부터 바로 드셔도 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/3b1f9400536acfce7f3a5a8b958d482b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/f7a1cdf5fc69dcbe643da44580e87a8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/f0c2b8ad353115ff64e4e4a3307057431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/9614d73ec184035e56b71423d7ced2301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/62255a0ec0103f6521602c8e581414ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/664761905156db042ddc0a098f0fbc701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/2c890f2e170a46cdac0bfe95cdfb787b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/b9db405c7ee67ae98600e389b21824401.jpg"
+	]
+}

@@ -1,0 +1,116 @@
+{
+	"id": "6940820",
+	"name": "야채김밥 기본이지만 맛있어요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/7b7d3bc0eda1bc89a06811f0f00093f21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940820",
+	"ingredient_ids": [
+		496,
+		9,
+		8,
+		219,
+		289,
+		26,
+		497,
+		660,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "10",
+			"ingre_unit": "주걱"
+		},
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "김밥용햄",
+			"ingre_count": "10",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "10",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "2/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "4",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "우엉",
+			"ingre_count": "10",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 밥을 지을께요. 일반 밥할때보다 살짝 물을 덜잡았어요. 김밥은 질면 떡처럼 되기 쉽상이고 너무 되도 안좋아요. 살짝만 물양을 덜잡고 다시마 1장을 넣고 밥을 지으세요. 다시마 넣는 이유는 밥에서 감칠맛을 내기위해서랍니다. 밥이 다되면 살짝 식혀주세요.",
+		"2. 밥에 양념을 할건데요. 소금을 골고루 3~4꼬집정도 넣어주세요. 밥에 간이 세면 자칫 짤수있어요. 다른것에도 양념이 들어가니까요. 10인용기준 밥은 밥주걱으로 10번 펐네요. 그리고 참기름을 2큰술정도 넣어줬어요. 마지막으로 통깨를 뿌리고 골고루 섞어서 살짝 식혀주세요. 너무 식히면 김밥말기가 어렵기도 하고 딱딱해지니 호일이나 뚜껑으로 밥을 덮어주세요.",
+		"3. 이제 다른 재료를 만들건데요. 여름에 김밥을 만들면 쉽게 쉬어버려요. 그래서 전 시금치를 사용하지 않는답니다. 대신 오이를 초절임을 하는데요. 오이 1개는 속을 파내고 길게 썰어주세요. 10줄정도 만들 양으로 1개면 된답니다.",
+		"4. 여기에 굵은소금 1스푼을 넣고 식초 1.5큰술, 설탕 1.5큰술을 넣고 초절임을 해주세요. 그냥 절이기만 하면 오이맛이 다소 심심해요. 그래서 전 초절임을 해서 넣는답니다.",
+		"5. 절여질동안 다른 재료를 손질할께요. 당근 2/3개는 채썰어주세요. 좀 길게 채썰면 더 보기좋아요.",
+		"6. 맛살 4줄은 10줄로 만들어주고요.",
+		"7. 달걀 4개는 풀어서 소금 한꼬집을 넣어주세요.",
+		"8. 단무지와 우엉은 물기가 많으면 김밥에 물이 들기도 하고 질퍽해져서 전 물기를 짜서 쓰고있어요. 절여진 오이도 물기를 짜주세요.",
+		"9. 이제 프라이팬에 지단을 만들어주세요. 도톰하게 하기위해 달걀말이처럼 해줬답니다.",
+		"10. 지단을 조금 식히고 도톰하게 썰어주세요.",
+		"11. 다른 팬에서는 김밥용햄을 기름을 두르지 않은 상태에서 볶아줬어요.",
+		"12. 햄이 다 구워지면 팬에 기름을 살짝 두르고 당근을 볶아줄께요. 당근을 볶을때 소금 한꼬집을 넣고 센불에서 재빨리 익혀주세요. 너무 익히면 맛이없어서 전 숨이 살짝 죽을때 뺐어요.",
+		"13. 모든 재료가 준비되었으면 쟁반에 한데 담고 김발을 깔고 김을 올려주세요. 김은 거칠은 부분이 안쪽으로 놓아주세요. 밥크기는 야구공크기로 살짝 뭉쳐서 김위에 넓고 얇게 펴주세요.",
+		"14. 그 위에 단무지,우엉,맛살,햄,오이,지단,당근을 차례대로 올려주세요.",
+		"15. 돌돌말때에는 속재료를 모두 감싼상태로 손가락을 안으로 말면서 당겨서 말아주세요.",
+		"16. 다 말았으면 경계선부분을 아래로 놓아주세요. 그러면 접착이 더 잘된답니다. 잘 접착되었으면 그 위에 참기름을 살짝 바르고 통깨를 올리고 썰어주세요. 김밥썰때 자꾸 들러붙는다면 참기름을 칼날에 살짝 발라서 썰면 더 잘 썰어진답니다. 기본김밥이지만 가끔 생각나는 김밥이에요. 김밥을 싸니 금세라도 소풍가고 싶어지네요. 맘놓고 소풍갈수 있는 날이 빨리왔으면 좋겠어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/135933d448d48680ff800d5684d30dca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/014eff8fbe9ff3e8e5d63bdc09640dcc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/9bf3d6dd174658e5013e214b4ada27621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/1fa0aa6aaa54a86c889da32e3e29f5f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/ba5dd421736dc794eeb605b81bfc23ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/697a38b7f52f82172e0fbf49c24307361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/74c500ae5b0a9998cb6eb882ff6370991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/3effb50f121521acba015060126029ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/e9f31db07b5a7ca1fcda3310a5f4ffc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/4a662ab24cce080d6a5ba68821c5b1b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/b6cd39ff8ac1bbd98f9fba8f1c023c231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/1e9f6974f5e25a135643f4f6a4f24da61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/2ff3bb2e6ed1222ebbfc66264342c1201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/916176bb7b8c6f0fc2e45925e431c1371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/ae5a34329b29c2a611abbf04639479531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/d583eaec5409b4c7ee067284e4e9b7db1.jpg"
+	]
+}

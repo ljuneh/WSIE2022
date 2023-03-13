@@ -1,0 +1,45 @@
+{
+	"id": "5993262",
+	"name": "포실포실하게 감자삶기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/246b3f9784cbb726f50b390b65f19974.jpg",
+	"url": "https://www.10000recipe.com/recipe/5993262",
+	"ingredient_ids": [
+		5,
+		497,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 감자 껍질을 깎아주세요.",
+		"2. 냄비에 감자가 잠길정도로 물을 붓고 소금을 약간만 넣어주세요.",
+		"3. 설탕은 기호에 따라 넣어주세요.",
+		"4. 보글보글 센불에 삶아주세요.",
+		"5. 뚜껑을 닫고 중불로 줄여서 계속 삶아요",
+		"6. 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/7729ef2757afb1b6832a8709ba247d361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/8986ee38b5963a66ee02910f8bf251a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/597a4da1c5029774d3fea2b071bfb8f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/03fcad2d74d5b87dac441802847737301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/e4d66d45500785d0b344ed9107ce895f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/d144a46ff3b336dad2364a84f109b5db1.jpg"
+	]
+}

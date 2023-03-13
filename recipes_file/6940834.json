@@ -1,0 +1,69 @@
+{
+	"id": "6940834",
+	"name": "시금치프리타타 다이어트레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/a04bb79b090c265a705ca59482ca91d81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940834",
+	"ingredient_ids": [
+		2,
+		371,
+		6,
+		708
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "3",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "20~25알",
+			"ingre_unit": "~알"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "슬라이스햄",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 계란2개, 시금치, 파프리카, 방울토마토, 햄조금, 우유를 준비해주세요",
+		"2. 파프리카와 햄은 다져주세요",
+		"3. 방울토마토와 다진 채소를 볶아주세요",
+		"4. 시금치를 넣고 볶아주세요",
+		"5. 우유반컵 + 계란 두개를 풀어주세요",
+		"6. 시금치 숨이 살짝 죽으면 우유+계란 물을 살살 부어주세요",
+		"7. 반토막으로 자른 방울토마토를 추가하고 겉까지 익어오를 때까지 약불로 익혀주세요(뚜껑을 덮으면 더 좋습니다)",
+		"8. 유럽식 계란찜 프리타타 완성",
+		"9. 파마산치즈가루와 핫소스를 곁들이면 더욱 맛있습니다",
+		"10. 시금치를 반 잘라주시는 게 더 좋을 것 같아요! 한끼 해결!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/9208d5f5521ebf46fbe16e1912cf94051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/f0bfa038377d4630c7c98f0217a1ae4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/95fc894fdb5a9a46e8e40f2a6dd14b241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/50dd6831a33ab87f25181cdac248a6581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/2fa64fdbbb1bf3dc1dc2a0640c96b0691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/cdd3986fd1e251679ea3812235cedb291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/5b1ee1c64339e7d25094be61cf21d11f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/191068d68a4e81c2651277bf2744a3d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/6f3f890c0b32217021cba2989f45fc401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/526aa726e597296c4a2f37a8a6f061891.jpg"
+	]
+}

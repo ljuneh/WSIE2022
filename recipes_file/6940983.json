@@ -1,0 +1,83 @@
+{
+	"id": "6940983",
+	"name": "김치볶음밥:밥은 줄이고 맛은 높이고(다이어트/야식)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/8ab6c9065bc7305d7c8fee18e7f8a76d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940983",
+	"ingredient_ids": [
+		47,
+		292,
+		327,
+		15
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1/2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "삶은옥수수알",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다진김치",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "돼지고기살코기",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "김볶음",
+			"ingre_count": "",
+			"ingre_unit": "선택"
+		},
+		{
+			"ingre_name": "달걀프라이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 신김치는 잘게 썰어 팬에 담고 ㅡ *볶기 전에 식용유나 들, 참기름을 넣지 않았어요. ",
+		"2. 콩나물과 돼지고기도 해동해 함께 담는다.",
+		"3. 맛술 조금 넣고 빠르게 볶다가 ㅡ",
+		"4. 찬밥 반공기와 옥수수알을 넣는다. *캔옥수수 아니고 삶아서 알만 떼어 냉동시켜둔 옥수수에요.캔옥수수는 다이어트의 도움이 되지 않으니까 넣지마세요.",
+		"5. 뚜껑덮고 불 낮추고 잠시 두었다가 뚜껑 열고 볶아준다.냉장고 두었던 찬밥과 냉동된 옥수수를 전자렌지 사용안하고 익히기 위한 과정이에요.  ​ ",
+		"6. 다 볶아지면 깨소금과 들기름 넣고 섞은 후 접시에 담는다.",
+		"7. 달걀프라이와 함께 깻잎채와 김볶음을 올려준다.달걀프라이는 식용유 대신 물 조금 붓고 부쳐주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/2a68bda643c51c73afe50add216b19541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/27902f84c70e1dadfd6878e08bbe22f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/5ec0e1d5a9b32249b7a4a2b54d8096891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/823d7cb16da6d293ff4d71ae6d26996c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/42c71fb5df5939a83bc851be205dcbb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/4f38ed7193c8ef6746d4e11be230e70b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/d91f6bcc7ed135401f025de9ae7afc861.jpg"
+	]
+}

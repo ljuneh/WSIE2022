@@ -1,0 +1,70 @@
+{
+	"id": "6943263",
+	"name": "구수하게 맛있는 별미요리 장칼국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/287b2bab398639fabd48fff00f3fa7911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943263",
+	"ingredient_ids": [
+		995,
+		848,
+		29
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "칼국수면",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "고구마순잎",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "맛송이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "800",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치다시다",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 물을 끓입니다",
+		"2. 고구마순잎을 준비합니다",
+		"3. 버섯을 썰어놓습니다",
+		"4. 물이 끓으면 된장을 풀고 고구마순잎을 넣습니다",
+		"5. 칼국수를 넣습니다",
+		"6. 양념을 하고 그릇에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/8be64c1444015968c51c19ad248f2fd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/da280ad67bbff7d8102c4c93620519881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/a9c8f08be09805fab6037e1858f8290e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/5d21defcf9c39456e214c07553cb4c4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/5c56fa4599b0960bcf2b9553f9cc7b021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/8881cc23fd43d92e8968e982a1baca4b1.jpg"
+	]
+}

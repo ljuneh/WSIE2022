@@ -1,0 +1,105 @@
+{
+	"id": "6939986",
+	"name": "[짱아찌만들기]명이나물 짱아찌 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/7153dbca43ef27e7a24e4ea5f6bb22f41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939986",
+	"ingredient_ids": [
+		338,
+		3,
+		295,
+		857,
+		271
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "명이나물",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "육수용다시팩",
+			"ingre_count": "2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "황태머리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파흰부분",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "육수비율",
+			"ingre_count": "5",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장비율",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕비율",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초비율",
+			"ingre_count": "",
+			"ingre_unit": "."
+		},
+		{
+			"ingre_name": "매실액비율",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "건대추",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 명이 1Kg 이에요~",
+		"2. 워낙 깨끗하지만 잎 하나하나  흙 털어낸다는 생각으로 헹워주세요 깨~ 끗하게^^ 물 빠지라고 체반에 받치고 한시간 정도 두었어요",
+		"3. 명이 물빠지는 동안 육수내고 절임물 만들기 먼저 육수를 만들어 주세요",
+		"4. 다 만들어진 육수에  절임물 비율대로 넣고 건대추 넣고 끓여주세요 한번끓이고  끓어오르면 약불로 조금 졸여주시고 불끄고 식혀주세요 [명이는 뜨거운 물로 절이지 않아요]",
+		"5. 식히는 동안 물빠진 명이  차곡차곡 담기 나중에 예쁘게 꺼낼 생각해서 20장 정도 씩  교차대로 넣어 주었어요",
+		"6. 간장물 다식었으면 위에 조심히  부어주세요 전체가 다안담겨도 나중에 명이에서  물이나오기때문에 절반정도만 넣어주세요",
+		"7. 누름돌이나 누름돌 대체품으로 눌러주기 저는 물봉투로!",
+		"8. 실온에 두었다가 3일 뒤에 간장물 한번 끓여서 식혀 부어주고 하루 더 두었다가 냉장고에 넣어주세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/4f4c4fcf63b15322cd8bc00b8c1e10001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/c77c1ef3669035d23a9885ffa0fbd69a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/6b39c6c0e5b95a5dc16344d9b0d583261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/9e7e0bc2b501021de328bb8c85ed4b2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/3e718df25df8c5d67b159dca3a6280f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/797040c9b98c9a886947d211e8a7172f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/520759839dfd8eea1cf66070fe8d45af1.jpg"
+	]
+}

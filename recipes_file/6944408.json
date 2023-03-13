@@ -1,0 +1,81 @@
+{
+	"id": "6944408",
+	"name": "계란김밥 만들기. 밥 없이도 든든한 달걀 김밥 만드는법.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/db33e33013d2b3f4f5e2565af60cc3c31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944408",
+	"ingredient_ids": [
+		8,
+		659,
+		628,
+		15,
+		228
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김밥김",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 계란은 깨서 소금 넣고 멍울 없이 풀어 주세요. *풀어 놓고 보니 다른 짭짤한 재료들이 있어서 소금은 한꼬집 정도만 넣어 주시면 될것 같아요. ",
+		"2. 푼 계란은 지단 부치기 좋도록 체에 한번 걸러 줍니다. *체에 걸러 주면 계란 지단이 매끄럽게 부쳐 집니다. ",
+		"3. 중약불에 계란 지단을 종잇장 처럼 얇게 부쳐 주세요. *지단 부칠때 마다 찢어졌는데 확실히 걸러서 그런지 안찢어지고 얇게 부쳐 3징 모두 성공했네요. ",
+		"4. 계란 지단은 한김 나가면 가늘게 채 썰어 주세요. ",
+		"5. 오이는 곱게 채 썰어 소금 뿌려 10분 절인 후 물기 꼭 짭니다. ",
+		"6. 맛살은 손으로 굵게 찢고 햄도 굵게 썰어 주세요. *햄 대신 얇은 소세지를 통째로 넣어 주면 아이들이 좋아하고 재미있어 하더라구요~",
+		"7. 당근도 채 썰고 참치는 체에 걸러 기름을 빼 주세요. *참치는 체반에 기름을 걸르면서 꾹꾹 눌러 부셔줘야 김밥에 넣을수 있어요.",
+		"8. 기름뺀 참치는 마요네즈에 버무려 주세요. (참치마요) *이 상태로 참치 마요를 김에 그냥 싸먹어도 너무 맛있어요.",
+		"9. 달궈진 팬에 썰어 놓은 당근과 햄을 노릇하게 볶아 줍니다. ",
+		"10. 바닥에 채 썬 계란을 절반 정도만 넓게 펼치고 깻잎과 햄, 당근, 참치마요 올려 돌돌 말아 주세요. ps:속재료는 삐져 나올지 모르니 너무 많이 넣진 마세요. ",
+		"11. 이번엔 절인 오이를 넣어 싸봤어요. *깻잎을 넣지 않았는데도 오이의 상큼함이 좋더라구요~",
+		"12. 저는 부드러운 맛살만 넣었네요. *끝부분은 밥을 안넣었기 때문에 계란 흰자만 풀어 붙여 주었어요.",
+		"13. 계란 김밥 완성 됐어요. *사실 계란을 욕심껏 더 많이 넣었는데 말다가 그만 터져 버렸어요..ㅠㅠ "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/8d4c6004cf8c53be3682b162b5a75f481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/d08f92fea89d4e86e53279a3b2077d0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/0dcc351dc0da94e91c96308f721c45ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/c77457aa491119abb1f480d91d9a31c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/df261e7dd7d774cc4a3fab8ded3744271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/a2569bd30bb821865a15a50916d5db101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/178ac0e723282808d73ec132bc7033301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/2b1fc962e5574910203057d55246c90b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/eed50742064f5d56ad18b1356edf72811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/ee63b11332b8ae966f87245275ee975e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/cb44ee5ea338cb9d3fb741a20d6289cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/c9d02ebc0f5a5432394f48e9d5f351941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/3b0f1564609fef8c91bda4a0119a899e1.jpg"
+	]
+}

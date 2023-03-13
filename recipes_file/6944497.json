@@ -1,0 +1,78 @@
+{
+	"id": "6944497",
+	"name": "오징어 부추전 만드는법 바삭하게 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/c5e6b6e6c6757a69aaa86fcdb12fddc31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944497",
+	"ingredient_ids": [
+		30,
+		65,
+		387,
+		995,
+		3,
+		9,
+		295
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "3",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 부추는 흐르는 물에 깨끗하게 씻어주세요",
+		"2. 양파, 당근을 잘게 다져주세요야채는 최대한 작게 썰어야돼요. 그래야 식감도 좋고 먹을때 맛있더라구요 ",
+		"3. 오징어도 잘게 다져주세요",
+		"4. 계란1개와 나머지 재료들을 대야에 다 넣어주세요",
+		"5. (종이컵 기준) 부침가루3, 물3을 넣어주세요 소금간은 따로 안했는데 살짝 해도 되요. 전 간장 찍어먹을꺼라 안했습니다.",
+		"6. 잘 섞어주세요 이런식으로 걸쭉하게 되면 됩니다.",
+		"7. 후라이팬에 기름을 두른 후 노릇노릇하게 될때까지 구워주세요! 크기는 작게 해야 뒤집을때 편하더라구요~",
+		"8. 짠! 막거리랑 먹으면 됩니다^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/e2618239c131fe3a77b343a41ae798b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/9c4ade593b2a883115d66fc864ec15a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/2b71d2f74950e2a381b76d0fb625cd441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/f16be845c84a568f5ad6acd8ccec4ef11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/b49a12782c84bca6653b47ffc2b20f031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/b2016f555e655cb9b2f33b6d17ec0ec11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/d4c536d9042eed764b8cd66c127d2b3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/793a3f6c69b9b8195bed7126c6dae8881.jpg"
+	]
+}

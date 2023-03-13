@@ -1,0 +1,93 @@
+{
+	"id": "2395562",
+	"name": "밥한그릇 뚝딱 병어조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/27/262cbf9fa06a4d5011d5799ed684dfc2.jpg",
+	"url": "https://www.10000recipe.com/recipe/2395562",
+	"ingredient_ids": [
+		70,
+		5,
+		19,
+		3,
+		27,
+		379,
+		224,
+		473,
+		846,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "병어",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "붉은고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치다시마육수1+1/2C",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 감자와 무는 먹기좋게 잘라 냄비의 바닥에 깔고, 생선가게 아저씨가 손질해 준 병어는 잘 씻어 2등분이나 3등분 해주시면 됩니다.",
+		"2. 양념장을 만들어 병어위에 뿌리고 양파도 약간 큼직하게 잘라 올려주세요.",
+		"3. 생선조림을 하실때에는 10분이상 뚜껑을 열고 조리셔야 생선의 비린내가 나지 않는답니다. 국물이 1/2정도로 졸아들면, 대파와 붉은고추를 넣어주세요.",
+		"4. 국물이 자작해지면, 불을 끄시면 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/a0d6be2c78f7907e0add6040e104d5f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/8f4e3c7a7ea5ce5ece05708b258e8ba11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/98b706bf18462c61e137d1a34c3b0c931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/1f392df7c1b25cf023fd7fdee01ec6051.jpg"
+	]
+}

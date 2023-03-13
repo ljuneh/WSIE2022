@@ -1,0 +1,71 @@
+{
+	"id": "6942655",
+	"name": "게장도 울고 갈 밥도둑, 감칠맛이 끝내주는 명란비빔장 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c78c4e2d5044cad7e3870f073153b16f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942655",
+	"ingredient_ids": [
+		342,
+		505,
+		295,
+		233,
+		327,
+		224,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "명란젓",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 실파와 청양고추는 얇게 총총총 썰어주세요.실파, 청양고추도마, 칼",
+		"2. 명란젓은 잘게 썰어줍니다.명란젓",
+		"3. 팬에 들기름 1큰술을 두른 후 다진마늘 1큰술을 넣고 볶아주세요.들기름, 다진마늘팬",
+		"4. 그 다음 명란젓과 고춧가루 1큰술을 넣고 볶아줍니다.명란젓, 고춧가루",
+		"5. 명란젓이 알알이 흩어지면 청양고추와 실파를 넣고 섞어주세요.청양고추, 실파",
+		"6. 마지막으로 통깨 1큰술을 솔솔 뿌려주면 진정한 밥도둑, 명란 비빔장 완성입니다.통깨",
+		"7. 짠!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/35de74d2ada699c89dc2ad1186966ae31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c60e592225d7c565e9b7f39d2e9ace471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/5164ce7a89c96f512fedf682c91c88241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/19c12add366f219551e281630e70ae7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/8ba09faa66ef0eb0665cf99331a6e4841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/74e2e51952fbf3e43624d2b3a370d7221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/dd495f1270e75d097faf9d397035f9f61.jpg"
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "6844080",
+	"name": "참치김치찌개 초간단",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/44c87c00863434594ee30731777a260f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6844080",
+	"ingredient_ids": [
+		953,
+		233,
+		226,
+		660,
+		504,
+		379,
+		995,
+		473
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "참치1캔(100g)",
+			"ingre_count": "1캔(100g)",
+			"ingre_unit": "캔(g)"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 식용유나 참기름이나 들기름이나 아무튼 기름 붓고 김치 넣고 볶아 주세요.(불은 중불로 쭈욱 갔어요.)",
+		"2. 볶을 때 설탕 한 숟가락 넣어 주세요.(다진마늘 있으시면 같이 넣어 주시면 좋아요.)",
+		"3. 김치가 약간 노랗게 되었으면 참치 따서 다 넣어 주세요.(전 기름 안 뺐어요... 귀찮아서)",
+		"4. 같이 좀 섞다가 물을 400미리 넣어 주세요.(계량컵 없으시면 일반 종이컵 넘치기 전까지 물 넣은 상태로 두 컵 반 넣으시면 돼요.)",
+		"5. 물 넣고 끓이다가 조금씩 보글 보글 끓어 오르면 간장 세 숟가락(전 진간장 국간장 개념을 잘 몰라서 진간장 두 숟가락에 국간장 하나 넣었어요....)",
+		"6. 이때 맛을 보았는데 그래도 싱겁더라고요.. 그래서 고추장 반 숟가락 떠서 넣었어요.",
+		"7. 그런데도 싱겁더라고요. 그래서 조미료(다시다?) 그냥 마트에서 파는 거 갈색깔 가루 같은 거... 그거 두 숟가락 넣었어요. 그리고 고추가루도 반 숟가락 넣었어요.(고추가루는 생략 가능할 듯)",
+		"8. 그런데 모습을 보니 온통 빨간 게 맛 없어 보여서 냉장고 보니깐 파 썰어 논 거 있길래 넣었더니 뭔가 맛이 더 좋아졌네요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/0bd40de1a59f13feb541644bd34971161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/7b88602849a5d0ad76bd3604158869891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/d217565e860c83bcdcc175eb2a71cb8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/8874d07eb8199d0b30f3479d926e74821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/45c55a5290c47a1d0b145002713ee9791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/9b4cf9f5287ebdcec4833e3ee11bfea51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/1605a12786cf7beaabf48f3fc0bb07331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/098883585eb3ec779942b289bafee1c61.jpg"
+	]
+}

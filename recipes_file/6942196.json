@@ -1,0 +1,85 @@
+{
+	"id": "6942196",
+	"name": "새싹 알밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/1e5193efcbbeb3a73c9478722f2811351.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942196",
+	"ingredient_ids": [
+		953,
+		3,
+		325,
+		6,
+		482,
+		504,
+		660,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "날치알",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "새싹",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 기름을 두르고 다진 양파, 호박, 파프리카를 넣어 볶아줍니다.양파1/4개, 호박1/2개, 파프리카1/2개, 식용유1큰술팬중불",
+		"2. 채소가 다 익으면 밥과 소금을 넣어 볶아줍니다.밥1공기, 소금 약간",
+		"3. 뚝배기에 참기름을 발라줍니다.참기름1큰술뚝배기",
+		"4. 뚝배기에 볶음밥을 넣고 다진 김치를 넣어줍니다.다진 김치 한줌",
+		"5. 약불에 5분정도 데워줍니다.약불",
+		"6. 새싹과 날치알을 올려줍니다.날치알은 청주를 넣어 소독해주고 채에 받쳐 물기를 제거한 후 사용합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/1046abe2034c116216c7cb0cf5d0a35e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/d454366a502ede78af5fcda1260ab8f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/feef1006de4a2215a967510828e855881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/a693c741bd7ca295b7ad99a80fe948001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/94bf61f622be6617a446714299bdfd951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/08ff16c1cfa8c6ed70ba955d3c56fafd1.jpg"
+	]
+}

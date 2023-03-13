@@ -1,0 +1,65 @@
+{
+	"id": "6753568",
+	"name": "멸치 호두 볶음 쉽게만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/d3d062df5d8a30363121a7b7d4d84b571.jpg",
+	"url": "https://www.10000recipe.com/recipe/6753568",
+	"ingredient_ids": [
+		677,
+		194,
+		960,
+		547,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "잔멸치",
+			"ingre_count": "200",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "170",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "생강술",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "34",
+			"ingre_unit": "~"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 호두를 넣어 잠시 끓인다.",
+		"2. 찬물에 헹구고 체에 받혀 물기를 뺀다.                   ",
+		"3. 달군 팬에 호두를 넣어 볶는다.(오븐에 구워도 된다.)오븐",
+		"4. 볶는 중간중간 호두를 부러뜨려 가면서 호두속 껍질을 제거해 준다.  바싹 구워진 호두를 체에바쳐 잔가루와 껍질 등을 제거한다.                   ",
+		"5. 오일을 두르지 않고 달군 팬에 멸치를 넣고 바싹 볶는다.",
+		"6. 볶은 멸치를 체에 바쳐 잔가루와 이물질 등을 걸러낸다.",
+		"7. 전처리한 멸치를 역시 오일을 두르지 않고 달군 팬에서 한번 더 볶는다. 이때 멸치의 상태에 따라 술을 넣어 비린내나 잡내를 제거한다.",
+		"8. 술의 수분기가 완전히 날아가도록 볶아준 다음 전처리한 호두를 넣어 함께 볶는다,                   ",
+		"9. 멸치의 상태에 따라 양조간장 한 큰술을 먼저 넣어 볶은 후 올리고당을 넣어주었다.",
+		"10. 검정깨가 있다면 조금 뿌려주어도 좋다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/31a47e3aa5b2013f27c764892cc858bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/c4aefbc38135c55f8b4d3ca83ccb0cf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/4889a3af8324ef843302793ac77e0a2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/761fe26c761481cbc940e8c3ad2b3a171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/7c046a727cd6fda655188aa086469c1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/b657cd79e4072b17790dc7af10b5ba031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/4a2d9bfc0c9204bc4f208daf5e8acc8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/f6865c918227344bb539286a273880e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/ccd1522610a6cebfe092bb84593be4541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/06fabe838287506fbda8276a94c64ffc1.jpg"
+	]
+}

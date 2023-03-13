@@ -1,0 +1,75 @@
+{
+	"id": "6910367",
+	"name": "다른반찬이 필요없는 두부짜글이로 밥한공기 뚝딱!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/db0fb535f6298cd76ded5a502874343a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6910367",
+	"ingredient_ids": [
+		323,
+		3,
+		295,
+		224,
+		473,
+		379,
+		226,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 양파1/2개와 청양고추2개를 먹기좋게 썰어주세요",
+		"2. 고춧가루1.5T, 고추장1.5T, 간장2T, 설탕1T, 다진마늘1/2T를 섞어서 양념장을 만들어주세요",
+		"3. 낮은 후라이팬에 양파를 올리고 두부를 삥 둘러서 올려주세요",
+		"4. 물은 두부가 자작하게 잠길정도만 넣어주시고  양념장을 그 위에 올려주세요",
+		"5. 뚜껑을 닫고 약한불에 졸여주세요",
+		"6. 뚜껑을 잠시 열고 대파와 청양고추2개를 넣어서 다시 졸여주세요 국물이 없어질정도로 졸여주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/0abb5f5d5a08d376b4d7e3d9dd5c1ac81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/231edd720d4976334e4a678988f375121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/bdcf2a80c63d18b927eb8e5d69c19e721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/4b7a773e643bdc16e89e4e925c5b57611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/aef9cb4f4342dbf372fca1fb20d8d3571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/e9aa075dedad014866ac3b8ce5ef3a9b1.jpg"
+	]
+}

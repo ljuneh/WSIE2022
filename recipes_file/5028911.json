@@ -1,0 +1,94 @@
+{
+	"id": "5028911",
+	"name": "삼계 녹두죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/262bbce81b94ccb1a09fa401ec5b242f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/5028911",
+	"ingredient_ids": [
+		564,
+		944,
+		132,
+		29,
+		28,
+		189,
+		995,
+		349
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "인삼",
+			"ingre_count": "2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "황기",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "6",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "헛개나무",
+			"ingre_count": "4",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "은행",
+			"ingre_count": "6",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "껍질벗긴녹두",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "8",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 녹두는 물에 담가 30분 이상 불린 후 껍질을 깨끗이 골라 내 주세요.",
+		"2. 녹두 삼계죽에 들어가는 재료는 각자 취향에 맞게 조절하셔도 됩니다.",
+		"3. 닭은 배 속까지 깨끗이 씻어 준비해 주세요. 기름이 많은 꽁지 부분은 칼로 잘라주세요.",
+		"4. 인삼은 머리를 잘라 버리고 몸통 부분만 사용해 주세요.",
+		"5. 냄비에 물 8컵과 마늘, 생강, 대추, 인삼, 황기, 헛개나무를 넣고 대략 1시간 정도 푹 끓여 주세요. 중간에 불을 줄여 주세요.",
+		"6. 닭이 푹 익었으면 건져내고 함께 삶은 재료도 건져 내 주세요.",
+		"7. 불린 녹두를 넣고 가끔 저어주면 끓여 주세요. 이때 껍질 벗긴 은행도 함께 넣어 주세요. 녹두가 푹 퍼지면 국간장 1큰술 넣고 간을 맞춰 주세요.",
+		"8. 그릇에 삼계 녹두죽을 담은 후 닭고기를 올린 후 인삼과 대추, 은행 등을 고명으로 올려 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/6ccf870a53aa6dafb1b2d502569ad0e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/45f33871b8816d938ad0b42006bacb211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/08af983bac3ab454244961d5a4e2a7621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/0118d5e93b9a603742f01383d2d7674e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/70db4e2a7e51de523c1ce6eaf3d83a8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/1f137b737f2840cc686f9382e492a0dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/6fd82c20c95e53b416156491267dcd8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/de2fe172e48a0ece04fb854bb1ad54a31.jpg"
+	]
+}

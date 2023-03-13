@@ -1,0 +1,67 @@
+{
+	"id": "6943086",
+	"name": "추석요리 탕국으로 맛있는 지금이 제철 토란국 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/70fb6cbdb93ec39b14c93696f9d6b1a71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943086",
+	"ingredient_ids": [
+		40,
+		876,
+		665,
+		497,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기양지",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "토란",
+			"ingre_count": "2",
+			"ingre_unit": "Kg"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "2",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 소고기를 썰어놓습니다",
+		"2. 물에 담궈 핏물을 뺍니다",
+		"3. 물을 끓여 물이 끓으면 고기를 넣습니다",
+		"4. 고기가 거의 익으면 토란을 넣습니다",
+		"5. 순서대로 양념을 합니다",
+		"6. 그릇에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/7012d8fdd0684b0682de09a26ce467e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/5b85e39c74cda8cf2708d0b20002e2351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/16905ff43341ffdd5e169743cd3508731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/b42a060a1f77c02a8a1b394decbb8e981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/8774c4fbd680272b59057e2c03f5833a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/f29d9149df3ac9c4a719cad184c4a8401.jpg"
+	]
+}

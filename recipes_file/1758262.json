@@ -1,0 +1,111 @@
+{
+	"id": "1758262",
+	"name": "별미 더덕양념구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/33559f8a50ac4a86c5048344b481616d.jpg",
+	"url": "https://www.10000recipe.com/recipe/1758262",
+	"ingredient_ids": [
+		37,
+		473,
+		224,
+		843,
+		379,
+		233,
+		225,
+		226,
+		341,
+		660,
+		543,
+		847,
+		959
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "더덕",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "5",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "어슷썬파",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "배즙",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "사과즙",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 더덕껍질은 돌려까기 식으로 벗기시면 수월하답니다. 잠시 실온에서 반나절 정도 꾸들꾸들하게 말려 주신 후에 홍두깨로 두드려 부드럽게 해 주세요.",
+		"2. 제시해 드린 양념들을 넓은 볼에 넣어 양념장을 만들어 주세요. 더덕을 넣고 양념자을 고루 발라 주세요. 적은 양을 할 경우 더덕에 참기름을 발라 초벌구이를 해준 후에 양념장을 발라 2번째로 구워 주시는 방법도 있답니다. 전 많은 양을 하고 손님들이 계실때 초벌구이를 별도로 해 준다는 것이 시간상 번거로워서 양념장에 하루정도 재워 놓은 후에 바로 오븐에 구워 요리를 한답니다.",
+		"3. 통에 넣어 하루나 이틀정도 냉장고에 넣어 두어 간이 고루 고루 베이게 해 주었답니다. 이 상태에서 그냥 드시면 더덕무침이 되는 건데요. 더덕무침으로 드실 경우 식초를 약간 두르고 새콤달콤하게 드세요. 더덕구이보다는 더덕무침이 더덕향이 더욱더 진하답니다. 전 오븐을 사용해서 구웠는데요. 오븐이 없으신 분들은 후라이팬에 중약불로 사용하시는 기름 약간 두르고 구워 주시면 된답니다.오븐",
+		"4. 매콤한 더덕구이가 완성되었어요. 더덕무침만 드시기 뭐하세요~~돼지고기, 오리고기, 소고기를 넣어 같이 조물조물 무쳐 구워 드셔 보세요. 이것도 참 별미요리가 된답니다. 더덕 자체만으로도 넘 맛나지만 고기랑 함께하는 더덕구이는 더욱더 별미요리예요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/8c25c2a7ee5d2d0e9e75196932cea8b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/9f1882ce1cac1c95174fac1d358ee5491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/c13c8cb43b82d371cfd68f2bc4c916cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/0cb756565d9d66a26596e68adeb4af7e.jpg"
+	]
+}

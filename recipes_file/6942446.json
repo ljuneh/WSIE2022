@@ -1,0 +1,59 @@
+{
+	"id": "6942446",
+	"name": "초간단 간장콩불",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/1e4b0eda868afbd33d5776e1f7bcae491.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942446",
+	"ingredient_ids": [
+		47,
+		963,
+		27,
+		379,
+		226
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대패삼겹살",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 콩나물 깨끗이씻어 체에 밭쳐서 물기를 뺀주세요",
+		"2. 대파 갈라 길이로 썰어 주세요 .",
+		"3. 팬을 불에 올린후 대패삼겹살을 넣고 잘 펴주며 구워주세요",
+		"4. 고기 익으면 대파 넣어주시고 파 고기랑같이 볶아주세요.이때 향이 최고",
+		"5. 파와고기 같이 살짝 볶다가 설탕1스푼 간장 5스푼 넣어주세요",
+		"6. 대패삼겹살에 간이 배면 콩나물을 넣고 고기랑 섞어서볶아주세요.",
+		"7. 콩나물 익으면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/3489499ba10ebcf6474ec23b7e5b07d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/4d93c6deda29d1f707e55dfc7ae9fcbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/db336030c6c7cba83d7c56ebd92820a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/b63efb1109fecb1df6ad6ef549a4aab31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/984e17b28bbee0bcfe0d1f10cf4249be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/f20aabaa9643ed2c6110c32c985ccaa51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/1e03e665fdc9a4d51e04f2dd2b5d79511.jpg"
+	]
+}

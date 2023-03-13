@@ -1,0 +1,132 @@
+{
+	"id": "6837447",
+	"name": "칼칼한 김치전골 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/27/88631fb7d3b463a9b6abf5c7bbb251191.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837447",
+	"ingredient_ids": [
+		323,
+		295,
+		27,
+		3,
+		911,
+		327,
+		302,
+		224,
+		349,
+		233,
+		292,
+		457,
+		660,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기불고기용",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "1",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "700",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 김치는 1포기정도 잘라서 준비했구요. 돼지고기는 미리 밑간합니다.",
+		"2. 재료는 새송이버섯과 대파, 양파, 청양고추, 두부를 썰어서 준비했어요. 다른 버섯을 넣으셔도 되요. 사진상에선 보이신 않지만 당면도 30분정도 불려두었답니다.",
+		"3.  고기는 미리 양념에 약 15분정도 미리 밑간해서 숙성시켜 주시구요. 전골팬을 미리 달궈주신후에 들기름 2스푼을 넣고 김치를 먼저 볶으신후에 볶은향이 올라오면 양념고기를 넣고 같이 볶아주세요. 찌개용 부위를 사용하시는것보다 불고기용 부위를 사용하시면 식감이 더 부드럽고 맛있어요.",
+		"4. 어느정도 꼬기가 익어지면 멸치육수 700ml 미리 썰어두었던 재료와 30분정도 불려두었던 당면을 넣고 끓여주세요. 물을 넣으셔도 되지만, 멸치육수를 넣으시면 더 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/27/d0366ef127bffa27bbabd70cc134705a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/27/3836a1def62433e64197a3b1998feadb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/27/636827faef18609892652e27039d7ae01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/27/bb5449e32b240b236993bddc16a8698a1.jpg"
+	]
+}

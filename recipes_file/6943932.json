@@ -1,0 +1,91 @@
+{
+	"id": "6943932",
+	"name": "잡채",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b4d88aee5075d4a4df57a45a96b3ee881.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943932",
+	"ingredient_ids": [
+		302,
+		3,
+		53,
+		2,
+		9,
+		379,
+		575,
+		995,
+		574,
+		660,
+		290
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "당면",
+			"ingre_count": "500",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1.",
+			"ingre_unit": ".개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "12",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "12",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "3",
+			"ingre_unit": "바퀴"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "바퀴"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 당근과,양파,표고,당근은 채썰어서 한가지씩 소금간을하시고 볶아줍니다. 시금치는 끓는물에 살짝 데쳐서 물기를짜고 소금 참기름 간을 해줍니다.다 볶았으면 믹싱볼에 재료를 넣고 섞어줍니다(전 섞고 나서 식어서 비닐랲에 담아두었어요)",
+		"2. 하루전날 물에 불린당면을 윅에다가 담고 올리브유를 두르고 물한컵과 간장, 올리고당을 넣고 약불에 섞어줍니다",
+		"3. 국물 간을보시고 섞어주면서 조려줍니다(간을 보시면서 간장과 올리고당을 추가해주시면 됩니다)",
+		"4. 당면에 양념이 잘배어졌네요~불을꺼줍니다",
+		"5. 4번에다가 모든재료를 넣고 깨와 참기름을 두르고 섞어줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/d71a1d0072f97aab7a240ae9d6d6fd011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c07ed439dc9487bc44d70642694c84b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/5eb151a79edc3e6df802c45325ccf9071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/56c03a64812297d3674c6190b9a84fef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/706a89cef5afe9de13183369c98631271.jpg"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"id": "6943326",
+	"name": "냉파요리/ 전 계란말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/68b4916f25a11683ed8f2609835a47641.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943326",
+	"ingredient_ids": [
+		219,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "먹고남은전",
+			"ingre_count": "225",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가는소금",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 추석에 먹고 남은 전. 필요한 만큼 준비하여 저울에 재보니 225g 정도 된다.",
+		"2. 전 계란말이할 주인공 음식재료. 달걀 4개를 준비하여 알끈을 잘라준다.",
+		"3. 가는 소금 1ts를 넣어서 골고루 섞어준다.",
+		"4. 식성에 따라 준비한 전은 칼로 큼직하게 잘라주었다. 믹서에 가는 것보다는 듬성듬성 칼로 다지는것이  식감이 있고 좋은것 같다.",
+		"5. 팬에 식용유를 넣고 계란말이 하듯 돌돌말아 부쳐준다.",
+		"6. 두툼하고 부드러운  전 계란말이가 완성 되었다.",
+		"7. 다져서 넣었던 전은 보이지 않는다.",
+		"8. 간단하지만 두툼한 전 계란말이가  완성 되었다. 누구나 부담없이 먹을수 있고 쉽게 만들수 있는 음식이다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/a1838f53bc593d8d22ffc5740e855cc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/29f486f7ece94e1f09f2f9208af627031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/74453a2a26bf596357390ea7adc2640c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/c491230df5ab7ce6c797dc5468d053201.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/2d48ce9f759f5b41dfec8b1e65c158c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/3f85c6d49d4851b19341b088301a163f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/5592ca69fcd08d21a3847b01277f52321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/8993e7cf03cbbf6076bbcd5f3bbf5a621.jpg"
+	]
+}

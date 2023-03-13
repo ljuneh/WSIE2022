@@ -1,0 +1,86 @@
+{
+	"id": "6834570",
+	"name": "까르보나라 떡볶이 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/8120c5f993593892442603f5e246eb671.jpg",
+	"url": "https://www.10000recipe.com/recipe/6834570",
+	"ingredient_ids": [
+		3,
+		406,
+		233,
+		535,
+		214
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "브로컬리",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "계란노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "허브솔트",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 떡을 제외한 속재료는 베이컨, 양파, 브로컬리에요. 새우나, 해물종류를 넣어도 좋아요.",
+		"2. 냉동고에 있던 떡볶이떡을 빼서 찬물에 약 20분정도 불려주세요. 떡볶이양은 국그릇에 가득 담길 정도로 만들었어요. 대략 2인분이라고 생각하시면 되요.",
+		"3. 불려주신후에는 끓는물에 약 3~5분정도 데쳐서 찬물에 헹궈주세요. 미리 데쳐서 사용하시면 조리시에 떡이 퍼지지 않아요.",
+		"4. 이때에 브로컬리도 끓는물에 데쳐주세요.",
+		"5. 팬에 기름을 두른후 다진마늘을 넣고 마늘향이 올라올때까지 볶아주세요.",
+		"6. 향이 올라오면 베이컨과 양파를 넣고 볶아주시구요.",
+		"7. 이후엔 불려놓은 떡을 넣고 약 2분정도 재료와 함께 볶아주시다가 우유 2컵(=400ml)을 넣고 끓여주세요.",
+		"8. 간은 이때에 하시면 되는데요. 허브솔트로 대략 2번정도 톡톡해서 넣으시면 되요. 기호에 따라서 간은 가감하시거나 추가하시면 되구요.",
+		"9. 우유거품이 올라오기 시작하면",
+		"10. 치즈와 미리 데쳐놓았던 브로컬리를 넣고 치즈가 녹을때까지 끓여주세요.",
+		"11. 우유크림소스가 어느정도 걸죽하니 노오란 색감을 띄면 달걀 노른자를 톡 넣고 휘리릭 섞어서",
+		"12. 1~2분정도 끓여주시면 되세요.",
+		"13. 완성된 생크림없이 만든 까르보나라떡볶이 에요. 진한 체다치즈의 향이 솔솔~걸죽하고 진한 크림소스 맛이 고소하니 맛있어요. 그릇에 담으실때에 파슬리가루 조금 뿌려주시면 데코로 OK"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/b58a6d22b94026e6061dda98c69f75d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/8b581f82f795e3072ff54ee3c8e66ae21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/de0c9658c331d52dd61c4a2875b8d6631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/04aac6baa6fb82b1041c358ab31d02c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/62ba36c6539e30e6c2ac55699e86fc871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/280934b66f6c0038939882d6b9b970071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/43381a113c2119ed8ad861cbbff0ffc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/e3a6e8697b9517e02fb798bea488d0ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/7bf0aa8c40f7956fd597aa50196ddfa61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/d72fd136d8361a4f6673d5df82bad9a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/70c64093d0359f47397eaf107135fa561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/6d05e4fceb01e92dbbc88c313e8f00241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/02a45bd5a5a50a66c486cce725596c8b1.jpg"
+	]
+}

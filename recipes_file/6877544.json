@@ -1,0 +1,77 @@
+{
+	"id": "6877544",
+	"name": "오이무침(오이부추 무침) 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/08/079b4542eb2aa6df17b2f1513a0b6cfa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6877544",
+	"ingredient_ids": [
+		8,
+		30,
+		29,
+		660,
+		575,
+		350
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "고춧가루1+1/2수저",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "가는소금",
+			"ingre_count": "2/3",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 오이 2개와 부추 한 줌 오십원짜리 동전 크기 정도 준비                   ",
+		"2. 오이는 껍질을 중간중간 벗겨 반으로 길쭉하게 자르고                   ",
+		"3. 반으로 자른 오이를 또 반으로 자른 다음 4등분 하여 잘라주고                   ",
+		"4. 가는 소금 2/3 저를 넣어 10분간 절여줍니다                   ",
+		"5. 10분 후 채반에 바쳐 또 10분을 수분이 빠지면서 절여 바로 씻지 않고 무쳐줄 거예요",
+		"6. 총 20분간 오이를 절이고 나면 부추도 오이 크기 정도 길이로 썰어주고는",
+		"7. 오이와 부추 그리고 준비한 양념을 넣어",
+		"8. 가볍게 무쳐주면 완성^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/10/3532b8188701b81fa59f71e69499c9081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/10/ff8748e8b1334c315582e84c01216a831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/10/2a9be32e65288c8de6aa10226c6a6db11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/10/92cf20e99acddcda5a32f1b748ab73f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/10/6f8eba98069ac10bdb9a35fb570aed2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/10/d04c65ef45815ac36f60026dd82cd80b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/10/90a40179722812eee6cc37dd92f30ff71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/10/cacbf15df2494863ca737854f5092a0f1.jpg"
+	]
+}

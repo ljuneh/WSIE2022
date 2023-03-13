@@ -1,0 +1,103 @@
+{
+	"id": "6933628",
+	"name": "알찜 만들기 :: 소주 1병각! 최고의 술안주 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/06/01/1070797c41e0926c123fa17ebb51fad31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6933628",
+	"ingredient_ids": [
+		47,
+		27,
+		497,
+		226,
+		224,
+		292,
+		333,
+		379,
+		477,
+		233
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "명태알",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "이리",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "15",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 대파 15cm 정도 준비해서 송송 썰고 콩나물 250g 헹궈서 준비해주세요. 콩나물은 더 많이 넣는걸 추천!! 콩나물 양이 살짝 부족했어요!!",
+		"2. 다음은 양념장을 만들어주세요. 설탕 1큰술, 고춧가루 4큰술, 맛술 2큰술, 멸치액젓 1큰술,  간장 5큰술, 굴소스 3큰술, 다진마늘 1큰술",
+		"3. 끓는물에 소금 1큰술을 넣고 명태알과 이리를 넣고 5분간 데쳐주세요.",
+		"4. 5분 후 명태알과 이리는 채에 건져서 찬물에 살짝만 헹궈주세요.",
+		"5. 팬에 식용유를 두르고 대파를 넣고 1분간 볶아서 파기름을 만들어 줍니다.",
+		"6. 그 후 한번 데친 알과 이리를 넣고 같이 볶아주세요. 이미 데쳐서 익었기 때문에 1분정도만 볶아주면 됩니다.",
+		"7. 그 다음 콩나물을 넣고 양념장 3큰술을 넣고 볶아주세요.",
+		"8. 콩나물 숨이 다 죽으면  남은 양념장을 넣고 다시 한번 더 볶아주세요.",
+		"9. 마지막으로 후추 살짝 뿌려주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/01/89b8d882bf35118d94212eb8978456c61.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/01/aceed65ac2e377e4991665059071c3e81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/01/d6e8acc13e268225653e4fa3eb520cd41.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/01/12587549e76e77aa472a5ae01b8a5a311.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/01/1a0559023be54d31773c60dee65456771.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/01/abe14557a054afc0e1494f88d9405eec1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/01/d054e4211df9935bbddb861e5befc2261.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/01/93682f3468fcba4d6d880c230adde16c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/01/c68b848b30297c29cf272a6078b276061.png"
+	]
+}

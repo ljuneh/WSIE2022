@@ -1,0 +1,88 @@
+{
+	"id": "6839773",
+	"name": "간단한 아침메뉴 주먹밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/13/950edeb0454fbc6a8fac8a4d605c10e61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6839773",
+	"ingredient_ids": [
+		9,
+		3,
+		104,
+		406,
+		497,
+		504,
+		477
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥1+1/2공기",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "옥수수",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "완두콩익힌것",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "멸치(멸치볶음)",
+			"ingre_count": "3",
+			"ingre_unit": "큰스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "후추3번톡톡",
+			"ingre_count": "3",
+			"ingre_unit": "번 톡톡"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰스푼"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰스푼"
+		}
+	],
+	"recipe": [
+		"1. 우선 베이컨을 볶아내주세요~ 베이컨은 속을 채울꺼기 때문에 밥이랑 같이볶지 않을꺼랍니다. 이유는 베이컨은 잘 뭉쳐지지 않고 자꾸 독립해요 ㅎㅎ그래서 속에 넣어주는게 깔끔하지요~ 게란을 먼저볶아 스크램블 에그를 만들어주고 야채를 볶아주세요~ 소금과 후추로 간을 약간 해 주신 후 밥을 넣어 볶다가 굴소스 한큰수저를 넣어 볶아내주시면 끝!! 이제 밥을 동그랗게 만들 차례인데요~ 속에넣을 멸치볶음도 준비했답니다. 멸치볶음 말고도 다른 반찬 특히 아이들이 별로 좋아하지 않는 반찬을 잘게 잘라 넣어주면 잘 모르고 그냥 먹지요^^",
+		"2. 밥을 잘 뭉치게 하려면 조물조물 치대주어야 해요~ 어느정도 치댄 밥을 동그랗게 뭉쳐주신 후 가운데에 손가락을 넣어 공간을 만들어 그안에 속을 넣고 오무려주시면 끝!! 동그랗게 뭉쳐진 밥에 공간을 만들때 밥이 갈라지는 경우가 생길 수 있답니다. 조심해주셔야해요~! 속을 채우신 후 오무릴때 특히 밥이 갈라져버릴 수 있답니다. 밥을 위에 덮어 뭉쳐주시면 갈라지는걸 막을 수 있지요 맨 마지막 사진을 보시면 될 것 같아요~",
+		"3. 간단한 아침메뉴 주먹밥이 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/13/25c22ee40a0c64093589ec79d8aae1fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/13/68c409dbab60d59e28982741b9fb27f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/13/75ca603d2129220a8cf290d349df5b281.jpg"
+	]
+}

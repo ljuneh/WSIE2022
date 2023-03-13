@@ -1,0 +1,61 @@
+{
+	"id": "6858432",
+	"name": "감자베이컨피자 # 홈메이드 또띠아 피자",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/13/f1179329f005e5b6d7e705eba608b6e01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6858432",
+	"ingredient_ids": [
+		5,
+		406,
+		3,
+		216
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "또띠아",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토스파게티소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 감자는 웨지 모양으로 잘라주고 양파, 베이컨은 잘게 잘라줍니다.",
+		"2. 달군 팬에 기름을 두르고 감자를 앞뒤로 노릇하게 구워줍니다. (20분정도)중불속까지 익으라고 중간에 뚜껑을 닫아줬어요.",
+		"3. 잘게 자른 양파와 베이컨을 볶아준 다음 토마토소스 2T를 넣어 함께 볶아주세요.",
+		"4. 약불에 또띠아 한 면을 구워준 다음 뒤집어 줍니다. 그 위에 양념된 양파 베이컨 > 구워진 감자를 올려줍니다.약불또띠아는 금방 구워지기 때문에 약불 유지하며 재료를 바로바로 올려주세요.",
+		"5. 치즈 한 줌을 올려준 다음 뚜껑을 닫아줍니다약불",
+		"6. 치즈가 사르르 녹으면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/14/ce14b868d4dd5bd064e0fdee3ba28d2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/14/e99040c9c812f8c70d2482b8335f996b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/14/8f3b387432fa68fb47259f909d882d321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/14/024a57eeef8e1be9074e6ef9cdee5f541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/14/c96d3b302256f78edf86b31c77eb670a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/14/128e353d9a8e8e5b8a974b6e6c6b2cfe1.jpg"
+	]
+}

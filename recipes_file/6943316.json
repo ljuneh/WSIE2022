@@ -1,0 +1,43 @@
+{
+	"id": "6943316",
+	"name": "추석요리생선미역죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/d20b35b6b7754b3ca4a9a17d953fa0671.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943316",
+	"ingredient_ids": [
+		349,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "옥돔미역국",
+			"ingre_count": "1/2",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "흰죽",
+			"ingre_count": "1/2",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 추석에 남은 옥돔 미역국 미역은 가위로 마구마구 잘라줬어요",
+		"2. 밥통으로 영양죽 코스로 흰죽을 만들어요. 전 멀건 죽을 좋아해서 물 양을 많이 잡았답니다 ( 물 조절은 기호에 맞게 해 주시면 됩니다)",
+		"3. 자 이제 함께 섞어서 한번 끓여 주시면 끝. (전 그냥 전자레지에 돌려줬어요) 모자른 간은 국간장으로 해 주시고 마지막에 참기름 한두방울이 신의 한수 입니다전자레인지"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/d5df1f0011410dc0fd64d475ad59b1401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/9658053a09ef9ea48471125fae9398cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/7a392523f40dfff7995b78236ff68aa81.jpg"
+	]
+}

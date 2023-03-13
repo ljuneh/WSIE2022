@@ -1,0 +1,89 @@
+{
+	"id": "6899300",
+	"name": "아삭한 겨울초 겉절이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/e2fd0a1d51f937e5569e64f57609d6c31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6899300",
+	"ingredient_ids": [
+		379,
+		939,
+		226,
+		350,
+		327,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "겨울초1소쿠리(소)",
+			"ingre_count": "1소쿠리(소)",
+			"ingre_unit": "소쿠리(소)"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "홍초",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "땡초",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "6",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "6",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "돌복숭식초(일반식초도가능해요)",
+			"ingre_count": "6",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "6",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 겨울초를 깨끗이 씻어 채에받쳐 두고",
+		"2. 잔파를 3등분하고 홍초.땡초는 반잘라 비스듬하게 썰어주세요",
+		"3. 양념은 간장6,돌복숭식초6,  액젓6,설탕3,고추가루6,마늘3,깨소금조금,들기름 , 파 ,홍초,청초를 넣고 잘저어주고",
+		"4. 양념에다 겨울초를 넣고 살살 무쳐주세요  어린겨울초는 너무 부드러워 살살 무쳐야지 아삭아삭한 식감을 느낄수 있답니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/49bd4de802d077ff79a811d4824189641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/a03cae9f93e6197ea9378800f7900e8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/973bc9b277a849fa12ca201f2c5af5c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/af74f52616eaf9e8dd564c4750ed6c7b1.jpg"
+	]
+}

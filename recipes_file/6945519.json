@@ -1,0 +1,62 @@
+{
+	"id": "6945519",
+	"name": "아삭함이 매력적인 기본 반찬 콩나물 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/850ce697d342938c2f075cc103602ada1.png",
+	"url": "https://www.10000recipe.com/recipe/6945519",
+	"ingredient_ids": [
+		47,
+		233,
+		497,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 다진 마늘, 다진대파, 참기름, 손질한 콩나물, 소금을 준비해주세요.",
+		"2. 콩나물 껍데기, 무른 부분을 제거한 뒤 깨끗이 물에 씻어 준비해주세요.콩나물 꼬리 부분에 아스파라긴산 및 비타민C 등 영양분이 많으니 무르지 않으면 드시는게 좋답니다.",
+		"3. 냄비에 손질한 콩나물을 넣고 물을 반정도 담은 뒤 소금 1/2T를 넣고 뚜껑을 덮어 15분 끓여 삶아 주세요.센불거품에 물이 넘치려고 하면 중간 불로 줄여주세요.",
+		"4. 잘 삶아진 콩나물을 체에 받쳐 놓고 찬물에 헹군 뒤 물기를 제거해 주세요.",
+		"5. 물기를 제거한 삶은 콩나물에 다진 마늘 1/2T, 다진 대파 10g, 소금 1/3t, 참기름 1T를 넣고 골고루 섞어 버무려주세요.아삭함이 살아있도록 조물조물 살살 버무려주세요.",
+		"6. 골고루 버무려진 콩나물 무침에 통깨를 더해 마무리하면 아삭한 콩나물 무침 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/feaa6a80b27aa702ae5815328f67e5521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/af3d3d6fb1f2d7e94d78813bc0cca1701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/9b7b41ca079a9efa824ac2827e4a1c8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/bfcd2e58f732312ba715224a633553611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/f9a1bbcfb44ad2cbcd6afbf0ecd6435b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/55cc8b57b017b3d964047f446cbc21da1.png"
+	]
+}

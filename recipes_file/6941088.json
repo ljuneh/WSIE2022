@@ -1,0 +1,129 @@
+{
+	"id": "6941088",
+	"name": "★다이어트 도시락★ 키토제닉 식단 저탄고지! 두부면 블랙파스타~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/38a4be9a4eeb22e502bf7d2e0391b81a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941088",
+	"ingredient_ids": [
+		54,
+		3,
+		702,
+		485,
+		292,
+		198,
+		29,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부면",
+			"ingre_count": "2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "검정깨",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "오징어먹물",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "검은콩두유",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 두부면은 흐르는물에 한번 씻어주세요",
+		"2. 양파는 채썰어주세요",
+		"3. 양송이버섯도 채썰어주세요",
+		"4. 마늘은 다져주세요",
+		"5. 올리브오일을 두르고 양파를볶아주세요",
+		"6. 양송이도 같이 넣고 갈색이 될때까지 볶아줍니다.",
+		"7. 갈색이 나면 맛술을 넣고 한번더 졸여주세요",
+		"8. 소금,후추로 간을해주세요",
+		"9. 진한갈색이 되었을때 버터와 마늘을 넣고 볶아주세요",
+		"10. 버터가 다녹으면 생크림을 넣어주세요",
+		"11. 두유도 넣어주세요",
+		"12. 오징어먹물도 넣어주세요",
+		"13. 한번 끓으면 파슬리를 넣어주세요",
+		"14. 두부면을 넣고 잘 섞어주세요",
+		"15. 검정깨를 넣고 잘섞어서 마무리하시면 됩니다",
+		"16. 기호에따라 날치알을 올려주세요",
+		"17. 빵과 샐러드를 곁들이면 더욱더 맛있습니다",
+		"18. 완성입니다^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/ce4268e6d550fbac7989302e873e7c5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/9e21713be34f2e29b376ef82ddeb643d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/8bb47a6e714402a8f811f471d3a83dd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/482d6492d060f97623ab01fdace3cf651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/c6cb376e948e84f0836b73cd658534d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/b0164ad77a80ed2834ae4370ac8233651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/cd991e42c0dac1962bf362398bfd6e5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/f12a6a437f6e7aaa620a5dc3d4c160d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/913f7d08f11bc38ddf66d4804620d06b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/d6955564a9e274e98c845ba3dcd645871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/c10a7b9157ddc3719edd34f434d17b081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/c4c0cb59573b32b28d614892f206a3001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/e1cd10c164f1385fc803e5834634f1e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/d0905331170500c034b1c5d826f406651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/998a824fb4791c087e066615ba3c5c2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/ccd6905dfaeeaebd4b587cabbe7cdcfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/57abb29828ae8cb5e95d9466e8353fc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/31ab4a6fce9bfe747f50fb477f724ad21.jpg"
+	]
+}

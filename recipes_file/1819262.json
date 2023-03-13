@@ -1,0 +1,74 @@
+{
+	"id": "1819262",
+	"name": "김조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/c8098899b21cc2828e1f096583e777a8.jpg",
+	"url": "https://www.10000recipe.com/recipe/1819262",
+	"ingredient_ids": [
+		95,
+		995,
+		379,
+		575,
+		543,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금2꼬집정도",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집 정도"
+		},
+		{
+			"ingre_name": "채썬마늘",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "다진생강(생강가루)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 김 50g은 손으로 조금 크게 뜯어서 놔주시고, 마늘은 채썰어 주세요.",
+		"2. 참기름과 통깨를 제외한 조림양념을 넣고 부글부글 끓으면 언넝 김을 넣고, 섞어 주세요.",
+		"3. 물기가 없어지도록 강불에서 요렇게 저어주세요.",
+		"4. 조림 양념이 거의 없어지면 불을 끄고 참기름과 통깨를 넣어서 섞어주면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/cf6de6640e844413aabda6131227dd7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/d7a0356e4ad309a642906a325a7865031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/2aa9b9ee080e5240c67ca78d7fd7fb0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/ae7c85e050f85212c6fee40f4ec082421.jpg"
+	]
+}

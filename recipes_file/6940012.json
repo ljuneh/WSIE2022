@@ -1,0 +1,70 @@
+{
+	"id": "6940012",
+	"name": "[쉬운반찬]땅콩 콩자반~윤기나는 콩자반의 비밀은?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/b2b492e4573f318f53e1ed71afc111c51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940012",
+	"ingredient_ids": [
+		575,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "검정콩",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "햇땅콩",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "해바라기유",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1.  @6939845  햇땅콩을 삶아서 먹고 남은것을 까서 준비했어요 속껍칠채 조림을 하셔도 되지만 저는 찬물에 살짝 담구어서 불렸다가 속껍질도 벗겨주었어요",
+		"2. 검정콩을 준비후에 찬물에 비벼서 깨끗하게 씻어주신후 코팅이된 냄비에 넣고 물한컵반을 넣고 펄펄 끓여주세요",
+		"3. 검정콩이 불어나고 물이 절반으로 줄었다싶으시면 진간장을 넣어주세요",
+		"4. 껍질을 벗겨놓은 땅콩을 넣고 올리고당도 넣어주세요 *단맛은 취향껏 넣고 빼시고 하세요",
+		"5. 올리고당을 넣어 기본적으로 윤기가 나지만 굳지않고 더욱 윤기가 나는 저만의 비법은 바로 식용유 1작은술을 넣어주는거네요",
+		"6. 간장물이 거의 다 조려질만큼 섞어가면서 조려주시고 참기름/통깨를 넣어서 마무리해주시면 땅콩으로 한층더 고소해진 콩자반이 완성이 되네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/c1c2bb352687e98cc53dd3f15a5ec57a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/aa728c01b6309a5c684a449dbf9e0f441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/527f9cf16d4a69e162652af8abe31c261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/d2583d41fea45d51d5fa9eed57a4c6311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/6709ee0cfa30a2e04dfe033459a969cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/eb54a2bde48bf3d25caaaaf690c8347e1.jpg"
+	]
+}

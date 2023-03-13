@@ -1,0 +1,79 @@
+{
+	"id": "6924184",
+	"name": "과카몰리 레시피, 과카몰리 만들기, 아보카도 요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/12/29/67da59ec99be03004d3f63e85b0c051b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6924184",
+	"ingredient_ids": [
+		162,
+		3,
+		29,
+		133,
+		497,
+		717
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "토마토小",
+			"ingre_count": "1",
+			"ingre_unit": "게"
+		},
+		{
+			"ingre_name": "라임",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고수",
+			"ingre_count": "",
+			"ingre_unit": "선택사항"
+		}
+	],
+	"recipe": [
+		"1. 양파는 볶음밥에 들어가는 크기로 잘게 다진 후 찬물에 30분간 담가 매운맛을 빼주세요.",
+		"2. 마늘은 칼로 곱게 다져주세요.다진 마늘보다 막바로 다진 마늘을 사용해야 맛이 좋습니다.",
+		"3. 토마토는 속 씨를 제거하고 양파와 같은 사이즈로 썰어주세요.씨를 제거하지 않으면 물기가 나와 좋지 않아요.",
+		"4. 아보카도는 세로로 칼집내고 양손으로 비틀어 2등분내고 칼로 씨를 찍어 살짝 비틀면 씨가 제거됩니다. 그리고 손으로 껍질을 제거합니다.반드시 부드럽게 잘 숙성된 아보카도를 사용합니다.",
+		"5. 아보카도는 주걱이나 포크로 부드럽게 풀어주세요.",
+		"6. 소금, 후추로 간을 맞춰주세요.",
+		"7. 양파는 1차로 체에 받쳐 물기를 빼고 키친타올로 물기를 완전히 제거합니다.",
+		"8. 으깬 아보카도에 양파, 마늘, 토마토를 넣고 섞어주세요.",
+		"9. 마지막으로 라임즙을 넣고 가볍게 섞어 완성합니다.라임 대신 레몬으로 대체 가능하고 레몬도 없을 경우 식초도 가능합니다. (맛은 덜함, 사과식초 추천)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/29/e1973ce47c17e8e3b69baee814b5b3491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/29/9ddefb892aec5d065a9b8accd1c11c451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/29/d3a95597e8b7e92e9d03d840464679d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/29/438fb7c4277a0facbffa390cc15a54041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/29/e3f8059f919ce12bbc207e956c026c191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/29/36e928df7e9faedf3897fe9ee329e76d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/29/1a964d3011fb76428a852053381cfe931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/29/02df7b356cd201f29875fdc87993e5c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/29/505b3787f5231cdbd0b3f8d92937a29f1.jpg"
+	]
+}

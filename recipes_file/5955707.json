@@ -1,0 +1,37 @@
+{
+	"id": "5955707",
+	"name": "민어매운탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/79c791f30d56a598bfa839432730a1591.jpg",
+	"url": "https://www.10000recipe.com/recipe/5955707",
+	"ingredient_ids": [
+		345,
+		848
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "민어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 민어는 비늘 벗기고 지느러미 정리하고 옅은 소금물에 씻어주면 됩니다. 오늘은 매운탕 끓인다고 한마리 꺼내 먹기 좋은 크기로 잘라주었어요.",
+		"2. 국물맛을 시원하게 해줄 무우 준비했구요. 칼칼한 맛을 위해 청고추, 홍고추 그리고 대파와 두부를 준비했어요.",
+		"3. 냄비에 물을 붓고 무를 넣어 끓여주세요.",
+		"4. 된장 1작은술 투하~ 된장 푼 육수가 끓으면 민어를 넣어주세요.",
+		"5. 고춧가루 넣고 마늘과 생강즙넣고 생선요리니까 후추도 넣어주는 센스~ 그리고 간은 소금으로 맞춥니다. 민어가 익어갈 때 쯤 두부와 준비한 야채를 넣어주고 보글보글 끓여주면 단백하고 시원하고 칼칼한 민어매운탕 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/a1abcd8d618347a2d73a35743f3a7c941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/95c701334e5eaf15ae38c9eb9cee73211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/66d8f732a3afcce305598676a545eed11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/00637d6403ebd47fda2fb5930f36a0cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/92a2aa1751a1d518fb95afcec40d75601.jpg"
+	]
+}

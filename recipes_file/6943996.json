@@ -1,0 +1,61 @@
+{
+	"id": "6943996",
+	"name": "머쉬마루버섯 호박부추전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/9f3ea55f0e8846447a3e0864d0d4f3ff1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943996",
+	"ingredient_ids": [
+		325,
+		30,
+		387,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "머쉬마루버섯",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "여유있게"
+		}
+	],
+	"recipe": [
+		"1. 호박,머쉬마루버섯 어슷하게 썰어 준비해주세요",
+		"2. 부추도 3등분으로 잘라 준비해주세요",
+		"3. 부침가루한컵(300ml) 물 조금씩 추가하면서  농도맞춘후 준비한 호박 부추넣고 요리하고 남은 홍고추도 넣었어요 부침가루 얇게 부쳐야 맛있어요~",
+		"4. 예열한팬위에 여유있게 기름두르고 호박 ,부추위에 머쉬마루버섯 올려주고~",
+		"5. 식용유는 여유있게 넣어야 맛있어요~",
+		"6. 쫄깃하고 아이들도 좋아하는 머쉬마루버섯~ 다양한 요리에 잘 어울려요~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/a3f9a24a32f5d8f86c77a8844d5048ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/489fd4bc5988417276428ae73da645e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/2cf0f8dce641644c05bc7950f3ebe6df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/9fdaccbd2c9d8e2812838ef6e18f07301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f25505e42748202cc653188f84481e061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/52e713858d191dc7fe8f14eba0eee9b91.jpg"
+	]
+}

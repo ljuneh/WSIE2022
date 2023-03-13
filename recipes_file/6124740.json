@@ -1,0 +1,69 @@
+{
+	"id": "6124740",
+	"name": "유부김밥만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/ed2f841d32b7d3d756d0735481aca2d31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6124740",
+	"ingredient_ids": [
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "사각유부",
+			"ingre_count": "20",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "불고기양념",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물1컵(종이컵1컵)",
+			"ingre_count": "1컵(종이컵 1컵)",
+			"ingre_unit": "컵(종이컵 컵)"
+		}
+	],
+	"recipe": [
+		"1. 유부는 끓는 물에 살짝만 데쳐준 후 물기를 꾹 짜주었어요.",
+		"2. 그리고 이렇게 쓱싹~ 0.5cm 두께로 채썰어 줍니다.",
+		"3. 볶음팬에 썰어 낸 유부를 넣고 불고기양념과 물을 넣어 바글바글 한소끔 끓인 후",
+		"4. 끓기 시작하면 바삭바삭하게 될때까지 볶아주세요.",
+		"5. 밥에 소금과 참기름, 참깨를 넣어 골고루 잘 섞어 줍니다.",
+		"6. 깻잎과 단무지, 우엉조림과 계란지단, 그리고 유부볶음이네요.",
+		"7. 김밥위에 김을 올리고.. 그 위에 2/3가량만 밥을 깔아 줍니다.",
+		"8. 그리고 깻잎을 깔고 계란, 우엉, 단무지, 유부를 넉넉히 넣어 돌돌 말아 주세요.",
+		"9. 완성된 김밥은 곱게 먹기 좋게~ 썰어 주셔야지요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/5768187c3e8864d8cff7ec2d6e1f8a3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/7f99d503504b50d332e47253c5712e161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/690e4b4b14f90186482ff0c6f99adfbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/a5bfb63e61d1c007649e56da8dd9cc4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/64322a61a78d80ad0e8eb10758a1216c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/f0a47471d13efdc5186b03cbf0f90d281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/692ce7adfee0de8008e9e2f7b0d892851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/81db012deaa6c980c8983853d5c40ea41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/27/ba2201b27e3783720e3cfd9285e23bd71.jpg"
+	]
+}

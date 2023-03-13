@@ -1,0 +1,53 @@
+{
+	"id": "6942850",
+	"name": "10분이면 끝나는 부대찌개 feat. 다담부대찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/5bec52a8288bcba4dddedf17079bc0a81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942850",
+	"ingredient_ids": [
+		628,
+		3,
+		953
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "햄",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다담부대찌개양념",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 부대찌개 들어갈 재료를 준비해주세요.",
+		"2. 햄, 김치, 파, 양파를 적당한 크기로 썰어주세요.",
+		"3. 사골육수를 부어주세요. 사골육수나 체다치즈나 통조림콩은 있으면 쓰고 없으면 생략해도 괜찮아요.",
+		"4. 보글보글 재료가 먹기 좋게 익을 때까지 끓여요.",
+		"5. 다담양념장으로 따뜻한 국물 요리 뚝딱 만들어서, 맛있게 드세요.^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/75a7028c7d7577600e12391de5d3e5d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/4e3e337c5357679353c2ee543405b0701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/14cbe00b41a030f2e0b6c62be888ed6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/a4c616f55da83e14f7398d5f5bad3f591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/12e4822cce9f2d7d3cc492a1c4c920b01.jpg"
+	]
+}

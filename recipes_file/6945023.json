@@ -1,0 +1,87 @@
+{
+	"id": "6945023",
+	"name": "담백하게 맛있는 '일본식 닭고기 우엉 냄비밥'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a657f0eb22e941cecf770242160835441.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945023",
+	"ingredient_ids": [
+		126,
+		26,
+		53,
+		379,
+		746,
+		343,
+		231,
+		455
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭고기",
+			"ingre_count": "1",
+			"ingre_unit": "덩이"
+		},
+		{
+			"ingre_name": "우엉",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "당근1개or반개",
+			"ingre_count": "1",
+			"ingre_unit": "개 or 반개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쌀300ml한컵",
+			"ingre_count": "300",
+			"ingre_unit": "ml 한컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "쯔유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 쌀은 먼저 씻어 20분간 불린 후, 채에 받쳐 물기를 빼놓는다. t쌀 불리는 동안 닭,채소 손질을 하면 시간이 절약돼요. ",
+		"2. 닭고기는 한입크기로 잘라 간장2T,미림1T,생강가루 톡톡 뿌려 밑간해 잠시 재워놓는다.",
+		"3. 표고버섯은 얇게 썰고, 우엉과 당근은 껍질을 수세미로 문질러 씻어낸 후, 연필깎는 것 처럼 썬다. (연필깎기가 어렵다면 길게 채썰어도 좋아요)우엉을 도마에 뉘여놓고 한쪽으로 비스듬이 깎아내면(사진)연필깎듯이 깎기 쉽다.표고버섯은 생략가능",
+		"4. 깎아낸 우엉은 식초3T섞은 물에 담가놓아 떫은 맛을 뺀다. 약 10분",
+		"5. [양념물] 쌀과 동량의 양념물을 만든다. 간장1T+ 미림1T+ 쯔유2T+ 나머지 물 (총300ml) 쌀을 펐던 동일한 컵으로 양 맞추어도 좋아요 양념물+채에 물을 뺀 쌀을 냄비에 담고 그위에 우엉,당근을 넣고, 재운닭과 양념, 맨위에 표고버섯을 놓는다.",
+		"6. [냄비밥 짓기] 1)냄비 뚜껑 닫고 강불로 가열 2)뚜껑사이로 김이 나고, 물이약간끓어넘치면(사진) 약불로 줄여 2분 3)중불로 다시 불을 올려 10분 누룽지를 먹고싶다면 살짝 탄내가 날때까지 가열 4)약불 5분 5)불을 끄고 뜸 3분 [전기밥솥으로 짓기] 밥솥으로는 위와 동일한 순서로 넣고 '잡곡취사' 하세요",
+		"7. 뜸이 다 들었다면 참깨 솔솔뿌려 주걱으로 잘 섞어서 냅니다. tip) 우엉밥은 섞어서 퍼서 내도 좋지만 식탁 위에서 식구들이 보는 앞에서 김 모락모락 바로 섞어서 서빙하면 눈과 입이 모두 즐겁답니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/780cfad7eb15df4a342c16d39d31e7e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/4dae8d1ca2fba163e83560e09e0b95e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/37f3de4784cfc142d5d3fedb6294b4771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a44da568b32f2f6eb9850f829ff3a1221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/7adfbc90ce3dac197177134c3ad53b8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/12473b867d2876aa84855da0a32d80081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/470522bfeaff4e2ed7b5411493c0f6a41.jpg"
+	]
+}

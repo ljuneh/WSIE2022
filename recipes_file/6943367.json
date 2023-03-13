@@ -1,0 +1,78 @@
+{
+	"id": "6943367",
+	"name": "돌나물무침-상큼한 돌나물 요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/93b1fde9c3aec6eb7a3c580fd18162891.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943367",
+	"ingredient_ids": [
+		999,
+		233,
+		295,
+		379,
+		224,
+		231,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돌나물",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 먼저 돌나물을 물에 살살 씻어서 물기를 빼준다",
+		"2. 돌나물 줄기 끝 지저분한 부분도 깨끗하게 다듬어준다",
+		"3. 다진대파1T,다진마늘1t을 준비한다 청양고추1/2도 다져준다",
+		"4. 돌나물무침 양념장 간장2T,고춧가루1T,식초1T를 섞어준다",
+		"5. 준비해둔 다진대파1T,다진마늘1t,다진청양고추를 넣고 섞어준다",
+		"6. 돌나물에 양념장을 넣고 무쳐준다",
+		"7. 상큼한 돌나물무침 만들기 어렵지 않죠~",
+		"8. 돌나물무침 완성입니다~~ 아삭하면서 새콤하니 입맛을 돋우는 돌나물무침~ 밥에 된장찌개,돌나물무침을 넣고 비벼서 먹어도 맛있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/32ed66b3963d17c65d046667af76288f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/278cb622264d2ba1bbd5f44519134cff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/beca12d02463ec9d4a635091821e73c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/dbe74ca77925312060683e5d34422f951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/21d7ae0dc866adb36e7165de199dc69f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/dcaff14d4803ebf64590c90541e7b6671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/bc58c81200df047d3fff35bd3ee7648d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/7da96c253d4215afdf2ecfe42e45272d1.jpg"
+	]
+}

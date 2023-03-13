@@ -1,0 +1,102 @@
+{
+	"id": "6943258",
+	"name": "만두만드는법 만두국까지 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/e840faab2afbe4086770989dc5e9d9011.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943258",
+	"ingredient_ids": [
+		487,
+		30,
+		27,
+		28,
+		497,
+		660,
+		543,
+		320,
+		995,
+		853
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "숙주나물",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "7",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "12",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "2",
+			"ingre_unit": "TS"
+		}
+	],
+	"recipe": [
+		"1. 1, 재료를 준비합니다",
+		"2. 2, 모든재료를 잘게 곱게 썰어주고 숙주는 살짝 데치고요 그런다음 두부와 김치를 면보에 꼭 짜주세요. 돼지고기에도 수분이 많아요 키친타올로 물기를 제거합니다.",
+		"3. 3,모든 양념을 넣어야해요 재료들을 큰 볼에 옮겨담고요  마늘과 통께 참기름 후추 소금 생강 갈은거랑 다넣고 잘 섞어줍니다.",
+		"4. 4,만두피는 2팩정도면 가능합니다 왕만두피를 준비하고 만두를 빚어 줍니다.",
+		"5. 5, 육수는 멸치를 넣고 15분 끓인후에 멸치를 건져내고 다음 맛간장과 사골육수 한봉지를 넣습니다.간마늘 반스푼넣고요. 만두를 넣어서 5분끓여주면 완성입니다. 기호에 따라 대파와 계란지단을 추가해서 완성합니다.",
+		"6. 6, 이렇게 맛있게 끓여주고 계란지단을 올려줍니다. 완성되었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/80c1c3741d96dac11958ba846111cc551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/8efd716449bd33a237614ae1b69acd211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/8d988c1409f0facae267900bbb593c541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/19494a14bb3dfb56b257cc47daa339d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/adcd4b550f5e4845cd5270090f7f3ac71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/808f2b02f9cf6e7e691de5323479823c1.jpg"
+	]
+}

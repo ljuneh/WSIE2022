@@ -1,0 +1,106 @@
+{
+	"id": "6945744",
+	"name": "간단하고 쉽게 만들어도 맛은 최고! 푸팟퐁커리 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/5aad9622cc62ecf64f949bec3ca5e7ed1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945744",
+	"ingredient_ids": [
+		734,
+		504,
+		3,
+		995,
+		722,
+		198,
+		29
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "칠게",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "코코넛밀크",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고수씨",
+			"ingre_count": "",
+			"ingre_unit": "미량"
+		},
+		{
+			"ingre_name": "강황가루",
+			"ingre_count": "",
+			"ingre_unit": "미량"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 칠게를 씻어 체에 받칩니다",
+		"2. 칠게를 튀김니다",
+		"3. 웍에 버터 양파 마늘을 넣고 볶습니다",
+		"4. 볶다가 가루 재료들을 넣고 볶습니다",
+		"5. 물과 코코넛밀크를 넣고 끓이다 튀긴 칠게를 넣습니다",
+		"6. 계란물을 붓습니다",
+		"7. 계란이 익으면 그릇에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/52b6d1fbad2a2f678e15cca2f745d12b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/60c5e36ce13c145027b343136b5d08051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/3b84078a8ab278cb7dd0f2bd6428fdc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/a480bf2dcac58e535f8dc81f1f5bbbf21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/80758b945686933f284f88ee841f7f8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/435a4caab9d7d015ef65a4174663577e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/37741bbe05cd1bdb6b5d27242de214f41.jpg"
+	]
+}

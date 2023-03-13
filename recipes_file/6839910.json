@@ -1,0 +1,90 @@
+{
+	"id": "6839910",
+	"name": "백종원 꽃게탕 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/f7e9b795f3a2c274d2e8b214efc8306d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6839910",
+	"ingredient_ids": [
+		480,
+		3,
+		34,
+		19,
+		31,
+		848,
+		473,
+		224,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "꽃게",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쑥갓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 육수 내기 무로 주로 내지만 집에 있는 각종 재료들을 넣고 푹 끓여주세요",
+		"2. 꽃게 비린내 안 나게 솔로 깨끗이 씻어주세요",
+		"3. 아가미떼고, 모래주머니 떼고, 불필요한 것들 제거해주세요",
+		"4. 채소들을 손질해주세요",
+		"5. 무가 말랑말랑 할때 된장풀고 게를 넣어주세요",
+		"6. 양념들과 양파, 파를 넣어주세요",
+		"7. 집에 해산물이 있어서 몇 개 넣어주고 고추랑 쑥갓 넣어주세요",
+		"8. 보글보글 끓여서 맛나게 드시면 되세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/f2d5a87bca77804c7772b1a0540af2841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/d6032a0d80346b4c0aa95d5549c329eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/17c30619574b1fbfe467a26b7e95c62d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/0d8bace9b1866b1b439e6f0e30b51ed81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/d16999003425ff865117c4be3b993af31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/431391590ea732c5bb2655fdef4405701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/7e20bf3c08be37e82c76a8cfbfe33cc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/71b721a40db9326cf3ff73217248589a1.jpg"
+	]
+}

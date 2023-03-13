@@ -1,0 +1,61 @@
+{
+	"id": "6942739",
+	"name": "여름 끝 - 깻잎 꽃대 부침개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/a79162cb0c173557c4a9c5e031150e2c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942739",
+	"ingredient_ids": [
+		295,
+		387,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎꽃대와잔가지깻잎",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금1/4작은술",
+			"ingre_count": "1/4",
+			"ingre_unit": "작은 술"
+		}
+	],
+	"recipe": [
+		"1. 깻잎과 꽃대는 물에 헹궈 먼지등을 씻어 낸 후 체에 받쳐 물기를 빼 줍니다. 고추와 파도 물에 씻어 주세요.",
+		"2. 고추와 파를 썰어 준비합니다.",
+		"3. 볼에 썰어 놓은 파와 고추",
+		"4. 물 뺀 깻잎 꽃대를 넣어 줍니다.",
+		"5. 부침 가루를 넣고 버무리 듯 섞어 줍니다.",
+		"6. . 분량의 물을 넣어 다시 버무리듯 섞어 줍니다.",
+		"7. 달군 팬에 기름을 넉넉히 두르고 노릇하게 부쳐 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/fed1bf2d9cce68378d36368e386b06fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/782c8b972f0c0840e1de349fb58584381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/f3fde12cf8090d7b3598d2b20f2edd6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/39dd98c580c24d01985ec49f29a34bd51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/1378a53e60e051aaa135299d0d34c5941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/5bd2d83239943baf2c4b1bec6a8f10221.jpg"
+	]
+}

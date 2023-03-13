@@ -1,0 +1,55 @@
+{
+	"id": "2562641",
+	"name": "감자국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/793d9cbcae65a2396409a71d78389a1a.jpg",
+	"url": "https://www.10000recipe.com/recipe/2562641",
+	"ingredient_ids": [
+		5,
+		27,
+		3,
+		325,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 밥공기로 한 3공기 반 정도 분량의 물을 넣고 다시마 넣고 . 국물을 우려내주세요",
+		"2. 마늘은 다지고 호박, 감자, 양파는 같은 사이즈로 자른다.",
+		"3. 다시마 국물이 팔팔 끓으면 멸치액젓 한숟가락 반을 넣어주세요",
+		"4. 여기에 딱딱한 감자랑 버섯, 그리고 대파, 마늘을 넣어주세요",
+		"5. 감자가익으면 호박과 양파를 넣어주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/7e83aa7d29d43c5efd9dac482efd3be01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/203064efbcc5b34d5bab7dfe887380511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/8b3647545fcf2017729c5e388b4ae55c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/bf224b6af4d1e5ede3934110c5564c7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/c781161273e17b2b8cfb2e05720c294d1.jpg"
+	]
+}

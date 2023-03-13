@@ -1,0 +1,81 @@
+{
+	"id": "6851131",
+	"name": " 멸치 고추장 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/15/edca28711f962e46eb1ca92aa4d914741.jpg",
+	"url": "https://www.10000recipe.com/recipe/6851131",
+	"ingredient_ids": [
+		3,
+		27,
+		504,
+		29,
+		579,
+		938,
+		473,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "큰멸치",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "볶은참깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 건멸치는 팬에 2~3분 볶아 줍니다. (기름은 넣지 않습니다.)",
+		"2. 양파는 다지고.대파는 송송 썰고, 마늘도 다져서 식용유를 두른 팬에 넣고, 양파가 투명 해질때까지 볶아줍니다.",
+		"3. 멸치와 분량의 양념을 넣고 볶아줍니다.",
+		"4. 참기름과 볶은 참깨를 넣고 섞어 주고 불을 끕니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/01e2a82abbb07de47142468f8bd32d861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/7ec57053b37c88ef9ef75c3472e4efa51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/04a87fe810aa55762d25e20d591a5dbe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/16/807822e1984c0451db5d5a633eafc5641.jpg"
+	]
+}

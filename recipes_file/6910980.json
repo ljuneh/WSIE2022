@@ -1,0 +1,63 @@
+{
+	"id": "6910980",
+	"name": "카페 부럽지 않은 '베이컨에그토스트'!식빵으로 쉽게 만들기!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/22/9146f627a14df9e2e83ab8395ad874741.jpg",
+	"url": "https://www.10000recipe.com/recipe/6910980",
+	"ingredient_ids": [
+		503,
+		406,
+		214,
+		492
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "딸기잼",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 식빵과 치즈를 한 장당 이등분 해서 각각 4조각씩 만들어요.",
+		"2. 식빵 한쪽면에 딸기쨈->치즈 순으로 놓고 다른 식빵 조각을 덮어 줍니다.그 다음 베이컨으로 식빵 겉면을 돌돌 말아줍니다.",
+		"3. 계란을 깨서 파슬리 가루와 섞어줍니다.소금간은 따로 하지 않았습니다",
+		"4. 계란물로 샤워 해 줍니다.",
+		"5. 달궈진 팬에 올리브유를 두르고 식빵 앞면, 뒷면, 옆면을 노릇노릇하게 골고루 구워 줍니다.",
+		"6. 쨔자자자잔!!! 베이컨에그토스트 완성입니다.",
+		"7. 한입 먹어보니 달달한 딸기잼과 고소한 치즈, 계란, 베이컨 조합이 넘나 맛있더라구요.정말 커피에다 맛있는 토스트 먹고 있으니 카페가 부럽지 않더라구요ㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/22/0d0c3fac7ef2de1cc25dee3d42c77fc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/22/ae4fb9ab3cfe0c556eb57856e363f49f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/22/a2fe690175dfca2c68f92215cbb5c02f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/22/7f0c2f3a3a1f20e2803c171941d7f3a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/22/a9a787d00042d621865132f5b71a61ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/22/09740d20d8c89d405eb24970caaab5da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/22/9539e5468ec6b92c49c3c3e2f35c17181.jpg"
+	]
+}

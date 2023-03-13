@@ -1,0 +1,49 @@
+{
+	"id": "6710009",
+	"name": "쑥버무리 (쑥털털이) ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/4be62772079fb64c6195de22bf77b2c91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6710009",
+	"ingredient_ids": [
+		226,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쑥크게",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "멥쌀가루4숟갈(듬뿍)",
+			"ingre_count": "4숟갈(듬뿍)",
+			"ingre_unit": "숟갈(듬뿍)"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 쑥은 깨끗하게 먼저 다듬어 주신뒤 씻어서 물기를 빼놓습니다.",
+		"2. 볼에 쑥을 넣고, 수북하게 멥쌀가루를 듬뿍 4숟갈을 채에 내려주세요. 밀가루로 하셔도 되고요. 멥쌀가루로 하셔도 되는데, 떡 느낌으로 먹고 싶어서 멥쌀가루를 사용했어요.",
+		"3. 설탕과 소금을 넣어줍니다. 좀 달달하게 드시고 싶으시면 설탕을 더 넣으셔도 돼요.",
+		"4. 찜기 위에 찜시트를 깔고, 쌀가루에 묻힌 쑥을 소복하게 올려주세요,",
+		"5. 냄비에 물이 팔팔 끓어서 김이 오르면 찜기를 얹어 주세요. 이대로 20분 쪄줍니다.",
+		"6. 향긋한 쑥향이 솔솔 쑥버무리 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/9111192865a6acfc3875f5e7318aa9621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/1509641db0761b22ad77d3fee0fb4bd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/d95078320ebc26f3459c48ff71ed3ca71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/8423c974c51a1497b32152f7023171621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/2250b5659151eaaccc690212bb3dde421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/e95b7fe701a73ad4d95b3f796840d1e41.jpg"
+	]
+}

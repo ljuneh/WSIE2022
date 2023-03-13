@@ -1,0 +1,65 @@
+{
+	"id": "6944034",
+	"name": "달임장만 넣은 초간단 '마늘종장아찌'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/c2bf3775aa953b468916b961e9a064cb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944034",
+	"ingredient_ids": [
+		899,
+		379,
+		231,
+		226,
+		292,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘종",
+			"ingre_count": "11",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비",
+		"2. 마늘종은 깨끗하게 씻어 새끼손가락 마디 정도로 썰어 준비합니다.",
+		"3. 간장/설탕 1컵, 맛술 1/3컵과 물 1.5컵을 넣고 잘 저어 녹인 다음, 끓여 줍니다.",
+		"4. 끓어오르면 불을 줄이고, 식초 1컵을 붓고 약 1분간만 더 끓여 줄게요~",
+		"5. 열탕 소독한 병에 마늘종을 담아,",
+		"6. 뜨거운 달임장을 붓고 식힌 다음,",
+		"7. 꽈악~ 밀폐해 주면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/972f33c0deb10db4726d0b19bfc257f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/2667b48e646cf61a809b955676573bc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/a797bdcbb0fe63fec7a8df37f78e07f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/575d71866d5fc2bb23cf3c8a8cdb78701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/62834afbb8417f9624d9b6755fda6c9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b049660114446327e7e60e824ced45581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/7ee3cae55ee4bcf18ded3b80a33213f71.jpg"
+	]
+}

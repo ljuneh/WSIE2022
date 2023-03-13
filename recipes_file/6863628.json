@@ -1,0 +1,48 @@
+{
+	"id": "6863628",
+	"name": "돼지고기김치찌개 이렇게 끓이면 맛있다",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/07/b228fdbab0c43d558527bf2ea24279931.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863628",
+	"ingredient_ids": [
+		953,
+		295,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지고기(찌개용)",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 청양고추는 어슷썰어 준비해줍니다  김치도 적당한 크기로 썰어주세요청양고추칼,도마",
+		"2. 먼저 돼지고기를 뚝배기에 볶아주세요  저는 뚝배기에 끓였어요  냄비에 끓이신다면, 냄비에 볶으세요돼지고기 찌개용나무주걱, 뚝배기돼지고기,소고기는 다 익어갈때 쯤 다른 재료를 넣어 볶으세요. 그래야 비린내가 안난답니다 ",
+		"3. 고기가 다 익어갈때 쯤, 김치도 넣고 볶아주세요김치, ",
+		"4. 물 400ml를 부어주세요물400",
+		"5. 국물이 충분히 쪼그라들고, 팔팔 끓였다면 청양고추를 넣어주세요청양고추"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/07/3222f52df41c1a67fe844888bbbdc6b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/07/f94a6b6dca18cfc4c7e3ea03aaf973b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/07/50e6aa87308dc02f32e88eee039ad02c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/07/d32a7803bb223e3653054f3f3aeabca11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/07/00a123b2b9b721b3465b02b667e2dbbd1.jpg"
+	]
+}

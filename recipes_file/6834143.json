@@ -1,0 +1,88 @@
+{
+	"id": "6834143",
+	"name": "아내를 위한 아구찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/e9c3cdca81b0383e2d3e9304417014a41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6834143",
+	"ingredient_ids": [
+		47,
+		27,
+		20,
+		3,
+		226,
+		660,
+		292
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "아구1키로(대략)",
+			"ingre_count": "1키로(대략)",
+			"ingre_unit": "키로(대략)"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미더덕또는만둥이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 아구는 된장 반수저 정도 넣고 미리 삶아 놓는다",
+		"2. 냄비에 아구, 콩나물 ,대파를 넣고 두껑을 닫은후 끓기 시작하면 두껑을 열고 다데기 넣어서 잘 섞이도록 버무린다",
+		"3. 농도는 찹쌀이나 전분으로 맞춘후  미나리,버섯등은 나중에 넣어서 버무린다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/c741b35b60943a132e0aa0b111e27c171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/92a7213d6bed0faa1f2e9dc53849813c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/640db72e93cd8b004a81c794f780d3381.jpg"
+	]
+}

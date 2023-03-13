@@ -1,0 +1,39 @@
+{
+	"id": "6942216",
+	"name": "정식품 콩국물로 만드는 아이스콩라떼",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/86d977d100d6e377b7e1cd4fde43e80f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942216",
+	"ingredient_ids": [],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "정식품진한콩국물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "아이스커피믹스",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "잘게부순얼음",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 정식품 진한 콩국물 200ml와 아이스 커피믹스2개를 물통에 넣어 주세요.",
+		"2. 마구마구 흔들어줍니다. 커피가 모두 녹을때까지요.",
+		"3. 투명한 잔에 얼음을 적당히 채우고",
+		"4. 콩라떼를 부어줍니다.",
+		"5. 커피의 달콤 씁쓸함과 정식품 콩국물의 진한~ 콩맛이 섞여 든든하면서도 맛과 영양 모두 사로잡은 콩라떼가 완성되었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/a0d71547bd9ebf22968549d91922da8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/fb39dc89b54e92ec4fcf156ebe95c61e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/8f3de2925dcb2add2635fc073d114f081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/314c6c3bcddcb74f63d04918ea24034b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/655a728beaaca4aa1435f053b30792b51.jpg"
+	]
+}

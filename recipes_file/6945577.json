@@ -1,0 +1,100 @@
+{
+	"id": "6945577",
+	"name": "밥솥 애호박 고추장찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/fb140900357c49fd2a41b7388051c7b81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945577",
+	"ingredient_ids": [
+		7,
+		5,
+		3,
+		53,
+		996,
+		995,
+		473,
+		848,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "250",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 밥솥에 물250ml(머그컵 1컵) 붓고 멸치가루 1T, 표고버섯 2개 썰어서 불릴 겸 먼저 넣어주세요",
+		"2. 고추장1T, 된장 1/3T, 진간장 0.5T, 고춧가루 1/3t, 멸치가루 1T넣고 풀어주세요",
+		"3. 감자 1개를 깍둑 썰기로 작고 네모나게 썰어주고",
+		"4. 양파 1/4개도 깍둑썰기로 썰어주세요",
+		"5. 썬 감자와 양파를 모두 넣고 재가열 9분 해주세요",
+		"6. 애호박 250g 썬 것, 다진파 한줌 넣고 저어준 후 재가열 9분 해주세요",
+		"7. 완성이에요",
+		"8. 맛있게 드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/40a98b2b68e65f9f0b20e108c162de271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/b3a5f6ce66ccdfccb59130821a535d741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/899daa6867be09e9111ad061457c0ed51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/bb6db5af0083175ce0ef91496504e19b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/18f89e0daa5680d5b720a675cc314d791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/a8befa55cdf38178a2219756849cb5fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/85947f9625d2f3bf672e33d9ce7717301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/52fa13fb7607f7697769c059bc35a4731.jpg"
+	]
+}

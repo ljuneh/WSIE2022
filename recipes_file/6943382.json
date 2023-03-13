@@ -1,0 +1,44 @@
+{
+	"id": "6943382",
+	"name": "팬케이크를 우유에? 미니미니한 초코팬케이크시리얼 만들기 ♥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/b3d1a00a13e16a251dfdd11f5eefab131.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943382",
+	"ingredient_ids": [
+		219
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "초코핫케이크가루",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 볼에 달걀을 푼 후 우유, 핫케이크가루를 넣어 섞는다.",
+		"2. 짤주머니에 반죽을 넣는다.                     \r                             짤주머니(14인치/20매입)                          ",
+		"3. 팬에 기름을 약간 두르고 키친타월로 닦아낸 뒤 동전 크기만하게 짜준다.                     \r                             네오플램 피카 프라이팬                          ",
+		"4. 약불로 노릇하게 익혀 완성한다.기포가 고르 생기면 뒤집어요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/de6d02dcc0db343b955e51d4654956ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/b1d578f9377063fca0499225b97ac1331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/c0e28668ed34689c6f5511413b5e0af41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/f4a4c5f19276825690313b85f2a7f8b81.jpg"
+	]
+}

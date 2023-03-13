@@ -1,0 +1,36 @@
+{
+	"id": "6787878",
+	"name": "홍게 찌는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/67a2ed37550b17c54ef5aa481749bf191.jpg",
+	"url": "https://www.10000recipe.com/recipe/6787878",
+	"ingredient_ids": [
+		579
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "홍게",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 홍게는 손질법도 너무 간단하답니다. 수돗물에서 10~15분 정도 기절시켜서 찌면 짜지도 않고 맛있어진다고 해요. 입 쪽에 가위 넣어서 물을 빼주시면 됩니다.",
+		"2. 홍게는 스팀으로 찌는 방식으로 해야 맛있답니다. 찜기에 물을 넣고 홍게는 배가 위로 향하게 해야 내장이 흘러내리지 않는답니다.",
+		"3. 15분 정도 찌고 5분 뜸 들인 뒤 열어주면 된답니다. 홍게 향이 싫다면 소주나 청주, 맛술 넣어주면 좋아요.",
+		"4. 찜기에서 꺼낸 홍게를 쉽게 손질하는 방법은 홍게 다리 마디를 꺽으면서 빼주시면 살이 쏙 빠집니다.",
+		"5. 살은 요렇게 따로 발라서 게딱지에 밥 비빌때 같이 넣어주면 맛있습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/9d1c18e59f4956d95312e6f03aba2dec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/7048fdb6d03c4a59d266c434df0ed9da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/6074c599b68add61eb356fa018cd0ba21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/43591bbfecaafdededc6f66eae00c0b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/111c1526f7bd25d7b82f5134629956b81.jpg"
+	]
+}

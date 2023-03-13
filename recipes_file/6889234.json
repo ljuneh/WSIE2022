@@ -1,0 +1,65 @@
+{
+	"id": "6889234",
+	"name": "오란다 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/05/20/1ffa9a85aff7a03d89ee58526df357771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6889234",
+	"ingredient_ids": [
+		341,
+		738,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "비정제설탕",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "8",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "포도씨유나버터",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "알알이",
+			"ingre_count": "170",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "구운아몬드",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 틀에 위생봉투를 넓게 펼쳐 씌워두고, 구운 아몬드는 적당한 사이즈로 잘라 준비합니다. 틀은 강정틀을 이용해야 하지만 강정틀이 없어 바트를 이용해 만들었어요. 바트나 적당한 크기의 사각 쟁반 이용하시면 될것 같아요.",
+		"2. 알알이는 계량해서 구운 아몬드와 잘 섞어둡니다.",
+		"3. 볶음팬에 물엿, 조청, 설탕, 물, 오일이나 버터 약간을 넣고, 설탕이 녹고 가운데까지 보글보글할 정도로 중불에서 끓여주세요. 물엿 대신 꿀도 괜찮더라구요. 꿀을 넣으면 좀 더 단맛이 강해지니까 꿀의 양을 조절해서 넣으시면 될것 같아요. 들어가는 물엿양이 30그램이면 꿀은 20~25그램에서 조절하시면 될것 같구요~ 다만 꿀을 사용하면 좀 끈적임이 생기긴 해요~ 참고하시면 좋을것 같아요. 조청은 일반 반찬에 사용하는 쌀엿 사용했어요. 버터나 오일 약간을 넣어주면 되는데 저는 오일 약간 사용했습니다. 시럽을 끓일때 많이 끓일수록 좀 더 단단한 오란다가 만들어지구요, 파르르 한번 끓고 바로 알알이를 넣어 볶으면 좀 더 촉촉한 오란다가 만들어집니다.",
+		"4. 시럽이 끓으면 약불로 놓고, 알알이와 아몬드 섞은 것을 넣은 다음 약불에서 주걱으로 잘 섞어줍니다. 어느정도 섞다보면 끈적이면서 실이 생기는게 보일꺼에요. 그 상태로 몇번 더 뒤적이다가 불을 끄고 몇번 더 뒤적인 다음,",
+		"5. 미리 준비한 팬에 담고 주걱으로 고르게 펴주세요. 그런 다음 위생비닐이나 종이호일을 위에 덮고 평평하게 눌러 모양을 잡아줍니다. 이때 너무 세게 누르면 알알이가 다 부숴지니까 살살 눌러 모양을 잡아주세요.",
+		"6. 모양잡은 오란다는 냉장실에서 식혀줍니다. 한김 식으면 칼을 이용해 적당한 사이즈로 잘라주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/20/4ee6b51c369acee6d0adf508e18f63351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/20/c5baa8c2644da7daf10b4f337e62b1391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/20/63c7494036e4646fc21494834ed675661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/20/e834639e7d1c9c5a720838d67edfde7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/20/26caddc2a5f90cc2179802ee55ecd5ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/20/3031c9f24318e653d62a07dfd6ccdee71.jpg"
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"id": "6854292",
+	"name": "떡꼬치 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/09/500316fab5981bf25bb405cc660267e91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6854292",
+	"ingredient_ids": [
+		473,
+		724,
+		226,
+		575,
+		233,
+		543,
+		972
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 떡은 물에 행궈서 한번 데쳐줘요~ 그래야 떡이 좀더 야들야들 하거든요~",
+		"2. 데친다음 꺼내서 식혀주시면 되세요~ 여기에 살짝 기름을 둘러서 섞으면 서도 덜 들러붙을 거에요~",
+		"3. 양념비율대로 양념장을 만들어주세요 이건 정말 짜지도 않고 달콤하니 맛나요^^ 아이들이 매운걸 못먹으면 고추장양을 조절하시면 될듯해요",
+		"4. 황금비율로 떡꼬치 소스를 만들었다면 이제 떡을 기름에 구워야겠죠~",
+		"5. 기름을 넉넉히 둘러주세요~ 떡을 기름에 튀기는건 절대 하지마시구요;; 저 예전에 그랬다가...정말 집 날라가는 줄알았어요..ㅠㅠ 아직도 그때 트라우마가...ㅋㅋ그래서 기름 조금만 튀어도 막 놀래자빠짐....",
+		"6. 저는 귀찮아서 다 구운다음에 꽂아줬어요~ 왜냐면..꼬치에 꽂은상태로 구우면 몇개 못하거든요...ㅋㅋㅋ 그래서...전 다한다음 꽂아줍니다..ㅎㅎ",
+		"7. 이렇게 다구워지면 꼬치에 꽂아주면 됩니다^^ 이제 아까 만들었 두었던 떡꼬치 소스만 쓱쓱 바랄주면 되겠죠~ 애들 간식 만들기 참 쉽죵~ㅎ 간식도 종류별로 만드는거 알아두면 좋을텐데...ㅋㅋㅋ 제 용량이 많이 저장이 안되는지라...ㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/09/3fde1193e9c844757609ad66e543b9f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/09/3c097f771316490f52ecc192c7f18afc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/09/bd6b378af2784e5a1e001fd31897c3d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/09/f939c2f3406b53b425277631f818573c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/09/93db90f717643bd25343f88d67788cbe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/09/01f078415aea503c5a781f57949775071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/09/05593eaf284b0d77e8a6382916c308fa1.jpg"
+	]
+}

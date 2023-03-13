@@ -1,0 +1,88 @@
+{
+	"id": "6930570",
+	"name": "[원팬,원볼] 게다가 노버터 인데 촉촉한 모카 컵케이크?! 가능해요!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/13cb4e21df2129fe3d236f1861e12a281.jpg",
+	"url": "https://www.10000recipe.com/recipe/6930570",
+	"ingredient_ids": [
+		226,
+		497,
+		373,
+		940,
+		469,
+		485
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹소다",
+			"ingre_count": "1",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란1개-",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "커피가루",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "따뜻한물",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "초코칩",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 볼에 계란 + 카놀라유 + 생크림을 넣고 저어 줍니다.  어느정도 섞이면 설탕, 소금을 넣고 섞어주세요.",
+		"2. 따뜻한 물에 녹인 커피를 넣고 섞어줍니다.",
+		"3. 박력분+베이킹파우더+베이킹소다를 체 쳐 넣고 섞은 뒤",
+		"4. 초코칩을 넣어 마저 섞어줍니다.",
+		"5. 유산지를 넣은 머핀틀에 반죽을 넣어주세요.",
+		"6. 180도 예열된 오븐에서 20-25 분간 구워 완성합니다. [오븐 사양에 따라 다르니 꼬지 테스트 해 주세요.]오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/a9ae3d083ee3c5af85442982214b974e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/7278084b53e4dbb43b37c830ea88ee981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/b08ebad9c221eb52ef850e8a9726d9881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/f67952010f96b408aac26686446a2b9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/8b85b4c99d9e415571ecf1b09375b7081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/56fc979bd6322dc52ee5eb9a897596881.jpg"
+	]
+}

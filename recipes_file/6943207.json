@@ -1,0 +1,78 @@
+{
+	"id": "6943207",
+	"name": "추석 별미 요리! 멈출 수 없는 젓가락질, 담백한 육전 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/5da831adfe38a85c5bc24dbcdde036ed1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943207",
+	"ingredient_ids": [
+		487,
+		219,
+		30,
+		234,
+		233,
+		504,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "480",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 달걀 3개를 넣고 휘휘 저어줍니다.달걀",
+		"2. 그 다음 잘게 썬 부추를 넣어주세요.부추",
+		"3. 그리고 후추소금 1/2 티스푼으로 간을 해주세요.후추소금",
+		"4. 볼에 돼지고기, 다진마늘 1큰술, 후추소금 1티스푼을 넣고 조물조물 해주세요.돼지고기(안심), 다진마늘, 후추소금볼",
+		"5. 그 다음 앞, 뒤로 밀가루 옷을 입혀줍니다.밀가루",
+		"6. 그리고 달걀 옷을 입혀준 후 팬에 기름을 두르고 중약불에서 부쳐주세요.달걀, 식용유팬중약불",
+		"7. 앞, 뒤로 노릇노릇하게 부쳐주고 나면 초.간.단 육전 완성입니다.",
+		"8. 짠!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/32bf4e34a6929428043066d09e2cea111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/326ff765623c8a853f03180c3e64bfee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/891f8a39bf83101b63e5da8961473b6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/2a5a6325b2993c6ccba36d8c1ae31c691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/b8c3e682db6db9f1022187f32929b46d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/ee42f9ee37c4bb9716bac2b8bfa70faa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/6f9a53d405d0efdf0a3a030bf31c3c561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/32ea064b3eb0a12ba1a135d46c57d7e61.jpg"
+	]
+}

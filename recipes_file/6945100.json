@@ -1,0 +1,97 @@
+{
+	"id": "6945100",
+	"name": "따뜻한 콘스프 레시피 콘스프 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/5557e98c53e4d31bf7e8745212a373d81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945100",
+	"ingredient_ids": [
+		104,
+		234,
+		198,
+		3,
+		212,
+		497,
+		702,
+		503,
+		198
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "옥수수",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "300",
+			"ingre_unit": "mL"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 채를 이용하여 밀가루를 걸러내 밀가루를 곱게 만들어주세요",
+		"2. 버터 1T를 냄비에 녹여주신 곱게 걸러준 밀가루를 넣고 빠르게 저어주어 콘스프의 밑바탕이 되는 루를 만들어주세요약불",
+		"3. 양파를 넣고 루와 함께 볶아주세요양파는 오래 볶아줄수록 단맛이 강해지기 때문에 타지 않는 선에서 최대한 오래 볶아주세요",
+		"4. 우유를 넣고 끓여주세요",
+		"5. 옥수수와 루를 믹서기에 넣고 양파와 옥수수의 건더기가 보이지 않을 때까지 콘스프를 곱게 갈아주세요",
+		"6. 갈아준 콘스프는 냄비에 부어주신 다음에 끓여주세요약불",
+		"7. 모짜렐라 치즈를 넣어주어 취향에 맞게 콘스프 농도를 맞춰주신 다음에 간이 부족하신 분들 한에서 취향에 맞게 소금을 넣어주어 간을 맞춰주세요",
+		"8. 완성된 콘스프는 예쁘게 플레이팅 해주세요 그리고 프라이팬에 버터 0.5T를 녹여주신 다음에 잘라준 식빵을 넣고 노릇노릇 볶아주어 크루통을 만들어 주세요",
+		"9. 크루통이 완성되었으면 완성된 콘스프와 함께 예쁘게 플레이팅 해주신 다음에 위에 후추와 파슬리를 뿌려주어 마무리해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/51a10a2c8095b936dcc6f291437186951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/eef877ba7a8dec50f7b49c9ba47205db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/293c47c38ef5d983e1f06ca4217027a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/600ee85b1d294d96b0260be02a921cdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/f5fd4d424b7cdfd0cae8b610fa7d3e7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/92d7ffb4a441807ff5edebc6bdb995231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/37b27758f9b151fe4af0b984f91c46921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/5a043f28b9268cbee8f7f18a79d51fa01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/375549abda0478702df81360b513d97d1.jpg"
+	]
+}

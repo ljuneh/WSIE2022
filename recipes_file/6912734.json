@@ -1,0 +1,61 @@
+{
+	"id": "6912734",
+	"name": "버섯으로 관자 느낌 내는 방법! 새송이버섯간장버터구이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/05/25/39ac1e73e998e88da300d38663242f0a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6912734",
+	"ingredient_ids": [
+		58,
+		198,
+		596,
+		379,
+		292,
+		575
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "어린잎채소",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 버섯의 밑동과 갓을 잘라낸 뒤, 3~4등분 한다",
+		"2. 자른버섯의 양면에 칼집을 낸다",
+		"3. 팬에 버터를 녹인다",
+		"4. 버섯을 굽는다",
+		"5. 불을 약불로 줄이고 소스를 넣고 졸인다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/25/795623fb17579da693e682704ad30b441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/25/19e5f0140872668cc49254099445ceae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/25/7b3328b32a80155737c6742d26d171f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/25/d395ea8eddf517c470f56319e857ad051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/25/932ffaf7fec36a6216183e43e8f361c51.jpg"
+	]
+}

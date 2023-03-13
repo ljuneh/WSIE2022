@@ -1,0 +1,86 @@
+{
+	"id": "6886799",
+	"name": "돌돌 말아서 한입에 앙♥롤팬케익",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/8129beb3db29c8d62796bec7d249c2cb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6886799",
+	"ingredient_ids": [
+		219,
+		226,
+		234,
+		373,
+		497,
+		198,
+		542,
+		485,
+		546
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다크초콜릿",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 달걀, 설탕을 넣어 거품기로 섞는다.",
+		"2. 볼에 밀가루, 베이킹파우더를 채에 쳐 넣고 우유, 녹인 버터를 넣어 거품기로 섞는다.",
+		"3. 예열된 사각 팬에 반죽을 얇게 올려 동그랗게 말아 굽는다.",
+		"4. 중탕으로 초콜릿을 녹인 후 생크림을 넣어 섞는다. 또는 전자레인지에 넣어 초콜렛을 녹인 후 생크림을 넣어 섞는다.전자레인지",
+		"5. 롤케익을 그물망에 올리고 녹인 초콜렛을 부어 감싼다.",
+		"6. 냉장고에 약 30분 넣어둔 후 꺼내어 썰어 완성한다.."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/2a77be4b1a599cf0d1d0435d8aaa9f471.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/5360eb0b8b2a920798eb85c1512f7b9d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/85dcd2168e5c5ff2376de6a8431d8a7a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/9d5d57af4a1e39ac86d447200278680c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/d71f02f97960564f551e79c47a3fa14e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/880c1d861f61bbf496e782ee11784f661.png"
+	]
+}

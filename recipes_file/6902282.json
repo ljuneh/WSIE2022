@@ -1,0 +1,54 @@
+{
+	"id": "6902282",
+	"name": "아~주 초간단 제티로 간식만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/18/2aa086c0cb954fd28642e7455da726c01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6902282",
+	"ingredient_ids": [
+		219
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "제티",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루(부침가루○)1+1/2스푼",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕1스푼적게",
+			"ingre_count": "1",
+			"ingre_unit": "스푼 적게"
+		}
+	],
+	"recipe": [
+		"1. 오늘은 제티 케이크 진짜 간단한거 만들어볼거에요. 밀가루 말고 부침가루도 되요.",
+		"2. 제티 2개를 그릇에 넣어주세요.",
+		"3. 계란 하나도 풀어주세요.",
+		"4. 밀가루 (부침가루)도 한 스푼 반 넣어줍니다.",
+		"5. 설탕은 적게 한 스푼 넣어주세요. 모르시겠다면 그냥 느낌이나 취향대로~",
+		"6. 섞어줍니다. 휙휙!",
+		"7. 조금만 섞어도 요렇게 초코렛 녹인거처럼 되요.",
+		"8. 전자렌지에 1분 30초 돌려주세요!전자레인지",
+		"9. 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/18/9e4dedb919bc11924419c7f2306fd6ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/18/bf02f1886373657f86ef8d067264c5461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/18/c2566c8ae9fb46a16c6291708808391d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/18/a5d49c9b5c44ab191508580e89cb7ef71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/18/b29a1161f80a34702f5b6491c4ca0a1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/18/3ae280d0fd830974ddc3edb218354b7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/18/b3e43c0d762ca8a462c4e1884bf750ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/18/a37f5b7cc034d480be3d07a5b54d0a641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/18/9092c8849294da97f4180c12c111a7dd1.jpg"
+	]
+}

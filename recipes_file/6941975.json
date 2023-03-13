@@ -1,0 +1,83 @@
+{
+	"id": "6941975",
+	"name": "가지밥롤~~/ 경기미 참드림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/a7c5f2799868b9de02974454159192971.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941975",
+	"ingredient_ids": [
+		18,
+		327,
+		379,
+		224,
+		327,
+		30
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "참드림쌀밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "가지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "볶은참깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 가지는 세척 후 물기를 제거해 필러를 이용해 슬라이스 해서 준비해주세요.필러가 없으면 칼로 도톰하게 잘라주셔도 되요!",
+		"2. 달궈진 팬에 오일을 살짝 두른 후 슬라이스 된 가지를 올려  앞뒤로 노릇 노릇하게 익혀주세요.이때 가스불은 중불에서 약불로 줄여서 조리해주세요~  불 세기가 세면 탈 수 있거든요!! ",
+		"3. 어느 정도 노릇노릇하게 익었다 싶으면 꺼내어 접시에 담아 살짝 식혀 주세요.",
+		"4. 슬라이스된 가지가 식을 동안 참드림 밥 한공기를 준비해 주세요.",
+		"5. 밥에 들기름 1/2t 만 넣고 혼합 하여 살살 섞어주세요.들기름이 없으면 참기름도 가능해요!",
+		"6. 타원형으로 모양을 잡아주세요.",
+		"7. 총 갯수 9개 나오는데 10개 정도 만드셔도 되요",
+		"8. 밥위에 슬라이스된 가지를 전체적으로 감싸 준 후 간장 양념장을 올려주세요. 만들어둔 양념장 다 사용했더니 9개 분량으로 딱 나와요!",
+		"9. 간장 양념장을 올려준 밥위에 토핑용으로 준비해준 부추를 올려주세요부추가 없으면 새싹채소로도 대체가능해요!",
+		"10. 가지밥롤 완성 입니다.",
+		"11. ㅎㅎ간단하게 맛있게 만들 수 있는 가지밥롤~!! 만들어 드셔보세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/f4d758ee6412e5c80a7992659b7953811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/1066f78637b1068530306f60f847df7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/5ea605db98582ed6fcad7145c78bb66d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/5dce4646b2ba2f21e2f8bcf3cb7d68c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/546476374a529906309547cced2cf90f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/8cf5b818f5d9770e0f3ff9fb92d706f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/599ecc7bd870fe3dc9e91c78f82d6b541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/76ed50803a020e8072b3f7ff12b0c2ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/3426de466d5cae0cd7e3a1209c8549921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/0e9f21b2e954c661e68f0ff3c781b4fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/430f14fd0a807bf12f33f5276900a9051.jpg"
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"id": "6941596",
+	"name": "로스트 치킨(초간단 요리) 에어프라이어필요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/f3538312a803e1c87e896acba94462871.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941596",
+	"ingredient_ids": [
+		126,
+		579,
+		343,
+		497,
+		574
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "닭고기",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "30",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "바질가루",
+			"ingre_count": "",
+			"ingre_unit": "팍팍팍"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "쭉쭉"
+		},
+		{
+			"ingre_name": "에어프라이어",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. 올리브유 빼고 다 넣고 재워줍니다 5분정도",
+		"2. 가위로 두꺼운 부분 칼집을 내줍니다",
+		"3. 꺼내서 비닐팩에 넣고 올리브유를 뿌려 섞어 줍니다",
+		"4. 에어프라이어에 넣어줍니다  180에서 15분 중간에 한번 돌겨주세요에어프라이어",
+		"5. 완성입니다 에어프라이어가 다했습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/2b27ad698832560d07c0aa14b5fac5011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d553fb870ebd5abd04c1a1f7150cdd701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/7bbae675fe768a76830ad92b770e412c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/6645d3f145038e957b8431086312a7ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/02c981388b6780f01205af6c9f7169441.jpg"
+	]
+}

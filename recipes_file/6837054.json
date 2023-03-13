@@ -1,0 +1,79 @@
+{
+	"id": "6837054",
+	"name": "닭백숙 맛있게 끓이는법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/28/24ee9ed63755b3475e33502aeade06fe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837054",
+	"ingredient_ids": [
+		564,
+		132,
+		99,
+		995,
+		545
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "백숙용닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "대파(흰부분)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "인삼",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "한약재",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 백숙용 부재료가 들어있는 큰 닭 1마리와 통마늘을 준비해 주세요~",
+		"2. 중국산이 많으니까 좀 찝찝해서 찬물에 잠깐 담궈놨어요",
+		"3. 목이랑 엉덩이 쪽을 손질하고 깨끗하게 씻어서 끓는물에 청주(소주) 약간 넣고 닭을 넣어 5~10분정도 데쳐주세요",
+		"4. 삶은 물은 버리고 찬물에 씻은 닭이랑 통마늘 부재료를 냄비에 다 넣어요",
+		"5. 닭이 잠기도록 물을 부어주세요~ 전 냄비가 커서 2L 생수 한병 다 넣었어요",
+		"6. 대파 흰부분도 넣어 주고~ 천일염도 넣어줬어요 일단 한큰술만 넣고 먹을때 간을 맞춰서 먹으면 편해용",
+		"7. 푹~~ 끓여내면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/28/44513d238deffc2638a265e5406b5d971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/28/0c4a5adaecaf6eddc036dec06b2620581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/28/cfa2d9bc7c1ab451ecb42bc6533b82661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/28/544ffe665f0393d8a01afb45daa0d3fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/28/b05a89431c2ed6b806732661f0f379d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/28/a3f4bf1ca47f6ac5d0c4dcd2f16039b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/28/802e0577b58b01ec1e56b7b173b40d491.jpg"
+	]
+}

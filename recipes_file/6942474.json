@@ -1,0 +1,117 @@
+{
+	"id": "6942474",
+	"name": "쌀코노미야키",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/73ebacba78b5e62dabdabe1149c762e31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942474",
+	"ingredient_ids": [
+		21,
+		88,
+		82,
+		3,
+		79,
+		379,
+		660,
+		497,
+		201,
+		484,
+		228,
+		387
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "홍합",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "굴",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "가쓰오부시",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "치즈",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "데리야끼소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 밥을 깨끗하게 씻어주고 앉혀준다.밥솥이 없는 경우에는 냄비 밥!! * 방법 중불 하고 연기 나면 끄기-5분 뜸-약불하고 연기 나면 끄기-5분 뜸-약불하고 탁탁 팝콘튀는 소리가 나면 끄기-뜸 드리고 완성",
+		"2. 각종 해산물과 재료들은 손질한다.해산물과 채소는 오염 위험이 있으니 분리!!",
+		"3. 다 된 밥은 한쪽에서 식혀준다.",
+		"4. 밥에 부침가루를 첨가한다.",
+		"5. 각종 해물과 채소를 첨가한다.",
+		"6. 준비된 간장 한 큰술, 참기름 한 큰술, 소금, 후추 약간을 넣어준뒤 잘 섞이도록 저어준다.부침가루는 간이 되어있어 살짝만 간을 해줘도 된다.",
+		"7. 팬에 기름을 두른 후 온도가 오를 때 까지 기다린다.뜨거울 때 넣어야지 바삭하게 구울 수 있어요!!",
+		"8. 온도가 오른 후, 반죽을 한 국자 넣어 구워준다.",
+		"9. 기호에 따라 치즈를 넣어 구워준다.냄비 뚜껑을 덮어 약불에서 익히면 치즈가 좀 더 잘익어요!!",
+		"10. 가스오브시와 소스를 뿌려서 완성한다.소스를 뿌릴 때에는 짤주머니나 없으면 비닐 봉지를 활용하여 모서리를 잘라서 사용하면 좀 더 이쁘게 소스를 뿌릴 수 있음 ㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/fe57ee4317cab72af2ab5620f903b41e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/5e40d0e5d2f08ea5f8138d9dfe3ff31d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/8e1611e958afcbc78ddbb7d044674e581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/9021416dd2461837b468c3c08431b4dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/970b2d701700af4f68ac8e77c697a8421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/7fb480a78760dabeced02fb20b4b03011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e8e8f959f119eda9df2272777549f5bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/dc1783b7a09ee51274cf7ea5b78d74ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/3022023778a7b0bde52a3548bc48da851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a09c896b34f4b42181a26a290263b4821.jpg"
+	]
+}

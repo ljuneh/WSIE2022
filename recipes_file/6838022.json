@@ -1,0 +1,64 @@
+{
+	"id": "6838022",
+	"name": "소고기미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/12/141503c5ec4f059edb66d9832218c1521.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838022",
+	"ingredient_ids": [
+		91,
+		349,
+		608
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기(등심)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘다진것",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 미역국을 맛나게 끓이시려면 우선 미역을 찬물에 담가서 불려주세요.",
+		"2. 소고기는 등심으로 준비했답니다.",
+		"3. 소고기는 핏물을 제거하고 압력솥에 소고기등심 넣고 월계수잎 1장, 통마늘 3개 넣었습니다. 물은 고기가 잠길 정도로만 넣었구요. 간은 국간장 반스푼 넣어줍니다. 압력솥 뚜껑을 닫고 칙칙소리나 나고~~~ 10분 지나면 꺼주세요~~~ 그리고 한번 더 반복해주시구요~~~ 고기의 양에 따라 시간은 조금 조절하심 됩니다",
+		"4. 압력솥에 김이 완전히 빠진다음 뚜껑을 열어보았습니다. 고기가 아주 잘 익었는지 젓가락으로 찔러보았어요. 아주 잘 익었더라구요. ",
+		"5. 고기는 꺼내서 볼에 담아 식히고",
+		"6. 고기가 다 식은다음 손으로 고기를 결대로 찢어주세요.",
+		"7. 국솥에 국물 담고 물은 국물양만큼 더 넣었답니다. 고기 넣고, 다진마늘 1스푼 넣고 국간장 1스푼 넣고",
+		"8. 팔팔 끓여주세요. 미역이 부들부들해질때 까지 푹 끓여주시고 마지막에 간보시고 싱거우면 그때는 굵은소금 조금더 넣어주세요. 국간장만 너무 넣으면 국물색이 별로더라구요. 그래서 마지막 간은 굵은소금 넣어주었답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/60bc93664a5e6cb7338a479fc39ff0891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/05a667d7fe35b6da42b9b2c56e9be86d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/0fd8c372875913a33af27145081941861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/98dc1b60704c4a68f4f951a06c93defa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/75653b5015ec7c6c8c11647f8ef124f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/5789b2d3c32a91be4c732f93ab5d54191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/b01a45f0a8ac7935749c3c4c769dc4f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/67a586120cb4c52ca326a7204ae0de841.jpg"
+	]
+}

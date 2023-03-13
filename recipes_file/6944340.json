@@ -1,0 +1,46 @@
+{
+	"id": "6944340",
+	"name": "양배추 샐러드 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/eeb1a737ab2c48ebabda98f29942eb4e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944340",
+	"ingredient_ids": [
+		21
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/6",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "스위트콘",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마요네즈6큰술이상",
+			"ingre_count": "6",
+			"ingre_unit": "큰술 이상"
+		},
+		{
+			"ingre_name": "케첩6큰술이상",
+			"ingre_count": "6",
+			"ingre_unit": "큰술 이상"
+		}
+	],
+	"recipe": [
+		"1. 스위트콘은 촉촉할 정도로만 유지하고 남은 물은 전부 제거하세요.",
+		"2. 양배추는 얇게 채썰어줍니다.너무 두거우면 양배추 특유의 맛이 강해서 케요네즈가 묻혀요.",
+		"3. 큰 볼에 스위트콘과 채썬 양배추를 넣고 케첩과 마요네즈를 뿌려줍니다.케첩과 마요네즈의 기본 비율을 1:1이에요. 그래서 기본 1:1비율로 먼저 맞춰주시고 새콤함이 업되길 바라면 케첩을 고소함이 업되길 바라면 마요네즈를, 이런식으로 원하는 소스를 추가적으로 넣어주시면 됩니다.",
+		"4. 케첩과 마요네즈가 양배추와 어우러질 수 있도록 골고루 섞어줍니다.",
+		"5. 그릇에 담아서 완성~!식빵, 치킨, 돈까스 등 다양하게 곁들여 먹기 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/b36539e9561b94f233fe3b139c2159fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/f38e8dc3d53943c6c5bbb93347d73dcd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/2a997d78392af59f14110b9beb853d881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/3e79f6a7b2f579fbcc8d70f1d8a44ee01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/2ebd96f08de56164118fd2d0a45e89ab1.jpg"
+	]
+}

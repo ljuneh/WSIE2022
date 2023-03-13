@@ -1,0 +1,40 @@
+{
+	"id": "6902870",
+	"name": "누텔라쿠키 달다구리성애자라면 필수! ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/7f943f413222ec86aac397972ba4781d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6902870",
+	"ingredient_ids": [
+		997,
+		219
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "누텔라",
+			"ingre_count": "190",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 실온에 녹인 누텔라에 달걀을 넣고 섞는다.",
+		"2. 체친 박력분을 넣어 섞은 후 반죽을 20g씩 떼어 동그랗게 빚는다.",
+		"3. 가운데 구멍을 만들어 준 후 170도 예열된 오븐에 10~15분간 굽는다.오븐구멍은 작은 스푼을 사용해주셔도 괜찮아요. ",
+		"4. 구멍에 잼을 짠 후 완성한다.취향에 따라 잼, 누텔라을 넣어주시면 돼요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/f482b127549a62ccb3f748ff7eb8ff181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/e592eee586bc2d24c542afd48424b5aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/321099f2e0f95f11f7627c25e5c78ea31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/e19e6dee6e630410c2a439bb494c2e361.jpg"
+	]
+}

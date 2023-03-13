@@ -1,0 +1,98 @@
+{
+	"id": "6943809",
+	"name": "곤약요리법 곤약 떡볶이만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/466617e3f7c503c6a9ad390726b82ebe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943809",
+	"ingredient_ids": [
+		548,
+		295,
+		27,
+		473,
+		224,
+		226,
+		575,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "통곤약",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "멸치다시육수",
+			"ingre_count": "700",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료손질 전 고추장,고춧가루,진간장,설탕, 올리고당,다진마늘을 넣고  양념장을 만들어 둡니다.",
+		"2. 대파와 청양고추도 송송  썰어 준비해주세요.",
+		"3. 더 매콤하게 드시고 싶으시면 청양고추를 1~2개 추가하셔도 좋아요.",
+		"4. 어묵도 먹기 좋게 잘라주세요.",
+		"5. 통곤약을 0.5cm정도의 두께로 잘라 주세요.",
+		"6. 그리고 반으로 다시 잘라 떡볶이떡크기로 잘라줍니다.",
+		"7. 곤약 특유의 냄새제거를 위해 끓는물에 식초 반큰술 넣고  곤약을 5분간 데쳐줍니다. 흐르는 물에 헹궈준 뒤 체에 받혀 물기를 빼주세요.",
+		"8. 냄비에 육수,곤약,어묵,양념장을 넣고 센불로 끓여주다 한 소끔 끓어오르면 중불로 낮춰 국물을  졸여줍니다.",
+		"9. 국물이 자작하게 남았으면 대파와 통깨로 마무리해주세요. 남은 국물정도는 개인취향에 맞춰  조절해주시면 되요.",
+		"10. 그릇에 담아 삶은 계란과 함께 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/068bbc9a94e7a94d04ee863ce29e81711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/9f56a601963afa3fdca45c9d4f8541bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/9768b13a27584f6f7883f6f626aae4a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/b0eb2985a2cb8081f333d2377aafe7c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/71158a27df6cd73947bca0642bd6be551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/35e3d0735b7e978bfd97eb5dd313739c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/02136c2b4f68ef79897ac287c3c8d1271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/c738534ad8f5cdd561267b6baa7f659c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/897571a1284331093c52adbb15e286941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/da28fe54c776605cc66c8c515f306e711.jpg"
+	]
+}

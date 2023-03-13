@@ -1,0 +1,44 @@
+{
+	"id": "6939949",
+	"name": "[풀무원 얇은피 꽉찬교자] 에어프라이어로 굽기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/fb3980b8ad1d8906f6d36a10dfd9746d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939949",
+	"ingredient_ids": [
+		304
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "풀무원얇은피꽉찬교자고기교자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "풀무원얇은피꽉찬교자매콤해물교자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "종이호일",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "맥주",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		}
+	],
+	"recipe": [
+		"1. 에어프라이어는 180도 3분~5분정도 예열해주세요 저는 그릴로 했어요 종이호일 준비하고 만두를 놓아요",
+		"2. 교자에 식용유는 쪼로록 뿌리면 겉이 윤기 나고 더 바삭해져서 더 맛있지만 전 뿌리지 않았어요  피가 얇고 소에 재료가 빵빵해서 그냥 구워도 충분히 바삭해져요",
+		"3. 에어프라이어에 넣고 10분 기다려요에어프라이어",
+		"4. 완성!! 냉장고에서 맥주를 꺼내서 같이 냠냠"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/a5a6fa3e03cdd17553572cb80038a03f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/c8dd49b610ad78e2415a5779e2b78ea91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/06ab7c9579ceecbc2f965cb02aa2517c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/9088ae6ca4c738a63ca379b69798979a1.jpg"
+	]
+}

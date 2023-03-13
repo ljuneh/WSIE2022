@@ -1,0 +1,143 @@
+{
+	"id": "6942550",
+	"name": "여름 반찬 볶음 3종 <가지볶음, 애호박볶음, 어묵볶음>",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/d6bc6cde56bf92450828b1124a0ec3d81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942550",
+	"ingredient_ids": [
+		18,
+		3,
+		432,
+		290,
+		660,
+		7,
+		3,
+		432,
+		290,
+		660,
+		548,
+		3,
+		432,
+		290,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "연두",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "연두청양초",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1/4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "연두",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "연두청양초",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1/4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "연두",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "연두청양초",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1/4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/4",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. [재료 손질하기] 가지는 반을 갈라 두껍게 어슷하게 썰고 애호박은 길게 갈라 반달 모양으로 썰고 어묵과 양파는 채를 썰어주세요.",
+		"2. [재료 볶기 - 가지] 가지볶음은 가지를 기름 없이 볶다가 포도씨유를 두리고 양파를 볶은 뒤 양념을 넣어 조금 더 볶아주면 완성!",
+		"3. [재료 볶기 - 애호박, 어묵] 애호박볶음과 어묵볶음은 포도씨유를 두르고 양파를 볶아주세요.",
+		"4. [재료 볶기 - 애호박, 어묵] 볶은 양파에 애호박과 어묵을 각각 넣어 볶아주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/d999851be01232e04663711446543c361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/43e8cb3d01e57f1f307fae1854e092781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/251ae486eb3274fedfa597fa2861dfb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/9d5bd9c1c6cb5391b8e39e068ff6b5d21.jpg"
+	]
+}

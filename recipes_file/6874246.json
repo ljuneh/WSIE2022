@@ -1,0 +1,65 @@
+{
+	"id": "6874246",
+	"name": "아롱사태수육 보쌈, 간단한 저녁 메뉴",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/16/6f66dc3ef18ed8ed5509da744d591b931.jpg",
+	"url": "https://www.10000recipe.com/recipe/6874246",
+	"ingredient_ids": [
+		27,
+		295,
+		857,
+		846,
+		20
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "아롱사태",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "알배추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "",
+			"ingre_unit": "원하는만큼"
+		}
+	],
+	"recipe": [
+		"1. 오늘의 수육을 위한 주요 준비재료들 입니다. 이제 본격적으로 수육을 끓여볼까요~",
+		"2. 일단 냄비에 고기가 잠길만큼 물을 넣어준다음, 아롱사태, 대파, 통후추, 청주, 청양고추를 넣어주세요.팁: 고기를 잘 익게 하기 위해서 칼로 몇 번 고기를 찔러 주면 속까지 잘 익어요~",
+		"3. 뚜껑을 닫고 중불에 50분 정도 푹푹 끓여주세요.",
+		"4. 50분 후에 뚜껑을 열어보았을 때, 젓가락으로 고기를 찔러 보았을 때 젓가락 끝에 핏물이 나오지 않으면 다 익은거예요.",
+		"5. 다 익은 고기를 냄비에서 꺼내 한 입에 먹기 좋은 사이즈로 잘라주세요. 자른 고기를 보쌈 재료와 함께 내주시면 오늘의 요리 끝~~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/16/fe5cb267235fa414e66fd19f2a4dca1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/16/3d952362b29e65d044ab032e9229232b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/16/fba2db26a0e821476e29d9e96826cc411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/16/dc84f9133243f3182eaa8c16c7ca32801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/16/df2d6f063f575649bc493970be33c8d41.jpg"
+	]
+}

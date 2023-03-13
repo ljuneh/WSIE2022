@@ -1,0 +1,90 @@
+{
+	"id": "6945408",
+	"name": "두부김치 레시피 김치두루치기 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/20dedfb114ac21952dbae57ddce111141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945408",
+	"ingredient_ids": [
+		323,
+		3,
+		27,
+		29,
+		224,
+		341,
+		379,
+		292
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "김치국그릇",
+			"ingre_count": "1",
+			"ingre_unit": "가득"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 삼겹살과 야채들은 먹기 좋은 크기로 잘라줍니다. 김치는 묵은지로 국그릇 가득 한그릇 준비 해 줍니다.고기 종류는 목살 앞다리살 등 좋아하는 부위를 사용하시면 되요!",
+		"2. 팬에 삼겹살과 편썰기한 마늘,후추를 넣고 먼저 볶아줍니다.중강불",
+		"3. 고기가 어느정도 익으면 김치와 고춧가루 1T,물엿 3T,간장 3T,맛술 1T를 넣고 볶아줍니다.중강불저는 김치가 많이 시어서 물엿을 3T 넣어주었는데 물엿양은 김치의 신 정도에 따라 조절 해 주세요^^ 김치가 많이 시지 않으면 식초 1T를 넣어 주셔도 좋아요!",
+		"4. 김치가 숨이 죽으면 나머지 야채들을 넣고 한번 더 볶아줍니다!중강불",
+		"5. 여기까지는 김치두루치기 완성이에요:-)",
+		"6. 두부 한 모를 끓는 물에 데쳐서 함께 썰어 접시에 담아주면 두부김치 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/104352176eadcdb91f508bb9a7a339291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/21b9ca0f442362e724bbcfd4372a3f1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/a292496da4c7c96d94f9d87e3d0f6e381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/7e7fe31138152c36cbcfe8fbc0efbd791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/3aa9b1de1b778c15f7612934fc60de7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/d5aca6bebb51795d865849c372c1508a1.jpg"
+	]
+}

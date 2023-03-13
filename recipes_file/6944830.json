@@ -1,0 +1,136 @@
+{
+	"id": "6944830",
+	"name": "가을제철 전어요리/전어회무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/ca6fef5e0249979d4b9a9cbb7356e6621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944830",
+	"ingredient_ids": [
+		8,
+		9,
+		295,
+		3,
+		497,
+		379,
+		473,
+		224,
+		848,
+		959,
+		647,
+		233,
+		938,
+		231,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "전어회",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "사과즙",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "콜라",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비해 주세요~",
+		"2. 치아가 불편하신 분이 계셔  전어회는 뼈 추리고 살만 채 썰어 왔어요~ 전어의 꼬신맛 제대로 느끼려면 뼈째 씹는게 꼬소해요~",
+		"3. 오이, 당근, 양파, 고추는 먹기 좋게 썰어 주세요~",
+		"4. 적힌 분량의 간장, 다진마늘, 고추장, 된장, 고춧가루,  식초, 매실청, 사과즙, 콜라, 깨소금, 후추를 넣어 주세요~전어회무침 저만의 비법은 된장 살짝 넣는건데 된장이 들어가면 감칠맛이 좋아 입에 착 착 감겨요~",
+		"5. 골고루 섞어 주면 무침 양념장 완성~ 설탕이나 올리고당 넣지 않고  사과즙과 콜라 넣고 양념장 만들었어요~콜라 대신 사이다도 좋고 사과즙 대신  사과주스나 오렌지주스도 좋답니다",
+		"6. 큰 볼에 썰은 야채와 전어회를 담아 주세요~",
+		"7. 양념장 모두 넣어 주세요~",
+		"8. 살살 버무려 간 보고 부족한 간은 소금으로 맞추면 전어회무침 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/0069afba08d1c7e41906f49b01a78d1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/f921ee88d8903c034dc0f376733e84aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/ac7103fb048994a5c84794b99333ad9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/0193dd3268ba9ed0f27bdb8e5b809ee91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/8a532901777cb44dfa0927e307901cbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/16acf58850e371ec36b503127e4a293b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/d142e80f98515c4b88a79db6324a5ad61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/a66e88b101334fc30c46d4ae156dbc071.jpg"
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "6942414",
+	"name": "곰돌이 돈까스 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/8d2a4a27bf0ae09138d1afa370e49d611.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942414",
+	"ingredient_ids": [
+		214,
+		9,
+		170
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돈까스",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슬라이스파인애플",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "키위",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		}
+	],
+	"recipe": [
+		"1. 저는 튀겨나온 돈까스를 구매해서 사용했어요 에어프라이어 190도에 10분간 구워주세요.에어프라이어",
+		"2. 노릇노릇 구워진 돈까스를 접시 위에 올려주세요",
+		"3. 파인애플을 잘라줄껀데요",
+		"4. 각각 1/3 조각, 2/3조각이 되도록 잘라줍니다. (1/3조각은 요리하시면서 드세요~ 냠냠♥)",
+		"5. 2/3조각 파인애플을 돈까스 위에 올려 곰돌이 귀를 만들어 주세요.",
+		"6. 원형 플런저로 슬라이스 치즈를 찍어 주세요. 없으신 분들은 페트병 입구로 슬라이스 치즈를 찍어서 사용해주세요. (눈이 커야 예쁘답니다)",
+		"7. 동그란 눈을 치즈 위에 올려 주고",
+		"8. 팬더 김펀칭으로 김을 잘라 줍니다. 김펀칭이 없으신 분들은 가위로 김을 잘라 주셔야 하는데..그냥 자르면 예쁘게 자르기가 쉽지는 않아요. 김을 반으로 접어 반원을 자르듯 잘라주시면 조금 더 예쁘게 자르실 수 있어요.",
+		"9. 이제 코를 만들어 줄 차례! 팬더 김펀칭 귀 부분을 곰돌이의 코로 사용해줄 건데요. 팬더 김펀칭이 없으신 분들은 가위로 예쁘게 잘라주세요♥ 약간 타원형으로 자르시면 더 예쁘게 만들어져요^^",
+		"10. 김을 얇고 길게 잘라 곰돌이의 인중(?)과 입을 만들어줍니다.",
+		"11. 케찹으로 곰돌이의 수줍은 볼도 표현해주세요. 케찹을 접시 위에 짜서 젓가락으로 콕 찍어서 발라주셔도 좋답니다.",
+		"12. 키위를 슬라이스 해서 해를 표현해줄 거예요.",
+		"13. 학교미술시간에 스케치북 끝부분에 햇님 그리던 것을 생각하시면서 키위 바깥부분을 접시에 맞게 자르고  다른 키위 조각으로 겉부분을 잘라서 해가 쨍쨍 빛나는 햇살 부분을 표현해 주세요.",
+		"14. 당근으로는 곰돌이 머리핀을 만들어 줄껀데요. 꽃모양 커터로 당근을 찍어주세요.",
+		"15. 접시 위에 키위 햇님과 당근 꽃을 올려 주면 귀여운 곰돌이 돈까스 완성!!♥"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/bd54921730e3ae69c4669bc426da702b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/be7d47a880f7b64b87fbf7da5db0d2581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/6e68d2f817f122fee433465586e42fbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/7dfb8b633c00d68d56c5237604f44cd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/f892ffe0fea29fdb99452e5f24f120091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/68389c807c8575d72ee4669247f71c121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/0e4180018b648eca6d9075845b3923141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/87966637b82319542670a4695df7e5841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/4654c95d4010cf53e0388b0b514883a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a6dff12fa175755d193772a712f950471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/887b6d214b98f7a074ec0ebafa3dc74f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/ba5ae2b7f936588f828664ee8957daee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d3ccb1a4f7f421f7f3afb299247a36681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/bba80491a888e4aae280e6ad69f279d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/cd38c2924db480273a79a4dea4bf0f181.jpg"
+	]
+}

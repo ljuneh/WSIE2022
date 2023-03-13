@@ -1,0 +1,62 @@
+{
+	"id": "6939978",
+	"name": " 차왕 무시 만들기 도전 -일본식 달걀찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/781eb6164f90ce1a937c16eca2beba2a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939978",
+	"ingredient_ids": [
+		219,
+		53,
+		497,
+		226,
+		292
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 달걀 네 개는 잘 풀어 체에 걸러 알끈을 제거 해 주세요.부드러운 차왕무시의 비결!",
+		"2. 잘 풀어진 달걀물에 설탕 1t,소금 1t,맛술1T를 넣고 잘 섞어줍니다.",
+		"3. 멸치육수를 달걀물과 1:1 비율로 잘 섞어줍니다.다시마나 가쓰오부시 우린물을 사용하지만 멸치육수도 괜찮아요! 생수보다는 육수를 추천드려요",
+		"4. 뚜껑있는 그릇이 있다면 이용해 주시고 없는 경우 저처럼 위에 랩이나 일회용 봉지를 씌워 주세요. 냄비에 물을 넣고 채반위에 그릇을 올려 끓여 줍니다중강불일회용비닐 보다는 랩 추천드려요! 일회용 비닐은 물방울이 떨어져 어려울 수 있어요.",
+		"5. 물이 끓고 10분 정도 후 살짝 열어 표면이 익었으면 표고버섯을 살짝 올려 줍니다.중불",
+		"6. 다시 뚜껑을 덮고 5분 정도 익힌 후 뜸을 들여주면 푸딩같이 부드러운 차왕무시 완성!중불"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/efe62718b386a90bc8a80db6364ecf821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/159f0cde9ba6dff52f38339ce8d928491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/8f6642fac975131484323e300399da7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/71c72ae711b60cd7aab234cd4a4f3b421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/192f937afedfa615cdc64cc048c6b4951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/55a454783cce6450cec06b1fd00e33301.jpg"
+	]
+}

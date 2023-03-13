@@ -1,0 +1,57 @@
+{
+	"id": "6943803",
+	"name": "맜있는 소시지 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/8394aee86fa00de0126b4d7f780937b81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943803",
+	"ingredient_ids": [
+		3,
+		9,
+		6,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "1~2인분",
+			"ingre_unit": "~인분"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "소스",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양파와 당근을썰어 주시고 소시지는 약간 칼집을 내주셔도 되여",
+		"2. 위에 재료를 다 하셨으면 후라이팬에 볶아줄 준비를 합니다",
+		"3. 처음에 (식용유.올리브유둘중 사용하셔도됩니다) 그리고 볶아 줍니다",
+		"4. 그리고 깨소금을 넣고 데코로 마무리합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/7e713642ee340f020c6a4a551fe3d3f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/ab832a850a9e613d2f08d4121be5b8391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/2f63852b331dcad5ebf5a6068ac538b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/36c9d08b8668e3e6887cf650039b68be1.jpg"
+	]
+}

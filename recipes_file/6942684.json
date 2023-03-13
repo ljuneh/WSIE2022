@@ -1,0 +1,81 @@
+{
+	"id": "6942684",
+	"name": "들깨가루 김치볶음밥 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/6176d849a5550fc2029bc39483c9d7cc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942684",
+	"ingredient_ids": [
+		953,
+		659,
+		3,
+		9,
+		55,
+		327,
+		337
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "검은깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 기름을 제거한 참치와 들기름을 넣어 볶아줍니다.참치1/2통, 들기름1큰술팬약불참치는 뚜껑을 완전히 딴 후 뚜껑으로 눌러 기름을 제거해줍니다.",
+		"2. 잘게 다진 김치를 넣어 볶아줍니다.김치70g중불",
+		"3. 김치가 볶아지면 잘게 다진 당근과 양파를 넣어 볶아줍니다.당근1/2개, 양파1/2개",
+		"4. 채소가 익으면 다진 팽이버섯을 넣어 볶아줍니다.팽이버섯1/2봉",
+		"5. 밥을 넣어 볶아줍니다.밥2공기",
+		"6. 그릇에 김치볶음밥을 담고 들깨가루를 뿌려줍니다.들깨가루1작은술",
+		"7. 검은 깨를 뿌려줍니다.검은깨 약간"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/01fdca08fb0740737cf16d769023746e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/81bd30a1f05af8e8871e999bc05be1071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/eaa53b0c13cee216c5075e73ebcbe5561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/96235435704dac32c50aa13a7a0672671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/c9bb903458c9b513ff7b85e36c1a2bb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/8058c6b508c8846bbbc946d43fad4d041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/1955f3ac34cfae39271dc7e644432a1f1.jpg"
+	]
+}

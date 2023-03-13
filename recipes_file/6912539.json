@@ -1,0 +1,46 @@
+{
+	"id": "6912539",
+	"name": "에어프라이어 소시지 피자",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/05/21/52ec68320e673157a36e0bdce94f89561.jpg",
+	"url": "https://www.10000recipe.com/recipe/6912539",
+	"ingredient_ids": [
+		3,
+		225
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "후랑크소시지",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양파 1/4개는 굵게 다지고 소금 한두 꼬집+후춧가루 뿌려 밑간해요",
+		"2. 끓는 물에 소시지 4개 넣고 약 2분 정도 삶아요",
+		"3. 삶은 소시지는 끝 조금만 남기고 반을 갈라요",
+		"4. 여기에 밑간한 양파 약간씩 넣고, 살짝 꾹꾹 눌러줘요~",
+		"5. 양파 위에 피자치즈 적당히 올리고",
+		"6. 에어프라이어에 넣어요에어프라이어종이호일을 깔고 구우면 설거지 안해도 됩니다",
+		"7. 굽기-170도에서 3분간 구워줍니다 구운 소시지에 케첩과 머스타드소스 파슬리가루 뿌립니다 무조건 맛있는 소시지피자 참 맛있네요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/21/702531d496753bd13618708ef49a1bad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/21/0ac7bd3bb34274cb4992418544b0a8151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/21/3132ff3208c766475db4d1b3469d55181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/21/ccc3d2fcc1a4bed07727a0a2c50281f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/21/42e189532aeff4070709fbf831ed45201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/21/49e9b5a0065b887f60ef8e7c30e5f8bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/21/db324f0935383847a5d737f2fc3ef51b1.jpg"
+	]
+}

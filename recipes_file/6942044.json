@@ -1,0 +1,68 @@
+{
+	"id": "6942044",
+	"name": "콘치즈 에어프라이어",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/ed63eb0fc42f5a1a201022e1714e61231.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942044",
+	"ingredient_ids": [
+		212,
+		214,
+		228,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "캔옥수수",
+			"ingre_count": "1/3",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "스윗크림치즈",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 재료 : 캔옥수수 1/3통, 다진양파 3T , 모짜렐라 치즈, 슬라이스 치즈 2장, 마요네즈 1T, 스윗 크림치즈 2T, 소금 톡톡",
+		"2. 캔옥수수의 물을 빼고 옥수수알만 내열용기에 담아 주세요 다진 양파를 옥수수알의 반 정도 넣어줍니다",
+		"3. 마요네즈와 크림치즈를 넣고 버무린 다음 소금을 톡톡 뿌려 주세요",
+		"4. 모짜렐라 치즈 듬뿍 넣어 주세요",
+		"5. 슬라이스 치즈를 잘라서 넣어 주세요",
+		"6. 에어프라이어에 170도 5분간 돌려주세요에어프라이어",
+		"7. 꺼내자마자 옥수수 향이 진하게 납니다 간식으로 가볍게 먹기 좋은 맛있는 콘치즈 입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/686560aca17a8e723fcc1a0cfc796a991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/283be86b58419c31d267f2b231d8b0e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/fe278a4e099d50272b2fb8e8803f59f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/6bc62762aab75cc3502169c5ad478b911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/81c0cc7b72360ebf8fd12b7a3002b75c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/da2dd69ee50addb9df10575064974eca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/ecba5b4352b755c40db17e4e682a3e761.jpg"
+	]
+}

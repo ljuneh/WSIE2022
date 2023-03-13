@@ -1,0 +1,85 @@
+{
+	"id": "6918220",
+	"name": "근대국 (근대된장국)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/dd4dfcbde4c3af59b66124c8e392e1db1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6918220",
+	"ingredient_ids": [
+		12,
+		56,
+		27,
+		29,
+		848,
+		349,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "근대",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 근대를 준비해 주세요",
+		"2. 근대는 깨끗히 씻어서 물기를 빼고 준비해 주고요  멸치를 살짝 끓인 물에(5분) 된장을 넣어주세요 2스푼 저는 각기 다른 브랜드 두가지 된장을 한스푼씩 넣었어요 같은 된장이지만 맛이 틀리더라구요  두가지 함께 사용하는 경우가 많아요",
+		"3. 근대 줄기가 뻣뻣한 경우 껍질을 벗겨 내 주시구요 . 저는 연한걸 구입해서 그 과정은 하지 않았어요 먹기좋은 크기로 썰어주세요.",
+		"4. 버섯은 종류가 많으니 좋아하시는것 준비하시면 돼요 마늘, 청양홍고추 , 대파 등을 준비하고 썰어놓아요  청양홍고추는 매운거 못드시면 빼셔도 됍니다",
+		"5. 된장물이 끓으면 근대를 넣어주세요",
+		"6. 뚜껑을 닫고 5분정도 푹 끓여주세요(중불로) 근대가 푹 익도록.. 그리고 버섯, 마늘, 청양고추 등을 넣어주세요",
+		"7. 간은 국간장 2스푼 이구요 싱거우시면 소금은 맨 마지막에 넣어주세요 미리 소금을 넣으면 국물이 끓다보면 쫄아서 짜질수도 있어요",
+		"8. 대파와 고추가루 반스푼 넣었어요 저는 얼큰한걸 좋아해서 넣었는데요 매운거 못드시면 간을 보시고 빼셔도 돼요 약불에서 끓여주세요",
+		"9. 뚜껑을 닫고 약불에서 5-10분간 더 끓여주면 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/d402f5262ac6206b062b21be3dc455cc1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/93b42d02d9089f4058b1ad9eecaaa7751.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/4cf373772debfd194191f4d1f09581d11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/4406e197dacb42e3c5d41e0005d7db741.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/884ead33f1db2e3b9023efb51cee782c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/0bb5973d2d061f89af43cc02f80f9e261.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/46a1e613230530c20d0a0d0c61e371361.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/aa1c26f06733fe6714ba114c7b84a79e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/ef0ba691721ad316011bf90d31cf1f541.png"
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"id": "6910146",
+	"name": "초간단 떡국떡 떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/040c98365b8274d5ab65ce7ec0e26b561.jpg",
+	"url": "https://www.10000recipe.com/recipe/6910146",
+	"ingredient_ids": [
+		548,
+		473,
+		224,
+		478,
+		233
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡국떡",
+			"ingre_count": "2.",
+			"ingre_unit": ".줌"
+		},
+		{
+			"ingre_name": "핫도그",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "썬파",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "4",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		}
+	],
+	"recipe": [
+		"1. 핫도그와 어묵은 먹기좋게 썰어주시고 떡이 얼어있다면 물에 불려주세요.",
+		"2. 파도 잊지말고 썰어주세요.",
+		"3. 물을 넣고 중약불에서 양념을 넣어주세요.",
+		"4. 보글보글 끓을 때 손질해둔 재료를 넣어주세요.",
+		"5. 끓을때마다 계속 저어주고 조금 걸죽해지면 약불로 줄이세요.",
+		"6. 국물이 껄쭉하다 싶으면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/3f5be78deb643df7ccdb44cce5c902321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/b23e0bb1111e3491f6c6c030c6d6ee781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/ba67dffa7a555356221b7edc7bb031171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/d8809319434dc73d2a72b499d373e44a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/09b550245f9166044c32706a7532122d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/2346c84d15daaf2fe17cd4ba034919561.jpg"
+	]
+}

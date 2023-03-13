@@ -1,0 +1,68 @@
+{
+	"id": "6940591",
+	"name": "간편하고 맛있는 꼴뚜기볶음 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/e1c7eccba3d8ca087d0454ac6e3f666b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940591",
+	"ingredient_ids": [
+		379,
+		575,
+		292,
+		295,
+		9,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "마른꼴뚜기",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 반건조 꼴뚜기를 깨끗이 씻어준다",
+		"2. 팬에 기름을 두르고 꼴뚜기를 1분 정도 볶아준다",
+		"3. 간장3T을 넣어서 간을 맞춘다",
+		"4. 올리고당2T,맛술2T을 넣어준다",
+		"5. 청양고추1개,채썬 당근,통깨를 넣고 볶아준다",
+		"6. 간단하게 만들 수 있는 꼴뚜기볶음 완성입니다~ 쫄깃하고 단짠의 맛이 더해진 밑반찬 꼴뚜기볶음이에요 맛있는 밑반찬 꼴뚜기볶음 레시피였습니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/d43815ec295d2ca0097afbaeba9c6b151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/460399a3e1bf89750afad66df6fa410a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/23c965f3fdc4fa076cecd1ed01acad211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/8c660d92b6a9049bd36c93dadac367361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/db9e8080c154276f6421b8f05e2788711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/028ddfe07ae285aa6274a7e9033705401.jpg"
+	]
+}

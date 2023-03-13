@@ -1,0 +1,182 @@
+{
+	"id": "6939934",
+	"name": "집밥 메뉴/ 닭고기 요리/ 찜닭",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/ca0dcf326354fa1401a245c3482791911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939934",
+	"ingredient_ids": [
+		299,
+		302,
+		27,
+		3,
+		579,
+		579,
+		379,
+		579,
+		455,
+		575,
+		647,
+		9,
+		295,
+		3,
+		27
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "닭다리살",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "닭다리",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "양배추즙",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "9",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실진액",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "콜라",
+			"ingre_count": "2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "물or닭삶은육수",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "감자작은것",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "4",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘편으로잘라줌",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "줄기"
+		}
+	],
+	"recipe": [
+		"1. 가족들이 넉넉하게 먹을수 있도록  닭 다리살 300 g x 2개와 닭다리 300 g x 1개를 준비 하였다. 그렇게 하여도 배달시키거나 외식하는 값보다는 쌀 것 같은 생각이 든다.",
+		"2. 지방을 제거하여 준비한다. 지방이 몸에 좋지 않을것 같아서 그렇게 했는데, 진한 맛을 원하면 대충만 제거해도 될것 같다.",
+		"3. 불순물과 누린내를 제거하기 위해 애벌 삶아주었는데 이 과정은  패스해도 된다. 내가 애벌 삶은 과정은~ 소주 3T, 대파 1/2 줄기, 양파 1/4개, 통마늘 5개 넣고 찌꺼기가 올라올때 까지만 삶아 주었다.",
+		"4. 닭 삶은 육수와 부재료는 건져 내고 육수만 따로 준비했다가 칼국수를 끓여 먹어도 좋고, 다른 요리에 사용해도 좋을듯 싶어서 냉동실에 보관 하려고 한다.",
+		"5. 삶은 닭고기는 찬물에 샤워를 하여  핏기와 찌꺼기를 씻어내 준다.",
+		"6. 샤워 시킨 닭고기는 소주 4T, 우유 1C,  양배추즙 1봉지로 재워서 하룻밤 냉장고에 숙성시켜 주었다.",
+		"7. 찜닭 만들 양념장으로는 : 간장 9T, 소주 3T, 매실 진액 2T, 생강 가루 1/4ts, 올리고당 2T, 후추 톡톡, 치킨 배달해 먹고 남아서 김 빠진 콜라 2C,  물 1C으로 만들어 준다. 물 대신에 애벌 삶아준 닭고기 육수를 사용하여도 좋다.",
+		"8. 찜닭에 올려 줄 채소로는 감자 작은 것  4개를 모서리를 깎아서 동글동글하게  만들어 준다. 그렇지 않으면 감자가 익으면서 부서져 모양이 예쁘지 않다.",
+		"9. 당근도 4cm정도 준비하여 감자와 같은  크기로 깎아준다.",
+		"10. 청양고추 5개는 속의 씨를 털어내고 썰어서 준비한다.",
+		"11. 양파 1/2개 나박나박 썰어주었고, 대파 1/2줄기 썰었으며, 통마늘 3개는 편으로 썰어 주었다.",
+		"12. 우묵한 그릇에 준비한 닭을 넣고 양념을  반만 넣은 후 졸여 준다. 한꺼번에 넣어서 짜면 회복하기가 힘드니까 조금씩 넣어서 간을 조절 하는것이 좋다.",
+		"13. 양념이 어느정도 닭고기에 스며들면  준비한 당근 넣고 조금있다 감자를 넣는다. 채소는 단단한 순서로 넣어 주는 것이 모양을  유지함에 도움이 된다.",
+		"14. 양파도 넣고, 대파 도 넣어준다. 편으로 썰어 준비한 마늘도 넣고, 청양고추도 넣어주고, 양념장을  조금 더 넣어서 졸여준다.",
+		"15. 불렸던 당면은 뜨거운물을 부어주면 부드럽게 된다. 뜨거우 물에 익혀주고  물은 버린다.",
+		"16. 불린 당면 위에 잘 익은 찜닭을 올려주면  맛있는 찜닭이 완성된다. 잘 챙겨먹고 코로나에 지지 말자!!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/127cb53a981b6ef1c257690897adeb9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/7e0cbe43f8b2ca2e7aa3dd198f9653141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/9670541efc86bdc6fb31b9cfb46571a61.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/d1aa45f2ae3b9755c86d399be31b5d301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/d9565d6f4efc1a4a56dfe5e24e0e473a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/ff3a0e42fe810a8ac55d78c9038fd0e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/a49f6a868c423a0df03fa45c7812b9dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/7888ce05ae0fa93eacdf63b4375fb8591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/8f7fa781f38d757a9a822802aa880bff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/b922003086b5904fb03cefa30e8e5c281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/9c24b3761ef047b0377b0e0064b5603d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/fde327af1eb0747f1ca45483833b87941.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/c944c29fa6e2ea0cf6393fd433cf48ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/26261a00ada3a14ee16620772771852d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/d93e80c3d08dbc75efd4c240ce2566501.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/f573344df20b642358e5c3486d68682d1.jpg"
+	]
+}

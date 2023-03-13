@@ -1,0 +1,94 @@
+{
+	"id": "6940885",
+	"name": "토마토 치즈 스파게티",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/633b5d4130e6cd0b84f81d9fc9a88e141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940885",
+	"ingredient_ids": [
+		735,
+		3,
+		29,
+		214,
+		469,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "3",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "소세지",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "페페론치노",
+			"ingre_count": "8",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "토마토스파게티소스",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		}
+	],
+	"recipe": [
+		"1. 재료준비",
+		"2. 양파 슬라이스로 잘라주세요",
+		"3. 마늘 편썰기 해주세요",
+		"4. 물이 바글바글 끓으면",
+		"5. 면을 넣어주시고 기름 소량을 넣어주세요 면이 붙지 않아요",
+		"6. 약간 매콤한맛을 위해 페페론치노를  사용할게요",
+		"7. 달구어진 프라이팬에 카놀라유를 두르고 편마늘을 넣어주세요",
+		"8. 마늘이 익으면 페페론치노를 넣어 같이 볶을게요",
+		"9. 그다음 양파를 볶고 바로 소세지도 볶아주세요",
+		"10. 소세지가 익어갈때쯤 토마토 스파게티 소스를 넣어주세요",
+		"11. 소스가 보글보글익기 시작하면 다 익은 면을 넣어주세요 면에 소스양념이 어울어 질때 까지 볶아주세요",
+		"12. 다 익으면 그위에 치즈를 올려주시고 전자랜지에 30초 돌려주세요전자레인지",
+		"13. 같이 곁들여 먹을 수 있게 피클을 세팅할게요",
+		"14. 데코는 원하시면 올려주시고 같이 맛있게 드시면 되세요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/a4514e6d94d92ab3457aab94dd63823f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/e24891048281fec843bd2089428c2d691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/46f54db9e6364bd3eddf17bbfafd458c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/87a7c714940ac33a90b2c8b9129022a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/cfa3b85a10be375a46ddb34bdef08abb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/13e29573e0c64d13615e3237b5806cae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/8a5efcbdf9088597f850fa510cb863af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/588ab3dc579a0bb30846194c1e8461b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/6ea616f0fd87fc54dbd63fed99e5ffe51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/867d6e58f31dca67ff453869d3584f631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/f25dc5a2082b1b68c02268b67e5d48da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/99f533b2c3aa05b7c8c60f161dff75231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/ef4680b77465cfba1d3b659480a59b981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/f8724418bd8e91aa34487ca376c210371.jpg"
+	]
+}

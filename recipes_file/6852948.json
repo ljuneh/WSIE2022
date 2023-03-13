@@ -1,0 +1,59 @@
+{
+	"id": "6852948",
+	"name": "김치볶음밥 만들기 초간단 초스피드 김치볶음밥 만드는 방법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/faa916873d3cb02179f52e4f7b87a2821.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852948",
+	"ingredient_ids": [
+		27,
+		953,
+		379
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "찬밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 대파와 김치는 쫑쫑 썰어둔다.",
+		"2. 달군 후라이팬에 기름을 두르고",
+		"3. 김치와 대파를 넣고 볶아준다.",
+		"4. 다른 후라이팬에는 계란후라이를 만들어 두고",
+		"5. 김치가 볶아졌다면 찬밥을 넣고",
+		"6. 입맛에 맞게 간장을 반스푼이나 한스푼 정도 넣고 볶아준다.",
+		"7. 골고루 잘 볶아졌으면 그릇에 담고",
+		"8. 계란후라이를 올려 마무리!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/1b21e509ad6af3e8346aee71afa233181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/99cfc847b28477c61d8c5af2b7c529451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/0ba44b7e52119108457b983f4327291a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/95f3e383ec11e15954913454239f29dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/83e339a47f23b9f41ef1ad38b3261b131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/af36f924303ddb7786a0a493de0359cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/0fe9d06a9c39e59ccbbeae2fefeb91361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/18/3c30e05c7496468cfce4cfb858c339d11.jpg"
+	]
+}

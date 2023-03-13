@@ -1,0 +1,88 @@
+{
+	"id": "6945546",
+	"name": "대파달걀 프라이토스트 빼빼로데이에 간식으로~~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/4e9ece1729b8d3f581547ced67523cdc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945546",
+	"ingredient_ids": [
+		503,
+		219,
+		27,
+		660,
+		497,
+		228,
+		379
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장마요네즈소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 식빵, 대파, 달걀을 준비 합니다.",
+		"2. 대파는 어슷하게 썰어 주고",
+		"3. 간장마요네즈 소스를 발라 줍니다. 간장마요네즈는 마요네즈에 간장을 조금 넣어 골고루 섞어 주시면 됩니다.",
+		"4. 어슷 썰어 놓은 대파는 참기름, 소금, 후추로 살짝 밑간을 해주고 살짝 볶아 줍니다.",
+		"5. 그리고 식빵 테두리에 뚝을 쌓아 줍니다.",
+		"6. 식빵을 에어프라이어에 넣고 달걀을 컵에 담아 얌전하게 부어 줍니다.",
+		"7. 에어프라이어는 160도로 15~20분 구워 줍니다.",
+		"8. 타지 않도록 온도 조절 잘 해주셔야 합니다. 고추가루를 살짝 뿌려 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/1a5fc08db5fe77694582c4dc6de07d511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/00d1f8a080cee048f077d87806d45eed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/1e23c685571c9981f04eed8be9a9a3fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/e96f4430588922ec6594f911416e4d7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/1b3b069143f439d3d2093f88b36772611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/b6adceccb2b9e0a0ebc3d51364b721e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/4bdbf037c891c0a5e23732078b79ef861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/336904ed88ad3e84092d99f75089edca1.jpg"
+	]
+}

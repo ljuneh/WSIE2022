@@ -1,0 +1,88 @@
+{
+	"id": "6943531",
+	"name": "추석 음식 활용, 담백한 도미찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/01cedeee67f4e335c0073c8f4d24cfb31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943531",
+	"ingredient_ids": [
+		323,
+		3,
+		323,
+		27,
+		876,
+		939,
+		29,
+		19
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돔",
+			"ingre_count": "1/2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "홍초",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 무, 두부, 양파, 대파, 고추는 먹기 좋은 크기로 잘라 준비한다.",
+		"2. 쌀뜨물을 냄비에 붓고 멸치와 다시마로 육수를 내준다.",
+		"3. 건더기는 건져내고 무와 도미를 먼저 넣어준다.",
+		"4. 무가 거의 익으면 양파, 두부, 고추를 넣고 액젓으로 간한다.",
+		"5. 마지막에 대파와 마늘을 넣고 마무리한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/3780aea16ba0beb87fce093807e557a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/057f804af1b541d9698215a8c6ed6bbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/4c3bed8927c5ac097a9b7ef152e6951d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/67cb1643dd4d530a2707eba34791f3791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f4755973c05653fae4be9f66c67bd0e21.jpg"
+	]
+}

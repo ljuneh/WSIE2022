@@ -1,0 +1,55 @@
+{
+	"id": "5052460",
+	"name": "홈메이드 빙수팥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/1ff597f71b3bdbdbcf3588784fb26494.jpg",
+	"url": "https://www.10000recipe.com/recipe/5052460",
+	"ingredient_ids": [
+		115,
+		995,
+		358,
+		497,
+		575
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "팥",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "7",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "무슈구슈",
+			"ingre_count": "3/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 검은팥을 준비해주시구요. 검은팥을 깨끗이 씻어주세요.",
+		"2. 압력솥에 팥을 넣고 물 3컵을 센불에서 끓인 후 추가 울기시작하면 불을 줄여 2분 끓인 후 곧바로 압력빼고 물을 버려주세요.",
+		"3. 압력솥에 다시 팥과 물 3컵반을 넣고 센불에서 끓여주시고 추가 울면 약불에서 13~15분정도 삶아주신 후에 불을 끄고 그대로 압력이 빠질때까지 뜸을 들여주세요.",
+		"4. 물 3/4컵, 올리고당 1컵, 무슈구슈 3/4컵, 소금을 넣어 중불에서 가끔 저으면서 10분정도 졸여주세요.",
+		"5. 물이 자작한 정도보다 넉넉하게 남아있을때 불을 꺼주세요. 불에 올려 약 10분 정도 끓인 후에 내려주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/c3c3c6a529a6c830af204b17e18a61521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/9732a49a951ebed49878656d8e76bd211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/239d33638326aa719660d649417edd5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/fe140f6a0148eaad94a3bac25e42b3671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/144e90701db30bff46bd20e64c9699341.jpg"
+	]
+}

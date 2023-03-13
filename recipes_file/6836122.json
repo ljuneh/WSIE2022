@@ -1,0 +1,72 @@
+{
+	"id": "6836122",
+	"name": "백선생 배깍두기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/13/93a9b470c465f33f962363328db381df1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6836122",
+	"ingredient_ids": [
+		142,
+		27,
+		224,
+		497,
+		333,
+		29,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "배",
+			"ingre_count": "1",
+			"ingre_unit": "개반"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참치진액",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 맛난 배는 깍아서 먹어주고 맛을 보니 시큼하니 단맛이 덜한 배는 먹다가 냉장고에 넣어둬서 반쪽씩 3개가 돌아다니더라는....그래서 배깍두기를 시작했네요. ",
+		"2. 배는 껍질을 벗겨 새끼 손톱만하게 깍뚝썰기해줘요.",
+		"3. 양념은 간단하게 고춧가루, 마늘, 멸치액젓, 참치진액, 통깨, 대파를 넣었어요. 배가 안 달다고 해도 배는 배니까 설탕이나 매실청은 안 넣어도 되요.",
+		"4. 비닐 장갑 끼고 슬슬 버무려주기만 하면 끝....간은 마지막에 보고 소금으로 간하심 되요. 약간의 소금은 단맛을 높여준다는거..... ",
+		"5. 유치원에서 나오는 깍뚜기처럼 자잘자잘....수저도 떠 먹어도 되요. 달짝지근해서 아이들도 잘 먹어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/13/9848ec29fd4d97e431930770eb93f72d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/13/16d7e31380d6da2df5d1237c51608a3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/13/4564e19f3e5a1756d1c3e11f2a7363621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/13/cb9165858149d04fb1fafe56912ad3261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/13/5e0ef500e84376714a35e647d810d1361.jpg"
+	]
+}

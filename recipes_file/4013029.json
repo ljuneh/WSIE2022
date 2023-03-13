@@ -1,0 +1,59 @@
+{
+	"id": "4013029",
+	"name": "고소미",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/9118cc0f8f62b59859977bb3cd66e0c6.jpg",
+	"url": "https://www.10000recipe.com/recipe/4013029",
+	"ingredient_ids": [
+		543,
+		478,
+		469,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "중력분",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "6",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "6",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "6",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "찻스푼"
+		}
+	],
+	"recipe": [
+		"1. 카놀라유6스푼, 흑설탕6스푼, 우유6스푼을 넣고 거품기로 잘 섞어줍니다.",
+		"2. 여기에 밀가루2컵과 소금1/2찻스푼을 섞어서 체망으로 내려줍니다.",
+		"3. 통깨2스푼을 넣고 주물주물 반죽을 해줍니다.",
+		"4. 밀대로 최대한 얇게 밀어준후 꿀과 물을 1:1비율로 섞어서 식용붓으로 반죽위에 한번 발라줍니다.",
+		"5. 반죽에 포크로 구멍을 내주시고 오븐팬에 종이호일을 깔고올린 후 170도에서 10분가량 구워내시면 완성입니다.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/fab68bf5f8ef622884237b1291fff4f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/9479e627ed010dea8c979ddf268cb71e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/59aafec10ee37ddd8c3c24be2382c3331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/e97c338cf913d7fd9b54f71db621e65b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/b33f85eb430e14bffb0c30bcf7c029021.jpg"
+	]
+}

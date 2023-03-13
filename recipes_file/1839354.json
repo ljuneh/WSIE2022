@@ -1,0 +1,79 @@
+{
+	"id": "1839354",
+	"name": "영양만점 참치샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/d93c769c20a02cee105acdee0796598f.jpg",
+	"url": "https://www.10000recipe.com/recipe/1839354",
+	"ingredient_ids": [
+		42,
+		228,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "참치1캔(100g)",
+			"ingre_count": "1캔(100g)",
+			"ingre_unit": "캔(g)"
+		},
+		{
+			"ingre_name": "다진사과",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파프리카",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "오이피클",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "데친브로콜리(생략가능)",
+			"ingre_count": "3-4송이",
+			"ingre_unit": "-송이"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "허니머스타드",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 참치캔은 기름을 따라내고 숟가락으로 꾹꾹 눌러주세요.",
+		"2. 사과와 야채들은 잘게 잘라주세요.",
+		"3. 볼에 사과와 야채, 참치를 넣고 마요네즈 2큰술, 허니머스타드 1큰술, 소금 약간, 후추 약간을 넣고 잘 섞어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/8037c15e45b8d6e79f5186f105ed8cf21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/1631070e7c03b070db39089949e536f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/f44342ba932ddc4609ef5ce3fa1dbfa51.jpg"
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "6940262",
+	"name": "동그랑땡~!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/c89d5d8c81db000eca5f027fa8abc76b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940262",
+	"ingredient_ids": [
+		914,
+		323,
+		233,
+		219,
+		291,
+		225,
+		292
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기다짐육",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "다진당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 다짐육과 두부를 준비합니다.",
+		"2. 다짐육은 키친타월에 올려 핏물을 제거한 다음 볼에 넣어주고, 두부는 면보에 물기 짜낸 다음 다짐육과 같이 넣어줍니다.",
+		"3. 파도 조금 다져주고,",
+		"4. 당근도 조금 다져줍니다.너무 많이 넣으면 겉돌기때문에 조금만 넣어주세요~",
+		"5. 볼에 다진파와 당근 넣어준 다음 다진마늘 1큰술도 넣어줍니다.",
+		"6. 맛소금 1티스푼, 맛소금 대신 소금을 넣어줘도 됩니다.이건 양이 어느 정도냐에 따라 넣는게 달라지니 양이 많다면 좀 더 넣어주셔야 합니다. ",
+		"7. 후춧가루 조금 뿌려주고,",
+		"8. 맛술도 1큰술 넣어줍니다.",
+		"9. 그다음 치대서 반죽을 만들어 줍니다.",
+		"10. 달걀 4개 깨뜨려 풀어주고요.",
+		"11. 이렇게 반죽을 조금씩 떼어내 동그랗게 빚어줍니다.",
+		"12. 그냥 대충 동그랗게 만들어 주시면 되요~",
+		"13. 이제 달걀물에 만든 전 넣어 달걀물을 입혀준 다음 숟가락으로 하나씩 떠서 부쳐주면 됩니다.",
+		"14. 후라이팬에 기름 두르고 달궈준 다음 숟가락으로 하나씩 떠서 부쳐주는데요. 부칠때 뒤집개로 살짝 눌러가며 부쳐주세요~ 그래야 안까지 익어요~약불...",
+		"15. 이제 뒤집어가며 3~5분 정도 구워주면 동그랑땡 완성입니다.",
+		"16. 이렇게 넣게 펼쳐 식혀준 다음 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/8376e5a777c03b35c0aa5c8ae12376a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/198ed0ec5573abe484564100c34b23b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/433dc336ac821e8819f22ec6f3cda7f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/7c8cbf728233bca7fea95222a3caa5f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/e34eec895bbd17fc185a580a8f12c5281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/69f29c4a4abac64c36d16c54eb25b60c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/b494ec3bdb7d4176ca0a290a9192396c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/c739bfd529d76eed5cee86864c927ddd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/baef4a5e4852bc9deaa68f5a15331b521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/2d32500d4989046d15a3dc97d15b39101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/811c16e1d432416167b12d69dc0fb6fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/db4959230187dca950ed52ffb38a2f9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/11d1e229df07edf47d4a83faa7859a7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/d4fb243b4b5f363712d6c506dfe89abe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/3defe5def755b30bf65b8e184ec0a6bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/7f5d6b618f4e2ed83d148fd53f7b85a21.jpg"
+	]
+}

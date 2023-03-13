@@ -1,0 +1,38 @@
+{
+	"id": "6838508",
+	"name": "집에서 해먹는 오븐 군고구마",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/59017386ebe23f60986d252d073625e51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838508",
+	"ingredient_ids": [
+		539
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "호박고구마",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "종이/호일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 고구마를 세척해주시구요. ",
+		"2. 오븐 팬에 종이 호일을 깔고 세척한 고구마를 올려줍니다.",
+		"3. 220도에서 예열을 해줍니다. 예열은 자동으로 꺼지니 신경쓰시지 않아도 되구요. 고구마의 크기나 양에 따라서 오븐 온도나 굽는 시간은 달라질 수 있습니다. 오븐",
+		"4. 고구마에 칼집을 살짝 내주면 좋아요. 과도를 사용하시면 편하구요.",
+		"5. 예열이 끝나면 고구마를 넣어줍니다. 220도에서 25분간 구워줍니다. 덜 익은 것 같아서 10분간 더 구워주었습니다. 안 익었으면 이렇게 추가로 돌려주시면 됩니다. 익었나 안익었나는 젓가락을 찔러 보시구요.",
+		"6. 칼집을 넣어 익혀서 고구마 모양이 흐트러지지 않았답니다. 종이호일이 닿는 고구마 밑면은 살짝 타서 더 먹음직스럽답니다. 완성컷에서 보시면 알아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/58b3bdbd535bbf0fa8747ad000360bc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/a54cb1f9ad40f03f121de7d97a0ac4b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/9a42a3b084b85c9a2bbf37fbdd370ce81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/1d21008c089d5e7e4460a39f2b92c3781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/3d9c22ab568156b6f69bdcae02252fc21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/8356a14777af3da65b5a33aa01862b491.jpg"
+	]
+}

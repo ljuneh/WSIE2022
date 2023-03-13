@@ -1,0 +1,69 @@
+{
+	"id": "6906738",
+	"name": "치밥.. 꼭 먹어야 하는 것.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/16/0a1cd98b8d5742865f2aed2362e4b1911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6906738",
+	"ingredient_ids": [
+		27,
+		966,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "매운양념치킨소스",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "3",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "치킨무",
+			"ingre_count": "",
+			"ingre_unit": "남은거"
+		},
+		{
+			"ingre_name": "조미김",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 남은 매운 양념치킨 소스에 뜨끈한 밥 3공기를 넣어주세요. 치킨무는 잘게 썰어주시고 대파도 채 썰어주세요. 조미김 넣고 참기름 넣고 통깨 넣고.. 계란 빼고 다 넣으시면 되요. 치킨무는 꼭 넣는걸로.. 없음 단무지라도. 아삭 씹히는게 좋아요.",
+		"2. 비닐장갑을 끼고 마구 비벼주세요.",
+		"3. 끓는 물에 4분간 계란을 삶아주세요. 삶을때 노른자가 가운데 위치할려면 젓가락으로 돌돌돌 돌려줘야 합니다. 4분정도 삶으면 반숙 계란이 되요.",
+		"4. 이쁜 그릇에 잘 배분해 주시고 마성 계란을 올려주세요. 반숙이 싫으신 분을 위해 프라이로도 가능. 근데 마성반숙계란이 짱..",
+		"5. 대파 채썬거 넣고 통깨 톡톡. 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/16/7208b9a275d380923aec8d353902f81b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/16/9666f98af6a627799d2ddefbfb50aa261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/16/0788c4383bc5292054a5b443da8792f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/16/c983797b5aa363cf9df7334d7798e4511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/16/8f748c8cf65afd5ef02dd1103466f4b61.jpg"
+	]
+}

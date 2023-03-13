@@ -1,0 +1,99 @@
+{
+	"id": "6940743",
+	"name": "명란마요덮밥 : 청양고추를 넣어 느끼하지 않아요!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/f499400bc46f520b432d32247c5f8db11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940743",
+	"ingredient_ids": [
+		219,
+		295,
+		757,
+		3,
+		226,
+		228,
+		497,
+		290,
+		660,
+		577
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "깐명란",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "10",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/5",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "와사비",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 재료사진입니다. 명란의 경우,  백명란을 까서 준비를 했어요. 세 줄 정도 깠는데 많더라구요. 두줄 정도 까면 충분할 것 같아요 깐 명란 기준 두 큰술이면 충분해요!",
+		"2. 재료를 썰어줍니다. 청양고추/양파/쪽파를 썰어줍니다. 전체적으로 밥에 고명을 올려서 먹는 덮밥 느낌이니까, 잘잘하게 잘라주었습니다. 양파는 약간 얇으면서 길쭉하게 잘라주었어요.",
+		"3. 명란을 까줍니다. 도마위에 명란을 올리고, 젓가락으로 살살 벗겨주면 깔금하게 깔 수 있습니다!",
+		"4. 마요네즈+영양고추 소스를 만들어줘요. 마요네즈 4큰술과 썰어둔 청양고추, 설탕 1/5큰술을 넣어서 마요네즈 소스를 만들어줍니다. 마무리로 후추도 톡톡해주셔요",
+		"5. 달걀은 스크램블을 해줍니다. 팬에 달걀4개를 풀어줍니다. 달걀이 밑에는 살짝 굳어서 노란빛깔이 돌때, 휘휘저어서 몽글몽글한 모양이 되도록 만들어줍니다!",
+		"6. 플레이팅을 해줍니다. 그릇에 밥을 담고, 쪽파 절반, 스크램블을 절반정도 담아 색을 살립니다. 그 위에 깐명란 한큰술과 마요네즈 소스를  얹어주세요!",
+		"7. 생양파와 와사비도 곁들여줍니다. 명란위에 깨와 참기름을 뿌려주세요. 명란의 비린향을 조금 잡아줄 수 있어요와사비는 꼭 넣을 필요는 없는 것 같아요! 없으면 생략해도 될 듯 합니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/778a201894ac5bfaea5f11b632e32cd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/5d61f751b0a9bec415947377226031f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/6613b1e2d4a9d2629d0140ccbcebfef61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/12f7c2592156731c139c733f8bf270341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/99ec96825aa4dc9053b8b1222c901a2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/6fb1a49b30a05898dec03eb02ac7c0ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/ce4786a91d47caf55f0e2203a78f36541.jpg"
+	]
+}

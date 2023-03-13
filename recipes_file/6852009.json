@@ -1,0 +1,90 @@
+{
+	"id": "6852009",
+	"name": "짜장면 볶은춘장으로 짜장면 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/02/40c4f639ca973d9acccecdf7cbe0cbc41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852009",
+	"ingredient_ids": [
+		5,
+		3,
+		226,
+		379,
+		995,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지고기(채)",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "춘장1/2봉지기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "봉지 기름"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2~3컵",
+			"ingre_unit": "~컵"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "면",
+			"ingre_count": "3",
+			"ingre_unit": "인분"
+		}
+	],
+	"recipe": [
+		"1. 채소는 모두 비슷한 크기로 썰어주고 돼지고기는 채 썰은 걸로 사용했는데 깍둑썰기나 다진 고기도 상관없어요~",
+		"2.  팬에 기름을 넉넉히 넣고 춘장을 볶은 뒤 기름은 채에 받혀 걸러주고 춘장은 따로 덜어줍니다",
+		"3. 팬에 춘장 볶던 기름을 넣고 돼지고기, 마늘, 생강을 넣고 볶은 후 생강은 빼줍니다",
+		"4. 볶은 고기에 채소를 넣고 볶다가 춘장을 넣고 고루 섞어가며 복아줍니다",
+		"5. 물을 넣고 끓으면 전분을 풀어 넣고 섞은 뒤 소금, 설탕, 간장으로 간을 맞춰줍니다",
+		"6. 끓는 물에 면을 익힌 후 물기를 빼줍니다",
+		"7.  오목한 그릇에 면을 담고 짜장소스를 넉넉히 넣어주면 짜장면 만들기 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/05/16b6bddff1e5bc1c9c0d80a3d601c7eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/05/0f54005b342d6aab36d56031458544311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/05/05a1626f471120729da20399d3746ea81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/05/ce838cc06c25cd7470133389c3f210461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/05/be41886e9e51b2ce92fefb8ae132c0bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/05/96dfc37b44ec436f242b446c1a0241811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/05/0c8dffe16fee6b85c6b8cc7fee6469f81.jpg"
+	]
+}

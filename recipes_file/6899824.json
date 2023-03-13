@@ -1,0 +1,59 @@
+{
+	"id": "6899824",
+	"name": "하이라이스 가루와 케찹으로 간단하고 맛있는 하이라이스 만들기!! ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/09/b7c548b462f15de28b8d4c85e13c71dd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6899824",
+	"ingredient_ids": [
+		5,
+		9,
+		3,
+		724
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "8",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1",
+			"ingre_unit": "개반"
+		},
+		{
+			"ingre_name": "하이라이스분말",
+			"ingre_count": "8",
+			"ingre_unit": "큰스푼"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "2",
+			"ingre_unit": "스푼​"
+		}
+	],
+	"recipe": [
+		"1. 재료들을 먹기좋게 깍뚝썰기로 썰어주고 하이라이스는 먼저 잘 풀어줍니다저는 건더기가 큰게 좋아서 조금 큼지막하게 썰었어요 감자는 찬물에 15~20분 정도 담궈 전문을 빼줍니다",
+		"2. 냄비에 올리브유를 적당히 두르고 감자와 당근을 먼저 5분정도 볶아줍니다중강불로 볶아주세요볶을때 후추를 넣어주면 더 맛있어요",
+		"3. 햄과 양파를 넣고 2~3분 정도 더 볶아줍니다중강불로 볶아주세요야채를 오래 볶을수록 야채맛이 더 우러나와 맛있습니다",
+		"4. 미리 풀어둔 하이라스 분말을 넣고 물양을 맞춰줍니다 이때 케찹도 같이 넣어줍니다",
+		"5. 약불로 40분~1시간정도 푹 끓여주면 맛있는 하이라이스 완성!!중간중간 바닥에 눌러붙지 않게 저어주셔야해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/09/40aec0d9a34a707fe8bc88b0ac6ea3091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/09/bc46c08b3e1d209fb0da400fc375280c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/09/00579b10a36b9c4d65640c91fe387f751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/09/e0282263bf49c052d521cecdc3ada8171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/09/9034432fc825e899bb98e4e58d9b01431.jpg"
+	]
+}

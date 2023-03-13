@@ -1,0 +1,87 @@
+{
+	"id": "5352616",
+	"name": "소고기미역국 맛있게 끓이는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/9c92d2bb20ffb171d8f6582567c533021.jpg",
+	"url": "https://www.10000recipe.com/recipe/5352616",
+	"ingredient_ids": [
+		896,
+		876,
+		333,
+		660,
+		497,
+		379,
+		349
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "마른미역",
+			"ingre_count": "17",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소고기국거리",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "18",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "4",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "5",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		}
+	],
+	"recipe": [
+		"1. 고기밑간 재료인 간장과 후추약간을 넣고 소고기는 재워둡니다.",
+		"2. 미역은 20분정도 불려 먹기좋은 크기로 썰어 국간장 2스푼을 넣어 무쳐줍니다.",
+		"3. 쌀뜨물을 준비해줍니다.",
+		"4. 참기름 2숟갈을 넣고 소고기부터 달달 볶아줍니다.",
+		"5. 고기가 허옇게 익어가면 다시 참기름 2숟갈을 넣고 미역을 넣고 함께 볶아줍니다.",
+		"6. 쌀뜨물을 부어 푹 끓여줍니다.",
+		"7. 센불에서 20분 끓이다 중불에서 40분 뚜껑을 덮어 끓여줍니다.",
+		"8. 멸치액젓으로 간을 맞춰줍니다.",
+		"9. 약불에서 40분 뚜껑을 덮어 뭉근하게 끓여주세요.",
+		"10. 모자란간은 소금으로 맞추고 참기름 한스푼 넣은 후 뚜껑을 덮어 5분정도 더끓이면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/9fbfd2886472b1f61505aef0b4eaa99d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/2a728fbc8a85e634ed71348e26a1a7841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/85e73353544ec35cfd57eeaa7eadb98e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/7e912cf4aa121f0d100918918c4f80ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/831f54375b8979254881ff4aed9013d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/52c56b3b6061234717fbe39f05febd5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/db29f9968b7331fb60e37cf970c22b371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/f7d6d97412a6b7bfbb5e8538c851e2e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/dfbe0d796d3b4ebada3055aaac6fcee61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/65a6e20b2d4e57cff5656717c89107ee1.jpg"
+	]
+}

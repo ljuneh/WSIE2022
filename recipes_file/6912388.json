@@ -1,0 +1,72 @@
+{
+	"id": "6912388",
+	"name": "박막례 간장비빔국수 맛의 재발견",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/05/19/5b312ef33f023b9655c6a711e03c65fc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6912388",
+	"ingredient_ids": [
+		523,
+		226,
+		231,
+		233,
+		660,
+		543,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 먼저 애호박과 당근은 채썰어 준비해주세요.",
+		"2. 냄비에 물이 끓으면 소면을 넣어주고 끓어오르면 찬물 반컵 부어주고, 또 끓어오르면 찬물 반컵 부어주고, 그렇게 2-3번의 과정을 반복해주세요                   ",
+		"3. 면이 거의 익었을때쯤 썰어둔 애호박과 당근을 넣고 1-2분정도 더 끓여주고 면과 야채는 빠르게 찬물로 이동해 전분기를 빼주고 채에 받쳐 물기를 빼주세요.                   ",
+		"4. 진간장 3스푼, 설탕 3스푼, 식초 1스푼, 다진마늘 1스푼, 참기름 2스푼, 통깨 1스푼, 물 1스푼을 섞어 간장양념을 만들어주세요.",
+		"5. 그릇에 물기를 뺀 면과 야채를 담고 분량의 양념을 올려 슥슥 비벼주기만 하면 맛있는 간장국수 완성이에요♥"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/22/4b85b3e87bdeb3c2df19864b5c496f371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/22/e972a235a656e1fb672f782995eee6c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/22/62a6aceb41407c313b23514ed68228951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/22/73cf86a2ef871efb8ae81a691cea69711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/22/928dea3e17f58525919b7051d15495081.jpg"
+	]
+}

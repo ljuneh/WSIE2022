@@ -1,0 +1,99 @@
+{
+	"id": "6940971",
+	"name": "콩크림잼을 곁들인 견과또띠아피자, 정식품 콩국물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/52dd6e133a5eeb63acc40f837446674d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940971",
+	"ingredient_ids": [
+		184,
+		195,
+		826,
+		460,
+		208,
+		216,
+		485,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "또띠아",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "땅콩",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "피스타치오",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "건무화과",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "건포도",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진한콩국물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비합니다. 콩국물은 정식품 진한 콩국물을 사용했어요.",
+		"2. 콩크림잼 먼저 만들어줍니다. ﻿콩국물 : 생크림 = 2:1 비율로 담아줍니다.",
+		"3. 2에 ﻿설탕을 넣어줍니다.",
+		"4. ﻿냄비를 불에 올려 약불에서 바닥이 눌어붙지않도록 30여분간 천천히 저어줍니다.",
+		"5. ﻿약간의 부드러운 흐름성이 있는 정도에서 멈추어야 냉장 보관시 굳어도 발림성이 좋아요.",
+		"6. ﻿끓는 물에 소독한 유리병에 완성된 콩크림잼을 담고 냉장고에서 차갑게 식혀줍니다.",
+		"7. ﻿부드러운 흐름성을 갖는 콩크림잼이에요. 부드럽고 달콤고소하답니다. 일반 빵에 발라먹는 스프레드 용도로 사용하면 좋아요. ﻿",
+		"8. ﻿또띠아 피자에 곁들일 견과류와 건과일을 굵게 다져줍니다. ﻿",
+		"9. ﻿또띠아에 크림치즈를 바릅니다.",
+		"10. 9에 ﻿다져놓은 건과일과 견과류를 올려줍니다. ﻿",
+		"11. 10에 ﻿피자치즈 넉넉히 올려줍니다.",
+		"12. ﻿예열된 오븐 180도-8분여 정도 치즈가 녹아내릴 정도로만 구워줍니다. ﻿오븐",
+		"13. ﻿또띠아피자에 뜨거운 열기가 남아있을때 콩크림잼을 군데군데 발라줍니다. ﻿"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/c82fc5c0f1821fe3cbb45a83167007611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/fb4650b914f3cc4792bb99e7283520cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/78e416aa07f3f3e69f8bb5581ebe6dc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/b867e390d4d3520b2d5c3e886095aa781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/d4f9cf3af6a7506262edaf669ed36e941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/315c51204cd7463cc55297f8c8b596a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/39b44fd3456e5820a6f0442be38e2e061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/16fb39c1675c3a632b6434353e1365b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/6af8151080ca363895644aade4fe4f021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/1bd6454dcba778ca04f3d6ac79bd41351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/611aa9c74f30e08142264faaf2dfc10b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/8d4cddedccdb7b253f8a9c43e597af431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/f39c29d59489d899dbcb04cc4122d70c1.jpg"
+	]
+}

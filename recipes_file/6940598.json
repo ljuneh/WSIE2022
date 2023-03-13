@@ -1,0 +1,65 @@
+{
+	"id": "6940598",
+	"name": "궁합도 안 본다는 카레 & 돈까스! 모둠카츠 카레정식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/2c24e7958a9962060cdfe45851c5af701.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940598",
+	"ingredient_ids": [
+		995,
+		3,
+		198
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고체카레",
+			"ingre_count": "4",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "Tbs"
+		},
+		{
+			"ingre_name": "통등심돈카츠",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "모짜렐라돈카츠",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 양파를 얇게 채 썰어요.                     \r                             라오메뜨 이태리 천연세라믹 트레이 도마                          ",
+		"2. 팬에 버터(1Tbs)를 넣고 양파를 캐러멜라이징해요.10분 이상 볶아 갈색을 띨 때까지 볶아요.  \r                             스타우브 원형 꼬꼬떼 22cm 바질그린(ST102285)                          ",
+		"3. 물(300ml)을 넣고 한소끔 끓여준 뒤 핸드블렌더로 갈아요. 핸드블렌더가 없다면 한 김 식힌 후 믹서기에 갈아요. (* 선택사항)                     \r                             까사니 핸드 블랜더 4in1 세트                          ",
+		"4. 물(300ml)과 우유(150ml), 고형카레를 넣은 뒤 약불로 원하는 농도가 될 때까지 뭉근하게 끓여요.바닥이 눌러붙지 않게 저어가며 끓여요.",
+		"5. 돈카츠를 에어프라이어에 넣고 180도에 15분간 익혀요.에어프라이어",
+		"6. 완성된 카레에 밥과 고메돈카츠 4종을 잘 세팅해요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/256aefbb7d78741cab6be00c7406850d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/e81d3889f56d6829d3d4977e02aded801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/3ccbe0870dd74ae59bc45ff5a17970dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/f855d4f88061d4e50b7fe2fd25a37e241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/0980aa0b971af16d6606ffc844c8d5921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/9e5b776bc8f192bd6a06e51526295ecf1.jpg"
+	]
+}

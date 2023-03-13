@@ -1,0 +1,31 @@
+{
+	"id": "6920237",
+	"name": "밤에 칼집 내서 에어프라이어로 군밤 굽기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/09/27/bd1e4f0234acd7f24cab45a059b5d8001.jpg",
+	"url": "https://www.10000recipe.com/recipe/6920237",
+	"ingredient_ids": [
+		187
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밤",
+			"ingre_count": "25",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 먼저 칼집내기 편하게 끓는 물에 20분 정도 담가주세요. (이때 밤이 잠길 만큼)",
+		"2. 그리고 평평한 쪽에 길게 칼집을 내주시면 OK. 대략 4~5cm 정도? *십자 무늬를 내주셔도 OK. 칼에 손이 베일 수도 있으니~ 두꺼운 장갑을 껴주는 게 좋겠죠!",
+		"3. 에어프라이어에 종이호일을 깔고 밤을 넣어준 다음 180도에서 25~30분 정도 구워주시면 된답니다. *원하는 굽기 정도는 다들 다르시더라고요. 그러니 취향에 따로 조절해주시면 OK. 에어프라이어",
+		"4. 그리고 손으로 껍질을 까주면 쉽게 촥촥촥 벗겨진답니다ㅎㅎ ",
+		"5. 200도에서 20분 구워주면, 더 잘 벗겨지기는 한데. 겉이 더 딱딱해지는 것 같더라고요ㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/27/28e91611c23d8a6348ca65588f84d24a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/27/3b6fe2cf14171df3ee6dee812cf98cbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/27/a56a98c274a8753259d287ea370dfbb81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/27/278d6d3874b35377eda8819e3e792e8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/27/f662a310e093e6bad022ad49e5ca1a011.jpg"
+	]
+}

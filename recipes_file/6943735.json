@@ -1,0 +1,58 @@
+{
+	"id": "6943735",
+	"name": "스크램블 에그(계란요리, 식사대용, 아기반찬)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/df67ac5f078eaaa205e9225f10fa23171.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943735",
+	"ingredient_ids": [
+		497,
+		504
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 그릇에 계란을 깨서 담는다.",
+		"2. 소금, 후추를 넣어준다.",
+		"3. 노른자 테두리에 알끈을 제거한다.(이것은 콜레스테롤도 높아서 좋지 않고 그냥 두면 부드러운 맛을 해친다.)",
+		"4. 우유를 넣어 계란을 잘 풀어준다. (우유대신 생크림을 넣어도 됩니다.)",
+		"5. 팬에 식용유를 두르고 가열되면 약불로 낮춘다.(식용유 많으면 튀겨지듯이 기름지게 되서 식용유가 많이 부어지지 않게 주의한다.)",
+		"6. 계란물을 부어준다.(센불에서 구우면 계란이 부드럽지 않고 거칠게 되므로 약불에서 한다.)",
+		"7. 가장자리에 계란이 익기 시작하면 젓가락으로 살살 젓는다.",
+		"8. 반숙이 되었을 때 가스불을 끄고 반숙이 좋으면 그대로 먹어도 되고 완숙을 원하면 팬의 잔열로 완숙으로 익히면 완성된다. (빵과 잼을 함께 곁들이면 간단한 브런치로 좋아요^^)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/f156b8b9a2b486cda7c1727de6235e071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/eae7760ad8827d2c2aa801d284a80ada1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/f569f9cea6dc8c21d164b830004b31111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/3a69b879a679a64e71b70f020535ed1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/a3775d8bf08320c73a84a9b9d4d857231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/c2e5ab9c1eae9f93db7e2c87708bee351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/3e2c75abba3bcb79f12c4445b45b958d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/4d18d4a2d9f4b91cc6400d92865d15971.jpg"
+	]
+}

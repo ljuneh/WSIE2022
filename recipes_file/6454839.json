@@ -1,0 +1,77 @@
+{
+	"id": "6454839",
+	"name": "묵은지 삼치조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/8f54bf91400aa7785093721b45a64fb61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6454839",
+	"ingredient_ids": [
+		72,
+		995,
+		379,
+		455,
+		343,
+		226,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삼치",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 묵은지와 깨끗하게 손질해 씻은 삼치를 준비해 주세요~~",
+		"2. 냄비에 삼치와 묵은지를 넣고",
+		"3. 물 1컵, 간장 1큰술, 생강가루 약간, 미림 2큰술, 설탕 1큰술, 고춧가루 2큰술을 섞어 양념장을 만들어 주세요~~",
+		"4. 냄비에 양념장을 넣어 끓여 주는데 간장의 양은 많이 넣지 않아도 된답니다. 김치에 간이 되어 있어서 졸여지면 또 간이 골고루 베인답니다. 고춧가루의 양도 만약 김치양념이 많다면 많이 넣지 않아도 되지요. 김치 삼치조림 만드는 법 이제 끓이기만 하면 된답니다.",
+		"5. 삼치조림을 15분정도 끓여주었어요. 붉은고추와 청고추는 넣어도 되고 안넣어도 된답니다. 김치 덕분에 맛있는 삼치조림 만들기는 완전 쉽게 끝날 수 있었답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/406ab92dcb60b613f58a20189ba37cf11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/b6b5e245acbb770b76eb63f9564ed80d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/2beec2e6ecebbe4221326529cbb826e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/171df34e3ac01dc76c38235b4f0191b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/538b6499e81f2c8d4ac08b80876e086d1.jpg"
+	]
+}

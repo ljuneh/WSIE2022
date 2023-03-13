@@ -1,0 +1,110 @@
+{
+	"id": "6941189",
+	"name": "경기미 참드림 김밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/34f988f20af9373a750a3f7e881746b31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941189",
+	"ingredient_ids": [
+		9,
+		6,
+		289,
+		26,
+		628,
+		95,
+		325,
+		3,
+		29,
+		390,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개."
+		},
+		{
+			"ingre_name": "크리미",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "우엉",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 준비를 하고 쌀은 좀 불려서 압력밥솥에 한다",
+		"2. 먼저 맛살과햄을 볶아 주세요",
+		"3. 파프리카.당근.크리미 맛살을 볶아 주세요",
+		"4. 계란을 붙여주세요",
+		"5. 지금까지 재료들을 넣고 말면 끝",
+		"6. 사람마다 성향이 다양해서 목이 매일 수 있어 새우젓넣은 호박짜작이 소화가 잘됩니다.",
+		"7. 이제 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/229e18c9485ffaa62e861b7f2235c8231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/7bbfa2b6a985799ef992790d2cbb4b541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/2d1e10b749c87b66dda025b41556567b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/3b2e2c299e19187770e83b3ade38b0c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/b0d775e57e1848c7ef7ba6a9c76de5fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/861d28d8e8d2c5526ef6da477eb1ced81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/186c0e9d9689e5dd65a9386aa29ba5441.jpg"
+	]
+}

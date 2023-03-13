@@ -1,0 +1,61 @@
+{
+	"id": "6836178",
+	"name": "남은 김밥으로 볶았습니다. 김밥김치볶음밥, 김치김밥볶음밥, 김밥볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/14/e1e052afa350cdc8432e88ec8a6b68221.jpg",
+	"url": "https://www.10000recipe.com/recipe/6836178",
+	"ingredient_ids": [
+		953,
+		302,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김밥",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 당면 20g을 물에 미리 1시간 이상은 담궈 불려 줍니다.",
+		"2. 불린 당면은 가위로 너무 길지않게 2~3cm길이로 잘라 주세요.",
+		"3. 미리 잘라두지않은 김밥 2줄은 보통 먹는 두께로 잘라 줍니다. ",
+		"4. 달군팬에 참기름 2큰술을 두르고 다진 묵은김치 200ml컵으로 한컵, 준비한 당면을 넣고 볶아 줍니다.",
+		"5. 당면이 부드럽게 볶아지면 준비한 김밥을 넣고 마구 으깨주면서 볶아 줍니다.",
+		"6. 김밥과 김치, 당면이 고루 잘 볶아지면 통깨 1큰술을 넣고 마무리해주시면 되겠습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/0991d6cea8963491f390080a276eb9dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/7d2e2fda34520b3d81c97443302196631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/4cc33b23b2ef115432ef1008983138a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/31c598efb137464cc3a99ebaf070593d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/cf77daad861021b5d7bd0a067d95c1a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/6287ab5b5ddf1bc8a28b414683513f0a1.jpg"
+	]
+}

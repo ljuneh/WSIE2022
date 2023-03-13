@@ -1,0 +1,46 @@
+{
+	"id": "6863608",
+	"name": "혼술안주도 논현동 포차 스타일로~소주안주베스트 무뼈닭발소면!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/10b232fef5936522c6677b9a3dae59251.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863608",
+	"ingredient_ids": [
+		3,
+		34,
+		523
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "청정원안주야무뼈닭발",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소면",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 양파는 얇게 채썰고 고추는 송송 썬다. 1의 양파와 고추를 찬물에 넣어 싱싱하게 살린 후 건져 물기를 뺀다.",
+		"2. 소면은 끓는 물에 삶아 찬물에 헹궈 물기를 뺀 후 타래를 지어 놓는다.",
+		"3. 닭발은 전자레인지에 살짝 해동 후 팬에 볶아 접시에 담는다.전자레인지                   ",
+		"4. 4의 접시에 양파, 고추와 소면을 같이 올려 낸다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/fc5f8753d3a762cbef4a559d22e1671c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/bae35a067d18fd0cfcb7cd60e15592dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/fe1f4089e6cf5b77ac13b6b8e8d512a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/be2fa7bff0950fd164713a07d1e93a9d1.jpg"
+	]
+}

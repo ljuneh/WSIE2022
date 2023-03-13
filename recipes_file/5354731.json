@@ -1,0 +1,88 @@
+{
+	"id": "5354731",
+	"name": "몸에 좋은 재료 듬뿍 구수한 '능이버섯삼계탕'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/2ae8c1f7476feef3fce3d843720f9ec71.jpg",
+	"url": "https://www.10000recipe.com/recipe/5354731",
+	"ingredient_ids": [
+		813,
+		670,
+		132,
+		29,
+		3,
+		295,
+		608,
+		857
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "삼계닭",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "능이버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청국장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "삼계탕용약재",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "인삼육수용대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 능이버섯을 깨긋하게 씻어 물에 불려줍니다.",
+		"2. 삼계탕용 약재는 찬물에서부터 넣어 끓기시작하면 중불로 줄여 30분이상 약재를 우려내 주세요.",
+		"3. 약재가 잘 우러나면 손질한 닭과 능이버섯 대추 마늘 대파, 양파, 청양고추, 월계수잎등을 넣고 센불에서 끓이다 끓어오르면 중불로 줄여 1시간정도 푹 끓여주세요.",
+		"4. 닭이 익으면 인삼을 넣고 10분정도 끓여주세요.",
+		"5. 육수용으로 넣었던 재료들을 모두 건져주시고 마지막으로 청국장을 약간 넣고 한소끔 끓여주시면 마무리됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/89729f30d95189db8033734c0b8b65551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/ee828d48292a84b986e2fc2c21d413f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/b98723c193da4c13e0190d2c77e958b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/66502aba1ad2aa51813ed02265039cc41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/b32798082eabf2478802f65a651f68591.jpg"
+	]
+}

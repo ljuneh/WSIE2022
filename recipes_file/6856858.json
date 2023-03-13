@@ -1,0 +1,72 @@
+{
+	"id": "6856858",
+	"name": "추석, 동그랑땡 쉽게 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/655931b2060b906d59bc14a6f06a2e571.jpg",
+	"url": "https://www.10000recipe.com/recipe/6856858",
+	"ingredient_ids": [
+		323,
+		487,
+		9,
+		660,
+		219,
+		728
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 두부는 전자레인지에 돌려 물기를 빼준다.전자레인지",
+		"2. 키친타월에 두부의 물기를 꽉 짜준 후 돼지고기도 핏기를 제거한다.",
+		"3. 으깬 두부, 돼지고기, 당근, 청양초, 소금, 깨소금, 참기름을 넣고 버무려둔다.",
+		"4. 잘 반죽하여 먹기 좋은 크기로 뭉쳐준 후 종이컵 위에 올려 꾹꾹 눌려준다.",
+		"5. 모양을 가다듬어 주면 동그랑땡 완성",
+		"6. 완성된 동그랑땡",
+		"7. 밀가루, 달걀 순으로 옷을 입혀",
+		"8. 노릇노릇 구워내면 완성된다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/31e50c15556d8bf865322a6b649402c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/6c278987d4fe371318ad0257feacd4111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/e1dfb58c6736a51c4cc8da0d68f990471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/163f5511cd76eb2f4236bdf691a916f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/901b71d99e82616e4fce5944a8de4fef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/ec8850c878ea3f157f5ac842b2e4776d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/a157a49628bfb8aa050b44242b0518111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/12/12e8f16c527adcf64915421980e74fc81.jpg"
+	]
+}

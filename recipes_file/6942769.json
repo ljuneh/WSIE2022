@@ -1,0 +1,90 @@
+{
+	"id": "6942769",
+	"name": "청국장 찌개 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/2360e01d688e31193bdc954a0c8b89351.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942769",
+	"ingredient_ids": [
+		670,
+		973,
+		3,
+		911,
+		323,
+		643,
+		953,
+		848,
+		379,
+		333
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "청국장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "황태채",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자소",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료 : 청국장, 황태채 5개, 감자 소 1개, 양파, 버섯, 두부 1/2모, 풋고추 2개 , 김치",
+		"2. 감자를 큼직하게 썰어 주세요 황태채를 물에 적신 후 2~3cm 로 잘라주세요 김치와 김치국물 조금 준비합니다 뚝배기에 모두 넣고 물을 뚝배기의 1/3정도 넣고 끓여주세요",
+		"3. 버섯, 양파, 풋고추, 두부를 썰어서 뚝배기속 물이 끓으면 된장 1T 를 풀어주고 버섯을 넣어줍니다 끓여주세요",
+		"4. 양파, 풋고추, 두부를 넣고 끓으면 간을 봅니다 간장 1/2T, 멸치액젓 1/2T를 넣고 청국장을 넣어 주세요",
+		"5. 물이 쫄아 많이 없어서 건더기 많이 담고 완두콩밥 바로해서 먹었어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/5e423dcca2a57e00262e0afbd7ba89351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/a0d1eec12a1f5cc0e82897b3980594e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/926df11250125631b65a6bd28f73a1571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/c63d3b933ed94bf0e9ec3cf28143811e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/47144fa9be8c4ba620f7d4ada7d5a2ed1.jpg"
+	]
+}

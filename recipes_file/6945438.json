@@ -1,0 +1,63 @@
+{
+	"id": "6945438",
+	"name": "필요할 때마다 만들어 먹을 수 있는 수제 스위트 칠리소스 만들기 스윗칠리소스 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/567f73f7b193ffda9a7afc82787d23861.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945438",
+	"ingredient_ids": [
+		226,
+		724,
+		231,
+		233,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "8",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "180",
+			"ingre_unit": "mL"
+		}
+	],
+	"recipe": [
+		"1. 전분에 2~3큰술 정도의 물을 섞어주어 전분물을 만들어주세요",
+		"2. 냄비에 홍고추, 설탕, 케찹, 식초, 다진 마늘을 넣고 물 180mL와 함께 끓여주세요",
+		"3. 칠리소스가 끓기 시작하면 만들어 주었던 전분물을 칠리소스에 전체적으로 둘러주시면서 넣어주시고 골고루 섞어주세요전분물은 넣기 전에 한 번 더 가라앉은 전분이 없는지 확인해 주신 다음에 넣어주시고 전분물을 한 번에 넣어주시는 것보다는 조금씩 나누어 넣어줌으로써 농도를 취향에 맞게 맞춰주시는 것을 추천해 드립니다",
+		"4. 완성된 수제 스위트 칠리소스는 소독된 통에 담아 보관해주세요스위트 칠리소스는 뜨거운 채로 바로 드시는 것보다는 냉장고 또는 상온에 식혔다 드시는 것을 추천해 드립니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/4112e33af41cee358adc417d0bcc14bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/8875495185e20166bd5eae94860594a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/e0b0b02e7b80f3803dcfc6d0cf53c3631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/8c31814328f25ed851f4ea7ada0d5bad1.jpg"
+	]
+}

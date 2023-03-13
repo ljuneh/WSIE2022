@@ -1,0 +1,97 @@
+{
+	"id": "6830180",
+	"name": "초복 삼계탕 만들기!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/c97f18aed4c3d3bc3a84d2521d12c84b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6830180",
+	"ingredient_ids": [
+		86,
+		187,
+		132,
+		29,
+		944,
+		189,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "전복",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "찹쌀1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "황기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "엄나무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "은행",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "가시오가피",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 전복은 깨끗하게 씻어서 내장을 떼어내고 칼집을 내주세요!!",
+		"2. 찹쌀은 전날밤에 미리 불려두세요!!",
+		"3. 닭손질은 꽁지를 자라서 버리고,",
+		"4. 날개 첫 마디와 목 주변 기름기를 제거 해 주세요!!",
+		"5. 육수는 황기와 가시오가피, 엄나무, 마늘을 넣고 30분 정도 끓여주세요!!",
+		"6. 닭은 깨끗하게 씻어서 찹쌀, 밤, 대추, 마늘을 70%만 채워주세요!!",
+		"7. 찹쌀이 나오지 않도록 이쑤시개로 잘 고정해 주세요!!",
+		"8. 다리 허벅지에 칼집을 내어 x자로 꼬아주세요!!",
+		"9. 끓고 있는 육수에 닭을 넣어 40분정도 끓여주세요!!",
+		"10. 그리고, 전복을 넣어 10분 더 끓여주시면 완성이에요!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/44be9e1a5a088cc3f13c0651c92717191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/9e792746bdc7097c1faa4f10c5d63c291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/ede7dd98cf85d56328c1d8d5d3f400fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/3fb401b6e0e3043ceead6ec1a5a6c2d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/1150476c31cacb25d593d0e423ab8ea41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/19540f0fd5d2f0b4b812a71154f795e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/3a6e8ac7e5f61f37f1960d8036e02a991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/c5e9f03e449da2164f04caa1ec8247e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/ecc07906575bd6954ce43c8393aa10911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/961dd8988a402246f2cec7636e52f0071.jpg"
+	]
+}

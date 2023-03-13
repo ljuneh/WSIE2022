@@ -1,0 +1,44 @@
+{
+	"id": "6871131",
+	"name": "포슬포슬 감자 삶는방법 간식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/13/41ae8e3644d5c969b8e96a88a4ce9dc61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6871131",
+	"ingredient_ids": [
+		497,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자(중)",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2.",
+			"ingre_unit": ".컵"
+		}
+	],
+	"recipe": [
+		"1. 감자는 껍질채 깨끗이 씻어줍니다",
+		"2. 냄비에 감자와 물 2.5컵 소금 넣고 센 불에서 끓이고",
+		"3. 뚜껑덮고 끓으면 중불로 줄여 끓여주세요",
+		"4. 물이 2/3정도 졸여지면 젓가락으로 찔러 익은 정도를 확인합니다감자 삶는시간은 25분간 삶아주었어요",
+		"5. 감자를 찔러보아 젓가락이 잘 들어가고 감자의 껍질이 갈라지게돼요 이때 수분이 남아있으면 센 불로해 수분을 날려 주세요냄비 바닦에 수분이 없도록 바싹하게 마른 상태에서 불을 꺼줍니다",
+		"6. 포슬포슬하게 삶은 감자 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/13/161839bc4d209d3adecaa7c9976e26151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/13/7b296f68c379f3448ce40182d53b38021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/13/f0625761bd97ad3fe1d3cca1486e81d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/13/53be57ee56389a6ef91608509cd60add1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/13/f57befe83472b8a542e6777503a9550d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/13/e4f358c9d200c5398fd529916446f4231.jpg"
+	]
+}

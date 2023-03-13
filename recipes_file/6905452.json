@@ -1,0 +1,62 @@
+{
+	"id": "6905452",
+	"name": "호박참치볶음(담백하니 아기도 좋아해요~)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/28/56cff2dd792d479eac39a1ab7ba9b9771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6905452",
+	"ingredient_ids": [
+		7,
+		3,
+		29,
+		477,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참치1캔(작은거)",
+			"ingre_count": "1캔(작은거)",
+			"ingre_unit": "캔(작은거)"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 애호박,참치캔을 준비해요",
+		"2. 달군 팬에 호박넣고 굴소스,마늘을 넣어요",
+		"3. 골고루 잘 볶아요 70%정도 익었을때",
+		"4. 양파 깍두기모양으로 썬것과 참치캔을 넣어서 볶아요",
+		"5. 골고루 잘 섞으면 끝입니다 부족한 간은 소금으로 해요",
+		"6. 예쁘게 담아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/28/2bfb5c00651b8c5bcd221a06702c4da51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/28/17c9c5e11f79b2b80e9f791aed09b2201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/28/d3d4a4ed062ea24da2b46e3d5150437a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/28/6ad104ede6bdaecc6d34f54620a00e2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/28/7c4cd9aae3be5bcc8060b5efbc16e6ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/28/d106c08695f3c93582d9af558c5820291.jpg"
+	]
+}

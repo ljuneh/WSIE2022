@@ -1,0 +1,68 @@
+{
+	"id": "6866639",
+	"name": "[간단 자취요리] 전자렌지로 끝내는 리얼 감자칩, 고구마칩 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/9bc8b61c827b767c45edbc64907f1b4d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866639",
+	"ingredient_ids": [
+		995,
+		226,
+		5,
+		995,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마큰거",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비한다.",
+		"2. 껍질을 벗긴 고구마를 얇게 썰어준다.# 칼질이 서툰 분들은 꼭 감자칼을 사용해주세요! 이건 두꺼워버리면 시간도 오래 걸리고 겨우 칩으로 만들었다고 해도 엄청 딱딱!!해서 드시기가 힘들거예요",
+		"3. 그릇에 고구마를 넣고 물, 설탕을 넣는다.",
+		"4. 감자도 얇게 썰어준다.",
+		"5. 감자는 소금물에 담궈준다.",
+		"6. 접시 바닥에 식용유를 살짝 바르고",
+		"7. 감자, 고구마를 서로 붙지 않게 놓아준다.감자,고구마의 물기는 꼭 키친타월로 제거하고 넣어주세요. ",
+		"8. 전자레인지에 돌려준다.전자레인지# 감자, 고구마는 전자렌지에 4분 돌리고 한번 뒤집어서 2분 돌려줬어요 ( 집집마다 전자렌지 사양도, 접시크기도 다 다르기 때문에 가장 완성도 높게 만드는 방법은 4분 돌리시고 한번 뒤집으신 뒤에는 상태보면서 눈치껏 조금씩 더 돌리는게 좋아요 ) # 전자렌지마다 가운데가 빨리 익는다든지.. 조금씩 다를거예요 그럴때는 중간에 자리를 바꿔주시는 것도 좋은 방법입니다.",
+		"9. 완성!# 짭짤하게 드시고 싶으신 분들은 마지막에 맛소금을 솔솔 뿌려주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/1ea217c4f4a5cb731907e3dd69959ed31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/d6557a9714ec95c783dbebb71c97e6d71.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/26528c0dab463ac42e06e394e1f708e81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/3467e195f4dcf0ae8e03669b48a1f58e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/365053f0ab6e14102422a22bdeb673761.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/7e6800a8bba67e688a11cd97108b58331.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/46e4de7a6e0e6ecd4e4ed74a97142f9c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/6b95012bb8ec18c3a81a67d241108a601.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/9478e7330a8c10246c8007f11089b3ef1.png"
+	]
+}

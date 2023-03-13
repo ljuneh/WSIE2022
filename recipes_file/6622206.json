@@ -1,0 +1,51 @@
+{
+	"id": "6622206",
+	"name": "꽃게라면 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/79d3a294168f1c291639f2cbfe35f4901.jpg",
+	"url": "https://www.10000recipe.com/recipe/6622206",
+	"ingredient_ids": [
+		441,
+		480,
+		27,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "꽃게",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 고명으로 올려 향긋함을 더해 줄 대파는 송송 썰어서 준비해볼게요.",
+		"2. 꽃게는 등딱지와 아가미를 제거하고 2등분해서 준비해볼게요. 껍질안쪽 내장은 절대 버리지 마시고 그대로 국물에 활용해보세요! 한층 진하고 깊은 맛이 우러나요!",
+		"3. 평소보다 조금 더 많은 양의 물을 넣고 한소끔 끓기 시작하면 스프를 넣고 꽃게를 투하해봅시다! 꽃게에서 맛있고 개운한 맛이 국물에 우러나올 수 있도록 5분정도 끓여주세요.",
+		"4. 맛있게 우러난 꽃게는 따로 건져주세요. 워낙 부피가 큰 식재료다보니 여기에 바로 면을 삶기가 까다롭거든요.",
+		"5. 꽃게육수에 면을 넣고 끓여주세요! 아까 물을 좀 더 많이 넣었죠? 싱거울까 염려안하셔도 돼요! 왜냐면, 육수를 끓이는 시간5분, 라면을 넣고 삶는시간 5분! 우리가 10분정도 조리하게되거든요~ 이 시간동안 끓이게 되면 평상시 먹기 좋은 정도로 간이 맞춰지더라구요~",
+		"6. 마지막으로 건져두었던 꽃게와 대파를 넣고 한소끔 끓여주시면 맛있는 꽃게라면 완성입니다!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/8dd4cfad47b553d608f1c94fc0326e381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/b4f7913a8bd809a4787f9246e3736da01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/ea8aeaeea5cd2487325ab12873661bce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/a9387cd2b9e4764ceab45d61e92b124e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/f1440162fdf329fd917415dd97a48e991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/a6b72e307224636b066a22be22dda9f91.jpg"
+	]
+}

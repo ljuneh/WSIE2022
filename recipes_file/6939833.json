@@ -1,0 +1,76 @@
+{
+	"id": "6939833",
+	"name": "케일쌈밥 도시락싸서 나가고 싶어요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/6eab272313ca5da0d0102fc19707408e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939833",
+	"ingredient_ids": [
+		497,
+		432,
+		497,
+		660,
+		337
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쌈케일",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "1~2T",
+			"ingre_unit": "~T"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 케일 한봉지에 20장 정도 들어있어요. 케일의 굵은 줄기는 미리 잘라주세요.케일의 굵은 줄기는 쌈쌀때 불편합니다.",
+		"2. 끓는 물에 소금을 1/2T 넣고 케일을 소량씩 7~8초 데쳐서 찬물에 담가주세요.찬물에 담가서 빠르게 열기를 빼줍니다.",
+		"3. 마늘은 앏게 슬라스이해서 준비해주세요.통마늘이 없으면 다진마늘로 대처가능",
+		"4. 팬에 포도씨유를 두르고 마늘을 노릇하게 구워줍니다. 마늘기름에 밥 한공기 소금을 넣고 볶아줍니다.  ",
+		"5. 데친 케일잎의 뒷면이 위로 오도록 펼쳐 줍니다. 초밥모양으로 밥을 쥐어서 케일 위에 올려주세요.케일의 크기가 작으면 두장을 겹쳐서 펼쳐주세요. ",
+		"6. 케일로 밥을 한번 감싸고 케일잎의 옆쪽을 모아서 김밥말듯 말아주세요.",
+		"7. 쌈장 재료들를 모두 넣고 섞어주세요.시판쌈장 50g, 마요네즈1/2T, 다진양파 1T, 다진마늘1t,참기름 1/2T, 들깨가루 1/2T쌈장에 양파를 다져 넣으니 아삭하고 깔끔해요.  들깨가루가 없으면 넣지 않으셔도 되요. 쌈장에 양파를 다져 넣으니 아삭하고 깔끔해요. 들깨가루가 없으면 넣지 않으셔도 되요. ",
+		"8. 당근도 꽂모양을 찍어서 완선했어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/fa3982f4d016746d92b3eb1baca665ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/6219fc9128ae21a9b80fc234c0ccc3551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/42382915982d6b036ec12e4cc72b78de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/d3ff05ebc9171bb5a586b988e3e531bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/921cfd1c9528b2cc5ff24a2a76803b281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/860380d4ba963dd8d585923bb25423181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/be0f4799ec4c231caf898c37cfd51dc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/2b04f1ba795f346699e67c8491d0a4281.jpg"
+	]
+}

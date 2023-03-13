@@ -1,0 +1,38 @@
+{
+	"id": "2479686",
+	"name": "바나나 사과 쥬스 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/b7cda0f5327864367392fc4bb34b9f76.jpg",
+	"url": "https://www.10000recipe.com/recipe/2479686",
+	"ingredient_ids": [
+		141,
+		158
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "250",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 필립스 블랜드로 드르륵~ 갈아주기만 하면 끝이죠",
+		"2. 그냥 바나나만 넣고 갈아준 쥬스에 비해 사과를 넣어 함께 갈았더니 단맛이 더 많이 나서 따로 시럽을 넣지 않아도 간이 딱 맞더라구요",
+		"3. 아웃백에서 가져온 부시맨브레드를 전자렌지에 30초 데워준 다음 허니버터에 쿡쿡 찍어 함께 먹으면 맛있습니다.전자레인지"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/cf65511e8a8b3e0d5830933d7c124cd71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/163d44811fa7d036fbf41f8d3eb3d0f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/07/3d6d0ce28ad2162d086874d034e1e64a1.jpg"
+	]
+}

@@ -1,0 +1,79 @@
+{
+	"id": "6858840",
+	"name": "시원한 육수와 맛있는 고명의 잔치국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/24/fe642b8f1b1ed404bd593cdbd74144141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6858840",
+	"ingredient_ids": [
+		523,
+		3,
+		53,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근3cm한토막",
+			"ingre_count": "3",
+			"ingre_unit": "cm 한토막"
+		},
+		{
+			"ingre_name": "애호박5cm한토막",
+			"ingre_count": "5",
+			"ingre_unit": "cm 한토막"
+		},
+		{
+			"ingre_name": "물5컵(1리터)",
+			"ingre_count": "5컵(1리터)",
+			"ingre_unit": "컵(리터)"
+		},
+		{
+			"ingre_name": "청정원멸치장국1/2컵(100ml)",
+			"ingre_count": "1/2컵(100ml)",
+			"ingre_unit": "컵(ml)"
+		},
+		{
+			"ingre_name": "구운김",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청정원구운소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양파, 표고버섯, 당근, 애호박은 채썰어요.",
+		"2. 참기름을 두른팬에 1의 채썬 채소들을 볶아요. 볶으면서 중간에 소금으로 간을 맞춰요.",
+		"3. 냄비에 넉넉한 물을 넣고 소면을 삶아 찬물에 헹궈 1인분씩 타래를 지어 놓아요. (중간에 끓어오를 때 찬물을 조금씩 넣으면 더욱 쫄깃하게 삶을 수 있어요)",
+		"4. 냄비에 물5컵과 국수장국을 넣고 끓여요.",
+		"5. 끓어오르면 삶은 소면을 넣고 바로 건져 국수그릇에 담고 육수를 부어요. 2의 고명을 넉넉히 올린 후 구운김을 채썰어 놓아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/24/8160a61f53cca5f6664c3cee05eca93f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/24/b46a85ca243fa934152bdee011c7d1e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/24/a5f558058c28d60f2874353986dd31131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/24/6ebbbee8105588a0b5ea7bcceaf1cdf01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/24/335670f433c707923007d79d4f42c3201.jpg"
+	]
+}

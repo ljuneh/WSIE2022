@@ -1,0 +1,38 @@
+{
+	"id": "6943543",
+	"name": "놀래미구이~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/f338b0c9598e7cc1e819249dd9a282bc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943543",
+	"ingredient_ids": [
+		383,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밑간한손질놀래미",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "감자전분",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 손질 밑간한 놀래미 준비합니다 감자전분 준비하고요",
+		"2. 일회용 비닐팩에 전분을 담고 놀래미에 전분 옷을 입혀주세요",
+		"3. 달군 팬에 기름을 넉넉히 두르고 앞.뒤 노릇노릇하게 구워 접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/a9db4f94bedaf8f6c1f098ebdb7e105b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/ac9150c4b009dac4a266309ff8b1a7791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/fd44e630f2f67d36e980eb2d9fb5cb5e1.jpg"
+	]
+}

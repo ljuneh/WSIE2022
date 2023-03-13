@@ -1,0 +1,47 @@
+{
+	"id": "6854508",
+	"name": "과음 하셨다면 아침에 북어해장라면으로 속풀어 봅시다!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/12/92f5a2dca6b0ba94e24b4a8b7e5079161.png",
+	"url": "https://www.10000recipe.com/recipe/6854508",
+	"ingredient_ids": [
+		441
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "북어포1/3C(70ml)",
+			"ingre_count": "1/3C(70ml)",
+			"ingre_unit": "C(ml)"
+		},
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "콩나물1줌(80g)",
+			"ingre_count": "1줌(80g)",
+			"ingre_unit": "줌(g)"
+		},
+		{
+			"ingre_name": "어슷썬대파",
+			"ingre_count": "6",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "어슷썬청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 물(2 + 3/4C=550ml)을 붓고 북어포와 라면 수프를 넣고 센 불로 끓인다.북어포 1/3C(70ml), 라면 1봉냄비센 불",
+		"2. 끓어오르면 라면을 넣고 젓가락으로 저어가며 끓인다.",
+		"3. 면이 풀어지기 시작하면 콩나물을 얹고 대파, 청양고추를 넣고 2~3분 정도 더 끓여 마무리.콩나물 1줌(80g), 어슷 썬 대파 6cm, 어슷 썬 청양고추 1개"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/12/24eae0a9b0a6be8dcfddd464209fb3651.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/12/60a457bb3aaa2a65ef9a0fc191a3d0161.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/12/a74d40227eb608cfda2c577eac87855d1.png"
+	]
+}

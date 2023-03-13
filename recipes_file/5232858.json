@@ -1,0 +1,50 @@
+{
+	"id": "5232858",
+	"name": "오골계 백숙 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/3178f0339ac0b850b4a3ceedb2ac87ae.jpg",
+	"url": "https://www.10000recipe.com/recipe/5232858",
+	"ingredient_ids": [
+		700,
+		86,
+		564,
+		99
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "오골계",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "전복",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "인삼",
+			"ingre_count": "3",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "삼계탕용재료",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 인삼과 전복은 칫솔을 이용해 깨끗하게 씻어 주세요.",
+		"2. 약재는 미리 30분~1시간정도 우려내 주세요.",
+		"3. 약재가 우러나면 손질한 오골계와 인삼 대추 마늘 대파, 양파, 월계수잎등을 넣고 센불에서 끓이다 끓어오르면 중불로 줄여 1시간이상 푹 끓여주세요 마지막 30분전에 전복을 넣고 끓여내시면 완성입니다 ."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/24d71215d45f1918ecc084b0a45cc0cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/721a14a3c2f90630553bacf2e6bd47e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/7cf8c73e74cc810631d13ea3ca9995171.jpg"
+	]
+}

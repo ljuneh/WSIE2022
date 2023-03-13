@@ -1,0 +1,61 @@
+{
+	"id": "6830134",
+	"name": "마약김밥 만들기 소스가 중요하쥐 ♩",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/12/662d80fb7c4d393ff69063526b339fab1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6830134",
+	"ingredient_ids": [
+		379,
+		597,
+		226,
+		231,
+		379,
+		575
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "연겨자",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1/2",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".TS"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1.",
+			"ingre_unit": ".TS"
+		}
+	],
+	"recipe": [
+		"1. 밥은 고슬고슬하게 지어주고 양념을 해줍니다",
+		"2. 김밥을 각종 재료를 넣어서 싸줍니다",
+		"3. 이렇게 소스랑 곁들여 먹으면 또 색다른 맛이랍니다",
+		"4. 간장1T,연겨자1ts,설탕1ts,식초1/2TS 이렇게 비율로 맞추어 만들어 주면 된답니다.",
+		"5. 김밥은 역시 떡볶이랑 함께 먹어주면 굿 마약소스도 좋고,김밥국물에도 ok!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/faed337dd60aa1b8f83699307ca6664f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/ea6a3efe9f9bb3c3cd24022fe744d59e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/554864fea79b25873e15cae87be0f3b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/31a1a9c3f4a6045f3e3434b2fb29451f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/283df1eb11a6c9627bb49f83510cfb071.jpg"
+	]
+}

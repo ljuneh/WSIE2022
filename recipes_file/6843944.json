@@ -1,0 +1,88 @@
+{
+	"id": "6843944",
+	"name": "청국장찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/04/2df7ac82e72459d591622db58cfe6d361.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843944",
+	"ingredient_ids": [
+		670,
+		876,
+		953,
+		323,
+		3,
+		27,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "청국장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "돼지고기목살",
+			"ingre_count": "2",
+			"ingre_unit": "덩이"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 저는 묵은지밖에 없어서 묵은지김치를 준비했구요. 먹기좋게 썰어서 준비해주세요.",
+		"2. 두부",
+		"3. 대파, 양파도 썰어서 준비해주세요.",
+		"4. 먼저 김치를 볶아주시는데요. 기름대신 육수를 조금 넣어서 볶아줬어요.",
+		"5. 김치가 어느정도 볶아지면 고기를 넣어서 같이 볶아주세요. 고기는 소고기를 넣으셔도 좋고 돼지고기를 넣으셔도 좋을듯. 저는 목살을 넣어줬어요.",
+		"6. 고기 겉부분이 색이 변할때까지 지글지글 볶아주세요.",
+		"7. 김치와 고기가 어느정도 볶아지면 육수와 양파를 넣어 먼저 끓여줍니다.",
+		"8. 끓어오르면 청국장을 투하.",
+		"9. 청국장양은 간보면서 취향껏 추가해주세요.",
+		"10. 좀 칼칼하게 먹기위해 고춧가루도 1스푼 넣어줬어요.",
+		"11. 보글보글. 청국장찌개는 너무 오래끓이면 맛이없다고 해요. 적당히 끓여주세요.",
+		"12. 막바지에 두부와 대파도 듬뿍 넣어주기.",
+		"13. 마지막으로 간은 소금이나 국간장으로 해주시고 살짝 더 끓여주심 돼요. 청국장찌개 요거 완전 밥이랑 슥슥 비벼먹으면 꿀이지요. 김치도 들어있고 고기도 들어있어 다른 반찬이 필요 없어요. 청국장찌개만 있으면 밥 2공기 뚝딱."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/37a087967e1ee297598de20de4b17a051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/86bb98546f85c01571334704cf4dd71c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/3e8ea7a0c47bc1d66933432f51a812b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/102b78405882550fbfa74c28f243bb521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/a41b235ef6bbd7ad6bf4e7679ea5a9dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/5b53db360a9f45246502875417ee19b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/48ba712ed7cb97be957b5d950a9decfd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/46d12264b2c5ee109f5d07cfe19570221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/ae56839cc718971f89e6871b2eaacbf01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/d3813c293bafed0f5e5cc159bf9f55841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/dd7c2653c717bf224126ba121860ea761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/48253e6a38dd11bafb402aa2e2da69b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/09/e307228915263cee43d87277232009b11.jpg"
+	]
+}

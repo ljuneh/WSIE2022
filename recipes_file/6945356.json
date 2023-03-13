@@ -1,0 +1,51 @@
+{
+	"id": "6945356",
+	"name": "항정살 된장찌개~엄마손맛처럼 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/edbe8407692c0a9136b9cedcace2a1381.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945356",
+	"ingredient_ids": [
+		7,
+		295
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "항정살",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파작은크기",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 물 1.5L를 붓고 건다시마/건표고버섯/다시멸치를 넣고 10분간 펄펄 끓여서 육수를 만들어 주신후 건표고버섯만 건져서 따로 두세요",
+		"2. 애호박/양파를 한입크기로 잘라서 준비해주세요",
+		"3. 대파1개도 쫑쫑 썰어주세요",
+		"4. 육수에 된장을 풀고 항정살을 작게 잘라서 넣어주세요",
+		"5. 썰어두신 채소들을 넣고 육수빼고 건져두었던 표고버섯도 넣어주세요",
+		"6. 청양고추도 쫑쫑 썰어서 넣어주세요 저는 냉동시켜두었던것을 넣었어요 다진마늘/후추가루를 넣고 10분간 펄펄 끓여주시고 간을 보시고 싱거우시면 소금을 짜면 물을 추가하세요",
+		"7. 마지막으로 썰어둔 대파를 넣고 1~2분을 더 끓여내시면 맛있는 된장찌개가 완성이 되네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/87d46aabde4013a1f256b6279f163dec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/1e4f1844692db698cea94cfbcc2f57c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/c53a55b0375ab0705caa15e4521cb5241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/056bf3f7dd56a02d2bd57f1735e9af331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/ac8468f681d8bd05b8db1ab62386a3ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/6e9130dbd6bf741a26ba943a7c46efa31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/aa5cebe54febda1df135a2e6e1ee8e711.jpg"
+	]
+}

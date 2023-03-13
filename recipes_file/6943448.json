@@ -1,0 +1,63 @@
+{
+	"id": "6943448",
+	"name": "실패없는 강된장만들기(시판용으로 만들기)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/4b2237e7181b08d77002952d363f3d7f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943448",
+	"ingredient_ids": [
+		295,
+		27,
+		323,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "시판용강된장(2봉지)",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "고추가루크게",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 시판용 강된장을 2봉지를 준비해주세요",
+		"2. 냄비에 강된장을 넣고 물300ml를 부어서 잘섞어주세요",
+		"3. 청양고추/대파/두부반모를 준비해주세요",
+		"4. 청양고추/대파를 쫑쫑 썰어서 넣어주세요",
+		"5. 고추가루를 크게1큰술을 넣어 잘섞어주시고 펄펄 끓여주세요",
+		"6. 끓기시작하면 두부를 손으로 으깨어 넣어주세요",
+		"7. 으깬두부를 넣고 5분정도를 중불에서 바글바글 끓여내시면 완성이네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/8848812e1e18b400d8d8b33bad5427741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/17f27183834e845bea34e29fd94dd3001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/293d2f1d5327f9ae32dc51256f426cf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/00890a0b1e375547a583891c860b30c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/a9e60d06d12bb20ef5180a84030407a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/cc077654c44d24bffa524940aec6f3751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/80e492b3798cb22b7549e361657a23dc1.jpg"
+	]
+}

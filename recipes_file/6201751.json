@@ -1,0 +1,75 @@
+{
+	"id": "6201751",
+	"name": "초간단 참치김치볶음밥 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/02/a857b5222649a2a3b618a2682ef382f71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6201751",
+	"ingredient_ids": [
+		953,
+		219,
+		574,
+		497,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "접시"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이비채소",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 김치는 송송 썰어놓고 김치 국물도 조금 준비해 주세요. 참치는 기름기를 쏙 빼 주세요.",
+		"2. 팬에 올리브유(기름)을 두르고 김치와 김칫국물을 넣고 볶다 참치를 넣고 달달 볶아주세요.",
+		"3. 밥을 넣고 고루 섞으면서 볶다 소금, 후추, 참기름을 넣어 간을 맞춰주세요.",
+		"4. 공기에 볶음밥을 꼭꼭 눌러 담은 후 접시를 덮어 뒤집으면 오목하게 볶음밥이 완성된답니다.",
+		"5. 달걀 반숙을 부쳐 얹고 베이비채소를 조금 담아주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/02/5c64c163f2826d5d32896a348e33b7f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/02/8e86ee0c81683495c805e7bff699eca61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/02/2018de1516fc871fd8a1b6b9ed5f1fb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/02/a0e5ae1f94279cd7428a8afba302f5c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/02/df3f8119149efc0243c5f2a4eca165351.jpg"
+	]
+}

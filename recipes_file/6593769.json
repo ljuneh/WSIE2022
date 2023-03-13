@@ -1,0 +1,70 @@
+{
+	"id": "6593769",
+	"name": "착한 레시피 두부 김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/21/656f009691cf5f99579b82d6ceae0f1b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6593769",
+	"ingredient_ids": [
+		953,
+		3,
+		327,
+		224,
+		226,
+		27,
+		290
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부(손두부)",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 들기름을 둘러준 팬에 김치를 달달 볶아주세요.",
+		"2. 김치가 숨이 죽기 시작하면 양파를 채썰어 넣어주세요.",
+		"3. 고춧가루와 설탕, 깨, 대파를 썰어넣고 볶다가 마무리하세요. 양은 취향껏 입맛에 맞게 넣으시면 됩니다.",
+		"4. 끓는 물에 두부를 데쳐 물기를 빼서 김치와 함께 냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/de9e50f3ab2de01f10f3df744988c9c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/6d7bde43380bdb9a7969a2547afe57b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/891183d4df721f7ed85aaf6a27868a221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/f84a3cf19838512910dd98049d91891b1.jpg"
+	]
+}

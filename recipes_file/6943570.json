@@ -1,0 +1,64 @@
+{
+	"id": "6943570",
+	"name": "명란파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/37bc380e182a6e3d17eadbd8c16ec1591.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943570",
+	"ingredient_ids": [
+		735,
+		27,
+		29,
+		2
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "페페론치노홀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "저염명란",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 저염명란은 해동 후 칼집을 내서 껍질을 벗겨준다.",
+		"2. 파스타면을 삶는다.",
+		"3. 팬에 올리브오일을 넣고 대파 흰대부분과 편으로 썬 마늘을 넣고 볶는다.",
+		"4. 명란을 넣고 살살 볶아준다. 간은 상황에 따라 소금을 살짝 넣어준다.",
+		"5. 페페론치노, 시금치와 파스타면을 넣고 볶으면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/3256b6f84cb119e7a55435ca1ad741931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/28aac4f7350004d0a56929eefca4e0311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/5bd6a0960e0bfbaf7f07236fd18adf331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/314654087a7897423b3bf08420347c731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/514df7ab972ffd40a078b64d54ead5851.jpg"
+	]
+}

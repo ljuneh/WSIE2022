@@ -1,0 +1,73 @@
+{
+	"id": "6945590",
+	"name": "집들이음식:JMT★굴소스숙주볶음 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/de55c1bad916b0a9a05b7056ea6fbc431.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945590",
+	"ingredient_ids": [
+		13,
+		52,
+		15,
+		477
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "샤브샤브용고기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "알배추",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "페퍼론치노",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 샤브샤브용 고기 150g,청경채 2개,알배추 3장,숙주 100g,깻잎를 준비해주세요.",
+		"2. 달궈진 팬에 기름을 살짝만 두르고 준비해놓은 야채들을 전부 넣어주세요.",
+		"3. 굴소스 1큰술을 넣고 중불에 야채를 3분정도 볶아주세요.",
+		"4. 야채를 살짝 볶다가 샤브샤브용 고기를 하나하나 떼서 넣어주세요.뭉쳐지면 고기 식감이 좋지않기때문에  조금 귀찮아도 하나하나 떼서 볶아주셔야 해요. ",
+		"5. 이때 통후추를 갈아서 넣어주세요.",
+		"6. 이때 굴소스 나머지 1스푼을 더 넣고 페퍼론치로 5개정도 넣고 볶아주세요.굴소스를 한번에 다 넣으면 고기에 소스가 안베기때문에 반은 지금 넣어주는게 좋아요. ",
+		"7. 그럼 이렇게 맛있는 굴소스숙주볶음 완성!!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/5a345be61620d16da9bc1dd415a8c1381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/1717e913d5da25fc2f6de097e8e0af2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/2bcabf6cdca115bde71feccc706a99291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/ab8140e07d46d9a4a39e0f226b016acb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c440fd3dc4f1e73558e6ce04e8ecf9321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/6a295ff2107dc59b34614eb359dd24791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/1e2f43975aac3f0bebf5e28c9991247b1.jpg"
+	]
+}

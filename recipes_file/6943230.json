@@ -1,0 +1,103 @@
+{
+	"id": "6943230",
+	"name": "추석요리 간장 가자미조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/63779346d361cce4520152f050de22b01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943230",
+	"ingredient_ids": [
+		66,
+		295,
+		3,
+		504,
+		995,
+		379,
+		233,
+		457,
+		938,
+		292,
+		333
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "가자미",
+			"ingre_count": "4",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간씩"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비해 주세요~",
+		"2. 적힌 분량의 조림 양념 재료 모두 넣고  골고루 섞어 조림양념장을 만들어 주세요~",
+		"3. 고추는 송송 썰고 양파는 채 썰어 준비해 주세요~",
+		"4. 팬에 식용유 약간 두르고 가자미 깔고 조림양념장 붓고 중불에서 10분 정도 끓여 준 다음  국물이 반으로 줄면 채 썬 양파 넣어 주세요~",
+		"5. 국물이 거의 다 없어지면 마지막에 고추넣고  후추 약간 톡톡 뿌려 마무리하면 간장가자미조림 완성~",
+		"6. 짭조롬하게 간이 잘 스며들어 감칠맛 폭발하는 간장 가자미조림입니다 가자미는 비린내가 거의 없어 넘 좋고  따뜻한 성질을 갖고 있어 소화에도 도움을 줘 가족 모두 좋아하는 생선입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/60a7f404e2971b18ddebb58dd086e6551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/b78f7d1751cc74f62aeb8e81e6c46e311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/b552aee5a986a0d288c79a994ecd0f681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/98a5492131b7893b406025aa05a34c7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/37d1f702dd2b9645c75600598b2bdd3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/01efabe9d09e7534856f441ee35462a11.jpg"
+	]
+}

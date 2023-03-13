@@ -1,0 +1,77 @@
+{
+	"id": "6887634",
+	"name": "해장에도 좋은 황태 미역국~~~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/04/20/010095dfe96d6726d19b5d16bea7a5961.jpg",
+	"url": "https://www.10000recipe.com/recipe/6887634",
+	"ingredient_ids": [
+		495,
+		91,
+		527,
+		29,
+		497,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "황태",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "쌀뜬물",
+			"ingre_count": "2000",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4~5알",
+			"ingre_unit": "~알"
+		},
+		{
+			"ingre_name": "까나리액젓1+1/3소주잔",
+			"ingre_count": "1+1/3",
+			"ingre_unit": "소주잔"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "소주잔"
+		}
+	],
+	"recipe": [
+		"1. 미역은 물에 담가서 30분 이상 불렸다가 물에 여러번 문질러서 헹거주세요",
+		"2. 황태는 받아둔 쌀뜬물에 불려 주세요",
+		"3. 소고기는 찬물에 담거서 핏물을 빼주세요",
+		"4. 냄비에 참기름을 둘른후 건져둔 미역과 물기를 짜낸 황태를 볶아주세요(황태담가두였던 쌀뜬물은 버리지. 마세요)",
+		"5. 어느정도 달달 볶은후  황태 담가두었던 쌀뜬물과 준비해둔 쌀뜬물 2/3정도 넣고 핏물뺀 소고기와 마늘을 같이 넣고 쎈불에 끓이다가 팔팔 끓어 올르면 불을 조금 줄여주세요",
+		"6. 30분쯤 푹 끓인후 카나리 액젓 1,1/3소주잔 넣어주세요 액젓을 넣은후 30분정도 더 중불에서  계속 끓여주세요 국물이 졸았으면 중간중간 보시다가 남은 쌀뜬물은 계속 보충하면서 나머지 쌀뜬물을 다 쓰시면 됩니다 .다 끓인후 간을 보시고 부족한간은 기호에 맞춰 소금이나 액젓으로 추가간을 해주세요(저는 푹 끓인 미역국을 좋아해서 1시간정도 끓였습니다)",
+		"7. 다 끓은후 저는 양지머리여서  한소큼 식힌후 결대로 쭉쭉 찢어서 고명으로사용했어요",
+		"8. 이렇게 국위에 소고기와 황태를 고명으로 올려놓으면 좀더 정성스러운 느낌인것 같아요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/20/092997ca282bd82ccd1b561a2685c0081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/20/81fd7b4a9f3d6a6047b551e17eb09b091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/20/8d071a1e9b9693abeee9a6a6dd20aa461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/20/c60b159df143f87c01430dd715705cf81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/20/949b3abde13dfa61575dbed66659dade1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/20/6f7805219f8fe2f8355b27101b43b8291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/20/32e33a85f0f4ab9cc859a6f7e94f11701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/20/f7da5de54d042e34932cd2ba99b3f2901.jpg"
+	]
+}

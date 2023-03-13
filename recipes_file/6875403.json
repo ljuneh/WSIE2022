@@ -1,0 +1,82 @@
+{
+	"id": "6875403",
+	"name": "[집밥백선생3]수박껍질무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/26/d0a7b03e736b0f2f56546af0773e20f71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6875403",
+	"ingredient_ids": [
+		226,
+		473,
+		939,
+		757,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "수박흰속껍질",
+			"ingre_count": "480",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간마늘1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굵은고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 수박의 하얀 속껍질만 먹기 좋게 잘라줍니다. 요게 수박 반 통 분량의 하얀 속껍질입니다. 소금 한큰술 반을 넣고 15분간 절여줍니다.",
+		"2. 하얀 속껍질이 잘 휘여지면 잘 절여진 것인데, 양파망에 넣어 물기를 꼭 짜줍니다. 그냥 짜주는 것보다 양파망에 넣어 짜면 잘 짜져요.",
+		"3. 양념은 간마늘 1과1/2큰술, 설탕 2큰술, 고추장 2큰술, 굵은 고추가루 1큰술, 액젓 1큰술이 필요하구요. 액젓은 멸치액젓, 까나리액젓, 참치액젓 다 되구요. 참기름 1큰술과 쪽파가 없어서 대파 1큰술은 나중에 넣어줍니다.",
+		"4. 큰 볼에 절인 수박속껍질을 넣어주고요. ",
+		"5. 한 쪽에 양념을 먼저 버무려주면 간이 골고루 배여서 좋지요.",
+		"6. 고루 무쳐줍니다. ",
+		"7. 참기름과 대파는 마지막에 넣어줍니다.",
+		"8. 요렇게 무쳐졌지요.~~ "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/c9c6cd5ee49d8abccdde5612a9d9f0411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/67c2653b39624c38a0f008a0245016681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/1ed5744e4bb38216019eadcf053d6ed41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/eaba98406273c4f0479f58a3f8e8fc2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/be2d455a1f93beaf940be763e0d432761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/6eca30da82536ac51891e4ae2d4234051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/9a759e93a885668be7796d9fca4e03921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/4af6bdd321934b01c2bafa3e87f1cda31.jpg"
+	]
+}

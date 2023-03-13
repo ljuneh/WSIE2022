@@ -1,0 +1,56 @@
+{
+	"id": "6945008",
+	"name": "끓이지 않는 고추장아찌와 주말 작은일상",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a8e229897d746d4ee95d2f2a5f6d728a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945008",
+	"ingredient_ids": [
+		34,
+		333,
+		231,
+		226,
+		579
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고추",
+			"ingre_count": "2",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 고추는 꼭지를 잘라 물에 씻어 채반에 받쳐둔다.",
+		"2. ㉡ 마른 행주로 물기를 닦아준 후 고추 끝을 가위로 잘라준다.                   ",
+		"3. ㉢ 액젓:식초:간장:설탕=1:1:1:1로 섞어 준 후 고추에 붓고 그릇으로 눌러 뚜껑을 닫아준다.                     "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/da5799d79828c10741d5f69b9e510cd71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/60444d83e15c377cccb85fa878ed41e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/63e93ca5c8dc225c1849ce720b78fd961.jpg"
+	]
+}

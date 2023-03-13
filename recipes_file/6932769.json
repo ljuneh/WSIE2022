@@ -1,0 +1,90 @@
+{
+	"id": "6932769",
+	"name": "일본식 우엉,당근 볶음 '킨피라'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/7b6b434d96aa6fd8136bd27096278c1c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6932769",
+	"ingredient_ids": [
+		26,
+		9,
+		660,
+		995,
+		379,
+		343,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "우엉",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 재료는 간단합니다. 우엉과 당근. 우엉은 깨끗히 씻어 필러로 껍질을 까주세요.",
+		"2. 채칼로 얇게 당근을 채쳐주세요. 당근 중앙에 젓가락을 끼워서 잡고 하면 손도 안다치고 편해요.",
+		"3. 우엉도 중앙에 젓가락을 꽂아 채칼로 얇게 채쳐주세요.",
+		"4. 우엉의 오독오독한 식감은 얇게 채쳐도 사라지지않고 오히려 면처럼 먹기 편하답니다.",
+		"5. 팬에 참기름 1T",
+		"6. 오일1T",
+		"7. 물을 4T를 넣고  끓어오르면",
+		"8. 우엉과 당근을 한번에 넣고 볶아주세요.",
+		"9. 채소 숨이 살짝 죽으면 설탕2t",
+		"10. 간장 1.5T",
+		"11. 맛술 1.5T를 넣어 골고루 간이 베이게 볶아 주세요.",
+		"12. 양념이 자박한 상태에서",
+		"13. 완전히 졸아들 때까지 쎈불에 볶아주세요.",
+		"14. 다볶아진 킨피라에 통깨를 솔솔 뿌려 주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/ae8a5d107960a597850930fd008305191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/a0b7bbe5e0867e09f8ec2e5325cb7f8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/74784922f4b682a196031b2db69471101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/d483773bd038d89db1031ea65e7e0d351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/58f322c7fb35c4aec337d4e4237e6ed91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/4f36569b79651ab8b68dc376dceb832b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/bfe4025ec81e02a4ba028a98257794ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/cb00bea804d585811c3fc8fa1487be0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/959be1611bcc8a8a91b277e64b2491c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/f5f4832b3565642aa28a2d0b995c13471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/a6df9047da2a546e8cedcb4c76b2a3681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/bbb1357e3f6925701ad4ab15726a03411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/4792949b213083c65fb35c4e38e6a58f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/16/03992f08df5642a1d83208c4a4d0f9d61.jpg"
+	]
+}

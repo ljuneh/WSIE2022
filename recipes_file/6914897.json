@@ -1,0 +1,70 @@
+{
+	"id": "6914897",
+	"name": "쥐포로 반찬 만들기 : 쥐포 간장볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/06/29/5bfd5138795a30a1077d77c6a2ec48d21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6914897",
+	"ingredient_ids": [
+		769,
+		379,
+		995,
+		233,
+		341,
+		660,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "쥐포",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 쥐포는 원하는 크기로 잘라준다.",
+		"2. 분량의 재료로 양념장을 만든다.",
+		"3. 프라이팬에 기름을 두르고 자른 쥐포를 볶는다.",
+		"4. 쥐포가 익으면 양념장을 넣고 볶는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/29/dca78002117487c715cce961b63adaea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/29/d52c93a44df1c6c6e312a430661a3b7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/29/8e4bb20764d282ec1f58f11d88f680391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/29/8878b646df2c8ac3520a3c1c0c7121001.jpg"
+	]
+}

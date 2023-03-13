@@ -1,0 +1,81 @@
+{
+	"id": "1025554",
+	"name": "정성들여 푹 끓인 쇠고기 미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/27/1b71738b7905e5c9f3e296a02a462a3c.jpg",
+	"url": "https://www.10000recipe.com/recipe/1025554",
+	"ingredient_ids": [
+		1014,
+		995,
+		660,
+		349,
+		233,
+		497,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "불린미역",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "쇠고기1/2줌(100g)",
+			"ingre_count": "1/2줌(100g)",
+			"ingre_unit": "줌(g)"
+		},
+		{
+			"ingre_name": "조랭이떡",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4~5컵",
+			"ingre_unit": "~컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 마른미역을 미지근한 물에 10분정도 담궈 불린미역을 먹기좋게 잘라 준비.",
+		"2. 조랭이떡 1줌은 물에 담궈놓는다.",
+		"3. 쇠고기 1/2줌=100g는 먹기좋게 썰어, 국간장 1, 다진마늘 0.5, 소금, 후춧가루 약간로 간해 섞는다.",
+		"4. 달군냄비에 참기름을 두르고 밑간한 쇠고기를 넣어 30초간 살짝 볶는다.",
+		"5. 불린미역 2줌을 넣어 2~3분간 충분히 볶고 물 4~5컵을 부어 센불로 올린다.",
+		"6. 물이 끓으면 뚜껑을 덮고 20~30분간 약한불에서 푹 끓이고 어느정도 미역이 흐물흐물해지면 조랭이 떡을 넣어 익힌다.",
+		"7. 마지막으로 모자란 간은 소금으로 해 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/d69a8e58562dc14481507ed0b14ae83c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/4b7b63525653c70099d105a600db68e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/28b5ffe1cb0f7840248201e0875f3ded1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/7db4d3177ceb9531a61a640ccfba8af71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/5effc559a58ee31424e081738fe80dda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/6f54b2264ed02522848335bfe476f5a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/76866325226bfa2c3a13d49ca3d2a40f1.jpg"
+	]
+}

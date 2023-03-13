@@ -1,0 +1,62 @@
+{
+	"id": "6843187",
+	"name": "삼계탕 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/be3e67cdda54ebb9e2b07fbd8176dea11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843187",
+	"ingredient_ids": [
+		187,
+		132,
+		189
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "토종닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "수삼",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "은행",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 마체프로는 이렇게 간단하게 재료를 준비해 보았는데요 헛개나무, 당귀, 천궁, 녹각, 오가피, 둥글래, 황기 등 약재를 넣어 주시면 더욱 건강에 좋은 삼계탕을 만드실 수 있답니다!",
+		"2. 마체프로는 콘콘 압력솥에 삼계탕을 만드려고 해요 쿤리콘 압력밥솥은 스위스 명품 주방용품 회사 쿤리콘에서 만든 압력솥인데요",
+		"3. 까만색 밸브가 저절로 올라오고 내려가면서 압력밥솥 안의 수증기를 빼준답니다 압력솥으로 삼계탕을 만들면, 일반 냄비로는 40분 정도 걸리는 삼계탕이 단 15분 만에 만들어 진답니다! 압력으로 빠르게 익히면서도 닭고기 본연의 맛은 더욱 살려주는 게 특징이지요 :D",
+		"4. 닭은 흐르는 물에 내장을 제거해주시고 기름기를 제거해 주세요 기름이 많은게 싫으시면 껍질을 약간 벗겨내고 요리를 하셔도 좋답니다 쿤리콘 압력솥에 물을 1/3 정도 넣어주시고 닭과 밤, 대추, 은행, 수삼을 넣고 통추후도 조금 넣어주세요",
+		"5. 압력솥의 뚜껑을 닫고 마체프 전기렌지의 온도를 최고 온도인 9로 맞추고 기다리면 되는데요 쿤리콘 압력솥 뚜껑에 있는 계기가 자동으로 올라오며 붉은 줄이 두개가 다 보이면 전기렌지를 꺼주세요 그리고 마체프 전기렌지의 잔열에 두고 계기가 모두 내려가면 완성이랍니다!",
+		"6. 닭고기도 아주 맛있게 잘 익었고 뽀얀 국물도 아주 진하게 잘 우려 나왔네요 ^^",
+		"7. 이렇게 삼계탕 한그릇 먹고 나면, 더위도 싹! 물러날 것 같아요 ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/8d04a0ed0daf99a48cfc88b891a0fd1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/2283d306e32f599f93d73a28ab2600031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/b0165412b6c989385d8ba010a18dc9941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/cb8e96704b4de8dd59b779b25e12a99b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/01d6e8e85a51fedd4b734be5f2544aae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/ca8f2a1afe04b37f9787d544b60f55ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/f5e6880490f3c3b1c98cd90aafd2cc491.jpg"
+	]
+}

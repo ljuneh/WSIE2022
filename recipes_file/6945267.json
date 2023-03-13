@@ -1,0 +1,62 @@
+{
+	"id": "6945267",
+	"name": "여러가지 매력을 가진 치즈감자호떡",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/89b11b0ce7f7e177f3f449546dc4edc11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945267",
+	"ingredient_ids": [
+		5,
+		383,
+		201,
+		497,
+		868
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자전분",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		},
+		{
+			"ingre_name": "파마산치즈가루",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		}
+	],
+	"recipe": [
+		"1. 감자를 푹 삶아 주어요!강불대략 10분정도 이지만 푹 익을때까지 삶아주세요.",
+		"2. 푹 익은 감자를 건져 전분을 넣고 반죽해 주어요!쫀득한 것을 좋아하신다면 취향에 따라 전분 양을 더 늘려 주셔도 됩니다! 감자전분이 없다면 찹쌀가루로 대체 가능해요!",
+		"3. 소금과 설탕과 후추를 넣어 간을 한 뒤 잘 섞어 반죽해주어요.",
+		"4. 탁구공 만큼 반죽에 치즈를 넣고 잘 오므려주세요!틈이 나지 않게 잘 오므리는게 중요해요! 틈이 생기면 구어줄때 옆구리가 터지더라구요! 취향껏 설탕과 견과류 등등을 넣어 드세요!",
+		"5. 중약불에 앞 뒤 양옆을 노릇노릇 구워주세요!중약불",
+		"6. 오래 골고루 구울수록 더욱 바삭해져 겉은 바삭 속은 촉촉 완전한 겉바속촉이 완성됩니다.시간을 투자해 구워준다면 더욱 바삭하고 쫀득한 치즈감자호떡을 맛보실 수 있어요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/8be128402b461d215aaf074cf3bac9061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/31b98db6a17556828243e66aa495e1ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/68cbd108c3e207b82c0fa40207efd2881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/262d2865ec913333426fd3a27e98b1761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/69ec5e231e30f2d7f2468a55494d10a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/1c460eecbb731a0d0b3c55a43815dbec1.jpg"
+	]
+}

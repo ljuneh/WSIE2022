@@ -1,0 +1,36 @@
+{
+	"id": "6875272",
+	"name": "수박주스 만들기, 황금레시피로 카페처럼 즐겨요,",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/24/8db6b03ec7aee655ac6590783e26ec421.jpg",
+	"url": "https://www.10000recipe.com/recipe/6875272",
+	"ingredient_ids": [
+		227
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "수박(작은수박기준)",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 맛있는 수박을 골라주세요. 줄기에 털이 보송하면서 촉촉하고 꼭지가 굵은것이 당도가 높아 맛이 좋답니다.",
+		"2. 수박은 절반으로 절반의 껍질을 제거한 후 눈에보이는 씨만 제거하면서 조각조각내주세요.수박씨에도 비타민이 풍부하기 때문에 전부 제거하지않는게 좋아요.",
+		"3. 믹서기에 넣고 꿀을 3T 넣어주세요.당도는 수박의 당도에 따라 취향껏 조절해주세요. 물을 넣지 않아도 수박에서 수분이 많이나와 충분히 주스처럼 마실 수 있어요.",
+		"4. 믹서기에서 30초이상 곱게 갈아주세요. 수박씨도 믹서기에서 충분히 갈려요.",
+		"5. 완성된 수박주스, 수박 조각도 절반으로 갈라 컵에 꽂아 카페처럼 분위기를 내봐요,"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/24/cab9f819ae2662c2b8f3fcd616cf462c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/24/f51f85cf24a2c99caa094e8d7a87b47f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/24/8efdba9241f658e58b5e847b238474901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/24/43eaa1b77275e301871b83dca6026f011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/24/bb1c954405a8b1ce860bd9e9d7386d781.jpg"
+	]
+}

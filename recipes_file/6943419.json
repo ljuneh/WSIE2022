@@ -1,0 +1,102 @@
+{
+	"id": "6943419",
+	"name": "감자 듬뿍 넣어 고추장참치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a13ae4ed5e03277edb3eb74578a5f1ac1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943419",
+	"ingredient_ids": [
+		473,
+		224,
+		504,
+		5,
+		562,
+		3,
+		27,
+		233,
+		939,
+		349,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치통조림",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 기름을 두르고 고춧가루를 넣어 볶아줍니다.고춧가루1큰술, 식용유1큰술",
+		"2. 고추기름이 만들어지면 다진 마늘을 넣어 볶아줍니다.다진 마늘1큰술",
+		"3. 물과 고추장을 넣어 끓여줍니다.고추장1큰술, 물500ml",
+		"4. 반달썰기한 감자와 채썬 양파를 넣어 끓여줍니다.감자1개, 양파1/2개",
+		"5. 채소가 익으면 기름을 뺀 참치를 넣어 끓여줍니다.참치캔1개",
+		"6. 송송 썬 대파를 넣어 끓여줍니다.대파1/4대",
+		"7. 액젓과 국간장으로 간합니다.액젓1큰술, 국간장1큰술",
+		"8. 홍고추를 얹어줍니다.홍고추1/3개"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/33d6f7e3c83d8dabce73e2aaaa71743d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/4cc31c055b63eb0c0d62254a3da6bf751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/d1d2abad4973eba1bc91caf0358fbb471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a7445dd27a45c07053eb12aa85c6a5161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/ae4c55db7c84aef9bfd7b070ad3920601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/569018f33a1561410f2fc441e54696c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a10576f8a5b0dafd4042b770cdf079b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/b4f3f2d1c4493a66778a11145ba198001.jpg"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"id": "6943031",
+	"name": "툐나의 요리교실 (1) : 마카롱 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/90faf65d8fafb59edb4f21f4ceac437d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943031",
+	"ingredient_ids": [
+		226,
+		546,
+		950
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "계란흰자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드파우더",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용색소",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		}
+	],
+	"recipe": [
+		"1. 위의 재료를 준비하고 섞어 주세요! 아몬드가루: https://coupa.ng/bKsliB 슈가파우더: https://coupa.ng/bKsloa 식용색소: https://coupa.ng/bKsnXc",
+		"2. 짤주머니에 넣어서 모양을 만들고, 상온이나 오븐에 1시간 정도 건조하세요. 도안은 직접 프린팅해도 되요~ 짤주머니 구입처: https://coupa.ng/bKsk0g 마카롱도안패드: https://coupa.ng/bKsltM 마카롱 도안:에어프라이어",
+		"3. 오븐에 145~150도로 12~14분간 구워주세요오븐",
+		"4. 필링을 넣고 맛있게 드세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/d72c02a2d65c19ae553803abd6122ccb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/7bf2f8f0dd1ea8e122a8238b06edf97f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/60a79190c54ede327257d4bb392809021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/59c5c9f3e2dfb90d4f8327b951b89d6d1.jpg"
+	]
+}

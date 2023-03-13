@@ -1,0 +1,55 @@
+{
+	"id": "6883920",
+	"name": "남은 명절 음식 알차게 활용하기 꿀~팁♥ 하나, 꼬치전 김밥!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/13/22fd775565b87c93665edc1c29951d0e1.png",
+	"url": "https://www.10000recipe.com/recipe/6883920",
+	"ingredient_ids": [
+		95,
+		497,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "꼬치전",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1.",
+			"ingre_unit": ".공기"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 밥은 소금, 참기름, 통깨로 밑간한다.밥 1.5공기 , 김 2장 , 소금 약간 , 참기름 약간 , 통깨 약간",
+		"2. 김에 밥을 깔고 꼬치전을 넣고 말아준다.꼬치전 6개",
+		"3. 먹기좋은 크기로 잘라 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/13/b86fab6e3f1ddb93dec894adf92dcd361.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/13/1f0b11c40b0c2bb55636c52336e798961.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/13/896fd2ca761893bdc5febea0b15403871.png"
+	]
+}

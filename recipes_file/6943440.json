@@ -1,0 +1,82 @@
+{
+	"id": "6943440",
+	"name": "(아기반찬) 누룽지 닭구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/de1cf030935f81588cdf2319453d17d11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943440",
+	"ingredient_ids": [
+		27,
+		3,
+		233,
+		660,
+		847
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭다리",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "누룽지가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "아기간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "배즙",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요.닭다리 3개, 대파 1/2개, 양파 1/2개, 누룽지가루 2T, 다진마늘 1t, 아기간장 1.5t, 참기름 1.5t, 배즙2t",
+		"2. 양파와 대파를 넣고 끓는 물에 닭을 6분간 삶아요.대파 1/2개, 양파 1/2개 냄비중불아가가 먹을거라 닭은 바로 굽지 않고 먼저 삶아 기름을 한번 제거하고 구웠어요.",
+		"3. 삶은 닭에 칼집을 내고도마, 칼닭이 덜 익어도 괜찮아요. 다시 구울거에요.",
+		"4. 보울에 칼집 낸 닭과 다진마늘 1t, 아기간장 1.5t, 참기름 1.5t, 배즙 2t를 넣고 버무려요볼",
+		"5. 중간 중간 뒤집어가면서 20분 동안 양념에 재웠다가",
+		"6. 어느정도 양념이 절여지면 겉에 누룽지 가루를 골고루 묻혀주세요.",
+		"7. 짜잔! 닭이 누룽지가루 옷을 입었어요.",
+		"8. 종이호일을 깔고 에어프라이에어 넣어에어프라이어",
+		"9. 먼저 에어프라이어 180도에 7분 굽고180도 (7분)",
+		"10. 한번 뒤집어서 다시 180도에 7분 구워요.180도 (7분)",
+		"11. 짜자잔! 노릇노릇하게 속까지 완전히 잘 익은 맛있는 누룽지 닭구이가 완성되었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a6e69db4e9aa87a8b688040fae03643c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/5771c914e9c60f7c9950c9250485ddf81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/fbbb7444ec8000d41f1c126d0f6ddff01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/8ac51e16af7ea492bea4e455770ff5e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/b4174e2a71fc72a23f93b23466c2de641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/0038924193ad491374dfb589d811590b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/391d8319aee6630f28c25a3154daff581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/89cfb1c8b2367c9f0a557e2f6cc76fee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/4c0dcabbbbb32d92160620b08d69d33f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/aef0319800f44b153f3dfb9be1849df41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/4529a3dd84564dc7e6a612d278b0589c1.jpg"
+	]
+}

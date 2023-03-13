@@ -1,0 +1,75 @@
+{
+	"id": "6941624",
+	"name": "코로나 극복 육포 요리 / 육포 주먹밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/30bfac3ca5668b2d28711940d3ef12b41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941624",
+	"ingredient_ids": [
+		611,
+		3,
+		9,
+		6,
+		504,
+		225,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "육포",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 육포는 잘게 다져 준다.",
+		"2. 양파는 다져 준다.",
+		"3. 당근은 다져 준다.",
+		"4. 파프리카는 다져 준다.",
+		"5. 프라이팬에 식용유를 넣고 야채를 볶는다.",
+		"6. 야채의 수분이 없어지면 육포를 넣고 볶는다.",
+		"7. 밥을 준비한다.",
+		"8. 밥에 후춧가루, 참기름, 볶은 야채와 육포를 넣고 섞는다.",
+		"9. 원하는 크기로 주먹밥을 만든다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/be49aed06045c8a461c409f31c62dd981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/4b71310eb0b4fed2fc40ee67c2885cbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/c8997b712b0eee5f4f423ac987e18b3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/3cb37a9097a09b20ba44bfba68fa50a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/2d94b0cf273eb2e066a97af2be5c2cce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/c1469b9e895a9a392c996b5f74487b141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/5a5fdaed87ec27b0fa10dd222ad835cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/82de104755d51b94156868f5f49225da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/bc2f106393fdc5c3923be1383173f2491.jpg"
+	]
+}

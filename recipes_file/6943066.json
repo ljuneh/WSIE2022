@@ -1,0 +1,72 @@
+{
+	"id": "6943066",
+	"name": "밥도둑 마늘쫑볶음 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/75c10c955423466477e2f3eac3a00cd91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943066",
+	"ingredient_ids": [
+		17,
+		504,
+		379,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘쫑",
+			"ingre_count": "300",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "다진돼지고기",
+			"ingre_count": "100",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "홍청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파채",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 마늘쫑 잘게 썰어넣고",
+		"2. 청양고추 대파 잘게 썰어넣고",
+		"3. 펜에 식용유 한큰술 두르고 다진 돼지고기 100그램 넣고볶다가",
+		"4. 대파채 한줌 넣고 항이 올라오면",
+		"5. 간장1큰술 넣고 볶아줍니다",
+		"6. 돼지고기가 익으면 잘게 썰어넣은 마늘쫑을 넣고 볶아줍니다",
+		"7. 청양고추 넣고",
+		"8. 설탕 1티스푼",
+		"9. 골고루 간이 배면 그릇에 담아 냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/b954ef2620d050233f72ac760c56549b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/b1427e39f848f40c62c57225b12398e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/9093dace447560b11c14f304f499ce741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/ad80eb5b9d63ed52383d6024c14437eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/c806cb14e7afc56bc05d927eec776c9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/6c8465d92d12a7deec0918cef6b748ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/ef1b2bd91124bbe66c8649d9ff37d10d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/556269c71b2d8ebd8a2719eb97bc6d7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/05d5322edc76ed738682108e07e4bac21.jpg"
+	]
+}

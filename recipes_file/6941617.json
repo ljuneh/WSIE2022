@@ -1,0 +1,67 @@
+{
+	"id": "6941617",
+	"name": "바바가누쉬♡구운가지 디핑소스♡내맘대로 만드는 레바논 요리~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/add94b3969f92ea3a1d75a14d28bbcc21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941617",
+	"ingredient_ids": [
+		18,
+		29,
+		231,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 가지를 석쇠에 얹어 직화로 굽는다. 표면에 불맛을 낼 정도만 태워준다.",
+		"2. 반을 갈라 찜기에 넣고 쪄서 속을 파낸다.",
+		"3. 파낸 가지 속살과 마늘, 참깨, 소금, 후추를 믹서로 갈아주고, 고추가루를 추가해 숟가락으로 섞어준다. 간을 보고 소금을 추가해 맞춘다.",
+		"4. 그릇에 담고 올리브오일을 끼얹는다. 올리브오일을 미리 섞어서 플레이팅 해도 된다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/af223e3563424bd9d7bf1fae041bee8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/f1e943afb1ce2c73fc0664ae73fa96d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/629100a363c69dbc4187405af588301b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/a449dd780ce6db596ed40bad84e3e89e1.jpg"
+	]
+}

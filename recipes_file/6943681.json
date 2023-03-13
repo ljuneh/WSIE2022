@@ -1,0 +1,79 @@
+{
+	"id": "6943681",
+	"name": "소고기 된장찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/08893f2750247bd68826993bb7fd36ed1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943681",
+	"ingredient_ids": [
+		495,
+		5,
+		325,
+		3,
+		911,
+		323,
+		848
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "100",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "매운고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물2컵이상",
+			"ingre_count": "2",
+			"ingre_unit": "컵 이상"
+		}
+	],
+	"recipe": [
+		"1. 채소와 두부는 적당한 크기로 잘라서 준비하기 채소는 깍둑썰기를 하고 두부도 적당한 크기로 잘라 준비해요.. 두부를 손바닥에 놓고 우리 엄마들이 하셨던 것처럼 해보세요.. 정말 요리사가 된듯 숙련된 기술을 선보일 수 있어요",
+		"2. 오늘 사용할 된장- 다담 된장을 미리 열어 냄새랑 색깔 확인해 봤어요.. 곱게 갈아 부드러워 보이는 된장.. 살짝 먹어봤더니 짠맛이 많이 나지않고 된장맛이 구수하네요. 집된장보다는 살짝 단맛이 느껴지네요.. ",
+		"3. 소고기를 냄비에 넣고 볶기 르쿠르제 냄비에 살짝 참기름을 두르고 소고기를 센불로 살짝 볶아줍니다. 고소한 냄새가 나면서 고기가 살짝 색깔이 변할 때 감자를 넣어요.. 재료 중 가장 단단한 것부터 넣고 끓이기 시작해요.. 여기에 물을 2컵 정도 넣고 끓여요.. 끓일 때 나오는 갈색 거품을 살짝 건져내면 음식이 깔끔해져요 ",
+		"4. 감자, 호박, 양파 를 넣고 2분 정도 충분히 끓이세요.. 된장을 넣어 끓이기 마지막으로 버섯과 두부를 넣고 끓이다가 된장을 넣어주세요.. 된장은 너무 오래 끓이면 영양소가 파괴단다고 해요..",
+		"5. 팔팔 끓여서 감칠맛내기 된장을 넣고 팔팔 끓여주세요.. 들리시나요? 보글보글 끓는 소리 !!! 아 , 이 순간이 제일 배고파요..",
+		"6. 매콤한 맛이 좋아 매운 고추 넣기 거의 완성된 된장찌개에 반으로 썰은 고추를 넣어주세요.. 넘 작게 썰면 무심결에 고추를 먹게 되서 저는 반으로 잘랐어요.. 넘 매워서 혀가 따꼼하답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/00016521f52bfa8c75c82a9aa3d85b311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/6e92997c0e58eeec9c8ae6e69a6134f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/fa4b3d5671235bc3221605872788edec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/6a8cda3e6f349960b05aa2e52ed5eee41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/dd4f3be0795c9f4a40103a86ef19c4a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/42a102af9e2e57f2da164c9b0a3529f11.jpg"
+	]
+}

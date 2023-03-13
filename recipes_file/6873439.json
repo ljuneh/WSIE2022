@@ -1,0 +1,68 @@
+{
+	"id": "6873439",
+	"name": "해독작용에 좋은 해독쥬스 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/c7c006aa97d300f8ba208b56cc06971a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6873439",
+	"ingredient_ids": [
+		11,
+		51,
+		21,
+		9,
+		141,
+		158
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "800",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 채소와 과일은 동일한 양으로 준비해 깨끗이 씻어 적당히 잘라줍니다",
+		"2. 유리 냄비에 준비한 채소를 담고 물800ml 부어 끓입니다",
+		"3. 중불에서 10분 끓여 한김 식혀둡니다 삶은 물은 버리지 않아요",
+		"4. 식혀둔 야채와 삶은 물을 적당히 넣고 껍질벗긴 사과 바나나를 넣어 믹서에 브렌딩~",
+		"5. 살짝 데친 야채를 갈아서 먹을때 우리 몸에 흡수되는 비율은 90프로 랍니다",
+		"6. 해독주스는 아침 저녁 공복에 1잔씩 먹으면 피부도 맑아지고 포만감이 들어 다이어트에 도움이 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/783c59d72eaef525b096ee9e58fc75611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/66d5c4593f66fb5109d8de3025db5cd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/cd05f3668846f250d767e9caad0158091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/cfc31b09251735eff2457006751854951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/6e001a973b12aef14e9914d44e6fdad61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/25/5531bae5bbf005d277557388e10fdc411.jpg"
+	]
+}

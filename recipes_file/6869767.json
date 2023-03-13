@@ -1,0 +1,46 @@
+{
+	"id": "6869767",
+	"name": "삼겹살의 단짝~초간단 파채무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/14/340db366ff575e7303a27f24b530a1e41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6869767",
+	"ingredient_ids": [
+		27,
+		231,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "작은큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 파는 적당한 길이로 썬뒤 가늘게 채썰어주세요",
+		"2. 고추가루를 넣고",
+		"3. 식초도 넣어줍니다",
+		"4. 깨는 빻아서 깨소금으로 넣어주세요(적은양을 빻아서 사용하실땐 손바닥에 놓고 양손을 비벼 으깨 사용하시면 간편해요)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/14/f79fa08fd453dfd4da3f604e791877b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/14/bb2b303d1c4f45116bb4f8fd1237117a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/14/192e299a953614eb2f1e219ff9b96d5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/14/f8aa5ba27faf18e63d9f8b544ef8f22e1.jpg"
+	]
+}

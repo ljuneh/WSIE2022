@@ -1,0 +1,111 @@
+{
+	"id": "6941496",
+	"name": "두부 볶음밥 오므라이스 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/99934b6dfbf146a8773f2631c8c6ee451.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941496",
+	"ingredient_ids": [
+		323,
+		53,
+		3,
+		6,
+		9,
+		219,
+		574,
+		497,
+		477,
+		225,
+		724,
+		1009
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "잡곡밥",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "돈가스소스",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 올리브유를 두르고 두부를 으깬 후 소금을 뿌려 볶아줍니다.두부1/2모, 올리브유1큰술, 소금1꼬집볶음주걱, 팬중불",
+		"2. 두부를 한쪽에 몰아두고 다진 당근, 양파, 파프리카, 표고버섯을 볶아줍니다.당근1/4개, 양파1/4개, 파프리카1/2개, 표고버섯2개",
+		"3. 채소가 다 볶아지면 잡곡밥과 후춧가루, 굴소스를 넣어 볶아줍니다.잡곡밥1/2공기, 굴소스2큰술, 후춧가루 약간",
+		"4. 달걀, 물, 소금을 넣어 달걀물을 만들어줍니다.댤걀3개, 물1큰술, 소금1꼬집",
+		"5. 달군 팬에 기름을 두르고 달걀물을 부어 지단을 만들고 그 위에 두부볶음밥을 반쪽만 올린 후 남은 지단으로 덮어줍니다.올리브유1큰술",
+		"6. 그릇에 오므라이스를 올리고 케찹과 돈가스소스를 뿌려줍니다.케찹 취향껏, 돈가스소스 취향껏",
+		"7. 파슬리가루를 뿌려줍니다.파슬리가루 약간"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/e000b747f7af5e8dd5d830b2d4fe026e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/87cc6eb05f0b4303ece5c769bd8e44541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/f2ed62902e3edaeba9da531a4f2546f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/805d738803d34e2afd8df1021454b4f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/9e2a50adb9b55724681dfc1e8e22e7191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/b41d01d02b736155b09dd6d9353531021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/7e71507d74d60dfeb91e80e4fd5f651b1.jpg"
+	]
+}

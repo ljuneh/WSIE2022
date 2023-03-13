@@ -1,0 +1,86 @@
+{
+	"id": "6890570",
+	"name": "새우굴소스파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/09/c9cff4f20768f0ec00f2f7e8e6d9ab9c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6890570",
+	"ingredient_ids": [
+		920,
+		295,
+		29,
+		198,
+		79,
+		868,
+		497,
+		477
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "파스타면",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "6",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "파마산치즈가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 물을 2/3정도 채우고 소금을 약간 넣고 끓여준다 물이 끓으면 파스타면을 넣고8~10분간 익혀준다",
+		"2. 면이 다 익으면 면을 채반에 받친뒤 면수는 버리지말고 따로 받아둔다",
+		"3. 마늘과 고추는 작게 편썰어서 준비해둔다",
+		"4. 새우는 날카로운 머리부분을 반 잘라 손질해놓는다",
+		"5. 썰어둔 마늘과 고추를 기름두른팬에 볶아준다",
+		"6. 마늘이 어느정도 익으면 손질해놓은 새우와 버터를넣고 약한불에서 타지않게 볶아준다",
+		"7. 새우가 익어갈쯤 삶은파스타면을넣고 면수 한국자와 굴소스를넣고 섞어준다",
+		"8. 그릇에 예쁘게담아준다",
+		"9. 완성된파스타에 파마산치즈가루를 솔솔뿌려 마무리해준다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/09/e3c394f787601f813fa7b89082cf285f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/09/ea23d85523f13888e9f7b9f325b53bd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/09/08d2a816abbc4f8eb482cf058e05886d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/09/e3694c479ef4d646098ff392ca95b45a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/09/1c70a516f9db69531ec4d9ce76bd7a571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/09/59801e0acd04a789ecee9ca2094ec8fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/09/f221f1cd2c1b22129d832dedf5d66eb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/09/8a6eb09c0e81082bf165a4ad19bb035a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/09/986d01eff5e460ddc41ba28f8b6cb7f61.jpg"
+	]
+}

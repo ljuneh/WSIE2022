@@ -1,0 +1,40 @@
+{
+	"id": "6941825",
+	"name": "참드림 아보카도톳전복밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/b42b93ce54769e131bff14b0dbddb5301.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941825",
+	"ingredient_ids": [
+		86,
+		94,
+		162
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "경기미참드림쌀",
+			"ingre_count": "1",
+			"ingre_unit": "계량컵"
+		},
+		{
+			"ingre_name": "전복",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "톳",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해요.",
+		"2. 전기밥솥이나 압력밥솥에 요리해주세요.",
+		"3. 아보카도를 슬라이드로 썰어서 올려줘요."
+	],
+	"recipe_img": []
+}

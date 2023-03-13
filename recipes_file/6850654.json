@@ -1,0 +1,42 @@
+{
+	"id": "6850654",
+	"name": "여름 필수코스! 열대야를 이기게 해줄 간식 수박화채",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/5667032482b540ca77276fa1a28cef061.png",
+	"url": "https://www.10000recipe.com/recipe/6850654",
+	"ingredient_ids": [
+		161
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "수박",
+			"ingre_count": "1/4",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "각얼음",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "우유1+1/2컵(300ml)",
+			"ingre_count": "1+1/2컵(300ml)",
+			"ingre_unit": "컵(ml)"
+		},
+		{
+			"ingre_name": "사이다1+1/2컵(300ml)",
+			"ingre_count": "1+1/2컵(300ml)",
+			"ingre_unit": "컵(ml)"
+		}
+	],
+	"recipe": [
+		"1. 수박에 칼집을 넣어 과육을 발라낸다.수박 1/4통",
+		"2. 볼에 수박 과육과 얼음, 우유, 사이다를 넣고 섞는다. 각얼음 2컵, 우유 1+1/2컵(300ml), 사이다 1+1/2컵(300ml)볼",
+		"3. 맛있게 먹는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/08/51dd5d02e598ec0a2faaf13d3f59acad1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/08/356a492c214fa783b3c18ea88f10f0181.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/08/e49f6ace1562f2e5f751cfd3f1da559a1.png"
+	]
+}

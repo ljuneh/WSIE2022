@@ -1,0 +1,77 @@
+{
+	"id": "6940248",
+	"name": "여름엔 시원한 미역 오이냉국이 최고죠",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/4e587f2f2e4cd68fbe8286c53a96742e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940248",
+	"ingredient_ids": [
+		8,
+		91,
+		27,
+		497,
+		543,
+		29,
+		226,
+		231
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "2/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 1, 재료를 준비합니다 미역은 미리 불러놓습니다. 오이는 채를 썰고 파는 곱게 다집니다.",
+		"2. 2,넓은 볼에 오이를 넣고 얼음을 25개정도 채웁니다.",
+		"3. 3, 미역도 넣어줍니다.",
+		"4. 4, 그런다음 시원한 생수를 800ml를 넣어줍니다 .고춧가루도 한 스푼 넣어주고요.",
+		"5. 5, 이제 통깨와 설탕 2스푼도 넣습니다. 잘 저어줍니다.",
+		"6. 6, 식초를 넣고 파와 마늘을 넣고 마무리합니다. 간을 보시고 만약 싱겁다하면 맛소금을 약간 추가해주세요. 참기름은 넣지 않습니다.",
+		"7. 7,맛잇고 시원한 미역 오이냉국이 완성되었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/9127461237a3e2c93bb685a4a916e7f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/474944aa9255c929352e44c8d7e9d6831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/050a33ee3e769ce8a1d84ffb621e55f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/15123f78d7ab480c12c6b74a3077b4cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/243347382021f35daf64417ddf816f111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/c5be0d7d646909aa1bb785fa8ae971021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/129111ffc6a24cfb17da57e13b1365aa1.jpg"
+	]
+}

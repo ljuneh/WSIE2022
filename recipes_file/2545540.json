@@ -1,0 +1,86 @@
+{
+	"id": "2545540",
+	"name": "고구마치즈볼 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/598fed33f0cc7dbdd2cf0915b4be4210.jpg",
+	"url": "https://www.10000recipe.com/recipe/2545540",
+	"ingredient_ids": [
+		734,
+		219,
+		436,
+		214,
+		226,
+		228
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "찐고구마500g(껍질벗긴무게)",
+			"ingre_count": "500g(껍질 벗긴 무게)",
+			"ingre_unit": "g(껍질 벗긴 무게)"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "파슬리가루(생략가능)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "튀김용식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "슈레드피자치즈",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "크림치즈(마요네즈대체가능)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 뜨거울 때 껍질을 벗기고 포크 등을 이용해서 곱게 으깨주세요. 설탕과 마요네즈, 그리고 크림치즈를 넣은 후 잘 섞어 주세요.",
+		"2. 각각의 치즈는 먹기 좋은 크기로 잘라 주세요. 참고로 위의 사진보다 크게 잘라 주세요. 만들다 보니 너무 작아서 2개씩 넣었답니다.",
+		"3. 손에 일회용 장갑을 낀 후 고구마를 넓게 펴 주세요. 그 위에 치즈를 넣고 동그랗게 빚은 후 양손으로 동글려 주세요. 대략 지름이 1.5cm 정도면 될 것입니다.",
+		"4. 튀김가루에 경단을 살짝 묻힌 후 풀어 놓은 달걀물을 입히고 파슬리 가루를 넣은 빵가루를 입혀 주시면 됩니다. 빵가루에 파슬리 가루를 넣으면 더 예쁘답니다.",
+		"5. 튀김간식이라 아이들이 많이 먹지 않을 것 같아서 후라이팬에 기름을 약간 넉넉하게 두르고 중불에서 노릇노릇 튀겼습니다. 팬을 사진과 같이 살짝 기울여서 튀기면 기름을 절약할 수 있답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/99beb2a79c033ab1840bf3641d212f0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/68bc9fbaa086a8cf34ac8bcbe240edf31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/c8d1a7d80b8d3f4942c8deb61d84e26a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/57c1a5de3cec4ea07a23a6708a01b7d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/9f089ae6086cc5b976c87c73bd5f85841.jpg"
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"id": "6944730",
+	"name": "초스피드반찬으로 영양만점 브로콜리 두부무침 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/8205c97579a17cff6d4026ca5544b6181.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944730",
+	"ingredient_ids": [
+		11,
+		323,
+		282,
+		379,
+		660,
+		497,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 브로콜리는 깨끗하게 씻어주고",
+		"2. 냄비에 물을 부워 굵은소금 1t를 넣어",
+		"3. 브로콜리를 데쳐주세요.",
+		"4. 데쳐진 브로콜리를 물기제거 해주고,",
+		"5. 두부1모는 물기를 꾹 짜준다음 으깨주세요.",
+		"6. 여기에 간은 간장 1t",
+		"7. 참기름 1t",
+		"8. 통깨를 넣고 조물조물 버무려주기!",
+		"9. 여기서 조금 심심한 간은 소금 1t로 더해줬는데 혹시나 조금 단맛을 원하는 분들은 올리고당을 조금 넣어주셔도 괜찮아요!",
+		"10. 영양만점 브로콜리 두부무침 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/b51f8ed610a44481394b3d73907a57ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/b61a643020fd7a7beb4f02b2bf2f2e5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/1e40a2f76b216f71b720c7cc59ac11c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/f287794490ab24a62148f9c06b98057d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/29c0da8d631acc4e68c429336382a5f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/8c32c11aa1ecfb26fc37b1a00f1d68441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/f0b78b326c7926a701c3bcc1794723c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/8bd2092cc2100602a67995c8138ddde51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/0c30c300b451ccbc978bc7262e50f8bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/eded664cad650f6328f9c52cb8b90f141.jpg"
+	]
+}

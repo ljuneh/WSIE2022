@@ -1,0 +1,101 @@
+{
+	"id": "6942726",
+	"name": "양갱송편",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/18f0e449f8cb2692b5f228239277efa41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942726",
+	"ingredient_ids": [
+		391,
+		341,
+		226,
+		504,
+		660,
+		1004,
+		350,
+		227,
+		226
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀가루",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백앙금",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "분말한천",
+			"ingre_count": "6",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "콩가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 준비 재료 쌀가루 100g, 백앙금 250g, 분말한천 6g, 물엿 20g, 설탕 60g, 설탕, 참기름 송편소 재료 콩가루, 깨소금, 꿀, 설탕",
+		"2. 쌀가루 100g을 체에 내려 설탕 10g과 섞어주세요",
+		"3. 뜨거운 물로 익반죽해주세요",
+		"4. 천연색소를 넣으면 더욱 예쁜 송편이 된답니다",
+		"5. 반죽은 15g, 소는 콩가루, 깨소금, 꿀, 설탕을 섞어 만들어준 뒤 3g씩 분할해주세요",
+		"6. 반죽에 소를 넣어주세요",
+		"7. 예열해놓은 찜기에 10분간 송편을 쪄주세요",
+		"8. 찐 송편에 기름칠을 해주세요",
+		"9. 냉수 200ml에 분말한천 6g, 백앙금 250g, 설탕 50g을 넣고 끓여주세요",
+		"10. 액이 끓으면 물에 풀어둔 천연색소를 넣어준 뒤, 틀에 부어 굳혀주세요",
+		"11. 굳힌 색양갱을 모양틀로 찍어서 과일모양 송편 위에 올려주면 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/a9c6e1047821c8cad6c963e90de0317d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/7cf6802f4f0f5933fe01918e146bb93c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/9c8bf83b23438d5c24905b64a569dda01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/6abdc32853c8356a46bb657018e39d551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/da38d215d1745e79c94a91ee64cff1f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/2a6bf1fc03df6418b13d3245118b4e9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/ee68bf4f68bc4a1e646e05e25f6920e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/7187bd5a7d3dde817a42f63f689b68621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/fb113b4933e00008127eaef8366a483d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/10855a99604f2dc2f4a887337a15b16a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/30659b40864677434d1d7e64073cdb221.jpg"
+	]
+}

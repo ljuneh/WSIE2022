@@ -1,0 +1,88 @@
+{
+	"id": "2382595",
+	"name": "건강 보양식 전복 장조림 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/45c0014729c414c749e720735d4bdb33.jpg",
+	"url": "https://www.10000recipe.com/recipe/2382595",
+	"ingredient_ids": [
+		86,
+		293,
+		221,
+		292,
+		226,
+		458,
+		3,
+		857
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우육수",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "6~7알",
+			"ingre_unit": "~알"
+		}
+	],
+	"recipe": [
+		"1. 숟가락으로 전복을 떼내서 내장 ,분리해서 따로 담고 전복은 주방솔로 깨끗이 닦아서 칼집을 내주구요.",
+		"2. 전복 손질하는 동안 새우로 육수를 만듭니다.",
+		"3. 내장은 따로 두었다 채에 내려 죽을 쑤어 드시면 됩니다.",
+		"4. 전복, 메추리알,고추,마늘 준비된 재료를 조림장 붓고 센불에서 끓어 오르면 중불로 줄여서 졸여 줍니다. 꽈리고추는 전복이 거의 익었다 싶으면 넣어 주세요.",
+		"5. 밥도둑 전복장조림 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/ede44d9e6d1e9a0522dae6a870039d8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/08a03f0d23182629ff8e43e49606a6f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/1c9b4e78ae84c13d10266689e9cd5e6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/7becaebf17f1e76841ff68f0e984eb0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/04f2e53f0acbcdc137f8fe3bfbb49d171.jpg"
+	]
+}

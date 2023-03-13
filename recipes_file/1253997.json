@@ -1,0 +1,135 @@
+{
+	"id": "1253997",
+	"name": "춘천 닭갈비 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/b51e9e0495890a4c648d1c9d529d1510.jpg",
+	"url": "https://www.10000recipe.com/recipe/1253997",
+	"ingredient_ids": [
+		21,
+		3,
+		9,
+		15,
+		27,
+		972,
+		432,
+		497,
+		225,
+		473,
+		224,
+		379,
+		226,
+		233,
+		660,
+		846
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭정육",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 뼈 없는 닭살은 먹기좋게 잘라 카레가루, 소금, 후춧가루로 밑간하세요. 닭살은 닭가슴살이나 닭안심살, 닭다리살 등 원하시는 부위로 준비하세요.",
+		"2. 야채는 먹기좋게 썰어 준비하고, 떡볶이 떡은 물에 담궈 살짝 불려 준비하고, 양념장 재료도 미리 섞어 준비해요!",
+		"3. 밑간한 닭살에 양념장을 넣고 버무려 재워놓고, 약 30분정도 재워두면 좋아요. 그래서 미리 만들기 전에 재워두심 편합니다.",
+		"4. 모든 준비가 끝나면 달군 팬에 포도씨유를 두르고 양배추, 양파, 당근을 넣어 볶으세요. 양파가 투명해질 정도로 볶아줍니다.",
+		"5. 재워놓은 닭살을 넣어 볶고요.",
+		"6. 닭이 익으면 떡볶이 떡을 넣어 볶으세요.",
+		"7. 떡이 익으면 마지막으로 대파, 깻잎을 넣어 살짝 볶아 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/92b6cd465ca0f8be2df9216ee0f059ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/05495fc8fad8f9c025d26c46219a5f041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/301604debabfd1b62a1a5a12ff8171db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/368c94083474ee5c579401292cb487891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/87cc0afd3ea76ce0e184a7bf0eafc44d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/bc3019c17b41664d0b94d82bb5c1831c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/70b7c283a23a796c4bd36c26f04a7ab71.jpg"
+	]
+}

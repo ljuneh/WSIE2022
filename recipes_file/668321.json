@@ -1,0 +1,72 @@
+{
+	"id": "668321",
+	"name": "언제먹어도 구수한 양파감자스프",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/04/585c4f025b495ddf8f2175b28f53ef20.jpg",
+	"url": "https://www.10000recipe.com/recipe/668321",
+	"ingredient_ids": [
+		503,
+		995,
+		216,
+		504,
+		497,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양파2개(중간크기)",
+			"ingre_count": "2개(중간크기)",
+			"ingre_unit": "개(중간크기)"
+		},
+		{
+			"ingre_name": "감자1개(큰것)",
+			"ingre_count": "1개(큰 것)",
+			"ingre_unit": "개(큰 것)"
+		},
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "치킨스톡(큐빅모양)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "100",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양파는 채썰어서 팬에 식용유를 두르고 양파가 노릇할 정도까지 달달 볶아 소금과 후춧가루로 간하고 물 2컵을 붓고 치킨스톡 1개를 넣고 끓입니다. (치킨스톡 없으시면 닭육수나 소고기육수, 아니면 그냥 물을 넣으세요.) 감자는 작고 얇팍하게 썰어 전자렌지에서 3분간 돌려 익힌 후 양파를 끓이는 곳에 함께 넣어 잘 섞어서전자레인지",
+		"2. 전자렌지에 가능한 글락스락용기에 담고 그 위에 식빵을 동그랗게 잘라 얹어서 피자치즈로 덮어요. 전자렌지에서 5~6분 정도 피자치즈가 녹으면 완성이에요. 전자렌지도 종류에 따라 강도가 각각 다르니 중간에 전자렌지문을 열어보시고 치즈가 다 녹았으면 꺼내주세요. 치즈는 오븐보다 전자렌지에서 훨씬 더 빨리 녹아요.",
+		"3. 양파감자스프 위에 파슬리가루를 솔솔 뿌려 허브빵과 함께 점심으로 먹었지요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/eaf406d696680ca25582c0e01d3df9441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/2692276cf543abb76c322b9a303bdd961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/915c1bfa17e56433b71addc6657ef1061.jpg"
+	]
+}

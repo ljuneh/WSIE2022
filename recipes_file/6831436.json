@@ -1,0 +1,52 @@
+{
+	"id": "6831436",
+	"name": "손질부터 마무리까지 10분안에! 볶아먹는 숙주나물~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/09/b5ca9193aaa436215a3505b24db0f8921.jpg",
+	"url": "https://www.10000recipe.com/recipe/6831436",
+	"ingredient_ids": [
+		327,
+		497,
+		337,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "숙주나물",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 1. 숙주 한봉지를 다듬어 씻어요.",
+		"2. 2. 팬에 들기름 1T를 넣고 약간 예열을 한 뒤  손질한 숙주를 넣어 줍니다. (참! 마늘은 아이들이 싫어해서 뺐어요... 넣어 주셔도 됩니당~)",
+		"3. 3. 중약불에 살살 숙주가 부러지지 않도록 섞어주다, 약간 숨이 죽으면 소금으로 간을 해요. (소금간은 입맛에 따라!)",
+		"4. 4. 마지막으로 들깨가루 듬뿍 1T넣고 고루 섞어주면 끝!  깨소금 올려 그릇에 담으면 완성이랍니다. 완죤 간단하죵~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/09/1cbc3b3f0d5f4efaae0816c0d191b06d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/09/ca70cfcde327343c3cdd227176169cfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/09/eead44fefa99a3db4d757dc498f429021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/09/33adcba7bbb6cc5b25ead769ac4f394c1.jpg"
+	]
+}

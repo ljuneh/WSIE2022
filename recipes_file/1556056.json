@@ -1,0 +1,40 @@
+{
+	"id": "1556056",
+	"name": "감기에 좋은 통배숙",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/23/35875b3ba6a751199c95b309b301892a.jpg",
+	"url": "https://www.10000recipe.com/recipe/1556056",
+	"ingredient_ids": [
+		271,
+		227
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "배(소)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "건대추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 배를 잘 씻어서 윗부분을 1/3정도 잘라내요. 나중에 뚜껑으로 쓸거니까 버리지 마세요.",
+		"2. 속은 가장자리를 1cm 정도 남기고 잘 파내요. 이때 조심해서 속을 파주세요. 심부분을 파내려고 너무 힘을 주면 배가 부서질 수도 있고 아랫부분을 너무 열심히 파면 배에 구멍이 나서 물이 다 새어나가요. 아랫부분은 다른 부분보다 좀 더 두껍게 남겨두세요.",
+		"3. 그리고 배 속에 꿀과 대추를 넣어요. 대추는 물이 잘 우러나게 젓가락으로 구멍을 한두군데 뚫었어요. 전 배가 작아서 꿀을 1T 넣으니까 반정도 찼는데 배 크기에 따라서 꿀양을 조절해 반정도 차도록 해주세요. 내용물을 너무 많이 넣으면 물이 나와서 넘칠 수 있으니까 주의하시구요.",
+		"4. 배에 만들어 둔 뚜껑을 덮고 밑에 그릇을 받쳐서 찜기에 40분 약불로 찌세요. 찌면서 물이 조금은 나오니까 반드시 그릇을 받쳐주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/23/11063eaee76d2c95c73043f157c4e8261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/23/097faac2115cb1d112baabe044d35baf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/23/dcdff28df3cdb3d6161e9c3f34c7db751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/23/fea6248300662f80023f0fc03d13726e1.jpg"
+	]
+}

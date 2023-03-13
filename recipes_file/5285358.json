@@ -1,0 +1,76 @@
+{
+	"id": "5285358",
+	"name": "아로니아밥과 가지덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/20b091dde5d45c759f355042fb37dc09.jpg",
+	"url": "https://www.10000recipe.com/recipe/5285358",
+	"ingredient_ids": [
+		694,
+		18,
+		52,
+		3,
+		22,
+		477,
+		489
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "아로니아",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "가지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "두반장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 아로니아는 깨끗이 씻어 쌀 위에 부어 주세요. 아로니아를 반으로 자르거나 통채로 넣어도 상관없습니다.",
+		"2. 압력밥솥의 추가 칙칙 소리가 나면 불을 줄이고 5분 정도 지난 후에 불을 꺼줍니다. 뜸을 들이고 몇 분이 지나면 고슬고슬 밥이 완성입니다.",
+		"3. 가지 2개는 길이로 3등분해서 십자로 칼집을 넣어 주세요.",
+		"4. 양파는 채를 썰고 달군 팬에 가지와 함께 볶아주세요.",
+		"5. 가지와 양파를 볶다가 물을 1컵 정도 넣어주세요. 입맛에 맞게 나중에 물을 더 추가하시면 됩니다.",
+		"6. 두반장 소스 1큰술과 굴소스 1큰술 넣어 주고 끓이다 마지막에 채소와 숙주를 넣어 주세요.",
+		"7. 불에서 내리기 전에 감자전분 1큰술을 넣어 한번 끓이고 불에서 내립니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/0d810146d663f89456b16a0f906d32751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/bdc19d90d773e1703dd234b8c176c0761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/57442bd5f0708f6c790704d98d3f88ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/eba137816f3f6ea0911ae254d3680bad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/6798d7ecd9a98c6e68cc574bb3a093f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/d1c94327e5dd07510204f8d1988a568e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/c25e834602b2a096e6f3f2800d8467b01.jpg"
+	]
+}

@@ -1,0 +1,115 @@
+{
+	"id": "6941187",
+	"name": "채소찜된장스프:채식몸보신요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/a740caa653b279c05655fa0ce4aba7a71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941187",
+	"ingredient_ids": [
+		18,
+		5,
+		323,
+		29,
+		371,
+		911,
+		7,
+		3,
+		108,
+		295,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/3",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "완두콩",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생수(또는다시육수)",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "쌀뜨물2+1/2컵",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 채소는 소금, 후추, 올리브오일에 버물버물한 후ㅡ냄비에 물을 담고 종이호일 깐 찜기를 올리고 채소들을 담은 후",
+		"2. 뚜껑덮어 약불에서 푹 찐다.",
+		"3. 채소찜과 찜에서 나온 채소국물을 냄비에 옮겨담고 물을 붓고 푹 끓인다.",
+		"4. 쌀뜨물과 다시육수를 넣으면 더 좋아요.",
+		"5. 물 빼 둔 두부와 완두콩을 넣고 한번 더 끓인다.",
+		"6. 된장을 풀어 가볍게 한소끔 끓인 후 ㅡ된장은 평소 된장국 끓일 때 보다 적게 슴슴할 정도로만 넣어주세요",
+		"7. 고추와 깻잎넣고 불을 끈다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/4e703b8b1b946ca9d8252341ba82826a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/156aa9cea8b9eae075a498ced42360271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/782629e425b36500bbcfb8ba072fd6b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/edd22e55fc509d16bd516ab38e3867c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/81b3f1964fdc2f4ef2d7282ed22789521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/870da029a5ec03cfe265cb417d324c731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/dd34b0448305f4c27e948176cf8d30b31.jpg"
+	]
+}

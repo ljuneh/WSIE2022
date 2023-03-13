@@ -1,0 +1,52 @@
+{
+	"id": "6934559",
+	"name": "초간단요리 ~! 또띠아를 활용한 마늘칩만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/06/18/61815ba7658aa4f2458c72d0c87eaa281.jpg",
+	"url": "https://www.10000recipe.com/recipe/6934559",
+	"ingredient_ids": [
+		29,
+		575,
+		198
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "또띠아",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 또띠아.마늘.올리고당.버터 준비",
+		"2. 마늘.올리고당.버터를 한스푼씩 섞어준다",
+		"3. 또띠아에 발라준다",
+		"4. 후라이팬에 노릇노릇구워준다 여기까지 완성 마늘칩 완성 ~~♡",
+		"5. 이번엔 치즈도 추가해본다",
+		"6. 후라이팬에 치즈녹을때까지 구워준다",
+		"7. 먹기좋은 크기로 잘라서 냠냠 먹는다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/18/39db7b4a83883848d5d9321f16fb30721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/18/b9e00f2a26cb0f272dcd59c94bd1033f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/18/04335999b3a2f6f8fa1b313beafc4d1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/18/e0214ef939ffdc66133f1c737bbbd2611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/18/f17e1a23328eea3769d16327f2c4db341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/18/eacf3595962d3f46f52fcae71f10a0f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/18/dd773c22047ae08849a7604d1abd3dfc1.jpg"
+	]
+}

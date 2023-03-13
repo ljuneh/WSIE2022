@@ -1,0 +1,70 @@
+{
+	"id": "6863151",
+	"name": "새해 선물, 오색 김치만두 어떤가요?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/27/31fc12218566f26f1d7001911597b66a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863151",
+	"ingredient_ids": [
+		286,
+		487,
+		15,
+		29,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "만두피",
+			"ingre_count": "50",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "김치만두소",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 김치만두소, 돼지고기, 깻잎, 청양초, 계란, 마늘, 참기름을 넣고 잘 섞어준다.                   ",
+		"2. 만두피도 준비해 둔다.",
+		"3. 만두피에 소를 넣고 가장자리를 꾹꾹 눌려준 후 동그랗게 말아 붙여준다.                     ",
+		"4. 완성된 모습",
+		"5. 찐만두나 군만두용                       "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/27/d173840e7d0e2914783135422e2acac11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/27/2e6b88526c51dade8eae65e1e75ba9e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/27/cc313bb673b8bd2832fba981eea821a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/27/0a850bea7f0da22eb2776cd6fce9fc7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/27/6d00b54e417938230f6c8caec98648a91.jpg"
+	]
+}

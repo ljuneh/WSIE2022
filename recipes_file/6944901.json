@@ -1,0 +1,45 @@
+{
+	"id": "6944901",
+	"name": "(아기반찬) 전복 들기름 구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/e4ca6c7ec56b879b994d4db7527846671.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944901",
+	"ingredient_ids": [
+		86,
+		327
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해요전복(小) 3마리, 들기름 3t",
+		"2. 전복을 깨끗하게 손질 한 뒤 껍데기를 벗겨내고 이빨도 제거해주세요.",
+		"3. 전복의 날개부분은 꼬들꼬들해서 아기가 먹기엔 조금 힘들기때문에",
+		"4. 이렇게 다 썰어내고",
+		"5. 부드러운 살 부분은 벌집 모양으로 칼집을 내요",
+		"6. 후라이팬에 전복(小) 1개 당 들기름 1t를 두르고 구워주세요약불",
+		"7. 먼저 전복의 윗부분이 후라이팬에 닿도록 뒤집어서 구워요.",
+		"8. 노릇노릇하게 익으면 뒤집어서 뒷면도 익혀주세요",
+		"9. 짜잔! 전복볶음밥 위에 토핑으로 얹어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/8d23867f02517301b3f4b33f2cc8e5be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/a65adc8b6c8194d8b88a16787c222bc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/27bc4efea2a1c62bf0b1f9193a5681921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/c95297619d4e067d4cf3e6b29221613c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/d55c192fca45ed0dab3b6ae37a8c3db01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/a849282fc147e84f272fb539baf8eee71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/a123ed9b68fc735c8522c03361a823111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/19d1fe1288f03f03481f34c253ff502c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/773baafd6c4bd171fd1d88ad174faa721.jpg"
+	]
+}

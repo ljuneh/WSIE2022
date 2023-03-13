@@ -1,0 +1,41 @@
+{
+	"id": "6831094",
+	"name": "쉬운 아메리치노 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/7a8d5ee65ca5c219040056dfc8cf437e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6831094",
+	"ingredient_ids": [
+		599
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "에스프레소",
+			"ingre_count": "2",
+			"ingre_unit": "샷"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "100",
+			"ingre_unit": "m"
+		}
+	],
+	"recipe": [
+		"1. 캡슐커피를 이용하면 에스프레소 2샷을 내줍니다. 에스프레소가 없으면 스틱형 커피를 진하게 타줍니다.",
+		"2. 에스프레소를 희석할 생수, 얼음, 그리고 거품날이 장착되어 있는 믹서기나, 도깨비방망이를 준비합니다.",
+		"3. 볼에 생수, 에스프레소를 넣고 거품 날이 장착된 믹서기로 거품이 많이 날 때까지 해줍니다.",
+		"4. 옆에서 보면 2중으로 층을 이룹니다.",
+		"5. 컵에 얼음을 넣고 거품이 풍성하게 일어난 아메리치노를 부어 주시면 완성됩니다. 시럽을 추가하고 싶으신 분은 별도로 추가하세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/17b41ae5fb9175084c6c0862f13a79cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/f2272c598404d4d837c8b29dc4b59d851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/0c33fa11dc856db718e11abd66e52a361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/4d0ff28b2adfae12605e521ae263e0051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/224f3e9c5042175a7d56c49d4c5f92641.jpg"
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"id": "6903959",
+	"name": "돼지등뼈김치찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/09/e4af80b50cfe25e1871cc10289eba56b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6903959",
+	"ingredient_ids": [
+		953,
+		473,
+		29,
+		349,
+		608,
+		848
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지등뼈",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "생강가루(생강반쪽)",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 등뼈를 찬물에 담궈 2시간 핏물을빼주세요^^(1시간에한번 물을 갈아줬어요)",
+		"2. 핏물뺀 등뼈를 찬물에 넣고 한번 삶아준후 흐르는물에 씻어서 건져준후 다시 냄비에넣고 월계수잎,된장,통마늘,생강가루를 넣고 물을 등뼈가 잠길만큼 부어 쎈불에 끓여주세요.(팔팔끓기시작하면 중불로 줄이시고 20분정도 끓이다 약불로 40분끓여주세요.총 1시간 삶아주세요)",
+		"3. 한시간 삶은 등뼈만 냅두고 나머지 마늘 월계수잎은 건져주세요.",
+		"4. 잘익은 김치반쪽을 넣고 간마늘한스푼과 고추장한스푼, 간장2스푼 을 넣고 한시간 더 푹 끓여주세요.",
+		"5. 자 이제 맛있게 드시면 돼요^^ 소주한잔해도 최고구요 밥이랑먹음 밥도둑이네요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/09/a08c3ed6bc5302b679b128a799d8a2eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/09/65435b32a69a3b420c52ee82e438838e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/09/105b17fd37f6616f6d934c9d5612f7b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/09/96422c636a2c6783c78762c33522624e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/09/47a6ac111136ad7fe6b7a4f8cbbb53d51.jpg"
+	]
+}

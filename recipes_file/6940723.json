@@ -1,0 +1,99 @@
+{
+	"id": "6940723",
+	"name": "버터 떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/626d6e0c89bf5137713393e3d32c67201.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940723",
+	"ingredient_ids": [
+		433,
+		198,
+		212,
+		224,
+		226,
+		343
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "비엔나소세지",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "막대어묵",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어슷썬대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "적당한크기로썬양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "떡국떡",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 후라이팬에 불을 켜주시고 버터 60g을 넣어주세요.",
+		"2. 버터가 다 녹았으면 비엔나소시지를 넣어주세요. (비엔나 소세지 3등분으로 칼집을 내주세요.)",
+		"3. 어묵도 같이 넣어주시고 2분 정도 볶아주세요. (사각 어묵도 대체 가능합니다.)",
+		"4. 떡국떡을 넣어주시고 떡국떡이 흐물~ 흐물~ 해질 때까지 볶아주시면 돼요.",
+		"5. 양념장을 넣어주시고 1분 볶아주세요.",
+		"6. 대파와 양파를 넣어주시고 1분 볶아주세요. (오래동안 볶으면 야채 숨이 죽어서 야채의 식감이 흐물흐물 해집니다.)",
+		"7. 약불로 줄여주시고 모짜렐라 치즈를 골고루 뿌려주세요.",
+		"8. 뚜껑 덮고 1분 정도 기다려주세요. 1분 기다렸는데 안 녹았으면 다시 뚜껑 덮고 30초 정도 기다려주세요.",
+		"9. 뚜껑을 열고 치즈가 다 녹았으면 파슬리 가루를 솔솔 뿌려주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/d9bfe94097abd14a7d0fb34f2a7c023b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/c9178a21cbb1b4868f715ce01aee42451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/1666f89ddc944b1096ff5dbf95a82cd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/cbcd93ff881642a4b6a24dee5b299b3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/c0fee0dcecff302b67783310bffc7a181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/0aed041f27d505b8173393f9e91622b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/2579dcfe8e4bbe6e9ef3f2b71519e8fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/cb96780c192a8a4529b11f84f73b371b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/4a0ef773c61905ecccc7a6dfbc67396a1.jpg"
+	]
+}

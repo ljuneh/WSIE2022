@@ -1,0 +1,84 @@
+{
+	"id": "6942439",
+	"name": "보들보들 요거트 쌀 모닝빵 만들기~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/abd0079864e9d3587eafcecbb11608ed1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942439",
+	"ingredient_ids": [
+		391,
+		656,
+		226,
+		497,
+		219,
+		567
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "260",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쌀가루",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "탈지분유",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "플레인요거트",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "인스턴트드라이이스트",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무염버터",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 볼이나 반죽기에 액체재료를 넣고 버터를 제외한 모든 가루재료를 넣어 줍니다.(이스트는 설탕, 소금과 직접 닿지 않게 주의해요.)",
+		"2. 반죽이 한덩이가 되고 볼이 깨끗해지면 버터를 넣어 줍니다. (손반죽은 볼에 버터를 제외한 모든 재료를 넣고 섞다가 반죽이 한덩이가 되고 볼이 깨끗해지면 작업대로 옮겨,버터를 넣고반죽이 매끄러워질때까지 치댑니다.)",
+		"3. 반죽을 늘려보아 얇은 막이 생기면 둥글려서 밀폐용기나 랩 씌워 실온에서 1시간 1차 발효합니다.밀가루 살짝 묻힌 손가락으로 찔러 보는 핑거 테스트를 하고 1차 발효를 마무리 합니다 .  (모양이 그대로 있으면 발효가 잘 된 거예요.)",
+		"4. 반죽을 12개로 분할, 둥글리기 한 뒤 랩이나 젖은 면보 덮어 10분 중간발효합니다.",
+		"5. 살짝 재둥글리기 해 준 뒤 밀가루 골고루 묻혀 털고 이음매가 아래로 가게 팬에 넣어 줍니다. (20cm 정사각틀에 넣고 구워도 좋아요.)",
+		"6. 비닐이나 젖은 면보 덮어 1시간 2차 발효합니다.",
+		"7. 쿠프를 넣어 줍니다. (쿠프나이프가 없으시면 커터칼로 살짝 눕혀 그어 주세요. 똑바로 세우면 뜯길 수 있어요.)",
+		"8. 20분이상 예열 오븐에서 180도 15~17분 굽습니다.오븐",
+		"9. 구워진 빵을 틀째로 무심한 듯 '툭' 내려 놓고 바로 틀에서 꺼내 식혀요.툭 내려 놓는 이유는 빵 안의 뜨거운 수증기가 빠지면서 꺼지는걸 막아줘요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/efb70adf47245ca9a815d89ff5b06b4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/943baae9cd221054d66f5e49c07a96db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/8dd7d11606f5fecfd630fc15b0c4c43a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/3e473acb24aa6535f283b2d185f166221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/f1d1ca8052919c1723e8cc6c8428c5bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/27d4713f7881e7bb1749c157fd8df2ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/8f6511718fcd5773e3b1f595123e37731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/b4bfac6cb4578282566a2713bc28b34b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/fd5744a4a4249b1b3fa1d535b6b567ae1.jpg"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"id": "1138108",
+	"name": "토마토 스파게티",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/4197cd72de65e66cdbd47bdad9c6a810.jpg",
+	"url": "https://www.10000recipe.com/recipe/1138108",
+	"ingredient_ids": [
+		3,
+		6,
+		574
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 스파게티면 3인분을 냄비에 물을 넉넉히 넣고 끓는 물에 소금 2스픈을 넣어 8분간 삶아냈어요. 홍새우살은 등쪽의 내장을 제거해서 전자렌지에서 해동시켰는데요. 양파와 파프리카는 잘게 썰어두었답니다전자레인지",
+		"2. 팬에 올리브유를 4스픈 정도 넉넉히 두르고 양파와 파프리카를 먼저 달달 볶다가 새우살을 넣고 조금 더 볶아준 다음 소금과 후춧가루로 간을 합니다",
+		"3. 시판용 토마토소스를 넣어줍니다.",
+		"4. 여기에 멜린다 핫소스를 1/4컵 정도 넣어 매콤하고 시큼한 맛을 더해주었어요",
+		"5. 소스가 걸쭉하게 되면.. 삶은 스파게티면을 넣고 잘 섞어가며 볶아줍니다.",
+		"6. 접시에 담은 스파게티면 위에 파마산치즈와 건파슬리가루를 솔솔 뿌려줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/7135e0e3617b56dbcb2d02f09437a4f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/6759213bc06af8937eb31a093a4fd1221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/1ed35ea8aa0399491cc95281a16b6e9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/7a25bfe0e2edef5953078ed6045c32251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/74ecb017468866d1ab479d68a63b06b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/7d4e4709638d1a2b8e7301ea95d8a5061.jpg"
+	]
+}

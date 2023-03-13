@@ -1,0 +1,88 @@
+{
+	"id": "6941274",
+	"name": "경기미 참드림 쌀로 만든 비건새우바질볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/fd651aaa261af03791a41335f86ab7791.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941274",
+	"ingredient_ids": [
+		3,
+		55,
+		574,
+		575
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "비건새우",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "빨간파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "노랑파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1/3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "집간장",
+			"ingre_count": "11/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "바질가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고운소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 참드림으로 꼬슬하게 밥을한다.",
+		"2. 재료준비를해놓는다",
+		"3. 빨강파프리카,노랑파프리카는 작은사각썰기, 비건새우 4등분하기",
+		"4. 파는 송송썰고,양파 다지기, 팽이버섯 밑둥제거후 4등분해놓고, 볶음밥용으로 해놓은 밥을 준비한다",
+		"5. 팬에 파를넣고 올리브유를 두를 후 파기름을 살짝 내준 후 양파,비건 새우, 버섯을 먼저 볶은 후 집간장과 올리고당으로 간을한다",
+		"6. 간을 한 야채에 밥과 파프리카를 넣고 볶아준다",
+		"7. 볶음밥에 바질가루를 넣고 뭉치지 않게 잘 섞으면서 볶아준다. 소금을 조금 넣는다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/b6e94254a096b149dd7e6d56f3238b4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/b08e2232fef200a46147418e5a6cfea21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/654cf2dc2dfa6d06af595eaab43f83391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/33cc4a9d45b7912e86cec437638686191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/4c57070a6e08417e88084d0710be6e3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/393a58ffa2faa4cfa0ce173387dc921a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/dfea055a362b618a942770fe1d3146091.jpg"
+	]
+}

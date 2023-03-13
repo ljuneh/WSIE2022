@@ -1,0 +1,71 @@
+{
+	"id": "5911195",
+	"name": "멍게비빔밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/73fa33450239163a84d0b7733f3d70ba1.JPG",
+	"url": "https://www.10000recipe.com/recipe/5911195",
+	"ingredient_ids": [
+		313,
+		473,
+		231,
+		226,
+		343,
+		995,
+		458,
+		577
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "멍게",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1/2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/4",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "와사비",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 상추, 깻잎, 오이, 양파, 적채는 채썹니다. 채썬 아채를 물에 잔깐 담궜다 건져 물기를 잘 제거 해줍니다.",
+		"2. 고추장 1C, 식초 1/2C, 설탕 5T, 미림 3T, 물 1/4C, 생강즙 1t, 와사비 1T, 다진 마늘, 통깨를 섞어 초고추장을 만들어줍니다.",
+		"3. 멍게는 먹기 좋게 손질해 줍니다.",
+		"4. 미지근한 밥에 참기름 조금 두르고 야채를 담고 구운 김가루 좀 담은 후 멍게를 담습니다. 만들어둔 초고추장을 곁들입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/f04e7220c9853fe7c04ad90c029009b11.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/a41373b0732c1d372fd563a4a90718421.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/ec9e69dbd67280ad614962c92d542ba91.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/b377bc271ae6493544c7a1861eb305d51.JPG"
+	]
+}

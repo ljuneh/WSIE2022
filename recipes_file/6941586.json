@@ -1,0 +1,50 @@
+{
+	"id": "6941586",
+	"name": "햄과 치즈를 곁들인 쿠자라이식 라면",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/6ee2e67598457631dc6d10b7f8693b9e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941586",
+	"ingredient_ids": [],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "신라면",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "비엔나소시지",
+			"ingre_count": "5~6개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "모짜렐라",
+			"ingre_count": "",
+			"ingre_unit": "치즈"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해줍니다. 햄과 치즈는 있어도 되고 없어도 됩니다! 다른 재료를 추가해주시고 싶다면 더 넣어도 좋구요",
+		"2. 우선 달달 달궈진 후라이팬에 햄을 잘라서 구워줍니다",
+		"3. 햄이 익으면 물 큰컵기준 1컵(300ml)정도를 붓고 끓여줍니다",
+		"4. 물이 다 끓으면 라면 후레이크와 면을 넣고 면이 풀어질때까지 끓여줍니다",
+		"5. 어느정도 면이 풀어지면 라면스프를 반정도 넣고 잘 섞어준 뒤 계란을 하나 넣어줍니다 (라면스프는 입맛에 맞게 조절하시면 됩니다 반 이상넣으면 너무 짜더라구요! 그리고 소시지를 넣었기 때문에 간간합니다:-))",
+		"6. 그 후 모짜렐라 치즈를 먹을만큼 솔솔 뿌려주세요",
+		"7. 뚜껑을 덮고 1~2분정도 기다립니다",
+		"8. 그러면 요리 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/13399a7c5c1eb053bdbceea5ebd4f1a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/31420478614b722bd4f489ac002e12201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/25098b3fde3cbf4a0a17d00506ac394f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/fc4039029700e6de1f43cae4e0fe52721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/abf0ae6b8224726cafed99ce1094a29f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/8d7c23e4760fdcb6231ec92322b911c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/7f9d76d4211916432f1711f8c01174811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/834a6f4c8c9ae7098fd04db0004b1c721.jpg"
+	]
+}

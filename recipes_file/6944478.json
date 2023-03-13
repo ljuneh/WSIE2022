@@ -1,0 +1,74 @@
+{
+	"id": "6944478",
+	"name": "마약계란 레시피 만들기 (찾았다 밥도둑)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/2182be466d3609dbdd23c138eba8731a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944478",
+	"ingredient_ids": [
+		231,
+		497,
+		379,
+		575,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "12",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "비율"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "비율"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "비율"
+		}
+	],
+	"recipe": [
+		"1. 계란을 준비해주세요 저는 집에 계란이 많아서 12개로 했습니다",
+		"2. 냄비에 계란을 삶아줄거에요. 여기서 깨지지 않고 껍질도 잘 벗겨내기 위해서 삶기전에 식초랑 소금을 조금 넣어주세요 그래야 삶는동안 깨지지 않고 잘 벗겨진답니다.",
+		"3. 끓는동안 젓가락으로  이렇게 돌려주세요  그래야 노른자가 중간에 이쁘게  자리 잡는답니다.",
+		"4. 이제 소스 만들기!!  간장1:올리고당1:물1 비율입니다.  종이컵을 하던 어떤컵을 하던 똑같은 비율로만 넣어주세요",
+		"5. 올리고당1",
+		"6. 물1",
+		"7. 통에 담아주세요  안끓이고 그냥 담아주시면되요 잘섞어주세요",
+		"8. 쪽파나 파를 송송 썰어서 넣어주세요",
+		"9. 계란을 식혀주세요 마약계란은 반숙이 제일 맛있다고 해요 그래서 저는 8분 삶아줬답니다. 완숙하실거면 10분 삶아주 면되요",
+		"10. 반숙된 계란입니다. 반숙 = 8분",
+		"11. 통에 담아주세요",
+		"12. 밥이랑 같이 먹으면 밥도둑 여기서 찾았어요...  아침에 간단히 먹기 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/8bc932b4945352897b9b2d0d7c89a27d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/1e91af04fec8f538f0c80d584a0cd9271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/d0c6d5b8c0b2862a55352c665c007bbb1.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/ff5455ff1e14c4c31b5f86fd7ef29bc01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/b61f9efa1c09aa71446b51c25bb87e511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/4bdc762079f2564a868f22f78ba334b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/7066eacd388eed7187bea4fdabef15731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/470eeecd6fadf256822b7c5a9f85e0db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/eb5cd9672f18217786086a5ed5a452bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/330968676b3ad18463d35a0210ea694f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/223a7473671311119e15bc7f3b9cf6691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/c5bcf993f0172927361225c090be77561.jpg"
+	]
+}

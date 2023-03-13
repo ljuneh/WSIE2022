@@ -1,0 +1,52 @@
+{
+	"id": "6888790",
+	"name": "구름이 뭉게뭉게♥클라우드에그",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/05/14/92ff00adbfc86149b3bc04f5ab2b7f1e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6888790",
+	"ingredient_ids": [
+		219,
+		497,
+		868,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파마산치즈가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 달걀은 흰자와 노른자로 분리한다.",
+		"2. 휘핑기를 이용해 머랭을 만든 후 소금, 설탕, 파마산치즈가루를 넣어 살살 섞는다.",
+		"3. 오븐용 팬에 유산지를 깔고 머랭을 쌓고 가운데를 오목하게 만든 후 노른자를 넣는다.",
+		"4. 파슬리가루를 뿌린 후 200도 예열된 오븐에 5~6분 돌려 완성한다.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/14/adda956257f4991815e5be5447bdff111.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/14/c9fa7b6733af17555833189dbde4b08a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/14/a240e392d82bb9a5cc55ee728e6bc36b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/14/398594cc7d5f9884e1bde936d91fcba81.png"
+	]
+}

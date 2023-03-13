@@ -1,0 +1,46 @@
+{
+	"id": "6925828",
+	"name": "호떡 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/02/02/e5ee5d4e87484cc7f3f9f4b9196280f11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6925828",
+	"ingredient_ids": [
+		641,
+		504
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "호떡믹스",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물180ml",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 이스트를 물180ml에 섞음니다.",
+		"2. 호떡 믹스를섞어줍니다. (이때 물이 부족하면 조금씩 더 넣어줍니다.)",
+		"3. 뭉쳐준 반죽을 조금 떼어내서 동그랗게 만들어준 다음 눌주세요",
+		"4. 모아주세요",
+		"5. 구워줍니다",
+		"6. 달고나 누르는 걸로 눌러주면  납작해집니다.(다른 것도 돼요.)",
+		"7. 완성!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/02/6816e6fc7375db6ea3d0f616b414b9a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/02/c2a6d67e689e42a0f3508fac252506011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/02/50342a709580968597c5453fe988c9401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/02/a8484ffaab9e08953120b59ddab692b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/02/de78cf6d2fd62d0e6e8ba98d7d5319051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/02/c6d6f19b91d85e6825293fcc465e0d0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/02/771fcf0e6c8b19ab612d71a59c824db91.jpg"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"id": "6885528",
+	"name": "비오는날 늙은호박부침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/08/5f0889da64d67fe23c3a2024ac7ee00c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6885528",
+	"ingredient_ids": [
+		355,
+		53,
+		3,
+		387
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "늙은호박",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "집간장",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 늙은호박은 껍질을 벗겨 둡니다. 호박한통으로 호박국, 호박지짐이, 호박죽 끓여 먹으니 딱 좋더라구요.",
+		"2. 호박, 표고버섯은 곱게 채썰어 줍니다.",
+		"3. 양파, 밀가루1컵,집간장,물을 넣어 데직하게 반죽을 해 줍니다. 밀가루가 많지 안고 호박이 서러 엉겨붙을 정도로만 해주세요.",
+		"4. 카놀라유 두르고 노릇하게 지져 주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/08/87f9c6c0cb94ba32e2c5f30a405d40901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/08/d2ab2902b14182a3b5ac881a34fce80d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/08/aa1797187bcf128178ef83e3fd25b7ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/08/fae639bb4367653559a7f9648a7fcd201.jpg"
+	]
+}

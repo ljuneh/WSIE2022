@@ -1,0 +1,81 @@
+{
+	"id": "6940436",
+	"name": " <세종댁달순레시피> 시원하고 고소한 두부 냉채 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/cb5374b50be57a9bbf2998ecda0a53bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940436",
+	"ingredient_ids": [
+		323,
+		379,
+		30,
+		643,
+		350,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "다시마물1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "",
+			"ingre_unit": "동동"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다짐마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "t스푼"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 두부는 채에 올려 물기를 빼주고 다시마 물은 미리 물, 다시마를 넣고 냉장고에서 불려줍니다.바로 생산된 두부는 물을 빼지 않고 해도 되지만 마트 두부는 끓는 물에 뿌려 두부의 겉표면과 생으로 먹기 때문에 소독을 해주는게 좋습니다. 그 다음 찬물에 담가 열기 빼주면 두부 준비 끝.",
+		"2. 두부(1모)는 먹기 좋은 크기로 채를 썰어 준비해 줍니다.",
+		"3. 간장(1컵)에 부추(2수저), 풋고추(1개), 홍고추(1개)를 송송 썰어 넣어주고 다짐마늘(반t스푼), 깨소금(1수저), 참기름(1수저) 을 넣고 잘 섞어 줍니다.",
+		"4. 채 썬 두부를 먹을 만큼 나눠서 담아준다음 양념장(2큰술)을 넣어줍니다.",
+		"5. 마지막으로 다시마물(1컵반)을 넣고 얼음을 동동 해주면!  오이냉채와는 다른 맛인 고소하고 시원한 두부 냉채 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/31c8b451c18f3ca707d956c1c9300f7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/7e40f6355a305af5f41e19e1d898a70f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/46c49b27f64c191a2ac11e978ed894381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/37557e6fbeefc6424afdb64d8150ef4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/f1767a3b8bdb08360188dd862a8cdc171.jpg"
+	]
+}

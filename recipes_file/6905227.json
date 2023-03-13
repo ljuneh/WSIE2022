@@ -1,0 +1,84 @@
+{
+	"id": "6905227",
+	"name": "돌솥비빔밥 만드는법 야채 넣고 비벼~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/25/232f4478361d66134f8b16ef3cb87c1b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6905227",
+	"ingredient_ids": [
+		16,
+		496,
+		953,
+		325,
+		473,
+		660,
+		543,
+		660,
+		226
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "상추",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		}
+	],
+	"recipe": [
+		"1. 간단하게 냉파로 있는 재료로  돌솥비빔밥을 만들어 보려구요.",
+		"2. 다른 재료는 다 그냥 먹어도 되는 거라서 그냥 썰어서 준비해 두고요 호박만 익혀 주었어요..",
+		"3. 상추도 썰어 주시구요 김치도 썰어 주시구요 단무지도 썰어 주세요. 냉장고에 있는 재료만 넣었어요.",
+		"4. 그리고 밥을 담고 그위에 재료를 올려 주세요. 그리고 고추장과 설탕 약간 넣어 주시구요.",
+		"5. 그리고 밥이 살짝 누를 정도로 불에 올리셨다가 고소한 냄새가 나면 끄시고 참기름 한스푼 넣으셔서 슥슥 비벼 드시면 되세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/25/2d46c9ffe0cc021e15e4a168c5973e331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/25/44ead9729067f3a43fa2108d60505abe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/25/6829b6764d8be91eed57c53bd9f16e891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/25/47fe6eb1de0b4741184fdc9f2e1235c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/25/1d7442af622edb43c967c1d659a6a7ed1.jpg"
+	]
+}

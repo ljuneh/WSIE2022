@@ -1,0 +1,73 @@
+{
+	"id": "6838164",
+	"name": "소화잘되는 양배추죽 참쉬운 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/16/a4e89530192209ed0e939e696432dead1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838164",
+	"ingredient_ids": [
+		300,
+		325,
+		9,
+		3,
+		21,
+		327
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "불린쌀1그릇(국대접)",
+			"ingre_count": "1그릇(국대접)",
+			"ingre_unit": "그릇(국대접)"
+		},
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "1",
+			"ingre_unit": "덩어리"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "아주약간"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "포고버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 야채는 마트가면 다져놓은걸 이용하셔도 괜찮아요  다른야채들은 가감해서 넣으시고요  포고버섯은 꼭 넣어주시는게 맛이 좋아요  닭가슴살은 적당히 칼로 잘라줬어요",
+		"2. 들기름 3숟가락 넣고 가슴살부터  들들 볶아줍니다",
+		"3. 닭 가슴살이 투명색으로 볶아질때쯤  다져진 야채와 버섯을 넣고 뒤적거려줘요",
+		"4. 적당히 잘라놓은 양배추를 넣고요 들들 볶아주다가 불린쌀을 넣어줍니다.  쌀은 3시간정도 불려줬어요  전날 불려놓으셔도 좋아요",
+		"5. 눌러 붙지않게 뒤적뒤적 하다보면 불린쌀이 투명색으로 변해요 그럴때 물을 넣어줘요  (다시마육수로 하심 더 맛있어요) 물넣고 되직해지면 또 물넣고 되직해지면 물넣고  같은작업을 4번정도 했어요",
+		"6. 4번정도 그렇게 끓여서 한수저 먹어보면  쌀이 아주 잘 퍼져서 익었을꺼에요  한번에 먹을껀 아니니 드실때 간은 하심 될꺼 같아요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/16/f8596d1868632ce37eedea8e265aa94c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/16/3b5142b4aa1d257de9078b090315efd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/16/92fe675d80e1f724740ce61eb9f9ac6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/16/d94d954369cfac8ecd8776006a4e14d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/16/f6df222c3a7a964023193d9ac9ac7c0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/16/200856a272c9d7c52a679048b27f39131.jpg"
+	]
+}

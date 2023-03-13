@@ -1,0 +1,93 @@
+{
+	"id": "6870600",
+	"name": "객지 생활하는 아이들을 위한 비트 김밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/01/582de1a631be515bc15496fa53244db71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6870600",
+	"ingredient_ids": [
+		95,
+		219,
+		44,
+		9,
+		15,
+		228,
+		231,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "비트",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "8",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": "소금"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 1. 비트김밥 만드는법  계란 3개는 풀어 소금을 넣고 프라이팬에 구워내 곱게 채 썰어둔다.",
+		"2. 당근도 곱게 채 썰어 볶아둔다.",
+		"3. 참치는 기름기를 빼고 마요네즈에 비벼두고, 비트는 굵게 썰어 식초에 담가둔다.                   ",
+		"4. 김 - 밥 - 깻잎 - 참치는 먼저 말아주고 준비한 재료를 올려 돌돌말아 준 후 썰어준다.",
+		"5. 밥에 비트를 담갔던 식초물을 부어 잘 섞어준다.                   ",
+		"6. 김 - 밥 - 참기름을 약간 발라 뒤집어 준 후 재료를 올려 말아준다.",
+		"7. 2. 주먹밥 만드는법  당근과 대파는 잘게 썰어주고 프라이팬에 콩기름을 두르고 파기름을 낸 후 당근을 넣고 볶아준다.",
+		"8. 풀어둔 계란을 붓고 조금 기다렸다가 젓가락으로 저어준 후 밥을 넣고 볶아준다.",
+		"9. 한 입 크기로 주먹밥을 만들어 준 후 김에 싸주면 완성된다.",
+		"10. 나머지 밥은 김가루를 넣고 주먹밥을 완성한다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/01/5dbe6717bbfa7d1560335b1ca09ca70e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/01/15f87b35b1edc0668a9147ad4de95c9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/01/4468aec9ed30f49b65e71c3629b21d371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/01/4b3fb21ccc40e829b4f019a3f41ea2141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/01/bc30af8bcd529589693b2a65ae8ed57b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/01/eb4015a42f3c3fd19fcae94edff5b9681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/01/729fbb89ebc143bbae1092ecda5d483c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/01/4f8f185f08691001a33a684a643f920a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/01/4fb9acc98157e332df6ecbf42e0d5e731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/01/fec194f3da5baffac90726163075e61a1.jpg"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"id": "6840082",
+	"name": "떡만두국 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/23/fcc152e3fdd43024700a8dd4edbd75041.jpg",
+	"url": "https://www.10000recipe.com/recipe/6840082",
+	"ingredient_ids": [
+		379
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 국물용 멸치를 팬에 달달 볶아서 국물을 우려내도 되지만, 전 주로 볶은멸치를 갈아서 사용해요. 미리 갈아 놓으면 육수내는 시간이 단축 되거든요.",
+		"2. 다시마 역시 가루로 없으실 경우 멸치 육수가 끓을때 다시마를 넣고 5분~7분정도 더 우려내심돼요. 멸치 육수는 20분을 넘기지 않아요.",
+		"3. 육수가 끓으면 다진 마늘을 넣어주세요.",
+		"4. 채소는 채썰어 준비했는데 취향대로 썰어 주심돼요.",
+		"5. 떡이 딱딱해서 먼저 넣고 끓여줬어요.",
+		"6. 간장 반큰술을 넣고 보글 보글. 멸치 육수가 없다면 진간장+국간장 1:1로 육수색을 내고 소금으로 간을해서 초 간단으로 끓여 드셔도돼요.(백선생이 알랴쥼)",
+		"7. 준비한 채소도 함께 넣어 끓여주세요.",
+		"8. 끓기 시작하면 만두를 넣어주세요. 만두는 오래 끓이면 터지기 쉬워지니 7분정도 삶아 주심돼요.(만두에 따라 차이있음)",
+		"9. 계란물을 동그랗게 풀어 주면 거의 완성. 깔끔한 국물을 원하시면 계란은 지단으로 부쳐서 올리시는것도 좋아요.",
+		"10. 소금으로 간을 해주세요. 간은 좀 싱겁다는 생각이 들게 김치와 함께 먹으니깐 짜면 안 좋겠죠.",
+		"11. 대파를 넣어 한소끔 끓이면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/28/3fc6a227cedc0aab8edd4348d1d39e4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/28/c9d1cf8635bfeddfef8e2fc3a715d3ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/28/d6b0b2b07e21b15a84ba77edd8052e181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/28/2bb25442685503b0fb23c838b6bf8ae01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/28/eeb284da22b52ac5dc4adb159fb809431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/28/1def2d6106cf2ec8fad2f3fc76da7bcb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/28/92dc67e1dab99572a792b566f52e4fe81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/28/f57caed1c5d35f1f2dc58e5f8ab380021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/28/bce7ad1c8cfb3d507cd76ab55c4ea8ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/28/6bfcd623a2275e17f407299a4b6fc1031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/28/5c246653c3222ebf36ceb8a7638463911.jpg"
+	]
+}

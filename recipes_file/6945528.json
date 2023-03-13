@@ -1,0 +1,80 @@
+{
+	"id": "6945528",
+	"name": "어묵볶음 레시피 매콤한 맛",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/e77e89f00e8464e2d78a3016682628fd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945528",
+	"ingredient_ids": [
+		548,
+		27,
+		3,
+		226,
+		504,
+		233,
+		995,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대정도"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료준비해주세요",
+		"2. 사각 어묵은 먹기좋은 크기로 잘라주는데요 반으로 자르고 또 반으로 잘라 먹기좋은 크기로 잘라주고 양파 반개는 어묵 모양과 비슷하게 잘라주시면 될거 같아요 대파는 송송 썰어주고 청양고추도 취향에 맞게 썰어주세요 아이들 반찬을 요리하실거라면 청양고추를 넣지 말고 조리하는것이 좋을거 같아요",
+		"3. 팬에 불을 끈 상태에서 썰어놓은 어묵과 양파를 팬에 넣고 설탕 1큰술 진간장 3큰술 식용유 2큰술 다진마늘 1/2큰술 물 1/2컵 넣어주세요",
+		"4. 간이 잘베일수 있게 뒤적거려주시고 국물이 반으로 줄어들면 대파와 청양고추를 넣어주세요 물을 넣고 졸이듯이 볶으면 어묵맛이 우러나 깊은 맛을 낼수 있어요",
+		"5. 국물이 거의 없이 졸아들면 참기름 1/2큰술 정도 넣고 1분정도 볶아주면 완성입니다",
+		"6. 간장 어묵볶음이라 전혀 느끼한 맛이 아니라 오히려 단백하고 칼칼한 맛이 있어요 백파더 어묵볶음 레시피는 초보님도 실패없이 만들수 있는 레시피입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/054980b9c04cc8184a1daaba5448a97a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/cbdd2ed5a3bc65dee99868e7a6c92a8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/6f04e266cb34afc7be5b53c9909015cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/38acf37899c7aaa86a8d3e013df954451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/8640e041e7f4b9b0d0d1c58b94898dd51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/5de4021ad1e296b55b9fb2c439e504ec1.jpg"
+	]
+}

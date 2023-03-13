@@ -1,0 +1,54 @@
+{
+	"id": "6895448",
+	"name": "1분완성 핵꿀맛 간식 토스트!완전 강추드려요!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/444c85b7e11e62d31d142e64fd2b6d581.jpg",
+	"url": "https://www.10000recipe.com/recipe/6895448",
+	"ingredient_ids": [
+		503,
+		214,
+		198,
+		226
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "캔옥수수",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 먼저 녹인 버터를 식빵에 골고루 발라줍니다.버터는 전자렌지에 10초 정도 돌려 녹여주심 되요",
+		"2. 슬라이스 치즈 한장 올려 주고 그 위에 캔옥수수 2스푼 올려 줍니다.",
+		"3. 설탕은 기호에 맞게 솔솔 뿌려주세요. 파슬리가루는 선택사항이지만 뿌리면 좀 더 맛있어 보이지요",
+		"4. 이제 700W기준 전자렌지에 넣고 40초만 돌려주심 끝!전자레인지",
+		"5. 1분완성 핵꿀맛 토스트 완성입니다! 한입 먹어보니 고소한 버터에,고소한 치즈, 톡톡 터지는 옥수수가 어우려져 진짜 맛있어요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/364981248927640c7342b3c70ead12241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/481a613d8f89c23134dcfb970c7578981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/d4f3856923b8581d95e10c2ca7995fb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/0b66044921c1ebdeb25d6fb7f49855431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/3e893869df59a87d00480583c512149c1.jpg"
+	]
+}

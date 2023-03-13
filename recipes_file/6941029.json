@@ -1,0 +1,56 @@
+{
+	"id": "6941029",
+	"name": "집밥TV) 울릉도 자연산 명이나물 장아찌 레시피 | 간장, 설탕, 식초, 물 황금 비율과 보관까지",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/38fe46b77ab758fa5460d1a7b3088ec41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941029",
+	"ingredient_ids": [
+		379,
+		995,
+		231,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "울릉도자연산명이나물",
+			"ingre_count": "3",
+			"ingre_unit": "KG"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "10",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 명이나물을 흐르는 물에 두어번 빠르게 씻어냅니다. 그리고 식초를 한 컵 탄 식초물에 10분 정도 담궜다가 빼냅니다.특히 명이나물의 줄기부분을 깨끗이 씻어주세요. ",
+		"2. 명이나물은 적당한 길이로 다듬어 줍니다. 그리고 한 묶음 한 묶음 적당량으로 차곡차곡 정리해서 물기를 빼놓습니다.명이나물의 줄기부분은 마늘향이 많이 나기때문에 적당한 길이로 다듬어 줍니다. 다듬은 줄기는 버리지 않고 따로 빼놓습니다.",
+		"3. 간장물은 간장 5컵, 물 10컵, 설탕 5컵, 식초 5컵, (간장:물:설탕:식초=5:10:5:5=1:2:1:1)의 비율로 섞어서 만듭니다.",
+		"4. 저장용기의 맨 밑에 정리해둔 줄기부분을 깔고 차곡 차곡 정리해 물기를 빼둔 명이나물을 조금씩 깔고 간장물을 붓고 또 깔고 간장물을 붓고 반복해서 다 채워줍니다. 모두 부으면 뚜껑을 닫고 일주일 후 다시 열어봅니다.마늘향을 위해서 명이나물의 줄기부분을 맨 밑에 깔아둡니다.",
+		"5. 간장물만 빼서 한번 끓인 뒤 식혀서 다시 간장물을 부어놓습니다.숨이 확 죽어서 작은 통으로 옮겨도 괜찮습니다. ",
+		"6. 한달 뒤 또 열어 간장물만 끓인 다음 다시 식혀서 뚜껑을 닫고 보관합니다. 2-3개월 후부터 꺼내서 맛있게 먹으면 됩니다.간장물을 끓여서 다시 부어놓으면 보관기간이 더 길어집니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/925a31155b4e1584e386a49865ae2e0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/c68edf085518387b8a0ea6adf8bd3f3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/1566d053156bd02e7a0b34a1a557b90a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/4d133ad2659fca9bd6ff20b773acebd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/b4981e20c95c5adf065b22e2bf37dd171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/94b29996835ac61d3147e96b27e9d01e1.jpg"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"id": "6945716",
+	"name": "[자취요리] 들기름 콩나물무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/a3a60f2b51ca0fb965b6bcf1da5ddd2b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945716",
+	"ingredient_ids": [
+		47,
+		497,
+		327,
+		29,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 끓는물에 소금1 넣는다.",
+		"2. 콩나물을 넣는다.",
+		"3. 거품이 부풀어오르면 한두어번씩 뒤집으면서 4분정도 삶는다.",
+		"4. 콩나물을 건져내 다진마늘 1",
+		"5. 들기름 3",
+		"6. 소금 1/2, 통깨 적당히 넣고 조물조물해준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/15b0bb26203a5c2691e5fdf51bafb39c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/ff26849652655f3ffb8383a4f80055f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/e21e1906eebfe98ed89a328d882a60d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/badc0a2f31d1ee248d371f15a481cb141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/34169d9835a609b89fff17c14266e2931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/144f91bfa1a5e41f459032aebad740561.jpg"
+	]
+}

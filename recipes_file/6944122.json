@@ -1,0 +1,70 @@
+{
+	"id": "6944122",
+	"name": "제빵기로 만드는 우유 식빵",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/d3b6e381ac15aad3cba2ce4c08f3bd271.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944122",
+	"ingredient_ids": [
+		567,
+		226,
+		497,
+		219,
+		574
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "우리밀",
+			"ingre_count": "90",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "160",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "인스턴트드라이이스트",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "110~120g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "45",
+			"ingre_unit": "g​"
+		}
+	],
+	"recipe": [
+		"1. 제빵기 내솥에 전재료를 넣어줍니다. 먼저 액체 재료 넣고 그 위에 가루 재료 넣으면 좀 더 잘 섞이는것 같아요. 달걀과 우유는 차가운 냉장 상태로 사용합니다. 제빵기를 두번 돌리는 동안, 반죽온도가 올라가니까 액체 재료는 차가운 상태가 좋습니다.",
+		"2. 급속코스를 눌러 반죽을 시작합니다.",
+		"3. 저는 오성 제빵기를 사용해요. 오성 제빵기의 급속 코스는 총 1시간 59분의 코스로 반죽 - 발효 65분 (중간에 펀치 있음) - 굽기로 진행됩니다. 이렇게 진행되는 코스를 첫번째는 반죽만 그리고 두번째는 반죽-발효-굽기 까지 진행합니다.",
+		"4. 첫번째 급속 코스에서는 반죽만 (19분 정도)만 돌린 후, 멈춤을 눌러 코스 진행을 중단합니다.",
+		"5. 그리고 두번째로 급속 코스를 다시 한번 누른 뒤, 급속 코스 그대로, 멈춤없이 반죽 - 발효 - 굽기까지 진행하면 됩니다.굽기 시작하면 뚜껑은 열지 않는 것이 좋습니다. 다 구워지면 빵을 꺼내 식힘망에서 식히면 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/aad34e56d6b25b8337b0b9a007c9d0df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/d842bb9058e4165882c23319ce5631141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f0ee9123b04e871eaae88118a8a2c1661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/a808cc92f160cde46ed88264d25d66031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/c8570e741295fcabf7e0ba974558c64e1.jpg"
+	]
+}

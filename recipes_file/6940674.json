@@ -1,0 +1,77 @@
+{
+	"id": "6940674",
+	"name": "바삭하고 맛있는 부추전 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/534ca17a3b62d94f43bfe9e09e7cecc61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940674",
+	"ingredient_ids": [
+		30,
+		3,
+		295,
+		387,
+		995,
+		504,
+		379,
+		231
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1/3",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".C"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "0.",
+			"ingre_unit": ".C"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 부추1/3단을 깨끗이 씻은 후 5~6cm 길이로 잘라준다",
+		"2. 양파1/5,청양고추1개를 얇게 채썰어서 부추와 섞어준다",
+		"3. 부침가루0.7C,물0.5C를 넣고 부추전 반죽을 만들어준다",
+		"4. 팬을 달군 후 식용유를 두른다 국자로 부추전 반죽을 떠서 팬에 펼쳐서 부쳐준다 중간중간 식용유를 추가해서 전이 타지않도록 한다",
+		"5. 뒤집개를 사용해서 부추전을 앞뒤로 잘 부쳐준다 마지막에 센불에서 부추전을 살짝 부쳐주면 더욱 바삭하다~ 타지않게 조심조심해용",
+		"6. 고소하면서 바삭한 부추전 완성입니다~!",
+		"7. 간장과 식초를 1:1로 섞어서 부추전을 찍어먹을 초간장을 만들어보았어요 부추를 듬뿍 먹을 수 있는 부추전 만드는 법이었습니다:)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/415d2524b4e1840be90a68aff2300e881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/469df43087037518707af9a9731b23d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/8fd47160e54a4d13798a94953f2bd4e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/6980ca34bafaaf9905739956e4d6701f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/d3e5a5db47a6d540dd70d761dcf98a011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/733025bf68adba0798b4ea3652b265501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/c0b7168167fc4292331fcae91b35f5631.jpg"
+	]
+}

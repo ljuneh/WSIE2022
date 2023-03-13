@@ -1,0 +1,78 @@
+{
+	"id": "6942755",
+	"name": "추석 나물, 도라지볶음 쓴맛 제거법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/026c413dec472e9b3ae5be380c4a70711.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942755",
+	"ingredient_ids": [
+		38,
+		29,
+		1015,
+		497,
+		226,
+		504,
+		350,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "도라지",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 소금, 설탕을 넣고 조물조물 무쳐둔다.                   ",
+		"2. 끓는 물에 도라지를 넣고 삶아낸 후 찬물에 담가둔다.                     ",
+		"3. 기름, 마늘을 넣고 먼저 볶아준다.                   ",
+		"4. 도라지, 육수를 넣고 볶아주고, 소금, 파슬리가루를 넣어준다.                       ",
+		"5. 참기름, 깨소금을 넣고 마무리한다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/60db180e7416c095cb60860b68302b541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/2844b589207475a11553c63a958846c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/7283494c62af1a9e4a64692946ecb0e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/b2403fe28016050159274623c5437a831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/abc290dd81777e73f36a0b6d668186721.jpg"
+	]
+}

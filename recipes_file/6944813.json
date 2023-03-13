@@ -1,0 +1,97 @@
+{
+	"id": "6944813",
+	"name": "간단한 요리 두부김치 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/c9521342747955eeb5bddcc5955dd9bb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944813",
+	"ingredient_ids": [
+		323,
+		953,
+		497,
+		225,
+		224,
+		995,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 두부 1모는 먹기 좋은 크기로 썰어서 후라이팬에 구워줍니다. 이때 소금과 후춧가루 조금 뿌려서 앞뒤로 노릇하게 부쳐주세요~",
+		"2. 요렇게 노르스름하게 구우면 됩니다. 두부부침은 완성..",
+		"3. 삼겹살은 세로로 조그맣게 썰어서 준비하고..",
+		"4. 김치 1포기도 썰어서 준비해주세요~",
+		"5. 웍에 삼겹살을 넣고 먼저 구워줍니다.",
+		"6. 그 다음 김치 한포기 넣고 고기랑 같이 볶아줍니다.",
+		"7. 여기에 종이컵으로 물 1컵 정도 양을 넣고..",
+		"8. 고춧가루 1큰술 넣고 같이 볶아주세요~",
+		"9. 이제 고기랑 김치랑 어우러지게 볶아주세요~ 물기가 자박해질때까지 볶아주면 끝~",
+		"10. 어느 정도 다 볶아졌으면 다시다 살짝만 넣고 간 맞춰 주세요~",
+		"11. 다 됐음 참기름 1큰술과 통깨 1작은술 뿌려주면 김치 볶음도 완성..",
+		"12. 이제 접시에 셋팅해서 먹으면 됩니다.."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/1a3be2c93b27bcf730abc7553c8a3e391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/340876b381aa33440c8e67d931ee3e4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/a0a4d00c18721a93b191a0d99a0dbe081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/e260a1b0540056d809f08b5b4952139f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/caf9fa4f8103b5ebeedeb9f1b0a20ac61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/c9517294c47b0df35d749bece05a7f7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/08fc28261f41b6246444884d8ec8521a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/ebb610e220f348c69f66409797e158811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/e9ca94e03b1bd2bc5be3617866443af81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/5bc8b851bd211c3826b3dc9be4e4019b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/38f5a468ae3fd833494a6db1dc61c3271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/d914c5d083fa9bc1444d1770f3126b971.jpg"
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"id": "6856217",
+	"name": "상큼함의 극치랄까!? 토마토 마리네이드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/31/f70772e4008e9f933f7690b5006146261.png",
+	"url": "https://www.10000recipe.com/recipe/6856217",
+	"ingredient_ids": [
+		371,
+		574,
+		393,
+		575,
+		250,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "발사믹식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "바질(바질가루)4장(1/4T)",
+			"ingre_count": "4장(1/4T)",
+			"ingre_unit": "장(T)"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 유리병은 소독하여 깨끗하게 말려 준비하고, 방울토마토는 꼭지 제거 후 밑둥에 칼로 십자모양을 낸다.방울토마토 20개소독한 유리병",
+		"2. 냄비에 토마토가 잠길 만큼 을을 붓고 물이 끓기 시작하면 2분간 대쳐 낸다.냄비",
+		"3. 데처 낸 방울 토마토는 껍질을 벗겨 낸다.",
+		"4. 볼에 올리브유2T, 발사믹식초2T, 올리고당1T, 레몬즙1T, 다진 양파3T, 다진 바질잎, 소금 약간, 후추 약간을 넣고 잘 섞은 후 방울토마토를 넣고 버무린다.볼",
+		"5. 준비한 유리병에 담아 냉장 보관 한다.(약2주가능)Tip – 하루 정도 숙성 후 먹으면 더 맛있다. 그냥 먹어도 맛있지만 카나페, 부르게스타, 파스타, 샐러드에 이용한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/31/2509d3f744943cc1f7baf1332b3f49321.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/31/29e427e6d94af4831b5c69eb8e636efa1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/31/ac64e20168fa706480de571646e3ae6d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/31/58b4731a3402dc9e09a64ff40c4136041.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/31/3dc220c36001d0ede329d0965b18ceab1.png"
+	]
+}

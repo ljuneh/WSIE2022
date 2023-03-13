@@ -1,0 +1,84 @@
+{
+	"id": "6943822",
+	"name": "소세지 피자 # 식빵 # 오븐 # 야식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/3cfb8ea5efff8cf5fbe7874089bdedd01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943822",
+	"ingredient_ids": [
+		3,
+		58,
+		371,
+		214,
+		212,
+		574
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소세지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "캔옥수수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파스타소스",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다",
+		"2. 소세지를 어슷썰어 주세요 양파와 새송이버섯은 곱게 다지듯 썰어주세요",
+		"3. 캔 옥수수 소분해 놓은것을 냉동실에서 꺼내 두세요 방울 토마토를 반 잘라 주세요",
+		"4. 식빵 위에 파스타 소스를 발라 주세요",
+		"5. 양파, 새송이버섯, 옥수수를 넣어 주세요",
+		"6. 소세지와 방울토마토를 넣어 주세요 올리브유를 조금 넣어 주세요",
+		"7. 2개만 슬라이스 치즈를 넣었어요",
+		"8. 모짜렐라 치즈를 넣어주세요",
+		"9. 170도 15분 구워주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/58762ce324953e588d1a63cb2db8287e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/75a8417d46c5504abd39193e3f585c631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/b2721b5349971f376053306c853a0a321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/28d8ace46f0e2084f7e8b7daa3e41c5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/0b4d51e8eff76f0215a6266dd17c9d9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/8dd7a16cb166f2162b55412c5edfc4001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/4893e26b7a50f598e554e7367ca5527e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/a727c3fcf09a36bd60c4ab479e6de3231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/4089ceefa68656050ee15ce791dba1b11.jpg"
+	]
+}

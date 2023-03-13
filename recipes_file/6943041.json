@@ -1,0 +1,88 @@
+{
+	"id": "6943041",
+	"name": "제철 버섯과 찬밥만으로 쉽게 맛있게 즐기는 <버섯 솥밥> ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/764b30b050dea312581385d8c716b37c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943041",
+	"ingredient_ids": [
+		53,
+		56,
+		58,
+		3,
+		30,
+		660,
+		290,
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "4",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "요리에센스연두",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/4",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 분량의 재료를 준비해주세요.",
+		"2. [양념장 만들기] 취향에 따라 선택할 수 있는 #연두만능양념 이 공식만 기억하세요! ★연두만능고소양념(연두 2스푼, 깨 1스푼, 참기름 1/2스푼) ★연두만능매콤양념(연두 청양초 2스푼, 깨 1스푼, 참기름 1/2스푼)",
+		"3. [재료 손질하기] 표고버섯은 0.5cm 두께로, 새송이버섯은 반으로 자른 뒤 0.5cm 두께로, 느타리버섯은 결을 따라 찢어주세요. 양파는 채를 썰고, 부추는 송송 썰어주세요.",
+		"4. [재료 볶기] 예열된 팬에 오일을 두르고 양파를 볶다가 버섯을 넣고 연두만능고소양념 1스푼을 넣어 노릇해질 때까지 볶아주세요.",
+		"5. [솥밥 익히기] 솥에 참기름을 두르고 밥을 깔아준 후 볶은 재료를 올려 센 불에서 5분 익힌 후 부추를 올려주세요. 취향에 맞게 원하는 양념장을 만들어 곁들이면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/6acefed9880b920445c5837721ba93b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/86349a075e3de8fce5f611643edb9f3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/6c36c608c86df5ec9fe85d52520c2d171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/5bc5dfdf25619bd1603c7ae302d403081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/17248a416cfbc119108eb6b5a2341fb61.jpg"
+	]
+}

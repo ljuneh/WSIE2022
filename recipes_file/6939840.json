@@ -1,0 +1,87 @@
+{
+	"id": "6939840",
+	"name": "소고기살치살 스테이크 (미디움웰던)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/a64570cb0a762ea562a4250188f0a5571.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939840",
+	"ingredient_ids": [
+		958,
+		198,
+		654,
+		469,
+		29,
+		266,
+		225,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기살치살",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "타임",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "양파썰어서",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "스테이크소스",
+			"ingre_count": "10",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "홀그레인머스타드",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 소고기를 준비하세요.",
+		"2. 소고기에 소금,후추를 바르고 2.5cm기준 30분에서 1시간정도 간이 배이게 합니다.",
+		"3. 간이 밴 소고기를 키친타올로 한번 수분을 닦습니다.",
+		"4. 달군 프라이팬에 카놀라유를 붓고 소고기를 올립니다.",
+		"5. 강불에서 중불정도에 5분동안 굽고(30초마다 한번 뒤집습니다.) 불을 끈 뒤 버터,타임을 넣고 1분간 버터를 끼얹습니다.  마늘도 2개를 다져 넣어야 합니다.",
+		"6. 완성된 스테이크를 접시에 옮겨 6분간 레스팅합니다. (호일로 꼭 밀봉하세요!)",
+		"7. 레스팅이 끝난 스테이크에 스테이크소스, 홀그레인머스타드를 뿌리고 마늘,양파를 얹으면 스테이크 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/5345453509080aa24991c49b5b32b3061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/2db348ddb9ba57abbabb27631d13bae91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/4e82eef1ab75c1483266dce467edef771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/ae4cc4d29c5f40025086fafa4195b3831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/444eddacfb224943e03ce857fa0d20a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/60904edb7c3aa42b3a1cda5c876757211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/ab83d921bb48716ee75dffca795aac4f1.jpg"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"id": "6925511",
+	"name": "육수없이 떡국끓이기 새우젓 계란떡국, 떡국, 새우젓떡국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/01/24/16cdc302cd4cd42b95ad39f8c74387881.jpg",
+	"url": "https://www.10000recipe.com/recipe/6925511",
+	"ingredient_ids": [
+		27,
+		390,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡국떡1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생수2+1/2컵",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후추약간",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 마트 봉지 떡국 떡 1+1/2컵을 물에 한번 씻어 건져 냄비에 담아 줍니다.",
+		"2. 대파 1대를 준비해 흰부분을 쏭쏭 썰어 넣고 새우젓 1/2큰술을 담아 줍니다. ",
+		"3. 그리고 생수 2+1/2컵을 붓고 센불에서 국물이 고르게 전체적으로 팔팔 끓으면 불을 줄여 떡이 부드럽게 익도록 끓여줍니다.",
+		"4. 계란 1개, 후추 약간, 대파 초록부분을 쏭쏭 썰어 넣고 고루 잘 풀어 줍니다.",
+		"5. 그리고 준비한 계란을 붓고 계란이 뭉치지않게 고루 한번 휘~ 저어 준 후 마지막에 참기름 1작은술을 넣어 줍니다. 드실때 기호에따라 통깨와 김가루를 넣고 드세요.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/28/39db6e5202744fd1fc22fafea3718427.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/28/6eecda47955077fec740f9098ac8f2ca.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/28/35371e39e0b1aacab96aaf32fceaf089.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/28/4167df3ad0e9477768f63a7ee6548bbc.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/28/57d33484bcaf89f02efaecac0da7d1e6.jpg"
+	]
+}

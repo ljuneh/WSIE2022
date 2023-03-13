@@ -1,0 +1,113 @@
+{
+	"id": "6883228",
+	"name": "간단하게~ 양송이 버섯 덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/7518b72bfc4fc06d05cdc72986709c721.jpg",
+	"url": "https://www.10000recipe.com/recipe/6883228",
+	"ingredient_ids": [
+		54,
+		233,
+		995,
+		379,
+		477,
+		226,
+		225,
+		660,
+		497,
+		543,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "10",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "잔파",
+			"ingre_count": "6",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 양송이 버섯은  기둥과 갓이 붙어 있는것으로 선택하구요. 마른 면보로 겉을 닦아 준비합니다.양송이버섯에 물이 닿으면 향이 떨어집니다.",
+		"2. 올리브유 3큰술 다진마늘 2큰술 중간불에서 마늘향이 나도록  볶아줍니다.",
+		"3. 양송이 버섯을 넣고 (10줌) 함께 볶아줍니다.",
+		"4. 양송이 버섯에 어느정도 기름이 스며들어 볶아지면 물 400ml (종이컵 2컵) 를 부어줍니다.",
+		"5. 센불에서 물이 끓어오르면 중불로 줄이고 간장 2큰술 설탕 1/3큰술 후추 약간",
+		"6. 굴소스 1큰술을 넣습니다.",
+		"7. 잔파 6대를 5cm정도 썰어 넣고",
+		"8. 녹말물(녹말 2큰술:물2큰술)을 넣어 점도를 조절합니다.",
+		"9. 불을 끄고 참기름 1큰술을 넣고  간은 소금으로 마무리 합니다.",
+		"10. 뜨끈한 밥위에 양송이 버섯을 올리고 통깨 솔솔~~뿌려주면 맛있는 양송이 버섯 덮밥이 완성됩니다.",
+		"11. 적당하게 익은 양송이 버섯의 식감과 향이 간장소스에 잘 어우러져 밥이랑 함께 먹으니  눈 깜짝할 사이 밥 한그릇 뚝딱!!!! 특별한 반찬 없을 때 양송이 버섯 덮밥으로  간단하게 한끼 어떠세요?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/8e3251612c92961ed3fa62c8184b99921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/38904b1f01db95b8a257400701aa39cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/c74c3c6dd86588d73b6c9282c75f12c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/280351079b1f91079c40b4cd227ec14a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/7824d15e192be4e9ac71827821dbf01b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/71ecbcdf90f43bd97b552561a5cdfb301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/acb44432201183bd8cd5c4927a3aff111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/27e41248f9af45e482de72305cf78bf81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/617b4f02e48cdd3d4d87e8e9fe768cb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/949e18468507d8c9c9841b50beca8ca61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/476d4abd2c8c72573bed464b2d80fd141.jpg"
+	]
+}

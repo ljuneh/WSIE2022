@@ -1,0 +1,110 @@
+{
+	"id": "6942453",
+	"name": "가와지1호로 풍미up! 풍기(funghi)김밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/67a06577dcd909aff1e7d0619a3b1a031.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942453",
+	"ingredient_ids": [
+		53,
+		58,
+		3,
+		29,
+		660,
+		497,
+		198,
+		402,
+		497,
+		868
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀밥",
+			"ingre_count": "2",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "화이트와인",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파마산치즈가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요. :)",
+		"2. 준비한 양파, 표고버섯, 새송이버섯은 얇게 채썰어주고, 마늘은 굵게 다진다.",
+		"3. 중불에 버터를 녹이고 마늘과 양파를 볶는다.",
+		"4. 양파가 갈색으로 볶아졌을 때쯤 준비한 버섯들과 화이트 와인을 넣고 볶는다.",
+		"5. 버섯이 숨이 죽으면 소금과 후추로 간한다.",
+		"6. 불을 끄고 파마산 치즈 가루를 뿌려 골고루 섞어주어 김밥속을 완성환다.",
+		"7. 볼에 밥과 소금, 참기름을 넣고 골고루 섞는다.",
+		"8. 김밥김의 끝부분을 1센티정도만 남기고 밥을 고루 펴준다.",
+		"9. 밥의 끝부분 2센티정도 남기고 볶은버섯을 골고루 얇게 펴준다.",
+		"10. 김밥을 돌돌 단단하게 말아주어 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d1f76bdabf31fcceeb2ba338b447023c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/7b020022f585c942cc29e81beb01527c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/68dacfbd86623c3e64d8a0e3b22e96f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e3c6c00e50526ca27a4126745a3b4e9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/b96adcc489322da5c782d7057e0d7f3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/18293f78a54b59c5632607426fa79db31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/8a58d2caabab669b1ce4b0549ff0f3eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d1312a09cca3dc79552a239b8945b4491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e79bec65c5df8ab5f300e094089b80421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/09b3f8f11e6190cbbdda685d4b601e021.jpg"
+	]
+}

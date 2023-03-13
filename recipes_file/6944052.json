@@ -1,0 +1,66 @@
+{
+	"id": "6944052",
+	"name": "들기름막국수 말고 참기름막국수 간단하고 맛있어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/fd97dbad8e2ee659184b832df1d1524e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944052",
+	"ingredient_ids": [
+		354,
+		757,
+		379,
+		660,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "메밀면",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 메밀면을 넣고 5분 삶아주세요 들러붙지 않게 잘 저어주며 끓입니다",
+		"2. 찬물에 바락바락 헹궈주세요",
+		"3. 쪽파 한 대도 채썰어 준비합니다",
+		"4. 그릇에 면 담고 간장 1큰술, 참기름 1큰술 넣어주세요한 번에 많이 넣지 말고 나중에 추가로 더 넣어주세요",
+		"5. 김가루 2큰술 소복하게 올려줍니다",
+		"6. 깨는 손으로 짓누르며 뿌려주세요 고소한 맛이 상승합니다",
+		"7. 썰어둔 쪽파도 올려주세요",
+		"8. 완성입니다 잘 비벼드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/26ff1d12fd0e6846007e21ec69f06cc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b5ca6e2a88166b02c01cbe5fc14bec1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/8ad062240f5c70dd7c2df069d7fd8dbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/afa89cb5edd6f16fe1d43b3e04c38a9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/873e545b341beaec37bcdf3c24c695ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/2d236afb181c83bc344a49e9109f11fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/c0156736ff501defc5f418bae1eb18751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/129d280e8c8220de234de02469e212131.jpg"
+	]
+}

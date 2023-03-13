@@ -1,0 +1,100 @@
+{
+	"id": "6843954",
+	"name": "생생정보통 닭볶음탕 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/02/828e4ba105d30d63394acf7a79503fde1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843954",
+	"ingredient_ids": [
+		5,
+		3,
+		27,
+		473,
+		224,
+		341,
+		379,
+		846
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭(볶음탕용)",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다시마물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간양파",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "9",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 닭은 지방을 제거하고 물에 한번 씻어 우유에 30분정도 담가둡니다.",
+		"2. 닭을 재우는동안 다시마물을 제외한 분량의 양념장을 섞어 미리 만들어 주세요. 양념 비법중 하나가 간 양파라고 합니다.",
+		"3. 우유에 담가둔 닭을 물에 한번 씻어낸후 끓는물에 3~5분정도 삶아줍니다. -우유 재우는 과정없이 비린내를 제거하려면 끓는물에 소주 또는 청주, 통후추를 넣고 살짝 삶아준후 흐르는물에 한번 헹구어줍니다.",
+		"4. 삶은 닭은 찬물에 행구어 냄비에 담아줍니다. 양념을 버무려 10분정도 둡니다.",
+		"5. 다시마물 600ml를 붓고 15~20분정도 끓여줍니다.",
+		"6. 중불로 줄이고 야채를 넣고 15분정도 끓여주면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/02/49dacf9c73272dc1dfa794398cae48831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/02/3d8718d77e9a93603560bffee3e614cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/02/0226bd9176ba4940238a0fdca9f771c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/02/118e224047aa008b0b576c0f17c884ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/02/e11e8b524669586791545d3f23cf47791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/02/9b624fb7ebe306ce74ccf0d3715399541.jpg"
+	]
+}

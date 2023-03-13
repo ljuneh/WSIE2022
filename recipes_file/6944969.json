@@ -1,0 +1,123 @@
+{
+	"id": "6944969",
+	"name": "제철대하로 끓이는 얼큰한 새우탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/f7e2aa62db3b597538a5d9eedcfdf7761.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944969",
+	"ingredient_ids": [
+		307,
+		47,
+		323,
+		7,
+		58,
+		9,
+		27,
+		939,
+		224,
+		292,
+		455,
+		233,
+		996,
+		295
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "대하",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "표고버섯가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 콩나물을 바닥에 깔고 두부, 애호박은 모양살려 썰어 담아 줍니다 새송이버섯은 길이로 절반 잘라 어슷썰어 담았어요 당근은 색내기 용으로  새송이버섯과 같은 모양으로 썰었어요",
+		"2. 새우탕에 들어가는 대하는 따로 손질도 필요 없어요 흐르는 물로 한 번 헹궈주고 수염만 잘랐어요 내장제거 해도 되는데 저는 패스.. ㅎㅎ",
+		"3. 냄비에 담아요 흐미~ 대하 사이즈가 큼직해서 10마리 담으니 냄비가 꽉 찹니다 생수부어 끓여요",
+		"4. 양념 만들어요 청양고추는 잘게 다져서 넣었어요 육수 사용하면 멸치가루, 표고버섯가루는 생략해도 됩니다",
+		"5. 보글보글~~ 벌써 새우 색이 변하는 것 보이네요 이쯤해서 양념 투하~~",
+		"6. 국물 끼얹으며 끓여요",
+		"7. 대파넣고 마무리 할게요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/a907762a3e3bd88a9ad99fc411231c311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/7bc4e145ae4dcf92bb5aec9e34b474c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/e901d62e68573e0306b8ae323263d5731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/44edfad434d95aa1970a21e9b054288a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/7c54f8ed8186b72fa4d1a802d662684b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/5d573497d4df212569cd08c988f5a5f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/e5fb6de01ca4bacd645870951d9e27341.jpg"
+	]
+}

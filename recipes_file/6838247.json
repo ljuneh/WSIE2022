@@ -1,0 +1,83 @@
+{
+	"id": "6838247",
+	"name": "백종원 고등어김치찜 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/ca5a6d565e6ff1e929e4661a73e635121.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838247",
+	"ingredient_ids": [
+		923,
+		295,
+		226,
+		224,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "생고등어",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강가루얇게",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 무우를 먹기좋게 자르고, 육수를 내주세요 저는 다시마, 멸치육수를 내었어요.",
+		"2. 고등어를 먹기 좋게 잘라주시고, 물에 담궈서 핏기를 빼주세요 그리고 칼집을 조금 내주었어요.",
+		"3. 그동안 양념을 만들어줍니다.",
+		"4. 양념을 골고루 고등어에 버무려주세요.",
+		"5. 묵은지를 꽁다리만 잘라주시고 길게한번만 잘라주세요.",
+		"6. 멸치와 다시마를 버려주세요.",
+		"7. 무우 위에 김치를 차곡히 넣고",
+		"8. 위에 고등어를 올려줍니다.",
+		"9. 끓으면 한번씩 국물 휘적휘적해주시고요, 청양고추넣고 휘적휘적, 대파넣고 휘적휘적해주시면 끝입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/19/edb5a83219d91da366f243ebc861c6351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/19/2b855d6eba8fb7db17886e5c2a2a73f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/19/796b169b4e8f6800bd0462b0f5b3a4351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/19/58497e05b23c4ad5cd5e1684e7156c7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/19/651a684971f968cb043928c5bd4091681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/19/cc9be5090154bd7c457c86c08c7607781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/19/48541e17150c240faa895b54c53531701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/19/f2d3ec761aa36a0754710c3c426ccd6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/19/2bf2d6f97c2a1566960105d8b30f83211.jpg"
+	]
+}

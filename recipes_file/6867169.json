@@ -1,0 +1,89 @@
+{
+	"id": "6867169",
+	"name": "초간단 야채전복죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/fb667a601b31cd95d9914c9686efda861.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867169",
+	"ingredient_ids": [
+		86,
+		3,
+		9,
+		325,
+		233,
+		881,
+		660,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자작은거",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "건표고슬라이스",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "구운소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 야채는 모두 잘게 썰어둔다",
+		"2. 표고버섯은 조금만 넣기로 향이 강해 싫어할수도 있으니까요",
+		"3. 전복도 손질하여 준비한다~ 저는 냉동실에 넣어둔거 사용했어요.",
+		"4. 냄비에 참기름 을 두르고 다진마늘1/2 큰술과 야채를 먼저 볶아준다.",
+		"5. 볶은후 육수 또는 생수를 부어 한소끔 끓여준다",
+		"6. 어느정도 야채가 익었을때 전복을 넣어준다",
+		"7. 밥두공기를 넣고 푹 끓여주고 소금 간을 해준다.",
+		"8. 밥을 넣어 빨리 죽을 만들수 있어요~ 마지막으로 참기름 조금 넣어주세요~고소함을 위해"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/00ef13986fd25d7fb4944ec5dbfa5be41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/21dd133e414afb9dbbb84fb34ce4debf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/5264baaa13a14f9d165047476a51d28b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/2607f6b6c9f17274e093227dd80c7baa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/d86de284d5761172f4f3f237c6dc40691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/60bbd329bf2889f9176acdd3aca713801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/eb653edae488b8ef2c173f1cbb20e6b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/166d7c4ace20255ffde786f44eaeee971.jpg"
+	]
+}

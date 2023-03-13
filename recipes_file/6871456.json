@@ -1,0 +1,71 @@
+{
+	"id": "6871456",
+	"name": "상큼하고 아삭아삭한 [라임드레싱 사과양상추 샐러드]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/ba2d01bb03f83b381884042582c60c5a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6871456",
+	"ingredient_ids": [
+		250,
+		545,
+		857,
+		42
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "라임청",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "사과1/4개(약50g)",
+			"ingre_count": "1/4개(약50g)",
+			"ingre_unit": "개(약g)"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "라임슬라이스",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 통후추는 갈아주고 천일염은 톡톡톡 뿌려줍니다.",
+		"2. 라임청과 레몬즙을 넣어 잘 섞어줍니다.라임청 건더기는 잘게 잘라줍니다.",
+		"3. 마지막으로 올리브오일을 넣고 힘차게 저어 잘 섞어줍니다.",
+		"4. 양상추는 잘게 썰어줍니다.",
+		"5. 사과는 채썰어줍니다.",
+		"6. 드레싱에 살살 버무려 접시에 담고 라임슬라이스로 마무리하면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/82745dabefd9255e32d4d03b4425638c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/5ca69e8db1e54b60504872405cbff8ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/daa5a08a472df884925d98a2b74fc01c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/68f951658e2660cc93d113efac4f41611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/45c359d044218710326a7040ee8fd8df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/17259d90b923560e6d4d88a26b8625751.jpg"
+	]
+}

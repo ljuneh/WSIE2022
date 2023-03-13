@@ -1,0 +1,75 @@
+{
+	"id": "6942058",
+	"name": " 쇠고기 안심 장조림- 뜨끈할 때 먹자. 정신 차리고 보면 밥 한 톨 안 남아 있음 주의!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/4061a5f59ceb08d80e77264be2b410771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942058",
+	"ingredient_ids": [
+		121,
+		379,
+		995,
+		295,
+		410,
+		227
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기안심",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "삶은계란7개​​​",
+			"ingre_count": "7",
+			"ingre_unit": "개 ​ ​ ​"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시멸치큰것",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "보리새우",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2.",
+			"ingre_unit": ".큰술"
+		}
+	],
+	"recipe": [
+		"1. 계란은 삶아 껍질을 까고",
+		"2. 고기는 적당한 크기로 잘라 준비해요.",
+		"3. 꿀을 제외 한 간장물 재료를 모두 냄비에 넣고 끓여 주어요. 국물이 끓으면 불 세기를 줄여 재료가 우러날 수 있도록 중약불로 5분 정도 더 끓여 줍니다",
+		"4. 꿀을 넣어 줍니다.",
+		"5. 계란을 넣고 끓어 오르면 중약 불로 7-8분 끓여 줍니다.",
+		"6. 고기를 넣고 국물에 잠기도록 눌러 준 후 익을 때 까지 끓여 마무리 해요.",
+		"7. 고기를 넣고 끓이는 과정에서 생기는 거품은 걷어 주도록 해요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/96b498f95d8799403a4f96169207c8a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/3e5645b61c7b4e398d031abad35994911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/0ba65ae67bef5b72e5699e6877cc93cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/e5ce588d18a6824518757520f4fa90991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/0b02427a08c926f0e7dba8329e47c58a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/3bcd1aeb12bac641fda82543cc670cd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/6fada446f66e0c2ee40a427f748f8f061.jpg"
+	]
+}

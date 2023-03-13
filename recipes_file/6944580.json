@@ -1,0 +1,49 @@
+{
+	"id": "6944580",
+	"name": "ACC쥬스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/0691ad8ac38edc51e5368088a8e580da1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944580",
+	"ingredient_ids": [
+		158,
+		9,
+		995,
+		21
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 종이컵 기준으로 계량하면 되구요. 사과나 당근은 껍질을 그대로 사용하면 더욱 좋아요. 껍질째 사용하려면 세척에 신경을 쓰세요. 식초나 베이킹 소다를 넣어 세척하시구요.",
+		"2. 믹서에 갈기 좋겠금 물부터 넣어줍니다. 그리고 사과를 넣어주세요.",
+		"3. 양배추를 넣어줍니다.",
+		"4. 당근을 넣어줍니다.",
+		"5. 곱게 갈아주세요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/3b4ff434e329764c47db9fe624c188411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/b5206d60a6e36c84ddb78069e531bc7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/7b6678e4f1ef6d2778c2a658a1304d641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/b964217ee229a03ef9b43f8c600838bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/0ba478540013615125ff8746b7ab5a301.jpg"
+	]
+}

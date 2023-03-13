@@ -1,0 +1,103 @@
+{
+	"id": "6941400",
+	"name": "[경기미 가와지1호] 돼지갈비 가와지찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/3a022bd67a844e7c1456029e3ecb734c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941400",
+	"ingredient_ids": [
+		158,
+		142,
+		3,
+		29,
+		457,
+		547,
+		227,
+		660,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지갈비",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "가와지1호쌀",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대파또는쪽파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간씩"
+		}
+	],
+	"recipe": [
+		"1. 돼지갈비는 찬물에 담궈 핏물을 빼주세요.",
+		"2. 그동안 쌀을 씻고 재료를 준비합니다.",
+		"3. 분량의 양념장을 다져서 준비해주세요.",
+		"4. 핏물 뺀 돼지갈비는 먹기좋은 크기로 손질해주고 흐르는 물에 깨끗이 씻어 양념과 섞어줍니다.",
+		"5. 전골냄비에 불린 가와지쌀을 담고 그 위로 양념에 버무린 돼지갈비를 올려주세요.",
+		"6. 뚜껑 덮어 인덕션 7단(가스렌지는 중불)에서 30분 조리합니다.",
+		"7. 5분~10분 가량 뜸들인 후, 뚜껑 열고 잘 섞어주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/d194f9a50705eefad4f5c59ec0d4811c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/eed65ebed2dde9d50e8a1220644059981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/3a77ebc0575922d67d708d8809f6a87d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/ed214407e8ec98a500f99a26f2e393a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/bd1f661cb3ee023debbff81ba886a1431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/cb7965de9ace79b60c961ca47797ae991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/a0a1a0c505be9d33446defc1ae05c7461.jpg"
+	]
+}

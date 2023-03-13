@@ -1,0 +1,72 @@
+{
+	"id": "6748072",
+	"name": "장조림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/04/d7116d4deef522e0ca1f88c95d8c120d1.JPG",
+	"url": "https://www.10000recipe.com/recipe/6748072",
+	"ingredient_ids": [
+		116,
+		28,
+		3,
+		608,
+		221,
+		853
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기안심",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 돼지고기 안심 600g은 먹기 좋은 크기로 잘라 찬물에 30분 담궈 핏물을 빼주세요.",
+		"2. 냄비에 고기가 잠길만큼의 물을 붓고 생강, 양파, 월계수잎, 통마늘... 넣고 끓으면 핏물을 뺀 고기를 넣어 20분정도 삶아주세요.",
+		"3. 삶은 돼지고기를 거즈로 걸러 거품찌꺼기를 걸러주세요.",
+		"4. 고기만을 건져주세요. 이렇게 고기와 육수를 분리되어집니다.                   ",
+		"5. 씻은 냄비에 맛간장 1C를 넣어 주세요.",
+		"6. 고기를 넣어주시고 끓여 주세요~",
+		"7. 고기 익힘정도가 조금 덜 익었을 때 삶은메추리알을 넣고 간이 배도록 조려주세요.",
+		"8. 장조림 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/04/1487f7859e480a41fb3c0d335013fafc1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/04/5caede278f1ada003aecd416295f7e631.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/04/bc0536b04404bdc8c64947174f87df231.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/04/493e0c0089928e8d02f92cbb695a4e8d1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/04/d45345b43d5b5b481e17b91262d8faeb1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/04/3cb1c911250c8df4bfd04290f784b0a41.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/04/72843bf19acebf5f177f36fb8a2b4f551.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/04/271d03c668c37fe33c4b241c878f3f331.JPG"
+	]
+}

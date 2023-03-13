@@ -1,0 +1,46 @@
+{
+	"id": "2716987",
+	"name": "홈메이드 아이스크림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/d67fc07959fbd7bfc0353a56fecc79b2.jpg",
+	"url": "https://www.10000recipe.com/recipe/2716987",
+	"ingredient_ids": [
+		893
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "아이스크림",
+			"ingre_count": "",
+			"ingre_unit": "믹스"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "보관용기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "거품기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료 준비해주세요~",
+		"2. 믹스 한봉지(95g)를 볼에 털어넣고 우유 200ml를 부어주어 주걱으로 살살 저어줍니다. 날가루가 보이지 않으면 거품기를 이용해서 휘휘 저어줍니다.",
+		"3. 충분히 저어주시고 보관용기에 반반씩 나눠서 담아주어요.",
+		"4. 이렇게 두통에 나눠담고 냉동실로 고고!! 2시간 냉동실에 넣어둔후에 중간에 포크로 쓱쓱 긁어주고 1시간 더 냉동시키면 부드러운 아이스크림이 된다고 합니다.",
+		"5. 취향에 따라 피스타치오, 크랜베리 등을 다져서 넣어주셔도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/cf00fdabdcc5400b03342f040f514ecd.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/6a6d20365b70f892f97b13f103bc79781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/955df9da228cd31ed81f0f0c9cf10dee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/49b2e371121c12f1cf2afa24d1301c911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/96a44c5ec769f922436cd4b5012aa6121.jpg"
+	]
+}

@@ -1,0 +1,116 @@
+{
+	"id": "421942",
+	"name": "만만한 반찬 어묵볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/44e149b15f9d0d6a0ea80e08e7c6be65.jpg",
+	"url": "https://www.10000recipe.com/recipe/421942",
+	"ingredient_ids": [
+		643,
+		3,
+		504,
+		497,
+		224,
+		226,
+		225,
+		350,
+		660,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵길쭉한것",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "돼지호박",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "생강맛술",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "물엿(또는올리고당)",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. 어묵은 펄펄 끓는 물에 샤워를 시켜주세요. 윗면에 끓는 물을 붓고 뒤집어서 한번 더 붓고 이렇게 하면 건강에 해로운 첨가물이 어느 정도 빠져나온다고 하네요. 그리고 먹기좋은 크기로 썰고 호박과 당근, 풋고추도 준비했어요.팬에 식용유를 두르고 마늘을 편으로 썰어 달달 볶다가 야채를 먼저 볶아요.",
+		"2. 야채가 어느 정도 투명하게 익어가면 어묵과 풋고추와 붉은 고추를 넣고 양념을 합니다. 매콤한걸 좋아하시면 고춧가루를 더 첨가하고요. 진간장을 넣고 소금으로 간을 맞춥니다. 중불에서 양념이 잘 베이도록 달달 볶아주면 되는데요.. 생각보다 쉽게 타는 경향이 있어요. 그래서 너무 가스불을 세게 하지 않는게 좋답니다.",
+		"3. 맨 마지막에 대파를 길쭉하게 썰어넣고 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/1c0e3769fdf71b2602c7338c84b3fc751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/16cc06ec1f040d170cfc28b21ec3479e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/a7b562f37c7ea3b001c6a50084e2b9911.jpg"
+	]
+}

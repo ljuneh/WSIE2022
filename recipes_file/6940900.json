@@ -1,0 +1,93 @@
+{
+	"id": "6940900",
+	"name": "훈제오리감자볶음:반찬,안주,한끼식사 무엇이든(feat.독일식감자볶음)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/3646fda5b1a57d06939f09be88e3936c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940900",
+	"ingredient_ids": [
+		3,
+		29,
+		497,
+		30,
+		205
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "훈제오리",
+			"ingre_count": "250",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "삶은감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파마산치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새싹채소",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "발사믹드레싱",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 삶거나 찐 감자를 준비한다.",
+		"2. 익힌 감자는 껍질벗겨 납작하게 썬다",
+		"3. 훈제오리는 끓는 물에 데친 후 헹궈 물기를 빼둔다.",
+		"4. 마늘과 양파도 썰어서 전처리한 훈제오리와 함께 팬에 담아 소금, 후추 조금 갈아넣고 볶는다.",
+		"5. 양파가 투명해지면 감자를 넣고 소금, 후추 갈아넣는다",
+		"6. 올리브오일이나 버터를 넣어 볶는다",
+		"7. 다 볶아지면 불을 끄고 부추를 잘게 썰어넣어 섞는다. 부추는 선택재료에요",
+		"8. 접시에 훈제오리감자볶음을 담고 치즈를 갈아넣는다",
+		"9. 샐러드를 곁들인다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/ace03876c050c8f008fcf95e2ac1480a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/8b310b568d40b9c9a74181f6840d26f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/6b19951bf5caac9b3004c3d8aae8697c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/ca155c6ae3454b05a7ebcd6cc45da4501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/a9a6885c80c4fde068181255a65abcf81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/c2ca23c2bfe844ed55b9c04349460ad11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/7320a952078aafe376b5ac175b58fef41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/fea89868a89e760030855b34e80871d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/6513bc28655f47e6e735108817c257601.jpg"
+	]
+}

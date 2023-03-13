@@ -1,0 +1,50 @@
+{
+	"id": "6943389",
+	"name": "겨울초무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/4f6fe1127b2c33288baca9050935a9441.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943389",
+	"ingredient_ids": [
+		497,
+		233,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "겨울초",
+			"ingre_count": "1",
+			"ingre_unit": "소쿠리"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 시든잎을 다듬어주고 깨끗히 씻은 후",
+		"2. 팔팔 끓는 물에 살짝 데쳐 찬물에 헹군 후 물기를 꾹 짜고 볼에 담아준다",
+		"3. 소금 입맛에 맞게 가감하고 다진마늘,통깨,참기름을 넣은 후 조물조물 무쳐 내면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/04167774179f92c3dc9761d4083478021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/6fa01b295221174d0452e5b2bfdfb5ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/e3174d06bada12514bc19cd3edbe1d2f1.jpg"
+	]
+}

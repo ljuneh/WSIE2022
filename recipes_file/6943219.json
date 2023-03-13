@@ -1,0 +1,61 @@
+{
+	"id": "6943219",
+	"name": "부드럽고 담백한 맛 동태전!!!  만들기는 초간단요~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/e344941e69f7dec64e4cc8843aba3e871.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943219",
+	"ingredient_ids": [
+		219,
+		497,
+		574
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "동태살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 먼저 냉동상태의 동태를 해동시켜주세요. 해동한 동태살을 물에 씻기도 하는데 맛있는 동태전을 위해 물에 씻지않고  사용했어요.",
+		"2. 해동과정에서 나오는 물은 채반에서 빼주세요.",
+		"3. 남은 동태살 물기를 키친타올로 꼼꼼히 제거해주세요.",
+		"4. 소금과 후추를 뿌려  동태 밑간을 해주세요.",
+		"5. 부침가루를 입혀주세요. 밀가루 대신 부침가루로 옷을 입혀주먼 소금간이 되어있어 양념장 없이 먹어도 간이 맞드라구요.",
+		"6. 달걀물로 2차 옷을 입혀주세요.",
+		"7. 예열된 팬에 올리브유(식용유)를 두르고 동태전을 올려주세요.",
+		"8. 약불로 앞뒤 노릇노릇 익혀주세요.",
+		"9. 키친타올에 올려 기름을 제거해주면 초간단 동태전 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/98b7c392db2198cc86c3008df35993671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/262ced0a3a8d9f94883a8064ed0296481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/c9f50e545426698eefbaca8622b98eb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/0915b8a1eb44c7e541930e204f8cbc591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/6b2df19e30b9a60d0af100c4339723751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/02c9448a0fe89a4eddbef3c4e78f1c461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/5d40d8b2825c7ce119637ed176dd78b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/2177e5a14c0df27c5e034fa6b0b81c6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/c8988479a6ff4d959a45c11206fd12d61.jpg"
+	]
+}

@@ -1,0 +1,75 @@
+{
+	"id": "2709316",
+	"name": "매콤감자볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/f61d62a18130b808e2642cded5fbfd711.jpg",
+	"url": "https://www.10000recipe.com/recipe/2709316",
+	"ingredient_ids": [
+		5,
+		3,
+		22,
+		543,
+		473,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "사과(육수용)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "사과육수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 사과를 먹고 남은 짜투리를 모아서 끓여 육수를 만들어 둡니다.",
+		"2. 사과육수를 부어줍니다.",
+		"3. 고추장 한스푼을 넣어 줍니다.",
+		"4. 뚜껑닫고 감자가 익을때까지 끓여줍니다.",
+		"5. 양파와 피망은 먹기좋게 잘라줍니다.",
+		"6. 사과육수의 단맛으로 따로 설탕은 넣지 않고 마지막으로 양파와 피망을 넣어 섞어줍니다.",
+		"7. 마무리는 참기름과 통깨를 뿌려 완성해줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/fa33370474051874998a75445d6c22e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/efcaca6061b513e2095c29347ba5ab0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/99578b7c419562467f59900928e1bf151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/6f837bf91f938506cf95f562d7fd36e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/3af7aadb6cffa6770f0999f8d75922551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/eb52bb3bfb6c6f6e4bfc18dd23cbd2c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/d2067d48f382fa73692bb3ef35ca27081.jpg"
+	]
+}

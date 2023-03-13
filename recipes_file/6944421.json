@@ -1,0 +1,42 @@
+{
+	"id": "6944421",
+	"name": "전어구이 만드는 법 전어손질까지",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/8a0ee415ba02cbaa92e6e1620ea8884a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944421",
+	"ingredient_ids": [
+		282
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "전어생물",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 전어를 손질해줘야겠죠. 꼬리부터 머리방향으로 슥슥 긁어 비늘을 제거해주세요.",
+		"2. 가위로 꼬리,지느러미등을 잘라  줍니다.신선한 전어는 내장도 고소해서 제거해주지 않고 같이 구워도 되요. 대신,회로 드실때는 제거해주셔야합니다.꼬리,지느러미를 미리 잘라줘야 먹을때 편하더라구요.",
+		"3. 흐르는 물에 씻어주세요.",
+		"4. 전어 몸통 앞뒤로 칼집을 내주세요.깊게 내주지 않아도 되요.",
+		"5. 꽃소금이나 굵은소금을 뿌려 10~20분간 간을 해주세요.구입할때 간이 되어 있다면 이 과정은 생략하셔도 됩니다.",
+		"6. 200도로 예열한 오븐에 25~30분간 구워주세요.오일을 두르지않아도 전어 자체에서 기름이 나와 자글자글 끓기 시작합니다. 고소한 전어구이냄새...침이 꼴깍 넘어가네요.",
+		"7. 노릇하게 익은 전어구이에요. 어찌나 고소한지 집에서 구워먹어도 맛있네요.제철은 제철이에요.",
+		"8. 뼈재먹는 생선이라 같이 얌얌...!! 뼈가 연해서 같이 먹어도 괜찮더라구요^^ 맛있는 전어구이 집에서 한 번 구워드셔보시기를요.!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/7b2f21dd4d251918b4217484bafd55b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/8cdf991accf6206bb31a6bbe5d5205b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/9111b0f4540a6cfa31b0c51eac9b50c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/d2383a203d6de52d5adccee69b9580311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/f59a5e42a735b3b0dfe48a305e5b33da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/86269339311ac28d6ec61fd39b442a2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/28ffcf93f698de5a8f1bc32d941540101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/a3a1705451096000b44bf649809ca0e01.jpg"
+	]
+}

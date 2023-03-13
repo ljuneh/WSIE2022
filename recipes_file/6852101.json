@@ -1,0 +1,38 @@
+{
+	"id": "6852101",
+	"name": "수박주스 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/19/998cde59c5767f2dd56764e6d4deb6131.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852101",
+	"ingredient_ids": [
+		161,
+		227
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "수박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 믹서기에 얼음을 넣어주세요",
+		"2. 씨를 제거한 수박을 넣고 약간의 단맛을 위해 꿀을 조금 넣어주세요",
+		"3. 믹서기를 돌려 갈아주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/a86753bd2a10c6cb56e0d6c2a154d7a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/aba894f227667f198ce2bd95231ea0721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/d18720f2d7056c053686ded7cadf008e1.jpg"
+	]
+}

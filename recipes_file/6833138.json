@@ -1,0 +1,27 @@
+{
+	"id": "6833138",
+	"name": "비엔나소세지 미니 핫도그",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/d04570478b2fcae86a78b802950521681.jpg",
+	"url": "https://www.10000recipe.com/recipe/6833138",
+	"ingredient_ids": [
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1000",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 끓는물에 살짝 소세지를 데칩니다.",
+		"2. 핫가루와 튀김가루 1:1 적당양 넣고 반죽을 만듭니다. 데친 소세지를 반죽에 묻히고 빵가루에 굴려줍니다.",
+		"3. 적당한 온도에 튀깁니다. 그러면 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/30/d350d7de091f72c093c05f3ef95a57bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/30/68bd484d677e00ad4cf05fb13d1eb2851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/30/31017c8afa9e7dd0967e00c017a8babd1.jpg"
+	]
+}

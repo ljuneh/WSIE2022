@@ -1,0 +1,29 @@
+{
+	"id": "6835822",
+	"name": "간단하고 맛있는 지성만두밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/20/8abfcf063bd6bfd089477db4780f4cee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6835822",
+	"ingredient_ids": [
+		290
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 냉동만두는 접시에 담아 물을 약간 넣어준뒤 랩을 씌어 전자렌지에 5분정도 돌려준다 .전자레인지",
+		"2. 잘 익은 만두는 가위로 먹기좋게 듬성듬성 잘라준다.",
+		"3. 믹싱볼에 밥과 만두를 넣고 간장 한 수저, 깨약간 넣은뒤 잘 비벼주면 끝.",
+		"4. 간단하고 맛있는 지성 만두밥 완성 ~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/76dc8992bf015a8d78768212382c44921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/bc12708a6cd064de996d101da6cb4a231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/a1129e5b2f616dfa9302cbc26012190b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/5323de01d2b10e23de8fc85f1bffa6481.jpg"
+	]
+}

@@ -1,0 +1,96 @@
+{
+	"id": "6874601",
+	"name": "다슬기 부추 된장국 / 별미 해장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/12/322e8d8d392aad11e9e8ce474b81b5621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6874601",
+	"ingredient_ids": [
+		30,
+		3,
+		295,
+		27,
+		848,
+		349,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "다슬기(손질된)",
+			"ingre_count": "1",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "배추(삶은)우거지",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "다진마늘1큰술",
+			"ingre_count": "1",
+			"ingre_unit": "큰 술"
+		},
+		{
+			"ingre_name": "다슬기육수",
+			"ingre_count": "6",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "멸치다시마육수",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "4",
+			"ingre_unit": "밥수저"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "밥수저"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "밥수저"
+		}
+	],
+	"recipe": [
+		"1. 다슬기는 손질해 준비합니다",
+		"2. 다슬기 삶은 육수 와 멸치 다시마 육수를 준비해요",
+		"3. 배추 우거지는 부추 양퍄 대파 청양고추 썰어 준비합니다",
+		"4. 육수에 된장4를 체에 밭쳐 풀어주세요된장을 체에 내려주면 국물이 깔끔해져요 된장은 염도 차이로 간이 차이가 날 수 있어요 된장은 가감 하세요",
+		"5. 된장 풀고 배추 우거지 마늘 파 양파 넣고 약 3~4분간 끓입니다센 불~중불",
+		"6. 국간장으로 간 하고 다슬기 넣어 한소끔 끓여주어요",
+		"7. 한소끔 끓이고 마지막에 부추 1줌 넣고 한 번 끓이고 마무리합니다  해장에 좋은 다슬기 부추 된장국 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/12/afe9cd87d81e6fa5b3f2f5e89f741ecc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/12/d3eb8a8a6b0f95d4f2427ed626f4db961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/12/447338761dcf16096dd56b2f08917fe71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/12/a9af0e9aa8a9aaf4cd064cb2d85bd5bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/12/29a7f813824a5ec42adcc54518576cbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/12/877d4bfbf8027471f179471e372939791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/12/c36bb80508914143534d741d74a57f5f1.jpg"
+	]
+}

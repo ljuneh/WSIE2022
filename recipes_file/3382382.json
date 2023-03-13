@@ -1,0 +1,76 @@
+{
+	"id": "3382382",
+	"name": "국민반찬 어묵볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/93ce9e3e961fb01b907bef530639a94a.jpg",
+	"url": "https://www.10000recipe.com/recipe/3382382",
+	"ingredient_ids": [
+		548,
+		489,
+		477,
+		738,
+		432,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "냉장고속야채",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "두반장",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 당근, 양파, 대파를 준비합니다. 야채는 냉장고속 있는 재료로 이용하면 됩니다.",
+		"2. 어묵은 먹기좋은 크기로 썰어주시구요.",
+		"3. 끓는물에 어묵은 살짝 데칩니다.",
+		"4. 데쳐낸 어묵은 물기를 빼두시구요.",
+		"5. 달구어진팬에 포도씨유 조금 두르고 양파와 당근을 먼저 볶아주세요.",
+		"6. 야채가 익으며 미리 데체낸 어묵을 넣어주세요.",
+		"7. 두반장을 넣어줍니다.",
+		"8. 굴소스도 넣어주세요.",
+		"9. 조청이나 물엿또는 설탕을 넣어줍니다.",
+		"10. 소스가 잘 어우러지게 볶다가 대파를 썰어 넣어줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/78bbcfd1858972387bcf91794b980d401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/60d7e1051f8cd20da9b40ac803448b611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/7a196ef0f8a068882d03ef27f452aa1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/135b41abaacf8d2ea3b0421cf972248c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/8218ae91457b99620359eadeca80ea401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/ef02b4ad9f84b256c8788ab0fe96d7021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/07894e4c575759c8b26c0e1d39855f721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/70768489adaac8d082c92dbdc9bb6a971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/690ac8dd6623196ea04ebb853ae40d611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/a3a110fd7d09bb8a78a6441b504f01001.jpg"
+	]
+}

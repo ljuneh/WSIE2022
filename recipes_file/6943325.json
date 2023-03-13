@@ -1,0 +1,70 @@
+{
+	"id": "6943325",
+	"name": "원기회복에 좋은 전복내장볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/42cd7d2027ee5973a57cd37da9ea18481.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943325",
+	"ingredient_ids": [
+		86,
+		96,
+		660,
+		349,
+		543,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "쇠고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 쌀은 씻어 불려놓습니다.쌀2컵",
+		"2. 전복은 깨끗히 씻은 후 이빨과 모래집을 제거하고 내장만 물1컵을 넣어 믹서기에 갈아줍니다.전복내장 2개, 물1컵믹서기",
+		"3. 쌀에 내장 갈은 물과 물1컵을 더 넣어 밥을 해줍니다.물1컵",
+		"4. 다진 쇠고기에 참기름을 넣어 볶아줍니다.다진쇠고기100g, 참기름1큰술팬중불",
+		"5. 쇠고기가 반쯤 익으면 전복을 먹기 좋게 썰어준 후 국간장과 함께 볶아줍니다.전복2마리, 국간장1큰술",
+		"6. 쇠고기가 다 익으면 전복밥과 함께 볶아줍니다.",
+		"7. 통깨를 뿌려줍니다.통깨 약간"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/78519aff11ddea1d0671c649a2aecad51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/2d6e7938963beb66f3730f04c0d16b261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/f975b521b080135c015aa922180870541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/057ffc7e4d24409433c3e11ee6f87a811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/6fb9a47c6bb58ce502fe68cd060fda2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/4fd0270d09cb133a8401432713de41751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/6ba17ec8dee4eba62c04143d7fa545131.jpg"
+	]
+}

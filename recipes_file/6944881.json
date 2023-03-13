@@ -1,0 +1,42 @@
+{
+	"id": "6944881",
+	"name": "계란빵 만드는법 핫케이크믹스로 쉽게 길거리음식 흉내내기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/8088a620372c9274558228c028fb6ceb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944881",
+	"ingredient_ids": [
+		219,
+		638
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "핫케이크가루",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 달걀 1개, 우유를 넣고 잘 풀어주세요.                   ",
+		"2. 핫케이크가루 4컵 넣고 거품기로 잘 섞어주세요.                   ",
+		"3. 머핀틀에 유산지 올리고~반죽을 70%채우고~ 달걀 노른자를 하나씩 그 위에 올렸어요.",
+		"4. 달걀 노른자 올리기! 노른자를 분리해서 하나씩 올리고,흰자를 나중에 조금 부어주었어요. 너무 넘치지 않게 해주세요~ 구우면 부풀어올라요. 파슬리도 조금 올려주세요.",
+		"5. 머핀코스로 오븐에서 굽고 식힘망에 올려서 식혀주세요. 오븐 대신 에어프라이어나 전자레인지를 사용하셔도 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/6989d2c610bd1823c45ae1e46c5c67881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/003c49da028658c8f432795591e48f5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/59168c58ace392de8474ddca66a52a881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/453b079cab77bbccb2c79eff3e9de7111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/1801ac64a36bf761ef10f19032a65c181.jpg"
+	]
+}

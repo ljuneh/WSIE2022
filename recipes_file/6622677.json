@@ -1,0 +1,69 @@
+{
+	"id": "6622677",
+	"name": "김치볶음밥 간단하고 맛있게 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/03/11/a82727b63dae9648667ab61fec95d3cf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6622677",
+	"ingredient_ids": [
+		398,
+		3,
+		628,
+		487
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "배추김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터사방",
+			"ingre_count": "2",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "3",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 버터를 살짝 녹인 후 김치를 넣어 볶아주세요.  김치볶음밥은 참기름이나 식용유 보다는 버터로 볶는게 더 고소하고 맛있어요.  비빔밥엔 참기름이나 들기름을 김치볶음밥엔 버터가~ 맛나요~^^",
+		"2. 김치가 볶아지면 양파와 준비한 재료 (스팸, 햄, 돼지고기, 참치 등)를 넣어 볶아주세요.",
+		"3. 밥을 넣고 볶아주세요.  밥은 찬밥 보다는 따뜻한 밥을 넣어야 기름 사용양을 줄일 수 있어요.  찬밥으로 넣으면 오래 볶아야 하니 기름을 많이 쓰게 되요.",
+		"4. 김치볶음밥엔 역시 계란후라이!  예쁘게 하나 해서 올려 드셔 보자고요~ ^^",
+		"5. 위에 사진과 아래사진... 깨를 뿌리고 안뿌리고에 차이가 좀 나보이지 않나요? 그래서 김밥집에가면 깨소금을 그리 많이 뿌려주나 봅니다~ ㅎㅎㅎㅎㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/11/766f9e085ad322090372254d17c902721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/11/e5cc387952a3b77905c89ad7382db3081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/11/71b63c99a4bdde166d4fc64cbac71e151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/11/d7e2f87848a438f74397dddea0b829371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/11/a167f2b9d7b4c5a5435dfdc2440fdf791.jpg"
+	]
+}

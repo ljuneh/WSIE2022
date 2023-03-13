@@ -1,0 +1,92 @@
+{
+	"id": "6943711",
+	"name": "주말요리 치즈 듬뿍 눈꽃같이 살살 녹는 치즈소불고기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/739490bedfe73afd48c41303e1ddf0321.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943711",
+	"ingredient_ids": [
+		579,
+		3,
+		212,
+		477,
+		379,
+		292,
+		227,
+		29
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "소등심불고기감",
+			"ingre_count": "1.",
+			"ingre_unit": ".Kg"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1",
+			"ingre_unit": "잔"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "7",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 고기를 소주를 희석시킨 물에 담궈 핏물을 뺀후 물에 헹궈 체에 받칩니다",
+		"2. 양념장을 만들어 고기를 넣고 버무립니다",
+		"3. 통에 담아 냉장숙성 시킵니다",
+		"4. 웍에 불고기를 볶습니다",
+		"5. 익은 불고기는 그릇에 담습니다",
+		"6. 그위에 치즈를 올립니다",
+		"7. 전자렌지에 돌려 치즈불고기를 만듭니다전자레인지"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/ebfa9f6e8254035b281775ef8adc367e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/ad31fed86464dfa41a9e60ea411a76691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/18d9123b8569e01556390e632fae534b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/a682a89a645b22e0a2b7ac17ab06427b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/00bd11b8bd6d8c28ce34dd4109cb8ff91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/1acccc61f33f81e8ae411fb3d655cffd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/bcaed6b745f65d92b91c94f5f17f840b1.jpg"
+	]
+}

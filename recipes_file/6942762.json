@@ -1,0 +1,98 @@
+{
+	"id": "6942762",
+	"name": "한 그릇 요리 샐러드 같은 밑반찬, 새우 브로콜리 굴소스 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/09a203648bf6d5bc20464b483b7833261.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942762",
+	"ingredient_ids": [
+		11,
+		497,
+		231,
+		292,
+		432,
+		477,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "1",
+			"ingre_unit": "송이"
+		},
+		{
+			"ingre_name": "새우왕특사이즈",
+			"ingre_count": "6",
+			"ingre_unit": "미"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다. 냉동 새우는 실온에서 해동시켜 주세요.",
+		"2. 물에 식초 1T를 넣고 브로콜리를 10분 정도 담가두세요.",
+		"3. 물에서 건진 브로콜리를 꽃과 줄기부분으로 나눠 먹기좋게 잘라 주세요.",
+		"4. 마늘은 편썰기 해주세요.",
+		"5. 새우는 반만 익도록 살짝 데쳐 줄거예요. 끓는 물에 맛술 1T를 넣고 새우를 넣어 물이 끓기 시작하자마자 꺼내어 찬물에서 식혀주세요.",
+		"6. 헹궈 낸 새우는 꼬리 껍질을 벗겨내고 반으로 슬라이스 해주세요.",
+		"7. 이제 브로콜리를 데쳐 줄거예요. 역시 끓는 물에 소금 1큰술을 넣고 브로콜리를 넣어주세요. 냄비의 가장자리에 물이 끓어 기포가 올라오면 불을 끄고 찬 물에 헹궈주세요.",
+		"8. 준비된 야채와 새우를 볶아 줄거예요. 달궈진 팬에 포도씨유를 두르고 편마늘을 넣은 후 향이 날 때까지 볶아주세요.",
+		"9. 데쳐 놓은 새우와...",
+		"10. 브로콜리도 넣고 중불에서 볶아 주세요.",
+		"11. 브로콜리와 새우가 어우러지게 볶아졌으면 굴소스 2큰술, 후추 약간을 넣고 센 불에서 재빨리 볶아주고 브로콜리에 간이 배이면 불을 꺼주세요.",
+		"12. 마지막으로 참기름 1큰술을 둘러 주세요.",
+		"13. 그릇에 담고 검정깨 혹은 파슬리 가루를 뿌려 완성합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/9b02c9cb16842e5ec8736055308119711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/4e0cdc0755dc349f0c76d2c1f2ff7cd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/0d322b8b8bdde7b2178c4c08f299306d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/7df74404b50c39d6e13a9c1cd5ace8b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/bf5a8f2c7c9c524f8d935711207e3c631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/39613472cba47a39d18bf5eab2090fad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/72c926072234a9b47015c11ebc79e6d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/1e78253866f938c1be6ed324ace35cfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/121f5d4cd077c83dcca5dc2f6c7202ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/a939451b543f7514db27d7176e5751d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/752ac1b9ebc91ce0345a1b18c8a97f371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/79ff5e6ae084b4c6aa511085340038fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/bb256df89d7a747ff117265754bc513d1.jpg"
+	]
+}

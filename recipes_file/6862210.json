@@ -1,0 +1,64 @@
+{
+	"id": "6862210",
+	"name": "5분27초 전자렌지 계란찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/06/c4cc98608a19b78d9c9810cdc21968891.jpg",
+	"url": "https://www.10000recipe.com/recipe/6862210",
+	"ingredient_ids": [
+		702,
+		995,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "10",
+			"ingre_unit": "개쯤"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": "뿌려주는정도"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "250",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 물을 정수물로 준비",
+		"2. 계란 두개를 풀어주세요",
+		"3. 우유와 소금도 넣구요",
+		"4. 파를 마지막에 넣어",
+		"5. 전자렌즈용 뚜껑을 덮은 후전자레인지",
+		"6. 계란찜버튼은 누릅니다",
+		"7. 5분27뒤 완성되었어요. 잘익었고 맛도 있다 중딩이 말해주네요^^;;",
+		"8. 마지막에 파슬리조금 뿌리면 끝입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/06/c0f683f87beb06582abd282055e1deb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/06/162dbf41a07d3968fb45544cd669e67b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/06/f135cf84551d56ff6b1bcb8a1ad74f7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/06/d75f7423bbaa68ef572c9781286800261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/06/6d0491a23eec381f57b329832edda69c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/06/b628a786cfd8c04de2161575592a54971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/06/c28af57c5a828ab329364593fbfd16da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/06/f792f441904f8f913824bdddb9c39cd21.jpg"
+	]
+}

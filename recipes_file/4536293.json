@@ -1,0 +1,114 @@
+{
+	"id": "4536293",
+	"name": "갈치조림 맛있게 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/c33e44d9f71e1318a3456f08f30b6aa8.jpg",
+	"url": "https://www.10000recipe.com/recipe/4536293",
+	"ingredient_ids": [
+		19,
+		5,
+		295,
+		3,
+		27,
+		473,
+		379,
+		846,
+		292,
+		233,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "갈치대1마리(1마리4토막)",
+			"ingre_count": "1마리(1마리 4토막)",
+			"ingre_unit": "마리(마리 토막)"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참치진국",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강가루(즙)",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 모든 양념은 섞어두고 양파, 대파, 청양고추는 썰어서 준비해둡니다.",
+		"2. 무를 냄비에 먼저 깔고 감자를 위에 올리고 그 위에 갈치를 올려줍니다.",
+		"3. 양념을 올리고 멸치육수를 붓고 센불에서 뚜껑을 열고 끓여주세요. 끓으면 양파, 청양고추를 넣고 다시 끓입니다.",
+		"4. 대파를 넣고 불을 중불로 낮추고 뚜껑을 닫고 졸여줍니다. 위에 갈치에 국물을 끼얹어주거나 뒤집어주면 간이 잘 베어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/4ff02fb61571219d4557773a54ba5bf41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/5e7c519df50ba5352b9aee348cc1f4271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/c433e177c40bef4d42e694508d9e1d401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/169ab73e856dc477aa2a760c23d92e791.jpg"
+	]
+}

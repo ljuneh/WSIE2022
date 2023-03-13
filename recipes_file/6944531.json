@@ -1,0 +1,46 @@
+{
+	"id": "6944531",
+	"name": "백파더 앙버터 보다가 집에있는 크림치즈와 영양갱으로 여유를 즐기는 척 해보겠습니다.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/f04059ae62c9811060aa36719b5e76121.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944531",
+	"ingredient_ids": [
+		503,
+		208
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "영양갱",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비해볼까요? 버터에 영양갱을 넣으면 된다고 했으나 저는 크림치즈가 있어서 같이 하게되었습니다.",
+		"2. 영양갱 가위로 잘라주세요",
+		"3. 와플에 식빵을 넣어서 구워주세요",
+		"4. 짜짠~!!!",
+		"5. 가위로 잘라 주세요",
+		"6. 크림치즈 영양갱을 넣고 덮어주면 완성",
+		"7. 커피와 맛있게 먹어보아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/03f394b0d24a7ab54d868193cf017d251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/a8b71b2d7ffd7479756be5a1153175d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/80c37c5f5fd91c24129de35fa5e02ae01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/de48e6a539d0863c6aafd33206be1a001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/73e1c0bd7c90b2e3b72726032c9339a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/7045f1336ca59146cb66f7f588670b131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/7b0d6c78f88219c078f8a605357defb81.jpg"
+	]
+}

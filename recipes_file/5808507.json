@@ -1,0 +1,38 @@
+{
+	"id": "5808507",
+	"name": "향긋한 냉이국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/0237955ed9f46c758b6061b6e032f4221.jpg",
+	"url": "https://www.10000recipe.com/recipe/5808507",
+	"ingredient_ids": [
+		46,
+		848
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "냉이",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "멸치육수2~3컵정도",
+			"ingre_count": "2~3컵 정도",
+			"ingre_unit": "~컵 정도"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 냉이는 물에 잠시 담궜다가 뿌리부분과 잎부분 불순물을 손질한 후 흐르는 물에 여러번 헹궈 깨끗이 씻어서 준비합니다.",
+		"2. 멸치는 머리와 내장 제거 후 팬에 바싹 구워주고, 끓는물에 넣어 보글보글 끓여 육수를 내 줍니다.",
+		"3. 멸치육수 2컵을 냄비에 담고 끓이다가 끓어오르면 냉이를 넣어주고 된장도 풀어줍니다. 멸치육수에 간이 있기 때문에 된장을 조금씩 넣어가면서 짜지 않게 간을 맞춰주면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/07/b7a724fab0bbaf10c9a7f21bdbd130fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/07/06b371a765ce91ac0f50def67c0433d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/07/8497fc83652e4dc0856a6d7c328418c81.jpg"
+	]
+}

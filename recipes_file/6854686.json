@@ -1,0 +1,54 @@
+{
+	"id": "6854686",
+	"name": "수박화채 만드는법 (백종원 레시피)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/d5a6a68055796639ff780072f77412cd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6854686",
+	"ingredient_ids": [
+		161,
+		204
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "수박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "흰우유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후르츠칵테일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 간단한 재료를 위와 같이 준비해주세요. 백종원 레시피에서는 후르츠 칵테일이 없었던 거 같은데 저는 그냥 모양내려고 데려와봤어요.",
+		"2. 계량 스푼. 요게 사이즈가 딱 맞더라고요. 계량 스푼을 수박 속에 넣고 '착' 꽂아 동그르르 돌려주면 적당한 크기의 동그란 수박이 나와요.",
+		"3. 우묵한 보울에 동글 동글 수박을 넣어주고 연유를 적당량 뿌려주세요. 당도는 드시는 분들의 취향에 따라 조절하시면 되는데, 수박 자체의 단 맛을 즐겨야 하니까 너무 많이 넣진 마세요.",
+		"4. 연유를 뿌려준 다음에 흰 우유를 적당량 넣어주세요.",
+		"5. 적당한 화채 그릇에 만들어놓은 수박 화채를 담아주세요.",
+		"6. 수박 + 연유 + 흰 우유에 후르츠 칵테일과 각얼음을 돌려가며 예쁘게 올려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/5458f478fba566b14a509604382dd0791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/7ee5fd99d2853a7962cf66aada5c14361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/792f27f7aedf3149cd89eb59c591b40e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/fd54eecf9738358f4a7b4db61efd30c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/2cb9dcb6dda365e7b1de3d7b038ef2f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/83f133fe6b29a3b84f62d516c3bb3ebe1.jpg"
+	]
+}

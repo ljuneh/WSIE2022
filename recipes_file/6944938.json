@@ -1,0 +1,77 @@
+{
+	"id": "6944938",
+	"name": "오징어냉채 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/408f8dbd4895883979597426e247a4d21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944938",
+	"ingredient_ids": [
+		65,
+		8,
+		292,
+		540,
+		233,
+		231,
+		226,
+		465
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꽃소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "겨자",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 오징어는 껍질을 벗기고 골고루 칼집을 넣고 먹기좋게 썰어 준비하고",
+		"2. 끓는 물에 소금약간 맛술1큰술 넣고",
+		"3. 오징어를 넣고 살짝 데쳐 줍니다",
+		"4. 데쳐낸 오징어를 찬물에 담궈 식혀줍니다",
+		"5. 그러면 오징어 식감이 부드럽고 탱글탱글 합니다 다시 건져내고 물기를 꼭 짜서 준비하고",
+		"6. 겨자 식초 설탕 꽃소금 비율로 넣고 다진마늘 1큰술  오이를 어슷하게 썰어 넣고",
+		"7. 골고루 버무려서 10분 숙성된 다음 드시면 맛있습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/4c3181ff36dc9bf6de82a4891ec268271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/8960d4849d4ba9bf35ea667e375aa4ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/45b3e7183e13a34623503ef88dcdb5d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/e9f44c5d02e4c76e1b8a29b23daaaf4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/b265ec822e38d234eed5923d0b581d191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/d91b06a8ae11749e0ddb88db0985e9911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/e117f32adedc6518df59aa39754c0b461.jpg"
+	]
+}

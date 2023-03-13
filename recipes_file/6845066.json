@@ -1,0 +1,91 @@
+{
+	"id": "6845066",
+	"name": "알타리김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/21/da209eac10ed85d9d20679414fb21ca61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6845066",
+	"ingredient_ids": [
+		282,
+		29,
+		28,
+		226,
+		390,
+		939
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "알타리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "조미료",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "육수나",
+			"ingre_count": "",
+			"ingre_unit": "풀"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 한 칸뿐인 싱크대를 깨끗하게 닦아 다라로 사용을합니다.",
+		"2. 흐르는 물에 알타리를 적셔 소금을 뿌리고 마지막에 소금 한줌 물에 녹여 설설설 부어 절여줍니다.",
+		"3. 저 누런 덩어리들은 갈아서 얼려놓은 생강인데 미리 꺼내좋질 않았지만 알타리가 절여질 동안이면 충분히녹지요.",
+		"4. 새우젓, 멸치액젓에 고추가루, 설탕, 고추씨, 마늘, 생강 양념 준비를 하는데 아차, 풀도 육수도 없습니다.",
+		"5. 급한대로 마른표고를 우려",
+		"6. 육수를 대신했네여. 표고는 꼭 짜서 냉장고에 넣어두고",
+		"7. 진하게 우려진 육수를 양념에 섞어 고추가루를 불려줍니다.",
+		"8. 씻어놓은 알타리를 한움큼씩 가져다가 양념을 발라 엉키지 않게 통에 담고 쪽파 깜빡해서 나중에 반만 뚝잘라 섞어주고",
+		"9. 공기랑 덜 닿으라고 위생백 한장으로 위 갈무리해서 실온에 삼일 익혔습니다.",
+		"10. 원래는 갈치속젓을 꼭 넣는데 순수 총각김치, 그러니까 엄마가 담아주던 그 기본의 김치맛이 그리워 이번엔 최소의 양념으로 담았답니다. 그런데 정말 맛익게 익었네여."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/22/e0ed41970c0be0702bb8fdcf616abb421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/22/4c067457df188ffdcbb89161a85792fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/22/9db4c47b5ddc4e69f489665c9daff89d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/22/fd45785cd9166b50402d68c3285f955c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/22/0a56d21b5c5b69966ec2e977ec03f2931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/22/59d27163e051d89dbb6934a7105eae2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/22/4b7c8e318091073f579965bd59ff13731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/22/e951dc6964391144905a7824b83c2db61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/22/937b58905b9422e487c0de0ebe8a4af81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/22/8c476d73a59b02ca5058fd627eef55801.jpg"
+	]
+}

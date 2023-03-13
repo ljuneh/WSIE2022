@@ -1,0 +1,127 @@
+{
+	"id": "6944097",
+	"name": "백종원의 닭백숙(이북식 찜닭) 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/8ee651832c5e81aa743d0f7a79ba64121.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944097",
+	"ingredient_ids": [
+		30,
+		3,
+		27,
+		28,
+		224,
+		1000,
+		233,
+		231,
+		226,
+		597,
+		379
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "닭육수",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "연겨자",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료를 준비해 주세요. 닭은 표면을 문질렀을 때 미끌거리는 것은 신선하지가 않다고 해요.",
+		"2. 닭 날개 끝부분을 가위로 잘라주세요.",
+		"3. 가위로 닭의 배를 갈라 꼬리부분과 목 부분에 하얀 지방을 제거해 주세요.",
+		"4. 뼈 사이에 붙어있는 빨간색 내장을 손가락으로 제거해 주세요.제거하지 않으면 잡냄새가 나요",
+		"5. 내장이 잘 안 떨어지면 솔로 문질러 제거하면 조금 쉽게 떨어져요.",
+		"6. 닭의 꽁지 부분도 잘라주세요.",
+		"7. 제거한 지방과 내장을 모아보니 제법 나왔어요.",
+		"8. 손질한 닭을 물에 깨끗하게 씻어 주세요. 요리는 별거 아닌데, 닭 손질이 반을 차지해요.",
+		"9. 큰 냄비에 닭을 넣고 물 2.5L 정도 부어주세요물의 양은 닭이 충분히 잠기게 닭 부피의 2~3배정도의 양이면 되요.",
+		"10. 양파-1개(작은 사이즈는 2개), 통마늘-한 줌(약 10알), 대파-2대, 생강-1톨(생략가능)을 넣고 20분간 닭을 삶아 주세요냄비 뚜껑을 열어놓고 삶으면 잡냄새가 날아간다고 합니다.",
+		"11. 닭이 끓는 동안 양념장을 만들어 주세요. 고춧가루-1큰술, 다진마늘-1/2큰술, 식초-1큰술, 설탕-1/2큰술, 연겨자-1/2큰술, 간장-2큰술, 지금 끓고 있는 닭 육수-1큰술(뜨거운 물 1큰술로 대체가능)를 섞어주세요.",
+		"12. 미관상 끓이고 있는 육수에 생긴 거품은 국자로 거두어 주세요.",
+		"13. 약 20분이 지나면 닭을 뒤집어 놓고 20분을 더 삶아 주세요.",
+		"14. 닭이 다 삶겼으면 건져내어 큰 접시에 담아요.닭 가슴살을 찢었을 때 잘 찢어지면 다 삶긴 것이에요. 너무 오래 닭을 삶으면 맛이 없어져요. 토종닭은 질김으로 조금 더 오래 삶아야해요.",
+		"15. 가스레인지 불을 끄지 말고 닭 육수에 있는 채수용 건더기를 모두 건져내어 버려 주세요.",
+		"16. 부추를 반 정도로 잘라 끓고 있는 닭 육수에 넣어 약 1분간 데쳐 주세요.",
+		"17. 닭 위에 데친 부추를 얹어주고 육수가 있는 것을 좋아하면 육수도 함께 닭을 담은 그릇에 넣어주면 되요.",
+		"18. 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/9c6635d37be9b424777a086655b535b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/89ded9049b331182db503f886cfde0011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/76392e87969a4db26b5175476873916f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1f260ce8883d201d35954fe3fe88ef301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/86ee456e628a81b7f5383df699399a211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/a9f8350c410b53c1263e18787f2470f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ea6eefd70b73986f78710f3193ebdc3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/3ce35835e91b168894a7d72b9d5f208f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f5585fc9d5809e38a54f8c033fa2ec551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/587cc7ab0c696b18974bad84141b2e7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/d07af58e47db7a3ec35c66c21f00ea3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/493584ab189f342bdc3769f0cb492d6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/cc90b4a657e35cc6d9195797923b7fd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/6a8f9231dde7ec8d27f2b4700cfe1c801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/a7d4941afbf00e27409b502d19a1dee41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/9b46040ec8483e6fc8b94a37ac3f6ac81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/3c500cdb69daccdc762944472ce736961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/c3ad355253c764aa439177a2d732ead61.jpg"
+	]
+}

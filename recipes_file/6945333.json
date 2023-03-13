@@ -1,0 +1,64 @@
+{
+	"id": "6945333",
+	"name": "콩나물국레시피::간단하고 깔끔하게 콩나물국 끓이는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/2f1dd4c628f50de63d49a39748a13bf21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945333",
+	"ingredient_ids": [
+		47,
+		27,
+		34,
+		29,
+		287,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 멸치육수를 냄비에 붓고 끓입니다. 이때 육수의 양에 따라 다르지만 까나리액젓 2숟가락을 함께 넣고 끓입니다. ",
+		"2. 물이 끓으면 콩나물을 넣어 주세요. 콩나물을 넣은 후에는 냄비뚜껑을 닿고 끓일 건지 뚜껑을 열고 끓일 건지 선택해 주세요. 뚜껑을 열었다 닫았다를 반복하면 비린내가 나서 콩나물이 주는 시원함과 깔끔함을 느낄 수 없을 지 몰라요.                    ",
+		"3. 3-5분 정도 끓이면서 콩나물이 어느 정도 숨이 죽었다 싶으면 뚜껑을 열고 파, 고추를 넣은 후 다진 마늘을 마지막으로 넣고 바로 불을 끕니다.                       ",
+		"4.  파, 마늘, 고추는 잔열감으로 익혀줄 거예요. 중간에 맛을 보고 혹시 좀 싱거우시면 소금을 약간 넣어주세요. 간장은 노노~ 텁텁해져요 :) "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/f1a0b7b94050a61b69a5f178179bd4131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/cc70c2765a95f25be9046b68b99d21ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/c8b372dfeaf04e0e98f0ef21d7fbb10d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/ac690eaee94b88337944cc931f730d381.jpg"
+	]
+}

@@ -1,0 +1,111 @@
+{
+	"id": "6876593",
+	"name": "간단하게 만들어 즐길 수 있어요 ; 짜장면 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/17/d4a2d41251216408d5abbbb2542fbd3c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6876593",
+	"ingredient_ids": [
+		3,
+		21,
+		226,
+		379,
+		226,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "올리브유(또는식용유)",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "볶음용춘장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리브유(또는식용유)",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물2컵(400ml)",
+			"ingre_count": "2컵(400ml)",
+			"ingre_unit": "컵(ml)"
+		},
+		{
+			"ingre_name": "녹말물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "우동짜장용생면",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 올리브유(또는 식용유) 3큰술에 볶음용 춘장 4큰술을 넣어  타지 않게 중간불에서 볶습니다.어른용 밥숟가락 기준",
+		"2. 올리브유 2큰술과 다진파 2컵을 넣고  중불에서 파가 노릇하게 익을 때 까지  타지 않게 잘 볶아주면서 파기름을 만듭니다.종이컵 1컵= 200ml",
+		"3. 파기름이 완성되면 잘게 썬 삼겹살 1컵을 넣고 볶아줍니다.고기양은 원하는 만큼 넣어주셔도 좋아요. 삼겹살을 넣으면 맛이 좋은데 돼지고기 다른 부위도 괜찮습니다. ",
+		"4. 삼겹살이 어느정도 볶아지면 양파1개 - 사각썰기 양배추 1/2통 - 사각썰기 을 넣고 볶아주다가",
+		"5. 설탕 3큰술 간장 2큰술을 넣고 볶습니다.간장을 팬에 눌리면서 볶아주면 불맛이 나서 더 맛있습니다. ",
+		"6. 볶아진 춘장을 넣고  재료들에 잘 섞이도록 볶습니다.",
+		"7. 물2컵을 붓고 재료들을 저어주면서 끓입니다.",
+		"8. 바글바글 끓으면 녹말물1컵 (물1:녹말1/2)을 조금씩 부어가며 농도를 조절합니다. 마지막으로  설탕과 소금 약간으로  입맛에 맞게 간을 맞춥니다.",
+		"9. 시중에 판매하는  우동짜장 생면사리 4개를  물에 한번 헹궈 겉에 묻은 밀가루를 제거하고 면을 삶은 후  그릇에 담고 짜장소스를 듬뿍~ 올립니다.",
+		"10. 짜장 소스를 뚝딱~ 만들어 면에 부어주기만 하면 되니 집에서도  충분히  중국집 맛을 즐길 수 있겠죠?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/17/7029a8b2a7c3977c61a064194b416f7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/17/f5f6058f5a8e982cfdff53512787a0281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/17/b2a9e1f4007899f5405c594f23d2b4aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/17/542bbbb9d5535b5f0c6b9fc51df4a6e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/17/75a0c483e4cb526e943041e4c59f37b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/17/1fcc57bbbb52c18f2d4818eac844a6c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/17/0a3ac299ac2fc48c31912e3a5c95f9281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/17/ff88dfca6a13fe34120cc06943fcf88d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/17/58fd64b5a475cdb9817da5d9ce9ab8851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/17/53a72fcf4b502518448852b6dd89c0c01.jpg"
+	]
+}

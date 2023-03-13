@@ -1,0 +1,39 @@
+{
+	"id": "6940113",
+	"name": "마요네즈 간장소스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/d88d02599e91fd84a48d6b42c0235c521.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940113",
+	"ingredient_ids": [
+		228
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "땡초",
+			"ingre_count": "1",
+			"ingre_unit": "ro"
+		}
+	],
+	"recipe": [
+		"1. 마요네즈 3큰술 볼에 담고",
+		"2. 간장1큰술 반 넣어준다",
+		"3. 땡초 다져넣고",
+		"4. 고루 섞어주면 완성 오징어,북어채,아귀포등  콕~ 찍어먹어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/33b47ef298c4da6688f7d70644f86eeb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/f5153321d66b1578e9aba4701f27a81f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/630f9824daa3e487ef81fc77c3254c951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/acc04e6e3cac88cd7bd058b5607ec7471.jpg"
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"id": "6844294",
+	"name": "멸치볶음 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/15/f9cb8b32f681c95c0ab7a76301358e701.jpg",
+	"url": "https://www.10000recipe.com/recipe/6844294",
+	"ingredient_ids": [
+		379,
+		341,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "세멸치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 멸치 볶을 때 마늘 넣어주면 마늘향이 나서 훨씬 더 맛있거든요. 연말에 친정 가서 이렇게 볶아냈더니 다들 맛있었대요.",
+		"2. 멸치 볶을 때 견과류 넣고 볶아도 좋지만 마늘 넣어서 볶아줘도 맛있어요.",
+		"3. 먼저 마늘은 편으로 잘라서 기름 두르고 1~2분 정도 마늘향 내줬어요. 이렇게 하면 멸치볶음에 마늘향이 배서 더 맛있답니다.",
+		"4. 마늘 살짝 볶아준 뒤 세멸치 넣고 볶아주세요. 요리가 서투르다면 약한 불에서 해보세요. 저는 멸치 넣고 센 불에서 2~3분 정도 볶아서 습기 날려줬어요. 그리고 멸치 볶을 때 많이 만들어 두는 것보다는 소량씩 자주 볶아서 먹는 게 더 맛있죠.",
+		"5. 3분 정도 볶아준 뒤 간장 넣고 양념해주면 된답니다.",
+		"6. 약한 불에서 간장 반수저 넣고 살짝 볶아줬어요. (평소에 싱겁게 먹기도 하고 멸치 자체에 간이 되어 있어서 간장은 반수저만 넣어줬네요)",
+		"7. 불 끈 뒤 물엿 한수저 넣고 남은 열로 섞어주면 끝. 멸치볶음 간단하죠.",
+		"8. 마늘 넣어서 만든 멸치볶음 완성. 멸치볶음에 견과류 넣기도 하고 청양고추 넣고 볶아도 맛있는데요. 재료 없을 때는 이렇게 마늘 넣어서 향을 내준 뒤 볶아줘도 참 맛있답니다. 세멸치라 멸치 싫어하는 아이들도 잘 먹어요. 마늘향이 배어서 더 맛있는 멸치볶음이 됐네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/7c9cc8dd6ee9c3ceca3d0759dbeec4341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/9514dcf3a2a6c0013c588affc31239241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/e1d8dc2119077a86d465ea8fb123f7501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/d5c155cfb3b70650966c7859626ae2ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/3fe6e323e649b44559d3bccd02071ef51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/7e6de36d806e03cd8847c0fc4e4ab87a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/af57dbe0537369b009ef44b7628b249c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/11/fbe79b0a51d0f76d7b1db6989c7c67421.jpg"
+	]
+}

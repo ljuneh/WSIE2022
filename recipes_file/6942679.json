@@ -1,0 +1,60 @@
+{
+	"id": "6942679",
+	"name": "오일파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/24689556b1a84ca8f055059664bc20101.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942679",
+	"ingredient_ids": [
+		735,
+		58,
+		410,
+		574,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "보리새우",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료: 스파게티 면, 새송이버섯 1/2개, 보리새우, 올리브유, 소금, 후추",
+		"2. 남비에 물을 넓고 끓으면 스파게티 면을 골고루 펴서 넣고 끓여주세요 6분 후 면을 건져주세요",
+		"3. 새송이버섯을 납작하게 썰어 식용유를 두른 팬에 넣고 넓게 펴서 노릇하게 볶아주세요",
+		"4. 보리새우를 잘게 썰어 주세요 팬에 스파게티 면과 보리새우를 넣고 올리브유를 두른 다음 볶아주세요 소금과 후추로 톡톡 간을 해주세요",
+		"5. 접시에 담고 먹기 전에 올리브유를 한번더 넣고 섞어서 드시면 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/c66e7a78c8a0f3aad35c966af5f615791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/ad41f1c796c050ef79f9d2e9fad261f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/036bef1062460211726c44761a2a77c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/394706542db3fe112c816f5eb9c1705d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/d59d9082754506a9d69a1d86a1c0d1a81.jpg"
+	]
+}

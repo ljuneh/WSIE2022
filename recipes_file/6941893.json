@@ -1,0 +1,123 @@
+{
+	"id": "6941893",
+	"name": "잡채 -8분",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/1cd29c17f09409a5eea12d652df3a8521.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941893",
+	"ingredient_ids": [
+		3,
+		9,
+		53,
+		226,
+		477,
+		379,
+		292,
+		995,
+		487,
+		497,
+		292
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빨간색파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노란색파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "불린당면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "소소"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "소소"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기 100g에 소금, 후추, 맛술로 밑간을 해주세요",
+		"2. 양념: 설탕 2T , 굴소스 1T, 맛술 1T, 간장 3T, 물 1컵을 넣어 주고 설탕이 녹을때 까지 저어 주세요.",
+		"3. 양파, 파프리카, 당근, 표고버섯은 채 썰어 주세요 .",
+		"4. 찬물에 30분 불려둔 당면을 끓는 물에 넣고 바로 건져내 주세요 .",
+		"5. 예열된 팬에 포도씨유를 두르고 밑간을 한 돼지고기를 넣고 볶아 주세요 .포도씨유,",
+		"6. 돼지고기가 익으면 표고버섯을 넣고 볶아 주세요 .",
+		"7. 볶다가 표고버섯 향이 나기 시작하면 모든 야채를 넣고 볶아 주세요.",
+		"8. 야채위에 당면을 넣고",
+		"9. 준비된 양념을 붓고 끓여 주세요 (3분)중불에 3분 ",
+		"10. 끓기 시작하면 불을 끄고 시금치를 넣고",
+		"11. 참깨 참기름을 넣고 버무려 주시면 맛있는 잡채가 완성 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/c0227f610d83c71f16c387de0855dc8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/7f8239bcfa6a732678ecc3360e3bbe9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/62c7cf87958259d119b1436b79fb7cd71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/5276b907d861ad89336f5d3df86980181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/788db63f9baa3eb62a8bfc72621b0f5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/24337b6aafbc77f05a42cac24184ea011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/7f8879d8728f793d92ffc57b070454871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/6b21b3b4a2a46e31fb06beb84adc30801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/138458065d93f8fbb9b4b3aae3431f7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/f0e5eab5f5a43dddbdeaaf0c76a601a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/60713a780de90744cc64f3072d7f9cd61.jpg"
+	]
+}

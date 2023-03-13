@@ -1,0 +1,46 @@
+{
+	"id": "6831199",
+	"name": "바삭거리는 김자반볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/11/4be05c9714779ed47896073c21ee201c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6831199",
+	"ingredient_ids": [
+		504,
+		291,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "김자반",
+			"ingre_count": "1",
+			"ingre_unit": "덩어리"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 김자반은 만져보면 습한느낌의 건미역보다 조금 습한게 뭉쳐있는 느낌입니다. 저희가 먹은 김자반의 형태는 찾아볼수 없어요. 이것들을 먹기 좋은 크기로 떼어내어주세요.",
+		"2. 떼어서 준비해둔 김자반에 기름을 충분히 둘러주세요.",
+		"3. 공중에서 소금을 휙휙 날리며 뒤적뒤적 잘 볶아주어요~ 잘 휘저으면서 한곳에 간이 뭉치치않게 고루 볶아요.",
+		"4. 완성되서 뿌려도 되고 완성될때쯤 뿌리는 깨소금으로 마무리"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/11/2e16b88f92941eb001c137e41176d2881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/11/3c1ae3915c2774c9f7d49fed9ae94e671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/11/348ad75e1418033647c0be4a94a14bf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/11/37d2bfafd1f6978f468a1d90c0e0ae2c1.jpg"
+	]
+}

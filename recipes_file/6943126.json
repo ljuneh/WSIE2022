@@ -1,0 +1,78 @@
+{
+	"id": "6943126",
+	"name": "[배추김치 만들기]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/ad422e33901e81b743b8b24658b77b341.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943126",
+	"ingredient_ids": [
+		32,
+		575
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "배추",
+			"ingre_count": "5",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "빨간고추",
+			"ingre_count": "2",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "새우젓갈",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "멸치액젓1+1/2종이컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "다진마늘과다진생강2+1/2종이컵",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "뉴슈가",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "빨간고추",
+			"ingre_count": "2",
+			"ingre_unit": "주먹"
+		}
+	],
+	"recipe": [
+		"1. 배추는 반을 쪼개고 흐르는 물에 통과시켜 충분히 수분을 채워주자",
+		"2. 굵은소금을 한스푼×3을 손바닥에 놓고 포기당 켜켜로 꼼꼼히 잘 뿌려준다. 잎보다 줄기부분에 소금을 충분히 뿌려준다. 좀 작은 배추는 두스푼+1/2으로 소금을 뿌려준다",
+		"3. 마지막 절임단계에서 500ml 국그릇에 소금 3스푼을 녹여 위에 전체 잘 부어준다(잘 절여지게 하려고)",
+		"4. 그사이, 새우젖 1스푼에 마늘, 생강을 넣어 빨간고추 갈아준 국물을 좀 추가해서 갈아준다",
+		"5. 3시간 30분 이후 절여진 배추를 머리부분 따고 낱개로 잘라주고, 깨끗이 씻어 물을 어느정도 빼고 큰 보울에 담아준다",
+		"6. 새우젖과 마늘, 생강 갈아준것 2컵반+빨간고추 간것 2컵+멸치액젖1과1/2컵+올리고당 1컵+뉴수가 반스푼",
+		"7. 양념을 배추에 모두 버무려주자",
+		"8. 통에 차곡담아 추석명절에 가족들 모일때 내어보자"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/0a691ff6a968b48fd025fbc11c0fcfe01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/bb718a86950f203f9d703d27d67133911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/0ded8ed3121e7c5b45fefa1cca34408d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/8950604a5cd3595f2c2abffbc87db8b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/930958a4630fb1d065f2bfb8e45f728a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/1505ff68f4d3f9f8561f811b100324591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/85171148aaefbc62b510f23a2ab14c921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/b162b1f4ee3b1edf793c0b3b1492ddbd1.jpg"
+	]
+}

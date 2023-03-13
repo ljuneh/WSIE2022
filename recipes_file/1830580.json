@@ -1,0 +1,41 @@
+{
+	"id": "1830580",
+	"name": "집에서 만든 딸기쨈",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/b4bb0082bd4fd1e862a8d22f9ea7f7de.jpg",
+	"url": "https://www.10000recipe.com/recipe/1830580",
+	"ingredient_ids": [
+		155,
+		227,
+		250
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "딸기",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 먼저, 빈 유리병은 끓는 물에 넣고 살짝 끓여준 다음 물기를 빼서 준비를 하구요. 딸기는 1kg을 넣었는데, 꼭지 땐 딸기를 깨끗하게 씻어 물기를 뺀 다음, 손으로 미리 으깨주세요.",
+		"2. 그리구 냄비에 분량의 딸기, 꿀 100g, 레몬즙 2Ts을 넣고 보글 보글 끓여줍니다. 그리구 거품이 생기면 걷어주구요, 냄비 바닥이 눌러 붙지 않도록 나무주걱으로 한번씩 저어줍니다. 딸기쨈에 레몬즙을 넣으면 펙틴을 응고시키는 역할을 해주는데요, 레몬즙 대신 식초를 사용해도 된답니다.",
+		"3. 딸기쨈 재료들이 한번 끓고 나면 약불에서 자작 자작하게 계속 끓여주는데요, 저는 거의 40분정도 시간이 걸린 것 같아요. 그리구 쨈 덩어리를 조금 떠다가 찬물에 떨어뜨렸을 때, 쨈이 흩어지지 않으면 완성이 된 것이니, 불에서 내려 유리병에 담고 식힌 다음 뚜껑을 닫고 냉장고에서 보관을 하면 된답니다.",
+		"4. 쨈을 끓이는 동안 숟가락등을 이용해 딸기 덩어리를 더 으깨주면 좋구요. 아님, 과일쨈의 덩어리를 좋아하신다면 그냥 저처럼 주걱으로만 휙휙 저어 주면 덩어리가 많이 남게 되는거죠!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/688daad752cfdb0113f1dffbaf2e82f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/f594903d2dcf66fbafbf5f1ca498a82c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/3f5f7959838f43942f96aca2748a6a541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/456650d788970a2798d5aa12172c444a1.jpg"
+	]
+}

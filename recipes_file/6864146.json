@@ -1,0 +1,128 @@
+{
+	"id": "6864146",
+	"name": "냄새 없이 밥솥으로 요리해요!돼지갈비김치찜♥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/20/d4cb652fc6e614700080a8aa9c3cd5fe1.png",
+	"url": "https://www.10000recipe.com/recipe/6864146",
+	"ingredient_ids": [
+		953,
+		5,
+		469,
+		497,
+		15,
+		995,
+		224,
+		473,
+		848,
+		292,
+		379,
+		337,
+		608
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지갈비",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파(10cm)",
+			"ingre_count": "3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "8",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "청주or소주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 감자는 4등분 하고 대파는 어슷 썰고, 통마늘은 편으로 썰어 준비한다.감자 2개, 대파 (10cm) 3대, 통마늘 4개",
+		"2. 갈비에 칼집을 넣고 소금 후추로 밑간을 한다.돼지갈비 600g, 소금 약간, 후추 약간",
+		"3. 밑간한 고기는 예열된 팬에 겉면을 노릇하게 구워낸다.팬구우면서 청주 1T를 추가해 주면 잡내 제거에 좋아요.",
+		"4. 밥통에 모든 재료를 넣고 취사 버튼을 눌러 40분간 취사한다.김치 300g [양념 재료] 물 2cup, 고춧가루 2T, 고추장 2T, 된장 3T, 맛술 3T, 간장 1T, 들깨 가루 3T 월계수 잎 2장, 청주 or 소주 1T찜 기능이 있으면 찜으로 50분 취사한다.",
+		"5. 취사가 완료되면 깻잎을 넣어 완성한다.깻잎 8장"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/20/39762fd0a694b5ab78d54ae8237dce631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/20/e4988eb7605175b1fd1355de1afebf791.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/20/d4394f3fd056f770b0c1b6a3820942551.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/20/26eb1891bc610fb879aa03dea51064091.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/20/01e2822656ef4c98ef64c6f3b74943f51.png"
+	]
+}

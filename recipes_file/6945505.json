@@ -1,0 +1,82 @@
+{
+	"id": "6945505",
+	"name": "이번 빼빼로데이엔 ‘바삭’한 빼빼로 보다 ‘빠싹’한 식빵 핫도그 만들기!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/2e4c01841088f147170387c9c670f4621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945505",
+	"ingredient_ids": [
+		503,
+		219,
+		436,
+		724,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "프랑크소세지",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "머스타드소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "나무젓가락",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 소세지는 첨가물 제거를 위해 끓는물에 2분 정도 삶은 후 건져내주세요.소세지냄비",
+		"2. 달걀옷을 만들기 위해 달걀 2개를 풀어 달걀물을 만들어줍니다.달걀",
+		"3. 식빵은 테두리를 자른 후 밀대로 얇게 밀어주세요.식빵도마, 칼, 밀대",
+		"4. 그 다음 식빵에 소세지를 놓고 감아줍니다.소세지",
+		"5. 끝부분은 달걀물을 발라 붙여주세요.달걀물",
+		"6. 감아준 핫도그는 달걀물에 적신 다음 빵가루를 입혀주세요.달걀물, 빵가루",
+		"7. 그리고 팬에 기름을 충분히 넣은 후 노릇노릇하게 튀겨줍니다.식용유팬",
+		"8. 튀긴 핫도그는 키친타월에 올려놓고 기름기를 빼주세요.키친타월",
+		"9. 그리고 소세지에 나무젓가락을 꽂아줍니다.나무젓가락",
+		"10. 마지막으로 케첩과 머스타드소스를 멋스럽게 뿌려주면 기똥차게 맛있는 식빵 핫도그 완성입니다.케첩, 머스타드소스",
+		"11. 짠!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/9333727af8417592e8010d4c3d75654d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/c2106ffb2e48e281ea873b35cbc0ee181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/74ae9b6f7c264bdab61532d6fdb9463d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/b6ba8d6aedfb8b9e0e14dea68fc8e9bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/670c4840cef760656299040bf2be3d8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/808da552d9717c3c08b6e2aaaddcd2cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/86d739870c9c1191eaf88b5a4f13d24b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/9ed021ece5528242b3444f0acdd1fbec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/8242509dd0881f6d92223cde721512ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/00022f10ec3880cc014af545c836b8cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/0f8c96081327f5c4bec01abef0e77ea01.jpg"
+	]
+}

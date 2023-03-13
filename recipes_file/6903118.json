@@ -1,0 +1,79 @@
+{
+	"id": "6903118",
+	"name": "감자샐러드 샌드위치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/29/d65a5a0e3e3f8f995765b801dbe863d01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6903118",
+	"ingredient_ids": [
+		5,
+		9,
+		11,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "그릭슈바인햄",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "체다슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 감자를 삶아줍니다.",
+		"2. 삶아진 감자의 물기를 빼고 건져줍니다.",
+		"3. 감자를 볼에 담은 후 으깨줍니다.",
+		"4. 브로콜리를 끓는 물에 살짝 데쳐줍니다.",
+		"5. 삶은 계란, 당근, 햄을 넣고, 브로콜리를 잘게 다져 넣어줍니다.",
+		"6. 마요네즈를 넣고 섞어줍니다.",
+		"7. 식빵을 토스트기에 넣어서 토스트 만들어줍니다.",
+		"8. 만들어둔 감자샐러드를 식빵 위에 올려줍니다.",
+		"9. 그 위에 치즈를 올려줍니다.",
+		"10. 식빵을 덮어줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/29/20da6a2bd8237d5f72f4abedb49424c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/29/15ff8a41c8165c97bc7aea85858111481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/29/679245eefd88b097cfdd0828b77702df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/29/dd1080c17d0d57020d2eaad8f8c7f0981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/29/45608785f155daf0813e24beadae9d3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/29/b56d5b4709d430465e25302ba23897061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/29/91f12bd86d282552eb702fec8d058c9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/29/4a942128ee665a2fd79a80d5b2ca862d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/29/6d6c23908801bdc5de2eff8d8ba132d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/29/7569e4ace05ee74bdfc18660399f26fc1.jpg"
+	]
+}

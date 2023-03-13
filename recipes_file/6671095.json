@@ -1,0 +1,55 @@
+{
+	"id": "6671095",
+	"name": "오징어파전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/17/b9ea626617dc976b7769bd414bad60c61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6671095",
+	"ingredient_ids": [
+		757,
+		545,
+		387,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "오징어다리부분3개분량",
+			"ingre_count": "3",
+			"ingre_unit": "개 분량"
+		},
+		{
+			"ingre_name": "양파(소)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "0.",
+			"ingre_unit": ".작은술"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.3~1.4컵",
+			"ingre_unit": ".~.컵"
+		}
+	],
+	"recipe": [
+		"1. 전 오징어를 사면 몸통과 다리를 분리해 놓아요. 몸통은 볶음 할때 주로 쓰고요. 다리 부분은 오징어 부침개 할때 쓰거든요. 쪽파는 한 4~5cm 정도로 썰어주시고 양파와 오징어도 먹기 좋은 크기로 썰어주세요.",
+		"2. 부침가루는 1.5컵 정도에 물 1.3~1.4 컵정도 넣어서 곱게 풀어줍니다. 농도는 취향껏 맞추시면 됩니다.  전 부침가루를 많이 넣는 편이 아니라 양을 잘 조절해주세요. 재료들과 천일염 0.3 작은술 정도를 넣어서 잘 섞어주시구요.",
+		"3. 잘 달군팬에 오일을 넉넉하게 두른뒤 부침 반죽을 넣고 앞뒤가 노릇~ 그리고 가장자리가 좀 바삭하게 부쳐내 주시면 오징어 부침개 만드는법 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/2555935d58a722a906831c14f0485ddc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/25bc6eff2d6b36cb902ca271d29922831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/a989c1f3acb5b7a8e00a50ed3db47f961.jpg"
+	]
+}

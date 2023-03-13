@@ -1,0 +1,85 @@
+{
+	"id": "6868971",
+	"name": "아이들 간식으로 굿~! 핫도그 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/25/23fd2a51e18e03052fd455c4d9e30e581.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868971",
+	"ingredient_ids": [
+		373,
+		432,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "유기농통밀",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "중간굵기콘밀(옥수수가루)",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "비정제설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "230",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "프랑크햄9개정도",
+			"ingre_count": "9",
+			"ingre_unit": "개 정도"
+		},
+		{
+			"ingre_name": "빵가루를위한식빵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "튀길기름",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 먼저 빵가루를 미리 만들어두어요. 저는 일반 식빵 사다가 커티기에 부드럽게 갈아주었습니다. 그리고 프랑크햄은 뜨거운 물에 가볍게 씻은 뒤, 꼬치를 끼워 준비해주세요.",
+		"2. 반죽을 만듭니다. 볼에 계란을 풀고 설탕과 소금을 넣고 잘 섞어주세요. 분량의 오일을 넣고 잘 섞은 후, 우유를 넣고 잘 섞어주세요.",
+		"3. 여기에 통밀과 콘밀, 베이킹 파우더를 체쳐 넣고 잘 섞어주세요. 저는 아이허브에서 구매한 중간굵기의 콘밀을 사용했는데요~ 그냥 사용하면 입자가 씹힐것 같아 곱게 갈아 사용했습니다. 갈았지만 아직 약간의 까슬까슬한 입자가 만져지는 정도로 갈았어요~ 만약 콘밀을 사용하신다면 곱게 갈아 사용하시면 될것 같구요.. 옥수수 가루로 대체하셔도 될것 같아요~",
+		"4. 완성된 반죽은 약간 걸쭉한 느낌입니다. 실온에 10분 정도 두면 옥수수가루가 불어 좀더 농도가 짙은 반죽으로 변해요. 되직하게 걸쭉한 느낌이면 됩니다. 그러면 길쭉한 컵에 반죽을 적당량 덜어낸 후, 꼬치끼운 프랑크햄을 컵 속으로 쑥 밀어넣습니다. 그리고 빼내면 반죽이 골고루 잘 묻을꺼에요.",
+		"5. 그 상태 그대로 튀겨도 되지만, 저는 좀더 바삭하게 먹고 싶어서 빵가루를 고루 묻혀주었어요. 그런 후 바삭하고 노릇하게 튀겨내면 됩니다. 반죽이 걸쭉하긴 하지만 흐르는 상태라, 프랑크햄에 반죽을 입힌 후에는 빠르게 움직이시는게 좋아요~ 빵가루를 묻히고 바로 튀겨야 모양을 쉽게 잡을수 있습니다. 그래서 반죽을 묻히기 전에 빵가루도 미리 준비하고, 튀김기름도 미리 불에 올려 준비하면 좀더 수월하게 튀기실수 있어요~",
+		"6. 튀김은 바로바로 먹는게 제일 맛있습니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/25/e2bf7c2201f146e510507c8f102cec8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/25/6ba2e85fe9c85825bd85ecc5c24a27b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/25/81437436396ebf8d406d52f91db42af91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/25/7530cb9702ab6a01db8d82a2547f396a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/25/9bfec6f5d20610f372917e9befee99881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/25/010567355e26405388a97e64c1361d5b1.jpg"
+	]
+}

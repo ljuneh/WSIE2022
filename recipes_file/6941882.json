@@ -1,0 +1,62 @@
+{
+	"id": "6941882",
+	"name": "소고기 된장미역국 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/788474a75216cf51973068388b46f5f41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941882",
+	"ingredient_ids": [
+		390,
+		848
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "불린미역",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다짐육",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "미향",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다시마간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "새우젓국",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 마른 미역을 물에 담가 두세요",
+		"2. 미역이 풀어지면 흐르는 물에 씻어서 물기를 빼주세요 먹기 좋게 잘라주세요",
+		"3. 미역과 다짐육에 미향 1T,다시마 간장 2T를 넣고 골고루 섞은 뒤 물을 부어서 끓여주세요",
+		"4. 물이 끓으면 재료를 저어주세요 잠시 끓이다가 새우젓국물 1T 와 새우젓 1T를 넣고 끓여주세요",
+		"5. 잠시 두세요 된장을 1/2T씩 두번 넣고 된장을 풀어 주세요 약불에 보글보글 끓여주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/c2ae6e029eb5392124d3b01dd408079e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/7fd3ab7ccedd4ff2209a59ad262c396f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/844b461c628ed6f9324e8c1657cbea171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/4e64abc1f92a2e2c99a28073b895a27f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/7831ddf2d0196686d3e6461f23ea37a61.jpg"
+	]
+}

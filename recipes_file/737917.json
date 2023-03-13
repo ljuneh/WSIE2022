@@ -1,0 +1,80 @@
+{
+	"id": "737917",
+	"name": "도라지무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/4de055fd930b1fd9fe53f956945b2464.jpg",
+	"url": "https://www.10000recipe.com/recipe/737917",
+	"ingredient_ids": [
+		38,
+		8,
+		224,
+		526,
+		543,
+		660,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "도라지",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "잔파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "요리초",
+			"ingre_count": "3",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "마늘3알(다지기)",
+			"ingre_count": "3알(다지기)",
+			"ingre_unit": "알(다지기)"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 도라지는 껍질을 벗겨 먹기좋은 크기로 잘라서 쓴맛이 빠지도록 찬물에 담궈 우려주세요. 우린 도라지는 굵은 소금을 넣고 바락바락 주물러준뒤 찬물에 여러번 씻어 물기를 빼주세요.",
+		"2. 오이는 저렇게 반으로 갈라 어슷썰기를 해서 약간의 소금을 넣고 절여주세요. 오이가 절여지면 물에 한번 헹궈 키친타올에다 놓고 물기를 빼주세요.",
+		"3. 물기가 쫙 빠진 도라지에 먼저 고춧가루를 넣어 버무려주세요. (이때, 될수있으면 고운 고춧가루를 사용하심좋아요.저는 고운 고춧가루가 없어서 그냥.) 고춧가루가 도라지랑 잘 버무려지면 오이랑 잘게 다진 잔파 양념들을 넣고 버무려주세요. 이때 간을 한번 보시고 입맛에 맞게 간을 하심된답니다.",
+		"4. 아삭아삭 소리가 난답니다. 도라지무침하나만 있어도 밥한공기는 뚝딱이죠?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/dd829c49af22c3ff5f3b27c6dd37b15b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/6bd0d3e953431e7db4d93df13ba382811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/3e0bfeda1a7d7a0ee135dec8111343281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/d28217fcde71c83c9e9ca39b1de948b91.jpg"
+	]
+}

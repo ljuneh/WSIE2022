@@ -1,0 +1,53 @@
+{
+	"id": "6694753",
+	"name": "양파피클 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/f978a10acd412912e47ebd463c926e151.JPG",
+	"url": "https://www.10000recipe.com/recipe/6694753",
+	"ingredient_ids": [
+		3,
+		379,
+		231,
+		226,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 우선 양파를 먹기좋은 크기로 썰어주세요. 오이가 있으심 같이 넣으심 더 좋겠지요. 전 오이를 다 먹어서 그냥 양파만 넣었어요.",
+		"2. 적기좋게 썰은 양파를 유리병에 담아요. 전 락앤락 핸들러에 담았어요. 바로 끓인 뜨거운 조림장을 부어도 괜찮고 밀폐도 잘되구요. 병은 뜨거운 물에 한번 소독해서 사용하세요.",
+		"3. 여기에 분량의 간장,설탕,식초,물을 넣고 팔팔 끓여주세요. 시큼한 맛을 좋아하시면 식초를 양의 2로 하셔도 괜찮아요. 다 끓은 조림장을 양파를 넣어둔 유리병에 부어주세요. 혹 일반 유리병이라면 깨질 수 있으니 좀 식혀다가 부어주세요.",
+		"4. 요렇게 조림장 부은 모습인데요. 저렇게 떠 있으면 조림장이 잘 안스며들겠지요. 누름돌 있음 살짝 넣어주셔도 좋구요. 전 없어서 지퍼팩에 물 담아서 좀 간장물을 좀 식힌다음 그위에 넣어두었어요.그리고 나서 어느정도 양파에 간장물이 스며든것 같으면 뚜겅 닫아 냉장고에 보관하세요. 3~4일 후에 꺼내서 드시면 맛있는 양파피클이 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/25d72cbc4cea69bed995afe013687d821.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/6f58f9e63c8f8d9b5bec9d43587da7a81.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/da2721536d7093392e6163a8f07e184a1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/772f08f8154633b46a40d4c1fd5cf07c1.JPG"
+	]
+}

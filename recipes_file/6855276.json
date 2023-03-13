@@ -1,0 +1,79 @@
+{
+	"id": "6855276",
+	"name": "제철채소 가지를 매콤한 양념에 무쳐무쳐! 가지무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/24/6c0b8c9a2cbc123773d6ce7d221c476f1.png",
+	"url": "https://www.10000recipe.com/recipe/6855276",
+	"ingredient_ids": [
+		18,
+		497,
+		224,
+		379,
+		233,
+		575,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "부순참깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 가지는 0.5cm 두께로 썬다.가지 1개",
+		"2. 키친타월 위에 넓게 펼쳐 담은 뒤 가지를 올려 소금(1/2T)을 앞뒤로 고루 뿌린다.",
+		"3. 물기가 촉촉히 배어 나오면 물기를 제거한다.",
+		"4. 마른 팬에서 노릇하게 굽는다.팬",
+		"5. 양념장을 만든다.양념장: 고춧가루 1/2T, 간장 1T, 다진 마늘 1/2T, 다진 파 1T, 올리고당 1T, 참기름 1T, 부순 참깨 1/2T",
+		"6. 구운 가지를 넣고 버무려 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/24/bf4b40c225e19b65e8d7f444a52ea4031.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/24/29ed08d4a5d575183da852c6c1b7b2031.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/24/6d7474b684fff44f1b402849f26cf7a31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/24/a45190e31c25a7bc573854c004a403891.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/24/bc4603878bbfd133d8f35be0e3b195951.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/24/1a01c4b4a21eef4363d94d91298339971.png"
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"id": "6895266",
+	"name": "No밀가루!속이 편안 밥피자 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/09/04/7149b06d432481e2fa5f2cbd8456181b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6895266",
+	"ingredient_ids": [
+		198,
+		3,
+		22,
+		628,
+		216
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "1/2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "토마토스파게티소스",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 먼저 야채와 햄을 잘게 썰어 준 뒤 달궈진 팬에 식용유 약간 둘러 볶아 줍니다.",
+		"2. 밥에는 계란1개를 깨서 잘 섞어 둡니다.",
+		"3. 달궈진 팬에 버터 1스푼을 둘러 녹여 주시구요약불",
+		"4. 계란 섞은 밥을 넓게 펴서 올린 뒤 이 상태로 타지않게 약불에서 3분정도 익혀줍니다.약불",
+		"5. 밥이 어느정도 익으면 볶아둔 재료 올리고 스파게티 소스를 얇게 발라 줍니다.불은 계속 약불 유지!",
+		"6. 피자치즈, 파슬리가루를 뿌린뒤 뚜껑을 덮어 약불에서 치즈 녹여주시면 끝!타지 않게 약불에서 치즈를 녹여 주셔요.",
+		"7. 밀가루가 없어 속이 편한 밥피자 완성입니다!",
+		"8. 한조각 먹어보니 밥은 약간 누룽지처럼 바삭하면서 야채,햄, 고소한 치즈가 어우러져 진짜 맛있어요! 밀가루 없어 속이 편하면서도 든든해서 한끼 식사대용으로도 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/04/7b7bf97cb586b90884925e76edd4a63c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/04/e4e37df3d36859832bb9b3c09c5d796b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/04/68c9296f4a52bb9c443aa121aaf881861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/04/926b3ad77b754af7ea3d70bfdb8089071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/04/fd1104f56233c4a210d4d5ab39d7f4191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/04/5af5d87ecc83c0f8edf28c9efd980cd71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/04/0197c04a61cc18cee904df559e9d13fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/04/52fbf65ec1629894c215929e1aa9ec651.jpg"
+	]
+}

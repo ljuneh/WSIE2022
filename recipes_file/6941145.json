@@ -1,0 +1,93 @@
+{
+	"id": "6941145",
+	"name": " 땡초김밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/89efd404c9d13c8397055c0054ad208d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941145",
+	"ingredient_ids": [
+		295,
+		548,
+		9,
+		543,
+		660,
+		379,
+		995,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		}
+	],
+	"recipe": [
+		"1. 어묵, 청양고추, 당근을 준비했어요. 고추 양을 취향껏 ~ 모두 잘게 다져주면 되는데요. 청양고추는 씨를 빼고 다져주면 된답니다.",
+		"2. 저는 다지기를 이용했어요.",
+		"3. 한데 넣고 휘리릭~~ 다져 주고 ",
+		"4. 팬에 소스 재료인 간장(4), 물(4), 설탕(0.5)를 한데 넣어 바글바글 끓여 소스가 약간 걸쭉해지면 ",
+		"5. 다져 놓은 당근, 어묵, 청양고추를 한데 넣어 고루 섞어 볶아 마무리합니다. 섞어준다는 느낌으로~오래 볶을 필요는 없어요. ",
+		"6. 밥 (2공기) 준비하고 볶아 놓은 재료를 한데 넣고 통깨(1), 참기름(1)을 한데 넣어",
+		"7. 고루 잘 섞어 밥이랑 재료 어우러지게 버무려 주세요.",
+		"8. 김밥용 김위에 밥을 고루 펴 주고",
+		"9. 돌돌 말아 4줄 완성하고 먹기 좋은 크기로 썰어 접시에 담아내면 됩니다. ",
+		"10. 완성 마요네즈를 찍어먹어도 맛있어요. 맵기 정도는 드시는분 취향껏 조절해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/9cb194ad4947ff98cecf42d9fa470f821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/3b709d23b74d360d55816c9d1c29baf21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/ff46dc2e1744c0be4d71b31ebe2d15e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/7b96a28721455f4330ce13c7b05bbd6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/9eb0af001ddc6b76436c97a6310e0c531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/1d4a413c2b7e3fa9ef4b63236b3c63171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/621d011fdd8120bc6e728e75eeafd6b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/915c8ec0b5f05e56b21971460d63e3191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/4fddfe055f017427c5fc8101bdc4f32f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/3e6e2e58eed6880d8336d8de650126be1.jpg"
+	]
+}

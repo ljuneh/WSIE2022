@@ -1,0 +1,42 @@
+{
+	"id": "6939845",
+	"name": "햇땅콩 삶아보자~심심풀이 간식이자 술안주로 좋네",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/54626a5d6bdc0fb4973ff6d2aa22e45d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939845",
+	"ingredient_ids": [
+		497,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "햇땅콩",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 햇땅콩을 준비해주세요",
+		"2. 썪은것이나 눌러봤을때 물컹한것을 골라내주신후 찬물에서 비벼가면서 2~3번을 깨끗하게 씻어주세요",
+		"3. 씻은 햇땅콩을 냄비에 담고 물2컵이랑 소금을 넣어주세요",
+		"4. 냄비뚜껑을 닫고 센불에서 삶아주시다가 펄펄 끓어오르면서 뚜껑에서 김이새기 시작하면 중약불로 줄여서 10분을 삶아주신후 가스불을 꺼주시고 5분을 뜸을 들여주세요",
+		"5. 뜸을 들인 삶은땅콩은 채반에 건져내서 물기를 빼주신후 맛있게 드셔주시면 되세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/c82e871b3a3d2c8c33bfb69c55c132631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/4132ab3a3542cde8c6c9b6164b90147d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/f0e3aa7759ef2b2f621983e688c8f9881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/3283f14b1a257185e283a2b4d45c22271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/1a1a612b2ae32a4018ffb89642d2f4271.jpg"
+	]
+}

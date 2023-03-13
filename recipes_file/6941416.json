@@ -1,0 +1,103 @@
+{
+	"id": "6941416",
+	"name": "잔치국수는 양념장이 중요해",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/cf4eb99bf4cd20e615aedc280afa39301.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941416",
+	"ingredient_ids": [
+		523,
+		7,
+		9,
+		1015,
+		379,
+		660,
+		233,
+		843,
+		350
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "채썬대파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술정도"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료준비해주세요",
+		"2. 물 1리터에 다시 멸치 한줌 대파 다시마 2개 양파 청양고추를 넣고 육수를 끓여주세요 국간장 1큰술을 넣어 간을 하고 걸러줍니다",
+		"3. 간장 4큰술 참기름 1큰술 다진마늘 반큰술 고추가루 1큰술 매실액 1큰술 깨소금 1큰술 채썬 대파를 넣어 양념장을 미리 만들어주세요",
+		"4. 계란은 곱게 풀어 지단처럼 만들어주시고 돌돌말아 썰어주시면됩니다 계란은 완전히 식힌 상태에서 썰어줘야 부서짐이 덜합니다 계란이 들어가면 고소한 맛이나 잔치국수에 맞을 좌우하게 되는거 같아요",
+		"5. 애호박과 당근을 채썰어 준비해 팬에 식용유를 두르고 소금 한꼬집을 넣어 볶아주시면됩니다 너무 많이 볶아주면 먹을때 아삭한 식감이 떨어지니 적당한 선이 좋을거 같아요",
+		"6. 소면은 1인분양을 준비해 끓는물에 면을 넣고 끓어오르는 타이밍에 찬물을 부어 3번정도 반복해 찬물에 여러번 헹궈 주시면됩니다",
+		"7. 삶아진 소면은 물기를 제거하고 끓여놓은 육수를 적당히 부어주고 볶아둔 야채를 고명으로 올려 양념장을 올려주면 잔치국수가 완성됩니다 김가루가 들어가면 맛이 두배가되네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/eb7b593260123b1f7e5537b05f639cf11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/9940dcb0954ceec191708414bda6b9a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/b3777e490656170d26cdf8084b2a18581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/49b94b1e07799c62e100adf76146082d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/0c4cc998348a0d1b5ff4888dfa41b6971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/b7ffe3dc1a904c02f05705f5e00890e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/27e59b6050a61eb118caa76a891ffec61.jpg"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"id": "6795874",
+	"name": "실파무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/7230cb1e489d334c35e040907fe569571.jpg",
+	"url": "https://www.10000recipe.com/recipe/6795874",
+	"ingredient_ids": [
+		379,
+		497,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "실파(데친것)",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "깨(부순것)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 실파는 다듬어 씻은 다음 팔팔 끓는 물에 소금을 1/2큰술을 넣고 뿌리부터 넣었다 바로 건져 찬물에 헹궈 물기를 밴다.",
+		"2. 간장 1작은술, 소금 1/2작은술을 넣고 조물조물 무쳐준다.",
+		"3. 부순 깨와 참기름을 넣고 무쳐준다.",
+		"4. 초간단 실파요리 실파무침 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/bfcc6ab1fe4a4a80769e0985dfca61f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/86534734d3002d6356854d628ead5b2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/0877d1b7ab751e12a2542baefddea4c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/571295906fb820e80f4d728dd87d2d781.jpg"
+	]
+}

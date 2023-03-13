@@ -1,0 +1,56 @@
+{
+	"id": "6772095",
+	"name": "고추부각조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/2f4dc707ff12c48d4ef84c73012209ef1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6772095",
+	"ingredient_ids": [
+		574,
+		379,
+		575,
+		343,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "고추부각",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 달궈진 팬에 기름을 두르고 고추부각을 넣어 튀기듯 볶아줍니다. 고추부각을 넣은 뒤엔 중불로 줄여줘야 해요. 고추부각은 금방 탈 수 있거든요. 타지 않고 연한 갈색빛이 돌때까지 정성껏 볶아주면 적은 양의 기름으로도 튀긴것 같은 효과가 나요.",
+		"2. 볶은 고추부각은 키친타월에 올려 기름기를 빼주고, 키친타월을 이용해 고추부각 볶았던 팬을 닦아 낸 뒤 간장, 올리고당, 미림을 넣고 이렇게 전체적으로 거품이 보글거리며 올라올 정도로 끓여줍니다.",
+		"3. 불을 끄고 고추부각을 넣어 간장양념이 골고루 묻을 수 있도록 버무려주면 입에 쫙쫙 붙는 고추부각조림 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/270eafb332abb9f52d640fe3d66b43691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/12ce9d4a88f221d212f3f876c7b522b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/f29ba63211ebcad80bf1df83b4ff08cc1.jpg"
+	]
+}

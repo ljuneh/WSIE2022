@@ -1,0 +1,82 @@
+{
+	"id": "6942077",
+	"name": "시원한 술안주 바지락술찜 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/03945c481cd7993219969928515a05ba1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942077",
+	"ingredient_ids": [
+		84,
+		579,
+		27,
+		295,
+		29,
+		497,
+		282
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "바지락",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1",
+			"ingre_unit": "병"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4~5개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 마트에서 파는 모시조개로 준비했어요 200g이라고 써 있는데 물을 포함한 무게인 듯...;;;",
+		"2. 해감은 다 해놓고 판매를 하는 것 같은데 혹시 몰라... 일단 껍데기에 묻은 찌꺼기들을 흐르는 물로 깨끗이 씼어주시구요",
+		"3. 조개를 물에 담고 굵은소금 1스푼을 넣어 잘 풀어주세요",
+		"4. 쇠 숟가락을 넣어두면 해감이 더 잘된다고 하네요",
+		"5. 빛이 들어오지 않도록 검정봉지로 덮어서 30분~1시간 정도 놔둘게요",
+		"6. 냄비에 기름을 살짝 두르고 편마늘을 볶아주세요",
+		"7. 마늘 향이 고소하게 올라오면 해감을 한 조개를 넣어주시구요",
+		"8. 소주 1병을 다 부어주시고 뚜껑을 닫고 푹~ 끓여주시는데... 중불로 끓여주세요 불이 너무 세면 알콜이 날아가면서 뚜껑위로 불이 붙을 수 있습니다..;;;",
+		"9. 조개가 입을 벌리면 대파를 총총 썰어 넣어주시고 매콤한 걸 좋아하시면 청양고추도 총총 썰어서 넣어주세요~",
+		"10. 완성입니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/bab1dc88daabe00e23dd8de618cf65681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/b47e4598244ca912d126261c6aea29cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/4e9ceae7ce447eaaf7db735eef2621b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/6521f40c0747663fb50b581e004d83e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/db07c355e8b50492a63c353b308a88a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/d9517e9ce1189dabafbf5ebe4d795d861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/bc2dbb15b1e99a82d98348d4a54c5a641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/2ab8c4fea1443110e7c65d5352cf57b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/099d3bc8ad66f9426bf555f72d0598831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/3cacbb7d4c42e1d4594ced727770cf7d1.jpg"
+	]
+}

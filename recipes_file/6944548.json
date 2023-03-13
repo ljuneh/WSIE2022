@@ -1,0 +1,90 @@
+{
+	"id": "6944548",
+	"name": "얼큰 칼칼한 김치짜글이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/969513fb11867a9de88509296a7ada881.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944548",
+	"ingredient_ids": [
+		224,
+		473,
+		233,
+		3,
+		27,
+		58,
+		398,
+		939
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지목살",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배추김치",
+			"ingre_count": "3",
+			"ingre_unit": "잎"
+		},
+		{
+			"ingre_name": "불린당면",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기 목살 먹기좋게 썰어 준비합니다",
+		"2. 생수(300ml)붓고 팔팔 끓으면 돼지고기 색 변하도록 합니다",
+		"3. 고기 색이 변하면 고춧가루, 고추장, 다진마늘 넣어요",
+		"4. 양파, 대파, 새송이버섯도 넣어 줍니다 김치도 넣고 끓여요",
+		"5. 보글보글 끓어 국물이 자작해 지면 불린당면 넣어 줍니다",
+		"6. 액젓으로 간 맞추고 마무리해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/f47a7695638cb26c2044f9e64d702bab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/0261ef04df070a5f8a476ad4731ebd131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/ad0cb4cd5f02d73c686331559690c0731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/4f0037a942a034fd0882069a0cbf58fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/fd4e76edb6e99fcf175aea1938943e911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/8099e710c7f50fcab5bbe2d5b0dc67951.jpg"
+	]
+}

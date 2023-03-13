@@ -1,0 +1,76 @@
+{
+	"id": "6942441",
+	"name": "노버터, 노슈거! 오일과 꿀로 몰랑 촉촉 맛있는 호밀빵 만들기~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d1788db43d9af14391a11b99c46e66341.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942441",
+	"ingredient_ids": [
+		995,
+		227,
+		567,
+		497,
+		432
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "물",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "35",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀노른자",
+			"ingre_count": "35",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호밀가루",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "인스턴트드라이이스트",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "35",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "170",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 모든 재료를 넣고 (이스트와 소금, 꿀이 직접 닿지 않게 주의) 표면이 매끈하고 탄력이 생길 때까지 반죽합니다. (손반죽, 반죽기 선택사항입니다~)달걀 노른자와 물은, 달걀노른자 2개+물= 165g으로 계량하셔도 됩니다. 포도씨유는 카놀라유등 향 없는 오일 대체 가능해요.",
+		"2. 반죽을 밀폐용기에 담거나 볼에 넣고 젖은 면보나 비닐 덮어 실온에서 1시간 1차 발효합니다.(처음 부피의 2~2.5배 정도) 밀가루 살짝 묻힌 손가락으로 찔러 보는 핑거 테스트를 하고 1차 발효를 마무리 합니다. (모양이 그대로 있으면 발효가 잘 된 거예요.)",
+		"3. 반죽을 2등분하고 둥글려요. 젖은 면보나 비닐 덮어 15분 중간발효합니다.",
+		"4. 반죽을 밀대를 사용해 손바닥 크기로 일정한 두께로 편 뒤, 김밥 말들이 위에서 아래로 살짝 당기듯 말아요.",
+		"5. 간격을 두고 팬닝하고 비닐이나 젖은 면보 덮어 50분 2차발효합니다.반죽이 비닐에 붙을까 신경 쓰이시면 위에 강력분을 살짝 뿌리고 비닐 덮어 주세요.",
+		"6. 강력분을 골고루 뿌려준 뒤 쿠프나이프나 커터칼로 칼집을 넣어 줍니다.",
+		"7. 칼집 자국에만 포도씨유나 향 없는 오일을 묻혀 줍니다.",
+		"8. 220도 예열된 오븐에 굽기 직전, 천정과 벽에 분무기로 여러번 물을 분사한 후 200도 15분 굽습니다.오븐구움색이 너무 날 것 같으면 쿠킹호일을 덮어 마저 구워주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/5aa29475ae9939f5507601c40f7539e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e87e9e8aeac6247e693d58854647ec261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/0b13017f09eb3c72ca2908232e372e221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/8333b30d610bc7add6766d68c9f421481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/80811d6e2085e2b80214d8ec4cdf20661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/c93ceb0869660472b3f16ccf0c2c2ebe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/280ee6829086fbfafdd18bd853f67c751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/c6d130952ac0d805f7ef265170560d081.jpg"
+	]
+}

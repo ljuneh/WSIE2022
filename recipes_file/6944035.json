@@ -1,0 +1,52 @@
+{
+	"id": "6944035",
+	"name": "고구마튀김 만들기, 겉바속촉이란 이거다!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/82b5c55764e6b2db90b8262d690728b81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944035",
+	"ingredient_ids": [
+		4,
+		734,
+		995
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 고구마는 깨끗이 씻어서 껍질을 벗긴 뒤 먹기좋은 크기로 썰어주세요.",
+		"2. 비닐봉지에 튀김가루 두스푼정도를 넣은 뒤 잘라넣은 고구마를 넣고 쉐킷쉐킷 흔들어주세요!",
+		"3. 우리는 이제 튀김반죽을 만들어보도록 하겠습니다~ 역시 튀김가루를 준비해주시고 세스푼정도 볼에 덜어서 준비해주세요. ",
+		"4. 튀김가루와 물은 1 : 1 비율로 맞춰주시면 되는데 튀김반죽이 차가울수록 튀김이 바삭바삭하게 된다고 하네요.저는 튀김가루 1, 물은 0.5 정도만 넣고 얼음 두덩어리를 넣어서 녹여주었어요.",
+		"5. 최대한 기름을 조금만 사용하기 위해서 작은 사이즈의 후라이팬 또는 웍을 사용하시는게 좋아요.",
+		"6. 기름은 어느정도 중불에서 예열을 해주세요. 만들어놓은 튀김옷을 기름에 떨어트렸을 때 3초 후 위로 부웅~ 뜨면 기름의 온도가 적당한거에요.",
+		"7. 앞뒤로 노릇하게 구워주시면 됩니다! 지글지글 비오는 소리와 똑같은 튀김소리!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/76e7c75b4b024f2d3de26cbfb1560d0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/88f16c1f1e860370290dcd19e1ea92721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/10b880565d77d7cff3991b43a5c050d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/c3ab88955d030e6324bd31a10b0d8d2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/2f54618c3f539c1fc6b2cb905eedf32e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/6ad8a1e621c24adb8b21a33ec5d0299e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/e41fa57b466c316286400b6c4ad5f5151.jpg"
+	]
+}

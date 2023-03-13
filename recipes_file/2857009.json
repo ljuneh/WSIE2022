@@ -1,0 +1,88 @@
+{
+	"id": "2857009",
+	"name": "간단하지만 아삭아삭한 양배추겉절이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/d60238b9048f1941d784f1b3d4bb0286.jpg",
+	"url": "https://www.10000recipe.com/recipe/2857009",
+	"ingredient_ids": [
+		21,
+		3,
+		27,
+		543,
+		333,
+		233,
+		28,
+		224,
+		938,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "적배추",
+			"ingre_count": "75",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/3",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 양배추,적배추는 적당히 썰어주시고 양파는 채썰고 대파는 어슷썰기 해주세요.",
+		"2. 양념재료를 모두 섞어 준비해주세요.",
+		"3. 양배추는 굵은소금 1큰술을 넣어 물을 넉넉히 넣어 30분정도 담갔다가 물기제거해주세요~",
+		"4. 양념장을 넣어 섞어주신후에 통깨 솔솔 뿌리면 완성입니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/08d3c3e0b1f5dd7af1e83c1e1435ac401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/a9e78fa7db2e442f325e379aaa5556be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/1f732bdb99709ed8e22911014f4430361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/8f6dc8ba84ede55d6861153c98c216681.jpg"
+	]
+}

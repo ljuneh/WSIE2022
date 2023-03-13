@@ -1,0 +1,80 @@
+{
+	"id": "6944271",
+	"name": "고추장 진미채 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/e754d9411f17be355876adec10de9fcd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944271",
+	"ingredient_ids": [
+		571,
+		473,
+		226,
+		228,
+		575,
+		543,
+		233,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "진미채",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 진미채를 가위로 먹기 좋은 크기로 잘라줍니다.너무 오래 씻으면 본연의 맛이 없어집니다.",
+		"2. 진미채를 물에 비벼서 재빨리 씻어줍니다. 키친타월로 물기를 완전히 제거해 줍니다.",
+		"3. 먼저 볼에 물기를 제거한 진미채를 넣고 참기름2작은술을 넣고 진미채를 코팅해 줍니다.",
+		"4. 고추장2큰술,마요네즈2큰술,올리고당1큰술,설탕1큰술,후추약간,다진마늘1작은술을 넣고 잘 버무려줍니다.",
+		"5. 달군 팬에 기름을 두르고 양념에 버무린 진미채를 넣고 수분이 없어질 때까지 볶아줍니다.",
+		"6. 잘 볶아진 진미채를 넓은 그릇에 펼쳐 식힌 다음 통깨를 뿌려줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/53558ebd5a93af02a773e92d86b82dc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/6923660dd0c8255f7434ee6ed28794541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/a985eebf8cfbed2464b89db80738fe9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/4156ba4a0a5d22525deb6911186828a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/4368cb7cf2d899bdaf8c3dec292721f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/2c01172f42e8b2fe3a64cab86793ed901.jpg"
+	]
+}

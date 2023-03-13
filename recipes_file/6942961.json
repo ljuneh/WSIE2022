@@ -1,0 +1,96 @@
+{
+	"id": "6942961",
+	"name": "오이지 국물로 쉽고 간단하게 만들었는데 설렁탕집 깍두기 맛나는 무 깍두기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/07/08/bced7a5b1c13d9725dde64765c5807b81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942961",
+	"ingredient_ids": [
+		19,
+		158,
+		3,
+		27,
+		233,
+		457,
+		333,
+		665,
+		938
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "3/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "흰밥",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "오이지절인국물",
+			"ingre_count": "2",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "8",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. *무는 길쭉하게 썰어 오이지 담근 국물에 넣고, 하룻밤 재워 준 후 *물에 씻어 체에 받쳐 물기를 빼 주세요",
+		"2. *사과,양파는 적당하게 썰어 믹서기로 갈아 주세요. *식힌 흰밥도 갈아 주세요",
+		"3. 대파는 어슷하게 썰어 주세요",
+		"4. 위의 분량의 양념과 양파,사과,흰밥갈은것을 넣고 대파,다진마늘,다진생강을 넣고 섞어 준 후",
+		"5. 절인 무를 넣고 고루 버무려 주세요",
+		"6. 보관 용기에 담아 숙성 시켜 주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/08/0073a4f3413867719b959788e63c5d721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/08/ea43012f8f271176a8308cd26344d8491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/08/a055a160abfa80c9601e450025aef9711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/08/b65fe4f875d986a5312ae622148312461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/08/ba3f6ed73fb7f9b87a8485b5c0b2b9381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/08/f5cb67fc41064410a7e70b2a09bfea081.jpg"
+	]
+}

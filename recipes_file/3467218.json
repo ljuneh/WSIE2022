@@ -1,0 +1,62 @@
+{
+	"id": "3467218",
+	"name": "봄맞이 따끈한 국물이 생각날땐 냉이 김치된장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/cce27048ca0d09179fc1d564c0cf2da8.jpg",
+	"url": "https://www.10000recipe.com/recipe/3467218",
+	"ingredient_ids": [
+		995,
+		320,
+		27,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "손질한냉이",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "익은김치",
+			"ingre_count": "110~120g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "7",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "20",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "집된장2+1/2숟가락",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		}
+	],
+	"recipe": [
+		"1. 냉이는 뿌리와 잎 사이의 흙을 잘 털어내야 해요. 잔뿌리를 떼어내고 밑동을 잘 다듬어서 길이로 반 갈라주세요. 냉이가 너무 큰건 다시한번 길이로 갈라주시구요. 이렇게 손질해서 깨끗하게 씻어 체에 밭쳐 물기를 빼둡니다.",
+		"2. 익은 김치는 속을 털어내고(씻지는 마세요~) 잘게 잘라서 준비해둡니다. 냄비에 분량의 물과 멸치를 넣어서 한참을 끓여 육수를 내어줍니다. 멸치는 머리와 내장을 제거해서 넣어주어야 비린내가 덜해요. 볶아서 사용하시면 더 좋구요.",
+		"3. 15~20분정도 멸치 육수를 내주다가 멸치는 건져내고, 체에 밭쳐서 집된장을 풀어주세요. 된장이 집집마다 짠 정도가 다르니 된장의 양은 간을 봐가면서 해주시면 되요. 된장을 풀은 물이 끓어오르면 손질한 냉이를 넣어서 끓여줍니다.",
+		"4. 구수한 내음과 칼칼한 내음이 온 집안을 점령하는 순간입니다. 이렇게 한소끔 끓여주다가 다진 마늘과 어슷 썬 대파를 넣고 한번 더 끓인 후 불에서 내려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/82548bff876b9f31617d4440e451bebe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/15cca39a24049daed5dabb537d42d7da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/d825bf6ba46b19024d75a12627532db11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/9845ffb0bfdda293f4d47922c9f12dcd1.jpg"
+	]
+}

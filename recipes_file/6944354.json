@@ -1,0 +1,75 @@
+{
+	"id": "6944354",
+	"name": "온가족이 즐기는 소고기뭇국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/fca691e96df0b3143afd79b4459da1261.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944354",
+	"ingredient_ids": [
+		19,
+		665,
+		292,
+		233,
+		27,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "다진소고기",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍게간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 무를 깍뚝썰기해서 준비한다",
+		"2. 다진소고기에 홍게간장, 맛술, 참치액으로 밑간을 한다.",
+		"3. 밑간한 소고기를 볶는다.",
+		"4. 소고기가 반정도 익으면 준비해둔 무를 넣는다.",
+		"5. 잘 섞으면서 볶아준다.",
+		"6. 무가 반정도 익으면 물을 넣는다.",
+		"7. 팔팔 끓이면서 떠오르는 거품은 제거해주고 대파로 마무리~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/14b131d511db298a4f315ffff0f2513d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/add720fa47312b1920fa5f425c1101691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/de398f236accabeb59af1a1976b7a67d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/380718921e5c53aa64433b5a3a57db241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/5214cb1a596a43315da0752e77517bef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/bc75a212a644270adc7d491d98b36b351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/33915a65857ab95784707af172fca5981.jpg"
+	]
+}

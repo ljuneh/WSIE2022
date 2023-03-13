@@ -1,0 +1,95 @@
+{
+	"id": "6838188",
+	"name": "백종원표, '해물파전' 레시피 :)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/9f3d6e66f7706f8ba8fac054bc02dd4a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838188",
+	"ingredient_ids": [
+		5,
+		34,
+		497,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "파(골파사용)",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파(생략가능)1개(小)",
+			"ingre_count": "1개(小)",
+			"ingre_unit": "개(小)"
+		},
+		{
+			"ingre_name": "해산물(오징어/새우/홍합)1컵(종이컵)",
+			"ingre_count": "1컵(종이컵)",
+			"ingre_unit": "컵(종이컵)"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "양파약간(생략가능)",
+			"ingre_count": "약간(생략가능)",
+			"ingre_unit": "약간(생략가능)"
+		},
+		{
+			"ingre_name": "애호박약간(생략가능)",
+			"ingre_count": "약간(생략가능)",
+			"ingre_unit": "약간(생략가능)"
+		},
+		{
+			"ingre_name": "당근약간(생략가능)",
+			"ingre_count": "약간(생략가능)",
+			"ingre_unit": "약간(생략가능)"
+		},
+		{
+			"ingre_name": "부침가루1+1/2컵(종이컵)",
+			"ingre_count": "1+1/2컵(종이컵)",
+			"ingre_unit": "컵(종이컵)"
+		},
+		{
+			"ingre_name": "튀김가루(생략가능)",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다.",
+		"2. 재료들을 모두 채썰어 준비해주세요.",
+		"3. 부침가루 1컵 반과 튀김가루 반 컵, 설탕 1/2t 소금 한 꼬집을 넣습니다. 물 한 컵을 더합니다.",
+		"4. 뭉친 부분이 없도록 잘 섞습니다.",
+		"5. 팬에 식용유를 넉넉히 두르고, 후끈해지면 먼저 반죽을 한 국자 넓게 펴서 올립니다.",
+		"6. 그 위로 파를 올립니다.",
+		"7. 파 위로 나머지 재료들을 올려줍니다.  이 쯤 기름을 1~2 스푼, 가장자리에 더합니다.",
+		"8. 올려진 재료들 위로 반죽을 한 번 더 올려줍니다. 중강 불에서 먼저 바닥이 잘 익을 때까지 기다렸다가, 반죽이 잘 익으면 그 때 뒤집어 윗면도 노릇하게 지집니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/8869dba21cd8e70d60432172c3eebb2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/ce78c5966d4b91309fb3cb29fd5cd1221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/eb5e22060330da6877efa7fb22921cca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/43f7579d230762adc093e50a5ffa96761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/a4d027307cbbf0d4f9cdf80a4e30bb1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/b02cacdc7087f536acd37fea7f7e2da31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/debdbd112091c84acde6c6370aca43291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/17/500f6493e36b9de60fabcd710c7eb0111.jpg"
+	]
+}

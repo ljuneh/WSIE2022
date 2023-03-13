@@ -1,0 +1,81 @@
+{
+	"id": "6941941",
+	"name": "초간단 요리초보 쉬운요리 간단메뉴 간단요리 저녁메뉴 얼큰한 대패삼겸살 김치찌개 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/ab58fcd45a07c5e9da1983730ba54f5a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941941",
+	"ingredient_ids": [
+		963,
+		323,
+		29,
+		224,
+		333,
+		349
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "다시팩육수",
+			"ingre_count": "1900",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "신김치750g정도",
+			"ingre_count": "750",
+			"ingre_unit": "g 정도"
+		},
+		{
+			"ingre_name": "대패삼겹살",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "6~7조각",
+			"ingre_unit": "~조각"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "파한줄기",
+			"ingre_count": "",
+			"ingre_unit": "정도"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕2T+1/2T",
+			"ingre_count": "2T+1/2T",
+			"ingre_unit": "TT"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. (시판) 다시육수를 끓여줍니다",
+		"2. 김치, 대패삼겹살, 파를 먹기좋은 크기로 썰어줍니다",
+		"3. 육수가 보글보글 끓으면, 잘라놓은 김치, 대패삼겹살, 파, 마늘을 때려넣습니다",
+		"4. 두부를 썰어 국위에 챱챱챱 얹어줍니다",
+		"5. 고춧가루2, 설탕2+1/2, 후추, 멸치액젓1, 국간장2를 넣고 보글보글 끓여줍니다",
+		"6. 끝"
+	],
+	"recipe_img": []
+}

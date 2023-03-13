@@ -1,0 +1,78 @@
+{
+	"id": "6942840",
+	"name": "추석요리 참치 동그랑땡 /참치전 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/1615d8dffb53da79665afb3d6e13e8bd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942840",
+	"ingredient_ids": [
+		659,
+		3,
+		34,
+		27,
+		387,
+		233,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "참치",
+			"ingre_count": "135",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 먼저 양파 1/2개, 대파 1개, 고추 1개는 잘게 썰어 준비해 주세요. 대파, 고추는 세로로 길게 칼집을 내주고 썰면 잘게 썰 수 있답니다.",
+		"2. 양파와 참치는 1:1 비율로 준비해 주면 좋은데 감을 못 잡겠다면 잘게 썬 양파를 참치 캔에 담아 1통으로 맞춰주면 된답니다. 참치는 기름기를 빼서 준비해 주세요.",
+		"3. 참치와 손질한 양파, 대파, 고추를 넣고 다진 마늘도 1스푼 넣어주세요.",
+		"4. 계란 2개, 부침가루 3T, 소금 조금을 넣어주세요.",
+		"5. 반죽을 잘 치대어가며 농도를 맞춰주세요. 반죽이 질다면 부침가루의 양을 좀 더 넣어주세요.",
+		"6. 팬에 식용유를 적당량 붓고 센 불로 달궈주세요. 그리고 반죽을 올리기 전 중불로 낮춰주세요. 반죽은 숟가락을 이용해 팬에 올려 모양을 잡아주세요. ",
+		"7. 앞뒤 모두 노릇하게 구워주세요.",
+		"8. 노릇하게 잘 구워졌다면 간단하게 완성이 되는 참치 동그랑땡이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/054d4ea9ee131e6a382510d7d6772fe01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/65158314547750c35cb0563025a0eb631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/2b6e0c458e79664265d6f50a49f157f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/08d2050811e85ee839c59de1a27e38591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/6701baf51f1945d9fb7b18ab131c104b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/be68eeda510c0c70b7d5466c240394211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/a383b4b76eb408702a7e6dc7062a45fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/25cc17993fa0c1e3ba60935a0978a0451.jpg"
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"id": "6901587",
+	"name": "시원한 콩나물국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/09/910d9c18958a03b2a6013f866f62ccc61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6901587",
+	"ingredient_ids": [
+		47,
+		27,
+		939,
+		497,
+		29,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "간맞추기"
+		},
+		{
+			"ingre_name": "새우가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "대접"
+		}
+	],
+	"recipe": [
+		"1. 무우를 채를 썰어놓고",
+		"2. 냄비에 무우,콩나물,액젓4,마늘2,맛술1,새우가루1,물5대접넣고 뚜껑을 덮고 팔팔끓여 주세요",
+		"3. 대파는 쫑쫑썰어 주시고요",
+		"4. 콩나물이 팔팔끓으면 간을 보시고 싱거우면 소금으로 간하세요 그리고 대파를 넣고 살짝 끓인후 불을 끄세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/09/d72acdb5f946a4bf25de7178ff315f8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/09/2d02c5a477a32098c7cad93b8f98941d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/09/aa07064c96b502c728f1d8d283f0b2d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/09/7d19676422036baeaed0f776a07af8071.jpg"
+	]
+}

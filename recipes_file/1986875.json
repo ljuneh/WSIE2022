@@ -1,0 +1,72 @@
+{
+	"id": "1986875",
+	"name": "고등어 자반찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/d1b121745e4cc9d2b4081fbd174417ea.jpg",
+	"url": "https://www.10000recipe.com/recipe/1986875",
+	"ingredient_ids": [
+		59,
+		390,
+		231,
+		224,
+		28,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고등어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "쌀뜬물",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "2",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 고등어는 세토막으로 잘라서 준비해주시고.. 들어갈 야채는 모두 채썰어서 준비해둡니다",
+		"2. 냄비에...고등어 깔고.. 그 위에 채썰어 놓은 야채들 모두 고루고루 얹어 주세요 그 위로..쌀뜬물1C을 부어주시고 새우젓 다져서 간을 맞춰 주십니다~ (고등어의 짠기에 따라서 조절해주셔여 전..고등어가 그리 짜지 않아서..새우젓 다져서 1/2T를 넣었답니다. 새우젓 건더기가 싫으시면..국물로만) 식초 1/2T를 넣어주세요.",
+		"3. 그 위로 고추가루를 솔솔 뿌려서 보글보글 끓여주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/0bbd164414474ce38862db5a950a87c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/20da690f0086a4c0e59fcd0fc08868381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/61d5b848d1c43436baf5dc45b55d3ef21.jpg"
+	]
+}

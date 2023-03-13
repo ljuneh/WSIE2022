@@ -1,0 +1,133 @@
+{
+	"id": "4361373",
+	"name": "영양만점 한그릇~ 굴밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/52966bbb56ebbb10bbac76f5428a7703.jpg",
+	"url": "https://www.10000recipe.com/recipe/4361373",
+	"ingredient_ids": [
+		82,
+		187,
+		132,
+		47,
+		189,
+		53,
+		497,
+		379,
+		995,
+		233,
+		660,
+		543,
+		224,
+		357
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "굴",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "4",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "불린쌀",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "표고버섯우린물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "은행",
+			"ingre_count": "5~6알",
+			"ingre_unit": "~알"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청양고추다진것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "달래",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 굴은 소금을 조금넣고 살살 흔들어 헹궈 물기를 빼줍니다... 은행은 마른팬에 구워 껍질을 벗겨내고, 밤, 표고버섯은 먹기좋게 잘게 썰고요... 대추는 씨를 발라내고 잘게 썰고요",
+		"2. 솥에 콩나물을 조금 깔고 - 불린쌀 - 콩나물 - 불린쌀 순으로 올려 줍니다",
+		"3. 그리고 뺑~ 돌려 굴, 밤, 표고버섯, 대추, 은행 순으로 올려 줍니다... 이외에 원하는 재료는 얼마든지 넣으면 되지요 ~",
+		"4. 재료를 다 올렸으면 표고버섯 우린물을 재료가 자작해질 만큼 까지 부어 주고 재료보다 한 1cm쯤 까지 부어주면 되지 싶네요 센불에서 끓이다 보글보글 끓어 오르면 불을 약하게 줄이고 끓여 뜸을 들여주면 되요",
+		"5. 밥이 되는 사이에 양념장 재료를 모두 섞어 양념장을 만들어 주고요...",
+		"6. 간장도 만들고 밥상을 차리는 사이 밥이 너무 맛나게 된거 있죠... 불조절이 어렵다고 하시는데 센불에서 끓어 오르면 약불로 줄여 뜸들이듯 끓여주면 되요.",
+		"7. 굴밥만드는법 어렵지 않아요 ~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/ec3b907aa96f1626abaa78a9b779416c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/e079aee7857d6718de1565c6d61c50b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/4bc2e7647d8c2cac7d64479cfcca11111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/ac7dbd8da5ead778f5fecec023efcc131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/8a0bfeae0a770875db0a6b0f30d6194d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/ceb446e781ce0f71636be590e0773ea81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/47120dbcefefe2ed7bce072aad01a8631.jpg"
+	]
+}

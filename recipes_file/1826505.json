@@ -1,0 +1,194 @@
+{
+	"id": "1826505",
+	"name": "선지 해장국 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/d6864bc5be5a1923d0b86a0b549deeb0.jpg",
+	"url": "https://www.10000recipe.com/recipe/1826505",
+	"ingredient_ids": [
+		295,
+		3,
+		47,
+		1015,
+		848,
+		233,
+		349,
+		846,
+		848,
+		233,
+		349,
+		848,
+		473,
+		233,
+		349
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "선지",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "얼갈이",
+			"ingre_count": "1/2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "양",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파1+1/2뿌리",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1/2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "사골",
+			"ingre_count": "1500",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "1000",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 얼갈이를 깨끗하게 씻어주세요.",
+		"2. 소금을 1큰술 넣고 물을 끓인 후 물이 끓으면 씻어놓은 얼갈이를 넣어 데쳐주세요. 너무 오래 데치면 금세 물러집니다. 찬물에 헹궈 물기를 꼭 짜주세요.",
+		"3. 물 1000cc정도에 된장 1큰술을 넣고 끓여 주세요.",
+		"4. 요게 소의 위인 양이에요. 냄새가 장난 아니게 난답니다.",
+		"5. 굵은소금 한줌을 넣고 박박 문질러 씻은 후 흐르는 물에 씻으세요. 다시 밀가루를 1줌 넣고 한번 더 박박 문질러 주세요. 흐르는 물에 씻어냅니다.",
+		"6. 안쪽에 붙어있는 하얀 막을 떼어내세요.",
+		"7. 된장물이 끓으면 양을 넣고 1시간 정도 삶아 주세요.",
+		"8. 삶은 양은 좀 두꺼운 채썰기 해서 준비해 주세요.",
+		"9. 요게 바로 선지예요. 선지는 흐르는 물에 한번 씻어 주세요.",
+		"10. 다시 물 1000cc에 된장 1큰술을 넣고 끓이세요.",
+		"11. 된장물이 끓으면 씻어놓은 선지를 넣고 삶아 주세요.",
+		"12. 20분 정도 삶은 선지",
+		"13. 선지에 된장, 마늘 청주를 넣고 조물조물 무치세요.",
+		"14. 얼갈이도 먹기 좋은 크기로 썰어 국간장, 된장, 다진마늘, 고추가루를 넣고 조물조물 무쳐 놓으세요.",
+		"15. 양념해 놓은 양과 얼갈이",
+		"16. 사골과 육수를 섞어 주세요.",
+		"17. 양념해 놓은 양과 선지를 넣고 끓입니다.",
+		"18. 선지 해장국 양념입니다. 고춧가루, 된장, 고추장, 국간장, 다진마늘, 후추를 넣고 섞어 양념장을 만드세요.",
+		"19. 냄비에 양념장을 모두 넣어 주세요. 끓을때 올라오는 거품은 가끔씩 걷어내 주세요.",
+		"20. 한소금 끓고나면 청양고추, 대파, 양파를 썰어 넣으세요.",
+		"21. 콩나물은 맨 마지막에 넣어 주세요. 너무 일찍 넣으면 질겨집니다.",
+		"22. 선지 안쪽에 구멍이 날 때까지 푹 끓여주세요. 맛을 한번 보아 부족한 간은 소금으로 하시고, 식당처럼 하고 싶으시면 조미료 약간 넣으시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/431d12859f24b479e72e0ae206f5b00f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/d0f564a406940ad9910d3665de8f8bc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/62649450945463af3871c1b3b15389661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/525586a54d5f36e70969b75f2242200e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/5e52e1189470bee8649a1bfc6c1422111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/94a069451e426a386439366d119ab2bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/acb2b8058c21698a30f91e94c6066e2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/991cccf2bc5127f07b350768f56558321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/c10d5c0db96bddcdf1d1a3c3b4dead171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/18c2116831f20e4f710d1229aa6296ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/555642c3bdb643df838249baaa4d582b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/3a74595d2abee7dd27190df9258c3bb81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/6b5554c36e9567920e7a51309b3943901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/9a222c3ca7bc7c548fd5eeb1f634a8ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/f3f9fb6c1c6b1af1642dda4f86032d221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/3e428f7bad45a84787716ce2bfa61d351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/3f21b67db76ab7855f785ae168cd2cbc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/ccd3e2cee031d4848d6f3d602486fbd51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/5cad7edec43a24d3d6fbdab975ff2d791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/0526dafa02f7e252a600a311654355ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/cfe5f5a7db69888c542e32503a9a35401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/fc7451f8cdb1d144d1092db3660374771.jpg"
+	]
+}

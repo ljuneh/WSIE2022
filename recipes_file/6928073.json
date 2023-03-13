@@ -1,0 +1,97 @@
+{
+	"id": "6928073",
+	"name": "일본식 주먹밥 : 오니기라즈",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/59578ad757fb495b6c26e43b5868427b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6928073",
+	"ingredient_ids": [
+		628,
+		95,
+		51,
+		42,
+		660,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "4",
+			"ingre_unit": "주걱"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "4",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "4",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 햄 4조각을 노릇하게 굽고요. (일반적으로 스팸을 많이 사용합니다.) ",
+		"2. 계란은 반숙이던 완숙이던 취향껏 후라이 해주세요. 햄이 짠맛이 강해서 소금은 생략!",
+		"3. 노른자가 흐르지 않을 정도로 익혀줍니다. ",
+		"4. 밥 4주걱에 참기름 1큰술과 소금 한꼬집으로(햄이 짜니까) 간을 하고 얇게 한주걱 사각틀에 넣고 모양을 잡아 준 다음",
+		"5. 김 위에 대각선으로 올려줍니다. (밥의 사각크기는 햄 길이에 맞추면 좋아요) ",
+		"6. 밥 위에 햄 올리고 ",
+		"7. 계란 후라이 올리고 ",
+		"8. 토마토 얇게 썰어 올리고 ",
+		"9. 양상추 올리고",
+		"10. 처음 밥 만큼 다시 올리고 ",
+		"11. 선물 싸듯이 한면 한면 감싸주고",
+		"12. 마지막은 밥알 올려 꼭! 눌러줍니다. ",
+		"13. 모양이 잡히도록 랩으로 감싸고 10분 정도 유지한 후에",
+		"14. 반으로 썰어 주면~ ",
+		"15. 짜잔~~~ 색감이 너무 이쁜 일본식 주먹밥 오니기라즈",
+		"16. 햄과 함께 채소도 곁들일 수 있어 좀 더 건강하게 주먹밥을 즐길 수 있는 오니기라즈",
+		"17. 한쪽만 먹어도 속이 든든해오는 그래도 두쪽다 먹을 수 밖에 없는 매력 돋는 맛! ",
+		"18. 김밥 싸기 번거로운 날 간단하게 오니기라즈 어떠세요?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/c3136df12ab270f11d230d346fe83fc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/53206ec5b0d948e30ed9841e857faaf31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/144841dece41cfb1e66d4b91e4e2b9c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/6c55301344a61c7fa2a410670dba49d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/ea4b149c8460947b335cec5546510f721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/7e338a5e119540fc5056875d60f8d4bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/463d82d53932fee57eb2e70d28d41e5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/d9f361772df84b19e63bb26ce1f739d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/f64e95100c3bdf14dbc650ade3c66bb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/817ed50380f1228162008802d08234c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/1605fc89c2749042610175d8aa3c40a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/7b1e98cce14d205a3b3830c8f2a3280e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/40d2a53a328d28aaf6b4ff38689baa061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/46856229745494d6a5a45951fb2812731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/ea24369ea228945568c1e5493fd4fcf21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/f3626c7290dfeb11636a535b03ea6fa51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/8c96377672687943423830ad45e4ce9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/09/72b5c86c1aaea49b4afe8530bad789661.jpg"
+	]
+}

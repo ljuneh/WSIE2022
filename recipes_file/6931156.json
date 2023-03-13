@@ -1,0 +1,74 @@
+{
+	"id": "6931156",
+	"name": "콩나물볶음(조림) / 콩나물이 너무너무 많을 때 본격 콩나물 소비 요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/04/20/3940d6a8ce1dff120092b13fbeaa49a61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6931156",
+	"ingredient_ids": [
+		47,
+		995,
+		497,
+		575,
+		504,
+		226,
+		543
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3~5T",
+			"ingre_unit": "~T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다.",
+		"2. 씻은 콩나물은 냄비에 물 한컵과 소금조금 넣고 끓입니다. 숨이 고루 죽을 정도까지만~",
+		"3. 데친 콩나물을 팬에 넣고 식용유를 두르고 볶습니다.",
+		"4. 간장을 넣고 볶습니다. 간장을 넣으면 물기가 생기는데 물기가 거의 없어 질 때까지 볶아줍니다.",
+		"5. 올리고당을 넣고 볶습니다. 물기가 거의 없어 질 즈음에 설탕을 넣고 빠르게 30초 정도 뒤적여 준 뒤 불끄고 깨를 뿌려줍니다.",
+		"6. 달콤하고 짭쪼름하고 아삭하고 쫀득쫀득한 콩나물볶음이 완성됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/20/b1f63305869ed055dc65008c5b3894081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/20/4d05141fe32d867c61f381388f6125811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/20/b79c6064f3e01ac387c37969b047bc481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/20/829212688d5e30df922dda81e96e7b4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/20/8ec5dbc20ffc1c5a731fedf89e18f64a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/20/314c74d58fd71a8aa926584f5f3da3561.jpg"
+	]
+}

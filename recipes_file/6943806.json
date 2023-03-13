@@ -1,0 +1,57 @@
+{
+	"id": "6943806",
+	"name": "청양고추X단무지 콜라보_매콤고추주먹밥 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/edd3cb0c4326106d8f86de7df0b5a7651.png",
+	"url": "https://www.10000recipe.com/recipe/6943806",
+	"ingredient_ids": [
+		295,
+		496,
+		95,
+		660,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 청양고추는 꼭지를 떼어내고 반으로 갈라 고추씨를 제거 한 뒤 잘게 다져 준비해주세요.",
+		"2. 단무지는 물기를 꾹 짜고 잘게 다져주세요.",
+		"3. 김을 봉지에 담아 입구를 막고 비벼서 김가루를 만들어 줍니다.",
+		"4. 큰 볼에 따뜻한 밥 1공기를 준비해주세요.",
+		"5. 잘게 다진 청양고추와 단무지를 넣고 만들어 놓은 김가루를 넣은 뒤 참기름을 두르고 통깨를 뿌려 주세요.",
+		"6. 조물조물 골고루 섞으면 주먹밥 모양으로 만들면 완성입니다. (청양고추는 맵기와 기호에 따라 가감해주셔요. 전 1개 더 추가해서 총 2개 사용했습니다.)싱거울 경우 소금으로 간을 맞춰줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/f8b6677a692631c65630a60da4360b441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/f258c01a2d26790a6957b6afed49c0ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/d74a5debc8f8c5c8cc776677b4f35f5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/185af717e3ee25aa89f04c0fb0bf50cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/1e6f35f24c3faddcd0af21fa028daff01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/7a4ad9a748327d8111eb6cd3c9f294401.jpg"
+	]
+}

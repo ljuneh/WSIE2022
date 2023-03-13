@@ -1,0 +1,70 @@
+{
+	"id": "6941952",
+	"name": "[코로나 극복] 소세지 계란말이 김밥..",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/574bea42dc31d08359d81365a16792de1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941952",
+	"ingredient_ids": [
+		219,
+		497,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소세지",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김밥김",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "4",
+			"ingre_unit": "인분양"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술정도"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 우선 소세지와 달걀을 먹을양만큼 준비합니다.",
+		"2. 소세지 하나에 달걀 2개 정도가 적당하더라구요.. 달걀 2개 풀어주고요.",
+		"3. 후라이팬에 식용유 조금만 둘러 달걀물 반만 부어줍니다. 그런 다음 그 위에 소세지 올려주고요.",
+		"4. 돌돌 말아 준다음 남은 달걀물 마저 부어 계란말이처럼 소세지를 말아줍니다.",
+		"5. 볼에 밥 넣고 소금, 참기름, 통깨를 넣어 김밥 밥을 준비한다음 골고루 섞어서 밥에 간을 해줍니다.",
+		"6. 김 2장은 반으로 잘라주고요. 이건 달걀말이에 덧대서 말아줄껀데요. 굳이 안해도 상관은 없으니 하고 싶으대로 하시면 됩니다.",
+		"7. 김에 밥 올려 골고루 펴준다음 잘라준 김 올리고 그 위에 소세지 달걀말이 올려준 다음 돌돌 말아주면 됩니다.",
+		"8. 이렇게 잘 말아주면 됩니다. 이제 겉에 참기름 조금 발라 윤기를 더한다음 잘라서 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/d520b9acd0d315434d7045d96b8cd4641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/4beb42371b1b55a46b044db29b772c2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/dbface5f9f75b5719328e4818ac995e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/024ec56306da920844ecbfcbeafbc3331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/7e92ae780967ce6b62e4370c6127af0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/94209ee5be88d02b83c9308c15821f131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/12ffffc41d8bd443b820e58e4d1b03431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/443c30757dc5a30775a43b9203e064f71.jpg"
+	]
+}

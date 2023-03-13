@@ -1,0 +1,33 @@
+{
+	"id": "6943886",
+	"name": "밤 주워서 오븐에 군밤굽기 군밤만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/afad32063137761575e13cf5ba3edea01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943886",
+	"ingredient_ids": [
+		187
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밤",
+			"ingre_count": "5",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 밤을 따서 일단 벌레 먹은걸 골라내세요. 벌레 먹은거는 잘라내고 생율로 껍질을까서 밥에 넣어서 드시면 맛있게 드실수 잇어요.",
+		"2. 이렇게 골라낸 밤을 지프라기나 먹을만큼 덜어내시고 나머지는 플라스틱용기에 넣어서 냉장보관하시면 겨울철 내내 드실수 있습니다.",
+		"3. 먹을만큼 드실 밤은 물에 담궈주세요. 식초도 한숟가락 넣어주세요. 이렇게 한두시간 두시고 헹궈서 밤의 머리부분을 가로로 칼집을  깊게 넣어주세요. 칼집을 넣지 않으면 팡 터질수 잇어요.",
+		"4. 오븐에 넣어서 삶아줄께요. 물을 한 100ml에서 200ml사이로 넣어서 먼저 밤을 익혀줍니다.오븐",
+		"5. 이렇게 넣었다면  이제 오븐에 200도씨에서 15분정도 구워주세요. 그중에서 한번은 뒤집어 주세요. 물기가 다 말랐다면 이젠 구워주세요.",
+		"6. 그러면 이렇게 군밤으로 껍질이 분리되어 맛있고 어렵지 않게 드실수 있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/96b670dc03dded5d2afd2144243506051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c23f06355e5091ba4bfa4acff56b44a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/3bceb978bca6c781c7161b83c068c2ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/4552aa55b2647ae831f134da09b862331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/d57802aeee3c2ecb821a31f0aed2e3b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/8e189be490114cd51c6dd41c7b378b761.jpg"
+	]
+}

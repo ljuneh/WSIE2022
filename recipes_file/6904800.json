@@ -1,0 +1,80 @@
+{
+	"id": "6904800",
+	"name": "미나리전:) 향긋하고 고소한 미나리전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/19/d3d7006882f30ca63c6a11040eb533f01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6904800",
+	"ingredient_ids": [
+		20,
+		3,
+		9,
+		387,
+		995,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "4~5T",
+			"ingre_unit": "~T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 미나리는 볼에 물을담고, 식초3큰술정도 넣어서 담궈주세요.",
+		"2. 당근,양파,홍고추를 채썰어주세요.",
+		"3. 미나리에 썰어둔 야채를 넣고 섞어주신 후",
+		"4. 부침가루를 넣고 골고루 섞어주세요.",
+		"5. 물을 조금씩 넣으면서 반죽양을 맞춰주세요.",
+		"6. 팬에 올리브유를 두른후, 넓고얇게 반죽된 야채들을 펼쳐주세요. 그 위에 풀어놓은 계란을 둘러주세요.",
+		"7. 뒤집개로 꾹꾹 눌러가며 미나리전을 부쳐주세요. 바닥이 익으면 뒤집어 부쳐주세요. 약불에 노릇노릇 부쳐주세요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/19/fe26b2b890fab56a7717641b15b202421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/19/b49c130e540eb5a483d060777744ec1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/19/94f6546168c81fd9df8873e7446b59b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/19/fb365df68b08d6830c0afdf5d04d0f311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/19/fdfb6008d2555b01929a5eb4f03d68071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/19/2c64c499c5bdb0c88c28ea50fa94c8901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/19/3083a413ade175f6325b4fd43bcbba401.jpg"
+	]
+}

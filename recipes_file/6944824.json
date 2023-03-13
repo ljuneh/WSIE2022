@@ -1,0 +1,133 @@
+{
+	"id": "6944824",
+	"name": "청경채볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/309dfed459ef5e0d0927a6a7271bdde11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944824",
+	"ingredient_ids": [
+		13,
+		3,
+		9,
+		27,
+		295,
+		477,
+		226,
+		1013,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2/1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "3/1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "전분물",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 청경채을 손질합니다",
+		"2. 청경채을 밑동을 잘라주고 크기에 따라 2~4등분 해주시면 됩이다",
+		"3. 흐르는물에 깨끗이 서너번 씻어주세요",
+		"4. 청경채을 채반에 받쳐 물기을 빼주세요",
+		"5. 양념소스을 만들어주세요 굴소스2,진간장2,설탕1 을 골고루 섞어 준비합니다",
+		"6. 전분 2/1스푼에",
+		"7. 물3/1컵 넣어서 전분물을 만들어줍니다",
+		"8. 끓는물에 소금 한스푼 넣고",
+		"9. 청경채을 넣어서 20초정도 데쳐주세요 *청경채을 뿌리쪽부터 넣어주세요 잠깐만 데쳐주시면 됩니다",
+		"10. 재빨리 건져서 찬물로 옮겨 열기을 빼주세요",
+		"11. 흐르는물에 씻어 채반에 건져",
+		"12. 물기을 짜주세요",
+		"13. 양파도 2/1채썰어주세요",
+		"14. 청양고추 채썰어 주세요",
+		"15. 당근도 길게 편썰기 해쥽니다",
+		"16. 대파도 어슷썰기 해쥽니다",
+		"17. 마늘은 편썰기 해주세요",
+		"18. 센불에서 달군팬에 식용유 2스퓬 넣어 대파을 넣어서 파기름를 내줍니다",
+		"19. 편썬마늘도 넣어서 볶다가",
+		"20. 물기뺀 청경채을 넣어주고",
+		"21. 당근.양파.청양고추을 넣어서",
+		"22. 재빨리 볶아 줍니다",
+		"23. 양념소스을 넣어주고",
+		"24. 만들어둔 전분물을 넣어서",
+		"25. 휘리릭 점깐만 볶아 불을 꺼주세요 *센불에서",
+		"26. 통깨을 뿌려서 마무리해줍니다",
+		"27. 고추기름을 생략했더니 불맛은 없지만 소스가 담백하니 맛있네요 청경채볶음 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/5e75e485cd60960d35b6239d593b84501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/a822697313908ed3b67da6264ffe3a4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/29bcec9227dce2164b7930bf4820ac751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/12eddbbc165e044a031d0270be7619c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/eeaf5108b09a1a6d1a377afe767d887f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/626b28ff9fe801437fa18393a35e29c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/78912f84c6624516071c563be1edd1351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/02c11a838907d223f0b718da6658d0081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/737f29674240e2c00acb43ce6e931ed71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/948919a896a22f33e873cf35ebafbed11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/af1dd51a3c5528e1364087be349a75dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/b611fd6d14f47e87995ed22fd95792021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/8263f1b9fcc8630ff51101b1b133bd781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/e0bc2190f9a674a9f91caae7c0a760cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/f6906dca98133afc5cba512f78b4eb151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/82d43bcac9c4f48302b5d23f06c2d7f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/ff492a12106d2b1b3b186f7e8c5d82161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/1786deb68bb102bcafbac8b2ed8c767e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/0e5c7d732f1596a5c622b122402149581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/d0504030f1f97692f84786466c3df14f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/a3884efaca63dc520649095170718cab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/11d732dbbcfae7c299f3dccbcc2918c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/57e3ad939a08652e5c7a9e545d4d28e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/dd4ed948848465ef5c762d497708561a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/ac8e217d9a6c9716cef69194ffc93a991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/a1da50f519213269b504f374e5e3c4b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/68f025fecfcfe7de99f83b7e1060becb1.jpg"
+	]
+}

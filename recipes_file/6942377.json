@@ -1,0 +1,56 @@
+{
+	"id": "6942377",
+	"name": "정식품 콩국물 푸딩",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/8da31b7ad3a544551bebfe083238b6ca1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942377",
+	"ingredient_ids": [
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "진한콩국물",
+			"ingre_count": "600",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "계란노른자",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "판젤라틴",
+			"ingre_count": "12",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 계란노른자 4개를 준비해주세요",
+		"2. 준비된 노른자에 설탕 70g 을 넣어줍니다",
+		"3. 달걀 노른자4개와 설탕을 잘섞어주세요",
+		"4. 75℃ 정도 데워진 콩국물 3컵(600cc) 를 step3에 섞어줍니다",
+		"5. 노른자와 잘섞인 콩국물에 불려둔 젤라틴 6장을 잘 섞어주세요",
+		"6. 준비된용기에 오일을 얇게 발라주세요",
+		"7. 먹기좋은 용기에 콩국물을 부어주세요",
+		"8. 냉장고에서 2시간정도 굳혀주면 푸딩 완성 !",
+		"9. 아무것도 넣지않아도 진한 콩국물 덕분에  한동안 유행했던 콩고물,인절미맛이 나는  맛있는 푸딩이 완성됩니다 .",
+		"10. 달콤함을 더하고싶을땐 흑당시럽,혹은 캬라멜시럽을 넣어먹어도 좋아요 ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/c1a2524c23420a61ad747f45a18dad2d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/1296499b1d81c01535b8370b1203b56f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/a5aefaa7cdb8c2bdd7b8a39593adcfeb1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/13d222e72df32fd6ced772fe25d5a36f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/a3f46dc8e1a4e680df4ff099b9b252691.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/b051a198998838d700ff04b4d5d9bd801.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/498c216719556ddfec7841c3d06a0c5a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/667fce25b9f68bbe59ff0ed56fd61b751.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/208ca5999fcb93c039e20e4e1d6bcac51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/c1b4240149f21412b36be26869b018c61.jpg"
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"id": "6940564",
+	"name": "취나물 페스토 파스타 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/6a940f718a4d9554b937ff6d6989dd5e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940564",
+	"ingredient_ids": [
+		48,
+		574,
+		393,
+		29,
+		205,
+		497,
+		188,
+		920,
+		433,
+		3
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "취나물",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "4-5T",
+			"ingre_unit": "-T"
+		},
+		{
+			"ingre_name": "발사믹식초",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "파마산치즈",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파스타면",
+			"ingre_count": "160",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "비엔나소세지",
+			"ingre_count": "3-4개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 취나물은 깨끗하게 씻어 끓는 물에 데친 후, 찬물에 한번 담갔다가 큼직하게 썰어 믹서에 나머지 재료와 함께 갈아준다.취나물 100g 잣 4T 발사믹식초 3T 올리브유 4T 구운마늘 4쪽 소금후추간 파마산치즈 곱게 갈아주는게 포인트!",
+		"2. 끓는 물에 소금 1/2T를 넣고 적당량의 면을 삶아줍니다. (8-10분)",
+		"3. 그 사이에 채 썬 양파와 얇게 썬 소세지를 팬에 볶아줍니다. 잘 삶아진 면을 함께 넣어 살짝 볶아줍니다.",
+		"4. 어느정도 서로 어울어지면, 불을 끄고 만들어 놓은 페스토 소스 2-3T 넣고 잘 비벼줍니다. (부족하다 싶으면 1T 더 넣어주세요.)",
+		"5. 강한 치즈맛을 원하시면 파마산 가루나 그라다노파다노 치즈를 위에 뿌려서 먹으면 감칠맛이 폭발해요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/b72f9100c2cde7d7c7b7d7c0051eaeeb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/542781893e07d58722a6259e230b88e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/c7b0a6457c11bae419f9839a7667db0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/e17f8799293a02bc72ab9c4e91811c0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/f9726cc845f7e7277824a961c4accdce1.jpg"
+	]
+}

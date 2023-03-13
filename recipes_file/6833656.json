@@ -1,0 +1,64 @@
+{
+	"id": "6833656",
+	"name": "시금치 된장국~구수하고 칼칼한 시금치 된장국 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/06/08508fca5f73fcfd5d51eb7850f125bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6833656",
+	"ingredient_ids": [
+		2,
+		84,
+		876,
+		848,
+		473,
+		233
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "바지락",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 시금치는 깨끗하게 씻어 건져 놓았어요~!~ 바지락은 소금 약간 탄 물에 담가서 검은 비닐을 덮어놓으면 뻘을 뱉어낸답니다 깨끗이 손질한 다음 소 분해서 냉동실에 얼려 두었지요~!~",
+		"2. 쌀 듯 물에 된장을 반만(1 큰 술) 풀어주고 바지락을 넣어서 끓입니다",
+		"3. 시금치는 데치지 않고 손으로 뚝뚝 잘라서 넣어주었어요~!~ 요리에 한 수1 큰 술을 넣어준 다음 부족한 간은 소금으로 해주면 맛있답니다~!~ 남은 된장(1 큰 술)도 넣어주고 홍고추 1개 넣어주면 끝이지요~!~",
+		"4. 통통한 바지락을 넣어 끓인 시금치 된장 국이 아주 구수하고 칼칼하고 맛있네요~!~ 요즘 자꾸만 국이 생각나네요 그래서 자주 만들어 먹게 되는 것 같아요~!~ 밥 말아서 먹으면 다른 반찬 필요 없어요~!~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/06/569eafad8a636572cc6e824b3c8551621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/06/292dac1a1423da82c508d78ce1b672011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/06/807d12520bfd1b7c886b9e4962d01e891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/06/a4cbf42ef81dcb2479265493f65834c11.jpg"
+	]
+}

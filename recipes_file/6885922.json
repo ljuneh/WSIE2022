@@ -1,0 +1,72 @@
+{
+	"id": "6885922",
+	"name": "매콤함이 파바박 집밥백선생♥꽈리고추삼겹살볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/22/8eba9dce3bae57e3c8dd3705ab56d6401.png",
+	"url": "https://www.10000recipe.com/recipe/6885922",
+	"ingredient_ids": [
+		293,
+		295,
+		27,
+		226,
+		995,
+		233,
+		379
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "20",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/3",
+			"ingre_unit": "종이컵"
+		}
+	],
+	"recipe": [
+		"1. 삼겹살 : 잘게썰어준비한다. 꽈리고추 : 5등분하여 준비한다. 대파 : 송송 썰어 준비한다. 청양고추 : 잘게썰어 준비한다.",
+		"2. 팬에 삼겹살을 노릇하게 볶는다.",
+		"3. 삼겹살이 노릇해지면 파를 넣어 볶는다.",
+		"4. 볶다가 설탕을 넣고 물을 붓는다.",
+		"5. 다진 마늘, 간장을 넣고 꽈리고추, 청양고추를 넣어 볶아 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/22/bb20cbaa7c72d8a4856e0847587c16961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/22/517fc4060aaff00f002caed7238bd35d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/22/7e1bd03d3e59f85f79389703eac138901.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/22/cae3d7fdca599659c94e61bd16b99f161.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/22/e33919acd4c1b0cc7e489190fe87dbfe1.png"
+	]
+}

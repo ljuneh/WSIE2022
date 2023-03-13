@@ -1,0 +1,83 @@
+{
+	"id": "6845951",
+	"name": "깨쟁이요리 묵사발.도토리묵사발만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/85e5832ae412d3979cf43f276ece14281.jpg",
+	"url": "https://www.10000recipe.com/recipe/6845951",
+	"ingredient_ids": [
+		8,
+		580,
+		953,
+		379,
+		231,
+		226,
+		497,
+		290
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "묵",
+			"ingre_count": "2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "영양부추",
+			"ingre_count": "1/10",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다시마.가스오부시육수",
+			"ingre_count": "2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 묵.야채(오이.김치.부추.김)준비",
+		"2. 육수:전날 다시마넣고 10분불끄고 가스오부시10분우려낸물 냉장고넣어두기",
+		"3. 소스:국간장2.식초2.설탕1.소금조금",
+		"4. 김치는 설탕1.참기름1재워두기 (평소에도 신김치를이렇게드시면 맛나요)",
+		"5. 깨뿌려완성 (야채.김치.김마지막에 올리기)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/9c605c8694722a8b6962abae477a69f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/247db2646d1ce191205b8daf9fab74611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/8d031a995178e48b0071abf509cfc6571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/9cc2f3d4d13ade92bfdc3d12a473c1011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/0919d1c9cb8185cacfebc2f0aa1c5c811.jpg"
+	]
+}

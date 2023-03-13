@@ -1,0 +1,80 @@
+{
+	"id": "6941682",
+	"name": "중국집계란볶음밥 데칼코마니 레시피_황금볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/0aad31f59d255072cace46f55b40bf9b1.png",
+	"url": "https://www.10000recipe.com/recipe/6941682",
+	"ingredient_ids": [
+		27,
+		899,
+		198,
+		504,
+		477,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "마늘종",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 대파와 마늘종은 잘게 잘라 준비합니다. (사전에 재료 준비 후 냉동보관하여 사용해 재료 손질 사진이 없네요ㅠㅠ)",
+		"2. 큰 볼이나 오목한 큰 그릇에 밥 1공기를 넣고 계란 2개를 넣고 뭉침없이 골고루 섞어 줍니다.",
+		"3. 중약불에서 프라이팬에 식용유를 2스푼을 넣어주고 대파를 넣고 파기름을 만들어 줍니다.냉동파를 사용할 경우 기름이 튈 수 있으니 주의하세요.",
+		"4. 파가 노릇하게 볶아지면 마늘종을 넣어 노릇해질 때까지 함께 볶아줍니다.",
+		"5. 계란밥과 버터 1조각을 넣고 중-강불에서 빠르게 볶아주세요.",
+		"6. 계란물이 없어지고 밥이 고슬고슬해지면 굴소스를 넣어 간을 맞춰 줍니다.굴소스를 넣고 볶은 뒤 간을 봐주세요. 부족하면 굴소스를 추가하거나 소금 간하여 주시면 됩니다.",
+		"7. 마지막에 통깨를 뿌려 예쁜 그릇에 담아주시면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/e43c582be8dbf1abc243e7760f8fff9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/b57e7b703802a0bdcc13fdfd7fa9eca91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/ceddf425a9da77c9b524f69da033353f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/7291492f07ef286ecd87a18a320fde201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/bd1054e6d6f4256fb4ac2675ad6919fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/d4d7b282462d153471f0dd8e3c7ad8911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/6668cdaf0e0b0682e8d5ef111a1f290c1.jpg"
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"id": "1811940",
+	"name": "메추리알 새우장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/8002bcda0614d271033269c92bc65df4.jpg",
+	"url": "https://www.10000recipe.com/recipe/1811940",
+	"ingredient_ids": [
+		221,
+		90,
+		295,
+		995,
+		379,
+		226,
+		341,
+		292,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우(중하정도의크기)",
+			"ingre_count": "12",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "0.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 메추리알은 삶아서 껍질 벗겨주고",
+		"2. 새우도 껍질을 벗겨줍니다. 등쪽에 내장도 빼주시구요.",
+		"3. 냄비에 물 0.8컵 넣고 다시마 너구리 사이즈 한조각 넣고 간장 4큰술 넣고 설탕0.8큰술 넣고 맛술 2큰술 넣고 불에 올려 보글보글 끓여오르면",
+		"4. 손질한 새우와 메추리알, 마늘, 고추를 넣어 조려줍니다.",
+		"5. 조림장이 1/3정도 남도록 조려지면 물엿 1큰술과 참기름 1작은술을 넣어 잠시만 더 조려주면 끝. 조림장이 자작하게 남도록 조려주세요. 장조림은 국물이 넉넉히 있어야 더 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/16968d9f70f87ba4f97ee4fc5b8903821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/b636d163419bad374e6ef625aaa7a8881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/16dd85648402f0805055e4d7dc690a6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/9df1d8f9182544c7f472bc5539d370001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/bfd778d9dd552650db3b78f49336f2471.jpg"
+	]
+}

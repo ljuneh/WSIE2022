@@ -1,0 +1,47 @@
+{
+	"id": "6942538",
+	"name": "홈메이드 쌈무, 치킨무_이젠 집에서 손쉽게 만들어요~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/9cd613f2235a512581583983dcb07ef31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942538",
+	"ingredient_ids": [
+		19,
+		231,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": "설탕"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물:식초:설탕=::",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 집의 냉장고 야채칸에서 살며시 기다린 무를 모두 꺼내어 준비합니다. 치킨무는 깍둑썰기로 쌈무는 채칼로 얇게 채쳐서 준비합니다.",
+		"2. 물:식초:설탕은 1:1:1 로 준비합니다. (간을 보고 적당히 조절 가능함)계량가능 도구식초는 가능하면 양조식초 사용.",
+		"3. 계량한 물과 설탕을 먼저 끓이고, 식초는 마지막에 넣어 함께 끓여줍니다.식초의 냄새가 조금 자극적이어서 를 가급적 마지막에 넣고 끓이셔도됩니다. ",
+		"4. 쌈무와 치킨무를 유리 용기에 켜켜이 쌓아서 담아두고 냄비에 끓여준 촛물을 부어줍니다.",
+		"5. 완성된 홈메이드 쌈무와 치킨무는 냉장고에 넣어두고 며칠뒤 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/6f0a33c5bde3d627cdf7cec98ffb401e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c80f90c3668c8dad53781609b1b338c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c6ee4810c36a93bd32cabbda1ac353f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/91deb7cad83f9cf9f8cec5297aecfa361.jpg"
+	]
+}

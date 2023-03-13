@@ -1,0 +1,49 @@
+{
+	"id": "6941013",
+	"name": "경기미 참드림으로 지은 '강황밥'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/903cb0929922a50cd7d7433e0d1a177a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941013",
+	"ingredient_ids": [
+		96,
+		53,
+		9
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "강황가루",
+			"ingre_count": "1/3작은술~1/2작은술",
+			"ingre_unit": "작은술~작은술"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다시마물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 불린 쌀을 밥솥에 담고,  당근, 버섯은 채 썬다.당근은 너무 얇지 않게 해 주세요.",
+		"2. 당근, 버섯, 강황가루를 솥에 담고 다시마물을 붓는다.압력솥을 사용한 저는 불린 쌀과 다시마물의 양이 1:1.1 정도 되었어요.",
+		"3. 골고루 잘 섞어 준 후 밥을 한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/a9904d79ca161df34b1b9ad65726adbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/bee8a83effd0d7957b856f4005fc40231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/f445afdd9e5209ebb0af56eec95088cd1.jpg"
+	]
+}

@@ -1,0 +1,117 @@
+{
+	"id": "6829574",
+	"name": "간단하게 만드는 물회 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/27/f4e4d72c2b9e74747dd8cf3993d861761.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829574",
+	"ingredient_ids": [
+		995,
+		184,
+		290,
+		966,
+		660,
+		460,
+		25,
+		142,
+		15,
+		8,
+		845,
+		6,
+		51
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "물회육수",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "회",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "땅콩",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "조미김",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "건포도",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "적채",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "초고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 횟감용 회 준비합니다.",
+		"2. 오이와 배 채썰어 준비하고",
+		"3. 적채 채썰어 준비하고요.",
+		"4. 저는 메밀국수도 넣으려고 한 묶음 삶았어요.",
+		"5. 삶아진 메밀국수 찬 물에 여러번 헹궈 물기빼서 뭉쳐놓아요.",
+		"6. 파프리카2색, 토마토 작은것 1개, 땅콩5개 다진것, 건포도 10개  횟감도 1팩을 다 사용하니 양이 너무 많네요. 3인분 정도 되는 양입니다. 전 받자마자 물회육수를 얼려놓아 살얼음상태에요.",
+		"7. 육수를 부으니 살얼음상태가 마치 비빔같이 되었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/01/90d6e0f7113b1809f8bf9e74f9ece5661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/01/070f289dd760dff24d5b6886ffde583a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/01/82a0077239252f4a36939933a7ddda1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/01/823525a8246ad4de44ec79781293f6851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/01/ffdb3322cb1fdcf4bf7ea600155525cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/01/b2031ffcad4e338a6826146fa4f4a9d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/01/d4e896aff875cc32db9d2b476b00a5301.jpg"
+	]
+}

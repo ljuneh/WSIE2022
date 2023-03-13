@@ -1,0 +1,35 @@
+{
+	"id": "6848119",
+	"name": "초간단 닭가슴살 샐러드 만들기~!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/13/8df143ce1abda4842a179dd34699ec931.jpg",
+	"url": "https://www.10000recipe.com/recipe/6848119",
+	"ingredient_ids": [],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "그릴닭가슴살",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "샐러드",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "컵과일",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		}
+	],
+	"recipe": [
+		"1. 꼬꼬빌 샐러드 1팩을 접시에 담아 줍니다.",
+		"2. 그릴닭가슴살 50g을 뜯어 올려줍니다.",
+		"3. 컵과일을 담아 주면 끝~!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/13/9ffbff178ce72f044741a2a5a90000461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/13/474adf50f1581cda617ba932c5d824701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/13/13416eb587c191499f5b03ced8ecf7b21.jpg"
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"id": "6942562",
+	"name": "뜨겁게 차갑게 즐기는 <뜨끈 든든 닭죽 & 시원 상큼 초계국수>",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/89a9909b42aecae5a0039549d6c74bf91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942562",
+	"ingredient_ids": [
+		300,
+		30,
+		995,
+		300,
+		8,
+		9,
+		523,
+		226,
+		231,
+		995,
+		465,
+		290
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "mL"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "연두",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "적양파",
+			"ingre_count": "1/8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배또는참외",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소면",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "연두",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "6",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "mL"
+		},
+		{
+			"ingre_name": "겨자",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. [닭죽 - 재료 손질하기] 부추는 깨끗이 씻어 물기를 빼고 1cm 길이로 잘라주세요. 닭 가슴살은 작은 주사위 모양으로 굵게 다져주세요.",
+		"2. [닭죽 - 죽 끓이기] 냄비에 물을 넣고 끓으면 닭 가슴살과 밥을 넣어 끓여주세요. 죽이 완성되기 2~3분 전 부추를 넣어주세요.",
+		"3. [닭죽 - 연두 하기]  끓는 죽에 연두를 넣어 간을 맞추면 완성!",
+		"4. [초계국수 - 재료 손질하기]  닭 가슴살은 10분간 삶은 후 찬물에 담가 식혀 결대로 찢어주세요. 적양파, 당근, 배는 채 썰고, 오이는 씨를 제거해 어슷 썰어주세요.",
+		"5. [초계국수 - 냉국 준비하기]  볼에 연두만능새콤양념, 물, 겨자, 깨를 넣어 밑국물을 만들어주세요.",
+		"6. [초계국수 - 플레이팅 하기] 소면은 삶은 후 찬물에 헹궈 물기를 제거해 주세요. 그릇에 면을 담아 밑국물을 붓고 손질한 야채와 닭 가슴살을 얹으면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/5378413e5eda0d85f6f4c52be8c573201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/182eaaa7a039112b347c87b3abfd8a811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/6f4750888ad3b6effc3d85e09dcc59991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/45bcdebb8e6bd4a0b2f1381c4355370c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/15667eafda9e5f86084b031da5716f141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/1e207b1f8c1ad9e7ac28b311a76d4e131.jpg"
+	]
+}

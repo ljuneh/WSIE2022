@@ -1,0 +1,85 @@
+{
+	"id": "6918274",
+	"name": "(어린이반찬) 부드럽게 맛있다~ 닭가슴살장조림!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/60d52c12d6a474600ec4a3d0668f90b71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6918274",
+	"ingredient_ids": [
+		158,
+		3,
+		27,
+		379,
+		575,
+		477,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삶은닭가슴살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강술(미림맛술)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 삶은닭가슴살이나 훈제닭가슴살 500g을 준비해서 먹기좋은 크기로 찢어주세요",
+		"2. 간장/굴소스/올리고당으로 양념장을 만들어주세요",
+		"3. 찢어놓은 닭가슴살위에 사과반쪽/양파반개/대파1개를 잘라서 넣어주세요",
+		"4. 양념장을 부어주신후 물500ml를 부어주신다음  생강술 1큰술을 추가후15분간 조려주세요",
+		"5. 양념물이 1/3가량 남았을때 가스불을 꺼주시고 참기름과 통깨를 뿌려주세요 사과와 양파는 제거해주시기 바라요 대파는 제거하셔도 드셔도 되신답니다",
+		"6. 부드러우면서도 쫄깃한 닭가슴살장조림이 완성이 되었어요 어린이반찬/밑반찬으로 드시기 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/32fbd6c873a765260f7e3a91cc916ee41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/167e246e58f621a8d20798119b7df8131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/0266a72fa922775d0ed1641e6ddd82b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/ed6fcad014ae5d6510a921ace57970ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/3a9e5ad9a1cda731943d7eb3a40ec0901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/38bb86ae5d31681fc391ff2b6b78dfa81.jpg"
+	]
+}

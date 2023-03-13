@@ -1,0 +1,109 @@
+{
+	"id": "6941999",
+	"name": "[짜장밥]오뚜기짜장분말로 짜장밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/21f50e865e243362d7c0b2666f5b64311.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941999",
+	"ingredient_ids": [
+		5,
+		3,
+		9,
+		7,
+		295,
+		995,
+		233
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추반통의",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "카레용돼지고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오뚜기짜장가루",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "미향",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료들을 준비 야채들은 깍둑썰기 돼지고기는 미향 한큰술,  후추 1/2스푼 넣고  미리 조물조물 해주세요",
+		"2. 냄비에 올리브유(식용유)두르고 마늘넣고 약한불에 달달 볶아주세요",
+		"3. 마늘이 노릇하게 볶아지면 그다음은 돼지고기 넣어서 볶아주세요",
+		"4. 물넣고 끓일거라 완전히  익히지 않아도 됩니다^^",
+		"5. 다음은 오래익히는 순으로 감자,호박,당근 먼저 넣어서  볶아주세요",
+		"6. 절반 익었다 싶으면 양파랑 양배추 넣어주세요~ 야채 자체에서 물이 나오기때문에 이대로 볶아주시면 됩니다~",
+		"7. 양배추가 좀 물러지면 물 넣어주세요 전 물양을 좀 많이했어요  푹 끓일거라서요~",
+		"8. 보글보글 할때까지 끓여주세요",
+		"9. 이젠 짜장가루 넣을차례에요 가루를 그대로 넣어도 되지만 가루끼리 뭉칠수 있어서 한번 개어서 넣어줘요~ 끓는 육수 조금 떠서 넣고 풀어주면 됩니다~",
+		"10. 개어진 가루를 넣고 바글바글 끓여주세요 국물이 약간 진득하게 변하고 감자가 익었으면  청양고추와 홍고추 넣고 파르르 한번 더끓이고 완성^^",
+		"11. 계란후라이 하나해서 밥에 얹으면 오늘밥도 끝이에요!^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/f3381e15babc450efc54f477ec017ac71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/92eaa37fb3ce1bccdeb2e652c82a0a341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/d36978555f0aadd9fbdec2eb430b70151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/7666d383c903bdd6a6108edbc6a2218b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/f0970f132270f5f21e1b7cf2f41148061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/1ef85ca2ad4ea82d1e82672c09b844a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/46e93ce480d81e53fa64e45a8039c7081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/3150f91ebfef3af9e13f5ff0825131641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/76a402fd81ce543ff9a0ef3c677ae9bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/4b78ffacbf3c4f21425c9383885dc8d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/67256506bca6fcaecd14418060df671a1.jpg"
+	]
+}

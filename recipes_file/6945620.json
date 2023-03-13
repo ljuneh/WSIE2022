@@ -1,0 +1,64 @@
+{
+	"id": "6945620",
+	"name": "백파더 에그치즈토스트 아침식사 백종원 샌드위치만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/9aeb433e6fec534542c27f5b613184e71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945620",
+	"ingredient_ids": [
+		503,
+		219,
+		226,
+		497,
+		201
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "치즈",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 간단한 아침식사 메뉴로 백파더 에그치즈토스트 아침식사 백종원 토스트만들기 해서 주려구요.",
+		"2. 우선 계란에 소금 약간 넣고 풀어서 지단을 부쳐 주세요. 계란물을 넣고 지단 가장자리가 익고  안쪽이 덜 익었을 때 즈음해서 식빵을 올려 주세요.",
+		"3. 그리고 뒤집어 주세요",
+		"4. 뒤집은 다음레 식빵 크기에 맞추어서 계란 지단을 식빵위로 올려 주세요.",
+		"5. 지단을 식빵위에 올리고 치즈를 올리고 설탕 약간 뿌려 주세요.",
+		"6. 그리고 반으로 접어주면 완성이랍니다.",
+		"7. 그럼 간식으로도 아침식사로도 좋은 에그치즈토스트 완성이네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/967b1e1757fec12e51ff86320d5354dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/30683f518bf914ebfcb1f83398b20ca21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/4f922b51ce3636dcc3d5887ba6cfbd441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/e9c0b4290bb2ceb947e36639ba28db281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/89d76e9d4460b559c7a0cff3aa85a8ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/7da1b2df4985dda3bfe4c6fedf16f5611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/a5b30a84862ad2a4050edd412d85b9031.jpg"
+	]
+}

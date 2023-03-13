@@ -1,0 +1,47 @@
+{
+	"id": "3536036",
+	"name": "미나리전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/a93b01a2e13de0cacd3695d38f4abc691.jpg",
+	"url": "https://www.10000recipe.com/recipe/3536036",
+	"ingredient_ids": [
+		20,
+		9,
+		234,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 미나리는 흐르는 물에 씻은 후 끝부분을 제거하고 적당한 크기로 썰어 줍니다.",
+		"2. 당근은 흐르는 물에 씻은 후 껍질을 제거하고 채 썰어줍니다.",
+		"3. 볼에 밀가루와 물을 넣어 잘 섞어 주고 미나리, 당근, 소금을 넣어 반죽이 되도록 고루 섞어 줍니다.",
+		"4. 달군 프라이팬에 식용유를 두르고 반죽을 넣어 양면을 노릇노릇하게 지져 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/624569d5d35c3635dca72e3025cbe0c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/2cd4cc54dde97da08046e980208619be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/fd61c19d2721cc4d63ae99cc97e7c3671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/24dc44dc615dc4dc5c4ffdab77c12a641.jpg"
+	]
+}

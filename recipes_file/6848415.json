@@ -1,0 +1,53 @@
+{
+	"id": "6848415",
+	"name": "깻잎 장아찌 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/19/07d457454bae45ad20db62ea22c908e41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6848415",
+	"ingredient_ids": [
+		379,
+		995,
+		843
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "바라깻잎2000원어치",
+			"ingre_count": "2000",
+			"ingre_unit": "원 어치"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "300",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "450",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "100",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 깻잎을 깨끗하게 씻어서 물기를 빼줍니다.",
+		"2. 깻잎을 차곡차곡 쌓아서 준비해 주세요.",
+		"3. 간장, 물, 매실액을 냄비에 담고, 통마늘을 편으로 썰어 넣어주세요.",
+		"4. 팔팔 끓인 간장베이스를~ 이제 부어 주기만 하면 끝!",
+		"5. 깻잎 장아찌를 담을 그릇을 준비하시고 깻잎을 담아 주세요. 그리고 그 위로 간장베이스를 부어 주세요~! 제일 중요한 팁은 깻잎을 뜨지 않게 눌러 주셔야 합니다. 저는 그릇을 이용했어요~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/19/8d6839132d6e23146e243549d8abe4b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/19/97fb98681474db965ff6ac67a2e87fe11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/19/b67d4a955ff19135b7b8df7ea856b9ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/19/a244e4a824a2ae16a72cae5a428863231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/19/96f0df984dec924a3ad1a94f5ccea28b1.jpg"
+	]
+}

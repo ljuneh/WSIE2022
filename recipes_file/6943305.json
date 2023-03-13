@@ -1,0 +1,68 @@
+{
+	"id": "6943305",
+	"name": "식빵 사과 파이 # 애플 파이 # 에어프라이어",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/93d19f863b7107f4f504d5a4f1e7c51e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943305",
+	"ingredient_ids": [
+		503,
+		198,
+		226,
+		504,
+		575,
+		219
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "사과소",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "4",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 재료 : 사과 소 1개, 식빵 4조각, 버터 1조각, 설탕 2T, 식용유 1/2T, 올리고당 1T, 달걀 1개",
+		"2. 사과를 곱게 다지듯 썰어주세요 껍질을 같이 사용했어요 취향대로 준비합니다",
+		"3. 설탕 2T, 식용유 ㅣ/2T, 버터 1조각, 올리고당 1T를 넣고 골고루 섞어 졸입니다 단맛은 조절합니다",
+		"4. 방망이 또는 컵을 굴려 식빵을 얇게 펴주세요 식빵 한쪽 면 가운데에 칼로 잘라 세개의 선을 만들어 주세요 달걀 1개를 풀어서 식빵에 발라 주세요  식빵의 1/2면에 졸인 사과를 넣고 반을 접으세요 열린 세개의 면을 포크로 눌러서 붙여줍니다",
+		"5. 에어프라이어에 빵을 넣고 윗면에 달걀물을 발라주세요 175도로 3분 돌려주세요에어프라이어",
+		"6. 에어프라이어를 열고 위아래를 바꿔서 달걀물을 바르고 한번 더 돌려주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/05dc5085556f19b985030cf23b7846c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/124ce9cde8f6093861a48d7dc0da96871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/b92f5e4b3113b732a23b9c1272fea6df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/c46c96d7060a8b7b1d4e0f7b1f043cca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/5ee08d6c1dd491843524ef9a626e29761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/29e70c1e288016c4f9077b89a4c9b8571.jpg"
+	]
+}

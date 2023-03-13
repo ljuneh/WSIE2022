@@ -1,0 +1,64 @@
+{
+	"id": "6941338",
+	"name": "집밥 TV) 맛남의 광장 대파빵 파게트 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/36932ee6b9313463b1fcdce73c5ac9991.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941338",
+	"ingredient_ids": [
+		27,
+		198,
+		208,
+		204,
+		226,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "바게트빵",
+			"ingre_count": "5",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 대파를 송송썰어, 버터를 녹인 팬에서 볶는다.",
+		"2. 볶은 대파에 크림치즈 3T, 연유 2T, 설탕 2T, 소금 조금을 넣고 섞는다.연유와 설탕은 단맛을 좋아하는 정도에 따라 맞춰주세요. ",
+		"3. 바게트빵 위에 대파로 만든 크림치즈 소스를 얹는다.",
+		"4. 180도로 예열한 오븐에 넣고 8분 30초 굽는다.오븐에어프라이어에서 구워도 되고, 오븐에 구워도 되요. 시간은 기계에 따라 다를 수 있으니 조금씩 테스트 해보세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/886f05b1c27b46949e6374202f9043911.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/afdce08d4c5cb7bbbccdb19c44f0229a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/bb29b5ce36fab802331c5fe5f5c19b9d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/b0ade6b18a4d1393e14ab44bc7f78b3b1.png"
+	]
+}

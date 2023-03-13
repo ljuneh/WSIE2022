@@ -1,0 +1,61 @@
+{
+	"id": "6869251",
+	"name": "시금치된장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/03/ed2d44dc8e2c20951644ad76c0f0bacc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6869251",
+	"ingredient_ids": [
+		2,
+		323,
+		259,
+		995,
+		848
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "맛타리버섯",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "편마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4~5컵",
+			"ingre_unit": "~컵"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		}
+	],
+	"recipe": [
+		"1. 시금치는 깨끗이 씻어서 준비하고 맛타리버섯은 냉동 시켜 놓은 거 꺼내 놓았구요. 두부는 먹기 좋게 썰어서 물에 담가서 불순물을 빼 놓았어요. 두부는 바로 조리하기 보다는 물에 담가놓았다가 조리하는 것이 좋대요~~ㅎㅎ",
+		"2. 냄비에 물부터 끓이다가 끓기 시작할때 새우랑 마늘 넣고 끓여요. 그리고 시금치랑 두부 넣고~",
+		"3. 된장 넣어서 풀고 마지막에 버섯 넣고 보글보글 끓이면 끝! 후딱 끓일 수 있어서 좋고~ 맛있게 먹을 수 있어서 더 좋고~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/04/a1debabbdb3cab46e0b79296826fd7c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/04/8b057589729e5693bff272e9e0eda6001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/04/adadc5e1a22fe427a33b4475fe5fd0971.jpg"
+	]
+}

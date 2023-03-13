@@ -1,0 +1,68 @@
+{
+	"id": "1666557",
+	"name": "김치비빔국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/eca8901460091bc908e68e7f02fbc41d.jpg",
+	"url": "https://www.10000recipe.com/recipe/1666557",
+	"ingredient_ids": [
+		473,
+		226,
+		575,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "국수",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "김치2줌(통배추1/12쪽)",
+			"ingre_count": "2줌(통배추1/12쪽)",
+			"ingre_unit": "줌(통배추쪽)"
+		},
+		{
+			"ingre_name": "삶은계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 국수 삶아서 찬물에 헹궈 물기 빼서 준비하시구요.",
+		"2. 김치 송송 썰어주세요.",
+		"3. 볼에 담고 양념재료 넣어서 무쳐 주세요.",
+		"4. 삶아 놓은 국수를 넣고 조물조물 버무린 후 그릇에 담고 계란 반쪽씩 올려 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/c5f61d2b4870e75f301c7bb879ef7f511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/9a701db74014af7fa777451f883fd1711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/5898fb94c1aee9e651590af190eccac01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/8556b88972ad31143c32456e5a24f5121.jpg"
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"id": "6586628",
+	"name": "김치부침개 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/3e782b79882ae30ded64ed01c7c31ab71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6586628",
+	"ingredient_ids": [
+		27,
+		234,
+		387,
+		995,
+		432
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "신김치(자른것)1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "오징어(몸통)",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저, 냉장고에 있던 오징어를 꺼내어 흐르는 물에 씻어 주었어요.",
+		"2. 냉장고에 있던 신김치도 꺼내어 접시에 덜어 주었습니다.",
+		"3. 오징어, 신김치를 먹기 좋은 크기로 썰어준 후.. 대파도 잘게 썰어 주었어요.",
+		"4. 밀가루1컵 , 부침가루 0.5컵, 물 1컵을 잘 섞어 밀가루 반죽을 만들었어요.",
+		"5. 여기에 미리 준비해놓은 신김치, 오징어, 대파를 넣고 잘 섞어주었습니다.",
+		"6. 후라이팬에 포도씨유를 두른 후 김치부침개 반죽을 한국자씩 떠서 후라이팬에 올려줍니다. 그리고 앞뒤로 노릇하게 부쳐줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/3eb2e5ea598660c188c7c14a269ba8361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/aab7720ae3ddb1a059753ed5d7b03fc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/b16a35d67f77f49ee97fb1adf6b75baf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/611bc131b816a9b0c9bdf60ba179a6511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/235fc99b52ffe3aff14f693fa89c2ae51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/6e6b299ecd01039dfa262602597148da1.jpg"
+	]
+}

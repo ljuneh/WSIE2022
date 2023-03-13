@@ -1,0 +1,49 @@
+{
+	"id": "6853816",
+	"name": "토마토주스 이번엔 우유로 갈다.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/fa2ad65e216bd4581c33282228828f471.jpg",
+	"url": "https://www.10000recipe.com/recipe/6853816",
+	"ingredient_ids": [
+		51,
+		227
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유토마토",
+			"ingre_count": "2/3",
+			"ingre_unit": "잠기게"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 과일을 즐겨 먹지 않아서 냉장실에 뒹굴뒹굴 토마토가 물러지기 시작하더라고요.",
+		"2. 토마토 반으로 자르고",
+		"3. 또 자르고 자르고",
+		"4. 푸드프로세서에 토마토 넣고 우유 토마토 살짝 잠길 정도로 붓고",
+		"5. 얼음~ 크아 꿀 1큰술 넣고요. 우유는 요정도 부었다는 얘기",
+		"6. 첨엔 타닥 타닥 순간 모터로 갈아주다가 어느 정도 갈아지면  저속으로 휙!! 보들보들 ~토마토주스 완성^^~ 날씨 너무 더워요. 시원한 것 한 잔 드셔요.^^* 새콤달콤 맛진 토마토 주스 머그컵으로 5잔 나왔어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/1c712fcb14ceab04788e1951c5e150d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/e50b33f6f8966486bd4e578ef9c9c3861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/65444423b3b1a6aa2069ba35c165a0a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/8bb30111d64d4101b0e39831f05682e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/467cd603cfe4e049dd3e45e8dff2a4441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/b6523661770ec373eb46a6b4e55bc8ea1.jpg"
+	]
+}

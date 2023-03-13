@@ -1,0 +1,48 @@
+{
+	"id": "6941026",
+	"name": "초간단 맥주 안주 황태채 버터구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/3b8f04bf4eb5d340dc23cac5648367c51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941026",
+	"ingredient_ids": [
+		973,
+		198,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "황태채",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 황태채를 먹기 좋게 잘라줍니다.가위",
+		"2. 달군 팬에 버터를 녹여줍니다.버터2큰술후라이팬약불",
+		"3. 녹인 버터에 황태채를 넣어 볶아줍니다.",
+		"4. 황태채가 볶아지면 설탕을 뿌려 한번 더 볶아줍니다.설탕1작은술",
+		"5. 그릇에 담아 파슬리가루를 뿌려줍니다.파슬리가루 약간"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/2e7872e5ae1f01c0473b7417dcfb36271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/1eb0bde17cd7ae439f8253e35dd792861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/cd58d86adbd326cf541f47a20ffc7a791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/e90e76cda6bda1ed1a04b01793d4e6271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/1543716301fc9831b9a81a5e6d6cffaa1.jpg"
+	]
+}

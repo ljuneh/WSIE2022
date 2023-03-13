@@ -1,0 +1,70 @@
+{
+	"id": "6883279",
+	"name": "청국장찌개 맛있게 끓이는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/02/a6003e81d73c89eda38eed90f44b8b0c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6883279",
+	"ingredient_ids": [
+		670,
+		323,
+		3,
+		27,
+		848
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "청국장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "총각김치4개(줄기포함)",
+			"ingre_count": "4개(줄기포함)",
+			"ingre_unit": "개(줄기포함)"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버섯가루",
+			"ingre_count": "",
+			"ingre_unit": "."
+		},
+		{
+			"ingre_name": "멸치다시육수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 양파는 굵게 다져주고, 두부는 깍둑썰기해서 썰어주세요 총각김치대신 묵은지, 깍두기를 사용해도 좋아요",
+		"2. 멸치다시육수에 두부,파를 제외한 재료를 넣고 끓여주세요멸치다시육수대신 쌀뜬물,맹물 모두 ok",
+		"3. 양파가 익으면 청국장을 넣고 잘 풀어주세요",
+		"4. 된장1스푼을 넣고 버섯가루도 0.5넣었어요 두부도 넣고 두부에 간이 베어들도록 끓여주세요버섯가루는 없음 패스~",
+		"5. 마지막에 대파썰어놓은걸 넣고 마무리~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/02/7d9ec749609de05b58ff2110e871720e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/02/77c3083c019ee3536fa448e4db6447b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/02/882f54dacd5a3ded7bc959c4979ff8aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/02/a950f3a65088c251eb03da051c2ad6361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/02/a3330ea0a0e139a87d0944ee5bba4bf71.jpg"
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"id": "6883139",
+	"name": "싱싱한 포장 회로 푸짐한 회덮밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/31/7546f961af33d85c953d92b5404981771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6883139",
+	"ingredient_ids": [
+		482,
+		845,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "회",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "싱싱한야채들",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "날치알",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "흰밥(햇*)덜된",
+			"ingre_count": "1",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "초고추장",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "솔솔"
+		}
+	],
+	"recipe": [
+		"1. 먼저 냉동실 날치알 요리술(미*) 같은거 뿌려주세요",
+		"2. 야채 채 썰어주세요 상추 깻잎 양배추 양파 당근 마늘 고추 등",
+		"3. 이왕이면 고슬한 흰 밥에 야채와 썰은 회를 색 맞춰 둘러담아 주세요",
+		"4. 날치알 마늘 고추 얹어주고 초장 참기름 통깨 완성이에요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/31/82cbed1dd87300eff99fd525fb4691271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/31/7a57aec40dc62afed46af5034c257f601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/31/dc597b32d3752689993ebfad754574421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/31/c0d117c1d2eef16a1aef8d8f83c72f981.jpg"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"id": "6895418",
+	"name": "청귤청 만들기, 청귤청 담기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/886383064e5cdc335df88d8d0731693e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6895418",
+	"ingredient_ids": [
+		671,
+		226,
+		940,
+		231
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "청귤",
+			"ingre_count": "12",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "12",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "베이킹소다",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 청귤을 준비합니다.",
+		"2. 유리병을 열탕 소독해줍니다. 열탕 소독할 때는 차가운 물에 병을 뒤집어 담고 서서히 가열합니다.",
+		"3. 열탕 소독한 유리병이 잘 마를 수 있도록 병 입구가 위로 향하게 하여 잘 말려줍니다.",
+		"4. 큰 통에 베이킹소다와 식초를 넣어 청귤 세척물을 만든 후 청귤을 넣어 15~20분정도 둡니다. 시간이 경과한 후 청귤을 하나씩 씻어줍니다.",
+		"5. 청귤에 있는 물기가 사라질 수 있도록 잘 건조합니다.",
+		"6. 청귤을 얇게 썰어줍니다.",
+		"7. 준비된 병에 청귤 -> 설탕 -> 청귤 -> 설탕 순으로 차곡차곡 쌓아줍니다.",
+		"8. 뚜껑 닫기 전 병 입구에 설탕을 뿌리고 뚜껑을 닫아줍니다. 완성!",
+		"9. 2일정도 실온 보관 후 설탕이 다 녹으면 냉장보관을 해줍니다. 그 다음은 청귤에이드, 청귤차로 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/5fcfe85ea6039ce4e3072ae7811995001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/7e042b59ec806cfb555c5b8e826caa381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/685d15c9fc18318751850538398f2f551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/65eae722128a9e2cecfeb1ede97b240f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/cdaf338736f4778d1b5b74b31a02b4831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/881fb5291355133fedc786ce6a427f331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/15449be69fc50eb47b99eb1d4275435d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/c15b00245032992051d3ec791884c8b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/07/efc1d81ac6cf0ab15cf69b7df8101a061.jpg"
+	]
+}

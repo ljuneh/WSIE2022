@@ -1,0 +1,82 @@
+{
+	"id": "6942773",
+	"name": "눈으로 먼저 먹는 적양배추 피클",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/22e9bb20e0ea2dad0bc08c9fa3eb2f8d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942773",
+	"ingredient_ids": [
+		995,
+		231,
+		226,
+		497,
+		508,
+		608
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "적양배추",
+			"ingre_count": "1/4",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "피클링스파이스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다.",
+		"2. 냄비에 물과 피클용 병을 엎어서 놓고 물을 끓여 병을 열탕 소독시켜 주세요.",
+		"3. 적양배추는 물에 식초 1큰술을 넣고 10분정도 담가두세요.",
+		"4. 식초물에 담가둔 적양배추는 한 번 헹궈 칼이나 채칼로 곱게 채썰어 줍니다.",
+		"5. 열탕 소독한 피클용 병에 적채를 넣어 주세요.",
+		"6. 이제 피클 절임용 소스를 만들어 줄거예요. 냄비에 물 2컵과..",
+		"7. 식초 1컵..",
+		"8. 소금 1/2큰술..",
+		"9. 피클링 스파이스 1큰술과 설탕 1컵을 넣은 후 불을 켜고 끓여주세요.",
+		"10. 팔팔 끓어오르면 불을 낮추어 1~2분 더 끓여주고 불을 꺼줍니다.",
+		"11. 용기를 받힌 체에 끓인 피클 소스를 부어 피클링 스파이스 건더기를 걸러주세요.",
+		"12. 걸러진 피클 소스는 뜨거울때 적채에 부어주세요.",
+		"13. 마지막으로 월계수잎을 넣고 차게 식힌 후 냉장보관 하시고 하루 정도 지난 후에 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/cec233ac066e7f35a0ca66a92a6151801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/b69ccebae02ef12c11ebe3243c5b17181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/11f4183914c89da5a5b8267283ef9e601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/a010d1121c8c61cfb46c2cc11ff702b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/a0499b41d0df4c0fc67b3d95ea6ed2431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/09fc48784d8c4a446f3b33c5f90d28bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/888833eaa0a4e454c107ed6c9dbf02671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/3215f9a319cd36293ee0c5c41f36a7011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/849f7190c3cf9991f78f5efec00607c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/0d8feff43c3ae8b1d2b306ee85bb2aee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/ec9b637eeb51654cb105b2db58e087ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/96467524960c2230b7ce48b9846cc6aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/611bffed4b4976bebc6440770a46c3c61.jpg"
+	]
+}

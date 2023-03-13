@@ -1,0 +1,85 @@
+{
+	"id": "6694789",
+	"name": "열무얼갈이물김치담그는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/d1635a8630a60a8abe0d7577d37093bd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6694789",
+	"ingredient_ids": [
+		35,
+		224,
+		29,
+		757,
+		3,
+		136
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "열무",
+			"ingre_count": "2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "얼간이",
+			"ingre_count": "2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밀가루풀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "액젖",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새우젖",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 열무랑 얼갈이를 다듬어서 깨끗히 씻어주세요. 씻을때는 살살 흔들어 씻어주셔야 풋내가 안나요. 열무는 잎부분은 잘라버리구요. 줄기쪽만 위주로 담아야 아삭아삭 맛있어요. 풀은 미리 끓여서 식혀두세요~",
+		"2. 시간이랑 소금양에 따라 절이는 시간을 계산하세요. 열무는 푹 절이지 않거든요. 그래서 40분정도 절이구요. 20분정도 한번 뒤집어 주었어요.",
+		"3. 청고추,양파,쪽파를 적당히 썰어주세요. 홍고추도 갈아넣으면 먹음직스럽고 좋아요. 썰어넣는 거랑 별도로 양파는 중간크기 2개정도 갈아두세요~",
+		"4. 식혀둔 풀에 마늘,갈아둔 양파,매실,액젖,새우젖을 넣고 잘 섞어주세요~",
+		"5. 고춧가루를 물에 불려주세요. 그래야 먹음직스러운 물김치가 된답니다. 물의 양은 자작할정도로 만들었어요. 소금간도 해주세요.",
+		"6. 잘 절여진 열무랑 얼갈이를 한번정도 흔들어 씻어주세요. 소금을 씻어주고 체에 받쳐 물기를 빼주세요",
+		"7. 물기를 빼준 열무랑 얼걸이에 만들어둔 양념이랑 고추가루 국물이랑 같이 섞어주시면 되요. 버무릴때 고추가루도 조금 뿌려주시구요. 간을 봐서 부족한 것들을 첨가해주시면 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/00a9000dd771e25c7f47cd35eebce67b1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/7d2ae9150f210274c20b0d395dd7f6491.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/2a6306f4846d413806b1108792977bf01.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/f57eec0e65a3ad80fa5e99712b77f6361.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/af5e164022bd83dd979f8faec68547251.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/0d8f7edfdb98c2aa019454ff8aadd3bb1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/59b06110e7300ce323aec45ae5fdedd01.JPG"
+	]
+}

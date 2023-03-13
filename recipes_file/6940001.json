@@ -1,0 +1,73 @@
+{
+	"id": "6940001",
+	"name": "[노오븐] 전자렌지로 쿠키만들기, 초초간단 방법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/c2e1d2a6fcdf1aae3c8fab5336f6bfd91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940001",
+	"ingredient_ids": [
+		373,
+		226,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "무염버터",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "초코칩",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1~2꼬집",
+			"ingre_unit": "~꼬집"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 버터를 부드럽게 풀어주세요",
+		"2. 설탕,소금을 넣고 섞어줍니다",
+		"3. 계란은 미리 풀어준 다음에 넣어주시고 실온상태 미지근한 계란을 사용해야 분리되지 않습니다",
+		"4. 가루를 체에 쳐서 넣고 주걱으로 섞어주세요",
+		"5. 가루가 보이지 않을때쯤 초코칩을 넣고 섞어줍니다",
+		"6. 반죽을 적당한 크기로 떼어내 동그랗게 만든 후 살짝 눌러서 전자렌지 유리(유산지)에 팬닝합니다",
+		"7. 1차 전자렌지 1분 30 초 돌려줍니다전자레인지",
+		"8. 쿠키는 완전히 식혀주세요 10분이상 뜨거운상태로 넣으면 녹을 수 있어요",
+		"9. 2차 전자렌지 1분 30초 다시 돌려줍니다",
+		"10. 완전히 식혀주면 쿠키 완성입니다 부드러운 식감이에요~ 쿠키 상태에 따라 시간은 조절해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/e608a1534970991ae4d7f7377466806a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/53f7130fceabe824144ca4f5793b17f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/361b13c20c39669c72fe3e6ca875a1cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/f2df1410a04b01403a8749ae8c66f4071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/470611ea456e9bdd13f39b26ef16eb411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/6fc08bf26f3c9710b0801d84a90aa5131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/6962826cd88d6d6b57ad53675452646d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/3e695e006dc45c918fb30706bf94f4e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/dbe4d1c4b1d00a300a4506fb0926a5461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/4bc0350a21af10f8f591133cd13ed6261.jpg"
+	]
+}

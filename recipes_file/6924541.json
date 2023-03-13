@@ -1,0 +1,64 @@
+{
+	"id": "6924541",
+	"name": "번데기탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/01/05/dfdd1ec6121c21ec897640a33e13354d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6924541",
+	"ingredient_ids": [
+		404,
+		295,
+		224,
+		497,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "번데기",
+			"ingre_count": "280",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "250",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 마늘은 편으로 썰어주세요.",
+		"2. 청양고추는 어슷하게 썰어줍니다.",
+		"3. 달군 냄비에 기름을 두르고 마늘을 먼저 볶아줍니다.",
+		"4. 마늘을 어느정도 볶으면 청양고추를 넣고 한번 볶아줍니다.",
+		"5. 번데기와 같이 한번 더 볶아줍니다.",
+		"6. 냄비에 물 250ml를 부어줍니다.",
+		"7. 소금약간,고춧가루 1큰술을 넣고 끓여주면 얼큰한 번데기 탕이 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/05/a6da80206779df253ea54a671e369b011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/05/43582f198b8bf43cc2d02f31f379821d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/05/604de8abf718dd5c432e6a5ab8ad08d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/05/927b26ca21ae402751f6be9b218912201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/05/0dee80bced292633dc754e28ba7ef0961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/05/75112c8804dc6baa3b948451788af0571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/05/dfa965e0eb3b573627719a7c3704cfb31.jpg"
+	]
+}

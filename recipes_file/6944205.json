@@ -1,0 +1,131 @@
+{
+	"id": "6944205",
+	"name": ": 백파더, 쉽게 끓이는 쇠고기 잔치국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/e0c8d70ffdc8049de7f16b05e48db0051.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944205",
+	"ingredient_ids": [
+		327,
+		325,
+		9,
+		3,
+		19,
+		29,
+		333,
+		995,
+		379,
+		27,
+		295,
+		224,
+		29,
+		350,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "국수",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "쇠고기",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "10",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 호박, 양파, 당근, 무는 채 썰어 준비한다.",
+		"2. ㉡ 양념장에 들어갈 대파, 청양초, 마늘도 다져둔다.",
+		"3. ㉢ 들기름, 쇠고기를 넣고 먼저 볶아준다.",
+		"4. ㉣ 쇠고기가 반쯤익으면 무를 넣고 볶아준 후 물을 붓고 끓여준다.",
+		"5. ㉤ 물이 끓으면 썰어둔 호박, 양파, 당근, 마늘을 넣어준다.",
+		"6. ㉥ 국수를 조금씩 넣어주고 깜짝 물을 부어준다.",
+		"7. ㉦ 계란도 풀어 넣고, 멸치 액젓으로 간을 한다.",
+		"8. ㉧ 대파, 청양초, 마늘, 깨소금, 참기름, 고춧가루를 넣고 간장은 자작하게 부어양념장을 만들어 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/1d464522c8fc578d088f2525c2d5abf71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/95f42f85471c708994c9bbcfaf0209df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/47242a44a145216ae10950751ea5405c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/8198e39d8a0d4086f741ec61076270f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/9ab4563828990604cfe0f22e8d7a34851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/5b6e68859c881d174cf3580febcbc1c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/6fb0681b7ccaa29d36e9edd12b52659a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/7acd506e13e22afb9c8cdcb43f418e6d1.jpg"
+	]
+}

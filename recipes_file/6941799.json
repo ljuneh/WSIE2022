@@ -1,0 +1,111 @@
+{
+	"id": "6941799",
+	"name": "삼겹살 간장볶음 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/94406cd303981a58e95a61838d9315721.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941799",
+	"ingredient_ids": [
+		3,
+		535,
+		198,
+		379,
+		233,
+		846,
+		292,
+		575,
+		455,
+		225,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "허브솔트",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "커피가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		}
+	],
+	"recipe": [
+		"1. 허브솔트로 밑간을 해주고",
+		"2. 에어프라이어 또는 달군 팬에 삼겹살을 앞, 뒤로 노릇하게 구워에어프라이어",
+		"3. 먹기 좋게 잘라 주고 ",
+		"4. 다른 팬에 버터(1)을 녹이고",
+		"5. 양파 1개를 채 썰어 버터와 함께 볶아 주고 이어 양념 재료인",
+		"6. 청주(1/3컵), 맛술(1/3컵), 간장(3), 다진 마늘(1), 생강가루(0.2) 그리고 커피가루가 있으면 약간 넣어 함께 볶아주세요. ",
+		"7. 그리고 노릇하게 구워 놓은 삼겹살에 볶아 놓은 양파를 한데 넣어",
+		"8. 고기에 양념이 배도록 볶아가며 조려 주심 된답니다.",
+		"9. 올리고당(1), 통깨(0.5), 후춧가루 약간을 넣어 전체적으로 촉촉하게 삼겹살 간장 볶음을 완성해 주심 된답니다. ",
+		"10. 밥 적당히 담고 조려놓은 삼겹살 올려주면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/74910221000514d720b9771a503bc5541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/472ea86b324a1dfcaef26d0535a0cf7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/2698a2cc1a58e772d650f41d037db8371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/a6b5481d12b9a60231d8ed733178a6901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/f5d9a9fc3f050ce0ada6623070a2ed181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/a8615db275cca5304657b84693129cb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/7d92058de1e02215e2f688cbb25e90fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/41b876a3980321f96de8affe74bf5d8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/8c603f8e54ad2821404d34a81658163e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/657b92791d0bb8da725e2d8b5f91361a1.jpg"
+	]
+}

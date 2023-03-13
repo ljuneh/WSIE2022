@@ -1,0 +1,71 @@
+{
+	"id": "6858551",
+	"name": "집밥백선생단호박스프 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/a50c14d18ab39b2fa23aca4364b0177e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6858551",
+	"ingredient_ids": [
+		328,
+		198,
+		234,
+		497,
+		212,
+		984
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "단호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1/3",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "크래커",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 단호박은 7분간 전자렌지에 거꾸로 해서 돌리고  뚜껑을 칼끝으로 돌려서 따놓고 속안을 제거해요.전자레인지",
+		"2. 이제 냄비에 우유한컵반과 버터와 밀가루를 한꺼번에 넣고 약한불에서 충분히 끓여요.",
+		"3. 간은 소금,후추로 간을 해주세요.",
+		"4. 끓인 스프를 단호박안에 넣고 모짜렐라치즈를 충분히 넣고 전자렌지에 7분간 돌리세요.",
+		"5. 이제 단호박 안을 살짝 긁어서 같이 섞어서 드시면 완성 취향에 따라 크래커를 부셔서 드시면 되요. 그러나 단호박이 잘 안익었으면 말짱도루묵 아예 스프와 단호박을 따로 익혀서 섞어주셔도 좋아요. 익힌 단호박은 믹서기에 스프와 함께 돌리시고 취향에 따라 생크림도 살짝 넣으셔서 끓여서 드심 더 좋아요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/33e148a4f94c2342ba32ca3a925146021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/b95c09bdd3329c51a0378d95762673ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/e3aee5f2cfd720d02bf02b8f286aac831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/12b4b91ab360fbd2b126625fcd3e5d751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/17/feee31304407557056ca2de547af8fad1.jpg"
+	]
+}

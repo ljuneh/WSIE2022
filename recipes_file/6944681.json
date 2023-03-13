@@ -1,0 +1,47 @@
+{
+	"id": "6944681",
+	"name": "집밥 TV) 놀면뭐하니 이연복 쉐프님이 사사한 간짜장 라면 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/b6765dbcc996886c9d6f8e7013814c491.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944681",
+	"ingredient_ids": [
+		3,
+		487
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "짜장라면스프",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "짜장라면면",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 양파와 돼지고기는 먹기좋은 크기로 썰어주세요.",
+		"2. 팬에 기름을 두르고 양파 1/3만 먼저 볶고 돼지고기 넣어 볶다가 익어가면 나머지 양파들을 넣어 볶아주세요.",
+		"3. 재료들이 익으면 면수를 한국자 넣어줍니다면수는 상황에 따라 조절하세요.",
+		"4. 스프 2개를 넣고 재료들과 볶아줍니다.",
+		"5. 짜장소스가 다 만들어지면 면을 넣어 소스와 면을 잘 섞고 볶아서 완성합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/0647f3ec1be32ad52fdc9bc34c6381a81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/f79dae4de7b83bf6452c37d614bf3f2b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/b0251725b85733661f259f0b7c507e0b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/fc6929d14b556242bc15a08622e0d3e61.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/f3e5e28d39a6cf10f4a2bb5056aa93721.png"
+	]
+}

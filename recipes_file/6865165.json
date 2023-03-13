@@ -1,0 +1,74 @@
+{
+	"id": "6865165",
+	"name": "봄향기가 느껴지는 무우 생채 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/06/76bb3628c0920caf117532d92ac848e11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865165",
+	"ingredient_ids": [
+		27,
+		390,
+		233,
+		665,
+		938,
+		231
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "무우한토막(6cm)-무우채",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "볶은참깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 무우는 깨끗이 씻은후 얇게 썰어 준후",
+		"2. 곱게 채 썰어 줍니다.",
+		"3. 큰 볼에 담고 무우채 한쪽으로 밀쳐 놓고 위에 분량대로 고추가루,새우젓,마늘,참치액,매실청,송송 썬 대파넣고 가볍게 버무려 준후",
+		"4. 참깨와 식초를 넣고 버무려 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/11/5971287a616159189817d924620c05c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/11/9d899ac621018dfd8f46152a55c7a0c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/11/b8ad8971af34597c0ec7181bc5b0ed201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/11/d31e59c0774949fc049155fd903e31ef1.jpg"
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"id": "6940537",
+	"name": "파김치전, 이것은 파전인가? 김치전인가? 파김치요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/965861b6fc80fd30634ab94b163695e51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940537",
+	"ingredient_ids": [
+		3,
+		504,
+		3,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "​부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "차가운생수1+1/4컵",
+			"ingre_count": "1+1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참치캔150g한개",
+			"ingre_count": "150",
+			"ingre_unit": "g 한개"
+		},
+		{
+			"ingre_name": "파김치",
+			"ingre_count": "10~12가닥",
+			"ingre_unit": "~가닥"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "4~5cm길이로자른파김치3/4컵",
+			"ingre_count": "5cm 길이로 자른 파김치3/4컵",
+			"ingre_unit": "cm 길이로 자른 파김치컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 볼에 부침가루 1컵을 붓고 차가운 생수 1 + 1/4컵을 붓고 덩어리 지지않게 고루 잘 풀어 줍니다.",
+		"2. 그리고 참치캔 150g 한개를 몽땅 넣거 고루 섞어 부침개 반죽을 만들어 줍니다. ",
+		"3. 달군 팬에 식용유 1큰술 을 두르고 파김치 10~12가닥을 넣고 양파 1/8개를 곱게 채썰어 넣고 볶아 줍니다. ",
+		"4. 파김치는 부드럽게 양파는 투명하게 볶아 줍니다. ",
+		"5. 그리고 여기에 준비한 반죽을 1~2국자 떠서 넣고 반죽을 얇게 펴 파김치전을 부쳐 줍니다. ",
+		"6. 앞, 뒤 노릇하니 부쳐 줍니다.",
+		"7. 매번 파김치를 볶아 전을 부치는게 귀찮고 번거롭다 싶어 남은 반죽에 양파 1/4개를 곱게 채썰어 넣고 4~5cm길이로 자른 파김치 3/4컵 을 넣고 고루 섞어 반죽을 만들어 줍니다.",
+		"8. 달군 팬에 식용유를 두르고 반죽을 얇게 펴 넣고 앞, 뒤 노릇하니 부쳐 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/6f909f17f61109ce735240a0a0e783311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/8d3df7436713aeacdb988e57e74357931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/c74582d75c788d71762cd444a7abb40f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/9b9044ff79c4ccc4fd21dc57dfa7b4221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/35b4eb6cd944fb6328104c79e73f23f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/8b8204c4eaea1ab79318c284e03878911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/801368609b515ca3cdb12b5138ec41291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/e50130898b284e85bf276c0ab30f50e71.jpg"
+	]
+}

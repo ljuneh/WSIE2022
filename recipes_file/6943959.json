@@ -1,0 +1,89 @@
+{
+	"id": "6943959",
+	"name": "가지볶음~초간단반찬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/df2ed4f64075e3943e1ce0e635d3c04f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943959",
+	"ingredient_ids": [
+		18,
+		3,
+		27,
+		233,
+		226,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가지절일때소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "해바라기유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 가지를 깨끗하게 씻어준후 2등분후 반으로 가르시어 3~4조각으로 잘라주세요 *반달모양으로 볶음으로 하실경우 너무 얇지않게 썰어주세요",
+		"2. 썰어준 가지에 소금1작은술을 넣고 잘섞어준후 10분을 절여주세요",
+		"3. 대파를 쫑쫑썰어서 준비해주세요",
+		"4. 양파반개를 너무얇지않게 채를 썰어서 준비해주시고 홍고추1개를 썰어주세요",
+		"5. 절여진 가지는 씻지마시고 그대로 물기를 최대한 꼭짜주세요",
+		"6. 팬에 해바라기유/썬대파/다진마늘을 넣고 1분을 볶아주세요",
+		"7. 물기짠 가지와 양파/홍고추를 넣어주신후",
+		"8. 진간장/설탕을 넣어서 양파가 투명해질만큼만 휘리릭 볶아주세요",
+		"9. 통깨를 뿌려서 마무리해주시면  물컹거림없는 가지볶음이 완성이 되네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/3a572458789b4f055a1e5727cc4cfba61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/2988ceaf052dbc104662dc02b517f68c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b14c459e7fbf33bd24f68b217ae3bd511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/4c6bbc194cd66431fb17d65e55237be11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/bc6d8f7f24d74739e02f7dffaf1cfa4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/93ed0e45dd7c45838951daef1d7c5b441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/562c01b025fc95cab9e56afa537a2d521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/4c6a00202a2e2984b8cfab159af842aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/15680dc76230fd5239625a7466d8145f1.jpg"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"id": "6875554",
+	"name": "간단한 딸기바나나스무디",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/29/a9390d1243f641afe86f96dbefd5bbf81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6875554",
+	"ingredient_ids": [
+		227
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "얼린딸기",
+			"ingre_count": "12",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "얼린바나나",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "안데스마카분말",
+			"ingre_count": "6",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 마카는 물과 함께 먹는게 부담스러우면 여러가지 요리에 넣어 드실 수 있어요.",
+		"2. 블랜더에 얼린 딸기랑 바나나를 넣고 분량의 우유, 꿀을 넣어주세요.",
+		"3. 평상시와 다르게 안데스마카 분말을 2스푼 넣어주세요.",
+		"4. 보기만 해도 진하고 시원 달콤한 딸기 바나나 스무디 뚝딱 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/29/dd747cb1124bb1dee1d322a82cef41cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/29/e395c49f2d9d6544fae136e22127b2521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/29/e6e32fba3c0b2a9577c985bb6d823a1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/29/521a7b03c1468f79b84e05e155f2e8781.jpg"
+	]
+}

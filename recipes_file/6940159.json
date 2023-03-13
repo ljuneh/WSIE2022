@@ -1,0 +1,85 @@
+{
+	"id": "6940159",
+	"name": "부들부들 부드러운 '간장 진미채볶음'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/96a9d819559df771f640293b258d66a31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940159",
+	"ingredient_ids": [
+		571,
+		228,
+		504,
+		292,
+		226,
+		575,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "진미채",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟갈"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "팍팍"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비",
+		"2. 진미채는 찬물에 담가 10분간 불리고, 먹기 좋게 잘라 줍니다.",
+		"3. 불린 진미채에 물기를 제거한 다음, 마요네즈 1숟갈을 넣어 버무려 주세요~",
+		"4. 웍에 식용유 2숟갈, 진간장 3숟갈, 맛술 1숟갈, 간 마늘 1숟갈, 설탕 0.5숟갈을 넣고 잘 섞은 다음,",
+		"5. 부글부글 끓어오르면 진미채를 넣고 맛있게 볶아 줍니다.",
+		"6. 간이 배면 불을 끄고!! 올리고당 1숟갈, 참기름 1숟갈, 통깨를 팍팍~ 넣고 잘 섞어 주면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/2a7f496718e0cb0654a5f47a4525969a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d48d9f386246720932771c35aff7f8371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/08325fadf5bdd0afec4d12b212bc58e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/8ffcdec6388e82f9a9dcd43b44706f581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/c72ddae393b4be4f153dfdc1c0f2e6f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/4b151e9a53e0dbb92addb9f376389aad1.jpg"
+	]
+}

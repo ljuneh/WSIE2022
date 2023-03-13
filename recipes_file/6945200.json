@@ -1,0 +1,121 @@
+{
+	"id": "6945200",
+	"name": "어향가지볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/b748e13648f04dda4690669ec8f1b3911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945200",
+	"ingredient_ids": [
+		295,
+		9,
+		233,
+		455,
+		292,
+		489,
+		477,
+		231,
+		575
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "큰가지",
+			"ingre_count": "4-5개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "다진돼지고기",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파하얀부분",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "두반장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "다시마가루",
+			"ingre_count": "3/4",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 다진 돼지고기는 키친타올로 혹시나 있을 핏물 제거를 해준 후 맛술과 후추로 밑간을 해주세요",
+		"2. 가지와 야채를 깨끗이 씻어준 후, 가지의 꼭지를 제거하고 스프라이프 무늬를 내듯 감자칼로 벗겨주세요 그 뒤 먹기좋은 크기로 깍둑썰기 해주세요생각보다 크게 썰어주셔야 먹을 때 가지의 맛을 제대로 느낄 수 있어요 요리하면서 쪼그라든답니다^^",
+		"3. 대파의 흰부분과 당근은 다져주시고, 청양고추는 씨를 완전히 제거한 후에 다져주세요 그 뒤 양념장을 만들어주고, 비닐봉지에 깍둑썰기한 가지와 전분가루를 넣고 흔들어 가지에 전분을 골고루 묻혀주세요당근이나 고추는 안 들어가도 되긴하나 색감을 위해서 넣어주면 좋아요",
+		"4. 웍에 기름을 넉넉히 넣고 적정한 온도가 될 때 전분 묻힌 가지를 노릇하게 튀겨주세요(전분이 묻어있기 때문에 서로 잘 붙으니 붙지 않게 떼어주면서 잘 뒤집어주세요)너무 오래 튀기면 먹을 때 많이 흐물거려요",
+		"5. 큰 프라이팬 혹은 웍에 기름을 두르고 다진 파와 마늘을 넣어 파기름을 내 주세요",
+		"6. 파향과 마늘향이 올라올 때까지 타지않게 잘 볶아주세요",
+		"7. 파향이 올라오면 1(밑간 한 돼지고기)와 생강가루를 넣고 볶아주세요",
+		"8. 고기가 얼추 익으면 양념장 한 스푼을 넣고 볶아주세요",
+		"9. 고기가 완전히 익으면 4(튀긴 가지)와 남은 양념장을 넣고 볶아주세요",
+		"10. 양념이 골고루 배면 불을 꺼주세요",
+		"11. 접시에 예쁘게 담아주세요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/de6647088e2c266495817fff5456a5b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/c54e415228f8001fde5dd500c1ae2e291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/60171333edc4d23e01cf7536da77c8f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/d9a057632d9ff471d48223bad06f42e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/96594be922600cf659d2f7ae70b3673a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/32e0346f685cd7faaa23a02d8a9cca631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/48742199f0608eabfc6fa65c555ce84d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/8d85ea937a7ba0c6fd4b658cc3c8d5681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/fdbed2c4a24c9d5893e74fd46bc041c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/aff7159d5041b4a5be763370bfbf7adc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/87c8678ef4ae14b9847d0ca84cd0280b1.jpg"
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"id": "6944231",
+	"name": "양배추 보관법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/51ee1381d6ccc6f59f7c00d291463aa11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944231",
+	"ingredient_ids": [
+		21
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "차가운물밥공기",
+			"ingre_count": "1",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "키친타올",
+			"ingre_count": "1",
+			"ingre_unit": "롤"
+		},
+		{
+			"ingre_name": "랩",
+			"ingre_count": "1",
+			"ingre_unit": "롤"
+		}
+	],
+	"recipe": [
+		"1. 겉에 썩어있는 부분은 전부 제거해줍니다",
+		"2. 그리고 6등분정도로 썰어주세요",
+		"3. 6등분으로 썰면 안에 심지부분 있죠? 그 부분만 썰어 심지는 제거합니다.",
+		"4. 키친타올을 몇겹으로 접어서 물을 적셔주세요 그리고 물기를 축축하지만 흐르지 않을 정도로 짜줍니다.",
+		"5. 그리고 가장 중요한 부분인데 심지를 제거한 부분에 물에 젖은 키친타올을 착 붙여주세요.",
+		"6. 그샅애로 랩으로 공기가 들어가지 않도록 밀봉해줍니다.",
+		"7. 그리고 냉장고 신선실에 보관하시면 한달이 넘도록 싱싱한 양배추를 맛보실 수 있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/55b7f9d0e028fa4aaae869ea66e1a6ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/53dd2888f08862337b22fe5f9aa1aec21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/ffd1863545871d6ebf5c895cb67c72531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/bce52eefe3ba855a14a4c9c525d4787f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/bd4026058a7a5d61760cb438195a9d3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/9db88c428310696d4a71fb5a3da712061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/8fb8aa47e093ffbf063d867f514db48e1.jpg"
+	]
+}

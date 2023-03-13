@@ -1,0 +1,80 @@
+{
+	"id": "6891231",
+	"name": "100% 감자로 쫄깃한 체다떡감자 만들어서 먹어봤어요! 너무 맛있어서 놀람",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/20/1176152bc93ec37e2f4e718ca848dc9e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6891231",
+	"ingredient_ids": [
+		497,
+		226,
+		201,
+		226,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "으깬감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "7",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "4",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "치즈",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "90",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 감자가 빨리 익을 수 있도록 삶기 전에 미리 썰어줍니다.",
+		"2. 냄비에 물을 붓고 감자를 삶아줍니다.중불물이 끓고 8분~10분",
+		"3. 삶은 감자에 전분, 소금, 설탕을 넣어 잘 으깨줍니다..",
+		"4. 감자가 어느정도 으깨지면 손으로 반죽을 해줍니다.",
+		"5. 손으로 둥글려 모양을 만들어줍니다.",
+		"6. 만들어둔 감자볼을 삶아주세요.물이 끓고 5분~7분",
+		"7. 치즈 4장, 우유 90ml, 설탕 1/3숟가락, 소금 1/2꼬집을 넣어 전자렌지에 돌려 치즈소스를 만들어주세요.전자레인지",
+		"8. 접시에 감자떡을 담아줍니다.",
+		"9. 전자렌지에 돌린 치즈소스를 저어 잘 풀어줍니다.한김 식혀주세요",
+		"10. 감자떡위에 소스를 부어 완성해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/20/046ebeecf501396c63364cf44ef235071.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/20/970c5884059a2ce7399776330f20f9fa1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/20/a9374641f9813d3e699259a2953010ce1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/20/47458a45ec8d9fe29eb1b30eebbbfc941.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/20/089a7a0812e1b138f96f7c82ae91614e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/20/daf1ee4fc60ef7a95d5644c54fe20bb21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/20/38534e48e7a961679b79f946c6d172091.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/20/271861273fad0b9ec4e20843c78ccdc41.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/20/1d016e794a89b09ef7d69e25273ce9be1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/20/d1275426166c295674a56e7756b91aa61.png"
+	]
+}

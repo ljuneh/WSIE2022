@@ -1,0 +1,53 @@
+{
+	"id": "6943835",
+	"name": "해물육수 미역국~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/8800955721a89cce2f38510866de37411.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943835",
+	"ingredient_ids": [
+		660,
+		939,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "해물국물내기티백",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "자른건미역",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 자른건미역 물에 불려 헹군  후 물기를가볍게 짜서 냄비에  담아준다",
+		"2. 참기름,액젓 넣고 달달~ 볶아준다",
+		"3. 물 1.5L 정도 부어준다",
+		"4. 보글보글 끓어오르면 해물티백을 넣고 5분 정도 우려내고 건져낸다",
+		"5. 푹~ 끓여 주다가 마무리 간 소금으로 입맛에 맞게 간하고 한소끔 더 끓여내면 완성이입니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/9f54c0d6628544d8c3379771d15be3b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/b1a7523369d9d447f5d228c0b6c6ff4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/8feb2950c5c166cba915d238e6a5fb341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/6accdbf41b49e751133429c84a2eba1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/609892cc3b05ba535286589d72e916541.jpg"
+	]
+}

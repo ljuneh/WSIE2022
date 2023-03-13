@@ -1,0 +1,81 @@
+{
+	"id": "3810818",
+	"name": "향긋한 샐러리 장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/5aa1e33e5db5b0af397d7138932c6178.jpg",
+	"url": "https://www.10000recipe.com/recipe/3810818",
+	"ingredient_ids": [
+		392,
+		3,
+		857,
+		608,
+		379,
+		995,
+		231,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "샐러리",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "대파흰부분",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마른홍고추작은것",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "5~7알",
+			"ingre_unit": "~알"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "2~3장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 샐러리를 깨끗이 씻어준후, 식초를 조금 넣어 담궜다가 씻어준뒤, 물기를 빼고 사용해요 .",
+		"2. 샐러리와 양파 대파를 먹기좋은 길이와 크기로 썰어 주고요.",
+		"3. 초절임물 재료를 팔팔 끓여 샐러리에 부어주면 끝.",
+		"4. 이렇게 모든재료에 초절임물을 부어 준뒤 무거운 접시로 눌러준뒤 뚜껑을 닫고 완전히 식은뒤 냉장고에 넣어 줍니다. 2~3일후에 꺼내 간장만 따라 끓여준뒤 완전히 식혀 샐러리에 부어준뒤 냉장고에 보관해두고 드시면 되요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/ba4703c9ca62a1ab7b41c9f2b50dc2f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/9e131bd1f27c2b9b6dd3d5172efd71091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/6d4390dbc6d96172ffb0e83be6bb61e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/8c432a176f2607995ddfb7b7ceeb91871.jpg"
+	]
+}

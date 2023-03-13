@@ -1,0 +1,39 @@
+{
+	"id": "6833369",
+	"name": "청양고추효소 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/aa41ec1aebd03e84b284e88c327820b21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6833369",
+	"ingredient_ids": [
+		295,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 고추는 꼭지째 깨끗이 씻어 물기를 제거하고 2㎝ 길이로 잘게 썬다.",
+		"2. 청양고추와 설탕을 1:1로 준비한다.",
+		"3. 그릇에 40% 정도 설탕으로 고추를 액이 살짝 나올 때까지 살살 버무려 용기에 70% 정도만 차게 담는다.",
+		"4. 20% 설탕으로 고추가 안 보일 정도로 덮어 주고 밀봉한다. 나머지 40%는 발효 과정에서 2회 덮어주는 용도로 쓴다.",
+		"5. 발효가 시작되면 위에 덮었던 설탕이 녹아 고추가 보이기 시작하면 나머지 설탕 1/2를 덮어 주고 밀봉하고, 또 설탕이 녹아 고추가 보이기 시작하면 나머지 설탕을 덮어 주고 밀봉한다.",
+		"6. 고추의 발효 기간은 3~4개월이며, 겨울에 담글 때는 4~5개월이다. 발효가 끝나면 재료를 걸러내고 원액만 숙성 용기에 담아 1년 이상 숙성시키면 청양고추효소가 탄생한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/04/52a453f8a942a9c9e8151f7255ff90ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/04/a01e1df1d2c17fc7e29c302d680941a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/04/0b3619f45609239388a6dd767cb8406c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/04/d729990b58477b34060124ea3e8f49021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/04/a876036e4da89be3d1855dfc4cf417b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/04/65b342e63cd32484f825a9a5c73cca6d1.jpg"
+	]
+}

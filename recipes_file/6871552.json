@@ -1,0 +1,84 @@
+{
+	"id": "6871552",
+	"name": "오이 간장 장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/9bac76ecee0e0529e25cece0a45541f01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6871552",
+	"ingredient_ids": [
+		8,
+		3,
+		34,
+		379,
+		226,
+		665,
+		231
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시마물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1/6",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "조미술",
+			"ingre_count": "1/6",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 오이는 깨끗이 씻어놓고 양파도 씻어놓습니다",
+		"2. 오이는 얇게 썰고 양파도 썰고  홍고추 청량고추도 적당히 썰어놓습니다",
+		"3. 용기에 담고",
+		"4. 간장소스을 끓입니다",
+		"5. 끓인 간장물을 붓습니다",
+		"6. 3일후 간장만 따라서 다시 한번 끓인후 식혀서 붓습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/384fa5064dde23b0ad9659da8b0e3dad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/0210e520c8de6556494293572bebef481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/6a55af083e26313e0f4253a07de07a491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/2f96bfdaee641539c90edc6e95181d631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/029f50775e465b042030939e7e791e241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/1cca3fc4c49436a41bbce235891c913b1.jpg"
+	]
+}

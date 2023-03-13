@@ -1,0 +1,116 @@
+{
+	"id": "1036160",
+	"name": "해파리 냉채",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/3d408a4460eb28fe0a875233c0700fa3.jpg",
+	"url": "https://www.10000recipe.com/recipe/1036160",
+	"ingredient_ids": [
+		518,
+		8,
+		289,
+		142,
+		29,
+		231,
+		226,
+		497,
+		29,
+		231,
+		226,
+		660,
+		497
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "해파리",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".작은술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰슬"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		}
+	],
+	"recipe": [
+		"1. 염장 해파리는 여러번 헹궈 소금기를 걸러내고 찬 물에 담가 2~3시간 정도 짠기를 우려냅니다.",
+		"2. 찬 물에 담가둔 해파리를 건져 80도 정도 뜨거운 물을 끼얹은 후 조물조물 주물러서 헹궈줍니다.",
+		"3. 물기를 뺀 해파리에 밑간을 해주세요. 마늘 0.5 큰술 , 식초 2큰술, 설탕 2큰술 , 소금 0.5 작은술을 넣어 조물조물 무친 후 냉장실에서 반나절이나 하룻밤 정도 두면 해파리가 약간 투명해지면서 오돌오돌 해지고 밑간이 배어들어 더 맛있어집니다.",
+		"4. 오이는 4등분해서 돌려깍기한 후 곱게 채썰어줍니다.",
+		"5. 마늘 1큰술, 식초 3큰술, 설탕 2큰술, 진간장 0.5큰술, 참기름 1큰슬, 소금 0.5큰술을 잘 섞어 설탕이 다 녹도록 저어서 마늘소스를 만든 후 냉장고에서 차갑게 보관해놓아요. 미리 다져놓은 마늘이나 곱게 으깬 마늘 보다는 통마늘을 금방 칼로 잘게 썰어넣어야 톡~ 쏘는 마늘향이 강해서 더 맛있어요.",
+		"6. 맛살은 길쭉하게 찢어놓고 배도 같은 크기로 곱게 채썰어놓습니다. 접시에 배, 오이, 맛살을 동그랗게 둘러가며 순서대로 담아주세요.",
+		"7. 밑간해놓은 해파리를 꺼내 오이채 남은 것과 잘 버무립니다.",
+		"8. 오이와 배, 맛살을 둘러담은 가운데에 오이와 섞어서 무친 해파리를 담고 소스와 함께 상에 냅니다.",
+		"9. 먹기 직전에 마늘소스를 뿌려주고 바로 버무려서 드시면 되지요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/02a9a11ed44b0eb91d0123ce81ce6c8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/d2759b0dddc49edaf32fa5724036d5a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/5b7c7b16faf8a6dfb56381a25faa21f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/efdc4785c547f545ab275f19156dc27d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/cb02c2faf3a7b05ba5f6ee41d922c4831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/9e7b16df39a2b06dd6ce25126a23325a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/555ab23ae67cff79b2c494d7226331d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/29e5e269cbb59cb1347fc153beabbdb81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/960ab7b13358cd0f578ac800c408cb6a1.jpg"
+	]
+}

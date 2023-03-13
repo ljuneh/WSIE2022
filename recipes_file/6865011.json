@@ -1,0 +1,57 @@
+{
+	"id": "6865011",
+	"name": "바사삭~~소리 들리는 맛있는 고구마튀김 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/09/0208eb1c15d145ab960d744cc94519151.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865011",
+	"ingredient_ids": [
+		4,
+		734,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "얼음물",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 고구마는 껍질 벗기고 두껍지 않게 얇팍하게 썰어요",
+		"2. 기름올려 달구는 동안 튀김반죽 만듭니다",
+		"3. 튀김가루에 달걀넣고 얼음물로 반죽해요 너무 묽지도 않고 너무 되직하지도 않게 반죽합니다",
+		"4. 썰어둔 고구마 넣고 잘 섞어 줍니다 덧가루 따로 묻히지 않아도 되요",
+		"5. 달구어진 기름에 고구마넣고 튀겨요",
+		"6. 두 번 튀겨 줍니다",
+		"7. 바사삭~~ 소리 들리는 맛난 고구마튀김 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/09/3688d681d54ffc50b8e2996df6695db41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/09/a7f71ab01b0264bc7534897e54e19e6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/09/ce66b87134217afc11193f300793fd8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/09/ae80ad1a0024e2a13616a7ab349c7fed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/09/0d55dd36c1988fb439f6eb46c70a9f0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/09/e724bef86b67fc3f74cdaca34e26b5ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/09/c58197cfa96a9a700bc5f2d5175dea771.jpg"
+	]
+}

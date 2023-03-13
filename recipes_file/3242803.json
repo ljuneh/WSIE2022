@@ -1,0 +1,96 @@
+{
+	"id": "3242803",
+	"name": "브라우니만드는법/눈내린 브라우니",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/13/f70723e3c760e43114b9039ed163c498.jpg",
+	"url": "https://www.10000recipe.com/recipe/3242803",
+	"ingredient_ids": [
+		872,
+		557,
+		219,
+		198,
+		226,
+		497,
+		194,
+		195,
+		546
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "코코아가루",
+			"ingre_count": "17",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "초콜릿",
+			"ingre_count": "90",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라빈",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "98",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "85",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "피스타치오",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "코코넛롱",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 실온에 두어 말랑해진 버터를 부드럽게 풀어주고 설탕을 두어번에 나누어 넣고, 서걱거림이 없을때 까지 섞어 줍니다...달걀을 하나씩 넣고 부드러운 거품이 올라오도록 휘핑해 줍니다..",
+		"2. 바닐라빈을 긁어 넣어 주고요...",
+		"3. 초콜릿은 따뜻한물 위에 볼을 올려 중탕으로 녹여 줍니다...",
+		"4. 달걀반죽에 넣고 고루 섞어 줍니다..피스타치오와 호두를 넣고 가볍게 섞어 주고요..",
+		"5. 체에내린 가루를 넣고 섞어주고요... 가루를 넣고 부터는 비비거나 문대지 않고, 퍼올리듯, 가장자리를 긁고, 바닥까지 퍼올리듯 긁어 섞어 주면 돼요",
+		"6. 하트팬과 원형미니팬을 사용했는데요... 유산지를 틀에 맞게 깔아주고... 반죽을 부어 줍니다.... 반죽은 80%정도는 부어준듯 하네요 호두와 피스타치오, 코코넛롱을 솔솔 뿌려주고.. 170도오 예열된 오븐에서 25분간 구워줍니다...오븐에서 나오면... 충분히 식혀 준후 잘라드시면 돼요... 충분히 식히지 않으면 부서지거든요...오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/cd0d5382284ec205b54551bb0406d0911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/7161604990ae7de72c30a23ebfa566a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/569bcc0bbfc8073abead18bcffa6820b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/b682f2d2a3d20cac8a2447fb349998b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/6f0d531f28cb834a78ce8ab506a60a621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/bda038653ab1f3400d3ade737b6e9f661.jpg"
+	]
+}

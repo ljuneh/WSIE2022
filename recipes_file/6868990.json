@@ -1,0 +1,69 @@
+{
+	"id": "6868990",
+	"name": "알감자 조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/da951ae31cbca0f8e4de16f125c7b36e.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868990",
+	"ingredient_ids": [
+		504,
+		379,
+		292,
+		233,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "햇알감자",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "얼음물",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "스위트리알룰로스(액상형)",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "백설스위트리알룰로스설탕(분말)",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 알감자는 깨끗하게 씻어 물기를 닦는다.",
+		"2. 찜기에 물을 넣어 끓으면 알감자를 올린다. 5~6분 정도 찐 알감자를 재빨리 얼음물에 헹궈 열기를 식힌다.",
+		"3. 알감자의 물기를 잘 닦고 깊이 있는 팬에 식용유를 두르고 볶는다. 겉껍질이 조글조글하게 3~4분 정도 볶는다.",
+		"4. 다른 깊이가 있는 팬에 조림장 양념 중 알룰로스 액상과 통깨만 빼고 간장, 맛술, 마늘, 알룰로스 분말을 넣고 끓으면 알감자를 넣어 약한 불에서 조린다.",
+		"5. 알감자가 간이 배도록 조려지면 알룰로스 액상을 넣어 버무리고 통깨를 뿌려서 완성한다."
+	],
+	"recipe_img": []
+}

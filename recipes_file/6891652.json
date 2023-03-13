@@ -1,0 +1,103 @@
+{
+	"id": "6891652",
+	"name": "감자요리 - 백종원 감자짜글이 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/aafe715cb61dcd794662060f4cc618391.jpg",
+	"url": "https://www.10000recipe.com/recipe/6891652",
+	"ingredient_ids": [
+		3,
+		295,
+		27,
+		995,
+		224,
+		473,
+		233,
+		292,
+		379,
+		226,
+		848
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "스팸1캔(작은사이즈)",
+			"ingre_count": "1캔(작은 사이즈)",
+			"ingre_unit": "캔(작은 사이즈)"
+		},
+		{
+			"ingre_name": "감자작은거",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		}
+	],
+	"recipe": [
+		"1. 감자는 껍질을 벗겨 굵게 채 썰어주고 청양고추 2개, 대파 1/3대는 송송 썰어 준비하고 양파 1/2는 채 썰어 주세요.",
+		"2. 스팸은 비닐봉지에 넣어 손으로 주물러 으깨 준비합니다. 이때 너무 잘게 으깨지 말고 덩어리지게 으깨 줍니다.",
+		"3. 냄비에 감자, 스팸, 양파를 모두 넣고 양념 재료인 고춧가루 2, 고추장 1, 간장 3, 다진 마늘 1, 맛술 1, 된장 0.3, 설탕 1 그리고 물 2컵을 부어주세요.",
+		"4. 센 불에서 끓이기 시작하다 불을 줄이고 10~15분 정도 끓여주세요.",
+		"5. 감자가 다 익고 국물이 걸쭉해지면 대파, 청양고추를 넣고 한소끔 더 끓여 마무리합니다.",
+		"6. 백종원 감자짜글이 완성 ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/a36aff8d28300d3f2d36e22a27eddc3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/80d77eaadc681eaed756ed4802ee15541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/598a11b4aa45d7551e4148cb050e30d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/35390eeaacfa3eeccda9710611cd606a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/ae7bc52170c7b8a3585438a204ab6e2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/28/6b9273b97b02cf907564069ace37eb081.jpg"
+	]
+}

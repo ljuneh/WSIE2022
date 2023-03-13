@@ -1,0 +1,85 @@
+{
+	"id": "6944805",
+	"name": "쌀떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/96733ba9da9807fed26292e5f66aac0b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944805",
+	"ingredient_ids": [
+		548,
+		613,
+		27,
+		473,
+		233,
+		843,
+		379,
+		226,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀떡",
+			"ingre_count": "5",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "5",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "자색양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 고추장과 고추가루를 물과함께 풀어준뒤 어묵은 뜨거운물에 한번 튀겨내고 먹기좋은 크기로 자르고,떡,양파,다진마늘을 넣고 센불에서 끓이다가 끓기시작하면 불을중부로 줄여 은근히 끓여주세요",
+		"2. 달걀도 찜기에넣고 반숙으로 삶아서 껍질까서 소스에 비벼주세요  마지막에 참기름 한방울도 넣어 슥슥 비벼서 먹음 참 맛있는 떡볶이 환상입니다~~^^",
+		"3. 거의다 끓어오르면 대파를 넣고 조금더 끓여서 깨소금 솔 솔 뿌려서 먹음 맛난 떡볶이 완성요~~ 일류 분식집 안부럽습니다~~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/d284017ac11748ef23748acce9c2209d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/04210dd84a8236768cdd860e94e8f1ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/4d1655f35c568e57999e4883bca28d961.jpg"
+	]
+}

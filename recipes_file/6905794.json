@@ -1,0 +1,73 @@
+{
+	"id": "6905794",
+	"name": "시금치 무침, 백종원 시금치 나물 무침, 섬초 무침, 밑반찬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/b58a54cd8f1cf53d90a2d04f07a6f5411.jpg",
+	"url": "https://www.10000recipe.com/recipe/6905794",
+	"ingredient_ids": [
+		379,
+		233,
+		497,
+		660,
+		543,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "시금치(섬초)",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파1큰술(송송썸)",
+			"ingre_count": "1큰술(송송썸)",
+			"ingre_unit": "큰술(송송썸)"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 맛있는 섬초를  사 왔어요. 그냥 먹어도 달달~ 깨끗하게 씻어 준비하고요. ",
+		"2. 끓는물에  1분안으로 데쳐 줍니다. 센불",
+		"3. 빠르게 건져내어 찬물에 헹구고 물기를 너무 힘주어  꽉~ 짜지 말고  손에 힘을  가볍게 주고  물기를 빼 주어요",
+		"4. 양념들을 모두 넣어요.",
+		"5. 조물조물 잘 무쳐주면 맛있는 시금치 (섬초)무침 완성입니다.",
+		"6. 섬유소가 풍부해 장건강에도 좋고, 철분도 많아  빈혈예방도 되는 착한 나물 반찬! 시금치(섬초) 무침! 맛있게 드세요^^ "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/73f7649558c51448a64260f44cb8e3e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/9ff12f211358c49501703d09d902eeb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/f54f848b324d38a5943ae9cbb77f66691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/d732a92ac8faeca13f245bc92b3943631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/6666d1093ee949ac2a3c43f1b7eed9e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/02/739f2f1fc3f0b298959d5942528297641.jpg"
+	]
+}

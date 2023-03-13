@@ -1,0 +1,59 @@
+{
+	"id": "6897245",
+	"name": "바싹 달콤 늙은호박전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/06/c9d1722f6b8fdca889578bd4d1adce041.jpg",
+	"url": "https://www.10000recipe.com/recipe/6897245",
+	"ingredient_ids": [
+		355,
+		234,
+		30,
+		497,
+		226,
+		504
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "늙은호박",
+			"ingre_count": "",
+			"ingre_unit": "작은거"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "10",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "솓가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 먼저 수저로 호박씨를 다 제거 해주세요",
+		"2. 전 수저로 호박을 긁어니 더 맛난것 같아 수저로 긁어요  *껍질이 얇아 질때까지 쓱쓱 꼐속 긁어주세요",
+		"3. 긁은 호박에 *소금 반수저 *설탕3수저 *말가루10숟가락 넣고 골고루 버무려 줍니다 찰지게 반죽이 되면 호박전을 부치시면 됩니다",
+		"4. 달구어진 후라이팬에 식용유를 넣고 *최대한 얇게 펴서 전을 부치고 겉은 바싹하고 속은 쫄깃쫄깃 달콤한 호박전 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/06/444ef0600af10910b4682cd5030f31b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/06/dea3d4c1113031f44623e39d2e5e4d101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/06/369f37ce75b78e7dfb4fc5881f3fc7c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/06/ffcfe5d0132a16bc08f9e8c43efe43671.jpg"
+	]
+}

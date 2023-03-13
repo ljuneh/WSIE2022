@@ -1,0 +1,54 @@
+{
+	"id": "6917446",
+	"name": "간단하게 즐겨요 칼국수 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/08/14/a77c57a9c8c67e9b07f12c714cc455f21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6917446",
+	"ingredient_ids": [
+		7,
+		5,
+		56
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "생칼국수",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 애호박은 반달모양으로 자르고",
+		"2. 감자도 반달모양으로자른다",
+		"3. 느타리버섯은 가닥가닥 찢어서 준비한다",
+		"4. 칼국수는 생칼국수로 준비한다",
+		"5. 육수에다가 야채를 넣고 끓인다",
+		"6. 모든재료를 넣은육수가 팔팔 끓으면 칼국수를 넣고 다시 면이 익을때까지  끓인다",
+		"7. 면이 투명해 지면 완성",
+		"8. 그릇에 담아 칼국수 를 완성 한다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/14/a47e38204b6b3953114e1b4b60d7619d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/14/21400f51e83e32cb23c8f2d3e9c7df9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/14/112105d040de48ab5c7050bfa6255e9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/14/4bec6870cc5f1e99fa7f1664e274cbdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/14/78067561a31fe3eb3dba5bc4dc169df81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/14/0b62328658ec7f7b4515a13a660d64ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/14/a28b38ceaf297614029421d2f32eac291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/14/370d997aaca33fe385c87492cdd9df001.jpg"
+	]
+}

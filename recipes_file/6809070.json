@@ -1,0 +1,67 @@
+{
+	"id": "6809070",
+	"name": "깨강정 집에서 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/ab9627e2079c6c529c18ce123433ed0a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6809070",
+	"ingredient_ids": [
+		197,
+		226,
+		341
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "해바라기씨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "들깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 들깨, 참깨, 해바라기씨를 각각 고소한 향기가 날때까지 볶아줍니다.",
+		"2. 볶은 것들을 섞어줍니다. 취향에 따라 아몬드 호두같은 견과류나 건과일을 넣으셔도 되요.",
+		"3. 강정을 만들 평평한 쟁반이나 그릇에 식용유를 발라둡니다. 나중에 잘 떼지라고 바르는 거에요.",
+		"4. 그리고 팬에는 물엿을 넣어줍니다.",
+		"5. 원래는 황설탕을 넣어준다는데 똑 떨어지는 바람에 백설탕으로",
+		"6. 그리고 물도 반컵 정도 넣어 끓여줍니다.",
+		"7. 그러면 이렇게 설탕이 녹아서 거품이 전체적으로 올라오는데요. 이렇게 될 때까지 기다려주셔야해요.",
+		"8. 거기에 아까 섞어둔 들깨, 참깨, 해바라기씨 투하",
+		"9. 나무주걱으로 열심히 쉐이킹쉐이킹 해주어요.",
+		"10. 이렇게 찐덕하게 섞여지겠죠?",
+		"11. 나무주걱으로 펴서 아까 식용유를 바른 곳에 펴줍니다.",
+		"12. 식기 전에 칼질로 잘라줘야해요. 먹기 좋은 크기로 잘라줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/b49ce3ad62bd636d5859ddb9d162a4ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/2b6faa99aae2878bcee1b7149c82cb8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/bdd23778dfc2a451a08b7d5629e7d14f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/0b256a460e57ca2218326dfb53340d961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/db5f374ea65925e984fdb349437f34b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/bb7cdfc035cd494644923a6ce3b5282e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/3a3d8146577a3cc69741f1a7a5a846d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/deb5b537a36adf4b92de8c6a580a12c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/e8b8e66cc473fcdfbefa43dc898370071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/2989ebc53d92d245e1c1bfeeafab4c2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/f55159bbd21b84db9f9906f2373322461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/ceb1213fd32bb00484545dd780c754171.jpg"
+	]
+}

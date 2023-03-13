@@ -1,0 +1,68 @@
+{
+	"id": "2950077",
+	"name": "우유찐빵 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/58a5e9ab7f6988a61695eab8c29f6af6.jpg",
+	"url": "https://www.10000recipe.com/recipe/2950077",
+	"ingredient_ids": [
+		567,
+		226,
+		497,
+		469
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "인스턴트드라이이스트",
+			"ingre_count": "11",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "230",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "20",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "적앙금1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 가루를 두어번 체에내려서 이스트, 소금, 설탕을 서로 닿지않게 살살 섞어준다음 포도씨유와 우유를 넣고 반죽을 해줍니다",
+		"2. 반죽을 충분히 주물러 부들부들 끈기가 생기면... 한덩어리로 뭉쳐 볼에 담아 랩을 씌운후 따뜻한 곳에서 1차발효 40분정도 해줍니다",
+		"3. 전체적으로 주물러 반죽속의 가스도 빼주고, 스크래퍼를 이용해 8등분 해주어 주물러 준후 동글거려 모양을 만들어 주고 젖은 면보를 덮어 15분정도 중간발효를 해주세요",
+		"4. 중간 발효가 되는동안 팥앙금을 동글려 모양을 만들어 줍니다",
+		"5. 중간발효가 끝난 반죽을 한번 더 주물러 준후 팥앙금을 올리고 반죽을 오므려 주고 오므린 부분은 밑바닥으로 가게해 유산지를 깔고 놓습니다",
+		"6. 이렇게 해 30분정도나 두배정도 부풀때까지 2차발효를 해줍니다...",
+		"7. 김이오른 찜솥에 간격을두고 놓은뒤 15~20분가량 약불에서 쪄줍니다..."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/d4aeffc4487feb2df9f798cd130ea47b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/1e3c26ab132d0040990b2ce021df627e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/f4a8f8dbf54a736da4b96aa2796d94b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/e35c694d376b00ebfbe2363d1cf36e141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/0ea6dd12526a44bfb2e6577e9ed58edf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/3319170bc8791f2f2c91ef5c1c972fae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/297315cc965bcf0926df9418cb37fc221.jpg"
+	]
+}

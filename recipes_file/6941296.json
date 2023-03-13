@@ -1,0 +1,50 @@
+{
+	"id": "6941296",
+	"name": "멸치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/450112b188167940e1061241fc4b40c51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941296",
+	"ingredient_ids": [
+		29,
+		504,
+		575,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "마른멸치",
+			"ingre_count": "1",
+			"ingre_unit": "머그컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2/1",
+			"ingre_unit": "소주컵"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "소주컵"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 마른멸치를 팬에 넣고 약한불에 볶아주세요.",
+		"2. 바삭한듯 볶아진 멸치에 자른마늘과 식용유를 넣고 노릇하게 볶아주세요.",
+		"3. 마늘이 익고 멸치가 노릇해지면 올리고당과 통깨를 넣고 뒤적뒤적 한뒤 불을 꺼주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/3d3040f2473a37f02f263959f58bfeb81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/83f57d74f7451cf3353f1ff5d31c89ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/81a10e0c78970010961f3f260ef7b7631.jpg"
+	]
+}

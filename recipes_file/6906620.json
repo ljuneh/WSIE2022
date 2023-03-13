@@ -1,0 +1,43 @@
+{
+	"id": "6906620",
+	"name": "녹두죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/15/ce45312421be09e8c6e74f5b25c11d311.jpg",
+	"url": "https://www.10000recipe.com/recipe/6906620",
+	"ingredient_ids": [
+		114,
+		99,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "녹두",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "6",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 녹두와 찹쌀은 같은 비율로 물에 담궈 물에 뜨는 껍질은 버리고( 여러번 반복) 8시간 불려 둡니다  위에 좋은 찹쌀은 소화가 잘되고 녹두때문에 발생하는 위장장애를 막아줍니다",
+		"2. 불려 두었던 녹두에 물6컵 넣고 강한불에 끓여줍니다 녹두가 퍼져서 터질때까지 끓여야 됩니다",
+		"3. 한번 끓어오르면 뚜껑을 열고 중약 불에서 30분 정도 눌지않게 저어가며 끓여 주세요",
+		"4. 찹쌀이 익었다고 생각할때 먁불에서 10분정도 더 끓여 마무리 합니다",
+		"5. 푹퍼진 녹두의 씹히는 식감도 좋고 녹두는 체내 독성 물질을 배출시켜주는 효능이 뛰어난 식품입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/15/b936d39aa8e2dec9e90241ccedc100961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/15/8a461bdb0b0a8488a127978d8f02ae3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/15/838459df5b22ddee41d3e05e23e941601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/15/6249d36fbf949cd7f171747d51f1c0c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/15/50e968e10729f9284979dab0e689ab9a1.jpg"
+	]
+}

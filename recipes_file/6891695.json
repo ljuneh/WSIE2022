@@ -1,0 +1,69 @@
+{
+	"id": "6891695",
+	"name": "[오쿠] 슬림오쿠 약식, 약밥 만들기 / 슬림오쿠 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/29/a827ed6e33e380bf2378673d3ba9f6261.jpg",
+	"url": "https://www.10000recipe.com/recipe/6891695",
+	"ingredient_ids": [
+		99,
+		995,
+		379,
+		478,
+		471,
+		660
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "600",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "450",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "슬라이스아몬드",
+			"ingre_count": "",
+			"ingre_unit": "등"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "계피가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름(약밥섞을때)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 찹쌀은 박박 문질러 씻어 물기를 빼주고, 밤은 2~4등분으로 잘라 줍니다. 대추는 돌려깎기하고, 모든 견과류는 소쿠리에 담아 흐르는 물에 살짝 씻어 물기를 빼 준비해 줍니다.",
+		"2. 내솥에 찹쌀을 담고 그 위에 견과류를 고루 얹은 다음 소스를 부어주세요.소스는 물과 각 분량의 양념재료를 섞어 미리 준비합니다. 약밥 섞음용 참기름 1큰술은 넣지 않아요.",
+		"3. 뚜껑을 닫고 가열판 위에 내솥을 올립니다. 찜 메뉴를 선택한 후 시작 버튼을 눌러 조리를 시작합니다.1. 가열판에 가열물 600ml를 부어주세요. 2. 압력뚜껑에 압력패킹이 잘 끼워져있는지 확인해주세요. 3. 압력뚜껑 결합 후 압력추를 정 위치에 세워주세요.",
+		"4. 2시간 뒤 완료되면 참기름 1큰술과 함께 골고루 섞이도록 살살 저어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/29/9d253586cc25bcf2cab441d8c5401c951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/29/fbb214541a42058abdb65d734e104e181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/29/a93dace7b7da390380cb37b7dc0952011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/29/cfe0fe7ad50039378116a8e9c2d728d51.jpg"
+	]
+}

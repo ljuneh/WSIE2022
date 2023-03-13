@@ -1,0 +1,65 @@
+{
+	"id": "6942285",
+	"name": "두부카레덮밥세트_두부카레편",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/bda970a19069fcc5dc890da0e84803df1.png",
+	"url": "https://www.10000recipe.com/recipe/6942285",
+	"ingredient_ids": [
+		323,
+		3,
+		295,
+		504
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "10",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 두부는 물에 한 번 헹궈주고 깍두기 모양으로 작게 잘라 준비해주세요.",
+		"2. 청양고추를 잘게 다져줍니다.",
+		"3. 양파는 먹기 좋은 크기로 잘라 줍니다.",
+		"4. 카레가루에 생수 5스푼을 넣고 뭉치지 않게 잘 섞어 풀어주세요.",
+		"5. 프라이팬에 식용유를 넣고 중불에서 양파를 볶아줍니다.",
+		"6. 양파 겉면이 살짝 노릇해지면 두부를 넣고 한 번 더 볶아주세요. (식용유와 한 번 굽듯이 볶아서 뭉개짐을 방지시켜 주는 과정이에요~)",
+		"7. 두부 겉면도 노릇해지면 풀어놓은 카레가루를 넣어주시고 다져놓은 청양고추도 함께 넣고 볶아주세요.",
+		"8. 추가로 생수 5스푼을 더 넣어 주시고 약불에서 걸죽하게 조려주시면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/9f2ba6820bf3e3fa4fbc444f6064331d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/0364a1e02f5978f9015666428bc0b2ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/ad8345a8edeab63ec736914a1b90db7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/3ff5b29d019409fffb71891c388c57b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/cdb697871ecb73fdf5a7783a771b12331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/7cde3db526a40596544e614241af3b4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/0305c6fff6796d0c6b187320588e489c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/5463ba828620a2fc5b9772dfd4e534c31.jpg"
+	]
+}

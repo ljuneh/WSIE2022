@@ -1,0 +1,98 @@
+{
+	"id": "719990",
+	"name": "고추장 멸치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/2caa41732dd8f183539622224ce073e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/719990",
+	"ingredient_ids": [
+		320,
+		184,
+		473,
+		237,
+		379,
+		226,
+		341,
+		292,
+		846,
+		233,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "땅콩",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 2-3cm 정도 되는 가이리 멸치를 사용했고요.. 그것보다 조금 더 큰 멸치인 중멸치인 고바 멸치를 사용해도 되요. 암튼 멸치의 양은 종이컵으로 평평하게 담아 2컵 정도를 사용하세요. 약하게 달군 팬에 올리브오일(3)을 두르고 타지 않게 중불로 달달 볶아 주도록 합니다. 적당히 바삭하게 볶아진 멸치는 따로 꺼내서 그릇에 담아 한쪽에 두세요.",
+		"2. 멸치볶음에 함께 넣을 땅콩(2분의 1컵)은 그냥 사용해도 되지만, 대충 멸치에 잘 달라붙도록 몇번 두드려서(?) 쪼개주도록 합니다.",
+		"3. 역시 약하게 달군 팬에 땅콩을 넣고 타지 않게 살살 볶아 수분 없이 고소하게 바짝 볶아 줍니다. 이렇게 볶아진 땅콩은 멸치와 함께 섞어 두세요. 땅콩 대신에 호두 등을 넣어도 좋아요. 호두나 땅콩 모두 이렇게 한번 팬에 볶아 사용하거나, 아니면 전자레인지에 넣고 돌려서 바짝 말려 사용하면 더욱 고소하고 맛있답니다.전자레인지",
+		"4. 팬에 고추장(2), 고추기름(2), 간장(1), 설탕(1), 물엿(2), 맛술(2), 청주(2), 다진 마늘(1) 을 한데 넣고 바글바글 끓이세요.",
+		"5. 끓인 양념장에 미리 볶아 놓았던 멸치와 땅콩을 넣고, 양념이 골고루 잘 묻도록 볶아 주세요.",
+		"6. 양념이 고루 잘 섞였으면 마지막으로 통깨(1)를 솔솔 뿌려주면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/07/bfd28dc1215383aadba6515ab4d6c6991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/07/6203523cddd12ac3facbb0e246c6bc701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/07/f739a39650c6162a30e61900b8f8f5731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/07/4561968206fc89ee6b633528da114b041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/07/06daa2c881588ab4409b6ec01ee285f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/07/7e295db714858684ec5da554202de9e41.jpg"
+	]
+}

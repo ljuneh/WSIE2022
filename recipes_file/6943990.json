@@ -1,0 +1,82 @@
+{
+	"id": "6943990",
+	"name": "망고머핀",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/6ce0c6bec2530308d0044630982b907e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943990",
+	"ingredient_ids": [
+		226,
+		198,
+		234,
+		373,
+		219,
+		831,
+		471,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "건망고",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "럼주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "계피가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 건망고는 잘게 잘라 럼주1큰술과 설탕10g에 재워 놓아요 계피가루를 넣으면 더 좋구요                     ",
+		"2. 달걀은 거품기에 휘핑합니다. 설탕도 넣으면서요                     ",
+		"3. 거품이 아주 잘 일었죠? 아이보리 색이 될 때까지 버터르 녹여 섞어요                   ",
+		"4. 밀가루와 베이킹파우더 같이 체에 내려 반죽합니다.                   ",
+		"5. 밑에 버터가 가라앉지 않도록 달걀거품이 꺼지지 않도록 재빨리 잘 섞어 줍니다.",
+		"6. 이 때 망고를 넣으면 아주 좋지만, 아주 작은 머핀컵을 이용할 거라서 짤주머니에 직행하고 아주 작은 머핀컵에 짜 넣어요 베이킹컵에다도 짜 넣어요                       ",
+		"7. 망고는 나중에 넣어 줍니다. 180도 20분 구웠어요 빛깔 좋지요?                     "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/0f6bbb0840dca93a3c3097d8df4304241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/6e58abeafc26220a7bafe70f0f947f841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1380ccb1416b2b75c913d3c4a5b1c4fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/6e5d1ece67da5550274bed8ca5f71bd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/9efb4998dfbce14bd7041865955b98021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b351a31d593f782cbb44636c436994271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/d4967e69ad320a09ff4a1417d1f6c6261.jpg"
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"id": "6945416",
+	"name": "보늬 밤 (밤 조림) 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/278e7ab0b6bf6ef45e8097b23b91363f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945416",
+	"ingredient_ids": [
+		187,
+		940
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "밤",
+			"ingre_count": "450",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕밤의",
+			"ingre_count": "1/2",
+			"ingre_unit": "무게"
+		},
+		{
+			"ingre_name": "베이킹소다",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "럼",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 밤, 설탕, 베이킹 소다 +럼, 진간장",
+		"2. 밤 겉껍질 제거하기 속껍질까지 벗겨지지 않도록 조심히 제거하기  (30~1시간 소유)뜨거운 물에 30분 정도 불린 후, 껍질을 제거하면 쉽게 잘 볏겨진다.",
+		"3. 먼저 밤이 잠길 정도의 물을 넣어 30분 끓이기 # 1차",
+		"4. 1차 작업이 끝나면 흐르는 물에 씻기.",
+		"5. 베이킹 소다를 넣기",
+		"6. 그리고 밤이 잠길 정도의 물 넣고 끓이기 (20~30분간) # 2차중간 불",
+		"7. 처음에는 밤을 끓이다 보면 진한 와인색(포도 주스)이 나온다. 진한 와인색 → 연한 와인색처럼 될 때까지 반복하기(3~5회) (20~30분간 끓이기 → 흐르는 물에 씻기)중간 불",
+		"8. 사진처럼 색 진함이 줄어들면 끓이기 작업 80% 완료중간 불",
+		"9. 끓인 밤을 흐르는 물에 씻으면서 체 망에 물기 빼주기",
+		"10. 물기가 빠지면 꼬지를 이용해 심지, 불순물 제거하기 (텁텁한 맛 제거)",
+		"11. 냄비에 밤을 넣고 설탕 넣기 밤 : 설탕 = 1 : 0.5 비율",
+		"12. 밤이 잠길 정도의 물 넣기",
+		"13. 뚜껑을 닫고 30분 정도 졸이기중간 불",
+		"14. 그리고 불을 끄고 한 김 식힌 후, 소독 시킨 유리그릇/병에 보관하기 (냉장보관) 유리그릇 - 1주 ~2주 보관 가능 유리병 - 6개월 보관 가능"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/ba300187e2a91e760a597b4906c1b0761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/5039a4832976981a96128297381f221f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/25c2dce3d8880d6fea9f15734dbdd15d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/b957efcf68f7a9ba7b217a7924d6bce11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/2ef30fc5bc191dfea819cdba84cf36b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/ce38f389598d187b0b5bcb4c638cabf81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/c5a50556d5f1e9097edd819f975dbf231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/9eb35753f2d0e6c65cc198376e7951851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/74187d97ea8b0d8785e936607622b4341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/f3493690773dfce1d8612bf777dbdead1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/a73eaa86957e0d01a464aa40ca5eef541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/0ec1760713d07364f830cfa0186f06fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/55068b1dc31a2ceb7fdcec1b5a9b2c0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/79576aa130bfae139a2b3a58aa8ec9001.jpg"
+	]
+}

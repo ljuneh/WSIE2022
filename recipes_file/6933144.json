@@ -1,0 +1,97 @@
+{
+	"id": "6933144",
+	"name": "우리 집 최애 반찬 달콤 짭조름한 닭안심감자조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/bb7719b695404279a500bcae8014dde01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6933144",
+	"ingredient_ids": [
+		301,
+		27,
+		302,
+		233,
+		660,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭안심",
+			"ingre_count": "10",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "감자작은것",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "간장소주잔",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕소주잔",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "생수소주잔",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술소주잔",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 닭고기는 해동 후 우유에 30분 동안 재운다.냉장 닭고기를 사용한다면 해동 과정 없이 바로 우유에 재워 주세요.",
+		"2. 감자는 적당한 크기로 깍둑 썰고, 대파는 쫑쫑 썰어 준비한다.",
+		"3. 당면은 찬물에 불려 둔다.",
+		"4. 우유에 재운 닭안심을 깨끗이 씻은 뒤 끓는 물에 10분간 데쳐 불순물을 제거한다.",
+		"5. 간장 소주잔 1컵, 설탕 소주잔 1/2컵, 생수 소주잔 1컵, 맛술 소주잔 1/2컵, 다진 마늘 1큰술, 참기름 1/2큰술, 통깨 적당량을 넣어 조림 간장을 만든다.",
+		"6. 냄비에 초벌한 닭안심과 감자 그리고 조림 간장을 넣은 뒤 센불에 끓인다.",
+		"7. 어느 정도 국물의 양이 줄면 중약불로 바꾼 뒤 계속 졸인다.",
+		"8. 국물이 적당히 자박하게 남으면 불려둔 당면과 대파를 넣고 한소끔 더 끓여 준다.당면은 물을 쫙 흡수하므로 국물이 적당히 남았을 때 넣어야 더 맛있게 먹을 수 있어요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/2c04f11b386e01556539be76027d901d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/7e15d58d99dd4f881a15305265ceac831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/1b6e856cce970fb7bfce6ec1ca6545881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/7b521a7f4c3796edf3a6c73814bbd5a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/aae492bb03a87103d0e5c802a8f231da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/c3fc907ca456928e28f521451ac61c9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/51646cea017f7962753b0085440500811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/22/7acf7bb291c8f850bd33f85159e3a0be1.jpg"
+	]
+}

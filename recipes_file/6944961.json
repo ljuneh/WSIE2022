@@ -1,0 +1,78 @@
+{
+	"id": "6944961",
+	"name": "꾸덕꾸덕 쫄깃쫄깃 맛있는 푸실리 크림파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/465c83ee4502d208bb2b0d0ccbe28c961.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944961",
+	"ingredient_ids": [
+		3,
+		29,
+		995,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "푸실리",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "돼지불고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "크림파스타소스",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 양파 마늘을 썰어놓습니다",
+		"2. 돼지불고기를 바싹하게 볶습니다",
+		"3. 웍에 마늘 양파를 볶고 우유 물을 붓습니다",
+		"4. 푸실리를 넣고 익힙니다",
+		"5. 접시에 담아냅니다"
+	],
+	"recipe_img": []
+}

@@ -1,0 +1,55 @@
+{
+	"id": "3070840",
+	"name": "무생채 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/b85f3e2f118da6154561eadff71eb531.jpg",
+	"url": "https://www.10000recipe.com/recipe/3070840",
+	"ingredient_ids": [
+		19,
+		226,
+		231,
+		233
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/2",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 무를 채썰어 소금, 설탕에 미리 절여놔주세요",
+		"2. 작은 무 반토막, 고추가루 4큰술, 설탕 5큰술, 식초 5큰술, 다진마늘 1큰술, 다진파 2큰술 을 준비해주세요",
+		"3. 양념과 무를 무쳐주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/529449f26cf69949f8b22234dd10f6431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/e811a5f00632ce76b9ce2a4da6f80d911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/2d0c495938af642e1a00d1037bbb09f01.jpg"
+	]
+}

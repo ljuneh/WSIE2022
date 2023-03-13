@@ -1,0 +1,73 @@
+{
+	"id": "6895112",
+	"name": "자취생 간단요리<메추리알볶음>",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/09/01/9b54fc4b120dd9acb68c0c7c37d759111.jpg",
+	"url": "https://www.10000recipe.com/recipe/6895112",
+	"ingredient_ids": [
+		221,
+		433,
+		295,
+		473,
+		226,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "비엔나소세지",
+			"ingre_count": "2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1~3개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1~1.5T",
+			"ingre_unit": "~.T"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "4~5T",
+			"ingre_unit": "~T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1~1.5T",
+			"ingre_unit": "~.T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5~7T",
+			"ingre_unit": "~T"
+		}
+	],
+	"recipe": [
+		"1. 양념들은 한군데 모두  넣고 잘 섞어주세요여기서 간보시고 고추장이 많으면 케첩을 좀 더 넣어주세요!",
+		"2. 비엔나는 칼집을 내어줍니다",
+		"3. 식용유를 약간 두른 팬에 비엔나를 넣고 구워주세요",
+		"4. 비엔나가 거의 다 익을때쯤 메추리알과 청양고추를 넣고 같이 볶아줍니다",
+		"5. 비엔나가 완전히 익으면 소스를 넣고 볶아주세요",
+		"6. 접시에 담아서 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/01/6ef091e6d85987d21d59985a6e46c24c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/01/68e09cdfc4300e5257993927d198dc671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/01/9277b9447eb2b99479fb4c2aa37540511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/01/c72b234db754eddd36183c5272bd765f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/01/31f20660b7477f4c34f8ae3b47c197f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/01/f339b49f25157e0c003fda8722c266241.jpg"
+	]
+}

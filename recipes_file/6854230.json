@@ -1,0 +1,59 @@
+{
+	"id": "6854230",
+	"name": "떠먹는 떡꼬치 - 때론 떡피자 또는 떡꼬치 새콤 달콤",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/b3fc330bba013a8c0f8798d3b6f7e9431.jpg",
+	"url": "https://www.10000recipe.com/recipe/6854230",
+	"ingredient_ids": [
+		972,
+		473,
+		724,
+		379,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "20~25개정도",
+			"ingre_unit": "~개정도"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 양파1/2 그리고 파프리카를 다져서 준비한다.",
+		"2. 팬에 양파,파프리카를 넣고  양념장 고추장1,케찹3,간장1,설탕1을 넣고 잘 섞어준다. 그리고 불을 올려 바글 바글 조려준다.",
+		"3. 다른 팬에 식용유를 두르고 떡을 살짝 구워준다. 너무 바싹 구우면 딱딱해서 먹기 불편해요. (떡을 굽기 전에 떡이 딱딱하면 뜨거운물에 데쳐서 사용하세요.)",
+		"4. 떡 위에 끓여 놓은 양념장을 올려준다.",
+		"5. 그 위에 마요네즈 ~ (마요네즈는 생략하셔도 됩니다)",
+		"6. 체다치즈1장 모짜렐라치즈를 올려준다. 그리고 물은 3~5숟가락 정도 팬 주변에 부어준다. 그래야지 떡이 타지 않고 치즈가 잘 녹아요.",
+		"7. 뚜껑을 덮고 약불에서 천천히 치즈를 녹여준다. 전자렌지,오븐을 이용해도 됩니다오븐,전자레인지"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/4b138a1b19bbec572558a8817e6a17f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/fecdacfa043db554ff1ab682cffdcc881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/8f9f6a6a461a8400f3e111747dec8c3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/3b9319b5f4b9a53e096ea5629a92f2371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/c2acce8397c06af5512b819e3fcc1ee01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/9948dd6e0ff599760a021b6b0819a3631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/776afe8a70da4ce4fe41d9a245d15c621.jpg"
+	]
+}

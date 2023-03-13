@@ -1,0 +1,93 @@
+{
+	"id": "6842725",
+	"name": "백종원 떡국 끓이는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/07/ff29528cef91f60ffeaec9818528263a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6842725",
+	"ingredient_ids": [
+		495,
+		995,
+		27,
+		233,
+		349,
+		660,
+		504
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "떡국떡",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "10",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "계란지단용",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		}
+	],
+	"recipe": [
+		"1. 떡국에 들어갈 재료를 준비해주세요",
+		"2. 떡국떡은 충분히 물에 불려서 사용해주세요",
+		"3. 달궈진 팬에 참기름과 식용유 1스푼씩 넣고 소고기를 볶아주세요  소고기는 핏물이 없어질만큼만 볶아주시면 됩니다",
+		"4. 여기에 종이컵 기준으로 10컵을 넣고 육수를 만들어주세요 육수는 끓어오르면 중불로 줄이고 30분간 끓여서 충분히 고기국물이 우러나게 만들어주세요",
+		"5. 국물에서 나오는 거품을 제거하셔야 훨씬 깔끔한 국물맛을 낼 수 있습니다",
+		"6. 국물에 넣을 계란은 풀어서 준비해주세요",
+		"7. 30분간 끓인 국물에 불려놓은 떡을 넣고 다진마늘 1스푼, 국간장 2스푼을 넣어서 간을 해주세요 맛을 보시고 간이 안맞으면 소금으로 간을 추가하시면 됩니다",
+		"8. 풀어놓은 계란을 넣고 그 다음에 준비해둔 파로 마무리해주시면 백종원 떡국 완성 기호에 따라서 후추를 가감해주시면 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/07/3b90068b6e081bf67f5f41d1f583c8a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/07/2c97f7860c7c9383814d10afb960c2811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/07/01a2195c60ce2c3d7dbaf92eac8124001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/07/f3249a5a2399e3467f15830e97c940bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/07/b96ff13e1500fea6247a0b43d273107b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/07/f238d565a66d9532d64408aed49d92d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/07/18db0985a39fcc842e8f2a73455804cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/07/c875bc68a0a588494d6195a34ea1379a1.jpg"
+	]
+}

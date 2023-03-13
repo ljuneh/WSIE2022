@@ -1,0 +1,84 @@
+{
+	"id": "854263",
+	"name": "만만한 한끼 식사 브로콜리 새우볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/61a76a8b25cb7c053fef11c15f33ed51.jpg",
+	"url": "https://www.10000recipe.com/recipe/854263",
+	"ingredient_ids": [
+		266,
+		225,
+		497,
+		504,
+		228
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "칵테일자숙새우",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "데친브로콜리",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "삶은계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2.",
+			"ingre_unit": ".공기"
+		},
+		{
+			"ingre_name": "스테이크소스",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 브로컬리는 잘게 떼어서 소금을 0.5큰술 정도 넣고 끓는 물에 3분간 데쳐냈어요. 너무 오래 데치면 물컹하면서 색이 누렇게 변하구요. 너무 덜 데쳐도 살캉하니 식감이 별로더라구요.",
+		"2. 이렇게 볶음밥재료를 준비했어요. 계란은 소금물에 완숙으로 삶아 노른자는 체에 내려놓았어요. 보통 볶음밥에는 계란을 볶아서 넣는데 오늘은 삶은 계란을 넣고 볶아보려구요.",
+		"3. 새우와 계란흰자, 브로컬리를 잘게 썰어놓습니다.",
+		"4. 팬에 식용유를 두르고 계란 흰자, 브로컬리 새우살을 넣고 잠시 볶습니다. 모두 다 익은 재료라 오래 볶을 필요 없이 살짝만 볶아줍니다.",
+		"5. 밥을 넣은 후, 가스불을 줄이고 골고루 잘 섞이도록 풀어준 다음 밥과 재료가 잘 섞였으면 가스불을 올려 센 불에서 수분을 휘발시켜가며 볶아줍니다.",
+		"6. 마지막에 스테이크소스 4큰술과 후춧가루, 소금간으로 마무리합니다. 스테이크소스 대신 굴소스도 좋고 굴소스나 스테이크소스가 없으면 처음에 볶을 때 마늘을 편으로 썰어 기름에 마늘향을 내주면 볶음밥의 풍미가 좋아집니다. 볶음밥은 불을 세게 해서 조금 오래 볶아주어야 고슬하니 맛있답니다.",
+		"7. 접시에 볶음밥을 타원형으로 담고 체에 내린 계란노른자를 밥 주변에 담고, 샐러드채소 올리고 마요네즈와 케찹을 뿌려내면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/94c06566707e332078c3cce02cf0ce751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/04026eac1773ce111d3a080dc72d12781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/42f92af227e1e97da8a5515e36b632951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/657311db48ffe971355251a218339d6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/f08f2b16ede75cab2ed41369db662a791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/373c673deea64cc78dc42a70d2b8a1341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/4109a8cf6af0a590d99cabd73293ab321.jpg"
+	]
+}

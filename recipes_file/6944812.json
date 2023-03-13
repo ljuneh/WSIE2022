@@ -1,0 +1,84 @@
+{
+	"id": "6944812",
+	"name": "쫄면 팟타이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/170d82f78f9de1f23170c1f63c96e4621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944812",
+	"ingredient_ids": [
+		900,
+		487,
+		219,
+		13,
+		8,
+		79,
+		371,
+		272,
+		192
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "쫄면",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "건크랜베리",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "팟타이소스",
+			"ingre_count": "10",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "캐슈넛",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 끓는물에 쫄면을 넣고 2분 정도 삶아서 찬물에 헹궈 물기를 빼주세요  돼지고기 앞다리살에 미향 1T 넣어 주세요 캐슈넛을 절구에 넣고 알갱이가 조금 있는 정도로 갈아 주세요",
+		"2. 팬에 식용유를 두르고 예열한 후 달걀을 넣고 바닥이 익으면 휘저어서 스크램블 에그를 만들어 주세요  청경채를 4등분해서 씻은후 길이가 긴 잎은 한두개 잘라주세요 오이는 반 자른 후 어슷썰어 주세요",
+		"3. 해동한 칵테일 새우를 씻어 주세요 웍에 식용유를 두르고 돼지고기를 넣고 볶아주세요 청경채, 새우, 팟타이 소스를 넣고 섞어주세요",
+		"4. 청경채 줄기가 부드럽도록 익혀주세요 쫄면에 팟타이 소스를 넣고 면을 골고루 풀어줍니다 스크램블 에그를 작게 잘라주세요 오이를 넣고 팟타이 소스로 섞어주세요",
+		"5. 방울토마토, 건크랜베리, 캐슈넛 가루를 뿌려서 맛있게 먹어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/29f3b701e97b894f2460080246ff54291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/b76cf59f30536266421307c2caaa427e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/fec2977c646dc09543e2c806107c8ffc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/540f8e153db9f10f0a162c1601a263531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/ebfd6b8343f6eb87b03dcc0f5c4979651.jpg"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"id": "6941543",
+	"name": "잠봉뵈르 샌드위치 만들기 아침 브런치 메뉴",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/e281a5ac90e9f23e607e15c50b94808d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941543",
+	"ingredient_ids": [
+		201,
+		198
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "바게트빵",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "잠봉햄",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "치즈",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "3",
+			"ingre_unit": "조각"
+		}
+	],
+	"recipe": [
+		"1. 먼저 바게트 빵은 에어프라이어나 오븐에 180도 5분간 구워주세요.오븐,에어프라이어",
+		"2. 햄은 잠봉 햄 혹은 슬라이스 햄을 준비하고 통 버터를 준비하면 좋아요. 치즈도 함께 준비했답니다.",
+		"3. 겉은 바삭 속은 촉촉하게 잘 데워진 빵은 빵칼을 이용해 이렇게 절반을 갈라주세요. 끝까지 모두 썰어주셔도 되고 아주 살짝 끝을 남겨주셔도 좋아요.",
+		"4. 버터는 크게 한큰술씩 발라주었어요. 원래 잠봉뵈르 샌드위치 만들기의 정석은 통으로 된 버터 한조각을 크게 넣어주는 것이지만 여름이다보니 부담스럽기도 해 저는 조금만 발라 녹여주었답니다.",
+		"5. 그리고 안쪽에 햄,치즈를 듬뿍 넣어주고 빵 뚜껑을 덮어주면 완성~ 이 조합은 정말 맛이 없을 수가 없는 조합인데요. 맛있는 빵과 햄만을 선택해도 누구나 성공할 수 있는 레시피랍니다.",
+		"6. 이렇게 완성된 프랑스 국민 샌드위치"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/06d2297b5618bfb70b2937858dba80831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/a392645096f0e7dab0c274eca558c3191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/6292468e94dacaa417d892485879aa7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d9f61d6b6df8adcf910b88e7891d671b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/b8e7b88e69d4782f5b9a4fd8abc741c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/c776e945b6db91ecfc3c87731ee666141.jpg"
+	]
+}

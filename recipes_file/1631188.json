@@ -1,0 +1,50 @@
+{
+	"id": "1631188",
+	"name": "바나나구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/6d6c005cd3a7d510b6d8a21e16bd6665.jpg",
+	"url": "https://www.10000recipe.com/recipe/1631188",
+	"ingredient_ids": [
+		141,
+		575
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "3~4개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "레몬즙1/2찻술(혹은레몬엑기스)",
+			"ingre_count": "1/2찻술(혹은 레몬엑기스)",
+			"ingre_unit": "찻술(혹은 레몬엑기스)"
+		},
+		{
+			"ingre_name": "아몬드빻은것",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 바나나는 껍질을 벗겨 적당한 크기로 자릅니다.",
+		"2. 예열된 후라이팬에 올리브오일를 조금 두르고 스텐팬과 잘 밀착되도록 40~50초정도 기다렸다가 바나나를 올려 굽습니다. 자주 뒤적이면 모양이 뭉게지니까  완전히 색이 노릇노릇 난 후에 한번만 뒤집는게 좋아요. 올리고당과 레몬즙이나 레몬엑기스를 같이 넣고 센불에 소스를 졸여줍니다.",
+		"3. 소스가 요정도로 자작하게 졸여지면 불을 끄세요.",
+		"4. 접시에 이쁘게 담고 아몬드 빻아놓은 가루를 솔솔 뿌려 주었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/ed3dcda3214f6b673f9f299c2864ce911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/602b4d8c3e648a11647127f2c7c983071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/ba0d65981684d542f00777a2db0d999d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/25b6b7f6b02fb5cc9501794b02275e991.jpg"
+	]
+}

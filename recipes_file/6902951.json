@@ -1,0 +1,60 @@
+{
+	"id": "6902951",
+	"name": "뜨끈하게 칼국수 한 그릇, 호로록호로록~~ ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/27/afb1440ffcb818842beb353398082ad41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6902951",
+	"ingredient_ids": [
+		32,
+		3,
+		9,
+		58,
+		349
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "칼국수면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "배추",
+			"ingre_count": "2",
+			"ingre_unit": "잎"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 칼국수면은 시판면 사용하는데요 흔들어 밀가루 털어 놓아요",
+		"2. 멸치 다싯포 넣고 팔팔끓여 육수부터 냅니다",
+		"3. 끓인육수 냄비에 담고 배추, 양파, 당근, 새송이버섯넣고 잠시 더 끓여 줍니다 국간장으로 약하게 간 합니다",
+		"4. 다른냄비에 물 끓으면 칼국수넣고 끓여요",
+		"5. 끓인 칼국수는 채에받쳐 생수로 살짝 헹궈 사용해요 그러면 국물 깔끔한 칼국수 먹을 수 있지요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/27/c40f9a5f92ca7ce8b0be3c2ec12c28281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/27/b74aae9efa758fc5366e69f1d07d6b8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/27/beed615653d699f5754744ae798215b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/27/73a315a6264c70f7f60a80e2d9012e231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/27/cf2d58a12edf418b7c9a441caab1cad61.jpg"
+	]
+}

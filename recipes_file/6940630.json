@@ -1,0 +1,55 @@
+{
+	"id": "6940630",
+	"name": "비스킷 모양의 어묵바 느낌나는 바삭 부드러운 어묵두부스킷",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/da380f9062d791dc9367f567362508a01.png",
+	"url": "https://www.10000recipe.com/recipe/6940630",
+	"ingredient_ids": [
+		323,
+		9,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "사각어묵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 두부가 잠길 정도로 물을 부어 팔팔 끓여 데쳐 주고 두부만 접시에 꺼내 줍니다.",
+		"2. 두부 데친 뜨거운 물에 흐르는 물에 한 번 씻은 사각어묵을 넣어 어묵을 부드럽게 살짝만 익혀 접시에 꺼내줍니다. (30초 정도)",
+		"3. 당근을 채 썰거나 잘게 다져서 준비하고, 두부와 어묵도 잘게 잘라줍니다.(깍둑썰기로 믹서기에 잘 갈릴 수 있는 크기)",
+		"4. 믹서기에 데친 두부와 어묵과 채 썰은 당근을 넣고 생수 3~4스푼 부어준 뒤 갈아줍니다.반죽이 흐르면 안되고 숟가락으로 떠서 떨어지지 않아야 합니다. 만약 반죽이 퍽퍽한 경우 생수를 조금씩 추가해 점도를 맞춰주세요~!",
+		"5. 에어프라이어에 종이 포일을 깔고 종이 포일 윗면에 식용유를 숟가락으로 골고루 발라 줍니다. 그리고 반죽을 숟가락으로 적당량 덜어내어 비스킷 모양으로 포일 위에 올려준 뒤 180도에서 10분 돌려주세요.에어프라이어덜어 낸 반죽이 서로 붙지 않도록 충분히 공간을 띄어 주세요.",
+		"6. 10분 다 돌아가면 뒤집어서 10분 더 구워 준 뒤 그릇에 담으면 어묵두부스킷 완성입니다.에어프라이어가 뜨거우니 뒤집을 때 조심하세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/4b8ae9f7d1bc69120b5abf9e6053bc201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/8338b98087168a92847fd337277a85fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/04a99e343fdfdcf11c1ae530e76e14b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/93436346bbf0a3cf4b3a5caf0a63879f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/e7e24e725dc24eb360ff16afd8353ffc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/0d6ab2737e29f1c28095b27b1cedee491.jpg"
+	]
+}

@@ -1,0 +1,131 @@
+{
+	"id": "5979040",
+	"name": "열무얼갈이김치 담그기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/1176daa29ccf522f94438dd1ac1b1d4b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/5979040",
+	"ingredient_ids": [
+		35,
+		757,
+		995,
+		3,
+		5,
+		142,
+		29,
+		28,
+		545,
+		333,
+		390,
+		938,
+		497
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "열무",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "얼갈이",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밀가루풀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 열무는 절여서 씻은후 크기가 큰것은 반으로 잘라줍니다",
+		"2. 살살 씻어서 켜켜로 천일염을 뿌려줍니다. 1시간에서 1시간 30분정도면 부드럽게 절여집니다",
+		"3. 감자를 대충썰어서 물에넣고 삶아서 식혀줍니다. 감자만 넣으면 부족한 것 같으면 밀가루풀을 약간 넣어주세요.",
+		"4. 쪽파와 양파,홍고추,마늘,생강,배도 준비합니다. 배는 있으면 넣고 없으면 생략하셔도 괜찮아요.",
+		"5. 절여논 열무를 흐르는 물에 한번 정도 살살 씻어서 물기를 빼주세요.",
+		"6. 감자 삶은 것, 홍고추, 양파, 배, 마늘, 생강을 넣고 갈아줍니다.",
+		"7. 밀가루풀을 약간 만들어서 추가해서 양념을 잘 섞어줍니다.",
+		"8. 씻어놓은 열무에 양념과 쪽파 썰은것을 넣고 살살 버무려줍니다.",
+		"9. 홍고추 몇개는 어슷썰어서 넣어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/5f793f2f7f238d4b6e0ffdd94497f8e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/e7553dac9f413da31e910612c64dbae21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/288943b5bb0cb40da78be4ffd7d9abf51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/bbde738a0496a08fe482988651ae11f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/1b0effb2daab21b0d636dff1676fc25b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/aa36264dd53b673458322b5fc977b4c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/65b9da40078256c7a0d1facd2e6d62bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/d93a682cd536da0478c5208adce053f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/bfc3b65b84932cfa84e985493ef03a1d1.jpg"
+	]
+}

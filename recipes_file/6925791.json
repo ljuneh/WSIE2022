@@ -1,0 +1,75 @@
+{
+	"id": "6925791",
+	"name": "호텔에서 배운 초코칩쿠키 레시피 : chocolate chip cookie | 안젤라 베이킹",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/02/01/d15d281568459618b9d9962f237c6ed01.png",
+	"url": "https://www.10000recipe.com/recipe/6925791",
+	"ingredient_ids": [
+		198,
+		226,
+		373,
+		497
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "버터",
+			"ingre_count": "190",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "283",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "코코아파우더",
+			"ingre_count": "125",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "초코칩",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 박력분, 코코아파우더, 베이킹파우더는 3번 체 쳐서 준비한다.",
+		"2. 버터에 설탕, 소금을 넣고 저속 또는 중속으로 1-2분 휘핑하며 크림화 시킨다.",
+		"3. 계란도 넣고 중속으로 2-3분간 더 휘핑한다.",
+		"4. 체 쳐 둔 가루를 넣고 섞어준다.",
+		"5. 날가루가 보이지 않을 때 쯤 초코칩을 넣고 섞는다.",
+		"6. 종이호일에 반죽을 올려서 원하는 크기의 원통으로 만들어 종이호일로 감싸 냉장고에서 2시간 이상 휴지시킨다.",
+		"7. 종이호일을 벗기고 1cm 두께로 썰어 실리콘페이퍼를 깐 오븐팬에 팬닝한다.",
+		"8. 170도로 예열된 오븐에서 15분 구워준다.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/01/00a13fa95a9d642d2f8beffca5050b671.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/01/03956cdada47c3d8adb49bb30eb759001.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/01/cb171796aaae98c38f4a34b16dd0260d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/01/46cc1580ce33245b8b014fdf83ae2ae31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/01/aa579e201d6110a5486a83fe43dfa0ff1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/01/c62adad54a0d5d45ac3af1c86b5509af1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/01/f3accd2e30ce2a12c98aa2f91911f7d01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/01/942cc677edadd7024fca875cc992dabe1.png"
+	]
+}

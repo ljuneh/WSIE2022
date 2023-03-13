@@ -1,0 +1,78 @@
+{
+	"id": "6944643",
+	"name": "분위기 UP~ 간단하게 뚝딱 만드는 감바스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/a225fec31d123e8070d888d06ea1f3db1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944643",
+	"ingredient_ids": [
+		563,
+		497,
+		225,
+		702,
+		574
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "칵테일새우",
+			"ingre_count": "15",
+			"ingre_unit": "마리정도"
+		},
+		{
+			"ingre_name": "깐마늘",
+			"ingre_count": "10-15알",
+			"ingre_unit": "-알"
+		},
+		{
+			"ingre_name": "페퍼론치노",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		},
+		{
+			"ingre_name": "바게트빵",
+			"ingre_count": "6",
+			"ingre_unit": "개정도"
+		}
+	],
+	"recipe": [
+		"1. 냉동된 칵테일 새우를 물에 씻은 후 키친타올에 올려 물기를 꼭 짜주세요",
+		"2. 물기를 짠 새우에 후추와 소금을 뿌려 밑간을 해주세요",
+		"3. 마늘을 깨끗이 씻고 꽁지부분을 잘라낸 후, 편으로 썰어주세요.너무 얇게 자르지 마시고 3등분정도 해주시면 먹을 때 마늘의 식감이 살아있어 좋아요",
+		"4. 프라이팬에 마늘이 잠길 정도로 올리브유를 넉넉히 둘러준 후 3을 넣어주세요",
+		"5. 불을 켜고 마늘을 튀기듯 끓여주세요",
+		"6. 마늘이 노릇해 질 때까지 잘 저어주세요",
+		"7. 마늘이 노릇해지면 페퍼론치노 혹은 매운맛고추를 넣어주고, 조금 더 볶아주세요",
+		"8. 바로 2(밑간 한 새우)를 넣어주고 새우가 잘 익도록 뒤집어주세요새우가 익으면 후추를 조금 더 넣고 간을 본 뒤 싱겁다면, 소금 간을 추가로 해주세요",
+		"9. 페퍼론치노를 뿌리고 바게트빵을 올려 완성해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/49555aed475618395ed7f99965c114de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/552690c001ba48c380ecc4161689ca9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/8de531f392a21a20a951f76e0d360b5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/ab8c015ceb025075c91a9d9838557fe21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/ef4535c0d2081f690686c91ad4a629281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/db5b90fed9f97bcd5471fee10c15578f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/0b7c5d663ac12689c4c07c46d5d41c7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/b18d1d316170cc268976d0620c5a983c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/923ac0110240ebbc95893aa5eff8a5ac1.jpg"
+	]
+}

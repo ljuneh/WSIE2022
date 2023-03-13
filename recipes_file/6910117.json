@@ -1,0 +1,69 @@
+{
+	"id": "6910117",
+	"name": "신김치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/81729fab0f15dad166a2673cb0efe7aa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6910117",
+	"ingredient_ids": [
+		996,
+		29,
+		575,
+		290,
+		504,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "멸치가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 신김치를 속을 털어내고 깨끗히 씻어낸후 송송 썰어서  달군팬에 식용유를 두르고 썬 신김치를 넣고 볶아준다",
+		"2. 적당히 볶은 신김치에 멸치가루를 넣는다",
+		"3. 정성깃든 멸치분말을 넣고 대파,ㄷㅏ진마늘,후추가루를 넣는다",
+		"4. 맛있게 볶아지면 깨를 뿌려서 완성한다 멸치의 구수한 맛이 신김치와 잘 어우려서 감칠맛 나는 신김치 볶음이 되었어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/56bff88ff632b486493b2861aec8be541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/1aa2c0da7fc848d1334efddae6a358721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/977174145440c42f36b11c67a90503a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/14b26172fbca29bf08d664b8072886a01.jpg"
+	]
+}

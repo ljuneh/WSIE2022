@@ -1,0 +1,86 @@
+{
+	"id": "6925221",
+	"name": "초간단 원볼 레시피, 초코 크랙쿠키(지진쿠키) ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/01/13/fd34f584f1363f5d1e5861ddf0c4f6b01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6925221",
+	"ingredient_ids": [
+		226,
+		884,
+		373,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "실온무염버터",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "62",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "실온계란",
+			"ingre_count": "55",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "1/2",
+			"ingre_unit": "tsp"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "95",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "코코아파우더",
+			"ingre_count": "23",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "블랙코코아파우더",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 버터를 부드럽게 풀어 주세요",
+		"2. 설탕을 넣고 아이보리 색이 될 때까지 휘핑해 주세요",
+		"3. 계란과 바닐라 익스트랙을 넣고 섞어 주세요",
+		"4. 박력분, 코코아 파우더, 베이킹 파우더, 소금을 함께 체 쳐서 넣고, 날가루가 보이지 않을 때까지 가르듯이 섞어 주세요",
+		"5. 반죽을 한 덩이로 만들어 주세요",
+		"6. 반죽에 랩을 씌워, 30분-1시간 동안 냉장 휴지 해주세요",
+		"7. 반죽을 15g씩 분할한 뒤, 손바닥으로 굴려 공 모양으로 만들어 주세요",
+		"8. 설탕에 굴려 표면에 설탕을 입힌 후, 슈가 파우더에 굴려 주세요",
+		"9. 180°C에서 10-12분 간 구워 주세요(오븐에 따라 시간과 온도는 다를 수 있어요)오븐",
+		"10. 팬에 3분 간 그대로 두었다가, 식힘망으로 옮겨 완전히 식혀 주세요",
+		"11. 맛있게 드세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/14/60b1129bbed4639c3eac31275159c2a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/14/5909998234b8bbac905aac3412cf1c1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/14/429daa37b7f685b2a0777adba956360e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/14/33796d2af615d6fcac0e8a28b48487071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/14/b21931f40ab09bf29c89fad50d0feab71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/14/32ae076f4b03cd96da0e0159b1ff88901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/14/3f2006c489b105d15033113b78b974cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/14/bcf9c4cd5e19d077632765447a8777af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/14/5b02a88daa8df3867d5ce33b31c915041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/14/8f6f00f7d5abed2f7f99b6e4d463c2a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/14/baa983c236e03b0a1ead6731b56854cb1.jpg"
+	]
+}

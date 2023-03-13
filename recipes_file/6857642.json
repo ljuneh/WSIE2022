@@ -1,0 +1,66 @@
+{
+	"id": "6857642",
+	"name": "무말랭이무침-꼬들꼬들 맛있는 무말랭이 무침 만들기~!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/29/902b7ebbdf7723683bd65a3407350f371.jpg",
+	"url": "https://www.10000recipe.com/recipe/6857642",
+	"ingredient_ids": [
+		27,
+		971,
+		333,
+		224,
+		29,
+		575
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "무말랭이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 흐르는 물에 바락바락 씻어주시고 그릇에 담아줍니다. 멸치 액젓 1/3컵과 물 1/2컵을 넣어 무말랭이를 40분간 불려줍니다. 멸치 액젓으로 밑간이 되어 맛있어져요^^",
+		"2. 가끔 뒤적뒤적 해주세요~!",
+		"3. 40분에서 1시간 정도 불려주신 무말랭이를 충분히 불렸다면 물기를 한번 짜주세요. 전 충분히 불려지지 않아서 물기 그대로 양념을 했어요. 양념하면서도 무말랭이가 물기를 흡수하거든요.",
+		"4. 고춧가루 3수저와 대파 한 줌 넣어주세요.",
+		"5. 올리고당 3수저와 통깨를 뿌려 마무리해줍니다. 양념 후 1시간 정도 지나면 양념이 쏘~옥 배어 색깔도 붉어지고 맛도 있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/29/6278284b7d906ae36071c3d2f091cd731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/29/c75401469b75758d24e0c657cb3574391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/29/da41178084d6eb0bf789205f06fec1bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/29/aa8d4d5e5f60de7c842ab5f03ddac6901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/29/39be1e16e26d84121f341841e5f7997d1.jpg"
+	]
+}

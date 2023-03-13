@@ -1,0 +1,78 @@
+{
+	"id": "6942730",
+	"name": "깨찰빵 만들기, 에어프라이어로 빵만들기^^",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/7dec9537ef923531e12cf98b6106c4ca1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942730",
+	"ingredient_ids": [
+		497,
+		198,
+		995,
+		379
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "45",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파인소프트t",
+			"ingre_count": "220",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파인소프트",
+			"ingre_count": "20230",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "검정깨",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "55",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "92",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 강력분, 소금, 파인소프트, 검정깨를 섞어줍니다",
+		"2. 전자렌지로 녹인 버터를 넣고 주걱 또는 손으로 비벼주면서 가루와 섞어줍니다전자레인지",
+		"3. 계란물을 만들어주세요 (풀어놓은계란+물+간장)",
+		"4. 반죽에 계란물을 넣고 주걱으로 한덩어리가 될때까지 섞어줍니다",
+		"5. 랩을 씌우고 냉장고에서 30분 휴지합니다",
+		"6. 각각 50g씩 분할 및 둥글리기 한 뒤 에어프라이어에 넣고 분무기로 물을 뿌려줍니다 손으로 발라줘도 됩니다에어프라이어",
+		"7. 에어프라이어 160도 30분 오븐 180도 30분 구워주면 완성입니다오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/0f227ee24b48fc54028726adba04a4901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/9b0428de492be9887b556a4074ef06f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/89d381f61548e4a111b91260d790af111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/9552bcf1ec50803b7a0b32d72bb1b6491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/b071b608458d374d2430b50007dfbfda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/e8030224c0cab38c5684073493b50b261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/5b1fb853045290f525bbfc5b26b4252e1.jpg"
+	]
+}

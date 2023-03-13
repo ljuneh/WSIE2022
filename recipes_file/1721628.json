@@ -1,0 +1,105 @@
+{
+	"id": "1721628",
+	"name": "오도독 소리까지 맛있어요 고구마깍두기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/4a05b517d6e937a8a73776cc82656dd2.jpg",
+	"url": "https://www.10000recipe.com/recipe/1721628",
+	"ingredient_ids": [
+		132,
+		187,
+		995,
+		226,
+		231,
+		497,
+		224,
+		939,
+		390,
+		233,
+		592
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마(400g)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "실백(잣)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "양파즙",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 고구마는 껍질을 벗겨내어 길게 3등분 한 다음 사방 1cm 크기로 깍둑썰기 합니다.",
+		"2. 대추는 물에 씻고 물기를 뺀 다음 반으로 갈라 씨를 빼고 채썰기를 합니다.",
+		"3. 밤은 껍질을 벗겨내고 편썰기를 합니다.",
+		"4. 깍둑썰기한 고구마는 단촛물에 1시간 가량 담그어 놓고,고춧가루, 액젓, 새우젓, 다진 마늘, 양파즙을 분량대로 넣고 양념장을 만듭니다.",
+		"5. 깍둑썰기한 고구마는 단촛물을 뺀 다음 밤과 대추를 함께 볼에 넣고 양념장으로 버무립니다.",
+		"6. 실백은 도마위에 놓고 밀대로 살며시 밀어주면 잣소금이 됩니다.",
+		"7. 버무린 깍두기 위에 잣소금을 솔솔 뿌리고 버무려 그릇에 담아내면 맛있는 고구마깍두기가 완성됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/5501dd99fb926c25f82c9e4818ee6db21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/1104bf88fa2e773cb30fa20d23d689f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/04fb11d4b80a907c73c9ef8c7eb5da401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/9894b9dd20e7c47c4949cb316a8a5fa61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/8a5476b04b189bd473cd5074044a3c2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/1933a46a5f63cbbaf745381cd561a9e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/ba3f336db9e21493d99628b66d20de191.jpg"
+	]
+}

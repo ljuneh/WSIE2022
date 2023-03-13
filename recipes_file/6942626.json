@@ -1,0 +1,70 @@
+{
+	"id": "6942626",
+	"name": "아이들 반찬 버섯된장국 (feat. 다담)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/645bc20fe4016bf503219ecaf7caf74d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942626",
+	"ingredient_ids": [
+		56,
+		55,
+		7,
+		323,
+		858
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "건다시마",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "큰멸치",
+			"ingre_count": "4",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "다담",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 물을 냄비 아래서 손가락 두 마디 올라올 만큼만 잡고 준비한 다시마와 멸치를 넣어주고 불을 올립니다.",
+		"2. 멸치 다시 육수가 끓을 동안 재료를 준비합니다. 단단한 밑동을 잘라주고 손으로 먹을 수 있는 크기로 나누어 줍니다.",
+		"3. 애호박도 잘라주고 나면 재료 준비 끝. 호박 자를 때 부스러지는 것을 좋아하지 않으시면 조금 더 두껍게 자르시면 됩니다.",
+		"4. 육수가 끓으면 버섯들과 애호박을 먼저 넣고 푹 한번 끓여줍니다.",
+		"5. 끓는 동안 두부 반모를 잘라서 준비합니다.",
+		"6. 다담을 넣어줍니다. 유아용 숟가락으로 네 숟가락 넣어줬어요. 간을 보시면서 가감해 주시면 됩니다.",
+		"7. 두부를 넣어줍니다.",
+		"8. 한소끔 끓여주고 나면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/9dc98abcbc7d3ddc514ed9eeec0189981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/c1cd37f72e423fdad3548cfe1f5516d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/9ba4d2520a56292b6c99ab4f8995503f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/2924aadd44957f77293f05f933e617de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/ec3b2e7d86d522537d9c3ca1f7b4df051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/52db2bfcbe65475ca82dd312be4491421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/33b2e56e434ae06c719ff45e2b59fb051.jpg"
+	]
+}

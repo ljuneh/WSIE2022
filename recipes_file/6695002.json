@@ -1,0 +1,68 @@
+{
+	"id": "6695002",
+	"name": "오이김치 담그는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/62c8527ff10f260b7369eb61aef62c0e1.JPG",
+	"url": "https://www.10000recipe.com/recipe/6695002",
+	"ingredient_ids": [
+		8,
+		30,
+		3,
+		843,
+		233,
+		290,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 깨끗하게 씻어서 먹기 좋게 자른 오이를 굵은 소금에 절여주세요. 오이를 구부려 보아서 부러지지 않고 구부러지면 잘 절여진 거에요. 시간상으로 보면 20~30분 정도 절여주면 맛나드라구요.",
+		"2. 잘 절여진 오이를 살짝 헹구어서 양념을 넣어요. 적당한 길이로 썬 부추, 양파도 함께 넣어주고요. 양파를 넣으면 씹는 맛도 있고 오이랑 잘 어울려서 맛있어요.",
+		"3. 싱거운 것 같으면 소금 간을 살짝 더해서 무쳐주어요. 설탕도 조금 넣구요. 부추 숨이 너무 죽지 않도록 살살~~ 무쳐주세요. 깨까지 넣고 조물조물 묻혀주면 아삭하고 맛난 오이김치 완성! 담그고 바로 먹어도 맛있지만 서너시간 두셨다가 먹으면 오이랑 야채에서 물이 나와서 국물도 생기고 간도 잘 베어서 더 맛나져요~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/a60c33afab96e05a12720eaeab44e3221.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/cfd1f556539b9164a27f7dd4e5e7f9871.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/d49c7b5ff026ecd0553ac7485e9671711.JPG"
+	]
+}

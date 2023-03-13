@@ -1,0 +1,41 @@
+{
+	"id": "6855385",
+	"name": "미소된장국 만들기 초스피드 미소장국 미역미소된장국 만드는 방법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/61e6d443cdc9568778d7d073ad631e7d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6855385",
+	"ingredient_ids": [
+		374,
+		91,
+		55
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "미소된장",
+			"ingre_count": "1~2스푼",
+			"ingre_unit": "~스푼"
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 미역은 불려놓고 팽이버섯은 먹기 좋게 잘라준다.",
+		"2. 다시마육수를 써도 좋고 그냥 물을 사용해도 좋다. 끓는 물에 미소된장을 1~2스푼 정도 물의 양에 따라 간을 봐가며 넣어주고",
+		"3. 물이 끓으면 불려놓은 미역을 넣어준다. (미역은 잘게 잘라주는 것이 먹을 때 편하다.)",
+		"4. 팽이버섯도 넣고 한번 끓여주면 초간단 미소장국 만들기 완성~~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/d06a5cfca82a9e016004cf0ee51e6e741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/b6f62f85ec70b2512abeccc12ac17caa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/418b6eebd12619b37c58d4bf0cc7830d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/ac61ce1db05e67f7637d15c2854bd27c1.jpg"
+	]
+}

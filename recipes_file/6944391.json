@@ -1,0 +1,48 @@
+{
+	"id": "6944391",
+	"name": "그냥 먹어도 빵에 발라 먹어도 좋아요~ 명란 감자샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/86d6068e8d6545d338fc7f0324f90f421.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944391",
+	"ingredient_ids": [
+		295,
+		228
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "작은크기감자",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "명란젓2개...",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 작은 크기 감자 5개를 준비했습니다. 감자는 껍질을 벗기고 덤성하니 잘라 냄비에 담고 감자가 충분히 잠기는 물을 붓고 삶아 줍니다.                    ",
+		"2. 젓가락으로 찔러 감자가 부드럽게 익으면 그릇에 감자를 건져 내고 뜨거울때 포크로 으깨 줍니다. 너무 부드럽지않게 감자가 씹히는 식감이 있도록 으깨 주었습니다.                   ",
+		"3. 청양고추 3개를 쏭쏭 썰어 넣고 명란젓 2개..60g을 가위로 잘라 잘게 잘라 넣어 주었습니다. 마요네즈 3큰술, 후추약간을 넣고 고루 잘 버무려 줍니다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/30ad28d3566286b4e30c68cf7dbe10371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/9b2410a9b3115ebbef0299adab8444dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/9dbb94dafd81f46665f4a0da3cc982c91.jpg"
+	]
+}

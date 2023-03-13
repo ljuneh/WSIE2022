@@ -1,0 +1,53 @@
+{
+	"id": "6942766",
+	"name": "단호박조림 단짠단짠",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/e386b9509747b40f4a1f83b44edcf6981.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942766",
+	"ingredient_ids": [
+		328,
+		995,
+		379,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "단호박",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 껍질째 먹는 것이라 베이킹소다 사용해 꼼꼼하게 닦아 줍니다",
+		"2. 꼭지가 아랫쪽으로 향하도록 접시에 담고 전자렌지 2분 돌릴게요 2분 돌린 단호박 겉으로 보기에는 뭐 특별히 달라 보이지 않아요전자레인지",
+		"3. 8등분 잘라주고 씨는 수저로 긁어 줍니다 ",
+		"4. 전자렌지 돌려 부드러워지니 손질이 확실히 수월해요",
+		"5. 조림장 만들게요 물(1/2컵), 간장(1T), 설탕(1T)넣고 설탕 녹도록 저은 후 바글바글 끓입니다 조림물이 끓으면 단호박 껍질이 아랫쪽으로 향하도록 담고 뚜껑닫아 조림합니다",
+		"6. 바글바글 끓으면 조림장을 끼얹으며 조려요 중 약불로 합니다",
+		"7. 조림장이 졸아들면 마무리해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/15e059f6e31f21537f02d3cd261ffbac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/7d8e35cac984e77803a05aeea9d6ab211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/16f08978434e25a35d1739fc313b53d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/f5b03fce3e2c51d204cd81cb5f8d63c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/e559adb7a2dafd9123e73d23321ebbfc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/999ea54d07784d78ba8f1af1572cddcb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/edd6513c3c8681aeb0fd0a999771951e1.jpg"
+	]
+}

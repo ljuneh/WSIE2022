@@ -1,0 +1,90 @@
+{
+	"id": "1747042",
+	"name": "맛 좋고 몸에도 좋은 시래기 된장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/afc5370cab5ee78c68aa52394fdbe04d.jpg",
+	"url": "https://www.10000recipe.com/recipe/1747042",
+	"ingredient_ids": [
+		502,
+		29,
+		349,
+		27,
+		971,
+		90
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "시래기",
+			"ingre_count": "4",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "된장1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청국장가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "국물용",
+			"ingre_count": "",
+			"ingre_unit": "멸치"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 말린 시래기는 끓는물에 삶아내야 합니다. 워낙 부드러운 시래기여서 잠깐 삶아내고 삶아낸 물에 한참을 담군채로 놔둡니다. 그리고는 삶아낸 물이 다 식으면 찬물에 여러번 헹궈서 물기를 적당히 짜냅니다.",
+		"2. 그동안 된장국 끓일 육수를 준비합니다. 다시마 2장, 멸치 7마리 정도를 찬물과 함께 끓여내다가 물이 끓어오르면 다시마는 먼저 건져내고 멸치는 좀 더 끓여서 진하게 육수가 우러나도록 합니다.",
+		"3. 아까 깨끗이 헹궈낸 시래기를 도마에 올려놓고 먹기 좋은 크기로 잘라냅니다.",
+		"4. 육수가 잘 우러나면 된장을 체에걸러 잘 풀어줍니다.",
+		"5. 시래기와 다진마늘 그리고 고추가루 약간 넣어서 팔팔 끓입니다. 고추가루는 취향에 따라 생략해도 무방해요~~",
+		"6. 그리고 깊은 맛을 더하기 위해 청국장가루 1큰술을 넣어줬어요. 청국장가루는 시댁에서 식사 후 건강을 위해서 1큰술씩 드시는 것인데, 청국장뿐만 아니라 검정콩, 깨, 기타 몸에 좋은 것들 함께 갈아낸 것이래요. 근데 저희는 맨입에는 못 먹겠어서 이렇게 된장국 요리에 조금씩 넣어서 사용합니다.",
+		"7. 청국장가루까지 넣어 끓이다 마지막에 대파와 송송 썬 홍고추를 넣어줍니다. 된장만으로는 간이 부족하다 싶으시면 국간장 약간 넣어주세요~ 이 상태에서 한소끔 더 끓여내면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/8d9ad93a8f26faff5ef1cf7eed35e3571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/b7e6a0c26b75ae59a1f2651636ea96cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/13bc89de682b4a741fd182824cef06631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/7a4ae89014cfcd176ead12da693d38a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/d394d0cfccd82ec92f006eabed6acf541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/29e66642fde910821d4eaec7436f5fc01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/acc13c9ca83538af75699e63162721d01.jpg"
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"id": "6940985",
+	"name": "얼갈이 들깨 된장 지짐이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/2ec1b511669a013175874b567a8f02ed1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940985",
+	"ingredient_ids": [
+		29,
+		995,
+		337,
+		504,
+		660,
+		848
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "얼갈이",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다시다3분",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼반"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "바퀴"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 3분정도 삶은 얼갈이는 물에 행궈 채반에 담아 물기를 빼줍니다",
+		"2. 윅에다가 얼갈이를 넣고 식용유를 두바퀴 휘리릭 돌려 넣어주고 된장,마늘,고추가루,다시다를 넣고 물을 3컵을 넣고 조물조물해서 8분정도 끓여줍니다.(간을 보면서 물을 넣어주세요.저는 물을 한컵씩 넣고 조렸거든요;;;)",
+		"3. 중불로 조리듯이 7~8분정도 푹 끓여줍니다",
+		"4. 물이 어느 졸여졌으면 들깨가루를 크게 2스푼반을 물 반컵을 넣고 끓여줍니다 (간을 보시고 물을 추가해주세요)",
+		"5. 들깨가루넣고 5분정도끓여주고 마지막에 참기름을 넣고 2분정도 더 끓여주면 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/339a3af906c173139cfcd905299129481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/6fdd57a7ae631eb4a364c4a9e5f83f931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/419c9ccaba97d1b552adaedce49e20cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/8219542d6014b8383a4e1af2bb636c611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/4e2e0671829397d7751bd125a6af53981.jpg"
+	]
+}

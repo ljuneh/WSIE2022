@@ -1,0 +1,92 @@
+{
+	"id": "6943441",
+	"name": "고등어 김치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/d0b3d3f48add1ec95ec03dd55bd690141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943441",
+	"ingredient_ids": [
+		973,
+		5,
+		953,
+		3,
+		55,
+		323,
+		643,
+		995,
+		848
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "황태채",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "저염숙성고등어",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미향",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "3",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료: 황태채, 감자, 김치, 양파, 팽이버섯, 두부, 저염숙성 고등어, 풋고추 양념: 미향 1T, 김치국물 3국자, 물 2컵, 된장 1T",
+		"2. 감자를 큼직하게 썰어 주세요 황태채를 물에 적신 후 2cm 길이로 잘라서 뚝배기에 넣고 김치와 김치국물을 넣고 물 한컵을 넣어 끓여주세요 두부, 양파, 풋고추를 썰고 팽이버섯은 밑둥을 자르고 듬성듬성 찢어 줍니다",
+		"3. 감자가 익도록 끓이다가 흐르는 물에 씻어서 반 자른 고등어를 넣고 미향 1T 를 고등어 위에 넣으세요 야채를 넣고 된장을 물에 풀어서 넣어줍니다",
+		"4. 썰어놓은 두부를 넣고 국자로 국물을 두부 위에 뿌려 준 다음 바글바글 끓여 줍니다 마지막으로 풋고추를 넣고 맛을 봅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/04bb107e6c2373da4672d3b5b41f88b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/8b35b65f8f481f8beeeb419ce6d9eca51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/535d3755f6ad9c088e208c59976ca55e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/e3340efc2871a8b8c40fdbebf1a4ba1b1.jpg"
+	]
+}

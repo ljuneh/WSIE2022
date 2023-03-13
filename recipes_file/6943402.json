@@ -1,0 +1,47 @@
+{
+	"id": "6943402",
+	"name": "밑반찬 감자조림~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/f12f0c618e46dabf579af955c27fa2c31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943402",
+	"ingredient_ids": [
+		5,
+		379,
+		575,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 감자 필러로껍질을 벗긴 후 도톰하게 한 입 크기로 썰어  팬에 담고",
+		"2. 기름을 빙~ 두른 후 볶으면서 구워준다",
+		"3. 물,간장,올리고당을 넣고",
+		"4. 짜작하게 조려 완성한다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/ab2712f281763f01d9043ca435ac84fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/af1d0900a759c1c8fc4e7993376e7bfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/22919a46e337fae572bcee063a32ce521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/9eeca204e97a00bb5e1cd54271717f281.jpg"
+	]
+}

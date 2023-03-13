@@ -1,0 +1,72 @@
+{
+	"id": "2502135",
+	"name": "한국인이 좋아하는 참치 햄 김치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/2e5fe4e99ff5e7be271675ec978c9fb8.jpg",
+	"url": "https://www.10000recipe.com/recipe/2502135",
+	"ingredient_ids": [
+		659,
+		628,
+		27,
+		660,
+		575,
+		231
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "100",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "김장김치",
+			"ingre_count": "1",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "생수또는육수",
+			"ingre_count": "4~5컵",
+			"ingre_unit": "~컵"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 햄과 김치를 먹기 좋은 크기로 썰어 줍니다. 대파도 어슷어슷 썰어 준비 합니다. 냄비에 참기름을 두르고 중불에 김치를 먼저 볶아 줍니다. 김치가 볶아지면 육수 또는 찬물을 넣고 끓여 줍니다.",
+		"2. 국물이 끓으면 햄과 참치를 넣어 줍니다. 고추가루와 올리고당, 식초도 넣고 한소끔 끓여 줍니다. 마무리로 대파를 넣어 줍니다.",
+		"3. 보글보글 얼큰하고 개운한 참치 햄 김치찌개 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/5c8f719e8833e43d1056ef07e8da1cdb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/c9dd68c198387c914d8faa4272b4f7091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/22ffd282704c65083c8e8e0238aa475a1.jpg"
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "6941811",
+	"name": "누들떡 카레 떡볶이 만들기(코로나 극복)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/17a5a9fe921d592367ea301a88b9c8171.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941811",
+	"ingredient_ids": [
+		52,
+		433,
+		3,
+		995,
+		477
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "누들떡볶이떡",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "비엔나소세지",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "삶은계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 양파는 채 썰고 비엔나소세지를 썰어주세요. 숙주도 깨끗하게 씻어 준비해 주세요.",
+		"2. 누들 떡은 끓는 물에 넣고 살짝 데쳐주세요. 카레소스를 끓이면서 동시에 진행했어요. ",
+		"3. 기름을 두른 팬에 다진 마늘 1스푼을 넣고 볶다가 양파를 넣고 볶아주세요.",
+		"4. 양파가 어느 정도 익으면 비엔나소세지를 넣고 볶아주세요.",
+		"5. 재료들이 잘 볶아졌다면 물 200ml, 우유 200ml를 넣어주세요.",
+		"6. 카레 3T를 넣고 끓여주세요.",
+		"7. 보글보글 끓기 시작하면 굴 소스 1t를 넣어주세요.",
+		"8. 그리고 살짝 데쳐놨던 누들을 넣고 끓여주세요.",
+		"9. 마지막으로 숙주를 넣고 끓여주세요.",
+		"10. 숙주가 숨이 죽고 카레 농도가 적절하게 졸여졌다면 불을 꺼주세요.",
+		"11. 파슬리가루 조금과 삶은 계란도 하나 올려 보았어요. 이렇게 최종 완성이 돼요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/4a4e858131cdcba61a64dc927cc345f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/5967ca356a2bb1a462160fcd2e42a2d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/c1efc5fee7dc040f8078808dfada225b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/589d495b6f5e79e14bfc7fe7f5d4baad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/6284ecccd12d4fbda222777def0340b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/19d645fcda1d17244f2df0ea6fc4ff5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/25ac52223a9d95e96febbd78bc89e6851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/11cd293c776d8271bd671653e94e1b001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/bb680afb595c5c556d8c11f809bee6f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/adf0985c0a4d77792fb9a2450549d63a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/4dfd67b126bdb45161375434acc0a8b31.jpg"
+	]
+}

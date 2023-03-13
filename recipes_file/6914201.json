@@ -1,0 +1,59 @@
+{
+	"id": "6914201",
+	"name": "이런 짜파구리는 없었다 ◑.◑ 한우채끝살짜파구리 ★",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/06/17/b917464857b8f621bce0460aa237de981.jpg",
+	"url": "https://www.10000recipe.com/recipe/6914201",
+	"ingredient_ids": [
+		574,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "한우채끝살",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "짜파게티",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "너구리라면",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 한우 채끝살을 깍둑썬다.",
+		"2. 깍둑 썬 채끝살에 올리브유, 소금, 후추를 넣고 버무린다.",
+		"3. 달군 팬에 기름을 두르고 채끝살을 강불로 빠르게 골고루 굽는다.",
+		"4. 끓는 물에 짜파게티와 너구리를 끓인다.",
+		"5. 물을 약간만 남겨두고 버린 뒤 짜파게티스프 1봉지와 너구리스프 1/2봉지를 넣고 볶는다.",
+		"6. 라면에 구운 채끝살을 넣어 한 번 볶아 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/17/235dd2f691ee469c0ac0ec2bfcff793e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/17/eb98678ab2572dcd15a706322f24956e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/17/8078d51db2a0e86ed806c290b0b24afd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/17/63ffc370d714979a1cb18b863de276951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/17/bc8a829df74a5ee8dd32c7e5ec2bf3921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/17/ca586ed1d288a04971e08b58db3304de1.jpg"
+	]
+}

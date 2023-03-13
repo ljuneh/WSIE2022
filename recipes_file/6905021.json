@@ -1,0 +1,39 @@
+{
+	"id": "6905021",
+	"name": "아이들이 좋아하는 초간단 간식, 퐁크러쉬 쉐이크 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/209d1b0860d71c45978f804721f107f71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6905021",
+	"ingredient_ids": [],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "죠리퐁",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "쿠앤크아이스크림",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 준비물을 준비해 주세요. 죠리퐁, 쿠앤크, 우유, 잔",
+		"2. 쿠앤크 아이스크림을 잘게 썰어 주세요.",
+		"3. 우유를 부어 주세요.우유가 아이스크림 잠길만큼만 넣어 주세요.",
+		"4. 죠리퐁을 부어 주시면 돼요.",
+		"5. 퐁크러쉬 쉐이크 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/83df3e9470d601ee63f2e498cea80a491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/50650a12fb1feee6fc7088a1af85ad811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/054051b1125867c7480d5148ac8b48491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/7ee08b06e12654a8056d311836abcc6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/01c6c397756baa33dd7f9f5c835184741.jpg"
+	]
+}

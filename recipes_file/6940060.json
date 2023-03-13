@@ -1,0 +1,58 @@
+{
+	"id": "6940060",
+	"name": "복숭아푸딩",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/9401182d210bc1c490c255f3f9d7e7d11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940060",
+	"ingredient_ids": [
+		144,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "복숭아",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "분말한천",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "천연색소핑크",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 준비재료 복숭아 1개, 분말한천 3g, 설탕 50g, 우유 100ml, 천연색소 핑크",
+		"2. 복숭아는 껍질을 벗기고 잘게 썰어주세요",
+		"3. 복숭아 100g과 우유 100ml를 넣고 믹서기에 갈아주세요",
+		"4. 갈아준 액을 냄비에 부어주세요",
+		"5. 분말한천 3g을 넣어주세요",
+		"6. 핑크 색소를 넣어주세요",
+		"7. 설탕 50g을 넣고 끓여주세요",
+		"8. 액을 용기에 붓고 굳혀주면 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/ba43f0c77bbdb38fc8593ab803ddc9f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/7fe8fa04df0fc19e7d2339ad0146662d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/d4f9e63d902913c450d2a6be9b44d0801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/5fe395a816dedf641cd78a2ae6ff452e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/97f95a94050e2676ce6598cff93c32581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/665460581fb44133edc7fdaed61fcda91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/b3a94532e1a85cfaaa8e2cfd118e46fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/c7010cd81402e34cdc04b5d00a63187a1.jpg"
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"id": "6940946",
+	"name": "소시지 야채볶음 만드는 법 아이들 반찬으로 이만한 것도 없죠?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/f9adcd69df9c48efd1674c68e6b5bbfd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940946",
+	"ingredient_ids": [
+		3,
+		379,
+		226,
+		341,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노란파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빨간파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "볶은참깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 양파는 2x2cm 간격으로 썰고 붙어 있는 것은 한 개씩 뗀다.",
+		"2. 노란 파프리카와 빨간 파프리카도 양파와 똑같이 2x2cm 간격으로 썬다.",
+		"3. 소시지는 +모양으로 칼집을 낸다.",
+		"4. 팬에 식용유 3T를 두르고 양파를 볶는다.",
+		"5. 양파가 투명하게 익기 시작하면 소시지를 넣고 볶는다.",
+		"6. 소시지에 칼집 넣은 부분이 벌어지면서 익기 시작하면 노란 파프리카, 빨간 파프리카를 넣고 볶는다.",
+		"7. 소시지가 노릇노릇한 상태가 되고 노란 파프리카, 빨간 파프리카가 윤기 있게 익으면 케첩 5T, 간장 2T, 설탕 1T, 물엿 1T를 넣고 볶는다.",
+		"8. 모든 재료에 양념이 골고루 배어 볶아진 상태가 될 때 볶은참깨 1T를 뿌리면 소시지 야채볶음 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/af741466574cbce543c050a227a245fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/b8b144641ef5171b46404729fdb0e72f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/2f92a9d613a9645b6e214f925a4d95a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/dc097ab661dfcda67c265fa0c1e248921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/66beda4cf9122a5e4fa9c818f95e13321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/2fac95937f30bb83b8c8de84ea873c221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/ed87452a729c2c3ff2ec6837d483e6fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/cea70750622b9f2d783c202ac866f1541.jpg"
+	]
+}

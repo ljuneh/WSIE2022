@@ -1,0 +1,94 @@
+{
+	"id": "6943998",
+	"name": "아삭 오이무침 # 밑반찬 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/cf527f420b3b299eba0773340e84943c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943998",
+	"ingredient_ids": [
+		8,
+		3,
+		9,
+		545,
+		233,
+		333,
+		938,
+		575,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "7",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 오이겉의 돌기를 과도로 제거하고 씻어 주세요",
+		"2. 어슷썰어 주세요 오이 끝이 보통은 써서 맛이 없는데 이 오이는 안 쓰고 맛있어요 < 이 쓴 부분이 몸에 좋다고 하는 글을 봤어요 >",
+		"3. 천일염 1T 를 뿌리고 골고루 섞어주세요",
+		"4. 당근과 양파를 채썰어 주세요 (다 넣지 않고 사진 분량의 반만 넣었어요)",
+		"5. 소금이 녹아 물이 생기면 오이만 건져서 그릇에 담아 주세요",
+		"6. 양념: 다진마늘 1/2T, 고추가루 7T, 멸치액젓 1T, 매실청 2T, 올리고당 2T, 참기름 1T, 통깨",
+		"7. 양념을 버무린 후 통깨를 뿌려 주세요 아~삭 시원한 오이무침 입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1ddf6653c937babd6255cb3c4020b7c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/107affeaed72eb12a4d79dc1ae48cceb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b8b662f6b9eaf30a5ccc749db4f06b7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/3766eab8b28bc270ba3a2d7457722d781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/bb109d76f00ece6f6403d17ba4c712f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ed8f2888d563be8299c0dc1decfc6c171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b6ac212686fb6f364612e4dff8475a0b1.jpg"
+	]
+}

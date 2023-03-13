@@ -1,0 +1,77 @@
+{
+	"id": "6944650",
+	"name": "표고버섯 계란장조림~밑반찬으로 든든하다네",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/57506200b4e0482c9ff3954530e73b2a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944650",
+	"ingredient_ids": [
+		462,
+		295,
+		608,
+		575,
+		226,
+		477,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삶은계란",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "건표고버섯",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "조림간장",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 계란을 삶아서 껍질을 벗겨주세요",
+		"2. 조림간장을과 다른양념을 모두섞어 주시고 건표고버섯을 넣어주세요 *단맛은 개인취향껏 넣고 빼고 하세요",
+		"3. 삶은계란을 넣고 청양고추/월계수잎을 넣고 센불에서 15~20분을 조려주세요",
+		"4. 전 간장국물이 1/3일 정도로 남을만큼 조려주었어요 저희집 아이들은 조려진계란과 간장을 섞어서 밥을 비벼먹는것을 좋아해서 그렇게 조려준답니다~",
+		"5. 간장물을 남겨주시고 계란을 절반으로 잘라서 남은 간장물을 위에 뿌려주신후 드셔도 맛있어요 건표고버섯은 쫄깃해서 맛있고 계란장조림은 표고버섯의 맛에 감칠맛이 더욱맛있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/59fb653b2fa59583ec255e57de00da591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/8616d9d8a9474f735ca9dab42f2e90311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/0326962b3047a26e851af9d373cfe0f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/93bc327af572b5d93aa9375777c0b12d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/37525c0c419020469de354d67ce107b11.jpg"
+	]
+}

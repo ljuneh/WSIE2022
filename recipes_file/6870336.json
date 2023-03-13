@@ -1,0 +1,57 @@
+{
+	"id": "6870336",
+	"name": "누구나 마실 수 있는 홈메이드 율무차만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/25/d22cc1ec7c1d6b5a5ac2e8643f9e76a91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6870336",
+	"ingredient_ids": [
+		105,
+		193,
+		184,
+		188
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "율무",
+			"ingre_count": "330",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "아몬드",
+			"ingre_count": "100",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "땅콩",
+			"ingre_count": "100",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "아마씨가루",
+			"ingre_count": "100",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "볶은콩가루",
+			"ingre_count": "100",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "100",
+			"ingre_unit": "그램"
+		}
+	],
+	"recipe": [
+		"1. 율무를 잡곡으로만 인식하던 아낙이 율무 꺼내어 세척하고 물기 빼서 무쇠 솥에 달달 노릇노릇하게 볶다가                   ",
+		"2. 블랜더로 휘리릭 갈아주고",
+		"3. 땅콩 다진 것 잣 고소하게 달달 살짝 볶아주고 아몬드 가루 듬뿍 넣고 아몬드 슬라이스 한 것 & 가루 설탕 살짝 섞어서",
+		"4. 끓여 주었더니 두 남자 미소가 입가에 살며시 번지네요 이제 더 이상 율무차 사러 나갈 일은 없을 듯합니다 ㅎㅎㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/26/3d92e23161d4f1ef4c99e4f22381c3101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/26/491b1f184e334c7a3747b93c1064d3c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/26/b3ba064ae780c56ceb9af22a2d3c01551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/26/a6f78da4eac7bfaf53437ea7fb81cc591.jpg"
+	]
+}

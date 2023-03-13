@@ -1,0 +1,45 @@
+{
+	"id": "6866209",
+	"name": "화려한 혼술~맥주안주 다이어트에도좋은 야채쌈",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/03/39ead349e4237726ba8821e6964dea971.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866209",
+	"ingredient_ids": [
+		359,
+		15,
+		8,
+		300
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "무쌈",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "",
+			"ingre_unit": "적당"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		}
+	],
+	"recipe": [
+		"1. 무쌈→깻잎→오이,피망,맛살이나 닭가슴살 순으로 돌돌말아주세요.",
+		"2. 차례순으로~~",
+		"3. 칼로 엇스썰기 해주세요. 소스는 마트가시면 다양하게 있더라구요. 전 겨자소스로~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/03/f58c0fe92b427ea779e1ba9b1c4e70051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/03/c231935372f65d4e260c6ea84c09db491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/03/faa6f48944a06e38e31add9934385ca91.jpg"
+	]
+}

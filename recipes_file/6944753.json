@@ -1,0 +1,53 @@
+{
+	"id": "6944753",
+	"name": "브로콜리 요리 / 브로콜리 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/aaa0b97cbfab16f2f8f61768d81e344d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944753",
+	"ingredient_ids": [
+		11,
+		379,
+		497,
+		225,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 브로콜리는 적당한 크기로 자른다.",
+		"2. 브로콜리는 끓는물에 소금을 넣고 데쳐서 준비한다.",
+		"3. 브로콜리는 찬물에 씻어 그릇에 담아 준다.",
+		"4. 간장, 소금, 후춧가루, 참기름을 넣고 묻혀준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/531b7d9745e38d8cc6b9c7a39a055fd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/47574e74c70d29a8ba17e25be6771c261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/8600413de2770cfb22a2605d101570171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/c94f9e6866311e9c007a3c2e9b81e9b11.jpg"
+	]
+}

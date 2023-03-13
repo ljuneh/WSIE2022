@@ -1,0 +1,59 @@
+{
+	"id": "6630762",
+	"name": "오리엔탈드레싱 넣은 양상추샐러드 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/e4347353e5af19638624511b4c38cbdf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6630762",
+	"ingredient_ids": [
+		379,
+		233,
+		250,
+		231
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실액(설탕)",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 오늘만드는 샐러드소스는요 한국요리에 참 잘어울리는 드레싱이랍니다. 간장과, 다진마늘 등으로 만들어서 한국사람 입맛에 참 잘 맞는거 같아요. 레몬즙은 요즘 마트에 가면 많이 팔지요. 간장1.5 넣고 레몬즙 넣었어요.",
+		"2. 압착 올리브오일을 2 넣어줍니다.",
+		"3. 다진마늘조금 매실액을 넣어서 소스를 만들었어요.",
+		"4. 이렇게 해서 오늘 양상추샐러드와 어울리는 오리엔탈드레싱이 완성되었습니다.",
+		"5. 오늘은 몸에 좋은 토마토와 블루베리 넣어서 만들었어요. 샐러드재료는 정답이 없어요 그냥 몸에좋고 그날 있는 야채 채소 넣고 만드는거지요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/c18fad14890a82af8d4950076c307cef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/b5bc2c533ad60a7453292e2d7e644ccb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/fc2a7b12a24dfc3b23898726904609a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/f00606aa7bf98b76f024937714e0fcd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/27f805d6feab576805727e845fc2863a1.jpg"
+	]
+}

@@ -1,0 +1,107 @@
+{
+	"id": "6870128",
+	"name": "머위장아찌, 아삭한 머위대 요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/20/d77f8ae2a9d306ef92574671ac5c9bdf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6870128",
+	"ingredient_ids": [
+		310,
+		995,
+		226,
+		231,
+		497,
+		379,
+		608,
+		28,
+		857
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "머위대",
+			"ingre_count": "10",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "청고추홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개씩"
+		},
+		{
+			"ingre_name": "건표고(생락가능)",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "250",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "180",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "작은청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "10*10cm다시마",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "4~5장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 가장 먼저 펄펄 끓는 물(+소금 1T)에 머위대의 줄기(보라색 부분)부터 넣다가 줄기의 숨이 죽으면 통째로 넣고 센 불에서 (양이 적으면)1분 30초에서 (많으면) 2분만 삶아주세요.",
+		"2. 데친 머위대를 찬물에 넣어 2~3번 깨끗하게 씻어주세요.",
+		"3. 그리고 머위대를 감싸고 있는 껍질을 360도 다 벗겨주세요. 그래야 먹을 때 질기지 않고 부드럽게 즐길 수 있답니다.",
+		"4. 여기서 Tip 머위대는 살짝 쓴 맛이 있어요. 3~4시간 물에 담가주시면, 쓴 맛이 쏙 빠진답니다. 그러니 꼭 담가주셔야겠죠!",
+		"5. 데쳐 껍질을 벗긴 머위대를 6.5cm 간격을 맞춰 썰어주세요. 그리고 준비한 장식용 고추는 0.5~0.6cm 간격으로 썰어주세요.",
+		"6. 이때 썰어놓은 고추는 찬물에 담가 씨를 빼주고 물기를 제거해주세요.",
+		"7. 그리고 씨를 뺀 고추에 머위대를 2~3개 정도 끼어 넣어 모양을 예쁘게 잡아주세요.저희는 예쁘게 즐기기 위해 고추를 썰어 끼웠는데, 맛에 지장은 없으니깐 Skip 하셔도 돼요.",
+		"8. 먼저 위에 써 놓은 장아찌 소스를 다 넣고 중불에서 기포가 올라올 때까지 뚜껑 닫고 푸르르~ 끓여준 다음 차게 식혀주세요.",
+		"9. 머위대를 준비한 보관 용기에 담아준 다음 여기에 차게 식혀준 소스를 부어 냉장고에 보관해 주기만 하면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/20/9026104e45a473c6b27a722f60892e131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/20/f7875757918a414f405bafa0ae79e9831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/20/269609f7dbde8f12134ddd841ad2c4181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/20/2c0d820ed358afe3b69b2ffd659e0add1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/20/f758352e76b0fad79c19579e67db54f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/20/66d4cc0acbb271bb0e36220904d0d45e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/20/df18924b0111a515a789eb40a3fefbbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/20/6ecf2bf9794b4c3508a5e6d024868fa11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/20/b195aed55a6142d0dbcede2ec4fef9541.jpg"
+	]
+}

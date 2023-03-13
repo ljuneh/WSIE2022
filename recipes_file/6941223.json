@@ -1,0 +1,66 @@
+{
+	"id": "6941223",
+	"name": "[우리품종 경기미 참드림] 쌀요리 / 경기미 참드림 쌀 스프레드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/a20826ca371528edb28e7a03488871011.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941223",
+	"ingredient_ids": [
+		226,
+		485,
+		575,
+		227,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "우리품종경기미참드림",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "4",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 우리품종 경기미 참드림 쌀을 준비한다.",
+		"2. 준비한 쌀은 1~2번 씻어 준다.",
+		"3. 씻은 쌀에 물을 넣고 30분정도 불려준다.",
+		"4. 올리고당, 꿀을 준비한다.",
+		"5. 생크림, 설탕을 준비한다.",
+		"6. 불린쌀은 물과 함께 믹서기에 갈아 준다.",
+		"7. 믹서기에 갈아준 쌀은 냄비에 넣고 약불에서 쌀이 풀어 질때까지 끓인다.",
+		"8. 쌀이 풀어지면 생크림, 설탕, 꿀, 올리고당을 넣고 약불에서 은근하게 끓인다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/cffa005865c4832865084cc33627a6201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/d693153ccadd60bc09a0704db0bc771d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/2029907970d5699e9eb1cba1485efae81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/0e6a15f5e1ca1e6fd129c39641d0507b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/0539eeacbeab9db46319a5dcafb49f941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/b7514d70dd778ccda33f565c38bbeb951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/93b124303045f150c6ad536b86c01c211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/172d7957213e40c0495ea8a80619eaf31.jpg"
+	]
+}

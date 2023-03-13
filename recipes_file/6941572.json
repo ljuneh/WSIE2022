@@ -1,0 +1,69 @@
+{
+	"id": "6941572",
+	"name": "치킨 카레 만드는법 맛있게 ~♪ ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/8e5d6819da2b20fc0014771dc861951a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941572",
+	"ingredient_ids": [
+		5,
+		3,
+		9,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "​카레",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "치킨너겟",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		}
+	],
+	"recipe": [
+		"1. 300g 치킨너겟 한 봉지를 팬 또는 에어프라이어를 이용해 구워 준비합니다. 에어프라이어",
+		"2. 그사이 카레에 넣을 감자, 양파, 당근을 썰어 준비하고 ",
+		"3. 식용유 또는 버터를 두르고 양파를 먼저 넣어 달달 볶아주세요. ",
+		"4. 갈색빛이 날 때까지 계속 볶아주세요. 그래야지 풍미가 좋답니다~ ",
+		"5. 이어 감자랑 당근을 한데 넣어 감자가 투명해지면",
+		"6. 물 3컵을 붓고 보글보글 끓여주고",
+		"7. 감자가 다 익으면 ",
+		"8. 카레 1봉지를 한데 넣어 고루 풀어가며 끓여 마무리해주심 된답니다.",
+		"9. 카레 만드는법은 제품 뒷면 참고해 끓여주면 되는~ 어려움 1도 없는 간단한 음식이죠. ",
+		"10. 그릇에 밥 적당히 담고 카레도 담고 그 위에 구워놓은 치킨을 올려주심 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/031ed9291fe3808e85a1b477b26c79ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/e2829378c035612448122d5295a608551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/858495fb2dd8a65eed4d14df0c49a88f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/5d065b064454d04e6423972cdbe85bcb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/13b72ceb6926f06b365c9c10378e688a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/65639a634b421b8b9ef753ffe636efed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/87206801bd93649426a13d21fd320eb21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/5dbb49b77d3a31f4e3ac0bf6d3c0bbc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/b0fc5dfcb03edcd1a9de67cc9a2c075e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/1769327f744821c8c8765adf32d5b5491.jpg"
+	]
+}

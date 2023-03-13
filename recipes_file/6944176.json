@@ -1,0 +1,52 @@
+{
+	"id": "6944176",
+	"name": "애호박 볶음 호박볶음 간단 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/de03de0898b621d46c74760b576a3b011.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944176",
+	"ingredient_ids": [
+		7,
+		390,
+		29,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 애호박을 나박썰기로 썰어줍니다 너무 얇게 썰면 식감이 없으니 껍질부분은  살짝얇게 씨부분은 도톰하게 썰어줘요",
+		"2. 달궈진 팬에 기름을 살짝 두르고 호박을 넣고 달달 볶아줍니다",
+		"3. 몇번 뒤적이다가 새우젓 1스푼과 마늘을 넣고 뒤적뒤적여 주다가 뚜껑을 덮고 1분만 그냥 두세요 호박에서 물도 살짝 생깁니다",
+		"4. 1분후 한번 더 뒤적여줍니다 그리고 뚜껑 덮고1분만 더 그냥 둡니다 1분후 뚜껑열고 참기름 두르고 홍고추  넣고 뒤적이고 참깨 뿌려서 섞어주면 완성입니다호박이 덜익었나 할정도로 살짝 덜익었을때 불을 끕니다 남은 잔열과 호박의 열기로 익습니다 다 볶아졌다 할만큼 볶으면 너무 물러지니 살짝 덜익은듯 하게 하는게 중요해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/9d5bacdc8e2e72796a77f554338de3f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/9f55f3d9b9124502a3b261c1642ce14a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/124d6c10139693eb5a36cf04cbcd5f051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/cbb0f4a4c0b62fdb214cf07b9ef0ffd41.jpg"
+	]
+}

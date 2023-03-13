@@ -1,0 +1,75 @@
+{
+	"id": "6942891",
+	"name": "후다닥 밑반찬 만들기_고추장 진미채 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/7cc4110f7b352c98f61faef6985c3dec1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942891",
+	"ingredient_ids": [
+		571,
+		228,
+		233,
+		226,
+		660,
+		473
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "진미채",
+			"ingre_count": "280",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 진미채는 물에 5분 정도 불려줍니다. (부드럽게 하고 노폐물 제거)",
+		"2. 물에 불린 진미채를 체에 받쳐두고 물기가 빠지면 마요네즈로 버무려 줍니다.",
+		"3. 다진마늘을 달구어진 후라이펜에 넣은 후 마늘향이 날때까지 볶아줍니다.(영상참조)",
+		"4. 마요네즈에 버무린 진미채를 마늘과 함께 볶아줍니다.",
+		"5. 준비된 양념 재료를 후라이팬에 넣어 함께 버무려줍니다.",
+		"6. 양념에 진미채를 버무린 후 불을 끕니다.",
+		"7. 용기에 담고 깨를 뿌려주면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/f8ac09179f1e832b77edc2695fc614481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/b871ce1b0ce55675c3a019631d45e2711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/dec9c1b93f0a29d37226b6d889ac08141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/ceef8b2f05c4cb8b9c6ee9ca8807a56c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/01c43e1f3b19c09ea9e28e60c3fa95481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/bfe3e3e943d557d9bc2a94315af816bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/c26e3713ac050d83c242e6c8d98f282b1.jpg"
+	]
+}

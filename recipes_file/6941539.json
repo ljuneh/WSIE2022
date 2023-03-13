@@ -1,0 +1,64 @@
+{
+	"id": "6941539",
+	"name": "부추페스토:코로나극복 견강소스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/abd1053ef0309d0fbee2d160714c41761.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941539",
+	"ingredient_ids": [
+		30,
+		840,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "50",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "25",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "그라나파다노",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 부추는 씻어 물기를 바싹 말려 짧게 썰고 ㅡ",
+		"2. 잣과 견과류는 마른팬에 볶는다.",
+		"3. 치즈는 갈고 ㅡ",
+		"4. 준비된 모든 재료를 한데 넣고 ㅡ",
+		"5. 올리브오일 붓는다.",
+		"6. 소금, 후추를 갈아넣고 핸드믹서로 갈아준다",
+		"7. 소독한 병에 담는다",
+		"8. 올리브오일을 붓고 냉장보관하면 보관기간이 더 길어진다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d516d5e5eebc9f2b03d8af822e0e64011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/30613245a5cfee501cb2c13b906b56101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/391dc08e5ee4aece728385059c20915c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/fdb5d6d814733bf8a58d5a0f271e8e3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/385f65418a817d0a34f8cdb458d295791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/cb0fc270cda7a1aaeddbbc7d7a5967581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/1ad7c7f5edad15552f038b337c9465561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/e9db73d2b77fd7548db340ffddef6b7f1.jpg"
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"id": "6943669",
+	"name": "김수미가 극찬한 박대구이(생선 맛있게 굽는법)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/8cb5f7dae0b79aa35cbb93848ec7bd381.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943669",
+	"ingredient_ids": [],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "박대",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "종이호일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 얼었다 녹았기때문에 있는 물기를 키친타올에 살짝 닦아주세요.",
+		"2. 팬에 기름을 두르고 중불정도로 켜주세요.기름을 두르지않으면 생선이 달라 붙을 수 있으니 기름을 살짝 두르기!",
+		"3. 두마리 다 올려서 노릇노릇 구워주세요.중불",
+		"4. 기름이 튈 수 있어서 저는 종이호일을 위에 올려주었어요.종이호일을 올릴때 크기가 너무 크면 불이 붙을 수 있으니 조심!!",
+		"5. 5분정도 익혔으면 뒤집어서 다시 5분정도 구워주세요.",
+		"6. 이렇게 하면 밥도둑 박대구이 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/59ba2255fa653e65a98ccdcec2ff7bef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/7845bb6f4df90c95f69cdbb559d174031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/429fd50c6aab694a40f9f6c823fdb7591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/7f150913cf8d6073f093c6549a0a332b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/b48132af4a274855845c4ced0691c4a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/b8e299ddf4a63e9f479e07bf72936d861.jpg"
+	]
+}

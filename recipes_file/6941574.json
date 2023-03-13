@@ -1,0 +1,100 @@
+{
+	"id": "6941574",
+	"name": "돈가스 덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/052c1ea0e70d270c6d8722ddea6f9d481.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941574",
+	"ingredient_ids": [
+		90,
+		995,
+		757,
+		3,
+		379,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "가쓰오부시",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "튀긴돈가스",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "공기밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "3",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미림또는청주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 육수 재료 물, 다시마, 가쓰오부시다시마, 가쓰오부시 적당량 사용 ",
+		"2. 찬물 상태에서 다시마 넣고 끓이기 끓으면 3~5분 뒤에 다시마 제거 (오래 끓이면 쓴맛이 날수 있다.)다시마 사용 시 겉에 묻은 하얀 가루 세척 후 사용",
+		"3. 다시마 제거 후, 불을 끄고 가쓰오부시 넣고 5분 정도 우려내기",
+		"4. 육수가 완성되면 체망에 가쓰오부시를 걸러 육수 빼기텁텁한 맛을 없애기 위해 가쓰오부시 제거",
+		"5. 덮밥 재료 준비하기 튀긴 돈가스, 양파, 쪽파, 달걀 양파는 얇게 채썰기 쪽파 - 5cm정도 크기로 썰기(대파 사용 시 얇게 어슷 썰기)대파 사용 시 흰 부분+초록 부분 같이 사용 하면 대파 향에 어울려 깔끔한 맛을 느낄 수 있다.",
+		"6. 소스 만들기 간장 : 설탕 : 미림(청주) = 2 : 1 : 1 비율 단맛이 싫으면 설탕 0.8로 줄이기",
+		"7. 처음에 끓인 육수에 소스를 넣고 한번 끓여준다 (설탕 입자가 녹을 정도만)",
+		"8. 육수가 끓어 오르면 채소 넣기",
+		"9. 양파가 반투명 정도로 익으면 달걀을 풀어서 넣기중간불",
+		"10. 달걀이 어느 정도 익으면 약불로 줄여 국물 졸이기  (달걀이 다 익으면 완성)약한 불오래 끓이거나 센 불로 할 경우, 국물이 줄어 들어서 밥과 퍽퍽하게 먹을 수 있으니 약한 불에서 끓이기 ",
+		"11. 밥을 적당량 (1공기) 담은 후, 돈가스를 먹기 좋은 크기로 썰어 밥 위에 올리기밥 양이 너무 많으면 덮밥 소스양이 부족할 수 있으니 소스양에 맞게 밥 양 준비하기.",
+		"12. 덮밥 소스가 완성되면 밥 위에 올려주기"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/7c1e3b998a3f887c68a911c2b07ad60d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d9db2bd5d86f90e5b8a62824f7ad64031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/0d9213ba950ce858395a8ce8975c25ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/ac0fd49b287b19c7eaecd2d76f081ccb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/6b4efa141bc594cef905506991235e0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/8ff86f1c8089ca8bf7caa4fbda3fbb791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/7b04a6a7e3692a5f604fdbb4a1a8f4ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/36cafa86d1f82f390f30f5a08c11e06e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/da414fb9dcfcc58f048ff76483f07fd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/659012da55453075281831cd021d884c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/89401b82cc6dd80c6fd671443d3b50891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/9dbe4399d21c7e73e68667281c42ade01.jpg"
+	]
+}

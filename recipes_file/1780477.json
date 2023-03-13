@@ -1,0 +1,75 @@
+{
+	"id": "1780477",
+	"name": "집에서 무교동 낙지볶음 해먹기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/787455ac7fe13a047291cd2ff40b97f3.jpg",
+	"url": "https://www.10000recipe.com/recipe/1780477",
+	"ingredient_ids": [
+		233,
+		379,
+		497,
+		226,
+		28,
+		343,
+		718
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고운고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청량고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "캡사이신소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 한접시 기준으로 다진마늘 2큰술, 고운고추가루 2큰술, 청량고추가루 3큰술, 간장 1큰술 소금 조금, 설탕 한큰술, 생강 조금, 미림 한큰술, 그리고 매운맛을 높이기 위해 캡사이신 소스 한큰술 위의 재료들을 잘 섞어서 낙지볶음 양념장을 만들어 놓습니다.",
+		"2. 잘 씻어서 잘라놓은 낙지를 기름안넣은 후라이팬에 볶아줍니다. 한 30초정도 그러면 낙지에서 물이 많이 나오는데 이 물을 위의 양념장에 섞어줍니다. 조개탕의 국물도 한3-4스푼 넣어줘요.",
+		"3. 대파를 많이 썰어놓고 위의 양념장에 기름없이 대파가 절반 정도만 익을 정도로 볶아 주다가 불을 세게 바꾼후 위의 낙지를 넣고 마무리로 한 1분정도 확 볶아줍니다.",
+		"4. 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/2348de02e57ef7702b8247c247602cca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/967c45c9f11e31de4519aca1a1bf1df41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/61d7b5f95a847b7a24f3910560792c101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/4b83c8700fd81db13d4bc451ff05b6a31.jpg"
+	]
+}

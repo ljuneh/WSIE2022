@@ -1,0 +1,72 @@
+{
+	"id": "6916630",
+	"name": "감자 버터 구이..",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/07/29/126c6998963e0a6c3329e899759dac7d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6916630",
+	"ingredient_ids": [
+		5,
+		198,
+		504,
+		497,
+		226,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "5",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 감자는 껍질을 까고 큼지막하게 썰어줍니다.알감자가 있다면 알감자를 사용하셔도 좋아요.",
+		"2. 후라이팬에 식용유 2큰술에 버터 한 덩어리 넣고 녹혀줍니다.",
+		"3. 버터가 어느 정도 녹았다면 썰어둔 감자를 모두 넣어주고요.",
+		"4. 소금 1티스푼 골고루 뿌려줍니다.",
+		"5. 감자가 노르스름해지고 안까지 익을때가지 앞 뒤로 구워줍니다.중약불에서.. 센불에서 하면 겉만 타요~감자가 익었는지 안 익었는지는 젓가락을 찔러보면 알아요~ 잘 들어가면 익은겁니다.",
+		"6. 이제 여기에 설탕 3큰술 정도 뿌려주는데요. 단맛을 원하시면 설탕을 더 넣으셔도 됩니다.",
+		"7. 감자에 설탕이 골고루 묻게 섞어주고요.",
+		"8. 후춧가루 조금 뿌려주면 감자 버터 구이 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/29/f73d9b4060d74b2902e15630151ad4f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/29/7b34d984ee6b1554163ad1bf2d7a54d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/29/a850cdc4f9e49da1e8a1df7a97086f391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/29/fae5bd8d854af83572a0e416ac783ae41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/29/ec098c2866444f1a92738b1502fd462d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/29/08e82eb2461d888037f2120032c7ffda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/29/cd7488d1adefc9251c31ff05adaf6ca91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/29/a1ca2fdeeb081d259ba39dbdc2fec0d11.jpg"
+	]
+}

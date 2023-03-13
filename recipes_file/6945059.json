@@ -1,0 +1,83 @@
+{
+	"id": "6945059",
+	"name": "[내멋대로요리] 두부강정",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/898ec0193c34591a2e9c8f0c543999c31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945059",
+	"ingredient_ids": [
+		387,
+		504,
+		575,
+		233,
+		224,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "단단한두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕1+1/2T",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 두부는 위에서 총 32조각이 나오도록 정사각형 모양으로 잘라준다. 소스는 미리  준비해두면 좋다.[소스] 진간장 3T, 올리고당 2T, 케첩 4T, 설탕 1+1/2T, 다진마늘 2/3T, 고춧가루 1/4T, 통깨 한줌 ",
+		"2. 설거지를 줄이기 위해,  위생봉투에 부침가루 4T를 넣는다.",
+		"3. 부침가루가 든 위생봉투에 잘라둔 32조각의 두부를 넣고 쉐킷쉐킷두부가 부스러지지 않도록 조심스럽게 섞는다.",
+		"4. 이제 팬에 식용유를 넉넉하게  두르고 두부를 부쳐준다.부침가루 대신, 튀김가루나 밀가루로 대체 가능하다.",
+		"5. 정사각형 모양의 두부는  모든 면이 두루 잘 익도록 충분히 익혀준다.약불",
+		"6. 깨끗한 팬에 약간의 식용유와 준비해준 소스, 노릇하게 익은 두부를 함께 넣고  잘 섞어둔다. (3분가량)사진 찍는 걸 깜빡하여, 다 부친 두부 사진으로 대체합니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/0fa0204403f3c8cc67c6a3aaa51571751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/4b9cb224b767dc983f0352d3aac77b571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/1a30b1d452e191403898bf098398a9851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a2224841e7df0d1ba41e7877ba2881ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/df8548a434fd7c3eb5b1509ce4b87a511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/80745d7048a6b32af40d4fdde9d02adf1.jpg"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"id": "6917514",
+	"name": "야식이 필요할땐????!!!!! 편의점표 달걀참치콘전 ★",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/08/13/1e81d3b944f6493f4b25a4909c11d4581.jpg",
+	"url": "https://www.10000recipe.com/recipe/6917514",
+	"ingredient_ids": [
+		219,
+		659,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "옥수수콘",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 참치는 기름기를 제거한다.",
+		"2. 볼에 달걀, 참치, 옥수수콘, 소금, 후추를 넣어 반죽을 만든다.",
+		"3. 팬에 기름을 두르고 반죽을 한입크기로 부쳐 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/13/94286c0b29c6b47258f621b9b345127d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/13/e9f20817d092d5a819a337700ed7ac811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/13/6350df1039c694467086aee7ce44eb461.jpg"
+	]
+}

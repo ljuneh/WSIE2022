@@ -1,0 +1,53 @@
+{
+	"id": "6854135",
+	"name": "[감자요리] 참치넣고 감자조림 만들기.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/05/79ed73ba8b11915957099fd351f49fb41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6854135",
+	"ingredient_ids": [
+		5,
+		3,
+		6,
+		659
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		}
+	],
+	"recipe": [
+		"1. 먹기 좋은 크기로 썰은 감자를 물에 넣어줍니다. 전분기를 빼주기 위해서라고 하네요.",
+		"2. 감자조림과 함께할 야채들을 다져주고요.                   ",
+		"3. 언제인가부터 볶음요리를 할 때는 꼭 넣어주는 마늘. 저 마늘 향이 좋아서 인거 같아요. ^^",
+		"4. 간장과 올리고당을 넣어주며 감자를 볶아줍니다. 감자가 눌러붙을 수 있으니 쎈불로는 볶지마세요.",
+		"5. 물을 한컵 정도 넣어준후에 기름뺀 참치 투하. 참치를 넣어서 느끼하거나 비린내가 날 수 있으니 매운고추를 넣어서 비린내를 잡아주거나 하는데 저는 아이가 먹을거라거 간장과 올리고당으로 느끼함과 비린내를 잡았어요. 단짠단짠이 음식을 맛있게 하는 듯. ㅋㅋ ",
+		"6.  파송송~~ 썰어넣은 후. 조금더 졸여서 간이 잘 베이기 기다려요.",
+		"7. 통깨 톡톡톡~~ 뿌려주면 제철 감자요리 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/57eb80b6ae3311247b8aec206ce9024d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/b0bc81dec08e7bd0e6df55696ca955c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/8d455b87c79fdd94a1855d174963f7931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/70045f96a82271bc139cf1590e14a4621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/86b7f695d02ad8828ce087bb93c5ab721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/def7b049d85a5eabc7e5fda8f46a70781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/08/3597f903904f0e8ddbad12c315ca5c671.jpg"
+	]
+}

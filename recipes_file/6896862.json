@@ -1,0 +1,45 @@
+{
+	"id": "6896862",
+	"name": " 녹두죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/01/48fdb427019e1bac7085fa3e3bc02b7b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6896862",
+	"ingredient_ids": [
+		995,
+		497
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "국산녹두",
+			"ingre_count": "1",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "맵쌀",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. *녹두와 쌀은 깨꿋이 씻어 하루저녁 불린다  *맵쌀은 믹서기로 쌀이 적당히 있도록 갈아준다",
+		"2. 녹두삶기-불린 녹두는 물2리터를 넣고 녹두가 푹 퍼질때까지 삶아준다",
+		"3. 녹두소쿠리에 내리기-푹 삶은 녹두를 소쿠리나 채에 물3리터를 조금씩 부어가며 내려준다 이때 주걱을 이용하여 눌러가며 내려준다***소쿠리에 있는 찌꺼기는 버리고 밑에 있는  분말만 가지고 죽을 만든다",
+		"4. 걸런 녹두분말을 센불에서 팔팔 끓기 시작하면 쌀가루랑 소금1숟가락을 넣고 중불에서 쌀가루가 퍼질때까지 계속 저어가며 익혀준다 쌀가루가 다퍼지면 약불에서 5분정도 저어준후 뚜껑을 덮고 불을꺼고 10분정도 뜸을 드려주면 녹두죽 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/01/dbf7e6359c092891bde04b7100d3ef711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/01/a7eab423c07e918e87267d93dc5883241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/01/9f63a7a3eac72381d819340125561f681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/01/03db046c38a398b6e5af4eeabe7717ad1.jpg"
+	]
+}

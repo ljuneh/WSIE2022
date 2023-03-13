@@ -1,0 +1,89 @@
+{
+	"id": "6359154",
+	"name": "오므라이스(오믈렛) 만드는 법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/03/13/0b82104d71c0fc685457f4fc8981da341.jpg",
+	"url": "https://www.10000recipe.com/recipe/6359154",
+	"ingredient_ids": [
+		628,
+		22,
+		9,
+		219,
+		469,
+		497,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "햄",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "적양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "오므라이스소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 야채와 햄은 깍둑썰기로 작게 썰어 주세요.",
+		"2. 1인분에 달걀 1개씩 풀어 준비해 주세요.",
+		"3. 팬에 기름을 두르고 야채를 살짝 볶아 주세요.",
+		"4. 고슬고슬한 밥을 넣고 소금, 후추, 참기름을 조금 넣은 후 서로 잘 어우러지게 볶아 주세요.",
+		"5. 팬에 기름칠을 한 후 달걀물을 부어 바닥면이 살짝 익을 쯤 불을 끄고 볶음밥을 넣고 감싸 주세요.",
+		"6. 소스는 먹기 전에 살짝 데워서 준비해 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/9f03e58a8b5d1fe7de7151d0c0f73a831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/ee800b392fbf4c11556211da830ab31c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/2a5c0d812a40f9c2d06d5ee7c8502f021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/3b88cb74946099bd326fda355bb2eac11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/35caa17261f9b5099c243a490a97f4061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/76f5727caad57115fb413b578b42e4641.jpg"
+	]
+}

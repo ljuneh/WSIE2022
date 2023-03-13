@@ -1,0 +1,69 @@
+{
+	"id": "6940818",
+	"name": "색다른 두부나물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/a468e9d4d22eaf47c3bc913efe904dab1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940818",
+	"ingredient_ids": [
+		323,
+		757,
+		497,
+		349,
+		337
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "생새우",
+			"ingre_count": "15",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕한",
+			"ingre_count": "",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 두부를 깍뚝 썰기를 하고 소금을 약간 뿌려 간이 베이게 해 줍니다. (10분 정도)",
+		"2. 생새우를 손질하여 흐르는 물에 씻습니다.",
+		"3. 물 500ml 에 두부를 넣습니다.",
+		"4. 센 불에 10분정도 끓입니다. 두부가 물 위에 둥실 뜰 때까지 끓여야 두부가 부스러지지 않습니다.",
+		"5. 물을 반쯤 따라내고 생새우를 넣어 다시 한소끔 끓입니다.",
+		"6. 두부에 간이 되었기 때문에 소금, 국간장을 조금만(1/3t) 넣어줍니다. 들깨가루는 1t 넣어 5분간 약불에 졸여줍니다. 단맛을 원하실때는 설탕을 1/4t 넣어줍니다",
+		"7. 쪽파 송송 썰어서 올려줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/3e69e6fff956daf9755a58a20101dd7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/40cdfc2d422b2f4e89b2b3f30aa9327f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/c2c0f5d39f20a46f782b34560f286a981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/30361c7e8b3a23d292a6a360bd9985d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/83d9d497981315310c4edfaee23a2b821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/bcce6a5fa9e2a2fd29e17ec1023ef4351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/4639f9f43d0d1d621f805351b8ff4e1e1.jpg"
+	]
+}

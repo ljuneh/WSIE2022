@@ -1,0 +1,83 @@
+{
+	"id": "6848383",
+	"name": "집에서 만나는 뉴욕 핫도그! 풍미 가득 콘치즈 핫도그",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/b9f9655e09dc35736e3687b4c24663bb1.png",
+	"url": "https://www.10000recipe.com/recipe/6848383",
+	"ingredient_ids": [
+		228,
+		225,
+		216
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "핫도그빵",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진피클",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진피망",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통조림옥수수",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "슬라이스체다치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 볼에 재료를 넣고 섞는다.다진 피클 3큰술, 다진 양파 3큰술, 다진 피망 3큰술, 통조림 옥수수 5큰술, 마요네즈 3큰술, 후춧가루 약간, 피자치즈 1/2컵",
+		"2. 소시지는 노릇하게 구워 건진다.소시지 4개",
+		"3. 핫도그빵에 소시지와 섞은 재료를 채운 뒤 슬라이스 체다치즈를 찢어 올린다.슬라이스 체다치즈 1장",
+		"4. 185도로 예열한 오븐에서 6~7분간 굽는다.오븐오븐 185도 예열 6~7분간전자레인지(W700기준)에서 1분 30초간 돌려도 좋아요.",
+		"5. 취향에 따라 머스터드 또는 케찹을 뿌려 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/18/c403fc5add951e4123614c843e8af77b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/18/a8be4af410d615ed9f9ad3a5bcabeaf71.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/18/6c1cb0a97d797bb5a650caf9249bb6981.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/18/b08f9b2489d4edf252e38e574ada6cc61.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/18/6350d18265acb45c93bc334a20c941c21.png"
+	]
+}

@@ -1,0 +1,126 @@
+{
+	"id": "6944065",
+	"name": "새우찜 만들기. 가을 제철을 만난 싱싱한 대하요리. 찜 양념장이 대박!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/e16d307ff494fff105da1e287c2b6d9b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944065",
+	"ingredient_ids": [
+		307,
+		47,
+		3,
+		15,
+		473,
+		224,
+		379,
+		738,
+		543,
+		660,
+		995
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "대하",
+			"ingre_count": "800",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 대하는 뾰족한 입 부분과 내장을 제거하고 깨끗이 씻어 주세요.",
+		"2. 손질한 대하는 물에 깨끗이 2~3번 씻어 줍니다. 콩나물도 뿌리를 잘라 내고 씻어 주세요. 요즘은 다 세척해서 나와 1번만 살짝 씻어도 되더라구요.",
+		"3. 고추는 어슷 썰어 주세요.",
+		"4. 미나리는 2cm 길이로 자르고 양파는 채 썹니다.",
+		"5. 깻잎은 굵게 썰어 주세요.",
+		"6. 고추장,고춧가루,간생강,간마늘,간장,조청으로 양념장 만듭니다. *양념은 떡볶이 양념과 비슷해서 달착지근 합니다. *비린내 나는 생선이라 생강을 넣었는데 없으면 생강술이나 소주,청주,레몬으로 대신 넣어도 좋아요. ",
+		"7. 팬 바닥에 콩나물 깔고 새우와 양파,양념장 넣고 끓여 주세요. (반드시 뚜껑을 덮어야 합니다) *양념은 끓고 나면 섞어 주세요. *콩나물은 찜용으로 두툼한 걸 고르세요.",
+		"8. 콩나물 익은 냄새가 나고 끓으면 양념장 섞어 더 끓이다가 미나리 고추 넣고 미나리가 숨이 죽도록 잠시 뚜껑 닫아 줍니다. ",
+		"9. 마지막에 채썬 깻잎 넣어 버무리다 전분물 넣어 걸쭉하게 한뒤 뒤적여 주세요.",
+		"10. 통깨,참기름으로 완성합니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/2c4ddc6f835421c99cc23e267b535da51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/64da208ebff74e6530b8eaeca81a14491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/4ad22080aba3f4992ddc8b01fa5c732c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/8ec905d7e599ea0fb21e445d9315581e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/fd85962f1be8a1aa40527affa895cd0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/96cd14be9bfbf5c99a8fd58bab38998a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/0b68fc485fe826dc920051c62b14bd471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/e7df2163dd82503390109452613a5e321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/afb6cd796d2bb851f833acfdee9882001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/12d34f46ec1799c9a24167643cd6f3b51.jpg"
+	]
+}

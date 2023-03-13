@@ -1,0 +1,235 @@
+{
+	"id": "6886237",
+	"name": "봄나물 비빔밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/82f58c8555e6fd230158602fad24a83a.jpg",
+	"url": "https://www.10000recipe.com/recipe/6886237",
+	"ingredient_ids": [
+		19,
+		497,
+		224,
+		48,
+		27,
+		349,
+		233,
+		497,
+		504,
+		56,
+		53,
+		233,
+		497,
+		504,
+		662,
+		233,
+		497,
+		543,
+		233,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "즉석밥1개",
+			"ingre_count": "1",
+			"ingre_unit": " 개"
+		},
+		{
+			"ingre_name": "해찬들약고추장40g",
+			"ingre_count": "40",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "백설참기름5g",
+			"ingre_count": "5",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "무생채30g",
+			"ingre_count": "30",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "취나물볶음25g",
+			"ingre_count": "25",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "버섯볶음25g",
+			"ingre_count": "25",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "참나물무침25g",
+			"ingre_count": "25",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "냉이무침25g",
+			"ingre_count": "25",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "달래15g",
+			"ingre_count": "15",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "계란1개",
+			"ingre_count": "1",
+			"ingre_unit": " 개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "알룰로스",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백설자연발효현미식초",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "하선정다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "취나물",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백설들기름",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백설참기름",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참나물",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백설참기름",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "냉이나물",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백설참기름",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 각각의 재료를 준비한다.",
+		"2. 무는 채 썰어 소금에 절인 후 설탕, 식초, 마늘, 고춧가루를 넣어 무친다. 먹기 좋은 크기로 썬 참나물을 데치고 찬물에 씻은 후 물기를 제거해 참기름, 소금, 깨, 마늘을 넣어 무친다. 먹기 좋은 크기로 썬 버섯은 데치고 찬물에 씻은 후 물기를 제거한다. 데친 버섯에 다진 마늘을 넣어 볶다가 소금, 참기름으로 간한다. 손질한 냉이를 데치고 찬물에 씻은 후 물기를 제거해 소금, 마늘, 참기름을 넣어 무친다. 손질한 취나물을 데치고 찬물에 씻은 후 물기를 제거한다. 대파, 다진 마늘과 함께 볶은 후 국간장, 들기름, 소금을 넣어 볶는다. 달래는 5cm 길이로 썬다. 계란 후라이를 준비한다.",
+		"3. 햇반 매일잡곡밥을 전자레인지에서 2분간 데운다.",
+		"4. 햇반 매일잡곡밥을 그릇에 담고 무생채, 참나물 무침, 버섯볶음, 냉이무침, 취나물 볶음, 달래를 담는다.",
+		"5. 해찬들 약고추장을 올리고 참기름을 두른 후 계란후라이를 올린다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/1bfe72c08d858445e726f8d3d7a59409.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/3f668520ae8594c466f09fcb03d4bce4.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/6db5548b2e57461f8c7fa413a35ce445.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/2c452c1f001c97cb670cc217697c33b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/dab3773d5c7467489fd8d90defdf3e29.jpg"
+	]
+}

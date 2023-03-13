@@ -1,0 +1,43 @@
+{
+	"id": "6711155",
+	"name": "향긋한 쑥국 맛있게 끓이는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/7bc0a4db2716322e67caca6abaf5a2471.jpg",
+	"url": "https://www.10000recipe.com/recipe/6711155",
+	"ingredient_ids": [
+		506
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쑥",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "집된장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "멸치다시마육수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 멸치다시마육수를 내주세요~ 보글보글 끓으면 다시마 먼저 건져주시고요~",
+		"2. 쑥손질하는법은 어렵지 않아요! 냉이손질법이랑 비슷한데요! 쑥도 시금치마냥 끝부분이 사진처럼 되어 여러줄기가 나와있답니다~ 저 부분을 잘라서 먹기좋은 크기로 손집해주시면되요!",
+		"3. 멸치다시마육수가 완성되면 집된장을 풀어주세요! 된장의 짠기 정도에 따라 가감해주시고요~",
+		"4. 된장을 이렇게 풀어줘야 깔끔한 쑥된장국이 완성된답니다~",
+		"5. 깨끗하게 손질한 쑥을 넣어주세요~",
+		"6. 약 5분정도만 더 끓이면 쑥국완성이랍니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/7faefff2dadacfd5475eaf30554b97c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/dbff51455847c543c6035a83b77b9e8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/0e4df2316c78a9f5790a5bdf578876a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/b323ef83b0f1cd1e00838d0a381c49111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/edce7934d4fc2649aa10ac2b1b1440e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/d8428ff3dce4117f569c26a628d0d75b1.jpg"
+	]
+}

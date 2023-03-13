@@ -1,0 +1,51 @@
+{
+	"id": "6944235",
+	"name": "간장계란밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/7fd03e844f40b94c88879fb8413c17791.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944235",
+	"ingredient_ids": [
+		214,
+		379
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		}
+	],
+	"recipe": [
+		"1. 후라이팬에 기름을 둘러주세요",
+		"2. 중불 정도 불을 켜주고",
+		"3. 그리고 밥과 계란을 후라이팬에 넣어주이고",
+		"4. 다 익어갈때까지 섞어줘요",
+		"5. 그리고 간장을 두숟갈정도 넣어주시면",
+		"6. 완성",
+		"7. 치즈를 넣어먹어도 맛있어요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/8d17b6c93238fc1cb398b9456c5ae8bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/b0ac0608e086201cc0c06099d9bbb39d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/b1a579efd4b8e913a1a5277dd53c73891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/b9cd84fb1e3771f023331fcdcc67e3f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/f836c9da4abe06505d882f8272b631fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/7287a59788b98dd432a7572ac41ce0091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/cbc72963f6db1b841a7ec21bd0eadcad1.jpg"
+	]
+}

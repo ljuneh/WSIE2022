@@ -1,0 +1,85 @@
+{
+	"id": "6945007",
+	"name": "꿀호떡햄버거",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/4351a8074a2bf1195c38ed7623b451a11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945007",
+	"ingredient_ids": [
+		203,
+		632,
+		42,
+		198,
+		228
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡갈비패티",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "꿀호떡",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "피클",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍피망",
+			"ingre_count": "3",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "머스타드",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요~ ★재료토핑은 취향껏 추가및 빼주셔도 되요^^",
+		"2. 버터 2조각을 녹여줍니다",
+		"3. 떡갈비 2장과 꿀호떡 2개를 중불로 구워주세요 ★이때 꿀호떡은 앞뒤로 노릇해지면 먼저 꺼내주시고 떡갈비는 조금더 구워주세요.",
+		"4. 꿀호떡 한쪽면에 마요네즈 2큰술을 발라주시고",
+		"5. 떡갈비패티 1장~",
+		"6. 체다치즈1장~",
+		"7. 다시 떡갈비패티 1장~",
+		"8. 오이피클5개~",
+		"9. 양상추1장과 홍피망 3조각을 올려주세요",
+		"10. 꿀호떡 남은 1장에 머스타드1큰술을 발라서 올려주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/caea9da404eba9a0e99978b7af0358dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/875a8b4f3283f7e9e055e6bdb7c58a411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/2724fbcec3b4434c7d160a81e3090cd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/664ba80c4cdbb2ad219ea032307e3d4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/b0ef3d1a7118b4d100030c6ae37b157b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/084752ed0e3b62cb643711176c1792731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/37c77447f233e3fb649a04992737cb9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/44415f29dfea468d57e01fd0d3f0a55f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a8ec0be977942fa1f3d10af860f6e1641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/d1c7ae13e585c64fbf8219f23f1e8f791.jpg"
+	]
+}

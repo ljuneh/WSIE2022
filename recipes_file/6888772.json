@@ -1,0 +1,63 @@
+{
+	"id": "6888772",
+	"name": "배추된장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/05/13/49444b08d750936c03f39c66a76bfa071.jpg",
+	"url": "https://www.10000recipe.com/recipe/6888772",
+	"ingredient_ids": [
+		32,
+		995,
+		848,
+		29,
+		333
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "배추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "국물멸치",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "4",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 물을 붓고 최 선물한 다시 멸치를 넣고 끓인다",
+		"2. 우리 아직 멸치를 건져내고 배추를 먹기 좋게 썰어 넣고 끓인다.",
+		"3. 마늘이랑 된장을 물에풀어 국에 간을 하고",
+		"4. 푹 끓여 준다. 마지막에 액젓으로 간을한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/13/5a7fdafe8b6291a752b70ec70b3423ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/13/82f07162835c1806256b24e86cdbd0df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/13/95ef5df05e0078a39138b97c71a69d041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/13/c4d899a36d5349223febae6569bccb281.jpg"
+	]
+}

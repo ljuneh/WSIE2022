@@ -1,0 +1,78 @@
+{
+	"id": "6882107",
+	"name": "데리야키 닭고기 구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/10/9ca4efb27a0f690a3f84413542aba07c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6882107",
+	"ingredient_ids": [
+		27,
+		504,
+		343,
+		379,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "정육된닭다리살",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "녹말가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "2~3큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "생강간것",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 정육된 닭다리는 흐르는 물에 씻고, 한 입크기로 썰어줍니다.",
+		"2. 녹말가루를 닭고기 앞뒤로 뿌려 얇게 입혀주세요.- 양념이 잘 엉겨 붙고, 양념이 찐득해져서 흐르지 않게 되요. - 녹말가루를 껍질 부분에 넉넉히 뿌려주면, 바삭하게 만들 수 있어요.",
+		"3. 파는 어슷썰어 준비합니다.",
+		"4. 미림 3큰술, 간장 2큰술, 설탕 2작은술, 생강 간 것 1작은술을 섞어 양념을 만들어 줍니다.",
+		"5. 달궈진 팬에 식용유 1큰술 정도 둘러줍니다.",
+		"6. 닭고기 껍질부분 부터 노릇하게 구워주세요.중불",
+		"7. 다시 뒤집어 기름을 1큰술 정도 남겨놓고, 키친타월로 제거해준 뒤에, 파를 넣고, 닭고기 껍질 부분이 바삭해질 수 있도록 뒤집어 가며 구워줍니다.",
+		"8. 껍질이 위를 향하게 하고,파의 향이 나면, 양념을 프라이팬 가장자리에 흘리듯 부어주고, 양념이 걸쭉해 질 때까지 조려줍니다.약불껍질 부분은 마지막에 남은 양념을 뿌려서 입혀주면, 바삭한 식감을 맛볼 수 있어요.",
+		"9. 고기가 다 익으면, 접시에 옮겨 담고, 남은 양념을 껍질 위에 뿌려주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/10/64b800e8e66484ccb2f8d86bf674ddd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/10/aad13e83ba4c8a61927dff8a6bbd9ebe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/10/d5900ea10f881e18887a848380656c5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/10/4d85b1c02a6e15b1e78cfb4bc11ed8ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/10/4e21a66c72465180e9b4596a774f835f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/10/78b74ee6c36aa1a2c2bb88c8932feb741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/10/7141b0de55050fe92a267a73f2f9eff61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/10/16f89a779c9a09f343b67dc398fb0d0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/10/6732a32db45c6c65ae25b6a3bc7f4f0a1.jpg"
+	]
+}

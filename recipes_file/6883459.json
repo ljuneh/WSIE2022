@@ -1,0 +1,92 @@
+{
+	"id": "6883459",
+	"name": "집에 있는 재료로 엄마표 김밥 만들기~~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/05/715a15b533800a288713c0746e13670b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6883459",
+	"ingredient_ids": [
+		30,
+		496,
+		628,
+		9,
+		548,
+		224,
+		497,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "구운김",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 김밥하려면 우선 밥부터 지어주고요 밥짓는 과정샷이 빠져버렸네요. 밥이 다되면 볼에 밥을 퍼준다음 참기름과 소금약간을 넣어 양념해주고요. 밥이 되어가는 시간에 재료 손질한 후 계란 풀고 부추 쏭쏭썰어 넣어 계란 지단 부쳐주고요.  단무지랑 당근,햄은 살짝 팬에 볶아준다음 어묵은 고춧가루 살짝 넣어 볶아 봤습니다.  친구가 이리 하면 맛있다는 말에 따라 해봤어요.  그러고 보면 어묵에 청양고추로 넣어도 좋을듯 싶네요.",
+		"2. 김위에 밥을 펴줍니다.",
+		"3. 계란,단무지,당근,햄,매콤 어묵을 넣어 돌돌 잘말아줘요.",
+		"4. ",
+		"5. 말아서 썰으면 완성.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/07/090b246bb0f924fc872e4b058c9ff40f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/07/fb8e541d7ca7be30d100316572d1f2e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/07/67458dff72081798ca32a077f7a9ae4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/07/91080ce3bd5c6e4b1daf8233dd232c201.jpg"
+	]
+}

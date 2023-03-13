@@ -1,0 +1,86 @@
+{
+	"id": "6864067",
+	"name": "씀바귀 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/10/48d04d32e14f6c55bc87d19485e313c51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6864067",
+	"ingredient_ids": [
+		697,
+		282,
+		379,
+		473,
+		29,
+		231,
+		938,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "씀바귀",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "썬대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "볶은참깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 남비에 물이 끓으면 소금을 조금 넣고 씀바귀를 삶아줍니다.(약3~4분정도)",
+		"2. 삶은 씀바귀는 건져서 찬물에 여러번 헹구어 낸후 물에 담가둡니다.(1시간이상)",
+		"3. 쓴물이 어느정도 빠져 나오면 체반에 받쳐 물기를 제거하고 먹기좋은 크기로 잘라 준후 양념을 넣습니다",
+		"4. 고추장,마늘,송송썬대파,식초,간장,매실청,참기름,후추,볶은참깨 넣고 양념이 고루 배어들게 살살 무쳐줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/10/d2f1b7a5837d20c76ef837ec6bbd30011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/10/a1c46f0eb9669f71bc7ef6f3023fbe5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/10/50bf6de6d057af71bbd657deb1a4694c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/10/92413bbce9f22d16752f1030fc83cae41.jpg"
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"id": "1883944",
+	"name": "김치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/a9cfb5e6766fa38087b5ca99a602bf9e.jpg",
+	"url": "https://www.10000recipe.com/recipe/1883944",
+	"ingredient_ids": [
+		543,
+		27,
+		327,
+		226,
+		233
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "묵은지1줌(크게)",
+			"ingre_count": "1줌(크게)",
+			"ingre_unit": "줌(크게)"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 대파도 송송송 썰어주고 묵은지는 한번살짝씻어 물기를 꼬옥 짜주고 먹기좋은 크기로 잘라주세요.",
+		"2. 볼에 잘라놓은 묵은지를 담아올리고 들기름1T, 설탕0.7T, 다진마늘0.3T 넣어서 조물조물.",
+		"3. . 양념이 잘섞일수있도록 비닐장갑을 끼고 골고루 조물러주세요.",
+		"4. 예열된 후라이펜에 양념한 김치를 담고 달달달 볶다가",
+		"5. 물 1~2큰술을 넣어 먹기좋은 식감으로 익을때까지 달달달 볶아주세요.",
+		"6. 묵은지가 다 익으면 대파와 통깨를 넣어주고, 모자라는 감칠맛만 설탕을 넣어 조절하시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/32eed7bb99e18be345c6ee61395320b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/6e28de8fa6318c8602c5da0d5ca579ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/bab0329bd7e4e6c52e4abc82fa512df41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/d8980e7f9ca03200c5329e28dfcb47241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/198b8e7072a3ad547235af8b0ce0be061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/08a3de88d825a7da5f2b096f67ebc37b1.jpg"
+	]
+}

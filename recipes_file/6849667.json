@@ -1,0 +1,71 @@
+{
+	"id": "6849667",
+	"name": "바삭 바삭한 새우 튀김 만드는 방법 어렵지 않아요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/c4ba314972fb729bbdb2f3d269d827dc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6849667",
+	"ingredient_ids": [
+		79,
+		234,
+		734,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "새우",
+			"ingre_count": "19",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "차가운물(얼음물)",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 새우 머리를 떼어내고 꼬리를 남겨두고 껍질을 버끼고 이쑤시개로 내장을 빼줍니다",
+		"2. 꼬리에 보면 뾰족하게 생긴 물주머니가 있어요. 물주머니를 잘라 줍니다. 물주머니를 제거 하지 않으면 튀길때 기름이 튈 수 있으니 제거해줍니다!",
+		"3. 새우튀김이 말리지 않도록 새우 배에 칼집을 넣어서 새우를 일자로 펴줍니다.",
+		"4. 계란 노른자를 분리하여 반죽볼에 넣어줍니다.",
+		"5. 계란 노른자에 차가운물 1컵을 넣어 계란물을 만듭니다. (얼음을 넣어주면 더 좋습니다.)",
+		"6. 계란물에 튀김가루를 대충 풀어줍니다.",
+		"7. 반죽농도는 묽게해주는게 포인트입니다.",
+		"8. 밀가루 또는 튀김가루를 새우에 뭍혀줍니다.",
+		"9. 튀김 반죽에 새우를 넣었다 빼주세요.",
+		"10. 튀김 반죽을 입힌 새우를 기름속으로 투하!! (기름온도 확인은 튀김반죽을 떨어 트리면 반죽이 살짝 내려 갔다가 바로 올라오면 튀기기 적당한 온도가 되었다고 보면 됩니다.)",
+		"11. 나머지 새우도 똑같은 방법으로 튀겨주세요. 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/d1a56e0084b45adc58dc7074506f4d401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/94d280f89aeaea5e813298510b22cfd01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/8627c73babcdcb31eb478b307ad82c3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/3242c60c6d1dd9e15f9dcea86186b8ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/01046b6cd1ae85b16becb0f7663715311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/cc522ce77250ff7dbdcb21d94fa1165c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/ed962fa152b2d3c6a227279cf775a6c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/905a0457c362d7a8d6c8f5cd6a18440d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/c754f3e5b79c3a1f70d7a4081409267e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/60c30ac9fdc10fb632d576317b1942c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/d571c23dd3a47d91c4bf622d3d62a5081.jpg"
+	]
+}

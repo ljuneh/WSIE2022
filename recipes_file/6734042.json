@@ -1,0 +1,58 @@
+{
+	"id": "6734042",
+	"name": "골뱅이무침 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/17/52374621d2aa9e5f6d926aa3f90387981.jpg",
+	"url": "https://www.10000recipe.com/recipe/6734042",
+	"ingredient_ids": [
+		136,
+		226,
+		231,
+		473
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "매실",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "골뱅이국물",
+			"ingre_count": "3",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 통으로 들어있는 골뱅이의 크기는 너무 크므로 반절로만 잘라서 이렇게 준비했어요.",
+		"2. 골뱅이 자를동안에 이렇게 물을 팔팔 끓여주세요.",
+		"3. 물이 끓어오르면 소면을 넣어서 휘휘 저어서 자기들끼리 달라붙지않게 해주세요. 이정도 되면 좋겠다 싶을때 이렇게 채에 받쳐요 그리고 찬물로 냉수마찰을 시켜줍니다. 양념장을 만들동안에 물기빠지게 그냥 내버려 두세요.",
+		"4. 골뱅이 국물 3스푼 정도를 이렇게 양념장 만들 그릇에 담아놨어요. 간장으로 하실려면 한스푼만 넣어주세요.",
+		"5. 양파는 최대한 얇게 썰어줘야합니다. 혹시 오이나 당근이있다면 같이 먹기좋게 잘라주시면돼요.약간 매콤하니 먹기 위해서 청양고추도 두어개 넣어줍니다.",
+		"6. 매실1, 설탕1, 식초2, 고추장1 이렇게 넣어서 버물버물하면 진짜 쉽게 완성이에요.  골뱅이국물 3스푼에 잘라놓은 골뱅이 추가해 주고 야채넣고 양념 넣어주세요. 순서는 뒤바껴도 상관없어요. 식초 1스푼만 넣어도 돼요.",
+		"7. 국수소면이 있기때문에 골뱅이국물을 좀더 넣어서 국물 자작자작하게 했어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/c5a172382b8fc46becb8c4a0bb119b2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/e822c14be0a81bb0e70aa2436e427f631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/b8929f1d805c9bf2a0ff56abe0ac57981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/f5886a476d0187c6bca82379bc768e641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/1963d9ffc7c578001cbab9fdcc05810d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/4a38afb065556ecea49d9f04ae5c50101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/9c4aa1b1742ea756781fac0ddaed563b1.jpg"
+	]
+}

@@ -1,0 +1,98 @@
+{
+	"id": "6909523",
+	"name": " 에어프라이어 깐풍만두",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/1a3dbe90fa9a2aa4d5805b41fcb50b9f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6909523",
+	"ingredient_ids": [
+		295,
+		3,
+		27,
+		29,
+		379,
+		226,
+		477,
+		231,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "냉동만두",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2/3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "요리당",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 재료준비합니다",
+		"2. 에어프라이어에 종이호일 깔고 냉동만두를 겹치지 않게 올려주세요 1차 170도에서 10분을 구워주세요에어프라이어",
+		"3. 만두 굽는 동안에 양파 대파,고추 마늘을 잘게 다져요",
+		"4. 1차로 구운 만두는 뒤집고 다시 2차로 구울거예요 170도에서 10분을 더 구워줍니다",
+		"5. 팬에 기름 약간 두르고 마늘을 볶다가 대파 양파 순으로 볶다가 소스를 넣고 끓어오르면 고추랑 구운 만두를 넣어 주세요",
+		"6. 빠르게 섞어주세요",
+		"7. 맛이 없을 수 없는 맛있는 꿀조합 매콤 깐풍만두 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/4ce41532ccd19d17055da8dbba5ef1a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/9c6a29e0605d37a72a9613542e8ee6881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/43ac7f5c7f9d5d8e73852f5691582a791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/61590f62353414157ccba92a1546016c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/b12226bed3768e8be8b74be685d292181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/8ba0f5ef3513851ee91910b59139163f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/30/842bffc62f8ba7be2a7cd5117dcad4f61.jpg"
+	]
+}

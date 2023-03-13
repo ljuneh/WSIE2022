@@ -1,0 +1,55 @@
+{
+	"id": "6943425",
+	"name": "♥[추석요리] 맛살달걀말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/5cbca5b7c9790ac5d6bf18b00643ab191.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943425",
+	"ingredient_ids": [
+		219,
+		30,
+		289,
+		343
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4~5개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 달걀 4~5개를 깨서 미림 1큰술을 넣고 부드럽게 잘 풀어주세요.",
+		"2. 부추를 잘게잘게 썰어 넣어주세요.",
+		"3. 달군팬에 달걀물을 부어주세요.최대한 약불",
+		"4. 맛살 2줄을 올려주세요.초보자는 달걀물을 전체보다 반가량 붓고 한번 접어준 다음 기초를 잡아주면 쉬워요.",
+		"5. 맛살을 달걀로 돌돌 말아주세요.달걀말이는 불조절이 생명! 약불에서 천천히 익혀주세요.",
+		"6. 달걀을 아래쪽 끝으로 밀어 놓은 다음 달걀물을 또 부어주세요.",
+		"7. 달걀을 말고 또 붓고 말고 뚱뚱 달걀말이 될때까지 무한 반복!약불 유지",
+		"8. 달걀말이를 도마 위에 올려 충분히 식힌 다음 먹기 좋은 크기로 잘라주세요.충분 식혀주면 자를때 부서지지 않고 단단!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/38d8592f66f3d2714647e7d18bca90771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/c6eb5e329632e0705e29d0f3ef343d321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/78bfff85cd28caea12339fb1a31465501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/b126feab1f41dae87e23ed030051b02f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/c9d0af36bc510a775c11041a11184b3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/769163eedb09d853ba16d7c4d45d8b031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/13dce0182fc86872d8959d830804508e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/1892d38a73a04da46a872dbd923447b71.jpg"
+	]
+}

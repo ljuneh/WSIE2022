@@ -1,0 +1,77 @@
+{
+	"id": "6919026",
+	"name": "이젠 육전이 아닌 소고기쪽파말이 어때?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/09/09/8e0e42552425332d1d17a498c03ec9a81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6919026",
+	"ingredient_ids": [
+		757,
+		497,
+		504,
+		379,
+		226,
+		597,
+		228
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "10",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "불고기용소고기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "연겨자",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 쪽파를 10cm길이로 썬다.고기에 크기에 따라 썰어도 좋아요 ",
+		"2. 소고기에 소금, 후추 간을 한다.",
+		"3. 소고기 위에 쪽파를 넣고 돌돌 말아준다.",
+		"4. 팬에 기름을 두른 후 노릇하게 굽는다.                     \r                             네오플램 피카 프라이팬                          ",
+		"5. 양념장을 고루 섞은 후 곁들여 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/09/ff8461cc89e4378efc3c127ce41ec9211.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/09/aabe63c8ce3122b9dee3584c367f51a01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/09/481d270942693ee4665c862f59239b3b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/09/e696cf2595124e3fca8dd999cce973fe1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/09/fa983cc977c01b656d270ccedb7854321.png"
+	]
+}

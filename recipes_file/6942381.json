@@ -1,0 +1,67 @@
+{
+	"id": "6942381",
+	"name": "[정식품 콩국물]부드러운 카레라이스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/1806803d09dc927e01651e44de5623e41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942381",
+	"ingredient_ids": [
+		487,
+		3,
+		9,
+		5,
+		995,
+		504
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "정식품콩국물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "카레분말",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 깍둑썰기한 양파, 감자, 당근, 돼지고기 순으로 팬에 볶아요(소금 밑간 필요)",
+		"2. 냄비에 볶음 재료를 넣고 물과 콩국물을 넣고 끊여요",
+		"3. 감자와 당근이 익으면 카레가루를 물에 풀어서 넣고 10분 정도 더 끊여서 완성해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/76df6bb749d0ba0d727a329b27cfdfce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/1a6e0dcd3fa2de5e000b6243dfb17b541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/10a38c7e8a5c8bc3a22df7f793be139a1.jpg"
+	]
+}

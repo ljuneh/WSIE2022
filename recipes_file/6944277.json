@@ -1,0 +1,132 @@
+{
+	"id": "6944277",
+	"name": "백주부의 매콤한 돼지갈비찜(탕)~손님접대음식에 딱이쥬~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/1ab563599403ebd7ff70a2dbd9ac9fdc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944277",
+	"ingredient_ids": [
+		3,
+		9,
+		5,
+		608,
+		15,
+		473,
+		233,
+		226,
+		575,
+		455,
+		327
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지갈비",
+			"ingre_count": "900",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고구마작은것",
+			"ingre_count": "2~3개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파큰것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "갈비삶을때올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 돼지갈비를 먹기좋은 크기로 잘라 기름부위를 제거후에 찬물에 30분을 담구어서 핏물을 빼주신후 살짝 잠길만큼 물을 붓고 월계수잎과 올리고당을 넣어서 1차 삶아내서 찬물에 씻어주세요 *올리고당을 넣는이유는 단맛이 연육작용을 주네요",
+		"2. 감자/고구마/양파/당근은 큼직하게 썰어서 준비해주시고 깻잎/대파도 썰어주세요",
+		"3. 양념은 모두 섞어주시고 1차삶아서 씻어낸 돼지갈비가 푹잠길만큼 물을 붓고 양념장을 다풀어주신후 펄펄 끓여주세요 *들기름도 같이 섞어서 넣어주세요",
+		"4. 20분간 펄펄 끓여주세요",
+		"5. 감자와 고구마를 넣어주신후 5분간더 펄펄 끓여주세요",
+		"6. 5분후에 당근/양파를 넣어주시고 *저는 당근은 작은듯하게 썰어서 양파랑같이 넣었지만 감자처럼 크게 썰면 감자와 같이 넣어주시면 되요",
+		"7. 다시5분후에 대파/깻잎을 넣고 5분을 끓여주시면 되세요 국물의 밑간을 봐주시고 개인의 입맛에 맛게 추가하세요 *혹시라도 짜다면 물을 추가하세요",
+		"8. 국물이 짤박하게 닭도리탕처럼 만들어 주시는게 포인트랍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/18a21215a27c024a26f34db49c4a86231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/9a666a8ec2e92950872c503229e2721d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/53047da62a2b646db3d94e77d4c35b4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f5bc6dfa9f3435de80ba9249f24549561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/c01d2a0f8170563081db864dcb314dfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/746c3b714dab4d4de44df6eba91013f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f214399f32890e55d83068cf4c6a34851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/d819f58b3ef825de209f5c4d0ac6e5f11.jpg"
+	]
+}

@@ -1,0 +1,79 @@
+{
+	"id": "2565643",
+	"name": "깔끔하고 시원한 황태 콩나물국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/fe61e38d08a8c2856ca45c72c85325ad.jpg",
+	"url": "https://www.10000recipe.com/recipe/2565643",
+	"ingredient_ids": [
+		527,
+		47,
+		219,
+		660,
+		233,
+		349,
+		545
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "황태",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 황태는 물에 살짝만 담궜다 꺼내어 물기를 쏙 빼고 준비한 뒤 사진과 같이 황태와 무우를 먹기 좋게 썰어주세요.",
+		"2. 냄비에 황태와 참기름, 다진마늘을 넣고 중약불에서 볶아주세요. 3-4분 정도 볶아주시면 됩니다.",
+		"3. 다 볶아졌다면 물과 무우를 넣고 보글보글 끓여주세요.",
+		"4. 보글보글 한소끔 끓어올랐을 때 잘 씻어서 물기를 뺀 콩나물을 넣고 한 소끔 더 끓여줍니다.",
+		"5. 한 소끔 우르르 끓어올랐다면, 썰어둔 파를 넣고 마지막으로 풀어둔 달걀을 넣어 잘 저어줍니다.",
+		"6. 마지막으로 풀어둔 달걀을 넣어 잘 저어주면 시~원한 황태콩나물국 완성 !! ﻿1-2일 안에 드시지않을 거라면 달걀은 데울때 넣어주셔도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/b21393a41644b31949cecf97e2bbc72e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/0f8ff3c4d27249961fe4defff7980c7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/8c76628a9a0c7bd874ca5c470d48da2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/4f82a4714664986fe0c56b6e1bb178781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/caa7937b122479473961af04af215b111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/7728614837e02c0d552866f666fadc7e1.jpg"
+	]
+}

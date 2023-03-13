@@ -1,0 +1,61 @@
+{
+	"id": "6942030",
+	"name": "에어프라이어 삼겹살(통삼겹)구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/09483658d12fc5d4c4bba704658504121.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942030",
+	"ingredient_ids": [
+		535,
+		5,
+		3
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "허브솔트",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 삼겹살을 준비하고 중간중간 칼집을 내어 허브맛 솔트를 전체적으로 솔솔 뿌려 밑간을 해줍니다.",
+		"2. 그리고 바스켓에 담고 ",
+		"3. 180도 온도에서 15분 구워 주세요. 에어프라이어",
+		"4. 그사이 함께 구워 먹을 양파, 감자, 통마늘을 함께 준비했답니다. 취향껏 좋아하는 채소로~ 또는 생략하셔도 됩니다. ",
+		"5. 1차로 구워 나온 고기 상태입니다. 갖고 계신 제품마다 온도, 시간이 다르니깐 중간중간 체크해 주세요. ",
+		"6. 고기를 뒤집어 준 다음 감자, 양파, 마늘을 군데군데 올려 주고 180도 온도에서 10분을 설정한 후 2차로 또 구워 주었답니다.",
+		"7. 2차로 구워낸 고기와 채소 상태 감자가 잘 익었나? 궁금해서 젓가락으로 꾸~욱 찔러보니 쏙 들어가더라고요. 전체적으로 다 잘 익은 상태를 확인 후 접시에 모두 옮겨 담아주고 ",
+		"8. 삼겹살은 칼이나 가위를 이용해 먹기 좋은 크기로 썰어 주면 끝! ",
+		"9. 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/ee24318c474815790ead78d119482ea21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/ddfb80fd86e047ca38ee97e2c29b8b8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/b25ee36a7fdf8e158b740cc0b324f3a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/a6448433c8309335078d76419b60d2bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/480309020a64f5def8d22a0ec0a92fc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/a7dcdb15337568b3803bd7e1f8be5b701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/29b556c1ec38bfc2e826dfdf29aa3e1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/1776ec795d7abea499f3f1f9cbb8cc861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/f4c1fca36104b7665656cc4380c257811.jpg"
+	]
+}

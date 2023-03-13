@@ -1,0 +1,100 @@
+{
+	"id": "6939894",
+	"name": "간장 콩나물 불고기 (간장콩불)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/59346702f70fad0403d79f7758fe017c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939894",
+	"ingredient_ids": [
+		495,
+		53,
+		3,
+		47,
+		295,
+		379,
+		226,
+		575,
+		938,
+		292
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 소고기를 맛술에 버무려 잡내를 제거해 주세요.",
+		"2. 그 동안 표고버섯을 썰어주세요.",
+		"3. 양파를 볶음용으로 썰어주세요.",
+		"4. 청양고추를 썰어주세요.",
+		"5. 스텐볼에 소기와 야채를 담아두세요.",
+		"6. 준비된 양념을 넣어주세요.(간장,올리고당,설탕,매실청,간마늘)",
+		"7. 양념과 고기와 야채를 잘 버무려주세요.(30분 정도 숙성시켜주세요)",
+		"8. 궁중팬에 약불을 켜고 콩나물을 올려주세요.",
+		"9. 콩나물 위에 숙성된 고기를 올려 중불에 구워주세요.",
+		"10. 콩나물에서 물이 나오기 시작하면 주걱으로 잘 볶아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/6580c8db031ad987e237fc3263b7a6af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/63e84e47dca0187f2f209526873b71ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/c38e96e5d3d6a733cf8dd45d106516b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/e6087dbe4ccab1da1b0f0c380079c2b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/7139367840837a0f82d8cddf101a5fa71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/675e81d5a0dbb6d4478dc21e2db37ad91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/22937ff3071c6171a8ee55467ce676ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/ce402a4ae07c00d97cbf60c1898f4f511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/6e5c8da8b8cb16de8225b3c9a507977a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/937dd31c9a58e670a2710c36a293b0541.jpg"
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "4878562",
+	"name": "국민 간식 떡볶이 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/ca9b1ad5ccf34e2e90b4ecd6bccf9058.jpg",
+	"url": "https://www.10000recipe.com/recipe/4878562",
+	"ingredient_ids": [
+		972,
+		473,
+		226,
+		341,
+		292,
+		477,
+		379
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "사각어묵",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 떡볶이떡과 사각어묵을 준비합니다. 사각어묵은 뜨거운물로 살짝 첨가물을 제거해주세요",
+		"2. 모든 양념을 섞어 둡니다. 단맛은 기호에 맞게 조절해주세요.",
+		"3. 물에 양념을 풀어 떡을 먼저 넣고 끓여줍니다.",
+		"4. 어묵을 넣고 중불로 해서 고루 저어가면서 끓여내면 완성이에요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/c201fc0d611aaf50d903bf3a74ba80701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/9822f2392de325e80f859506523057a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/55cc89c85729106f9ab0f62a49e9bd8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/602ff4cbf5b00476a2b750de84b1b6d11.jpg"
+	]
+}

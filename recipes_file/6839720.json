@@ -1,0 +1,64 @@
+{
+	"id": "6839720",
+	"name": "마리텔 백종원 레시피. 오이계란 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/12/83452cc22ea191d52019eaea8b52359a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6839720",
+	"ingredient_ids": [
+		8,
+		295,
+		660,
+		497
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "굴소스(간장으로대체가능)",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 오이는 반달모양으로 최대한 얇게 썰어주세요~ 얇게 썰수록 볶았을때 오독오독 씹는 식감이 좋아요. 중파(혹은 대파)도 다져놓고 청양고추도 얇게 저며서 준비합니다.",
+		"2. 계란을 먼저 스크램블해서 따로 준비해주세요",
+		"3. 기름을 두른팬에 다진파를 넣고 먼저 볶다가 저민오이를 넣고 쎈불에 볶아주세요~ 불이 약하면 오이에서 물이 생길수 있으니 센불에서 잽싸게 볶는게 중요해요~ 요때 소금을 살살뿌려 살짝 간 해주세요.",
+		"4. 오이가 볶아지면 스크램블해둔 계란을 넣고 다같이 볶아요~ 그다음. 청양고추도 넣고 볶아요~",
+		"5. 굴소스 반스푼을 넣고 휘리릭 빠르게 마지막으로 볶아줍니다. 굴소스가 없을땐 간장으로 대신해도 된다고 해요~ 간을 맞추는 용도보단 간장향만 나게 마지막에 휘릭 둘러주세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/12/a61eba0d7234aa53129c5c5dc311b5771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/12/c63ac59a34796b20fdc0fa6aca8d746e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/12/be5cebdd051e4eb244a7ba7e8476302a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/12/d76ee294649bd70d88cd9849219652881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/12/5434fabbec5204f5d9fd8992deb7d5ec1.jpg"
+	]
+}

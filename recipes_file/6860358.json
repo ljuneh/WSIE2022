@@ -1,0 +1,78 @@
+{
+	"id": "6860358",
+	"name": "비만, 다이어어트에 좋은 집밥용 반찬~마른가지나물 볶음!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/350f4734ac20f998abe08d22653e51371.jpg",
+	"url": "https://www.10000recipe.com/recipe/6860358",
+	"ingredient_ids": [
+		379,
+		665,
+		327,
+		233,
+		292,
+		337
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "말린가지",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 말린가지는 설탕물 불려주세요.시중에 파는 가지는 30분이면 충분히 불어요.",
+		"2. 불린 가지가 부드러우면 그냥 사용하셔도 되고 저는 워낙 두껍게 말려놓은 터라 데쳐서 사용했습니다.쌀뜬물에 데치면 부드럽고 비린맛을 제거해 줘요.",
+		"3. 양념장은 들깨가루를 제외한 분량의 재료를 모두 섞어 준비해 두세요. (간장 2T, 참치액 1T, 들기름 1T, 다진마늘 1t, 다진파 2T, 맛술 1T, 후추 약간)참치액이 없으면 액젓을 약간 넣어도 됩니다.",
+		"4. 팬에 들기름과 식용유를 1:1로 섞어 데쳐서 꼭짠 가지를 넣고 달달달 볶아주세요.",
+		"5. 가지가 어느정도 볶아지면 이제 준비한 양념장과 물을 2큰술 정도 넣어 조리듯 볶아주세요.",
+		"6. 양념장이 거의 다 졸아들면 마지막으로 들기름을 한번 더 넣어 윤기를 내주고 들깨가루를 넣어 마무리 해 주세요.들깨 가루는 넣은 뒤 오래 볶지 마세요. 오래볶아내면 들깨특유의 떫은 맛이 강조된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/8f8e3fcc034b0516aac7882cdda0e1721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/b00abbf9d657aa7890cfb4e849d37dfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/8e656900452bbbe902fc57c35ff525f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/7e00517116c4c31a307058acfdb0c19c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/388a146b192c858922e1d5240490b43a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/609667f7ecb16c5dbc75f59d88d434871.jpg"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"id": "6945720",
+	"name": "술빵 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/7f77e612b23abf3320c1645fa17c40b21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945720",
+	"ingredient_ids": [
+		226,
+		234,
+		109
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "생막걸리",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "6",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "강낭콩",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 막걸리와 설탕을 먼저 섞어줍니다. 백주부님은 중탕으로 하셨는데, 중탕이 중요한 것이 아니기에 중탕을 안 하셔도 된다고 하셨어요! 그래서 저는 중탕 안 했습니다 ㅎㅎ",
+		"2. 밀가루와 섞어줍니다.",
+		"3. 실온에다가 발효시켜줍니다. 랩을 씌우고 3~4시간 이상 발효시켜줍니다.반죽을 따뜻한 곳에 두면 더 빨리 발효된다는 사실!!",
+		"4. 원하는 토핑재료를 넣어줍니다. 저는 강낭콩을 이용했어요~ 면포를 깔고 반죽을 부어줍니다.마리텔 영상에서는 흑설탕과 밀가루를 섞어서  안에 속을 넣어 만들더라고요~",
+		"5. 20분 정도 쪄주면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/dd7ac2ca9a4c55d4bbc69f3283204cec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/95c02676e1921a32b0a9f07856e1947b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/67d09f42dd546262e5a13aa7a430167e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/7e65c3d321bdab479fee215afc0de62a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/936fa49703c4b055f57e3c638ab076b21.jpg"
+	]
+}

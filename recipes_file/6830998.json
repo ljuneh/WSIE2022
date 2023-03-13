@@ -1,0 +1,60 @@
+{
+	"id": "6830998",
+	"name": "싱싱한 낙지로 만든 낙지탕탕이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/32e5056e8e68d271c94281f4387797bb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6830998",
+	"ingredient_ids": [
+		234,
+		497,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "산낙지",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 산낙지 두마리를 찬물에 담아둬요.",
+		"2. 산낙지를 물기뺀후 볼에 담아 밀가루 두스푼을 넣어줘요.",
+		"3. 바락바락 주물러서 이물질을 제거해줍니다.",
+		"4. 찬물에 밀가루를 제거하고 깨끗이 씻어요.",
+		"5. 물기를 제거하고 일단 가위로 머리를 잘라줬어요.",
+		"6. 도마위에서 칼로 탕탕 쳐주어서 먹기좋게 잘라줍니다. 식당에서는 잘 잘리는것 같던데 여기서도 스킬이 필요한가봐요. 일일이 잘라주기도 했답니다.",
+		"7. 잘 잘려진 낙지에 소금 1티스푼, 참기름 1큰술, 통깨 1/2스푼을 넣고 섞어줘요.",
+		"8. 그릇에 얌전히 담아서 숟가락으로 떠 먹으면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/282f541533568b6d8e527cfd8e9305f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/a097aeecd55be04772ef7b013ce64b2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/9cb81b884bd062d929893650d2d299ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/8ca31a05c0d08b861f6e49dfca71cc581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/e99fc072eef6586361e58a74dfb52fc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/1951fc85c65d5e3740053362d331cd301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/f4897b8b6acd3e9abd87bb0a9432ae281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/8c6312e468955fb2e37486469088b2d91.jpg"
+	]
+}

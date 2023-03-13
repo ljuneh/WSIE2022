@@ -1,0 +1,84 @@
+{
+	"id": "6944323",
+	"name": "청국장찌개 끓이는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/58ff8c5a8d18225d6ac5ab89f3efb8de1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944323",
+	"ingredient_ids": [
+		670,
+		325,
+		323,
+		3,
+		333,
+		224,
+		1018
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "청국장",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "700",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "tbsp"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "tbsp"
+		},
+		{
+			"ingre_name": "천연조미료",
+			"ingre_count": "1/2",
+			"ingre_unit": "tbsp"
+		}
+	],
+	"recipe": [
+		"1. 청국장외 모든 재료들은 먹기 좋은 크기로 썰어 준비해 주세요.",
+		"2. 멸치육수를 냄비에 붓고 청국장을 먼저 넣은후 팔팔 끓이면서 덩어리를 풀어줍니다.",
+		"3. 청국장이 다 풀어지면 썰아놓은 신김치를 넣아주세요.",
+		"4. 나머지 썰어놓은 재료들도 모두 넣어줍니다.",
+		"5. 분량에 양념응 넣고 15분 정도 약한불에서 뭉글해질정도로 끓여주세요.",
+		"6. 기호에 맞게 간을 하고 뚝배기에 옮겨 담으면 구수한 청국장 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/e2b511ebce2ce9c704213f685ddee2ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/a20e6ec5e5b9206e477c0d3398e87d691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/17c458dbef2cbe96e4ebbb97919ac3891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/df33033545ec73b424061ff7b040b9981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/b5e62d2c29df61b5ca124a6f6f4d48341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/ee7a08d39f69b485a4369c6429b860e91.jpg"
+	]
+}

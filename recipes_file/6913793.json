@@ -1,0 +1,63 @@
+{
+	"id": "6913793",
+	"name": "수미네반찬 이상민 라면죽 따라하기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/58b3cfcc14e2071c6bf716ba06ecbf541.jpg",
+	"url": "https://www.10000recipe.com/recipe/6913793",
+	"ingredient_ids": [
+		441,
+		995,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "공기밥",
+			"ingre_count": "1",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비 해주세요 라면은 종류 상관없어요 1인분 기준입니다",
+		"2. 물은 500ml 1인분 기준으로 준비 했습니다",
+		"3. 물이 끓으면 라면과 스프를 넣어주세요",
+		"4. 끓는물에서 타임 맞추어 놓고 1분 22초가 되면  공기밥 준비해주세요",
+		"5. 찬밥인 경우 2분 22초가 되면 밥을 넣으시면 되고 따뜻한 밥일경우 1분22초가 되면 밥을 넣어주세요",
+		"6. 밥이 잘풀어지게 저어 주세요",
+		"7. 1분 남았을때 계란을 넣어주세요",
+		"8. 계란이 잘풀어지게 저어주세요",
+		"9. 마지막으로 참기름 넣어주면 끝입니다",
+		"10. 간단하면서도 든든한 한끼 이상민 라면죽 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/44ce989de37745c2dc367af204bf93c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/256b30776c86d2d72f305d4b826ead8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/f9d646c67fc71678b79906cf47dbe9c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/fc7e6261109481dbd66594d803aab9931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/97166952ca89e6c0fdd4f83d7683871b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/087c42f47b6920e4401e17251a5109b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/ead0612f23f16daab6400ee07e9cd1701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/47779b660575de5f725773ff8e6233e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/2e5b853d76aea6f8a6d7d41f24cb00021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/11/c18298be0dc98e98b446e7924c3a092c1.jpg"
+	]
+}

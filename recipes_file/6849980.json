@@ -1,0 +1,61 @@
+{
+	"id": "6849980",
+	"name": "생물오징어가 없어도 만들 수 있는 오징어 부침개! 고소한 오징어젓장떡",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/a10844709490adc5c9d337868ea49fc91.png",
+	"url": "https://www.10000recipe.com/recipe/6849980",
+	"ingredient_ids": [
+		751,
+		643,
+		27,
+		3,
+		219
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "8",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물1컵(200ml)",
+			"ingre_count": "1컵(200ml)",
+			"ingre_unit": "컵(ml)"
+		},
+		{
+			"ingre_name": "밀가루1+1/2컵(300ml)",
+			"ingre_count": "1+1/2컵(300ml)",
+			"ingre_unit": "컵(ml)"
+		}
+	],
+	"recipe": [
+		"1. 풋고추와 대파는 송송 썰고, 양파는 2cm 길이로 채 썰어요.풋고추 2개, 대파 8cm, 양파 1/2개 ",
+		"2. 볼에 모든 재료를 넣고 섞어요.오징어젓 1/2개, 달걀 1개, 물 1컵(200ml), 밀가루 1+1/2컵(300ml)볼",
+		"3. 중간 불로 달군 팬에 식용유를 두르고 반죽을 먹기 좋은 크기로 얹어 앞뒤로 노릇하게 구워요.중간 불"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/26/8fb4bfd1725f78ca6a24ba2adcc0c0f01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/26/4732c861fcab4f2bed13f2ba9ef7918d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/26/ac19b6feb2541a33e9c5a90acbf91f6a1.png"
+	]
+}

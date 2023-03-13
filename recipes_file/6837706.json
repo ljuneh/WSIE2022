@@ -1,0 +1,43 @@
+{
+	"id": "6837706",
+	"name": "전복버터구이 레시피, 10분만에 폼나는 요리로~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/07/0c81ad10ebb65b3a05490c036a5719701.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837706",
+	"ingredient_ids": [
+		86,
+		29,
+		198
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "6",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "6",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 전복은 솔로 깨끗하게 씻어준뒤 내장은 떼고 이빨을 제거후에 준비해주세요~ 전복껍데기위에 요리를 올릴꺼라서 껍데기도 깨끗하게 씻어서 준비해주셔야합니다^^",
+		"2. 전복에는 칼집을 내어주세요",
+		"3. 마늘은 편으로썰어주세요",
+		"4. 버터와 마늘을넣고 볶다가~",
+		"5. 마늘이 익으면 손질한전복을 넣고 볶아주세요 마늘버터향이 전복에 잘 베도록 앞뒤로 돌려가며 타지않게 볶아주신뒤 깨끗하게닦은 전복껍데기안에 넣어주시면 된답니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/07/1a290823b26ce1875e4b46ee96f759c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/07/e8b8b7529390dc6121a3ee81576099761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/07/936909d96495440d5afaf9c37a7ea5721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/07/ecf1572e38658f36c42fc75ea98715021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/07/406931d59054616a387f8d2f1afb788b1.jpg"
+	]
+}

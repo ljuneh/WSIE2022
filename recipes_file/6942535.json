@@ -1,0 +1,93 @@
+{
+	"id": "6942535",
+	"name": "느타리버섯두루치기 맛남!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/fe7301b03870789088db27144aa54b271.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942535",
+	"ingredient_ids": [
+		56,
+		27,
+		325,
+		473,
+		379,
+		233,
+		660,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "양파(큰건1/2개)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2~3숟가락",
+			"ingre_unit": "~숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2/3",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 우선 양념장부터 만듭니다. 일반수저로 계량해서 고추가루2, 고추가루1, 간장2~3, 다진마늘1, 참기름1, 설탕2/3 넣어서 섞어줍니다. (우선 간장은 2수저 넣었다가 볶으면서 싱거우면 추가하는게 좋더라구요)",
+		"2. 느타리 버섯 손질해서 크다 싶은것만 찢어서 준비합니다. (너무 잘게 찟지 마세요. 너무 얇게 찟으면 식감이 떨어지거든요)",
+		"3. 대파는 어슷썰기, 양파는 채썰기 했구요.",
+		"4. 저는 호박은 냉동실에 있던거 사용했는데 호박은 생략하셔도 됩니다.",
+		"5. 이제 준비한 모든 재료(야채)를 넣고 양념장을 넣어서 버무려줍니다.",
+		"6. 처음에는 잘 안버무려진다 생각이 드는데 살살살 버무리다보면 물이 생겨서 잘 버무려 진답니다.",
+		"7. 이제 볶아주면 되는데~ 기름 두루지 않고 그냥 볶아주면 됩니다. 볶아지면서 물이 생겨서 잘 볶아져요.",
+		"8. 양파.호박 익을때까지만 익혀주면 느타리버섯두루치기 완성입니다.",
+		"9. 접시에 담아서",
+		"10. 식탁위에 올려주면 되는데 느타리버섯 두루치기가 고기식감이 있어서 저는 쌈야채도 준비해주었답니다. 그냥 먹어도 맛있고, 쌈야채에 싸먹어도 맛있고, 두루치기에 밥을 싹싹 비벼서 조미김에 싸먹으면 완죤 맛있답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/1615d81b29f986790d04870eb77cdcb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/73c14cfcf50fbe5021456738855042591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/2b81030d937d00806bf76c35a47edd941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/43079cbfb527a7aa4c6f0329a40997771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/ffe4dcad4b2107cec7e7d1d84d12271f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/e0e02e16600078a1c6e8bb378c8f61b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/595f7b9a80d5a15d119578324ca069eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/08a44dbe8ff5d8dc5a10faec381f872b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/8c6386d769a7617c93c4eb8c1e8e3dd01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/cc85a14c6e32d1b0ddecb84304e0358a1.jpg"
+	]
+}

@@ -1,0 +1,112 @@
+{
+	"id": "6940688",
+	"name": "깍두기 볶음밥 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/9515785ba13e7bb587b7166f3c1eac8f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940688",
+	"ingredient_ids": [
+		27,
+		995,
+		504,
+		473,
+		224,
+		379,
+		226,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "깍두기1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "깍두기국물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "공깃밥1+1/2공기",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "참기름은",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		}
+	],
+	"recipe": [
+		"1. 깍두기는 먹기 좋게 썰고, 김치 국물도 1/2컵 함께 준비해 주세요. 대파랑 소시지도 송송 썰어주고 깍두기 없으면 총각김치로~ 소시지 대신 베이컨, 스팸 등으로 준비하세요. ",
+		"2. 달군 팬에 식용유(2)를 두르고 대파를 넣어 노릇하게 볶아주고 ",
+		"3. 파가 노릇하게 익으면서 향이 올라오면 준비해 놓은 소시지를 볶아주고 ",
+		"4. 이어 깍두기랑 김치 국물(1/2컵)을 넣고 ",
+		"5. 여기에 물(1/4컵)",
+		"6. 그리고 양념재료 고추장(0.3), 고춧가루(0.5) ",
+		"7. 간장(0.5), 설탕(0.5)을 한데 넣어 주고 여기서 말씀드릴 부분은 갖고 계신 김치마다 염도가 다르기에 양념장을 조절해 주시고요. 단맛 또한 신맛을 잡아주기 위함이니~익힘 정도에 따라 조절하세요. 전체적으로 양념이 잘 어우러지게 볶아주고 ",
+		"8. 불은 중약 불로 줄이고 뚜껑을 닫고 양념이 배어들면서 무가 익으면서 국물이 자작하게 졸아들 때까지 3~5분 정도 기다려주고 ",
+		"9. 국물이 자작 자작해지면",
+		"10. 밥 한 공기 하고 반 공기 더 넣어 볶아주기",
+		"11. 마지막에 통깨랑 참기름을 취향껏 넣어 마무리해 주세요. ",
+		"12. 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/693cc3efe11613f9fe7f06dc9570eb541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/d299b8f9147a90a16c9a1b81b9a5b87d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/40accf35857bd55d45441bec9fda574f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/3c40b97406f172152216f7a433a224f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/53022272bd582e040685b54502e523c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/bbe7ac810e934308ca2da0d711c39eb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/6bc26d3505c675ad7a7058bda3845b891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/fde340b704129090f657a637f120d41a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/21a9b4e2867383c0badfd291b6af158e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/09ce79c4e04a2764d0142bb440dbb9721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/007e02916a7d20f5b7252234bf7d02551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/305df3583e02197b6d3a759675ffa4a71.jpg"
+	]
+}

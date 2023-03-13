@@ -1,0 +1,55 @@
+{
+	"id": "6910384",
+	"name": "매운맛 쏙 마늘 꿀조림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/13/1bd0a756ce6621fbf3711739980726b61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6910384",
+	"ingredient_ids": [
+		379,
+		227,
+		292,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 재료: 마늘2컵, 꿀3큰술,맛술1큰술 조림장: 간장2큰술,꿀3큰술,맛술1큰술",
+		"2. 마늘은 껍질을 벗겨 깨끗이 씻어줍니다",
+		"3. 냄비에 물을넣고 끓으면 중불로 5분정도 삶아주세요. 5분이면 알맞게 삶아 진 것 같아요. 이렇게 해주면 매운맛도 없어지고 특유의 마늘 냄새도 제거 됩니다.",
+		"4. 마늘의 물기를 빼주세요.",
+		"5. 팬에 양념재료 간장,꿀,맛술 넣고 약한불에서 끓이세요. 센불에서 하면 조림장이 다 날라가 버립니다.",
+		"6. 끓으면 마늘 넣고 중약불로 계속 타지않게 조려줍니다.",
+		"7. 조림장이 어느정도 졸여지면 완성",
+		"8. 매운맛이 싹 없어지고 달콤한 마늘조림이 되었네요. 아이들도 먹을수 있어요. 마지막에 집에 있는 견과류 아몬드,땅콩 을 버무려도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/13/6798fd65acc2b6abb9c2109a771601451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/13/c010ff408727af9dfa515c3cf55b57021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/13/b73799b81af5ad7a6628477ea20c6f441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/13/0ad9f2e95cfe0ad8634aab3cb033d3421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/13/f14dd8dd6114fcb003a172e8ca62d7fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/13/8049a2fd85a629c11ec71d71cc65a6611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/13/4ea401ed78ae5a739628947063aebd671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/13/302f44a5ab206db7c85d4a18c5a7c3061.jpg"
+	]
+}

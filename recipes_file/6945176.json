@@ -1,0 +1,78 @@
+{
+	"id": "6945176",
+	"name": "속 아플때 먹는 달걀죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/0061d5e3257115ed4d5dedd43b8ff2471.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945176",
+	"ingredient_ids": [
+		219,
+		3,
+		497,
+		660,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "육수용다시마",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		}
+	],
+	"recipe": [
+		"1. 재료는 이렇게 준비해주세요~!",
+		"2. 물을 냄비에 밥공기 두 번 정도 넣고 물을 끓여주세요!*종이컵으로 약 3컵정도 됩니다!",
+		"3. 물이 끓을 동안 식용유를 두르고 양파를 볶아 주어요! *갈색 빛이 돌때까지 익혀주어야해요! 양파의 단맛을 확 이끌어 주는 이 과정을 카라멜라이징이라고 한답니다!",
+		"4. 팔팔 끓는 물에 육수 재료를 넣어주고 5분간 끓여줘요! *꾸껑은 닫지 않고 끓여주세요~!",
+		"5. 5분이 지나면 육수재료를 건저내고 밥 반공기를 넣어 밥을 잘 풀어주세요! *밥알이 육수를 머금고 육수가 조금 쫄았으면 다음 단계로 넘어가 주어요!",
+		"6. 달걀을 넣고 바로 저어주어요! ",
+		"7. 달걀과 밥이 잘 섞이고 달걀이 조금 익어가는게 보일쯤 다음 단계로 넘어가줘요!",
+		"8. 양파를 넣어 섞고 소금과 참기름을 넣어서 섞어 주어요!*파가 다 떨어져서 못넣었지만 파를 넣어 드시면 더욱 맛있어요! *볶아져 갈색이 된 양파를 믹서기에 갈아서 넣으면 식감이 더 좋다고 하네요~",
+		"9. 그릇에 담아 맛있게 먹어주어요!ㅎㅎ "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/f73a77ab7dbfb0f57c824e472be7df131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/6960137f47b8db348dd39c9581ef18fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/2ebcab32d89dc9b90b94f11d5dc32e9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/d2e0a313ea46d5b38e45cb836d957cd41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/ad2661a300a557d98e2a7ee967fae0131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/2305d905ff807c429d0d270bc406a61d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/ffab967d7a84d13048f85be25062d7781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/019a275aa47f590051fbe10f13ee0d4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/80329bbf2acefffb3042a9d4cce135c61.jpg"
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"id": "6939997",
+	"name": "새우 부추전 # 부추부침개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/6cc1ac65f6024ac0ed2b6a0225dadb901.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939997",
+	"ingredient_ids": [
+		30,
+		79,
+		34,
+		234,
+		387,
+		497,
+		379,
+		938
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "8",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 부추를 씻어서 먹기 좋게 잘라주세요",
+		"2. 냉동실의 새우는 물에 담가 두세요",
+		"3. 부침가루와 밀가루 2:1비율로 넣고 소금 조금 넣고 물을 넣어 묽은 반죽을 만들어 주세요",
+		"4. 부추를 넣어 주세요",
+		"5. 새우살을 반 자르고 고추는 잘게 다져 줍니다",
+		"6. 팬에 식용유를 넉넉히 두르고 센불에 예열한 후 반죽을 넣고 불을 줄여줍니다",
+		"7. 새우와 고추를 넣고 그 위에 반죽을 한번더 넣어 새우와 고추가 붙도록 합니다",
+		"8. 넓은 뒤집개로 뒤집어서 노릇하게 부쳐주세요",
+		"9. 간장 매실청 고추가루 고추 넣고 양념장을 곁들여 먹어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/8fa824efacdcef7657a11b2241874cfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/c7547e48dce9f20a27527be66ec5a4f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/593ae6d103161ec54f37dadf12bf3b8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/6d6f2655ae104e67f36454e107e75f211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/ea88f6728af966f1a44c6000d9631ed31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/13db428ee62b02d8a5dd4bf89b62e22c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/b2624493b7c2ad777219d8b5a2dbacb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/c1506c66d16cba680da659f6ddc8d8c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/8ffff1e0ce15ccef20eea7f1c575ad031.jpg"
+	]
+}

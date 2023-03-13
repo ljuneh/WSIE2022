@@ -1,0 +1,47 @@
+{
+	"id": "3229194",
+	"name": "꼬막 삶기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/c2bcbcf26a376fb98cf8b948f4733276.jpg",
+	"url": "https://www.10000recipe.com/recipe/3229194",
+	"ingredient_ids": [
+		83,
+		497,
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "꼬막",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2~1컵",
+			"ingre_unit": "~컵"
+		}
+	],
+	"recipe": [
+		"1. 꼬막은 소금물에 담궈 2시간 이상 해감시켜 갯벌. 흙 등을 제거시켜 주셔야 해요.",
+		"2. 넓은 냄비에 물을 담아 팔팔 끓여 주세요! 물이 보글보글 끓으면 찬물을 1/2~ 1컵 정도 부은후 꼬막을 넣고 삶아줍니다.",
+		"3. 꼬막을 넣고 물은 꼬막 보다 2~ 4cm 정도 높게 더 부어줍니다.",
+		"4. 삶는 시간은 대략 5~7분 정도로 국자나 스푼을 이용해 한쪽방향으로 저어가며 삶아줍니다.",
+		"5. 입을 벌리기 시작하면 채반에 부어 주세요.",
+		"6. 꼬막은 먹기 편하게 살이 붙지않은 껍데기 한쪽을 떼어내 주면 됩니다.",
+		"7. 따뜻할때 먹고 남은 꼬막은 냉장고나 차가운곳에 두었다가 간장양념을 살짝 뿌려 반찬으로 드셔도 맛있습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/edac3c02b3bd65ca5be42d276e412afb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/22aea5b5fb3b53e9d402aa0c980c6af71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/32438e321791f7312dd8fcd2592696d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/12f9203971fed2df6fd7c7053887358d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/ebefbf8c71e961d5f9bd4f3efbab77dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/f7a6718e568d4a0720aa77bafffafdba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/654321207d62a939eaf3543f526d78371.jpg"
+	]
+}

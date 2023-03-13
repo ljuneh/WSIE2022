@@ -1,0 +1,77 @@
+{
+	"id": "6837989",
+	"name": "쌀쌀한 날에 어울리는 시원한 대구탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/28/035b408048bf1396c812ef66ad53a0031.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837989",
+	"ingredient_ids": [
+		20,
+		27,
+		29,
+		379
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "생대구",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "붉은고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "검은콩두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 모든 재료는 손질하여 먹기 좋은 크기로 썰어둔다.",
+		"2. 멸치 육수 3컵 정도 만들어 준다.",
+		"3. 딱딱한 무를 먼저 넣고 끓이다 대구와 두부를 넣는다.",
+		"4. 마지막에 썰어 둔 채소를 넣고 마무리한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/0f855193c56c7f4c8ccb6387be46902e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/4bf3b3035bce44d47c669c62fcbbd3941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/cfbf08891b475e24ff68d2175730e2711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/9d94f0f33ab58848f560c192b7d02d011.jpg"
+	]
+}

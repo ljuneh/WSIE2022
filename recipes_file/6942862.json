@@ -1,0 +1,115 @@
+{
+	"id": "6942862",
+	"name": "쌀쌀한 저녁에 생각나는 따뜻한 국물요리, 어묵 전골",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/d0c16de1db93cd811d1b6c6a09de88051.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942862",
+	"ingredient_ids": [
+		31,
+		55,
+		761,
+		497,
+		995,
+		292,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "사각어묵",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "어묵탕용어묵",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "쑥갓",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "버미셀리면",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "멸치육수팩",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "새우육수팩",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "고추씨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".리터"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "연와사비",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다.",
+		"2. 냄비에 물 1.5리터를 붓고 멸치육수팩, 새우육수팩, 고추씨팩과 참치액젓 2큰술을 넣은 후 끓여주세요. 물이 끓어오르면 중불에서 6~7분 정도 더 끓여 육수를 만들어 주세요.",
+		"3. 버미셀리면은 찬물에 담가 불려주세요.",
+		"4. 어묵탕용 어묵은 모양별로 어묵픽에 꽂아주세요.",
+		"5. 사각어묵은 반으로 자르고 돌돌말아 어묵픽에 꽂아주세요.",
+		"6. 쑥갓은 굵은 줄기는 제거하고 깨끗하게 씻어 주세요.",
+		"7. 팽이버섯은 밑둥을 자르고 먹기좋게 찢어 놓습니다.",
+		"8. 끓고 있는 육수에 어묵을 넣고 끓기 시작하면 불을 낮추고 국물이 뽀얀 색깔로 우러날 때까지 끓이다가 버미셀리면을 넣어주세요. 마지막으로 간은 소금으로 맞춰주세요.",
+		"9. 먹기 직전에 팽이버섯과 쑥갓을 올려서 한소끔 더 끓여주면 완성입니다. 분량의 와사비소스 재료 (진간장 2T, 연와사비 2T, 맛술 2T, 올리고당 1T)을 골고루 섞어 곁들여 내시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/1e68150c3a8d89eba50dfe478f4163fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/f5b46050fb1f1c6f430d75b42a8fde7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/394b0981ffea47c035ec614c025c3f451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/db35ce386bb88006f87f71a893cd6c061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/10fad9aa64706be30badf91eb87ec48c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/ce852ecc3b67068f215f05c58481d3541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/6019f0ae338675e7bc50bdb9126f06201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/eb605590794850f0673e585b884f6b641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/356fc7f34d0af40c30a092745d3de0b41.jpg"
+	]
+}

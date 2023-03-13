@@ -1,0 +1,51 @@
+{
+	"id": "6940554",
+	"name": "건강하게 먹자. 호두 & 브라질 넛 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/3a416c1ab760309337175f521af8c4c41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940554",
+	"ingredient_ids": [
+		840,
+		226,
+		379
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".Tbs"
+		},
+		{
+			"ingre_name": "자몽청",
+			"ingre_count": "2",
+			"ingre_unit": "Tbs"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".Tbs"
+		},
+		{
+			"ingre_name": "물1Tbs​",
+			"ingre_count": "1",
+			"ingre_unit": "Tbs ​"
+		}
+	],
+	"recipe": [
+		"1. 견과류는 예열 된 380도 오븐에 12분 구워 주거나 기름을 두르지 않은 팬에 볶아서 준비한다.오븐",
+		"2. 달군 팬에 기름을 살짝 두르고 견과류를 넣어 볶는다.",
+		"3. 양념 재료를 모두 넣고",
+		"4. 물기가 없어질 때까지 뒤적이며 볶아 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/c4929c7146909efddec2020d657efd051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/d937a91547d27f5e58982caeba884d391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/aa42a97138ab0ff150c8e58ef0ecc9411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/ebc519e732a0882161f9e4f168c49a7d1.jpg"
+	]
+}

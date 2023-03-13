@@ -1,0 +1,113 @@
+{
+	"id": "6880694",
+	"name": "버섯요리/조금 색다르게 만들어 먹는 버섯 깐풍",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/08/91a64b288e91260e8d8cc5d52e366c2c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6880694",
+	"ingredient_ids": [
+		56,
+		29,
+		995,
+		226,
+		231,
+		995,
+		734
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추각각",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "튀김기름",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "참기를",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "(볶음때기름)",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "7",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 버섯 1팩과 마늘 그리고 살짝 매콤한 맛으로 먹기 위해 청, 홍고추를 준비한 다음 버섯을 먼저 손질해                   ",
+		"2. 끓는 물에 소금을 조금 넣고 버섯을 넣어 끓어오르면                   ",
+		"3. 찬물에 헹구어 손바닥으로 꼭 눌러 물기를 짜주고는                   ",
+		"4. 튀김가루 3수저를 넣어 가루를 가볍게 무쳐놓고                   ",
+		"5. 튀김 반죽을 만들어 버섯을 넣어 섞어 반죽 옷을 입혀                   ",
+		"6. 빠르고 바삭하게 먼저 1차로 튀겨 한김 식을 수 있게 놓고                   ",
+		"7. 준비한 양념을 만들어요. 마늘 1수저와 청, 홍고추는 씨를 제거해 잘게 썰어 놓고",
+		"8. 간장, 물, 설탕, 식초를 2수저씩 넣어 새콤달콤한 소스를 만들어놓습니다.",
+		"9. 양념을 만들어 놓은 사이 1차로 튀겨 살짝 식은 튀김을 다시 2차로 한번 더 튀겨 바삭한 버섯튀김을 만들어 줍니다.",
+		"10. 버섯을 2차로 튀겨놓고 팬에 기름 1수저를 넣어 먼저 마늘부터 볶은 다음 고추를 넣어 한번 더 가볍게 볶아                   ",
+		"11. 만들어 놓았던 양념을 넣어 보글보글 끓여 깐풍 소스를 만들어 줍니다.",
+		"12. 소스가 끓으면 튀겨놓은 느타리버섯을 넣어 소스가 잘 베이도록 저어가면 소스가 남지 않게 조리듯 볶아주고",
+		"13. 마지막에 참기를 살짝 넣어 마무리하면 버섯 깐풍 완성^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/31b02c94b606399db3088f07240e7afb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/1fb1e8822fcf0e637349c1d4355b41321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/c44153e03b05af8d82f8782ab6d090c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/c62800bcb0cdada10aebc415f579b39a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/d850a70eccc9afd663c0c690ff64b3621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/3edfb2dd41ef256d20593d7369068b561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/e26db1e96bf340f57eba9a172dde19411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/0d8a4868ef8c089db140940044fa81131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/a7e187a76fa39093a66e615c8d4bece91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/21c3c9a619a338fc001e013e4ab0178a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/b35bb695461b2879b7bc4ad8384fac341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/583c7c06da77808663e4042c613bf7641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/bd0873b1c260ae8014bb12213c1bfa5c1.jpg"
+	]
+}

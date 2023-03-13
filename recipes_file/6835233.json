@@ -1,0 +1,76 @@
+{
+	"id": "6835233",
+	"name": "칼칼하니 시원한 모듬전섞어찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/29/d04afa271086923c4c6dc93434fdcff81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6835233",
+	"ingredient_ids": [
+		53,
+		3,
+		325,
+		84,
+		995,
+		390,
+		349,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바지락",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "머그컵"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 무는 얇게, 호박은 도톰하고 납작하게 썰고, 표고버섯 2개와 양파는 채를 썰어주세요. 표고 두개는 칼집을 내 줍니다. 청홍고추와 대파는 어슷 썰어주세요. 이 재료들 아니더라도 명절에 사용하고 남은 야채들을 넣고 끓이시면 되요. 전은 먹기 좋은 크기로 썰어줍니다.",
+		"2. 분량의 양념 재료를 모두 넣고 골고루 섞어주세요. 새우젓을 넣어주면 찌개의 감칠맛이 훨씬 좋답니다.",
+		"3. 물 5머그컵 정도를 넣고 다시마, 디포리, 바지락을 넣고 육수를 내줍니다. 바지락 없으시면 생략하셔도 되고요, 넣어줌 찌개가 좀더 시원한 맛이 좋거든요. 끓으면 약 10분정도 중불에서 끓여주고 디포리와 다시마는 건져내고, 바지락은 따로 건져 둡니다. 바지락은 너무 오래 끓이면 질겨 질 수 있거든요.",
+		"4. 무와 양파를 밑에 깔고 호박과 모듬전을 넣어 주고, 양념을 얹어 줍니다. 바글바글 끓여주면서 양념을 풀어주세요. 그리고 청홍고추와 대파, 고명으로 올릴 표고버섯을 올려 한번 더 끓여줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/cc8e1979af38f58b7a5bc18dd6c485911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/7ad576e9041fdfcd413a89f3e117949d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/16073784c96472979fd61f3b07ecc9c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/43c40b211a16397c51b6b62d9c8d13781.jpg"
+	]
+}

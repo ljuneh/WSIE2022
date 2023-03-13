@@ -1,0 +1,58 @@
+{
+	"id": "6943390",
+	"name": "쉬운반찬 애호박볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/5ed6f89dbd254264ebef751275e92b591.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943390",
+	"ingredient_ids": [
+		7,
+		3,
+		233,
+		390,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 애호박 양 끝을 잘라 내고 반을 자른 후 반달 모양으로 썰어 팬에 담아준다 양파,고추 썰어 담아주고",
+		"2. 취향껏 새우젓 넣고 기름을  빙~ 두른 후",
+		"3. 슥슥~ 볶아주다가 다진마늘 반스푼 통깨솔솔 뿌려",
+		"4. 휘리릭~ 볶아내면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/310ee9e59e9d0c872aa6a8e126610f2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/4b74e88de6c931eac55367824e031c541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/8a583b672d6b0b3bc2008aac28be19251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/62a908774afd58ed1345ac199e17d4281.jpg"
+	]
+}

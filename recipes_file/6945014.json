@@ -1,0 +1,72 @@
+{
+	"id": "6945014",
+	"name": "바삭하게 튀겨내는 의외의 방법 카레야채튀김",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/28ab21561af1437e0da484537590ea781.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945014",
+	"ingredient_ids": [
+		4,
+		3,
+		9,
+		995,
+		734,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 고구마를 감자칼로 껍질을 벗깁니다",
+		"2. 당근 고구마를 채 썰어 물에 담궈 놓습니다",
+		"3. 양파를 채 썰어놓습니다",
+		"4. 고구마 당근 양파에 튀김가루 카레가루를 넣고 섞어줍니다",
+		"5. 튀김 반죽을 만듭니다",
+		"6. 튀김반죽에 재료를 넣고 섞어줍니다",
+		"7. 오일에 야채튀김을 노릇노릇 튀겨 냅니다",
+		"8. 용기에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/0ebcb3b744883de8e0ba0f3ccdd1819c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/e73d026b352969e64bc75011ccc371241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/d5f48325b94bad8c34eb16bf3281fc471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/43cbb560beebfa45702fdac9f21d0a081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/83adb8be17c533a203f880df9c2432961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/2475ee72340b0e6cade75b8cdf805a6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/035a0a82b700ab0b52dbc475f5b294481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/83d549bab51f131c539123669ec4d6681.jpg"
+	]
+}

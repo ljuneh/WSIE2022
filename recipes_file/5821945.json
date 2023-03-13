@@ -1,0 +1,50 @@
+{
+	"id": "5821945",
+	"name": "일본식 계란말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/f6335690f1bcf30419c4b633efef7ec91.jpg",
+	"url": "https://www.10000recipe.com/recipe/5821945",
+	"ingredient_ids": [
+		219,
+		379,
+		226,
+		846
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가쓰오육수",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 계란에 육수와 간장, 설탕, 청주를 넣어 풀어줍니다. 육수는 가쓰오 육수가 있음 좋고 없으면 멸치 다시마 육수도 가능합니다.",
+		"2. 달구어진 팬에 계란물을 얇게 둘러 계란을 말고 또 남은 계란물을 부어서 이어서 계란을 말아줍니다. 너무 많이 익으면 맛이 덜 하니까 약한불에서 계란을 익혀줍니다.",
+		"3. 란말이가 완성된 후 모양을 잡아주기 위해 종이호일로 돌돌 말아 열이 남아 있는 팬 위에 올려 놓습니다. 이렇게 5분 정도 두었다가 계란이 식었을때 썰어줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/8727a058d137a32237dec5522051c0841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/313ed809929682dfcbc272e0b2770ff31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/7b250e5cdf65b360f85bb941ec3d78a91.jpg"
+	]
+}

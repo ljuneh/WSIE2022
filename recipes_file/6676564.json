@@ -1,0 +1,49 @@
+{
+	"id": "6676564",
+	"name": "쑥국 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/98e99509153bc473ccc2d1cdc7501e731.jpg",
+	"url": "https://www.10000recipe.com/recipe/6676564",
+	"ingredient_ids": [
+		506,
+		996,
+		848,
+		29
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "쑥",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "멸치가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 쑥국 맛있게끓이는법 첫번째 단계는 쑥을 약 1시간정도 쌀뜨물에 담궈두는거에요.쌀뜨물에 쑥을 담가두면 쑥의 나쁜성분들을 용해시켜준다고 하더라구요.",
+		"2. 1시간 정도 시간이 흐르면 쑥을 흐르는 물에 흔들흔들 씻어서 흙이나 불순물을 제거해주었어요. 쑥은 너무 힘껏 세척하면 향기가 날아가니흐르는 물에 살살 달래듯이 세척해주면 된답니다!",
+		"3. 냄비에 물을 올리고 멸치가루를 넣어 육수를 만들어주었어요. 멸치가루로 육수를 낸 다음, 다진마늘을 약간만 넣어주었답니다 .                   ",
+		"4. 물이 팔팔 끓어올랐다면 된장을 반큰술 정도 넣어주어요. 육수가 끓으면 쑥을 넣어줍니다.                   ",
+		"5. 마지막으로 들깨가루 한스푼을 넣으면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/852c64c3370a4547813705b67e8ceb4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/fa9df7a83c450f3585ec0ca8b169115b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/330fda4fd765b38ecd85cb65178f3f661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/e43aced92b0449b4a45f57e41c4206321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/a395fc1095304f179f73830d1e0a7ee51.jpg"
+	]
+}

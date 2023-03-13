@@ -1,0 +1,43 @@
+{
+	"id": "6902069",
+	"name": "에어프라이어로 훈제삼겹살 구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/15/46c58075b3e5f677caafbbe4a1f894911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6902069",
+	"ingredient_ids": [
+		3
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "훈제삼겹살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 통삼겹살은 숙성해서 해주면 맛이 있다고 하는데 훈제는 따로 숙성을 하지 않아도 되니 간편하고 좋은것 같아요 500g을 세등분으로 나누었어요",
+		"2. 에어프라이어는 두 겹의  바스켓으로 되어 있는데요 본체에 종이호일을 깔아주면 좋아요에어프라이어",
+		"3. 구멍이 있는 바스켓에 고기를 넣어주고 양파와 통마늘을 넣어주세요",
+		"4. 이제 온도를 맞추어 구어볼까요? 먼저 180도에 15분정도 구어볼께요",
+		"5. 15분뒤에 보고 한번 뒤집어 주세요 뒤집어서 다시 구어주세요 전 바삭한게 좋아서 뒤집어서는 20분정도 구었어요",
+		"6. 완성된 고기를 접시에 담아주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/15/612028015ba3ced07fa7185c98b5d41d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/15/87996c1388c577c9b71dff1c8e380afa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/15/d2db507e773305ac40c2ba75c3da5bee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/15/32495faf8959393ac1de80df932d4dee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/15/2e19e93f5a82ed3d6f2821a248c442c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/15/72459f57107e01e2bea499e3a18e31aa1.jpg"
+	]
+}

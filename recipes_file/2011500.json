@@ -1,0 +1,64 @@
+{
+	"id": "2011500",
+	"name": "미역 감자국 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/0fa5d6d2fd8fec393ab3adb54050c254.jpg",
+	"url": "https://www.10000recipe.com/recipe/2011500",
+	"ingredient_ids": [
+		876,
+		349,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "불린미역",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "감자중간크기",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바지락살",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "2~2.5L",
+			"ingre_unit": "~.L"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 건미역을 불려 준비합니다.",
+		"2. 감자는 도톰하게 썰어 준비해주세요.",
+		"3. 쌀뜨물을 넣고 팔팔 끓이시다가, 바지락살을 넣어주세요.",
+		"4. 불린 미역의 물기를 꽉 짠후 넣어 끓입니다.",
+		"5. 국간장 2큰술을 넣어 다시 끓여주세요.",
+		"6. 감자를 넣어 팔팔 끓입니다.",
+		"7. 모든 재료가 잘 익으면 소금으로 간을 하고 한소끔 더 끓이면 완성입니다.",
+		"8. 포실포실 감자와 미역이 어우러진 국이예요. 미역 감자국 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/7453d70be1868625da2c0da37cd72aae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/4c1ff30842c81af1581c1ab178a017c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/edb66b62b9a469478ace2d0c3252277b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/9e9fb04ede2d7ce1e411e6d34c5ea93a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/1eee665f0831aa714486bfb479bdb78e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/6c05ab0b653dc3b44dceb7c953bce7631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/3902a29b63cf6bf56e6ac24ec8bed6b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/cb56fc87fa1879a3375500def50a2af81.jpg"
+	]
+}

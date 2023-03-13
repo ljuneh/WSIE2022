@@ -1,0 +1,69 @@
+{
+	"id": "6944930",
+	"name": "간단한 소스로 맛있는 [또띠아롤]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/7fde2e68c809ac6b72f31f704bc7fc501.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944930",
+	"ingredient_ids": [
+		8,
+		9,
+		15,
+		203
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "또띠아",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛살작은거",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "머스터드소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 당근과 야채는 가늘게 채썰어 줍니다. (색별로 파프리카를 넣어도 되요) 깻잎은 씻어서 물기를 제거해줍니다.",
+		"2. 맛살은 먹음직 스럽게 결대로 찢어서 후추에 버무려주었어요.",
+		"3. 기름을 두르지 않은 달군 후라이팬에 또띠아를 앞뒤로 살짝 구워줍니다.",
+		"4. 김밥발을 사용하면 말기가 쉬워요.  또띠아> 깻잎2장> 치즈2장> 맛살> 야채 순으로 넣고 머스터드와 케첩을 뿌려줍니다.",
+		"5. 비닐랩에 한번더 돌리면 벌어지지 않고 좋아요.  이쁘게 사선으로 반 자르면 먹기도 좋고 보기도 좋습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/e1728f2b5c8a0262abaecf139b0a084d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/cea9c7a21c82ed1aa8613a4b4fa6861c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/497976a7f61cd2389122439b42bd62bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/7133268c69738bf0ba14d2b5df98a7241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/2be08ce94044477a1939cfbfdb0f103b1.jpg"
+	]
+}

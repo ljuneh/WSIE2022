@@ -1,0 +1,84 @@
+{
+	"id": "6945047",
+	"name": "오색 주먹밥 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/e4b534e11465c3340c97173f6a38dd111.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945047",
+	"ingredient_ids": [
+		3,
+		500,
+		628,
+		504,
+		497,
+		225,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카초록",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카빨강",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "옥수수통조림",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "1/2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 기름을 두르고 다진 양파를 넣어 볶아줍니다.양파1/2개, 식용유1큰술팬중불",
+		"2. 양파가 반쯤 익으면 다진 파프리카를 넣어 볶아줍니다.초록파프리카1/2개, 빨강파프리카1/2개",
+		"3. 다진 햄을 넣어 볶아줍니다.햄1/2캔",
+		"4. 햄이 볶아지면 물기를 뺀 통조림옥수수를 넣어 볶아줍니다.통조림옥수수2큰술",
+		"5. 채소가 다 익으면 가스불을 끄고 밥과 후춧가루, 소금, 통깨를 넣어 섞어줍니다.통깨1작은술, 소금 약간, 후춧가루 약간",
+		"6. 밥을 둥글게 빚어줍니다.위생장갑"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/dfa77f16a47c5775b1c31b02d8a9b7e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/b5d811c6cdba84718529076d3b2844341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/bd4cfda421b36dd9aa7f244cd410a5611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/f4b8c907faaea806de6785d52a4432d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/cabe30b5f1888db819702fdd6c01609c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/5094abd258a0a544c205bfc65ae0afc61.jpg"
+	]
+}

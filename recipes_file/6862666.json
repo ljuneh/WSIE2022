@@ -1,0 +1,64 @@
+{
+	"id": "6862666",
+	"name": "진미채볶음/진미오징어채볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/b7340628bfdb92fc91b7bbac29c9c6361.jpg",
+	"url": "https://www.10000recipe.com/recipe/6862666",
+	"ingredient_ids": [
+		34,
+		233,
+		473,
+		224,
+		575,
+		228
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "진미채오천원어치약",
+			"ingre_count": "300",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 뜨거운물에샤워시켜주고 물기짠 진미채를자르고 마요네즈 1.5T넣어줍니다. (딱딱하지않은고소한진미채만드는법) 스며들동안 빨간 양념을만들어놉니다.",
+		"2. 중간불로 마늘과 고추로 맛을내줍니다.",
+		"3. 불을끄고 양념한 것을투하! 이리저리섞어요 .불을약불로 키고 이십초안되게 볶으면끝.",
+		"4. 조금간간할수잇으니 고추장은 1스푼으로 하셔도 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/b415e8c20826376feee32abd6f0d11a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/a8d00a7b635c17148fdcd594829388d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/a7790cde21d8b617ea1116a3adea4c1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/0d3758c7a18ebb52d5e0c2ca4a8588681.jpg"
+	]
+}

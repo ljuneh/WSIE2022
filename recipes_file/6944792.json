@@ -1,0 +1,73 @@
+{
+	"id": "6944792",
+	"name": "차승원오이무침 뚝딱 만들어봤어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/af3cf57baf6af5dca5b1e1dc68bedeba1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944792",
+	"ingredient_ids": [
+		8,
+		3,
+		27,
+		939,
+		224,
+		231,
+		660,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 고무장갑을 끼고 굵은 소금을 약간 집어서 오이 겉면을 깨끗이 닦아주세요",
+		"2. 오이를 먹기좋은 크기로 썰어(식감을 위해 너무 얇게 썰진 않았어요) 굵은 소금 반큰술 정도 넣고 20분가량 절여주세요",
+		"3. 양파와 대파도 채썰어 준비해 둡니다",
+		"4. 절여진 오이를 흐르는 물에 한번 헹구어 남은 소금 덩어리를 빼주었어요",
+		"5. 양념을 미리 섞지 않고 차승원님이 한 것처럼 순서대로 팍팍! 넣어줬어요 그게 더 맛있어보이더라구요 . 오이위에 양파와 대파를 올립니다 . 액젓 2큰술을 둘러줍니다 . 고춧가루 3큰술을 넣습니다 . 식초 2큰술 넣구여 . 참기름 2큰술 둘러주세요 . 설탕 1큰술이요(저희는 단맛을 별로 좋아하지 않아서 1큰술 넣었는데 더 감칠맛을 원하신다면 맛 보시고 좀 더 넣으셔도 될 것 같아요)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/f920ada1fb8fa23a0703e9cc640943401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/a3711ba92973a3b65e512d8c53c3439b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/92665edc293f7cedfd264d21fb1314f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/52d9f9441aa34b6332018f4e4ea96e6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/76e7d9c793ca62ea7b4a79bf7bf8680d1.jpg"
+	]
+}

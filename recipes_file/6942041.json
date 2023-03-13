@@ -1,0 +1,71 @@
+{
+	"id": "6942041",
+	"name": "짜투리 채소로 만든 냉파 카레 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/5a7381ab9824d963ad75ea17187358ce1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942041",
+	"ingredient_ids": [
+		5,
+		3,
+		56,
+		9,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2/1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다짐육",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "700",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 감자,양파,느타리버섯,당근을 너무 크지않게 잘라주세요.",
+		"2. 식용유를 두르고 타지않게 양파먼저 볶아주세요.",
+		"3. 양파가 살짝 익으면 감자,당근을 넣고 조금 더 볶아주세요.",
+		"4. 당근이 익을때쯤 다짐육을 넣고 더 볶아주세요.",
+		"5. 물을 700ml넣고 미리 풀어놓은 카레가루를 냄비에 넣어주세요.",
+		"6. 느타리버섯을 먹기좋게 찢어서 넣어주세요.",
+		"7. 불은 중불로 하고 재료가 눌러붙지 않게 중간중간 저어주셔야 해요.",
+		"8. 밥에 카레를 넣고 계란까지 올려서 먹으면 간단하게 냉파밥상 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/548552a9e196e00fecdc27ad6d3b63e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/eea30ee41934d32fafafc40f0ea7d9aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/44243a15f9dfe5b1176ab703c6c77ad81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/7b74516549a661a4b306ee114ef975c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/84d657e87bdb1c3a0324c526ad6808f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/01327bfb424a08eaff48031f5997dc971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/8bf22744663a36c94e908b713cb24f661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/b64a4a41ca342bddd33c6f3ec30e8b1b1.jpg"
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"id": "6944294",
+	"name": "김밥 말고 남은 재료로 만든 스팸마요비빔밥, 스팸김밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/d6f64c13444d2e857a406fe6ec9c3a5f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944294",
+	"ingredient_ids": [
+		543,
+		660,
+		228
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밥2+1/2공기",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "채썬계란지단",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "채썰어볶은당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무말랭이장아찌",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "겨울초나물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김밥김",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 그릇에 체를 걸고 스팸 200g을 올려 줍니다. 그리고 팔팔 끓인 물을 고루 부어 기름을 제거해 줍니다.",
+		"2. 그리고 스팸을 칼 등으로 으깨주면 부드럽게 스르르~ 으깨진답니다. ",
+		"3. 볼에 밥 2 + 1/2공기, 통깨 1큰술, 참기름 1큰술을 넣고 고루 섞어 밥을 준비해 줍니다. 김밥 4줄을 말 수 있는 밥 양입니다.",
+		"4. 참치김밥 말고 남은 속재료입니다. 소금간 약간 해서 계란 지단 부쳐 채썰고 당근 채썰어 볶아 소금간 살짝 해주고 무말랭이 장아찌 체에 담아 국물 빼고 겨울초 순나물 데쳐 양념에 무쳐 준비한 김밥 속재료입니다.",
+		"5. [스팸김밥] 구운 김밥 김 위에 밥을 고루 얇게 펴 준 후 김밥 속재료를 올려 단단하게 돌~ 말아 줍니다.",
+		"6.  [스팸마요비빔밥] 스팸김밥, 스팸밥 김밥 한줄을 말 수 있는 재료인데 김밥 김이 없습니다.",
+		"7. 그래서 김밥 속재료를 가위를 사용해 잘게 잘라 주었습니다. ",
+		"8. 그릇에 스팸밥과 가위로 잘게 자른 속재료를 담아 주었습니다.",
+		"9.  위에 마요네즈를 고루 뿌려 주었습니다. 드실때 고루 섞어 드시면 되겠습니다. 참고로 제가 뿌린 마요네즈는 마른안주용 마요네즈로 시식셈플로 받은 제품이랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/64d8c007e79cd455603301e650ea481f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/457c292db1705148e5c1a26311ef920f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/c9516c466d818d4e22f5c8a9236e029e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/10bba1db0e60fa653087ca4645bfdda01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/216af37c72166c8c25489639c27860f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/410320ee5408406b21b9946c109987771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/ec75f85d23a33330d29c0c4ed9320fad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/37a6fec4abe14b6a0a522235deec77361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/cb2c417e2ee646e9a266ec74138877811.jpg"
+	]
+}

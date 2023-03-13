@@ -1,0 +1,79 @@
+{
+	"id": "6940693",
+	"name": "참치 계란말이 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/d3fcc3530b99b14f9353256506b0c0e31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940693",
+	"ingredient_ids": [
+		219,
+		659,
+		9,
+		846,
+		27,
+		497,
+		504,
+		724
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		}
+	],
+	"recipe": [
+		"1. 볼에 다진 당근, 대파를 넣어줍니다.당근1/3개, 대파1/4대",
+		"2. 기름을 뺀 참치를 넣어줍니다.참치100g참치 뚜껑을 완전히 딴 후 뚜껑으로 참치를 눌러 기름을 제거하면 쉽게 기름을 따라 버릴 수 있어요.",
+		"3. 알끈을 제거한 계란을 넣어줍니다.계란4개",
+		"4. 청주와 소금을 넣어 섞어줍니다.청주1큰술, 소금 약간",
+		"5. 달군 팬에 기름을 두르고 달걀물을 부어줍니다.식용유1큰술후라이팬중불후라이팬을 불 한쪽에 두고 대각선 쪽 먼저 익혀줍니다",
+		"6. 익은 쪽부터 돌돌 말아줍니다.뒤집개",
+		"7. 계란말이가 식으면 칼로 썰어줍니다.도마, 칼계란말이가 완전히 식어야 잘 썰려요.",
+		"8. 케찹을 뿌려줍니다.케찹 취향껏"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/2098516257bb939d3e8aca05a361346a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/f9ab9d2094545f40b0ef500365a40eb81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/ba8c5158b4905e7f7fc70cb552fd82811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/ff1ed0dcbbec291f87d9e20aef3038861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/95d07db473cdc882a81644bfbaeb8a6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/737cfee5a454b13d25f02ec1343efe901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/eca298c1b39181c569b9feb9c95f85e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/e261b3d87e32ec66ae86e7a45bd5ab0e1.jpg"
+	]
+}

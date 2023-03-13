@@ -1,0 +1,58 @@
+{
+	"id": "6622543",
+	"name": "코코넛샤브레",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/25/086e34abc504d2a4f9f7b74e7ebd8c3a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6622543",
+	"ingredient_ids": [
+		198,
+		226,
+		546
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "버터",
+			"ingre_count": "80",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "20",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "120",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "코코넛가루",
+			"ingre_count": "80",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 실온상태의 버터를 부드럽게 풀어준 후 설탕과 슈가파우더 넣고 휘핑해줍니다.",
+		"2. 노른자도 넣고 휘핑해주셔요.",
+		"3. 박력분과 코코넛가루를 체쳐 넣고 11자로 주걱을 세워 섞어준후 뭉쳐줍니다,.",
+		"4. 반죽을 긴 원통형으로 모양잡아 유산지나 종이호일로 잘 성형해 냉동실에 1시간이상 굳혀줍니다.",
+		"5. 잘 굳힌 반죽은 꺼내, 설탕에 겉면을 굴려주고 적당한 두께로 썰어 팬닝해줍니다. 예열오븐 180도에서 15분정도 구워줍니다.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/15815a3095a1c0ede1a8e2f8a3e35dd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/01ffe8acd9960c36748210f7cfe834a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/e8b1815842fb8a4c9d75ba00866ed37c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/8e7341ea39f5e23a4cbb9f5fb75b83441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/09b571d4c4af737d258473f39710fa2c1.jpg"
+	]
+}

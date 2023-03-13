@@ -1,0 +1,95 @@
+{
+	"id": "6940953",
+	"name": "바다 장어로 장장어탕 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/2e196a7bd9d178ff3f9f822d27ea89351.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940953",
+	"ingredient_ids": [
+		35,
+		27,
+		30,
+		1015,
+		295,
+		848,
+		224
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "장어뼈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "열무",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "방앗잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "집간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 손질된 장어 뼈와 장어 머리는 냄비에 물을 넣고 육수가 우러 나오도록 푹 삶아요",
+		"2. 뼈까지 푹익은 장어는 믹서기에 곱게 갈아서 사용합니다",
+		"3. 육수를 냄비에 넣고 한소큼 우르르 끓으면",
+		"4. 삶아논 열무를 넣어 끓여 줍니다",
+		"5. 열무가 푹 물렀을때 된장 1스픈과 고춧가루 넣고 끓이다",
+		"6. 들깨 1스픈 듬뿍~",
+		"7. 다진마늘 생강즙 깻잎 넣어 보글보글",
+		"8. 마지막에 부추를 썰어 넣고 한소큼 끓여 냅니다",
+		"9. 다진 청양고추 홍고추 방앗잎 올려 냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/993bf59bf1fbfede127ddeb7924e3da11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/2b5c2da6cb9a7996cb12fee27ba472f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/90538bb527706579dbbfb93a411f2b261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/5171be0b95187389836306c22a138f141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/4ce361e0cbdae7870c6a1b067e3176751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/ebd6a9a230a571098eb4709b01f5dc861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/9b633d3407d20b9486dfd0e98f2bed891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/d7068718dbeefd9201cedb6150cbcc281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/c785a73e6c8f29512dc502bceb8aa8251.jpg"
+	]
+}

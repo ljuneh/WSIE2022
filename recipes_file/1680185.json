@@ -1,0 +1,82 @@
+{
+	"id": "1680185",
+	"name": "쫄깃한 쥐포채볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/c1940427f683d629cade1c35a6882d18.jpg",
+	"url": "https://www.10000recipe.com/recipe/1680185",
+	"ingredient_ids": [
+		29,
+		473,
+		995,
+		226,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쥐포채",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "간장1+1/2숟가락",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참치액(생략가능)",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물엿또는올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "매실액(또는미림이나맛술)",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 쥐포채 한봉지에 150g이네요. 한번물에 담가 헹구어 사용을 하시면 부드러운 쥐포채볶음이 된답니다. 간장, 참치액, 고추장, 설탕, 물을 넣고 중약불에서 데워주세요.",
+		"2. 마늘을 넣고 볶다가 쥐포채를 넣어 양념과 잘 어우러지게 섞어주세요.",
+		"3. 참기름과 통깨를 넣어 마무리 지어 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/88fef23e4441b9263942cb10bb7a2f081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/ed0ab725de7da116e7712b6e460626521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/7f7faa628a1f65ea78609d463e7d8c611.jpg"
+	]
+}

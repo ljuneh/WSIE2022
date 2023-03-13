@@ -1,0 +1,70 @@
+{
+	"id": "6942781",
+	"name": "사과 비트 샐러드 만드는 법 레몬 드레싱 만들기 비트 효능 알아봐요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/0c5c5e002bb4ceae095934072830a12f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942781",
+	"ingredient_ids": [
+		158,
+		44,
+		250,
+		575,
+		233,
+		497,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "비트",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 비트와 사과는 흐르는 물에 깨끗하게 씻는다.",
+		"2. 사과는 0.3cm 간격으로 채 썬다.",
+		"3. 비트는 껍질을 깎고 0.3cm 간격으로 채 썬다.",
+		"4. 볼에 올리브오일 4T, 레몬즙 2T, 올리고당 1/2T, 다진마늘 1/3T, 소금 2꼬집, 후춧가루 1꼬집을 넣고 레몬 드레싱을 만들고 비트와 사과를 넣고 골고루 섞으면 사과 비트 샐러드 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/242de9d4c52d33ab3d3225e95b131c241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/7f946c9238890705dec3cfe152e510c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/06e6af3c7ae37d71e17594edfa3f0c8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/2e51dc03e1a7d3686b01e8f6207d5d8d1.jpg"
+	]
+}

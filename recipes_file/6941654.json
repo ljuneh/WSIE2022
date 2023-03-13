@@ -1,0 +1,46 @@
+{
+	"id": "6941654",
+	"name": "감자튀김 (초간단 요리) 에어프라이어용",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/87c34a3139ce0d706be3378124e516e11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941654",
+	"ingredient_ids": [
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "감자에어프라이어용량에",
+			"ingre_count": "",
+			"ingre_unit": "맞게"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용류",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 좋아하는 스타일 대로 썰어줍니다",
+		"2. 전분끼를 살짝 빼줍니다 한 5분정도",
+		"3. 비닐에 담아 소금 후추 식용류를 넣고 섞어줍니다",
+		"4. 에어프라이어에서 200도에서 15분  중간에 확인은 필수에어프라이어",
+		"5. 그릇에 담아서 소금을 뿌려주면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/6cf31d866a7cebeaba977ea29b5333ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/b27483fafc035b50493e9fd4501f70111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/8acb802dd2e15d909138df20d9802aa01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/2128f70f09a81c40f32f5ebf03c3a7031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/2413cece26cf0ed904c1ea25ec756f501.jpg"
+	]
+}

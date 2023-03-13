@@ -1,0 +1,68 @@
+{
+	"id": "3413340",
+	"name": "깻잎찜 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/14/84581c85c7f64cbf58e9f6364d75896a.jpg",
+	"url": "https://www.10000recipe.com/recipe/3413340",
+	"ingredient_ids": [
+		15,
+		379,
+		226,
+		233,
+		224,
+		995,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "40~50장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3~4스푼",
+			"ingre_unit": "~스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 깻잎은 깨끗이 씻어 놓아요.",
+		"2. 양념장 재료를 섞어둡니다.",
+		"3. 냄비에 깻잎을 담고 양념장을 끼얹어주고 켜켜히 깻잎과 양념장을 담아요. 그리고 약불로 줄여 졸여줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/2a314cd5a9a7ba4d1b138fb5138581921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/e1e85f82622247d07d3fadcbad7985d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/322b890424588e28ededb38b546a8e451.jpg"
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"id": "6939882",
+	"name": "하얀 콩나물 볶음 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/93577ebba5fb37abad12b5b75cf79c8d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939882",
+	"ingredient_ids": [
+		47
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		}
+	],
+	"recipe": [
+		"1. 콩나물을 잘 씻어줍니다.",
+		"2. 참기름을 냄비에 둘러주세요.",
+		"3. 불을 켜고 콩나물을 넣어주세요.",
+		"4. 볶아줍니다. 참기름이 골고루 묻을수 있게요.",
+		"5. 어느정도 볶아졌다면 물을 넣어주세요.",
+		"6. 이제 소금을 살짝 넣어주시고 국간장도 살짝만 넣어서 간을 맞춰주세요.  그리고 익혀줍니다.",
+		"7. 어때요. 윤기가 나면서 아삭한 콩나물무침이 되었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/869fe12fd1c0fa2be253a90544edb0bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/5f8c58028502d330a8458ee2edb8446c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/80cf188fed0e3c2415931d723cc6ad231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/a11a61c97051e171b39f29f1fa449d191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/046e2c65a54b1f72f0e8986f32850bab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/71b0b703a01ebe3b6132416bb8a549341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/0a23aae9a0139603ccf15ef87b4d0a6c1.jpg"
+	]
+}

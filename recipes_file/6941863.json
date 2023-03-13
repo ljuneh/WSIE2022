@@ -1,0 +1,52 @@
+{
+	"id": "6941863",
+	"name": "(아기반찬) 달콤 고소한 사과부추전 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/11b677e7d0fb2d239da4243cbb3318df1.png",
+	"url": "https://www.10000recipe.com/recipe/6941863",
+	"ingredient_ids": [
+		158,
+		3,
+		219,
+		574
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추가볍게",
+			"ingre_count": "1/2",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 달콤 고소한 사과부추전을 만들어봅시다. 먼저 재료를 깨끗하게 씻어 준비해요. 사과와 양파는 얇게 채썰고 부추는 적당한 길이로 썰어주세요.사과 1개, 부추 가볍게 반주먹 정도만, 양파 1/5개, 달걀 1개",
+		"2. 볼에 손질 된 재료를 넣고 달걀과 함께 골고루 버무려요볼",
+		"3. 후라이팬에 올리브유를 두르고 구워요.전분가루나 밀가루가 들어가지 않았기 때문에 크기를 너무 크게 하면 뒤집다가 갈라질 수 있으니 작은크기로 해주세요",
+		"4. 맛있는 사과부추전이 완성되었습니다.!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/9ce80725e26718b447ca7ac74aaa4ecf1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/5e4146d2af24d1b130c6720501c6d0691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/54b2abdf9359be57d609948c2c585fb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/6bf6129f77fb742b4a6e029889699d031.jpg"
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"id": "6941819",
+	"name": "달콤한 데리야끼 소스 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/ab8997c8f81aec4fdb17a10147895cf01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941819",
+	"ingredient_ids": [
+		74,
+		379,
+		995,
+		233,
+		579,
+		226,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삼겹살또는",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "장어",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 소스를 준비해주세요.",
+		"2. 약한불로 끓입니다. 늘러붙지 않도록 잘 저어주세요.",
+		"3. 15분 정도 끓이면 걸쭉해져요.",
+		"4. 작은 쨈통 반정도 나옵니다. 한끼로 딱이죠^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/9a15f447fa12fd068116c047b6681b641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/828ec8b49f2b62e570f17102b3a1fb231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/470ba661b3bd77584cba597970b4913c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/a2726b219ef349bc6ed6cdff12d2b4901.jpg"
+	]
+}

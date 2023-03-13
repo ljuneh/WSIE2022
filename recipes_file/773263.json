@@ -1,0 +1,142 @@
+{
+	"id": "773263",
+	"name": "짜장밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/11/a05a9d0f3fe916cb36f0f719bf299111.jpg",
+	"url": "https://www.10000recipe.com/recipe/773263",
+	"ingredient_ids": [
+		9,
+		3,
+		21,
+		504,
+		497,
+		225,
+		504,
+		489,
+		226,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "칵테일새우살",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "돼지고기(앞다리살)",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "스위트콘옥수수알",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "익힌완두콩",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "생강맛술",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "춘장(듬뿍)",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "두반장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "녹말가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 짜장소스를 만들 때는 먼저 팬에 식용유를 넉넉하게 두르고 춘장을 볶아야 합니다. 그래야 쓰지 않고 구수한 짜장소스를 만들 수 있어요. 식용유를 두른 팬에 춘장을 넣고 중약불에서 2~3분 정도 달달 볶다가",
+		"2. 체에 받혀 기름기를 걸러줍니다. 이 볶은 춘장으로 짜장소스를 만들거에요.",
+		"3. 새우살도 넣으려고 바다로 칵테일 새우를 냉동실에서 꺼냈습니다. 칵테일 새우는 이미 익힌 후숙새우살이고 손질도 되어있어서 요리할 때 참 편리해요.",
+		"4. 중국요리에 거의 빠지지 않는 돼지고기 앞다리 생고기로 준비했어요.",
+		"5. 핸드블렌더에서 갈려고요.",
+		"6. 잠시 돌려주면 순식간에 곱게 잘 갈아집니다.",
+		"7. 돼지고기를 요리에 넣을 때는 반드시 밑간을 해야해요. 소금과 후춧가루그리고 생강즙과 맛술을 넣어 고기냄새를 잡아줍니다.",
+		"8. 그리고 양파와 당근, 양배추와 옥수수알, 완두콩은 익혀서 준비했습니다. 적당한 크기로 잘게 썰어 놓고요.",
+		"9. 팬에 식용유를 두르고 밑간한 돼지고기를 먼저 볶아줍니다.",
+		"10. 달달 볶다가 어느 정도 익으면 양파와 양배추, 당근을 넣고 함께 볶아요.",
+		"11. 다음 새우살을 넣고 춘장을 넣어 잘 섞어가며 볶아줍니다.",
+		"12. 짜장소스가 잘 어우러지도록 중불에서 뒤적뒤적 잘 볶아줍니다.",
+		"13. 여기에 두반장을 한 큰술 넣으면 매콤하니 느끼한 맛이 없어서 좋아요. 그리고 설탕도 0.5 큰술 넣어야 소스가 부드럽고 맛있어집니다.",
+		"14. 맨 마지막에 준비한 완두콩과 스위트콘 옥수수알의 1/2분량을 넣고 잘 섞어준 다음",
+		"15. 밥에 넣고 비비려면 걸쭉한 소스상태가 좋기 때문에 녹말물을 준비했어요. (물 1컵에 녹말가루 2큰술을 풀어주세요.)",
+		"16. 불의 세기를 올려서 녹말물을 붓고나서 잠시 뒤적거리며 익혀주면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/13c7050dc442f3212d2dbbe03918a9b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/9ed30a318569c6c5c7e401bfed7099ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/00516dc6d5474cc27d792e9397fe89011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/b32e1e88ce808761a4e6a89f1bcf2a001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/1ee3d9e53ec28860d12e176695c3e00d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/cd2a0ac41f1f19d81b8328fbff183c641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/733fa590f938d7cd9589d04d7f73d3811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/6e12962edad93b98bf92fcfdef97f6681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/1dad6e758a7f051b3757b6bdcd56105c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/72f2a857c19f070da48c1b739dd6861b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/d6e14b6077b43be917cddc7b39d054bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/95fbd25a87965c7563c47b37f1652ba51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/0db1237984803d8273af23561384632a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/7c0d24aa76834030d8f7c2230e4347361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/da2eebba48a8a8dae9303fc903aa7a3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/b98662c2a67c0454be5095d90d4f53661.jpg"
+	]
+}

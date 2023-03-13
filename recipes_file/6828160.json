@@ -1,0 +1,50 @@
+{
+	"id": "6828160",
+	"name": "마늘 장아찌 담그는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/10/56f26cc4a92aca6c3becf709f993ec851.jpg",
+	"url": "https://www.10000recipe.com/recipe/6828160",
+	"ingredient_ids": [
+		379,
+		231,
+		226,
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "햇마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 마늘은 껍질을 벗겨 씻어주세요.",
+		"2. 간장, 식초, 설탕 물은 1 : 1: 1: 1로 섞어 끓여주세요.",
+		"3. 준비한 용기에 마늘과 배합액을 넣고 하루나 이틀정도 상온에 뒀다가 냉장실에 보관합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/10/4bd6321b992812d6dc633209831b2f541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/10/e29dd2cc2363492d07240031144630a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/10/a1b727bf5f10c5237e9c99bd140347c21.jpg"
+	]
+}

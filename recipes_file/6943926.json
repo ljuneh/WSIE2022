@@ -1,0 +1,71 @@
+{
+	"id": "6943926",
+	"name": "목이 버섯 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/0d102ef42d1b95b5e0fbe2b1c8c06d361.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943926",
+	"ingredient_ids": [
+		349,
+		226
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "불린목이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "들기름1/2큰술​",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술 ​"
+		},
+		{
+			"ingre_name": "다진쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "다진마늘1작은술",
+			"ingre_count": "1",
+			"ingre_unit": "작은 술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스1작은술",
+			"ingre_count": "1",
+			"ingre_unit": "작은 술"
+		},
+		{
+			"ingre_name": "후추​",
+			"ingre_count": "",
+			"ingre_unit": "​약간"
+		}
+	],
+	"recipe": [
+		"1. 목이 버섯은 물에 불려 둡니다.",
+		"2. 물기를 뺀 목이 버섯을 달군 팬에 들기름 살짝 두르고 볶아 줍니다. (볶을 때 튀어 올라요. 데이지 않게 조심하세요)",
+		"3. 분량의 간장,",
+		"4. 설탕,",
+		"5. 굴 소스를 넣어 잘 볶아 줍니다.",
+		"6. 후추를 뿌리고",
+		"7. 다진 마늘, 다진 파를 넣고 한 번 더 휘리릭볶아 마무리 해요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/36c6fb46048262ed8f2a96f3ef85c10c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/3b1fdc8604bd0cf11a334033953392b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/f0582dbc17a77a0100f91b8d0cce42161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/91b444a4a398d997b0c7affe6aeb76cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c9da84c1f1d86d6a45a8d8ade8ba249a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/8e868df5a65c5075e7d776ac8da70de61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/49de3b00b93c4bdbdee9050bf85cea6c1.jpg"
+	]
+}

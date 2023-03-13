@@ -1,0 +1,77 @@
+{
+	"id": "6900822",
+	"name": "푸실리메추리알샐러드(냉파스타만드는법)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/26/4283cabd67d923b9b66841dbfc1e89441.jpg",
+	"url": "https://www.10000recipe.com/recipe/6900822",
+	"ingredient_ids": [
+		497,
+		379,
+		231,
+		575,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "푸실리",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "깐메추리알",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "베이비채소",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 간장드레싱을 먼저 만들어 냉장고에 식혀주세요",
+		"2. 끓는물에 소금 약간 넣고 푸실리를 삶아줍니다8~10분정도 삶아주세요 ",
+		"3. 잘 삶아진 푸실리를 체에 받쳐 물기를 빼주세요올리브유에 살짝 버무려두시면 달라붙지않고 좋아요",
+		"4. 채소담긴 그릇에 푸실리를 넣어주고",
+		"5. 메추리알도 올려주세요깐메추리알을 이용해 손쉽게 만들 수 있어요",
+		"6. 식혀둔 간장 드레싱을 뿌려 드시면 됩니다 ~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/26/a69cd6d7f76834778100bf16f0a7156a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/26/b0dfe6f547e429a687cc80b74b8392811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/26/ca3bcf2a084ae62b3bdbdbc0ebd36feb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/26/59e885cdc36267fce34e4f17818eb6ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/26/e4ef03521dce024871b7b8ebb12467b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/26/fe18548fcda94d83d2696e33669bf8b31.jpg"
+	]
+}

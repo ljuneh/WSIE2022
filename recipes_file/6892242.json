@@ -1,0 +1,94 @@
+{
+	"id": "6892242",
+	"name": "부추김치 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/09/d654b53d12d98d89e1cca5b210e95fd91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6892242",
+	"ingredient_ids": [
+		30,
+		9,
+		3,
+		333,
+		224,
+		233,
+		390,
+		938
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀풀",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "10",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간생강",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 부추는 깨끗이 세척 후 물기 제거하고",
+		"2. 약 6~7cm 정도의 길이로 썰고 볼에 담고 멸치 액젓 1컵을 부어 절입니다 약 15분 정도 절였어요",
+		"3. 부추 절이는 동안 찹쌀 풀과 양념 재료 넣고 양념을 만들어줍니다",
+		"4. 양파 당근 채 썰고 파는 송송 썰어요",
+		"5. 부추는 중간에 한 번 뒤집어 주고 절인 후 볼을 기우려 멸치 액젓을 따라 양념에 넣고 섞어주세요양념이 묽어야 잘 버무려집니다",
+		"6. 절인 부추에 채썬 재료 마늘 생강 약간 양념을 넣어줍니다",
+		"7. 살살 버무려주세요부추김치는 살살 버무려야 풋내가 나지 않아요",
+		"8. 여름김치로 좋은 부추김치 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/09/4370018aa1e16222d50f62d5bb231cdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/09/51786b6b2bfdf801386c05bca0526b0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/09/ed7a00ceb5460b9cd86b799b814054171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/09/819ca3da86b56dd309a86af4a222040f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/09/60b5575ef06a2ec9e356a0bc1540e9631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/09/a845ccd05e7c643c1da02f9d51fe0fab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/09/c173e83572739cd4ceac97a692b7d3d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/09/d1077342c3dfe0a797affadb5ab197881.jpg"
+	]
+}

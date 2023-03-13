@@ -1,0 +1,65 @@
+{
+	"id": "6940644",
+	"name": "돼지고기 메추리알장조림 자꾸 손이가",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/a2f5809334a2601151b58386208085151.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940644",
+	"ingredient_ids": [
+		116,
+		3,
+		295,
+		221,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기안심",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "10",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "4~5스푼",
+			"ingre_unit": "~스푼"
+		}
+	],
+	"recipe": [
+		"1.  먼저 돼지고기를 한번 데쳐줄거에요 냄비에 물을 넉넉히 붓고 양파 반개와 대파를 넣어 끓여주다가 팔팔 끓으면 고기를 넣어줘요 30분정도 푹 끓여주면 적당히 익을거에요 ",
+		"2.  고기육수는 그대로 사용할거라 버리지 말고 30분 후, 고기만 건져 결따라 먹기좋게 찢어주세요 취향에 따라 찢어도 좋고, 썰어도 좋아요 ",
+		"3.  또다른 냄비에 육수 우렸던 채소들을 건져주고 메추리알과 청양고추, 그리고 간장과 올리고당을 넣어 팔팔 끓여주세요 계란이나 메추리알은 색이 베야되니 고기보다 먼저 넣어주시는게 좋아요 ",
+		"4.  메추리알이 어느정도 색이 좀 베이기 시작하면 찢어놓은 고기도 넣어주시구요 ",
+		"5.  먹기좋은 새감의 메추리알과 고기에도 어느정도 간장양념이 베어들면 불을 꺼주시면 되요 간을 보시고 싱겁다면 간장을 추가로 넣어주고 단맛이 부족하면 올리고당을 더 넣어주세요 국물은 너무 졸아들면 냉장고에 넣었을때 마를 수 있으니 적당히 있는게 좋아요                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/c2c8583ac3e36ee110007ad6036692271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/35ce6da4482ac96639a1a8e1ae8355701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/d4679083eca60b04e7614dae0740d8d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/66cb8b423e492933334df04168742bf41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/3a72ec8d27f2a3d66a19389f911814321.jpg"
+	]
+}

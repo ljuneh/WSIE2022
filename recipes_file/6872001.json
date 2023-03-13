@@ -1,0 +1,72 @@
+{
+	"id": "6872001",
+	"name": "일본식 카레 만들기 남은 치킨으로 일본식카레 만드는 방법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/30/ebafa907b337f4411d6287b89c94418b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872001",
+	"ingredient_ids": [
+		198,
+		3,
+		5,
+		54,
+		126
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "브로컬리",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "닭고기",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소세지",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고형카레",
+			"ingre_count": "1~2조각",
+			"ingre_unit": "~조각"
+		}
+	],
+	"recipe": [
+		"1. 채소는 먹기 좋게 잘라두고 당근이 없어 색상이 비슷한 소세지로 대체.",
+		"2. 냄비에 버터 1스푼을 녹이고",
+		"3. 양파와 감자를 먼저 볶아준다.",
+		"4. 감자가 반쯤 익었다 싶으면 닭고기와 소세지를 넣고 볶는다.",
+		"5. 약 500ML 물을 붓고",
+		"6. 일본식 고형카레를 조금씩 넣어서 농도를 맞춘다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/30/273e729fa0b1222fd01bf8fd2e954e9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/30/ed110c3c269cc8dd150ee40b93f73d351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/30/534705017b068328e38b277d61e228751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/30/49db81ec691ae4ef362171208b421d941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/30/9aefcdd8c9a3c786c0638260a23989d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/30/6dea6bb280284750476792c0eae850cf1.jpg"
+	]
+}

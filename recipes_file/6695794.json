@@ -1,0 +1,39 @@
+{
+	"id": "6695794",
+	"name": "늙은호박전 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/7f223b3b98c93e9418baa015281f4ec21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6695794",
+	"ingredient_ids": [
+		497,
+		226
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 늙은호박 속을 긁어냅니다.",
+		"2. 긁어놓은 호박 속에 미리 분량의 소금과 설탕을 넣어 버무린 뒤 재어놔주세요.                   ",
+		"3. 시간이 지나면 (1시간 내외) 이렇게 호박에서 물이 나온답니다.",
+		"4. 다른 전을 부칠때 처럼 별도로 물을 넣지 않아도 호박에서 나온 물로 반죽이 가능해요 밀가루 적당량을 넣어 고루 섞어주세요.",
+		"5. 호박에 따라 물이 나오는 정도가 조금씩 다른데요 보시고 너무 뻑뻑하다싶으면 물을 조금 넣어서 반죽을 걸쭉하게 만들어주세요~ 저는 그냥 이대로도 괜찮을 듯 싶어 사용했어요.",
+		"6. 먹기 좋게 적당량 덜어서 기름 두른 후라이팬에 부쳐주세요 앞뒤로 노릇노릇하게요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/f670f61c4d4a3bd56e675e2d9a41b7341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/3675694da3df16f63818c8af17da8b791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/a213650786ce34bd80035d1d5a41f3fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/bd8fae42e43f7f5cb24acad79c4d24f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/8f707b6f8f2ceca4c5b514c6ac281da71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/74f80ea256fc82cf54caa5215b83af291.jpg"
+	]
+}

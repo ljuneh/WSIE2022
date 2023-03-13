@@ -1,0 +1,52 @@
+{
+	"id": "6829958",
+	"name": "제철 질경이나물 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/f360ea220a8ac271d14e1e5cb7ff181d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829958",
+	"ingredient_ids": [
+		349,
+		660,
+		327,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "질경이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 나물을 소금을 넣은 끓는 물에 넣고 삶아요. 그리고 바로 찬 물에 두 번 헹군 후에 체에 받쳐 두었다가 손으로 물기를 짜준 후에 국간장을 넣고 조물조물 무칩니다. 질경이는 그냥 무쳐서 먹기엔 조금 질겨서요. 팬에 넣고 볶아서 먹어요. 볶기 전에 국간장에만 이렇게 조물조물 무쳐 놓아요.",
+		"2. 달궈진 팬에 들기름 한스푼을 둘러요.",
+		"3. 나물을 약한불에서 볶습니다. 볶으면서 타지 않도록 가끔 가장자리에 물을 한 숟가락씩 둘러줘요.",
+		"4. 마무리에 참기름과 통깨를 넣으면 질경이 나물 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/f8a5da76106ead9ba798bf59df4ddef31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/c3ba2890a57c9bdc9c2dedd0f6dcd9721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/e9fb42b9de90519d22160dd6590abe071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/8e596b149c9538ad1c8dca7c5dff03f41.jpg"
+	]
+}

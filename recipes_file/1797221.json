@@ -1,0 +1,91 @@
+{
+	"id": "1797221",
+	"name": "꽈리고추찜무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/ee1fbb64e9f19b60beed05864814d5aa.jpg",
+	"url": "https://www.10000recipe.com/recipe/1797221",
+	"ingredient_ids": [
+		293,
+		497,
+		379,
+		224,
+		350,
+		660,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "30",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "날콩가루",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다시마육수(물)",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 꽈리고추는 꼭지를 떼고 깨끗이 씻어 이쑤시개로 군데군데 구멍을 내 주세요.",
+		"2. 비닐 봉지에 꽈리고추를 넣고 날콩가루를 뿌려 흔들어 고루 묻혀 주세요. 꽈리고추에 물기가 약간 있을 때 하셔야 콩가루가 잘 묻어요.",
+		"3. 김 오른 찜통에 넣고 소금을 약간 솔솔 뿌려 뚜껑을 덮고 5분간 쪄 주세요. 다 쪄지면 뚜껑을 열고 찬물을 약간만 흩뿌려 두세요.",
+		"4. 분량의 재료를 모두 섞어 양념장을 만들어 주세요.",
+		"5. 양념장에 꽈리고추를 넣어 살살 버무려 주세요.",
+		"6. 접시에 예쁘게 담으면 완성입니다.",
+		"7. 요건 꽈리고추 조림이랍니다.  꽈리고추 30개 구멍내서 물, 국간장, 멸치가루, 다진 마늘 넣어 조려서 불을 끄고 들기름 약간 넣어 맛을 낸거랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/71dbedb1e090da14d2cd93898df3e5671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/52ce57fcc34dc470d031ebbfcf128b161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/3292f3cf5ef82aeac72ca8f87f9a96d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/9101164494e20455828f669d84bb65d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/214e240e6b21caea5334af85bd38cccc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/f421430b52e05cb88e0aa8b9884efa65.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/7909c1b75b4c09bccb7d0d3b5c344ddd.jpg"
+	]
+}

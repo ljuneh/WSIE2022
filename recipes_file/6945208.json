@@ -1,0 +1,86 @@
+{
+	"id": "6945208",
+	"name": "아이들이 좋아할 수밖에 없는 반찬 분홍소시지 볶음 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/71c9a4644254d68c0152df16e2ba786c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945208",
+	"ingredient_ids": [
+		3,
+		379,
+		226,
+		575,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "분홍소시지",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노란파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빨간파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "볶은참깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 양파는 2x2cm 사각형 모양으로 썰고 겹겹이 붙어 있는 것은 손으로 뗀다.",
+		"2. 노란 파프리카, 빨간 파프리카도 양파와 마찬가지로 2x2cm 사각형 모양으로 썬다.",
+		"3. 분홍소시지는 1cm 간격으로 썬다.",
+		"4. 예열된 팬에 식용유 2T를 두르고 양파를 볶는다.",
+		"5. 양파가 투명하게 익기 시작할 때쯤 노란 파프리카, 빨간 파프리카를 넣고 볶는다.",
+		"6. 노란 파프리카, 빨간 파프리카가 윤기 있게 익기 시작할 때쯤 분홍소시지를 넣고 볶는다.",
+		"7. 분홍소시지가 노릇노릇하게 익으면 설탕 1T, 간장 2T, 물엿 1T, 케첩 5T를 넣고 볶는다.",
+		"8. 모든 재료와 양념이 잘 어울린 상태가 될 때까지 볶고 마무리로 볶은참깨 1T를 뿌리면 분홍소시지 볶음 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/1d192bee9a8f86c1b548109beb9119dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/f2454cd91fad705cf34900d6dea8bc141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/f3d2e517905cf692edfa4b214732363c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/63eab78fd33db4ed0c6dd7946f4e9da61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/b4983c26a4246144dc58a595d331e1c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/87b5f96f96320f406d19cbec55685bc41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/034d54175c3f10678b38d3d6fd7ff8461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/1e4a08e20fa414609a62c4b5550823851.jpg"
+	]
+}

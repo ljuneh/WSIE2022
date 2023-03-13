@@ -1,0 +1,43 @@
+{
+	"id": "6505364",
+	"name": "매생이 떡국 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/02/b69009b54ab9dc04c4d0576276a484ca1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6505364",
+	"ingredient_ids": [
+		93,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "매생이",
+			"ingre_count": "1/4",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "떡1줌(약100g)",
+			"ingre_count": "1줌(약 100g)",
+			"ingre_unit": "줌(약 g)"
+		},
+		{
+			"ingre_name": "천연조미",
+			"ingre_count": "",
+			"ingre_unit": "멸치다시팩"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 물 500ml리터를 넣고 다시팩과 함께 끓여줍니다.",
+		"2. 매생이를 4등분해서 적당한 크기로 잘라줍니다.",
+		"3. 모두모두 끓고있는 뚝배기에 매생이도 넣고 떡도 넣고 모두모두 넣어줍니다. 간은 소금간으로 해주시고 짜면 물을 더 부으세요. 마지막으로 파송송 ~ 올리면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/a9339443eaf368795d9fb63b00cd65641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/ef4b7b68b9d7cbfea730fe246259b0921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/84aacaa3ff80d3a63d8c38716d2bb92b.jpg"
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"id": "6611407",
+	"name": "육수없이 콩나물국 끓이는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/03/11/c327631b989beb629b542efce03852661.jpg",
+	"url": "https://www.10000recipe.com/recipe/6611407",
+	"ingredient_ids": [
+		47,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 물 1000ml 5컵 분량 넣고 콩나물 반봉지 150g 넣습니다.",
+		"2. 물이 보글보글 끓을때",
+		"3. 다진마늘 넣습니다.",
+		"4. 육수의 부족한 맛은 새우젓으로 채워주세요.  새우젓 덩어리는 넣지않고 새우젓국물만 짜서 넣습니다. 나머지 간은 소금으로 해주세요!!",
+		"5. 5분정도 끓인뒤에 마지막으로 대파를 넣어요!!",
+		"6. 국 하나 완성하는데 총 12분!!  시원하고 깔끔한 콩나물국 완성^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/12/2f7e7b7c89175ea38c1b470abec17d671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/12/6c96bfa5ce06251b404605296e2b5c9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/12/fa28602a7179c6170c21bd61f8f83e051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/12/29deeb08acf331b1022da5aca23c922a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/12/ec14cfadec97639086760ad8ea2e28151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/12/2aea54c2b256fb0039f54c22f916dcd81.jpg"
+	]
+}

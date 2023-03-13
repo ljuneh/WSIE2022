@@ -1,0 +1,83 @@
+{
+	"id": "6945559",
+	"name": "간단하고 맛있는 베이컨 감자볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/282f5a5166ba868cbb8fe7ed0e14ebbc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945559",
+	"ingredient_ids": [
+		5,
+		3,
+		29,
+		406,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 감자를 채썰어줍니다.",
+		"2. 저는 칼을 이용했지만 채칼을 사용해도 좋아요.",
+		"3. 양파도 채썰어줍니다.",
+		"4. 파는 송송송 썰어주세요.",
+		"5. 마늘을 채썰어줬는데 편썰기만 하셔도 괜찮아요^^",
+		"6. (감자를 채썰어서 보기 좋게 채썰었습니다.)",
+		"7. 베이컨도 먹기 좋은 크기로 잘라주세요.",
+		"8. 팬에 불을 키고 식용유를 넉넉히 둘러줍니다. 마늘 기름을 내줍니다. 생략가능하지만 마늘기름이 더해지면 풍미가 살아요~",
+		"9. 감자를 넣어주고 소금을 두세꼬집 넣어주세요.",
+		"10. 감자가 조금 익었을때 양파도 넣고 볶아줍니다. (영상을 참고하시면 더 쉬워요 ㅎㅎ)",
+		"11. 감자가 익으면 베이컨을 넣어줍니다. 베이컨을 넣고 가볍게 볶아줍니다.",
+		"12. 불을 끄기 직전 썰어둔 파를 넣고 볶아줄게요. (불을 끄고 잔열로 볶아도 돼요.)",
+		"13. 마지막으로 후추를 뿌려 완성해줍니다. :)",
+		"14. 맛있는 베이컨 감자볶음 완성입니다. 정말 간단하죠? 남녀노소 상관없이 좋아하는 베이컨 감자볶음이에요. 당근이 있다면 넣어주면 좋지만 저희 애들은 당근을 별로 안먹더라구요. 오늘 반찬 베이컨 감자볶음 추천 합니다. 맛있는 식사 하세요 :)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/cb2ef5bd7b0c54a1c833d33692b339a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/73e70c4cffab1480eabe5fad69dd8e031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/d3a6ed4c1a9b38da5aa31b6145459e221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/7a90088f9a76161308bf97a4e15c9cab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c3738c8d10adc73543981ab8d33fb63e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/aa7346a67fc5fac3802cf069252b366b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c196bd87a3373a865752d0bac27722c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/59c2c1a4efb64e7314d0d5dd906fc9251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/da87430f9cc2d1eac39b14b95c8465401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/2c2ba17a8d33e3ec1c83bf8357c6ff931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/7147f5983b3d656cb3e1229bb7b86cdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/353a6091b33587d1e8801aaf2fb28f0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/eb9670ce872703eef3d009096896d9b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/6ff7520dff2a8a06b0fcb414bad755791.jpg"
+	]
+}

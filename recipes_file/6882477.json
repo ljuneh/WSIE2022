@@ -1,0 +1,72 @@
+{
+	"id": "6882477",
+	"name": "가래떡으로 떡꼬치 만드는 황금레시피 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/18/38f765c9a8eccc9657eee0d2320940651.jpg",
+	"url": "https://www.10000recipe.com/recipe/6882477",
+	"ingredient_ids": [
+		574,
+		198,
+		473,
+		575,
+		226,
+		724
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "가래떡",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 냉동된 가래떡을 뜨거운 물에 해동합니다. (떡집에서 구매해온 말랑한 가래떡, 떡국떡, 떡볶이떡 가능)",
+		"2. 물기를 제거하고 녹인 가래떡을 팬에 올려줍니다.",
+		"3. 가래떡을 굽는 동안 양념장을 만들어 줍니다. 깨소금도 함께 넣으시면 좋습니다. (대파, 다진마늘을 가미하셔도 좋습니다.)",
+		"4. 가래떡을 굽기 시작하다가",
+		"5. 버터를 넣고 한번더 구워줍니다. (더 고소해요.)",
+		"6. 양념소스를 올려",
+		"7. 양념장이 고루 섞이도록 가래떡 안에 스며 들도록 구워줍니다.",
+		"8. 양념장 반은 두었다가 추가적으로 찍어 먹도록 합니다.."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/18/53b82fea7afcc9b7ce739d2ac76c353a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/18/1a02403a808e781852fcc9b7899becbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/18/80967ece63acf03e103ce8c35541348a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/18/74f221592857b2af906e997bc844456f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/18/e18b5ea2555b70a945512fb5980cfd321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/18/9ff0a52311c2209a2293a69eb7cf38861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/18/b0230339a0e118e0939f04d21a23f8cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/18/a4ddef4cd52fd25a71110abe9e02b0c91.jpg"
+	]
+}

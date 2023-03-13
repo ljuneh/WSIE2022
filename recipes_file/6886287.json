@@ -1,0 +1,34 @@
+{
+	"id": "6886287",
+	"name": "[얌무진 레시피] 동글동글~ 맛있는 참치 마요볼 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/28/71107f1e1b9753ee10cf8ff302faaa2b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6886287",
+	"ingredient_ids": [
+		3
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 먼저 양파를 잘게 썰어 한번 더 다져주세요.",
+		"2. 기름기 뺀 참치에 양파, 튀김가루를 넣고 섞어줍니다.튀김가루는 조금씩 넣어가며 조절해주세요.",
+		"3. 완성된 반죽 안에 마요네즈를 넣고 잘 감싸줍니다.탁탁 쳐서 공기를 빼주면 튀길 때 부셔지지 않아요. ",
+		"4. 잘 굴려가며 튀겨주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/28/aa305a5ef035047809166bee3f4d7b311.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/28/7879fee9cd18a01c6a86a7c8c694510f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/28/df75a707d01e5e3dc44a20e2fd8a41bd1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/28/b0b07d1adc43f16e5572c16fc9480c731.png"
+	]
+}

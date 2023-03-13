@@ -1,0 +1,104 @@
+{
+	"id": "6910133",
+	"name": "매콤 돼지갈비찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/178112365b4da735370b6729301f0d8e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6910133",
+	"ingredient_ids": [
+		5,
+		3,
+		27,
+		473,
+		575,
+		226,
+		660
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지갈비",
+			"ingre_count": "900",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "7",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요",
+		"2. 돼지고기를 물에 담궈 핏물을 빼줍니다",
+		"3. 대파,양파,청양고추를 큼직하게 썰어줍니다",
+		"4. 고추장,고추가루,간장,다진마늘,설탕,올리고당,후추,참기름을 넣고 잘 섞어줍니다",
+		"5. 핏기를 뺀 돼지고기를 끓는물에 5분정도 삶아주세요",
+		"6. 삶은 돼지갈비를 채에 받친 후 물로 씻어주세요",
+		"7. 냄비에 삶은 돼지갈비,양념장,청양고추를 넣은 다음 돼지갈비가 푹 잠기게 물을 넣어주세요",
+		"8. 센불에서 물이 팔팔 끓을때까지 두신 후 팔팔 끓기 시작하면 뚜껑을 덮고 중불에서 20분간 끓여주세요",
+		"9. 뚜껑을 열고 감자를 넣고 10분간 삶아주세요",
+		"10. 대파와 양파를 넣고 5~10분정도 더 삶아주세요",
+		"11. 물이 적당히 쫄아 들면 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/8a67cde847a2a466c5adf74dfd7237491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/2069fbf887deacb3e234a92d5d93c62d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/b839960da6d4f94f2ca4499ad8af53011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/c6273e08825989ba71ebd39fd829e8a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/76e948624f2d5d5c3843f6deba0d6ed31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/b1c995ef32ec6f19665216a85dfb92711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/e61557f4231c938caaebf71e39098b571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/b3a183b12f9fa073565c0b95f12a82721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/f3c457f78a35fc23e281db1bd7274fc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/3e7588a1ba336d891507b84f8572961c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/09/0881dcb0e6cb87e5c4a7f8cd2c7595401.jpg"
+	]
+}

@@ -1,0 +1,110 @@
+{
+	"id": "6945609",
+	"name": "찜닭 만들기 어려운게 아니었어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/47b3d5cf20f1dccd7aecb123b5dde4c71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945609",
+	"ingredient_ids": [
+		5,
+		9,
+		579,
+		608,
+		3,
+		233,
+		350,
+		226,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "손질닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당면큰",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 우선 조리전에 당면 1줌을 찬물에 푹 담가 불려주세요",
+		"2. 닭의 잡내는 깨끗이 씻은 다음 냄비나 팬에 담고 푹 잠길정도로 물을 넣어주고 청주나 소주 3큰술, 월계수잎 있으면 2장정도 넣어서 바르르 끓여주세요 우르르 물이 끓기 시작하면 닭은 건져내어 또 헹궈내주고 끓여준 물은 모두 버려줍니다",
+		"3. 감자는 2개는 껍질을까서 먹기좋은 두께로 납작 동글하게 썰어주세요 전분기제거를 위해 물에 담가서 준비해주세요 이것도 역시 당면 불릴때 같이 준비해주면 좋아요",
+		"4. 잡내를 제거해서 씻은 닭은 다시 냄비나 팬에 남아주고 물을 자박하게 남길정도로 부어주세요 이어서 진간장 1/3컵 넣어 끓여주세요",
+		"5. 양파 1개와 당근도 취향에 따라 먹기 좋게 썰어 준비해주세요",
+		"6. 간장넣은 찜닭이 끓기 시작하면 설탕 3큰술과 올리고당 5큰술 그리고 양파와 당근 전분기 제거한 감자를 넣어 주세요",
+		"7. 다진마늘 3큰술, 후추 톡톡 뿌려서 끓는 시점부터 10분이상 바르르 끓여줍니다",
+		"8. 한번씩 뒤적거려줍니다. 감자가 익으면 미리 불려 놓았던 당면과 파 한줌을 넣어 주세요 당면이 잘 익으면 끝입니다. 마지막에 간이 부족하지 않은지 확인 후 가감해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/c1e278f2c72583dfc1c97a4e206706081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/29f71466aa319c2ce771f884f3b4c3b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/a3b9444d3c134ea6205efbcdff8e5ce01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/7af618d6c4746511296eb6338fcc16d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/341c3a414c671ef40cdf591fcb706e281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/7de9c7a572bf2b067507fd1f10eac8251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/b3bb6d1972816e5de3fc4a1227cd1b3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/052e7bfb390ff220fca0b2313febc2a81.jpg"
+	]
+}

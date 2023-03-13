@@ -1,0 +1,55 @@
+{
+	"id": "6943528",
+	"name": "남은잡채 잡채밥 만들기 한그릇 맛있게~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/eb5ca324df1fa5a9fb1f9ae4d1f9c6681.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943528",
+	"ingredient_ids": [
+		1025,
+		477,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "잡채",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 참기름 좀 넣어서 잡채를 볶아줍니다.",
+		"2. 잡채는 가위로 먹기좋게 잘라 줍니다.",
+		"3. 볶은 잡채에 밥을 넣고 굴소스 1큰술을 넣어 줍니다. 밥 1공기에 굴소스 1/2큰술 정도 넣어 주면 됩니다.",
+		"4. 밥이 골고루 섞이도록 잘 섞어가면서 볶아줍니다.",
+		"5. 계란도 반숙으로 후라이를 해줍니다.",
+		"6. 접시에 잡채밥을 담고 계란후라이를 올리고 통깨와 잘게 송송 썬 부추나 쪽파를 올려주면 되는 남은잡채 #잡채밥 이랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/edebcd69823fcd7115606ad4bc76f8fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/636759ac7a253edf3a1766f31a6e28ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/ea66dc9e9fcf2fae18f57109044342ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f8db538d1faefec54b80ee04dbd084db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/c9d6fe271312203a33a43b9d11d0e1cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/8a5c0486ff7ac53368fa34552f360d461.jpg"
+	]
+}

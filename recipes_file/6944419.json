@@ -1,0 +1,80 @@
+{
+	"id": "6944419",
+	"name": "양배추 삶는 법 아삭한 식감까지 살려봐요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/e328666e0edd77f1e37fa83371c401651.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944419",
+	"ingredient_ids": [
+		21,
+		295,
+		287,
+		224,
+		233,
+		660,
+		995,
+		231
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/4",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 양배추의 시든 잎은 뜯어주고 가운데 굵은 심지도 잘라 제거해주세요.",
+		"2. 한장씩 떼서 볼에 넣은 후  식초 2큰술과 물을 넣고 10분간  담궈둡니다.식초물에 담궈놓으면 잔여농약이 제거됩니다.",
+		"3. 그 사이 식초를 뺀 나머지를 넣고 양념을 만들어주세요.",
+		"4. 물 1~2컵과 찜기를 냄비에 넣은 다음 물을 끓여줍니다.김이 올라오기 시작하면 양배추를 얼기설기 올려주세요. 뚜껑을 닫고 4분간 데쳐주세요.아삭한 식감을 원하시면 4분, 좀 더 부드러운 식감은 6분 쪄주시면 됩니다.",
+		"5. 이대로 한 김 식혀주세요.만약 생각보다 더 많이 삶아졌다면 찬물에 헹궈 잔열을 제거해주세요.",
+		"6. 접시에 담아 맛있게 먹어주면  됩니다.냉장고에 넣어두면 2~3일은  거뜬하니 한꺼번에 많이 쪄 두시면  편해요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/5f8e5a19e9c4bb756947cdad085b6dfb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/330f3b45876356d5296f8956869c1a3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/2191b08b986c24a11c845223e1d4846a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/516245b6bfd3548162c67b3077dd4ed21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/3d6a221c9640c38db40f0630a021fbd01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/abbddcc09f73ef77e54b5eb78b3915ef1.jpg"
+	]
+}

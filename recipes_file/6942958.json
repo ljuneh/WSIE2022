@@ -1,0 +1,78 @@
+{
+	"id": "6942958",
+	"name": "밥솥 닭 수제비미역국(추석요리)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/c83dd547820aff97c02c357c2df5b13b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942958",
+	"ingredient_ids": [
+		126,
+		91,
+		939,
+		660,
+		234,
+		497,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭고기",
+			"ingre_count": "3",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 먼저 숙성시키는 시간이 필요한 수제비 반죽을 우선 해서 봉지에 밀봉해주세요.  *반죽재료 : 밀가루 50g, 물25g, 소금 1/4t *재료를 모아서 가루가 없어질때까지 동그랗게 반죽을 해주세요",
+		"2. 1인분 미역국의 미역양은 잘게 자른 미역으로 밥수저 1T정도 양이면 돼요. 물에 불려주세요  *표고버섯도 같이 불려서 넣어주셔도 좋아요",
+		"3. 얼린채여도 좋으니 우선 닭기름을 내기 위해 닭고기 2,3토막을 뼈채로 밥솥에 넣고 재가열 9분 해주세요 *감자 채썰어서 같이 가열하셔도 좋아요",
+		"4. 한번 가열되어서 기름이 나온 닭고기에 액젓 1T, 참기름 1T, 후추가루 조금 넣고 미역 불린 것도 건져서 씻은 후 물기를 짜서 넣어주세요.  *불린 표고버섯도 준비하셨다면 같이 넣어주세요",
+		"5. 수제비 반죽을 엄지손가락 정도 크기로 떼어서 넣어주세요",
+		"6. 잠길만큼 끓는 물을 부어주세요. 눈금 2까지 부어주시면 돼요. 재가열 9분 해주세요",
+		"7. 다 됐어요",
+		"8. 통깨 뿌려서 맛있게 드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/16fdbdf980813cac2cdd26dfc1e3dc741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/38176345bac2244960b6dae4a6683a491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/d122edc94a6bd7a459473c0fe206324a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/b33156a4eb7016160f495244db7edb1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/fb25723117aa831ec3b17556f34993ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/25b62c43beb25ac35e55c27f39b2f7ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/9ef08883ee7cfe9f3b4f5e9dc3a9d3791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/8a9fbfca8e586fe53b85b2ed7896c8121.jpg"
+	]
+}

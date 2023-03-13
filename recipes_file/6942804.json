@@ -1,0 +1,55 @@
+{
+	"id": "6942804",
+	"name": "요알못이 만든 첫 계란찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/33cff282d956b83fbe9fb6f818a8dc741.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942804",
+	"ingredient_ids": [
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물계란의",
+			"ingre_count": "1/3",
+			"ingre_unit": "양"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 계란3개를 풉니다",
+		"2. 소금,후추로 간을 합니다",
+		"3. 계란의 1/3정도 물을 넣습니다",
+		"4. 파를 좀 넣습니다",
+		"5. 한70~80%정도 익을때까지 저어줍니다",
+		"6. 뚜껑을 덮고 4~5분기다리면?",
+		"7. 계란찜 완성!!저는 양이 너무 적었는지 적어서 그릇에 담았어요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/822bd73a158d040dc3b7ebe3f955d5211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/d9ca7d3cf40a5fef4e0c6bfc82650b3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/f431d91c89a8cb33191ab18e7b1a2c9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/f8ce99935bff42810776b4cbc38d9a4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/c561828711b2b3d586638dd7e54222bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/4b749192abe217b3b11291a7852d815d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/ee86d157120dd93d5e6d3c9d2f681c4c1.jpg"
+	]
+}

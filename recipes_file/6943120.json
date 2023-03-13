@@ -1,0 +1,48 @@
+{
+	"id": "6943120",
+	"name": "요알못도 할 수 있는 크리스피 오겹살 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/70634517397d68a2402add0d4fce2d6e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943120",
+	"ingredient_ids": [
+		487,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "800",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "소끔씩"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "5-8스푼",
+			"ingre_unit": "-스푼"
+		}
+	],
+	"recipe": [
+		"1. 오겹살을 준비합니다. 삼겹과 오겹의 차이는 껍질 유무입니다. 우리는 껍질을 튀길것이기에, 오겹살을 준비해요.",
+		"2. 1cm 정도로 껍질을 잘라줍니다. 이 과정이 꼭 필요해요. 이렇게 미리 껍질을 커팅해야  조리 마지막 과정에서 고기를 커팅할때 편합니다.",
+		"3. 껍질에 소금을 뿌려줍니다. 소금이 껍질에 있는 수분을 잡아줘서 껍질이 보다 더  바삭해지게 해줄거에요.",
+		"4. 껍질 외 다른 부분은 많이 짜지 않은 소금을 뭍혀주세요. 허브솔트가 저는 좋더라구요.",
+		"5. 종이호일깔고,  껍질이 위로 오도록 에어프라이어에 넣어주세요. 1차로 에어프라이어를 돌립니다.  160도 30분 돌려주세요.에어프라이어",
+		"6. 30분 완료되면, 종이호일의 돼지기름은 따로 보관하시고 새 종이호일 깔고, 고기 뒤집어주시구요.  고기에 올리브 오일을 둘러주세요. 그리고 2차로 에어프라이어를 돌려요. 160도 15분! ㄱㄱ",
+		"7. 에어프라이어 끝나면, 프라이팬에 모아둔 돼지기름 + 올리브 오일을 두르고, 껍질부분이 아래로 오게 팬에서 튀겨줍니다. 이때, 프라이팬 예열하지마시고 고기를 팬에 올린뒤에 중약불로 천천히 튀깁니다. 시간은 약 10분",
+		"8. 마지막으로, 잘라서 드시면 됩니다. 와사비와 후추를 찍어서 드시면 좋아요. 그럼 맛나게 드셔보세유!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/eca2c65548e9d97d14039aceaf74bead1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/4e68834f71f9216c948f7c59fb6ff7611.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/3fc1c55fd082194cf20cc691061f78481.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/f0c8db8644f61b2871eb35d29bf9c63b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/6d913631a6dec320318b4b161924b6fc1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/551529e1318e5712d9a967e8dfd6e8161.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/80c9f2cd5c3bb6770b4b7f48ca98534d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/65be0f545fc8ec3f5537525bae6ec1b81.jpg"
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"id": "1612707",
+	"name": "막걸리 안주, 술안주로 아주 좋아요 돼지목살 김치찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/96dca9b180049b73834aec57581aab8c.jpg",
+	"url": "https://www.10000recipe.com/recipe/1612707",
+	"ingredient_ids": [
+		3,
+		995,
+		292,
+		341,
+		224,
+		660,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "신김치1/2포기(작은사이즈로)",
+			"ingre_count": "1/2포기(작은사이즈로)",
+			"ingre_unit": "포기(작은사이즈로)"
+		},
+		{
+			"ingre_name": "돼지목살",
+			"ingre_count": "200~300g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "다시마5cm",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김칫국물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 압력밥솥에 김치를 담습니다. (김치는 썰지 마시고 통으로 그냥 넣으세요 ) 목살은 먹기좋은 크기로 썰어줍니다. (압력을 받고나온 돼지고기는 심하게 오그라들수있으니 한입사이즈보다 크게 썰어주셔야 한다는 거예요. ) 돼지의 기름이 싫으신분들은 기름부위를 적당히 제거하시고 넣으시길 바래요.",
+		"2. 목살을 담아줍니다. 양념소스를 만들어 부워줍니다.",
+		"3. 다시마 물을 미리 준비해두면 좋지만 그렇지 못한 경우가 많으니 다시마의 표면을 마른수건으로 살살 닦은후 바로 투하 시킵니다. 고추, 양파, 약간의 대파를 넣어 줍니다.",
+		"4. 모든 재료를 넣은후 압력밥솥의 뚜껑을 덮어줍니다. 압력이 가해지면 파란색 부분에 두줄이 나타납니다. 그러면 약불로 줄이신후 10~15분간 더 끓이십니다. 파란색부분이 전부 내려가면 뚜껑을 열고 다시마는 건져줍니다.",
+		"5. 저희집 주방이 어두워 후두의 라이트를 켰더니 저렇게 빠알갛게 나오네요. 이점 양해 바랍니다. 맛을 보아 적당한 간을 해주시고 상을 준비하시기전 다진마늘과, 대파를 넣어 한소끔 끓인후 상에 냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/ae678d937a4751e4e36e7a0e601f82b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/2f60fab973c7e2ffc018e284fe95a9581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/4b5cfa9f6e18be8dedd639a07ce4816f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/3972ccc3c86a8e2d549904708825e1721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/dc37d703f2f154d93614523b6a1974c61.jpg"
+	]
+}

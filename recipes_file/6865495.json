@@ -1,0 +1,70 @@
+{
+	"id": "6865495",
+	"name": "아구찜의별미 볶음밥으로 마무리해요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/f2f2d70df788f94e2cc07e92bcdb91761.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865495",
+	"ingredient_ids": [
+		953,
+		20,
+		327,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "아구찜국물",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		}
+	],
+	"recipe": [
+		"1. 아구찜 국물 1공기 미나리와 김치는 송송 썰고 김은 잘게 부숴놓고 밥 준비~",
+		"2. 후라이팬에 들기름2스픈 덜어낸 아구찜 송송 썰어논 김치 넣고 끓이듯 볶아줍니다",
+		"3. 양념이 반정도 볶아지면 밥 넣어 볶아줍니다",
+		"4. 아구양념과 김치와 고루 섞이게 볶아주세요",
+		"5. 송성 썬 미나리 넣고 뒤적거려",
+		"6. 김가루 참기름 넣어 한번 더 볶아줍니다",
+		"7. 악불로 낮추고 팬에 노릇노릇 눌러붙게 볶아주세요 볶음밥은 역시 눌어야 제 맛입니다",
+		"8. 그릇에 담아 깨도 살살 뿌려 완성 !!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/6204874c19e07d23cc5314e346a0239b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/dc265af2eee76de2c94cac1422e768231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/1bc034375a3b11c192c7573daff01dd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/ce1bd8590f1629b7c9f9c85ffd304c7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/c09552c4f3d7a68bc2da237bf00bad6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/577b0fb2c7f0dc21cefa0deaea6f21461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/18f82c6a002dd8a1b7bd91b8076a44a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/c267d164c5a1b4ae341253aacf883dd61.jpg"
+	]
+}

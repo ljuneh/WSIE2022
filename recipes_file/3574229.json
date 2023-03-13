@@ -1,0 +1,49 @@
+{
+	"id": "3574229",
+	"name": "부드러운 밥통 계란찜 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/06e7a44940a73915a50b100a7745fbb3.jpg",
+	"url": "https://www.10000recipe.com/recipe/3574229",
+	"ingredient_ids": [
+		390,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "180",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 계란 1개당 우유 90ml를 그릇에 넣어줍니다. 계란 2개니 우유는 180ml를 넣어줍니다. 거품이 많이 생기지 않도록 살살 저어주세요.",
+		"2. 우유와 계란이 섞인후 새우젓 1큰술을 넣고 다시한번 섞어줍니다. 새우젓이 없으실때 소금으로 간을 하시면 됩니다.",
+		"3. 계란물을 체에 한번 걸러줍니다. 그냥 하시기 보다 체에 한번 걸러주면 알끈이 제거되어 훨신 부드러운 계란찜을 맛보실수 있어요.",
+		"4. 곱게 다진 당근과 호박을 넣고 그릇에 참기름을 살짝 발라 계란물을 부어줍니다. 맛도 고소하고 계란찜이 눌러붙는 것을 방지할 수 있어요,",
+		"5. 밥통에 평상시 밥 하시는 것처럼 쌀과 물을 넣으시고 그위에 살포시 계란물 넣은 그릇을 넣어주세요. 되도록 이면 열전도율이 높은 사기그릇이나 내열용기를 사용해 주세요. 이제 취사버튼 누르시면 끝~",
+		"6. 밥통 계란찜 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/2597489a98edaca7659a222e458acf6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/fa83105bb7cc84523812b07626a9ddbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/66bd19ed9c7a70d070c5546eb59bad5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/a213515917c53e095875e8983e6568e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/009b0bc1493ab736ab69e3d8739b93c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/807fe46e61fc994c928e019b6818f0cd.jpg"
+	]
+}

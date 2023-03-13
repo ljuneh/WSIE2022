@@ -1,0 +1,65 @@
+{
+	"id": "6883988",
+	"name": "우엉으로 만드는 아삭아삭 짭조름~간단 밥 반찬, 우엉조림!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/14/ecd2179128a2d053c964941492757b191.png",
+	"url": "https://www.10000recipe.com/recipe/6883988",
+	"ingredient_ids": [
+		26,
+		543,
+		995,
+		379,
+		478,
+		292,
+		341
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "우엉",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 우엉은 채를 썬다.우엉 200g",
+		"2. 끓는 물에 식초를 넣고 3분간 우엉을 데쳐준다.냄비TIP) 식초물에 데치면 떫은 맛이 제거되고 갈변을 방지할 수 있어요.",
+		"3. 팬에 우엉,양념재료를 넣고 끓여준다.물 1종이컵 , 간장 3숟가락 , 흑설탕 1숟가락 , 맛술 1숟가락 , 물엿 2숟가락팬",
+		"4. 조림국물이 다 졸아들면 통깨를 넣고 버무려 완성한다.통깨  TIP) 지나치게 오래 끓일 경우 조림장이 굳어 단단해질 수 있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/14/d4cd3e61d0b17fa930dcdb7e165eb90f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/14/1eab7b63f32dfe83fb58364e7077a4911.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/14/c00a6c57da4b39e3fcd1654ab9fc89441.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/14/ea6cb0c1e5bea23267deba61daf31b381.png"
+	]
+}

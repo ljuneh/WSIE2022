@@ -1,0 +1,56 @@
+{
+	"id": "931592",
+	"name": "달달 볶아 게조개 미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/50836147d523e4d6c3810868eb8c4ed0.jpg",
+	"url": "https://www.10000recipe.com/recipe/931592",
+	"ingredient_ids": [
+		660,
+		349
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "미역불린것",
+			"ingre_count": "6~7컵",
+			"ingre_unit": "~컵"
+		},
+		{
+			"ingre_name": "게조개",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "3",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "소금간",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 미역은 1시간에서 2시간정도 불려둔다.",
+		"2. 그리고 나서 이렇게 바락바락 주물러 거품이 날 정도로 씻어낸단다.",
+		"3. 2~3번 잘 씻어서 체에 받혀 물기를 뺀 다음 도마에서 중간중간 썰어준다.",
+		"4. 게조개는 시커멓게 생긴 내장부분을 잘라내고 깨끗히 씻어서 준비한다.",
+		"5. 조개는 잘게 다져준다.",
+		"6. 냄비를 약한 가스불 위에 올려놓고 조금 달궈지면 참기름을 1스픈 두르고 다진 게조개를 넣고 달달 볶는다.",
+		"7. 달달 볶은 게조개에 물을 1리터~1.5리터정도 붓고 미역을 넣고 팔팔 끓이다가 끓어오르면 불을 불여서 뭉근하게 오래 끓여주면 맛있는 미역국 완성. 국간장과 소금으로 간을 하는데 국간장이 들어가야 맛있고 국간장을 너무 많이 넣으면 국이 시커멓게 되니까 3스픈정도 넣고 싱거우면 나중에 소금으로 간을 맞추세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/cf1359fe565e7010d02165e442505bbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/75b3f60c885d906cce25c74192e5b8a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/ee8a27d4b35e149c544b6bd87d51aa8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/5203b1fe3d3db81266e6e0d2720081481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/fd90a1c4fec2879e36c3f424bd71459c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/324c272f2d8fc8ddd9a4677209646e171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/a258a2c7377cf59be5463c5addd4f2291.jpg"
+	]
+}

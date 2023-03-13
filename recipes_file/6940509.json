@@ -1,0 +1,65 @@
+{
+	"id": "6940509",
+	"name": "여름엔 상큼새콤 시원한 음식인 부라타치즈샐러드 따봉이죠",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/632f73f4cae755e5c5143671259a8d021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940509",
+	"ingredient_ids": [
+		371,
+		175,
+		596,
+		1011,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "15~20알",
+			"ingre_unit": "~알"
+		},
+		{
+			"ingre_name": "올리브",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "부라타치즈",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어린잎채소",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "엑스트라버진오일",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "발사믹크림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		}
+	],
+	"recipe": [
+		"1. 방울토마토는 반으로 잘라주고요",
+		"2. 올리브도 반으로 잘라주세요",
+		"3. 어린잎 가운데 비우고 둥그렇게 둘러 담은 뒤에 방울토마토를 예쁘게 놓아주세요",
+		"4. 치즈의 유청을 따라내고 치즈를 가운데에 놓아주고, 치즈가 싱거우니 소금을 살짝 뿌려주세요.올리브도 예쁘게 올려주세요. 기호에 따라서 후추 뿌리셔도 좋아요.",
+		"5. 치즈,토마토,채소와 올리브를 한입에 드셔보세요. 올리브의 짭쪼롬함 치즈의 담백함 입안에서 황홀하실거예요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/0c59faa85495abd644e985531b5e829d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/8ac342435aac1c226678a20977477a951.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/79a6921b2a919bcb27f18eeec6b910a81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/09df40e537429de8e7ce803c847370631.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/b4d4ee9b1728541500e21918065929c11.png"
+	]
+}

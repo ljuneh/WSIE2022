@@ -1,0 +1,70 @@
+{
+	"id": "6867746",
+	"name": "까르보나라떡볶이or크림떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/66c4325978bd8f7f565495c11ff023ba1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867746",
+	"ingredient_ids": [
+		3,
+		628,
+		5,
+		198,
+		29
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "떡국떡1줌(추가가능)",
+			"ingre_count": "1줌(추가가능)",
+			"ingre_unit": "줌(추가가능)"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "180",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "치즈(아무거나)",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "냉동만두",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "0.",
+			"ingre_unit": ".아빠숟갈"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".아빠숟갈"
+		}
+	],
+	"recipe": [
+		"1. 냉동떡국떡이면 끓는물에 데치고, 말랑말랑한 떡이면 생략하세요.",
+		"2. 감자를 조금 작게 자르세요. 양파는 세로결대로 자르세요. 최대한 얇게.햄 더넣고싶으면 더넣어도 되요. 작게 자르세요.",
+		"3. 후라이팬에 버터반숟갈을 녹이고 다진마늘 반숟갈과 같이 볶다가 양파,햄,감자를 넣고 볶아요.",
+		"4. 양파가 투명해지면 떡국떡을 넣고 우유 한팩을 다 넣어요.",
+		"5. 우유가 끓으면 치즈를 넣어요.",
+		"6. 조금만 졸이고 걍 자기가 먹고 싶울 때 불 끄고 드세요.  좀 느끼할 수 있어요."
+	],
+	"recipe_img": []
+}

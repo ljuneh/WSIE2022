@@ -1,0 +1,92 @@
+{
+	"id": "6881515",
+	"name": "김치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/28/ac44fd45dc9442267599751cdcebeee41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6881515",
+	"ingredient_ids": [
+		3,
+		27,
+		643,
+		226,
+		233,
+		349
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔1/2캔(80g)",
+			"ingre_count": "1/2캔(80g)",
+			"ingre_unit": "캔(g)"
+		},
+		{
+			"ingre_name": "돼지고기(삼겹살or목살)김치의2/3정도(약100~120g)",
+			"ingre_count": "2/3정도(약100~120g)",
+			"ingre_unit": "정도(약~g)"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1/2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "신김치밥그릇1공기(150g)",
+			"ingre_count": "1공기(150g)",
+			"ingre_unit": "공기(g)"
+		},
+		{
+			"ingre_name": "두부1/5모(100g)",
+			"ingre_count": "1/5모(100g)",
+			"ingre_unit": "모(g)"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "15",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "쌀뜨물2컵(380ml)",
+			"ingre_count": "2컵(380ml)",
+			"ingre_unit": "컵(ml)"
+		}
+	],
+	"recipe": [
+		"1. 김치는 먹기좋게, 양파와 대파, 고추는 채썰고 두부는 네모낳게 썰어준다. 돼지고기는 엄지손가락 크기로, 스팸은 두부와 비슷한 크기로 썰어준다.",
+		"2. 냄비에 식용유를 두르고 연기가 올라오면 돼지고기 - 김치 - 참치or스팸 순으로 넣고 주 재료가 적당히 익을 때 까지 볶아준다.",
+		"3. 쌀뜨물을 냄비에 넣고 물이 끓으면 채소 - 양념들을 넣고 섞어준다.",
+		"4. 약 10분간 중불에서 끓인다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/28/9fc2e47732a2cf4b500543434afce5841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/28/11bed4ff6e3fdb3c45478c5f495224981.jpg"
+	]
+}

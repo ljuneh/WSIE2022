@@ -1,0 +1,41 @@
+{
+	"id": "6943010",
+	"name": "아기들이 더 잘먹 추석요리, 올방개묵무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/f390c95f5e487ce8fde50bffe5a190c71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943010",
+	"ingredient_ids": [
+		660
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "묵",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "도시락김",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "홍게간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 묵을 적당한 크기로 잘라서 준비한다.",
+		"2. 김을 가루로 만들어 넣고 참기름,간장 넣어서 섞어주면 완성",
+		"3. 맛있게 냠냠"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/3eab720e5d321ac6bdc5c33df5a101cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/7d934ca0a1a7e3c7ac64748fcba04ff41.jpg"
+	]
+}

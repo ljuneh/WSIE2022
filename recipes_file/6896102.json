@@ -1,0 +1,43 @@
+{
+	"id": "6896102",
+	"name": "새우미역국:멸치국물을 더욱 시원하게",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/09/19/91ae424e66ada46786b2805f86bb64d11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6896102",
+	"ingredient_ids": [
+		79
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "건미역",
+			"ingre_count": "30",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "쌀뜨물(생수)",
+			"ingre_count": "4~5컵",
+			"ingre_unit": "~컵"
+		}
+	],
+	"recipe": [
+		"1. 마른 미역은 물에 헹군 후 생수나 쌀뜨물에 담그는 데 다시국물이 없을 경우 멸치와 다시마를 함께 불린다 먼저 미역을 꺼내 물기를 꽉 짠 후 먹기 좋은 크기로 썰어 준비한다",
+		"2. 냄비에 참기름 또는 들기름과 식용율를 함께 넣고 미역을 넣는다",
+		"3. 국간장을 1큰술 넣어 충분히 볶는다, 이때 다진 마늘을 넣어주어도 좋다",
+		"4. 미역을 볶는 동안 멸치다시마물이 우러나길 기다린다",
+		"5. 미역을 볶은 후 다시물을 넣어 끓여주는데 한번에 다 붓지 말고 미역이 자작하게 잠길 정도만 붓고 끓어오르면 또 다시국물을 붓는 걸 서너차례 반복하여 미역국을 끓인다 √멸치를 끓여서 우러내지 않아서 마지막 다시물 넣어 끓일 때는 체에 담아 한번 끓인 후 멸치를 버렸다",
+		"6. 손질한 새우를 넣어 한소끔 더 끓인 후, 소금으로 간을 맞춘다 √절대 뜨거울 때 간을 맞추지 말고 국을 상에 낼 때 간을 보아 간을 맞춰야 짜지 않다 시간을 오래해 끓였을 경우, 소금간을 따로 하지 않아도 간이 맞기도 한다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/19/330bc8caa284ed508d206e48c1fb1b341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/19/4967b80b7b3bf0fdb518881640c8c26c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/19/25744db31d7b80761660d90388f90fb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/19/92b49652d9b4975a517e7e505e69043b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/19/2bb2068cf06c9708016c3acd35755f001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/19/a7bfceb9154a2f629ffccee52e8fcaca1.jpg"
+	]
+}

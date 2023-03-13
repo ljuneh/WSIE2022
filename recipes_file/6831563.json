@@ -1,0 +1,88 @@
+{
+	"id": "6831563",
+	"name": "곤드레나물 볶음 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/c7b5a1dabe9bcd45021828a188e64d131.jpg",
+	"url": "https://www.10000recipe.com/recipe/6831563",
+	"ingredient_ids": [
+		504,
+		350,
+		29,
+		379,
+		327,
+		540
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "곤드레나물삶은것",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "액상조미료",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "꽃소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 마늘은 다지고 파는 송송 썰어줍니다.",
+		"2. 곤드레나물은 삶은것을 샀기 때문에 여러번 헹궈서 꼭 짠 후 가위로 잘라줍니다.",
+		"3. 양념장을 만드는데 간장 2스푼에",
+		"4. 들기름 1스푼",
+		"5. 액상조미료 1스푼을 넣고 나머지 간은 꽃소금을 이용해 맞춥니다.",
+		"6. 프라이팬에 식용유를 넉넉하게 두르고 마늘을 먼저 볶아줍니다.",
+		"7. 송송 썬 파를 넣고 불을 약불로 줄여 파의 향이 기름에 배어나오도록 볶아줍니다. 불을 잠시 끄고.",
+		"8. 곤드레나물을 만들어놓은 양념장을 넣어 무칩니다.",
+		"9. 무쳐놓은 상태.",
+		"10. 이걸 프라이팬에 넣고 중불에서 잠깐만 볶아줍니다. 무쳐서 그냥 먹어도 좋지만 한 번 더 볶는 이유는 이렇게하면 나물의 속까지 간이 배이기 때문에 더 맛있어요.",
+		"11. 깨를 뿌려 마무리"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/fddf934ba8c16cc58843b20a1025f6511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/21500cbcb0b019d5f25d4b5a6d7a32341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/4579cd262adeb077efb06fbfbdec546e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/a6616747e63dcbc907e14c1f3617474c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/837648a1d0cb31c6dbc7bfe47ec63fb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/fd5a9fb850af3327d0e608c1a2db19771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/10044bea6c1ee7d4698907e5ecdcaa8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/655a89d917a9d83664b22e746dcb16301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/1fc92b78d586d5493d0d8fda5b7fc7f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/51640de1ec4c286458f2b5ff23480a631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/a7a47d5b7459bd8448bc5baff5d0dde11.jpg"
+	]
+}

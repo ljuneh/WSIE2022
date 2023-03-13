@@ -1,0 +1,106 @@
+{
+	"id": "1055389",
+	"name": "치즈김치볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/e7c632635a9b3dd79d0737d9cf53d783.jpg",
+	"url": "https://www.10000recipe.com/recipe/1055389",
+	"ingredient_ids": [
+		216,
+		708,
+		953,
+		9,
+		7,
+		3,
+		30,
+		504,
+		497,
+		225,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "슬라이스햄",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간씩"
+		}
+	],
+	"recipe": [
+		"1. 재료를 모두 준비해놓고, 김치는 잘게 썰어놓아요.",
+		"2. 다른 야채들도 잘게 썰어 준비하고",
+		"3. 식용유를 두른 팬에 먼저 김치를 볶기 시작합니다. 김치볶음밥은 버터를 넣어야 훨씬 더 맛나지만 자제하고 식용유를 썼답니다. 김치를 중약불에서 약간 오래도록 볶아야 부들부들 해집니다. 물기가 없어 탈 듯 싶으면물 1/2컵 정도 붓고.. 5~7분 정도 익혀주세요.",
+		"4. 김치가 부드러워졌으면 부추를 제외한 나머지 야채들을 넣어 중불에서 달달 볶아 야채를 익히고",
+		"5. 야채가 어느 정도 다 익었으면",
+		"6. 밥을 넣어 볶아주세요.볶다가 싱거우면 입맛에 맞게 소금으로 간을 맞추시고요. 김치가 들어가서 별로 싱겁지는 않을거에요. 김치양에 따라 간이 다를 수 있으니 처음에 밥이 잘 섞이지 않은 상태에서는 약한 불에서 잘 섞다가",
+		"7. 재료가 다 골고루 섞이면 불의 세기를 올려 팍팍 볶아줍니다. 질척한 볶음밥을 고슬하게 만들어주는 과정이에요. 볶음밥은 질척하면 별루. 고슬해야 맛나지요. 센 불에서 계속 볶아줍니다. 거의 다 볶아졌으면 후춧가루와 깨소금을 넣어주고",
+		"8. 거의 다 볶아졌으면 피자치즈를 넣어서 잘 섞어줍니다. 피자치즈가 볶음밥에 녹아들면서 가느다란 실이 죽죽 늘어나는게 보일거에요.",
+		"9. 마지막에 쪽파를 다져넣거나 잘게 썬 부추를 넣고 살짝만 더 볶아주면 완성.",
+		"10. 그릇에 볶음밥을 옮겨 담고 위에 피자치즈 남겨놓은 것을 약간 올린 후 전자렌지에서 2분 정도만 돌려주면 위에 올린 치즈가 부드럽게 녹아요. 피자치즈가 쭉쭉 늘어나는 치즈김치볶음밥이 완성되었답니다.전자레인지"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/ca56426f77d149bd4075d1abf3720c1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/11921954fdf3d1722ebc22cf881ac2111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/8dd25a6570a0c81ac807862208756dae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/4b0c04bb5ad397162396a4cd66fbe69e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/1012beecd46e2ab08bf29cf5a60c00161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/5d9920d6917ffbd57ae154820ea390251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/ab318ed9cbd161a86f77beaabd744f8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/c84de89cdbc5198ebd1186d28586b5531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/637548aca3f8a8be662e865d84b046791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/2d7a100b52f484824d09bc314fb1e4601.jpg"
+	]
+}

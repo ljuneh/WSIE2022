@@ -1,0 +1,102 @@
+{
+	"id": "6832230",
+	"name": "김치비빔국수 황금레시피 양념장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/62d8515e1ac871c465ffd46d3c2fd3621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6832230",
+	"ingredient_ids": [
+		523,
+		953,
+		8,
+		95,
+		290,
+		473,
+		224,
+		379,
+		233,
+		226,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "삶은계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1~1.5큰술",
+			"ingre_unit": "~.큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1~2큰술",
+			"ingre_unit": "~큰술"
+		}
+	],
+	"recipe": [
+		"1. 소면은 500원 동전 크기가 1인분 이예요~",
+		"2. 김치는 잘게 잘라서 준비해주세요~ 저는 2인분에 크게 한줌 넣었어요",
+		"3. 끓는물에 소면을 펼쳐 넣고 3~4분 삶아 주세요.",
+		"4. 소면이 넘치려고 할때마다 찬물을 조금씩 넣어주면서 삶으면 되요.",
+		"5. 찬물에 2~3번 살짝 헹구고 체에 받쳐 물기를 빼주세요.",
+		"6. 소면을 볼에 담고 잘게 썬 김치와 양념을 넣고, 설탕 1~1.5큰술, 고춧가루 1큰술, 고추장 1큰술, 간장 2큰술, 참기름 1~1.5큰술, 다진마늘 1작은술을 넣어 주세요",
+		"7. 위생장갑을 끼고 오른손으로 비비고~ 왼손으로 비비고~",
+		"8. 국수를 그릇에 담고 오이와 계란을 올려주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/828ecc7a9ee241524bff057d88dade671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/5640fdf38972b566a9296ef0d2a891921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/0df620acc1a82dfb0f238ff120e04a7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/c1560e1065bf03c4a7b1bf0d48990c0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/dd301856693cb46e5855036ee8536ab41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/844e31e3f0e14c0dbde6d6d8032ec8851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/586ff97f8f73ef3acfc64c235c60e2c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/30a0a1640692810b74133fdd711d4c621.jpg"
+	]
+}

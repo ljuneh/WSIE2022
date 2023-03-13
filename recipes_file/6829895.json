@@ -1,0 +1,50 @@
+{
+	"id": "6829895",
+	"name": "시원한 수박화채",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/1872303629a57eb6e6adff44445ea08a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829895",
+	"ingredient_ids": [
+		161,
+		204
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "수박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "탄산음료",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 과일테코용칼로 동그랗게 모양을 내서 떠주세요.",
+		"2. 탄삼음료도 넣어 주세요.",
+		"3. 우유도 조금 넣었어요. ",
+		"4. 연유와 얼음을 넣고 마무리합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/1e3e11d92f45bba971f8489eb60df8441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/d510de38a54d699e6ef5fa9619f58c101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/4cf34d7a8e637a0c1797d71569ffe4421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/71fce8ab11b0ba42ca7f53fb47a9ab601.jpg"
+	]
+}

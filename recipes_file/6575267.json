@@ -1,0 +1,49 @@
+{
+	"id": "6575267",
+	"name": "시래기국 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/e212bdab3bae1ef19b753eb752b743ef1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6575267",
+	"ingredient_ids": [
+		502,
+		848
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "시래기",
+			"ingre_count": "1",
+			"ingre_unit": "묶음"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "멸치다시마",
+			"ingre_count": "",
+			"ingre_unit": "육수"
+		},
+		{
+			"ingre_name": "소고기(국거리용)",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 멸치다시마육수를 내어주세요.",
+		"2. 시래기 1묶음을 물에 깨끗하게 씻어 먹기 좋게 잘라주세요.",
+		"3. 육수에 된장2스푼 정도를 풀어줍니다. 된장의 짜기 정도에 따라 양을 조절해서 넣어주세요.",
+		"4. 손질한 시래기를 넣어주세요.",
+		"5. 소고기 국거리를 한 줌 정도 넣어줍니다. 된장국을 끓일 때 그냥 끓이셔도 좋지만, 국거리 소고기를 함께 넣어서 끓이면 훨씬 진한 국물맛을 즐길 수 있답니다.",
+		"6. 함께 중불로 10분이상 끓여주면 시래기국, 시래기된장국 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/ba92a008aa1f51760ad33b8db97a9abd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/6d7985ca5c5e1260ca7506352f69e7421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/a97d339addbffb1c164ede3c7b8f57bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/4a7aa99f7d6201962e883eb03c0431511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/0eccb9c0fec3a7696910264bd3cac12b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/63de8b170d61ed055bc91e5cd59e49f91.jpg"
+	]
+}

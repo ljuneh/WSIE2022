@@ -1,0 +1,51 @@
+{
+	"id": "6829120",
+	"name": "스파게티 면 삶는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/4378f98efb595c4cfd87f43f8d3d36481.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829120",
+	"ingredient_ids": [
+		735,
+		995,
+		497,
+		574
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 손을 깨끗하게 씻고 필요한 재료부터 준비 해 보겠습니다.",
+		"2. 물은 다소 넉넉하게 1L정도 넣어 주시고 불을 강불로 올려 가열을 시작 해 주세요.",
+		"3. 올리브유1T와 소금1t를 넣으면 향긋한 풍미도 더해 질 뿐더러 음식을 완성했을 때 소스와 면이 따로 놀지 않도록 맛의 밸런스도 더욱 높여주는 역할을 한답니다.",
+		"4. 성인 1명이 배불리 먹을 정도의 양은 100짜리 동전 정도의 크기에 맞춰 면을 삶아주시면 되겠습니다. 우르르 물이 끓기 시작한 시점에 넣어주시고 중간중간 한번씩 휘저어 주세요.",
+		"5. 저는 끓는 물에 면을 넣고 전체적으로 면이 완전하게 물에 잠겨 조리가 시작된 시점을 기준으로 5분에서 6분사이를 권장해 드리고 싶습니다. Fast Cook을 위한 빠른 조리제품들은 2분~3분사이로 조리를 마쳐줘야하는 경우도 있답니다.",
+		"6. 잘 삶아진 스파게티 면은 가볍게 물기만 제거해 주시고 바로 소스와 함께 곁들여 내시면 제대로 맛있게 즐기실 수 있을거에요! 따로, 차가운물에 헹구지 않습니다 :)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/edbfb46ca30e76abc26f84217b06a3591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/b7a39595e7dd933972d73c56e688b0bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/8d5009efa2aa150ca885cb63cf5d32151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/9c60ba9832c2187d640c7bb1f84caee11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/d3b9bb66cb1972f021ce9b8554e24e561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/33f543a6143f039fa04a7fdbe38dd2ee1.jpg"
+	]
+}

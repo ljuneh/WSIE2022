@@ -1,0 +1,66 @@
+{
+	"id": "6941579",
+	"name": "소고기 장조림♥압력솥으로 부드럽고 빠르게 ~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/2f641fc9e9ddabbace6439b3bff10ef71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941579",
+	"ingredient_ids": [
+		495,
+		292,
+		995,
+		295
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "1.",
+			"ingre_unit": ".Kg"
+		},
+		{
+			"ingre_name": "삶은메추리알",
+			"ingre_count": "2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "간장1+1/3C",
+			"ingre_count": "1+1/3",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "설탕1+1/3C",
+			"ingre_count": "1+1/3",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".C"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 근막을 떼넨 사태살을 3등분 하여 잠시 물에담가 핏물을 뺍니다(10분정도)",
+		"2. 압력솥에 물,간장,설탕,맛술을 넣어 고기와 함께 끓입니다.(센불에 20분)",
+		"3. 20분후 솥을 열고 청양과 삶은 메추리알을 넣어 10분간 센불로 끓입니다.(압력으로 돌리지 말고 뚜껑만 살짝 덮어주세요)",
+		"4. 마지막으로 뚜껑을 열어 중불로 10분 끓여내면 끝.",
+		"5. 고기를 식혀 손으로 찢어줍니다.",
+		"6. 국물도 자작하게 끼얹어 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/b5f6b443baf293f5b95a0904934b0f351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/c60cd5397a157a836a57d58815a4e4151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/4e6572e1919525417580b4d55578ed281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/6cda8ec9290a5207c978403a50be3f4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/7763b8b22911e48fe43c64bddd044c521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/3b86ec35274d628176e2154dfd64a2fe1.jpg"
+	]
+}

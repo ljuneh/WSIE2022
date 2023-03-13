@@ -1,0 +1,59 @@
+{
+	"id": "6942096",
+	"name": "집밥 TV) 한우 안심 소고기파티! 집밥 백선생의 가르침대로 스테이크 굽기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/6c991ffb1e2fa7ade6ba81727d8b928c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942096",
+	"ingredient_ids": [
+		495,
+		497,
+		198
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "사이드야채(아스파라거스/버섯/양파)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 스테이크 고기에 소금, 후추, 올리브 오일로 시즈닝을 한 후 30분-1시간 정도 숙성한다.",
+		"2. 팬에 오일을 넣고 예열을 충분히 식힌 후 고기가 칙-소리 날때 팬에 올린다.",
+		"3. 표면이 바삭하게 익으면 첫번째 뒤집기를 한다. 두번째 뒤집을땐 중불로 불을 조절한다.익힘의 정도에 따라 굽기를 조절한다.",
+		"4. 어느 정도 익으면 버터를 한조각 넣고 사이드 야채들을 함께 올려 구워준다.",
+		"5. 불은 약불로 조절하고 버터가 녹으면 숟가락으로 고기에 끼얹어 아로제를 한다.",
+		"6. 익은 고기는 빼내서 접시에 올리고, 사이드 야채들을 익혀준다. 익으면 접시에 올리고 맛있게 먹는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/b364b0117dfd2af349caf934ff75b45b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/5a76ad17ee7bc810906c21439b8cc77d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/ed1b281bcf76416603272243ef5d28721.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/092c26661a2243f9e5ecc62a178c0c9c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/86c94f088ced302271753332edfb51f71.png"
+	]
+}

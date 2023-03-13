@@ -1,0 +1,62 @@
+{
+	"id": "6945396",
+	"name": "크로와상샌드위치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/88380a17daf7b9204c3b61fbf590bb551.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945396",
+	"ingredient_ids": [
+		158,
+		708,
+		252,
+		228
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "크로와상",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슬라이스햄",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "체다슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "로메인",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "홀그레인머스터드소스",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 크로와상 1개는 길이로 반으로 갈라주고 체다슬라이스햄 2장은 세모모양으로 1/2등분 해주고 사과 1/4개는 얇게 슬라이스하고 로메인 3장은 초록잎부부만 적당한 크기로 썰어주도 마요네즈 0.5T, 홀그레인머스터드소스 0.5T를 섞어 소스를 만들어준다",
+		"2. 반으로 자른 크로와상에 만들어둔 소스를 골고루 발라준다",
+		"3. 로메인 초록잎부부만 넣어준다로메인이 없을 경우 상추잎이나 어린잎채소도 좋다~ 아삭함을 더 표현하고 싶다면 로메인을 추천하다",
+		"4. 슬라이스한 사과 다음에 치즈 그리고 햄을 접어 넣어준다사과대신 토마토를 넣어도 좋으니 계절과일을 즐기면 좋다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/eac2d7c5a72251235ceb3ae5971734bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/04f7c43a42e20e2202bbc1c9dabff4661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/4240cbd458e3ab7e9ee75098480d0f381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/9bbb973bb80be4911023d7d55d7c72a61.jpg"
+	]
+}

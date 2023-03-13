@@ -1,0 +1,66 @@
+{
+	"id": "6833190",
+	"name": "[감자요리]감자채전 감자전 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/ad03455e646be7eb70035df101fbba0b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6833190",
+	"ingredient_ids": [
+		5,
+		9,
+		387,
+		995,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "120",
+			"ingre_unit": "G"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료:감자3개,당근1/3개,스팸120g,부침가루2컵,물1컵,식용유",
+		"2. 잠자채전에서 감자가 제일 중요하죠~! 감자를 필러를 이용해서 껍질을 제거해준뒤, 강판으로 채갈아주세요 손으로 채썰어도 좋지만! 강판으로 갈아주면 모양도 이쁘고 오히려 바삭해서 더맛있더라구요^^",
+		"3. 강판으로 갈아준 감자는 찬물에서 전분을 빼주세요 (10분정도 담구어 두었습니다.)",
+		"4. 당근1/3개도 강판을 이용해서 채썰어주었구요~ 스팸120g을 최대한 얇게 썰어주었습니다. 감자는 10분뒤 채에 걸러 물기를 제거해 줍니다. ",
+		"5. 큰볼에, 감자+당근+스팸을 모두 넣어주세요.",
+		"6. 물1컵,부침가루2컵을 넣고~~",
+		"7. 감자채전의 재료들이 잘섞이도록 해줍니다. 사진에서 보이는 농도로 하는게 좋아요~ 물이 너무 많거나, 혹은 부침가루가 너무 많거나 하면 재료를 좀더 추가해 주시면서 농도를 조절해주세요.",
+		"8. 기름을 두른 후라이팬에 반죽을 올리고 노릇노릇 하게 구워주시면 감자채전 완성!!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/288fbe9b673bddcfd40955f9489f6ffe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/c83352ed8f068ee3b52dff3e90ede2691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/e261da08d9a7739ecf3852ce80722f431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/3c2c71867d23cfc1ad502081c8523b5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/971c942b0ef7e2a6b57aa9d502c0fcb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/cfefc59c78e4c73cdb01224a3acf89c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/6c42753e6875fb92223037c053a377a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/7cc16dac833d063a262a6538f33d038c1.jpg"
+	]
+}

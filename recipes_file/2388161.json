@@ -1,0 +1,88 @@
+{
+	"id": "2388161",
+	"name": "파래무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/13ce03d67b7a2f8a9c2d1185f69013ac.jpg",
+	"url": "https://www.10000recipe.com/recipe/2388161",
+	"ingredient_ids": [
+		92,
+		9,
+		505,
+		497,
+		349,
+		224,
+		226,
+		233,
+		543,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "파래",
+			"ingre_count": "1",
+			"ingre_unit": "뭉치"
+		},
+		{
+			"ingre_name": "채썬무",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "3",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 파래는 흐르는물에 여러번 바락 바락 주물려 씻어 물기짜주세요.",
+		"2. 무는 채썰어서 소금약간 뿌려 20~30분정도 절인뒤 물기 짜줍니다. 당근도 곱게 채썰고 파래는 먹기좋게 3등분해줍니다.",
+		"3. 실파도 쫑쫑쫑 썰어줍니다 넓은 볼에 양념을 한데 섞어줍니다. 국간장 1큰술, 고춧가루 0.5큰술, 설탕1큰술, 깨소금, 참기름1작은술, 다진마늘쪼매넣고 잘섞어줍니다.",
+		"4. 한데 섞은 양념에 파래와 무채 당근을 넣고 실파넣고 무쳐줍니다. 뭉쳐진 파래 뜯어가며 골고루 양념이 잘 무쳐지도록 무쳐줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/82568d0512c8c835c812e79c01a437761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/fe4e41ba12dc2cf116e1cf2dae1e67541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/b11de7ec4356be88954562022154cab81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/f57965755afbb07f205d2073e574767d1.jpg"
+	]
+}

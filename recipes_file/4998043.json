@@ -1,0 +1,51 @@
+{
+	"id": "4998043",
+	"name": "상추된장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/ce3410eaf4fb22097979b489f29bea4c.jpg",
+	"url": "https://www.10000recipe.com/recipe/4998043",
+	"ingredient_ids": [
+		16,
+		56,
+		374
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "상추",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치랑다시마넣고끓인것",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "집된장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미소된장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 상추는 새벽이슬 머금은 것 서너줌 뜯어와 깨끗하게 씻어요.",
+		"2. 느타리는 2~3등분으로 썰거나 찢어 주시고, 두부는 새끼손가락 모양으로 썰어요.",
+		"3. 멸치랑 다시마 넣고 끓여서 국물 만들고 집된장과 미소 각각 1큰술씩 섞어서 풉니다.",
+		"4. 국물이 끓으면 두부와 버섯 넣고 한소끔 끓여서 상추를 넣어 마무리 합니다. 상추 넣고 오래 끓이지 마세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/03e157b374c22c067c43190ff3a6f1461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/46ab7a6ce958b4cfc0e026be25063d101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/9d789dd544b31c857cfa7f2b7aecfc0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/7e9afc2bcb127252d70656e87d85c1921.jpg"
+	]
+}

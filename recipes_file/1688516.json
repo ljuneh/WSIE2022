@@ -1,0 +1,57 @@
+{
+	"id": "1688516",
+	"name": "간단한 굴국밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/e0b5af3c872b2942a4e67aece56e69f3.jpg",
+	"url": "https://www.10000recipe.com/recipe/1688516",
+	"ingredient_ids": [
+		219,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "생굴",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시멸치",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "어슷썬대파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 다시멸치를 끓는 물에 살짝 우려냅니다.",
+		"2. 굴은 손질하여 깨끗히 씻고 물기를 빼놓습니다.",
+		"3. 다시물에 굴을 넣은 후 달걀을 풀어 줄알을 칩니다.",
+		"4. 파를 넣고 소금, 후추로 간을 합니다.",
+		"5. 뜨거운 밥을 그릇에 담고 국을 담으면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/9b595c32a2cc77b93edd685758c47a8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/ccaeef05d722c5ba5fea5d10e91eb3b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/5006054748f5210f24b45a2761e0c9d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/3681a84c8c9255cc330bfbdc341819d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/4a3b9247fbb74dae53750ad0123eb7151.jpg"
+	]
+}

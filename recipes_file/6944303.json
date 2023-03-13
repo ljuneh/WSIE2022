@@ -1,0 +1,76 @@
+{
+	"id": "6944303",
+	"name": "별다방에서 보았던  카페라떼케이크  집에서 보틀케이크로 만들어요 ♥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/253920081a046e31d72751c2d7969c731.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944303",
+	"ingredient_ids": [
+		485,
+		215,
+		226,
+		204,
+		568,
+		204
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "시판용카스텔라",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "초코시럽",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "450",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마스카포네치즈",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "인스턴트커피",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "뜨거운물",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 시판용 카스텔라는 두께 1cm, 지름 5cm 원형으로 자른다.",
+		"2. 인스턴트커피에 뜨거운물을 넣고 잘 섞은 후 연유를 넣고 커피액을 만든다.",
+		"3. 볼에 마스카포네치즈, 생크림, 설탕, 연유를 넣고 핸드믹서로 묽게 휘핑한다.",
+		"4. 휘핑한 크림 200g은 따로 덜어두고 나머지 생크림에 커피액을 넣고 거품기로 섞어 커피크림을 만든다.",
+		"5. 컵에 초코시럽>커피크림>카스텔라>생크림를 넣어 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/b6ba6243f90176ee4d341589a42b0b7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/8b6c8e0218bbfd4a61be494f4ec3ab7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/3c36f311b2e5cec6bd2a37c86636fe3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/b63d7659353b8d07ef249a1c4eba95241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/07908a5eeea1d485cfccd5c8b290566e1.jpg"
+	]
+}

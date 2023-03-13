@@ -1,0 +1,96 @@
+{
+	"id": "6857611",
+	"name": "매콤 호박볶음, 비빔밥과 국수에 넣어먹으면 좋은 호박볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/28/e6921cf2f60f7e45ff3749170b04d27a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6857611",
+	"ingredient_ids": [
+		833,
+		3,
+		27,
+		504,
+		327,
+		379,
+		477,
+		226,
+		233,
+		327,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쥬키니호박",
+			"ingre_count": "2/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 간장2,굴소스1,고추가루1.5,설탕0.5,다진마늘0.5,들기름0.5,대파다진것을 넣어 양념장을 만들어 줍니다.",
+		"2. 호박과 양파는 약간 두껍게 채썰어 줍니다. 밥반찬 하실거면 둥글게 썰어주셔도 무관합니다.",
+		"3. 식용유1,들기름1을 넣어 호박을 볶아줍니다.",
+		"4. 호박이 어느정도 익으면 양파를 넣어 한번 더 볶아줍니다.",
+		"5. 양파숨이 살짝 죽으면 양념장을 부어 볶아주어 마지막간을 소금으로 해줍니다. 저는 1.5티스푼 넣었습니다. 기호에 따라 깨를 뿌려주어 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/28/2b01f10b865708a9d17185fe4181bf791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/28/ddb174dc49a67d6afa0c303acb5df59c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/28/0ef5badaea0c314ac5c65a885159f9041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/28/b84ad0bb8a80f09cf515c7d8167bcbf51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/28/79f1d86b849e1273e40ff84f2f93e1c61.jpg"
+	]
+}

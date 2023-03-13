@@ -1,0 +1,86 @@
+{
+	"id": "6919664",
+	"name": "갈릭베이컨 콘치즈 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/09/25/dca9e873a67971b5705322157ff0e93e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6919664",
+	"ingredient_ids": [
+		104,
+		406,
+		233,
+		198,
+		212,
+		226,
+		497,
+		702
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "옥수수",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "4",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 먼저 옥수수 캔을 체에 밭쳐서 물기를 빼주세요옥수수 1캔",
+		"2. 후라이팬에 먼저 베이컨을 잘라서 볶아주세요 저는 가위로 슉슉 잘랐어요베이컨 5줄중불",
+		"3. 베이컨이 사진처럼 크리스피하게 되면 다진 마늘을 넣고 볶아주세요다진 마늘 1T약불",
+		"4. 마늘 향이 올라오면서 색이 변할 때까지만 약불로 볶아주세요 (다진 마늘은 금방 타요)",
+		"5. 물기를 뺀 옥수수를 넣고 2분 정도, 옥수수가 노릇노릇해질 때까지 볶아 주세요중불",
+		"6. 버터 한 큰 술과 설탕 한 작은 술, 소금 한 꼬집을 넣고 버터가 녹을 때까지 섞어주세요버터 1T, 설탕 1t약불",
+		"7. 위에 모짜렐라 치즈를 뿌려주시고 후추도 뿌려주세요모짜렐라치즈 200g, 후추 한 꼬집약불",
+		"8. 뚜껑을 닫고 치즈가 녹을 때까지 기다려 주세요 :)약불",
+		"9. 치즈가 다 녹았으면 위에 파슬리를 뿌리고 완성해주세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/25/5781f09adda08c35169c780472f30c431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/25/61a675b444af6e1b5978da427487e3751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/25/a8e61626f9bbdc20d9058a84801f06141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/25/1faa4e2e312acd73ac0cee573b6b1e5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/25/b13f0183657769847533631592bde9191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/25/abe1b81710ef023be082353cc38f56051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/25/94ef53cad53ec1cf4c53eabbd94fb8c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/25/ebf0b0e3be02f867c2da9788c58ec99c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/25/933ed1b346ae4e57104a7a64420a99da1.jpg"
+	]
+}

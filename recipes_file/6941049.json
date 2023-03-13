@@ -1,0 +1,31 @@
+{
+	"id": "6941049",
+	"name": "에어프라이어 고구마 쉽게 굽기 쉽게 간편하게 먹어보기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/788acb693a3a1dc4153b28fa257b74d81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941049",
+	"ingredient_ids": [
+		4
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 고구마를 깨끗하게 씻어주세요. 그리고 에어프라이어 담아 주세요.에어프라이어",
+		"2. 에어프라이어는 200도에서 25분 돌려주세요.",
+		"3. 25분뒤 젓가락으로 콕찔러서 부드럽게 들어간다면 다 익은것으로 보고 꺼내시면 됩니다.",
+		"4. 혹시 설익었다면 꺼내지 마시고  잔열로 뜸들이게 두세요.",
+		"5. 구운 고구마처럼 너무 맛있는 고구마를 구웠네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/672a14d615ca4fb68bb33a97f0964d511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/fe22f4d3d700fce53dd5cb96816f1fdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/282f3f507143b73e7c49ab432647a5601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/3e7020219043e7bbb828f3a229cb5f0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/8c99c971f1f5f16084054900d3bdd8321.jpg"
+	]
+}

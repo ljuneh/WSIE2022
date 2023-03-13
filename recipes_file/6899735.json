@@ -1,0 +1,52 @@
+{
+	"id": "6899735",
+	"name": "늙은호박 부침개/ 호박전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/91cbb9e9fc62fb9a69a7e1aaafcfe5581.jpg",
+	"url": "https://www.10000recipe.com/recipe/6899735",
+	"ingredient_ids": [
+		355,
+		234,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "늙은호박",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "뉴슈가",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 늙은호박을 안에 씨 부분은 파내고 전용채칼을 이용해 안쪽을 긁어내어 주세요.",
+		"2. 열심히 긁은 호박은 볼에 담아주세요.",
+		"3. 밀가루를 조금씩 넣어가며 치대어 반죽해주세요. 골고루 섞어가며 밀가루의 양은 농도에 따라 조절하시면되요. 버무리다보면 물기가 생기기 때문에 물은 안넣으셔도 되요.",
+		"4. 어느 정도 치대보시면 물이 나와 이렇게 반죽이 뭉쳐지게되요. 혹시 뻑뻑하다싶으면 물을 조금 넣어주세요. 뉴슈가와 소금을 조금 넣어 간을 해주세요.",
+		"5. 팬에 기름을 두르고 조금씩 반죽을 올려 구워주세요.",
+		"6. 앞뒤가 노릇하게 잘 구워주세요.",
+		"7. 잘 구워졌다면 최종 늙은호박전이 완성되요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/971cd391687e81d733c0cf23a8dcdf5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/9660d9f79119f718eafb20e9a1161f371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/d4fbd98e97fffa0f532df2662fbb52411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/c31ab649ee5850d52e973870ebfc0c431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/d1d7ee144b6a745bd9fbd0db6974b5f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/f775440a3e696d8ab1a3aa6ebc3810be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/08/8653c1dcd6302c5648c2f909a042dd821.jpg"
+	]
+}

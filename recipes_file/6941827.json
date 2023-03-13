@@ -1,0 +1,70 @@
+{
+	"id": "6941827",
+	"name": "기름떡볶이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/42d995d0487fee8e4ace9f75891180e91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941827",
+	"ingredient_ids": [
+		972,
+		27,
+		224,
+		526,
+		504,
+		660,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".Ts"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 떡볶이 떡은 물에 한 번 씻은 뒤 물기를 빼주세요.",
+		"2. 볼에 떡, 대파, 고춧가루, 설탕, 간장, 식용유, 참기름을 넣고 버무려주세요.",
+		"3. 팬에 떡이 겹치지 않게 펼쳐서 올린 뒤 약불에서 천천히 말랑말랑해질 때까지 구워주세요.",
+		"4. 타기 직전까지 바짝 구워야 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/0ff424df7cee727ae1503d05c3d67f661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/573c5a8057fd64d9b9096c5bc791945c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/5a5f39b918b954b184840e7b5ca059d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/de63bc19fa2ac079f2d52f2d83ec47c71.jpg"
+	]
+}

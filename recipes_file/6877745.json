@@ -1,0 +1,61 @@
+{
+	"id": "6877745",
+	"name": "초간단 초스피드 버섯요리, 양송이버섯 치즈볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/12/5920e17e75d7257b0e03e1f0b90324a81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6877745",
+	"ingredient_ids": [
+		379,
+		212
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "양송이버섯(criminimushrooms)8oz(227g)",
+			"ingre_count": "8oz(227g)",
+			"ingre_unit": "oz(g)"
+		},
+		{
+			"ingre_name": "버터/올리브오일",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "2",
+			"ingre_unit": "cups"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. baby bella라고도 불리는 crimini mushroom입니다. 얇게 써는 것보다 4등분으로 잘라야 먹을 때 버섯향이 좋더라구요.",
+		"2. 후라이팬을 달구고 올리브오일이나 버터를 넣고 썰어둔 버섯을 볶아줍니다. 너무 센불에 볶으면 버섯에서 수분이 나오기 전에 겉이 탈 수가 있으니 조심하세요.중불",
+		"3. 버섯이 촉촉해지려하면 간장과 후추가루를 뿌려 넣고 더 볶아주세요.",
+		"4. 간장이 들어가면 버섯에서 수분이 더 많이 나와요.",
+		"5. 버섯이 익으면 불을 줄인 뒤 모짜렐라 치즈를 넣고 뒤적뒤적 섞어줍니다.약불",
+		"6. 버섯과 치즈가 뒤죽박죽 섞이면 불을 끄고",
+		"7. 접시에 옮겨담은 뒤 파슬리가루를 뿌려주면 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/12/c2cf4754494c15941bc0a4c7fc2c7d3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/12/28754266c0eff5f55748fd14a45162531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/12/44a2ce07617bde434a79b370e72af48a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/12/219fd6a74f8444b4a7d39a8a59be0cb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/12/86c6265aa70c96799efdbbb5058c83291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/12/c0de5c2c745f21fc0e27f3d49c9daa2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/12/cca8d583ff0924592b7d5a37f4fb868d1.jpg"
+	]
+}

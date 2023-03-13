@@ -1,0 +1,45 @@
+{
+	"id": "6886468",
+	"name": "새콤~달콤~! 맛있는 토마토 생과일 주스 만들기 / 세 가지 재료로 손 쉽게 만들어 보아요~^^",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/30/a0ae683dda6144d004dc27e307838aa61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6886468",
+	"ingredient_ids": [
+		51,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "꿀1스푼(생략가능)",
+			"ingre_count": "1스푼(생략가능)",
+			"ingre_unit": "스푼(생략가능)"
+		}
+	],
+	"recipe": [
+		"1. 토마토를 깨끗이 씻은 뒤 잘 갈릴 수 있도록 4등분 한 뒤 꼭지를 제거해주세요.",
+		"2. 믹서기에 토마토를 넣고 (종이컵 기준)설탕 한컵을 넣어주세요.",
+		"3. (종이컵 기준) 우유 한 컵도 넣고 믹서기로 갈아줍니다.",
+		"4. 좀 더 달게 드시고 싶으신 분들은 꿀 한 스푼 추가!! (생략가능합니다~^^)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/30/d9092c977b43622f12a42e864ee7bddc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/30/91d332618e024a6e673fc031e383bffc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/30/55f0821a34e1432cb6ac84b4f1f1e8e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/30/87630d8d1b677ad7d92ba48bd95d22c31.jpg"
+	]
+}

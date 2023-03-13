@@ -1,0 +1,107 @@
+{
+	"id": "6942360",
+	"name": "밥솥 생선살 다시육수밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/5aaad555b5e4d9a2f63b98213ad3c8a01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942360",
+	"ingredient_ids": [
+		96,
+		292,
+		996,
+		90,
+		995,
+		224,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "생선살",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "250",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 머그컵 한컵이 250ml인데 끓는 물 250ml을 머그에 담아서 멸치가루 1T, 다시마 작은것 한장을 넣고 우려서 육수를 내주세요 *표고버섯 같이 우리셔도 좋아요",
+		"2. 해동된 생선살을 잘 다듬어서 100g준비를 해주세요. 비린내가 없는 흰살 생선이 좋아요. 저는 붉은 퉁돔을 썼어요.  *금태가 있으면 최고",
+		"3. 쌀 1컵을 씻고 육수 우린물 250ml을 걸러서 넣고 진간장 1T, 맛술 1T넣어주세요",
+		"4. 다듬은 생선살을 위에 얹고 일반취사해주세요. 혹시 표고버섯 불린 것 있으시면 썰어서 넣어주세요",
+		"5. 밥이 되어가는 동안 양념장을 만들어주세요. 진간장 2T, 참기름 1t, 고춧가루 0.5t, 통깨 0.5t, 마늘가루 1/4t(다진 마늘 1/2t), 다진파 조금",
+		"6. 밥이 다되면 주걱으로 저어주세요",
+		"7. 그릇에 담아 다진파 한줌 넣고 취향에 따라 양념장 1-2T 올려서 같이 비벼드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/b94ee2a39c1f5b27b419340240d9998c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/70b28df0470fc11ca1e400b63fcfeb211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/897d96cdcd7c034b38601d5849cc5dbe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/eefa271196d5d9adf05c8b383fc1a36e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/dfed742911da1316e80bc7743a7260e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/57c9c5f9e96ab7f0b85d5e495c53b1051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/82cec056fe691df46979347ae8d9d7a61.jpg"
+	]
+}

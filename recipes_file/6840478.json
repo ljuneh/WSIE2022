@@ -1,0 +1,67 @@
+{
+	"id": "6840478",
+	"name": "동지팥죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/24/cfdc7f973f787d07704e309a78ea5f4d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6840478",
+	"ingredient_ids": [
+		330,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "멥쌀",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "팥빙수팥3+1/2컵",
+			"ingre_count": "3+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물3+1/2컵",
+			"ingre_count": "3+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌉가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "끓인물",
+			"ingre_count": "10",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 멥쌀 1/2컵을 씻어 충분히 잠길정도의 물을 붓고 1시간 이상을 불려 줍니다.",
+		"2. 팥빙수 팥 3 + 1/2컵 을 믹서기에 담고 갈아 냄비에 부어 줍니다.",
+		"3. 팥을 갈고 난 후 믹서기에 물을 부어 믹서기 컵에 묻은 여분의 팥을 흔들어 씻어 냄비에 부어 줍니다. 물 3 + 1/2컵",
+		"4. 그리고 팥과 물이 고루 잘 섞이도록 저어 팥물을 준비해 줍니다.",
+		"5. 찹쌉가루 1컵, 소금 1/4작은술을 섞어 준 후 팔팔 끓인물 10큰술을 3번에 나눠 넣어 주면서 익반죽을 합니다. 반죽의 질기를 보면서 물을 추가해 주세요. 마트에 파는 찹쌀가루는 수분이 적어 물이 많이 들어 갑니다. 집에서 찹쌀을 불려 방앗간에서 빻아온 찹쌀가루는 수분이 많아 물이 적게 들어갑니다.",
+		"6. 열심히 치대어 반죽이 부드럽게 만들어지면 조금씩 떼어 새알심을 둥글게 빚어 줍니다.",
+		"7. 준비한 팥물에 불린 쌀을 넣고 함께 끓여 줍니다. 쌀대신 밥을 넣어도 된답니다.",
+		"8. 중~약불에서 계속 저어주면서 쌀이 퍼지도록 끓여 줍니다.",
+		"9. 그리고 준비한 새알심을 넣고 저어 주면서 끓여 줍니다.",
+		"10. 새알이 동동~ 다 떠오르면 완성이랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/24/de9ebd784181d21cb64f57e8166bc9721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/24/0514ea63a039d877593fa2d2ffa95e0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/24/a1dcb5e76c88709db9e443763565bae21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/24/041ad542e5e3d6de902f7a91b34b90651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/24/2d30ce443f7ada34c10067dc118eb5a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/24/14962b045e426b04b901564bfbbbfd601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/24/e4b2fd64f7de2bc40b0e51bb143ea37b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/24/0b1d198d80378474576f06ac199769171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/24/a069856926036136971fc31aa0732cc01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/24/5ec5072321f2c67769b3383de737afc31.jpg"
+	]
+}

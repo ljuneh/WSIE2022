@@ -1,0 +1,60 @@
+{
+	"id": "6943192",
+	"name": "수정과 - 친절한 라앤타의 쉽게 만드는 추석 음료",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/f4a50921308193c1923e78156896604c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943192",
+	"ingredient_ids": [
+		28,
+		995,
+		151,
+		478,
+		188
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "생강",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계피",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "곶감",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 생강은 편으로 썰고",
+		"2. 계피와 분량의 물을 넣고 약 2리터 정도가 될 때까지 끓여 주세요",
+		"3. 원하는 양까지 끓여 주었으면 분량의 설탕을 넣어 주세요.",
+		"4. 생강과 계피는 건져 줍니다.",
+		"5. 그릇에 담고 곶감과 잣을 띄워 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/eb57e663a6abe22b4cbba017a875bceb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/bcbb033eb5ff768bff1c7cf7055f6b4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/2dbecdb85e8536ad52a1e550c323c4c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/719e0a272fcf4e3b78fb6414e1d0adef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/138eda4bcafcb0117450e7e12e5aa4061.jpg"
+	]
+}

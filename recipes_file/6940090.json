@@ -1,0 +1,96 @@
+{
+	"id": "6940090",
+	"name": "깻잎으로 만든 페스토를 넣어 만든 치즈토스트 ♥ 깻잎페스토토스트",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/f6c5837b4d84782abb0627a75cabce121.png",
+	"url": "https://www.10000recipe.com/recipe/6940090",
+	"ingredient_ids": [
+		503,
+		406,
+		15,
+		212,
+		198,
+		15,
+		29,
+		868,
+		188,
+		574,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "25",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "파마산치즈가루",
+			"ingre_count": "5",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 마른 팬에 잣을 약불로 볶는다.                     \r                             네오플램 노블레스 프라이팬                          ",
+		"2. 믹서기에 소스 재료를 넣고 갈아서 깻잎페스토를 만든다.",
+		"3. 베이컨을 노릇하게 굽는다.                     \r                             네오플램 노블레스 프라이팬                          ",
+		"4. 식빵>깻잎페스토>모짜렐라치즈>베이컨>깻잎>식빵 순으로 얹어 샌드위치를 만든다.",
+		"5. 팬에 버터를 두르고 샌드위치를 뒤집어가며 굽는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/72860083f52bcecb0fc7eda28bca39721.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/c1dab0c86334f6995a6676a80d40651c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/d4f243c7024bfdd964e203d052e51fbc1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/4dd18be52c74733afd2274990580bfcc1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/fd1ed14d8f5f1129a681ecc779daacb91.png"
+	]
+}

@@ -1,0 +1,115 @@
+{
+	"id": "6943957",
+	"name": "자장면 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/de0d9b1b80e1dc35fa0cb560da20e6d91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943957",
+	"ingredient_ids": [
+		65,
+		300,
+		3,
+		21,
+		5,
+		9,
+		27,
+		1013,
+		900,
+		8
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "냉동새우",
+			"ingre_count": "8",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "춘장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "전분물",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "쫄면",
+			"ingre_count": "3",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 야채 등 재료를 준비해 주세요.",
+		"2. 감자, 양배추, 양파, 당근 등의 야채를 썰어 주세요.애호박을 넣어도 좋지만, 재료가 없어서 패스 했습니다.",
+		"3. 닭가슴살을 씻어 먹기 좋은 크기로 썰어 주세요.",
+		"4. 오징어를 깨끗하게 씻은 후, 손질해 주세요.오징어의 식감을 좋아하시는 분들은 오징어를 살짝 넓게 썰어주세요.",
+		"5. 썰어둔 대파를 이용해 파기름을 먼저 만들어 주세요.",
+		"6. 이후, 닭가슴살을 넣고 볶아 주세요.",
+		"7. 손질된 오징어를 넣고 같이 볶아 주세요.고기와 오징어 모두 살짝 익을 정도로만 볶아 주셔도 됩니다.",
+		"8. 이어서 나머지 야채를 넣고 볶아 주세요.어느 정도 볶다가 야채에서 물이 나오면 춘장을 넣고 더 볶아 줍니다.",
+		"9. 전분가루를 풀은 물과 새우를 넣고 더 볶아 주세요.물은 개인의 기호에 따라 가감하시면 됩니다. 물이 많으면 유니자장, 조금 적으면 간자장이 될 수 있습니다.",
+		"10. 자장면의 핵심 자장이 완성 되었습니다.",
+		"11. 면을 삶아 주세요.칼국수나 중화면을 사용할 수 있습니다. 전 다른 면은 쉽게 불수 있을 것 같아 집에 있는 쫄면을 활용했습니다. (물론, 짬뽕에 활용해도 좋습니다.)",
+		"12. 면이 익으면 찬물에 씻어 주신 후, 따뜻함을 유지하기 위해서 찬물에 씻은 후 뜨거운 물에 짧은 시간 헹궈 주세요.찬물에 씻는 것은 면의 쫄깃함을 더하기 위해서 입니다.",
+		"13. 적당량의 면을 그릇에 담아 주세요.",
+		"14. 이후, 자장을 위에 올려 주시면 마무리 됩니다.",
+		"15. 오이를 채썰어 올려 주세요.개인 기호에 따라 달걀후라이를 올려 주셔도 좋습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/85cb35b22a57ab2e30519a91e1825e7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/5f7f7f843c34d3bcb715b11220b65f5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/1f4f2b1d8983a0f4bfabe32f62f87fdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/200e758d97df834838eb1c71d6da2e2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/30d714040dce5bd9237f4d7b0efacbb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/19a3700db93916ae7f68ba991348eb8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/6a82424fccdaadde9f84ab2078468f211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/327106fc218f6d52fee8f2493ecfabeb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/fbec3b28fa8ee5cf0120e72644f9e03b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/7db689f954e188834fbf17e5e9df698b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/f42401730f7f75d0e0351c7f7614c9491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/358ee5c49646dc401c3396dfff16c4a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/a474ab967c85b5d9f42834d49266e6761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/09174f923ba806411a0d09712bcc80311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/4ef208facdbfb77d73221fc4290c03b71.jpg"
+	]
+}

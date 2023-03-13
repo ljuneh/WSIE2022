@@ -1,0 +1,91 @@
+{
+	"id": "6940827",
+	"name": "즉석오이냉국:사과즙이 북치고 장구치고(시원한음식)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/7879b2d28312613136e7199f420857f51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940827",
+	"ingredient_ids": [
+		8,
+		3,
+		497,
+		51,
+		959,
+		231,
+		843,
+		746,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "양파껍질차",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "사과즙",
+			"ingre_count": "1~2봉",
+			"ingre_unit": "~봉"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "쯔유",
+			"ingre_count": "",
+			"ingre_unit": "부족한간만큼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 오이와 양파는 가늘게 채썰어 소금에 버물버물 10분정도 둔다: 오이,양파 절인 물은 버리지 않고 그대로 사용할 거에요.",
+		"2. 토마토도 채썰어넣는다: 토마토 대신 파프리카,사과 등 다 좋아요",
+		"3. 양파껍질차와 풋사과즙을 붓는다. 양파껍질차는 본래 맛이 써요. 그런데 요즘엔 양파껍질에 붙은 양파도 넣고 가지꼭지랑 마늘껍질도 넣어 끓여서인지 쓴맛이 거의 나지 않아서 넣어봤어요. 다시마물이나 생수로 대신 해도 돼요.",
+		"4. 식초와 매실액을 넣는다. 그 양은 입맛에 맞춰 조절해주세요",
+		"5. 쯔유로 부족한 간을 맞추고 얼음과 통깨를 넣는다. 쯔유 대신 맛간장,양조간장,국간장 등으로 간맞춰도 되고 둘 이상을 섞어서 맞춰도 좋아요.",
+		"6. 얼음 넣을 경우엔 그에 맞춰 간을 좀 세게 맞춰주세요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/df617e8f2f0d471d4bc552df0f3b90a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/7fd153948cb4708972ca73258112e8fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/96e57e10f30e5357706972d0d45afb991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/b6b26b6fe24c4586ce4200dd110806521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/ff7325ec2d31b79133543c776386d1981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/3b817754a7dea8760f69e138bd53ee2c1.jpg"
+	]
+}

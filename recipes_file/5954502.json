@@ -1,0 +1,62 @@
+{
+	"id": "5954502",
+	"name": "더위를 이기는 삼계탕 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/c8f10e42f8d460b259f141687c6026e11.jpg",
+	"url": "https://www.10000recipe.com/recipe/5954502",
+	"ingredient_ids": [
+		29,
+		132,
+		27,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "중닭",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "수삼",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 생닭은 목과 꼬리 부분의 기름을 제거하고 내장을 깨끗이 씻은 후 끓는 물에 데쳐주세요.",
+		"2. 냄비에 닭이 잠길 정도로 물을 붓고 수삼, 대추, 마늘을 넣고 뚜껑을 덮어 끓이다가 중불에서 뽀얀 국물이 될때까지 끓여주세요.",
+		"3. 대파는 어슷하게 썰어 담고 소금, 후추도 준비해 주었어요.",
+		"4. 살이 잘 익어 뼈에서 잘 빠질 정도로 익었으면 넓은 그릇에 보기 좋게 담아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/150e25250469006cd8875e50e09b19991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/f21edd7527ebccc118c8e638c2d41a2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/2ccff1a44e2c1e15283ea0c22960632e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/b4c3b79d46604740f0a6db3e1b9b303e1.jpg"
+	]
+}

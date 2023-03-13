@@ -1,0 +1,109 @@
+{
+	"id": "349381",
+	"name": "가정식 두부조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/6b87015362df5e5b2762116f5a3721eb.jpg",
+	"url": "https://www.10000recipe.com/recipe/349381",
+	"ingredient_ids": [
+		432,
+		497,
+		293,
+		3,
+		27,
+		379,
+		995,
+		226,
+		477,
+		224,
+		29,
+		225
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "손두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "70",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿or요리당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 두부를 먹기 좋은 크기로 잘라 키친타월로 수분을 제거한후 소금을 약간 뿌려 10분정도 간이 들게 한후에 기름두른 팬에 노릇노릇 구워 주세요.",
+		"2. 두부를 부칠동안 분량의 재료로 양념장을 만들어 주세요. 간장은 딱 제입에 짭짤할 정도로 넣었는데 가감하시면 되요.",
+		"3. 분량의 물과 양념장을 팬에 넣고 끓이다가 바글바글 끓으면 두부를 넣고 조려 주세요.",
+		"4. 두부를 처음 넣었을때 보다 국물이 약간 자작해 졌을때 준비해 놓은 꽈리고추와 양파를 넣고 국물이 조금 더 졸아들게 해주세요. 이때 간을 보고 보충할것이 있으면 보충해 주시면 되요.",
+		"5. 국물이 걸쭉해 지면 대파를 넣고 마무리.",
+		"6. 고소한 두부구이가 매콤하고 짭짤한 양념을 맛나 기막힌 밥도둑이 되었어요. 따끈따끈 두부조림 하나면 밥 한공기 비우는건 시간문제. 맛있는 가정식 두부조림 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/48a8ff0097968959e6de80e6f4a579d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/fd3a478c81932719e88cffd0cc494e311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/80c21777b75e6834db51bb944ebe5c371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/d7e5d65e0192eeacccf1254ac57764a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/9495b1a8b2a0ee09a93b2d799006ceec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/a46a556e8d43a4bb2b9663ac22e98c971.jpg"
+	]
+}

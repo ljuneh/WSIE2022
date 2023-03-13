@@ -1,0 +1,92 @@
+{
+	"id": "6828891",
+	"name": "간단하게 즐기는 월남쌈, 땅콩소스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/9ac26468b02e032c582acf6122221f441.jpg",
+	"url": "https://www.10000recipe.com/recipe/6828891",
+	"ingredient_ids": [
+		238,
+		300,
+		6,
+		15,
+		42,
+		8,
+		9,
+		3,
+		515
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "라이스페이퍼",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "슬라이스마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "땅콩소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "칠리소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "씨겨자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 집에 있는 채소들 다꺼내 썰어줍니다, 최대한얇게",
+		"2. 땅콩버터에 매운 샤브소스와 씨겨자섞어 줍니다",
+		"3. 훈제닭가슴살은 끓는 물에 한번 삶아줍니다",
+		"4. 요렇게 담아내면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/1220055702de33fa86b9e5e0a4f4432a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/9d1e11bd0a4680498b5b016a493bebc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/1edeb2c25038b23b47bee08edcf4b69c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/aa192dfe4d65f0255d2052f35492d5fa1.jpg"
+	]
+}

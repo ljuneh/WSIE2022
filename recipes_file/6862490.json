@@ -1,0 +1,46 @@
+{
+	"id": "6862490",
+	"name": "자취생을 위한 혼밥에 최고!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/12/58a619d5af580b99508c9104ea1263f31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6862490",
+	"ingredient_ids": [
+		1019
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "닭고기연근조림",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "칠리새우",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "채소",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. [닭다리 연근 덮밥]  설명서 대로 전자레인지에 3분만 돌려준다.전자레인지                         ",
+		"2. 밥을 그릇에 담고 데운 닭고기 연근조림을 부어주면 완성된다.                     ",
+		"3. [칠리새우] 칠리새우는 냉동상태로 겹치지 않게 접시에 담아준다.                   ",
+		"4. 전자레인지에 1분만 돌려준다.",
+		"5. 채소는 손질하여 잘게 썰어 깔아주고 칠리새우를 올려 완성한다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/e5d83fa025cdeba2e20f4a774477ad321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/e75f9302b29f8c91522d29695d018ec81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/2b50d81cf0f030a3ca9142b2b532f3d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/55511815c03332461e70fa32197de22a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/c309ada4caed7bcd0c21dbeaffc25af81.jpg"
+	]
+}

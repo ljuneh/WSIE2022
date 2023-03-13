@@ -1,0 +1,83 @@
+{
+	"id": "6941770",
+	"name": "우렁강된장 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/ced1b5ada739ecba10f10d47cb09b1ce1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941770",
+	"ingredient_ids": [
+		753,
+		3,
+		55,
+		27,
+		374,
+		660,
+		995,
+		224
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "우렁",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "애호박(쥬키니반개)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "미소된장",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당(1T)",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 우렁은 살짝 데치거나 깨끗하게 씻어요.",
+		"2. 호박, 양파, 팽이버섯, 대파는 작게 깍둑 썰어 줘요",
+		"3. 기름두른팬에 파를 볶다가 야채를 볶아요",
+		"4. 야채가 숨이 죽고 어느정도 익으면 우렁을 넣어 1분정도 볶다가 된장과 올리고당,고춧가루를 넣어요.",
+		"5. 물 1/3컵을 넣어서 뒤섞으면서 졸이면 걸죽한 상태가 되면 불을 끄고  참기름을 반 숟가락 정도 넣어서 완성해요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/b8fd776aa771dfc78ec2a7891bb923541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/2096c0323d45038f09b2cf88b1e5a4fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/27750a286dbab2e8cd6654f01a3679931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/4808f57352dbd2fc253557bc980f843b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/19e4c63bdf38de1e0eb91675cacd5dd91.jpg"
+	]
+}

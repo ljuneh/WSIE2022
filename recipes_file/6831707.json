@@ -1,0 +1,41 @@
+{
+	"id": "6831707",
+	"name": "수박쥬스 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/75cc6fce0750b11598ae38873571423f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6831707",
+	"ingredient_ids": [
+		161
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "수박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꿀(or시럽)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 수박은 믹서기에 들어갈 정도의 크기로 썰어줍니다.",
+		"2. 믹서기에 적당량의 수박을 넣고요, 필요에따라 시럽이나 꿀도 첨가해주세요. 수박씨가 있다면 굳이 빼지말고 그냥 갈아도 상관없어요. 곱게 곱게 갈아주는게 포인트! 물을 따로 넣지않아도 수분이 많은 과일이기 때문에 그냥 갈아주세요. 수박에 씨가 있다면 굳이 빼지말고 그냥 갈아도 상관없어요 곱게 곱게 갈아주는게 포인트!",
+		"3. 얼음과 함께 갈아버리면 완전 물탄 느낌이고 맛도 덜할꺼같아 이렇게 얼음을 따로 부셔서 준비해뒀어요.",
+		"4. 컵에 쥬스를 담아주고 얼음을 올려주면 완성!",
+		"5. 카페에서 먹는 비쥬얼 못지않죠? 홈메이드 쥬스라 몸에도 좋고 시원하게 한잔하니 더위도 싹~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/3a390096c12400f439b97e473d2047701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/d0d6bdc3abda7f391973ca4d70b6198c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/57d27f95696b23d37703ff134f97b1221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/7dacd085698c263449514ad3549cc8e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/46d96f4bc6346eac8f77fcdd5765eeb91.jpg"
+	]
+}

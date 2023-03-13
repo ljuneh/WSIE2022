@@ -1,0 +1,87 @@
+{
+	"id": "6945075",
+	"name": "빼빼로데이/한입 감자피자",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a2402c3196737c065b9b3c281269a5411.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945075",
+	"ingredient_ids": [
+		5,
+		371,
+		708,
+		198,
+		212
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "옥수수콘",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "2색파프리카",
+			"ingre_count": "15",
+			"ingre_unit": "g씩"
+		},
+		{
+			"ingre_name": "슬라이스햄",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "시판토마토소스",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비해 주세요~",
+		"2. 옥수수콘은 물기만 빼 두고 슬라이스햄은 끓는 물에 샤워시켜 준 후 잘게 썰고  방울토마토는 굵직하게 썰고  파프리카는 잘게 썰어 주면 토핑 재료준비 끝!~",
+		"3. 감자는 껍질 벗겨 감자 모양 그대로  0.5Cm 정도의 두께로 썰어 주세요~",
+		"4. 팬에 버터 1조각 넣고 녹인 후 중불에서  감자 올려 앞, 뒤 뒤집어 가며 구워 주세요~",
+		"5. 감자가 익으면 약불로 줄이고 토마토소스를 발라 주세요~시판 피자소스 발라도 좋구요~",
+		"6. 슬라이스햄 올려 주세요~햄 대신 소시지나 맛살, 베이컨도 좋구요~  ",
+		"7. 잘게 썰은 파프리카도 올려 주시구요~",
+		"8. 방울토마토도 군데 군데 올려 주면 토핑 끝~",
+		"9. 모짜렐라치즈 듬뿍 올려 주세요~",
+		"10. 뚜껑 닫고 치즈가 녹을 정도로만  2~3분만 구워 주면 한입 감자피자 완성~",
+		"11. 한입에 쏙 들어가는 미니피자라 아이들 간식으로도 좋고  맥주안주로도 너무 좋습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/3d60b1f217ffd5277d355d84811e06b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/6d4dbc7adefc33de18229027da7006311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/d34d667fd3c6b5c92ac3b6a17cee988d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/f4c493fa11ef3d98d48b1de7fe9f7cdc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/c61402319f7e3c43094be37ed0646c361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/059054a512c38ed6043dd9a20f251bb91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/8fad27a60ee7b9c513b97d9aec0699061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/c472574f087900096988229b601dae4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/9e20f37d20bd03e4e1598a7fb6be84a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/51e6eb5910357f56f25fefb4a989913c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/95a9005fac0a8df06693e35d67c5fec81.jpg"
+	]
+}

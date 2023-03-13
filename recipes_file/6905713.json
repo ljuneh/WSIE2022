@@ -1,0 +1,43 @@
+{
+	"id": "6905713",
+	"name": "초고추장, 황금비율로 1분 완성 초간단 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/01/6370115bb7dde75c20f86a91db401d1d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6905713",
+	"ingredient_ids": [
+		226,
+		231,
+		473
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 그릇을 하나 준비해 주세요.초고추장 만들 양에 따라 그릇을 달리 해주세요.",
+		"2. 설탕 1T를 넣어 주세요.설탕",
+		"3. 식초 1T를 넣어 주세요.식초",
+		"4. 고추장 1T를 넣어 주세요.고추장",
+		"5. 잘 섞어주시면 완성돼요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/01/e5eaeb51f97a4a69c19eda00b1e6fcb91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/01/a9a96f587642acc45a4722353af347341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/01/4fadb15ee3a745e5ffafd5177280e81c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/01/ddff9d4160bb95cb7d25bc8b01dafbc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/01/4d9eee0e82ca2f369e1496bd460fc7a71.jpg"
+	]
+}

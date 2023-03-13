@@ -1,0 +1,87 @@
+{
+	"id": "6891903",
+	"name": "열무김치 담그기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/04/04/c96aa63d9747fe30cb6baf8fb37f7da21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6891903",
+	"ingredient_ids": [
+		35,
+		757,
+		233,
+		28,
+		333,
+		390,
+		224
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "열무",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "2",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "찹쌀풀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 열무는 길이가 짧은 것으로 구입해 다듬어 찬물에 두번 씻어줍니다",
+		"2. 소금을 살짝 뿌려 1시간 숨이 살짝 죽을 정도로 절여 주었어요 너무 많이 절이면 열무 속에 들어있는 단물이 다 빠져나가 맛이 없어요",
+		"3. 아삭하게 절여진 열무는 살살 얘기 다루듯 두 번 정도 행구어 건져둡니다",
+		"4. 열무가 절여지는 동안 찹쌀풀도 쑤어 식히고",
+		"5. 홍고추를 잘라 카트기에 갈아 준비합니나",
+		"6. 갈은 홍고추 멸치액젓 새우젓 고춧가루 생강 마늘 넣어 잘 섞어 간을 마추고 ~",
+		"7. 잘 절여진 열무를 넓직한 그릇에 담아 버무릴 준비합니다",
+		"8. 살짝만 절여둔 열무랑 양념소를 조금씩 덜어 붓고",
+		"9. 식혀논 찹쌀풀과 쪽파 한줌 넣어 풋내가 나지 않게 아기 다루듯 서너번 뒤적이듯 버무립니다",
+		"10. 하루밤 지난후 김냉에 두고 먹으면 맛있게 드실 수 있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/04/4712359ac2f8976a4b1dfebf2a6f056a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/04/be35679acd9706fc2ae045cd616034d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/04/f917113f1329867836d5ab036ad9f9e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/04/a8f06aec01e5750f9887e9dc1e03ff831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/04/4ba43f224279fad638060f1d43d753dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/04/97b76d1ad5e9edbd45f7e11851b0a9c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/04/a40d59d4e399e37683a55a94305ba8131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/04/daf8d984dbb1dbfa2855b6557954880a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/04/289eb21d3bafe9850eaaab06203190d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/04/b7206249d24d1ddc4e5b8bb605e02c121.jpg"
+	]
+}

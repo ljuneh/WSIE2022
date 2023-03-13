@@ -1,0 +1,66 @@
+{
+	"id": "6943157",
+	"name": "한가위 추석요리_달콤 레시피 꿀밤 송편",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/4be13a5121024f41ca8745e2fe0ca1fa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943157",
+	"ingredient_ids": [
+		621,
+		227,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "맵쌀가루",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "뜨거운물",
+			"ingre_count": "250",
+			"ingre_unit": "mL"
+		},
+		{
+			"ingre_name": "햇밤",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "솔잎",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 햇밤을 쪄서 밤 껍질을 분리 후 잘게 으깨주고 꿀과 함께 섞어 송편 소를 준비합니다.",
+		"2. 맵쌀가루에 소금을 넣어 골고루 섞어줍니다.맵쌀가루가 뭉쳐 있는 경우 체에 한번 걸러 사용해주세요.",
+		"3. 밑간한 맵쌀가루에 뜨거운 물을 조금씩 넣고 잘 섞어 줍니다.",
+		"4. 클레이 점토 느낌정도로 반죽을 만들어 줍니다.",
+		"5. 젖은 면포를 반죽 위에 덮어 10분 정도 숙성시켜 줍니다.",
+		"6. 숙성된 반죽을 적당량 떼어 평평하게 만들고 꿀밤 소를 넣어 줍니다.",
+		"7. 양손으로 꾹 눌러 송편 모양을 만들어 줍니다.",
+		"8. 솥에 젖은 면표를 깔고 송편을 올리고 솔잎을 뿌려준 뒤 25분동안 쪄 줍니다.",
+		"9. 기호에 따라서 찐 송편을 바로 먹거나 찬물샤워 해준 뒤 참기름을 발라주면 맛있는 꿀밤 송편이 완성됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/f8d78e3f03bf329a12f98d937ac634ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/77e63d9ac5fb4a4531dcd8d54c33bad41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/8e220c41eb5dede4031985c17cc7978b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/536f08a986b7aff82eb66d08c5d8dc121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/779fa56d9313c71bd947447fecb77b7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/09e27f0f3eb4c379e317a47a1399c01f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/0b678da2a5bf081aac128a2e740d64cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/fa285ce95aac881177a4940a5dcf14031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/2e7778bc3791480bf5a53fd47a4257521.jpg"
+	]
+}

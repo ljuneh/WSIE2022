@@ -1,0 +1,42 @@
+{
+	"id": "6832763",
+	"name": "옥수수 탱글탱글하게 맛있게 삶는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/6aa7c55c26545a34ec09e173a4cc69ac1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6832763",
+	"ingredient_ids": [
+		104,
+		545
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "옥수수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕(or뉴슈가)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 옥수수는 한 겹만 두고 다 벗겨내주세요.",
+		"2. 옥수수 한번 씻은 다음 압력솥에 담아줬어요. 압력솥에 하면 빠른 시간에 옥수수 맛있게 삶아낼 수 있거든요. 그냥 냄비에 할 경우 물 넉넉히 붓고 푹 삶아줘야해요.",
+		"3. 옥수수에 단맛만 들어간다고 맛있는 게 아니랍니다. 간도 배여야 맛있거든요. 천일염 + 뉴슈가 소량 넣어줬어요. 천일염 반 수저 + 설탕 한수 저 넣어줘도 좋아요. 물도 넉넉하게 넣어줬어요~",
+		"4. 이제 센 불에서 끓여주면 되겠죠. 센 불에서 추가 돌기 시작하면 중불로 낮춰서 20분 정도 푹 삶아주세요. 일반 냄비에 할 경우 시간이 더 걸리겠죠. 압력이 다 빠지면 열어주세요.",
+		"5. 김 빠지고 열어봤더니 옥수수가 잘 익었네요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/ee9ce61c17183ee8535cf2ece4113c561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/c52084d0f79e1856ab081e65c20f5b9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/8ffd12d21375653acceacde57b0727091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/47d86a1bde6a07e593405a06db057ee71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/ba6b56a1d21201527b1d28b760c1d5391.jpg"
+	]
+}

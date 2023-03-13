@@ -1,0 +1,99 @@
+{
+	"id": "6943461",
+	"name": "초간단 소고기국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/e1496aaa565f0d24d7dc1ad9aaffff431.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943461",
+	"ingredient_ids": [
+		495,
+		47,
+		27,
+		19,
+		349,
+		224,
+		594,
+		233,
+		660,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파큰것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "어간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 냄비를 달궈 식용유3T,참기름5T을 넣고 채썬 양파,나박썬 무,소고기를 넣고",
+		"2. 고기가 익도록 달달 볶아요.(강불)",
+		"3. 고춧가루5T넣고 잘 섞어 볶고(중불)",
+		"4. 물6컵을 넣고 팔팔 끓입니다(강불)",
+		"5. 국물이 팔팔 끓으면 콩나물넣고",
+		"6. 마늘1T, 파, 국간장3T, 다시다1T를 넣고 뚜껑덮어 끓입니다(15분정도)",
+		"7. 마지막 간은 어간장 또는 액젓(1T)으로 맞추고,송송썬 파 얹어 후추 톡톡뿌려드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/54f74ee36440f516c4a5b028ad85979f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/aded9acd106b0da758c82604dbe2f5961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/3a2813c00bba286ff8550866b27e53081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/d46441744d299e5b5736c56d91b47b311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/2e968694b4c0d351c32f5cd9327f3c041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/34f9bea5a254ec9357039e187cd893ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/fdd91b60931a95dc5f21915c1a9084761.jpg"
+	]
+}

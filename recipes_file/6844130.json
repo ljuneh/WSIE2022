@@ -1,0 +1,77 @@
+{
+	"id": "6844130",
+	"name": "* 해장라면 맛있게 끓이는 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/2dc2b7ecd04e70cb7b705864ba69e4be1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6844130",
+	"ingredient_ids": [
+		47,
+		995,
+		27,
+		333,
+		996
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "사리면",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김치1접시(적당히)",
+			"ingre_count": "1접시(적당히)",
+			"ingre_unit": "접시(적당히)"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".ml"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "멸치가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 사리면 2개 준비했어요.",
+		"2. 콩나물 이만큼 밖에 없어요.",
+		"3. 김치를 가위로 숭덩숭덩 잘라 넣었어요.",
+		"4. 김치하고 콩나물 넣었어요.",
+		"5. 이제 끓고 있어요.",
+		"6. 액젓 2스푼 넣었어요.",
+		"7. 멸치 가루 1스푼 넣었어요.",
+		"8. 사리면을 넣어주세요.",
+		"9. 부글 부글 끓고 있어요.",
+		"10. 대파를 어슷 썰어 넣었어요.",
+		"11. 김치와 콩나물 넣은 시원한 해장라면이 완성됐어요. 정말 맛있는 라면이었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/5cba74e71698c4baecb41621d33f670e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/5f480639820d5bc02dab14ff93ab451b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/cdf3b33e02e36f90a6d13531005b03fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/da5beb33367c8e29da234144e5ed64121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/146bdd7588156d340034ff8c86d13fa41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/90b8ff72396831831f485285bf53ab911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/de1d33d482ca3f66673f7fd1681735d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/d6d5e817a95b6a2b86bd7ef74776032e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/16562334e9ff0546ff035abec3f45c841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/ef73ee13336a01f64c7b3221e8a1b5d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/05/c49ee0be1d6ccec671cd74db33abf3881.jpg"
+	]
+}

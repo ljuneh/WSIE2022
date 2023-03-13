@@ -1,0 +1,63 @@
+{
+	"id": "6944583",
+	"name": "은행 요리 / 은행 견과류조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/b8035062afdba34a12880a084bd8b8411.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944583",
+	"ingredient_ids": [
+		189,
+		840,
+		504,
+		995,
+		379,
+		575
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "은행",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "7",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 은행을 준비한다.",
+		"2. 견과류를 준비한다.",
+		"3. 은행은 끓는 물에 2~3분 정도 데쳐 껍질을 제거한다.",
+		"4. 냄비에 식용유, 은행을 넣고 볶는다.",
+		"5. 은행을 볶은 뒤 견과류를 넣고 살짝 볶는다.",
+		"6. 물, 간장, 올리고당을 넣고 중불에서 졸인다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/c2b82ccac67d1d9cbfc6ccf8f930f2151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/b21375e0987373ac3281d855bcaba2ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/791881637d29505dabac7e5a03ef4cfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/8d288dcbb893f132d65fbc67a7bacfee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/c541dee7b78c7846155dd94e26a7715b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/6d48e1b941de84e8221477666a79c4751.jpg"
+	]
+}

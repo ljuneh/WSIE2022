@@ -1,0 +1,88 @@
+{
+	"id": "6850946",
+	"name": "추적추적 비가오는 날, 막걸리에 똭! 오징어부추전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/6f8a1749b9a425dd5d3c05d159331cef1.png",
+	"url": "https://www.10000recipe.com/recipe/6850946",
+	"ingredient_ids": [
+		30,
+		65,
+		219,
+		995,
+		504,
+		379,
+		231,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "송송썬청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "부침가루2+1/2컵",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "송송썬홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 볼에 달걀, 물을 넣고 섞은 뒤 부침가루를 넣고 마른 가루 없이 섞는다.달걀 1개, 물 2컵, 부침가루 2+1/2컵 볼",
+		"2. 먹기 좋은 길이로 썬 부추와 오징어, 송송 썬 청양고추를 넣고 버무린다.부추 1줌, 오징어 1마리, 송송 썬 청양고추 2개 ",
+		"3. 중간 불로 달군 팬에 식용유를 넉넉히 두른 뒤 반죽을 올려 고르게 펼친다.식용유 적당량팬중간 불",
+		"4. 홍고추를 뿌리고 앞뒤로 노릇하게 지져낸다.송송 썬 홍고추 1개",
+		"5. 초간장을 곁들여 마무리.[초간장 재료] 간장 2스푼, 식초 1스푼, 고춧가루 약간"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/14/fce58f670b43a21aec9a265e64cc8b861.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/14/a86f466c960db5f8a4cccc44601be3211.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/14/23b6dc391598a048451e65668fba0ad91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/14/304275f4f938ab2af3a50ec2f06aa2921.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/14/39ed2413d430dc2119676d7ec30c455c1.png"
+	]
+}

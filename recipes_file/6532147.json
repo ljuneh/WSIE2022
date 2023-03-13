@@ -1,0 +1,66 @@
+{
+	"id": "6532147",
+	"name": "초간단 콜라비 피클 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/18b98c57fec4b3197067493bcd0a0c211.jpg",
+	"url": "https://www.10000recipe.com/recipe/6532147",
+	"ingredient_ids": [
+		45,
+		995,
+		226,
+		231,
+		508,
+		608
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "콜라비",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "적양배추",
+			"ingre_count": "1/4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "피클링스파이스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 콜라비는 껍질을 벗겨 먹기좋은크기로 썰어주시구요.",
+		"2. 적양배추와 오이맛고추도 한입크기로 썰어서 준비해주세요.",
+		"3. 물1컵, 설탕1컵 먼저 끓여 설탕이 잘 녹게 해줍니다.",
+		"4. 마지막에 식초 1컵과 피클링스파이스, 월계수잎을 넣어줍니다.",
+		"5. 한번 끓여 소독한 유리용기에 콜라비, 적양배추,오이맛고추를 가득 넣고 끓인 피클초를 재료가 다 잠기도록 부어주면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/bc9a19e344d1be04966b2613d40ecd471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/3f616bc48ea4af74db2c1a9815d9b5f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/313c0356061ba6750ae0246985c6d77f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/ac145231fc2f25801ff3d7dbee15e4821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/31/63cb6acfe38a09736c54d41c651121c71.jpg"
+	]
+}

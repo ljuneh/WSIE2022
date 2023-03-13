@@ -1,0 +1,51 @@
+{
+	"id": "6941788",
+	"name": "치즈떡 닭갈비",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/0c42b6864bc6e2f40031e5a6427db2bb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941788",
+	"ingredient_ids": [
+		302
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭갈비",
+			"ingre_count": "500",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "치즈떡낱개",
+			"ingre_count": "12",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "뜨거운물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 국내산닭갈비.치즈떡.컬러고추 치즈플레인 준비하고요",
+		"2. 양념닭고기를 팬에 넣는다",
+		"3. 뜨거운 물좀 넣어 가면서 조린다",
+		"4. 골고루 다 넣고 불린당면 넣고 고추가루는 넣고 물도 더 넣고 조려줘요",
+		"5. 맛있게 드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/f88d84dfa575f48687913acaff33a4651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/87e721c9c876aaa79d9495c90b324c441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/725da13e8925e4be4d7eff8ef4c5882c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/60fcd82c4f2806608eb572cb3e893aa01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/4540993ae212ffa7eb053555f5925d051.jpg"
+	]
+}

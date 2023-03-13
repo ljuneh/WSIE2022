@@ -1,0 +1,54 @@
+{
+	"id": "6944527",
+	"name": "집밥 TV) 영화 기생충 짜빠구리! 소고기 채끝 짜파구리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/58beadcd65e6561dd13936fad5300f681.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944527",
+	"ingredient_ids": [
+		29,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소고기채끝살",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "짜파게티",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "너구리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 마늘은 편썰기 하고 채끝살은 먹기 좋은 큐브 형태로 잘라줍니다.마늘은 기호이므로 안 넣으셔도 되요.",
+		"2. 팬에 기름을 두르고 채끝살을 올려 구워줍니다. 소금과 편마늘을 넣어 다 구우면 팬을 잠시 빼둡니다.",
+		"3. 끓는 물에 짜파게티와 너구리 면을 삶아줍니다.후레이크도 같이",
+		"4. 면이 익으면 다시 고기 구운 팬을 올리고 면과 면수를 조금 넣어줍니다.",
+		"5. 짜파게티 스프는 모두 넣고 너구리 스프는 2/3만 넣어줍니다.",
+		"6. 스프들과 면 고기를 모두 함께 볶다가 짜파게티 오일을 넣어 한번 더 볶아주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/8e4b377004e41a9ffde3590f59723ba81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/dde11d4f377304c6c4f46ea68f0ed6dd1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/c9bbdfbbc0f8d889e54647892607e7391.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/a47fac52fea369f908b04eab6a1987711.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/d329154a3f1f8c06ea5eb05b86cf055c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/90593c91fbaa92d120a5d5769f6c72521.png"
+	]
+}

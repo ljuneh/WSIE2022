@@ -1,0 +1,86 @@
+{
+	"id": "6943702",
+	"name": "매콤한 백종원 두부조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/07966145aa9b147f18194c4f7cc671f01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943702",
+	"ingredient_ids": [
+		323,
+		390,
+		281,
+		995,
+		327,
+		295,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굵은고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "180",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 두부는 반으로 잘라 1cm두께로 썰어주세요.부침두부,찌개두부 상관없이 사용가능합니다.",
+		"2. 대파도 송송 썰어 준비해주세요.",
+		"3. 매콤한 청양고추도 송송 썰어주세요.",
+		"4. 잘라놓은 두부를 팬에 깔아주고, 들기름을 빼고,물,진간장,설탕,간생강, 간마늘,고춧가루를 넣어주세요.간생강,새우젓이 없으면 생략하셔도 됩니다. 기름에 부쳐 조리는 두부조림을 좋아하신다면 식용유 1큰술을 지금 넣어주세요.",
+		"5. 재료들이 잘 어우러지도록  보글보글 끓여주세요.중불",
+		"6. 국물을 끼얹어가며 끓여주세요. 국물 졸이는 것은 개인취향에 맞게 졸여주시면 되요.",
+		"7. 국물이 반 정도 남았을때 들기름  1큰술을 넣어주시면 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/3c52ba4c9ebac307168e4e6eab16825b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/8de377bb00e59f7a363d167e38ad06701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/62ef13eec82a4c07e286edab7c360d241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/1cd1157d59f7e399a2ebd49cd4533d901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/af64b0b1b97548f082385d024a6b179d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/6762b3da4eeff80a6990226e191a06821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/581d4acf4dcc13b912815b1ba058990a1.jpg"
+	]
+}

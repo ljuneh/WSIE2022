@@ -1,0 +1,59 @@
+{
+	"id": "6942853",
+	"name": "에어프라이어 요리 파닭 통닭 바베큐 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/f12e4145c6d0ba0ecd2f55e083c5ef491.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942853",
+	"ingredient_ids": [
+		304,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "맥주",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 에어프라이어로 맛있는 통닭 만들어 볼께요.",
+		"2. 후추 약간.간마늘1t.파슬리가루 약간.맥주 반컵.소금1t을 넣고 소스를 만들어 주세요.",
+		"3. 그리고 세척해 손질한 닭에 소스를 골고루 발라 주세요.",
+		"4. 에어프라이어 175도에서 30분 익혀 주세요. 혹시 더 바삭하게 드시고 싶으시면 5분 정도 더 돌려 주세요.에어프라이어",
+		"5. 그래서 꺼내보면",
+		"6. 파랑 함께 곁들여서 먹음 너무나 맛있는 통닭이 완성이네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/17419c8d6c704d47121c79fb331726991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/7f66bd9c6fd62702d52b8d964d173d5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/b3d032b079a885ae69ecd36af27984e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/d441f1eb8e868c030936f283ca489ef21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/946526cc5d447478f792667ca67af7b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/8d6b55e01e357f850ee63608769460671.jpg"
+	]
+}

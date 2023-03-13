@@ -1,0 +1,110 @@
+{
+	"id": "6921802",
+	"name": "두부구이 레시피 손님상차림 메뉴로 좋아요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/11/07/ea40b472463011819d2b9edc7624bd961.jpg",
+	"url": "https://www.10000recipe.com/recipe/6921802",
+	"ingredient_ids": [
+		323,
+		15,
+		8,
+		497,
+		225,
+		226,
+		224,
+		233,
+		660,
+		27,
+		295,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. < 재료 세척 > 오이 1개는 굵은 소금을 표면에 뿌리고 손으로 움켜잡고 박박 문지르며 세척해주세요. 깻잎 6장은 찬물에 3분 정도 담가주시고 흐르는 물에서 앞, 뒤로 깨끗하게 세척해주세요.오이 1/2개, 깻잎 6장오이 표면의 오돌토돌한 부분이 깍여나가도록 강하게 문질러 주시면 좋습니다.  깻잎은 잔털과 주름 사이에 잔류 농약이 있을 수 있어서 세척에 더욱 신경써 주시는게 좋겠지요.",
+		"2. < 두부 손질 > 두부 1모는 흐르는 물로 가볍게 헹궈주시고 키친타월로 살살 눌러가며 표면 물기를 제거해주세요.두부 1모키친타월오늘 저는 작은 두부를 사용했는데요. 큼직한 두부를 사용하시면 보기에 더 좋습니다. 물렁한 두부보다 단단한 두부가 더 좋고요.",
+		"3. < 두부 밑간하기 > 두부 한 면에만 소금 1꼬집, 후춧가루 약간 톡 3번 뿌려주시고 손으로 가볍게 두드려 흡수시켜주세요. 이대로 5분 정도 밑간 시간을 가져주세요.소금 1꼬집, 후춧가루 약간소금을 뿌려놓고 5분 이상 경과 시, 두부에서 수분이 많이 나오니 참고해주세요.",
+		"4. < 재료 손질 > 세척해놓은 오이 1/2개, 깻잎 6장은 채썰어 주시고 대파 1/3뿌리, 청양고추 1개는 작게 송송 썰어주세요.오이 2/1개, 깻잎 6장, 대파 1/3뿌리, 청양고추 1개",
+		"5. < 양념장 만들기 - 1 > 진간장 3스푼, 설탕 1스푼, 고춧가루 1스푼, 다진마늘 1스푼, 참기름 1스푼을 볼에 넣어주세요.진간장 3스푼, 설탕 1스푼, 고춧가루 1스푼, 다진마늘 1스푼, 참기름 1스푼",
+		"6. < 양념장 만들기 - 2 > 통깨 1스푼, 대파 1/3뿌리, 청양고추 1개를 넣고 모든 재료가 섞이도록 잘 저어주세요.통깨 1스푼, 대파 1/3뿌리, 청양고추 1개통깨를 으깨서 사용하면 고소함이 확 살아요. 절구로 빻아주시거나 손바닥으로 비벼 넣어주세요.",
+		"7. < 두부 부치기 > < 중불 >로 달궈놓은 프라이팬에 식용유 2스푼을 두르고 밑간해놓은 두부 면이 바닥을 향하게 올려주세요. < 중. 약불 >로 화력을 줄이고 두부 바닥면이 노릇노릇해지도록 4~5분 가량 부쳐주세요.식용유 2스푼프라이팬중불로 달군 후 중.약불에서 4~5분한쪽 면만 구울 것이기 때문에 뒤집을 필요없습니다. 집집마다 화력이 다름으로 종종 살짝 들어서 타는지 여부만 체크해주세요.",
+		"8. < 플레이팅 - 1 > 부친 두부 면이 위를 향하도록 도마에 올려주시고 4 X 4 크기로 썰어주세요.도마, 칼",
+		"9. < 플레이팅 - 2 > 채썰은 깻잎, 오이를 두부 한편에 올리고 양념장을 두부 위에 수북히 쌓아주세요. 필요에 따라 으깬 통깨를 더 뿌려주시면 좋습니다.채썰은 야채, 양념장"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/07/28f595b04e973e56ef7fcd8c7911f43f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/07/0425c2a2744fa5721b747463c62edeb41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/07/012266607dcd2626cef47e008d4e758f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/07/1e9ec439ce48a2e171992ba330721a1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/07/73743ad497ad8cb7f130788e642a0c181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/07/0bc3a109d0466990f2b822fa69c5f3101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/07/f9fcdd32dfe291931d416b7bb7218a901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/07/5eb1964796d7b7476b0ea33c5a9737251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/07/a8dc3af7b547b2160682a4c7772fb9801.jpg"
+	]
+}

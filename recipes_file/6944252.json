@@ -1,0 +1,56 @@
+{
+	"id": "6944252",
+	"name": "계란말이 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/f0f1fc9bf8addcba7f12fcd0d8ffc1901.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944252",
+	"ingredient_ids": [
+		219,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진당근",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다진쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 계란은 깨끗하게 씻어 잘 풀어준 뒤 소금을 넣습니다,.",
+		"2. 야채들을 손질해서 1에 넣어 잘 섞어주세요.",
+		"3. 프라이팬에 기름을 살짝 두르고 키친타월로 가볍게 닦아주세요.저처럼 사각팬이 있으신 분들은 사각팬을 이용해 주세요. 사각팬은 인터넷과 다이소에서 쉽게 찾아볼 수 있어요",
+		"4. 예열이 되면 반 정도만 붓고 고루 펼쳐주세요.",
+		"5. 겉에가 살짝 익으면 말아주세요.",
+		"6. 4가 완성되면 남은 달걀물을 이어 붙이고 5를 반복해 주세요.",
+		"7. 도마로 옮긴 뒤 식으면 썰어주고 접시에 세팅한 후 케첩을 살짝 뿌려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/8878b0f0acda796779b31b9f68af7a7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/2880bbe5b5055d717d724c858f62ea551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/a5c381466e9fbfa36ed6ddab3b13e7981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/d3ad9c262684b4f0c2a7d68ec28cc84e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/f3fbd13ebaab2fe3ddb668a0974575841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/c49b179226f0f9ef56789326d904e0ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/9eab52fd7a3b1b35c2a0c361532cfee21.jpg"
+	]
+}

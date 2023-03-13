@@ -1,0 +1,92 @@
+{
+	"id": "6942979",
+	"name": "쫄깃쫄깃 깨찰빵 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/d2fb1532e5a6891083d3c52cab8e012e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942979",
+	"ingredient_ids": [
+		497,
+		995,
+		379
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "파인소프트T",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파인소프트202_",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파인소프트C",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "검은깨",
+			"ingre_count": "9",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "실온달걀",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "95",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "실온무염버터",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 달걀, 물, 간장을 함께 섞어 주세요",
+		"2. 큰 볼에 파인 소프트 T, 파인 소프트 202, 파인 소프트 C, 강력분, 소금을 넣고 섞어 주세요",
+		"3. 달걀 혼합물을 넣고 날가루가 보이지 않을 때까지 섞어 주세요",
+		"4. 반죽을 한 덩이로 뭉친 후, 매끄럽고 찰기가 있을 때까지 치대어 주세요",
+		"5. 버터를 2-3번에 나누어 넣고 계속 치대어 주세요",
+		"6. 검은깨를 넣고 골고루 섞어 주세요",
+		"7. 랩을 씌워 20분 간 냉장 휴지 해주세요, 오븐을 미리 예열해주세요오븐",
+		"8. 반죽을 50g씩 분할한 후, 매끄러운 공 모양으로 만들어 주세요",
+		"9. 유산지를 깐 팬에 서로 간격을 두어 팬닝해주세요",
+		"10. 180℃에서 20분 간 구운 후, 온도를 160℃로 낮추어 15-20분 간 더 구워 주세요",
+		"11. 팬에 그대로 5분 간 둔 후, 식힘망으로 옮겨 완전히 식혀 주세요",
+		"12. 맛있게 드세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/f44956bbefd6b579a24a35fff9eff58d1.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/1e35804f2d1539dbb7787e90dafc6fe71.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/7ce04525d30801ffcc8b685977303b0f1.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/cef8d6264b45e29c1890d69d291811061.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/da796c74c22f127a40522c0103a93f4a1.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/c845833129c675565dec4f1ce650db231.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/2167d7717ec5bc3f60d698393ce642951.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/b8d15604e5bbc7b4bcf9bb1cae8e6d881.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/c3d11b5b7d90bb51db408bf539e416851.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/9be67768a7e2b53f6217a72ed638ca041.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/2d7bb3be3f5b944c3d7094e6eafbcfd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/ff2c43428f3fe688c1d7979ae09278f21.bmp"
+	]
+}

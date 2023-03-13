@@ -1,0 +1,53 @@
+{
+	"id": "6941460",
+	"name": "초간단 간장국수!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/addcb3a5afab4105395cdb819544ac741.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941460",
+	"ingredient_ids": [
+		523,
+		379,
+		226,
+		660,
+		290
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 5분간 소면을 삶아주세요",
+		"2. 다 삶았으면 찬물에 깨끗이 씻어주세요",
+		"3. 볼을 준비하고면을 넣고 간장.설탕.참기름.깨 순서대로 넣고 잘버무려주세요",
+		"4. 그럼 간장국수 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/848b4cdae93cb2faa889c29f67e95bd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/9c36541a7c0673e14aa88daa4aa769381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/c7f83f96b6f9e55c08a41943267171b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/c0180ab30fd316dcd2f7d0928662ff231.jpg"
+	]
+}

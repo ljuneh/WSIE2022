@@ -1,0 +1,48 @@
+{
+	"id": "6941564",
+	"name": "통감자 버터구이 (초간단 요리)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/7da23d6042f7c90f1939adc347f503091.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941564",
+	"ingredient_ids": [
+		198,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "통감자",
+			"ingre_count": "",
+			"ingre_unit": "몇개든"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 칼질 내주고 렌지에 5분 익혀줍니다",
+		"2. 은박지에 말고 버터를 칼집 내준곳에 넣어줍니다  조금씩 넣어야 안벌어 져요 에어프라리어든 미니오븐이든 200도에서 5분 구워 줍니다오븐,에어프라이어",
+		"3. 끝이에요 참쉽죠"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/aebfc9fb00c19294b0aa485c30189da61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/8e755f9a0c62807a1bcbb7660852780a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/7df00cc96e308e8bf120fc06f2d40a9c1.jpg"
+	]
+}

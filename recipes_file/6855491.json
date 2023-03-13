@@ -1,0 +1,73 @@
+{
+	"id": "6855491",
+	"name": "청국장찌개-구수한 청국장 끓이기~!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/a23c07c5a5863d974411e31db4c7e1511.jpg",
+	"url": "https://www.10000recipe.com/recipe/6855491",
+	"ingredient_ids": [
+		670,
+		953,
+		487,
+		954,
+		323,
+		29,
+		876
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "청국장",
+			"ingre_count": "1",
+			"ingre_unit": "덩이"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "호박고지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "말린버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/4",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 호박고지와 말린 버섯은 흐르는 물에 여러 번 씻어준 다음 물에 담가 10분 정도 불려둔다.",
+		"2. 돼지고기와 마늘 한 수저를 넣고 들기름에 들들 볶는다~! 고기가 하얗게 익을 때쯤 잘게 썬 김치도 넣어 볶는다.",
+		"3. 쌀뜨물을 넣어 끓여준다~!",
+		"4. 물에 불려두었던 호박고지와 말린 버섯 투하~!",
+		"5. 주인공 청국장은 맨 마지막에 넣어준다. 된장찌개처럼 처음부터 청국장을 넣으면 텁텁해질 수 있으므로~! 청국장 끓이기에 젤 핵심은 청국장을 맨 나중에 넣는 거!!!",
+		"6. 청국장을 넣고 한소끔 끓이고 두부로 마무리~! 김치와 청국장만으로도 간이 충분하기에 다른 간은 안 하는 걸로!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/08d147fd20d1f297f847ec3bb1e3b21a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/cfd454543089f58d8271575e33818bc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/ec888023e560a5275c280ad92d1ecc431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/cb270f85eba949b78b6b769c9048f1631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/2609093ecdbd3f2816ad1b9112f030861.jpg"
+	]
+}

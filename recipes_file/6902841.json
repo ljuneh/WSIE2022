@@ -1,0 +1,51 @@
+{
+	"id": "6902841",
+	"name": "초간단 물없이 오이지 담그는법↙",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/59b8b0b42c1e3808f526cbaf0db048801.jpg",
+	"url": "https://www.10000recipe.com/recipe/6902841",
+	"ingredient_ids": [
+		8,
+		497,
+		226,
+		231
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "15",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 물을 끓여서 번거롭게 오이지 담그기도 아니구요 물도 없이 간단하고 맛있게 담그는 오이지랍니다,.",
+		"2. 우선 오이를 잘 세척해서  꼭지 긴 것만 제거해 주시고요 물기를 제거해 주세요.",
+		"3. 그리고 10개 기중 종이컵으로  1컵씩 같은 비율로  설탕.소금.식초를 준비해 주세요.",
+		"4. 그리고 용기에 담긴 오이에 뿌려 주세요. 설탕이 잘 안녹을 것이 염려 되시면 식초에 소금과 설탕을 넣어서 녹여서 부어주셔도 되세요.",
+		"5. 그리고 뚜껑을 닫아서 시원한 곳에 한 2틀 정도 두시면서 위아래를 한두어번 뒤집어 주세요. 그럼 2틀지난 모습이랍니다.,",
+		"6. 2틀이 지나면 냉장고나 김치 냉장고에 보관해 주세요. 그럼 1년내내 오이지 짜지 않고  물없이 담궈서 먹을 수 있답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/66875ba1060e82ea783750d00ec900c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/9e23d98cbe9e100ece4f722d1d39c81f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/9ab8e62073434f4b76bbf529dd19d3121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/5cca566b31ded24082b6d6f55c44a20d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/cdb83be9e101acb83a08770ac7173d731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/f3b328c8c184e865ab783b944ea95e151.jpg"
+	]
+}

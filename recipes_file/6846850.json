@@ -1,0 +1,47 @@
+{
+	"id": "6846850",
+	"name": "(봄나물요리)방풍나물장아찌:보약같은 장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/cdf01f3d77fb6a18d5fc3f90bb5081741.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846850",
+	"ingredient_ids": [
+		853
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "방풍나물1팩(150그램)",
+			"ingre_count": "1팩(150그램)",
+			"ingre_unit": "팩(그램)"
+		},
+		{
+			"ingre_name": "다시육수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초+매실청",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 방풍나물은 다듬어서 깨끗이 씻어 물기를 제거해 주세요 *방풍나물잎이 너무 질길 경우엔 데쳐서 만들어 주세요 (끓는 물에 소금넣고 1분이내로 데친 후 물에 헹군 후 물기를 빼두세요)",
+		"2. 다시육수+간장을 넣어 한소끔 끓이세요",
+		"3. 불을 끄고 식초와 매실청을 반반씩 섞어 넣어주세요",
+		"4. 보관용기에 방풍나물을 차곡차곡 담아주세요",
+		"5. 누름돌이나 무거운 그릇을 얹어주세요",
+		"6. 간장물을 부어주세요 식지 않아도 괜찮아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/2fe3a968176078ff59a04c09d4ac0b811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/12645f3785bc58690ed339f9357e096e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/710217da33283d55c645348697a54bd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/e8ea40ecd2848e8688f8f36adb6b9f4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/21/93a70b9b74124cd1fbade6b692b073c41.jpg"
+	]
+}

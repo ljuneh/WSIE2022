@@ -1,0 +1,80 @@
+{
+	"id": "3193130",
+	"name": "고등어추어탕 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/657e4698052763dc5fa8481f5ccf5fef.jpg",
+	"url": "https://www.10000recipe.com/recipe/3193130",
+	"ingredient_ids": [
+		995,
+		497,
+		349
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "얼갈이1/2단(434그람)",
+			"ingre_count": "1/2단(434그람)",
+			"ingre_unit": "단(그람)"
+		},
+		{
+			"ingre_name": "고등어1마리(583그람)",
+			"ingre_count": "1마리(583그람)",
+			"ingre_unit": "마리(그람)"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "9",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "시판된장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "제피",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루1.5스푼(12그람)",
+			"ingre_count": "1.5스푼(12그람)",
+			"ingre_unit": ".스푼(그람)"
+		},
+		{
+			"ingre_name": "다진마늘약2스푼(33그람)",
+			"ingre_count": "2스푼(33그람)",
+			"ingre_unit": "스푼(그람)"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 얼갈이는 끓는물에 데쳐주고 찬물에 깨끗히 씻은 후 손으로 꾹 눌러 짜 수분을 제거한 후 5등분으로 잘라주세요.",
+		"2. 고등어는 물 9컵과 함께 넣어 푹 삶고 고등어의 굵은 뼈를 제거하고 고등어 삶은 물은 육수로 쓰세요.",
+		"3. 데쳐서 물기를 제거한 얼갈이와 고춧가루, 다진마늘, 국간장, 진간장, 고등어를 넣어 버무려 주세요.",
+		"4. 고등어 삶았던 물에 된장 2스푼을 풀고 보글보글 끓으면 재료를 넣어서 끓여주세요. 혹시 간이 살짝 부족하시면 소금으로 맞춰 주시면 되시구요.",
+		"5. 송송 썬 청량고추와 대파를 넣고 마무리 합니다.",
+		"6. 그리고 가장 포인트가 되는 제피가루를 커피스푼으로 1스푼 넣고 마무리 해주었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/b7d20d0d888709ef801711f3d7c938601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/2f6641e7b62bd9a5d25555c8436b32471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/39dff3663258de5ffe1d4a776a301ee01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/4d5b43d80eb07adbb18672b78b412b281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/55262d7fcdac782e79e3d64913828cf71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/9cc35e2a19e8eb8cb699032fb6c2b641.jpg"
+	]
+}

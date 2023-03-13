@@ -1,0 +1,89 @@
+{
+	"id": "6939835",
+	"name": "감자 소세지 피자 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/c73da80be857e1825a6129d174f76e7d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939835",
+	"ingredient_ids": [
+		5,
+		3,
+		58,
+		51,
+		212,
+		214,
+		234
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소세지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "삶은달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 소세지와 양파 새송이버섯을 채썰어 주세요 토마토는 가운데 심을 제거하고 얇게 썰어 4등분 합니다",
+		"2. 감자를 얇게 채썰어 주세요",
+		"3. 채썬 감자에 밀가루를 뿌려줍니다 다시 도마위의 감자를 반으로 접어서 그 위에 밀가루를 뿌려줍니다 이렇게 1T 씩 네번 밀가루를 넣고 섞어주세요",
+		"4. 팬에 식용유를 3T 넣고 센불에 예열한 후 감자를 넣고 맨위에 밀가루 1T 를 채망에 넣고 뿌려줍니다",
+		"5. 뒤집개로 윗면을 평평하게 눌러 주세요 가장자리도 동그랗게 모아주세요 약약불로 감자를 익힌 후 중불로 노릇하게 익혀주세요 다른 팬에 식용유를 두르고 감자전 위에 덮고 뒤집어 주세요  똑같이 약불에 익힌후 불을 좀더 올리고 윗면을 살짝 눌러서 바삭하게 익혀주세요",
+		"6. 가장자리의 감자를 먹어보니 바삭하고 잘익었어요",
+		"7. 팬에 식용유를 두르고 양파 소세지 새송이버섯을 볶다가 토마토 넣어 주세요",
+		"8. 삶은 달걀이 있어서 넣었어요",
+		"9. 냉동 모짜렐라 치즈를 넣고 중불에 치즈가 녹으면 감자전 위에 올려 주세요",
+		"10. 감자전 놓을 접시에 미리 채망속 밀가루를 뿌려줍니다 4등분 합니다",
+		"11. 감자전 위에 슬라이스 치즈를 올리고 소세지 치즈볶음을 올려 주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/6e6a4846e08d84bf934ddc8e33350edd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/993051c3afb253ae0e7031bb1135452f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/4c82c602e1004583a6bc56a09f3d4ff71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/7e078ceb2147db8884c51694c6ef1c071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/54f2027661b80b84e80a3e5239012cf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/421b3e949ca57e3adf1d752153ac17e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/ee72cea7f78b1cd50e97a5df0b1e7dc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/0bc23358c941b23a1a33042efb5b4de71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/a69a10e70f9e1271756a58e02a5dfb111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/796e2c64f37414b949fa8ba7087a22ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/61e87a0e28ed9c995ca81781605f8b361.jpg"
+	]
+}

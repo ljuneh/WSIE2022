@@ -1,0 +1,48 @@
+{
+	"id": "6943554",
+	"name": "에어프라이어 레시피, 달달한 허니버터고구마 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/fc47b05d2f39040bbb44a612f1128ab51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943554",
+	"ingredient_ids": [
+		4,
+		198,
+		216
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리고당또는꿀",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 180도로 예열한 에어프라이어에 깨끗이 씻은 고구마를 넣고 15분 돌립니다. 그리고 뒤집어서 다시 한번 10분 동안 돌려요. 조리가 끝나면 바스켓을 바로 열지 말고 5분 정도 두어 뜸들이기를 해 주세요.",
+		"2. 잘 익은 고구마를 자릅니다.저는 밤 고구마라서 고구마가 정확하게 반으로 갈라졌는데, 일반 고구마나 꿀고구마처럼 촉촉한 고구마를 사용하신다면 칼집을 내듯이 2/3 정도만 잘라 주세요!",
+		"3. 자른 고구마 위에 꿀 또는 올리고당을 듬뿍 바릅니다.",
+		"4. 그리고 그 위에 버터와 피자치즈를 올린 뒤",
+		"5. 180도로 예열된 에어프라이어에 넣고 3~5분간 돌리면 완성이에요!에어프라이어"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/27f6abae3241738381cf843674222ce01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f78b2c7b0f87059b88ac467f9e8f38e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/aa9972515f984e3dd25ec968c129d0551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/7a74cc6758340fd148ea0324d48f0bf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/b9eae54e9e52eb41ff1c6be8b8d6fd021.jpg"
+	]
+}

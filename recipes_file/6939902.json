@@ -1,0 +1,60 @@
+{
+	"id": "6939902",
+	"name": "달콤한 식빵 러스크~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/4d817f55d2d99b7ed44994edefa74ad81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939902",
+	"ingredient_ids": [
+		503,
+		319,
+		204,
+		198
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "쿠키앤밀크스프레드",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "메이플시럽",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 쿠키앤밀크 스프레드 2T 볼에 담고",
+		"2. 렌지에 30초 정도 돌려 녹여준 후전자레인지",
+		"3. 연유,버터,메이플시럽 넣고",
+		"4. 렌지에 윙~ 10초 정도 돌려 고루 섞어준다",
+		"5. 식빵 위 펴 발라준다",
+		"6. 4,5등분으로 잘라",
+		"7. 에어프라이어 바스켓에 담고",
+		"8. 200도 온도에서 6분정도 구워 한 김 식혀주면 완성에어프라이어"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/a4aaa551ec3a72211f15991ba830b7a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/929da35d04cd1df56d841079b092330f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/f658cda8eb11ec9573fe4affdad855871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/22c8048bd3f92214f6ae64faca00b1eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/3bb80c6a291da9671011d9bd3bbf02701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/5b5dd37510c75d8a213582080e87b1931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/39f3bd67cd9dd1b236d3517e146484ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/bb4c0fe13d54348938d59dd2ab68600b1.jpg"
+	]
+}

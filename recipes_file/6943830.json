@@ -1,0 +1,40 @@
+{
+	"id": "6943830",
+	"name": "밤 요리 / 율란",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/6d7a53cdbe6adcaedd23ba558d1a00fa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943830",
+	"ingredient_ids": [
+		187,
+		227
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밤",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계핏가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 밤은 삶아서 껍질을 제거한다.",
+		"2. 삶은 밤은 체에 곱게 내려 준다.",
+		"3. 곱게 거른 밤에 계핏가루, 꿀을 넣고 섞는다.",
+		"4. 밤 모양으로 만들어 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/5aff844fb3c05c5d7ab22b10e6ce61641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/e42546f446c584cc93708447cd88dd841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/46f3d3e74c317c069661741872f038051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/bee2c148e68de2bce29c60633bdf838b1.jpg"
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"id": "6942741",
+	"name": "소고기로 맑은 박국 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/4a7768a1e65498ad6b3df4bf0c45483f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942741",
+	"ingredient_ids": [
+		495,
+		660,
+		233,
+		349
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 소고기는 핏물을 빼고 박은 껍질을 벗기고 씨가 있는 박속은 파내고 도톰하게 썰어요",
+		"2. 참기름 두루고 소고기를 볶아 줍니다",
+		"3. 맹물을 부어 소고기 육수가 우러나게 보글보글",
+		"4. 도톰하게 썬 박을 넣고 20분정도 푹 끓였어요",
+		"5. 간장으로 간을하고 다진마늘 파 넣고 마무리 합니다",
+		"6. 군더더기없는 맛에 먹고나면 속이 편해 노약자 산모들에게 좋을거 같아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/d8bfe1a4705bd317b23986b4c5ff5d871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/4619980bca0d35f8e8aa728df5ca363d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/e14655b11c61cdca62210dbbd0040c721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/59af3efc167ec6d5429f1960c76c2edc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/0eec10d77d1fa6c3e08bc2551ed15a061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/ba04c2299a6f06ebb8fab8f64e4b82dc1.jpg"
+	]
+}

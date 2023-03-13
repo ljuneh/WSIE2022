@@ -1,0 +1,54 @@
+{
+	"id": "6943144",
+	"name": "명절 산적 만드는법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/e40b86238f8de99e0f96895f6d802b4f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943144",
+	"ingredient_ids": [
+		495,
+		575,
+		660,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "솔솔솔"
+		}
+	],
+	"recipe": [
+		"1. 키친타올로 핏불을 제거 될수 잇게 부분 부분 눌러주세요.",
+		"2. 그릇에 진간장2T, 올리고당2T, 참기름1T 이렇게 넣고 간을 봅니다. 많은 어른들이 오시기 때문에 음식이  실패하지 않게 그릇에 부워 미리 간보세요.",
+		"3. 이제 후라이펜에 불을 키시고 고기를 넣어서 조립니다. 이때 너무 많이 졸여도 소고기 특성상 고기가 질겨집니다.",
+		"4. 그러니까 중간불로 앞뒤로 조려주세요. 탈꺼 같다 싶으면 물을 한수저, 2수저 넣어도 됩니다.",
+		"5. 이렇게 산적을 다 조렸다면 접시에 건져내어 통깨를 살살 뿌린뒤 식혀줍니다. 그런후 랩을 씌워 그다음날의 명절상에  올리시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/07da0545a629cbd1bb6b91e910db81411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/b8c27012dd4a7d34d7947d98b1c5e8851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/96bdeda1770d82556b3196cc4a3657411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/1577641b2d8495b62fb48046f56b1c4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/0b5c568cd69ec84acf9da5137dc596c51.jpg"
+	]
+}

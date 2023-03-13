@@ -1,0 +1,126 @@
+{
+	"id": "6866063",
+	"name": "가자미조림 나만의 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/d8acd560a9d4c3d715e23ebbf440a7821.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866063",
+	"ingredient_ids": [
+		66,
+		876,
+		47,
+		27,
+		3,
+		295,
+		29,
+		379,
+		349,
+		579,
+		843,
+		226,
+		341,
+		660,
+		224
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "가자미",
+			"ingre_count": "3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "5",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 가자미 세마리 할인된 가격에 저렴히 모셔와 깨끗이 씻어 쌀뜨물에 10분정도 담가 비릿내를 제거했어요.",
+		"2. 저는 가자미조림에 그냥 무가아닌 친정엄니가 넉넉히 해주신 무김치를 넣어요. 양념이 배어있어 더 맛있거든요.",
+		"3. 청양고추 마늘 양파 대파를 준비했어요.",
+		"4. 무김치를 적당히 잘라 깔고 그 위에 가자미를 가지런히 눕혔어요.                   ",
+		"5. 가자미조림에 원래 콩나물을 안넣는데 얼마전 비빔밥 해먹고 남은 콩나물이 아까워 넣었습니다.",
+		"6. 가자미조림에 넣을 양념장입니다. 간장3, 국간장2, 후추 적당히, 소주2, 매실액2, 설탕1, 물엿1, 참기름1, 고춧가루5 이렇게 넣었어요.",
+		"7. 양념장과 쌀뜨물을 섞어 잠길정도로 위에 뿌려주었어요. 가자미조림은 너무 센불에 하면 잘 부서지더라구요. 저는 중간불에 뭉근하게 15~20분정도 끓여주었습니다.",
+		"8. 구운 가자미 못지않게 맛이 담백하고 좋은 가자미조림 나만의 레시피였습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/03/a6654c242667cf3a5e46691a67e636b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/03/d95db863b1f31aa07d84cf5900496f101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/03/2f44c280448517df7b39dcfce5f0615d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/03/6b1edaf3c15a3cd68e5834ab549231261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/03/4ab88385d8e7a3a9e02ca3615d0301e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/03/52bcf2200aa212bfbf4933ba27da32da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/03/6b06837717fa11c53dfb2f29071eef1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/03/61325d06896f27e75fe7187e95048c061.jpg"
+	]
+}

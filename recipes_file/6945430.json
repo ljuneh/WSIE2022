@@ -1,0 +1,103 @@
+{
+	"id": "6945430",
+	"name": "빼빼로데이 선물로 만들기 쉬운 초코 바나나 브레드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/448d6ca07e4f696c3ca7319aa9ddcfbc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945430",
+	"ingredient_ids": [
+		483,
+		227,
+		141,
+		940,
+		373,
+		497,
+		194
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "중력분",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "코코아파우더",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식물성오일",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백설탕",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다크커버쳐초콜릿",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹소다",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1/2",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "초코칩",
+			"ingre_count": "65",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "65",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 분량의 호두를 마른 팬이나 오븐에 한 번 볶아서 식혀둔다.호두 대신 좋아하는 견과류를 사용해도 괜찮다.",
+		"2. 분량의 초콜릿은 중탕이나 전자레인지를 이용해서 녹여준다.",
+		"3. 바나나를 포크나 주걱 등을 이용해서 으깨놓는다.",
+		"4. 으깬 바나나에 설탕, 꿀, 계란 그리고 식물성 오일을 넣고 섞는다.식물성 오일은 별다른 향이 없는 포도씨유, 해바라기씨유 등을 쓰면 된다.",
+		"5. 바나나 혼합물에 아까 중탕으로 녹인 초콜릿을 넣고 섞어준다.",
+		"6. 바나나 혼합물에 가루류를 체쳐넣고 주걱으로 섞어준다.",
+		"7. 아까 준비한 호두와 초코칩을 넣고 섞어 반죽을 마무리한다.",
+		"8. 완성된 반죽은 틀에 패닝한 뒤, 180도로 예열된 오븐에서 10분간 굽다가 온도를 170도로 낮춰서 30~35분간 굽는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/cd75f7d1a7ea7ce59e02da75e7eb6efe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/bfc5001bf68081a78c0c500e74d0756e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/246f689c844afa873bceb430fa942ab51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/3d0b4a79575c0cfcd95955d9256bffc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/df6cbbccc4fe05ba4d4f3ddf75d330181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/d90d15cd6afb94863d2d0edcd7edee711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/7bee147eff0c29f9f4a32e32948b87eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/7879f656cff53d236ec7e3bf31c0e99c1.jpg"
+	]
+}

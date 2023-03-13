@@ -1,0 +1,97 @@
+{
+	"id": "6884469",
+	"name": "단짠단짠 너무맛있는별미, 간장쪽갈비",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/24/848abbd00bb9dbdea1aa4e02848706f51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6884469",
+	"ingredient_ids": [
+		848,
+		379,
+		226,
+		341,
+		843,
+		292,
+		233,
+		660,
+		995,
+		290
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "등갈비",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "8",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "700",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 쪽갈비는 찬물에 1시간정도 담궈서 핏물을 빼주세요",
+		"2. 양념재료를 넣고 섞어서 양념장을 만들어주세요",
+		"3. 핏물을 제거한 쪽갈비에 물, 된장을 넣고 데쳐주세요핏기가 없을정도로만 데치면되요 ",
+		"4. 데친 쪽갈비를 찬물에 헹궈주세요",
+		"5. 삶은 쪽갈비와 통마늘, 양념장을 넣고 조려주세요오래조릴 수록 맛있더라구요, 전 40-50분정도 ",
+		"6. 40-50분뒤면 맛있는 쪽갈비 완성 !  위에 깨를 약간 뿌려서 맛있게 드시면 되요 ^ ^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/24/433f9b558256ecf96926e57d8a0a8ce51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/24/61ecf46cb61a56d33a82a2227e928ddc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/24/a1be7969229fb2d6eeab9a2977cd95a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/24/6878cb6f83ca1bd197d12426ed0d76b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/24/fbd3968469355db88cabdb9ecb8465361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/24/d182a0d8d2df5019640af6b8997a40361.jpg"
+	]
+}

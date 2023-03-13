@@ -1,0 +1,57 @@
+{
+	"id": "6941977",
+	"name": "무수분 우엉조림:영양성분 뺏기지 않는 조리법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/47ed1cf99587f4b495eb4c2cd32fa50f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941977",
+	"ingredient_ids": [
+		738,
+		547,
+		575,
+		543
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "우엉2대손질후",
+			"ingre_count": "280",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "2~3큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "요리생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "",
+			"ingre_unit": "선택"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 손질한 우엉은 어슷썰기 한 후 조청을 넣는다. 우엉껍질은 깍아내지 말고 칼등이나 수세미 등으로 가볍게 긁어내고 깨끗이 씻어주세요",
+		"2. 우엉에 조청이 잘 섞이도록 하고 끓인다.",
+		"3. 양조간장과 요리생강(생강청)조림간장이 한두큰술 남을 때까지 뒤적이며 조린다. 뚜껑덮어 조리고 다 조린후에도 뚜껑열지 말고 그대로 불끄고 10여분 뜸 들이면 더욱 쫀득한 우엉조림이 돼요.",
+		"4. 다 조린 후 올리고당 한번 둘러주고 통깨를 뿌린다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/b4db843ab715a59a9de5d6b9f7926a561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/cd2c10533b18df269d41f82e8df222f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/90a1e140dfbb5a913aab1bafeaef79f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/e2c416b1fc58642f2cf46a57fdeb60f11.jpg"
+	]
+}

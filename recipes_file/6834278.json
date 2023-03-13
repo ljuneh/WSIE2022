@@ -1,0 +1,93 @@
+{
+	"id": "6834278",
+	"name": "지리탕(맑은매운탕 )",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/13/afe4f06f46aeea0aee769c1fb4ae2a9c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6834278",
+	"ingredient_ids": [
+		3,
+		27,
+		47,
+		295,
+		19,
+		55,
+		497,
+		455,
+		233
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "자연산돔",
+			"ingre_count": "4",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 오늘 남푠님이 바다낚시하러 가서 잡아온 돔 이랍니다 돔새끼라고 삐드락이라고 한다죠",
+		"2. 손질을 못하니 잡아오신분이 열심히 손질하시고 회도 뜨셨어요 맛나게 잘먹었습니다",
+		"3. 회뜨고 남은 생선은 소금간도 해노코 잡내좀 없어지라고 생강가루도 뿌려서 20분정도 놔뒀어요",
+		"4. 그리고 멸치다시마와 무를 넣고 1차육수를 만들어요",
+		"5. 멸치육수가 우러나면 멸치팩을 건지고 거기에 소금간 해놓은 생선을 투입 하고 다진마늘 한스푼정도 넣고 뼈육수를 내죠 10분정도 끓여줬어요",
+		"6. 거기에 양파 콩나물 대파를 넣고 중불 10분정도 더 끓여줬어요",
+		"7. 콩나물도 익었을때쯤 쑥갓 버섯 청양고추 넣고 살짝 더 끓여 마무리 했네요 여기서 맛이 부족한듯하여 천일염 더넣어 입맛에 맞게 끓였답니다 신랑덕에 맛있는 회와 매운탕으로 저녁을 해결했어요 ㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/13/1d7aafb4be70571bb563919fc4f5562b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/13/80951683380d721898a9d3f3fad9786b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/13/ccc7b780c966a127bc0aa8c2a92727841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/13/222c5f5349e808a36fb0edae31f371e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/13/6ff06524fdee8d6921d01c330f09dbbc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/13/5357e1a69420dc3c2697abb70458f2241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/13/ed72a2e08607faf7c5975d3c7deb57bb1.jpg"
+	]
+}

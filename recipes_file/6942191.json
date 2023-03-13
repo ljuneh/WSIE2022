@@ -1,0 +1,41 @@
+{
+	"id": "6942191",
+	"name": "야관문주 담그는법 간단해요!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/3d13c072c7eb8f4e930d55cd026d508b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942191",
+	"ingredient_ids": [
+		132
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "야관문",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "담금주or소주",
+			"ingre_count": "1",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 야관문을 흐르는 물에 가볍게 세척후 햇빛이 잘드는 곳에서 말려주세요",
+		"2. 담금주 병을 준비해주세요열탕소독이 가능한 유리병이라면 차가운물일때부터 넣어 소독해줘야 깨지지 않는점 참고 해주세요 :)",
+		"3. 비수리를 넣어 주었는데요 병의 3분의 2에서 조금 더 넘치게  담아주신 뒤 소주or담금주를 부어주세요",
+		"4. 달달한 맛을 추가하고 싶으신분들은 대추를 추가해주면 술에서 은은한 단맛이 납니다 :)*생략가능",
+		"5. 뚜껑을 닫고 이제 기다리기만 하면 끝~!! 숙성기간은 최소 3개월에서 6개월 이후 개봉하는게 좋습니다 :)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/d8f3229cd3729ebbcb24e72c1822be491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/515234476133b55ce09e5ab9070151cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/9f71f61583a03694b1060cce595248ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/4a01b43d942f794625bd037f0c5bd8d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/94ac34de858112a3495970ef376c1adb1.jpg"
+	]
+}

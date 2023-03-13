@@ -1,0 +1,57 @@
+{
+	"id": "6885787",
+	"name": "사골 국물에 끓여낸 사골 떡 만두국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/20/21ba50dc89ffc954251236efa1763cd11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6885787",
+	"ingredient_ids": [
+		545,
+		27
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "만두",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "떡국떡",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "사골육수",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 며칠전 빗어서 냉동보관해논 만두는 꺼내 녹혀두고 ~ 떡국떡은 미지근한 물에 불려주고~!!",
+		"2. 냄비에 사골국물을 넣고 바글바글 끓이다",
+		"3. 해동 시킨 만두를 먼저 넣고",
+		"4. 물에 담궈 두었던 떡을 넣고 떡이 끓어 떠오르면 마늘 소금로 간을하고 ~",
+		"5. 그릇에 담아 송송 썬 대파와 후추 톡톡~!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/20/45b6b514c95b31c757faed1b6746a28b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/20/c39e3db7b6e12d9b3bfa516a6bfa5a691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/20/d26ca84b166f29bde73c0a9311d1b5681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/20/9a67b8446b08ce04df06a3a67d79d6611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/20/debce66cb4ebe66beb5c32a662f124641.jpg"
+	]
+}

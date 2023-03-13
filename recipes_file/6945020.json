@@ -1,0 +1,82 @@
+{
+	"id": "6945020",
+	"name": "집에서 먹는 밥버거",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/fd8dc69ab089dfaf5b98cd55592444991.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945020",
+	"ingredient_ids": [
+		632,
+		953,
+		226,
+		660,
+		379,
+		543,
+		966
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "피클",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "보쌈고기",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "조미김",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 재료: 김치, 보쌈 고기, 오이피클, 조미김, 간 깨, 통깨, 버거틀",
+		"2. 고기는 밥통에 넣어 주세요",
+		"3. 밥에 설탕 1/2T, 갈아놓은 깨, 간장 1/2T, 참기름 1/2T, 작게 자른 조미김을 넣고 골고루 섞어주세요",
+		"4. 반찬 그릇에 밥을 넣고 모양을 만든 다음 꺼내서 고기와 피클을 올려 주세요  고기는 4등분 합니다 김치국물 없이 김치를 피클 위에 넣어 주세요 (저는 따로 준비했어요)",
+		"5. 모양틀 밥을 덮고 통깨를 뿌려 주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/aa94155bc45eaaf45ba9587a1d6ab8991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/c55e72fcf408bba7260e007f061cc75c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/95941a7ec92098f4c0121605220a84851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/1831127cde4dd4ddf05cc8fe2cd3172d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/3c7fc864167c3aef8895f4b01ff3bab31.jpg"
+	]
+}

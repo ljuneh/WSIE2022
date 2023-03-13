@@ -1,0 +1,56 @@
+{
+	"id": "6880528",
+	"name": "검정콩자반 윤기가 더해져 맛도 업되는 콩자반 검정콩 효능",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/05/0725aa7ddeb2e9230587133569bfae191.jpg",
+	"url": "https://www.10000recipe.com/recipe/6880528",
+	"ingredient_ids": [
+		995,
+		379,
+		226,
+		341
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "검정콩",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "9",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 콩은 물에 3시간 이상 불려 둡니다.",
+		"2. 냄비에 불린 콩과 물 2컵을 넣고 중불에서 10분 정도 콩이 완전히 익을 때까지 삶아 줍니다.",
+		"3. 분량의 양념장을 만들어요.",
+		"4. 콩이 완전히 익으면 양념장을 넣어 조려요",
+		"5. 물기가 없어질 때까지 조려줍니다.",
+		"6. 완성된 콩자반에 참깨를 솔솔 뿌려 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/a7d99317a33602291367f307cb27c8621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/f6ca9ad143fb804f94c7edf853b40d4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/1679fdf58cc94c4bef12112f9a6edae31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/fe58b7f1c4b2a2b51aeade1d933a5d1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/222e589e9f07d7df5286b25dc0d3f8951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/a372a4a4999328542c2f59f03adce4211.jpg"
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"id": "6942957",
+	"name": "전복 내장까지 졸인 전복장 조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/48d3b65c1cedf9f4dbd6e6689dc783dc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942957",
+	"ingredient_ids": [
+		86,
+		295,
+		292,
+		660,
+		290
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다용도맛간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. *전복은 솔로 닦은 후 *숟가락을 살과 껍질사이에 넣어 껍질을 분리 해주세요.",
+		"2. 내장과 이빨도 제거하고 물에 한번 헹군 후",
+		"3. 전복살 양면에 잔 칼집을 넣어 주세요",
+		"4. 청양고추와 홍고추는 썰어 주세요",
+		"5. *팬에 다용도 맛간장 4 큰술과 맛술 1 큰술을 넣고, 끓어 오르면 *전복살을 넣고 졸이다가",
+		"6. *청양고추와 홍고추를 넣고, *국물이 자작해질때까지 조려 주세요. *참기름을 살짝 두르고",
+		"7. *완성 그릇에 담고,  *깨를 뿌려 주세요.",
+		"8. *전복 내장은 찜기에 살짝 찐 후에  *팬에 다용도 맛간장 1 큰술과 맛술 1 큰술을 넣고,  *끓어 오르면 내장을 넣고 졸여 주세요. *참기름을 살짝 두르고",
+		"9. *완성 그릇에 담고, *깨를 뿌려 주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/2fcb3858946a58a1acd96d588e908c231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/ebc18da30256b1a49e9bcc5960244e061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/bd6c7efa989e8d6b0434b9b3a34c9d8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/8139fd2cd7702ca84f8b4869d3a786a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/54adf88794bea14a3b444c46795791201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/ecd157b3d85202ea0bc692a96623273a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/6a3b468751b517ef55d4d3309fc4d3491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/2ff4f20f411d46f5f02f8515a3c8d3391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/bc4175b08c6513b063d80b4ca78899ef1.jpg"
+	]
+}

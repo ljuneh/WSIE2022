@@ -1,0 +1,71 @@
+{
+	"id": "6939938",
+	"name": "알록달록 예쁜 햄치즈주먹밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/b4ea63f7a2c4468c6e91ab5d3bd3b5a51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939938",
+	"ingredient_ids": [
+		708,
+		214,
+		497,
+		660,
+		290
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "슬라이스햄",
+			"ingre_count": "8",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "김밥김",
+			"ingre_count": "1/2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 밥 1공기에 소금 1꼬집, 깨 조금, 참기름 조금 넣고 비벼주세요",
+		"2. 밥을 약간 길게 주먹밥을 만들어주세요",
+		"3. 슬라이스 햄에 말아주세요",
+		"4. 슬라이스치즈를 반으로 자른 뒤 1/4정도를 더 잘라주세요",
+		"5. 햄 위에 슬라이스치즈를 둘러주세요.",
+		"6. 그 가운데 얇게 자른 김을 둘러주면 끝!",
+		"7. 아까 잘라놓은 슬라이스치즈 얇은길이와 번갈아가며 만들었어요. 빈공간은 햄꽃과 방울토마토를 넣어서 주먹밥도시락 완성!",
+		"8. 디저트는 참외, 바나나, 오렌지를 넣고 로즈마리 올려줬어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/89a97e77c3bed4e2b02bfaf739d1083e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/666909f8c99378cba882fa258dbfc96d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/d4a16772dfd6b98302cd133a6a02bcc21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/22db36c07a921675219dc2f7acaa1baf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/8ffc5331da992d781e854669fd0238dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/7847707c2e875f916ba512b944620bd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/9664c7b9595c64d88250ae38f058f0321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/a0ec20d3484d10226b9cf28a2600ae151.jpg"
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"id": "6833606",
+	"name": "[꽈리고추 멸치볶음] 매콤한 꽈리고추 멸치볶음 만들기 -양싸",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/d7f4fd979035390e343c8020bdefe2901.jpg",
+	"url": "https://www.10000recipe.com/recipe/6833606",
+	"ingredient_ids": [
+		677,
+		293,
+		379,
+		327,
+		341,
+		290
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "잔멸치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 꽈리고추를 깨끗이 씻어서 꼭지를 따주고 포크로 구멍을 내주세요 (양념이 잘베도록)",
+		"2. 들기름 1큰술, 간장 2큰술을 섞어서",
+		"3. 구멍낸 꽈리고추에 양념을 해주세요",
+		"4. 멸치는 마른팬에 살짝 볶아주세요",
+		"5. 그리고 양념된 꽈리고추를 넣고 볶아주세요 볶다가 들기름 1큰술 넣으세요",
+		"6. 마무리로 물엿 1큰술 넣어 볶으시면 됩니다",
+		"7. 깨도 술 술 뿌려주세요 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/668a4e2fdcc428abe664b3c2e79635a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/666552a4c1708f0efbae3c77e1d34aa81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/216e41fb44c96fd56eafaa8e8569d0621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/a77f0780110c6cd1f317729b9211dd861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/41dcd83f60fb094ffb8a58bda4cf441a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/4ae809263fe78f6358e178d992db65c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/05/27cc921ccc6f55b393cd89401a8313dd1.jpg"
+	]
+}

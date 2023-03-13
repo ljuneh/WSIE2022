@@ -1,0 +1,67 @@
+{
+	"id": "6941704",
+	"name": "카레, 토마토카레, 카레라이스(고기 없이 만드는 채소카레, 한그릇요리, 간편식, 집밥)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/4705289b4003a66a912531cb632ef0d41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941704",
+	"ingredient_ids": [
+		3,
+		732,
+		504,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "감자중자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "토마토소스",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "공기"
+		}
+	],
+	"recipe": [
+		"1. 양파를 채썰어 식용유를 두른 달군팬에 약불에서 짙은 갈색으로 볶는다.",
+		"2. 작게 깍뚝썰기한 감자를 넣어준다.",
+		"3. 감자를 살짝 볶다가 토마토 소스를 넣고 신맛의 향이 살짝 날아가도록 달달 볶는다.",
+		"4. 카레 가루를 넣어주고, (고체 카레라면 카레를 넣고 바로 물을 부어준다.)",
+		"5. 카레가루가 타지 않게 약불에서 골고루 섞어준다.",
+		"6. 물을 붓고,",
+		"7. 덩어리진 가루가 있다면 끓기전에 잘 풀어준다.",
+		"8. 한 번씩 저어주면서 약불에서 감자가 뭉근하게 푹 익도록 20분간 끓인다.",
+		"9. 완성되면 밥이나 빵과 함께 먹는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/ceb08c4b331d77aa9063fa3d8b71f8761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/657cdf11448699b84eeaed419286adbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/2bb4ada87869163f59c6851278dec5771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/2050146b58d610562b857bc6411b227a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d41a0ea40d2ea8a3fe39276357177d0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/70c9efc50ab8c87c6209255188bd32651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/f72f1da54f5c10975228df5353a149101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/745d7e5e3ed8400c1100db451730f2d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d73168b902833c5979839458a88135ae1.jpg"
+	]
+}

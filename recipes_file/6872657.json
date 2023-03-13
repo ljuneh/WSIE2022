@@ -1,0 +1,42 @@
+{
+	"id": "6872657",
+	"name": "초간단 압력밥솥 삼계탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/12/3917fb486c760457ce6409aa51e4da5e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872657",
+	"ingredient_ids": [
+		99
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "삼계탕닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "2~3대",
+			"ingre_unit": "~대"
+		},
+		{
+			"ingre_name": "삼계탕한방재료",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 찹쌀은 전 그냥 하루 전에 불려 냉장고에 넣어뒀어요. 다시팩을 이용해 한방재료와 찹쌀을 넣었고, 닭속에도 찹쌀을 넣었어요. 대추가 기름을 잡아주는데, 전 대추를 준비못해 못넣었네요.^^;",
+		"2. 압력밥솥으로 딸랑딸랑 소리나고 중불로 줄여 20분정도 더 끓여요.",
+		"3. 완성입니다. 닭속의 찹쌀이 덜익을 수 있으니 충분히 익었나 보세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/12/97858205dca54692ca4bc8b0a278c8541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/12/f8065599b904dc715a0cd0c3c295a5ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/12/4a0035e1d329ddbd3f146bff8a3a87c21.jpg"
+	]
+}

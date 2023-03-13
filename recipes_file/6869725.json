@@ -1,0 +1,87 @@
+{
+	"id": "6869725",
+	"name": "밑반찬,머위대 들깨볶음.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/13/c24bbea453c02ce4c334acaade1e04441.jpg",
+	"url": "https://www.10000recipe.com/recipe/6869725",
+	"ingredient_ids": [
+		310,
+		3,
+		295,
+		233,
+		843,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "머위대",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "들깨가루듬뿍",
+			"ingre_count": "3",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "준코오일",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "집간장",
+			"ingre_count": "3",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "마른표고",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 머위대는 살짝 무르도록 삶아서, 껍질 벗기고, 두꺼운대는 반으로 갈라, 찬물에 반나절 정도 담가 머위의 쓴맛과 특유의 아린맛을 빼줍니다.",
+		"2. 준비한 머위대는 적당한 길이로 잘라 줍니다.",
+		"3. 마른표고는 물에 담가 표고버섯물을 만들어 줍니다. 나머지 야채들은 적당한 크기로 썰어 줍니다.",
+		"4. 프라이팬에 오일 두르고 머위대를 볶아 줍니다. 들기름으로 볶으면 좋은데 저는 들기름이 없어서 준코오일 한수저 두르고 볶아 주었어요.",
+		"5. 10분쯤 달달달 볶다가 양파, 청양고추 다진 마늘을 넣고 한번더 볶아 줍니다. 이때 집간장과 매실액도 넣어 줍니다.",
+		"6. 표고버섯우린물 1컵반정도 부어주고, 들깨가루를 넣고 줍니다.",
+		"7. 한번 뒤적여서 뚜껑 덮고 약불로 10분쯤 끊여 줍니다.",
+		"8. 국물이 잘박하게 졸아들면 마지막 간을 보고, 참기름 한수저 두르고 마무리 해줍니다. 고소하면서도 담백한 머위대들깨볶음 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/13/925829adc0b233bcc90d7194b29b73701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/13/e7ce56ae31d4c5ba8adc71227779f2441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/13/b1f3b1f7ebd14192ddd341d28e4f36b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/13/9e8be25b0c6ddef0c7b6a58e9e0a35fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/13/76457ed8905aa2ad64f187cdb39779e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/13/b8cdc39e09341e9cb6f0119ae54ee60a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/13/80881b5473feab28a510487f62f0659c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/13/5eb497a708d27da1c671bfb19d6980c51.jpg"
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"id": "6945332",
+	"name": "김말이 튀김",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/740d2554c79d66155e0e12960ed3f19f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945332",
+	"ingredient_ids": [
+		302,
+		379,
+		734,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "당면",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "2~3장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "차가운물",
+			"ingre_count": "90~100ml",
+			"ingre_unit": "~ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "전분(생략가능)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비하기 당면, 김, 튀김가루, 물",
+		"2. 당면은 끓는 물에 익히기  흰 심 줄기가 없으면 다 익혀진 상태",
+		"3. 체망에 걸러 물기 제거",
+		"4. 물기가 제거되면 간을 위해 간장 1 큰술 넣기 +가위로 적당한 길이로 자르기",
+		"5. 김은 적당한 크기로 썰기  (1/6 크기가 적당하다.)",
+		"6. 김 위에 당면 적당량을 덜어 말기",
+		"7. 끝 쪽에 물을 약간 발라 말아주기 (물 = 풀칠 작용)",
+		"8. 대략 10~12개 분량",
+		"9. 볼에 튀김가루, 차가운 물을 넣어 반죽 만들기",
+		"10. 바삭한 식감을 위해 얼음 / 전분 사용 (생략 가능)",
+		"11. 반죽에 김에 싼 당면을 넣어 반죽 옷 입히기  (주걱& 젓가락 사용하면 쉽게 할 수 있다.)",
+		"12. 180도까지 끓어오른 기름에 반죽 옷 입힌 김말이 넣기 반죽 온도는 반죽물을 떨어뜨렸을 때 3초 뒤에 위로 올라오면 온도 설정 완료!중간불 ",
+		"13. 속 재료는 다 익힌 재료이기 때문에 반죽 옷이 색이 나면 꺼내기 체 망에 걸러 기름 제거 (완성 하기)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/70b113361b74b52288a7d2318f7e3f0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/24a94be7fbcac5f28d253e890e5025a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/d214739ac581320307f1be21bc89d1871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/3ba8bd130febcca23de8890c0f1e86ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/2b5653074b20b6527869806e2b6ccfe41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/3d4534dfd853b52cb8fb680ad6fad8df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/14a972886344b1761de1e6822d6d46ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/d768575cae660bd88bdc09f4e48da0771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/8735cb483bad1b48464c917f079006e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/9eba49c8e84d29f9f1f2e511c9875cd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/990e1d3b6c2cf0b0ca7fd139ed8790b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/cd247bef989da82fcc8cd2f1bebcb4ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/3d6dc3c4c21683a01f43bb22a9a74d931.jpg"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"id": "6942054",
+	"name": "(아기반찬) 애호박 밥새우 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/0d18d616c4d3c51812395357be6c002d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942054",
+	"ingredient_ids": [
+		7,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥새우종이컵",
+			"ingre_count": "1/3",
+			"ingre_unit": "분량"
+		},
+		{
+			"ingre_name": "버섯야채육수",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "아기간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "다진마늘1/2개분량",
+			"ingre_count": "1/2",
+			"ingre_unit": "개 분량"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해요다진마늘 (1/2개 분량), 버섯야채육수(150ml), 애호박(1/2개), 밥새우(종이컵1/3 분량), 참기름(1t), 아기간장(0.5t)",
+		"2. 후라이팬에 참기름 (0.5t)을 두르고 다진마늘과 밥새우를 넣고 약불에 볶아요후라이팬약불",
+		"3. 애호박은 0.3cm 크기로 썬 뒤 4등분으로 잘라주고도마, 칼",
+		"4. 밥새우가 고루 볶아지면 애호박도 넣어서 같이 볶아요후라이팬약불",
+		"5. 어느정도 볶다가 버섯야채육수 (150ml)를 모두 부어 끓여요중불",
+		"6. 잠시 뚜껑을 닫고 애호박의 속까지 익혀줘요뚜껑애호박은 생각보다 익는데 시간이 걸려서 냄비에 뚜껑을 닫고 찌듯 익혀주는 방법으로 조리했습니다.",
+		"7. 뚜껑을 열어 육수가 거의 다 졸아들었으면 참기름(0.5t)과 아기간장(0.5t)를 넣고육수의 양이 많이 들어간 것이 아니니 자칫하면 너무 졸아들어 탈수도 있으니 중간에 한번씩 뚜껑열어 어느정도 졸아들었나 확인해주세요.",
+		"8. 골고루 잘 섞어주면 완성입니다.!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/f84d93bd1f73adb5a4de158a089b0dde1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/3bea80ec768deddb1e2d3b72556316b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/f65fae8b82bc69a52ee470b3cf06f6531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/85269197f4410e3aa9915100c6a29ae51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/570fdf193ff3aa916cc1a1572e5f8cc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/650faef4a976886007cd11673b76e0941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/fc51703d0c50b11d9aa0146520b08a111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/ea9a1af5ce2bd46bb580bdc9717af3931.jpg"
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"id": "2395881",
+	"name": "생대구탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/a0ab06e16ee9b41eeb4d45a018394390.jpg",
+	"url": "https://www.10000recipe.com/recipe/2395881",
+	"ingredient_ids": [
+		68,
+		3,
+		31,
+		29,
+		29,
+		497,
+		292
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "대구",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쑥갓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청고주",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 무우는 나박썰기를 해서.. 물에 먼저 끓여줍니다. 멸치 육수를 내서 해주면 더 맛있을텐데 육수없이 그냥 끓였어요",
+		"2. 무우를 넣어서 끓으면 대구를 넣고.. 옆에 주황빛 도는 것이 바로 대구알입니다.",
+		"3. 보글보글... 무우랑. 대구,알 넣고 끌이면서 거품은 걷어내 주시구요.",
+		"4. 준비한 고춧가루 넣어주고~ 마늘넣어서 끓여줍니다. 그리고 소금간으로 해주시구요. 국이나 찌개전용.. 양념을 한스푼 넣어줘도 되구요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/5fd43c8082f25cda1928766842df7ac61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/0144131879eb02621e3167e56cbc57431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/5fd8f273661d32e87016e9701f4521f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/6e5d42ce712f76fa4cdbb5cbcd2df4a01.jpg"
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"id": "6940632",
+	"name": "토마토 파스타 미트볼 가득 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/7acbdd89e0da9dff7d2f733e628f7f071.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940632",
+	"ingredient_ids": [
+		735,
+		3,
+		732
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "미트볼소스",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "토마토소스",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 양파만 채 썰어 주면 돼요",
+		"2. 동시에 조리하는 게 좋아요. 냄비에 물을 넉넉하게 붓고 소금을 넣어 스파게티 면을 삶아주고 (제품 뒷면을 참고해 삶아주세요)",
+		"3. 팬에 올리브오일을 두르고 채 썰어 놓은 양파를 달달 볶아주고 ",
+		"4. 양파가 투명해지면 스파게티 소스, 미트볼을 한데 넣어 주고",
+		"5. 여기에 우유 100ml를 붓고 양념이 너무 진한 것 같아서 우유를 넣어주었어요. 요건 취향껏 응용해 주세요. ",
+		"6. 그사이 삶아진 면을 한데 넣어 볶아주고 ",
+		"7. 취향껏 통 후춧가루 뿌려 마무리! ",
+		"8. 스피드하게 휘리릭 토마토 스파게티 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/50bcd34f3a79794f2326d40455a0522a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/277ebeb3a1bafb4e8bb369641f721edd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/50377506675c3c4b95fd2cd4d63b50201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/85eda9d47fec935ec31225ab275513371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/06a2b1a097ba49e7414f8c6b59200e011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/de24675707646bde8c7e289001144aa51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/671bf8757a82a36bdd3693c078f6462b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/50e538c59d86c36b7ab459b520e848ad1.jpg"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"id": "6942201",
+	"name": "휴게소 대표 간식, '감자버터구이' ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/de062edeeb519d9e37a1a33ba147b0d81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942201",
+	"ingredient_ids": [
+		5,
+		198,
+		497,
+		226,
+		702
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "7",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 감자를 잘 씻은 후, 물을 담은 냄비에 담아 삶는다소금을 약간 넣어주면 감자가 좀더 맛있게 삶아진다",
+		"2. 삶은 감자를 식힌 후, 껍질을 깐다",
+		"3. (옵션사항)크기를 좀더 작게 하고 싶다면, 4등분으로 자른다",
+		"4. 4-1. 팬에 버터를 올린 후, 감자를 넣고 굴린다 4-2. 설탕을 같이 넣고 굴리며 달군다 4-3. 익은 감자를 접시에 올린 후 파슬리를 뿌려준다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/6ee98708a92e2561c23bb33b68022a961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/f8dc55c9f30982d876b99f713f8205541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/a4657d358eb02a853819af993121fcc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/318986cc68cc4904e07848833caf71491.jpg"
+	]
+}

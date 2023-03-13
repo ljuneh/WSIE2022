@@ -1,0 +1,54 @@
+{
+	"id": "6884926",
+	"name": "무우나물 부서지지않게 볶아요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/16/8888264930512b1936195eb7967e9f651.jpg",
+	"url": "https://www.10000recipe.com/recipe/6884926",
+	"ingredient_ids": [
+		545,
+		327,
+		233,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "무우",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 무우는 채썰어 준비~",
+		"2. 채썬 무우에 천일염 조금 뿌려 5~10분 정도 두었다가 물기를 짜서 볶으면 부서지지 않아요",
+		"3. 팬에 들기름 두르고 절여둔 무우 넣고 볶다가 뚜껑 덮고 무우가 살짝 익으면",
+		"4. 마늘 넣고 마무리~ 천일염에 미리 절여서 따로 간을 하지 않았어요",
+		"5. 그릇에 담고 송송 썬 파 얹어 시원하게 냉장보관해 먹어도 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/16/c259b4ee7daf06a88f5858388ec01e2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/16/12f1710071e9ea55d3da3abe3522a0c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/16/9ec03576d63a626e60623dd2eea600b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/16/720ee9bb1d66402d4a494821452554b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/16/73e0065773c800193c6dbdcf6ca6994e1.jpg"
+	]
+}

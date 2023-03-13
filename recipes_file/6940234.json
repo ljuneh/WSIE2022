@@ -1,0 +1,75 @@
+{
+	"id": "6940234",
+	"name": "소고기 김치덮밥 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/b1de2e586ff2d4991903a741e1c41e7f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940234",
+	"ingredient_ids": [
+		953,
+		543,
+		379,
+		226,
+		27,
+		29,
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다진쇠고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 다진 쇠고기에 설탕, 간장, 참기름, 다진 마늘, 다진 파를 넣어 10분정도 재워둡니다.다진 쇠고기100g, 설탕1작은술, 마늘3톨, 대파1/4대, 간장1큰술, 참기름1작은술",
+		"2. 달군 팬에 재워둔 쇠고기를 볶아줍니다.팬중불",
+		"3. 쇠고기가 반쯤 익으면 다진 김치를 넣어 볶아줍니다.김치 2줌",
+		"4. 볶은 김치의 물기가 없어지면 따뜻한 밥 위에 얹어준 후 통깨를 뿌려줍니다.통깨 약간"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/67120e0dc695ea256fb93bd67ba064251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/9e6451b57e7c59571d0a4794f742c0811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/a3d6f32158949cf0b2ef4795781ede241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/e0e28a515ec5ce7751ace390057ee4951.jpg"
+	]
+}

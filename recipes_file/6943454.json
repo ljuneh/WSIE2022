@@ -1,0 +1,73 @@
+{
+	"id": "6943454",
+	"name": "비건 흑임자 머핀 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/d815b8638a732bbff0dc2e9935881d131.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943454",
+	"ingredient_ids": [
+		874,
+		940,
+		226,
+		231,
+		575
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "통밀가루",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드파우더",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "흑임자파우더",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹소다",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "가당두유",
+			"ingre_count": "160",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식물성오일",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 오일 + 식초 + 두유 + 올리고당 + 설탕을 넣고 잘 섞어 주세요",
+		"2. 통밀 + 흑임자 + 베이킹소다 + 아몬드파우더를 체 쳐넣고 섞어줍니다",
+		"3. 잘 섞인 반죽을 유산지를 깐 머핀틀에 부워 주세요",
+		"4. 175도 예열된 오븐에서 25-30분간 구워 완성합니다.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/8ddb777a1d8109b5749237034dd010ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/fde2d7562aa4e4404e1457a8d5c028081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/fee908dead153b5a981e4a0470daef2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/594458b4ab52f8b87f880817302a2be11.jpg"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"id": "1787715",
+	"name": "굴매생이국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/dfb9d871801add183b9067379914c6a5.jpg",
+	"url": "https://www.10000recipe.com/recipe/1787715",
+	"ingredient_ids": [
+		660,
+		349,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "매생이1덩이(대략300g정도)",
+			"ingre_count": "1덩이(대략 300g 정도)",
+			"ingre_unit": "덩이(대략 g 정도)"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 넉넉한 물을 담은 볼에 매생이를 넣고 흔들어 씻어 주세요. 모래와 이물질 등을 골라 내면서 씻어 주세요.",
+		"2. 씻은 매생이를 채반에 건쳐 가볍게 물기를 짜 주세요.",
+		"3. 굴은 소금물에 가볍게 씻어서 물기를 빼고 준비해 주세요.",
+		"4. 냄비에 참기름을 두르고 굴을 넣고 볶아 주세요. 참기름으로 굴을 볶으면 바닷비린내가 나지 않습니다. 굴이 거의 익을 때까지만 볶아 주시면 됩니다.",
+		"5. 냄비에 생수를 넣고 끓여 주세요. 육수 필요 없습니다. 그냥 생수만 넣어도 시원한 매생이 국이 됩니다.",
+		"6. 끓기 시작하면 매생이를 넣고 국간장을 넣고 끓여 주세요. 꼭 국간장으로 간을 해야 맛이 납니다.",
+		"7. 거품을 걷어 내면서 마지막 소금으로 마무리 간을 해 주세요. 후루룩 끓으면 불을 꺼 주시는 것 잊지 마세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/e48ae1c65039f5a42cc5d075eca07b0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/95d86fbce9191661f46447a1ae4d751a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/500832b5a1200caea66adab03e5795c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/ba98acb7416e3ff384ba35e0032d34e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/1070587ea3215993d856f0ddbac264a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/b88fe942b718bdd2c866bbe76ef70194.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/00e18766f156640eb243e6496cf668151.jpg"
+	]
+}

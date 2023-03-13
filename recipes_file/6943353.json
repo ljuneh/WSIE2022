@@ -1,0 +1,53 @@
+{
+	"id": "6943353",
+	"name": "다시마 멸치육수 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/2c95d1d33873d108793ef4b53e30409c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943353",
+	"ingredient_ids": [
+		320,
+		90,
+		995
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "10-15마리",
+			"ingre_unit": "-마리"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "5-6장",
+			"ingre_unit": "-장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.5-2L",
+			"ingre_unit": ".-L"
+		},
+		{
+			"ingre_name": "물통",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다시팩중사이즈는1개or소사이즈",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 멸치를 다시팩에 넣어줍니다",
+		"2. 물통에 멸치를 넣어준 다시팩과 다시마를 넣습니다.",
+		"3. 물을 부어줍니다.",
+		"4. 24시간동안 우리면 끝",
+		"5. 그 후 냉장보관해서 사용해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/e544c0aca9d9aa339c5c916759496c0e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/71b3d4b01a8f2fea85581afe7120d08b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/12586fc355ed7767a3639ee979264b901.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/21de2d77c1bebad04ce594f33d8234271.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/7337c639c1e9e607e328894ef31fac111.png"
+	]
+}

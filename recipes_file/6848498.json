@@ -1,0 +1,97 @@
+{
+	"id": "6848498",
+	"name": "모듬 야채피클 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/05/6ef959df9f0a7307afd3c981e1ed68171.jpg",
+	"url": "https://www.10000recipe.com/recipe/6848498",
+	"ingredient_ids": [
+		8,
+		45,
+		9,
+		3,
+		995,
+		538,
+		575,
+		508
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콜라비",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노랑파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "현미식초",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "볶은소금",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "피클링스파이스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마른홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 오이는 굵은소금으로 박박 문질러 씻기. 돌기는 살짝 제거하기.",
+		"2. 야채를 깨끗이 씻어서 물기 제거 해요. 오이, 콜라비, 브로콜리 기둥만 먼저 썰어 소금에 살짝 절이기. (브로콜리 기둥 버리지 마셔요.)",
+		"3. 조금 단단한 재료 절이기 과정. 30분~1시간 절여서 씻기. 나머지 야채도 한 입 크기로 썰기 브로콜리는 살짝 데치기 (전자렌지 2분 소금간)전자레인지",
+		"4. 피클링 스파이스는 후추,월계수잎,다양한 허브종류가 들어가 있어요. (대형마트 수입코너) 필수 아이템",
+		"5. 소스물 만들기. 식초만 빼고 끓여서 한 소뜸 하면 마지막 식초 넣고 잠깐 끓이다 불 끄기. (식초는 휘발성이 있어서 많이 끓이면 신맛이 없어짐.)",
+		"6. 체망에 받쳐 뜨거울 때 단단한 야채에 확 붓기. 부은 소스물은 따로 한 번 끓여서 식혀요. 모든 야채를 섞은 볼에 붓기. 부은 소스물은 또 한 번 끓여서 식힘 밀폐용기에 야채를 골고루 넣고 식힌 소스물 넣고 냉장고로 소스물 반복해서 부으면 무르지 않고 더 오래 저장이 되어요. 이틀 후면 바로 먹을 수 있어요.",
+		"7. 야채를 골고루 다 사용했더니 밀폐용기 3개가 나오네요. 제가, 워낙 피클을 좋아해서 한 동안 잘 먹겠네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/08/0e6fbf9dc5e0e4113e2a1dc26f19629c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/06/0e8738714cd742bb2b1db6f9282735941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/08/07f48d63f33b9e861913df7aef5bee8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/06/c11bd37dd207e826b9ca4b898cb1351d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/08/69ff60d7f83312f2b68ab3d9e16bb4031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/08/f6b05c5bee6c1edb55365f6566a55c991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/08/386e7e1de9aee03babcce7f3edb6e4991.jpg"
+	]
+}

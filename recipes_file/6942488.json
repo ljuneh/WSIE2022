@@ -1,0 +1,108 @@
+{
+	"id": "6942488",
+	"name": "감자볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/7304fd6223f496620a6e12597207a0a71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942488",
+	"ingredient_ids": [
+		582,
+		9,
+		3,
+		219,
+		226,
+		231,
+		379
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "알감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료: 알감자 3개, 당근, 양파, 밥, 달걀 3개, 김가루, 통깨, 올리브유 1T 양념: 설탕 1T, 식초 1T(선택), 간장 2T, 고추가루 1/2T 다진고추, 다진양파",
+		"2. 당근, 양파를 채썰어 주세요",
+		"3. 감자를 채썰어 주세요",
+		"4. 길이로 서너번 잘라주세요",
+		"5. 팬에 식용유를 두르고 감자, 당근을 볶아주세요 뒤집개로 윗면을 눌러 주면서 위아래 위치를 바꿔가면서 넓게 펴서 볶아주세요",
+		"6. 나머지 양파를 넣고 식용유를 더 넣고 볶아주세요",
+		"7. 감자볶음을 한쪽으로 밀고 팬에 식용유를 두른 다음 달걀을 넣고 중불에 익혀주세",
+		"8. 달걀을 듬성듬성 쪼개면서 익혀주세요",
+		"9. 90프로 정도 익혀주세요",
+		"10. 불을 끄고 밥을 넣어주세요",
+		"11. 올리브유(또는 참기름)와 통깨를 뿌리고 골고루 섞어주세요",
+		"12. 쫀득쫀득 맛나요",
+		"13. 조미김을 잘게 잘라 넣고 간장 양념장을 곁들여 먹어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a7a590f5068ffadf36cbd0f70f896d981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/356e003fb60489436e62b2256aa7129e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/84805aea372fbf44c6c4a07a2a5eefaa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/46eb7c481749a1e3d59276ee70c314b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/05cb7a0522bfd434f16e16e036a274841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/644e988a2e134f052fe9f56b36a713fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/7872b23beeb3ba8f2a36b090e25801b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/f24e37226097bc4e4f869251fd52a1191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/7fbaf5601a010edeacfba549e30352841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/795e7c6f315b33fb722b1ac64754cb441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/7ca90d6928f27003976eb27df5978f581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/6ed2a0194f720f74bac16a39c2b23d3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/f6a0732987d1de5f9c50758a7f07fa2b1.jpg"
+	]
+}

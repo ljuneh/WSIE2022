@@ -1,0 +1,80 @@
+{
+	"id": "6941042",
+	"name": "파무침, 파절이를 만들어 고기를 먹읍시다!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/e0199c94d57a3342599375518df437531.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941042",
+	"ingredient_ids": [
+		291,
+		939,
+		224,
+		226,
+		231,
+		938,
+		660,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "파채두줌",
+			"ingre_count": "65",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		}
+	],
+	"recipe": [
+		"1. 파채는 뭉친 부분을 가볍게 흔들어 풀어주고 찬물에 10분간 담가 아린맛과 매운맛을 빼주세요.",
+		"2. 주무르거나 비비면 점액이 나오니 곱게 흔들어 씻은 후 체에 밭쳐 물기를 빼줍니다~",
+		"3. 분량의 재료를 섞어 양념장을 만들어 주고 단맛과 신맛은 입맛에 맞게 조절하세요. 파채무침에는 맛소금을 넣어야 고깃집 맛을 따라잡을 수 있답니다~",
+		"4. 물기 뺀 파채를 먹기 좋게 가위로 숭덩숭덩 자른 다음 젓가락으로 살살 버무리면 완성입니다♡",
+		"5. 김치에 싸먹어도 상추랑 먹어도 맛있는 삼겹살이지만~ 파무침 없으면 왠지 섭섭하잖아요~",
+		"6. 남은 파무침은 잘게 송송 잘라 고깃기름에 밥 볶아 먹으면 꿀맛이니~꼭 한번 만들어 보세요 :D"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/5e820bb88f9e1db3fc45dcd1d77faf181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/c909464abef0c46837a433993abffcaa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/54f494183e542dc11306e5c349b158031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/c47f3df267a111bafc18e7ae495a47d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/c49df3f609104e8ec7c5c5c211211a791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/c2ca7b59715ddcdffb626b16cd16ca341.jpg"
+	]
+}

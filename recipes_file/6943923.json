@@ -1,0 +1,83 @@
+{
+	"id": "6943923",
+	"name": "간단한 루꼴라 페스토 만들기(레시피, 만드는 법, 요리, 원슐랭, 소스, 자취)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/a737768c7b49aedb2b6c1b80846155131.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943923",
+	"ingredient_ids": [
+		256,
+		29,
+		574,
+		497,
+		205,
+		250
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "루꼴라",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "구운견과류",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파마산치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 루꼴라를 씻어서 준비해줍니다.",
+		"2. 루꼴라를 썰어주세요",
+		"3. 구운 견과류를 준비합니다.",
+		"4. 견과류를 으깨주세요",
+		"5. 파마산치즈를 준비합니다.",
+		"6. 잘게 썰어주세요.",
+		"7. 마늘을 3알 준비하고 뽀개주세요",
+		"8. 이제 믹서안에 모두 넣고 소금, 후추를 약간씩 뿌려줍니다.",
+		"9. 올리브유를 1/4정도 차게 부워주세요",
+		"10. 레몬즙을 1큰술 넣어주세요",
+		"11. 갈아주세요 곱게 갈리면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/59b11e74d79786b490a832d2ca8838b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/92000e2ddf03cc77942336473997ff261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/8fbe6a6929805a5f8c5910670d302e721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/748acd6b540adfd0c08020e9f8ecb7471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/aa058ec08e5196d5ae4dacbed14d1c481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/9230810412fcb876f3a1545311ece1661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/0c549f41791819a6abc447fa2a51c5851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/0b7caefff3f6ab8b19ad46ab5158e54c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/0e2d0227d6ae737c1bd54e56fb3881d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/42c4e9a598755a02c43bcfc4f5379c481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/98f4e62d34147168d6a02d719f83d3c71.jpg"
+	]
+}

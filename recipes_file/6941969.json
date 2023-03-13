@@ -1,0 +1,65 @@
+{
+	"id": "6941969",
+	"name": "반찬의 정석, 두툼한 벽돌 계란말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/e7d13eebb99797d3f81d1bd82e8485b71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941969",
+	"ingredient_ids": [
+		295,
+		497,
+		292
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "8",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다.",
+		"2. 청양고추와 홍고추는 반으로 갈라 씨를 빼고 잘게 다져주세요.",
+		"3. 계란은 깨트려서 흰자와...",
+		"4. 노른자로 분리해 놓습니다.",
+		"5. 분리한 흰자에 맛술 1큰술과",
+		"6. 소금 1/2작은술을 넣고 골고루 섞어 주세요.",
+		"7. 다져 놓은 청 홍고추도 넣어주세요.",
+		"8. 1. 달궈진 팬에 식용유를 둘러 키친타올로 닦아준 후  2. 약불에서 계란 흰자물의 1/3을 부어주세요. 3번에 걸쳐서 말아 줄거예요. 3. 계란 윗면이 하얗게 60~70%정도 익었을때 돌돌 말아주세요.",
+		"9. 1차 말은 계란은 한쪽에 두고  나머지 계란물 1/3을 부어 한쪽에 둔 계란을 감싸듯 말아주세요. 나머지 1/3도 같은 방법으로 말아주세요.",
+		"10. 3번에 걸쳐 말은 계란 흰자말이에 노른자도 1/2씩 나누어 두번에 걸쳐 말아주세요.",
+		"11. 두툼한게 말은 벽돌 계란은 그냥 혹은 김밥용발에 감싸서 한 김을 식힌 후 1cm두께로 잘라 접시에 담아서 완성합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/53c58ed63b31572ff3098a1761c2ab401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/a3df8e2a3022c8ebbab7b2558713ff0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/1f541cb19fd1b06c3fa3ee65ad9c31bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/1aa6ad4f5bfea0c93da8d406384785291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/b4dd007d856d034f93a411288a4b722a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/714ae358ef78fc8aa8deb38fa9166c8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/aec89907de5ec8e97b9c6f04744ec9a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/52ec73b0f62be7c7cda83c4ab990d3131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/32126582481bc604d94059cf066142f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/c10ed98d08def6498f9b7c5d94c792d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/83380b1b0be72d5d48a243f1b22b21ef1.jpg"
+	]
+}

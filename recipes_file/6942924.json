@@ -1,0 +1,87 @@
+{
+	"id": "6942924",
+	"name": "밥도둑 찌개요리_매콤 참치김치찌개 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/fcdfcc312a1eaaf4618460db37424b4e1.png",
+	"url": "https://www.10000recipe.com/recipe/6942924",
+	"ingredient_ids": [
+		953,
+		3,
+		659,
+		295,
+		27,
+		233,
+		504,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "3~4장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "쌀뜨물(2~3번째물)",
+			"ingre_count": "1000",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 재료준비를 합니다. - 김치는 한 입 크기로 적당히 잘라 준비합니다. - 양파는 길쭉하게 잘라 준비합니다. - 참치는 참치기름을 빼고 준비합니다. - 대파는 어슷썰기해서 준비합니다. - 청양고추는 총총 썰어 준비합니다.",
+		"2. 냄비에 식용유를 두르고 중불에서 김치를 볶아주세요.",
+		"3. 김치가 잘 볶아졌으면 쌀뜨물을 김치가 잠길 정도로 부어주시고 센불에서 김치를 익혀줍니다.",
+		"4. 다진 마늘, 참치, 양파를 넣고 잘 섞어주세요.",
+		"5. 쌀뜨물을 재료가 잠길 정도로 부어주시고 참치와 김치가 어우러질 정도로 3~5분 센불에서 더 끓여주세요.",
+		"6. 끓어오르는 국물의 간을 보고 진간장 1스푼을 넣어 주세요.부족한 간은 소금을 추가해 조절해줍니다.",
+		"7. 마지막으로 청양고추와 대파를 넣고 중약불로 3~5분정도 맛의 깊이를 더해주면 매콤한 참치김치찌개가 완성됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/2cb08cd783a8bf93dbd4c5fba9c26f871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/2a10f083bfb290b7a3c17e1cc8929df51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/20d44b1e5f906164e7264fd2ce3451f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/04576f09f6a01c99d5f7e01531ac7e321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/1b54ab11e8b2a00505f46b4bc3769cdb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/07ccfdfb6e34db86e341575e7d46aa661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/13f022a047ceda95dad2c9795895c3941.jpg"
+	]
+}

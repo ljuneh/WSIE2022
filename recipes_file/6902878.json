@@ -1,0 +1,65 @@
+{
+	"id": "6902878",
+	"name": "쉽고빠른 고구마 맛탕, 고구마 빠스, 딱딱하지 않는 맛탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/22/d649da46fe3cd16f2cd60e78f25009171.jpg",
+	"url": "https://www.10000recipe.com/recipe/6902878",
+	"ingredient_ids": [
+		4,
+		504,
+		226,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "3~4개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "튀길양"
+		},
+		{
+			"ingre_name": "깨(검은깨)",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리고당4큰술(버터시럽있으면대체ok!)",
+			"ingre_count": "4큰술(버터시럽있으면대체ok!)",
+			"ingre_unit": "큰술(버터시럽있으면대체ok!)"
+		}
+	],
+	"recipe": [
+		"1. 껍질을 벗긴 고구마는 각을 많이 주어 썬다음 물에 담구어 전분을 뺍니다.",
+		"2. 전분을 뺀 고구마의  물기를 제거하고  랩을 씌워 전자레인지에  2~3분 돌려줍니다.전자레인지바로 기름에서 튀기면 기름온도 조절을 잘못할 경우 익기전에 탈 수 있어요.",
+		"3. 170도의 기름에서  튀깁니다.나무젓가락을 기름에 넣고 끝에 기포가 보이면 튀김시작.",
+		"4. 겉이 황금색처럼  노릇해지면 기름에서 꺼내 키친타올에 올려 여분의 기름기를  제거해요.",
+		"5. 물 반컵+설탕 반컵을 넣고 절대!! 젓지말고 설탕이 녹을때까지 두세요.중약불",
+		"6. 절대!젓지 않은 소스가 설탕이 녹고 끓으면 올리고당 (또는 물엿, 또는 버터시럽) 을 넣고 잠시 저어가며 끓인 후 바로 불을 끕니다.완성 후 불을 끕니다. 불을 꺼도 바글바글합니다.",
+		"7. 불을 꺼도 바글바글한 소스에 튀겨놓은 고구마를 화라락~넣고 버무려주면 굳지않고 아주 맛있는 고구마맛탕!! 완성입니다!!",
+		"8. 그릇에 담고 깨나 혹은 검은깨를 솔솔뿌려 냅니다. 맛있게 드세요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/2dff83fb4076d08f1d7dcd0b9627419c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/a7449d729dec0bf35180789f101d50d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/3f97d8abcc1258874e23a63b9057d6d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/ac329281c8ffbe40873caa496f3091fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/8867446285e27ee3f8e48741b6e8559b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/d971c3c833f7ced7ca13835a7176043f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/0c91566a64467151c25193f67667e5ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/26/d13344b1bda87a675b528ece6a51afb61.jpg"
+	]
+}

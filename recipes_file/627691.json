@@ -1,0 +1,52 @@
+{
+	"id": "627691",
+	"name": "오늘은 계란먹는 날~ 포프리계란으로 난개발2",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/28/dc708ccfbf7103ca334d0d29cf1a0a71.jpg",
+	"url": "https://www.10000recipe.com/recipe/627691",
+	"ingredient_ids": [
+		406
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자큰것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "허브소금1작은술",
+			"ingre_count": "1",
+			"ingre_unit": "작은 술"
+		},
+		{
+			"ingre_name": "치즈약간",
+			"ingre_count": "",
+			"ingre_unit": "아무거나"
+		}
+	],
+	"recipe": [
+		"1. 감자는 껍질을 벗겨 그릇에 물을 조금 담고,  감자를 통째로 넣어 뚜껑을 닫고  전자렌지에서 8~10분간 돌려 익혀놓아요.  전자렌지종류에 따라 시간은 가감하시구요...전자레인지",
+		"2. 베이컨은 전자렌지에서 살짝 돌려 기름을 뺀 후 키친타올에 꼭 짜준 후 잘게 자른다.",
+		"3. 익은 감자를 약간 도톰하게 슬라이스해서  식용유를 살짝 두르고 앞뒤로 노릇하게 익혀둡니다... 감자가 싱거우니까 허브소금을 0.5작은술 정도 솔솔 뿌려주었어요...",
+		"4. 노릇하게 익은 감자 위에 계란 3개를 터트려주는겁니다.... 계란이 아주 신선해보이지요? 신선한 계란은 이렇게 흰자가 노른자 주위를 탄탄하게 감싸고 있어요.",
+		"5. 젓가락으로 노른자를 터트려...  후라이팬 전체에 골고루 계란물이 묻도록 해주세요. 계란은 금방 타기시작하니..  불을 확 줄이고 약한 불에서 뚜껑을 닫고 익혀주셔야 윗면도 꼬독하니 익어요.",
+		"6. 계란을 넙대대하게 펴준 다음 베이컨을 올리고 퐁듀치즈(또는 체다치즈나 피자치즈를) 듬성듬성 올리고 허브소금도 살살 뿌려준 후, 뚜껑을 닫고 약한 불에서 익히다가 마지막에는 뚜껑을 열어 드라이하게 수분을 휘발시켜주면 끝~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/29/b2f19d0dd23fe3b836785056e2d8049b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/29/d1aa49dae966e029d44e36256ea25ab11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/29/9f88fa76931146f6c7c0db5a9ac9de591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/29/4527c08afc9813be01d91df3d251d7221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/29/8d814772a5bee152d00fdd61854c512c1.jpg"
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "6861869",
+	"name": "새우요리/감바스 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/29/27d84b409fb16a8d474ba0cc6605349e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6861869",
+	"ingredient_ids": [
+		386,
+		79,
+		469,
+		535
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "바게트",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "15",
+			"ingre_unit": "미"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "9",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "허브솔트",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "페페로치니",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 우선 새우를 준비해요 ㅎㅎ 새우 손질하는 법을 알려드릴게요 ㅎ",
+		"2. 새우 머리부터시작으로 2번째 마디에 이쑤시개를 넣어 사진 보이는것 처럼 까만색 줄을 빼주세요 ㅎ 새우 내장이에요~",
+		"3. 10미 넘는걸 빼니 이정도 나오네요 ㅎ 그리고 껍질을 까면 배쪽에도 내장이 있으니 동일한 방법으로 빼내어 주면됩니다 ㅎㅎ",
+		"4. 새우 꼬리 쪽 보면 날카로운게 있어요 이 부분을 가위를 이용해 잘라내어 주세요 손질한 새우는 깨끗이 씻은 후",
+		"5. 키친타올 위에 올려 놓고 허브솔트를 뿌려줍니다. 키친타올 꼭 깔으셔야해요. 새우의 물기가 제거 되야 나중에 기름에 넣을때 기름이 안튀어요!                   ",
+		"6. 마늘은 전부 편으로 썰어서 준비 해 주세요.",
+		"7. 감바스는 주물팬을 이용해 만드는데, 주물팬이 없어서 그냥 집에있는 일반팬을 이용해 만들었어요 ㅎㅎ 카놀라유 1컵 넣고 가열해 주세요",
+		"8. 가열된 기름에 편으로 썰어 놨던 마늘을 넣고 튀겨 줍니다 ㅎ",
+		"9. 마늘이 노릇해 지기 시작하면, 후추 넣고, 페페로치노를 넣어주세요 (저는 베트남고추로 대체했어요)",
+		"10. 이어서 허브솔트로 밑간 해두었던 새우를 넣고",
+		"11. 새우가 완전히 익으면 불에서 내려 주세요",
+		"12. 바게트빵이랑 먹으면 참 맛있는 감바스 완성했어요!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/30/99871469270bfdf16eb0270bda380c611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/30/cc3928df1f594d735a4d6f89afb7b96a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/30/7ed99db49305263a05546fe02ebfa2961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/30/4b32ba3212b82b41076739ac716467a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/30/a4d849bf1ab49596ceedadd9f91dc42d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/30/e3b3010c07cbebfed749e6f43d348e9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/30/91fff339ba7bbc35a4cc30c8d7953aa81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/30/90b8f76d58cb96682a856fb0d9867e2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/30/d1b55fda9d2c9e55c4968e40810395441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/30/1684e5078ee2fdb879269c99cb309bfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/30/acb62ea66bbb053d8df0d721b19c2cb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/30/d148e680f777615b46a940401f6078341.jpg"
+	]
+}

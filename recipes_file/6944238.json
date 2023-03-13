@@ -1,0 +1,73 @@
+{
+	"id": "6944238",
+	"name": "된장 고구마줄기 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/6233acd8bb15aed90370614ae1e8c5a21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944238",
+	"ingredient_ids": [
+		801,
+		282,
+		848,
+		327,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마줄기",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "1",
+			"ingre_unit": "소주컵"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "팍팍"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비",
+		"2. 고구마줄기는 깨끗하게 씻은 다음,",
+		"3. 끓는 물에 굵은소금 1/2숟갈을 풀어 약 5분간 삶아 줍니다. (저는 껍질이 벗겨진걸 구입했어요~ )",
+		"4. 삶아지면 찬물에 헹궈서 물기를 제거해 주세요.",
+		"5. 먹기 좋은 크기로 썰어 준 다음,",
+		"6. 간마늘 1/2숟갈, 된장 1/3숟갈, 들기름 2숟갈을 넣고",
+		"7. 조물조물 무칩니다.",
+		"8. 이제 달달 볶아 볼까요~ ⑤ 달군팬에 고구마줄기를 넣고 볶다가, 멸치육수 1소주컵을 부어 좀 더 부드럽게 볶아 줍니다. (물도 OK!!)",
+		"9. 부드러워지면 통깨를 팍팍~ 넣고, 섞어주면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/298e8f379926aebe23978348ecd9adfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/a5bf9669a213f3b76059eb7482b52fa31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/c9bbd3c2202095ab707508fd900f28fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/815d6898d2fa38e0af7f8ed7cf99e57a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/c998ce2b3ee72f244d4e74511f89704e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/acfb4f8dd68f8635b96672dc4b11366f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/74953a611dc1a766f46554c8b2d46efd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/81c8364582e7e0ed1223a2011792224e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/d9081895fb775d2ab0be8468c79219d11.jpg"
+	]
+}

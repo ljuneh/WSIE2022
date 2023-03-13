@@ -1,0 +1,79 @@
+{
+	"id": "6945174",
+	"name": "푸짐하고 맛있는 샌드위치만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/c6d79e1e287a52e31cc4d8bdffc2a7bd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945174",
+	"ingredient_ids": [
+		51,
+		42,
+		228,
+		227,
+		497,
+		406
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "씨겨자",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 토마토 2개를 1~1.5cm 두께로 통썰기 해줍니다.",
+		"2. 양상추는 큰 잎으로 4장을 준비해 씻어 물기를 털어 줍니다.",
+		"3. 씨겨자 ( 홀그레인머스터드) 2큰술, 마요네즈 2큰술, 꿀 1/2큰술, 소금약간 으로 소스를 만들어 줍니다.                    ",
+		"4. 계란 2개를 후라이 해줍니다. 반숙, 완숙 취향대로 하시면 되겠습니다. ",
+		"5. 베이컨 130g 한팩을 달군팬에 기름없이 노릇하니 굽고 키친타올에 올려 기름을 빼 줍니다.                   ",
+		"6. 샌드위치를 먹을때 속 내용물을 흘리지않게 랩으로 단단하게 말아 주어야 합니다. 샌드위치를 단단하게 돌~ 말아 줄 랩을 길게 풀어 준 후 식빵을 올리고 준비한 소스를 발라 줍니다. ",
+		"7. 토마토 -> 베이컨 반 -> 계란후라이 한개 -> 양상추 2장 순으로 올립니다.                       ",
+		"8. 소스 바른 식빵으로 덮어 줍니다.                   ",
+		"9. 위, 아래, 좌우, 샌드위치 속재료가 빠져 나오지 못하게 랩으로 단단하게 돌돌 말아 줍니다. 그리고 반으로 잘라서 드세요.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/f6dd70dbfeefa17db4f94831a59fe3c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/71b4f70cc28547d6263498f450cac6391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/4915271e4cfefafb9fb77fe3b267dbc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/0f843b18e7aea93722f0bead6551d0a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/e2e13b92052d4d26b90068a8dd5e223a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/bd9def22f2ad5d7318a750f2dc8526821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/53e3145b55654cba7a289067961d47381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/ad974f50c3c9bde2b391d64293e893551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/01f30bd8696cb8363e6bebb8e031065e1.jpg"
+	]
+}

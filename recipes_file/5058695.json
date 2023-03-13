@@ -1,0 +1,71 @@
+{
+	"id": "5058695",
+	"name": "알감자조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/55e6b1ab15ca4807bc6b630add6919bb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/5058695",
+	"ingredient_ids": [
+		582,
+		90,
+		543,
+		547,
+		575,
+		738,
+		292,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "알감자",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 알감자를 담은 후 알감자가 잠길 정도로 물을 붓고 삶아줍니다.",
+		"2. 분량의 조림장 재료 양조간장, 올리고당, 조청, 맛술, 물을 냄비에 붓고 다시마 2조각을 넣어줍니다.  올리고당이나 조청 대신에 물엿을 사용해도 되겠지요.",
+		"3. 조림장에 삶은 알감자를 넣고 조려줍니다. 조림장이 한소끔 끓으면 다시마는 건져 내고 불을 줄여서 조려줍니다.",
+		"4. 간이 골고루 배도록 중간중간 조림장을 끼얹어주면서 조려줍니다. 조림장 국물이 자작자작하게 졸아들면 불에서 내려요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/322da5944801f05bd6103a5ef8deffcc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/8b04b8395c0862631b4fe7231a4431c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/032082b77013f19a8005562239664d6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/aa784fa250e3730223746ef14bedc3661.jpg"
+	]
+}

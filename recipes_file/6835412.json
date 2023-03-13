@@ -1,0 +1,60 @@
+{
+	"id": "6835412",
+	"name": "얼갈이김치 담그는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/01/cbab93d56060c3e31220b8997c997c541.jpg",
+	"url": "https://www.10000recipe.com/recipe/6835412",
+	"ingredient_ids": [
+		30,
+		3,
+		497,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "얼갈이",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "찹쌉풀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 소금으로 살짝 절인 얼갈이를 물에 흔들 듯이 씻어서 물기를 빼주세요. 너무 힘줘서 씻으면 풋내가 날수 있으니 흔들 듯이 씻어 주세요. 또 물기를 쫙 빼주어야 김치가 쓰지 않고 맛있답니다. 여기에 준비한 양념들을 넣어주세요.",
+		"2. 맛있게 조물조물 잘 버무려 주세요. 살살 치대 듯이 해주셔야 맛있어요.",
+		"3. 아삭아삭 금방 담아서 먹어도 맛있는 얼갈이김치에요. 뜨거운 밥에 먹으면 짱 맛나요. 잘 익으면 라면이랑 찰떡 궁합이랍니다. 어려운 김치말고 요렇게 쉽게 담을 수 있는 김치부터 담가보시면 김치 담그기 어렵지 않으실거에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/05/cefc136c2bd43583d38b1750455bcec61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/05/a8151acb2856d2a17ebe13ef22bbe7a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/05/e2d9c3905e3057c3c0ad6e43fd36acb41.jpg"
+	]
+}

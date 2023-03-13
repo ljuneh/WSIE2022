@@ -1,0 +1,58 @@
+{
+	"id": "6844595",
+	"name": "양지머리 장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/13/241edada01ec70c0417d025e7343576e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6844595",
+	"ingredient_ids": [
+		379,
+		29,
+		226,
+		938,
+		846
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "양지머리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 양지머리, 간장, 마늘, 설탕, 매실청, 청주",
+		"2. 물과 고기를 넣고 끓이다가 간장을 넣고, 설탕 청주설탕을 넣고 끓입니다.",
+		"3. 완성된 장조림입니다.",
+		"4. 고기는 찟어서 놓습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/13/d41fbdb4e1e6b0beaa7624011e3241021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/13/64bf3c8760b1c894cd0fb2f96b668cb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/13/e617517ccf4fe3e973554d3d64098fa71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/13/1e000776c69fae78d0d77bc18513e2671.jpg"
+	]
+}

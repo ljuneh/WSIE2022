@@ -1,0 +1,36 @@
+{
+	"id": "6844602",
+	"name": "[집밥] 초간단 분홍 소시지 꿀팁 # 추억의 옛날 소세지",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/13/b6c38b95ae8c196db51fa92a30e3d0d11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6844602",
+	"ingredient_ids": [
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "분홍소세지",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 소세지 껍질을 벗기고 두툼히 먹기 좋게 자르고 프라이팬에 구워주세요.",
+		"2. 소세지가 반쯤 잠길 정도로 식용유를 프라이팬에 두릅니다.",
+		"3. 소금을 한꼬집 뿌려 간을 맞춰줍니다.",
+		"4. 앞면을 노릇노릇 익히며 바싹 굽고 뒤집어 줍니다.  * 튀기듯이 구워주는 것이 포인트",
+		"5. 부풀어 올라 두툼해지면 그때 싹 건져주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/13/96b28655034ca95bc38c0d19748127b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/13/8e8fbe0e3cee1846aef3322fd0023edf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/13/37ee1267ac80433194b4c834feb86fe51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/13/41fb5344c79adfffba54e7b872b893401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/13/d68ff946d3f1849f35704f48661ec74c1.jpg"
+	]
+}

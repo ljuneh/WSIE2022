@@ -1,0 +1,46 @@
+{
+	"id": "6943181",
+	"name": "밀가루 없이 동태전 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/8be19b8b79c834186c1f3cb77ef76e9d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943181",
+	"ingredient_ids": [
+		901,
+		291,
+		225
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "동태포",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 냉동이나 생 동태포는 키친타올로 물기를 제거해요.",
+		"2. 후춧가루와 맛소금을 조금씩 솔솔 뿌려줘요",
+		"3. 계란물을 만들어서 기름두른 팬에서 중불에서 부쳐줘요.",
+		"4. 한번 부쳐서 잠시 식힌전에 다시 계란물을 입혀서 부쳐주면 탱탱한 전이 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/800d36dd87f3c3798d037a3ea80a636f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/ca176b8d4ce06ecd6e87246286550c3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/c8fb76e35ebdaa4473f77dde4b7f5a2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/5fa7b2d26e746e93d3728deb0dceb2761.jpg"
+	]
+}

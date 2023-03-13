@@ -1,0 +1,109 @@
+{
+	"id": "6945270",
+	"name": "생생정보, 꽃게 카레 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/9032a58772b3d9cb02b8fefb339949fe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945270",
+	"ingredient_ids": [
+		480,
+		3,
+		27,
+		34,
+		233,
+		995,
+		198,
+		224,
+		287,
+		219,
+		734
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "꽃게",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 꽃게의 등딱지를 따고 아가미, 모래집, 살이 없는 다리를 제거한 뒤 먹기 좋은 크기로 2~4등분한다.",
+		"2. 청양초, 양파, 대파는 손질하여 썰어주고 계란도 풀어둔다.",
+		"3. 물기를 제거한 꽃게에 튀김가루를 가볍게 묻혀줍니다.",
+		"4. 식용유를 넉넉히 두른 팬에 노릇하게 튀기듯이 굽는다.",
+		"5. 카레가루는 덩어리가 뭉치지 않도록 미리 물에 풀어서 개어 준다.",
+		"6. 팬에 기름을 두르고 다진 마늘과 채 썬 양파, 대파, 고추를 넣고 볶다가 튀긴 게를 넣고 함께 볶아준다.",
+		"7. 채소의 숨이 죽으면 카레를 갠 물을 붓고 끓이다가 게살이 익으면 우유와 버터, 고춧가루, 액젓 등을 넣습니다",
+		"8. 카레의 농도가 걸쭉해지면 풀어놓은 달걀을 둘러 마무리한다.",
+		"9. 접시에 밥을 담고 꽃게카레를 올려준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/7e13c380ab45d0917e40440f9c69f13f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/ff3f28594f448b6e47871f745d1047481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/d3bead51bc6ceecc33e7de8be78b99df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/94ba8cac392ad9f44d0cc0f60d0d7a981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/851539cb647ac5f7ac461bb3487f3a971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/b1ce571e5852fe20369953f1a1bf122e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/08881b5c0a61815142a4a4d7d9e37fb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/3e964d505f514138976997a0112392671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/2966d3eb461838ebf7d8731bc49b9ece1.jpg"
+	]
+}

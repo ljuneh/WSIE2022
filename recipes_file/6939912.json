@@ -1,0 +1,97 @@
+{
+	"id": "6939912",
+	"name": "콘치즈 핫도그",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/887c20b21a830eb0cc43341591292fcd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939912",
+	"ingredient_ids": [
+		216,
+		226,
+		627,
+		632,
+		3
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "핫도그용빵",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콘옥수수",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마요네즈2T~",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "머스터드",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "피클",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비하기 핫도그 용 빵, 양파, 피클, 소시지, 콘옥수수, 피자치즈, 설탕",
+		"2. 소시지는 칼집을 넣어 끓는 물에 데쳐 불순물 제거 (비엔나/ 통 소시지/ 핫바 모두 사용 가능)",
+		"3. 소시지 겉면이 노릇해지도록 기름에 한번 볶아주기(생략 가능)",
+		"4. 팬에 불을 약불로 킨 후, 빵 안쪽 면 굽기 버터/식용유를 사용해서 구워도 무관.",
+		"5. 소스 만들기 머스터드 + 다진 피클 고루 고루 섞기",
+		"6. 콘 치즈 만들기 피자치즈, 양파, 콘 옥수수, 설탕 준비하기",
+		"7. 양파는 얇게 채 썰어서 준비",
+		"8. 팬에 콘 옥수수, 양파를 넣어 볶아주기",
+		"9. 설탕을 넣은 뒤, 한번 섞기( 취향에 맞게 단맛 조절하기) →1/2 T 사용",
+		"10. 마요네즈를 넣어 분리되지 않도록 고루 고루 섞기  → 2T 사용약불",
+		"11. 마지막으로 피자치즈를 넣어 치즈 녹을 때까지 기다리기",
+		"12. 중간 치즈와 콘 옥수수가 고루 섞이도록 저어주기",
+		"13. 구운 빵 안쪽 면에 머스터드+피클 바르기",
+		"14. 그리고 콘치즈를 적당량 덜어 그 위에 올리기",
+		"15. 소시지 올리기",
+		"16. 취향에 맞게 케첩, 마요네즈, 머스터드 소스 뿌리기"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/5bf299ed75621b2096846b3b053741c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/ff1c588b6a581a089335d5d12bdc76ab1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/8134a38706b265fbbc57f444a32e2d971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/25a9ef374febe1bf9692e6a4e809ddc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/7178ccb0526ff5bafa08caf3c3eb6de91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/c8eb2bb6bb89cdc124e06c69813713dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/aa119ddcb296b18bc1c07928b1787ba21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/3d37134d4b052f3908470299c404b12d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/f070f2d42aa2dad758d2fd65df2c1cdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/a02ab146c4e139981ae6de4b80dcbce21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/ddb87a2c0caad305be806954343764491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/76e7c9a2caaf6ac6489b288352e0325c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/f4eae835aa0283bcae2c542ae43d56181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/6e97083bf3a9bb51ce89e48fee2d624f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/444425a8b1c2446db2bf2abd750e3a231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/0a9a04c0341f718d70705f78ef148cd31.jpg"
+	]
+}

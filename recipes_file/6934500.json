@@ -1,0 +1,90 @@
+{
+	"id": "6934500",
+	"name": "토마토 계란스프 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/06/17/5a2d9bf58bf4fcaccc5111246bfb5e401.jpg",
+	"url": "https://www.10000recipe.com/recipe/6934500",
+	"ingredient_ids": [
+		51,
+		724,
+		504,
+		27,
+		379,
+		540,
+		467
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "100",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘편",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꽃소금",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 펜에 식용유를 1큰술 두르고 대파 마늘편 넣고 향이 올라오면",
+		"2. 간장1 큰술 넣고 토마토를 넣고 볶아줍니다",
+		"3. 토마토가 반쯤 익으면",
+		"4. 육수를 네국자 넣고 약 800그램 정도",
+		"5. 케찹 반국자 약 100그램 넣고",
+		"6. 꽃소금 1티스푼 치킨스톡 2티스푼 넣고",
+		"7. 후추약간 넣고 풀어놓은 계란을 흘려 줍니다",
+		"8. 불을 끄고 뜸을 들여 계란을 익혀 줍니다",
+		"9. 그릇에 담아냅니다  상큼한 맛이 너무 좋습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/17/45eae21460cabf556e8ca8005fa79af61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/17/5e69a80858f6e0dd532c5e4b2f858ca51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/17/591c7e68f37045f3d463adae97fdeac21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/17/23fcbd979158f417890be9ab30e6825c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/17/60bd42904d9cb878fe24f5d2edef06311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/17/623fe14e7a32264106d93cf2d57bc9a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/17/53c6fe1c30af36cd00fa95bd6400c2d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/17/118cbd7621f0c1aeb4aa94962edcb3271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/17/d2e756f4931874f2b95209e69d50ece71.jpg"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"id": "6940116",
+	"name": "폭신폭신 구름빵 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/636ce8c1f60cdda5638a48d07b09fe0f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940116",
+	"ingredient_ids": [
+		226,
+		570
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀흰자",
+			"ingre_count": "90",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "옥수수전분",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파란색식용색소",
+			"ingre_count": "1~2방울",
+			"ingre_unit": "~방울"
+		}
+	],
+	"recipe": [
+		"1. 볼에 달걀 흰자를 넣고 거품이 생길 때까지 저속으로 휘핑해주세요",
+		"2. 설탕을 2~3번 나누어 넣으며, 부드러운 뿔이 생길 때까지 휘핑해주세요",
+		"3. 전분을 체쳐서 넣고 섞어 주세요",
+		"4. 식용색소를 넣고 저속으로 섞어 주세요",
+		"5. 테프론 시트를 깐 팬 위에 머랭을 올려 주세요",
+		"6. 스패츌라로 표면을 매끄럽게 정리해가며 모양을 잡아 주세요",
+		"7. 150도에서 25-30분 간 구워 주세요(오븐에 따라 다를 수 있어요)오븐",
+		"8. 맛있게 드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/72dcc8de4166d5a98a5bb40b66a983251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/3f4fe82f4d91b41f87f69dbf4f6c86c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/e9a05d2ca321ffd3ff62ff18a1508dfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/972195f5a5d63fb06b0da832845705641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/133db45c1843f418ab8344e94e848c9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/d5a58797c1bfe8d4d635abdf2c5e8fa01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/b04c4f9f5d11b679a293ac83b60139a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/dd7a23d20eb83dbc06d9cf47a4b901f51.jpg"
+	]
+}

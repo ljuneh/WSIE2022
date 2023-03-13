@@ -1,0 +1,73 @@
+{
+	"id": "6880880",
+	"name": "크래미 부침개-아이반찬 #전요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/77fbdb85e650fbfdb4282cd05e4f84f81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6880880",
+	"ingredient_ids": [
+		3,
+		15,
+		387,
+		219,
+		497,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "크래미(작은사이즈)",
+			"ingre_count": "8",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 크래미는 가닥가닥 손으로 찢어 그릇에 담고",
+		"2. 함께 넣을 양파, 당근은 잘게 다져주고, 깻잎은 얇게 채 썰어 줍니다. 자투리 채소 이용하심 좋을 것 같아요.",
+		"3. 찢은 크래미 그리고 다진 채소를 한데 담고",
+		"4. 부침가루 1, 달걀 2개, 후춧가루 약간, 소금 0.2를 넣어 모든 재료가 잘 섞이도록 뒤적여 줍니다. 부침가루가 없다면 밀가루 사용해도 되고요. 달걀을 넣어 부침가루는 조금만 넣어도 됩니다.",
+		"5. 팬에 기름을 조금 넉넉히 두르고 숟가락을 이용해 반죽을 떼어 동글동글하게 올려 줍니다. 그리고 앞뒤로 노릇하게 부쳐주면 끝!",
+		"6. 뚝딱 만들기 쉬운 아이반찬 크래미맛살전"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/b29a4133ab57e8b4c924e306f3af62dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/037c28b44d1e640662cf438090f1f43e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/1d8cbf364602cfec42f9785a7ba24f791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/3c058b064366143045eb6df4d17ba6971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/9dbefd731934b65e0a545731018197451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/11f5e7fdb6cae035fdc21edaa9b910b11.jpg"
+	]
+}

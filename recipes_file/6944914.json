@@ -1,0 +1,62 @@
+{
+	"id": "6944914",
+	"name": "냉동식품은 저리가라! 치킨너겟, 치킨까스 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/d2c6b5437ca530477f5ac36109d0ecbb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944914",
+	"ingredient_ids": [
+		301,
+		436,
+		234,
+		497,
+		225
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "닭안심",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 닭안심에 붙어 있는 얇은 껍질, 튀어 나와 있는 힘줄을 잘라서 손질해요. 소금, 후춧가루를 뿌려 밑간해요닭가슴살을 사용하는 경우 저며서 얇게 만들어주면 나중에 잘 익어요",
+		"2. 계란에 소금 한 꼬집 넣어서 섞고, 밀가루 1숟갈, 빵가루를 준비해요",
+		"3. 닭안심에 밀가루-계란-빵가루 순으로 튀김옷을 입혀줘요",
+		"4. 튀김옷 입힌 닭고기 준비 완료",
+		"5. 기름을 적당량 두르고 후라이팬에 닭고리를 올려요저는 기름을 적게 써서 굽는 느낌으로 튀긴거라 닭고기가 기름에 잠기게 튀겨도 되요. 또는 에어프라이어를 이용해도 좋아요. ",
+		"6. 앞뒤로 노릇노릇 익혀요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/536a0f8c52c7bde42798ad6b9db80c2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/f0787ff9e3c717059d054926af06f9ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/65112d3f25e87749fbbb886e6bbb7bd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/baa49db1d2c42d4aade5c88ca83c493b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/7461a6316dbee2e3a13997fd825a86061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/4a831cfc9a92ed4179ee3971d29968651.jpg"
+	]
+}

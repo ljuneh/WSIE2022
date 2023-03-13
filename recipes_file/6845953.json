@@ -1,0 +1,84 @@
+{
+	"id": "6845953",
+	"name": "[라따뚜이]프랑스식 야채스튜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/a85a26c3833865283370ca099cf7c4d51.JPG",
+	"url": "https://www.10000recipe.com/recipe/6845953",
+	"ingredient_ids": [
+		51,
+		18,
+		3,
+		233,
+		574,
+		868
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "이태리호박",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "토마토스파게티소스",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "파마산치즈가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 올리브유 1큰술 에 다진마늘 1큰술과 잘게 썰은 양파(양파1개)를 볶아줍니다.",
+		"2. 볶아진 마늘과 양파에 토마토 스파게티소스 1/2컵 과 파아슬리 가루를 넣어 끓여 줍니다.",
+		"3. 소스를 오븐그릇 바닦에 깔아 준 다음. 가지,토마토,호박을 얇게(2mm) 썰어 차례로 가지런히 담아 줍니다.",
+		"4. 가지런히 야채를 담아 준 후, 올리브유2큰술에 다진마늘1큰술과 파아슬리를 넣어 섞은것을 위에 골고루 끼얹어 줍니다.",
+		"5. 이제 오븐에 들어갈 준비 완료!",
+		"6. 오븐온도는 화씨 325도(섭씨160도)에서 20분. 쿠킹호일을 덮어서 넣어 줍니다.오븐",
+		"7. 쿠킹호일을 벗겨내고, 파마산치즈가루 와 파아슬리를 위에 솔솔~뿌려 준 다음 다시 오븐에 넣고 15분 더 구워줍니다. (개인이 가진 오븐온도가 다르기 때문에 참고만 해 주세요^^)",
+		"8. 짜잔~~ 요렇게 이쁜 자태로!!! 프랑스식 야채스튜 [라따뚜이]가 완성 되었습니다.",
+		"9. 토스트위에 얹어 먹으니... 아!!!! 맛의 신세계가 열립니다~~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/b2283845c78e4dfe805e49ba603a73191.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/efde6801f3ff4ffda82292c47c60e4b11.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/dc4442e7d673434e6a38388ac62f6d3f1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/77088691884e4afebbb02af067c6370c1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/6bc1298b2b065d13b898287aa6da7aa31.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/5ab6cde84a667f77cc26f9f769a416041.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/e20d206ebb6567a1d0cf4b901ec211e41.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/c2d4b00f398847444c09f6b84f8fa0e91.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/05/e4289a0db24579706dcf3dd21e95c95c1.JPG"
+	]
+}

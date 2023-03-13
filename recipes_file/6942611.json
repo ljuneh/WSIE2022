@@ -1,0 +1,49 @@
+{
+	"id": "6942611",
+	"name": "갈릭디핑소스 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c37fddb99da2ba69c4807354afb3821e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942611",
+	"ingredient_ids": [
+		228,
+		227,
+		702
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청양고추가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 준비물을 확인해요. (마늘가루, 청양고추가루, 파슬리, 꿀, 마요네즈)",
+		"2. 마요네즈 2큰술, 마늘가루 1큰술, 청양고추가루 약간, 꿀 약간을 넣고 섞어요.",
+		"3. 다 섞은 소스는 소스그릇에 담고 파슬리로 마무리"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/5fb08746a04eaf658257a597bcf4348b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/9db719353cf008f1e980d2ede07038d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/b036d48d1429df1c6c350043190288a41.jpg"
+	]
+}

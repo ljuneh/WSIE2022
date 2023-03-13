@@ -1,0 +1,69 @@
+{
+	"id": "6942578",
+	"name": "다이제스트로 티라미수 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/465caf2015522bee88b42dad8cf3c2b91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942578",
+	"ingredient_ids": [
+		208,
+		822,
+		485,
+		208,
+		726
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "다이제스트",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "그릭요거트",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "커피",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "코코아",
+			"ingre_count": "",
+			"ingre_unit": "분말"
+		}
+	],
+	"recipe": [
+		"1. 다이제를 부숴주세요.",
+		"2. 인스턴트커피를 3~4개 넣고 물은 반컵 정도만 넣어서  에스프레소 처럼 아주아주 진한 커피물을 만들어주세요.",
+		"3. 생크림을 휘핑하고, 그릭요거트와 넣어주세요.",
+		"4. 크림치즈도 넣고 휘핑해주세요.",
+		"5. 적당한 용기에  부순 다이제스트를 깔고 그 위에 커피물을 붓고 크림을 깔고를 반복해주세요.",
+		"6. 그릇에 적당히 찰때까지 반복해주신 후,  냉동생에서 20분 굳힙니다.",
+		"7. 먹기 직전에 카카오 가루를 뿌려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/dde4e0fc46ed47da9e81fffe55a5e9a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/257344228b31f4e318a60476c688b2131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/87dc3713d6eec73922a2aac8c50306df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/9199dfb6a5fdad1d2263c31ffd2921071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/ed6aa7c1a90042c5d66655d78f2ee6141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/09cb0082302321a234364f7249781c251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/de1be002cf8aea9058ec5fcfb563a40a1.jpg"
+	]
+}

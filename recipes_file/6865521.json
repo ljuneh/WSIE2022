@@ -1,0 +1,44 @@
+{
+	"id": "6865521",
+	"name": "[집밥] 백종원 카레우동 # 초간단 5분이면 완성.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/10/1c39897a1198a4dde50102042dcd3f281.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865521",
+	"ingredient_ids": [],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "우동사리",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "양파(옵션)",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 우유 2컵(500ml 짜리 하나 가능) 을 붓고",
+		"2. 카레가루 3T 섞어주세요. 쉐키쉐키",
+		"3. 집밥백선생 레시피에는 없는 양파. 너무 심심할꺼 같아서 양파를 채 썰어 넣어줬는데 괜찮네요.",
+		"4. 카레우유가 끓어오르면 면을 넣고 엉킴이 풀릴때까지 가만히 내둬요.  차가운 상태에서 풀려고 하면 면이 뚝뚝 끊긴답니다.  해동이 되면 면을 살살 풀어주세요.",
+		"5. 파슬리가루(생략 가능) 솔솔 뿌려주면 벌써 끝이에요.ㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/16/766236e3bf456d5c929273ddcfd480271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/16/05c01995332944551eb459127d8417901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/16/175d4508b7f595b6763412de85a178911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/16/fda53f7c0cc36496e3912d6ceaaa81361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/16/b2f63acce6eb0a04505c8e70e399d08b1.jpg"
+	]
+}

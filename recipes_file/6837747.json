@@ -1,0 +1,75 @@
+{
+	"id": "6837747",
+	"name": "들깻잎을 이용해서 깻잎 멸치 볶음 만들었어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/01072d1878dfaf110353a9a44bcea27b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837747",
+	"ingredient_ids": [
+		233,
+		543,
+		327,
+		379
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎80장정도",
+			"ingre_count": "80",
+			"ingre_unit": "장 정도"
+		},
+		{
+			"ingre_name": "양파작은거",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파큰거",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치2컵(종이컵)",
+			"ingre_count": "2컵(종이컵)",
+			"ingre_unit": "컵(종이컵)"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 여름철에 시골에서 들깻잎을 데쳐서 냉동 보관을 해놓아요.데쳐 놓은 깻잎이랑(생깻잎도 괜찮습니다.) 양파3개(양파가 주먹보다 작아서 3개 사용했는데 큼지막한 양파는 2개면 충분할꺼 같아요) 팬에 양파랑, 깻잎을 올려 둡니다.",
+		"2. 양념장은 다진마늘, 들기름, 간장을 먼저 준비하세요.",
+		"3. 멸치는 잔멸치, 또는 왕멸치 배딴걸로 준비 하시면 됩니다. 저는 마른 팬에 1번 볶았어요(비릿맛을 줄이기 위해)",
+		"4. 팬에 위 들기름, 다진마늘, 간장을 넣어 준 후에  손으로 주물주물해주세요. 손으로 하는 이유는 골고루 양념이 베이기 위해서에요. 멸치는 지금 넣지 마세요~",
+		"5. 그렇게 볶기 시작 합니다.",
+		"6. 대충 깻잎이랑 양파가 익어 갈때 쯤에",
+		"7. 볶아 둔 멸치를 넣어주세요~ 편마늘을 넣어서 함께 볶아도 좋을꺼에요. 편식이 심한 저는 먹지 않아서... 골라 먹을까봐 일부러 다진 마늘을 사용했어요. 통깨 또는 깨가루를 넣은 다음에 한번 볶으면 끝이 납니다.",
+		"8. 접시에 담아 내면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/b6c4e7367c771b7487d069b7381bada31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/5916ef5f4f477f86b4ef8b93011d4dd51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/c91a9ded18b5eab43d14c3375ee9dc291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/8f1ab6ec43a132d4d9421314ccaebf321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/a43d120bea13b24f87751501a6f1c3211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/e72290cc81d59b02655120fc4c2852a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/b7e13ca6ec202e5fee1a3dfb132d71e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/4ffc49eec9f36a1906643952b7ac407a1.jpg"
+	]
+}

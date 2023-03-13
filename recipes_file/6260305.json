@@ -1,0 +1,50 @@
+{
+	"id": "6260305",
+	"name": "마른꼴뚜기멸치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/fda0011784ae2938f05c3e01ad58745f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6260305",
+	"ingredient_ids": [
+		504,
+		379,
+		341,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "마른",
+			"ingre_count": "",
+			"ingre_unit": "꼴뚜기"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 식용유를 이용해 다진 마늘을 넣고 마늘향이 퍼지도록 잘 볶아주세요. 마늘이 어느 정도 익은 다음에 다음 재료를 넣어주세요.",
+		"2. 꼴뚜기와 멸치를 넣고 간장은 한 스푼 정도만 넣어주세요. 멸치와 꼴뚜기가 모두 짜기 때문에 간장을 많이 넣으면 더 짜진답니다. 짠 맛의 정도는 취향에 맞추시면 된답니다.",
+		"3. 물엿은 2스푼을 넣었어요. 멸치와 꼴뚜기의 양이 많으면 조금 더 넣어주세요. 단맛을 좋아하시면 더 넣어주세요. 깨소금 넣고 마무리 해주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/30e29e11f572575e4d63113cdb98df411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/c5466ef80944119f1f084faf521b16601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/7df36fa2512cffb7c1aeb52eee39928e1.jpg"
+	]
+}

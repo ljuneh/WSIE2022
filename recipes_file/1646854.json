@@ -1,0 +1,58 @@
+{
+	"id": "1646854",
+	"name": "겨울에 꼭 한번 먹어야하는 비지찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/e208c29a0b9a2dae356fc2e635d59669.jpg",
+	"url": "https://www.10000recipe.com/recipe/1646854",
+	"ingredient_ids": [
+		434,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "비지",
+			"ingre_count": "1",
+			"ingre_unit": "덩이"
+		},
+		{
+			"ingre_name": "돼지고기(목살)",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "멸치액젓약간(소금)",
+			"ingre_count": "약간(소금)",
+			"ingre_unit": "약간(소금)"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기는 목살로 준비해서 먹기좋게 잘라주고 신김치도 한줌 먹기좋게 잘라주고 비지 한덩이(저거 반만 사용했어요~) 준비합니다.",
+		"2. 냄비에 참기름 살짝 둘러주고 돼지고기와 김치를 넣고 충분히 볶아 줍니다. 물을 붓고 비지를 넣어주세요. 비지가 물을 엄청 마니 잡아먹는답니다. 물의 양은 끓여가시면서 계속 보충해주셔야 합니다. 단 뜨거운 물을 부어주세요. 보골보골 끓으면 고추가루를 넣어 매콤함을 더해주고 매콤함이 싫으시면 생략가능합니다. 멸치액젓으로 간을 해도 감칠맛나고 아주 맛난답니다. 마지막으로 대파와 청홍고추 어슷썰어 넣어주세요.",
+		"3. 얼큰하고 꼬소한 비지찌개 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/1c57f69e94af20902fb4968a7b27e0c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/59332637b092513f2d5ce890d3a194b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/e72354349d4b8311567b70ec9d474a691.jpg"
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"id": "6773700",
+	"name": "과일꼬치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/5937ce4cfbbff1a978d60da13fc259e41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6773700",
+	"ingredient_ids": [
+		371,
+		174
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "포도",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통조림파인애플",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		}
+	],
+	"recipe": [
+		"1. 포도나 방울토마토는 베이킹 소다를 1큰술 푼 물에 세척하시면 좋구요. 그리고 나서 맑은 물에 두번 정도 더 헹궈 줍니다. 식초를 탄 물에 세척하는 것도 괜찮구요.",
+		"2. 파인애플을 네 조각을 내면 모양이 일정해서 좋답니다.",
+		"3. 리본을 준비하시고요.",
+		"4. 산적 꼬지를 준비하시구요.",
+		"5. 호일을 크기에 맞춰 잘라서 감아줍니다.",
+		"6. 리본은 색상별로 맞춰서 구입하면 좋구요.",
+		"7. 순서나 색상 배합을 취향껏 과일을 꽂아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/a903d823986a3533d5b29fb4d7689eef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/480480f097214c6631fcfc4eedf56f671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/f4a6384620a4443fb8fc625867aee4ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/c69c10e56f9ae1519ead0bd20cb6a2cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/c1c7803adba08fd053a40a8045ecd1431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/b19034d21b95a52045ab60f7c15c02f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/1fed190eca5dc4fab586421d586de89d1.jpg"
+	]
+}

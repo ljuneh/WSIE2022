@@ -1,0 +1,73 @@
+{
+	"id": "6944187",
+	"name": "밥도둑 무생채 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/d51122132e41718d33155dec03d246661.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944187",
+	"ingredient_ids": [
+		19,
+		282,
+		224,
+		226,
+		233,
+		287,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "1.",
+			"ingre_unit": ".작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 무는 채 썰어서 준비하고 ",
+		"2. 넓은 그릇에 소금(1)을 전체적으로 뿌려 15~20분 정도 절여주세요. 썰어 놓은 무를 드셔보시고 단맛이 너무 없다 하시면 이때 매실액 1~2숟가락 정도 함께 넣어 절여주면 단맛이 배어들어 괜찮답니다. ",
+		"3. 절여진 무는 유들유들 부드러워지고 무에서 제법 수분이 나온답니다. 그럼 물을 따라 버리고 살짝 눌러 무에 있는 물기를 짜주세요. 너무 꽉 짜는 건 비추! 적당한 수분이 있어야지 더 맛있어요. ",
+		"4. 볼에 담고 고춧가루(2)를 넣어 ",
+		"5. 조물조물 1차로 부쳐주고 요렇게 해줘야지 고춧가루가 겉돌지 않고 완성해 놓았을 때 색도 곱고 먹음직스럽답니다. ",
+		"6. 이어 양념 까나리액젓(1.5), 다진 마늘(1), 설탕(1), 통깨(1)을 한데 넣어 조물조물 무쳐 주세요. 새콤한 맛을 원하시면 이때 식초(1) 숟가락 정도 추가로 넣으셔도 되고요. 무의 달기 정도에 따라 설탕량을 줄여도 괜찮겠죠. ",
+		"7. 촉촉하게 양념 배어든 무생채",
+		"8. 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/8bcc859fdfd717bffb345335d99eaf071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/65bc1a01019582c03370d14683a2c4b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/dd0228923aab4dcfb76b7961f9cb37f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/1f24fe78de3998ea376f06afe5dcad1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/73cb4a6fad79666a0571a1d89dd85f661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/ef21ea22b7d803eaf1ca3667519d7cf71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/11ea3cb2ae8348dd09ee6041d1cc39211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/893dde58f52d52d885933b1dfa5bf1eb1.jpg"
+	]
+}

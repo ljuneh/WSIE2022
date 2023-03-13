@@ -1,0 +1,85 @@
+{
+	"id": "6866018",
+	"name": "메추리알,표고버섯장조림, 장조림황금레시피,",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/1d5749941fa8b9e4080f19a8209983221.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866018",
+	"ingredient_ids": [
+		221,
+		53,
+		293,
+		90,
+		29,
+		226,
+		575,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 메추리알은 시중에서 판매하는 깐 메추리알 한팩을 준비했어요.",
+		"2. 엄지손톱만한 표고버섯, 꽈리고추, 통마늘은 편으로 썰어 준비합니다. 마른다시마도 가위로 조그맣게 잘라서 준비합니다.",
+		"3. 메추리알, 표고버섯, 다시마를 넣고 진간장1컵, 물3컵, 설탕4수저를 넣고 조려줍니다.",
+		"4. 반쯤 졸아들면 편마늘과 꽈리고추를 넣고 졸여 줍니다.",
+		"5. 졸임장이 너무 많을 경우에는 뚜껑 열고 수분을 날려 주시고, 단맛은 올리고당으로 조절하시면 됩니다.",
+		"6. 마지막에 참기름 한수저 두르고, 참깨 솔솔 뿌려 주시면 맛있는 메추리알조림 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/2a6f421d430baa333287118869233cc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/32a62fc76d7bc0fad2a5c2ac8ded32261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/61891814f1f32b86e2a8b9de35801bfd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/b646aca3a6807b9e71ca20b0bef9a3d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/b0967f4ac32d213943d285f21dae6bc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/bcccf1e779a1d70b0678006bc816d5e21.jpg"
+	]
+}

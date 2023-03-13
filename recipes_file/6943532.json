@@ -1,0 +1,43 @@
+{
+	"id": "6943532",
+	"name": "디저트 무화과 크림치즈 순식간에 만듭니다.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/ba84823a065a2bcc285df5097ef8cc5c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943532",
+	"ingredient_ids": [
+		140,
+		208,
+		227
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "무화과",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 무화과를",
+		"2. 4~6등분 해서 잘라주고",
+		"3. 그위에 크림치즈 살짝쿵씩 올려준 후",
+		"4. 꿀을 조르륵~ 뿌려주기만 하면",
+		"5. 디저트 무화과 크림치즈 순식간에 만들어집니다~ (제가 먹어본 느낌으론~ 음... 와인이랑 잘 어울릴거 같았어요 ^^)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/9768f75d529124eb0649811cb50d2fc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/cd97e3e508a75f9b2f2fd3e8b086cee51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/0791ed1974c84d0caf21110f05e8d8021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/044d34d26708d72345486d7e0839a82e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/8a8a966737719b80ea4a7da65877718f1.jpg"
+	]
+}

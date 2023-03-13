@@ -1,0 +1,39 @@
+{
+	"id": "6840435",
+	"name": "아침을 깨우는 사과당근주스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/21/80d7a33997f54463dc2cb1c28aedd0f71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6840435",
+	"ingredient_ids": [
+		158,
+		9,
+		832
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "요구르트",
+			"ingre_count": "450",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 당근은 껍질을 제거하고 갈리기 쉽게 토막내어 줍니다.",
+		"2. 사과도 썰어서 넣어 줍니다.",
+		"3. 요구르트를 넣고 갈아 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/21/25e87a9c44f6d6384fffe6bfc55de08a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/21/a605e87a066909c8a4b59526c2f957181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/21/b5ecf4cff483105b434fe4ae5df95c861.jpg"
+	]
+}

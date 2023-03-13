@@ -1,0 +1,96 @@
+{
+	"id": "6940425",
+	"name": "옥수수 쿠키 콘 쿠키",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/6b3049ee7c7c69f480494d700ca4cbd91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940425",
+	"ingredient_ids": [
+		198,
+		208,
+		483,
+		497,
+		219,
+		871,
+		373,
+		500
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "5cm스쿱12개분량",
+			"ingre_count": "12",
+			"ingre_unit": "개 분량"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "72",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "72",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백설탕",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "비정제설탕",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "68",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "83",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "옥수수가루",
+			"ingre_count": "73",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "옥수수통조림",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 통조림의 옥수수는 체에 받쳐 물을 뺀 후, 키친 타월로 물기를 꼼꼼하게 제거합니다. 여기에 덧가루를 약간 넣어 코팅해주세요.",
+		"2. 실온의 버터와 실온의 크림치즈는 부드럽게 푼 후, 설탕과 소금을 넣고 잘 섞어주세요.",
+		"3. 여기에 달걀을 조금씩 넣어가며 잘 섞어줍니다. 설탕을 다 녹일 필요없이 굵은 설탕이 만져지는 정도로, 계란을 섞어주심 됩니다. ",
+		"4. 체친 밀가루와 옥수수 가루, 베이킹 파우더를 넣고, 어느정도 섞다가..",
+		"5. 전처리한 옥수수를 넣고 잘 섞어주세요.",
+		"6. 반죽이 한덩어리가 되면,",
+		"7. 스쿱으로 떠서 팬닝 합니다. 팬닝 후 손으로 납작하게 눌러주세요.",
+		"8. 위에 옥수수 가루를 체쳐 넣고,",
+		"9. 170도로 예열된 오븐에서 15~19분 정도 구워주세요. 다 구운 후 식힘망에서 한김 식히면 완성~!오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/67abae535588909b431b51c341d498941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/80392a8d31d05b0d542d6240877885921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/81266876f9632d038e500bd1f876b4301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/a9e5dffe34c73ca982fe345ae96a25b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/4f1a9896f7e6fad248adb81eb6c729131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/e57bbd79d406fc19f6f986d110a1f6f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/9370535c22c5e770e0eea8434640b4461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/0a66e52fc1eb814fcbc90809f7d8e4ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/00ec1480a6c27eaf25334c717a1871c71.jpg"
+	]
+}

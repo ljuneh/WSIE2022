@@ -1,0 +1,82 @@
+{
+	"id": "6942995",
+	"name": "하트맛살전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/21924eeda5a1bb7a3d33f3ecabf680211.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942995",
+	"ingredient_ids": [
+		219,
+		30,
+		27,
+		9,
+		497,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "기다란맛살",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 마트에서 쉽게 볼 수 있는 긴 맛살입니다. 맛살을 길게 반으로 잘라서 2개로 나눠줍니다.",
+		"2. 칼로 한번에 쓱 잘라줘야 단면이 깨끗하게 나옵니다.",
+		"3. 손으로 양끝을 붙여서 하트모양으로 만들고 꼬치나 이쑤시개를 꽂아줍니다.",
+		"4. 빨간 테두리가 앞으로 보이게 하트모양을 만들어주면 됩니다. 간격을 넓히거나 좁혀서 하트 모양을 조절할수 있습니다.꼬치를 아랫면에 가깝게 꽂아주면 나중에 계란물을 넣기 편합니다.",
+		"5. 계란 두개를 준비해서 알끈을 제거하고 볼에 담아줍니다. 맛살 자투리가 있다면 잘게 잘라서 넣어줍니다.계란을 곱게 넣고 싶다면 먼저 계란을 섞어서 체에 걸러준 뒤 재료들을 넣으면 됩니다.",
+		"6. 대파와 부추도 잘게 잘라서 같이 넣습니다.부추가 없다면 안넣어도 좋습니다. ",
+		"7. 잘게 다진 당근과 소금도 넣어주세요. 소금은 입맛에 맞게 적당히 간을 해줍니다.양파도 있으면 잘게 잘라서 같이 넣어줘도 맛있습니다. ",
+		"8. 계란재료를 멍울지지 않게 잘 섞어주고 준비합니다.계란물을 곱게 섞어줘야 계란물을 나중에 넣기 편합니다.",
+		"9. 팬에 기름을 두르고 하트를 만들어둔 맛살을 올려줍니다.불은 약불로 해줍니다.",
+		"10. 계란물을 올려주는데 계란을 넣어도 흐르지 않게 팬이 달궈질때 수저로 하트 안으로 넣어줍니다. 계란물은 꼬치 위까지 올라오게 넣습니다.너무 약불이라서 계란물이 바로 익지 않을때 넣어주면 하트 아래로 계란이 새어 나와 모양이 안예뻐집니다. 그럴땐 나중에 다 완성하고 정리해주세요. ",
+		"11. 약불로 익혀주고 계란 밑면이 잘 익고 뒤집어도 흐르지 않을 정도로 윗면이 익으면 뒤집어줍니다.불이 세면 금방 색이 진해지고 탈 수 있으니 불조절을 해주면서 만들어줍니다.",
+		"12. 윗부분은 금방 익기 때문에 빨리 뒤집어주고 완성합니다. 꼬치를 살살 돌려서 빼주고 그릇에 담아 초간장이나 케첩을 곁들여서 먹습니다.",
+		"13. 맛살 4개로 모두 8개가 나왔습니다. 다른 반찬과 먹으면 2인이 먹기 괜찮았습니다. 맛있게 드세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/f3b023f357d66fc227fdc307ecba0beb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/d43826eeddc85628dee7d26f70b04a2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/5cae2237a9e110dac0330413baa58bc21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/b5531d72d4504e32611afbf0a8cc548f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/115f295a342a7ea807f6fe1927ada7b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/a41ee8b65bf673caf7a2104bf64167851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/fd3ccb368cb0cc5d02a9c2ea9d7f53d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/8c120a21647b7e8c42a7070f355449bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/5757ef947d75cbfb03038cb10667b0fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/cb991d22afef7651c81da3035090cabc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/916af80db7b1df8311bf26196df2ce121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/debf021683ea5221fd4365d2e16770541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/009264f9717cec17aac8e8bc9beb93c91.jpg"
+	]
+}

@@ -1,0 +1,101 @@
+{
+	"id": "6868009",
+	"name": "즉석에서 끓이는 돼지고기 짜글이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/06/e54b04e684fcaffa94e15255436cc27f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868009",
+	"ingredient_ids": [
+		487,
+		325,
+		3,
+		27,
+		295,
+		233,
+		458,
+		343,
+		473,
+		327,
+		1015,
+		473
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 짜글이 찌게에 들어갈 돼지고기 대파 청양고추 양파 호박 기호에 따라 양을 조절해주고",
+		"2. 한입 크기로 썬 돼지고기~ 달군 남비에 들기름 두르고 고기가 익을때까지 달달 볶아요",
+		"3. 미림 생강즙 후추 마늘 육수2컵 넣고 센불에서 10분정도 바글바글 끓이다",
+		"4. 양파 호박 넣어 중불로 바꿔 5분간 더 끓이다",
+		"5. 새우젓으로 간을해주고 국물이 껄죽해지면 (돼지고기가 들어간 찌게는 새우젓을 넣으면 소화에 도움)",
+		"6. 대파 청양고추 넣고 한번 더 김올려",
+		"7. 모자란 간은 멸치액젓으로~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/06/04ff03195cce4ed305e639c30d809cb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/06/ee99a9dd037d330a3c0e94700fbba1a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/06/6aa49c70481b2a1deb0b959b7d5a69ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/06/6da0c33cce8590dfa8922e8dbcbc0f7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/06/814d6d5cb1ebb05430b37b00a4fb79e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/06/50f84c7de5bf2ca9623964ec3601d4d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/06/ec4459c9fba7ea47ab9049dea59dff151.jpg"
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"id": "6941669",
+	"name": "소고기미역국~초간단하게",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/d4a469332379bfc78bec05d3d13ba2101.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941669",
+	"ingredient_ids": [
+		495,
+		665,
+		233,
+		327,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "건미역",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "2",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 건미역을 찬물에서 10분간 불려주세요",
+		"2. 소고기(국거리/양지)를 준비후에 찬물에 10분을 담구어서 핏물을 빼주세요",
+		"3. 불려진 미역을 한번을 비벼서 씻은후 먹기좋은 크기로 잘라주세요",
+		"4. 자른미역에 핏물을 뺀 소고기를 물기를 꼭짜서 넣고 다진마늘/들기름을 넣어주세요",
+		"5. 센불에서 참치액1큰술을 넣고 달달 소고기가 익을정도로만 볶아주세요",
+		"6. 생수(물)을 2L를 부어주신후 센불에서 펄펄 끓여주시고 소금/후추가루를 넣어서 간을 해주신후 중약불에서 10분간을 끓여주세요 *소금대신 국간장으로 간을 하셔도 되세요",
+		"7. 간단하면서도 쉬운 소고기미역국이 완성이 되었어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/3c84a4cdae15bb4dd24e66e3843a45091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/43701c0faab5991ff4f7edd48d0a06371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/7917aad2cf5c82272d4fb57b33fcdc561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/161f098fcac6a3b18b23da511aec41ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/7c4e72152a06dcd43e9aa02c12313abd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/c29480beacc01a833a1d699f3a8ac9831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/0384d5c077572b9952cc3fb0400692c21.jpg"
+	]
+}

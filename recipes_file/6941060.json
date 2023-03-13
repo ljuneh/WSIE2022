@@ -1,0 +1,88 @@
+{
+	"id": "6941060",
+	"name": "무더운 여름엔 딱! 시원한 단호박 물김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/41dc97fa48be893b88e7a6bbb373d4c21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941060",
+	"ingredient_ids": [
+		35,
+		372,
+		1015,
+		9,
+		939,
+		29,
+		455,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "열무",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "단배추",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "미니단호박",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "1.",
+			"ingre_unit": ".L"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 열무와 단배추는 손질하여 소금간을 한 후 씻어 물기를 빼둔다.                           ",
+		"2. ㉡ 말린 사과, 파뿌리, 영지버섯, 자투리 채소를 넣고 육수를 낸 후 멸치와 다시마를 넣어준다.                         ",
+		"3. ㉢ 껍질 벗긴 단호박도 넣어 삶아낸 후 건져낸다.",
+		"4. ㉣ 건져낸 단호박은 채에 걸려 으깨주고, 당근, 청양초, 홍초도 썰어준다.                       ",
+		"5. ㉤ 김치통에 열무와 딘배추, 썰어둔 채소, 액젓, 소금, 마늘, 생강가루를 넣어준다.                             "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/81079704735b0074e65b4196ff3d8eba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/a0c280cb450a13ca02ee1fc10b8497391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/d7384f21873acd87babf1714dfe398451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/1a40b686ee7082170f966cdf43c810241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/5d5dea18a734156882f59100f66267801.jpg"
+	]
+}

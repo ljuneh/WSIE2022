@@ -1,0 +1,102 @@
+{
+	"id": "6941161",
+	"name": "굴소스 두부덮밥 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/d897050ecda06d1fc0851bab4b85d7db1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941161",
+	"ingredient_ids": [
+		323,
+		3,
+		5,
+		9,
+		29,
+		55,
+		30,
+		574,
+		477
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "검은통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "잡곡밥",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 올리브유를 두르고 채썬 마늘을 넣어 볶아줍니다.마늘3쪽, 올리브유1큰술후라이팬약불",
+		"2. 마늘향이 올라오면 채썬 당근을 넣어 볶아줍니다.당근1/4개",
+		"3. 채썰어 물에 담가 전분을 뺀 감자를 넣어 볶아줍니다.감자1/2개",
+		"4. 채썬 양파를 넣어 볶아줍니다.양파1/2개",
+		"5. 팽이버섯은 밑동을 자르고 씻은 후 잘게 갈라 넣어 볶아줍니다.팽이버섯1/2봉지",
+		"6. 부추는 깨끗히 씻은 후 팽이버섯 길이로 잘라 넣어 볶아줍니다.부추1/2줌",
+		"7. 후춧가루와 굴소스를 넣어 볶아줍니다.굴소스2큰술, 후춧가루 약간",
+		"8. 두부는 깍뚝 썬 후 끓는 물에 데쳐 물기를 빼줍니다.두부1/2모",
+		"9. 따뜻한 잡곡밥에 두부와 채소볶음을 얹어주고 검은깨를 뿌려 마무리합니다.잡곡밥1/2공기, 검은 깨 약간"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/142f317b6377a23613937d0f209306e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/e4ab061008dd6bb33bc95d1e90a1e90a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/3944bb40ddbd28f954288be2ee7e1cb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/202e112f4980f3347f129c40390845211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/be554e303105a7a31cd6f35f1a74c0e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/16349083f954b9bd16ec6e875e085c4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/4fee0c293f3966977ca8373c7be0c5791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/3344c9052d35f68aa267b764de3cac8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/20e0d42bcca5d0af5aac2f8510841bc71.jpg"
+	]
+}

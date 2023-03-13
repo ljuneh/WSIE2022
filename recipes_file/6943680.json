@@ -1,0 +1,54 @@
+{
+	"id": "6943680",
+	"name": "브런치! 사워도우가 아보카도를 만난 날",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/dafd5ff2f40901f3910f75e43a6c535e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943680",
+	"ingredient_ids": [
+		162,
+		51,
+		175
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "사워도우",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브",
+			"ingre_count": "15",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "베이비시금치20장정도",
+			"ingre_count": "20",
+			"ingre_unit": "장 정도"
+		},
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 에어 프라이어에 돌리기 칼집을 낸 소시지를 에어 프랫이기에 돌려서 바삭하게 구워준다. 기름을 두르고 후 프라이팬에 구워서 맛있지만 살짝 기름을 빼주고 싶은 엄마 마음에 에어 프라이어를 이용해 본다.",
+		"2. 나란히 놓아주기 에어 프라이어에 고기 설정하고 10분 정도 돌리면 바삭하게 기름기 쫙 빠진 채로 완성된다.에어프라이어",
+		"3. 갓 구운 샤워 도어 빵도 바삭하게 구워야 맛있다는 딸의 한마디에 난 또 이렇게 굽고 있다. 그럼.. 엄마도 이해한다. 뭐든 바삭하고 따뜻한 게 맛있어.. 엄마가 다 해줄게.. 앞뒤로 뒤집어 가며 살살 구워주면 된다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/45c75c86c7068ed6cbd0931e7353ffee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/684f37b2a856a7fe6a614639d971f40f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/8a0d1c5374b1097b44024ebc4f62ef201.jpg"
+	]
+}

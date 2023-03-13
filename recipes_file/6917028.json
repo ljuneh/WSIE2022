@@ -1,0 +1,69 @@
+{
+	"id": "6917028",
+	"name": "더워서 아삭한 맛이 필요할땐 ? 오이크래미샐러드 ★",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/08/05/796e785eeee97946759ef431a3b804371.jpg",
+	"url": "https://www.10000recipe.com/recipe/6917028",
+	"ingredient_ids": [
+		8,
+		228,
+		627,
+		497,
+		226,
+		543
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "크래미",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "머스터드",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 오이를 채썬다.",
+		"2. 채썬 오이는 소금에 10분간 절인 뒤 물기를 짠다.",
+		"3. 크래미는 잘게 찢는다.                     \r                             글러브센스 주방 위생장갑                          ",
+		"4. 볼에 오이, 크래미를 넣고 마요네즈, 머스터드, 설탕, 후추를 넣어 섞은 후 통깨를 뿌려 완성한다.김밥이나 유부초밥, 카나페로 응용해도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/05/4b73039f9b0d630a0320f2b4cfeed8cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/05/3f1b3c7c010ea679c8d54e9f7e98cce51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/05/a5568835ac72341615c34197b18103c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/05/1bc3b27e7abe3844dc52bc046a7b30b11.jpg"
+	]
+}

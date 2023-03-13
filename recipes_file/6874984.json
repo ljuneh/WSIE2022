@@ -1,0 +1,75 @@
+{
+	"id": "6874984",
+	"name": "고구마줄기무침, 짜지않고 담백한 반찬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/18/10a2d2fbe3c5e518a060bdd8d2b8d1661.jpg",
+	"url": "https://www.10000recipe.com/recipe/6874984",
+	"ingredient_ids": [
+		3,
+		848,
+		473,
+		233,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "데친고구마순",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추(고명)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간양파",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간깨",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 준비한 데친 고구마순을 한 입에 먹기좋은 크기로 썰어주세요.가급적이면 키친타월로 물기를 완전히 제거해주는 게 좋답니다. 그래야 물기가 많이 안 나오거든요.",
+		"2. 양파는 얇게 채썰고, 홍고추는 어슷썰어주면 재료 손질은 끝.",
+		"3. 위에 써진 양념재료들중 간깨와 참기름을 빼고 나머지 재료들을 다 넣고 섞어 양념을 만들어주세요.",
+		"4. 완성된 양념에 고구마순을 넣고 조물조물 주물러주세요.",
+		"5. 마지막으로 양파, 홍고추와 참기름과 깨를 넣고 섞어주면 오늘의 요리 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/18/c13a55b5fcda4e2e1a3dd87589b74df41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/18/fcca7193f4c0e29a8d514e47d5baa42c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/18/965591628bb08cf4e6929c76a920a2811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/18/1bfadf0c9d6a63a4b3f68b3a07e917001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/18/3d40a658c2c4a45b8c2019d1584f9d2d1.jpg"
+	]
+}

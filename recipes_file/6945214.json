@@ -1,0 +1,91 @@
+{
+	"id": "6945214",
+	"name": "집밥/ 장조림 반찬 만들기/ 소고기 전복 장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/d6f3bfd6b13b245fdb37f20aad3b7abf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945214",
+	"ingredient_ids": [
+		86,
+		295,
+		477,
+		579,
+		575,
+		379
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "삶은소고기",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "전복",
+			"ingre_count": "7",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소고기삶은육수",
+			"ingre_count": "3",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "3",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "10",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 전복은 구석구석 칫솔을 이용하여  양치질 하듯이 씻어준다. 검은 찌꺼기가  말끔하게 떨어져 나온다.",
+		"2. 밑둥 부분을 술가락으로 밀면서 건드리면 뿌리부분이 떨어져 나온다.",
+		"3. 내장은 죽을 쑤어 먹어도 좋고, 다져서 채소를 넣고 전을 부쳐 먹어도 좋은 반찬이 된다.",
+		"4. 깨끗하고 말끔하게 정리 된 전복.",
+		"5. 소고기 뭇국 끓이고 전복 장조림 하려고 준비한 소고기 사태부위. 탕에 쓸때는 얇게 썰어 주었지만 장조림 할때는 굵게 썰어 주었다.",
+		"6. 준비한 청양고추와 마늘.",
+		"7. 육수와 생수를 반씩 넣고 끓이다가 굴소스 2T, 소주 4T, 올리고당 2T, 간장 10T를 넣고 차음에는 센 불에서 끓여 주다가 바글바글 끓기 시작하면 소고기와 전복을 넣으면서 중간불로 옮긴다.",
+		"8. 국물이 반정도 줄었을때  청양고추와 마늘을 넣고 자박한 상태로 졸여준다.",
+		"9. 소고기 전복 장조림이 완성되었다. 짭조름하고 청양고추의 칼칼한 맛도 느껴지는 밥도둑이 완성 되었다.",
+		"10. 잘 익은 갓김치와 함께 친구하여  먹으니 더이상의 반찬은 필요하지  않을것 같다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/992dea3b4be72af0b7bc9a9ccf00bbcb1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/4a740020cff3cbea6f0a33067733a17c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/a7d8ae51b88ef9acc378607f5ff2e2471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/a6dc551c509c32f2348fa8c0cfe16c1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/85a327999e0c574b6f78cded4cc5d6351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/8ec352052347033c04dc9113daafd8261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/1b6a9f992c2cf496d264feae6fcf5e281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/e2c9307eba16cc1041406f89c04d2fc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/2f4568c685decf229ce1a88891828b071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/40da494a559455af4d304e9fa0859bc31.jpg"
+	]
+}

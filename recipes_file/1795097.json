@@ -1,0 +1,76 @@
+{
+	"id": "1795097",
+	"name": " 까르보나라스파게티",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/742143b83b7ba5141c8a0e8a08782794.jpg",
+	"url": "https://www.10000recipe.com/recipe/1795097",
+	"ingredient_ids": [
+		857,
+		497,
+		402
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삶기전스파게티면90~100g(1인분)",
+			"ingre_count": "90~100g (1인분)",
+			"ingre_unit": "~g (인분)"
+		},
+		{
+			"ingre_name": "버터(올리브유)",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "양파찹",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "베이컨1줄(20g)",
+			"ingre_count": "1줄(20g)",
+			"ingre_unit": "줄(g)"
+		},
+		{
+			"ingre_name": "생크림1컵(200ml)",
+			"ingre_count": "1컵(200ml)",
+			"ingre_unit": "컵(ml)"
+		},
+		{
+			"ingre_name": "그라나파다노치즈(파마산치즈)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		},
+		{
+			"ingre_name": "계란노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "화이트와인",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 끓는물을 넉넉히 준비하고 소금도 짭짤하게 넣고 면을 삶아줍니다",
+		"2. 생크림 200ml에 계란 노른자 한개 넣고 그라나파다노치즈 갈아서 넉넉히 1큰술에 통후추 팍팍 갈아서 넉넉히 넣어준후 잘 섞어둡니다.",
+		"3. 팬에 버터나 오일을 두르고 작게 다진 양파부터 타지않게 볶아주다가 베이컨도 넣고 같이 노릇하게 볶다가 화이트와인을 부어 잡내를 날려줍니다. 베이컨이 타지 않게 옆에서 끓고 있는 면삶은물을 반국자정도 넣어서 자글자글하게 준비해둡니다",
+		"4. 삶아진 면을 넣고 베이컨,양파와 어우러지게 볶아주다가 준비한 소스를 넣고 덩어지지않도록 계속 저어주면서 부드럽게 졸여줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/9f0d0f47ad8f0cd973050d79791ba2661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/d23f7ff0b4d3136d5182f19c245fae8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/73d591105db87bf641dd5abd51624ab31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/b085856786db9a0c8b1dcb1de3beb1e91.jpg"
+	]
+}

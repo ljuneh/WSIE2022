@@ -1,0 +1,177 @@
+{
+	"id": "1250073",
+	"name": "초계탕 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/19/c2fc14d92f7ab304fdfe2b1287133ba9.jpg",
+	"url": "https://www.10000recipe.com/recipe/1250073",
+	"ingredient_ids": [
+		857,
+		27,
+		289,
+		27,
+		21,
+		15,
+		497,
+		225,
+		660,
+		1000,
+		231,
+		226,
+		545,
+		350,
+		497,
+		226,
+		231
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭(작은것)",
+			"ingre_count": "1/2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "메밀국수",
+			"ingre_count": "4",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "계란(지단용)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/5",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "노랑피망",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "빨강피망",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "오이작은크기",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".작은술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "닭육수",
+			"ingre_count": "1.",
+			"ingre_unit": ".리터"
+		},
+		{
+			"ingre_name": "겨자장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 닭은 기름기 많은 곳을 제거하고..찬 물에 푹 잠기도록 담아 통마늘과 통후추, 대파를 넣어 40여분간 끓여냅니다. 처음에는 센 불에 끓이다가 끓기 시작하면 약한 불로 줄이세요. 닭은 소고기와는 달리 빨리 부드러워집니다. 그래서 1시간 이상 오래 끓이면 닭살이 실처럼 다 풀어집니다. 쫄깃한 맛이 덜해요. 그래서 너무 오래 삶지 마세요.",
+		"2. 닭을 건져내고 육수는 식혀서 가제에 걸러 맑은 육수를 준비합니다.육수의 일부는 얼려두고..남은 육수는 차게 냉장보관해놓습니다. 차게 식힌 육수를 다시 한번 걸러주면 기름기가 말끔히 제거되어 더 좋습니다.",
+		"3. 초계탕에 올릴 부재료를 준비합니다.",
+		"4. 오이는 얄팍하게 썰어 소금과 설탕, 식초에 조물조물 무쳐 잠시 두었다가국물을 꼭 짜서 준비해놓고요.",
+		"5. 계란은 지단을 만들어 채 썰어놓고닭살은 소금과 후춧가루, 참기름을 넣어 조물조물 무쳐놓고나머지 재료들은 채썰어서 준비합니다.",
+		"6. 메밀국수는 쫄깃하게 삶아 건져서 찬 물에 전분기가 없도록2~3번 정도 씻어 사리를 만들어놓아요.",
+		"7. 살얼음진 닭육수에 천일염과 겨자장, 식초와 설탕을 풀어 양념하고~~겨자장은 사기 밥공기에 겨자 2큰술에 물 2큰술을 넣어 잘 개어줍니다. 겨자장은 팔팔 끓는 물 냄비 뚜껑 위에 그릇을 뒤집어 올려 15분정도 열을 가해주면겨자가 매콤하게 잘 발효됩니다. 전자렌지에 휘리릭 돌리기도 하는데 자칫하면겨자가 너무 말라붙거나 잘 발효가 안될 수도 있어요. 물이 팔팔 끓는 냄비 뚜껑위에 겨자를 갠 그릇을 뒤집어 올려 발효시키는게 잘되요.",
+		"8. 깨소금을 블렌더에 곱게 갈아 체에 올리고 그 위에 육수를 내려육수에 고소한 맛을 내줍니다.",
+		"9. 닭육수 완성입니다.",
+		"10. 그릇에 메밀국수 담고, 고명 올리고 시원한 닭육수를 부어내면 됩니다. 육수의 간은 각자 입맛에 맞게 소금으로 조절하시면 됩니다. 메밀국수가 들어가니 육수를 살짝 짠 듯하게 간해야 나중에 간이 잘 맞아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/59ced27b905f79fca0d06c8106a752ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/ed4bcc6dff453aab094e3afa7b1be4f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/68ec4bdcf4102fa9213617b8f767e3ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/27f5b1aa3895ec507591dd58eccc02241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/9f64e065a0f4bc790202bdd980e79dd01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/0f12195552a3ff97a6cb0b30ba963a8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/3f2b313787a26fac3b02e38abfd1667c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/fe9a281d7feb1f6ab1c7db881ab317881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/d6a0d357872e254016921b449dfb0d221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/0234a67bd5a98a7aafcd7af0ea2e556c1.jpg"
+	]
+}

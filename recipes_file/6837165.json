@@ -1,0 +1,61 @@
+{
+	"id": "6837165",
+	"name": "다시마 조림(재활용) & 다시마조림 만들어 봤어요♬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/8e77e2ca8060bd135965afe1e47485351.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837165",
+	"ingredient_ids": [
+		379,
+		995,
+		432,
+		843
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "저민마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1.  다시마 한번 사용하면 버리지요 재활용해서 조리는거예요",
+		"2. 1) 우려낸 다시마를 칼로 먹기 좋게 잘게 썰어줘요.",
+		"3. 먹기 좋게 잘게 잘라서 준비해요",
+		"4. 2) 팬에 썬 다시마를 넣고 포도씨유를 넣어 볶아줘요.",
+		"5. 마늘을 저미고 홍고추도 잘라 준비해요",
+		"6.  3) 볶다가 진간장, 저민 마늘, 물, 매실액 등을 넣고 같이 볶아줘요.  4) 3), 홍고추를 넣고 색감이나 매운맛이 나게 넣고 같이 볶아주고 그릇에 담아냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/67a9d441096b2eb1b77fdc22d25c9aec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/6496f8370c8a39d305bf2dae487f6fda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/4bc884c277a245095fd13a3e67723a4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/03186a1a8764f39c3f3023988606fee71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/2efbe55481c1f808ee7e6b7ae360c6481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/5074a65ef2d818e858f5e31fa6f73d3d1.jpg"
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"id": "6944803",
+	"name": "한 입에 쏘옥~ 파프리카 달걀찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/cbce01cc7db378242dc936a98a8368a51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944803",
+	"ingredient_ids": [
+		6,
+		219,
+		291,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "모차렐라치즈",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비",
+		"2. 파프리카의 윗동을 자르고 속 씨를 제거합니다.",
+		"3. 속을 파낸 파프리카에 모차렐라 치즈가루를 솔솔 뿌리고, (뚫림 방지!!)",
+		"4. 달걀에 맛소금과 설탕 한 꼬집을 넣고 섞은 다음, 파프리카에 부어줍니다.",
+		"5. 여기에 남은 모차렐라 치즈를 넣고 파슬리가루를 솔솔~ 뿌려 주세요.",
+		"6. 전자레인지용 그릇에 올려, 약 4~5분간 돌리면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/b6c044788ae0d3803fdeefaed05d198d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/71efda311cdc3964347371a5140cba2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/f4110720364bf1a61c1ad4a03f0d1d591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/4b60b206152e6db9f5c6d653df8b127f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/6700be3c17e166ee5a878481d9efaa7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/4f16e964eb7a627f4bf483f8555f4f711.jpg"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"id": "6898155",
+	"name": "마크정식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/17/a2dbbe6352593854b0e85582178f723c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6898155",
+	"ingredient_ids": [],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡국떡",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "스파케티(편의점)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후랑크소세지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "치즈스틱",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 국물 떡볶이는 고추장을 넣고 끓는 물을 선까지 붓고 전자렌지에 3분30초 돌린다.전자레인지",
+		"2. 스파게티면은 건더기 스프만 넣고 선까지 끓는 물을 붓고 4분 후에 면이 익으면  국물을 따라버린다.",
+		"3. 면이 익는 동안에 소세지는 동글납짝 썰어서 뜨거운 물에 살짝 튀기고 치즈스틱은 결대로 찢어 놓는다.",
+		"4. 떡볶이에 국물을 따라버린 면을 붓고",
+		"5. 스파케티면에 동봉된 스프2종을 넣고 비벼준다.",
+		"6. 소세지 올리고",
+		"7. 치즈 얹고 전자렌지에 30초 돌린다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/17/c22b23b63a2663681c6e10e22f38a5471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/17/bdeed768cd7e46623e9c84e6eec55dc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/17/917466d804beb5cee86b64a43cfe07ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/17/d2529c0ae13c4d9a6b904667f43a0b6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/17/80ec807b21a5acc46ce84902af0c843b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/17/d972752c433e802f0ed4ce6932785acd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/17/91d9736601fe78a5d422c0fac5036a7e1.jpg"
+	]
+}

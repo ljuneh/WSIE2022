@@ -1,0 +1,74 @@
+{
+	"id": "6940681",
+	"name": "오이지 무침 아주 쉽게",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/1cbde4d1eb20be27d6edc1bf51057ec31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940681",
+	"ingredient_ids": [
+		224,
+		226,
+		341,
+		843,
+		231,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오이지오이",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 오이지오이는 물로 한 번 헹굽니다.",
+		"2. 0.5cm 두께로 썰어요.",
+		"3. 정수물에 8분정도 담궈서 짠기를 우려냅니다. (먹어보고 짠 정도를 기억해요.너무 싱거우면 간장을 넣어도 돼요)",
+		"4. 양이 많지 않으니 양손으로 꼬옥 짜서 물기를 없앱니다. (금방 먹을 건 적당히 물기가 있는 게 맛있어요)",
+		"5. 분량의 양념(고춧가루 설탕 물엿 매실액 식초 참기름)을 넣고 조물조물 무칩니다.",
+		"6. 통깨를 뿌려 냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/950f3c65e8cb76450fb9e24ffba64d141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/848c3f71009bf63d6b612f242a3d3dde1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/832a5e0c47eeaea2966d108a0bda4af51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/6aa71c4b715777ad267de30f93fbbe2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/ca01adbf502fe8598a232bc6a7a05fbc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/c08af30f66790cf2ca405ae621c16cf01.jpg"
+	]
+}

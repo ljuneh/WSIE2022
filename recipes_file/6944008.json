@@ -1,0 +1,110 @@
+{
+	"id": "6944008",
+	"name": "간편한 식사로 추천 크래미 게살 볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f8f5681fa1f1f81f9a8765bdad0880f01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944008",
+	"ingredient_ids": [
+		3,
+		9,
+		27,
+		233,
+		607,
+		477,
+		540
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "크래미",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "베트남고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "꽃소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "흑후추",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 대파는 반을 갈라 잘게 썰어주세요",
+		"2. 양파는 잘게 다져주세요",
+		"3. 당근 또한 양파와 동일하게 잘게 썰어주시면 됩니다",
+		"4. 계란에는 소금 한꼬집 정도 넣어 밑간을 하여 잘 풀어주세요",
+		"5. 크래미는 게살을 잘게 찢어주세요",
+		"6. 프라이팬에 기름을 두르고 다진마늘과 대파를 넣어 파기름을 만들어줍니다약불",
+		"7. 베트남 고추도 3개정도 으개어 넣어 매콤함을 살려주세요",
+		"8. 대파와 다진마늘이 살짝 갈색이 날때쯤 양파와 당근을 모두 넣고 30초간 강한불에서 볶아줍니다.강한불",
+		"9. 야채를 30초간 볶아주신다음 진간장 1숟가락, 소금 흑후추 1꼬집씩 집어 넣고 밑간을 합니다.",
+		"10. 밥 2공기를 넣어주세요",
+		"11. 밥을 넣자마자 미리 찢어놓은 크래미도 모두 넣어주시고 강한불에서 30초간 볶아줍니다",
+		"12. 그 다음 굴소스와 소금,후추 1꼬집씩 더 넣고 간을 마무리해주세요",
+		"13. 밥에 간이 완성이되면 프라이팬 한쪽으로 모두 밀어주시고 반대편 비어있는 공간에 계란물을 부어 스크램블을 만들어주세요",
+		"14. 스크램블이 완성되면 볶음밥과 잘섞어주신 다음 맛있게 드시면 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f5854d91726cbdf415a90e0b2fa040791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/9a36f82292c8fd398950eecaf2dba4fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/3205e19c4af533ce309ef5c040a2c2171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/617d093b5d76789891c1be1d8594007d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/9eff22742e5a48fbd9429d82d970b2eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/da2f20a176cb062419a02122a44877da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/63cc9276de6c6196b2638fa451a7319d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/344facce511ea12301074a94521bc44b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/5c966508a6e9b831b57b3f94c67410e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b066c2b5691a81f8a040b891f265459a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/74d344b4c9e2f45f3def5ae547cd23771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/5a65a8c60dabe77aa103253ef493fbf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/e47b9f18e27798120896369aaf22fbea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b57d5da899e1c9bc1cffede41711645e1.jpg"
+	]
+}

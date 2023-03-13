@@ -1,0 +1,38 @@
+{
+	"id": "6920110",
+	"name": "에어프라이어 요리 고구마 굽기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/10/04/a8b9c9c8cfd2d14c7fa7115f0c763d761.jpg",
+	"url": "https://www.10000recipe.com/recipe/6920110",
+	"ingredient_ids": [
+		4
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "종이호일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 에어프라이어 군고구마 굽는법 시간 알려 드릴께요.",
+		"2.  우선 껍질재 고구마를 에어프라이기에 구울거라서 고구마 겉을 부드러운 수세미로 깨끗하게 닦아 세척해서 준비해 주세요.",
+		"3. 그리고 종이호일을 깔고 고구마를 넣어 주세요.",
+		"4. 겹치지 않게 놓아주심 골고루 더 잘 익지요,",
+		"5. 200도에서 15분 뒤집어서 10분 돌려 주심 끝이네요,.에어프라이어",
+		"6. 그럼 맛있는 군고구마 완성 요맘때 또 겨울철 최고의 간식이지용"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/10/04/63c5cee2b6e29f5456756b4c3d469f561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/10/04/9e731b86d13be35608ac4547727089b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/10/04/b7dd057cb262d255afad37a220ad1ca91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/10/04/344504b0b9e6e0d5e7b272e53e567cb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/10/04/9eaeaa565be80dfefc1ce8d30a1d41ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/10/04/366cff72ab17ab10ec422bf356d9d4ff1.jpg"
+	]
+}

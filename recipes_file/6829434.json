@@ -1,0 +1,88 @@
+{
+	"id": "6829434",
+	"name": "냉면",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/25/51e9b0d2739a421188b721efd4bf5e7b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829434",
+	"ingredient_ids": [
+		19,
+		6,
+		3,
+		231,
+		226,
+		497,
+		465
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "냉면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "냉면육수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "겨자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 무는 얇게 썰어서 설탕, 소금, 식초를 넣고 무절임을 만들어요!!1시간 정도 절여주세요.",
+		"2. 시판용 육수를 준비해 주세요.",
+		"3. 냉면은 엉키지 않게 뜯어주세요.",
+		"4. 냉면 뒷면 삶는 시간을 참조해 삶아주세요.",
+		"5. 찬물에 행궈서 준비해 주세요.",
+		"6. 그릇에 면과 육수를 담아주세요.",
+		"7. 무절임을 올려주세요.",
+		"8. 파프리카와 양파등 집에 있는 야채를 올려주세요.삶은 계란등 개인에 취향에 따라 준비해 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/e3721ac3f5a1fef547d59163e474d8b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/7e798a3eea495b1570c7e5920d26c05d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/2fb15f07d7f6ddc24de760c8af53b10b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/d79306dc48a6afcb52f13cbc9960dc611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/1f5a2ae0a48eee6d9b02a502c1e362d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/7c8f4e4550a95dddc1b03b3eeb732fb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/fb56dd93321880418ca452f46c03d7231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/ed4308f0d616e4e20ebd9549ec3456031.jpg"
+	]
+}

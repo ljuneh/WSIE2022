@@ -1,0 +1,58 @@
+{
+	"id": "6897704",
+	"name": "카라멜 입힌 식빵팝콘 레시피, 홈극장 별미",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/12/9eb2e16defe757f67e7449fe84570fc01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6897704",
+	"ingredient_ids": [
+		503,
+		995,
+		226,
+		198
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 식빵 2개를 가위로 네모지게 잘라 주세요.가위",
+		"2. 식빵을 프라이팬에 올려서 한번 구워내 주세요. 구워진 식빵은 다른곳에 덜어내 주세요.자른식빵 2개프라이팬중불",
+		"3. 물 5 T와 설탕 4T를 프라이팬에 올려 프라이팬에 열기에 녹아 내려 물엿처럼 될때까지 가만히 두세요.설탕 4T, 물 5T빨리 녹인다고 절대 저으시면 안돼요.",
+		"4. 설탕물이 끓어 오르기 시작하면 버터 1T를 넣어 주세요버터 1T이 때도 저으시면 안돼요.",
+		"5. 이렇게 버터가 녹으면 색깔이 카라멜 색상이 나와요. 이때 미리 구워 놓았던 식빵을 투하해 주세요. 식빵에 잘 묻어 나도록 잘 섞어 주세요.",
+		"6. 식빵에 카라멜 색상이 입혀지면 종이호일을 깔고 한킴식혀 주시면 굳어지면서 식감이 살아나요.종이호일",
+		"7. 영화 한편 보시러 가시죠~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/12/6d734c39001b655f4d239be8e044481d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/12/46857571a80bc052ea54010ad7a767541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/12/99d293a60f83b3a9e8dcb428f828325c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/12/c841af2a51608181bc362a7fe6871cad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/12/33263d0cd0502d7a20ee21c146c7d4291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/12/fc66bef1b4b50261cfa1be623f2a6dd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/12/6ba16ac5e456d47083b28ae62d70efb91.jpg"
+	]
+}

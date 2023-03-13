@@ -1,0 +1,98 @@
+{
+	"id": "6944413",
+	"name": "도토리묵김치무침 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/c5c0452697a6df9ba73d7afd69b83ed51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944413",
+	"ingredient_ids": [
+		331,
+		224,
+		575,
+		379,
+		95,
+		27,
+		660,
+		543,
+		379,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "도토리묵",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		}
+	],
+	"recipe": [
+		"1. 묵은 먹기 좋은 크기로 썰어 그릇에 담고",
+		"2. 1차로 묵에 양념을 해줄 거예요. 요렇게 해줘야지 간이 좀 더 배어들어 맛있거든요. 간장(1), 참기름(1), 통깨(0.5)를 넣어 살살 부서지지 않게 기본양념을 해주세요. 양이 좀 작아 보이죠? 400g 기준으로 만들어 드심 되고요. 저는 양을 줄여서 만들었어요.",
+		"3. 김치는 잘게 송송 썰어 (1컵) 준비해 그릇에 담고",
+		"4. 여기에 고춧가루(0.5), 올리고당(1), 간장(1), 참기름(1), 통깨(0.5) 그리고 대파는 다져서 1줌 정도 넣어주고 비닐봉지에 김 2장을 넣어 잘게 부셔서 넣고",
+		"5. 함께 조물조물 무쳐 주면 끝! 세상 너무 간단하고 쉽죠~ 갖고 계신 김치마다 맛의 차이가 있으니깐 양념장 참고하셔서 맛있게 무쳐 보세요.",
+		"6. 1차로 무쳐 놓은 묵에 김치 양념을 한데 넣어 함께 버무려 접시에 담아내어도 되고요. 저처럼 따로따로 담아 주어도 된답니다. 먹을 때에는 도토리묵 한점에 김치 양념 올려 먹으면 되니깐요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/15ff75a1a19594b30325ffd55d4acfa31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/4ad490ee7cbd93f8b37107425f59aa701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/86c27c62202db1dfd2951132c72d989c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/0fbf03f3531179c8c6d7a069f931c1fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/19746f1e63961f8f969b0bfc441b72091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/b87d50f97f4a54dbd7bb7ed5e4f9dfca1.jpg"
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"id": "6943766",
+	"name": "쪽파 장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/7a97ec181031d0cd445abfc4d7fee4071.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943766",
+	"ingredient_ids": [
+		757,
+		995,
+		231,
+		226,
+		843,
+		761
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추씨",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 쪽파는 머리쪽이 굵은것이 맛이 있는데 이것밖에 없어서 ,담았습니다",
+		"2. 쪽파는 다듬어서 까끗하게 씻어 채반에서 물기를 빼줍니다",
+		"3. 냄비에 물 진간장 설탕 매실얙 고추씨넣고 센불에서 끓이다 식초는 나중에 넣고 끓입니다 식초를 처음부터 넣고 끓이면 신맛이 달아나는듯해서 나중에 넣었어요",
+		"4. 끓인 장아찌 물은 채에 걸러 식혀 주세요",
+		"5. 쪽파에다 간장물을 넣고 숨이 죽으면 뒤집어 줍니다",
+		"6. 냉장고에 1~2일 숙성시켜 먹으면 맛있습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/161765a449f40fa5ebc71469a296ad4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/3b1bf304ae16136848b7efccc832f0691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/67c1dc5af038a13fd92e36c51d4745321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/50bac5a62b408a32942174ae2adfffaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/a7febb1501ad9aea2fde381ded6e4c051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/18/100423c1a40700af13e08ebe81f1f77f1.jpg"
+	]
+}

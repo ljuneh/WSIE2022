@@ -1,0 +1,95 @@
+{
+	"id": "6892646",
+	"name": "초복 삼계탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/cd815704f3286cc71341043d807a58641.jpg",
+	"url": "https://www.10000recipe.com/recipe/6892646",
+	"ingredient_ids": [
+		132,
+		564,
+		187,
+		736
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "작은삼계닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "작은대파(큰대파)1개(1/2개)",
+			"ingre_count": "1개(1/2개)",
+			"ingre_unit": "개(개)"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "5~10개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "인삼",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "5~10개이상",
+			"ingre_unit": "~개이상"
+		},
+		{
+			"ingre_name": "조선간장",
+			"ingre_count": "8",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물큰솥경우",
+			"ingre_count": "2/3",
+			"ingre_unit": "분량"
+		}
+	],
+	"recipe": [
+		"1. 작은 삼계닭을 준비한다.",
+		"2. 밤은 약10개이상정도 대추도 10개정도 준비한다. 흐르는 찬물에 밤.대추.인삼을 깨끗이 다듬어 씻어둔다.",
+		"3. 작은 대파를 준비한다.",
+		"4. 조선간장을 준비한다.",
+		"5. 다시다를 준비한다.",
+		"6. 큰솥에 물은2/3정도 담는다.",
+		"7. 작은 삼계닭은  찬물에  5분정도 담가둔다.",
+		"8. 흐르는 찬물에 닭을 씻어둔다.",
+		"9. 닭 속이 비워진 상태로 열어둔다.",
+		"10. 닭 뱃속에 다듬어둔  밤.대추를 넣는다. 5알씩정도! 닭 뱃속이 가득할 정도로..",
+		"11. 닭 껍데기 한쪽을 칼로 구멍을 내어서 닭다리 한쪽을 여미어서 넣어둔다. 옆에 사진과 같이 한다.",
+		"12. 큰 솥에  조선간장 8T와 다시다5T를 넣고 물을 끓인다. 가스불은 중센불 유지로 30분 끓인다.",
+		"13. 물이 끓을때즈음 준비해둔  삼계닭을 넣고 다시30분정도 더 푹 끓인다.",
+		"14. 물이 끓을때 나머지 대추와 밤 다듬은 인삼을 넣는다.",
+		"15. 작은 대파는 어슷썰기 한다.",
+		"16. 역시 작은대파도 물이 끓을때즈음 넣는다.",
+		"17. 푹 끓여서 닭이 익으면 젓가락으로 눌러보아서 닭살에 젓가락이 푹!~ 들어가면 닭이  잘 익은상태이다.",
+		"18. 드디어 완성! 잘읽은 삼계닭을 큰대접 그릇에 담아내고 국자로 국물을 떠서 담는다. 대추.밤.인삼도 담아서 플레이팅한다. 시식-밤.대추.인삼이 들어간 진국 닭국물  맛이 Goood! 닭고기 살코기도  부들부들하여  담박하고 맛도 Goood!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/29abcb7a5f6e37df425a0e3cace375111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/9555f2cbd6a5ac6401e5f918497a78ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/4fd6675a17e37e7dd92146cf411e41bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/673b31a26bbe51a2443b5957516bf91f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/17/7ab5def9e9bc45f0ed7e8b701ec0ac961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/607202f1f019cd8d8a3117ab95b5cc9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/486f39ef7f8effe1ddbbe1a35633323f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/b00c81ffd5750c50f79b0449843cc5ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/402fd781d3256ff2bce726d9832bc4141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/bf424fcbd3a95a9d53ebe9212365d5b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/ca1f545474cda965c0f36b27437554221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/55fcd6c0dd7e2f22b3f3660324c2cd601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/249001464cfd0f7685b95d7739346c881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/a6221265a01864c14c410545b10f3b291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/68e1bbe6f0402c9ef34b7beed83925911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/8728fde7da1fb61cdd81d32bed74ceae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/702deba1a40b344a195caf90af70a0511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/16/ebb888754e10034df328b6b371e24cac1.jpg"
+	]
+}

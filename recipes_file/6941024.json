@@ -1,0 +1,67 @@
+{
+	"id": "6941024",
+	"name": "차돌박이 숙주볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/a05872ac6cf3f244a96dee3772b244781.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941024",
+	"ingredient_ids": [
+		52,
+		237,
+		477,
+		379,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "차돌박이",
+			"ingre_count": "",
+			"ingre_unit": "먹고싶은만큼"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "고추기름",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. (중약불)파기름 내기 (마늘 기름 내도 됨)",
+		"2. 다른거 넣고 싶으면 넣기  (새우, 양파썬거 등)",
+		"3. (센불)차돌박이 절반 썰어 넣어 익히기",
+		"4. (센불)소스 (간장3, 굴소스3, 설탕3) 만들어 둔거 넣어 익히기(소스 넣으면 잘 타니 빠르게 요리!!)",
+		"5. 고추기름 3T 두르기",
+		"6. (센불)숙주를 넣고 막 섞은 후 에 불꺼버리기(☆☆5초 정도만☆☆)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/d34b1256e39d3408e0b0b8416dc6153c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/6194c020fc843fb4ab52c11b20062ef11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/532d31b0a235c3d27b4d3c0f380b57a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/6cbaa435b7dda0234a9a0448edd5d1871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/bb8768180ab4bf42b520d864bf905b6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/04f709936e84b5cc9f58931d809f9f241.jpg"
+	]
+}

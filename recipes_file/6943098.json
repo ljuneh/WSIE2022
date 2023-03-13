@@ -1,0 +1,76 @@
+{
+	"id": "6943098",
+	"name": "백도라지 양념구이(더덕구이버젼)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/c00244593edf9ff443c5a281ae38830d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943098",
+	"ingredient_ids": [
+		473,
+		226,
+		29,
+		847,
+		660,
+		379,
+		327
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "백도라지",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "4",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "배즙",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 백도라지는 흐르는물에 손으로 바락바락 주물런 흙을 제거하고 껍질을 벗깁니다",
+		"2. 도마에 비닐을 깔고 더덕 두드리듯 방망이로 살살 ~",
+		"3. 분량의 양녕장을 만들어",
+		"4. 손질한 도라지에 유장이 베이도록 주물럭 주물럭~ 백도라지 양념해서 냉동보관해서 조금씩 꺼내 먹으면 됩니다",
+		"5. 숙성 시켜~",
+		"6. 달궈진 팬에 들기름 두루고 타지않게 앞뒤로 구웠어요",
+		"7. 더덕 못지않게 맛있는 백도라지 구이"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/72b1c7aa26c1dea2875b127c265926c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/036f1486da053e561269f7246e08d82d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/37bab5140c5fecb6d8c0784075b9cf731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/7d4381bc6d19622d8a86ee62e0d7d60a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/6e096c89707924a4d53efd475839240e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/69a53756575cfd9cdb55649af67cb6aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/b1591a9ba98a297a1e3e0698a3a500421.jpg"
+	]
+}

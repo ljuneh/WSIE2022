@@ -1,0 +1,65 @@
+{
+	"id": "6830480",
+	"name": "집에서 랍스터 해먹기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/97e553a53245ecfd0eef32b383f8845e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6830480",
+	"ingredient_ids": [
+		16,
+		211,
+		3,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "랍스터",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "슬라이스파인애플",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "상추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미니파프리카",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마가린",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 집에있는 찜통을 찾아서 두마리를 넣는데 여기서 배가 위로 가도록 해야합니다. 랍스타 육즙이 잘 스며들도록! 한 20분 삶았더니 쪼~온득, 그런데 막 거품이 생기고 들끓더라구요. 왜그런지는 모르겠는데 중간중간에 저는 뚜껑을 여러번 열었어요.",
+		"2. 그다음 들어 가는 버터소스를 만들어여하는데 저는 버터가 없어서 마가린을 넣었어요. 마가린에 양파와 파를 잘게잘게 썰어 넣고 소금을 조금 넣고 충분히 비벼주었어요. 그리고 랍스터 배를 갈라서 사이에 꼼꼼하게 꽉곽 채어넣어야 해요.",
+		"3. 그러고는! 전자레인지에 살짝 돌려주었지요. 여기서 ! 마가린이 녹기때문에 살짝만 치즈가 녹을 정도만 해주어야해요. 아니묜 기름 범벅이 되니깐요.전자레인지"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/ea035e1ae2c7265025de78fa844f20e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/61a05d74aa14ea700d4331fde95c84141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/a60073b721b94f1c73ab99a26a895b471.jpg"
+	]
+}

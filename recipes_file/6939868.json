@@ -1,0 +1,48 @@
+{
+	"id": "6939868",
+	"name": "냉동생선 냉동고등어 비린내 없이 구어 보기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/21/907735c933b99fd7cc925d4d1effc2281.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939868",
+	"ingredient_ids": [
+		59,
+		734,
+		292
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "고등어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "소주잔"
+		}
+	],
+	"recipe": [
+		"1. 깡깡 얼은 냉동고등어를 준비해주세요.",
+		"2. 밥하실때 실온에 냉동고등어를 밖에 빼두세요. 한 30분정도요.전자렌지에 바로 돌려버리면 비린맛이 극대화 됩니다.",
+		"3. 얼어있는 부분에 소주1 or 맛술 소주잔1 정도를 골고루 펴발라주세요. ` 취향이지만 튀김가루와 카레가루 반반 넣어주시면 더 맛있어요.",
+		"4. 기름을 넉넉히 두르신후 껍질부터 구워주세요.중약불",
+		"5. 생선구이에 제일 어려운점은 익었는지 안익었는지 궁금하시잖아요. 이때 쇠젓가락을 콕 찔러서 5초만 세고 손으로 빠르게 터치후 때세요. ` 쇠젓가락이 따뜻하면 익은것 차가우면 덜익어서 더 익혀야 합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/aff936ffa2353ba81761e232be3124321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/6c5390614e3709af76a4390142358b801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/758e3b72ef0d68e6d06fcb6f084920231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/06fd1804a3e3d81024862a7d0a312fb91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/62084b62c10be7fb12f26c0230a639531.jpg"
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"id": "6899030",
+	"name": "참가자미 미역국 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/30/0f5c64086bce55cb3775fbd4684112241.jpg",
+	"url": "https://www.10000recipe.com/recipe/6899030",
+	"ingredient_ids": [
+		91,
+		995,
+		939,
+		497,
+		660,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "참가자미대",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "1",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 참가자미는 깨끗이 손질하고 먹기 좋은크기로 썰어주고",
+		"2. 미역은 깨끗하게 씻어서 채에받쳐 물기를뺀후 한대접 준비 해주세요",
+		"3. 참기름을 넉넉하게 넣고 참가자미를 넣어주고 조금 끓여준다",
+		"4. 참가자미에다* 물3대접을 넣고 *액젓3숟가락, *마늘3숟가락을 넣고 센불에서 팔팔 끓인다",
+		"5. 물이 끓으면 미역넣고 소금 반숟가락넣고 물2대접더 넣고 팔팔 끓이다 약한불에서 서서히 끓여주세요 싱거우면 소금을 더추가 하세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/30/49c51291a53519c5507acd35d9ce859f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/30/cae81b65858ac1f3724b16260209618b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/30/447e91375d24daaf452ac776f886d0821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/30/82f832328130d7e73c7726b1bfbb105f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/30/4c6d27456520dfbe10f6d57818c391611.jpg"
+	]
+}

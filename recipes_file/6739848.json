@@ -1,0 +1,96 @@
+{
+	"id": "6739848",
+	"name": "콩조림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/05/35e132e81200517106a47972593306a61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6739848",
+	"ingredient_ids": [
+		677,
+		90,
+		262,
+		29,
+		504,
+		689,
+		846,
+		738,
+		379,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "서리태",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "잔멸치",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "7",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "건고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "아몬드슬라이스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 깨끗이 씻은 서리태(1컵)를 준비해주세요.",
+		"2. 냄비에 서리태, 물(2컵), 다시마(7g)를 넣어요.",
+		"3. 중불에서 뚜껑을 닫고 15분~20분 정도 삶아주세요. 마늘(3개)을 편 썰고 청주 2T, 조청 2T, 간장 2T을 넣고 조림장을 만들어 두세요.                   ",
+		"4. 삶은 서리태에 편 썬 마늘과 조림장을 넣고 중 불에서 서서히 조려요.(주걱으로 뒤적거리며 국물이 거의 없어질때까지 조려야 해요.)",
+		"5. 참기름 1t, 통깨 약간을 넣어주세요. 완성된 콩조림을 그릇에 담아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/5b0b442d1768886e44361ea8733dab2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/1cd74dd09e858c82e3f5e5d791ecf5181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/d761c73cf64bcfe2531966102fc42de41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/c15962908bb4bdf8bca67f07823ab68a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/37d4493edc4e6c6aec7548836d26d3731.jpg"
+	]
+}

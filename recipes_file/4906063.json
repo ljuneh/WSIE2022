@@ -1,0 +1,89 @@
+{
+	"id": "4906063",
+	"name": "묵은지고등어조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/16c025d2c7c6d50147a4ce76fc887b1c.jpg",
+	"url": "https://www.10000recipe.com/recipe/4906063",
+	"ingredient_ids": [
+		923,
+		715,
+		3,
+		995,
+		27,
+		379,
+		226,
+		224,
+		327
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "1/2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "고등어통조림",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "국멸치",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 양파는 채썰어 준비해주시고 묵은지는 밑둥을 떼어내 준비해주신후에 고등어통조림에서 고등어를 꺼내 묵은지에 싸 주세요",
+		"2. 양념재료는 모두 섞어 준비해주세요",
+		"3. 냄비에 멸치를 깔아주신후에 고등어김치말이를 올려주세요",
+		"4. 고등어김치말이가 끓기 시작하면 양념장을 넣어주시고 물1컵을 더 넣어 국물이 거의 없어질때까지 조려주시고 양파를 넣어 주세요",
+		"5. 매콤하게 고추가루를 더 넣어주었답니다~ 홍고추,대파도 넣어주시구요 없으시면 생략가능하구요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/a7ccadb407fc9d5acadc1c4e8bfab30e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/05f8cd8ff690817a8c8ccc96ef27f49a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/5509535367fb1249b0fe2e6d7dbf1de81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/40b8055f79d44eacac1aa5ce5690604f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/e7325457e526a0b8af656220ef6f8a211.jpg"
+	]
+}

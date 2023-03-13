@@ -1,0 +1,88 @@
+{
+	"id": "6942272",
+	"name": "시래기된장국 만들기 / 간단한 국요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/4a0c5994d9a2260f94e895913a7b5a7f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942272",
+	"ingredient_ids": [
+		848,
+		224,
+		379,
+		233,
+		327,
+		995,
+		90,
+		320,
+		295,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삶은시래기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".L"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 삶은 시래기에 된장, 고춧가루, 간장, 다진 마늘, 들기름을 넣고 조물조물 버무려주세요.",
+		"2. 다시마와 멸치를 넣고 끓는 물에 10분 정도 육수를 내주세요.",
+		"3. 다시마와 멸치를 건진 뒤 시래기를 넣어 주세요.",
+		"4. 물이 끓으면 청양고추, 대파를 넣고 10분 정도 끓여주세요.시래기는 이미 삶은 상태이기 때문에 오래 끓여주지 않아도 돼요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/c15fb7e99dac816b5257a37bd7b5de051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/0653488f1ce3dbd852d4e7feb0d4bd0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/0cd47849bcb243ef67d8c0680f3194cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/ca250b50206405f5e204ed2a5529b6661.jpg"
+	]
+}

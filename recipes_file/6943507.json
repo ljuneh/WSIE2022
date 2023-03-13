@@ -1,0 +1,45 @@
+{
+	"id": "6943507",
+	"name": "밤잼, 밤페이스트 만들기! 간단한데 짱맛!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/f07ce66066bbba55471996e2b69423841.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943507",
+	"ingredient_ids": [
+		187,
+		226,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밤",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 흐르는 물에 밤을 가볍게 세척해주세요",
+		"2. 냄비에 물을 받고 밤을 쪄줍니다 25분찌고 5분정도 뜸들였어요",
+		"3. 껍질을 칼로 벗겨도 되고, 저처럼 숟가락으로 속을 파내도 됩니다 편한걸로 하세요^^",
+		"4. 밤을 으깨어줍니다 이건 취향인데 저는 알갱이 있는게 좋아서 빻았어요 부드러운걸 원하시면 물을 넣고 믹서기에 갈아주세요",
+		"5. 냄비에 밤, 물, 설탕을 넣고 졸여줍니다 10분정도 졸이면 농도가 걸쭉해져요",
+		"6. 한김 식히고 소독된 유리병에 담아 보관하면 됩니다 구운 식빵에 발라먹으면 너무 맛있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/90887f3b854029f5a3800c76c313bb9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/b8342ddf5377ac0e8d9367dbc9a1abb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/b28258a5572c5c00872c501e619e10261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/3595719b450024d28a7b4d8332a442861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/5cdc14625c081f3a71c2194ce2aad4301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/319c512fff6d27bac764a7855dd3b6c01.jpg"
+	]
+}

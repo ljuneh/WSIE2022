@@ -1,0 +1,52 @@
+{
+	"id": "6829422",
+	"name": "더욱 쫄깃한 수제비반죽 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/25/b789099284507d5b15a0a281dca2bb761.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829422",
+	"ingredient_ids": [
+		346,
+		995,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밀가루중력분",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "숙성용물",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 수제비 반죽을 만드실 때에는 중력 밀가루를 사용하셔야 쫄깃하게 만드실 수 있습니다.",
+		"2. 반죽이 용이하도록 크기가 큼직한 볼에 중력분 한 컵과 물50ML를 넣고 소금도 1/2t정도 넣어주세요.",
+		"3. 반죽을 처음 시작하실 때는 힘을 빼 주시고 가볍게 몽우리를 만든다 생각하시고 밀가루와 물이 서로 조금씩 뭉쳐질 수 있게 만들어주세요.",
+		"4. 어느정도 반죽이 뭉쳐지면 이제부터 힘을 주어 10분정도 정성껏 반죽을 치대어주세요.",
+		"5. 반죽 위에 물 1T를 넣어 마름 현상을 방지 해 주세요.",
+		"6. 그런 다음 랩으로 꼼꼼하게 잘 싸 주시고 냉장고에 넣고 15~20분 정도 숙성 해 주세요.",
+		"7. 수제비 반죽 완성입니다. 반죽으로 맛있는 수제비 끓여드세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/3004eb70cd4eae2e1fd63cefbcd81de51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/2acc036fe34abaea181f74f874af91491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/68316b024b209dcb6213f4531f394d9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/bb6b97d0afd661a0194659c350d573141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/7378e9f950b6d438f389e6ae82350d0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/276fb76736f2caa7d6b07f4baab52c9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/dad920147180b5d5528e7d4a209e04191.jpg"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"id": "6940835",
+	"name": "복숭아조림:버려지는냐 먹히느냐(시원한 음식)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/e9e07be331b8126f36e84ec81a976bf11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940835",
+	"ingredient_ids": [
+		144,
+		250,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "복숭아",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "유기원당",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 복숭아 껍질을 벗기고 적당한 크기로 썬다 복숭아조림은 과육이 단단한게 좋은데 전 그냥 물렁한 맛없는 복숭아로 만들었어요.",
+		"2. 물과 설탕을 넣어 젓지않고 설탕이 녹을 때까지 끓여 시럽을 만든다. 보통 시럽의 1:1보다는 설탕양을 대폭 줄여서 물과 설탕 비율을 3:1정도로 해주었어요. 색상을 예쁘게 하려면 백설탕을 사용하세요.",
+		"3. 시럽이 만들어지면 복숭아를 넣어 끓인다. 중간중간 거품을 걷어내주세요",
+		"4. 시럽이 자작하게 졸아들 때까지 조린다",
+		"5. 소독한 병에 담고 냉장보관 한다. 대량생산할 경우엔 복숭아를 소독한 병에 담아 꼭 닫은 후 병째 물에 넣어 끓이면 진공상태가 되어 오래 보관할 수 있어요.",
+		"6. 그릇에 담고 얼음을 넣어 서빙한다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/963c39d7981faa816f93c145187079411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/3d9dfdcc16d3de5a747351d7ff321cc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/e51a0d7d961921fef1f7db21c8add9d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/17316bee59d6a1968ca420143476af551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/f57753f20bb0e1c3afcd51d5ead3b4f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/85b8b8c21079ea49ce75cc1f35ce40711.jpg"
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"id": "6878388",
+	"name": "공심채볶음(모닝글로리볶음) 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/23/d1abc67230b271bd13e1389e605260901.jpg",
+	"url": "https://www.10000recipe.com/recipe/6878388",
+	"ingredient_ids": [
+		477,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "공심채",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "페퍼론치노",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "치킨스톡(생략가능)",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "피쉬소스",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 공심채는 깨끗이 씻어 체에 받혀둡니다. 물기가 어느 정도 제거되면 5센치길이로 썰어줍니다.  줄기와 잎부분은 따로 분리해놓으세요.",
+		"2. 이제 후라이팬에 기름을 두르고 간마늘(1)을 넣고 마늘기름을 내줍니다.",
+		"3. 여기에 페퍼론치노약간을 넣어서 매콤한 향을 입힐거에요.  없으면 마른고추잘게 썰어서 넣으셔도 되요.",
+		"4. 이제 썰어놓은 공심채줄기부분부터 넣고 나른하게 볶아줍니다.(줄기부분은 억세서 오래볶아야해요.) 치킨스톡이 있으시다면 살짝만 넣어주심 더 좋아요~",
+		"5. 이때 굴소스와 피쉬소스(느엄막소스)를 (1)씩 넣어주세요.",
+		"6. 얼추 볶아지면 잎사귀부분을 넣고 센불에서 재빨리 볶다가 참기름으로 약간 넣고 마무리지으시면 완성!",
+		"7. 아삭한 식감이 일품인 공심채볶음이었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/23/fd762eb7bd718d21661ec9af860f2a7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/23/a62a2d6e5591e994002b73ad96fdcc401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/23/90afd05b599e1a511e501709663fec2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/23/065979abee3eea6f9b2dbd3d923ca0891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/23/41a82835b511c9d008cb92f06d1c8bc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/23/e6c3eab2f608e807e759b86054e3d4e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/23/cac18e9acc7f7fdae3721b558f9430b41.jpg"
+	]
+}

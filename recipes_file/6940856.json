@@ -1,0 +1,60 @@
+{
+	"id": "6940856",
+	"name": "마늘쫑볶음 간장으로 휘리릭",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/bad23f652ac2692ef74f77517675a79b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940856",
+	"ingredient_ids": [
+		17,
+		575,
+		497,
+		574,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘쫑",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "살짝"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1.  일단 마트에서 길쭉길쭉 초록색이 강해보이는 아이로 집어왔어요 마늘쫑은 깨끗히 씻어서 양 끝을 다듬어주세요 ",
+		"2.  그리고 먹기좋은 4~5센치 정도의 길이로 숭덩숭덩 잘라주세요 ",
+		"3.  마늘쫑은 살짝 데쳐줄건데요 끓는물에 넣어 살짝만 데쳐주세요 너무 오래 두면 말랑해서 식감이 별로일 수 있으니 적당히!!! 잠깐동안만 담궈주세요 ",
+		"4.  팬에 기름을 살짝 두르고 볶아주다가 진간장 4스푼과 소금 살짝 넣어 볶아주시구요                    ",
+		"5.  어느정도 잘 볶아지면 올리고당도 넣어 같이 볶아주고 불을 끄고 깨를 뿌려주면 끝! 어떤가요, 너무 쉽죠? "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/95ce2d1fb0a15d7180de4f57fa5b5bc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/bc3bac3ea42b51d456ee5e0aa4a9241a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/28cc34902f812ea1abd75d1ab4ddc04d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/1551015e0d6dba57aba9f367411f8b1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/f78286dd38efc4315d463fbed0602d3b1.jpg"
+	]
+}

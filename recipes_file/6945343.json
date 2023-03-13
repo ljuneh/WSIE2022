@@ -1,0 +1,56 @@
+{
+	"id": "6945343",
+	"name": "감자요리 / 에어프라이어 웨지감자 튀김",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/9edb3ef1421d55a3e524d3d0537b3af21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945343",
+	"ingredient_ids": [
+		5,
+		734
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "허브소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 감자는 씻어 준비한다.",
+		"2. 씻은 감자는 웨지 모양으로 자른다.",
+		"3. 자른 감자는 찬물에 담가 전분기를 제거한다.",
+		"4. 전분을 제거한 감자는 물기를 제거한다.",
+		"5. 감자는 그릇에 담고 올리브오일, 허브소금, 카레 가루, 튀김가루를 넣어 버무린다.",
+		"6. 에어프라이어로 180도에서 20분가량 굽는다.",
+		"7. 한번 구운 감자는 뒤집어서 200도에서 10분가량 굽는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/a8e8b5f9471caa931c5fd5c6fbd047751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/a52208ad2e088e6dd693fb4794425faf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/9efe511ec2e5dccf8d20a0d831ee16db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/98bb9b7de4b07f38a1492fb2650a531a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/f6b9aadef907fbb577681e376f795af31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/848c506d77c4c7f30ff8c8f8ec6caf541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/e542f36d88c5b54bc2c71323e2b075061.jpg"
+	]
+}

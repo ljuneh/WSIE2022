@@ -1,0 +1,81 @@
+{
+	"id": "6945674",
+	"name": "보리새우볶음 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/551f0ee8112963106d5824bc62cf1b221.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945674",
+	"ingredient_ids": [
+		410,
+		379,
+		226,
+		575,
+		504,
+		660,
+		543
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "보리새우",
+			"ingre_count": "90",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 마른 팬에 보리새우를 넣어 볶아준 후 따로 덜어놓습니다.보리새우90g팬중불",
+		"2. 달군 팬에 기름을 두르고 다진 파를 넣어 볶아줍니다.식용유1큰술, 대파1/4대팬약불",
+		"3. 파향이 올라오면 간 마늘을 넣어 볶아줍니다.간 마늘1큰술",
+		"4. 설탕, 간장을 넣어 바글바글 끓여줍니다.설탕1.5큰술, 간장3큰술",
+		"5. 양념이 끓으면 볶아 놓은 새우와 올리고당을 넣어 잘 섞어줍니다.올리고당1큰술",
+		"6. 올리고당이 잘 어우러졌으면 불을 끄고 참기름을 넣은 후 잘 섞어 마무리합니다.참기름1큰술",
+		"7. 통깨를 뿌려줍니다.통깨 약간"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/4624fb8c217b7b34f5ee47ed2d7239481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/6079a8b352143ba22f972e90eacffa141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/1b2913213b7e2b6c51a3efd5a9c06cf21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/4f320e9a9900bc9a3f4dc3cfd9d991701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/29ca845cc3445908da5297ef3ccbd3061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/5a5514cd5056b5574c8b763ce848f6b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/853fad6fed618af08edcea5e5cbfa3731.jpg"
+	]
+}

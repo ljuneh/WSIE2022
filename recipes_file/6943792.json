@@ -1,0 +1,68 @@
+{
+	"id": "6943792",
+	"name": "참치김치볶음밥 한그릇음식 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/69dd4a348fcbfee9c2b22007307320301.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943792",
+	"ingredient_ids": [
+		953,
+		27,
+		473,
+		966
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "찬밥",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참치캔통조림",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "조미김",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1.  팬에 대파를 쫑쫑 썰어 넣고 기름과 달달 볶아서 파기름을 내줍니다. ",
+		"2.  김치는 가위로 대충 자르고 참치는 기름을 빼고 넣었어요. 파기름을 낼 때 기름이 들어갔기에 참치의 기름은 제거하고 넣어주시면 좋겠죠. ",
+		"3.  고추장 1큰술을 넣었습니다. (밥의 양에 따라서 다르겠죠? 저는 반 공기만 넣을 건데 고추장의 양이 좀 많았어요) ",
+		"4.  재료들을 넣고 볶아줍니다. 저는 신 김치가 아니고 익은 김치로 만든 참치김치볶음밥입니다.",
+		"5.  밥을 넣고 재료들과 잘 볶아줍니다.                    ",
+		"6.  밥을 넣고 재료들과 잘 볶아줍니다.                    ",
+		"7.  조미김은 비닐봉지에 넣고 부셔줍니다. 김을 참치김치볶음밥 위에 올리면 됩니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/381b3dd90b02b8e15bda569d1adaf0a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/3dcfcb9a5c156894edf907a6e1cd2e551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/891194eb5834f3e4f5e46c287dbe95f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/39917102e1e48017efc0c9b9d0becbd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/abfa074e259149cb471f724efe4071ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/e3bd7b0b108b0b378e4f328668062c6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/5dfd03dff9dc4c061c9248370f2358771.jpg"
+	]
+}

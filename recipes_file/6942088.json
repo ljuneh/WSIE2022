@@ -1,0 +1,59 @@
+{
+	"id": "6942088",
+	"name": "코로나 극복 고추튀김 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/fc8c59b1c717072e3c5818a6f214b0571.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942088",
+	"ingredient_ids": [
+		387,
+		995,
+		734
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".종이컵"
+		},
+		{
+			"ingre_name": "치킨파우더",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "고추큰것으로10개이상",
+			"ingre_count": "10",
+			"ingre_unit": "개 이상"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100~200ml",
+			"ingre_unit": "~ml"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1.5~2종이컵",
+			"ingre_unit": ".~종이컵"
+		}
+	],
+	"recipe": [
+		"1. 고추튀김용 고추는 두꺼운 아삭이를 많이 사용해요. 그래서 흐르는 물에서 깨끗히 씻어줍니다.",
+		"2. 그리고 꼭지부분을 남겨두긴 해야하는데 저처럼 상해있으면 싹둑 잘라주세요.",
+		"3. 튀김반죽을 만들어줘야하는데 튀김가루 있으시면 튀김가루만 사용하세요. 없으시면 저처럼하시면 됩니다. 농도는 너무 묽은 정도는 아니되 뚝뚝 흐르는 정도가 좋아요",
+		"4. 그리고 가장 중요한건데 고추를 그냥 튀기면 안에 수분이 차서 튀기는 중간중간 터지거든요. 그래서 이렇게 중간에 꼭 칼집을 내주셔야합니다.",
+		"5. 칼집을 낸 고추는 반죽에 넣고 골고루 묻혀줍니다.",
+		"6. 식용유는 밑에서 자박하게 찰랑일 정도면 오케이. 강불에서 달궈서 중불로 낮추주시구요. 반죽을 살짝 떨어트렸을 때 보글보글 올라오면 타이밍이에요.강불-중불 ",
+		"7. 그리고 달군 기름에 넣어주시면 되는데, 고추튀김을 만들때 저처럼 튀김옷을 가득 묻히시고 싶으시면 튀기기 직전에 진짜 반죽을 듬뿍 묻혀서 바로 넣어주셔야합니다.",
+		"8. 노릇하게 앞뒤로 튀겨지면 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/065834e8e233a188379a75739a8905761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/c95b1791372ebb501a198d7c7fcca7f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/b9c1668cf837261d261fd03f9c27d5f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/17e2b19a551ce15c6572918c1fb7f6051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/3833290a787bed64496082d93707861d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/8e6bca5719d8be8c237c2528c6f64c1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/71ce64f5e9111f1a7753fae580ed7d421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/be1f4387f59007db36e53f01cb17452a1.jpg"
+	]
+}

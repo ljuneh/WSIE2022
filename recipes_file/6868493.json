@@ -1,0 +1,84 @@
+{
+	"id": "6868493",
+	"name": "달콤한 초코칩 스콘 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/30c04bdc6ef29378032d61cf05cea3161.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868493",
+	"ingredient_ids": [
+		373,
+		226,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "차가운무염버터",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "90",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "초코칩",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 박력분과 베이킹파우더를 체에 내려주세요. 그런 다음 설탕과 소금을 넣어주세요.",
+		"2. 재료가 골고루 섞이도록 거품기로 섞어주세요.",
+		"3. 1cm 크기로 썬 차가운 버터를 넣고만들기 전에 1cm 크기로 썰어 사용하기 전까지 냉장고에 넣어두세요.",
+		"4. 버터가 작은 콩만한 크기가 될 때까지 다지듯이 섞어주세요.버터가 녹지 않도록 빨리 작업해주세요!",
+		"5. 가운데를 움푹 파주세요. 그런 다음 계란과 우유를 섞어서 들어간 부분에 부어주세요.계란과 우유를 따로 넣는 것보다 같이 섞은 후 넣어주세요.",
+		"6. 주걱으로 가르듯이 섞어주세요. 가루가 조금만 보일 때까지 섞어주세요.",
+		"7. 초코칩을 넣고 주걱으로 대충 섞어주세요.",
+		"8. 그런 다음 손으로 가볍게 뭉쳐주세요.스콘은 밀가루가 조금 보여도 괜찮으니깐 너무 오래 반죽하지마세요!",
+		"9. 랩 위에 반죽을 올리고, 2~3cm 두께로 밀어주세요.",
+		"10. 반죽이 마르지 않도록 랩으로 꼼꼼하게 감싸서 냉장고에 30분 정도 넣어두세요.날씨가 더우면 1시간 정도 넣어두세요.",
+		"11. 휴지가 끝나면, 6등분으로 잘라주세요.",
+		"12. 윗면에 계란물을 고르게 발라주세요.",
+		"13. 180℃에서 20분간 노릇하게 구워주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/ddeaebcacbc691fb5ee6787bca8664761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/eb42bc47c22b3191f483d53005a14bc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/9c2818566a28ae91a55f8f98408442561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/04c6f0f40464914e6c03d5af6ebedfd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/d916af132a19c8e17a3d6d6d7fb2585b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/0a24305e517afa98463b0fc136bcb1701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/d78a58b69d7cb042192c4bc49e5e8e401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/8a2d68351903ee596d4f403ad4353b4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/5125183e34b9b36088b57fdcaad0eda11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/c9a3df3e371757badd4e58424e3744211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/2b5e6e3d0d9211d9109a6f066a5f045e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/a83919b8a23be41dbfbb11d8a002d7c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/16/96712bc322a2772a68f048f136268eda1.jpg"
+	]
+}

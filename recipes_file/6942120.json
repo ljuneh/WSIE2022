@@ -1,0 +1,69 @@
+{
+	"id": "6942120",
+	"name": "두부강정 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/1bf4456311ed3edae28cabef6f13f87e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942120",
+	"ingredient_ids": [
+		383,
+		379,
+		724,
+		473,
+		341,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "단단한두부1모",
+			"ingre_count": "290",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "감자전분",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 두부는 단단한걸 준비하여 먹기좋게 칼질해서 전자렌지용기에넣어 4분정도 돌리면 수분이 꽤많이 빠집니다전자레인지",
+		"2. 전자렌지에서 수분을 빼놓은 두부에 감자전분을 꼼꼼히 발라줍니다 기름에 노릇노릇하게 튀긴후 채반에 받혀놓으세요",
+		"3. 바삭하게 기름에 잘 튀겨줍니다",
+		"4. 양념소스를 약한불에 끓인후 끓어오르면 튀겨낸 두부와 함께 뒤적뒤적 버무리연 두부강정 요리 끝!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/8076fd6ae72b2407a37d9cd8af6674241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/52dcfe2a075e3630f75c45f881e082fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/14bfeff653e126cdacbc0be625d49c4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/6911fdebe55517cf59a9d8a8a1555e7c1.jpg"
+	]
+}

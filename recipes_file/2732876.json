@@ -1,0 +1,57 @@
+{
+	"id": "2732876",
+	"name": "단호박을 넣은 된장찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/46330347bc3ff7c0e755fbbd8bb3804a.jpg",
+	"url": "https://www.10000recipe.com/recipe/2732876",
+	"ingredient_ids": [
+		5,
+		328,
+		27,
+		295,
+		995,
+		848
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "단호박",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		}
+	],
+	"recipe": [
+		"1. 감자를 준비했구요. 껍질 벗기지 않고 깨끗이 씻어서 씨눈만 도려내고 숭덩숭덩 썰었어요. 대파와 청양고추는 어슷썰고 단호박도 감차크기에 맞춰 썰어 놓습니다. 단호박은 껍질쪽에서 썰면 단단해서 썰기가 힘드니까 꼭 안쪽면에 칼을 넣어서 썰어주세요^^",
+		"2. 원래는 재료들도 안익는 순서대로 익히면서 끓이는데 이날은 바쁘고 급해서 다 때려 넣공... 보글보글 끓을때 버섯 남은것도 발견해서 그것도 넣어주고 된장도 풀어 넣었어요",
+		"3. 완성된 된장찌개입니다~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/8ffc7f5c92c194513964b1f98640fc0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/33e29fb9ee154eec2a69f1cebfb6c9571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/99b5cbb3e9416b5febe9000712fcbad41.jpg"
+	]
+}

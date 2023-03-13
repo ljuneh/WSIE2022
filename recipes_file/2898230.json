@@ -1,0 +1,77 @@
+{
+	"id": "2898230",
+	"name": "칼칼한 두부찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/4aa00a2960895385dd58e58fcc8416241.jpg",
+	"url": "https://www.10000recipe.com/recipe/2898230",
+	"ingredient_ids": [
+		323,
+		3,
+		27,
+		846,
+		379,
+		233,
+		846,
+		327
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 두부는 2등분해서 1cm 두께로 썰어요. 양파는 채 썰어 놓고 대파는 어슷썰어서 준비했어요.  양념장을 미리 만들었어요. 국간장에 다진 마늘 , 고춧가루,청주 넣고 섞어 두었어요. 고추가루가 불으면서 양념이 숙성되어서 미리 만들어 두면 더 맛있는 것 같더라구요~",
+		"2. 멸치 다시마 육수를 내서 그 육수에 양파부터 넣고 끓이다가 양파가 익으면 양념장, 두부, 대파,또 그위에 양념장을 올리고 보글보글 끓여줍니다. 마지막엔 들기름 한스푼 둘러줬어요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/baf81de6bc731fa6ef8ee84b61cac7ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/856fb02b61d2b497aabb99a034314b5e1.jpg"
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "6939911",
+	"name": "밥솥 토마토 계란탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/099fe3da332c758f2d0bec60cec605dc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939911",
+	"ingredient_ids": [
+		51,
+		660,
+		504,
+		477
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 토마토 1개를 꼭지를 자르고 토마토를 반으로 잘라 썰어주세요",
+		"2. 밥솥에 식용유 1T넣고 토마토 썬 것, 다진파 한줌, 굴소스 0.5T, 진간장 0.5T, 마늘가루 0.5t(혹은 다진 마늘 1t) 넣고 섞어주고 재가열 9분 해주세요",
+		"3. 재가열된 모습. 재가열되는 동안 물을 끓여서",
+		"4. 끓는 물 250ml를(머그컵 한 컵) 부어주세요. 재가열 9분 해주세요",
+		"5. 재가열되는 동안 계란 하나를 풀어놓고",
+		"6. 전분 1T에 물 2T해서 전분물을 만들어주세요",
+		"7. 재가열이 완성되자마자 계란물을 둥글게 넣고, 전분물도 둥글게 부어주세요. 젓지 마시고 밥솥 뚜껑을 닫고 1분간 익기를 기다려주세요",
+		"8. 그러고 그릇에 담아주시고 참기름 1T, 후추, 다진파 올려서 드시면 돼요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/3a3f91a75f9c5e54c714e1309adec1fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/7048b13aecad9d07913a527593c3a61c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/78340ad6ab336148f0ffaa1a4ec3a6121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/6106f1eb757830fa1e838d0cb4b53e691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/408afc15cf7fbb7521849992b0deb5a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/bf471b0155ff67a11e2ac1b4fdc759351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/d85283afdad0bc09b1a2abc92254ade51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/84d747f11f77bf5d8679e4147197937b1.jpg"
+	]
+}

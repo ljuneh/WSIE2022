@@ -1,0 +1,48 @@
+{
+	"id": "6943555",
+	"name": "안보면 후회하는 마성의 레시피 가지덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/ae2bbb49b06f0ece00e46c6e337c17861.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943555",
+	"ingredient_ids": [
+		18,
+		292,
+		995,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1",
+			"ingre_unit": "각"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 가지는 껍질을 벗기고 반으로 잘라 랩을 씌어 전자렌지에 1분 30초 데워주세요전자레인지",
+		"2. 가지에 칼집을 내고 넓게 펴줍니다",
+		"3. 팬에 기름을 두르고 앞뒤로 노릇하게 구워주세요중불",
+		"4. 분량의 소스를 넣어 30초 정도 졸여 줍니다약불",
+		"5. 밥위에 가지와 소스를 얹으면 완성 입니다^^"
+	],
+	"recipe_img": []
+}

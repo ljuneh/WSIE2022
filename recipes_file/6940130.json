@@ -1,0 +1,66 @@
+{
+	"id": "6940130",
+	"name": "한그릇요리 먹고 남은 돼지불고기로 새롭게 돼지불고기볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/fce52d180e902d9d1c1f3b989e4acc931.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940130",
+	"ingredient_ids": [
+		295,
+		3,
+		379,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지불고기",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 양파를 잘게 썰어 놓습니다",
+		"2. 고추는 씨를 제거 하고 잘게 썰어 놓습니다",
+		"3. 고추 양파 파를 섞어 놓습니다",
+		"4. 웍에 돼지불고기를 넣고 볶습니다",
+		"5. 밥을 넣고 볶아줍니다",
+		"6. 양념을 한후 볶습니다",
+		"7. 그릇 밥 야채를 올리고 계란후라이를 올립니다",
+		"8. 식탁에 냅니다"
+	],
+	"recipe_img": []
+}

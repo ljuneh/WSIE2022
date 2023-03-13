@@ -1,0 +1,80 @@
+{
+	"id": "6945279",
+	"name": "바지락 술찜..",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/8ce856a5180eb7c3451602b1ca684f341.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945279",
+	"ingredient_ids": [
+		84,
+		295,
+		27,
+		607,
+		198,
+		579,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "바지락",
+			"ingre_count": "1",
+			"ingre_unit": "키로"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "7",
+			"ingre_unit": "개정도"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "베트남고추",
+			"ingre_count": "7",
+			"ingre_unit": "개정도"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1/2",
+			"ingre_unit": "병"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 바지락 1키로는 이렇게 통에 담긴걸 샀더니 해감이 다 되있더라구요.. 해감이 안 되있다면 소금물에 담가 해감을 시켜주면 됩니다.",
+		"2. 마늘,고추, 대파는 총총총 썰어서 준비하구요.",
+		"3. 베트남고추도 준비합니다. 매콤한걸 싫어하심 빼셔도 되고 양을 줄이셔도 됩니다.",
+		"4. 웍에 버터 조금 넣고 편마늘 넣어 볶아주다가..",
+		"5. 해감된 바지락 씻어서 물기 빼준걸 넣어줍니다.",
+		"6. 그 다음 소주 반병을 부어주고..",
+		"7. 물을 조금 더 부어 자박하게 만들어 줍니다.",
+		"8. 그 다음 뚜껑 덮어 바지락 입이 열릴때까지 끓여줍니다.",
+		"9. 바지락 입이 다 벌어졌으면 대파, 고추를 넣어주고 마무리합니다. 그럼 바지락 술찜 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/21030ad3540c7a3470052194958c3d051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/eaa2cfd4ca4f2d08f83fa28b37264da21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/0d876ad723b65a5580061dbecce4f2121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/3c4e07f536bbfacecb92ae245999d89e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/6ca58dd1823877c48a15ec6684304e711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/4e734d02aa8313884d70e7c3a37494711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/29be7c498d9eef6fd597130dba6f21171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/b2ee83c56bc3909a9ee67f49da3940eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/aba598d8550161c2e4d35b44413f92b61.jpg"
+	]
+}

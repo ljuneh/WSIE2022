@@ -1,0 +1,73 @@
+{
+	"id": "6853073",
+	"name": "날치알밥:냉장고속 반찬으로 쉽게 쉽게 만들어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/19/3131c67d9d262d9491a45225b990008f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6853073",
+	"ingredient_ids": [
+		327,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "김치볶음",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "오이지(물/마시는식초)",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "날치알(청주/맛술)",
+			"ingre_count": "1",
+			"ingre_unit": "개분"
+		},
+		{
+			"ingre_name": "시판맛가루(후리가케)",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "부추고추양념장건더기만",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 들기름+참기름을 발라주세요",
+		"2. 밥을 냄비에 고르게 펴담고 뚜껑덮어 약불에서 5분이상 두세요",
+		"3. 날치알은 청수나 맛술에 담갔다가 고운 체에 받혀 걸러두세요",
+		"4. 오이지는 마시는식초+물에 담가두었던 것을 잘게 썰어놓으세요 *마시는 식초가 없다면,일반식초에 설탕이나 매실청을 더해 물에 희석해서 담가두세요",
+		"5. 미리 만들어 두었던 볶음김치양념도 꺼내두세요 *볶음김치양념 만들기: -김치는 신 정도에 따라 가볍게 씻거나 속만 털어내고 잘게 썬다 -고춧가루+고추장+다진마늘+들기름+참기름에 버무린다 -팬에 약불에서 오래 볶아낸다",
+		"6. 역시 만들어 둔 부추고추양념장도 꺼내두세요 *부추고추양념장 만들기: -부추와 고추는 잘게 썬다 -부추와 고추의 양에 맞춰 양조간장+국간장+양파청을 넣어 섞는다 -참기름+깨소금을 넣는다",
+		"7. 냄비밥을 살짝 들었을 때 사진의 정도로 누르면 딱 좋아요",
+		"8. 냄비밥 위에 준비한 재료를 둘러 담고 뚜껑덮고 약불에서 1~2분 정도만 놔두세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/19/39ba958c29d59fc1c930614e34a12f471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/19/9dd44994d29e7435a855982e45af10011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/19/1c4aa4ee26952340f1a0fcceec51b0c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/19/fb86281f48903bbdc1707cec1a4b71af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/19/518529ed2d5a2a61430e78a84acaa7d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/19/45303b7cececa6a1bd50980bd9db1f9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/19/7ac71698bcdc24d58ed4cef7827208b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/19/d7803c770f2cab61c1c41d00ca653cec1.jpg"
+	]
+}

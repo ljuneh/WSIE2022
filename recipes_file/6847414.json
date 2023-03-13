@@ -1,0 +1,101 @@
+{
+	"id": "6847414",
+	"name": "최고의 술안주 고단백 번데기/얼큰한 번데기탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/61b2fb2461dd8723f2574b15551fde6d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847414",
+	"ingredient_ids": [
+		404,
+		3,
+		295,
+		27,
+		473,
+		224,
+		379,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "번데기",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "캔국물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해 주세요~",
+		"2. 청양고추와 대파는 동글동글하게 썰어 주고 양파도 번데기 크기로 듬성 듬성 썰어 주세요~",
+		"3. 번데기캔을 개봉해 보았어요~ 국물이 꽤 많은데 요 국물 버리지 마세요~",
+		"4. 캔국물은 컵에 따라 두세요~",
+		"5. 팬이 뜨거워지면 기름을 두르고 양파와 썰어 둔  대파의 반만 넣고 볶아 주세요~",
+		"6. 번데기를 넣어 주세요~ 옥수수콘과 느타리버섯이 섞인 번데기캔이랍니다",
+		"7. 번데기를 잘 볶아 주세요~ 한번 번데기를 볶아 주면 번데기의 잡내를 잡아줘 깔끔한맛을 즐길수 있답니다",
+		"8. 따라 놓은 번데기캔 국물을 넣어 주세요~",
+		"9. 물반컵을 더 넣어 주세요~",
+		"10. 보글보글 끓으면 고춧가루를 넣어 주세요~",
+		"11. 고추장도 넣어 주세요~ 더 맵게 먹고 싶을때는 고춧가루와 고추장을 더 넣어 주면 되요~",
+		"12. 끓으면 간장 넣고 간을 맞춰 주세요~ 후추도 기호에 따라 넣어 주셔도 되요~",
+		"13. 마지막에 청양고추와 남은 대파 다 넣어 주세요~",
+		"14. 한소끔만 살짝 더 끓여 주면 번데기탕 완성되요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/492ce43686c3a12f39d830042b5cc7f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/caa663d9ea19841b24f104d5d6d0727c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/c925d771efbbf8830bbb47c05cb290991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/b5f1393e034f9017ce8c404ea5065d311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/71c4d0b7f50ea9b601ab21f2c5b91bf61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/8cee41d4f12ce908cd0673803c7e1bc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/86f47622fdd4fb2afc7b4d7956c22f731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/7abadde40fb7d4f0b2a381e8550de3621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/01aac5fe4608f7f78ed9cf9f0afb907e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/0a1ca01e870a55e62ff6176cae544bb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/25b2a0d88e4b77be46343cd2ef13e1af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/8afcde80abdb17128d777abbbd8912ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/c98ddfa0b0bb9f0584671cd6b197d7e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/8229e5aade70802c6a0d43cece30b8ae1.jpg"
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"id": "6942915",
+	"name": "집밥메뉴/ 얼큰 차돌박이 라면/ 해장라면",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/8ffbc5d6fa43ed91403968d2dd09e32f1.gif",
+	"url": "https://www.10000recipe.com/recipe/6942915",
+	"ingredient_ids": [
+		27,
+		219,
+		295
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "라면사리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "육수혹은생수2C+1/2C",
+			"ingre_count": "2C +1/2C",
+			"ingre_unit": "C C"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "5",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "차돌박이",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "라면수프",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 집에 있는 찌개용 라면사리. 라면 1봉지를 이용하면 편할 것 같다.",
+		"2. 채소 육수를 이용하였지만 그냥 생수를 이용해도 라면은 맛이  있는 것 같다. 2C+1/2C을 이용 하였다.",
+		"3. 라면 외에 부재료로는 대파 5Cm, 청양고추 1개 잘게 썰어주고, 달걀 1 개, 차돌박이 50g, 라면스프 1개 준비 하였다.",
+		"4. 물이 끓으면 라면사리를 넣어준다.",
+		"5. 라면 수프를 넣어주고,",
+		"6. 준비한 청양고추와 썰어 놓은 대파를 넣어준다.",
+		"7. 부르르 끓기 시작하면  차돌박이 소고기를 넣어준다. 총 3분 정도 끓여주면 된다.",
+		"8. 기호에 따라서 다르겠지만 내 취향에는 꼬들거리게 잘 익었다.",
+		"9. 그릇에 담아주고 달걀 노른자만  위에 올려준다.",
+		"10. 잘 익은 김치와 한끼 식사로 충분한 얼큰 차돌박이 라면. 해장라면 으로 아주 좋다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/5afb37c1faea96739deb6455ceac92971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/d0e1d3075d4e5ac22572abca37ef74c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/08910601d44f73e8d6189e1384eb47501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/b27d57bba409d9b982268214558618f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/5ee86caa986cafd297d7578026b6bad91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/ca6b2642ef0778297a72ba7526a6cd8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/be7a1a60253890b5dc3d7862e1f0399f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/aa356aa46c240d110444c4b50189aa181.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/7f50392773800258740a94c19d6d433f1.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/43a41296774cb97ed5b2603159470e361.jpg"
+	]
+}

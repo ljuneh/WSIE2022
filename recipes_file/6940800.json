@@ -1,0 +1,60 @@
+{
+	"id": "6940800",
+	"name": "계란말이 만드는법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/fde90a00c47bf63a08bd5adbafe8159e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940800",
+	"ingredient_ids": [
+		219,
+		95,
+		292,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		}
+	],
+	"recipe": [
+		"1. 대파를 다져서 수북하게 3숟가락 정도 준비하고 볼에 달걀 4개를 준비하고",
+		"2. 대파를 한데 넣고 양념재료인 맛술(1), 소금(0.3)을 한데 넣어 고루 섞어주고 찍어 드셔보세요. 제 입에는 삼삼하니 간이 괜찮은데 혹시라도 부족하면 소금을 넣어 입맛에 맞게 간을 하심 되겠죠? 달걀이 대란이라 4개만 준비했는데 더 두툼하게 만드시려면 넉넉하게 준비하세요. ",
+		"3. 달군 팬에 식용유를 두르고 불은 중약 불로 줄여주세요. 센 불에서 하면 탈수 있어요. 그리고 난 뒤 달걀 푼 것을 전체적으로 부어주고 (한 번에 다 붓는 게 아니에요)",
+		"4. 달걀 익 부분이 익기 시작하면 김 1장을 반으로 접어 올려주고",
+		"5. 끝에서부터 돌돌 말아주고 남겨 두었던 계란물을 부어가며 반복해서 계속 말아 주심 된답니다.",
+		"6. 사각 팬으로 하면 모양 잡기가 수월해요. ",
+		"7. 자연스럽게 한 김 식힌 후 먹기 좋은 크기로 썰어 주면 끝!",
+		"8. 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/45964b0c42ca62588e20738d4c3ad5561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/2e606f20d12152fde7f459963725f7321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/0c7a76f892a0ec0f05465309113f6e4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/ef3c4b65335d3039520daea9360c67a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/6c22754b9ec51f81ec46913395f496bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/7f5f1cf94918cf635368f35f4c58a8fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/fffc7804c9ebb9920be77cbcad5079041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/53528acc0e881f512cef54f083577df61.jpg"
+	]
+}

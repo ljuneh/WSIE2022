@@ -1,0 +1,112 @@
+{
+	"id": "6945580",
+	"name": "감자채볶음 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c8c6dda3b2f64913f25a1c668e2c4e4f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945580",
+	"ingredient_ids": [
+		9,
+		295,
+		504,
+		27,
+		379,
+		477,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "감자3개약",
+			"ingre_count": "500",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마른고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘편",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "미원",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "산초기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 감자를 0.3센치 두께로 채썰어 찬물에 식초 몇방울 넣고 담그어 줍니다",
+		"2. 당근도 같은 크기로 채썰고 청양고추 잘게 썰어 준비합니다",
+		"3. 펜에 식용유 2큰술 두르고 마른고추 넣고 향을 내고",
+		"4. 마늘편 대파 어슷하게 썰어 넣고 향을 내고",
+		"5. 감자채 당근채 넣고 볶아줍니다",
+		"6. 감자채가 살짝 익으면 육수를 반국자 넣고 간장 굴소스 미원 넣고 볶아줍니다",
+		"7. 감자채가 거의 익으면 후추가루",
+		"8. 화죠유 산초기름을 넣고",
+		"9. 참기름 약간 돌려주고 물기가 잦아들면",
+		"10. 감자채를 그릇에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/460f7c79c94c5e415a48c5e754a2dabd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/e94f3c87f7eff7ed07ea304836b83ffc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/95f65b7d952d23b50dccd0269fb94fbe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/a07b969dad0913e35f40ce8f310fc75a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/bb6730d8b1fd1ccce9839513c731fbde1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/6659ac676d8fe3d4717c01c37e1c67671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/21d817c0c05cfab08ee49251f3faeda31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/021b0de7b36bc2362e111421b3b5f1e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/3a44243f6b02fb18f83d11ce5a971bd71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/b6385eddbd04aa0ffdd29171e1b3e6a71.jpg"
+	]
+}

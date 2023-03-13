@@ -1,0 +1,89 @@
+{
+	"id": "6941052",
+	"name": "깻잎 김치 만들기 초간단 레시피!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/27d89a72893788bcecc7bddef1660da51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941052",
+	"ingredient_ids": [
+		15,
+		3,
+		939,
+		938,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "간생강",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "7",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다시마물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 깻잎은 꼭지를 짧게 잘라 주고 식초 1T 소금1/2T를 탄 물에 15분 이상 담궈 놓습니다.",
+		"2. 이때 물 1/2컵에 다시마 조각을 넣고 다시마 물을 만들어 줍니다.15분 정도 담궈 놓았다가 건져 주세요.",
+		"3. 양파 반개는 이등분해서 앏게 채썰어 줍니다. 고추도 반 잘라 씨를 제거하고 총총 썰어 주세요",
+		"4. 양념장도 만들어 주세요. 다시마 우려낸 물도 같이 섞어주세요",
+		"5. 깻잎은 흐르는 물에 흐트리지말고 깨끗이 씻어 물기를 탈탈 털어줍니다.",
+		"6. 준비된 양념장을 깻잎 3~4장 사이사이 발라주세요",
+		"7. 완성된 깻잎은 반찬 통에 담고 꼭꼭 눌러 주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/426640c2eb4ed19bf5067995f379cc111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/e84d5cf51b1fcd00aca2ec99444243e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/9f94278b948ab97dcb8af2d579ec2d211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/0142c27a4ab4a7e923dcb5e49503bc191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/652ec2e94720fdeacc74749f9f56e1ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/7c1db1b803f2acac9a93129b4ce4c9ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/d9557943c34b20846c09e626a35b4d0b1.jpg"
+	]
+}

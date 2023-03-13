@@ -1,0 +1,75 @@
+{
+	"id": "6899335",
+	"name": "핵초간단 양배추어묵볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/04/bddb5b4bee8bfc523fb130df3788145e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6899335",
+	"ingredient_ids": [
+		548,
+		21,
+		9,
+		27,
+		379,
+		477,
+		341,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 분량의 재료를 채 썰어주세요. 대파는 송송송",
+		"2. 팬에 그름을 두르고 대파를 넣고 파기름을 내주세요.",
+		"3. 파기름이 나면 나머지 재료를 모두 넣고 볶아주세요.",
+		"4. 양배추가 살짝 숨이죽으면 분량의 양념을 넣고 간장을 약간 졸여주세요.",
+		"5. 간장이 한번 끓어오르면 재료를 잘 섞어주세요. 양배추가 숨이 죽으면 끝. 참기름 한번 두르고 마무리 해주세요",
+		"6. 이쁜 접시를 준비하시구 예쁘게 담아주세요. 마무리로 통깨 통통. 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/04/736e769d099db6a7568277e0619a020c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/04/815dd61da15f350833848638deec148c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/04/d000415b129a03db4f342aa457a7eaba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/04/ed2a1e0d2e0ad6e75cc255b87e8520131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/04/536a57c1d45bd009890ead92297f5e6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/04/5300c12c4e358ef7823fa5f759c4a6c81.jpg"
+	]
+}

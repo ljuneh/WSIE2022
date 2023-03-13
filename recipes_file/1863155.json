@@ -1,0 +1,61 @@
+{
+	"id": "1863155",
+	"name": "오징어채 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/ff27f0abeaab1d6fc31b8504a9d7570f.jpg",
+	"url": "https://www.10000recipe.com/recipe/1863155",
+	"ingredient_ids": [
+		574,
+		379,
+		473,
+		226,
+		341
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "진미오징어채",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 우선 오징어를 찬물에 불려놓으시구요. 끓는물에 아주잠깐 데치셔두되구요.",
+		"2. 잘달구어진 팬에 오일한스푼을 두르시고 간마늘을 타지 않게 볶아주세요.",
+		"3. 마늘이 매운맛이 사라질때쯤 고추장, 간장, 설탕을 넣고 중간불로 잘저어서 설탕을 녹여주세요. 불려진 오징어를 채에받쳐서 물기를 제거해주시구요. 팬에 넣고 양념히 골고루 묻혀지게 잘볶아주세요. 이제 불을 끄시구요. 물엿, 통깨로 마무리하시면됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/1bef3dc4178767721e97de9dd6e8c69c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/84ffa7c8fc1a6b432a82bafa7458cce21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/515f26e3c3e0fbaaa6e7e44804ff58ef1.jpg"
+	]
+}

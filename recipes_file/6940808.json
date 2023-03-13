@@ -1,0 +1,59 @@
+{
+	"id": "6940808",
+	"name": "[파절이 만드는 법]삼겹살 고기 곁들임 반찬 파무침 레시피!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/534d7d1f626afc17657497d7dab1e7d71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940808",
+	"ingredient_ids": [
+		27,
+		224,
+		938,
+		231,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 대파를 썰어 보울에 담아 주세요.",
+		"2. 고춧가루 1큰술을 넣어 주세요.",
+		"3. 매실청 2큰술을 넣어 주세요.",
+		"4. 식초 2큰술을 넣어 주세요.",
+		"5. 참기름 1큰술을 넣어 주세요.",
+		"6. 골고루 섞어 잘 무쳐 주세요.",
+		"7. 파절이를 그릇에 예쁘게 담아 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/a890df4c799f5f7a862719d3119e128f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/12dfc375237d187542af0244b02edcef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/1bcb1c4f99dc9c0476d54202d660dad21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/d564ea585ea7df21adfb841ecac5ee3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/1424ab26698d586e4e6b0f3157dfa5031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/7f05bbf4be8fbc722c07e20ce1ab3c7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/213028baf43bb44efad3022504148ac51.jpg"
+	]
+}

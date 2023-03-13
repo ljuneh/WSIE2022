@@ -1,0 +1,61 @@
+{
+	"id": "6941989",
+	"name": "도시락반찬으로 참 간단하고 좋은 단무지무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/b07ad9646520f23086f79d8c8fba21971.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941989",
+	"ingredient_ids": [
+		224,
+		27,
+		231,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "2절단무지",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 단무지무침의 준비재료입니다~",
+		"2. 대파는 먼저 쫑쫑 썰어주시고요. 대가 굵은 대파는 반 갈라서 해주시면 더 좋아요",
+		"3. 단무지는 반달모양으로 얇게 썰거나 채썰어주셔도 좋아요. 그리고 단무지의 물기를 꼭 짜주세요.그래야 꼬들한 단무지의 식감을 느낄 수 있어요",
+		"4. 단무지에 고춧가루만 넣고 힘껏 주물러서 색을 입혀주세요",
+		"5. 그리고 설탕을 넣어주세요. 아무래도 설탕이 들어가야 윤기가 좀 나거든요? 단맛이 올라가니 식초도 동량 넣어서 단맛을 잡아주세요",
+		"6. 깨와 파를 넣어서 마무리~ 식초가 들어갔으니 참기름은 넣지 마시구요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/50be1f59e5de3f4529c95b657dce1ca11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/88bbd25e4e76a7140c9b6d924cce08671.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/a5fba181a69326fac50bc3a2b0dbff091.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/7d418162638da7cab3f4daa2797a7a0b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/181ccf42fa048f3dca9a8534d7f705b21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/18941eefa6efb3b85f394f859d8caa241.png"
+	]
+}

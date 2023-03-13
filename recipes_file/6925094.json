@@ -1,0 +1,61 @@
+{
+	"id": "6925094",
+	"name": "궁극의 앙글레즈 버터크림 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/01/16/94ea0f88e63e9cb1153878172a04039f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6925094",
+	"ingredient_ids": [
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "계란노른자",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "45",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라빈페이스트",
+			"ingre_count": "1/4",
+			"ingre_unit": "tsp"
+		},
+		{
+			"ingre_name": "실온무염버터",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 작은 볼에 계란 노른자와 설탕을 넣고 잘 섞어 주세요",
+		"2. 밀크팬에 우유와 바닐라 빈 페이스트 넣고 섞어 주세요",
+		"3. 약불에서 데운 후, 불에서 내려 주세요(냄비 가장자리가 살짝 끓어 오를 때까지만 데우세요, 팔팔 끓이지 마세요)",
+		"4. 노른자 혼합물에 우유를 조금씩 부으면서 저어 주세요",
+		"5. 다시 밀크팬에 부어 주세요",
+		"6. 되직해질 때까지 약불에서 저어가며 끓여 주세요",
+		"7. 약 80°C가 되면 불에서 내려 주세요(팬의 바닥을 그었을 때 지나간 자국이 어느정도 유지되는 정도예요)",
+		"8. 체에 걸러 얼음물에 받쳐 식혀 주세요",
+		"9. 식은 커스터드 크림에 버터를 여러 번에 나누어 넣으면서 믹싱해주세요",
+		"10. 밀폐 용기에 담아 냉장 보관해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/16/1c056dbc0a097bd0f8ee7185c3b074b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/16/3afd54f9eb7b11771f7a539a89fab2311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/16/179b34748933f415f5314f8e1a1d341d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/16/c47ea227224813266f35c83cb777e0621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/16/57a64d66bc9cffc56e243156db3d9c161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/16/1e8036e0322837479119e77b91d651511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/16/0868131a091ffeda274c2d83d83eecd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/16/a75b1cc33cec14512106c6265c5ae7cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/16/707ffcbb8021ed3feb577760c06db7bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/16/fa0674aab7a69bdb9cc2f0c458c7c6711.jpg"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"id": "6833230",
+	"name": "근사한 두부가지구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/f7db843f89c923d69221b26345dd46c71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6833230",
+	"ingredient_ids": [
+		18,
+		323,
+		379,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 가지는 반으로 가르로 두부는 작은 깍둑썰기를 해 주세요. 대파 흰부분을 채친 후 두부 크기에 맞춰 썰고 청양고추, 마늘을 준비해 주었답니다.",
+		"2. 가지의 안쪽에 칼집을 낸 후 팬에 기름을 두르고 앞뒤로 노릇하게 구워주세요",
+		"3. 가지를 구웠던 팬에 기름을 두르고 두부를 넣고 노릇하게 튀기듯 볶아주세요.",
+		"4. 대파 흰부분과 청양고추, 마늘, 간장, 물, 참기름을 넣고 고루 섞어주면 간장양념 만들기 끝. 물을 조금 넣어주면 양념이 짜지 않아 좋아요.",
+		"5. 가지구이를 접시에 담고 두부튀김도 가운데 수북이 올린 후 준비한 간장양념을 적당히 부어주면 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/39ac01fede208db1e4cf623dbbfe7c9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/8512247d580495107fdab74b05e026b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/432b31bdfe72251a466d937fa709d13d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/9e62f62b4dbff2abfb64954a7b6ce4a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/890b077c1a65224d39ee02561a1a7ee61.jpg"
+	]
+}

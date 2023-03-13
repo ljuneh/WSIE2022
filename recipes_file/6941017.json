@@ -1,0 +1,81 @@
+{
+	"id": "6941017",
+	"name": "팽이버섯 요리 / 팽이버섯 마늘 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/4c2cfa94a658767b6384acc6c62b28a91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941017",
+	"ingredient_ids": [
+		55,
+		29,
+		504,
+		379,
+		224,
+		292,
+		225,
+		497,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		}
+	],
+	"recipe": [
+		"1. 팽이버섯은 씻어 준비한다.",
+		"2. 마늘은 편 썰어 준다.",
+		"3. 프라이팬에 식용유, 마늘을 넣고 볶는다.",
+		"4. 마늘의 향이 나면 팽이버섯을 넣는다.",
+		"5. 간장, 고춧가루, 맛술, 후추, 소금을 넣고 볶는다.",
+		"6. 마지막에 참기름을 넣는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/8db446dc3659152bfb54805fc9b5ba681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/626372490814653c7b93cae0d8c01d891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/aed24f5bfa9bdc2ff7e77c64842729ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/36fdd24d9ec80955b2a0599214ed40801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/9ea59c655ea93279a8949b57cb62b3f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/23b3c14346fe57becc27094309c250a41.jpg"
+	]
+}

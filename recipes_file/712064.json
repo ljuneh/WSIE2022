@@ -1,0 +1,46 @@
+{
+	"id": "712064",
+	"name": "클래식 샌드위치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/4956e6b14f45bcb5e2bc7aa30fd69de9.jpg",
+	"url": "https://www.10000recipe.com/recipe/712064",
+	"ingredient_ids": [
+		503,
+		406
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "잘익은토마토",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 양상추는 깨끗히 씻어서 물기를 제거한 다음 손으로 좀 크게 찢어서 준비해주세요. 토마토는 얇게 슬라이스 베이컨은 기름을 두르지 않은 팬에 바짝 구워서 기름을 빼주세요~ 피클은 집에서 만든거 보다는 시중에서 판매하는 피클을 사용해주세요_",
+		"2. 빵은 토스트기에 굽거나 기름을 두르지 않은 팬에 살짝 구워주세요_",
+		"3. 먼저 맨 밑에 까는 식빵 한쪽면에 마요네즈와 버터를 약간 섞어 발라주세요. 그 다음 양상추->슬라이스한 토마토를 올려주세요_",
+		"4. 양상추와 토마토를 올린 후에 가운데 들어갈 식빵 양쪽면에 머스터드를 발라주세요.",
+		"5. 머스터드를 바른 식빵을 올리고 그 위에 양상추를 올려주세요_ 잠시 정리하자면 마요네즈를 바른 식빵->양상추->토마토->머스터드 바른 식빵->양상추 순입니다_",
+		"6. 그위에 슬라이스 체다치즈를 올려주세요",
+		"7. 그 위에 바삭하게 구운 베이컨을 올려줍니다. 그 위에 피클을 가득 올려줍니다.빵 한쪽면에 마요네즈를 한번 더 발라주고 그위에 살포시 얹어주면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/a06e20a73c8e08f9897c189dd5bb01971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/e4e11763c61d3d0d5a22cef30ef4d22e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/49185828658dcba8ecfdecdb5a0be66a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/c6ada8b87f8ac72a414f8005c6770ed71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/72534f26ada8e50c32046057145314771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/bcded83baf5470167564ba87c7c2590f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/b3027449cfebb3ff1a28e305aa9c45a71.jpg"
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"id": "6872969",
+	"name": "동남아 여행 온 기분!! 파인애플볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/a8a6ed46bb7c215df6f8e9350064ac451.png",
+	"url": "https://www.10000recipe.com/recipe/6872969",
+	"ingredient_ids": [
+		27,
+		259,
+		79,
+		219,
+		939,
+		184
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "통조림파인애플",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "1/2",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "땅콩",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 밥은 접시에 펼쳐 식힌다.밥 1공기",
+		"2. 대파는 송송 썰어 준비하고, 파인애플은 먹기 좋은 크기로 잘라 준비한다. 건새우도 작은 크기로 잘라 준비한다.통조림 파인애플 2개, 대파 1/2cup, 건새우 약간",
+		"3. 땅콩은 기름 없는 팬에 볶은 후 다져서 준비한다.땅콩 약간팬",
+		"4. 팬에 기름을 두르고 대파를 넣는다.",
+		"5. 대파가 노릇해지면 한쪽으로 밀고 달걀을 넣어 스크램블을 만든다.달걀 1개",
+		"6. 5에 건새우를 넣어 볶는다.",
+		"7. 잘 섞이면 새우를 넣어 볶는다.새우 1/2cup",
+		"8. 재료들이 볶아지면 다 같이 섞어 볶는다.",
+		"9. 8에 식힌 밥을 넣고 잘 섞는다.",
+		"10. 팬 가장자리에 액젓을 둘러 섞는다.액젓 2T",
+		"11. 마지막으로 파인애플을 넣고 섞은 후 땅콩을 뿌려 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/73c928f5dfca686a359ba9ba9923d21f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/d5bad2a9524ea6553b4b4bd2f2c797ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/8ce6aec1385ed33702063d2268b4cb071.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/b63ff05cb4cbd13aadd74a863ad864d81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/ee98db686e0f4dc2a66e073f6e82d31f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/79f5be13accfeb4002c5c121062bbe3f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/27336a609d5c6ff35a991951ce1b49e21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/921733045baf74521a8295f8363d8f171.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/4ffc759cc9bdf6a6276ece6cd14415ea1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/ba622abc42f167a1d54cf5f09a678f391.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/19/5097fa25e0b744edfbb35b9bebd20dfd1.png"
+	]
+}

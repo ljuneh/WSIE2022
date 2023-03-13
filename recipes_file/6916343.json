@@ -1,0 +1,88 @@
+{
+	"id": "6916343",
+	"name": "퓨전소스두부구이.핵맛남.깔끔",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/07/23/966c45e9f037f050eb2968d5d6076a241.jpg",
+	"url": "https://www.10000recipe.com/recipe/6916343",
+	"ingredient_ids": [
+		323,
+		29,
+		848,
+		473,
+		379,
+		226,
+		477,
+		224
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "간돼지고기",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 파기름준비.파를썰어줍니다",
+		"2. 마늘을져며서넣고파와기름에볶습니다.맛있는냄새올라올때까지",
+		"3. 고기넣고같이볶습니다.후추넣고소스들넣고달달볶습니다.저는좀바짝바짝볶는편입니다.달달한거좋아하시면설탕한스푼넣으셔도됨.매콤좋아하시면고추도넣어도됨.고추장된장비율은비슷하게반스푼넣고.굴소스도꼭넣어주셔유.넘짜지않게굴소스는고추장된장보다훨씬적게넣어주세요.마파두부소스만드는것과거의비슷해요.중식먹는느낌도있음",
+		"4. 두부를두껍게썰어서구워줍니다.부침가루안해도잘구워지고.바짝굽는편입니다.어타면어떻하지?그바로전까지.그래야좀쫄깃한느낌.물렁한두부부침은안좋아함",
+		"5. 구운두부위에볶은고기뿌려주시면 완성.이거진짜맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/23/b6130e04edefcf1f1749883d41fac2921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/23/9992eede0bebfae6c9c41a7f6ac48fce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/23/4c26bb5971c261d3ac453a85044e2a761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/23/990c92110ce8c60a666c3e35cf16a98f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/23/a6f4d2314a1fd90178a18b74bf204e2b1.jpg"
+	]
+}

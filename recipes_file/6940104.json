@@ -1,0 +1,88 @@
+{
+	"id": "6940104",
+	"name": "초스피드 국요리! 계란국 담백하게 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/58b81eef57b99698070df03d9c5c81c31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940104",
+	"ingredient_ids": [
+		19,
+		90,
+		3,
+		79,
+		390
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시용멸치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 물을 부워주고 육수용 멸치, 무, 파, 다시마를 넣고 끓여주세요",
+		"2. 보글보글 끓으면 중불로 낮춰서 육수가 우러나오도록 해주세요",
+		"3. 육수용 재료들은 버려주고",
+		"4. 양파1개는 채썰어주세요",
+		"5. 계란2개는 풀어준 다음",
+		"6. 계란 + 양파를 넣어주고",
+		"7. 깨끗하게 씻은 새우를 넣어주세요",
+		"8. 다진파 한주먹정도 + 새우젓2스푼 +후추톡톡 중불로 끓여주면 끝",
+		"9. 만약 싱거우신 분들은 소금 또는 국간장으로 간을 조금만 더해주세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/17e24e66fbfac2f62edfedc160f9fb1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/83f6ffe98893c285d5a21cc4f3ae0fe81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/f0a32bbc12b5aa573f93814dc6b1209f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/632cbd6d3374be3a445c46665d6db6561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/4d107f39671ffe09f493a0eabf69dbee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/55e1c937d726f3061186ecc93ee0aab61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/5fb39863ba9bbbd3fa0fe775506a6e4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/042607eacc92a271a6e66ade06cb27ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/9c1f607bc8b8b3cde2e26df2de116dc21.jpg"
+	]
+}

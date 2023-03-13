@@ -1,0 +1,97 @@
+{
+	"id": "3160855",
+	"name": "쫄깃하고 얼큰한 토종 닭볶음탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/318306de08b661dfa84e2a6a4305b23b.jpg",
+	"url": "https://www.10000recipe.com/recipe/3160855",
+	"ingredient_ids": [
+		5,
+		224,
+		341,
+		142,
+		846,
+		379,
+		457,
+		473,
+		27,
+		233,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "7",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2-3큰술",
+			"ingre_unit": "-큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 닭은 살짝 데치듯 삶아낸후 바로 찬물에서 헹궈 주세요!",
+		"2. 얼큰한 양념도 준비해야겠죠?... 양념- 고춧가루 7큰술. 물엿 2큰술. 배 1/2개. 청주 1/3컵. 간장 1/2컵. 다진 생강 조금. 후추 조금. 고추장 2-3큰술. 대파 2대. 다진 마늘 3큰술. 설탕 1큰술 찬물에 헹군 닭을 물기를 뺀뒤 양념에 버무려 준뒤~.. 이제 끓이시기만 하면 됩니다...",
+		"3. 물을 넣지 않아도 끓으면서 수분이 나와.. 국물이 자작하니.. 밥 비벼 먹으면 그또한 어찌나 맛있던지..."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/91a4298e443851fa265fc41eae9222151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/85a9f2d6481fe2027ecf2a2a3a0025921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/7c7f1df5cf658e5d75cf7563e86e575b1.jpg"
+	]
+}

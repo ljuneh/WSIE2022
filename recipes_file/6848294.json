@@ -1,0 +1,57 @@
+{
+	"id": "6848294",
+	"name": "두릅장아찌담는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/17/4dc831e76366bbb88c89ad33c09ea9201.jpg",
+	"url": "https://www.10000recipe.com/recipe/6848294",
+	"ingredient_ids": [
+		49,
+		379,
+		995,
+		843
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두릅",
+			"ingre_count": "2",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "6",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "6",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초2+1/2컵",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 두릅은 지저분한 것을 다듬고 깨끗이 씻어주세요~",
+		"2. 깨끗이 다듬은것을 살짝 데쳐주세요. 데칠때 밑동부터 억센부분부터 데쳐주세요~",
+		"3. 살짝 데친것을 찬물로 씻어주세요.",
+		"4. 체에 물기를 빼주세요. 달임장을 끓여주세요. 팔팔끓기 시작하면 바로 불을 끄고 한김 식혀서(완전히 식힐필요는 없어요.) 통에 두릅을 넣고 뜨거울때 바로 부어서 눌려놓고 2~3일있다가 드시면 완성 두릅장아찌 만들기 참 쉽죠~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/17/b4f1c927f78a60815efdceff2171d46d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/17/f83a8742d8169b241b78dcfb68b6bbf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/17/944a55ee9f99324f63de36009b30e23b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/17/42bad4e6c84f2aa7c52049fd72b1a90a1.jpg"
+	]
+}

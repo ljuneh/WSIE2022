@@ -1,0 +1,78 @@
+{
+	"id": "6942521",
+	"name": "냉파요리/ 잡채와 참치캔의 만남",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/5dcd3ceaef0ea3331498108814682e751.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942521",
+	"ingredient_ids": [
+		295,
+		3,
+		27,
+		1025,
+		219,
+		234,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔작은것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "65",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "잡채",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 냉장고에 남아서 보관되어 있는 잡채. 1C정도 가위를 이용하여 잘게  잘라서 준비한다.",
+		"2. 참치캔은 작은 것을 1개 육수를 제거하고 참치고기만 사용하려고 한다. 청양고추 2개는 씨를 빼고 잘게 다져 준다. 양파도 손에쥐어 저울에 재보니 65g이다. 대파도 반 줄기 정도 잘게 썰어주었다.",
+		"3. 가위로 잘게 잘라준 1C 정도의 잡채.",
+		"4. 잘게 잘라서 준비한 잡채를 전 부치기 좋은 상태로 반죽을 해준다. 달걀 3개를 넣어준다.",
+		"5. 밀가루 2T 넣어주고,",
+		"6. 준비한 채소와 참치를 넣어서 골고루 섞이도록 반죽을 해준다. 잡채에 간이 있어서 소금은  넣지 않았다.",
+		"7. 팬에 식용유를 넣고 먹기좋은 크기로 한 숟가락씩 올려서 전을 부쳐준다. 고소한 냄새가 식욕을 자극한다. 음~~ 맛있는 냄새.",
+		"8. 완성 되었다.  당근이나 다른 채소들이 있으면  같이 넣어서 전을 부쳐도 훌륭한  전이 될수 있다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/4d2c67c12bc8db23db70f5ec722492cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/85dc40cd60421f105b1157ca5657311a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/a90d0e1825c5d45ba4ed0a9a6f388e4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c52bc07fdc6b8329edb34c284ccec1db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/7749e21903b59fefe817b641b1209e5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/28db4ab6a64fb3bc00a8fdc63fcf6bbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/f7c2c50eda0a007c3a66cb7254bc16401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/518042bb27586575422a80df85ee33be1.jpg"
+	]
+}

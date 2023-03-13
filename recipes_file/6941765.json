@@ -1,0 +1,58 @@
+{
+	"id": "6941765",
+	"name": "육포 요리 / 발라도 (인도네시아 요리)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/36c051c55433956c206f8c9ed213d4221.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941765",
+	"ingredient_ids": [
+		611,
+		3,
+		295,
+		51,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "육포",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 육포는 먹기 좋게 자른다.",
+		"2. 양파, 청양고추, 홍고추, 토마토를 넣고 믹서기에 갈아 준다.",
+		"3. 프라이팬에 식용유를 넣고 믹서기에 간 야채를 넣고 볶는다.",
+		"4. 끓어오르면 육포를 넣고 끓인다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/36bf5f8a9ec3d3f09cb8ab52fab4287c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/fa1beae278d2eb37da41aa9ae32b31d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/1bbfbb4dd5bc8be4c677c615f8f629bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/b33791c86d6af4db203c1a588397ab621.jpg"
+	]
+}

@@ -1,0 +1,75 @@
+{
+	"id": "6896049",
+	"name": "초보주부 요리레시피 : 버섯만두전골 맛있게 만두전골 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/09/18/31ca0246833514bada76f58015086dcb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6896049",
+	"ingredient_ids": [
+		1002,
+		259,
+		90,
+		320,
+		3,
+		495
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "만두",
+			"ingre_count": "5-10개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "칼국수",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금티스푼",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 육수를 내기 위해 준비한다.",
+		"2. 육수는 충분히 끓여준다.건새우 1숟가락 , 다시마 2조각 , 멸치 1숟가락 , 무 , 파뿌리 , 양파1/2중불에서 끓기시작하면 약불로",
+		"3. 냉동된 만두는 약 1시간전에 미리 실온에서 해동해주시면 터지지 않아요.",
+		"4. 야채를 미리 준비한다.",
+		"5. 육수가 충분히 끓으면 준비된 야채와 면을 넣는다.",
+		"6. 넉넉히 준비된 육수에 만두와 야채를 넣어 한상 준비하여 끓인다.야채,칼국수큰냄비쎈불칼국수가 살짝 익어가는 시점에 만두를 넣어주세요.",
+		"7. 오늘저녁 '만두전골' 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/18/3f6aee7a27b0875ff71d304f49414dfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/18/771925d9031d847122f390d3704d0c611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/18/1ffa40ca0035bef634a9a095caf37e021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/18/998d29d05b4b17b7ff7288b6676f816a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/18/215186c4e9d1b6637e55c434456607d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/18/2456bee0a76125caaa7c126a2d480d321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/18/25ab56bfd0282806f3e59d42070dbd7e1.jpg"
+	]
+}

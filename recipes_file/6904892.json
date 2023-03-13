@@ -1,0 +1,60 @@
+{
+	"id": "6904892",
+	"name": "소고기 다색 떡국 ! 알록달록 예쁘고 맛좋은 떡국♥ ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/21/1579bb5120168d7ee68cc4a8095556d21.png",
+	"url": "https://www.10000recipe.com/recipe/6904892",
+	"ingredient_ids": [
+		497,
+		27,
+		219
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "다색떡국떡",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "태백명품가마솥설렁탕",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "10",
+			"ingre_unit": "Cm"
+		},
+		{
+			"ingre_name": "삶은소고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 떡국은 찬물에 담가 놓는다.",
+		"2. 대파는 송송 썰어 준비한다.",
+		"3. 냄비에 설렁탕을 넣어 한소끔 끓인다.",
+		"4. 떡국 떡을 넣고 소금으로 간을 한다.",
+		"5. 한소끔 끓이고 대파를 넣는다.",
+		"6. 그릇에 담아 삶은 고기와 달걀지단을 고명으로 올려 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/21/89ad606d6b51550e953c0e15c4406fd61.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/21/3e01b382c0c2394c4f6f20f97e38cc351.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/21/ce928a33c791b328f459891b69894b4b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/21/9a9a3600536c29e419f6a8d382ce27111.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/21/2b255c781265bc1fedad5e8057e870711.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/21/68b81f83f5f86ae54c806c6e1233c3d61.png"
+	]
+}

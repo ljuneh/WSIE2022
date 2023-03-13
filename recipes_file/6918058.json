@@ -1,0 +1,34 @@
+{
+	"id": "6918058",
+	"name": "북어껍질튀김 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/08/23/6b4298baffc80f52a3d6482cdab913311.jpg",
+	"url": "https://www.10000recipe.com/recipe/6918058",
+	"ingredient_ids": [
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "북어껍질",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1.  빨간색으로 표시한 부분보이시죠? 지느러미는 먹을게 아니기때문에 가위로 잘라주셔야됩니다.",
+		"2.  열심히 가위로 손질한 재료를 보시면 깨끗하게 껍질만 남아있죠? 저 아이들을 이제 튀겨줄겁니다.",
+		"3.  팬에 기름을 넣고 북어껍질튀김에 주재료를 넣어줍니다.",
+		"4.  완성된 북어껍질튀김은 기름종이에 기름기를 빼주고 설탈을 솔솔 뿌려주면 바삭하고 고소한 술안주가 완성됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/bce1983179d880cb432f7cb8256a7efb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/14b25edbbb06e38e8277eac2c83f5edf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/b9e469535a0639c1b8d6f14663256ccf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/26/b5b22a2f6602ace84ea78d6732fa95071.jpg"
+	]
+}

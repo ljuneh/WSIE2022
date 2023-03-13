@@ -1,0 +1,58 @@
+{
+	"id": "6859719",
+	"name": "잣죽:견과믹스를 더해 더 풍부해진 영양죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/02/6879bce8159d71abc0267a2e5df6c89a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6859719",
+	"ingredient_ids": [
+		96,
+		188,
+		995,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "믹스견과",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "6",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 쌀은 씻은 후 서너시간 불려주세요: 밤에 불려놓고 아침에 끓이면 편해요",
+		"2. 쌀1컵+물1컵을 넣고 믹서에 간 후 냄비에 물4컵과 함께 넣어 죽을 쑤어요",
+		"3. 중약불에서 계속 저어주면서 끓이고 몽글몽글 뭉치는 것이 있으면 으깨주세요:죽을 쑬 때는 나무주걱이나 나무숟가락을 사용하는 것이 좋아요",
+		"4. 잣과 견과믹스에 물1컵을 넣고 믹서에 갈아주세요:쌀과 견과류의 입자굵기는 기호에 따라 결정해주세요",
+		"5. 쌀이 퍼지고 어느 정도 죽이  다 쑤어져갈 때  잣과 견과류 간 것을 넣어주세요",
+		"6. 죽이 푹 퍼질 때까지 약 5분이상 약불에서 끓이고 중간중간 저어주는 것을 잊지마세요",
+		"7. 그릇에 죽을 담고 잣고명을 올린 후 입맛에 맞게 소금간을 하여 드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/02/febbe4c83b9c42db1fbfafac0a463a991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/02/527fd0a9bf91b65d8b994656fee68b5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/02/e65ef62cbe158905f0757ba867fde4381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/02/ff978063779e4c80dc23549d09cfdf181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/02/98f1bba6d58ec7c7bfa1ecbdd7e62e461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/02/ff8eafca86a410d442bb6af5a63666da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/02/d668b407a5fce75bdc94d2e4325a16691.jpg"
+	]
+}

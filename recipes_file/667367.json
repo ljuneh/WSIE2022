@@ -1,0 +1,72 @@
+{
+	"id": "667367",
+	"name": "부추전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/8eec47a48550a1040420ec6ba9604695.jpg",
+	"url": "https://www.10000recipe.com/recipe/667367",
+	"ingredient_ids": [
+		30,
+		3,
+		9,
+		295,
+		387,
+		234,
+		349
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "4",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "얼음물",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 부침가루 1컵, 밀가루 1컵에 얼음물 1컵+1/2컵을 넣어 반죽합니다.",
+		"2. 조선간장 1을 넣어줍니다.",
+		"3. 부추는 4~5cm길이로 썰고 양파는 채썹니다. 당근도 채썰어주고 청양고추는 송송썰어주세요.",
+		"4. 부침반죽에 부추, 양파, 당근, 청양고추를 넣어 섞어줍니다.",
+		"5. 마지막에 후춧가루 약간만 넣어 반죽을 완성하고 냉장고에 넣어 주세요. 하루지나 부치면 더 쫀득하고 맛있어요. 냉장고에서 숙성한 반죽을 후라이팬에 기름두르고 부쳐내면 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/30/3410149d5b1eb334cf74ffb5ab26992a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/30/a1b1008e7109024b3df2705b35e3598c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/30/84cd4f1b24df51c54b1fc2fc39c6bba91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/30/1b8fee45017a4417bfc775b71c78bb2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/30/62b6ecf20ad7c85278a2d3bba8b29bfa1.jpg"
+	]
+}

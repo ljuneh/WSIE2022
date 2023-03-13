@@ -1,0 +1,90 @@
+{
+	"id": "6945246",
+	"name": "할로윈 메뉴 추천! 에어프라이어 초간단 등갈비 바베큐",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/7175c39c168282d6fae2c7990b2cd9bd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945246",
+	"ingredient_ids": [
+		27,
+		857,
+		379,
+		477,
+		233,
+		226,
+		575,
+		292
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "등갈비",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추톡톡",
+			"ingre_count": "4",
+			"ingre_unit": "번정도"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 등갈비를 넣고 잠길 정도로 물을 채워주고 통후추, 대파, 통마늘(생략 가능)을 넣고 끓여줍니다. 끓기 시작하고 5분 정도 후에 불을 끄고불순물들을 깨끗이 씻어 줍니다.잡내를 제거해 주는 과정입니다. (※ 저는 2배 분량으로 만들었어요.)",
+		"2. 등갈비가 끓을 동안 양념장을 준비해요. 분량의 준비된 양념들을 넣고 잘 섞어 줍니다.",
+		"3. 깨끗하게 씻어둔 등갈비를 양념장에 골고루 버무려 줍니다.",
+		"4. 에어프라이어에 종이 호일을 깔고 등갈비가 잘 익도록 하나씩 배열해 줍니다.",
+		"5. 180도에 15분 구워주고 뒤집어서 10분 정도 더 구워줍니다.에어프라이어마다 조금씩 성능이 다르니 양념이 타지 않는지 한 번씩 확인해보시면서 시간 조절하시면 좋을 것 같아요.^^",
+		"6. 쨔잔~ 완성~! 사진을 발로 찍어서..ㅠㅠ 아이들이 양손에 들고 서로 더 먹겠다며 뜯어 먹는 맛있는 등갈비^^ 이번 주말 할로윈 메뉴로 준비해보시면 어떨까요?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/6dd89d00aa935d5b4ecbe6fdc1e2a3d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/35dd9bfc72ba543016b3671ed2a046f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/b1f9821ee99918ad350fd8155fd7362e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/ad0fad78ffc7160f11ab27dd8ed4282b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/4b424110f55fdf779b28338d5b9ba8451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/b20c96013001e6db5355a572363c76791.jpg"
+	]
+}

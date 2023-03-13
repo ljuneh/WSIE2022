@@ -1,0 +1,59 @@
+{
+	"id": "6863696",
+	"name": "초간단 깻잎두부구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/8831d7e8ddde5e72073a079708cf64d31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863696",
+	"ingredient_ids": [
+		379,
+		292,
+		660,
+		543,
+		15
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 두부는 먹기좋게 잘라주세요",
+		"2. 소금,후추를 솔솔 뿌려 5분정도 놓아둔후에 키친타올로 물기를 제거해주세요",
+		"3. 비닐봉투에 튀김가루를 넣어 물기제거한 두부에 튀김가루를 묻혀주세요 튀김가루대신 전분이나 밀가루를 이용하셔도 좋아요 근데 튀김가루나전분이 바삭하니 더 맛나답니다  ",
+		"4. 달군팬에 기름을 두른후에 두부를 튀기듯 노릇하게 구워주세요",
+		"5. 노릇노릇 이정도가 되면 잘 구워진거랍니다~ 밑면에 바삭바삭하답니다.. 불은 중약불로해서 구워주세요  ",
+		"6. 깻잎은 깨끗이 씻어 꼭지를 떼고 돌돌말아 채썰어주세요",
+		"7. 양념재료를 모두 넣어주시고 깻잎도 넣어 섞어주세요  그릇에 구운두부를 담고 깻잎간장을 올려주시면 되는데요 손님초대요리로도 좋고 반찬,안주로도 좋을거 같아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/fa8444e3794f38baef48935e551722441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/c7b9bccf5102b3c786b06613a66396221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/82be715120bcf71bca3503490235e0541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/ea1bb6c8b0a3c9d722e18053889940f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/9eb86e3fa1c2db828aa1d4a888c58a851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/aeebab3905fea2fd2a07c3be464fcee51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/5ecedc8db50aabddea1dd5966db92a881.jpg"
+	]
+}

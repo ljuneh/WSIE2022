@@ -1,0 +1,83 @@
+{
+	"id": "6918418",
+	"name": "수미네반찬 고구마순볶음(고구마줄기볶음)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/01c07a643cbb069c7f2ca971b50e8d9b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6918418",
+	"ingredient_ids": [
+		233,
+		290,
+		660,
+		379,
+		995,
+		843
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "데친고구마순",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "손질한멸치",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "8",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료준비 - 데쳐 놓은 고구마순과 손질한 멸치를 준비했어요.",
+		"2. - 고추는 어슷 썰고 데친 고구마 순은 체에 밭쳐 놓기(물기제거) Tip. 고구마순이 길면 반으로 썰어준비해요.",
+		"3. - 손질(머리와 내장 제거) 한 멸치 마른 팬에 볶기",
+		"4. - 바삭한 느낌이 나면 고구마 순과 양념장 넣어 약불에서 뚜껑 덮고 익히기 - 익히는 중간에 다진마늘 넣기 Tip. 멸치의 감칠맛이 충분히 우러날 수 있게 은근하게 익히고 중간에 물이 부족하면 추가하기.",
+		"5. - 고구마 순이 말랑하게 익고 수분감 없이 볶아지면 고추들 넣고 고르게 섞일 정도만 볶기  Tip. 간을 보고 부족하면 간장 추가하기",
+		"6. 깨와 참기름 넣어 마무리하면 수미네반찬 고구마순 볶음 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/7ee57f701e64d9432f833d3b412db12f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/9f8fa2bb08d691652785f90d05748ce81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/98e700090e07fa24cf6ce8f9faafbb731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/1a3d377457ecf4afd6ebe00b07f89d131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/d1afd06b85a6d8540b4b27e2939e5b801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/39201159c6694bae892298dffb8a0fd21.jpg"
+	]
+}

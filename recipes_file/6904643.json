@@ -1,0 +1,54 @@
+{
+	"id": "6904643",
+	"name": "고깃집 무초절임, 밥상을 든든히 채워주는 밑반찬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/17/1b22982ef45e44a760020e151927f4f21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6904643",
+	"ingredient_ids": [
+		231,
+		226,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "무1개(보통사이즈)",
+			"ingre_count": "1개(보통사이즈)",
+			"ingre_unit": "개(보통사이즈)"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "컵반"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 무는 씻은 후  껍질을 벗기고 준비합니다.",
+		"2. 채를 썰기 위해서는 동글썰기를 하는데요. 먼저 무의 아래 부분을 살짝 잘라내고 도마에 놓고 썰면 고정이 되어 한결 쉽습니다. 아주 얇지는 않아도 얇게 썰어주세요. 고깃집 무를 생각하시면서요.",
+		"3. 씹는 감이 있는 걸 좋아하시면 약간의 굵기가 있게 하는것도 괜찮습니다. 채칼에서보다는 굵게, 무생채할때의 굵기가 적당합니다.",
+		"4. 식초 1컵반.",
+		"5. 설탕 1컵. 소금 1큰술을 무에 넣고 뒤적입니다. 그렇게 두는데요. 가끔씩 뒤적여 주세요. 설탕도 녹이고 간도 잘 베이도록 합니다.",
+		"6. 시간이 지나면  이렇게 무에서 저절로 물이 생깁니다. 물을 넣고 하는것보다 훨씬 더 감칠맛이 생겨요.",
+		"7. 아침에 만들면 저녁부터 드실 수 있고 급한것이 아니면 내일 부터 드시면 아주 좋습니다.",
+		"8. 다음 날 꺼낸건데요. 윤기가 좌르르~ 흐르는것이 새콤!달콤! 고기와 밥을 부르고  있습니다. 라면, 우동과 먹어도 아주 좋죠. 맛있게 만들어 보세요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/17/6492ead7772a02aa59fde4557f8cb5031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/17/3b6115251565478f9db07463b27f0abb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/17/31726808bbf03c863b97f9765bb7794e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/17/5bb74838af3778970ea35fb8d1c0ce851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/17/a8fbec290a7dd1815bf24c233bb41a871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/17/cac350bb07a714114e49f3e16ffb47fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/17/e2b48d81f99ddc28854ef4a5752b46dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/17/5bbe352480046a3f2120441b936533241.jpg"
+	]
+}

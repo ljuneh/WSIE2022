@@ -1,0 +1,61 @@
+{
+	"id": "6940079",
+	"name": "초간단 맥주안주:모짜렐라치즈없이 콘치즈만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/0fbfab533f6ade9b81906d52a91585551.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940079",
+	"ingredient_ids": [
+		198,
+		228,
+		226,
+		203
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "콘옥수수",
+			"ingre_count": "2/1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 콘옥수수,버터,마요네즈,설탕,체다치즈,파슬리가루 준비해주세요.파슬리가루 없으면 생략 가능",
+		"2. 작은 프라이팬이나 뚝배기에 버터를 녹여주세요.",
+		"3. 옥수수를 2/1캔 넣고 타지않게 저어주세요.캔 옥수수 국물은 완전 꼭 짜지않고 넣기",
+		"4. 마요네즈를 3t정도,설탕 1t 넣고 다시 저어주세요.",
+		"5. 그 위에 체다치즈 한장을 넣고 약불로 줄인 후 뚜껑을 닫고 치즈를 녹여주세요.모짜렐라치즈가 있다면 모짜렐라치즈가 넣기",
+		"6. 치즈가 녹으면 그 위에 파마산 치즈가루 솔솔 뿌려주면 끝! 달콤+느끼한게 맥주안주로 딱이에요. 아이들 간식으로도 추천해요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/9933482b0804e05334102edfd856c0581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/6d72dfc5a2df019cc7d35c3c038cd3451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/8e7fe21a46d53098dff472ff1b5f75e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/0b8df6643ea56f9f2e0ae76f9fd0a2741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/8facb89998e9eb7442e9c886ba68eaee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/5bb6d3e068e0a37d96d5748f0c256b7c1.jpg"
+	]
+}

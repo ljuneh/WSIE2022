@@ -1,0 +1,68 @@
+{
+	"id": "6941482",
+	"name": "고구마 줄기 볶음조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/87468ce300e517b5856ec2b3df32f4d71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941482",
+	"ingredient_ids": [
+		504,
+		379,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마줄기큰",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "다시다반큰술에서",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "바퀴"
+		},
+		{
+			"ingre_name": "쌀뜬물1컵~",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금반큰술에서",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 큰1단인 고구마줄기를 씻어줍니다",
+		"2. 냄비에 물을 넣고 끓인물에 고구마줄기를 넣고 푹 삶아줍니다(저는 2분만 삶았더니 한참 조렸네요;;푹삶았을 경우엔 물한컵 넣고 조리시면 되요..)",
+		"3. 어느정도 삶은 고구마줄기를 한번 헹구어서 중불로 냄비나 윅에다가 식용유를 3바퀴돌려넣고 물,다시다,고추가루,마늘,소금을 넣고 뒤적거리듯이 양념을 섞어줍니다(다시다를 넣고 간을 보고 소금양을 조절해주시면 되요.저는 다시다 반큰술 넣고 다시멸치가루 반큰술을 넣었는데 다시멸치가루가 없으시면 다시다만 넣어도 맛있어요^^ 물은 굳이 쌀뜬물을 안하셔도 됩니다)",
+		"4. 궁물이 조리듯이 해주시고 한번씩 뒤집어 줍니다(간을보시고 부족한 간을 소금을 더해서 조려주시면되요..)",
+		"5. 궁물이 조려져서 고구마줄기가 푹 익어서 흐물흐물 거리면 완성입니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/e37e4a65a127c9acbe6a453e34b034b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/9500407d53ba3a45d5e95d5cb222ba171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/96e6ca37e11994a4aae58692559965481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/7d336f2b0a1d3ad4e13c398d095c1aa91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/7d5d6b3fe6125659cb5b276ac52600871.jpg"
+	]
+}

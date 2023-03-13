@@ -1,0 +1,80 @@
+{
+	"id": "6857504",
+	"name": "양파볶음비빔밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/26/e731df90e4de71a314cc7598cbcf8b8c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6857504",
+	"ingredient_ids": [
+		219,
+		504,
+		226,
+		379,
+		660,
+		292
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "양파큰것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2~1큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 양파는 대략 3~4미리 정도의 두께로 채 썰어 준비해 둡니다.",
+		"2. 양념장재료를 모두 섞어서 준비해 두었습니다.",
+		"3. 잘 달구어진 후라이팬에 기름을 두른 후에 불을 중불로 해서 준비해놓은 양파를 넣고 양파색이 살짝 투명해질때까지 볶아줍니다.",
+		"4. 양파의 투명해지기 시작할때 만들어 두었던 양념을 넣고~~~",
+		"5. 1~2분정도 양념과 양파가 잘 섞이도록 해 주면서 휘리릭 볶아 준 다음에 불을 꺼 둡니다.",
+		"6. 달걀은 잘 달구어진 기름두른 후라이팬에서 반숙 프라이로 준비해 둡니다.",
+		"7. 적당한 1인분의 밥을 그릇에 담고 그 위에 볶아 놓은 양파볶음을 얹고 위에 만들어 놓은 반숙달걀프라이를 올려준 후에 통깨를 살짝 뿌려주면 감칠맛 좋은 양파볶음비빔밥은 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/26/e91b86007edb9534eda50accee59e4ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/26/b16ed16d52cc06ec4a80426c36a83d4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/26/117c667a4d6e64a19f8660e66a9ec5fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/26/e78158054e3e205b6a61d937090302661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/26/86c77eb0dbf48c2ab30831b0c89b09131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/26/c870d4c733d2a80f12ea9e51355d0c801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/26/ef5b7957802e7721533be92ad6d6699a1.jpg"
+	]
+}

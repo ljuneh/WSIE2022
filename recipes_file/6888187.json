@@ -1,0 +1,70 @@
+{
+	"id": "6888187",
+	"name": "미역줄기볶음 꼬들꼬들한 미역줄기참기름",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/05/02/e0dc5566dc79618e1b637f92955f8be01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6888187",
+	"ingredient_ids": [
+		376,
+		9,
+		665,
+		233,
+		350,
+		660,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "미역줄기",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "청주(소주)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 미역줄기는 염장을 했기 때문에 소금이 엄청 많이 묻어있어요~!~ 물에 담가서 주물러 준 다음 물에 담가 놓았어요~!~ 짠 기를 모두 빼주어야 하기에 중간에 먹어보고  짠 기가 빠졌으면 헹구어 물기를 빼줍니다~!!",
+		"2. 줄기를 그냥 볶으면 너무 길어서 먹기 불편하지요 먹기 좋은 크기로 잘라줍니다 당근도 조금 가늘게 채 썰어 놓았어요~!!",
+		"3. 먹기 좋게 썰어놓은 미역줄기에 청주나 소주를 넣고 밑간을 해줍니다 맛술은 달착지근해서 전 청주를 사용해서 미역 비린내를 잡아주었어요~!!~ 식용유를 두른 팬에 미역줄기와 당근을 섞어준 다음  참치 액과 다진 마늘을 넣고 조물조물 무쳐준 다음 볶아줍니다~!~",
+		"4. 줄기를 볶다가 깨소금도 넣고 대파도 넣어 볶아줍니다~!~ 마지막에 참기름을 넣고 다시 한번 휘리릭 볶아주면 끝입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/02/acb784150b01f0c847770dc386fc19471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/02/32eabc6e0734aed779d14df5182926f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/02/f01405debb55969e0525b5496247a65b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/02/2edb99cbc025045d3bae2b3fc26c2fc41.jpg"
+	]
+}

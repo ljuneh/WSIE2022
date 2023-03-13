@@ -1,0 +1,38 @@
+{
+	"id": "1968561",
+	"name": "바나나 우유",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/e9011a9750e63b1d19a72d9d0f5c15e5.jpg",
+	"url": "https://www.10000recipe.com/recipe/1968561",
+	"ingredient_ids": [
+		141,
+		319
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "메이플시럽",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 바나나를 까서 준비해주세요.",
+		"2. 미니믹서기에 우유 넣고 바나나 넣고 메이플 시럽이나 꿀을 취향껏 넣어주세요.",
+		"3. 믹서기를 돌려 갈아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/9df78863ef945b44fb4e39033aa4727e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/92fff13d0671ec8426e9731aab2f78e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/f1b510ea01f0a6ec4d50f863d83b77cb1.jpg"
+	]
+}

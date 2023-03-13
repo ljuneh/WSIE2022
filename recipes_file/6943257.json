@@ -1,0 +1,68 @@
+{
+	"id": "6943257",
+	"name": "추석, 차례음식은 정성이지! 만두야? 송편이야?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/9466f7d503e72f40db82c1ff952f83fc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943257",
+	"ingredient_ids": [
+		391,
+		667,
+		497,
+		995,
+		621,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "송편소",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "솔잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 쌀가루와 찹쌀가루를 섞어준 후 소금을 약간 넣고 물을 끓여 익반죽을 해 준다.* 한꺼번에 물을 붓지 말고 조금씩 농도를 봐가며 반죽한다.",
+		"2. ㉡ 반죽을 오목하게 밀어주며 속 재료를 넣고 오므려 꾹 눌려 공기를 빼준다.",
+		"3. ㉢ 모양을 만들어 준다.",
+		"4. ㉣ 삼발이 위에 솔잎을 깔고 송편+솔잎+만두+솔잎을 덮어준다.",
+		"5. ㉤ 수증기가 떨어지지 않게 냄비 뚜껑에 면포를 싸 준다.",
+		"6. ㉥ 송편피가 투명해지면 뚜껑을 열고 열기를 식혀준다. ㉦ 참기름을 발라준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/7753404fdf53d38c73f60ba478f9f9c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/bef71ea703dbff5f35026571c6d9c9d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/c6cd7e54113ac59bf90f8265dad98c851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/ac0b9abddee93c2da350ff5616b7c6cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/4ac3597c410c8c0b06f28db1d26e1d671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/521d42233e04a871282218a6e375e47a1.jpg"
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"id": "6944084",
+	"name": "멸치볶음 김주먹밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/a512663d303a07165e62220db3671deb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944084",
+	"ingredient_ids": [
+		496,
+		966,
+		226,
+		660,
+		543,
+		379
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "멸치볶음",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "조미김",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 밥한공기에 멸치 볶음 2T , 잘게 썬 단무지, 참기름 1T, 설탕 1/2T, 통깨를 뿌리고",
+		"2. 조미김을 잘라서 넣고",
+		"3. 골고루 섞어주세요 간장 1/2T 넣고 통깨를 한번 더 뿌려서",
+		"4. 주먹밥을 만들어 주세요",
+		"5. 조미김을 잘라주세요 주먹밥 바깥쪽으로 굴려서 김을 붙인 후 손으로 뭉쳐주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/0d210f61aca61b14a0569b52016f7b1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/68d16150fc141640db2344c0fb6da7c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/89d68418b77a4a70e024406af1925ba01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/4c9032277e57aac9acc86d824720df641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/8f4af8073b6945671b65b5fcba8d7f7e1.jpg"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"id": "6941747",
+	"name": "(아기반찬) 감자샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/d3ebaff87a24017f73a0c9f74f15322f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941747",
+	"ingredient_ids": [
+		5,
+		219,
+		460
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "아기치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "건포도",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해요감자2개, 달걀1개, 아기치즈 1장, 건포도 5알",
+		"2. 감자 껍질을 벗기고감자의 껍질을 벗기고 삶아야 으깨서 버무리는 작업이 수월해요.",
+		"3. 냄비에 감자가 2/3 정도 잠기도록 물을 붓고 푹 삶아요.",
+		"4. 달걀도 완숙으로 삶아요",
+		"5. 건포도는 작은 크기로 썰어서 준비하고",
+		"6. 보울에 삶은 감자, 껍질 깐 달걀, 아기치즈, 건포도를 넣고감자와 달걀은 뜨거운 상태로 바로 넣어야 아기치즈를 녹일 수 있어요",
+		"7. 마구마구 으깨서 버무려요",
+		"8. 고소하고 부드러운 감자샐러드가 완성되었어요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/1fc90c8c84ace69a8630b214f969753f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/f6f79db8a1b2e42f5bff4a3d5330876e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/4ee075e692cf70092d91c1fd502823681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/f5116f0e452c57cd7a14041bb79217e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/ec712d804fbb00e71846d3823c5d2a0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/033665eaf657b00b0e3958bf66f8d5551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/e27b5fd67b53ad46db88e8e49d2c5e671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/706c684662a8db567ac82c5aa99420ca1.jpg"
+	]
+}

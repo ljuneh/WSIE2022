@@ -1,0 +1,90 @@
+{
+	"id": "6945592",
+	"name": "된장찌개 해물넣고 어렵지 않게 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/fa2ae15267e63f2168ab5cfdabc9943f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945592",
+	"ingredient_ids": [
+		3,
+		54,
+		848,
+		995,
+		233,
+		563,
+		295
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "칵테일새우",
+			"ingre_count": "9",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "해감된바지락",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "찌개용두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		}
+	],
+	"recipe": [
+		"1. 먼저 멸치 육수를 진하게 우려내주고 육수가 우러나는동안 양파1개와",
+		"2. 양송이버섯4개는 썰어주세요.",
+		"3. 다시용육수가 나오면 재료를 걷어내고 된장을 3T 채에 걸러 풀어주세요.",
+		"4. 양송이버섯과 양파를 넣어주고",
+		"5. 다진마늘 1T",
+		"6. 해동한 칵테일새우를 넣어주고 끓여 준다음 해감된 바지락을 넣어주세요.",
+		"7. 다진파 + 찌개용두부를 넣고",
+		"8. 쳥양고추를 썰어서 은은하게 끓여주면 완성!",
+		"9. 기호에 따라 조금 간을 원하시는 분들은 된장을 더 풀어주시거나 소금을 조금 넣어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/baefa0713ed7d30633a76ab53aaa520c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/28c0aa792e70ba231236d19bec4dee9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/d2bc84a780520ed20b6e4b9c6059eaaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/145dc85ae493792e1ea6a96c65cbb48b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/42b601ecddca14b5b920d81b30429e121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/5afccb393e869c5dc98e3fd72dc3e5ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/1152113202f6996ede6e9078ce2509db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/a5717859b64bc59389515dc13909ae491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/cce03628858f90d77d599faade9ad9521.jpg"
+	]
+}

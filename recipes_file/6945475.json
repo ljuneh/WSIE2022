@@ -1,0 +1,53 @@
+{
+	"id": "6945475",
+	"name": "톳무침 만들기 두부톳무침 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/0e8c92384c26ac18f0d0211add7c52471.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945475",
+	"ingredient_ids": [
+		94,
+		323,
+		497,
+		290,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "톳",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 톳은 시장에서 3000원 어치 샀어요. 소금을 살짝 넣은 끓는물에 넣고 빠르게 데쳐주세요.(담궜다가 바로 빼는 정도)",
+		"2. 데친 톳은 깨끗한 물이 나올때 까지 찬물로 헹궈주세요.",
+		"3. 두부 반 모를 물기를 짠 후 준비해 주세요손두부를 사용하는게 좋답니다!",
+		"4. 물기를 짠 두부에 톳과 깨소금,소금 1/2t,참기름 1T를 넣고 무쳐주면 두부 톳 무침 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/35cc454557034dda39a838bc8c455e6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/45f7e48fc3ace6f2b459f85690d92d4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/a3921ca672e7c438cd50ccffb2ebabcd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/4267ede0ffee5fa51513642588656df01.jpg"
+	]
+}

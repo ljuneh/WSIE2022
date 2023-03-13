@@ -1,0 +1,84 @@
+{
+	"id": "6887976",
+	"name": "코다리찜/조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/04/27/269ae97cfb04d7ae696fca26891410441.jpg",
+	"url": "https://www.10000recipe.com/recipe/6887976",
+	"ingredient_ids": [
+		721,
+		19,
+		3,
+		295,
+		379,
+		224,
+		233,
+		136,
+		28
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "코다리",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "7",
+			"ingre_unit": "T.S"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T.S"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T.s"
+		},
+		{
+			"ingre_name": "설탕or물엿",
+			"ingre_count": "1",
+			"ingre_unit": "T.S"
+		},
+		{
+			"ingre_name": "매실",
+			"ingre_count": "1",
+			"ingre_unit": "T.S"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "T.S"
+		}
+	],
+	"recipe": [
+		"1. 쌀 씻은 물에 코다리를 20분 정도 담궈 줍니다.(저는 코다리를 재래시장에서 사서 깨끗이 씻은 뒤 나누어 냉동실에 한마리씩 넣어 사용했어요)",
+		"2. 그동안 양념을 (간장7 고춧가루2 다진마늘1 다진생강1/2 설탕or물엿1 매실1) 만들어 준비합니다.",
+		"3. 코다리를 물에 씻은 뒤 양념에 하루 재워둡니다. 그래야 속살까지 스며들어요!!!!!",
+		"4. 간장2 고춧가루1.5 다진마늘과 생강 그리고 설탕 매실1/2 여유있게 더 만들었어요.",
+		"5. 냄비나 둥근 후라이팬에 양념에 재워둔 코다리와 물 조금 넉넉히 넣어 약불에 끓여줍니다.",
+		"6. 끓으면 추가 양념을 넣어 끓여주면 완성~~ 조려주면 조림입니다^^"
+	],
+	"recipe_img": []
+}

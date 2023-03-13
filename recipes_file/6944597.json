@@ -1,0 +1,83 @@
+{
+	"id": "6944597",
+	"name": "맛있는 머쉬마루버섯 김밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/834e02f7498fb39a48de6e3ac9d037341.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944597",
+	"ingredient_ids": [
+		2,
+		9,
+		496,
+		95,
+		497,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "머쉬마루버섯",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "7-8개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 머쉬마루버섯 400g 채썰어 준비해주세요 데치면 양이 줄어서 여유있게 준비해주세요",
+		"2. 물기짜서 간장1큰술,설탕1큰술,참기름1큰술 넣고 무쳐주세요",
+		"3. 머쉬마루버섯 데친물에 시금치 살짝 데친후 소금약간,다진마늘1/2큰술,참기름넣고 조물조물 무치고~",
+		"4. 당근 채썰어준후 팬위에 기름살짝 두르고 소금약간 넣고 볶아주세요 여유있게 볶아줬어요 볶은당근 맛나요 ㅎ",
+		"5. 계란,단무지 햄 볶아주고~",
+		"6. 밥에 소금약간 참기름1큰술,통깨 뿌린후 섞어주세요",
+		"7. 김위에 밥 얇게 펼쳐주고 햄, 머쉬마루버섯 여유있게 올리고 당근많이 계란 시금치 단무지 올리고 말아주면 완성~",
+		"8. 건강하고 맛있는 머쉬마루버섯 김밥 버섯 안먹는 아이들도 이렇게 만들어주면 잘 먹을듯 ㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/fcdd5905be0f485f75a190c7bc77b48d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/14341fcaa4dcbcb4fc8c18fd4f581de91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/0e3db774fbedfe73280edd6327dc90ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/a9b6404ec33c5040758a98a3c93a77981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/55db4ab94e24f070af5947bbae84a8d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/1b6d3f9b698733081d322f3a3ac940b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/1802222c5e1ce1499d272820910440161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/67d95ee7e6d67387059e7d4eb78618071.jpg"
+	]
+}

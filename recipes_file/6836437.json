@@ -1,0 +1,83 @@
+{
+	"id": "6836437",
+	"name": "얼큰하고 시원한 오뎅국 맛있게 끓이기! ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/19/b5dbdcbca43b70f672dc7d12608954131.jpg",
+	"url": "https://www.10000recipe.com/recipe/6836437",
+	"ingredient_ids": [
+		19,
+		53,
+		295,
+		3,
+		349,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오뎅",
+			"ingre_count": "10",
+			"ingre_unit": "개정도"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2~3개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "멸치다시마가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 넙적한 부산오뎅이나 종류가 다양한 오뎅(어묵)을 준비해 주세요, 미리 썰어 놓기 보다 통으로 끓여서 끓이고 나서 자르면 더 맛나요^^",
+		"2. 물 1.5리터 정도에 국간장 두숟갈과 무와 표고버섯기둥과 멸치 5~6마리를 넣고 5분정도 국물이 우러나게 끓입니다. 마른새우나 다시마를 넣어주시면 더 맛나요^^",
+		"3. 각종 야채를 적당히 먹기 좋은 크기로 썰어줍니다. 무도 그렇고 야채도 건져 먹으면 맛나요^^",
+		"4. 국물이 끓으면 멸치랑 표고버섯 기둥은 건져 버리고 오뎅을 넣고 2~3분정도 끓입니다.",
+		"5. 오뎅이 끓으면 오뎅을 먹기 좋게 잘라주구요 야채를 넣고 청양고추랑 파도 넣고 2분정도 끓입니다. 간을 보고 싱거우면 소금을 더 넣어주시고 후추도 넣고 간을 맞추세요^^",
+		"6. 시원하고 얼큰한 오뎅탕 한그릇만으로도 속이 든든해집니다. 국물속에 야채도 건져 먹으면 맛나요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/19/205b35567ca6ebca500a597bee7064f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/19/d0b145aeb5f3c09343ede0ad4c01f53b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/19/d2d289f89174d099286e0f716c07aaca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/19/1105ea4e78185696eef874d1318d44941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/19/d447870c169fa06392c75f99774f00031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/19/010fb44d4acc4173a8c81bcef82302511.jpg"
+	]
+}

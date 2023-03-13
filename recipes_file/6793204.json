@@ -1,0 +1,76 @@
+{
+	"id": "6793204",
+	"name": "파김치 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/666aa2ebc084fa39ab41855bbd9bcb0b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6793204",
+	"ingredient_ids": [
+		287,
+		3,
+		29,
+		28,
+		224,
+		136
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "파",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "13",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3~4톨",
+			"ingre_unit": "~톨"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3~3.5스푼",
+			"ingre_unit": "~.스푼"
+		},
+		{
+			"ingre_name": "매실",
+			"ingre_count": "7",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "찹쌀풀-물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀가루2스푼가득",
+			"ingre_count": "2",
+			"ingre_unit": "스푼 가득"
+		}
+	],
+	"recipe": [
+		"1. 먼저 파는 깨끗하게 손질해서 체에 받혀둡니다 .",
+		"2. 양념 만들 통에 먼저 액젓 13스푼을 넣고 파의 머리부분만 미리 잠시 절여주었어요. 중간중간 머리부분만 돌려가며 양념 만들기전에 미리 좀 절여주면 균형이 맞더라구요.",
+		"3. 믹서에 마늘과 양파 그리고 생강을 넣고 잘 갈아주러 갑니다. 물 한컵에 찹쌀가루 2스푼을 넣고 불위에서 세지않은불로 잘 저어주면 되직해지죠, 찹쌀풀도 만들어 잠시 식혀 준비해요 .",
+		"4. 갈아둔 양파와 마늘 생강에 고춧가루 3스푼 그리고 만들어둔 찹쌀풀을 넣고 잘 섞어주면 요렇게 김치 양념이 만들어집니다.",
+		"5. 양념을 고루고루 잘 발라가며 묻혀주시면 요렇게 쉽게 파김치가 완성된답니다 ."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/d10e606aa0809cf7523ab3691b24a7a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/23988bb7cfe5d11996b63a4b0bf9b2701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/c697bb2a5bb4188a0e0453a15a8fdc961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/2db1dac525a7775efd9c793aff952f941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/8b53d52844ec48b790cea5b4dba07ccf1.jpg"
+	]
+}

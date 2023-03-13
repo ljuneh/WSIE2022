@@ -1,0 +1,97 @@
+{
+	"id": "2714495",
+	"name": "쇠고기등심스테이크",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/c7d1eb4789e9be300616cb9419ed7648.jpg",
+	"url": "https://www.10000recipe.com/recipe/2714495",
+	"ingredient_ids": [
+		122,
+		325,
+		3,
+		497,
+		266,
+		393,
+		724,
+		233,
+		198
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기등심",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "스테이크소스",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "발사믹식초",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 쇠고기 등심은 앞, 뒤로 소금, 후추, 오일을 조금씩 뿌려줍니다.",
+		"2. 루루 그릴팬을 뜨겁게 달궈 쇠고기 등심을 올려서 그릴자국 제대로 내줍니다.",
+		"3. 양파, 호박도 그릴자국 내주세요",
+		"4. 등심 구운팬을 씻지 않고 그대로 시판 스테이크 소스 6큰술, 발사믹식초 2큰술, 케찹 2큰술, 다진마늘 0.5큰술, 버터 1큰술, 오일 2큰술, 후추 약간 넣어 바글바글 끓여서 간단하게 소스 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/2582ed5b6ec752b6e0ec455cb893db341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/6093a5b89bcf2a68c58cbfc70f29c9a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/5a6e03e8d01ab1e10019c79f8611800f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/248ebd7d8c670d45c50483656601acee1.jpg"
+	]
+}

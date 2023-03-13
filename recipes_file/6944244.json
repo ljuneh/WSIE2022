@@ -1,0 +1,74 @@
+{
+	"id": "6944244",
+	"name": "가지무침 밥반찬 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/9d8884d7a48ed490343fff03cec948041.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944244",
+	"ingredient_ids": [
+		18,
+		3,
+		226,
+		379,
+		575,
+		660,
+		333,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 가지를 4등분 하여 남비에 물을 넣고 찜기를 올리고 찝니다 물이 끓으면서 김이 나면 잠시 그대로 익혀주세요 젓가락으로 찔러서 쑥 들어가면 불을 끄고 꺼내서 식혀주세요",
+		"2. 길이로 먹기 좋게 잘라주세요 부드럽게 잘 쪘어요 양파를 채썰어 넣고",
+		"3. 양념을 넣고 골고루 섞어서 맛을 봅니다 통깨를 뿌려 주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/b674e74d3a8ac90a6930b0200098611e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/4c3b90ee77a1b7a881ac1d41e1476f2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/ae134353bd690439352ff7250d04ef151.jpg"
+	]
+}

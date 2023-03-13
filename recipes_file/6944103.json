@@ -1,0 +1,77 @@
+{
+	"id": "6944103",
+	"name": "돼지고기 무청우거지 된장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/af4002fd2d99fcfbfaeb3527530e00631.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944103",
+	"ingredient_ids": [
+		323,
+		295,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삶은무청우거지",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "돼지고기앞다리살찌개용",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시멸치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "된장크게",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 생무청을 준비후에 펄펄 끓는물에 소금1작은술을 넣고 3분을 데쳐주신후 찬물에 씻어 물기를 짜주신후 먹기좋은 길이로 잘라서 준비해주세요",
+		"2. 돼지고기 앞다리살 찌개용으로 준비해주세요",
+		"3. 물2L에 다시멸치 한줌을 넣고 펄펄 끓여주세요",
+		"4. 돼지고기를 넣고 된장을 풀어주세요",
+		"5. 된장을 풀어서 펄펄 끓어오르면 무청우거지와 청양고추를 넣어주세요",
+		"6. 두부를 작게 잘라서 넣고 다진마늘/후추가루조금을 넣어주세요",
+		"7. 고추가루1큰술을 넣고 10분간 펄펄 끓여주시면 되세요 국물간을 보시고 싱거우시면 소금/국간장을 추가해주시면 되세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/6ce51ba4e6406482f2132fa8226593081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/2498d9a24bb467a5c9da6917ca2aca5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b6a80e19be8c94a101bd13552c073efe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/7d069ed63008628946b20d439040de781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/5fc9e8e69702369e61125a7fdededdff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f008413f0578beae8a7fa287ebb475331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/bc65efc526a23ab572930f6d912dbf541.jpg"
+	]
+}

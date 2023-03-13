@@ -1,0 +1,92 @@
+{
+	"id": "6940892",
+	"name": "no밀가루 두부부추전:빈대떡 맛이 나요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/023e6bfe2081cb96f1244a9995a8bfb31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940892",
+	"ingredient_ids": [
+		323,
+		30,
+		219,
+		3,
+		497,
+		504,
+		5
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "표고가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "",
+			"ingre_unit": "선택"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "",
+			"ingre_unit": "선택"
+		}
+	],
+	"recipe": [
+		"1. 두부,부추,달걀이 메인재료이고 나머지는 선택재료에요",
+		"2. 먼저 물을 빼둔 두부는 볼에 으깨어준다.",
+		"3. 부추와 양파를 썰어 넣는다: 옆의 사진보다 좀 더 잘게 썰면 부치기 더 편해요.",
+		"4. 감자는 강판에 갈아넣는다",
+		"5. 강판에 갈고 남은 감자는 잘게 썰어넣는다.",
+		"6. 모든 재료를 볼에 담은 후 달걀과 소금, 후추, 표고가루(선택)를 넣는다.",
+		"7. 입맛에 따라 카레가루를 넣어주어도 좋다.",
+		"8. 반죽이 잘 엉기도록 달걀을 하나 추가하거나 전분을 조금 주가해도 좋다.",
+		"9. 팬에 식용유를 두르고 온도가 올라가면 반죽을 담고 앞뒤로 노릇노릇하게 굽는다.",
+		"10. 반죽이 자칫 흐트러지기 쉬운 상태이므로 도톰하게 모양을 잡고 충분히 익힌 후 한번만 뒤집어 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/a8aaba901416ce0c71a4dc8e941e346c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/929aeea32ffd7d46c6404b8933430aef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/e8571277a726892fe17b240dc72504641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/fcf9476e4164f1b4b359a3d8077ab5601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/f4fff2e9f617ea2e54db030cb6135fe01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/6d23cbddaa3e52fea51418648f1bead11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/1c27cb2e7488869856d6f95895f0c5df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/e51113b50ccbea727a6fdf4cbab57fa81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/1504f39e60ba2861372f0a412d8a11141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/247922cd1762be93531060ab829bc4811.jpg"
+	]
+}

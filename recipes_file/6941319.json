@@ -1,0 +1,65 @@
+{
+	"id": "6941319",
+	"name": "바지락칼국수 만드는법 시원하고 깊은국물맛",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/aa51e20e6eb0571c8469d035eb6c7a591.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941319",
+	"ingredient_ids": [
+		349,
+		497,
+		1002,
+		84
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "육수팩",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "각종야채",
+			"ingre_count": "",
+			"ingre_unit": "조금씩"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "칼국수",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "바지락",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료 손질부터 해주세요.",
+		"2. 디포리다시팩으로 육수를 만들어 줍니다. 멸치도 상관 없습니다.",
+		"3. 바지락은 먹을만큼만 씻어주세요.",
+		"4. 육수가 끓어오르면 바지락과 야채를  넣어주세요.",
+		"5. 그리고 칼국수 면을 털어서 넣어주세요.",
+		"6. 국간장1T 넣고 소금간 0.5t 넣어주세요.",
+		"7. 마늘도 0.5t 넣고 땡초도 썰어서 넣어주세요.",
+		"8. 칼국수 면이 익으면 그릇에 부워서  맛있게 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/a3c03117a7e5eb0beafddf1daa19e5b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/70775d0dc4589f6e0614184a6db7ddd01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/5d8211fcbe2ef24e2b99ffed1278decd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/cebcb1e14b8912c23bb0136b569ff5be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/9e2a50c972ed9c48187c043d3af5b4f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/860e29e1af12344003de5535c292e0bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/48e520cdc8e3ca5ee806c453633d10281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/23004fe7d6f55390b30f12f40128dc471.jpg"
+	]
+}

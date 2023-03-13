@@ -1,0 +1,58 @@
+{
+	"id": "6884374",
+	"name": "생과일주스 만들기 상큼한데 부드럽게~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/22/3de869941061255f1f20cfdde5be90501.jpg",
+	"url": "https://www.10000recipe.com/recipe/6884374",
+	"ingredient_ids": [
+		141,
+		155,
+		227
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "딸기",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "아보카도(냉동사용함)",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "믹서기or핸드믹서",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 바나나는 껍질을 벗기고 여러등분해주시고 딸기도 세척한후 물기를 털어 2등분해주세요. 모두 믹서에 넣어주시고 아보카도는 그냥 투척!냉동아보카도는 대형마트에서 냉동식품으로 구매했고 생략가능해요.",
+		"2. 그리고 우유와 꿀을 분량대로 넣어주세요.바나나가 달콤해서 꿀을 넣지 않아도 되긴해요.",
+		"3. 그리고 모두 잘 갈리도록 믹서기를 작동만 해주면 끝!!!",
+		"4. 바나나껍질의 경우 달달하다보니 벌레가 금방생겨요. 요즘 처럼 추운날씨엔 그나마 덜하지만 날씨가 따뜻한 여름에는 잠시만 둬도 날파리가 금방꼬이죠. 그럴땐 스마트카라의 도움을 받으시면 좋아요. 3중 복합 다중 활성탄 필터를 통해 냄새와 부패없이 음식물 쓰레기 보관이 가능하기때문에 건조통에 보관했다가 다 채워지면 한번에 처리하시면 된답니다 :)",
+		"5. 3~4시간정도의 건조와 분쇄가 끝나면 결과물은 이렇게~!!! 바나나껍질은 온데간데 없이 몇가닥의 섬유질정도만 눈에 보이네요. 오늘도 음식물쓰레기는 거의 나오지 않았다는 사실~!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/22/d1731896ffa3a34dc82af1fc36f171c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/22/eef6cd91ed775d7dce2be0926c4b62e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/22/156a425d203bad9c1e86e0c179a7a9ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/22/2d0ccfe7596d534e32df09c4a64d8bbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/22/5e20d0a834a560b78c5df28a89656c771.jpg"
+	]
+}

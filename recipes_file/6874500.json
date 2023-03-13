@@ -1,0 +1,87 @@
+{
+	"id": "6874500",
+	"name": "단짠단짠 간장등갈비 ~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/a812e9764dc431d9ff32de422634ef891.jpg",
+	"url": "https://www.10000recipe.com/recipe/6874500",
+	"ingredient_ids": [
+		850,
+		3,
+		292,
+		292,
+		575,
+		226,
+		233,
+		995
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지등갈비",
+			"ingre_count": "1",
+			"ingre_unit": "kg정도"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파흰부분1개(20cm정도)",
+			"ingre_count": "1개(20cm정도)",
+			"ingre_unit": "개(cm정도)"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛간장(진간장)",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 등갈비는 30분이상 물에 담가 핏물을 빼줍니다",
+		"2. 냄비에 등갈비가 잠길 정도의 물을 붓고 불을 켜줍니다.끓기 시작하면 맛술 1/2컵을 넣고 10분간 끓여줍니다",
+		"3. 그 사이 간장 양념을 만들어주세요.맛간장(진간장) 1/2컵,맛술 1/3컵,올리고당 5스푼,설탕 1스푼,다진 마늘 1스푼, 송송 썬 대파를 넣고 잘 섞어줍니다",
+		"4. 초벌한 등갈비를 깨끗이 씻어 냄비에 가지런히 담고 얇게 채 썬 양파를 올려줍니다",
+		"5. 4에 간장 양념을 넣고 물 4컵을 부어서 센불로 40분정도 끓여줍니다",
+		"6. 중간에 한번씩 뒤적여주세요~ 국물이 거의 졸면 완성!!!",
+		"7. 접시에 담아 주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/10/eca61d661266e9cb0f5c393f9cb3f33b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/10/d560b04d55dc90a143b893f53a9761131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/10/4e8a9a907258513f9897741ee5bd81a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/10/e9d054e33f861fa9e3ff77d9377e03981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/10/cb0f3114c84fb01b40072da8ee66182f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/10/f2606a4977997fb70eb26b297bd257121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/10/af1021a9c08ff21dcd26b9be7dffb37b1.jpg"
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "6863044",
+	"name": "맑은 국물로 끓이는 소내장탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/23/f397ff83d397d9c47dea3231ec551e381.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863044",
+	"ingredient_ids": [
+		234,
+		876,
+		29,
+		19,
+		497
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "소내장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파뿌리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "파"
+		}
+	],
+	"recipe": [
+		"1. 소내장은 밀가루를 넣고 깨끗하게 손질합니다",
+		"2. 곱창에 기름을 조금 제거하고  깨끗히 씻어 놓습니다",
+		"3. 쌀뜨물을 끓입니다",
+		"4. 물이 끓으면 파뿌리 마늘을 다시망에 넣고 끓입니다",
+		"5. 내장을 넣고 익힙니다",
+		"6. 기호에 맞게 부위별로 익히고 건져냅니다",
+		"7. 먹기좋은 크기로 썰어놓습니다",
+		"8. 무를 나박하게 썰어놓습니다 육수에 무를 넣고 익힙니다",
+		"9. 뚝배기에 내장탕을 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/23/a82f0b94d7b81b87ed6b29e2520e3b841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/23/2e3216542ad73acb3353aec33c6fdfe31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/23/75e011dfab5bc03077eab9ae464bd9331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/23/ef3a4b278469e5de33766ce7d446bfa51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/23/d1455106ac7fd916b8235a87a962c5b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/23/c3eaae4befc4d063cd304a1d562440061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/25/6922d790f8ce3437a4b375e079e7c3f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/23/c96950d6d965510a3d9932983dc6d96d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/23/b5aaa4864c42b0daff74ade6d2fa01421.jpg"
+	]
+}

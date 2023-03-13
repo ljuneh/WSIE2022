@@ -1,0 +1,57 @@
+{
+	"id": "6943972",
+	"name": "시댁식구들의 애틋한 형제애, 외식보다 집밥이 최고!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/10937a6f8af81cb56ec4ca2f29f6976a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943972",
+	"ingredient_ids": [
+		963,
+		52,
+		29,
+		535,
+		477,
+		350
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "대패삼겹살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "허브솔트",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 마늘은 편으로 썰어 삼겹살과 함께 볶아준다.",
+		"2. ㉡ 기름기는 키친타월로 닦아낸 후 허브솔트를 약간 뿌려준다.                   ",
+		"3. ㉢ 손질한 숙주를 넣고 볶다가 굴 소스로 간을 맞춘 후 깨소금을 뿌려준다.                     "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/15b7430304efe1491a30b113be4edd441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/d4432bd0ed7f04286cadd98aade65dab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/da9a677100b446351ec7c89ae6a41cce1.jpg"
+	]
+}

@@ -1,0 +1,93 @@
+{
+	"id": "6943781",
+	"name": "마늘 장아찌 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/2cee27c87afa3f641065a8fdd0ca63981.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943781",
+	"ingredient_ids": [
+		231,
+		995,
+		379,
+		231,
+		843,
+		333,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "풋마늘약",
+			"ingre_count": "30",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "700ml장아찌병",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물600ml​",
+			"ingre_count": "600",
+			"ingre_unit": "ml ​"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금1작은술​",
+			"ingre_count": "1",
+			"ingre_unit": "작은 술 ​"
+		}
+	],
+	"recipe": [
+		"1. 마늘은 대와",
+		"2. 뿌리를 바짝 잘라 낸다.",
+		"3. 속 껍질을 한두 겹만 남겨 두고 벗겨 낸다.",
+		"4. 물에 깨끗이 씻어 물기를 말려 준비 한다.",
+		"5. 물기를 뺀 마늘을 병이나 밀폐 용기에 담고 1차 절임 액을 잠기도록 부어 준 후 7-10일 정도 두어 아린 맛을 빼 준다.",
+		"6. 1차 절임 액을 따라 내고 마늘만 건져내어 병에 담는다.",
+		"7. 분량의 장아찌 물 재료를 섞어 불에 한 번 끓여 준다.",
+		"8. 한 김 식힌 장아찌 물을 병에 부어 준 후 서늘한 곳에 보관하며 1주일 후 한 번, 또 다시 10일 후 한 번, 액만 따라 내어 끓여서 다시 부어 주는 것을 반복한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/dbe50cfc439987947b6ca0312ee9d7ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/a1c980bab8e6934830a9f72a09441b831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/894be51758b60c7a2ca384c4f0b46e291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/65d4c45e53beabe555b7097a3ebdfcfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/460b10297737ec28caab2c3f8ad8aba81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/899793a0dc56d7c7bbcb85a0308f661d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/49853d5f599792474deea4279fd913d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/00a49fc30efd76eb33b7b0bdd3c1f25a1.jpg"
+	]
+}

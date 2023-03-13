@@ -1,0 +1,86 @@
+{
+	"id": "6866930",
+	"name": "생생정보통 열무김치 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/b1c11f2a162900dcbd42a4ed10660e8f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866930",
+	"ingredient_ids": [
+		35,
+		995,
+		497,
+		224,
+		233,
+		295,
+		3,
+		843
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "열무",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "찹쌀가루1컵(200cc)",
+			"ingre_count": "1컵(200cc)",
+			"ingre_unit": "컵(cc)"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "17",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "9",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 다듬은 후 3-4센티 길이로 잘라 물로 살살 저어가며 씻어주세요. 세게 하시면 풋내가 난다네요. 그리고 소쿠리에 건져 물기를 1시간정도 빼주세요.                   ",
+		"2. 냄비에 물 7컵을 넣고 끓여주세요.",
+		"3. 끓는물에 찹쌀가루 1컵에 물 3컵을 섞어 부어주세요.                   ",
+		"4. 찹쌀풀물을 만들어줍니다. 숟가락으로 들러붙지않게 잘 저어주다 그냥 한번 끓어오르면 불끄시고 식혀주세요.",
+		"5. 그동안 나머지 야채를 준비하세요. 원래는 풋고추에 생강을 넣는데 저는 없어서 그냥 매콤하게 청양고추와 양파, 마늘만 넣었어요.",
+		"6. 그리고 분량의 양념을 찹쌀풀물과 물 7컵을 더 넣고 야채도 함께 섞어주세요.",
+		"7. 물기빠진 열무를 통에 담아주세요.",
+		"8. 열무에 국물을 부어주세요.",
+		"9. 그리고 위아래로 서너번 섞어 뚜껑 닫고 24시간 상온에 두셨다가 냉장보관 후 드시면 되요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/d7f93c015ed247ef4619247b13e468381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/eb3586b027cdb2b9c9586e4aa2d9e67c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/82005d03133188b2af908855e9f867961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/db295c5d4f88760f1f7783de03d568831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/41350291db12577058d3a75b7f5825091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/93f611869824e7ed08c05233fa7d3e061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/d764bc5af559c88c6ec486dd7bb842071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/06973523bc81f7643d14a4a611aa86511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/16/2d729246c077d2e14ac357b77724d7761.jpg"
+	]
+}

@@ -1,0 +1,107 @@
+{
+	"id": "6903739",
+	"name": "베이컨 양파덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/05/9558f0331c87dce2e039100fdcf3c9611.jpg",
+	"url": "https://www.10000recipe.com/recipe/6903739",
+	"ingredient_ids": [
+		406,
+		3,
+		757,
+		504,
+		327,
+		350,
+		379,
+		575,
+		292,
+		477,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 위의 양념을 넣고 간장소스를 만들어주세요",
+		"2. 팬에 베이컨을 넣고 볶아주세요.",
+		"3. 베이컨은 따로 담아내고, 그팬에 식용유를 두르고 양파를 볶아주세요.",
+		"4. 양파가 숨이 죽으면 간장 소스를넣고 졸려주세요.",
+		"5. 국물이 자작해지면 들기름 1큰술을 넣고 섞어주세요.",
+		"6. 팬에 식용유를 두르고 계란후라이를 부쳐 주세요.",
+		"7. 완성그릇에 밥을 담고,양파볶음을 담아준후",
+		"8. 베이컨을 담고 그위에 계란후라이를 담고, 송송썬 쪽파와 깨소금 뿌려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/05/092eb7a9793ed4764ce88358cdcdddc41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/05/caf997317e105eff3e5447d0dff220061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/05/80be077c7a9e283dbecab5325219562c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/05/6c520a706a28de30e21dc11ce29151e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/05/d55c2d76eb31a0412994e3e3fc49f11f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/05/9e45d62d59633864468be92a0467dd1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/05/7496f0cec700713ef3c21276f6e9a6b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/05/592051d69ad38b79a570d78c46f32ba71.jpg"
+	]
+}

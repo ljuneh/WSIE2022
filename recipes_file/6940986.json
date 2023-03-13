@@ -1,0 +1,84 @@
+{
+	"id": "6940986",
+	"name": "국물감자볶음:밥도 되고 반찬도 되는 초간단레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/b5fc922e0c68fc1672b1e632f801165a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940986",
+	"ingredient_ids": [
+		5,
+		3,
+		9,
+		497,
+		660,
+		757,
+		295
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물50ml+",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "현미유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 감자는 굵은채, 양파는 적당히 당근은 가는채 썬다. 제 감자채는 너무 굵었어요 ㅠㅠ 제것보다는 가늘게 썰어주세요",
+		"2. 팬에 현미유+참기름 넣고 볶는다. 준님은 참기름만 넣었으나 발연점때문에 현미유(식용유) 먼저 넣고 참기름 넣어 볶았어요.",
+		"3. 소금,후추 넣고 3분정도 볶다가 물 조금 넣어 충분히 볶는다. 이때 넣는 물은 타지 않게 볶기위해 넣는 물로 모든 재료를 거의 다 익힌다는 생각으로 볶아주세요.",
+		"4. 재료가 푹 잠기게 물을 붓고 물이 1/3정도로 졸아 들때까지 뚜껑덮지 말고 끓인다.",
+		"5. 감자가 뚝뚝 부러질 정도로 익힌다.",
+		"6. 부족한 간은 소금으로 맞추고 파와 청양고추를 넣고 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/bc04f822922557bdcab9eb21c3f2db561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/e9154bd632cdeb5d70b66da1dd9a1e581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/25788d1b1c51cf57be7131f78958b95c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/05189cc5ae5992a72e937057e5099e981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/9e32f0142178cbc4164ae3e29633e3d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/02579c3e7b523b9e974a04a57d5fd3331.jpg"
+	]
+}

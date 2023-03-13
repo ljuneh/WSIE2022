@@ -1,0 +1,65 @@
+{
+	"id": "6943281",
+	"name": "냉면육수로 도토리묵사발 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/93278d10d5fc086c9a40b4d49d7ea1fe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943281",
+	"ingredient_ids": [
+		331,
+		398,
+		543,
+		226,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "도토리묵",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "냉면육수",
+			"ingre_count": "2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "배추김치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 도토리묵을 먹기 좋은 크기로 썹니다.",
+		"2. 자른 도토리묵을 끓는 물에 넣고 1분간 데쳐요. 도토리묵이 다 데쳐지면 찬물로 가볍게 헹군 뒤 체에 받쳐 물기를 제거해 주세요.",
+		"3. 배추김치 한 줌을 먹기 좋은 크기로 썰고, 설탕 1/2큰술과 참기름 1큰술을 넣은 뒤 조물조물 잘 버무려 두어요.",
+		"4. 적당한 크기의 그릇에 도토리묵과 살얼음이 언 냉면육수를 붓습니다.",
+		"5. 그리고 양념을 한 김치와 김가루 적당량을 넣고 취향에 따라 고명을 추가로 넣은 뒤 통깨를 솔솔 뿌리면 도토리묵사발 완성이에요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/4790b9a3aef80657e6b15d6a0ea88c681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/e8cb825624af76e5d27f50f986827db41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/ddd0262bb34c8f4bd936a4186dfc65c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/5090ff1bb85b425479469f5cd840ac2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/57a164fa12f7268c184f1855dc71c5ac1.jpg"
+	]
+}

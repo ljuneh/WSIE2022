@@ -1,0 +1,45 @@
+{
+	"id": "6940337",
+	"name": "봉봉푸딩 ♥ 봉봉을 넣어 입에 넣으면 몽글몽글 씹히는 맛!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/4aefb70bbc2e39a81de7c285796228651.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940337",
+	"ingredient_ids": [
+		620,
+		226
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "봉봉음료수포도맛",
+			"ingre_count": "2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "젤라틴",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "젤리",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 젤라틴은 찬물에 불린다.",
+		"2. 불린 젤라틴은 물기를 꼭 짜 전자레인지에 1분간 돌려 녹인다.전자레인지",
+		"3. 봉봉 음료수에 녹인 젤라틴, 설탕을 넣어 섞은 후 전자레인지에 2분간 돌려 잘 섞는다.",
+		"4. 모양 틀이나 용기에 젤리를 넣고 섞은 음료를 부어 냉장고에서 하루 이상 굳혀 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/80e81cbbdb668e3885c60c7314f7845f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/e575fd0d73bda2fa329e84e8ee29655a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/0e760429f6953213acc6033ffb6562f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/1240eead9a1c41a2249c017dfe275aeb1.jpg"
+	]
+}

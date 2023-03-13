@@ -1,0 +1,106 @@
+{
+	"id": "6940694",
+	"name": "떡볶이 황금레시피 주말에 맛있게 만들어 보기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/7cea7f02096ea42ba879961ed98ae3061.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940694",
+	"ingredient_ids": [
+		995,
+		21,
+		548,
+		9,
+		302,
+		219,
+		226,
+		379
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "떡",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "태양초고추장",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".숟갈"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 멸치육수를 내주세요.",
+		"2. 저희집에 고구마를 쪄먹고 남아서 일단 튀김거리부터 만들어 보았어요.",
+		"3. 떡볶이 양념장:) 고추장2T, 설탕1T, 진간장 1.5T, 후추 톡톡톡",
+		"4. 오뎅과 양배추 그리고 당근, 양파 이렇게 넣어줄께요.  오뎅만 있어도 맛있게 만들수 있어요.",
+		"5. 계란도 삶아주세요.",
+		"6. 불린 당면사리를 넣어 주세요. 떡도 같이 넣어줍니다. 라면 사리 같은 경우에는 어묵이 들어갈 같이 면 넣어주시면 됩니다.",
+		"7. 오뎅과 야채를 넣어주세요. 집에 뒤져보니 또 비엔나 소세지가 있어서 넣어줄께요.",
+		"8. 파도 숑숑 썰어서 넣어줄께요.",
+		"9. 이렇게 모두 익었다면 이제 이쁜 그릇에 담아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/96b4ea471399829777300311c47b3cc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/809887a346365a56b8e79cfa36ca1e711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/5a751c02b880137a3196122d28a0a4d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/9c8aee637d9002a600e4df0e43a0483b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/96fc23aa4a392ab0dc5843cb99b50cf51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/6d60234d28c1de99c502d2e218ca73371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/60220ee0848029681089610556e75fca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/322a60784414c50c8831c67cfa3daca61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/95e0dbf988e6eb7b27e9ddcbbfa716411.jpg"
+	]
+}

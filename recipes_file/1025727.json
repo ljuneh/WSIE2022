@@ -1,0 +1,49 @@
+{
+	"id": "1025727",
+	"name": "우유까지 넣어 더 고소한 아침밥으로 좋은 잣죽만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/26/6c274687bec33b571a75464e1399d487.jpg",
+	"url": "https://www.10000recipe.com/recipe/1025727",
+	"ingredient_ids": [
+		188,
+		995,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "잣",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "3",
+			"ingre_unit": "숫가락"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. .믹서기에 물을 한컵정도 넣고요. 밥을 넣어주고요.",
+		"2. 잣을 넣어줘요. 곱게 갈아줍니다.",
+		"3. 갈아 놓은 것에 우유를 넣어 농도를 맞추고 소금간을합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/e16a1e65c8dca3e96f8bbe5264252a3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/e7cadeffb1a365feb4d5beb3083d18411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/42b5cd15f4c7605eb20deb9231bfb0941.jpg"
+	]
+}

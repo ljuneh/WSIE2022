@@ -1,0 +1,41 @@
+{
+	"id": "6610857",
+	"name": "우엉조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/6689b11a288d8d09b36e53e0ae23b2631.jpg",
+	"url": "https://www.10000recipe.com/recipe/6610857",
+	"ingredient_ids": [
+		379,
+		341,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 저는 우엉을 채 썰어서 준비했는데요. 요건 취향껏 어슷 썰어도 좋고 도라지 다듬듯이 길게 잘라서 준비해도 좋아요.",
+		"2. 우엉은 먼저 기름 두르고 센 불에서 3분 정도 볶아줬어요.  우엉조림은 들기름 넣고 볶아도 좋아요.",
+		"3. 우엉은 3분 정도 먼저 볶아준 뒤 간장 3T, 물엿 3T를 넣고 센 불에서 볶아줬어요.",
+		"4. 우엉이 거의 다 익었을 때 간장 1T , 물엿 1T를 더 넣어서 센 불에서 볶아줬어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/44e2b866b4e687182d90660bbfb911301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/7d2ece1ff15514817638df3abfe4b6911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/4afc6c0ea3ac73f8b22f55b5fa51f1821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/2e160ae33017f695663ee2d948b333c61.jpg"
+	]
+}

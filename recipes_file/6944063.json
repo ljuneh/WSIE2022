@@ -1,0 +1,79 @@
+{
+	"id": "6944063",
+	"name": "집밥/ 간장게장 비빔밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/2136972ca7ee9a4a07f8fbeab5841c4e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944063",
+	"ingredient_ids": [
+		327,
+		295,
+		219,
+		660,
+		350,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "간장게장",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 그냥 먹어도 맛있는 간장게장. 약간 번거로울 수있고 귀찮을 수도 있지만 아들을 위하여 간장게장 비빔밥을  만들어 본다. 간장게장 1마리는 장갑을 끼고 살만  발라서 준비 하였다.",
+		"2. 비빔밥 만들 대접에 들기름 1T를 바닥에 깔아 주었다.",
+		"3. 청양고추 1개는 다져서 들기름과 함께 올려 준다. 청양고추의 칼칼하고 매콤한 맛이 간장게장 비빔밥의 맛을 더해준다.",
+		"4. 달걀 1개는 스크램블드 에그를 만들어  올려 주었다. 기호에 따라 양파나 대파를  올려줘도 맛이 좋다.",
+		"5. 그 위에 게장에서 발라 낸 게살을 올려준다. 간장에 숙성된 짭조름한 맛이  아주 좋다. 참기름 1ts 넣어주고,",
+		"6. 깨소금 1ts를 넣어준 뒤에 따뜻한 밥을 올려준다.",
+		"7. 게장 담았던 간장을 곁들여 낸다. 싱거우면 약간 넣어서 먹으면 더욱 맛이 좋다.",
+		"8. 김자반이 있으면 약간 넣어서 비벼 먹어도 아주 맛이 좋다.",
+		"9. 김치찌개와 함께 한그릇 밥도둑이 따로 없다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/0bf853b3ead7cbf357b1edd6c2b5b6341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/4c3a1249f626abc08be41aef9a4d56781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/61f0bd9f074d40f4933ca9f0074f54fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/03ec2086c8f8df58d4cab7f17bddaa651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/801808563cdf48877e2cb55cbb9e9e691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f699c519c9e12d530cdb247a1375a1121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/0553992e7fda19ff7831dfd908eed58f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/dd90d156280157814a524ad2c18c66261.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/8e730d81cacce857cee0c91d4e1f00fb1.jpg"
+	]
+}

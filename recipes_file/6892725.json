@@ -1,0 +1,86 @@
+{
+	"id": "6892725",
+	"name": "기존에 양념과 다른 감칠맛 나는 매콤한 가지볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/18/15414d2ec48a88c1e42144f1ea2ce04a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6892725",
+	"ingredient_ids": [
+		18,
+		3,
+		432,
+		29,
+		543,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "새우젓구물",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금(기호에맞게가감)",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "조미료(취향껏)",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 가지를 깨끗히 씻어 꼭지를 잘라버리고 통으로 어슷썰기를 합니다",
+		"2. 양파도 도톰하게 썰어놓습니다",
+		"3. 홍고추는 어슷썰기를 한후 물에 씻어 씨를 제거하고 꼭 짭니다",
+		"4. 웍에 가지 양파 오일을 넣고 약불로 볶습니다",
+		"5. 순서에 따라 양념을 첨가 하면서 가지를 볶습니다",
+		"6. 그릇에 담아냅니다"
+	],
+	"recipe_img": []
+}

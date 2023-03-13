@@ -1,0 +1,83 @@
+{
+	"id": "6945511",
+	"name": "쉬운국요리 : 바지락 콩나물국 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/f15a4dceeafed66867ae3632323421a51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945511",
+	"ingredient_ids": [
+		90,
+		995,
+		84,
+		47,
+		3,
+		390,
+		349
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "다시용멸치",
+			"ingre_count": "8",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "바지락",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 멸치육수를 진하게 우려내고, 양파1개는 채 썰어서 넣어주세요.",
+		"2. 콩나물 1봉지는 씻어서 넣어주고",
+		"3. 하루전날 해감한 바지락을 깨끗하게 씻어 넣어주고",
+		"4. 새우젓 1T를 넣었어요.",
+		"5. 다진파를 넣어 보글보글 끓어오르면",
+		"6. 중불로 낮춰서 은은하게 불을 낮춰주고",
+		"7. 매운맛을 원하는 분들은 청양고추를 더해주고, 담백한 콩나물국을 원하는 분들은 그냥 국간장 2T를 넣고 기호에 따라 소금을 더해주면 끝이에요",
+		"8. 일반 바지락살을 넣고 끓여도 맛있지만 확실히 바지락 통채로 넣어 끓이면 더 깊은맛이 나는 바지락 콩나물국!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/f42a7acc49029e0412bd0325524a3eb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/395d07453f0dc560043b8a523a14b9781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/8fe8528ae21d22ebb838808bc5d2b64d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/d9c633f5d7efc964346b5134063c92d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/8d79b8a48ef7a7fcd7c84cbe370038131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/1326311b5c84543bcff89bec2b5e489f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/729346419e1a0c154abb1ef2e1dda67f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/373a4ffc070041e22fa2106a7aa0aa291.jpg"
+	]
+}

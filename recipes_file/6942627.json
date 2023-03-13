@@ -1,0 +1,80 @@
+{
+	"id": "6942627",
+	"name": "쌀쌀한 날씨에 어울리는 따뜻한 메밀국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/5600f89a5835c39a2cd5ef4020b75ea21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942627",
+	"ingredient_ids": [
+		3,
+		27,
+		548,
+		95
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "메밀국수면동전100원크기",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "메밀소바장국",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 면 삶을 냄비에 물을 담아서 끓여줘요.",
+		"2. 국물용 냄비에 물과 메밀소바장국을 넣고 섞은 후 끓여요. 메밀소바장국을 숟가락으로 덜어서 넣되 간을 봐가면서 넣어요. 약간 싱겁게 하거나 적당하다 싶도록요. 끓이면 간이 더 진해지니까요.",
+		"3. 채썬 양파와 대파, 어묵을 넣고 양파가 익을 정도로만 끓여줘요.",
+		"4. 계란 한 개, 소금 한 꼬집 넣고 섞어줘요.",
+		"5. 계란물을 국물에 뿌려줘요. 계란이 푹 익기 전에 가스렌지 불을 꺼줍니다.",
+		"6. 면 삶을 물 올린 냄비에 물이 끓으면 면을 넣어줘요.",
+		"7. 면 성분에 따라서 익는 속도가 다르긴 하지만 6-7분 정도 삶아줘요. 끓는 물에 면을 넣은 후 거품이 샤라락 올라오면 소면 삶듯이 찬 물은 1/2 컵 정도 넣어줘요. 그럼 거품이 가라앉고, 다시 거품이 올라오면 찬 물 나머지를 넣어줘요.",
+		"8. 면이 익은 것이 확인되면 건져서 찬물에 2-3번 헹궈요.",
+		"9. 면의 물기가 빠지게 체에 받쳐 두어요.",
+		"10. 면을 그릇에 옮겨 담고, 국물(건더기 포함)도 담아줘요.면을 찬물에 헹궜기 때문에 끓인 국물과 먹더라도 조금 식을 수 있는데 더 따뜻한 것이 좋으시면, 면을 토렴하시면 더 따뜻하게 드실 수 있어요.  토렴 : 면에 국물을 뿌려서 적시고, 국물을 냄비에 넣기를 두세번 반복하여 데워줌",
+		"11. 참깨, 김 (기호에 따라 고춧가루 추가)을 뿌려요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/b870081073a67738d0dc8883b33bbc971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/c9e792b925949d98721f306cc947b4b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/349a3b0ba4fefca80ee3403eb22c51161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/e92d8a68a8b9c22bd81c2cc37f116fb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/a1f519ce44db4764c79115eb0967ac721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/b1bf033b6b127d3b5d78fcf550a9cc001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/16585b16e5ad99cb849284a6c59710b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/548913d88f02d20226b058342fd6a5a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/1ad38a3b2898b34b698d7038bca2ac0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/2092a837bc5bdd92d8e91b79dec1f35f1.jpg"
+	]
+}

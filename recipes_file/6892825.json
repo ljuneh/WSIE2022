@@ -1,0 +1,117 @@
+{
+	"id": "6892825",
+	"name": "오이냉국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/2320fb143b8cd91b7284ed56bd2aebfe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6892825",
+	"ingredient_ids": [
+		8,
+		3,
+		295,
+		333,
+		226,
+		349,
+		843,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마른미역",
+			"ingre_count": "12",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "밥수저"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "밥수저"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".밥수저"
+		},
+		{
+			"ingre_name": "고운소금",
+			"ingre_count": "2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "2",
+			"ingre_unit": "밥수저"
+		},
+		{
+			"ingre_name": "2배식초",
+			"ingre_count": "2",
+			"ingre_unit": "밥수저"
+		},
+		{
+			"ingre_name": "연두",
+			"ingre_count": "1~2방울",
+			"ingre_unit": "~방울"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "2",
+			"ingre_unit": "밥수저"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 마른 미역은 물에 15분~20분 정도 불립니다미역 불리는 시간은 제외입니다",
+		"2. 양파는 얇게 썰고 오이 채 썰고 고추도 얇게 썰어 물에 헹궈 씨를 제거해 주었어요",
+		"3. 불린 미역은 먹기좋은 크기로 자르고",
+		"4. 볼에 담고 멸치 액젓 2,설탕 1 넣고 약 5~10분 정도 밑간해 줍니다",
+		"5. 상에 내기 전에 볼에 밑간한 생수 3컵,미역,오이,양파,고추 넣고",
+		"6. 국간장과 소금,매실액으로 간 하고 식초 연두 한두 방울 넣고 얼음 넣어줍니다얼음이 녹으면 싱거 울 수 있어요 간은 가감합니다",
+		"7. 얼음 동동 띄우고 고소한 깨소금 넣으면 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/f980aabd823255bdd954a42b24d74ba01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/2020b004fe1451b3ce7fae182d8a605d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/d8cd31d104df2d775edbb2e519c392331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/01cf595c56d2535cc46dc5640fa348fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/89665861ad84383e8d7a8c658129955d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/4b6ceb2da1c3e468b76c94d9656f82cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/20/75e417c1b0d5806c80f19bc2c48d4b5f1.jpg"
+	]
+}

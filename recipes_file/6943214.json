@@ -1,0 +1,98 @@
+{
+	"id": "6943214",
+	"name": "소고기 마파두부 덮밥 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/7f39f30af209918aa0a4dd206dab09ac1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943214",
+	"ingredient_ids": [
+		323,
+		489,
+		846,
+		504,
+		379,
+		226,
+		233,
+		660,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "다진소고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "두반장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 두부를 사방2cm크기로 썬 후 뜨거운 물에 20분 정도 담가둡니다.두부1/2모, 뜨거운 물두부를 뜨거운 물에 넣어두었다가 이용하면 덜 으깨져요.",
+		"2. 다진 소고기에 설탕, 간장, 참기름, 다진 마늘, 후춧가루를 넣어 버무린 후 잠시 재워둡니다.다진 소고기100g, 설탕1작은술, 간장2작은술, 참기름1작은술, 다진 마늘1작은술, 후춧가루 약간",
+		"3. 달군 팬에 기름을 두르고 다진 파를 볶아줍니다.식용유1큰술, 다진파1큰술팬약불",
+		"4. 파향이 올라오면 재워둔 소고기와 청주를 넣어 볶어줍니다.청주2큰술중불",
+		"5. 소고기가 반쯤 익으면 두반장을 넣어 볶아줍니다.두반장1큰술",
+		"6. 물기 뺀 두부를 넣어 볶아줍니다.두부1/2모두부가 부서질 수 있으므로 팬 손잡이를 들고 흔들어가며 고루 섞어줍니다.",
+		"7. 따뜻한 밥에 마파두부소스를 부어줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/249899504e1fd4189d9c5fd9e3b0b5461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/3c0c44fa9a3e7549884aa6a7642a65541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/8d3dae3de26977a39d583372f0d27c191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/1f62281f07e4af47181e71002b2a0faf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/02d459dc1d622eb4b62b01ed6ccd52651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/2a6b363c0ea90bcfcdbb32da5805a9ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/e1f8a2bf1d0c278d53bd8e86b87ceb011.jpg"
+	]
+}

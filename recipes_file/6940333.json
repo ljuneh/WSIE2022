@@ -1,0 +1,64 @@
+{
+	"id": "6940333",
+	"name": "문어볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/4c5cf42663c47e4f3577073e8fc3b6071.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940333",
+	"ingredient_ids": [
+		3,
+		9,
+		379,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "자숙문어",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 양파,당근,파,문어 다져 팬에 담고",
+		"2. 후추톡톡,간장1 넣고 기름을 빙~ 두르고 슥슥~ 볶아줍니다 채소가 익으면",
+		"3. 밥1분량 넣고 소금 입맛에 맞게 넣은 후",
+		"4. 슥슥~ 볶아내면 완성입니다",
+		"5. 오이냉국이랑 맛있게 ~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/fa098bcc1533bfce66c013807d0167fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/8da6f0abe4e79adb6c431c1467ba4e601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/8ccc523ed1627ce603b8e3e50dd09bd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/be0ab6aaf664389f0def45d7bb3a0faf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/7e44762537816bd749fdaec8e6625f7f1.jpg"
+	]
+}

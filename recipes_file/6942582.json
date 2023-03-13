@@ -1,0 +1,60 @@
+{
+	"id": "6942582",
+	"name": "호두 크림치즈 카나페",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/006809d26524b745b0cd8d3b7f0ac6631.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942582",
+	"ingredient_ids": [
+		194,
+		379,
+		575,
+		995,
+		208
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "호두",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참크래커",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 호두를 원하는 식감에 따라 다져주세요.",
+		"2. 소스볼에 올리고당 2숟가락, 간장 1숟가락, 물 1숟가락을 넣고 섞어주세요.",
+		"3. 프라이팬에 호두와 소스를 넣고 조립니다.",
+		"4. 크래커에 크림치즈를 취향에 맞게 펴 발라주세요.",
+		"5. 호두 조림을 얹어 주면 완성 ! 과일을 얹어도 훌륭한 카나페가 완성 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/2767fa6e2de939646668140f2d8d17061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/52ee64e59e1aefcb154621352aaacbed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/00d07ec92eb5c78f650a7eceb31be5c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/64316e545ce970b96ff575aa6cea0bc41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/1b7a859aba59cb6e4dfb6aa9b0f998f61.jpg"
+	]
+}

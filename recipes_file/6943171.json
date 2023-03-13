@@ -1,0 +1,107 @@
+{
+	"id": "6943171",
+	"name": "국물떡볶이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/845047b2d973bf20879381808ddd8e781.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943171",
+	"ingredient_ids": [
+		972,
+		995,
+		226,
+		473,
+		379,
+		548,
+		233,
+		27,
+		3,
+		563,
+		290
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "30",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "칵테일새우",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "삶은계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 떡볶이용 떡을 물에 불려 주세요.",
+		"2. 양파, 파 등의 야채를 썰어주고, 어묵도 함께 먹기 좋은 크기로 잘라 주세요. - 양배추, 깻잎 등의 원하는 야채도 모두 가능합니다.",
+		"3. 냉동 칵테일 새우는 물에 살짝 녹여 주세요. - 생물 등 새우의 경우도 상관없이 사용 가능합니다.",
+		"4. 팬에 기름을 조금 두르고, 파와 양파 등의 채소를 먼저 볶아 주세요. - 타지 향을 내기 위함이기에 많이 볶지 않으셔도 됩니다.",
+		"5. 채소를 볶은 뒤, 종이컵 기준으로 2컵의 물을 넣어 주세요.",
+		"6. 고추장, 설탕, 간장, 다진마늘 등 양념재료를 넣고, 고추장이 잘 풀리도록 저어 주세요. 떡과 어묵도 함께 넣습니다. - 양념 국물의 맛을 보시고, 개인 취향에 따라 간장 및 설탕 등을 추가 하셔도 좋습니다.",
+		"7. 마지막으로 새우 등의 나머지 재료를 넣어 주세요.",
+		"8. 삶은 계란을 반으로 갈라 넣어 주시면 완성됩니다. - 취향에 따라 끓이면서 드셔도 좋습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/065bfb4ba559de5344de6e6bab14b3911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/9ed723e58ccaa7152ed2eed951bf83f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/3e832bc183176edbe262222d0068133e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/d84a36f005f45ac947f279acafb641221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/39f27042997249ab617bfafedb6de8561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/1fa6ddbce33e7b4744983b3ecab2336a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/5a4254799e3befe23b20228be8e650941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/35ad284cdd230dc548d0ae27488cb51f1.jpg"
+	]
+}

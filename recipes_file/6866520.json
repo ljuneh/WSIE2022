@@ -1,0 +1,92 @@
+{
+	"id": "6866520",
+	"name": "쉽게 만드는 오이소박이 김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/09/1ebbb4a80b46c2d54811ffd4d3b094aa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866520",
+	"ingredient_ids": [
+		757,
+		390,
+		333,
+		526
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "피클오이",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추-썰어서1줌(70g)",
+			"ingre_count": "1줌(70g)",
+			"ingre_unit": "줌(g)"
+		},
+		{
+			"ingre_name": "당근(소)2개-썰어서한줌약간넘게",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파(중)1개(200g)",
+			"ingre_count": "1개(200g)",
+			"ingre_unit": "개(g)"
+		},
+		{
+			"ingre_name": "매운고추(중)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "6",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "2",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "간생강",
+			"ingre_count": "1",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "5",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "2",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "2",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "김치용굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "테이블스푼"
+		}
+	],
+	"recipe": [
+		"1. 부추, 당근, 양파는 채썰어주시고 파와 매운 고추는 다져주세요. 오이는 절이지 않을거니까 대신 손가락 굵기 정도로 얇게 썰어줍니다. 저는 피클오이를 썼는데 한국 가시오이를 쓰신다면 5-6개정도 분량 정도 될 것 같아요.",
+		"2. 새우젓은 다져서 넣어주세요. 오이와 함께 무칠 재료 모두 다 큰 소쿠리에 넣고 버무려주세요.",
+		"3. 처음엔 좀 뻑뻑한 듯 하지만 아래에서 계속 뒤집어가면서 골고루 버무리다보면 오이에서 물이나와서 금새 촉촉해져요.",
+		"4. 바로 드셔도 되고, 익은 거 좋아하시면 하루쯤 밖에 뒀다가 냉장고에 넣어서 드세요. 오이가 안절여진거라 저는 개인적으로 익혀서 먹는 게 더 맛나네요. ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/09/456cd8db61a003a6550750614b6054891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/09/e941693f2b56faf641fee58bbb1e6a931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/09/845181168241f1c4265abf20ffcc29f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/09/ca8adc2a160013a1e21aab46bb73fdba1.jpg"
+	]
+}

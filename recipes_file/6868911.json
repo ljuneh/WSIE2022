@@ -1,0 +1,74 @@
+{
+	"id": "6868911",
+	"name": "겨자 한 스푼으로 느끼함 잡아주는 오이맛살마요무침~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/24/16e0cf6b33c5bf65dc14c95e7b2c63cf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868911",
+	"ingredient_ids": [
+		8,
+		289,
+		282,
+		226,
+		231,
+		597,
+		228
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "연겨자",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "검은깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 오이는 소금 1스푼으로 벅벅 문질러 깨끗이 씻어서 3등분해주세요.다시 4등분으로 잘라서 씨를 제거 한 후 얇게 썰어주세요",
+		"2. 얇게 썬 오이에 소금 1,설탕 2,식초 2 를 넣고 버무려둡니다",
+		"3. 그 사이 맛살을 준비해주세요.3등분한 후 얇게 썰어주시거나 찢어서 준비합니다",
+		"4. 재워 둔 오이를 몇번 조물조물하다가 물기를 적당히 짜주고 준비한 맛살과 담습니다",
+		"5. 마요네즈 3스푼 넣고 버무리다가 연겨자 1티스푼 넣고 다시 버무려줍니다.좀 더 강한맛을 원하시면 양념을 더 추가해주세요",
+		"6. 접시에 담고 검은깨 솔솔 뿌려주면 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/24/6a1afb9b21b87ea4165abf22cf431c131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/24/3e86a18125b45fbd8e1b0bf820a5fa811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/24/35981ed11b74fb02b5def6cd4a4c53b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/24/31d91eff1f67bd26e63955146a551acb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/24/422cb2e1487c943d24a439272b2ec61d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/24/7d2e58841fd6ecb8fd6c9645df09033b1.jpg"
+	]
+}

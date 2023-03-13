@@ -1,0 +1,135 @@
+{
+	"id": "6944504",
+	"name": "오징어볶음 : 초보자도 실패 없는 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/a77c69705ef002a0d493eb7768c9fab11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944504",
+	"ingredient_ids": [
+		65,
+		3,
+		295,
+		21,
+		325,
+		27,
+		53,
+		28,
+		292,
+		473,
+		224,
+		226,
+		341,
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 1,재료를 준비합니다.",
+		"2. 2,오징어에 간이 잘베이게 칼집을 벌집모양으로 내줍니다.",
+		"3. 3, 들어갈 야채들을 깨끗하게 세척합니다.",
+		"4. 4,먹기좋은 크기로 야채를 썰어줍니다.",
+		"5. 5, 생강 마늘 , 진간장 고추장 고춧가루 후추와 그리고 설탕 물엿 맛술을 넣고잘 섞어줍니다.",
+		"6. 6,오징어에 넣고 버부려줍니다, 10분정도 간이 베이게 놔뒀다가 볶습니다.",
+		"7. 7,참기름 한스푼을 팬에 두루고 대파먼져 넣고 파기름을 1분정도 센불에 볶다가 야채를 다 넣어줍니다.",
+		"8. 8, 야챠를 2분볶다가 오징어를 넣고 3분볶음후 불을 꺼줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/ce80c704256b4f3723065c6afc629b601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/34622f4f26a7f029d8c21e923629f5641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/17d1bcd0eabb865bd0f60952c53e8fa21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/397a0af825ef168555dbc42bfeb160931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/6c38c6008c1766128f0b2dd0ce4addac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/8636aa3258885ac68e2adba9f0d939e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/2e5842289ed49b97fbf7273ee93f29e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/37384c898f99632b2d41a275b148e9531.jpg"
+	]
+}

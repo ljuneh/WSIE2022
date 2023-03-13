@@ -1,0 +1,60 @@
+{
+	"id": "6940791",
+	"name": "달콤한 식빵팝콘 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/519b51546d9c40ba6f84f985de023cba1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940791",
+	"ingredient_ids": [
+		503,
+		226,
+		995,
+		198
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "국자"
+		}
+	],
+	"recipe": [
+		"1. 식빵 두장을 먹기 좋은 크기로 잘라줘요. ",
+		"2. 식빵이 바삭해지도록 후라이팬에 구워줍니다!중약불에 서서히 구워주세요! 센불에 하면 바삭해지지는 않고 타버립니다ㅠㅠ 오래 구울수록 바삭해져요!!",
+		"3. 다른 냄비에 카라멜을 만들 준비를 합니다! (설탕 4T, 물 3T를 넣고 녹여줘요)",
+		"4. 지글지글 끓을때쯤 버터를 넣고 녹여 줍니다!절대!! 저으시면 안돼요!!!!!(망해요)",
+		"5. 버터도 다 녹았을쯤 우유 한국자를 넣고 잘 저어줍니다.카라멜화가 될때까지 잘 저어주세요~",
+		"6. 짙은 갈색이 되고 꾸덕해지는 것 같을 쯤 구워 놓은 식빵을 넣어 골고루 섞어 주세요!",
+		"7. 카라멜이 잘 묻은 식빵들을 붙지 않게 잘 놓은 뒤 식혀 주세요.따로 놓지 않고 바로 드셔도 됩니다~ 하지만 식힌 뒤 먹으면 좀 더 바삭하다는 사실!ㅎㅎ",
+		"8. 그 다음 맛있게 먹어줘요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/6a5d5c5c1f7660c772be4532cfb93c3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/4063d629afd4b09e23b667862e2b3d541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/12ec02a666a86269ea48f791b811ccae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/82323d4ee2eb9df0dfcd290d5146d5fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/cf0361b00f7badb2b5136e6126c570181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/36fdb1568f6e8ab151bf5b7deb7ab09b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/bf156d4b37a33b90cb2e1ad8694e3f941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/c488c8249acb0ba2e808bc2acbc166991.jpg"
+	]
+}

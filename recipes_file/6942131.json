@@ -1,0 +1,46 @@
+{
+	"id": "6942131",
+	"name": "남은 김밥 활용법 김밥 볶음밥 만드는법 김밥 볶음밥 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/347e8338de171627e00bb02377390af21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942131",
+	"ingredient_ids": [
+		379
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "김밥",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "2/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 프라이팬에 기름을 넉넉히 둘러주신 다음에 계란을 넣고 젓가락 등으로 계란을 풀어주시면서 스크램블을 만들어 주세요중불",
+		"2. 파를 넣고 볶아주세요",
+		"3. 파의 향이 올라오기 시작하면 간장을 넣고 볶아주세요불맛과 비슷한 맛을 입히고 싶으신 분들께서는 프라이팬 테두리로 하여 간장을 둘러주신 다음에 살짝 태워주시면서 볶아주세요",
+		"4. 김밥을 넣고 국자로 김밥을 으깨주시면서 볶아주세요",
+		"5. 완성된 김밥볶음밥은 예쁘게 플레이팅 해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/282ad47fedffa396e96fa77d0d98aa4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/ca5ec38cc5606b4d46c88b11cd3f3de91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/981bc5a68a9a70fb208cef05b073b2541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/fa06106e5245632bdf6ae267bec817ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/d4ba12631bf1f213f16d5dd12004ef301.jpg"
+	]
+}

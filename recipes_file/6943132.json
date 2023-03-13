@@ -1,0 +1,101 @@
+{
+	"id": "6943132",
+	"name": "추석요리, 소스 맛이 일품인 돼지 등갈비 바베큐 조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/c5b2fb28ffb51f2222027081faa391b61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943132",
+	"ingredient_ids": [
+		850,
+		608,
+		292,
+		292,
+		575,
+		233
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지등갈비",
+			"ingre_count": "700",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "시판용바베큐소스",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "토마토케첩",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 돼지 등갈비는 1차 초벌 삶기 해주세요. 냄비에 찬물과 등갈비와 월계수 잎 4장을 넣어주세요",
+		"2. 맛술 2큰술을 넣고 물이 끓어오를 때까지 중불에서 1차 끓여 불순물과 냄새를 제거해 줍니다.",
+		"3. 물이 끓어 오르고 1~2분 정도 후 등갈비는 체에 받혀 찬물에 헹궈주세요.",
+		"4. 이제 에어 프라이어에 넣고 구워 줄 거예요. 등갈비 통마늘 10 알 맛술 1 큰술 후추 약간을 넣고 에어프라이어 180도에서 10분 간 구워주세요.에어프라이어",
+		"5. 등갈비가 구워지는 동안 바베큐 소스를 만들어 줍니다. 분량의 바베큐 소스 재료를 모두 넣고 골고루 섞어 소스를 준비해 놓습니다.",
+		"6. 다음은 바베큐 소스에 등갈비를 졸여줄 거예요. 에어 프라이어에서 구워진 등갈비를 꺼내어...",
+		"7. 팬에 바베큐 소스와 등갈비를 넣고 소스와 바베큐 양념이 잘 섞이도록 볶아주세요.",
+		"8. 물 3~5큰술을 넣고 약불에서 등갈비에 맛이 배이고 소스가 줄 때까지 뒤집어 가며 졸여주세요. 소스가 타지 않도록 중간 중간 뒤집어 주세요.",
+		"9. 소스가 거의 졸았을 때 불을 끄고 마무리 해주세요.",
+		"10. 접시에 등갈비 바베큐 조림과 마늘을 담고 파슬리 가루를 뿌려 완성합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/a80cb551482127a5e9c2b16b3b161aa51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/4cd053b940a37c85b6f0ea9f1e2fd5dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/0eb092c36bdd3f361a7c5098dd575cc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/86b2f1e2a7e96c38530b14b1db7592b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/f4cb65032438231712b7dd64dd66a5321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/02d246d7170e7dd03c43256b6c1274c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/f33b2d8e4aa5a10383ec590724e9aa171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/d60a06d00fe8299bbfde5877802719c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/06cc912e62c777ca13667c436deda99c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/e4803535b4a957b4169a83166b5b660e1.jpg"
+	]
+}

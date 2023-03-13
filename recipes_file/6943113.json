@@ -1,0 +1,49 @@
+{
+	"id": "6943113",
+	"name": "추석요리 율란",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/7f517a9642d5c2525acd408644ced5ce1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943113",
+	"ingredient_ids": [
+		227
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "삶은밤",
+			"ingre_count": "15~20개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "계핏가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 율란에 사용할 밤을 삶아줍니다.~소금살짝 넣고 삶기도 하는데요..전 이번에는 그냥삶았네요..몇개는 그냥 찐밤으로 먹구요~~",
+		"2. 물을 충분히 부어 밤을 삶아줍니다.",
+		"3. 다찐 밤은 잘라서 속을 파냅니다.",
+		"4. 속을 파낸 밤은 잘게 부셔주고 체에 한번 내려 부드럽게 해주세요",
+		"5. 꿀과 계핏가루를 넣고 잘 저어한덩어리가 되게 해주세요. 이때..계핏가루가 싫으시면 넣지 않으셔도 돼요",
+		"6. 반죽을 한덩이씩 떼어내서 밤모양으로 만들어주세요.",
+		"7. 아래에 꿀 살짝 바르고 계핏가루 발라주세요.",
+		"8. 아랫쪽에 꿀살짝 바르고 계핏가루나 다진잣 발라주시면 돼요.",
+		"9. 완성된 율란이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/6bbb024858e595bf825e2ed082d489c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/4565722b04c811c22593deaa6b7cbed11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/c219b4d8381d5e5e0e8350b3410ea28e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/91d3f4ed00bce3b0fda54b4b91d40b4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/b4a80a9fe949aba33cede70efbc8b9671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/ed8ddbd202ab90faf8b2daa522d2ccbc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/717c15ab84da541d11bbe19c5f8b03911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/94f59ba478bae80120acfe1eba208b441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/6e371809eb57b3f5185bed833dc9307e1.jpg"
+	]
+}

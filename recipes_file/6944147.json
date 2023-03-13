@@ -1,0 +1,70 @@
+{
+	"id": "6944147",
+	"name": "감자뇨끼 만들기, 홈파티 음식 딱이네!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/f999361ebfa57c012ff0f52aa1135e531.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944147",
+	"ingredient_ids": [
+		5,
+		234,
+		497,
+		198
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "노른자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "크림소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 냄비에 소금을 살짝 넣고 감자를 푸욱 익혀주세요. ",
+		"2. 저는 감자를 으깨면서 소금과 후추를 한꼬집씩만 넣어주었어요! ",
+		"3. 계란 노른자 한개를 넣고 잘 섞어준 뒤, 밀가루를 넣어서 질기를 조절해주세요. ",
+		"4. 한덩어리로 만들어진 뇨끼 반죽은 바닥에 밀가루를 깐 뒤 성형을 시켜주도록 할게요!ㅎㅎㅎ",
+		"5. 성형을 끝낸 뇨끼는 감자에 밀가루가 들어갔기 때문에 한번 삶아줄거에요. 물이 팔팔 끓으면 뇨끼를 적당히 나눠서 넣어주세요.뇨끼가 물 위로 둥둥 뜨면 다 익은겁니다.",
+		"6. 물기를 빼준 뇨끼는 버터를 녹인 팬에서 앞뒤로 잘 익혀주세요. ",
+		"7. 기름 두른 팬에 마늘먼저 볶다가 양파와 해동해놓은 새우를 넣고 쉐키쉐키~~! ",
+		"8. 시판 크림소스와 생크림을 넣고 모든 재료가 푹 익고 소스가 걸죽해 질 정도로 끓여주었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/7a0205553e3df539dc24201fdc168ff81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/0db03d1a3379e517130b6856dbd3050a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/dc1c4ee236ab3afe674ba8eda15c5e5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/d3395b305bdf1ff8c37e1ebc69ce61561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/b0096df2e00dc8aa51285d824cea36d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/2a4c70b9fdd1b616641c0cb99e1798261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/9cb8a5ab95c157e18016b5332133bfd71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/c199ce127cddc3981ce53b902a356df61.jpg"
+	]
+}

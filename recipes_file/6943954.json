@@ -1,0 +1,53 @@
+{
+	"id": "6943954",
+	"name": "애호박전 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c1519d4980b1e66f977b4e8451bee6571.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943954",
+	"ingredient_ids": [
+		734,
+		387,
+		7,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 튀김 반죽을 만들어 주세요.튀김가루(1컵), 부침가루(1컵)을 넣고 물을 조금씩 넣어가며 농도를 맞춰 반죽을 만들어 주세요.",
+		"2. 애호박을 씻어 동그랗게 잘라 주세요.개인 기호에 따라 애호박 두께를 조절하시면 됩니다.",
+		"3. 튀김 반죽이 애호박에 잘 붙을 수 있도록 부침가루를 애호박에 발라 주세요.비닐팩에 담아 흔들어 주시면 쉽게 할 수 있습니다.",
+		"4. 사진과 같이 봉투에 애호박도 넣고 흔들어 주시면 됩니다.",
+		"5. 애호박을 튀김옷에 넣고 고르게 입혀 주세요.달걀을 좋아하시는 분들은 넣어주셔도 상관 없습니다.",
+		"6. 팬에 기름을 두르고, 반죽 입힌 애호박을 올려 익혀 주세요.",
+		"7. 타지 않도록 노릇노릇하게 익혀 주시면 완성 입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/10ce4e070496611f0c66f2f388d990a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/5fc93b072e097c83f218146f085cb43a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/5e55c3dc15d6b6f2ae743e95c70504d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/d815645eab23255560f326bb52dbf4d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/278c1e2ab6cfe7082d13f84dc9d14be51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/a3dcb83f65c568c9e4d3a394c82d2efd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/92b185881b2eeb87502e7bebc89f8b941.jpg"
+	]
+}

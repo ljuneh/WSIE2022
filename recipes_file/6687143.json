@@ -1,0 +1,90 @@
+{
+	"id": "6687143",
+	"name": "비빔냉면",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/75c7df57c99933421d9d16b6c1d999d41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6687143",
+	"ingredient_ids": [
+		169,
+		473,
+		379,
+		938,
+		290,
+		327
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "냉면사리",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백김치",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참외",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새싹",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "냉면육수",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "백김치국물",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 필요한 재료를 준비해주세요!",
+		"2. 씨를 제거 한 뒤 모양대로 슬라이스 해서 준비할게요. 두께는 0.5cm정도로 해 주시면 좋습니다.",
+		"3. 백김치는 2cm간격으로 잘라 먹기 좋은 크기로 손질해 보겠습니다.",
+		"4. 얼려두었던 시판육수는 믹서에 갈아 준비해주세요. 백김치 국물이나 동치미 국물을 시판육수와 1:1정도로 섞어 사용하셔도 좋습니다!",
+		"5. 고명재료 준비 끝!",
+		"6. 비빔국수 양념장을 만들어주세요!",
+		"7. 넉넉한 양의 물에 면을 쫄깃하게 삶아 차가운물에 곧바로 수차례 헹궈 주시고 준비한 고명과 양념장, 그리고 육수를 5T정도 살짝 부어주시면 맛깔스러운 비빔냉면 완성입니다!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/ba58bc49a98f8f2d5b5c6a6bca2620db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/b5a7189cad09c7c05d19a9125de0489c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/43dfbd553e29084cf67b05fc080cb6e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/ba3bc4ebbe5b8a0bea0233e400af40f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/c84f6a2a519a475f2ed830479ad03c871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/78736ee3603f941a67de4390d01ccbd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/2ca0e09245c30e86bb2fd57ff01cba331.jpg"
+	]
+}

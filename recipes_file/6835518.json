@@ -1,0 +1,54 @@
+{
+	"id": "6835518",
+	"name": "콩자반!!! 딱딱하지 않고 물컹하지 않게 조리는 황금 레시피 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/03/db90c9f40991ded5ca7d5c61a3050ad01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6835518",
+	"ingredient_ids": [
+		112,
+		379,
+		341,
+		282
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "검은콩",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "볶음깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 깨끗히 씻어서 압력솥에 넣고 푸욱 잠기도록 물을 부워주었어요 압력솥 뚜껑을 닫고 압력을 걸어 추추추추~~추가 흔들리면 불을 일단 끄고 추를 젖히지 않고 자연스럽게 김이 빠져나가도록 기다려요 김이 다 빠져나가면 바로 뚜껑을 열고  익은 콩을 채에 바쳐서 물도 빼주고 식혀 주어요 ",
+		"2. 다 식고 나면  코팅 냄비에 넣어  물 1큰술과 물엿을 넣어 주었어요 ",
+		"3. 간장 넣고",
+		"4. 소금 넣고 바글바글 조렸어요",
+		"5. 볶음깨 뿌려주면  노화를 방지하고 다이어트와 성인병에도 좋은 콩자반 완성이요~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/03/d71e0814dac9da69275e99662166b27e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/03/c70931c3ef723e639b1149306e83168e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/03/01dbb16f157b1f9e61e8f5953243af0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/03/772d42b0f3b468238bb1c3a1dc4ca2661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/03/cd4f3930d6a19927731e737b56ab10b21.jpg"
+	]
+}

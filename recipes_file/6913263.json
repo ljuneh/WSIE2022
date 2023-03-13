@@ -1,0 +1,82 @@
+{
+	"id": "6913263",
+	"name": "간단한 부대찌개 레시피! 1구인덕션에 보글보글 끓여보았어요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/06/04/137ca27a6daf594f6989c3bf3da9e5ca1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6913263",
+	"ingredient_ids": [
+		323,
+		27,
+		29
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "사골육수",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "사각햄",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소고기간것",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "베이크드빈스",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "김치(다진것)",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "떡",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 사각햄은 뜨거운물에 헹궈 불순물을 빼주세요,",
+		"2. 나머지 소시지는 적당히 썰고 김치와 소고기는 다져주세요.",
+		"3. 햄과 두부는 차례차례 반으로 나누어 냄비에 일렬로 세워주세요.",
+		"4. 고춧가루1큰술, 다진마늘1큰술, 후추 약간을 섞어 양념장을 만들어주세요.",
+		"5. 준비한 재료를 모두 냄비에 담아주세요.",
+		"6. 사골육수를 부어주세요.",
+		"7. 가장 강불에서 끓기 시작하면 중불로 낮춘 후 떡사리를 넣어 끓여 완성해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/05/696017114094a3e59e97192da81661201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/05/b64c1fcbdcc459a3af257c9e47abdfe61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/05/c327149f2dd7b8e4ff6cbbb3faff44281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/05/77c97a26fc9251a4f45e703a7a7290c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/05/990f354222c17cab0a29caf03b9bf80f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/05/3125ae554e47d0593d3f2751d899a8421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/05/50167088c7cf2bf17cf0bda1d33597051.jpg"
+	]
+}

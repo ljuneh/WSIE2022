@@ -1,0 +1,82 @@
+{
+	"id": "6944851",
+	"name": "브로콜리 요리 / 브로콜리 감자우유조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/342eb423d4592ffce41886765f4fbd711.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944851",
+	"ingredient_ids": [
+		11,
+		5,
+		504,
+		198,
+		497,
+		225,
+		227,
+		203
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 브로콜리는 적당한 크기로 잘라 데쳐 준다.",
+		"2. 데친 브로콜리는 잘게 다져준다.",
+		"3. 감자는 잘게 다져 준다.",
+		"4. 프라이팬에 버터, 식용유를 넣고 감자를 볶는다.",
+		"5. 감자가 익으면 브로콜리를 넣고 소금, 후추 간한다.",
+		"6. 브로콜리가 살짝 익으면 꿀, 우유를 넣고 졸여준다.",
+		"7. 원하는 농도까지 졸인 후 치즈를 뿌려 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/b0ce480399980403d68acbeec212b41b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/44a2d37aab6e50d4650d9eaae2c0a7631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/e59a0559d4e1fe6a3c548516705a09bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/055b62facb4b86e61792b04434ef43231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/c0609fb9d142818be5599ca026c5eaae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/498f937e8dce43419fff34579b77bbb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/6b56a10fe8b77014eba860da36e5fe221.jpg"
+	]
+}

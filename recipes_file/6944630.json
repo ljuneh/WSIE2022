@@ -1,0 +1,75 @@
+{
+	"id": "6944630",
+	"name": "새콤달콤 비엔나소시지 케첩 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/09163936c111a3a832c4b909a38069a31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944630",
+	"ingredient_ids": [
+		3,
+		9,
+		504,
+		543,
+		477,
+		227
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "팍팍"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "5",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비",
+		"2. 소시지는 칼집을 내고 양파와 당근도 큼직하게 썰어 준비합니다.",
+		"3. 끓는 물에 소시지를 가볍게 데칩니다. (소시지 다리가 활짝 펴지면 바로 건져 주세요!)",
+		"4. 식용유를 두르고 양파와 당근만 볶아 줍니다.",
+		"5. 채소가 볶아지는 동안 분량(케첩 5T, 굴 소스 1T, 꿀 1T)의 양념장을 만들어요~",
+		"6. 양파가 살짝 투명해지면 소시지와 양념장을 넣고",
+		"7. 맛있게 볶아주면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/77c36222583a8284b77f0c97f3a75dbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/e0ef579ec5585d6c561720f24472d8711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/0fc31565e7649b76684e6970583f23ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/3e5e375184fd11a0ff55986ad836b8311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/c1b2fb84119200711809483e1614fe291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/da53c606df1b2dae9333cc438e39618d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/2c2c846c764f89c288c4b71cbb7a766b1.jpg"
+	]
+}

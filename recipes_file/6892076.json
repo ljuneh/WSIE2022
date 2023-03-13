@@ -1,0 +1,40 @@
+{
+	"id": "6892076",
+	"name": "저탄고지 다이어터라면 ♥ 방탄커피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/06/a30ce3b0af5eb7c94d9c35902e99072b1.png",
+	"url": "https://www.10000recipe.com/recipe/6892076",
+	"ingredient_ids": [],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "카누블랙커피",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "뜨거운물",
+			"ingre_count": "237",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무염버터",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "MCT코코넛오일",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 블랙커피는 뜨거운 물을 넣고 녹인다.",
+		"2. 커피에 MCT코코넛오일, 무염버터를 넣는다.",
+		"3. 믹서기에 넣고 약 20초간 돌려 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/06/2fe6ce46fc5693c5d61ead07f0d8d0741.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/06/302e0338cbd4f9d1497c1481e71561381.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/06/e5443b00c5a751947414574c5940d79d1.png"
+	]
+}

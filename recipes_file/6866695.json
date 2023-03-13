@@ -1,0 +1,45 @@
+{
+	"id": "6866695",
+	"name": "집에서 즐기는 새우소금구이 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/11/0098a3901b89418cdffb75d2287159a11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866695",
+	"ingredient_ids": [
+		282,
+		79,
+		198
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "",
+			"ingre_unit": "먹을만큼"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 후라이팬에 쿠킹호일을 깔고 그위에 굵은 소금을 깔아줍니다.",
+		"2. 손질된 새우를 소금위에 올려주세요.",
+		"3. 뚜껑을 꼭 닫아주세요.. 소금 튀는것도 방지하고, 새우가 잘 익습니다.",
+		"4. 한쪽면이 붉게 색깔이나면 뒤집어서 익혀주면 끝!!",
+		"5. 머리는 따로 모아서 버터에 한번 구워주세요..",
+		"6. 이렇게 새우머리까지 구우면 술생각이 절로 납니다..ㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/11/0b82c8dede01c9d6a33b89113e6038231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/11/eb712f03506792533b839ec9851289461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/11/692fd2efb2ffbc124012739ded3b94691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/11/d4fec67971c6aee146ad31f1527338b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/11/f2390adf6b39fe03c5e9ffdf265dc91d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/11/166306b51373c566ac4cb61d60bf4a3c1.jpg"
+	]
+}

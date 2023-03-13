@@ -1,0 +1,52 @@
+{
+	"id": "6940699",
+	"name": "방울토마토 매실절임/방울토마토 마리네이드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/baa7be3efe7f1b23f3a19d9734c487a71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940699",
+	"ingredient_ids": [
+		371,
+		843
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "17",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "130",
+			"ingre_unit": "ML"
+		},
+		{
+			"ingre_name": "물130.ML",
+			"ingre_count": "130",
+			"ingre_unit": ". ML"
+		}
+	],
+	"recipe": [
+		"1. 먼저 방울토마토를 꼭지를 떼어내고 깨끗이 씻어줍니다",
+		"2. 꼭지를 뗀 부분에 십자로 칼집을 내주세요칼집을 너무 쎄게 내면 방울토마토가 터질 수 있으니 스치듯이 살짝 내주세요",
+		"3. 냄비에 물을 끓이고 물이 끓으면 칼집을 낸 방울토마토를 넣어줍니다",
+		"4. 15초~20초 정도 지나면 캅질낸 방향으로 껍질이 벌어지기 시작해요 그럼 불을 꺼줍니다",
+		"5. 바로 찬물에 퐁당 담궈서 찬물샤워를 해주세요",
+		"6. 찬물에 식은 방울토마토를 껍질을 벗겨주세요충분히 식었을때 껍질이 스르륵 잘 벗겨져요",
+		"7. 매실물을 만들어 줄꺼에요 매실액과 물을 1:1 비율로  물에 끓여주세요",
+		"8. 용기도 잘 소독해서 준비하고",
+		"9. 용기에 껍질을 깐 방울토마토를 넣고  매실물을 넣어줍니다",
+		"10. 상온에서 반나절 냉장고에서 하루정도 숙성하면 한입만 먹어도 시원하고 달콤한 방울토마토 매실절임이 완성된답니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/ab132c90638aaca039e7aef805c6bbc01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/91fd19b65ca42fc1e027c8c88042a66d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/7ad6c79a60a6f03e5ef658dda31369841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/cee94e7927b84edd002ebd7e5b2c7ba71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/ea3c4c5ad51f01c9437c1962502e1eab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/6248617ff89ac37bdf0306c5c6fa9c071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/504a23ec8288e2e3630195e2b36f1a0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/ce5397b7e488a25669460a842157c7db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/6e0435093865e9d1d17e396f2669dc751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/6c3a858f449f7bc7ee8a29c6cd16adb51.jpg"
+	]
+}

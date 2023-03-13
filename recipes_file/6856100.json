@@ -1,0 +1,35 @@
+{
+	"id": "6856100",
+	"name": "고추장 짜파게티",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/dcc085f2cf158065c90b4744f965fd90.jpg",
+	"url": "https://www.10000recipe.com/recipe/6856100",
+	"ingredient_ids": [
+		995
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "짜파게티",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장17g(1T)",
+			"ingre_count": "17g(1T)",
+			"ingre_unit": "g(T)"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 분량의 물이 끓으면 면을 넣고 4분간 끓인다.",
+		"2. 고추장을 넣어 잘 풀고 과립스프, 올리브조미유를 넣어 1분간 끓인다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/e49e33d0fd32a0586c751c8c8ba77310.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/a194374d67e1e9e8b759a9e7f673980a.jpg"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"id": "6942006",
+	"name": "도시락반찬메뉴 간단하게 만들어먹는 베이컨말이밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/ad7a28cc8ad151f2dfb98fd4293525391.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942006",
+	"ingredient_ids": [
+		406,
+		327
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "7",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 밥 1공기에 들기름을 살짝 둘러주세요.원래 참기름을 쓰려했는데 딱! 떨어져서 들기름으로 대체했어요.",
+		"2. 베이컨을 한줄 길게 펼쳐주고 주먹밥을 약간 길게 만들어서 올려주세요.",
+		"3. 예쁘게 말아주세요",
+		"4. 베이컨의 끝나는 부분이 바닥에 닿게해서 에어프라이어에 180도 5분 돌려주세요. 에어프라이어",
+		"5. 노릇노릇한 베이컨말이밥 완성!",
+		"6. 베이컨이 노릇노릇 잘 익었죠? 베이컨말이밥 완성! 그 위에 파슬리를 살짝 뿌려주면 끝! 스리라차마요소스에 찍어먹으라고 따로 싸줬어요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/c24aee8a145760c431bdab7565b4e4ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/41cdd1497a596fd99460acce1a9cd1771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/4de9d317f2df3452755d4e74569de9861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/dceb37a1cebdcd0ecef0911ec144975e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/232c5e1689c26bd12fb2b776fac375261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/20a6b87f4c391475b436eacb0aa81e8b1.jpg"
+	]
+}

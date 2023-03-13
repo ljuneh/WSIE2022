@@ -1,0 +1,118 @@
+{
+	"id": "6942889",
+	"name": "버섯장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/616385bc739510b1239037c899db477c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942889",
+	"ingredient_ids": [
+		58,
+		295,
+		379,
+		292,
+		226,
+		960,
+		233,
+		341,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양송이버섯(30개정도)",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "생강술",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "다시육수",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 버섯을 준비해줍니다 *버섯종류는 장조림가능합니다",
+		"2. 먼저 다시육수을 만들어줍니다",
+		"3. 양송이버섯.새송이버섯 키친타월로 이물질 제거해쥽니다 * 양송이버섯은 껍질읊벗겨 요리하셔도 됩니다 저는 껍질채 사용했읍니다 별차이가 없드라구요",
+		"4. 새송이버섯 2등뷴해서 먹기좋은 크기로 썰어줍니다",
+		"5. 양송이버섯은 2등분했읍니다",
+		"6. 청영고추1개 어슷썰어 쥰비합니다",
+		"7. 다시육수 400ml에 간장반컵,설탕1스푼,맛술1스푼 넣어서 팔팔 끓여줍니다",
+		"8. 불슌물은 재거해주세요",
+		"9. 썰어둔 버섯을 넣어주세요 청양고추도 넣어주세요",
+		"10. 다진마늘도 한스푼 넣어주세요 센불에서 끓여주세요",
+		"11. 버섯이 물이나와 간장물도 연해자고 맛이 감칠맛이 좋아집니다",
+		"12. 반정도 줄여들면 중불에서 졸이듯이 조림합니다",
+		"13. 저적하게 잠길정도 양념장이 줄어들면 물엿 한스푼 넣어 끓아다가 후추도 톡톡",
+		"14. 불을 껴주세요",
+		"15. 참기름.통깨읊 넣어서 골고루 섞어주고 머무리합니다",
+		"16. 식감이 부드러운 갈색장조림 완성입니다",
+		"17. 쫄깃한 식감이 좋은 버섯정조림"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/39053b797254e5e7589fffbe134972d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/c5ad2190587dcb05f6406f66c8477ca71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/e83034d233eb3019ed21053131f67ebb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/689feeb896f80999e2571ad8158f50041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/20d571ccbcb35512df0af12b9bf88bed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/273021871f36e4969e6637c725aba6241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/0d1809f77c7093dc3843aa69959395561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/69f8cd28b3e7520d877a41dce63a29431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/4c9f3e296c76a304f97344c55f7894a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/8ebbb876f5550155667b1b909430b92d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/3cd5438a9534f62e72a6b68f5a99ef6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/9e821b90a1264c1db6ba223326351b981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/a5979ccc7b2e5aa92d42af4b5a62e9ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/a55a83b45393277f4ba8bb48b63ca5441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/5946bc8474bf7d155db57bbffe2754331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/423d2bbaf1ee424ae1bdcd470e12d3c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/6427a24a12721d056fa73e92384c83b41.jpg"
+	]
+}

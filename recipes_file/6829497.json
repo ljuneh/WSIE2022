@@ -1,0 +1,71 @@
+{
+	"id": "6829497",
+	"name": "고소한 새우전 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/27/6faf514b572e690e338c31df6ba01c001.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829497",
+	"ingredient_ids": [
+		79,
+		234,
+		432,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "새우",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쪽파(생략가능)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소주or",
+			"ingre_count": "",
+			"ingre_unit": "맥주"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 새우를 머리를 떼내고 손질해 물로 씻어줍니다. 소주나 맥주로 세척해도 좋아요.",
+		"2. 등쪽으로 칼집을 넣어 반으로 갈라준뒤 내장을 꺼내줍니다.",
+		"3. 손질된 새우에 소금과 후추로 밑간해두고",
+		"4. 밑간된 새우에 밀가루옷 입혀주세요.",
+		"5. 그다음 계란옷 입히고 쪽파를 조금 다져서 맛을 더해줬어요.",
+		"6. 너무 센불에 굽지말고 중불정도에서 노릇하게 구워주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/077a5da14e222cce5802ca61737fd32d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/9803cc524dd247cdd13133436bd20d401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/92bf787cf0a606fae1cbefab923899291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/8ed827f0a054d0061118bceea996a9841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/c9624e624f689c3159e55ba94ded09f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/dca166f945b7398b259ab73d00e01dc71.jpg"
+	]
+}

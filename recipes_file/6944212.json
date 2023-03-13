@@ -1,0 +1,69 @@
+{
+	"id": "6944212",
+	"name": "간단한 한끼 크래미 게살볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1a737c33bf22216c563153f80ad6452c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944212",
+	"ingredient_ids": [
+		27,
+		3,
+		477,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "크래미",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 크래미는 적당한 사이즈로 찢어주고, 양파는 다져주고, 대파는 쫑쫑쫑 썰어줍니다.",
+		"2. 계란 3개 풀어둡니다.",
+		"3. 이제 옴폭한 팬에 기름 적당히 두르고 야파와 대파를 먼저 볶아서 노릇노릇한 야채들이 살짝 보이면서 기름이 쫘악~ 입혀졌을때쯤",
+		"4. 야채를 한쪽으로 모아두고 팬을 기울여서 풀어놓은 계란을 넣고",
+		"5. 스크램블을 만들어 준 후",
+		"6. 야채와 섞어줍니다.",
+		"7. 이제 밥 두공기와 찢어놓은 크래미를 넣고 (크래미 몇개는 남겨두세요)",
+		"8. 굴소스 1/2숟가락 넣은 후",
+		"9. 볶아주면 크래미 게살 볶음밥 완성입니다. 이제 밥공기에 볶음밥을 담아서",
+		"10. 접시에 엎어주면 동그랗고 예쁘게 담겨진답니다. 맨위에 남겨두었던 크래미살을 데코로 올려주면 더~ 먹음직 스러워보인답니다. ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/eab9349ffed422c91bb56696af85db441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f8288d907a26f9fa73fd503e24d7d1e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/307af44025466ae0d8cea381a2d1aff21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/370f8871abf12a87295b05aa136e07db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/3907bf13746e30d935d9e635a51a67d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/34cbd01e197257143c41816c986aa58d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/984bc2e891a9974d9a112256fb306bd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/957551540f26e1a98580c82a40e8087f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/cb2ed5fd085d56bd6be081127138b44a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/4f1632b847c942d25129328a3205fdfa1.jpg"
+	]
+}

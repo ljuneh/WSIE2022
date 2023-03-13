@@ -1,0 +1,89 @@
+{
+	"id": "6940996",
+	"name": "내 생애 첫 애플파이~ :초보 베이킹",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/982e587aac800f59fdddb5b79c2cc78e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940996",
+	"ingredient_ids": [
+		198,
+		995,
+		158,
+		250,
+		693
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "230",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "핑크솔트",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "아가베시럽",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "시나몬",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 밀가루에 버터를 잘게 썰어 올려 섞어준다.",
+		"2. 물을 넣고 반죽해준다.",
+		"3. 반준이 다 되면 30분정도 비닌에 넣어 냉장고에서 숙성시킨다.",
+		"4. 그동안 사과를 손질해 적당한 크기로썰어 아가베 시럽과 레몬즙 넣고 조리다가 전분과 시나몬가루로 마무리~",
+		"5. 냉장고에 넣어둔 반죽을 꺼내 넓게 펴준다.",
+		"6. 파이틀에 반죽을 올려 모양에 잘 맞추어 잘라주고 포크로 바닥 표면에 콕콕콕 찍어준다.",
+		"7. 파이지 완성~",
+		"8. 파이지 위에 준비한 사과조림을 골고루 넓게 펴준다.",
+		"9. 남은 반죽으로 위에 벌집모양으로 덮어준다.",
+		"10. 계란물을 만들어 파이지 위에 골고루 발라준다.",
+		"11. 200도로 예열된 오븐에 넣어 30-40분 구워준다.(저희 오븐은 좀 오래되서 시간이 더 걸리네요~~ 파이가 노릇노릇해 질때까지 구워주세요~)오븐",
+		"12. 노릇노릇해진 애플 파이를 오븐에서 조심히 꺼내주면 완성♡"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/5ddacb9cd35def6ccf6d0369e1745ff21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/89d7178f841bee5b3d957d2db7cedec61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/77c23953e61e7f3d4199301a4560530e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/db5a12aa05239c2c1f286175a3816dc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/5c41bc1657af6ddcc9387c025658e8a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/dc229cc042651563c82a797910d2834d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/d83bb45cbfbbb63cf4c24e35d62a0dc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/c38dc01ef5cf0c967dd1b3669c7620de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/0b8d9447f3e26dc729d62c6ddd1d68751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/c26d9cd715f6ff6b8b81b8930eb5146a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/e5112c7e5dc48e83f43fdb50f306c6921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/06ea813c927c67d7f8e5f7132259cde31.jpg"
+	]
+}

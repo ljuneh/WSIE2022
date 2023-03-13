@@ -1,0 +1,40 @@
+{
+	"id": "6943919",
+	"name": "초간단 겉바속촉 러스크 ( 식빵테두리 버리지 마세요 )",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/2f263c5b498f331dbdf22d8dfcebe4d51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943919",
+	"ingredient_ids": [
+		198,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵4개분량테두리",
+			"ingre_count": "16",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 버터를 넘치게 두스푼 또는 3스푼 이상 녹여줍니다. 버터를 많이 넣어야 맛있어요.",
+		"2. 식빵 테두리를 넣고 버터가 촉촉히 스며들도록 잘 섞어줍니다.",
+		"3. 팬에 종이호일을 깔고 식빵을 펼쳐준 후 설탕을 크게 한스푼 아낌없이 골고루 묻게 뿌려줍니다. ( 설탕이 다 달라붙는것이 아니므로 아끼면 맛이 없어요)",
+		"4. 앞뒤로 바삭하게 뒤집으며 타지않게 구워줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/da42c8e6a59312155249f965d908bc541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b5967bf43259762746c21f376cf0fd671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/a30b92f5f3a8c8d80032b64ecbcdf7311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/056ec753f827aba47d9aacfb30b46c401.jpg"
+	]
+}

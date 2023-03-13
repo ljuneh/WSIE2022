@@ -1,0 +1,61 @@
+{
+	"id": "6829936",
+	"name": "시원한 오이지냉국 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/0ff967d9e8f8764b6fb46a9a9a214d521.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829936",
+	"ingredient_ids": [
+		1010,
+		233,
+		27,
+		843,
+		231
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오이지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개씩"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "",
+			"ingre_unit": "​조금"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 오이지를 썰어 하나 먹어보고 염분 조절하려 물에 담가 놓았다가 시작합니다 .",
+		"2. 청홍고추는 씨를 제거하기 위해 물에 잠시 담가 놓았구요.",
+		"3. 오이지냉국의 국물은 생수로 사용하였어요. 썰어 놓은 청홍고추와 대파, 오이지를 넣고 다진마늘, 매실액을 티스픈으로 반스픈씩만 넣어 주었어요. 식초는 기호대로 넣어 주셔요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/8c7af29a651102610c53470261542bc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/b663616fb21751863c8825f2c14dd1f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/da004de0f64f1679a750c97d3d07bd421.jpg"
+	]
+}

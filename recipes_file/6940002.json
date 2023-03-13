@@ -1,0 +1,79 @@
+{
+	"id": "6940002",
+	"name": "자색 양파 김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/ed9e096e1652ca1db3bf8c64f13da75d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940002",
+	"ingredient_ids": [
+		30,
+		233,
+		390,
+		226,
+		938,
+		543,
+		545
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "양파대",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "10",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "2.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 양파는 큼직하게 8등분하고 천일염 4T 와 물 1컵 넣고 절여 주세요",
+		"2. 1시간 후 물을 빼주세요",
+		"3. 부추 한줌 넣어 주세요",
+		"4. 다진마늘 1T 고추가루 10T 새우젓 2.5T 설탕 1T 매실청 3T 넣고 골고루 섞어주세요",
+		"5. 통깨를 뿌리고 비닐랩을 덮어서 공기를 차단해주세요",
+		"6. 참기름 1T 넣고 밥반찬으로 먹어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/7a968b2cb1d12e6789e05aa7b0dbfaa91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/2321c84430751bd2e05d656004a93eaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/1b9c1543036e6c77d32c10cec93c32fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/2196a2aec0013a0217c27fe8dd73004d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/f1826421c45726c6d780a64c2656dc951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/30c2545a974e599e5fef323a9150d0711.jpg"
+	]
+}

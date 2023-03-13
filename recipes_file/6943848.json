@@ -1,0 +1,53 @@
+{
+	"id": "6943848",
+	"name": "쉽고 간단한 어묵볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/2dc8f4c5fd8bbd2076cba81ca8e192e41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943848",
+	"ingredient_ids": [
+		9,
+		3,
+		291
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "납작어묵",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 어묵,양파,당근 다져 팬에  담아준다",
+		"2. 소금,후추 취향껏 넣고",
+		"3. 기름을 빙~ 두른 후 슥슥~ 볶아준다",
+		"4. 밥 투하~ 골고루 섞어 볶아준다",
+		"5. 그릇에 담아 맛나게 먹어욤~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/688f8e1b1d0c1981987d28ab7da4bb461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/19b8f805c422e85b2b6b0bd7186dd47a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/42f2b5c1aa68f9ebd935b0271585a36e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/a8325784c2aa353a56df066255f133c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/6da912c849a6dc42742ed7227717e34b1.jpg"
+	]
+}

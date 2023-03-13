@@ -1,0 +1,46 @@
+{
+	"id": "6862667",
+	"name": "건파래 자반/건파래볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/b56bb2fe74a18536eb04378358be175b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6862667",
+	"ingredient_ids": [
+		574,
+		226,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "건파래",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 봉지서잘게잘게뜯어준 건파래를 중불로 볶아줍니다.기름4스푼가량 넣어줍니다.",
+		"2. 볶다보면 색이 변해요 골고루 기름칠이되면 연두빛이나면 타는거에요 .타기전에 약불로 바꿔줍니다.",
+		"3. 기름이돌고 다볶았다면.불끄고 설탕.소금 가감하여 투하^^",
+		"4. 통엔 식으면 넣어주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/87595ad8bad0695d57ae8c468c9e34ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/617a96aadf7ee3194448e239cfd4017b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/02994446d1319bee312d12a6855337b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/15/a5b7b0e4f95451ceb3231daa5c6528431.jpg"
+	]
+}

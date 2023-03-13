@@ -1,0 +1,54 @@
+{
+	"id": "6944070",
+	"name": "달콤 촉촉 프렌치토스트 만들기~!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1c794e32e64dec7f3401720717f319ac1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944070",
+	"ingredient_ids": [
+		503,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 프렌치토스트 만드는 방법을 알고 계신다면 다양하게 응용이 가능하며, 위에 토핑을 뭘 올리느냐에 따라서 블루베리 프렌치토스트, 사과 프렌치토스트 등등 다양한 이름을 붙일수가 있어요. ",
+		"2. 조금 더 부드러운 프렌치토스트를 위해서 우유는 크게 한스푼 넣어주었어요. 생략 가능합니다! 소금 한꼬찝과 후추 살짝 넣어주세요~ 들어가는 주 재료가 계란이기 때문에 계란 특유의 비린향에 민감하신 분들은 후추로 이 향을 잡을수가 있으니 참고해주세요.",
+		"3. 설탕은 다 만들어진 프렌치 토스트에 뿌려도 좋고, 이렇게 계란물에 설탕을 한스푼 미리 넣어주어도 좋아요.탕을 한스푼 넣어주는게 뭔가 빵 속까지도 달달해서 더 좋더라구요ㅎㅎㅎ",
+		"4. 식빵은 원하시는 사이즈로 자른 뒤 계란물을 입혀도 좋고, 통으로 구운 뒤에 잘라주셔도 좋아요.",
+		"5. 후라이팬이 어느정도 달궈졌으면 식빵을 올려서 앞뒤로 뒤집어가며 구워주세요.한쪽면만 다 익기를 기다리면 갑자기 색이 확! 올라올수도 있기에 중간중간 뒤집어가며 구워주면 딱 맞는 색으로 구울 수 있어요.",
+		"6. 앞뒤로 노릇노릇하게 구워주세요~ 아이들 간식으로 프렌치토스트 만들기 를 하시면 조금 더 분량을 늘려서 만드시면 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ed5282f0fb26cbb6468de03b22a9cc5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/fbeab3d45d696d3d337a43e95f28119f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/95e53385b0de1c4c496075afb0745b841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b03ced39109b24cde03e287e8a8bd8941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/5c6e303224834b8164be69cfd436ac291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/7d9564f1db503bf34659a500cee7d8db1.jpg"
+	]
+}

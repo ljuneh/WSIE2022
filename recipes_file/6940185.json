@@ -1,0 +1,58 @@
+{
+	"id": "6940185",
+	"name": "다이어트 디톡스에 좋은 과일칩만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/0ded9756ae983f8c7d74a63adde2969d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940185",
+	"ingredient_ids": [
+		155,
+		170,
+		133,
+		134
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "귤",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "딸기",
+			"ingre_count": "2/1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "키위",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "라임",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "레몬",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 귤과 딸기,키위,라임,레몬을 준비해주세요.집에 있는 어떤 과일이든 좋아요.",
+		"2. 차가운 물에 베이킹소다를 풀고 깨끗하게 여러번 닦아주세요.",
+		"3. 레몬,귤,라임은 솔을 이용해서 혹시 남아있을 안좋은 성분들을 닦아주세요.",
+		"4. 키위는 껍질을 벗겨내고 나머지는 껍질 채로 너무 두껍지않게 썰어서 준비해주세요.",
+		"5. 식품건조기에 잘 썰어놓은 과일들을 겹치지않게 올려주세요. 70도로 13시간정도 건조해주세요.",
+		"6. 13시간 말린 후 라임,귤,레몬을 보고 확실히 말랐는지 확인해보세요. 조금이라도 덜 말리면 곰팡이가 생길 수 있어요!",
+		"7. 건조가 된 과일을 병에 넣고 우려서 마시면 끝!뜨거운물에 우려 마시면 과일차로 마실 수 있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/2b5f4b16e239659d2f15e772585cecc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/e1d1608db8e6ffafc74550fecf36e6c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/368be37947c9368bda74ec920b4b9ce41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/8a7bced0841d817b2ff4f095596831c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/c25d315a72eda3e49b396bea8105bbdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/5e80192f5641167195f3679bfdebfdf41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/8f3da57e2f20ffa07104150639dca24e1.jpg"
+	]
+}

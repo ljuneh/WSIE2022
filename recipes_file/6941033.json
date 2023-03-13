@@ -1,0 +1,116 @@
+{
+	"id": "6941033",
+	"name": "국물 떡볶이 맛있게 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/a4225e72229b86227e5d16bcb4991b721.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941033",
+	"ingredient_ids": [
+		21,
+		27,
+		608,
+		473,
+		224,
+		226,
+		29,
+		3
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밀떡",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "사각어묵",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "국물육수팩",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "커리가루1+1/2스푼",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "짜장소스",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼반"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "수푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "육수물",
+			"ingre_count": "800",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 1, 재료는 밀가루 떡300g 한봉지랑 사각어묵 1봉지 대파 2줄기 양파 1개 양뱌츄 50g 과 양념을 준비합니다.",
+		"2. 2, 만일 국물 다시팩이 있으면 1봉지를 넣고 육수룰 냅니다, 저는 디포리 4마리와 월계수잎 3장을 넣었어요.처음 1,2L의 물을 끓이기 시작해서 나중에 800ml 정도 될때까지 끟여주세요",
+		"3. 3, 어묵은 먹기좋은 크기로 네모낳게 썰어줍니다",
+		"4. 4, 야채도 작게 썰어줍니다.",
+		"5. 5, 끓인 육슈에 월계수잎은 아직 건져내지말고요 800ml 육수에 떡을 넣고 끓입니다 1분만 끓이다가 다른 재료를 넣어요.",
+		"6. 5,떡이 끓기 시작하면 짜장과 커리 그리고 고추장 고춧가루를 전부 넣고 끟여줍니다. 중불에 3분끓인후 야채를 넣어줍니다.",
+		"7. 6,야채를 모두 넣고 진간장 3스푼도 넣어줍니다.",
+		"8. 7, 설탕을 2스푼 넣어줍니다.",
+		"9. 8,마지막에 대파를 넣고 가스불을 꺼줍니다. 이제 맛있는 떡볶이가 완성되었어요 월계수잎 향이 고추장의 텁텁한 맛을 가려주고 향이 퀄리티 높은 떡볶이가 완성됩니다. 추천합니다 시도해보세요 아주 맛있는 특별한 떡볶이가 완성됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/c347656fb2d41ccbe15d752cb0ad48671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/c4e7716f2909a4a8cd0ff19bc4e4ff141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/80d8b8ddfdb8f4d3a09ada602aa12d001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/13cfa33f0c4b6405b9b228b5683c14c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/1514874b94505d82d58d5f3913dde09b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/796ca076a961898471af224fba520cca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/3e9036a59765274440289de379aa29581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/1b091e396b81bff2872cca1b04d282aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/43ffa616e11b6f381df2066ed83219091.jpg"
+	]
+}

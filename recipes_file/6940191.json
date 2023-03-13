@@ -1,0 +1,73 @@
+{
+	"id": "6940191",
+	"name": "자박한 국물 새우젓 호박볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/789963921db37d4de79934cee41455501.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940191",
+	"ingredient_ids": [
+		390,
+		29,
+		27,
+		995,
+		327
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "둥근호박",
+			"ingre_count": "1",
+			"ingre_unit": "개반"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금작은스푼",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "30",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 1,재료를 준비해서 깨끗하게 세척합니다.",
+		"2. 2, 호박을 반을 자르고 다시 4등분합니다.",
+		"3. 3, 먹기 좋은 크기로 잘라줍니다 너무 얇게 자르지 않으셔도 되요.",
+		"4. 4,들기름을 3스푼 듬뿍 두르고 호박을 뒤집어가면 볶습니다.",
+		"5. 5,여기에 작은 스푼 1개 맛소금을 넣고 뒤적거리며 호박 숨을 죽이게 볶아줍니다.",
+		"6. 6,이제 새우젓과 마늘을 넣습니다. 이렇게 2분정도 중불에 볶다가요.",
+		"7. 7,물을 30ml정도 넣어줍니다. 자박자박하게 끓여줍니다.",
+		"8. 8,대파를 넣고 잘 볶아줍니다 그러면 수분이 많이 줄어들면 불을 꺼줍니다.",
+		"9. 9 물기가 약간 있을때 이제 통깨를 솔솔 뿌려주고 불을 꺼줍니다 . 아주 맛있게 되었네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/125298c9cae61e7df8c09f22fd0c8b101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/8374a8a3077f05fefedff5d705e2c52c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/44db70aab4ccc790d2c287976208cc851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/ddf6b3d47c07c063f8c4f436a821e0c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/26999256ffcdaa1a84d3b92c7665751f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/c8941f5c09dab96f0b4bf2cfb83e25af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/d62977e08d05df411d1f32a63c760b841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/3ec4b5817c5265804dc53301d415a2af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/146c52b58d45c9d3b77f6156e96d13781.jpg"
+	]
+}

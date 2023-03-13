@@ -1,0 +1,83 @@
+{
+	"id": "6868900",
+	"name": "검정콩조림~쫄깃쫄깃 짜지않은맛~^^",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/24/0d3a02e9f4bfeb36a9b6bba46d11a9a01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868900",
+	"ingredient_ids": [
+		995,
+		379,
+		292,
+		349,
+		226,
+		341,
+		660,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "불린검은콩",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시마1조각(4×5)",
+			"ingre_count": "1조각(4×5)",
+			"ingre_unit": "조각(×)"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 검은콩은 깨끗이 씻어서 물에3~4시간 불려놓으세요. 다시마는 면보로 닦아 찬물5컵에 10분정도 담가주세요. 냄비에 다시마는 가위로 자르고 다시마 물과 콩 불린물2컵.콩을 넣고 끓여주시다가 물이 끓기 시작하면 간장3.맛술2 국간장1설탕2. 넣고 중불로 끓여줍니다. 종이 유산지를 반자르고 고깔모양으로 접은후 끝모서리를 가위로 잘라주세요",
+		"2. 이렇게 종이 호일이나 유산지를 덮은후 냄비뚜껑을 덮고 바글바글 끓어오르면 중불로 줄여서 끓이다가 국물이 반쯤 줄면 약불로 끓여주세요 다시마 조각을 넣어주세요.",
+		"3. 중간 중간에 한번씩 뒤집어 가면서 콩을 섞어주시다가 물엿이나 조청1.1/2을 넣어주세요. 불은 약불로 줄이시구요~^^",
+		"4. 국물이 거의 졸여졌을때 참기름을 넣어 끓여주시고 통깨를 뿌려 불을 꺼주세요 (30분정도).끓여 주시면 콩이 쫄깃 거리고 맛있게 간이 베입니다~^^",
+		"5. 보관통에 조린콩을 담아 주세요. 생땅콩 조림도 만들어 보았답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/24/7199f1aadc12c4601ebd0b67e807f0ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/24/a1e8e9e4be603646d4dd9d21158669ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/24/36673b94bec534b4156d8eb88b884c1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/24/38513212e95afdab261c8bfb945d3f2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/24/9bfa10fd3c651e8764a36b8f3f3f7e841.jpg"
+	]
+}

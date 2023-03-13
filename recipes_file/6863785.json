@@ -1,0 +1,97 @@
+{
+	"id": "6863785",
+	"name": "먹어도 먹어도 질리지 않는 요리~~청경채 새우관자 덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/d05c6684f67303549fe0ae153965df461.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863785",
+	"ingredient_ids": [
+		13,
+		29,
+		28,
+		838,
+		307,
+		846,
+		477,
+		660,
+		846
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "8",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "양파(대)",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "5",
+			"ingre_unit": "편"
+		},
+		{
+			"ingre_name": "관자",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대하",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "녹말",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료 다듬어 준비하기. 청경채 8포기=길이 이등분하여 끓는물에 살짝 데쳐내기.  양파 큰 1/2개=굵게 채썰기. 마늘 2쪽 =크라쉬 생강=편 썰어 5편.",
+		"2. 관자 250그람과 대하 250그람=콘스타치 1큰술+청주 2큰술로 밑간하여 30분 재우기..청주는 해물 잡내를 없애고 녹말은 해물의 육즙이 빠지는것을 막아줍니다.",
+		"3. 소스재료 섞어서 만들어 두기=청주1큰술+굴소스 2큰술+참기름 2작은술.  ",
+		"4. 요리 시작하기~~ 팬에 기름을 1큰술을 두르고 마늘 생강을 볶아 향을 냅니다.중불뜨겁게 달구어진 팬에 마늘을 넣으면 쉽게 타므로 팬이 달궈지기전에 마늘과 생강을 넣어 향 내기를 합니다.",
+		"5. 해물넣고 쎈불에서 재빨리 익히기 합니다. 80%만 익히면됩니다.쎈불에서 익혀야 해물의 육즙이 많이 빠지지 않아요. 새우 관자 대신 쇠고기로 만들어도 되요",
+		"6.  해물이 80%익으면(약간 덜익었다 싶을 때) 양파, 청경채를 넣고  함께 볶다가 설탕 한꼬집으로 간하기 합니다.    설탕 한꼬집은 마치 조미료를 넣었을때 처럼 감칠 맛을 내는 신의 한수입니다.",
+		"7. 소스를 바글바글 끓여 불에서 내려주세요.",
+		"8. 끓은 소스에 익혀놓은 재료들을 넣고  소스가 골고루 가도록 섞어주세요",
+		"9. 접시에 밥을 먹을만큼 담고 준비된 요리를 얹어주면  완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/0d9708ea29f7cad2797ea3c4464dad751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/d1088815a8f9b6f38063e1518bf7507c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/a1a336f6a7734ca164bf98ff02c96ed01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/2e8a9e262016c5893bb90fb332d4f6131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/016dc415957cc43cca129626751cc1701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/b8aad31a9670b427ffa168f08f991b1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/b169d12ded7619647515944e2e7f4aef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/f84b38e933b3413c529f3eace6560a0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/d485154c41629e904607396b42c39bc01.jpg"
+	]
+}

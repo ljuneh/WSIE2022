@@ -1,0 +1,87 @@
+{
+	"id": "6839302",
+	"name": "호두멸치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/23/1668f87f1c4ffd7dca8ac7546a5130391.jpg",
+	"url": "https://www.10000recipe.com/recipe/6839302",
+	"ingredient_ids": [
+		320,
+		194,
+		543,
+		660,
+		233,
+		379,
+		995,
+		292,
+		846,
+		575,
+		341
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 다진마늘 1스푼정도를 달군팬에 기름을 두르신후에 넣고 볶으신후에 마늘향이 올라오면 잔멸치를 넣고 볶아주세요.",
+		"2. 색이 노르스름하게 변하면 호두를 넣고 꼬소한 향이 올라올때까지 잘 볶아줘야해요. 약 5분정도 중불에서 휘리릭 볶아주시다가 양념을 넣고 다시 볶아주기! 양념은 간장 2스푼, 물 100ml, 맛술 2스푼, 청주 2스푼, 올리고당 2스푼, 물엿 1스푼",
+		"3. 양념을 넣고 볶아주신후에 마지막엔 참기름 1스푼과 통깨 조금 뿌려주고 버무려주시면 완성이에요♪"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/23/a979930bffee09be8464c3b5f449c7a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/23/460a83edb62870d80c40d83689d6647b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/23/46034501fb0c4e685418fa140f30792c1.jpg"
+	]
+}

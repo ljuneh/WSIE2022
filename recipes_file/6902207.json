@@ -1,0 +1,78 @@
+{
+	"id": "6902207",
+	"name": "부타동 : 일본식 돼지고기 덮밥 간단한 점심 메뉴로 굿! ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/17/50be1cadb80ac917f3bb3ecd63c8ada31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6902207",
+	"ingredient_ids": [
+		963,
+		3,
+		226,
+		379,
+		292,
+		226,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "대패삼겹살",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 양파는 1/2개만 썰어주세요. 부타동은 별다른 야채들이 필요없어요. 간단하게 양파만 가지고 만들 수 있어서  자취생들도간단하게 만들수 있습니다.",
+		"2. 그 다음 양념장을 만들어줍니다.  간장 1.5큰술, 맛술 1큰술, 설탕 1큰술,  다진마늘 1작은술을 넣고 잘 섞어주세요.  원래 다진마늘 대신 생강을 넣어주는데요.  생강이 없어서 저는 다진마늘로 대체 했습니다.",
+		"3. 그 다음 후라이팬에 대패삼겹살 200g을 넣고,  설탕 1큰술 넣고 볶아줍니다. 고기를 볶을때 설탕을 넣으시면,  소스도 더 잘베이구요. 고기의 감칠맛을 살려줍니다.",
+		"4. 설탕이 다 녹으면 양파를 넣어주시구요.  그리고 소스도 같이 넣어줍니다.",
+		"5. 저는 소스가 있는거 보다는 바싹 굽는게 좋더라구요.  소스가 자작하게 남아있는게 좋으신 분들은 취향에 따라 맛있게 구워주시구요.",
+		"6. 고기가 다 익으면 밥위에  먹음직 스럽게 고기를 올려주세요.",
+		"7. 그리고 마지막으로  가운데에 달걀 노른자 1개를 올려줍니다. 달걀의 비린맛 때문에  날달걀을 못드시는 분이라면후라이 1개 해서 올려주시구요.",
+		"8. 마지막으로 파슬리 가루 뿌려주시면 맛있는 부타동 완성입니다.  생각보다 만들기 너무 간단하구요.  확실히 일본식이라 그런지  많이 자극적이지 않구요.  고기의 달콤 짭짤함과 노른자의 담백함이  어울려져서 맛있는 한끼로 손색없었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/17/dc43a482d7c3a4958f33a572a2cc22751.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/17/0dc6c791268580f501c762f26e4b63fa1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/17/8f52a23f0b9001c12d38eac3c9d02ddc1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/17/9b4879859a280967037a378708c48ed01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/17/e47a03282592bb4666b3767b21eae03f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/17/c488e990d39748c65b840daec7c126a21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/17/5f9ce57d7fafe717720915ab16dae18b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/17/86d9577f83a10153f4683df6846d83a81.jpg"
+	]
+}

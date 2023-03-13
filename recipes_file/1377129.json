@@ -1,0 +1,83 @@
+{
+	"id": "1377129",
+	"name": "언제 먹어도 맛있는 건새우 아욱국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/24/dbf4fdfe5575611a3b2428d7d7c19dc4.jpg",
+	"url": "https://www.10000recipe.com/recipe/1377129",
+	"ingredient_ids": [
+		33,
+		259,
+		3,
+		848,
+		349,
+		545
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "아욱",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쫑쫑썬대파",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "쌀뜬물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "멸치다시마육수2+1/2컵",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매운고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 여린 아욱입니다. 아욱은 잘 다듬어주고 억샌 아욱같은경우 겉껍질을 살짝살짝 벗겨줍니다.",
+		"2. 손으로 조물락조물락 거려서 아욱이 전체적으로 색이 진한 녹색으로 변할때까지 주물러주시고 여러차례 물에 행궈주세요. 전 한 10차례 행궜어요. 연두빛 물이 거의 생기지 않을때까지 행궈주면 되요.",
+		"3. 양파(중)1/2개는 가늘게 채썰어주고, 대파도 적당하게 다져서 3T정도 그리고 건새우 한줌 준비했어요.",
+		"4. 쌀뜬물과 멸치다시마를 섞은 육수가 끓기시작하면 거품이 생길텐데 거품은 제거해주고 된장 2T와 고춧가루 1T를 넣어 잘섞어 은은하게 끓여 주세요.",
+		"5. 된장과 고춧가루가 잘풀어지면 불을 올려 끓기 시작하면 진을뺀 아욱과 건새우, 국간장 1T 넣어 끓여주세요.",
+		"6. 펄펄 끓기시작하면서 거품이 생길텐데, 거품을 다시 한번 걷어내시고 채썬 양파와, 다진 파3T, 다진마늘 1t를 넣어 뚜껑덮어 약불에서 푹 끓여주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/56f36822369b9600c9221e62bfc66e461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/49c88b39b44ece502aa3857561d0493c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/83939f3f6a141b29caf04442ba5261d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/543adbb631ee36ff62498eff507a125e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/ef9ccf27bd547efc42717a0d0dacf7651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/8ad37b1de2e0f4d165f0d9a5a2b14f831.jpg"
+	]
+}

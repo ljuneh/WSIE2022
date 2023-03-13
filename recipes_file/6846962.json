@@ -1,0 +1,64 @@
+{
+	"id": "6846962",
+	"name": "닭발편육 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/23/51c9973494d56510e93b3c8e2813f77e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846962",
+	"ingredient_ids": [
+		3,
+		27,
+		29,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭발",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 구매한 닭발을 깨끗하게 씻어주세요.",
+		"2. 닭발을 깨끝이 씻어서한번 삶아서 이물질들을 제거해줬어요.",
+		"3. 이물질을 제거한 닭발을찬물로 씻어낸 다음집에 있던 재료들을 챙겨서 넣어줬지요.냉동에 있던 실한 인삼이랑대파.통마늘.생강.말린 삼채뿌리.양파.소주를 넣어 줬어요.",
+		"4. 삶은지 1시간된 모습입니다.",
+		"5. 익은 닭발을 건져내서",
+		"6. 살이랑 뼈를 분리시키는데만 1시간이 걸렸습니다.",
+		"7. 뼈를 분리시킨 닭발을다시 육수에 넣고 30분 정도 삶아줬어요.",
+		"8. 용기에 몽땅 부어주고냉장실에 넣어서 굳혀주면 끝입니다.",
+		"9. 이만한 크기로 10조각이 나왔어요.맨 위에 굳어있던 기름은 잘라서 버려주세요.",
+		"10. 먹기 좋은 크기로 잘라서양념장 에다가 찍어서 먹어주면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/27/264663a2da7360b2e02c66e58a4cb6f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/27/23bbd2ca5ef1cbd58af5a87e8bea33421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/27/fce81b9cde05c01d133e8f31bdb45aae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/27/ab2649c877cae58a73398f597796b5901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/27/2277672208df964406722a193cfba6bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/27/55ba4d4e6c64970c93abc56c4f5e629c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/27/90f71e5adbe0e8d12e8499da984ba36a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/27/36890eec271fec47bd47b418732fc4831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/27/d8e1e757774d17e017b3bff09bdb6f991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/27/1745efdcaf5b87d2ca10b7f358b05a6c1.jpg"
+	]
+}

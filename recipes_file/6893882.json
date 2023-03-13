@@ -1,0 +1,90 @@
+{
+	"id": "6893882",
+	"name": "간단 하지만 맛있는 베이컨 당면 덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/23330d18de787dff6f31dfe374ada8f61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6893882",
+	"ingredient_ids": [
+		406,
+		27,
+		504,
+		995,
+		379,
+		477,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "불린당면",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. (1시간정도)불린 당면은 끓은 물에 넣고 3~4분정도 삶아준후 찬물에 헹궈주세요.",
+		"2. 당면을 송송 썰고,베이컨은 채썰어 주세요",
+		"3. 대파는 송송 썰어주세요",
+		"4. 팬에 식용유를 두르고 대파를 넣고 충분히 볶아주세요.",
+		"5. 베이컨도 넣고 볶아주세요",
+		"6. 당면도 넣고 볶다가 한쪽으로 밀쳐놓고",
+		"7. 팬이 빈곳에 간장 1큰술 굴소스1큰술을 넣고 기포가 올라오면 같이 섞어서 볶아주세요.",
+		"8. 녹말물을 (전분1ts 물 약간넣고 저어줌) 만들어 넣어 주면서 볶아 주고, 후추도 넣고 볶아주세요.",
+		"9. 완성그릇에 밥을 담고, 그옆으로 당면베이컨 볶음을 담고 깨소금 약간 뿌려주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/55cdd26e758c443468ece04bafd51b011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/639e5073689c54b9f645ba2caee5dd081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/dfc0c4b868d44b35ab087c93988ec5001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/d26bef4b246783cb0f70f24d5f6632c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/17a3399a293d21cafe6207d63211bba81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/2ce62b874d3ea00b7e43c4aa10f417931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/c3c5d23865c0311f9558d6ef2b01654a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/67d25ef7cc39888dbf3b779733be743e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/09/c811b5653295bf9e5855d83e61c746fc1.jpg"
+	]
+}

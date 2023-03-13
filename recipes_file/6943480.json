@@ -1,0 +1,114 @@
+{
+	"id": "6943480",
+	"name": "감자 애호박 찌개 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/bf34dbb80cf4cdc330dc9c3c948b95861.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943480",
+	"ingredient_ids": [
+		323,
+		5,
+		7,
+		295,
+		995,
+		665,
+		224,
+		343,
+		765,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돈민찌",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".L"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "5",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "쌈장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 애호박은 통으로 반을 갈라준 다음 반달모양으로 썰어줍니다",
+		"2. 홍고추와 청양고추는 어슷썰어주세요",
+		"3. 대파는 세로로 절반을 갈라 잘게 썰어주세요",
+		"4. 감자와 두부는 한입 크기로 썰어주세요",
+		"5. 위 양념장 재료를 모두 한 곳에 넣고 골고루 섞어줍니다.",
+		"6. 기름을 두르지 않고 팬에 돈민찌를 넣어 강한불에서 볶아줍니다고기 겉이 갈색이 날때까지 볶아줍니다",
+		"7. 고기에 갈색이 나면 감자를 넣고 볶아주세요",
+		"8. 소금과 후추를 2꼬집씩 넣어 밑간을 해주세요",
+		"9. 물을 1.2L 붓고 5분간 끓여줍니다",
+		"10. 5분간 끓여주신 다음 미리 썰어놓은 두부,애호박,고추,양념장을 모두 한번에 넣어주시고 다시 한번 끓여주세요",
+		"11. 끓이는 도중 떠오르는 불순물을 제거하고 애호박이 익었을때쯤 불을 끄고 맛있게 드시면 됩니다",
+		"12. 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/b8a8c8627bbc3c23ab3d945ecea93d071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/5199940206afe11c37cc6d32d71ef00c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/e24ed64ee013c3f3803e2848fd6a16711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/be14752e85e5b7471f04e94d091d69b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/0ee0ea11db06a48b8c09a76d7fe3287d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/59b4932baeb985598a3d91d2e9da35151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/a2a877ca842feaa8d9102c6b04df5e6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/947866a51449b06b62a1f17b6acb88c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/24b9018d690616b9811ec7f749b520171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/04b9e416215bb2d61ffa849a7145c4701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/92641c4a16928605428159c9e803696d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/82cbd622191b0021d30acac0116cba751.jpg"
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"id": "4047742",
+	"name": "느타리버섯 쇠고기국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/28/ac9b762365579e73228da68f4e087e471.jpg",
+	"url": "https://www.10000recipe.com/recipe/4047742",
+	"ingredient_ids": [
+		56,
+		27,
+		995,
+		233,
+		736,
+		497,
+		660,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쇠고기(등심)",
+			"ingre_count": "320",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "4",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "고춧가루2+1/2큰술",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "조선간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 느타리버섯은 반으로 찢어줍니다.",
+		"2. 대파와 마늘은 껍질을 벗겨 씻은 후 대파는 5cm 정도 길이로 썬 후 흰 부분은 반으로 썰고 마늘은 다져줍니다.",
+		"3. 쇠고기는 등심으로 준비하고 달군 냄비에 참기름을 두르고 볶아줍니다.",
+		"4. 고춧가루 1큰술을 넣어 볶아주고 물을 적당량 붓고 끓여줍니다.",
+		"5. 쇠고기가 부드럽게 익으면 대파와 느타리버섯을 넣어서 끓여줍니다.",
+		"6. 나머지 고춧가루와 다진 마늘, 조선간장, 후춧가루, 소금으로 간을 맞춰 주고 한소끔 끓인 후불에서 내려요.",
+		"7. 느타리버섯 쇠고기국을 그릇에 담아냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/07/aa0f127513f7ca8267c1c4d841cca3581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/07/02219bc003a5694023551acb5ea196c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/07/c72b12c2c9407117bcff3e5d360ce8151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/07/0e70fddaa1203c7eafdec5082e8bc0e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/07/3d93646db172de041536fc27ba5c44c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/07/0362fa0072ac658102406d79cf95007a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/07/dcfe9215134dc220139a8cc2b0c8c10b1.jpg"
+	]
+}

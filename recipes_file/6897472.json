@@ -1,0 +1,84 @@
+{
+	"id": "6897472",
+	"name": "무말랭이무침, 무말랭이김치만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/09/deeab26014168a87c847a42104e2f3701.jpg",
+	"url": "https://www.10000recipe.com/recipe/6897472",
+	"ingredient_ids": [
+		287,
+		349,
+		224,
+		233,
+		226,
+		341,
+		457,
+		843
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "무말랭이",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마른고춧잎",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "8",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 1. 무말랭이와 고춧잎 불리기 무말랭이와 고춧잎은 깨끗이 씻어서 미지근한 물에 담가 2-3시간 정도 불립니다.  무말랭이 상태에 따라서 조절해주세요. 저는 약 1시간정도 담갔다가 사용했습니다.  2-3시간 불린 무말랭이와 고춧잎은 베 보자기에 싸서 물기를 꼭 짭니다.물기가 남아있으면 나중에 수분이 넘 나와서 맛있는 무말랭이 무침이 안되고, 질척해져서 깔끔하지 않아요. ",
+		"2. 국간장과 액젖 넣고 버무리기 부드러워진 무말랭이에 (감이 잘 안오면 한개 깨물어 먹업봅니다.)  동량의 까나리액젖과 국간장을 넣고 버무려 10분정도 둡니다.",
+		"3. 나머지 재료넣고 버무리기 다른 재료들을 넣고 버무립니다.  통깨와 와 물엿으로 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/09/970bc08d8114f7e595672af3fa79b7801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/09/0dfb8d5940fcc6400f6ca1342f3d09561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/09/3d4ab95a67c40d501ec080c936002e6e1.jpg"
+	]
+}

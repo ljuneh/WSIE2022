@@ -1,0 +1,57 @@
+{
+	"id": "6943368",
+	"name": "새우젓 애호박볶음 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/97656f9fd695498d6fdf03791118a9871.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943368",
+	"ingredient_ids": [
+		7,
+		390,
+		504,
+		497,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "3/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 먼저 애호박을 반달모양으로 얇게 잘라준다",
+		"2. 팬에 식용유를 두르고 애호박을 잘 볶아준다",
+		"3. 새우젓1/2T를 넣고 잘 볶아준다",
+		"4. 중간에 물3T를 넣어주면 타지 않게 볶을 수 있다",
+		"5. 소금간을 살짝 해서 부족한 간을 맞춰준다",
+		"6. 통깨 솔솔 뿌려주면 맛있는 애호박볶음 완성입니다~ 정말 간단하게 만들 수 있는 애호박볶음이에요:)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/6a6180eb4496ee0b7e7a943d1be0826b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/c71008542ff19d8c5a6d919acf67558c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/7638647699157f11b9962d52f5ed5dff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/3bff66fa9db1a302ba8e1ac6662fe8a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a9251fcd618bc8ec0bb3a0248b260d3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/805cec1150975177cb1e234c5c94e1b51.jpg"
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"id": "6915527",
+	"name": "여름 보양식 낙지볶음 만드는법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/07/09/25cec941f36c58197c6f1984366350551.jpg",
+	"url": "https://www.10000recipe.com/recipe/6915527",
+	"ingredient_ids": [
+		64,
+		3,
+		34,
+		379,
+		473,
+		224,
+		226,
+		233,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "낙지",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "불닭소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금/후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 낙지 2마리를 30초 정도 데친다.",
+		"2. 데친 낙지는 6cm 정도로 썰고, 양파는 채썰기, 고추는 어슷썰기로 손질한다.",
+		"3. 예열된 팬에 양파를 센 불로 1분 정도 볶은 후, 낙지를 넣고 1분 정도 볶는다.",
+		"4. 불닭소스를 넣은 양념장을 넣고 1분 정도 볶은 후, 고추를 넣고 30초 정도 볶는다.",
+		"5. 매콤한 여름 보양식! 낙지볶음 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/09/77bd584e33e705d27293b6e77fa0e41e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/09/4f0eeccc941592def316f4b4c59ad60b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/09/1ce246b20930095d68e2f1ae347024731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/09/788d00f2ac39c3d3c73b07687bd7fc961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/09/87baaeeb7ba0478a90f8547f6eb20dfc1.jpg"
+	]
+}

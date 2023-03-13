@@ -1,0 +1,91 @@
+{
+	"id": "6940445",
+	"name": "라이스 핫도그 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/2278574f1697bce9ceee74a90846316f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940445",
+	"ingredient_ids": [
+		660,
+		433,
+		734,
+		436,
+		724,
+		627
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "비엔나소세지",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "튀김기름",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		},
+		{
+			"ingre_name": "과일꼬치",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "머스터드",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		}
+	],
+	"recipe": [
+		"1. 따뜻한 밥에 참기름을 넣어 섞어줍니다.밥1공기, 참기름1큰술",
+		"2. 비엔나소세지에 튀김가루를 묻혀줍니다.비엔나소세지1개, 튀김가루 약간 비엔나소세지는 뜨거운 물을 부어 기름기를 빼줍니다.",
+		"3. 비엔나소세지에 양념한 밥을 감싸줍니다.",
+		"4. 튀김가루를 묻혀줍니다.튀김가루2큰술",
+		"5. 계란을 풀어 계란 옷을 입혀줍니다.계란1개",
+		"6. 빵가루를 묻혀줍니다.빵가루4큰술",
+		"7. 팬에 기름을 넉넉히 붓고 굴려가며 튀겨줍니다.튀김기름 넉넉히팬중불팬에 튀김기름을 붓고 가열한 후 빵가루를 조금 넣어 바사삭 튀겨지면 튀김옷 입힌 밥을 넣어 튀겨줍니다.",
+		"8. 노릇노릇하게 튀겨졌으면 키친타월 위에 올려 기름을 빼줍니다.키친타월",
+		"9. 과일꼬치를 꽂아줍니다.과일꼬치",
+		"10. 취향껏 머스타드 소스와 케찹을 뿌려줍니다.머스타드소스 취향껏, 케찹 취향껏"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/febc61445b92ec92b89b82300d3f77c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/91d62213daa0485275e35e7de585a1e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/dd35bf26163c01f6e36232c19f9ef9b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/9d7d2f42d4eb065f46e8f5261fd5be261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/5d2230824fe8dd71de220260363a1fa21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/8297e692e8a05a4f3ec66d4e53b373011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/d1983388abff378ba81c39d32eaffd321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/df56566e77e4c8f52c6bee297e2917a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/be4ac66584c5048d5f287446ba0a56081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/cd0145bae46d4507f2120b03407a85e51.jpg"
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"id": "6942291",
+	"name": "영양 가득 애호박야채볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/610bfe07267ca91244f162f30a60fe741.png",
+	"url": "https://www.10000recipe.com/recipe/6942291",
+	"ingredient_ids": [
+		9,
+		7,
+		3,
+		477,
+		660,
+		497,
+		504
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 당근을 잘게 다져주세요.",
+		"2. 양파를 잘게 다져주세요.",
+		"3. 애호박은 먹기 좋은 크기로 채썰어 준비해주세요.",
+		"4. 프라이팬에 식용유를 두르고 중불에서 당근, 양파, 애호박을 넣어주고 소금, 후추를 넣어 밑간 한 뒤 볶아주세요.",
+		"5. 야채 표면이 노릇해지면 팬 가운데에 계란을 넣고 스크럼블 하듯이 볶아준 뒤 야채와 함께 섞어 볶아주세요.",
+		"6. 계란이 다 익으면 밥 한공기를 넣고 굴소스를 넣어 볶아주세요.골고루 볶아주신 뒤 간을 보시고 싱거울 땐 굴소스를 조금 더 넣어주세요.",
+		"7. 야채와 밥이 골고루 볶아지면 불을 끄고 참기름을 둘러 섞어주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/2498cdac9198ba74c002f82b2a5591eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/c31e2959d6c0042b58e569aa3fedb5241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/5b21a97489a979d914b5a0e0025dea1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/fffefaaecabde292a92e040bf101a6e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/01c896ccf176aa20448d49999dc3a7ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/a0e8c1cc9dd903030a6ba10b4b769cff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/dc607304f9c9d31ac3b862a4220145f11.jpg"
+	]
+}

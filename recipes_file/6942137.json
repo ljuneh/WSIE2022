@@ -1,0 +1,60 @@
+{
+	"id": "6942137",
+	"name": "명절나물반찬~흰색나물 숙주무침!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/3b352c94815bc93dc96b918d8c7997651.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942137",
+	"ingredient_ids": [
+		52,
+		291,
+		233,
+		660,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 숙주를 찬물에 담구어서 살살 흔들어서 깨끗하게 씻어주세요",
+		"2. 펄펄 끓는물에 1분간 데쳐주신후 찬물에 담구었다가 물기를 빼주세요",
+		"3. 물기가 빠진 숙주데친것에 다진대파/다진마늘/맛소금/참기름/통깨를 넣어주세요",
+		"4. 양념이 고루베이게 살살 섞어가면서 버무려주세요",
+		"5. 아삭아삭한 숙주나물이 완성이 되었어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/1532fa0d71b945b4a9acee773bdcd06d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/fce33ed4473b5ba6aa97e517a862b9f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/c57aa3f71aa6779f9e5d372c4971c4501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/fc489f3103afbfdc6ea15e8bebaf14411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/4422d6e40d2ea543e759e13393a704b31.jpg"
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"id": "6887444",
+	"name": "맑은 소고기 무우국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/51dc078c2673353d47cdb5312f6243fd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6887444",
+	"ingredient_ids": [
+		495,
+		27,
+		349,
+		233,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 무우는 씻어서 사방 2.5cm 크기로 얇고 나박하게 썰고",
+		"2. 소고기는 국거리로 준비해 티슈로 핏물을 제거하고 결의 반대방향으로 먹기 좋게 썰어줍니다",
+		"3. 달군 냄비에 참기름 1스픈 넣어 소고기를 달달 볶다가 무우를 넣어 무우가 투명해지면",
+		"4. 다시마육수 8컵 붓고 소고기 육수가 충분히 우러나면 간장으로 간을 마추고 싱거우면 천일염으로 간을 조절합니다",
+		"5. 다진마늘 파 넣어 한번 더 끓여줍니다 너무 오래 끓이면 무우가 부서지고 탁해집니다",
+		"6. 쉽고 간단하게 끓인 소고기 무우국 여렷을적 엄마가 만들어 주시던 맛"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/c43fdaba6647f7c0544c46f29de588b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/e5b23de4508349371f9e36bcfa1c403c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/44d021debf01e6472866d1dd34b37b1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/a7d4155530c072374968b4dbfebd97981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/491fb16c6c45634b760d5289b985d01b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/19/938650622b7376debdcd59b19c8594221.jpg"
+	]
+}

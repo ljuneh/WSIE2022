@@ -1,0 +1,125 @@
+{
+	"id": "6881494",
+	"name": "아구지리탕 만드는 법(맑은 아귀탕 만들기)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/28/b5e7192930d7a9b02cfc14779eba5d021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6881494",
+	"ingredient_ids": [
+		47,
+		20,
+		27,
+		89,
+		295,
+		90,
+		19,
+		27,
+		3,
+		349,
+		939,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "작은아구",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1",
+			"ingre_unit": "줌반"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "미더덕",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시멸치",
+			"ingre_count": "6",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "황태머리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟갈"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟갈"
+		}
+	],
+	"recipe": [
+		"1. 육수재료-다시멸치6마리,다시마한조각,무1/8개,황태머리한개,대파약간,양파반개를 넣고 끓여주세요.",
+		"2. 작은아구한마리는 깨끗이 내장을 다듬고 아가미부분은 뜯어내고 굵은소금을(1)을 넣고 골고루 버무려 10분간 재어둡니다. 그리고 깨끗이 씻어놓으세요.",
+		"3. 대파는 어슷썰기로 준비해주세요 미나리는 5~6센치길이로 썰어주세요",
+		"4. 육수는 걸러내고 무는 나박썰기를 해주세요. 여기에 국간장(1)과 액젓(0.5) 간마늘(0.5)을 넣어주세요.",
+		"5. 육수가 끓기시작하면 씻어놓은 아구를 넣어주세요.",
+		"6. 이때 소주나 미림을 한큰술정도 넣어 비린내를 잡아주세요. 아구가 얼추 익기시작하면 씻어놓은 미더덕을 넣어서 끓여주세요.",
+		"7. 이때 거품은 걷어내주세요",
+		"8. 어느정도 끓으면 씻어놓은 콩나물을 넣고 뚜껑을 덮어주세요.",
+		"9. 콩나물숨이 살짝 죽으면 뚜껑을 열고 썰어놓은 미나리와 대파 청양고추를 넣고 한소큼 끓이면 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/28/2f3963dc5c3b5c0bf02ccbec7bdb0fab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/28/cfc034353915a1837bd665bf29276de01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/28/695461894e6e956d51c2f1fe71b65cb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/28/8ce146519273baac687ce3a7282fe9ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/28/7035c0fb66d9162df54616bd6915b0ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/28/52561ef1b47437de75ab03e406fdb1c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/28/a7d444cc9cd83fc6b810011bdeaac99e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/28/af22dfa261115957651538d5dfab05321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/28/ef42193a8cf95293aac7da804170b4bc1.jpg"
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"id": "6942017",
+	"name": "파이만주 파이시트로 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/a0b56cff895d8b97436160511df059b51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942017",
+	"ingredient_ids": [
+		907,
+		995,
+		476
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "스퀘어파이시트",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "호두분태",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "팥앙금",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "흑임자",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 냉동 상태의 스퀘어 파이시트를 다른 재료를 준비하는 동안 냉장실에서 해동시켜 줍니다.",
+		"2. 파이시트가 냉장실에서 해동되는 동안 호두분태는 마른팬에 노릇하게 볶아줍니다.",
+		"3. 볶아 식혀둔 호두분태에 팥앙금을 넣고 잘 섞어줍니다.",
+		"4. 팥앙금은 30 g 씩 분할해서 잘 둥글려 놓구요..",
+		"5. 해동된 스퀘어 파이시트는 지름 8 cm 원형으로 4개 나올 정도로 밀대로 적당하게 밀어펴 줍니다. 이때 덧가루(강력분)을 살짝 뿌려가며 밀어펴야 파이시트가 바닥에 달라붙지 않아요.",
+		"6. 지름 8 cm 커터로 찍어 원형 시트를 스퀘어 파이시트 장당 4개 정도 만들어 줍니다.",
+		"7. 요렇게 호두 앙금과 원형 파이시트를 준비 해놓고 만주를 만들기 시작하면 좀 더 편하게 만들 수 있어요.",
+		"8. 만들어 둔 원형 파이시트에 호두앙금 한개를 올려 놓고",
+		"9. 아랫부분을 잘 꼬집꼬집 해주면 쉽게 만주를 만들 수 있습니다.",
+		"10. 밑부분을 잘 봉한 후 손바닥으로 예쁘게 동글려 모양을 만들어 팬닝합니다.",
+		"11. 그런 후 칼로 만주에 칼집을 가볍게 넣어주세요. 칼집을 넣어야 오븐에서 예쁘게 부풀어요.",
+		"12. 계란노른자 한개에 물 약간을 넣어 노른자물을 만들어 반죽에 살짝 발라준 후",
+		"13. 흑임자 약간을 솔솔 뿌려줍니다. 깨를 뿌리면 좀 더 먹음직스러워지는 것 같아요.",
+		"14. 175도로 예열된 오븐에서 20~25분 정도 노릇하게 구워줍니다. 완성된 파이만주는 식힘망에서 완전히 식혀 포장해주세요.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/857e6eb1e83394708da1264f0042536e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/cf1bf5dffe7ac9656b5a52d606a78cf71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/54f4d5dc7a8789999dfdfcd41d26588c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/6b1ca8e0c99ff91611a0d9c6ac1983391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/a9dbcf2aae7d18254c28bd951c25b0511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/f680f61caac99f34cc464e69f09569831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/5f08c0485275af9505c7500993e25f801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/4449aecad661991a2db98f41271199dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/1539e3baffdef91e288da26b48a67f331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/64a8df4fa3b1026efc73c8efd0c7d8f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/e990913600c1577b8977864dcfd5ec6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/a15f40ce03553c11be1f02a8b49626901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/8bc9023db2ce8a6c84fb2cb31b83a7541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/3627dce13ba09eb8d882fad5c01b3d801.jpg"
+	]
+}

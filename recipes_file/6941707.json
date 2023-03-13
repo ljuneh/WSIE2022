@@ -1,0 +1,83 @@
+{
+	"id": "6941707",
+	"name": "부추겉절이 [부추무침] 쉽고 간단하게 만들기!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/6893ae304e4ac044498f4f963d57ab861.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941707",
+	"ingredient_ids": [
+		30,
+		3,
+		939,
+		136,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다시마육수",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 물 1/2컵에 다시마 3~4조각 넣고 물을 우려냅니다. 15분~20분 정도면 충분합니다",
+		"2. 부추는 물에 잠시 담가놓았다가 흐르는 물에 깨끗이 씻어 주세요",
+		"3. 깨끗이 씻은 부추는 적당한 길이로 잘라줍니다 길이가 너무 길면 먹기가 불편하니까 조금 짧게 썰어주시는게 좋습니다",
+		"4. 썰어 놓은 부추는 먼저 액젓으로 간을 해둡니다.",
+		"5. 양파도 곱게 채 썰어줍니다.",
+		"6. 홍고추는 반 갈라 씨를 제거하고 가늘게 어슷 썰어 주세요.",
+		"7. 액젓으로 간한 부추에 양파 홍고추 나머지 분량의 양념 재료 다 넣어 주고 풋내가 나지 않도록 살살 버무려 주세요.",
+		"8. 참기름을 넣어 드셔도 좋습니다. 추가 간은 소금으로 하시고 단맛을 좋아하시면 설탕을 약간만 더 추가하세요.",
+		"9. 고기 구워 먹을때 곁들여 먹으면 좋습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/23179a594d57ce655d053db8c6f3af9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/c765d714e24726442f2fe2edf08b696a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/86a3415529f86567fa85e23c5dce5b0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/31f949614d4a1034984500c43c5852471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/2d45a56d95c5f8d45458b059a501ba0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/f5514dd0d2b85dc93fa586a76c54a7f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/95a5b5221158b17d0d788926abebe3f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/9d7020c7e15c7881178b7e4bbc3ff4261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/b548ff65cdf037df6f441409abd36d421.jpg"
+	]
+}

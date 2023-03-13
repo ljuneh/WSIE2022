@@ -1,0 +1,78 @@
+{
+	"id": "6835844",
+	"name": "[간단반찬]메추리알 장조림, 메추리알조림 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/08/15c332c39d9f11c9288b797589fd2fa71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6835844",
+	"ingredient_ids": [
+		58,
+		293,
+		497,
+		995,
+		226,
+		292,
+		379
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "메추리알1판(25알)",
+			"ingre_count": "1판(25알)",
+			"ingre_unit": "판(알)"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 메추리알을 한판을 사셔도 되지만, 전 삶고 이런게 귀찮아서, 저렇게 다 삶아서 되어 있는 제품을 구매했어요 보통은 메추리알을 한판을 사서 직접 삶을때는  냄비에 메추리알 한판을 넣고, 물을 넣은뒤, 소금 조금과, 식초 2숟가락을 넣고 약한불에서 10분정도 삶으면 된답니다. TIP. 식초와 소금을 넣으면 껍질이 잘벗겨진답니다.",
+		"2. 삶아진 메추리알을 그릇에 담아두고,",
+		"3. 새송이버섯2개를 적당한 크기로 썰고, 꽈리고추는 한줌을 준비한뒤, 너무 긴것은 반으로 잘라줍니다.",
+		"4. 냄비에, 물2컵과",
+		"5. 간장 5숟가락, 설탕 1숟가락, 맛술 1숟가락을 넣고 조림물을 만들고",
+		"6. 삶아두었던 메추리알을 넣어주세요. 조림장양념을 다시 정리하면 물2컵,간장5숟가락,설탕1숟가락,미림1숟가락입니다.",
+		"7. 메추리알이의 조림국물이 반정도로 줄어들면,",
+		"8. 새송이버섯과,꽈리고추를 넣고, 5분정도 더 끓여주면 끝!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/08/2465b8f252af75720aef245afbe101fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/08/316228a8e9e53d6be17bea6512f4cb311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/08/39b7278c57ac3bb5e6063b921d52d8af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/08/c8a92f368b3c06838485512934e301df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/08/f06f176cc408cedc8ee1c331d1ec0d7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/08/38c66d6084fd432ddbea0c25b8989de21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/08/4c18c6a48b21afa099923c43d94614e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/08/15e7b40e24744a5504fa3f453d6228551.jpg"
+	]
+}

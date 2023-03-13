@@ -1,0 +1,35 @@
+{
+	"id": "6239912",
+	"name": "오미자청 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/03/25/c50b5d6850601b8c1facfeca43fd49861.jpg",
+	"url": "https://www.10000recipe.com/recipe/6239912",
+	"ingredient_ids": [
+		166,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오미자",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 깨끗하게 소독한 유리병에 설탕을 넣고 오미자를 넣어주세요~",
+		"2. 오미자 넣고 설탕 넣고 켜켜히 넣어주시면 되는데요~  오미자: 설탕 비율은 1:1",
+		"3. 날짜도 위에 표시를 해두구요~ 일주일정도 지났을때 위아래 설탕이 잘 섞이도록 해주시면 좋다고 합니다~",
+		"4. 그리고 제일 위에 설탕을 부어주시구요~~ 이제 일주일 기다렸다가 섞어주고... 그늘진곳에 100일정도 지나면 청이 된답니다~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/25/82f75dd894718627925a3dfaf995df7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/25/653b4525ce7dffd5b56ab7cb7a08a8691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/25/95f93d0a0bed9886575b10861008f5041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/25/e4079b4c57e1a0f38beb90027479ce781.jpg"
+	]
+}

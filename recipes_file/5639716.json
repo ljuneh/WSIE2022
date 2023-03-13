@@ -1,0 +1,77 @@
+{
+	"id": "5639716",
+	"name": "집에서 장어구이 만들기~~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/e0707f1512163517ae476ce8768377381.jpg",
+	"url": "https://www.10000recipe.com/recipe/5639716",
+	"ingredient_ids": [
+		74,
+		379,
+		846,
+		414,
+		29,
+		3,
+		28,
+		857
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "장어",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "복분자청",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "5~6톨",
+			"ingre_unit": "~톨"
+		}
+	],
+	"recipe": [
+		"1. 손질된 장어는 흐르는 물에 한번 씻은 후 청주와 후추가루를 뿌려주세요~",
+		"2. 1의 장어를 200도로 예열된 오븐에 넣고 5분정도 구워주세요~ (오븐이 없으면 후라이팬에 구워주세요~)오븐",
+		"3. 장어를 굽는 동안 양념장을 끓여주시면 됩니다. (양념장이 3분의 2정도 남을때 끓이신 후 내용물을 건져내세요~ ^^)",
+		"4. 후라이팬에 양념장을 넣고 한번 구운 장어를 넣은 후 졸여주세요~ (양념장이 반으로 줄때까지 졸여주시면 됩니다. ^^)",
+		"5. 졸인 장어는 오븐에 넣고 5분정도만 더 구워주세요~ (오븐이 없으면 생략하셔도 됩니다. ^^)",
+		"6. 완성된 장어는 먹기 좋은 크기로 잘라서 접시에 담으면 됩니다.. ^^",
+		"7. 접시위에 담고~ 생강채를 썰어서 위에 올려주었어요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/12cb5259810910c86fa937e107cd1b2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/ebcb4b256a5a5856b53d4aea076cafcf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/03467d50983493a6f9802d6fc5fc85da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/6122761808301293183e4486412df1231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/598947e3f77d5529e55453809ef335811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/d5c64ea44b46b5fff05f57874403052f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/09/a009bdbeca5163cd5ff16d789d2575861.jpg"
+	]
+}

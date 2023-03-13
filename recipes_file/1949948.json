@@ -1,0 +1,85 @@
+{
+	"id": "1949948",
+	"name": "새콤달콤한 토마토와 카레의 만남 토마토카레라이스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/24/057ea7697bbf3c838a47a55b93f0f2ca.jpg",
+	"url": "https://www.10000recipe.com/recipe/1949948",
+	"ingredient_ids": [
+		51,
+		487,
+		5,
+		3,
+		9,
+		108,
+		432,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "완두콩",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "4",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		}
+	],
+	"recipe": [
+		"1. 토마토는 흐르는 물에 씻어 줍니다. 대저토마토 싱싱한 짭짤이 먹어 보니 상큼하면서 단맛과 신맛이 어우러져 맛이 아주 좋더라고요. 토마토는 꼭지를 제거하고 적당한 크기로 썰어 줍니다.",
+		"2. 감자, 당근, 양파는 껍질을 제거하고 흐르는 물에 씻은 후 적당한 크기로 썰고 돼지고기도 적당한 크기로 썰어 줍니다.",
+		"3. 완두콩은 흐르는 물에 헹군 다음 체에 밭쳐 물기를 제거해 줍니다.",
+		"4. 달군 냄비에 포도씨유를 두르고 돼지고기를 넣고 볶다가 감자와 당근을 넣어 함께 볶아 줍니다.",
+		"5. 양파를 넣어 함께 볶아 주고 물을 적당량 붓고 끓여 주다가 카레가루를 넣어 저으면서 끓여 줍니다.",
+		"6. 저으면서 끓여 주고 완두콩을 넣어 한소끔 끓인 후 토마토를 넣어 저으면서 한소끔 끓여 준 다음 불에서 내려요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/a9b3a1dbb7804dde84702542410744351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/157e380de60da4645fb7a9a5aa3caedf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/7da45138fe86c58aff1fe16bdc9808e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/8d94abba2769eb4b76bd55c1fa29192c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/07e6b04ed27256a13a15f38a982799081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/e45b1f1e7aade40e41cc5f9014ddc1081.jpg"
+	]
+}

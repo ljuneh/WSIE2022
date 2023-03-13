@@ -1,0 +1,83 @@
+{
+	"id": "6843765",
+	"name": "속이 편한 야채죽 맛있게 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/65db4d5907a4f6c220f515952f01eadf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843765",
+	"ingredient_ids": [
+		9,
+		660,
+		90
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "양파(소)",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장(생략가능)",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "야채가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요!",
+		"2. 밥은 퍼지면 생각보다 양이 많이 늘어나기 때문에 고려하셔서 준비하세요 ^^",
+		"3. 야채들은 핸드믹서를 이용해 갈아주세요.",
+		"4. 팬에 참기름 3~4방울을 넣고 약중불에 차분히 볶기 시작합니다.",
+		"5. 야채볶는 동안 간단하게 육수를 냅니다. 밥의 세 배 정도의 물을 냄비에 담고 다시마 3~4조각을 넣습니다.",
+		"6. 야채가루도 1/2스푼 넣어주세요. (생략가능)",
+		"7. 끓여주세요. 한 번 끓어오르면 다시마 빼고 불 끈 뒤, 잠시 기다립니다.",
+		"8. 잘 볶은 야채들도 불 끄고 한소끔 식힙니다.",
+		"9. 본격적으로 죽을 만들 차례입니다. 냄비에 참기름 1t를 넣습니다.",
+		"10. 밥을 냄비 바닥에 고루 펴줍니다. 불은 약중불 입니다.",
+		"11. 좀 기다리면 틱톡 소리가 나면서 밥이 눌기 시작합니다. 타게 두지는 않되, 적당히 눌도록 방치합니다.",
+		"12. 바닥이 살짝 눌면 육수를 부어주세요.",
+		"13. 밥의 2.5배 정도를 붓습니다.",
+		"14. 육수넣고 뚜껑을 덮은뒤 끓이면 밥알이 점점 퍼지면서 육수가 줄어듭니다. 이 때부터 밑이 눌지 않도록 잘 저어주세요.",
+		"15. 밥알이 뭉그러지면 볶아둔 야채를 넣고 섞어서 마무리하시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/473f0807e0d016ad3ef4cb24eaf86a081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/dddd23b8718064869b2246794ba2717b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/d014964674784a50808fbdfe0a9466f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/8ae79cb292ad559bb79af449764355831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/c9017fa37dcdbb9e7b3f1da67cde9d531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/282dae8d1918147665e48b8ab86655e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/795d8e1f5d4980ee6e897a46d4965f051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/87966596c8a259b8958ce13267e3fa1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/3ef42a3955dc9c88bdbe84bdd6ebae4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/17586a2b5606fc74cce161eec27edf2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/1b99e7c6519b187295e0c12afdd424bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/723846b28b89787191e2b7a64b00d1e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/148aa1ddfe5f97e43936899644f2d4631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/2749f0750d8655e31399f28d771453911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/28/186e621aecedac14d94f70c138520d401.jpg"
+	]
+}

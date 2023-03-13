@@ -1,0 +1,71 @@
+{
+	"id": "4670943",
+	"name": "시금치 된장국 맛있게 끓이는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/bc36c663e6c8725260dea7db20f0d549.jpg",
+	"url": "https://www.10000recipe.com/recipe/4670943",
+	"ingredient_ids": [
+		2,
+		320,
+		19,
+		995,
+		27,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다시마약간",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "6",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "된장1+1/2스푼",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 무를 네모 납작하게 썰어 준비합니다.",
+		"2. 물 6컵을 넣고 썰어놓은 무와 함께 멸치국물을 중불에서 우려냅니다.",
+		"3. 멸치국물이 우러나는 동안 시금치를 다듬어 씻어놓습니다.",
+		"4. 멸치국물이 우러나면 무는 놔두고 멸치만 건져내세요. 그리고, 씻어놓은 시금치를 넣어줍니다.",
+		"5. 된장을 채에 걸러 국물에 풀어줍니다. 여기에 마늘 반스푼을 넣고 끓여요. 시금치 된장국이 끓어오르기 시작하면 대파를 어슷썰기해서 넣어주세요. 시금치 된장국을 끓이는 중간 중간 올라오는 거품은 수저로 걷어 버립니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/ff0e81a78054ba9f35cb4a609a03dc7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/4ad2a67f192e612ccf392bfe54b9af291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/fcdbad27210140e57dbcba37f3681b981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/209941b873207641ad4232bf24ada2d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/604cb7df433b9deff72edfa6b0ef7d3c1.jpg"
+	]
+}

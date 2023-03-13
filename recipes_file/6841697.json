@@ -1,0 +1,68 @@
+{
+	"id": "6841697",
+	"name": "김치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/16/6b4938b5c13c6360db7b92408c7069bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6841697",
+	"ingredient_ids": [
+		848,
+		233,
+		224,
+		349,
+		390
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "찌개용",
+			"ingre_count": "",
+			"ingre_unit": "돼지고기"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 먼저 김치는 쫑쫑 먹기좋게 썰어 준비해주세요.",
+		"2. 냄비에 쌀뜬물을 붓고 돼지고기를 넣어 푹~ 끓여주세요.",
+		"3. 물이 끓으면 된장 반스푼 넣어주기. (된장을 넣어야 깊은맛이 난다고 하더라구요.) ",
+		"4. 고기를 10~15분정도 팔팔 끓여준 후 김치도 넣어주세요. 김치랑 고기의 비율이 3:1 이 되어야 가장 맛있는 비율이라고 하는데요. 사실 비율맞추기 어렵더라구요;; 그냥 내맘대로 투척~",
+		"5. 다진마늘 반스푼과 고춧가루 1스푼 넣어주시구요.",
+		"6. 국간장 반스푼도 넣어주시고",
+		"7. 간은 새우젓으로! 새우젓이 은근 짜기때문에 처음부터 많이 넣지 마시고 간보시면서 취향껏 조금씩 넣어주시는게 좋을것 같아요.",
+		"8. 그리고 대파와 청양고추 넣어주시구 팔팔 끓여주세요^^",
+		"9. 두부도 반모 있길래 막바지에 넣어주었어요. 백종원표 김치찌개는 오래 끓이지않아도 맛있더라구요. 쌀뜬물로 만들어 그런지 나름 걸쭉해지면서 감칠맛이 굿굿!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/19/d4063704abbd8f11f16ac3be761aa46a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/19/da1b44345605fd22325691c9df5123c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/19/b49bf325986fea4c631cad851d66a8de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/19/ce61dc7d23dfedd740698cdef6f9623d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/19/889137ef8558ac8c0fb5cc66e8ee394c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/19/9ecf1eb58d68afba32b36d5e4e116f321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/19/910d83d8ebeb49e10202f74edea5a6f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/19/f8a60d7f44d6d4d80f39f60ee08028791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/19/03d9e768d5d75809cc79449a08456ae31.jpg"
+	]
+}

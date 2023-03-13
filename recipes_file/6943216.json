@@ -1,0 +1,51 @@
+{
+	"id": "6943216",
+	"name": "휴게소에서 파는 감자버터구이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/2664e2fd813b74c01c19058ea3356dae1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943216",
+	"ingredient_ids": [
+		5,
+		198,
+		226,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 감자를 삶아서 준비해주세요.감자를 삶을 때 소금을 조금 넣어 끓여주시면 간이 되고 좋아요.",
+		"2. 감자를 한 입 크기로 잘라주세요. 알감자를 사용한다면 자를 필요 없이 그냥 사용해주세요.",
+		"3. 팬에 버터를 녹이고, 감자를 구워주세요.",
+		"4. 어느정도 감자가 익었을 때 설탕과 소금으로 간을 해주세요.설탕과 소금은 5:1 비율로 해주시면 맛나요.",
+		"5. 감자가 노릇노릇 구워지도록 좀 더 구워주세요.감자가 타지 않게 잘 굴리면서 구워야해요.",
+		"6. 완성된 감자버터구이입니다 ^0^ 이제 휴게소에서만 사먹지 말고 집에서도 만들어 먹어보세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/2189d9d8f7f3ea37b163908fac7a8b171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/92921773f1d70921c7d7733e50050e251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/fbda15c8279e6bdd8d1369d0f805fc9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/88ae8bae0604f91b0a46ac82d648dad21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/9aa0bfcd95712f4f36af97b0b6e952741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/01/378e05c1760b9f6585b67b1e254d55801.jpg"
+	]
+}

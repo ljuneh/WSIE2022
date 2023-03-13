@@ -1,0 +1,72 @@
+{
+	"id": "6941432",
+	"name": "이대로 따라만하면 '아는 그 맛' 집밥의 정석! 완전기본! - 된장찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/378b13a10657e5759f70b9f90d6f39d51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941432",
+	"ingredient_ids": [
+		848,
+		473,
+		323,
+		5,
+		325,
+		3,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2~1모",
+			"ingre_unit": "~모"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치/다시마육수",
+			"ingre_count": "5",
+			"ingre_unit": "C"
+		}
+	],
+	"recipe": [
+		"1. 호박/양파/감자/두부는 한입크기로 잘라줍니다.",
+		"2. 멸치/다시마 육수에 된장과 고추장을 3:1의 비율로 풀어줍니다.  고추장을 넣으면 더 감칠맛 나는 맛있는 찌개를 끓일수 있어요멸치 다시마 육수는 미리 생수/멸치/다시마/건새우/표고버섯등을 넣고 끓여서 준비해주세요",
+		"3. 된장을 푼 육수를 끓이기 시작하면서 준비해둔 호박/양파/감자를 넣고 끓여주세요. 마늘도 이때 1T넣어 줍니다.",
+		"4. 팔팔끓기 시작하면 두부를 넣어주세요",
+		"5. 마지막으로 파를 넣고 한소끔끓이면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/1a282440d5999d8b16e19a4a82f49dab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/9518e06c27579c78ab36dbb2dd68afd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/8a32ac947ee6c8b273084e4373096e2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/c7f1bb9c81c5e1a948e23da83635fd0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/a6290796b2acec211f3e152be9bc962d1.jpg"
+	]
+}

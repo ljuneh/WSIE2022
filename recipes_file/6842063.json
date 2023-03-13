@@ -1,0 +1,31 @@
+{
+	"id": "6842063",
+	"name": "김 간단하게 굽는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/27/ab7f105518b5ad234a0cd3ea5051bc501.jpg",
+	"url": "https://www.10000recipe.com/recipe/6842063",
+	"ingredient_ids": [
+		95
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "김",
+			"ingre_count": "20",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "은박지도시락",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 김을 먹기 좋은 크기로 잘라 준다.",
+		"2. 뚜껑을 닫고 가스렌즈 위에 가장 약한 불로 30-50초 정도 가만히 둡니다.",
+		"3. 기름바르고 소금 친 김을 구워도 된답니다. 여러장 해 두는 것 보다 먹을 만큼만 한다면 아주 바삭바삭하게 먹을 수 있답니다. 아주 간단하죠??"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/27/f54d6b12a0651c5e95e5fc4633fbb5881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/27/79b06a8400b80f5997a1499525abc8061.jpg"
+	]
+}

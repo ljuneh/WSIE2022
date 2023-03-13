@@ -1,0 +1,144 @@
+{
+	"id": "6944190",
+	"name": "부추가 듬뿍! 김밥만드는 법(+압력솥으로 밥하는 법)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/9f97e0f4f7531e31a819ca0998a5dc541.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944190",
+	"ingredient_ids": [
+		9,
+		496,
+		289,
+		30,
+		660,
+		350,
+		497,
+		231
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "5",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우엉조림",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 평소에는 잡곡밥을 먹지만, 김밥엔 흰 쌀밥이 좋더라고요^^ 쌀 5인분을 깨끗이 씻어서",
+		"2. 쌀과 물을 1:1로 잡고 압력솥의 추가 돌때까지 센 불로 끓입니다. 김밥할때는 질지 않은게 좋으니까요. 1:1로 잡고 평소에는 쌀+잡곡1 물1.2정도로 잡아요.",
+		"3. 추가 돌면 불을 약불로 낮추고 5분 더 끓이다가 불을 끕니다. 10분간 뜸을 들여주고 김을 빼고 뚜껑을 열면 됩니다.",
+		"4. 계란 4개에 소금을 약간 넣어줍니다. 여기에 깨끗이 씻은 부추를 쫑쫑 썰어 넣어줄거에요.",
+		"5. 씻어놓은 부추 중에서 1/3만 집어서 칼로 쫑쫑쫑 썰어요",
+		"6. 계란물을 풀어서 쫑쫑 썬 부추를 넣어줍니다.",
+		"7. 프라이팬에 기름을 두르고 맛있게 부쳐주어요. 식으면 이렇게 칼로 썰어둡니다.",
+		"8. 이번엔 당근이에요. 당근을 편으로 썰고, 채를 쳐줍니다.",
+		"9. 마찬가지로 팬에 소금을 넣고 달달 볶아주어요. ",
+		"10. 그리고 나머지 부추는 끓는 물에 살짝 데쳐서 준비해둡니다. 따로 간은 하지 않았어요. ",
+		"11. 소시지는 첨가물 제거를 위해서 뜨거운 물에 넣어두었다가",
+		"12. 칼로 4등분을 내준 후 기름에 볶았어요.",
+		"13. 맛살은 포장지를 벗긴 후 반 잘라주고요",
+		"14. 단무지는 포장을 벗기고 물을 버려요.",
+		"15. 아이들 재료는 스스로 싸먹을 수 있게 작게 잘라서 준비해뒀어요.",
+		"16. 밥에 분량의 양념을 넣고 슬슬 비벼서 준비해둡니다.",
+		"17. 세팅 끝!! 이제 싸기만 하면 되겠죠??",
+		"18. 밥을 한주먹 뭉쳐서~!",
+		"19. 김 위에 툭! 무심하게 얹어주면 찰싹 붙어요^^",
+		"20. 그다음 손으로 살살 폅니다",
+		"21. 길쭉이 단무지와 맛살로 자리를 잡고요",
+		"22. 그 사이에 삐죽빼죽 우엉조림과",
+		"23. 당근볶음을 얹어주면 삐져나오지 않아서 싸기에 편해요.",
+		"24. 나머지 재료들을 차곡 차곡 위에 쌓아주고요~",
+		"25. 살짝 당기면서 꾹 꾹 누르며 돌돌 말아줍니다.",
+		"26. 돌도로돌돌돌~~~ 전 이때가 젤 재미있어요 ^^",
+		"27. 자아~ 한 줄 완성^^ 그 담부터는 마구마구 김밥공장을 돌렸어요 ㅎㅎㅎ",
+		"28. 칼에 참기름을 발라서 쓱쓱 썰어내면! 완성^^*"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/fde816310d12047b007f3a2f513836cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/46d79ca58eb29be0fd1f635d56bbefab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/efb189e57f878bf790daef7dec3b8c941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/a786e07b1403f85af840f932d2fc7db51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/6a992ea61d3d21f05989ebb77dbf24d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/ca49c902c6ec0ee0fc040f5b88120d501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/aa1a733f55d46d75bb8d8280ad76b16d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/a03d2cfe85cddfbd46f3b27723338daa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/b1b4ce71628643b7062e99e2e87ac4b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/84c1094982dd564d0f671e7e6624fd431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/55c13539022673f06b2b2f490aca9a8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/f03eca2dc1c46f6cae9fad81fb69efaa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/836b8c4f850a4550f1996995fa70ba021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/e91a12d71c7fe95a98b604d2aaba987b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/08ee92e66771229b1651ace4d7b5e1f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/ba7ae626eafdede0209033aa422c4f641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/8cfb49791a356c38d3bb1fa00a8d5f221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/65066505a1a936db5d0cc97a00b5ef5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/4cbba103e46d7e4acc617d60d20ac9e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/09d7fcfc9a490f9437359e3772fa65af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/e6410206654da6e559fbc18d2ab801631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/a5a560bef90866c53d71f5294ac68f631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/dd66dc7dc3fe487e3fa4dffd95a1f0681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/745a001be27dd9c8f0b698ff047c0a861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/7983a4a83775af3f6765e7c1050cd9381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/ebd767eaab6741fd6f82dd240b3d05631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/5018bb1bfea0f8acdeaa730b92998c511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/a748d79fe45f8e6777c5d67e468a0b261.jpg"
+	]
+}

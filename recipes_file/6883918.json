@@ -1,0 +1,46 @@
+{
+	"id": "6883918",
+	"name": "명절 음식 후 남은 만두피를 활용해! 메세지를 확인하는 재미가 쏠쏠한♥포춘쿠키",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/13/5542d378500f52b3a29cad286d64f8ea1.png",
+	"url": "https://www.10000recipe.com/recipe/6883918",
+	"ingredient_ids": [
+		286,
+		995,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "만두피",
+			"ingre_count": "12",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "포춘쿠키메세지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 만두피에 메시지를 넣고 만두피 가장자리에 물을 묻힌다.만두피 12장,물 , 포춘쿠키메세지",
+		"2. 반을 접어 컵 모서리에 눌러 모양을 낸다.컵",
+		"3. 식용유 약간을 바른다.식용유 약간",
+		"4. 180도 예열된 오븐에 10~15분 구워 완성한다.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/13/58068df2d537f7ce042ed33871f086ea1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/13/16c745103538aa3987f77dcc8ef9e4671.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/13/370eccec109244fe4948684b579182521.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/13/919707cd99681205f9adf639e92f15af1.png"
+	]
+}

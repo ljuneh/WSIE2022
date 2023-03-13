@@ -1,0 +1,96 @@
+{
+	"id": "6874370",
+	"name": "간단한 일본 한그릇요리 '사케동' 만들기(연어덮밥)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/a40327d02f9d330eda92343ce26346791.jpg",
+	"url": "https://www.10000recipe.com/recipe/6874370",
+	"ingredient_ids": [
+		3,
+		995,
+		231,
+		379,
+		575,
+		233
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "연어살1팩(168g)",
+			"ingre_count": "1팩(168g)",
+			"ingre_unit": "팩(g)"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/5",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추냉이",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 양파는 얇게 썰어주세요.",
+		"2. 매운맛 제거를 위해 물에 담궈주세요.",
+		"3. 연어살은 가운데 껍질을 칼을 이용해서 제거해주세요.",
+		"4. 먹기좋게 잘라주세요. 저는 식감을 위해 두툼하게 잘랐어요. (자르는 방식은 기호에 따라 선택-얇게 여러조각or굵게여러조각) 간혹, 가시가 있을 수 있으니 꼭 제거하세요.",
+		"5. 물 5숟가락을 넣어주세요.",
+		"6. 식초 1숟가락을 넣어주세요.",
+		"7. 간장 5숟가락을 넣어주세요.",
+		"8. 올리고당 1숟가락을 넣어주세요.",
+		"9. 다진마늘 1/5숟가락을 넣어주세요.",
+		"10. 약불에 2분간 졸여주세요.",
+		"11. 밥은 동산처럼 모양을 내서 퍼주고, 양념 1숟가락을 뿌려주세요.",
+		"12. 나머지 양념은 따로 담아 기호에 따라 조절하게해주세요.",
+		"13. 준비된 연어는 밥위에 올려주세요.",
+		"14. 물기를 뺀 양파도 올려주세요.",
+		"15. 고추냉이도 조금 올려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/1fffe4c54b5caeabc04f6a97cd8cd40b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/dc0cfc0df936ee39eb2eca4e319bea2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/25e2ad9756130b56fd55a48c32b3ce8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/2b9684126ed082bdd6513cd58e5dafe11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/db32da5527d3f51bb7e8aa046d703d981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/1b7619eca334ed75bd10838621aa84081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/3f8b65405c58f5ef752b6fdc93df8b351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/4f1debfc8535dd6c377239e99f53bb911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/218d9539e03089473bac41bc47af22ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/43556ac88a8d7862cb77be4dbb5db0131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/2282f4f065d4c5079aa95a15dc4976191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/3a4e2ddf3be1ff34a3bd59a0b2d8c9d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/bac189d86241ef3e445dc13980b2a8091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/10905fcf1ff57e8a0bee08e23527450f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/09/4ca2b6dd3b93c6cf8c20bbaadbeb17d01.jpg"
+	]
+}

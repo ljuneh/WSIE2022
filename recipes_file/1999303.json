@@ -1,0 +1,87 @@
+{
+	"id": "1999303",
+	"name": "오이지, 오이지 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/067c30ca1140e686bf1b7bbba47caad5.jpg",
+	"url": "https://www.10000recipe.com/recipe/1999303",
+	"ingredient_ids": [
+		995,
+		545,
+		1010,
+		226,
+		224,
+		233,
+		660,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "조선오이",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "8",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "오이지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 오이는 요렇게 생긴 조선오이로 구입합니다. 오이는 깨끗히 씻어주고 물 8컵에 천일염 1컵을 넣고 보글보글 소금이 녹을때까지 끓여줍니다. 반드시 국내산 천일염으로 하셔야 맛있구요. 오이 6~8 개정도 하시면 소금물양이 맞을거예요. 오이가 잠길정도로 소금물 만드시면됩니다.",
+		"2. 오이에 뜨거운 소금물을 확 부어 주세요. 그리고 오이가 뜨지않게 무거운돌같은걸로 눌러줍니다. 돌이 없으면 냉면그릇에 물담아서 눌러줘도 됩니다. 그리고 소금물이 식으면 밀폐용기에 옮겨 담아줬답니다. 유리병에 오이넣고 뜨거운 소금물 부어주고 무거운걸로 눌러주고 식으면 뚜껑닫으면됩니다.(꼭 식으면 뚜껑닫아주세요.) 밀폐용기에 옮겨담아 으나는 울집에서 아주 흔하게 구할수있는 소주병으로 눌러주었답니다. 반드시 소금물에 오이가 푹 잠겨야합니다. 뚜껑을 닫고 3일정도 놔둡니다.",
+		"3. 3일뒤 이렇게 되었네요. 하얀거 둥둥뜨는건 상한게 아니고 원래 그런거니까 염려마세요. 소금물만 따라내어 팔팔 다시한번 끓여 이번에는 충분히 식혀 부어 줍니다. 그리고 무거운걸로 눌러 오이가 푹 잠기도록한뒤 뚜껑닫고 다시 3~4일정도 두면 먹을수있답니다. 소금물을 다시 끓여 부은후 으나는 냉장고에 넣어두었답니다. 요새 너무 더워서 혹시나 상할까봐 냉장고에 넣고 4일두었답니다.",
+		"4. 담은지 총 7일째 된 오이지 노랗게 너무 잘익었어요.",
+		"5. 썰어준 오이지는 찬물에 담궈 15~20분정도 둬서 짠기를 어느정도 빼줍니다. 하나 씹어먹어보아 짜지않고 약간 짭쪼름하면 건져주시면 됩니다. 그리고 베보자기등에 싸서 물기를 꽉 짜줍니다.",
+		"6. 고춧가루, 설탕, 다진파, 다진마늘, 참기름, 깨소금을 넣고 조물조물 해줍니다.",
+		"7. 맛깔나게 무쳐주면 오이지무침 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/0467aab6f33ac012091731d421b7c8e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/12e39682b65c5aead3efda4787cda3171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/5cdb746b378c21cc70b6b2765960107f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/19b6cb3af66747acea8bd17303bb0f1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/671895198b472029072d0b5510b65a071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/73a9b97c4e2a232c659871b5f8f34b311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/2fa75837526f20de00a12e64260ca70b1.jpg"
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"id": "4496346",
+	"name": "땅콩조림 맛있게 만드는 법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/8253009e73309aebe72efd7de92eb65e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/4496346",
+	"ingredient_ids": [
+		184,
+		504,
+		379,
+		995,
+		343,
+		226,
+		341,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "땅콩",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 끓는물에 땅콩을 잠시 데쳐서 찬물에 헹궈주세요.",
+		"2. 팬에 데친땅콩과 소스재료를 넣고 센불에 끓입니다.",
+		"3. 센불에서 약간 끓이다가 중불로 줄여서 좀 졸이면서 뒤적여주세요. 바글바글 끓을때 거품을 끼얹어주면 윤기가 난답니다. 얹어놓고 자리 비우시면 타버리니 불조절하시면서 졸여주세요.",
+		"4. 마지막에 통깨만 뿌려주시면 되요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/4037efd6028168debb4f4fce36bbcf5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/95e8c9540c568e2062af824fce86a2ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/54c57030e2e65d9e7130ad3302eda9b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/a6591bf174fcba31367d3c4454f4c7c61.jpg"
+	]
+}

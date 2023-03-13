@@ -1,0 +1,44 @@
+{
+	"id": "6852103",
+	"name": "빙수기 없이 만드는 팥빙수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/c9771a06f0349a57f2fb724a679a29f31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852103",
+	"ingredient_ids": [
+		364
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "빙수팥",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "미숫가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "지퍼백혹은비닐팩",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 지퍼백이나 일회용 비닐팩에 우유를 넣어 얼려준다.",
+		"2. 잘얼린 우유는 먹기좋게 부셔준 뒤 그릇에 담아줍니다.",
+		"3. 집에 왕얼음틀이 있다면 동그랗게 우유얼음을 얼려 함께 곁들여주면 보기에 더 좋은 팥빙수를 만들 수 있습니다.",
+		"4. 그릇에 우유얼음, 미숫가루, 빙수팥을 개인의 기호에 맞추어 적당량 올려주면 간단 빙수 만들기 완성!!! 취향에 따라 견과류, 시럽, 떡 등을 함께 넣어도 좋습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/8dff356f9782ed3b24b42bfd633a06e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/e4bae3741285fc5a2e9b75278612b0bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/f7d72f073b0275daf9716556263d31a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/62a584e97a4643d6fd9b3bb12ecce86a1.jpg"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"id": "6388494",
+	"name": "따뜻한 밀크티 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/4ddf2d7f97a061fed5f02fbbe6da61301.jpg",
+	"url": "https://www.10000recipe.com/recipe/6388494",
+	"ingredient_ids": [
+		534,
+		227
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "법랑",
+			"ingre_count": "",
+			"ingre_unit": "밀크팬"
+		},
+		{
+			"ingre_name": "홍차",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "200~300ml",
+			"ingre_unit": "~ml"
+		},
+		{
+			"ingre_name": "시나몬스틱",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 우유 200 ml~ 300 ml 정도를 밀크팬에 담고 홍차 티백도 넣어줍니다.",
+		"2. 한소금 끓으면 꿀 1 티스푼을 넣어 줘요. 메이플시럽이 있으면 넣어줘도 되고, 설탕도 가능해요.",
+		"3. 시나몬 스틱(계피향 솔솔)을 저어가며 뭉근하게 끓여주세요.",
+		"4. 티백과 시나몬 스틱을 빼 주세요.",
+		"5. 넘치치 않도록 끓여주세요.",
+		"6. 예쁜 홍차잔에 담아도 좋겠고, 듬직한 유리잔도 좋아요. 밀크티 양을 넉넉히 만들었을때는 보온병에 담아두고 조금씩 따라마셔도 좋답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/75057ff59e1a1d31ad9bee75f9ab92ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/f3a42e735e221ad3d390ebdd833705e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/55a82cfb71f112ad13e6551b21dad9221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/d1512e6cd728001e108c71507ab8a5591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/1d7639293bd7bdbc878c61ca54e3a7131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/508556fd3a80a6577cfa5dcc779e5a521.jpg"
+	]
+}

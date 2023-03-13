@@ -1,0 +1,61 @@
+{
+	"id": "6922432",
+	"name": "비스퀵 l 할아버지 버거집에서만 팔았던 KFC비스켓 ★",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/11/18/291439f9ff5a579ac9e04e5ade09af981.jpg",
+	"url": "https://www.10000recipe.com/recipe/6922432",
+	"ingredient_ids": [
+		373,
+		226,
+		497,
+		198
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "6",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 박력분, 베이킹파우더를 체에 내린다.",
+		"2. 소금, 설탕을 넣고 주걱으로 섞는다.",
+		"3. 버터를 넣고 잘라 주듯이 섞어 보슬보슬하게 만든다.버터는 차거운 상태로 준비해주세요",
+		"4. 우유를 넣고 한 덩어리가 되도록 섞는다.",
+		"5. 비닐팩에 담아 냉장고에서 30분간 휴지시킨다.",
+		"6. 반죽을 3~4개로 일정하게 분할하여 190도로 예열된 오븐에 25분간 구워 완성한다.오븐오븐에 사양에 따라 시간, 온도는 조절해주세요 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/18/85c3c0540d314fce322a513c9c670a431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/18/ce7e21b3c8487f0f962a1d863678933b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/18/29cd94835217ce46bc936028d591f6181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/18/002d67256f80bbed63a9399579ff97f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/18/c37265b18e80d32bed37c45e684530d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/18/fd7e3bb966d81c108f4845455c5342fe1.jpg"
+	]
+}

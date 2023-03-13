@@ -1,0 +1,48 @@
+{
+	"id": "6939985",
+	"name": "남은 잡채로 잡채밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/4993adaaf0c3378da0413da1126d607d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939985",
+	"ingredient_ids": [
+		1025,
+		27,
+		477
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "잡채",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "450",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 냉동실에 보관했던 잡채는 해동 후 먹기 좋게 가위로 잘게 잘라주세요.",
+		"2. 팬에 기름을 두르고 대파를 넣은 후 파기름을 내주세요.",
+		"3. 잡채를 넣고 볶아주세요.",
+		"4. 밥을 넣고 볶아주세요.",
+		"5. 굴소스를 넣고 볶아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/1b6db2942f6d907baaadf5eaa3549d181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/2baa62cee2b1c3795ee62ad342c840df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/bbf9b20e8f9482d1ce4f1d36841bb38b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/d5fefc3242e313ae22f9f5fb0b4569fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/6d56ec0bd6f9b3d3c91aaf43b7d7e97a1.jpg"
+	]
+}

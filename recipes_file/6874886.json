@@ -1,0 +1,52 @@
+{
+	"id": "6874886",
+	"name": "시원한 무우국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/9d6e2c6e638fa26b622ff586d037e6641.jpg",
+	"url": "https://www.10000recipe.com/recipe/6874886",
+	"ingredient_ids": [
+		27,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "무우",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "표고가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "집간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 무우는 도톰하게 채썰어 준비",
+		"2. 냄비에 참기름 두르고 채썬 무우를 달달 덖다가",
+		"3. 표고가루 1스픈 넣어 같이 볶아줍니다",
+		"4. 물 넣고 끓이다 소금으로 간을하고 다진마늘 파넣고 한소큼만 끓여주면 됩니다",
+		"5. 맛깔스럽고 구수한 무우국 무우에서 나오는 무우즙이 환상적입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/369f8fe82a46d04a546b61542e0045d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/82e902096da2ab8740a0fbe2869f2f7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/37ef9378054424b29374bffd3842dde41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/101c0463df51912b4f9a94e5cf028e3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/20/49a54411a7f9d2367b9e6712959cd2ab1.jpg"
+	]
+}

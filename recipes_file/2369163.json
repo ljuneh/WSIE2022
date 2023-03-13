@@ -1,0 +1,52 @@
+{
+	"id": "2369163",
+	"name": "단호박죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/e817b4e292b9b2840474ff18e39c93e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/2369163",
+	"ingredient_ids": [
+		328,
+		109,
+		391
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "단호박",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "강낭콩",
+			"ingre_count": "1",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "쌀가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 씨를 파낸 단호박 겉면을 감자 깎는 칼로 대패질을 해주세요.",
+		"2. 대패질을 한 호박을 먹기좋게 썰고 냄비에 물을 조금 넣고 푹푹 삶아주시면 됩니다.",
+		"3. 강낭콩은 너무 푹 삶아주시면 호박죽에 눌러 붙고 하니까 1차로 한번만 삶아주시는 것이 좋습니다.",
+		"4. 단호박이 다 익으면 주걱으로 살짝 눌러서 으깨주시면 됩니다.",
+		"5. 으깬 오박에는 우유를 넣어 고소함을 더해주면 됩니다.",
+		"6. 으깬 호박에 우유를 넣어 고소함을 더해준 후에 곱게 간 쌀가루를 넣어주시는데 한국자씩 넣어서 농도를 보면서 맞추시면 됩니다.",
+		"7. 쌀가루를 넣고 한 5분동안 섞다가 삶은 강남콩을 넣고 저어주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/12a320605021aab22e7081998eeab8741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/7134fb450216ce04716543efe8b43f4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/021f9febe9d08fed9a7f70a1b65f786c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/60893941230e82b364fdd8a390bfbaac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/0ebdd94eb994875605d54a64306786e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/9802c5f6c5797dbcb580f020a04df3e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/8073d98e92a55f61bff6b7c731fab02b1.jpg"
+	]
+}

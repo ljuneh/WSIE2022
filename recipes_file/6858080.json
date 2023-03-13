@@ -1,0 +1,80 @@
+{
+	"id": "6858080",
+	"name": "백종원 떡볶이 레시피 / 맛있는 떡볶이 추천!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/f43063e718c49d85ddce4880e4a41fcd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6858080",
+	"ingredient_ids": [
+		995,
+		27,
+		226,
+		379,
+		473,
+		224
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 떡은 따로 불려두거나 그러지 않아도 괜찮아요. 떡 400g을 냄비에 넣어주고",
+		"2. 물은 종이컵으로 2컵 넣어주세요.",
+		"3. 자작하게 잠길정도의 양이에요.",
+		"4. 설탕 4큰술 넣고, 백종원님은 설탕 4큰술이라했는데  단거 별로안좋아하시는분은 2-3큰술 넣으셔도 됩니다.",
+		"5. 간장 2큰술 넣고",
+		"6. 고춧가루 1큰술 넣고",
+		"7. 고추장 1큰술 듬뿍넣어서",
+		"8. 잘 풀어주시고요.",
+		"9. 떡볶이 국물이 걸죽해지도록 보글보글 끓여주세요.",
+		"10. 준비해둔 파를 1컵 넣어주세요.",
+		"11. 물이 많이 졸았죠?!",
+		"12. 물이 어느정도 자작해지면 한번 휘리릭 섞어주면 백종원 떡볶이 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/c29e760f2c0bfe108b66e38f401f24ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/dbc6383988e851fac779c6151de782511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/1cd6a96e7477b6bc484541f3b16375501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/dd657d57c1d75ceb06ae6b69e3aa681f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/b15c75ddc02b5435ef6953d22261c9ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/b1f5a06dd98d4cca9fda441d622374eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/668e1f1e61d03bd04d1fabb55df8be501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/2cc7261b869c9645e758a0e8a3fbbf931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/00b89d2ef4350be6d4d9b272e1b8865b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/8a37739c7e84bd3e484e95405bf59a771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/db274705e3830c6945660affdad3fa631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/07/d2c92fda4fa5bb974ad2b293ee1e6cee1.jpg"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"id": "1713904",
+	"name": "깔끔하게 먹기좋은 오리훈제샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/6bcb8e77494059757d3f1962fbdb4dfb.jpg",
+	"url": "https://www.10000recipe.com/recipe/1713904",
+	"ingredient_ids": [
+		47,
+		30,
+		543,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오리훈제하프팩",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "오리엔탈드레싱",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 세척한 부추는 적당히 먹기 좋은 크기로 썰어서 준비하세요.",
+		"2. 콩나물은 데쳐서 차가운 물로 세척해준 후 물기를 빼주셔서 준비해두시고요.",
+		"3. 예열된 팬에 오리훈제를 볶아 주세요. 오리자체에서 기름 나오니까, 따로 기름을 두르지 않으셔도 됩니다.",
+		"4. 소스 준비. 전 시판하는 오리엔탈 드레싱을 사용했어요. 하지만 어른들이 드시기에 너무 새콤한 것 같아서 오리엔탈드레싱 3Ts에 올리고당 1/2Ts 를 넣어서 섞어 사용했어요.",
+		"5. 콩나물과 부추에 오리엔탈드레싱을 넣고 오물조물 섞어 주세요~ 드레싱을 섞지 않고 따로 찍어 드셔도 상관없어요.",
+		"6. 접시에 야채들을 깔아 주시고요.",
+		"7. 볶아서 한김 식힌 오리훈제를 올려주세요. 그리고 통깨 찰찰~~ 뿌려주시고요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/3e583399d4e97b9a2eefdff1778a1e221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/8d16d0efe7397531d31983fc1bf519161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/b8f1561cdbd13da48e0b9834668efc7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/1001371e6bdc884a0dc5df64a9592ba41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/7b089edfa7ce38dc1a5006f6de9d82fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/61264e2c661931717b9b64b02d197fdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/006b5bf4dcd5e2b56cdc2b09473097041.jpg"
+	]
+}

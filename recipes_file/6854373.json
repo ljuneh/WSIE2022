@@ -1,0 +1,74 @@
+{
+	"id": "6854373",
+	"name": "향긋한 미나리전 / 미나리부침개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/9ae8b3e8e34dd353da02be37facaa4871.jpg",
+	"url": "https://www.10000recipe.com/recipe/6854373",
+	"ingredient_ids": [
+		20,
+		7,
+		3,
+		9,
+		295,
+		995,
+		574
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1-2줌",
+			"ingre_unit": "-줌"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1-2개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "부침가루or밀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 분량의 재료를 준비해 주세요.  모든 재료는 채 썰어서 준비해 주세요.",
+		"2. 볼에 물과 부침가루를 1:1.2로 넣어 잘 섞어서 풀고 올리브유를 약 1T 넣어 주세요.",
+		"3. 반죽에 준비해 놓은 재료를 모두 넣고 살살 버무려주세요.",
+		"4. 팬에 기름을 넉넉히 두르고 중불에서 반죽을 한 국자 올려 얇게 펴 주세요.",
+		"5. 밑면이 잘 익으면 뒤집어 주세요.",
+		"6. 앞, 뒤로 잘 익으면 센 불로 올려 노릇노릇하게 구워주시면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/1b41cde9cd60b54f853101f9fd16759c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/325d39e682edceb8f885987b2cfd4e581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/82f9e3a6e2481064836d4a0c411fe3921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/eb73fa26943ab6d4524393edf3d1909f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/af5d3964fee25a1963f7c1733a7367601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/10/47493997a6a9465710827de4d316ea901.jpg"
+	]
+}

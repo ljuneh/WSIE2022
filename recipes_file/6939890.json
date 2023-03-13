@@ -1,0 +1,53 @@
+{
+	"id": "6939890",
+	"name": "치즈 김치볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/05d325ca831cbdd733f57f980ff635dd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939890",
+	"ingredient_ids": [
+		953,
+		203,
+		477
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "인분량"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 잘 익은 김치 송송 썰어 팬에 담고 김치국물 3큰술 넣어준다",
+		"2. 후추톡톡~ 기름을 적당히 두르고 슥슥~ 볶아주세요",
+		"3. 밥 1인분량 넣고 굴소스 취향껏 넣은 후",
+		"4. 휘리릭~ 슥슥~ 볶아줍니다",
+		"5. 볶음밥 그릇에 담고 체다치즈 얹어 렌지에 잠시 윙~ 돌려주면 완성이지요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/bc58e3e254836af31535406cfa1c37da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/460d3548c0d2c32f3fe9ab32806ceed21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/51e90ecd32b3d621f4bb47cac6a86cee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/4a11e88cf8206b30c5497ee6d2c789491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/4f04be428ce095f3c457d395f3ef99ac1.jpg"
+	]
+}

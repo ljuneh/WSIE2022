@@ -1,0 +1,124 @@
+{
+	"id": "6944353",
+	"name": "온가족이 즐기는 소고기된장찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/8d25c301f157e7e587d59dce85d9d10c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944353",
+	"ingredient_ids": [
+		3,
+		5,
+		7,
+		47,
+		56,
+		19,
+		848,
+		292,
+		665,
+		233,
+		226,
+		757
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "다진소고기",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "홍게간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "물종이컵",
+			"ingre_count": "2.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": "기호에맞게"
+		}
+	],
+	"recipe": [
+		"1. 냉동되어있던 다진소고기를 물에 담궈 핏물을 제거합니다.",
+		"2. 재료들을 깍뚝썰기해서 준비한다.",
+		"3. 무도 깍뚝썰기해서 준비한다.",
+		"4. 빗물을 제거한 다진소고기에 맛술, 홍게간장,참치액을 넣어 밑간을 해서 볶아준다.",
+		"5. 소고기가 반정도 익으면 무를 넣어서 같이 볶아준다.",
+		"6. 무가 반정도 익으면 된장을 넣어서 잘 섞어준다.",
+		"7. 준비된 나머지 재료도 같이 넣어서 볶아준다.",
+		"8. 물을 넣어 계속 끓여준다.",
+		"9. 다진마늘,설탕을 넣는다.",
+		"10. 쪽파 혹은 대파를 준비한다.",
+		"11. 쪽파를 넣어서 마무리"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/7277a6053161a716efa8c1485ed72e5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/996275dd5ab8ff4885f5c82f3b1061e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/4533c404efeffa84e585d881ef51b5f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/13119615b91996a0775c788c00462f311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/e439d523529af2f92d06756abaa78f421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/eeeb60f535a410d3c4cc32152a4dce9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/a67ae2be951b9d9a5bc4a245489050421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/3f8ff34db4c07f4cc612a46257dcc0611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/ed6b9c4aee93b0f957bcaef23a22514b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/b0ecd300ee7882f86d131f496fc9eb4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/45ee0cf39e93de59815ced95163ce5711.jpg"
+	]
+}

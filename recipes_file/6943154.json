@@ -1,0 +1,68 @@
+{
+	"id": "6943154",
+	"name": "부드러운 소고기 미역국 < 생일날 >",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/19d95d583b85e070d98bc422eeb1c5461.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943154",
+	"ingredient_ids": [
+		495,
+		660,
+		333,
+		390
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "마른미역",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미향",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "저염다시마간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료 : 마른 미역, 소고기 양념 : 미향 1.5T, 저염 다시마간장 3T, 참기름 2T, 멸치액젓 2T, 새우젓 1T",
+		"2. 마른 미역을 물에 담가 두세요 부드럽게 펴지면 흐르는 물에 3번 씻어서 거름망에 물기를 빼고 준비합니다",
+		"3. 미역을 먹기 좋게 자르고 소고기도 길이로 잘라서 남비에 넣어 주세요",
+		"4. 소고기에 미향 1.5T, 저염간장 2T, 참기름 1T 를 넣고 골고루 섞어주세요 미역에 간장 1T, 참기름 1T를 넣고 섞어주세요 30분 정도 뚜껑을 덮어 두세요",
+		"5. 센불에 수저로 달달 볶아서 고기를 익혀주세요 물 1.5리터 넣고 센불에 끓여 줍니다 불린 미역을 좀더 넣었어요",
+		"6. 물이 끓으면 약불로 줄이고 15분정도 끓여주세요",
+		"7. 멸치액젓 2T, 새우젓 1T 로 간을 합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/505f62dc79ccf69ef85810d7700d08351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/2c4a1cdbb5bad6b78dfeea8b95195c9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/23cc17c6d5e28a388feb2ee6438afd3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/2354fa6c2e8cdbe7f3b36a49e6036c9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/3e22319d5afed09fc00f2a914d1925761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/9015d6fb0d0515e1667c5981c506e9211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/1e2686f624779611c4063deddea70b271.jpg"
+	]
+}

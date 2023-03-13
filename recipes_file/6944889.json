@@ -1,0 +1,92 @@
+{
+	"id": "6944889",
+	"name": "스팸주먹밥 간단점심메뉴",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/c51c20cc2af942e8b455a435b57e17b61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944889",
+	"ingredient_ids": [
+		379,
+		292,
+		995,
+		226,
+		455,
+		660,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "스팸작은거",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		}
+	],
+	"recipe": [
+		"1. 스팸은 4등분 해 주고 (뜨거운 물에 헹궈 만들었어요) ",
+		"2. 소스 재료인 간장(1), 맛술(1), 물(2), 설탕(0.5), 생강가루 약간을 한데 넣어 고루 섞어주고",
+		"3. 달군 팬에 스팸을 앞, 뒤로 굽고",
+		"4. 이어 만들어 놓은 소스를 한데 부어",
+		"5. 바글바글 끓여 양념이 배도록 바싹 스팸을 조려 줍니다. ",
+		"6. 콩밥이라 미안 ㅎㅎ 참기름(1), 소금(0.2)를 한데 넣어 밥을 양념합니다. 스팸을 간장 양념에 조려 놓았기에 밥 양념은 조금만 해주는 게 좋답니다. 그렇다고 하나도 안 하면 맛이 덜 해요.",
+		"7. 김밥용 김 1장은 길게 4등분 해주고 ",
+		"8. 사각 모양 틀에 밥을 채워 놓고",
+		"9. 그 위에 조려 놓은 스팸을 넣어 김으로 감싸주면 끝! 모양 틀 없으며 스팸캔으로 만들어 주심 된답니다. 같은 방법으로 3개 더 만들면 끝! ",
+		"10. 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/cc97faa0dcabf246482bf5cb3cd4b2d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/e95006fa5476dfcf8b1ba1a74ffe09bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/e8876a3b58c9625b536f3daec25de89f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/524967319d02226443e145ef32d4ece61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/f83f8fdc871484bc8b4063b68f22b3461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/3c6289e1edb3694169a4122ad8d07bef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/d95ffa1b7e2e7bb68700cbcb6d20d4271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/50030f2e03b4412a4e7ba819a6b2fdaa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/3cc7d09c63d57cc23009e9a2444bf3301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/3201822d9c330dbda8d04aad9950fbed1.jpg"
+	]
+}

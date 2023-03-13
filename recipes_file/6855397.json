@@ -1,0 +1,47 @@
+{
+	"id": "6855397",
+	"name": "초간단 토마토 스파게티 추천!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/f442da0fc9704d5af456d02f314c64421.jpg",
+	"url": "https://www.10000recipe.com/recipe/6855397",
+	"ingredient_ids": [
+		865,
+		735,
+		371
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "스파게티소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 먼저 스파게티소스와 스파게티면, 그리고 방울틈매이러 4개를 준비했어요.",
+		"2. 물이 끓기 시작하니 적당한 양을 골라줬어요.",
+		"3. 1인분의 면을 넣어주세요.",
+		"4. 면이 익는동안 소스를 준비했어요. 소스에 방울틈매이러 투척해서 으깻으깻 했답니다.",
+		"5. 여기서 안데스마카 분말을 한스푼 넣어 건강한 토마토 스파게티를 만들어 줬어요.",
+		"6. 이렇게 요리에 다양하게 활용해서 먹으면 질리지도 않고 자주 먹게 되요. 참고로 마카에는 페루의산삼으로 사포닌, 아연, 아미노산, 미네랄 등 필수 영양분들이 고루 들어가 있어요.",
+		"7. 제 나름대로 만든 토마토 스파게티 완성되었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/176a668c3d4ff85385dae6520b2d41fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/9aa3d36b317fee1561802eefdc49789a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/121282172fb97e35920c6e852588339a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/5a79de7db3f8c65f09f8975b73458d5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/a2e0a7326aab20c1f85989cea4ce193b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/4570d329ed6b1fbd00347be0fdf63e981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/4768675372b4bb50017549059acbb3ff1.jpg"
+	]
+}

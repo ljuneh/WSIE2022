@@ -1,0 +1,109 @@
+{
+	"id": "6904212",
+	"name": "짜장면 레시피(유니짜장면만들기)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/13/1a4f0ccaa91ee21c7452653e4d47a4891.jpg",
+	"url": "https://www.10000recipe.com/recipe/6904212",
+	"ingredient_ids": [
+		3,
+		7,
+		5,
+		8,
+		28,
+		487,
+		379,
+		226,
+		477,
+		660,
+		846
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "중화면",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "춘장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1-2큰술",
+			"ingre_unit": "-큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양파, 애호박, 감자는 1x1cm의 크기의 큐브모양으로 썰어서 준비해주세요!그냥 듬성듬성 다져도 상관 없답니다! 대신 익는 속도가 비슷해야하니 크기만 일정하게!",
+		"2. 생강은 다지고 오이는 채썰어 준비해두고 돼지고기는 듬성듬성 썰어 준비해요!오이는 물에 담궈놓고 다진생강은 물에 담궈 즙을 준비해주세요!",
+		"3. 돼지고기에 후추 약간, 청주 1큰술, 생강즙 1큰술, 간장 1/2큰술 을 이용해서 밑간을 해주세요!조물조물 해놓아주세요!",
+		"4. 전분과 물을 1 :1 비율로 섞어서 전분물을 만들어 놓아주시고 냄비에 물을 넣어 중화면을 삶아요!중화면은 2분정도 삶고 찬물에 헹궈 물기를 빼주세요!",
+		"5. 후라이팬에 춘장 2큰술, 식용유 2큰술을 넣고 달달 볶아준비해요!춘장과 식용유는 같은 비율로 5분정도 중약불에서 볶아야 타지않고 고소한맛이 상승된답니다!",
+		"6. 후라이팬에 기름을 두르고 돼지고기, 양파, 감자,애호박을 달달 볶아요!기름은 춘장볶고 거른 기름을 사용해면  재활용할 수 있겠죠?",
+		"7. 6번에 볶은 춘장을 넣고 물 1/2컵을 넣어요!설탕1큰술과 굴소스 1작은술을 넣고 조려요!",
+		"8. 낙낙히 조려지면 참기름으로 마무리하고 전분물로 농도를 맞춰 소스를 완성해요!먹어봤을 때 짜면 물을 더 넣고 단맛이 부족하면 설탕을 조금 넣어 조절해요!",
+		"9. 면위에 소스를 얹고 채썬 오이를  얹어 맛있게 드시면 된답니다!"
+	],
+	"recipe_img": []
+}

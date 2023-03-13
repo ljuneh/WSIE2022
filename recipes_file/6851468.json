@@ -1,0 +1,44 @@
+{
+	"id": "6851468",
+	"name": "바삭하게 감자튀김 # 감자튀김 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/13/c62dc90d8f9e9c47eab648d1b48b5ee41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6851468",
+	"ingredient_ids": [
+		5,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파슬리약간(생략가능)",
+			"ingre_count": "약간(생략가능)",
+			"ingre_unit": "약간(생략가능)"
+		}
+	],
+	"recipe": [
+		"1. 감자는 껍질을 벗긴 후 편 썰거나 채 썰어주세요. 15분 물에 감자를 넣어 전분기를 제거하고 체에 밭쳐 물기를 빼주세요. 전분기가 제거되어 더욱 바삭한 감자튀김이 됩니다.",
+		"2. 기름과 물은 앙숙.!!  키친타월에 올려 물기를 완전히 제거해주세요.",
+		"3. 냄비에 식용유를 붓고 예열 후(튀김젓가락을 넣었을 때 기포가 보글보글 올라오면) 감자를 넣고 8-10분간 인내의 시간으로 튀겨줍니다. 중간에 서로 붙지 않도록 살살 저어 주세요.",
+		"4. 체에 걸러 한소끔 식혀준 후 좀 더 노릇해질 때까지 두번 튀겨주세요. 한번만 튀길 경우, 한번에 12분정도 노릇노릇할때까지 튀겨주면 됩니다.",
+		"5. 두번 튀기면 더 바삭해져요.",
+		"6. 소금 1/2T, 파슬리를 뿌려 버무려 줍니다. 토마토 케첩 곁들여도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/ad7bdc16107aa082007ff00768af565a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/8bd89d93fb1ed53cb0a51f5bf31ebdfb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/b4b1b77c25ccafe23edeae18267575941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/9b95f0f9294794e86b6bfff63294f5d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/effcd2176aa419e6baee4f24b588f9ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/23/24758ccbf67e194f8a7ee2a3d0c984151.jpg"
+	]
+}

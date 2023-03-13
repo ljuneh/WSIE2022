@@ -1,0 +1,82 @@
+{
+	"id": "2446471",
+	"name": "난자완스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/f4f0a4739d7e3033277eda5b9e6caf96.jpg",
+	"url": "https://www.10000recipe.com/recipe/2446471",
+	"ingredient_ids": [
+		53,
+		13,
+		6,
+		846,
+		379,
+		477,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고기완자",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "멸치다시마육수1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "녹말가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 미리 만들어 놓은 고기완자와 버섯, 야채를 준비해 줍니다.",
+		"2. 소스를 만들어 주고, 기름을 두른 팬에 표고버섯을 제외한 야채를 살짝 볶아 다른 그릇에 덜어놓습니다",
+		"3. 팬에 소스를 넣고 끓여주면, 소스가 투명해 진답니다.",
+		"4. 고기완자와, 표고버섯을 넣고 10분정도 약불에서 끓여주세요",
+		"5. 소스가 1/2정도 줄어들면, 볶아놓은 청경채와 파프리카를 넣어 한소끔만 익혀주면 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/b9645baeacac370b4dd6752defef1de41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/1d48266f88391f3bfcbf38c8253514fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/1b8542deb5bb1c4162757bdb49bdfaa51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/254a58ae1e73022b3482d923783567431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/689f46df0078a4b81e604d7fb4399ceb1.jpg"
+	]
+}

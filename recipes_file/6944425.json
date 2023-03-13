@@ -1,0 +1,68 @@
+{
+	"id": "6944425",
+	"name": "된장소스와 가지구이의 만남 :)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/6fb1b5cd9928ed22d8b1f65e2d419b271.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944425",
+	"ingredient_ids": [
+		18,
+		757,
+		848,
+		292,
+		226,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요                   ",
+		"2. 가지를 길이로 반을 자른 다음 껍질 쪽에 사선의 격자무늬로 2/3정도 깊이 칼집을 넣어주세요",
+		"3. 된장소스에 들어갈 야채들도 잘게 썰어주세요~",
+		"4. 예열된 팬에 오일을 살짝 두르고 가지를 앞뒤로 노릇하게 구워주세요                     ",
+		"5. 된장소스를 되직하게 졸여주세요",
+		"6. 구운 가지위에 된장 소스를 올리면 된장소스 가지 구이 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/9fd2733373aa4b9ee00c05217125a7eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/75c80d3b77bcfedd94792b794c01ca451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/7e9e7ccde21dc893e22ce469aac3b8c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/43cfbe39b99776040b3864b296592b5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/832fc04a05644a78a495bdd0140eb0081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/586405d549d4a883bb7fbfef5b4543141.jpg"
+	]
+}

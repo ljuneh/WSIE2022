@@ -1,0 +1,64 @@
+{
+	"id": "6843854",
+	"name": "강된장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/01/8bc5d2087a10eda81f221f54fbefd92a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843854",
+	"ingredient_ids": [
+		848,
+		473,
+		495,
+		490,
+		3,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "된장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "할라피뇨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 집된장 .고추장 고추가루 .소고기 할료피뇨 .양파 .파. 홍고추 호박을 준비합니다",
+		"2. 소고기와 된장을 풀에 물을넣고 끓이다가 야채를넣습니다",
+		"3. 2를 한소금끓입니다",
+		"4. 강된장이 완성이됐습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/01/aeea15fb4fc2c3dbe0ceedc78d6672181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/01/fb39907dc3145ee3082eb357987455451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/01/130cf98be09c2139940be6cac72c42c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/01/983d8e2d21d689b54fb28e22ea07a7bd1.jpg"
+	]
+}

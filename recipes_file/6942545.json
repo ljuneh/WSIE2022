@@ -1,0 +1,92 @@
+{
+	"id": "6942545",
+	"name": "고사리나물&들깨고사리나물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/ded93b9a767bdff5ebde8c9a585347f31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942545",
+	"ingredient_ids": [
+		270,
+		233,
+		337,
+		349,
+		327,
+		939,
+		290
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "건고사리",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 건고사리는 이물질이 있을 수 있으니 한번 헹궈 쌀뜨물에 5~6시간 불려주세요.쌀뜨물은 고사리 특유의 비린맛과 떫은맛을 없애줍니다.",
+		"2. 잘 불려진 고사리는 먹기 좋은 크기로 썰어주세요.",
+		"3. 냄비에 고사리가 잠길 만큼의 물을 넉넉하게 부어 뚜껑을 덮고 20분 삶아주세요.",
+		"4. 20분이 지난 후 불을 끄고 뚜껑을 덮은 상태로 1시간 정도 식혀주세요.",
+		"5. 식으면 찬물에 헹궈 물기를 살짝 짜주세요. 국간장1큰술, 진간장1큰술, 들기름1큰술, 액젓1큰술 으로 밑간을 해주세요.부족한 간은 소금으로 간을 맞춰주세요.",
+		"6. 후라이팬에 식용유와 들기름을 한스푼씩 넣어주세요.",
+		"7. 다져놓은 대파(흰부분) 와 마늘을 넣고 볶아주세요.",
+		"8. 대파와 마늘 향이 올라오면 고사리를 넣고 7분~10분 볶아주세요.  물 한컵 정도 넣어 졸이듯이 볶으면 더 부드러운 고사리가 됩니다 !뚜껑을 덮고 졸여주세요.",
+		"9. 거의 다 볶아졌을 때, 썰어놓은 대파 (초록부분)과 홍고추를 넣어주세요. 불을 끄고 들기름과 깨 한스푼을 넣어 주세요.",
+		"10. 고사리나물을 절반 덜어놓고, 절반은 들깨가루를 넣어 들깨 고사리 볶음을 만들어 볼게요. 들깨가루는 취향껏 넣고 볶아주면 완성 입니다 !들깨가루에 물을 넣어 풀어주시면 뭉치지 않아요 ~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/b7af1b05c9c6a962de373fa3ce1d3e8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/dbca3296205be807de121547a5b4f1a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/cc42d20d49c3cdff4449fe7ff7d3424a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/a04a3ea757cf5291216f6bae5ba828c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/f38a4a6ac916c16f4a90e4de9f49e6831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/01ef956422061ba03517ca57f1ff8e761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c2939b02e539eeb7cc07574105c92b741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/a97fab3cf737b3d6f49ffcedfd005d6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/5b4846d091e6db01f33717db63a28e761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/6af0ea9e9543645f12817ee3a13fc5021.jpg"
+	]
+}

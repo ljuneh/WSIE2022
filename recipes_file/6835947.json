@@ -1,0 +1,62 @@
+{
+	"id": "6835947",
+	"name": "떡국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/11/33734b459ce4ec7db5860c56ebb493541.jpg",
+	"url": "https://www.10000recipe.com/recipe/6835947",
+	"ingredient_ids": [
+		379,
+		660,
+		219,
+		323
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "떡국떡",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 고기에 간장, 참기름을 같이 넣은 후 달달 볶아주세요. 따로 기름을 넣을 필요는 없답니다. 저는 준비한 고기의 반만 사용했어요. 핏기가 보이지않을때까지 익혀줍니다.",
+		"2. 기가 사라진 고기에 물을 넣어주고 팔팔 끓여줍니다. 그 때 떡을 넣어주세요. 팔팔 끌 때 떡을 넣어주면 굳이 불리지 않아도 괜찮더라구요.",
+		"3. 떡을넣고 팔팔 끓으면 계란을 넣어줍니다. 풀어주는 정도는 자기 마음대로!ㅎㅎ 라면에 계란넣듯이 해주시면 돼요. 그리곤 파도 넣어주고, 마지막으로 두부도 넣어줍니다. (두부를 부쳐먹었었는데 남은게 있어서 저는 그걸 넣어줬어요. 그냥두부를 넣으면 더 부드럽게 드실 수 있겠죠? 두부를 넣음으로써 뭔가 맛도 더 좋아진 것 같아요. 두부넣고 안드셔보셨다면 추천합니다!!)",
+		"4. 그릇에 덜어준 후, 김도 부셔서 넣어주고 후추도 솔솔 뿌려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/0f074bade36477fb6e53a74d909f8dbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/68c19ee4917e7d1e2772b99e963a8cf01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/dc50725834deb5fac660ce65b0a77fd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/feaf77c40f6bc4b585fbb883a7edcefe1.jpg"
+	]
+}

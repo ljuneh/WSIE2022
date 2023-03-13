@@ -1,0 +1,57 @@
+{
+	"id": "972470",
+	"name": "한겨울의 별미 메생이국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/a4694ecf9e302e67a2d11106fd4e2d9e.jpg",
+	"url": "https://www.10000recipe.com/recipe/972470",
+	"ingredient_ids": [
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "메생이",
+			"ingre_count": "1",
+			"ingre_unit": "덩이"
+		},
+		{
+			"ingre_name": "굴1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "멸치다시물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "국간장3+1/2큰술",
+			"ingre_count": "3+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 메생이 한 덩이와 굴을 준비했어요. 굴은 쩍을 모두 발라낸 후 소금물에 흔들어 씻어 건져놓아요.",
+		"2. 메생이를 가위로 3~4등분 잘라놓습니다.",
+		"3. 체에 받혀 흐르는 물에 씻어줍니다. 너무나 가늘어서 체에 받혀서 씻어주어야 합니다.",
+		"4. 멸치다시물을 3컵 정도 진하게 우려냅니다.",
+		"5. 뚝배기를 살짝 달구어 참기름을 3큰술 정도 넉넉히 두르고 메생이를 넣어 잠시 뒤적뒤적 볶아줍니다.",
+		"6. 여기에 진하게 우려낸 멸치육수를 넣어 줍니다.",
+		"7. 메생이가 끓기 시작하면 씻어놓은 생굴을 넣어줍니다. 굴은 오래 끓이면 크기도 줄어들고 향도 사라지는 것같아 살짝만 끓여주었어요.",
+		"8. 보글보글 거품이 올라올 때까지 잠시만 끓여내면 완성. 약간 심심하게 국간장으로 간합니다. 메생이는 오래 끓이면 향도 없어지고 또 너무 짜면 메생이의 향을 느낄 수 없어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/5e144ded443b0120e17c72737bcce72b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/9bf17357a1759d91482a1afd66ffe2ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/45108708567ae856ac0d8b16217fb46d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/38b30b388a090a2a368210592928c8191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/6b2b0e42509765a8c5d4263ca18fa69a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/b28c906b8560cee9b69f518ac916cbaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/dc109a39246ad6ab52a76536a6dacaf21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/27/8d91bdc8d3fe5a83e7ac9e416b6e337f1.jpg"
+	]
+}

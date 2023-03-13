@@ -1,0 +1,74 @@
+{
+	"id": "6944658",
+	"name": "간단한 브런치 만들기 아보카도 샌드위치 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5f585871ea066a7ffde8c2fd22c3ab8e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944658",
+	"ingredient_ids": [
+		162,
+		504,
+		228,
+		777
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "페퍼론치노가루",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "홀그레인머스터드",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 마요네즈 1T, 홀그레인머스터드 1T를 섞어 소스를 만든다.",
+		"2. 아보카도는 칼집을 내어 반으로 가르고 씨에 칼날을 조심스럽게 넣은 다음 옆으로 살짝 돌려 제거한다.",
+		"3. 그다음 칼을 사용해서 껍질을 깎는다.단단한 아보카도는 칼로 껍질을 깎고 잘 익은 아보카도는 숟가락으로 과육과 껍질을 분리해도 된다.",
+		"4. 껍질을 깎은 다음 0.3cm 간격으로 썬다.",
+		"5. 예열된 팬에 소량의 식용유를 두르고 키친타올로 살짝 닦은 다음 개인의 입맛에 따라 계란 프라이를 만든다.",
+		"6. 계란 프라이를 만들고 팬을 한 번 닦은 후 식빵을 앞뒤 노릇노릇하게 굽는다.",
+		"7. 노릇노릇하게 구운 식빵 위에 소스를 바르고",
+		"8. 아보카도를 올립니다.",
+		"9. 그 위에 계란 프라이를 올리고",
+		"10. 페퍼론치노 가루, 파슬리 가루를 뿌리면 아보카도 샌드위치 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/90eebf231e082339fe306fb82e39c8cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/ea2d6898b4eb7ee05e7930ebdaf6a2281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/42a5ae8b361594b4d7fc8713d69ccc761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5ac63504005744af748dcb7f50ec72101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/8f420c26b4571d09aa32874bea54c5271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/414e0a23c17db5f1a0b7d516bd1985f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/29198e180b45bee3a6d02204b69d075a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/980ea4c6a2e5755f1fbe8d2339559c3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/889fda9bbe5c66ee2a626931a4ca059e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/cb5281a8756a56fb60e1727d379f07e21.jpg"
+	]
+}

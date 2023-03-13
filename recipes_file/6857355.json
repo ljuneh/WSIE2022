@@ -1,0 +1,87 @@
+{
+	"id": "6857355",
+	"name": "골뱅이마늘볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/23/9d1e724103e41d0ba8a11f2fd65f18621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6857355",
+	"ingredient_ids": [
+		58,
+		3,
+		295,
+		379,
+		292,
+		136,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "골뱅이캔",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "1~2통",
+			"ingre_unit": "~통"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": "."
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 냉장고에 버섯이 있길래 준비했지만 없으시면 안넣으셔도 상관없어요~ 대신 마늘,양파,청양고추는 꼭 준비해주세요",
+		"2. 골뱅이는 적당한크기로 썰고, 마늘은 편으로 썰어주세요 다른 야채들은 골뱅이크기로 잘라주세요",
+		"3. 기름두른팬에 마늘,양파를 볶아주세요 마늘이 투명하게 익으면~",
+		"4. 버섯을 넣고 볶아주세요 어느정도 버섯이 익도록 볶다가~",
+		"5. 골뱅이,청양고추,양념을 넣고 졸이듯볶아주세요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/23/4d307be0c22a30fa173dc1e1ee611e681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/23/68c00cc6bed87afac833a43aef2887591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/23/07902c557ef6e01309bddcbf8ead9a981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/23/57b4a8c4c1c200edf08a085ce4142d161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/23/0d2385d42a1635ce5d630bcd0dcf1cd11.jpg"
+	]
+}

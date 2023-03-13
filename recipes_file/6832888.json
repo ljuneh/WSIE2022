@@ -1,0 +1,49 @@
+{
+	"id": "6832888",
+	"name": "초보도 쉽게 만들수 있는 복숭아잼 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/9ab14c9d5c1f501a3c30f53f111fb7821.jpg",
+	"url": "https://www.10000recipe.com/recipe/6832888",
+	"ingredient_ids": [
+		668
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "천도복숭아",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "꿀or설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "레몬즙or식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 복숭아를 준비해주세요. 전 자두도 한개 있어요. 망가진 부분은 잘라내구요.",
+		"2. 껍질을 몽땅 벗겨줍니다.",
+		"3. 껍질을 깐 복숭아를 과육부분만 자른후 손톱만하게 잘라줍니다.",
+		"4. 다 자르면 복숭아가 잠기게 물을 붓구요.",
+		"5. 쎈불에서 뽀글뽀글 끓여 줘요. 이때 거품이 생기는데요. 거품은 걷어서 버려주세요.",
+		"6. 물이 반정도 줄으면 설탕 또는 꿀을 넣어줍니다. 저는 꿀을 이용했어요. 꿀 7스푼을 넣어줘요. 설탕은 4스푼 넣어주세요. (더 달달하게 즐기실분은 취향에 맞게 더 넣어주세요)",
+		"7. 그리고 중불에서 빠글빠글 끓이다",
+		"8. 그리고 약불에서 졸이다보면 요런 느낌이 나는데요. 그럼 복숭아잼 완성.",
+		"9. 빵이 없을땐 요거트에 넣어 먹어도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/e502d0bc60127a8b77fcabbe57551dc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/4a06d14da25bf20a5654daa1fb256bcd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/ec26d2ced060187e584e301766eb085f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/3d14aaf63bbdb91db43ba2bde59702301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/650ede332fe6c120304d886ecb41fbde1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/f08d9be0a81b26fb9088767176c976cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/a2ca93dc1948ac6fac68cb90163d57751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/ff76d84c85566bbdf5209ff1539e7a231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/b756d58f63370e55308ffd86d670cee71.jpg"
+	]
+}

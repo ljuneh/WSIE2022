@@ -1,0 +1,103 @@
+{
+	"id": "6941486",
+	"name": "코로나 극복_든든한 보양식 연포탕!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/49fd5ad3e4e641779939686fc16c9b3e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941486",
+	"ingredient_ids": [
+		90,
+		320,
+		362,
+		19,
+		20,
+		911,
+		64,
+		86,
+		84,
+		379,
+		577
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "3-4개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "디포리",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1/2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "배추작은거",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "낙지",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "전복",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바지락",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "와사비",
+			"ingre_count": "1/2",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 낙지를 손질해주세요. 밀가루로 깨끗하게 박박 닦으면 됩니다. 바지락은 해감하고 전복은 칫솔로 고루고루 잘 닦아줍니다.",
+		"2. 야채 손질을 합니다. 무, 미나리, 파, 버섯을 듬성듬성 썰어주세요.",
+		"3. 다시마, 멸치, 디포리를 물에 넣고 끓입니다. 어느정도 끓으면 무, 배추, 파, 버섯을 넣습니다.",
+		"4. 해감한 바지락, 전복과 낙지를 넣고 마지막에 미나리를 넣습니다.마지막에 미나리를 넣어야 미나리 식감이 아삭해요! ",
+		"5. 낙지는 오래 끓으면 질겨지니 적당히 낙지 색을 보고 불을 꺼주세요.",
+		"6. 간장소스를 만들어 콕! 찍어 먹으세요.와사비가 없다면 연겨자도 괜찮아요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/2df4564b062cccd91d080fcee24b4ace1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/0a3dab85bd2746845e96ec59bbbe05f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/3dac65e0d9fc834cd83e35efb55eb59a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/0f2c14a7e169055bc87a605b589dd8f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/68d392b2f6a6a64f50e2447ddcf5a4971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/349788ba6974eac95b111d5cbdaa95931.jpg"
+	]
+}

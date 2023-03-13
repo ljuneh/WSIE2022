@@ -1,0 +1,74 @@
+{
+	"id": "1434375",
+	"name": "깍두기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/08207876b89590190252ecee052a2bea.jpg",
+	"url": "https://www.10000recipe.com/recipe/1434375",
+	"ingredient_ids": [
+		19,
+		3,
+		29,
+		939,
+		282,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "삼성당",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "잔파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 무는 깍뚝썰어 굵은 소금을 뿌려 30분 정도 절여 주세요.",
+		"2. 믹서 볼에 양파,마늘을 넣고 액젖을 넣은 뒤 갈아주세요.",
+		"3. 소금에 절여 씻은 무에 고추가루, 삼성당 약간, 통깨, 갈아 둔 양파-마늘을 넣어 고루 섞어 주세요. 간을 본 뒤 액젓, 소금으로 마무리 간을 합니다.",
+		"4. 마지막으로 잘게 썰어 둔 잔파를 넣어 한번 더 섞어 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/7a252cc833b441ab14c6dc328aa738431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/4e6aefc992054536353327eb801bb3651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/9a49565578ab01a7ac1fa284cf86bd6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/17983f27a98a500fe12c354d84bb2c541.jpg"
+	]
+}

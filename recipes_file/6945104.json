@@ -1,0 +1,106 @@
+{
+	"id": "6945104",
+	"name": "카레만 먹어? 주먹밥과 함께 한 고급진 일품 요리- 카레 김 주먹밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/d469cf80f8c729cb8afdbc0ed9e667661.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945104",
+	"ingredient_ids": [
+		995,
+		5,
+		3,
+		116,
+		660,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "인스턴트카레가루",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "큐브카레1조각",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "650",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지고기안심",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터1Tbs​",
+			"ingre_count": "1",
+			"ingre_unit": "Tbs ​"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "Tbs"
+		},
+		{
+			"ingre_name": "가는소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "2",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "도시락김",
+			"ingre_count": "2",
+			"ingre_unit": "통"
+		}
+	],
+	"recipe": [
+		"1. 야채와 고기는 먹기 좋은 크기로 깍뚝 썰어 준비합니다.",
+		"2. 팬을 달군 후 버터와 오일을 넣고",
+		"3. 감자와 고기를 볶다가 양파를 넣고 볶아 주세요.",
+		"4. 물을 붓고 내용물이 익을 때까지 끓여 줍니다.",
+		"5. 끓는 동안 주먹밥을 만들어요. 밥 두 공기에 참기름, 소금, 통 깨를 넣고 잘 섞어 준 후",
+		"6. 김을 부수어 넣고 주먹밥을 뭉쳐 주어요.",
+		"7. 먹기 좋은 크기로 뭉친 주먹밥을 접시에 담아요.",
+		"8. 야채가 다 익으면 큐브를 넣고 잘 저어 섞어 준 후",
+		"9. 카레 가루를 넣어 줍니다.",
+		"10. 밥을 담은 접시에 완성 된 카레를 얹어 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/986cd4c472b2019e788c8d9969c91e521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/d394a9e05d02f4ae90b8919f484bf6141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/f0ebf8390b95a3da5c5a74ec6a1a1bcb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/bfcbb975b771eff3af910e604b59dd251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/266d6432be2a2b3ef3945c1fcef3763b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/2fc589cc204ad551917bb921a0bbb22d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/55feccaebb71277a57b0ebc2190b35731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/1518af2552c683daee81eff202ca2c101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/9f01b443ae8ceee92193e3fdc489dcfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/923f713099f2c9f21e6a2939f7ce4aff1.jpg"
+	]
+}

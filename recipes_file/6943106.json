@@ -1,0 +1,62 @@
+{
+	"id": "6943106",
+	"name": "반찬이 필요할 땐 감자채볶음 황금레시피 감자채볶음 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/5f938fa36ee2b53ea0540f9e5513cb991.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943106",
+	"ingredient_ids": [
+		5,
+		9,
+		497,
+		660,
+		290
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 채 썬 감자를 소금과 함께 물에 10분 정도 담가주어 전분을 제거해주세요",
+		"2. 감자를 건져내어 찬물에 헹궈주시고 키친타월을 사용하여 물기를 완전히 제거해주세요",
+		"3. 프라이팬에 기름을 둘러주신 다음에 감자를 넣고 5분 정도 볶아주세요중불",
+		"4. 당근을 넣고 감자와 당근 속이 전부 익을 때까지 볶아주세요취향에 따라서 아삭한 식감의 감자를 좋아하시는 분들께서는 살짝 덜 익혀주셔도 좋습니다",
+		"5. 후추를 뿌려 간을 해주신 다음에 참기름을 위에 둘러주어 불을 끈 상태에서 감자채볶음과 골고루 섞어주세요후추 대신 소금으로 간을 해주셔도 좋습니다",
+		"6. 완성된 감자채볶음은 예쁘게 플레이팅 해주신 다음에 깨를 뿌려주어 마무리해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/baca64c309e9545d977771a3c0d2f6cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/b4ee3278f42a1860ab660fc8000454cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/e0c047b9fa5788fb9214deeb9b2a38bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/b15fd6c3fec3a7d58f77ec841808aafa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/7568007d2171dcff55eb31c08986616a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/95272a5de6e0e8961c9aed6fd12370891.jpg"
+	]
+}

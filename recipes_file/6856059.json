@@ -1,0 +1,67 @@
+{
+	"id": "6856059",
+	"name": "카레와 짜장면의 만남 카파게티",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/eb5f631a04433acda45156205066118e.jpg",
+	"url": "https://www.10000recipe.com/recipe/6856059",
+	"ingredient_ids": [
+		9,
+		3,
+		702,
+		995
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "짜파게티",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "바몬드하우스카레(순한맛)",
+			"ingre_count": "1/2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "돼지고기다진것",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 당근, 양파를 한 입크기로 썰어 준비한다",
+		"2. 끓는 물에 하우스 바몬드카레를 넣고 1의 채소와 다진 돼지고기, 후춧가루를 넣어 약불에서 졸이 듯 끓여준다",
+		"3. 짜파게티를 조리법에 따라 조리한다",
+		"4. 3을 접시에 담고 2의 카레를 얹은 뒤 파슬리 가루를 올려낸다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/d57d1b50634004246635e10c77a40355.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/bab4fea9d1bae8076f95f3cf0688dea9.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/446c2675a153d4b20e77641609da39a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/f75330c6b0d65a473da220891e723363.jpg"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"id": "6886725",
+	"name": "눈개승마볶음/삼나물볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/04/05/c1dff6811468fd72931bde5d87d604721.jpg",
+	"url": "https://www.10000recipe.com/recipe/6886725",
+	"ingredient_ids": [
+		327,
+		540
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "삼나물",
+			"ingre_count": "1",
+			"ingre_unit": "줌반"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꽃소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨1/2큰술등",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술 등"
+		}
+	],
+	"recipe": [
+		"1. 시든 잎은 제거하는데, 싱싱해서 손질할 게 없네요. 먼저 찬물에 식초를 2-3큰술 넣고 삼나물을 5분 정도 담궈서 이물질이 가라앉도록 한 후 서너번 헹궈서 물기를 제거합니다.",
+		"2. 물을 넉넉히 넣고 데쳐야 좋구요. 팔팔 끓는 물에 굵은 소금 1큰술 반을 넣고 줄기부터 익혀 줍니다. 잎보다 줄기가 익는 시간 이 오래 걸리므로 이렇게 한 후 잎을 넣어서 저어줍니다. 파란 물이 나온답니다.",
+		"3. 줄기가 휘어지면 다 익은 것입니다.",
+		"4. 찬물에 여러번 헹궈서 삼나물 열기를 빼주고 물기를 눌러 짜줍니다.",
+		"5. 줄기 앞부분은 조금 잘라서 손질한 후 먹기좋게 등분합니다. 4등분하니 딱 좋네요.",
+		"6. 삼나물볶음의 양념은 세 가지로 단촐합니다. 그래야 삼나물 특유의 본연의 맛을 느낄 수가 있지요.",
+		"7. 팬에 들기름 2큰술을 넣고 데친 삼나물을 볶아줍니다. 꽃소금을 반 큰술을 넣어가며 볶아주는데, 소금은 그릇에서 붓지 말고, 가능한 손으로 위에서 고루 뿌려주세요. 최현석 셰프처럼 위에서 뿌리는 것 아시죠? ㅋㅋ 그래야 소금이 고루고루 뿌려집니다. 마지막에 통깨를 넣어 완성합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/4a244d40be49f329d469b818bbf819731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/359e38de38e01d7dded2d57ccec030aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/a8a71765c45b2cf3164759b4689c5d441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/6575cdb2b0a8506659792d4ccb1769951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/16951762ae84e7c70f892cec747453621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/26909788dd926eb3f47c8c23d463dc381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/06/3f28c6a06db8dceb7efefb53809db1121.jpg"
+	]
+}

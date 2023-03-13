@@ -1,0 +1,76 @@
+{
+	"id": "781278",
+	"name": "깻잎순나물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/b97003831e937510472a7f881bc49c60.jpg",
+	"url": "https://www.10000recipe.com/recipe/781278",
+	"ingredient_ids": [
+		350,
+		504,
+		349,
+		497,
+		233,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎순데친것",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "건멸치(중)or다시멸치",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 깻잎순은 데쳐서 질긴 줄기부분은 대충 잘라내고 (데칠 때, 부드럽게 데쳐주세요.) 몇 번 헹군 다음 물기를 꼭 짜서 2~3번 썰어놓아요. 깻잎순에 분량의 다진 마늘과 국간장, 소금을 넣고 (깻잎순 나물은 양념하다보면 자칫 짜지기가 쉬워요. 처음부터 간을 세게 하지 마세요. 너무 짜면 맛이 없거든요. 나물을 데쳐서 꼭 짜보면 실제로 양이 얼마 되지 않아요.)",
+		"2. 조물조물 무쳐줍니다. 이렇게 미리 무쳐주어야 양념이 잘 베어들어 맛있어요. 여기에 중멸치의 머리와 내장을 제거하고 몸통부분만 넣고 같이 무쳐주세요. 건멸치를 넣고 함께 볶으면 멸치에서 맛난 물이 우러나와 구수하니 더 맛나답니다.",
+		"3. 팬에 식용유를 두르고 양념한 깻잎순을 넣고 달달 볶아주세요. 중불에서 볶는데요. 여기에 물 반 컵 정도 붓고 촉촉한 상태에서 볶으면 타지도 않고 좋아요.",
+		"4. 깻잎순에 양념이 잘 베어들고 물기도 거의 사라지면 마지막에 대파 송송 썰어넣고 깨소금과 참기름을 넣어 마무리합니다. 30초 정도 살짝만 볶아주세요.",
+		"5. 깻잎순 나물이 완성되었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/212dcbc342bfa1bf3e37d0b1e3eaf2b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/d11559b7ac12ef5cb0fed739ace0e2a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/70b24fae1b363e64b76d8e078ebe79df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/af30a81c2702625cce3400ed259e13001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/bf2120c55393c0f9ccfb453cbaf66a0f1.jpg"
+	]
+}

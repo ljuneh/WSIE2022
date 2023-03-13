@@ -1,0 +1,64 @@
+{
+	"id": "6943030",
+	"name": "애호박전 추석 전 부치기 쉬운 것부터 하나씩",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/9af601943e8a9107a7827a32b4cd10891.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943030",
+	"ingredient_ids": [
+		7,
+		219,
+		234,
+		497,
+		231
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장1큰술",
+			"ingre_count": "1",
+			"ingre_unit": "큰 술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 애호박을 씻어 동그랗게 잘라요. ",
+		"2. 자른 호박은 소금을 솔솔 뿌려 잠시 재워 두어요.",
+		"3. 달걀은 소금을 살짝 넣고 풀어요.",
+		"4. 호박에 생긴 물기를 치킨 타월을 이용해 살살 누르며 제거해요. (물기를 제거하지 않으면 마른 밀가루를 묻힐 때 밀가루가 뭉쳐요.)",
+		"5. 호박의 물기를 제거했다면 밀가루를 묻혀 여분의 가루는 털어 내어요. ",
+		"6. 밀가루가 젖어들기 전에 달걀물을 묻혀 ",
+		"7. 팬에 오일을 두르고 약한 불에서 노릇하게 구워요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/a2775b9b5428f9e4c9b3232666f0cf8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/9bb2501173e211d7968e27ca665ffbb91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/28d3017e01fed2b0fedfaf53884257cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/66e66e6025c61c1c13bb81f2a54d8b711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/c89d061ea8ddce1efb738aaa2ef872901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/991ae47c4b978494f6915bf9412cb8211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/65d8b3982dc2f90e056e36ee5fa838751.jpg"
+	]
+}

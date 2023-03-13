@@ -1,0 +1,44 @@
+{
+	"id": "6944133",
+	"name": "노바시새우로 새우튀김 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/274b1ba9e641376085771db2719432d81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944133",
+	"ingredient_ids": [
+		79,
+		234,
+		436
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "새우",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1.  재료는 밀계빵으로 밀가루 > 계란물 > 빵가루 준비해주시고 저 순으로 묻혀주면 되요                     ",
+		"2.  그리고 기름에 노릇하게 앞뒤로 익혀주면 된답니다                   ",
+		"3. 취향대로 반죽물을 만들어 튀겨줘도 좋지만 간편하게 밀계빵 순으로 묻혀서 구워줘도 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/26b4a5f7b9115356273f889c259874ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/b67d4783f54fe322919ebf697d7332fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/29248a49854653c70cef7ece5efb4fc51.jpg"
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"id": "6943259",
+	"name": "약밥 만들기 (찬밥으로 약식 만들기)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/d64af2b266dbadc465b5eec93e42abe01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943259",
+	"ingredient_ids": [
+		193,
+		194,
+		460,
+		132,
+		379,
+		478,
+		227,
+		660,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "찬밥",
+			"ingre_count": "4",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "아몬드",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "건포도",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5~6스푼",
+			"ingre_unit": "~스푼"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 대추는 반건조 된 것으로 씨를 발라내시고 먹기 좋은 크기로 자르세요.",
+		"2. 준비된 양념재료를 잘 섞어주세요.",
+		"3. 아몬드, 호두를 잘게 부셔주시고, 건포도를 넣어 주세요.",
+		"4. 찬밥은 전자렌지에 5분간 돌려주세요.",
+		"5. 준비된 아몬드 및 양념재료를 밥에 넣고 섞어주세요.",
+		"6. 틀에 넣어서 전자렌지에 6분간 돌려주시고, 실온에서 식혀 주시면 됩니다. - 밥알이 떨어지지 않도록 단단히 다져주세요.전자레인지"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/8b8e7e41172eae4dfe1d042bb1b8dbe71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/697ec147ec0eacd45699b5944d68de011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/6f47d06eaa801480dbc54daf82af01d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/407c1385945ab94e41c3a449e5da46791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/e71e1aa4cc2da3715cc0f2b75da80b101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/f8312cf00f9293a8c42a57c31a3cb77b1.jpg"
+	]
+}

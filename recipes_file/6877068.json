@@ -1,0 +1,87 @@
+{
+	"id": "6877068",
+	"name": "오늘저녁 반찬 꼬들꼬들 맛있는 무우말랭이무침 쉽게 만들어요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/76352eda7b9311ad5365ff6460eb6fde1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6877068",
+	"ingredient_ids": [
+		939,
+		341,
+		233,
+		455,
+		660,
+		543,
+		379
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "무우말랭이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양념:고추가루",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "찹쌀풀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 무우말랭이는 두번정도 씻어 물기를 짠다음 양조간장 3T에 밑간을 해 두어요.",
+		"2. 그런다음, 찹쌀풀을 쑤는데요. 멸치와 다시마 육수 1컵에 찹쌀가루 3T를 넣고 약한불에서 저어주면서 찹쌀풀을 쑤어요.",
+		"3. 찹쌀풀이 다 쑤어지면 물엿을 넣고 끓이다가 기포가 올라오면 불을 끄고 식혀두구요.",
+		"4. 식혀둔 찹쌀풀에 마늘, 고추가루, 다진마늘, 다진파, 액젓으로 무우말랭이 양념을 만듭니다.",
+		"5. 양념이 서로 잘 어울어지면 무우말랭이와 섞어서 무쳐주면 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/6e7883fd31b4125e266c40b61586be3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/5917fa4e4a24c9a2dafa1b9d178cc08f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/0c5d6c292930c1f19b6e5ace110384421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/4da82c1dd334271106e3d7dd288617b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/79c37921ea5ad2267195d50ba35398201.jpg"
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"id": "6940559",
+	"name": "봉골레 파스타/바지락 파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/c2b94f2b7109b5a12593a4c5101318941.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940559",
+	"ingredient_ids": [
+		84,
+		735,
+		3,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "바지락",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "페페론치노",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "화이트와인또는청주",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "면수",
+			"ingre_count": "1",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리브유3~4큰술등",
+			"ingre_count": "3~4큰술 등",
+			"ingre_unit": "~큰술 등"
+		}
+	],
+	"recipe": [
+		"1. 스파게티면은 엄지와 검지로 동그랗게 말아서 50원짜리 지름이 되게 하면 1인분입니다. 마늘은 저며 썰고요. 양파는 채썰어주세요. 파슬리가루와 청주, 페페론치노입니다. 원래는 화이트 와인을 넣어주면 좋은데, 없어서 청주로 대신했어요.",
+		"2. 페페론치노는 손으로 잘라주세요. 이탈리아 고추로 보시면 되구요. 2~3개만 사용해도 강한 매운 맛을 낼 수 있어요. 파스타나 짬뽕에 사용하시면 좋아요.",
+		"3. 바지락은 먼저 세척을 한 뒤에 찬물 500ml 에 굵은 소금 1큰술을 넣고 검은 봉지를 씌워서 해감을 합니다. 최소 3시간 정도 해감을 하면 좋구요. 해감이 끝나면 맑은 물로 다시 헹궈줍니다. ",
+		"4. 스파게티면을 삶아주는데요. 끓는 물 2리터에 굵은 소금 1큰술과 올리브유 1큰술을 넣어주고요. 스파게티면을 6분간 삶아줍니다. 팬에서 다시 볶아줄 것이므로 짧게 삶아줍니다.",
+		"5. 찬물에 헹구지 말고 그대로 건져서 올리브유를 섞어서 면이 불지 않도록 합니다.",
+		"6. 팬에 올리브유를 두르고 마늘을 볶아줍니다. 마늘은 전분기가 많아서 불이 세면 잘 타요. 그러므로 불은 너무 세지 않게 해서 볶아주고요. 양파를 넣어 볶다가 페페론치노를 넣어줍니다.",
+		"7. 소금과 후추를 약간 넣어주고 바지락을 넣어줍니다. 그리고 화이트 와인 또는 청주 2큰술을 넣어줍니다.",
+		"8. 삶은 스파게티 면을 넣어주고 스파게티를 삶았던 면수를 한 국자 넣어줍니다. 파슬리 가루를 뿌려줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/306fcadebe32f6667b3c7c9760af280b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/d84a4e3a609c1e8cbbd726c859d8b5021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/b6c238782c77a1719abeaa82e09cfdf11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/72bc69a7e745aaf15723792d10bd6e961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/85a0715d39a5f4ce55f1b6228a52b4f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/2a95881e040ba9da3e91c8815e402c061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/7317aa1214457504a2128bba5312fc321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/0a7fcba0c32630ab45c852c68be1bc591.jpg"
+	]
+}

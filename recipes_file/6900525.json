@@ -1,0 +1,69 @@
+{
+	"id": "6900525",
+	"name": "두부로 만드는 화이트 소스♡豆腐のホワイトソース",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/21/464c58fb0c349a4cbc8e02e0d09480f41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6900525",
+	"ingredient_ids": [
+		683,
+		995,
+		234,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "연두부",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 재료입니다",
+		"2. 연두부를",
+		"3. 이 정도까지 잘 섞습니다",
+		"4. 냉비에 우유,물,있으면 콘소메를 넣고",
+		"5. 마지막에 밀가루를 넣습니다",
+		"6. 게속 게속 섞으년서 중간불으로 데웁니다.",
+		"7. 흐물흐눌하면",
+		"8. 두부도 넣어 섞습니다.",
+		"9. 딱딱해지면 소금,후추를 넣고 5분 정도 약한 불으로 그대로 섞습니다.",
+		"10. 완성(ﾟ∀ﾟ)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/21/d78f132d5bea2f63202fdcf3a175b81d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/21/5d66591dc76d73cf49f01ce034550ef21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/21/47c740d8604dd324f9ef3a8113550f031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/21/ce97e8636f92101f5c2f8bd135d717af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/21/8541971ac59ddbec5dc5292ee553bd771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/21/5362df53bcb4f2a244e1ea93106cc29e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/21/f0e573d010cea062334ac142aebbb73a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/21/7569deeaf694bd65d9024fb14dad25951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/21/446bd8b38dc6c46608b38c883cb070161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/21/77ca42fe0a3f419174f5fb94edf2b2251.jpg"
+	]
+}

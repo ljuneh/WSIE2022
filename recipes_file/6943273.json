@@ -1,0 +1,107 @@
+{
+	"id": "6943273",
+	"name": "부추 달걀말이김밥 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/0283ac87255c54f923ef4afb0d04469d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943273",
+	"ingredient_ids": [
+		9,
+		30,
+		219,
+		497,
+		379,
+		660,
+		575,
+		543,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "사각어묵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 부추와 소금을 넣어 살짝 데쳐줍니다.부추한줌, 소금1/2작은술냄비부추는 살짝만 데쳐주세요. ",
+		"2. 데친 부추의 물기를 꼭 짠 후 간장, 참기름을 넣어 무쳐줍니다.간장1큰술, 참기름1큰술",
+		"3. 달군 팬에 기름을 두르고 채썬 당근에 소금을 넣어 볶아줍니다.당근1/2개, 소금 약간, 식용유1큰술",
+		"4. 채썬 어묵에 간장, 올리고당, 참기름을 넣어 조려줍니다.어묵2장, 간장1큰술, 올리고당1큰술, 참기름1큰술",
+		"5. 뜨거운 밥에 참기름, 통깨, 소금을 넣어 양념합니다.밥2공기, 참기름1큰술, 통깨1작은술, 소금1/2작은술",
+		"6. 김밥김 위에 양념한 밥을 펼치고 조린 어묵, 부추, 당근을 넣어 돌돌 말아줍니다.김밥김1장, 조린 어묵, 부추, 당근, 양념한밥",
+		"7. 계란에 우유, 소금을 넣어 풀어줍니다.계란3개, 우유2큰술, 소금 약간",
+		"8. 달군 팬에 기름을 두르고 계란물을 부어줍니다. 계란이 완전히 익기 전에 말아놓은 김밥을 얹어 돌돌 말아줍니다.식용유1큰술후라이팬",
+		"9. 계란이 완전히 식은 후 먹기 좋게 썰어줍니다.도마, 칼계란이 완전히 식은 후에 썰어야 잘 썰려요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/adc3782778c930f3e952d0b4bfceef5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/2e533b967576bd1e20ffbbb55c78703f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/363ead6d5f5d9ef08f0c36694c689e0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/5650d9a7fd4bf45f6b64593ea74d01af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/b370dd1641b2c22a8d1186d08789f6071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/f588ecef506629bbb2a54eae013b85f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/c80306de4cacc139da264216d7f603ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/8602355b717d32940f305063603a967a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/28be1187b28d464cec3352715ace70371.jpg"
+	]
+}

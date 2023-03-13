@@ -1,0 +1,71 @@
+{
+	"id": "6943568",
+	"name": "봉골레 파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/ee4f23d40f795e3ce689ba36377624891.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943568",
+	"ingredient_ids": [
+		920,
+		79,
+		29,
+		371,
+		497,
+		702
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "모시조개",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파스타면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 모시조개는 미리 해감해 둔다. 물 1L에 소금 2큰술(30g) 정도 넣어 조개가 3/4정도 잠길 만큼 붓고 검은색 비닐로 덮어준다.약 2~3시간",
+		"2. 소금, 올리브오일 물에 약간 넣고 파스타면을 삶아준다.",
+		"3. 팬에 올리브오일 조금 두르고 모시조개를 넣고 볶는다.",
+		"4. 육수가 우러나오면 방울토마토, 마늘, 새우 등 부재료 넣고 볶아준다.",
+		"5. 삶은 파스타면을 옮겨 담아 함께 볶다가 간은 소금, 후추로 해준다. 파슬리로 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/4552ed171e2f510d92d3217a563f95f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/af625bc9597f7c0c77f24ce977e9c0261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/365df98359f9bb2c873545b281e88cf61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/8c2d046ef06f420d239c5645582c55ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/2f01a7a91029c3483a929693a6ec70be1.jpg"
+	]
+}

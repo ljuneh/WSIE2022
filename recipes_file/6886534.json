@@ -1,0 +1,47 @@
+{
+	"id": "6886534",
+	"name": "달콤한 과일사탕, 딸기 탕후루 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/17/004879b0624da3603387a3016bf4bf381.jpg",
+	"url": "https://www.10000recipe.com/recipe/6886534",
+	"ingredient_ids": [
+		155,
+		226,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "딸기",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 딸기는 깨끗하게 씻은 후 꼭지를 제거하고 물기를 잘 닦아주세요",
+		"2. 딸기를 꼬치에 꽂아주세요",
+		"3. 냄비에 물과 설탕을 넣고 중불에서 끓여주세요 이때 주걱으로 저어주거나 건들지 말아주세요 ( 굳어질수도 있어요 ! ) 딸기 하나를 반으로 잘라서 넣어주세요 ( 물엿 대신 )설탕과 물의 비율은 3:2라고 생각하시면 됩니다 ! 양보단 비율이 중요해요",
+		"4. 한참동안 설탕이 녹으면서 끓다가 큰 거품이 생기다가 기포가 작아지고 보글보글 끓기 시작하면 약불로 줄여주세요",
+		"5. 시럽은 꽤나 오래 끓여주셔야되요  저는 20분 정도 끓여줬어요 ( 냄비에 따라 다름 ; )",
+		"6. 시럽에 작은 기포가 끓어오르면 주걱으로 시럽을 떠서 딸기 위에 부어주세요 딸기 같은 과즙이 많은 과일 일수록 짧게 시럽을 부어주셔야 되요",
+		"7. 유산지를 깔아주고 그 위에 딸기꼬치를 올려주세요 실내에서 30분 정도 굳혀주면 딸기 탕후루 완성입니다 성공한 탕후루는 겉면이 손가락으로 두드렸을 때 딱딱 사탕 결정체처럼 소리가 나야되요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/02/53981989063237c60cbad592b95b0f021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/02/5993de6efe7c64bce3e86d482d1c5aff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/02/f34101038e8fa4d721d54fe6d13171851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/02/4977467187ff94e3dce4d8a43a5c9b251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/02/edda45d1948c97c52b01e8de22e65da51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/02/dd672fbe60f2f30eddcc3d6ac2208e8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/02/6a253e3bae186ab211512431f29978da1.jpg"
+	]
+}

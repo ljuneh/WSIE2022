@@ -1,0 +1,89 @@
+{
+	"id": "6858774",
+	"name": "집에서 샤브샤브 만들기 [우삼겹 샤브샤브]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/21/431eeb64fa9e70ac4a309593b8e1bdcd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6858774",
+	"ingredient_ids": [
+		27,
+		3,
+		55,
+		13,
+		746,
+		250
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "우삼겹",
+			"ingre_count": "450",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "가쯔오부시+다시마육수",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참깨소스",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "쯔유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "유즈코쇼",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 가쯔오부시와 다시마로 육수를 진하게 우려냅니다.",
+		"2. 파는 썰지 않고 파채로 준비합니다. 이렇게 하면 씹는 식감이 더 좋답니다.",
+		"3. 양파도 되도록 얇게 썰어줍니다. 청경채도 큰잎은 반으로 갈라줍니다.",
+		"4. 쯔유와 레몬즙을 섞어서 폰즈소스를 준비합니다. 유즈코쇼(없으면 패쓰)도 곁들입니다.",
+		"5. 고소한 참깨소스와 상큼한 폰즈소스 두가지를 셋팅합니다.",
+		"6. 육수를 끓입니다. 먼저 500ml정도 넣어 끓이고 국물이 줄어들때마다 중간중간 육수를 보충해주면 됩니다.",
+		"7. 육수가 끓기 시작하면 채소를 먼저 넣어줍니다.",
+		"8. 고기도 넣어줍니다.",
+		"9. 육수에 익혀가며 먹기. 샤브샤브 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/21/580f3f1976a66d987543b180eb53f5311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/21/3688398764498911326d66e496d618a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/21/11f8c86a75a52aaf27471b1465cc67db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/21/878cb700b12404a22dea3a120499454e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/21/13df22512ac37debcdefa621dde11ef41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/21/b34a1306dafb19c131450b9a810825c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/21/96363f3962d8c28a74cd205aaae028211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/21/b4492432dc662b60fb6395cf59ef39991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/21/5ed7aee647cf69ba6ade24cc5d672cc21.jpg"
+	]
+}

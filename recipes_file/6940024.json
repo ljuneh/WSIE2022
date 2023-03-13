@@ -1,0 +1,51 @@
+{
+	"id": "6940024",
+	"name": "토마토 요리 / 토마토 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/89b7ce0849b5dd5f94d50c3b8e6d06481.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940024",
+	"ingredient_ids": [
+		51,
+		939,
+		231,
+		226,
+		224
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 토마토는 크기에 따라 6~8등분으로 자른다.",
+		"2. 액젓, 식초, 설탕, 고춧가루를 넣고 양념을 만든다.",
+		"3. 양념장에 토마토를 넣고 버무린다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/4f8d85cb2fe685451c4d84c722cd4af71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/51b5ecec4e50936ea3f4e31f36dd03841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/ce4991b78da1d0d83c9571799fb07a3c1.jpg"
+	]
+}

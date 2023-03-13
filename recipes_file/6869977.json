@@ -1,0 +1,70 @@
+{
+	"id": "6869977",
+	"name": "<신혼요리> 알감자조림 맛있게 만들기/ 감자요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/18/fdd3ebfa7f5acbaaf477c86e5e7caefd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6869977",
+	"ingredient_ids": [
+		5,
+		379,
+		224,
+		233,
+		292
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "10~12개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "조청(물엿)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 감자를 15~20분 삶아주세요!",
+		"2. 다시마와 멸치로 육수를 내주세요",
+		"3. 비율대로 양념장을 만들어주세요!",
+		"4. 감자와 다시마멸치 육수 반컵, 양념장을 넣어주시고 약한불에서 졸여주세요~",
+		"5. 마지막으로 파를 넣으신다음 섞어주시고 그릇에 담아놓으면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/18/c347a463e262dea4b42fc90f583ceb801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/18/1912583cecfd99121db41853ea5670671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/18/28377f80951e8262f474b5c81039a8ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/18/cf6630cebd6776ac965d06321455fa7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/18/50395e45e3ff47a9eed64ee986e530141.jpg"
+	]
+}

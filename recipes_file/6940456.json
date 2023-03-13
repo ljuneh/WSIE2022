@@ -1,0 +1,84 @@
+{
+	"id": "6940456",
+	"name": "[ 버섯 볶음 ] 기본반찬, 소고기추가, 건강한 반찬 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/7f2f6d94e7f83495cfba4b9b044c717c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940456",
+	"ingredient_ids": [
+		53,
+		495,
+		3,
+		27,
+		477,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "작은새송이버섯",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "5",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "페페론치노",
+			"ingre_count": "5-8개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		}
+	],
+	"recipe": [
+		"1. 표고버섯과 작은 새송이 버섯을 먹기 좋게 손질합니다.",
+		"2. 양파는 1/4 먹기 좋게 잘라 준비합니다.",
+		"3. 소고기를 양파와 비슷한 크기로 잘라줍니다.냄새가 싫으시면 이때 후추나 미림으로 잡내를 제거합니다.",
+		"4. 달군 팬에 올리브유 0.1t를 넣고 고기를 볶아줍니다.중불",
+		"5. 고기가 어느정도 익으면 양파와 후추를 넣고 볶아줍니다.중불",
+		"6. 양파의 겉면 색이 변하면 버섯과 굴소스0.5t를 넣고 볶아줍니다.중약불",
+		"7. 페페론치노를 넣고 볶아줍니다.",
+		"8. 대파를 넣고 볶아줍니다.",
+		"9. 통깨를 넣고 마무리 합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/020aafa5924ce81df38ae9b6ecd4f41b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/54bbd6e1c168802385bbf7b3577e975d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/4878ce8e48a7e5d142e077c7f95241141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/72e9fcb5a5b8f4600f67a1264b7c85aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/0114135361d56625b4cc6f8d15b0584a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/75696b2aec231234435a17d4fe6cda6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/d7b4f3201eb86770af9e942b463bf3cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/b5b420f6a082c9192e657d94d9db62721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/982d188f8ca5ae65a21ebcf9d455d11c1.jpg"
+	]
+}

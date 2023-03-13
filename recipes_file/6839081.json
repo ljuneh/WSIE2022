@@ -1,0 +1,90 @@
+{
+	"id": "6839081",
+	"name": "우엉조림 우엉견과류조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/02/7e7d458b8c5561a18794af99cc4141211.jpg",
+	"url": "https://www.10000recipe.com/recipe/6839081",
+	"ingredient_ids": [
+		26,
+		53,
+		3,
+		379,
+		477,
+		226,
+		575,
+		660,
+		350
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "우엉",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "견과류(호두아몬드)",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 우엉껍질은 필러로 벗기고 표고버섯도 깨끗이 씻어서 준비합니다.",
+		"2. 우엉은 갈변을 막기위해 식초물에 20분정도 담아놓습니다.",
+		"3. 우엉과 표고버섯은 먹기좋은 크기로 썰어서 준비하구요",
+		"4. 우엉은 제일 늦게 익는 재료이기때문에  우엉만 먼저 후라이팬에 기름을 살짝 두르고 볶습니다.",
+		"5. 소주컵으로 한컵분량의 물을 넣고 뚜껑을 닫아 약한불에 10~15분정도 익혀줍니다.",
+		"6. 표고버섯과 양파를 넣고 간장 2스픈/ 굴소스 1스픈 / 설탕1스픈 을 넣고 볶아줍니다.",
+		"7. 호두와 아몬드도 넣어주구요",
+		"8. 다시 뚜껑을 닫아서 조려주다가 중간중간 섞어주세요 마지막으로 올리고당1스픈과 참기름 깨소금으로 마무리하면 완성~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/02/8e2b0a17e9571a2f06423332c65135961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/02/25872deed5fd921182405d0ce2b2674a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/02/fdc7dc1b0736a9252dee6c4e0af1870a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/02/bab96b713a10d6b3f39e87c4e11f27991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/02/d113ce1622647e2a45d7f7fe6baace6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/02/dff1b71c2ab438ecba5af180fb6c45cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/02/4c18ca752ac774f4493b4c8aa2862c731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/02/99acd2e4de60f6ec54034a627553d9391.jpg"
+	]
+}

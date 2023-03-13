@@ -1,0 +1,91 @@
+{
+	"id": "6943650",
+	"name": "날치알 양송이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/7f41b5af0ae69bf1a2173149d864ebcd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943650",
+	"ingredient_ids": [
+		504,
+		54,
+		482,
+		515
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진당근",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "빨간고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진양배추",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진단무지",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "날치알",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "칠리소스",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "우엉생략가능",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 날치알은 소주를 희석한 물에 잠시담궈 채에걸러 물기를 빼둡니다.",
+		"2. 야채는 작게 다져서 기름두른팬에 볶아줍니다. 각종야채는 집에있는 재료 아무거나 괜찮아요.  단 색깔별로 사용하면 이쁘고 양파는 꼭 들어가면 좋을 것 같아요.",
+		"3. 양송이는 줄기를 띠고 볶은 채소로 안을 채워줍니다.",
+		"4. 팬이나 냄비에 기름을 두르고 속재료는 익혔기때문에 양송이버섯만 익을정도로 뚜껑을 덮고 살짝 익혀줍니다. 너무 익히면 물이 많이 나오므로 주의하세요.",
+		"5. 속재료는 소금간을 하지 않았기 때문에 칠리소스를 듬뿍뿌려줍니다.",
+		"6. 위에 날치알을 듬뿍 올려주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/276e5141aa7ecdfa7465c42c1efe5ea51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/7b64dfa1133e59b4a1df1cd292cdb7841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/0da058acca6cf0fb399e12de27f793bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/929a83a1bb2c5b4c425e4eee69900cec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/5f27217f14cf007e57e90fb418ede9901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/26e8db065f4f6e321ff3b62715e9498c1.jpg"
+	]
+}

@@ -1,0 +1,111 @@
+{
+	"id": "6939895",
+	"name": "치즈스테이크 & 키위주먹밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/3431b75df2583a7bf6ed7c7c946ab4821.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939895",
+	"ingredient_ids": [
+		219,
+		3,
+		497,
+		225,
+		214,
+		724,
+		504,
+		170,
+		497,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "다진돼지고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진소고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "머스터드소스",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "키위",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 기름을 두르고 다진 양파를 볶아줍니다.식용유1큰술, 다진 양파1/2개팬",
+		"2. 다진 돼지고기, 다진 소고기, 볶은 양파, 계란, 소금, 후춧가루를 넣어 치대줍니다.다진 돼지고기100g, 다진 소고기100g, 계란1개, 소금 약간, 후춧가루 약간",
+		"3. 끈기있게 치댄 후 동그랗게 빚어줍니다.",
+		"4. 190℃로 예열된 오븐에서 25분정도 구워줍니다.오븐",
+		"5. 스테이크가 구워지는 동안 따뜻한 밥에 참기름, 소금을 넣어 섞어줍니다.참기름1작은술, 소금 약간",
+		"6. 밥속에 알맞게 자른 키위를 넣고 동그랗게 만들어줍니다키위1개",
+		"7. 스테이크가 다 익으면 뜨거울 때 슬라이스치즈를 올려줍니다.슬라이스치즈1장",
+		"8. 케찹과 마요네즈를 뿌린 접시 위에 치즈스테이크와 키위주먹밥을 놓아줍니다.케찹 취향껏, 마요네즈 취향껏접시"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/46c8e72b67c08cae5e77a83752e44d141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/112c993edbe8160d08316ee1f5abbd711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/9f15d34c08e80541599568fe952ff50a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/7f17169e411faf336220f53d2ef26ae31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/d9b7125ad133a75a505309da777d56cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/922738db4bfcf43181cb87619f06589e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/e57a893f9eae6c787740c77888bcde531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/6ea5530f643f84caad7386a4dbe9e1231.jpg"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"id": "6856386",
+	"name": "파인애플 식초 만드는방법:)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/03/ba3f8ce25b9f5c2c8ce0fe04583e7b421.jpg",
+	"url": "https://www.10000recipe.com/recipe/6856386",
+	"ingredient_ids": [
+		172
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "파인애플",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "갈색설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "천연발효식초",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "빈병",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 식초는 발효식초를 사용해주시고, 설탕은 정제가 덜 되어있는 갈색(황색)설탕을 사용해주시는게 좋아요.",
+		"2. 깨끗이 소독된 유리병을 준비해주시고, 파인애플을 한입크기로 썰어주세요 *이때 가운데 심지는 버리지 마시고 같이 넣어주시는게 중요해요. 식초를 담글때에는 심지에 단백질 분해효소가 풍부해서 꼭 넣어주시는게 좋다고해요.*",
+		"3. 큰 볼에 발효식초+갈색설탕을 1:1 비율로 넣어주세요.",
+		"4. 설탕이 녹을 수 있도록 잘 저어주세요!",
+		"5. 설탕을 녹인 식초를 파인애플에 부어주세요.",
+		"6. 짠 완성! 이렇게 상온에 2주정도 숙성해 두었다가, 2주 뒤 남은 파인애플은 채로 걸러서 냉장보관 후 그냥 먹어도 된다고 해요. 식초는 그냥 떠먹거나 파인애플식초1:물9로 희석해서 드시면 됩니다!! *만든 식초는 냉장보관 하시고, 3주안에 드시는게 좋다고 해요:)*"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/03/de4e1486caaf0a78c0f09948f83837281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/03/e1847cbf2fea25866f2c621eb5b1d04f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/03/f78e06fa2a19191b0d282482b850f57d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/03/0bf95a9b2229e258c53be1b9090a4d251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/03/f51690b64e21d57518a966031ad87c901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/03/cd0d9cbe8c570b3e5ba96ef5604d759d1.jpg"
+	]
+}

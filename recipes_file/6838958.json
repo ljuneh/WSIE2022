@@ -1,0 +1,76 @@
+{
+	"id": "6838958",
+	"name": "번데기볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/01/d56ccf74d25b8f4b4dbacc84113429f91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838958",
+	"ingredient_ids": [
+		3,
+		325,
+		9,
+		27,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "번데기통조림",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "번데기통조림국물",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 번데기 볶음밥 재료 알아봅니다~~~번데기통조림 1캔, 양파 반개, 호박 한토막, 당근 한토막, 대파 준비합니다. 대파는 어슷 썰어주시구요. 호박, 양파, 당근은 굵게 다져 줍니다.",
+		"2. 번데기도 알맹이만 거칠게 다져줍니다. 국물은 버리지 마시구요.",
+		"3. 예열된 후라이팬에 기름 두르고 호박, 양파, 당근, 번데기 넣구요.",
+		"4. 먼저 볶아주세요. 야채가 투명해지면",
+		"5. 대파를 넣고 살짝 볶아주세요.",
+		"6. 밥 1인분 넣으시고 볶아주세요.",
+		"7. 밥도 조금 볶다가 번기기 통조림 국물 2스푼, 참기름 반스푼, 카레가루 1스푼 넣고~ 한번 더 볶아주세요. 이때 간을 좀 보시면 좀 싱겁습니다. 소금 조금만 넣으셔서 간 조절 하세요. 그리고 번데기 볶음밥 하실때!!! 번데기는 꼭 거칠게 다져주세요. 그냥 넣으시면 좀 비쥬얼이~",
+		"8. 완성된 번데기 볶음밥을 접시에 담고~~ 그 위에 계란후라이 하나 올려줍니다. 고소한 냄새에 코가 행복해지는 이 느낌~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/ae27fe70aa4da64e562ac6e94ba496201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/d07418920c372fe38b6382fac39602491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/197ff88bf14df3b5f63ae0051dcadbd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/1e2f1ca4a3909366679ba99895a3f12e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/48658d6e989a7cba54e65511f6a64f241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/b39047de2bfd1d3ae13b74efade632e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/0bfa2449cf9b818e3d507007a3e566d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/fcf736f1be04ac7e08a32e90962b9eb61.jpg"
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"id": "6940862",
+	"name": "주말요리 신천맛집 홀짝집 핫한 메뉴 따라잡기 차돌김치구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/31f58e42f32d5b3628345230db6ccde51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940862",
+	"ingredient_ids": [
+		55,
+		29
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "차돌박이",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "포기김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "화유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 김치를 물에 헹궈 물기를 짠후 가위로 썰어 놓습니다",
+		"2. 김치에 차돌박이를 넣습니다",
+		"3. 양념을 합니다",
+		"4. 팽이버섯을 손질 합니다",
+		"5. 불판을 달구고 차돌김치구이를 만듭니다"
+	],
+	"recipe_img": []
+}

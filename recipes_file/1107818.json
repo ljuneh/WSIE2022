@@ -1,0 +1,59 @@
+{
+	"id": "1107818",
+	"name": "새우야채죽 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/11c36e0a32e372d229e1ae93a3e55cf0.jpg",
+	"url": "https://www.10000recipe.com/recipe/1107818",
+	"ingredient_ids": [
+		563,
+		3,
+		9,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "칵테일새우",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "물밥의",
+			"ingre_count": "1.",
+			"ingre_unit": ".배정도"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 참기름을 두르고 잘게 썬 당근을 넣고 볶다가 잘게 썬 양파를 넣고 살짝 볶아줍니다.",
+		"2. 밥을 넣고 같이 잘 어우러지도록 섞어줍니다.",
+		"3. 물을 넣고 끓여줍니다. 바닥에 눌러붙지 않도록 적당히 저어주세요.",
+		"4. 밥이 반정도 퍼지면 새우를 넣어줍니다. 환자식이 아니면 씹히는 맛이 좋도록 작은 새우는 통째 넣어주세요.",
+		"5. 소금으로 간을 하고 참기름을 1/2큰술 정도 넣고 잘 섞어 불에서 내립니다. 김가루와 깨를 곁들여 먹습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/a7b1b5ee0e848f7c8eb067b9b6ec8ab21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/201b1570ea95e5b16cf6b21149485da51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/2a98bd7889bc8fdd584c6138eadb2fbc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/f7b513176f99a0488f85303234cf1c401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/449eb61a17fd8697a7a24bbaa9ab48f61.jpg"
+	]
+}

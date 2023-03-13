@@ -1,0 +1,77 @@
+{
+	"id": "6677691",
+	"name": "정구지 찌짐",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/4c53e86a1bac1c0219d78abc9097c15e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6677691",
+	"ingredient_ids": [
+		30,
+		387,
+		79,
+		3,
+		34,
+		79,
+		65
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "찬물",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 부추는 검지손가락 길이정도로 숭덩숭덩 잘라주세요.",
+		"2. 부침가루와 물을 넣고 잘 풀어준 다음 부추를 넣고 잘 섞어주세요.",
+		"3. 식용유 둘러 달궈진 팬에 한국자 떠넣고 잘 펼쳐주세요.",
+		"4. 아랫면이 익는 동안 고추와 새우 등 얹어주세요.",
+		"5. 앞뒤로 노릇하게 구워내세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/584137b9884bc7431d48f4dfd6f788eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/6d0ceb05a446dc72be2c588eb8004bee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/3d0b27265120075ed80f45564b07b28e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/75c3953b66982c043f14f87749474e2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/d4f69cb10b6e5c3a9471fe5ca2f8ce171.jpg"
+	]
+}

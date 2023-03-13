@@ -1,0 +1,83 @@
+{
+	"id": "6944432",
+	"name": "새내기 대학생, 조카를 위한 북어 해장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/3992d7ef56474fb94ab543dacfa9eb551.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944432",
+	"ingredient_ids": [
+		422,
+		19,
+		27,
+		333,
+		29,
+		1015,
+		660,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "북어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 북어는 머리, 벼, 살로 분리하여 손질한다.",
+		"2. ㉡ 무, 대파는 먹기 좋게 썰어두고, 계란은 풀어둔다.",
+		"3. ㉢ 멸치, 다시마, 북어 머리, 뼈 등을 넣고 육수를 내준다.",
+		"4. ㉣ 참기름을 두르고 북어, 무, 마늘을 넣고 볶아준 후 육수를 부어준다.                         ",
+		"5. ㉤ 끓으면 계란, 대파를 넣어주고 액젓으로 간을 맞추고 모자란 간은 소금으로 맞춘다. * 계란을 넣고 바로 저으면 풀어집니다.                         "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/51280076d9dfac875f8c8cff9cefbb751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/87893129f24f6638e9d9c760b7a912a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/1d4c367c17103452a2fc6373f6b0979f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/1e4871871b3b1e7193065727124a46241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/dab1de4822abef7f9e3f93eca8359c261.jpg"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"id": "6884762",
+	"name": "김치전 윤 식당 김치전 나도 만들어봤어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/01/8c74906d650ea462c37044de44c8a4081.jpg",
+	"url": "https://www.10000recipe.com/recipe/6884762",
+	"ingredient_ids": [
+		387,
+		953,
+		562,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참치통조림",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 김치는 종종 잘게 썰어 놓았어요~!~ 전 TV를 잘 안 보기 때문에  내 마음대로 만드는 레시피입니다~!~",
+		"2. 김치는 종종 잘게 썰어 놓았어요~!~ 전 TV를 잘 안 보기 때문에  내 마음대로 만드는 레시피입니다~!~",
+		"3. 요즘 이편을 자주 사용하게 되네요~!~ 팬에 반죽 부어준 후 노릇노릇 부쳐주면 완성 이지요~!~",
+		"4. 부침개라지만 이팬에 부치면 핫케이크 같지요~!~",
+		"5. 2번 부쳤더니 6조각인데 6조각을 혼자 다 먹었다는 ㅠㅠ",
+		"6. 팬이 모양을 잡아주어 동글동글 예쁜 김치 전이라 손님들 상에 올려도 괜찮을 것 같지요!~!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/01/c28b5fc2c9df37bf51bb82a181b680b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/01/270d94bca5cc429ea9ad5983c15f56d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/01/6ff1a4ee780204670150a22e496d903c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/01/60a52bcd40f645da3a37fff3d1356d971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/01/36e5a8cc6c19c6dfdd571dc84bdc31701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/01/869df51ac9099b90826e85e334613d1f1.jpg"
+	]
+}

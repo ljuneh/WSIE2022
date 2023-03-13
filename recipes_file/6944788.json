@@ -1,0 +1,116 @@
+{
+	"id": "6944788",
+	"name": "이색 전 추천요리_깻잎햄야채전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/0aa2894fb02604e214f17864d55b543e1.png",
+	"url": "https://www.10000recipe.com/recipe/6944788",
+	"ingredient_ids": [
+		15,
+		9,
+		27,
+		3,
+		628,
+		504,
+		387,
+		734,
+		327,
+		295
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 야채는 깨끗이 세척한 후 물기를 제거하고 햄과 함께 손질해줍니다. ( 당근, 깻잎, 햄 : 채썰기 / 대파, 양파 : 다지기 )",
+		"2. 튀김가루와 부침가루를 1:1 비율로 큰 볼에 넣고 골고루 섞어주세요.",
+		"3. 반죽 가루에 손질한 야채를 넣고 생수를 4~5T 정도로 나눠서 넣어주며 점도를 맞춰주세요.",
+		"4. 반죽을 섞고 후추를 2~3번 정도 넣고 잘 섞어줍니다.",
+		"5. 달궈진 프라이팬에 식용유를 두르고 한숟가락씩 떠서 평평하게 만든 뒤 부쳐주세요.중간 불",
+		"6. 위에 면의 반죽 물기가 말라갈 때 뒤집개로 뒤집어 노릇노릇 부쳐줍니다.중간 불뒤집개로 눌러주면서 전체면이 골고루 노릇해지도록 익혀주세요.",
+		"7. 앞, 뒷면이 모두 노릇하게 익은 전은 키친 타올 위에 올려서 겉면 기름기를 제거해줍니다.",
+		"8. 겉면 기름기를 제거한 뒤 접시에 담아 주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/b99e9591bb8bec5306518a52b1b6fafb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/441bd2bccf05340dc8e026d2e2d08fc41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/a56b2612b4c75abd2d7798eecbb1e00c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/4e1e33649332d4f271c43bea286a8b211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/dbdb924617039e225a400430cbc3359d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/a08de4783dbe0fb176d03ec22067f9991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/5e4b5cf5e85964568c9ce69fdf152af01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/c7987fee82b92460d09ed203777d794b1.png"
+	]
+}

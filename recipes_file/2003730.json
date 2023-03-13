@@ -1,0 +1,53 @@
+{
+	"id": "2003730",
+	"name": "아삭이 풋고추볶음 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/aca18cf75012573b8f28536b42ccb668.jpg",
+	"url": "https://www.10000recipe.com/recipe/2003730",
+	"ingredient_ids": [
+		660,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양파중자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2/3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "일반간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 풋고추 반을 갈라서 씨 제거 하시고 두동강 내서 길죽하니 쫑쫑 썰어봅시다.",
+		"2. 함께 들어갈 채소로 당근, 느타리 버섯, 양파 중자 한개. 이렇게 해서 모양 비슷비슷하게 길죽하게 썰어 준비하세요.",
+		"3. 밑양념은 짭짤달큼한 간장양념을 하니 다진마늘 약간에 일반간장 두숟가락을 넣어주세요.",
+		"4. 참기름 2/3넣고 설탕 1/3 탈탈 이렇게 해서 끝냅니다.",
+		"5. 팬에 기름 두르고 강렬하게 달궈졌으면, 양파와 당근 넣고 소금 탈탈 강력한 불에서 볶습니다.",
+		"6. 적당히 숨 죽으면 버섯을 넣어주세요.",
+		"7. 버섯 숨으면 양념장을 풋고추 썬 것보다 먼저 넣고",
+		"8. 풋고추 넣는데 넣자마자 한 두어번 젓고 불끕니다. 이게 다른 채소들 이미 열받은 상태이기 땜시 두어번 젓고 불꺼도 접시에 담고, 밥상 차리는 시간에 익거든요! 마지막으로 참깨를 넣어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/01097623aec20429d3524448768a579a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/1ea829168493a0bec15bb8872131e2bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/19783241b6dfc826a4dfe062a19104fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/f1eeafb45afa99a08a63e6012ee91c5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/02556c8f451b03850b9593a08273b28b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/e4b1114b5d56839ba99077d8dacb69af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/e8005ba72634b5b6c62bf6045ab9eebb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/98d4b5984c90d04a33c4825e09bb164e1.jpg"
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"id": "6865134",
+	"name": "정월대보금 오곡밥 만들기(압력밥솥으로 간단하게)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/12/53c1b2f5e2554f405bf11ddd9d5e87491.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865134",
+	"ingredient_ids": [
+		102,
+		497,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀3컵+1/2컵",
+			"ingre_count": "3컵+1/2컵",
+			"ingre_unit": "컵컵"
+		},
+		{
+			"ingre_name": "수수",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찰기장",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "알밤",
+			"ingre_count": "15",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팥+울타리콩",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. * 팥과 울타리콩을 한나절 정도 불려 두었다가 깨끗히 씻어 둡니다. * 수수와 찹쌀은 오곡밥 하기전 미리 불려 둡니다.(30~1시간전) * 알밤은 손질해 준비 합니다.(아이들이 먹기 좋게 잘게 잘라서 준비, 먹음직스럽게 만들고 싶다면 통째로) * 계량은 종이컵(180cc), 밥숟가락* 찹쌀은 불린후에도 으깨지지 않는것이 좋아요.  * 묵은 팥일수록 불리는 시간이 오래 걸립니다ㅏ.",
+		"2. 팥과 울타리콩은 냄비에 삶아 둡니다.",
+		"3. 불려둔 찹쌀 + 수수 + 찰기장을 넣어 깨끗이 씻은후 삶아둔 팥+울타리공을 넣어 줍니다.",
+		"4. 손질해둔 알밤을 넣어 줍니다.",
+		"5. 소금을 넣어 줍니다. * 간은 입맛에 맞게 조절합니다. * 천일염으로 3숟가락이면 약간 간간하다이고 슴슴하게 드실것 같으면 소금2숟가락에 설탕1숟가락이면 좋아요.",
+		"6. 설탕을 넣어 줍니다. * 소금과 설탕이 잘 녹을수 있게 저어 녹여 줍니다.당뇨환자분은 설탕을 생략합니다.",
+		"7. 물은 찹쌀을 불린 상태이기 때문에 평상시 밥 물량보다 조금 적게 잡아 줍니다.",
+		"8. 압력밥솥에 잡곡밥 기능으로 45분 쾌속취사(밥솥 기능마다 다를수 있으니 참고 합니다.)",
+		"9. 오곡밥이 되면 주걱으로 뭉쳐지지 않도록 저어 둡니다.",
+		"10. 그릇에 담아요. 오곡밥은 차가워도 맛있다지만 밥인지라 따뜻할때가 더 맛있는것 같아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/12/4ff5ff1ff48bbb22ef2276e534ea6be51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/12/0005aeb69d148e587d42ec159a42a5de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/12/a0b11101899980295a710a57c5be1f2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/12/5b24456266752d542afceb1590ac72ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/12/933aacf6a51de5ffa75293f441fcb4141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/12/79658bdaf53521d4d41b00f49344bd341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/12/ff9bc979eb37811a962f4c024cb2ddb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/12/42466ce764be14df5f9185dfd1a861c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/12/59f1f1bc59be0b821dc7252c1c8b14ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/12/c5dec788e6249574524739b43d7415191.jpg"
+	]
+}

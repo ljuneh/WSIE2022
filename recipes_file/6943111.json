@@ -1,0 +1,88 @@
+{
+	"id": "6943111",
+	"name": "저염백명란으로 만드는 명란오일파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/aad962c3ba7beae6fb7c50848d9dfd9b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943111",
+	"ingredient_ids": [
+		233,
+		27,
+		574,
+		735,
+		995,
+		379,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "저염백명란",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": "자유롭게"
+		},
+		{
+			"ingre_name": "편마늘",
+			"ingre_count": "",
+			"ingre_unit": "자유롭게"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "3",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "면삶을정도"
+		},
+		{
+			"ingre_name": "땡초",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "싱거우면취향껏"
+		}
+	],
+	"recipe": [
+		"1. 스파게티면 삶을 물+올리브유 1스푼을 끓여주세요.",
+		"2. 물이 끓을 때까지 명란젓을 꺼내 껍질을 제거해줘요.",
+		"3. 제거 샷 (물이 끓으면 스파게티면을 넣어줘요)",
+		"4. 팬을 꺼내 올리브유 2스푼과 파,고추,마늘을 썰어 넣어 볶아요.",
+		"5. 볶아지면 껍질을 제거한 명란을 넣어서 익혀요.",
+		"6. 뭉치지 않게 부수어 주며 익히다가 얼추 익었다 싶으면 냄비에서 스파게티 면을 꺼내 부워주세요 (팬이 작아서 팬옮김)",
+		"7. 잘 안비벼지니까 면수 2국자 정도를 부워서 볶아주세요.  저는 아까 큰팬으로 바꾸기 전에 쓰던 작은 냄비에 눌어붙은 퐁드를 가져오기 위해 면수 1국자는 작은냄비에 부웠어요. (처음부터 큰팬에 하면 됬는데..)",
+		"8. 얼추 잘 비벼졌으면 그릇에 담아 냠냠!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/4a2a73d9fd95b59fb8b4e8e189303a1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/26ed2e931858cd5549a62bb1c6b804ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/84f069e60ee46a03b98e3f7db5b40a4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/4bc134183d11b28b6de0065bca9ea2f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/65be1c659acb9dfc0908b12e79c9a0a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/f08ff8a39ed674915dc0d2d08fd143c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/6af84feaf736bd8c6fb6eba10df7643f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/6d9837f6aa34a4a61e05c9feadd674aa1.jpg"
+	]
+}

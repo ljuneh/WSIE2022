@@ -1,0 +1,33 @@
+{
+	"id": "6869756",
+	"name": "두룹 숙회",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/30/d234406b8258006071eb7cc899f94fb01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6869756",
+	"ingredient_ids": [
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		}
+	],
+	"recipe": [
+		"1. 두룹 밑동 부분의 껍질과 잔가시를 제거해 손질해 줍니다",
+		"2. 손질한 두릅은 물에 한번 씻어 주세요",
+		"3. 물이 끓으면 소금 1스픈 넣어 팔팔 끓여",
+		"4. 두릅을 믿둥부분부터 넣고 약 1분정도 데쳐서",
+		"5. 볼에 찬물을 담아 제빨리 담궈 행궈주면 두룹의 아삭한 식감을 살릴 수 있어요",
+		"6. 초장과 함께 담아 내면 두릅 본연의 맛을 느낄 수 있답니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/30/a116b932cf27d7b2eee4156c362a88741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/30/ad8437f30e3315febbfffe19ecd597fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/30/cc476dd68f1c8eeedb5a3b1fc1bb93c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/30/ac88e14b3fe0ed3e398f9243545bf0cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/30/229b04ea6ac36b5c19a3c56b58e57dd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/30/145fffdb662c4313eb318d292e59be4c1.jpg"
+	]
+}

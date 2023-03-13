@@ -1,0 +1,36 @@
+{
+	"id": "6859617",
+	"name": "요즘이 제철! 집에서 즐기는 대하 소금구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/01/d62205621c0fff1c70aaaeb7e7c1329a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6859617",
+	"ingredient_ids": [],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "생새우",
+			"ingre_count": "20",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "왕소금",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 새우는 흐르는 물에 살짝 한두 번만 헹궈준다.                   ",
+		"2. 이쑤시개로 내장을 제거한다.",
+		"3. 소금을 프라이팬에 깔아준 후 프라이팬을 달군다.",
+		"4. 손질한 대하는 키친타월로 물기를 제거한다.",
+		"5. 나란히 나란히 담고 뚜껑을 닫아준다.                   ",
+		"6. 완성된 모습                     "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/09fea2565328a4b260d98fb5a750e3341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/d6320b9ed97600213b10effe7b8b8e341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/96e0ff99c6a2aff919d670ba0e4193291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/cc2f6291548d5d6caef65cfdbd15b8dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/a9a7d2ab6a814a5bc440be639616751a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/03/81d9ec89bc60858d077f52d37a6731c71.jpg"
+	]
+}

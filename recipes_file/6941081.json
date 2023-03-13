@@ -1,0 +1,79 @@
+{
+	"id": "6941081",
+	"name": "<정식품 콩국물> 샌드위치 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/170b16a649836cb0ae5ff33b44e177631.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941081",
+	"ingredient_ids": [
+		503,
+		219,
+		3,
+		628,
+		51,
+		208
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "7",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/5",
+			"ingre_unit": "게"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "3",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "정식품콩국물",
+			"ingre_count": "10",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "딸기쨈",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 달걀의 알끈을 제거하고 곱게 풀어주세요 양파를 곱게 다지듯 썰어주세요",
+		"2. 식빵과 햄을 준비합니다",
+		"3. 토마토를 썰어주세요 달걀물에 콩국물을 흔들지 말고 맑은 물 10T를 넣고 섞어주세요",
+		"4. 팬에 식용유을 두르고 중불에 달걀물 반을 넣고 약불로 줄여 90프로 익으면 다진 양파를 넣고",
+		"5. 그 위에 햄과 토마토를 넣어 주세요",
+		"6. 달걀을 위 아래로 접은 후 불을 끄고 한김 식으면 반으로 잘라주세요",
+		"7. 나머지 달걀물을 붓고 양파, 햄, 토마토를 넣고",
+		"8. 식빵을 반장 넣고 달걀을 네모로 접어 주세요",
+		"9. 식빵에 크림치즈와 딸기쨈을 발라주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/2a634306ce788b159e51367972ea33dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/72635346fbba896a16e00f2f7be5c80c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/acc586101c4ed323ae17919cc92845c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/baa03bfccc113180b64296e90f1d6c3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/997caa5e8f43726f4e1d19256a3400ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/a0d0c74b7ef84c367c690f085aabdecf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/e70d52c97752c6dc2046768b6cea1ab51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/9cf02d2b04b967d680cd9350836968811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/1d5b85d104841572ebedb2e51048b20b1.jpg"
+	]
+}

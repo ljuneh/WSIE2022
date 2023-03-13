@@ -1,0 +1,65 @@
+{
+	"id": "6576698",
+	"name": "들깨무국 끓이는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/4c1806cc36aa1146228e0a06b5c090a31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6576698",
+	"ingredient_ids": [
+		19,
+		1015,
+		327,
+		349,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "들깨",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쪽파(or대파)",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 양파, 멸치, 표고버섯을 넣고 우린 육수에요 .",
+		"2. 무1/2을 채썰어주세요.",
+		"3. 달군팬에 들기름 1스푼과 채썬무, 국간장 1스푼을 넣어 볶아줍니다.",
+		"4. 무가 조금 투명해질려고하면 냄비에 육수 1.5L와 함께 넣고 끓여주세요.",
+		"5. 무가 푹 익도록 팔팔 끓여준다음 들깨가루 3수저를 넣고 한소끔 더 끓여주면 끝이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/0d4a5c5d61944a10eb0e129c0f1f036e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/0d7c212b0849d75e8c53e5f8763d057c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/036afc3c4dfeb1e76915ba994379fb281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/90a5afc4b90ef25fd9c01dc0602913181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/f216dee3c5dcf54944f59662c9e065f11.jpg"
+	]
+}

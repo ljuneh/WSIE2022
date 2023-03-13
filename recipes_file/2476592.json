@@ -1,0 +1,87 @@
+{
+	"id": "2476592",
+	"name": "전통간식 약과 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/707a9ac3ff50948c9b4b648ecbc0472f.jpg",
+	"url": "https://www.10000recipe.com/recipe/2476592",
+	"ingredient_ids": [
+		660,
+		497,
+		225,
+		227,
+		995,
+		28
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "우리밀중력분",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "소주2+2/3Ts",
+			"ingre_count": "2+2/3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "조청시럽-조청",
+			"ingre_count": "400",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "장식해줄건대추와잣",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 먼저 조청시럽을 만들어둡니다. 냄비에 조청, 물, 얇게 저민 생강을 넣어 섞어준다음, 약한 불에 올려 끓기 시작하면 3~4분간 더 끓인뒤 식혀줍니다.",
+		"2. 반죽을 시작하기 전에 튀길 기름을 부어 약불에 올려두세요.",
+		"3. 우리밀, 소금, 후춧가루를 넣은 볼에 참기름을 넣어서 손으로 고루 비벼서 섞어줍니다. 빵가루처럼 고슬고슬해질때까지 섞어주세요.",
+		"4. 이것을 체에 한번 내려줍니다. 그런다음 소주와 꿀 섞은것을 넣고 가루가 보이지 않을때까지만 고무주걱으로섞어주세요. 너무 오래 섞으면 단단해지고 켜가 잘 일어나지 않아요.",
+		"5. 손으로 뭉쳐서 한덩어리로 만들어서 작업대에 올려줍니다. 밀대로 밀어준다음, 반절을 잘라서 겹친후 다시 밀어주세요. 이렇게 밀고 반죽을 겹치기를 2~3차례 더 반복해주시면 결이 많고 맛있는 약과를 만들수 있어요.",
+		"6. 겹쳐서 밀기를 반복한 반죽을 0.8mm~ 1cm 정도의 두께로 밀어주고, 칼로 한입크기로 잘라주세요.(약 3~3.5cm의 정사각형) 속까지 골고루 익도록 포크를 깊이 찔러 구멍을 내어줍니다.",
+		"7. 100℃로 달구어진 기름에 반죽을 넣어 반죽이 떠오르고 켜가 일어나도록 튀겨줍니다. 기름의 온도를 140~150℃로 올려서 고루 갈색이 나도록 튀겨주세요.",
+		"8. 튀겨진 반죽은 체에 밭쳐 기름을 빼거나 키친타올에 올려 기름을 빼줍니다. 기름이 빠지면 만들어둔 조청시럽에 30분정도 담가두세요. 조청시럽을 듬뿍 머금은 약과를 하나씩 건져서 체에 밭쳐둡니다. 그러면 어느정도의 시럽은 아래로 빠지고, 겉면은 살짝 말라서 포장하기에 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/bbdc8386d45fc8b80eb27394aa0ef0f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/f36d84ccc51bef1690192d38cff9582a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/bf98b71659aa762e1b6a6907bd4805b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/b805e4a88ade01668c0625e34a5d9b091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/4c7dc542c248c31a8843ea14ae0dcd7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/718d4b7c0da16045e07820d0371000a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/3e1dc8a03ee88117778053de9ed0a0631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/08/d97b3509651b2c909a67babcb3c8c1001.jpg"
+	]
+}

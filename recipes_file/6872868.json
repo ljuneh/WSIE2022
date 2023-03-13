@@ -1,0 +1,46 @@
+{
+	"id": "6872868",
+	"name": "중복에는 전복삼계탕 호로록~~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/17/7b99551cde04099b33780b27ab7418ba1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872868",
+	"ingredient_ids": [
+		86,
+		132,
+		944
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "전복",
+			"ingre_count": "6",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "황기",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 싱싱한 활전복 보기만해도 좋아좋아~~ ㅎㅎ",
+		"2. 손질합니다 솔이나 칫솔을 이용해 전복을 잘 닦은 후 칼이나 수저를 이용해 전복살을 분리 하는데요 내장은 터지지 않도록 분리해서 따로 보관합니다 요건 전복죽 끓일때 사용해요 이빨도 제거해요",
+		"3. 닭은 압력솥에 앉히고 대추, 황기 넣고 전복도 넣고 물 부어 끓입니다. 삼계탕 약재 시판되는 제품도 있네요 편리하게 사용해도 되겠습니다",
+		"4. 불린찹쌀 넣고 끓여도 되는데요 우리가족은 썩 좋아하지 않아서 백숙처럼 삶아요 칙칙 끓으면 불 줄여 10분 더 끓이고 불 끄면 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/17/6e2feb3353a629a1ce1d0c73a80ceabb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/17/0139c01b7ef7b22da77a7b7d3444cf5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/17/05fdf8b7808e57d1625ad27b9506a68c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/17/a690c64f4a93af180c051cb855c296041.png"
+	]
+}

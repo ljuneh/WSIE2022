@@ -1,0 +1,81 @@
+{
+	"id": "6212833",
+	"name": "연잎밥 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/646b3b11e4e3ec4628455146bfcd48fe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6212833",
+	"ingredient_ids": [
+		602,
+		330,
+		115,
+		109,
+		187,
+		132,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "연잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "찹쌀2+1/2컵",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "멥쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "팥",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "강낭콩",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "잡곡",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 찹쌀, 멥쌀에 소금을 조금 넣고 고슬고슬하게 밥을 지어요",
+		"2. 밤과 대추도 준비해요",
+		"3. 밥에 밤과 대추를 넣고 고루 섞어준 뒤",
+		"4. 연잎 위에 올려요",
+		"5. 밥을 올린 연잎을 접어 줍니다",
+		"6. 이렇게요~~",
+		"7. 김이 오른 찜 솥에 15 ~ 20 분 정도 쩌줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/e95b2c8f9761a69ebd182407ff0fbe811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/09a6164f391b8c84c9097f27f49c6b491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/b0e4123734d9b22796b12a2a717db08f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/9d84aecb5ec978244bbad0e4636589351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/7b7cd6e615065c44412f903100abb33b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/65f327fe3c68d8917f80647efcc9693a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/fea5940fce0739b6dd05450167d48a8e1.jpg"
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"id": "4493801",
+	"name": "꽈배기도너츠 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/4126f826d3a3c874ebfaca1b16422836.jpg",
+	"url": "https://www.10000recipe.com/recipe/4493801",
+	"ingredient_ids": [
+		369,
+		198,
+		226,
+		497,
+		567,
+		504
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "밀가루강력분",
+			"ingre_count": "260",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "미지근한물과달걀1개섞은물",
+			"ingre_count": "135",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "인스턴트드라이이스트",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕(굴림용)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 제빵기에 액체->가루->첨가물 순으로 담아 반죽합니다. 미지근한 물과 달걀을 먼저 넣고 강력분, 설탕, 소금, 드라이이스트를 넣어줬습니다. 이때 설탕, 소금, 드라이이스트는 서로 닿지 않도록 사이를 띄어서 넣어 주셔야해요.",
+		"2. 반죽이 완료되면 1차 발효를 해줍니다.",
+		"3. 발효가 된 반죽은 꺼내 손으로 주물러 가스를 빼줍니다.",
+		"4. 45g씩 분할해서 동글려줍니다.",
+		"5. 젖은 면보를 반죽위에 덮어 중간발효 10분 해줍니다.",
+		"6. 중간발효가 끝난 반죽은 하나씩 주물러준후 길이 40cm 정도로 길쭉하게 밀어준후 꽈배기 모양으로 베베 꼬아줍니다.",
+		"7. 꼬아준 반죽은 오븐팬위에 간격을 띄우고 올려줍니다.",
+		"8. 2차발효 40분 해줍니다.",
+		"9. 2차발효까지 완료된 반죽입니다.",
+		"10. 튀김온도는 165도 정도로 너무 높지않은 온도에서 튀겨주셔야 합니다.",
+		"11. 튀긴 도넛은 설탕에 골고루 굴려내면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/c64a6c3122c785de4cb22224bf7ca88f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/b2bec332da7c214935d7f561bb2da5361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/c117721f4a7c285668c1908d2205c96e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/a5d0148286765e6e6e8802ae29746af71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/ec0172673e6539935e76e0058951b70d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/258f614eb7f1de063b2392ebfc8b39241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/90276af0aea38058d8836e27d44c08cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/6a3f06864c108820e787eafd5a3d7f471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/592641d95a948f51c8769e7d8d0fa0d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/2d55c13af7f3b042fa60d3aefd1f11591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/6825d9dd9e38014e4dfda6b69383543e1.jpg"
+	]
+}

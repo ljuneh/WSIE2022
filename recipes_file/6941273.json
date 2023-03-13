@@ -1,0 +1,93 @@
+{
+	"id": "6941273",
+	"name": "애호박구이덮밥:아침밥, 혼밥,다이어트밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/df94c4fcc4c4dc41d668f6560a31e3831.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941273",
+	"ingredient_ids": [
+		7,
+		504,
+		660,
+		327,
+		51,
+		3,
+		9,
+		547,
+		290
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "잡곡밥",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "부추(또는파)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 애호박은 두껍지않게 썬다",
+		"2. 달군 팬에 식용유 두르지 말고 애호박을 굽는다.",
+		"3. 애호박을 뒤집고 식용유 조금만 두르고 한번 더 뒤집는다. *식용유를 적게 쓰고 애호박을 맛있게 굽는 방법이에요.",
+		"4. 부추 등 채소를 잘게 다진 후ㅡ",
+		"5. 양조간장과 참기름 넣어 섞는다.양념간장 속 채소는 파,마늘을 넣어 만들어도 좋고 부추만 넣어 만들어도 상관없어요. 냉장고 사정껏 만드세요.단, 기름은 참기름을 넣는게 제일 맛있어요.",
+		"6. 쌀 조금, 늘보리,찰현미,귀리,수수,완두콩 등을 넣어 밥을 짓는다 밥위에 올리는 반찬이 단순할 수록 밥은 잡곡밥으로 지어 영양균형을 맞춰주세요.",
+		"7. 접시에 밥을 담고 들기름을 두른다. 애호박구이을 얹고 양념장을 그 위에 얹는다 기호에 따라 달걀프라이나 스크램블에그를 올려도 좋아요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/8a14b707f01f1a5012073e176bb333dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/7f465fdd309ff12024fa961a962c5a741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/dc9423cdac7c3ad4e712cb9cbe66f0b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/e68f6897749c20dde838f326071163501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/20f022b4baf899adb88785f7992709dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/21a37c83a75db6ff91e00930cc16a5ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/41e5e5051301c9d1c99211a331e427941.jpg"
+	]
+}

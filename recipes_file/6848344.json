@@ -1,0 +1,70 @@
+{
+	"id": "6848344",
+	"name": "삼대천왕 소시지 라면",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/18/4b1a420f7b5dfe97758d83934e3130341.jpg",
+	"url": "https://www.10000recipe.com/recipe/6848344",
+	"ingredient_ids": [
+		441,
+		39,
+		224,
+		27,
+		29
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "죽순",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 물 1.5컵을 붓고 꿇여 오르면",
+		"2. 라면을 넣어준다.",
+		"3. 죽순, 소시지, 대파를 먹기 좋은 크기로 썰어 준비한다. 죽순은 없으면 안 넣어도 됩니다.",
+		"4. 물이 끓어 오르면 썰어둔 소시지와 죽순을 넣어준다.",
+		"5. 고춧가루 1숟가락,",
+		"6. 마늘, 달걀을 넣고 팔팔 끓인다.",
+		"7. 대는 송솔 썰어 올려주고",
+		"8. 달걀 1개를 넣어준다.",
+		"9. 대파향 그윽합니다.",
+		"10. 완성된 라면. 어릴 때 많이 먹었던 라면, 문방구 앞에 파는 소시지 넣어 만든 맛있는 라면이었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/c261a5269d4f4bbfd4623596df1a247e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/42583ba15190438f401bf4cbd52978111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/15e78f867909fb5117429bc25532fb4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/a8cd9f174887e241f797145a0a6ac83e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/977a3033124292451bbbe9b50750d9e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/07658f1071f8db8d9fbb15c4083fbc941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/97ee5f2fac95db61a9d6e6bb04e537dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/485fcff1b7e5bde7944e9bf57052b4521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/1afc212d81e59432c0f72c5c2e8293521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/01/74c42d34e7e38bd41270ebb3590de0b71.jpg"
+	]
+}

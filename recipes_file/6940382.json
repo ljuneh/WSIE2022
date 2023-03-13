@@ -1,0 +1,86 @@
+{
+	"id": "6940382",
+	"name": "﻿오징어간장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/6afee422770437c6db298af8322f26731.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940382",
+	"ingredient_ids": [
+		379,
+		477,
+		843,
+		292,
+		455,
+		995,
+		327,
+		29,
+		27
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "반건오징어",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. ﻿ 피데기 5마리로 오징어조림 만들게요 먹기좋은 사이즈로 가위질 해 놓아요 ﻿",
+		"2. ﻿들기름에 대파, 슬라이스한 마늘부터 볶을게요",
+		"3. ﻿ 간장(2T), 굴소스(1T), 매실액(1T) 맛술(1T), 생강가루(1t), 물(2T)넣고 바글바글 끓여요 ﻿",
+		"4. ﻿ 오징어 넣고.. ﻿",
+		"5. ﻿ 센불로 뒤적이며 조림 합니다 ﻿",
+		"6. ﻿ 참기름 톡~~ 마무리 합니다 ﻿"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/325896263c5f334c569915475b5211c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/40987289b7b0063b697d6115ce6db4121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/f3b41bad131106371d902aad91a60ff11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/a8a53f0433255f02a8c0a11f405c15d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/b45eb7b67eb1ff723614f01ee92639541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/b5e39e33771cdcbd74fd150d7f03ee481.jpg"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"id": "6944865",
+	"name": "키토제닉 식단: 연어 샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/9a23fc2761a1f52ed329fe4c5a86ddb41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944865",
+	"ingredient_ids": [
+		162,
+		51,
+		8
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "횟감용연어",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "로메인상추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 연어 로메인 상추 방울 토마토 오이 아보카도 양파 ※냉장고에 있는 채소들을 활용해주세요. ",
+		"2. 연어는 먹기 좋게 깍뚝 썰기를 해줍니다. ",
+		"3. 소스는 간단하게 간장1: 식초1: 육수(또는 물)1 천연 감미료로 단맛을 조절합니다. ※키토제닉 식단에서 설탕은 완전하게 빼야합니다. ",
+		"4. 원하는 만큼 소스를 넣고 재료들과 잘 섞어줍니다. ",
+		"5. 토마토,연어,오이,아보카도,로메인상추,양파 재료들의 어우러짐이 참 맛있어요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/c708bd11e5df713499ac32df4032a04e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/e1fc550bd893453bc0c983c0bf1b06781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/1df347a275a56cd7fe7c8f74a95c59f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/892c8c476083afc9e54f40505e8120361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/7d55fd8115e2ac671971eb1ceef031a51.jpg"
+	]
+}

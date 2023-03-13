@@ -1,0 +1,108 @@
+{
+	"id": "6943889",
+	"name": "간단히 속재료 푸짐하게 직접 만드는 새우춘권",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/75fcf6a6837419859ffdaec150927e861.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943889",
+	"ingredient_ids": [
+		556,
+		477,
+		497,
+		995,
+		515
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "춘권피",
+			"ingre_count": "22",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "흰다리새우",
+			"ingre_count": "15",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "적양배추",
+			"ingre_count": "1",
+			"ingre_unit": "잎"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2/3",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "데친숙주",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "피쉬소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "칠리소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "토마토칠리소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 춘권을 준비 합니다",
+		"2. 적양배추를 잘게 썰어놓습니다",
+		"3. 숙주를 데쳐 잘게 썰어놓습니다",
+		"4. 새우를 썰어놓습니다",
+		"5. 모든 재료에 양념을 합니다",
+		"6. 골고루 섞어줍니다",
+		"7. 춘권피에 속재료를 넣고 춘권을 만듭니다",
+		"8. 춘권을 노릇노릇 튀김니다",
+		"9. 소스와 춘권을 접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/9dcd58d74a0ea7bdc3b5a7bbad05b56b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/5bffc221babaf24a90534f0678c0af491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/f48de7b8b84db3656fbe00acf071017b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/cce159313fe583db9319fbda14f2a8921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b5a799c2fde63f26527f980e113f93e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/75f291fe4df82733cc746159380951851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c4982aa2c0c890c4b33d69b21697f8661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/07d4daeec58c98ecea34066326271ac91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/e1d7b6e42234010817f523e0864d5d961.jpg"
+	]
+}

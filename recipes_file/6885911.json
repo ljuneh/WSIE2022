@@ -1,0 +1,82 @@
+{
+	"id": "6885911",
+	"name": "[오쿠] 사계절 내내 먹기좋은 나박김치, 나박김치 간편 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/21/315d503a25822cee4c337103c6df22171.jpg",
+	"url": "https://www.10000recipe.com/recipe/6885911",
+	"ingredient_ids": [
+		19,
+		3,
+		9,
+		28,
+		29,
+		226,
+		497,
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1000",
+			"ingre_unit": "cc"
+		}
+	],
+	"recipe": [
+		"1. 무,양파,당근은 가로 2cm, 세로 3cm, 두께 0.2cm 정도로 썬다.",
+		"2. 생강과 마늘은 납작하게 슬라이스로 썰고,",
+		"3. 파는 3cm길이로 썰어 준비한다.",
+		"4. 각 알맞게 썰어놓은 채소는 오쿠내솥에 모두 넣고, 준비한 소금,설탕,물을 내솥에 부어준다.",
+		"5. 도자기 뚜껑과 압력뚜껑을 결합하고 나또 메뉴를 선택한 후 예약버튼을 눌러 온도를 45도로 조절해줍니다. (예약버튼을 눌러 온도조절모드-> 45도로 온도조절->예약버튼을 눌러 세팅완료)1. 가열판에 가열물 600ml를 부어주세요. 2. 압력뚜껑에 압력패킹이 잘 끼워져있는지 확인해주세요. 3. 압력뚜껑 결합 후 압력추를 정 위치에 세워주세요.",
+		"6. 온도조절 후 시간조절버튼을 이용해(Λ,Ⅴ) 시간을 3시간으로 조절하고 시작취소 버튼을 눌러 조리를 시작해 줍니다.",
+		"7. 3시간뒤 나박김치가 완성되었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/21/b3e063b5ee8efa23df0b48d74d2c50131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/21/0fbf405b973234536a3e5cac0abb4ed61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/21/6ac1b5b999b91e4cf13050daa92c803c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/21/744c943302f5efa58ae7efa6427dc0a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/22/40b741e29b3ebb2ef0439f50934bc2ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/22/fde6bc3cb0a244fe54d4a764a0b5d01a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/21/d3d9c51c7f2c29854e09ec975f6a40a21.jpg"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"id": "6878671",
+	"name": "계란탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/27/10fb9a0aebdeef9273135ec5829b53fb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6878671",
+	"ingredient_ids": [
+		219,
+		27,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "1~2t",
+			"ingre_unit": "~t"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. *재료 준비! 달걀2개와 대파1개를 준비한다.",
+		"2. 냄비에 물1/2 부은 후에 물이 끓으면 달걀2개를 하나씩 깨트려 넣는다.",
+		"3. 달걀을 고루 잘 풀어준다. 다시다1~2t과 소금 1t넣고 풀어놓은 계란과 고루 섞는다.",
+		"4. 다듬은 대파를 어슷썰기한다.",
+		"5. 대파를 계란탕에 넣고 고루 섞는다.",
+		"6. 중약불로 3~4분 더 끓여서 가스불을 끈다.",
+		"7. 그릇에 담아낸다. 담박 시원한 계란탕 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/27/fb3222905965d1ee11a67e36c3fe4c491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/27/cd195a0b1fa54a0b19649613cdc0bfa81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/27/21431d09784eb01bca54dead404d6e961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/27/d54c520d8dc928e4def6fc7ef378df111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/27/9c199c9fd46af7f6ab6335e7fd7a98341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/27/bd6e14e6973847ef328c875a54e493df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/27/ea3b1caea2ddcf85b42de80d9bad46201.jpg"
+	]
+}

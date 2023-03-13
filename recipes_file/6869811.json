@@ -1,0 +1,51 @@
+{
+	"id": "6869811",
+	"name": "《친정엄마손맛》 고추부각 이제 튀기지말고 볶아드세요~ 초간단 고추부각볶음~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/15/799dc76ef9b1e4aa237a5696d812ddbf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6869811",
+	"ingredient_ids": [
+		504,
+		291,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "고추부각",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "들기름(참기름)",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 둥근팬에 식용유 3,들기름(참기름) 3을 넣고 팬이 달궈지면 약불로 줄여주세요",
+		"2. 고추부각 3줌을 넣고 골고루 기름이 묻도록 잘 섞어줍니다",
+		"3. 기름코팅 한 고추부각을 약불에 조심조심 뒤적여줍니다.고추 매운냄새가 올라오고 색이 옅은 갈색으로 바뀌면 불을 꺼주세요",
+		"4. 한소끔 식힌후에 맛소금 2/1,설탕 1을 넣고 살살 섞어주세요.(소금,설탕은 취향껏 넣어주세요) 바삭한 고추부각볶음 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/15/fb62dfb9c05e750756acb1d662fb8d4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/15/27320b810efc2d4cea7db0fe023e20711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/15/f88d17cffd9a52954970576fc1c12c2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/15/02df01b1e8bfe576d8650436003735781.jpg"
+	]
+}

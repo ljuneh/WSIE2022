@@ -1,0 +1,86 @@
+{
+	"id": "6942704",
+	"name": "고추장 참치덮밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/ecc5e7ae0cc8645f818f9dd8ee2819b01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942704",
+	"ingredient_ids": [
+		995,
+		9,
+		3,
+		473,
+		341,
+		226,
+		224
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새싹나물",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 중불에 프라이팬을 조금 달궈주신 후 식용유를 계란 프라이 2개 할 정도? 양을 부어줍니다!",
+		"2. 채 썬 당근하고 양파를 프라이팬에 넣어주시고 볶아주세요! 너무 센 불에 하지 마세요 중불로!!!",
+		"3. 자!! 양파를 보시면 색깔 보이시죠. 갈색빛이 조금 보이기 시작하시면 다 볶으신 거예요.",
+		"4. 프라이팬에 참치 한 캔을 넣고 야채와 같이 볶아주세요. (참치 넣기 전에 참치 기름 빼주셔야 해요!)",
+		"5. 분 정도 볶아주셨으면 양념장과 물을 프라이팬에 넣어주시고 볶아줍니다! 볶으실 때 색이 너무 연하다고 이상하게 생각을 하실 수도 있는데 연해야 정상이에요! 물 넣고 양념장을 넣은 상태에서 볶으시다 보면 점점 빨갛게 변해요.",
+		"6. 이 정도 볶아졌으면 끝입니다! 사진 보시고 어느 정도 볶아졌는지 모르시겠으면 흐음.... 닭갈비 드실 때 국물이 자작하잖아요? 딱!!! 그 정도입니다! 어느 정도 볶아져야 사람들이 이해할 수 있는지 5분 동안 생각하고 있었네요. 헣 다 하시고 계란 프라이 하나 해주세요. 계란 프라이는 여러분 취향대로 하시면 좋습니다! 저는 반숙을 좋아해서 반숙으로 했어요!",
+		"7. 밥 한 공기를 그릇에 넣어주시고 고추장 참치를 밥 위에 얹어주신 후 그 위에 계란 프라이도 얹어주세요. 그리고 그 위에 고명으로 새싹 나물 올리고 볶은 깨 뿌렸습니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/84a365533569025de40019bf752f1ded1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/11fdede13134a968721d900950767a331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/5d052b9f91d707299ce0b36190d18a7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/7dbe057a7afaa89f921afc1810dda8e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/d3e3f4c0c56371b604db63c96072ecde1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/05065fd6b19c3f30a094fa3c0fad05961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/a8b24d08f84ac31165fcc015f060e4a61.jpg"
+	]
+}

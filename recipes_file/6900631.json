@@ -1,0 +1,58 @@
+{
+	"id": "6900631",
+	"name": "달달한 무우나물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/22/0ad8e851953acce5e8c519011c5cd14c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6900631",
+	"ingredient_ids": [
+		497,
+		29,
+		876
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "무우1/2도막(700g)",
+			"ingre_count": "1/2도막(700g)",
+			"ingre_unit": "도막(g)"
+		},
+		{
+			"ingre_name": "잔파",
+			"ingre_count": "5",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "3",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "5",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 무우반도막을 채를곱게 썰어주고 잔파는 1cm크기로 썰어 주세요 쌀뜨물3수저를 준비하세요",
+		"2. *채를 썰어놓은 무우를 소금반수저에 10분정도 절여준다 *무우에서 수분이좀 나오게 하고 소금이 무우에 잘스며들어 간이 잘빼이도록 하기위함",
+		"3. 올리브오일5수저를 넣고 마늘반수저를 넣어 마늘향을 내고",
+		"4. 팬에 무우,쌀뜨물3수저를넣고 볶다가 약불에서 뚜껑을 덮고 서서히 익혀주세요",
+		"5. 무우가 잘익었다면 썰어놓은 파를 넣고 파를 살짝익힌후 불을꺼고 뚜껑을 잠시 덮어 두세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/22/2fc7b3f5efebee36a9d779da4906669d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/22/f5fdf1a46b83e7c9046b7c56b29870e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/22/9c7a16150dbf3b379fad5d5f4ace8bd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/22/2573edfb03065be9946fc66075951faa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/22/55e783225d8b73efc25d898d464d32da1.jpg"
+	]
+}

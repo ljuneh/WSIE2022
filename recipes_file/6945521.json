@@ -1,0 +1,99 @@
+{
+	"id": "6945521",
+	"name": "카모메식당에서 나온 시나몬롤 에어프라이어 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/13cc816adc886f866b5260945fa864491.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945521",
+	"ingredient_ids": [
+		866,
+		226,
+		497,
+		198,
+		478,
+		471
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "중력분",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "드라이이스트",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계피가루",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 버터를 전자레인지에 녹여줍니다.",
+		"2. 녹인버터 1/2, 우유, 계란을 섞어 계란물을 만들어 줍니다.",
+		"3. 채친 밀가루에 3개의 홈을 파 이스트, 설탕, 소금을 넣고 서로 안닿게 밀가루와 섞어줍니다.",
+		"4. 밀가루에 만들어둔 계란물을 부어 가르듯히 반죽하다 손반죽 2분 정도 해 줍니다.",
+		"5. 1차 발효 30분",
+		"6. 2차 발효 30분",
+		"7. 발효하는 동안 계피가루, 녹인버터 1/2, 흑설탕을 넣고 섞어 줍니다. (우유 2스푼 정도 넣어 주시면 좋아요.)",
+		"8. 발효가 끝난 반죽을 직사각형 모양으로 얇게 펴 줍니다. (반죽이 질은 편이기 때문에 덧가루를 충분히 묻혀주세요.)",
+		"9. 만들어둔 시나몬설탕을 반죽 위에 전체적으로 잼바르듯이 발라줍니다.",
+		"10. 잘 말아줍니다.",
+		"11. 마지막 이음매는 손가락으로 꼬집어 모양이 고정되도록 해줍니다.",
+		"12. 반죽을 어슷썰기하여 모양을 잡아줍니다.",
+		"13. 손가락이나 납작한 도구로 중간을 한번 눌러 줍니다.",
+		"14. 예열된 에어프라이어180도 10분 구워줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c4a5077eab9344f0072807fe1160b4ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/8e919568cd83d6452a1e9ee6010b12931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/0fe0ab5142e19dfaa5aebcfbd8b4232d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/baeb6d0ee4f57ec56c0ba9cf8e6318911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/e1416e60ab4c44516fd6d8a2517fdb161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/56be44d6a3bcb8a0b7137fb4ccc6fe411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/3ce35c94a4387be2df59958e790291931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/e2e0856256501645a0562904216c87e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/5e9aff4a18e4841056a8cd481dbe178d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/a0c8076a26c8aa7945ca866aa1f81af61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/64eaaa626932c7c2aed0cca664cdc7331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/b4e8ba1e03d4fac4002afda19f837c2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/bf80d19409ee80381f41485c3794bab11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/e6958533d596bd1672cf043df7c18bc81.jpg"
+	]
+}

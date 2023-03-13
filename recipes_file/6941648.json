@@ -1,0 +1,56 @@
+{
+	"id": "6941648",
+	"name": "대파 닭고기국 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/e224c77e94457c4d074517c8809d34471.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941648",
+	"ingredient_ids": [
+		299,
+		27,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "닭다리살",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "1",
+			"ingre_unit": "스폰"
+		}
+	],
+	"recipe": [
+		"1. 마트에 있는 뼈없는 닭다리살로 만들면 제일 쉬워요",
+		"2. 닭다리살 2조각,대략 3인분 정도의 닭다라살을 물로 깨끗이 씻고 키친타월로 물기를 닦아주세요",
+		"3. 대파 한개를 잘게 썰어주시고 큰그릇에 담아주세요",
+		"4. 팬 먼저 가열 하고 기름 필요없이 닭다리살 껍질 부분을 팬에 넣어주시고 중간불로 천천히 구워주세요.",
+		"5. 닭다리살 구우면서 물을 끓여주세요.",
+		"6. 닭 껍질이 노랗게변했을때 꺼내서 도마에 먹기좋게 썰어주세요 .이때 닭껍질 만 구워주세요 이때 닭 껍질 기름이 많이 나올수 있습니다",
+		"7. 팬에 닭 껍질 기름을 키친타월로 잘 닦고 썰은 닭고기 다시 팬에 넣고 구워주세요",
+		"8. 닭고기 다 익으면 끓인물을 부어주시고 1~2분정도 끓이고 소금 조금 넣고 후추가루 반스푼 넣어 간 맛보세요.",
+		"9. 완성된 국을 파가 담긴 그릇에 부어주시면 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/30aa455be38650bfc140de4db495b8411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/2ab58e197aedb7536c1faea90120afef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/b43caf02e8e9beb77d1f0f4a7d8ccf961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/19dd89a2f4557b563af1dad5027807c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/dd478be680d88373863c318bde26c5fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/487c48873377e9fa7858230e20e960a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/03cc9dcadc1f81956b2ebd14023f74c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/ec37ee4892fa3e74a28abbb46e9bf0cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/cafb8a2a80d6b58194036133ea9481b21.jpg"
+	]
+}

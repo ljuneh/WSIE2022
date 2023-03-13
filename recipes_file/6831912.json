@@ -1,0 +1,67 @@
+{
+	"id": "6831912",
+	"name": "고소한 두부쌈장으로 양배추쌈 싸먹기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/cedc24e587f8c8ce164e68993d8913cc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6831912",
+	"ingredient_ids": [
+		7,
+		3,
+		323,
+		848,
+		473,
+		765,
+		327
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "쌈장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 애호박과 양파는 잘게 다져주시고",
+		"2. 들기름1큰술 둘러 팬에 볶아주세요",
+		"3. 양파가 투명해지면 물한컵을 붓고",
+		"4. 분량의 된장, 고추장, 쌈장을 넣은뒤 다진 두부도 넣어 으깨면서 끓여주세요",
+		"5. 국물이 자작해질정도로 끓여내면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/cf10eebf3aea29336c806075f7a928961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/ae736077211be415314f1beb760815fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/06ee9aa05c81eb55377b3e9e48608b951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/29e89684360b96741f910272a523806e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/13/31def0ac452f8efa846cd090328e57241.jpg"
+	]
+}

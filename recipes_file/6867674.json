@@ -1,0 +1,67 @@
+{
+	"id": "6867674",
+	"name": "봄김치 맛있는 하루나겉절이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/30/446889b788faabe5782414c69be8ebee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867674",
+	"ingredient_ids": [
+		282,
+		287,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "하루나",
+			"ingre_count": "2",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "7",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "조미료",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 하루나를 준비합니다",
+		"2. 손질하여 살살 씻어 놓습니다",
+		"3. 굵은소금에 절입니다",
+		"4. 잘 절여진 하루나는 깨끗히 씻어 체에 받칩니다",
+		"5. 하루나에 모든양념을 하고 살살 무칩니다",
+		"6. 기호에 맞게 간은 젓갈로 가감합니다",
+		"7. 접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/30/826313cac1c3f24349956070f69401ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/30/88dcd2a6c8ff5e6dc1817682240a96181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/30/ad057e52c6232228bc28887f7420d0701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/30/80db1e478373f2fd9190d44d47be0e201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/30/5397eefe319e060ac17bc5a3d90cfea81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/30/0d8d59620d672ef03c9f7ba0ea525ec61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/30/14109507d7e550c2501b115fd03937a41.jpg"
+	]
+}

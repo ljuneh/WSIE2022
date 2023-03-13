@@ -1,0 +1,70 @@
+{
+	"id": "6944067",
+	"name": "[베이컨볶음밥 만드는 법]한그릇 요리 볶음밥 레시피!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/ad16a8262f176b24ea66ff7f0bafb5891.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944067",
+	"ingredient_ids": [
+		406,
+		27,
+		54,
+		477,
+		660,
+		469
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해 주세요.밥 1공기, 베이컨 2장, 대파 1/2대, 양송이버섯 2개",
+		"2. 재료를 준비해 주세요.굴소스 1.5큰술, 참기름 1큰술, 카놀라유",
+		"3. 프라이팬에 카놀라유를 두른 후 대파를 넣고 중불에서 1~2분 정도 볶아 주세요.대파 1/2대, 카놀라유",
+		"4. 베이컨, 양송이버섯을 넣고 중약불에서 2분 동안 볶아 주세요.베이컨 2장, 양송이버섯 2개",
+		"5. 밥, 굴소스를 넣고 중약불에서 1~2분 동안 볶아 주세요.밥 1공기, 굴소스 1.5큰술",
+		"6. 불을 끈 후 참기름을 넣고 잘 섞어서 마무리해 주세요.참기름 1큰술",
+		"7. 베이컨 볶음밥을 그릇에 예쁘게 담아 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/a86bb8a420c10eb6fd921bdb3785ec511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/ce002de2d141a8980a2f8dffece905881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/db17a0f5d8bad02bd9986865f945644b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/b4779612614b094274ea064c5ebc660b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/60673ad7c7aeec8b74ed07da6818988c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/027e52fb8ec524b87fed118c2c1187981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/e54c5853ebbdf5a9c3fc7ac76b84a2151.jpg"
+	]
+}

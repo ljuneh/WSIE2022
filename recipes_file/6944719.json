@@ -1,0 +1,62 @@
+{
+	"id": "6944719",
+	"name": "대추고 만들기_몸을 따뜻하게~ 면역력 UP!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/a8709452fb52e2af4c069066847b2e371.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944719",
+	"ingredient_ids": [
+		132,
+		995,
+		995,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "대추",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2.",
+			"ingre_unit": ".리터"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "체에내린대추과육건더기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 대추를 찬물에 비벼가며 두 번 씻고 베이킹소다를 뿌린 물에 5분 담가 한번 더 비벼가며 씻어줍니다. 깨끗한 물에 두 번 더 헹궈주세요.",
+		"2. 크고 깊은 냄비에 물2.5리터에 대추500그람을 넣고 2시간 삶아줍니다. 끓기 시작하면 불을 줄여주세요.강불->약불",
+		"3. 2시간 푹 삶아진 대추는 국자로 눌러봤을 때 잘 으깨집니다.",
+		"4. 장갑을 낀 손으로 대추를 체에 걸러주세요.많이 빡빡해서 잘 내려가지 않아요. 체의 아랫면을 긁어가며 내려주세요.",
+		"5. 체에 걸러진 껍질과 씨를 물 1리터에 넣어 빨아주세요.물을 섞어서 한번 더 체에 내리면 깨끗하게 걸러져요.",
+		"6. 체에 한번 더 내려줍니다.",
+		"7. 체에 내린 대추과육에 설탕200g을 넣고 불을 켜주세요.오래 보관하시려면 설탕을 더 넣으시고 되직하게 졸여주세요.",
+		"8. 약불에 저어가며 적당한 농도로 졸여줍니다.화상을 입지 않게 조심하세요.",
+		"9. 소독한 병에 담아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/17e2055e5d8bdb47f5d2cc9e28885e6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/24023a185e5049281dfeb8fa28088c701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/b181da9eabc2aff96d5cbfa2b731c4e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/c67418353387ae7842554061f6d8f6251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/070325aff7c14bc4b70da87dc1db034d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/95fc74f6f363c11c7954b4f621f8300f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/dd53730b18a19d68c98e1c1dbcf4259e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/c8b3dee4f411f14eff640efb3cef89191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/9e177e129b8265c88fcd3765188f74c11.jpg"
+	]
+}

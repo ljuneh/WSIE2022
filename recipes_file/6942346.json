@@ -1,0 +1,82 @@
+{
+	"id": "6942346",
+	"name": "화르르르~ 불꼬막 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/1d34dfe53cb5ccb50dc788f904c51b101.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942346",
+	"ingredient_ids": [
+		543,
+		379,
+		846,
+		136,
+		939,
+		233,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "자숙꼬막",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "청양고추가루",
+			"ingre_count": "2.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "중파1대​",
+			"ingre_count": "1",
+			"ingre_unit": "대 ​"
+		}
+	],
+	"recipe": [
+		"1. 꼬막은 해동 시켜 껍질과 분리 해요.",
+		"2. 끓는 물에 1분 정도 데쳐서 식혀 주세요.",
+		"3. 마늘은 다지고 파는 쫑쫑 썰고 분량의 재료를 섞어 양념장을 만들어요.",
+		"4. 식힌 꼬막을 양념장과 잘 버무려 주세요.",
+		"5. 통깨를 솔솔 뿌려 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/8991eee3c16c660b75ced815a6b581bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/8a0d5b9e13d4e14ab0a23e2fbf7648e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/acfd1ac96bd34e6a64a22d39c970e0bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/c5fe802255a90b66a4e19ced9ab704f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/dd0c9cba388264c86dff5b394cc69db81.jpg"
+	]
+}

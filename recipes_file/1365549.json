@@ -1,0 +1,60 @@
+{
+	"id": "1365549",
+	"name": "무더위를 잊게해주는 수박 화채 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/28/925bf48333818a987f36cf7f8c257af6.jpg",
+	"url": "https://www.10000recipe.com/recipe/1365549",
+	"ingredient_ids": [
+		161,
+		668,
+		371,
+		655,
+		227
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "수박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "천도복숭아",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오렌지쥬스",
+			"ingre_count": "190",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "탄산수",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 수박은 계량스푼을 이용해서 동글한 구슬 모양으로 만들어주었어요.",
+		"2. 씨를 제거한 천도 복숭아도 수박과 비슷한 크기로 나박썰기 해주세요.",
+		"3. 방울토마토는 반으로 썰어주시면 되요.",
+		"4. 볼에 오렌지 쥬스를 담아주세요. 탄산수도 넣을 건데 당도가 전혀 없기 때문에 입맛에 따라서 꿀을 첨가해드시면 되요.",
+		"5. 탄산수를 쥬스가 담긴 볼에 부어주고 꿀을 넣어 섞어 입맛에 맞게 마춰주세요. 썰어둔 과일을 넣어서 시원하게 드시면 끝. 얼음이 마침 똑 떨어져서 냉장보관 했다가 먹었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/317101a36178403ebaa9f90c4ee4c9de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/148c3d4e9499761f72a33678404c083e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/d20106781698e94517649e7fd15a8c851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/ae8dd83a1b7b5ac7955152f50d3ebc1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/29/70890133836277e07cf3e0d55cb969231.jpg"
+	]
+}

@@ -1,0 +1,100 @@
+{
+	"id": "6945628",
+	"name": "간단한 나물 반찬 하나, 새우젓 애호박 나물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/a1f1137ea1c643de4f17de60c7f115991.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945628",
+	"ingredient_ids": [
+		7,
+		3,
+		9,
+		233,
+		660,
+		543,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우젓국",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다. 재료는 모두 채썰기해 줄거예요.",
+		"2. 애호박은 가늘게 채썰어 주세요.",
+		"3. 양파도 호박 굵기로 썰어주세요.",
+		"4. 당근도 채썰어 주세요.",
+		"5. 홍고추는 씨를 제거하고 채썰어 주세요.",
+		"6. 이제 재료를 볶아 줄게요. 달궈진 팬에 기름을 두르고 양파를 넣어주세요.",
+		"7. 양파가 투명해지면 채 썬 애호박과 당근 홍고추도 넣고 재료가 잘 섞이도록 볶아주세요.",
+		"8. 나물 간을 할 차례예요. 새우젓국 1큰술...",
+		"9. 참치액젓 1큰술...",
+		"10. 다진 마늘 1/2큰술...",
+		"11. 3큰술을 넣어 애호박이 익을 때까지 볶아주세요.",
+		"12. 마지막으로 참기름 약간과..",
+		"13. 통깨 약간을 뿌려주고 불을 꺼주세요.",
+		"14. 밀폐용기에 담아 한 김 시킨 후 냉장 보관하면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/b1aef515fdadd951aaa46002e674f4911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/981b58c09cc265eb111a8a4c0fa8cace1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/3d8d4d4f4362021d4463b54ead485f531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/a7d6e21b238736e32cc0b0dd540a044c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/6d9b890e200e478ec5a3f975df98b7111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/9707749a915a8e01d81725a59e53cfa51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/2c7688e16bbdf3da8ba86180b6ec64721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/57e5153e1bb36ea45bc8aeae201852d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/fd9f563a24f516a0ee1b5e1d91d31fbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/f8b7ab1f0cd6aac9683b6c8bb8b6a25e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/5937f6c32a34455ff841dc55fbeef3e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/7febd088923f5cb410bd61eab5e57f7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/4144725142c8007bc0364cef28a0aacf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/65d0014d0100e74c482f2066392115f91.jpg"
+	]
+}

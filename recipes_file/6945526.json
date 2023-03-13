@@ -1,0 +1,74 @@
+{
+	"id": "6945526",
+	"name": "단호박 샐러드【아이간식】",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/8a4de4fb4099dec5216a2035d4c73f361.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945526",
+	"ingredient_ids": [
+		328,
+		4,
+		11,
+		323,
+		575,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "단호박",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "10",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "60",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 두부 120g 물끼를 꼭 짜서 으깨어 준비해주고",
+		"2. 으깬두부에 소금 2작은술",
+		"3. 우유 60ml",
+		"4. 올리고당 1큰술 (단호박과 고구마의 당도에 따라서 1큰술 더 추가해주세요~ 단호박이 지금 미니 싸이즈가 아닌 큰싸이즈가 나오고 당도가 떨어지기때문에 전 2큰술 넣어주었어요)",
+		"5. 이렇게 섞어준 두부소스는 중간불5분 약불로 5분 중탕하여 줍니다~",
+		"6. 단호박은 아이가 먹기 편한게 깍둑 썰기 해주시고 전자랜지용 용기에 담아 랩을 씌우고 1분20초씩 두번 돌려주었어요 (랜지사양에 따라 조금 더 돌려주세요)",
+		"7. 고구마도 아기가 먹기좋은 크기로 잘라주시도 전자랜지 용기에 담아 돌려주시는데 단호박보다 좀더 딱딱하기때문에 1분30초씩 두번 돌려주었어요~ (랜지사양에 따라 조금 더 돌려주었어요~)",
+		"8. 브로콜리는 소금 한 꼬집 넣은 끓는물에 30초가량 데쳐주세요~그리고 잘익은 고구마와 단호박 두부소스를 믹싱볼에 담아 섞어주세요~",
+		"9. 그릇에 예쁘게 담아주세요~♥"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/345beee861e509753bbaab6ebb10b4bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/30b79433ed9b878620110918513987251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/5dc229540dfb8fe0d325c3436e5577b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/ab43f515cbd075340a3f7b9c0dd136e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/09cfba5a78d3a995e98b74924377ce291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c60fd8d627d5a1f247f25b0ca2e706ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c03958bac1a01a0475aae3ac62b617e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/03c33f2eab45984a89042ca1fff1303c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/5f7fa03b9e8dee3654486dcd76f878a31.jpg"
+	]
+}

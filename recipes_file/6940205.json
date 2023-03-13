@@ -1,0 +1,81 @@
+{
+	"id": "6940205",
+	"name": "정성가득 영양가득 양송이버섯죽 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/44b7a9ef5d75416aa457d26d36e8f9a01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940205",
+	"ingredient_ids": [
+		54,
+		3,
+		21,
+		9,
+		219,
+		497,
+		327
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1",
+			"ingre_unit": "잎"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "6",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 양송이버섯은 납작납작하게 편썰기 해주세요.양송이버섯도마, 칼",
+		"2. 양파, 양배추, 당근은 잘게 다져줍니다.양파, 양배추, 당근",
+		"3. 냄비에 들기름 1큰술을 두르고 현미밥 1공기를 볶아주세요.들기름, 현미밥냄비쌀밥도 전혀 상관없습니다. :)",
+		"4. 그리고 당근, 양파, 양배추를 넣고 달달 볶아줍니다.당근, 양파, 양배추",
+		"5. 생수 2컵(종이컵 기준)을 넣고 뚜껑을 덮은채로 약불에서 15분정도 끓여주세요.생수약불중간중간 타지 않도록 잘 저어주세요. :)",
+		"6. 그 다음 양송이버섯과 소금 2티스푼을 넣고 중간불에서 휘휘 저으면서 5분정도 더 끓여주세요.양송이버섯, 소금중불",
+		"7. 마지막으로 달걀 1개를 풀어서 끓는 죽에 넣고 2분 정도 휘휘 저어주면 완성입니다.달걀"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/0dbaa7d0c738ad7a4c6a0a3268f22ad11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/e8a42f730850bfb61141b26eec201c911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/4106055289d9d08f7d54a0a5d83afdf41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/c0f1c4d6c5217ab4d39040fc055025941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/e8fcd29e07b9d8c8871c38aff9ba0b6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/4474dbe273002fc21f00fcb0099aa4861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/878a5356d0d76564a64c118253c0285a1.jpg"
+	]
+}

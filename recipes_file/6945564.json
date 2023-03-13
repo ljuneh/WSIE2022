@@ -1,0 +1,107 @@
+{
+	"id": "6945564",
+	"name": "[내멋대로요리] 새콤달콤 비빔국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/cfb40bb33ef5eb3cbfc648e1a83c60071.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945564",
+	"ingredient_ids": [
+		219,
+		16,
+		9,
+		8,
+		142,
+		473,
+		224,
+		233,
+		226,
+		231,
+		843,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "국수",
+			"ingre_count": "4",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "상추",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 오이는 어슷썰기, 당근과  배는 가늘게 채썬다.  상추는 먹기 좋게 썬다.",
+		"2. 달걀은 미리 삶은 뒤, 충분히 식힌다.",
+		"3. 소스는 미리 준비해 냉장고에 넣어 15분가량  숙성시킨다. (생략 가능)고추장 4T, 고춧가루 1/3T, 다진마늘 1/3T, 설탕 2T, 식초 5T, 매실액 2T, 진간장 1/2T, 올리고당 1T기호에 따라, 설탕과 올리고당으로 당도를 조절한다.",
+		"4. 큰 냄비에 3인분의 국수를  넣고 팔팔 끓으면  바로 불을 끈다.",
+		"5. 국수는 바로 꺼내 찬물에 씻어낸다. 이제 준비해둔 재료를 넣고 먹는 일만 남았다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/58cfa61923da35ee6bedc449b420b4b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/9712e8918ce8718b1b1006dffcaafc571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c995488b48ff722fc629057186fea95e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/b770c99ec1b7c65534b6b102e472eb521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/d082c824cafec5f6bb82e1c8616b61d41.jpg"
+	]
+}

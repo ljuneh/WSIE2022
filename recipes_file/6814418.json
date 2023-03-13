@@ -1,0 +1,39 @@
+{
+	"id": "6814418",
+	"name": "삼계탕 만드는법, 닭죽 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/f677acd628907107f8cd2f682230829b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6814418",
+	"ingredient_ids": [
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삼계탕용닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 닭 몸통 안에 찹쌀 가득 넣었음",
+		"2. 찹쌀품은 닭은 요염하게 다리꽈서 눕히고약재봉지랑 할미한테 사온 재료들 씻어서 막 넣었음",
+		"3. 물 붓고 40분 정도 끓였음",
+		"4. 보글보글약재 향이 폴폴."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/17fbbe028e3553ce239d7eb63467d4d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/f46e5051ef5936bfb7eaee052d7a55e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/50106a80b45564820d5de539254c4c531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/f47b339f68ee46a5bf03142fc9d0fcc41.jpg"
+	]
+}

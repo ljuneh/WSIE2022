@@ -1,0 +1,62 @@
+{
+	"id": "6942651",
+	"name": "코로나극복 바나나가 들어간 랍스타버터구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/84482fdddda5c8f319b8ebd4de0bb2ff1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942651",
+	"ingredient_ids": [
+		243,
+		141,
+		198,
+		203,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "랍스타",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 랍스타를 준비해 주세요 랍스타는 꼬리쪽에 살이 많아서 요 꼬리가 메인이랍니다",
+		"2. 랍스타는 끓는물에 살짝 데치듯이 삶은뒤 가위로 껍질을 잘라서 살만 발라내주세요",
+		"3. 랍스타는 먹기좋게 썰어서 준비해주세요",
+		"4. 달궈진팬에 버터를 녹인뒤 바나나를 넣어줍니다",
+		"5. 랍스타도 넣어주시고요 소금과 후추는 살짝 넣어주세요 바나나가 녹을때쯤 체다치즈도 넣어주세요",
+		"6. 바나나를 넣어서 더 특별해진 바나나 랍스타버터구이 예술입니다~~~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/ea3e260353f3ce03f1e847dda68c5ccd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/6ca455a1100e6d662282d1d85a5e39111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/842f2505cebf60b6f7f0dfd8590f3ab51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/47cbdae563d85c3054ae6282521352ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/7f0d896650a4ec5327273ea6ac6a87bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/0787ca5218f294a6949ac6ff1afb52ff1.jpg"
+	]
+}

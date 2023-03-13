@@ -1,0 +1,84 @@
+{
+	"id": "6891424",
+	"name": "간장 다진소고기볶음(다대기)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/25/62f86951391b82bbaec39eb9173848b51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6891424",
+	"ingredient_ids": [
+		852,
+		379,
+		575,
+		233,
+		292,
+		843,
+		660,
+		350,
+		327
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기다짐육",
+			"ingre_count": "174",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추티스푼",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 소고기 다짐육 174g을 준비합니다 *마트에서 갉아서 판매하는 걸로 샀어요",
+		"2. 깨소금과 들기름을 빼고 준비된 모든 양념을 모두 넣고 골고루 섞어주세요 냉장실에 넣고 30분정도 재워주세요",
+		"3. 센불에서 달달 볶아주세요  고기가 익을수록 수분이 생깁니다",
+		"4. 수분이 90~95%정도 없어질때까지 볶아주세요",
+		"5. 마지막에 깨소금 2T와 들기름1T를 넣고 골고루 섞어주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/25/babaf7abc5588422c2aa1f8a32ba9d491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/25/3ab6e4c0ba611cbbc5d09ee99b1f6b4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/25/cc265a1dd77b54477060201cf7cbc17a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/25/663286f4b1868315002bd0393b045fe51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/25/0806e92a62bad68268984f63ebc34c901.jpg"
+	]
+}

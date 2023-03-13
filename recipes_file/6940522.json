@@ -1,0 +1,49 @@
+{
+	"id": "6940522",
+	"name": "간단밑반찬 간장어묵볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/ced58642f69e912e1463584797a7f54a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940522",
+	"ingredient_ids": [
+		853,
+		575,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "사각어묵",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 팬에 식용유를 넉넉히 두르고 살짝 노릇 볶아줘요",
+		"2. 양념장을 넣고 같이 볶아줍니다",
+		"3. 통깨 살짝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/34b375adfb500290fda1ad2e7f5878371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/93ea2b61f0bcb9a30e45a2052e679ddc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/3c1b7f081e530016202e089727ac03321.jpg"
+	]
+}

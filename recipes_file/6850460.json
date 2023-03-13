@@ -1,0 +1,81 @@
+{
+	"id": "6850460",
+	"name": "삼계탕 맛있게 만들기~!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/04/1fdd1e7caed0dab25bc2c914ecbd6e1e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6850460",
+	"ingredient_ids": [
+		132,
+		187,
+		189
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "삼계닭",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "불린찹쌀",
+			"ingre_count": "9~10큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "10~15개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "30",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "은행",
+			"ingre_count": "20~30알",
+			"ingre_unit": "~알"
+		},
+		{
+			"ingre_name": "삼계탕용",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "삼",
+			"ingre_count": "3",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "그라비올라잎",
+			"ingre_count": "5~7장",
+			"ingre_unit": "~장"
+		}
+	],
+	"recipe": [
+		"1. 닭은 깨끗이 씻어야 겠죠?? 닭뱃속까지 깨끗이~!! 닭의 등부위에 냉장이 붙어 있는 것들도 있어요. 내장 부분은 제거하는게 좋습니다.",
+		"2. 요 부분에 기름이 많아요~  잘 제거 해주세요~  이부분과 목부분에 두껍게 자리잡은 기름은 잘라 내는게 보기에도 좋고 잡내도 덜납니다.",
+		"3. 찹쌀 3스푼 밤2개 대추1개 은행3개 작은 삼~ 한뿌리~! 삼이 큰거는 3등분 하셔도 되구요~!",
+		"4. 닭다리 뒷쪽으로~ 칼집을 내어 다른 다리를 끼워 넣기도 하는데 이게 은근 어렵고 다리살이 잘리면 볼품이 없어 집니다.",
+		"5. 실패없는 방법! 찹쌀,대추등을 넣은 부분을 꼬치나 이쑤시개를 이용해서~ 꿰매듯~ 봉해주시면 되요.",
+		"6. 요렇게~!! 이제 빠져나올 걱정은 없겠죠??",
+		"7. 찹쌀, 대추가 흘러 나오지 않도록~ 닭을 눕히듯 넣고 준비해 논 재료를 넣습니다.  그리고 닭이 잠길 때까지 물을 붓습니다.",
+		"8. 팔팔 끓여주세요.. 끓고나선 불조절은 센불에서 10분 중불 30분 약불10분정도 하시면~ 되요~!",
+		"9. 국물이 뽀얀게~ 몸보신 제대로 될듯~!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/04/e92e35b42e3104d398c9e608d21b186d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/04/eec6072c7691cd83d3e2a33c68a65d7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/04/25c51b9679c2a04d5ceb7a88c60c94f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/04/cce25be4ed9d73c3e8071a84cdc4b2851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/04/3edbd5931c63d77fb638db4ec6dc62ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/04/1d6d340cd23823e1c00643fb82efd5701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/04/ddf3617fa2dc23ab11581b1aec904ce91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/04/ff30c0a33f4ccd23662e2d48dcd190d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/04/0653156db2f37dd4fd7275d8ef2208701.jpg"
+	]
+}

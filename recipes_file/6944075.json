@@ -1,0 +1,67 @@
+{
+	"id": "6944075",
+	"name": "바질페스토 만들기, 내가 키운 바질로 만들어보자!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/446ff7e9d4381952e3aa213d52d26bd51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944075",
+	"ingredient_ids": [
+		367,
+		192,
+		29,
+		205,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "바질",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "캐슈넛",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "파마산치즈",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 바질잎은 잘 따서 흐르는 물에 빠르게 씻어주세요. 바질은 엄청 개복치라서 잠깐만 그냥 둬도 시들시들해져요. ",
+		"2. 바질페스토 만들기 에는 원래 잣이 들어갑니다. 하지만 잣을 사려고 가보니 엄청 비싸더라구요... 가격이 잣같.... 아니 그래서 저는 잣 대신에 캐슈넛을 넣어주었어요~",
+		"3. 위에 적어놓은 모든 재료를 한번에 갈아주면 바질페스토 만들기 끝이에요~!!",
+		"4. 한번에 다 갈려고 하지말고 짧게짧게 끊어서 갈아주세요~! 그럼 더 잘 갈려요! ",
+		"5. 오일은 반씩 나누어서 넣어줬어요~~ 오일이 들어가니 이렇게 묽은 바질페스토가 완성되었습니다!!",
+		"6. 바질페스토를 담아줄 공병은 한번 소독을 해주세요. 찬물에 병과 뚜껑을 넣은 뒤 바글바글 끓여주면 뜨거운물의 증기가 병 속을 소독해준답니다.소독이 끝난 공병은 완전히 말려주신 후 바질페스토를 담아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/e201a16cade8db6344d25918a48decef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b366d13fcbf63540bdef9f1ebca582431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/496ebeedfb25775e5098d0b264a21c4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/8023692fd7316d4185129cf6c47b9db71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f34977051c698af04e1065d0abed77a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/dd4677a772f6d79adff3f5d4b380e8001.jpg"
+	]
+}

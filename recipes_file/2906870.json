@@ -1,0 +1,79 @@
+{
+	"id": "2906870",
+	"name": "파인애플볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/751b67136de188ecc65485347eabac0a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/2906870",
+	"ingredient_ids": [
+		172,
+		628,
+		9,
+		3,
+		7,
+		477,
+		504
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파인애플",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯(작은것)",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 파인애플은 껍질과 가운데 심을 제거하고 적당한 크기로 썰어 줍니다.",
+		"2. 당근과 양파는 껍질을 벗겨 씻은 후 잘게 썰어 주고 애호박과 새송이버섯은 흐르는 물에 씻은 후 잘게 썰어 줍니다. 당근, 양파, 애호박, 버섯 외에도 냉장고에 들어있는 갖은 채소를 이용하면 좋아요.",
+		"3. 햄은 끓는 물에 살짝 튀겨 기름기를 제거하고 작은 크기로 썰어 줍니다.",
+		"4. 달군 프라이팬에 식용유를 두르고 양파와 당근, 애호박을 넣고 볶다가 햄을 넣어 함께 볶아 주고 밥을 넣어서 볶아 줍니다.",
+		"5. 굴소스를 넣어서 함께 볶아 줍니다.",
+		"6. 파인애플 넣어 함께 볶아 주고 불에서 내려요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/a91c752c564fe072c02aba69f9f4d6841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/e2e09dfdf8fd3e0800fad6f22f1ed9ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/687f5f3addc9b563bd32a07870cfaf8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/0658c663dbde2087f423d4821d1faa511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/7ad78f3a7d57c4d902e45c63eb0520f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/da33b834e8091458b804532dfd75e69f1.jpg"
+	]
+}

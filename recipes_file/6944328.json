@@ -1,0 +1,36 @@
+{
+	"id": "6944328",
+	"name": "간식 햄 떡꼬치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/f0cca8f335aa40683294b1e92826ac4e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944328",
+	"ingredient_ids": [
+		708
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "슬라이스햄",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 떡 말랑하게 데쳐 물기를 빼준다",
+		"2. 슬라이스햄 반으로 잘라 준다",
+		"3. 햄 위 떡 올리고 도르르 말아",
+		"4. 꼬지에 하나씩 끼워 준다",
+		"5. 팬에 식용유를 두르고  노릇노릇 구워준다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/bbcc46c72656eb36b483639f49a694b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/d41beca8e07564d8777e0f2d47f913651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/de88ba6f997f81fb40234626625c7f1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/0df86f387901f0499eb7091c2b5abbe61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/0c439f9a48fb20af59c146379947c5411.jpg"
+	]
+}

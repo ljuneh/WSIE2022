@@ -1,0 +1,64 @@
+{
+	"id": "6942638",
+	"name": "브런치의 정석, 크로와상 샌드위치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/d37f3bb13db2cded6d89450f115140231.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942638",
+	"ingredient_ids": [
+		51,
+		252,
+		628,
+		214,
+		228
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "흥국버터크로와상",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "1.",
+			"ingre_unit": ".개"
+		},
+		{
+			"ingre_name": "로메인",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 미리 예열해둔 오븐에 흥국 버터 크로와상을 넣고 약 20분간 구워주세요.오븐",
+		"2. 토마토를 약 0.7cm 두께로 잘라서 준비해주세요.",
+		"3. 로메인을 깨끗이 씻어준뒤 끝부분을 제거해주세요.로메인 등 물기가 많은 재료는 수분을 추분히 제거하고 사용해주셔야 좋아요",
+		"4. 슬라이스 치즈를 4등분하여 잘라주세요.",
+		"5. 구워진 크로와상을 빵칼을 사용하여 반으로 잘라줍니다.갓 꺼내 뜨거운 크로와상을 사용할 경우, 모양이 찌그러질 수 있으니 식혀서 준비해주시고, 크로와상이 완전히 잘리지 않게해주세요",
+		"6. 빵 안쪽에 마요네즈를 발라준 뒤,  로메인- 햄-치즈-토마토 순으로 토핑해줍니다.",
+		"7. 크로와상의 윗면을 덮어줍니다. 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/58dd1b25083f56cc97df4af84c559b7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/12fb1d27ea03c164d1c189d7442bd3631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/e2b58e95578bb533dc443b83df652df01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/c47a54fa16d8fbe66d49fb13421528dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/26b07088fd13e7d40c6c35ce08b7d9b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/9c37bdf741965a6e64dd731fc1b8877a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/2a2ee91d64dbfc2c2e085de6245959a01.jpg"
+	]
+}

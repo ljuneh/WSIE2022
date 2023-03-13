@@ -1,0 +1,85 @@
+{
+	"id": "1826737",
+	"name": "새콤 아삭한 도라지무침 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/16d6257e08565c2ef554013ec0588d93.jpg",
+	"url": "https://www.10000recipe.com/recipe/1826737",
+	"ingredient_ids": [
+		38,
+		282,
+		21,
+		224,
+		845,
+		350,
+		473,
+		350,
+		29,
+		341
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "도라지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "초고추장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 도라지를 적당한 크기로 자르고 씻어요. 식초 넣은 물에 담가놓기도 하는데 저는 그냥 굵은 소금 넣고 박박 닦았어요. 물에 말갛게 헹궈서 물기 꽉 짜주세요.",
+		"2. 양배추도 깨끗하게 씻어서 길게 썹니다.",
+		"3. 초고추장 한 네 숟가락 퍼넣고요.",
+		"4. 두루두루 잘 섞어 버무리세요.",
+		"5. 고춧가루와 깨소금을 넣으면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/872358f52d181f6b7bf397b9aa93b5921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/3d829f2a69310536323bccbf23312cdc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/36e9e26606cbf67a117f0a20ff86160a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/01dcdf73a7a9a8b09b1328a57eabbb761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/6a082e8dcab4aba46513ff1570ca41361.jpg"
+	]
+}

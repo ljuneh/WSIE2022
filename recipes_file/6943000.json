@@ -1,0 +1,97 @@
+{
+	"id": "6943000",
+	"name": "추석음식 육전과 부추무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/fbdf046bc90885bd19419f2e6f993cc31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943000",
+	"ingredient_ids": [
+		219,
+		387,
+		497,
+		30,
+		349,
+		938,
+		660,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기설깃살",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "",
+			"ingre_unit": "넉넉하게"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 소고기는 설깃살을 준비 했어요. 사실 육전은 살치살이 가장 맛있고 불고기감으로 하셔도 됩니다. 소고기는 얇게 썰어 주고, 두껍다 싶으면 칼등으로 두드려 주었어요.",
+		"2. 소금과 후추를 뿌려 밑간을 해 줍니다.",
+		"3. 부침가루를 골고루 묻혀 주고",
+		"4. 달걀물도 골고루 묻혀 줍니다.",
+		"5. 팬에 오일 두르고 약불에서 구워 줍니다.",
+		"6. 앞뒤 노릇하게 지져 주세요.",
+		"7. 부추는 적당하게 썰어주고 분량의 양념을 넣어 부쳐 줍니다. 즉석무침이라 더 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/21c40eccc9aae888b5e193cbe66558f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/b2820500c9a534ed1a94a77f7ba43b1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/a6016c49836f53191f51bf00a8ae16951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/3e3dc9d8bf929f3bc3602e9d5ae89f0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/adcd951b8e98aee10ec3b3cec566d6951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/0fd1a2dd6b3e5f4697fa91b7bea1123e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/b269b7b66e606bcb0c0ac563812c3ddb1.jpg"
+	]
+}

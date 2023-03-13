@@ -1,0 +1,93 @@
+{
+	"id": "2926988",
+	"name": "건더기가 푸짐한 고추장 감자 찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/17/1f634c518466bca3347ee51c0120427a.jpg",
+	"url": "https://www.10000recipe.com/recipe/2926988",
+	"ingredient_ids": [
+		3,
+		27,
+		1015,
+		323,
+		473,
+		665,
+		233,
+		237
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "감자중간크기",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쇠고기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청홍고추(매운거)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "고추기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 고추기름을 두르고 다진 고기와 다진 마늘을 볶아 줍니다.",
+		"2. 고추장과 고추가루, 참치액을 넣고 다시한번 볶아 줍니다, 볶을때 바닥에 붙는다고 걱정하지 마시고 그냥 볶아 주세요.",
+		"3. 다시 감자 넣고 볶아 주다가 육수를 붓고 양파,고추등을 넣어 줍니다.",
+		"4. 감자가 익을정도로 끓이고나면 두부를 넣어 줍니다. 두부를 썰어 넣으려다 생각하니 고추장 찌게는 적당하게 걸죽해야밥위에 올려 먹기도 좋을꺼 같더라구요. 그래서 두부를 칼로 썰지 않고 손으로 대충 으깨듯이 잘라 넣었습니다. 대파와 고추도 넣고 다시 한번 바글 바글 끓을때까지만 가열하다가 후추로 마무리 합니다.",
+		"5. 고추장의 간기가 모두 다르니 간을 보아가면서 액젓이나 간장 또는 소금을 넣으세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/17/e6834208020016fe4a19a55d014add301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/17/c221a20aad890b10917646c9904b435a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/17/b848b14eb034bcbcc04455ed447e68da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/17/93632abf41a6db7829bf1097b286ab021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/17/b189bb71e4048fb01c42ffe75db04329.jpg"
+	]
+}

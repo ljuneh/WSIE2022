@@ -1,0 +1,41 @@
+{
+	"id": "3013576",
+	"name": "갈비살 야채볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/484ba4a6768b6bbc65574092066564ce.jpg",
+	"url": "https://www.10000recipe.com/recipe/3013576",
+	"ingredient_ids": [
+		477
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양념갈비살",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "냉장고속야채",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 양념고기를 먹기좋은 크기로 잘라주세요",
+		"2. 냉장고속 야채 자유롭게 준비해주세요~",
+		"3. 달구어진 팬이나 냄비에 식용유 조금 두르고 고기를 먼저 볶아주세요~",
+		"4. 고기가 익으면 야채를 넣고 볶아주시구요~",
+		"5. 고기에 밑간이 됐지만 야채가 들어갔기에 부족한 간은 굴소스와 물엿으로 간을 해주었답니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/55f4308c72c1d5772d481ebc5d7caa8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/c647b5f3f671e3ca9a12b1f0cd5b83a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/d1e34c51f2394a6579e52d724e1b55b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/bd2ae6f309e988af04ec40d550000eee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/6cdc589785a731da9ff499980b364e851.jpg"
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "6942175",
+	"name": "베이컨 볶음밥 간단한 자취요리 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/af4c309dc4850a891e5b89cb1d4f27791.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942175",
+	"ingredient_ids": [
+		563,
+		406,
+		3,
+		6,
+		233,
+		477,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "칵테일새우",
+			"ingre_count": "6",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료를 준비해주세요. 일단 주재료가 베이컨인 만큼 세줄정도 넉넉하게 준비해주었고 잘게 썰어주었어요. 그 외에 채소는 취향 껏 준비해주시면 좋답니다. 파프리카와 양파 정도로 준비해주었고 칵테일새우를 준비하면 좋고 저는 일반 자숙새우로 넉넉히 양을 준비했어요. 익히면 양이 콩알만해져서 반컵정도 준비해주었고 계란은 작은 크기의 달걀이라서 두개정도 준비해주었어요.",
+		"2. 이제 팬에 기름을 한두큰술 넉넉히 두르고 먼저 마늘을 넣어 마늘향을 내주는데요. 이 때 불이 너무 세면 금방 타버리기 쉬우니 중불정도로 마늘향이 올라올 때 까지 익혀주세요. 대파를 썰어넣어 파기름을 내어주어도 좋답니다. 백종원 팁으로 파기름은 저도 애용하는 부분이에요.",
+		"3. 마늘향이 솔솔 올라오면 준비했던 채소를 모두 넣어 볶아주세요. 이 때 새우를 제외한 채소만을 넣어주세요.",
+		"4. 채소들을 볶아주다가 양파가 투명해지기 시작하면 새우를 모두 넣어주세요. 냉동상태 그대로 넣어주어도 작기 때문에 금방 해동이 된답니다. 다만 이 때는 물이 생길 수 있어서 강불에 볶아주는 것이 좋아요.",
+		"5. 베이컨과 채소들이 익어가기 시작하면 팬 한쪽으로 몰아넣어주고 한쪽에는 계란을 톡톡 까주세요. 이 상태로 그대로 익히는 것이 아니라 하얗게 익어감이 보이면 지그재그로 휘저어주면서 스크램을을 해주면 맛있어요.",
+		"6. 위아래로 Z자를 그려주면서 계란이 모두 잘 섞이도록, 덩어리가 지도록 잘 볶아주세요.",
+		"7. 이제 준비한 밥을 모두 넣어주세요. 개인적으로 볶음밥에는 찬 밥을 넣는 것을 선호하는데요. 찬밥을 넣어주면 고슬고슬하니 식감이 참 좋더라고요. 찬밥 대신 따뜻한 밥을 넣어주면 섞어주기는 훨씬 쉬워요. 찬밥은 딱딱하기 때문에 주걱 등으로 잘 으깨주며 볶아주어야 해요. 밥을 넣어준 후에는 굴소스 1큰술로 간을 살짝 해주세요.",
+		"8. 베이컨이 들어갔기 때문에 짭조름해서 많은 간은 필요하지 않고요. 굴소스가 없다면 간장 2큰술정도를 뿌려 간해주시면 돼요. 여기에 마무리 화룡점정 참기름을 한큰술 빙 둘러주면 맛있는 베이컨 볶음밥 완성이랍니다.",
+		"9. 고슬고슬 맛있게 볶아진 베이컨 볶음밥~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/4700516b672091194d7d715b3f84e7af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/85b24c5578fd5cf3d02f84e99872acd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/31d09cc1afe896a0de8ee187d0644f041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/97094b4a69f82fd615a78f1fdf45fc541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/9e8060a14f574e93978ce53b7c1ce25e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/9903bd7385a5f3b59e81d17f3b9d626c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/025a82bf0869cddae70170fe6806bc211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/6f05dd5cefaf6f0b9d491800cad41e721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/983f57c4a8ea82156f33bd374e57f1881.jpg"
+	]
+}

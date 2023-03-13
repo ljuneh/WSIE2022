@@ -1,0 +1,74 @@
+{
+	"id": "6941673",
+	"name": "따뜻한 국물이 생각 날 땐 어묵국이 최고!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/08/faf56c5e3fdb16c8fa0ef6763b018f301.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941673",
+	"ingredient_ids": [
+		548,
+		295,
+		282
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "650",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파잎",
+			"ingre_count": "3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다시육수재료:다시마",
+			"ingre_count": "3",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "간새우",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간디포리",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 먼저 무우를 큼직큼직한 크기로 잘라주세요.",
+		"2. 어묵도 적당한 크기로 잘라주세요.",
+		"3. 냄비에 2L 물을 붓고 무우, 다시마, 다시백을 넣고 가열해주세요. 다시육수 재료는 개인취향과 재료 사정에 따라 사용하세요.",
+		"4. 물이 끓기 시작한 다음 5분후에 다시마를 건져주세요.",
+		"5. 무우가 어느정도 익으면 다시백을 건져주세요.",
+		"6. 어묵과 대파를 넣고 5분간 끓여주세요.",
+		"7. 청양고추를 넣어 얼큰함을 더해주세요.",
+		"8. 마지막 소금으로 간조절을 해주면 얼큰하고 진한국물의 어묵탕이 완성돼요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/08/378222da1a023b2e1fa5b5069f1d02e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/08/f18c0c8f2503e70f884a9266da40cc081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/08/f4c7e9390c54d15df12e0994a4e266ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/08/fdd8ead30b002632b57893ec109964c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/08/a2f6b09c69314fa7757148398b3323c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/08/cc4f1c6c1233869e8afe9ecd728daf001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/08/dad8bb9ef211cb05334b1cfee82d08051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/08/508fb70110f9b5efea6c7328f69a09d31.jpg"
+	]
+}

@@ -1,0 +1,145 @@
+{
+	"id": "6922433",
+	"name": "서가앤쿡에서 먹던 그 요리, '새우 필라프' 만들기 [NO 치킨스톡]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/984a604d200af717aeed1543d67f0aa71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6922433",
+	"ingredient_ids": [
+		27,
+		3,
+		7,
+		643,
+		53,
+		79,
+		198,
+		379,
+		477,
+		575,
+		228
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "편마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "계란후라이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 제일 먼저 재료들을 손질해줍니다. 대파를 송송송 썰어주세요.대파 1/2단",
+		"2. 양파는 네모낳게 깍둑썰기 해줍니다.양파 1/2개",
+		"3. 애호박은 십자썰기 해주세요.애호박 1/2개",
+		"4. 풋고추는 미리 물에 깨끗이 씻어주시고 속을 정리해주세요. 그리고 양파와 비슷한 크기로 네모낳게 썰어줍니다.풋고추 3개풋고추 대신 파프리카나 피망도 괜찮습니다~",
+		"5. 통마늘은 한 움큼정도 준비해주시고 얇게 편썰기 해주세요.편마늘계량을 하자면, 계량숟가락 기준으로 1큰술 정도라고 보시면 됩니다. 마늘을 좋아하시는 분이라면 더 많이 넣어주셔도 괜찮습니다!",
+		"6. 표고버섯은 채썰기 해주세요.표고버섯 3개버섯 종류는 상관없습니다!",
+		"7. 팬을 약불에 올려주신 뒤 버터 1조각을 넣어줍니다.버터 한조각팬약불",
+		"8. 버터가 녹으면 대파와 마늘을 넣고대파 1/2단, 편마늘팬약불",
+		"9. 버터에 볶아주세요.대파 1/2단, 편마늘팬약불",
+		"10. 중간에 기름 1큰술 정도 넣어주세요.대파 1/2단, 편마늘, 기름 한 큰술팬약불",
+		"11. 다시 잘 볶아줍니다대파 1/2단, 편마늘팬약불",
+		"12. 마늘과 파의 향이 올라오고 색이 변하기 시작하면대파 1/2단, 편마늘팬약불",
+		"13. 양파를 넣고 같이 볶아줍니다.양파 1/2개팬약불",
+		"14. 양파의 색이 투명해질 때쯤,양파 1/2개팬약불",
+		"15. 호박과 고추를 넣고 같이 볶아주세요.애호박 1/2개, 풋고추 3개팬약불",
+		"16. 호박과 고추가 익어갈 때쯤,애호박 1/2개, 풋고추 3개팬약불",
+		"17. 버섯과 새우를 넣고 볶아줍니다.표고버섯 3개, 새우팬약불",
+		"18. 새우의 색이 붉어지면표고버섯 3개, 새우팬약불",
+		"19. 밥을 넣고 볶아주세요.밥팬약불",
+		"20. 뭉쳐있는 밥은 주걱을 이용해서 잘 펴주시면서 볶아주세요.밥팬약불",
+		"21. 밥을 한 쪽면으로 밀어주신 뒤밥팬약불",
+		"22. 팬의 바닥 면에 간장 1큰술을 넣고간장 1큰술팬약불",
+		"23. 간장을 살짝 태워주세요.간장 1큰술팬약불",
+		"24. 밥을 다시 잘 볶아줍니다.팬약불",
+		"25. 굴소스 1큰술과굴소스 1큰술팬약불",
+		"26. 올리고당 1큰술을 넣고 볶아주시면 완성입니다.올리고당 1큰술팬약불",
+		"27. 마지막으로 계란 후라이와 마요네즈를 뿌려주시면 정말 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/2de29574f5d1309ad33c5af7870783091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/d1d95dccf0d98559fda9f169fb9b51481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/57e84d63134ba4f7e32d01e2ad6954aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/45ab896fe75a731a4efd25930d5f1c951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/89ebadd91f149902e5bff0e1151051871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/6d5b8bc42378a5671f1763980becfaf31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/c36d482cb303dac12bec21a065abf8311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/29a8587904708bcecea4a8fd857d6ee71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/c4de0d8e0b10050e199ed0e4c10e8bad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/ac0bf597baea2d319a32fec4c724316e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/4f72e34e657106a0a8711ad4e0ff62301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/aef5dd2617ea08dabf71a72b78860eb81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/d21e872d75fb72f53c1f84b1fd6304d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/58aaed75c8e4f1bb104dfead27e499371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/afef64a32221d6f38070c3ff45f3c8ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/c5e05b26be1efb8978c90047b490bea81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/51b70e2c566f4b19d154413e6cb37c521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/da1d763fd1913a6cdead2a1e231ca2971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/67bbb179612836be0f625e9e7a02f11d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/d4526720472a4a2ea27a93211e0368ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/6d7cac72bcac9790bff78acef9671db01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/f6e753be07fc7fdc788ccf276bdb76011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/bf2e21341d9e44085b0c346d00eac6c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/305c09bb1bac6789359674623b5d67f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/9c5cdb7cbe348b5bd659c5d1eafe52c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/78f96cc42e82e1d8a4a5ec0db5a23c701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/20/cd795641d1d5ed57d98337cee36905281.jpg"
+	]
+}

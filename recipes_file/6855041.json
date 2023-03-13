@@ -1,0 +1,89 @@
+{
+	"id": "6855041",
+	"name": "최고의 보양식 장어구이 두 가지",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/21/e56ab82612135fbb0e03d05459daebaa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6855041",
+	"ingredient_ids": [
+		30,
+		28,
+		473,
+		843,
+		379,
+		458,
+		292,
+		226,
+		225
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "바닷장어",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "마늘즙",
+			"ingre_count": "3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 바닷장어 배송되어 왔어요 1Kg 인데요, 모두 6마리네요",
+		"2. 손질되어 배송된 바닷장어는 씻어 물기 제거 해놓고..",
+		"3. 팬에 올려 구워요",
+		"4. 먹기좋게 잘라주면 장어구이 완성이지요 소스는 발라서 구워도 되고 먹을때 찍어 먹어도 되는데요 일단 요건 소스 찍어먹는 걸로~~",
+		"5. 양념 장어구이도 만들어요 고추장, 매실액, 간장, 생강즙, 마늘즙, 맛술, 설탕, 후춧가루넣고 양념장 만들어 사용 합니다 굽는 과정은 장어구이와 같아요 부드러운 장어구이.. 부추, 생강 곁들여 먹으니 완전 굿입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/21/313dc661f5eab909cf7fb2dfbb3570821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/21/df86a8b912208fb6c8040bdc388970f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/21/1010a43b2e4ce8f00020c17edfb804e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/21/65267e44daf49872d655ad3ac5943f301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/21/cdd6b967b478c007956e64b3de26cc0f1.jpg"
+	]
+}

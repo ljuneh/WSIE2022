@@ -1,0 +1,74 @@
+{
+	"id": "6852447",
+	"name": "여름 보양식, 전복죽 쉽게 끓이는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/10/06c8737860abe268fe9b4e9f15b9691f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852447",
+	"ingredient_ids": [
+		86,
+		5,
+		11,
+		497,
+		350,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "6",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 전복은 수세미로 싹싹 씻어준 후 끓는 물에 살짝 데쳐낸다.",
+		"2. 숟가락으로 껍질과 분리한다.",
+		"3. 이빨을 때낸다.",
+		"4. 살과 내장을 분리하여 잘게 다져놓는다.",
+		"5. 밥, 다져놓은 전복 살, 썰어둔 감자, 참기름을 넣고 볶아준다.",
+		"6. 물을 2컵 정도 부어준다.",
+		"7. 잘 저어가며 농도를 맞춘 후,",
+		"8. 썰어둔 브로콜리를 넣어준다.",
+		"9. 소금으로 간을 맞추고 그릇에 담고 깨소금을 뿌려 완성한다. 복잡하지 않고 간단하게 끓여 먹을 수 있는 여름 보양식입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/a4f32c65f4e63f19aad7bfcab396d4001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/1289f0d9d9b9899018045a588fb4279a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/2b912adec2aa7798b1b3b7572dba22a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/efc53f5525c6db05238de7146d7ea7c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/5ec263749c2c497af393f8cd31e228911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/9e3a2689b079e2049f272592f7f9ea061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/50b51a14d201180b7e7ccea2a9d5c06e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/edbcdb09a7b9b56a19b17b2da22c89161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/0f1656fc3fce81c0f439737af9e79ae21.jpg"
+	]
+}

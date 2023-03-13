@@ -1,0 +1,75 @@
+{
+	"id": "6944325",
+	"name": "입에서 사르르 녹는 레몬 마들렌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/1cb9e0708b24703539d2b53aef912d9c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944325",
+	"ingredient_ids": [
+		226,
+		219,
+		198,
+		250,
+		227
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "18",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "레몬설탕",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 우유, 버터, 달걀은 30분~1시간정도 먼저 실온에 꺼내놔주세요.",
+		"2. 버터, 우유, 꿀이 단긴 그릇을 뜨거운 물이 담긴 볼에 올려 액체가 되도록 녹여주세요.(중탕)전자레인지에 녹여줘도 되지만, 버터가 잘 타기 때문에 상태를 확인하며 돌려주시면 됩니다.",
+		"3. 달걀과 설탕, 레몬설탕을 넣고 대충 풀어준 뒤, 따뜻한 물이 담긴 볼에 올려 설탕이 녹을 때까지 저어주세요.(중탕)설탕이 잘 녹지 않기 때문에 녹을 때까지만 중탕으로 저어주세요.",
+		"4. 3이 단단한 거품이 될때까지 거품기로 저어주세요.",
+		"5. 단단한 거품이 되면 체친 박력분을 넣고 뭉친 가루가 없게 잘 섞어주세요.  그 뒤 1을 넣어준 뒤 다시 조심스럽게 저어주세요.아래서 위로 살살 섞어주세요(너무 세게 섞으면 힘들게 만든 거품이 다 죽어버려요ㅠㅠ)",
+		"6. 잘 섞어진 반죽을 짤주머니에 조심히 넣어주세요.짤주머니를 텀블러와 같은 긴 병에 넣어 입구를 감싸준 뒤 반죽을 넣으면 쉽게 넣을 수 있어요",
+		"7. 마들렌 팬에 식물성 오일 혹은 녹인 버터를 발라준 뒤 입구 부분을 자른 짤주머니를 눌러 반죽을 채워주세요.팬의 약 80~90%만 채워주시면 돼요~",
+		"8. 오븐을 180도에서 10분정도 예열해준 뒤 반죽 넣은 틀을 넣고, 180도에서 약 12분 정도 구워주시면 완성~!!이쑤시개로 반죽을 찔러보면 익었는지 안 익었는지 알 수 있어요. 12분되면 확인 후에 꺼내주시면 돼요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/640148981cf51b6205ca26fe2fcff3331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/fc767e58c1e5561a4fc09bebd0b3c13e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/ec85b673db301ff989723663111d5d8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/bd220759521c8b01514c03885a2947691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/9d0109de52ec40b3d27ba14db19a295a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/f1efc083741861413eec6c6f4bcc9de51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/c938ee266e5650dbac135b14d617054f1.jpg"
+	]
+}

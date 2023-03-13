@@ -1,0 +1,65 @@
+{
+	"id": "6943252",
+	"name": "백종원 1분 라볶이 초간단 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/a5a96b6d2236a2e3a9c0c8cb8a06c80f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943252",
+	"ingredient_ids": [
+		441,
+		27,
+		995,
+		526,
+		473
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료를 준비해주세요.  라면은 어떤 것도 가능하지만 진라면 순한 맛이 좋다고 합니다.",
+		"2. 냄비에 물을 1.5컵(종이컵) 정도만 넣고 물을 끓여주세요. (평상시 라면 끓일 때는 약 3컵 정도 물을 넣습니다)종이컵",
+		"3. 물이 끓는 동안 대파를 송송 썰어주세요(파가 없으면 생략)",
+		"4. 물이 끓으면 건더기 스프와 면을 넣고 (건더기 스프는 처음부터 넣어도 되요)",
+		"5. 설탕 1큰술과 고추장 1큰술을 넣고 (요것도 아무 때나 넣으면 되요)",
+		"6. 라면스프는 반만(1/2) 넣고 라면을 저어가며 끓여주세요.",
+		"7. 각 가정마다 가스레인지 화력이 차이가 나기 때문에 라면이 완전히 덜 익었는데 물이 다 졸아버리면 근심 걱정 하지 말고 물을 조금 더 넣어주면 되요.",
+		"8. 면이 풀어지고 국물이 남아 있을 때 대파를 넣고 1분 정도 더 끓여주세요.",
+		"9. 접시에 덜어낼 때 면을 먼저 올리고 건더기 스프와 대파를 그 위에 올려 주면 비주얼이 약간 봐 줄만 해요. 개인적으로는 국물이 아주 쬐끔 있는 것을 좋아해요.",
+		"10. [연관 레시피] 백종원의 볶음라면  @6943412 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/45a3154833c9d8bdc5ed012fb68b778b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/87c617cffb398371e73e873f26d073641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/0aeb4e261e6bf93cd62b16c49834e8321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/daf03eaf921e2ea5cca29ca3a511320a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/4d2255d52d5ead2773a8518c53c0a0ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/bb9ddc23d4e8027320e0cc2eef63db921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/f0754ba0633cf17320bef9d8247ebe521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/a098c01fc3810e4029291bd37e0e3a191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/15300fdf7242a9f445c5a2205ed915f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/ce4ce431803b67ebe418707961f87cb01.jpg"
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"id": "6916363",
+	"name": "유린기소스와 만두의 만남 ★ 유린만두",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/07/22/bd9717c5607ede9bdadd561c392588e91.png",
+	"url": "https://www.10000recipe.com/recipe/6916363",
+	"ingredient_ids": [
+		42,
+		134,
+		504,
+		379,
+		226,
+		231,
+		995,
+		27,
+		295
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "냉동만두",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "1/4",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "레몬",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 대파, 홍고추, 청양고추를 굵게 다진다.",
+		"2. 양상추를 먹기 좋은 크기로 자르고, 레몬은 슬라이스한다.",
+		"3. 팬에 기름을 충분히 두르고 노릇노릇하게 굽는다.만두를 에어프라이어 180도에서 10분간 구워도 좋아요 ",
+		"4. 소스재료를 고루 섞는다.",
+		"5. 완성그릇에 양상추를 깔고 만두, 레몬을 얹어 소스를 뿌려 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/22/ebc9ab5dfe559e048d237d8c5694bf211.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/22/be6d27a40f0507b534492d5fd31864e01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/22/d8e8b3f3f66e8545217dc806af8d3c371.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/22/7eefc550bebdd9f401e948750842431e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/22/d4834669c177099e56f4313c28186de61.png"
+	]
+}

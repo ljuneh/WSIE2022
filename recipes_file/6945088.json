@@ -1,0 +1,59 @@
+{
+	"id": "6945088",
+	"name": "집에서 간단히 초장만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/cce57f69443488e265154f64efc8126b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945088",
+	"ingredient_ids": [
+		473,
+		231,
+		226,
+		660,
+		543,
+		442
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "6~7큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "사이다",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료를 준비해주세요.",
+		"2. 2. 그릇에 재료를 넣고 섞어주세요. 고추장-4큰술, 식초(사과식초 또는 레몬식초)-6~7큰술(나중에 섞었을 때 뻑뻑하면 식초나 사이다를 1큰술 더 넣어주세요), 설탕-4큰술, 참기름-1큰술, 통깨-약간, 그리고 집에 사이다가 있다면 1큰술 넣어주시면 초장에 톡 쏘는 맛이 나요.",
+		"3. 완성이 정도 양이면 비빔국수 3~4인분 정도는 비빌 수 있는 양이 나옵니다.",
+		"4. [연관 레시피] 쌈장 만드는 법 @6944932 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/40b702cb2b38648fe622bb54a47825f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/7e8952ed7d685e9d2744a6e545db999e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/b7b25ddf26609f52b781362a516894671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/081a2e340e72d7adc7df414ea57bccbf1.jpg"
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"id": "6864018",
+	"name": "곰피숙회",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/12/35ea9cb7f50f7383b3daa67a989fc26d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6864018",
+	"ingredient_ids": [],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "곰피",
+			"ingre_count": "1",
+			"ingre_unit": "묶음"
+		},
+		{
+			"ingre_name": "초고추장or쌈장",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 데치기전 곰피입니다.",
+		"2. 남비에 적당히 물을넣고 끓으면 곰피 줄기쪽 부터 넣고 살짝 데쳐줍니다.",
+		"3. 색이 변하면 재빨리 꺼내서 찬물에 여러번 씻어 줍니다.",
+		"4. 도마에 가지런히 놓고 5~6cm길이로 잘라주세요.",
+		"5. 자른 한부분씩 손으로 잡은후 물기를 꼭짜주고 그릇에 가지런히 담아 냅니다. 초장에 찍어 먹거나 쌈장을 넣고 쌈싸먹어도 맛있습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/12/4f55fe6e87dbb8033127b58fde09e5a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/12/729576a21bcfc7783616777e6b4bc0aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/12/1ef0f5ed972d24260b3ef75e2d6d35371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/12/a9d33ed2da7128b438b4d523621fcac51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/12/61121504b5e80f771c0c74a8d167e80d1.jpg"
+	]
+}

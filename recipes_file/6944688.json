@@ -1,0 +1,85 @@
+{
+	"id": "6944688",
+	"name": "홍합요리, 쌀뜨물로 끓여 더 진한 건홍합 미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/9f2e9319c58c56f4f851ea5afe9729701.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944688",
+	"ingredient_ids": [
+		265,
+		349,
+		233,
+		660,
+		876,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "건미역",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "건홍합",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "1000",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다.",
+		"2. 건홍합은 물에 1시간정도 불려주세요.",
+		"3. 홍합에 붙어 있는 족사는 제거하여 손질한 후 한 번 헹궈줍니다.",
+		"4. 건 미역은 물에 담가 30분 정도 불려준 후 찬물에 헹궈주세요.",
+		"5. 국냄비에 참기름 2큰술과 불린 미역을 넣고 중불에서 살짝 볶아주세요.",
+		"6. 불린 건홍합을 넣어주세요.",
+		"7. 이제 국간을 해 볼게요. 참치액젓 1큰술을 넣어주세요.",
+		"8. 국간장 2큰술을 넣고 홍합과 미역에 간이 배이도록 한 번더 볶아주세요.",
+		"9. 이제 물을 부어 국을 끓일 거예요. 분량의 쌀뜨물과 물을 넣어주세요.",
+		"10. 다진 마늘 1/2큰술도 넣어주세요.",
+		"11. 국이 팔팔 끓기 시작하면 중불로 낮추어 재료가 어우러질 때까지 충분히 끓여주세요. 중간중간 거품도 걷어주세요. 국물이 뽀얗게 우러나면 소금으로 부족한 간을 맞춘 후 불을 꺼주세요.",
+		"12. 따뜻할 때 국 그릇에 담아 완성합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/d5bff552a61bedea97f337556f50e9281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/775c93dc7830c1669690526237d9e6231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/91276f5ef99aa4a404e76521e93429c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/d3f6aad67f1a3a6669fd7da2f594ecd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/bf5d5d9687a7a8c1846ace26f21be1d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/18386cb289faeef6198be88ad6f3b62d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/e74e334d474a8498feafa3db2be90e241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/3162b2255f87008faf062986db5b62a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5e9efd3e91460f41b8b6179e8c7bfc6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/037da2193ab7849550982c279849459b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/d73312649edcec712aa803fc4d1b59e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/11b98ae69de4e0fdb46b5bd67e88ff501.jpg"
+	]
+}

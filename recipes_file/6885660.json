@@ -1,0 +1,52 @@
+{
+	"id": "6885660",
+	"name": "담백하고 깔끔한 닭곰탕&양념다대기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/04/12/e832a7375b8770f7eaffe9e563a401461.jpg",
+	"url": "https://www.10000recipe.com/recipe/6885660",
+	"ingredient_ids": [
+		299,
+		876,
+		995,
+		390
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭다리살",
+			"ingre_count": "1",
+			"ingre_unit": "Kg"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "조미료(취향껏)",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 닭을 쌀뜨물에 담가놓습니다",
+		"2. 냄비에 쌀뜨물을 끓입니다",
+		"3. 닭을 넣고 익힙니다",
+		"4. 양념다대기를 만듭니다"
+	],
+	"recipe_img": []
+}

@@ -1,0 +1,70 @@
+{
+	"id": "6931547",
+	"name": "♥[신혼밥상] 따뜻*든든 참치김치죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/04/25/4a91848850d985877ac33ce6aee261641.jpg",
+	"url": "https://www.10000recipe.com/recipe/6931547",
+	"ingredient_ids": [
+		953,
+		219,
+		224,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "찬밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.5~1숟가락",
+			"ingre_unit": ".~숟가락"
+		},
+		{
+			"ingre_name": "멸치다시마육수",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 멸치다시마 육수 또는 생수 500ml을 준비해주세요.육수 내기 번거롭다면 시판 가쓰오(샤브샤브)육수 사용하면 간편!",
+		"2. 달군팬에 잘게잘게 썬 김치와 참치캔 1개를 통채로 탈탈!참기름이나 들기름으로 볶아도 맛있지만 참치캔기름은 몸에 좋은 식물성기름이라 저는 그냥 이 기름으로 볶았어요.",
+		"3. (매운맛 및 색감) 고춧가루1숟가락, (신맛 잡기)설탕 0.5~1숟가락을 넣고 달달 볶아주세요.",
+		"4. 맛있게 볶아졌으면 멸치다시마육수(생수)를 부어주세요.생수라면 물 붓고 국간장1숟가락과 멸치액젓 1숟가락 간 맞추기!",
+		"5. 중약불에서 찬밥 1공기를 넣어주세요.",
+		"6. 밥알이 퍼질때까지 약7~8분간 끓여주세요.",
+		"7. 달걀2개를 깨서 잘 푼 뒤 빙빙~ 뒤적뒤적  약 2분간 더 끓여주면 마음까지 따뜻해지는 윤블리네 김치참치죽 완성!",
+		"8. [TIP] 김가루와 통깨를 갈아 넣고 잘 섞어 드시면 더 고소고소!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/25/de303e33dd8e8c00fc01f3c8b7ec7a7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/25/5a2658e2e2511922003de64789c668b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/25/7770cc602366b9ec224c4e3a8c19bf091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/25/0586ef7476072c26689e48e934af9f6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/25/ba1080ed1430d35bba2cc3a90c6963391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/25/e0ba1e11a7a5acf2822468b1fd7271761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/25/6f93702cb6668adc7a1eb93f46c5f0ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/25/fe1a7ccd8d989c7bd952604dd6fdfbf31.jpg"
+	]
+}

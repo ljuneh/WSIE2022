@@ -1,0 +1,50 @@
+{
+	"id": "2742448",
+	"name": "국민간식 떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/ca6e622006b5fb25b117ff392b939cab.jpg",
+	"url": "https://www.10000recipe.com/recipe/2742448",
+	"ingredient_ids": [
+		548,
+		341
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "50",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "3",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "500",
+			"ingre_unit": "cc"
+		}
+	],
+	"recipe": [
+		"1. 떡이랑 어묵을 준비해주시고, 양배추는 듬썽듬썽 썰어주고 대파도 준비해주세요.",
+		"2. 멸치육수에 고추가루, 물엿(올리고당)을 넣고 팔팔 끓여줍니다.",
+		"3. 끓어오르기 시작하면 살짝 처음이란 다른 더 진한 색을 내게 되죠. 그때 떡을 넣어줍니다.",
+		"4. 떡이 끓기시작하면 어묵을 넣어주고 마지막 떡볶이 국물이 반으로 줄어들면 양배추와 대파를 넣어줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/c7dabb045475c0bbf0d54396a5a95c4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/5d5dd4351dc63e63f34339cf0517389c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/a45b8a7052a3deae8466734ff2b831251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/d4a6a89b002961ab190d7893ec844f6f1.jpg"
+	]
+}

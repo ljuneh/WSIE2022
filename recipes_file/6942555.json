@@ -1,0 +1,76 @@
+{
+	"id": "6942555",
+	"name": "상추참치김밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/80254ee5295e988df657e76e77643aa51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942555",
+	"ingredient_ids": [
+		659,
+		16,
+		548,
+		953,
+		660,
+		291,
+		228
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "깁밥용김",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "상추",
+			"ingre_count": "4~8장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		}
+	],
+	"recipe": [
+		"1. 참치를 기름기를 빼주고, 준비합니다.",
+		"2. 김치는 적당량을 양념을 씻어서 준비합니다. - 양념이 있는 경우, 김밥이 양념수분으로 지져분 할 수 있습니다. - 수분을 꽉 짜서 제거하시면 됩니다.",
+		"3. 어묵 한장을 기름두르지 않고 살짝 팬에 데워서 적당한 크기로 잘라 줍니다.",
+		"4. 밥을 준비해 주세요. - 참기름과 적당량의 소금을 넣고 잘 섞어 주세요. - 마요네즈와 참치를 넣기 때문에 살짝 싱겁게 하셔도 좋습니다.",
+		"5. 김밥용 김 위에 밥을 깔아 주세요.",
+		"6. 상추를 넣고 준비한 어묵과 김치를 넣어 주시면 됩니다. - 마요네즈를 한줄로 짜서 넣었습니다. - 처음부터 참치와 마요네즈를 섞어서 준비 하셔도 됩니다. - 야채는 상추외에 다른 것을 넣으셔도 좋습니다.",
+		"7. 마지막으로 속 재료가 흐트러지지 않게 김을 말아 주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/f0d0fdcfd214c547e21657675f4440ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/ed2708e2034a05f1523d55a9e764f51f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/8e8c7779f3f4dba85752c645fc2e70001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/33a8625ed12d115e4e1d806129e735901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/0869d0c144250fa7903c271ac08c2e6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/4a798fed37ce771084572c127591c9eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/166346648fac6569fe71776696cabd1d1.jpg"
+	]
+}

@@ -1,0 +1,129 @@
+{
+	"id": "6943523",
+	"name": "(유아식) 영양만점 약밥 *추석요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/963a00ffe2175bd595938860e283a2e71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943523",
+	"ingredient_ids": [
+		460,
+		188,
+		113,
+		132,
+		660,
+		847,
+		231
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "불린찹쌀",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "불린백미",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "깐밤",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "건포도",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "30",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "깐해바라기씨",
+			"ingre_count": "60",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "병아리콩",
+			"ingre_count": "30",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "7",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "아기간장",
+			"ingre_count": "2.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "배즙",
+			"ingre_count": "4",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "대추달인물",
+			"ingre_count": "250",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해요. * 찹쌀과 백미, 그리고 병아리콩은 미리 불려주세요.각각 140g씩 섞어서 2시간 불린 (찹쌀+백미), 아기간장 2.5t, 참기름 2.5t, 배즙 4t, 대추 달인 물 250ml, 밤 10알, 건포도 5알, 잣 30알, 깐 해바라기씨 60알, 병아리콩 30알, 대추 7알(아래 설명 참고)*찹쌀과 백미는 1:1 비율로 섞어서 2시간 불려주세요 *대추는 우려낼거라 15알 정도 있으면 좋은데.. 집에 남은게 7알 이라.. 이만큼만 사용했어요",
+		"2. 대추는 식초물에 5분 정도 담궜다가",
+		"3. 흐르는 물에 주름 사이사이 깨끗하게 씻어주세요.대추의 주름은 생각보다 먼지가 많이 끼여있어요. 깨끗하게 씻어주세요",
+		"4. 깨끗하게 씻은 대추를 냄비에 넣고 푹 끓여주세요.*약밥에는 정확히 250ml가 들어가니 처음 물의 양은 1.5배 정도 많이해서 푹 끓여요. *집에 대추가 7알 밖에 남지 않아.. 약밥에 넣을거 1알을 제외하고 6알만 우렸어요.. 대추를 우릴 땐 대추 양이 더 많으면 좋아요! (15개 정도)",
+		"5. 대추물이 우러나는 동안 미리 불려 둔 병아리 콩의 껍질을 까요",
+		"6. 짜잔! 껍질 깐 병아리콩이에요",
+		"7. 그리고 2시간 불려놨던 찹쌀과 백미를 채에 받쳐 물기를 빼요*보통의 약밥은 찹쌀로만 만들어요. 하지만 지난번에 찹쌀로만 만들어 줬더니 너무 찰져서 아가가 먹기엔 조금 버거워보이더라구요.. 그래서 그 뒤로는 찹쌀이 들어가는 음식은 늘 백미를 1:1 비율로 섞어서 만들고 있어요.",
+		"8. 껍질 깐 밤은 2등분하고, 건포도는 개당 4~6등분 해주세요.",
+		"9. 대추는 넓게 펼쳐서 가운데 씨를 빼고",
+		"10. 돌돌 말아서 요렇게 썰어주면 꽃모양이 나와요",
+		"11. 볼에 준비한 재료를 넣고 (양념장 포함, 대추 우린물은 나중에)",
+		"12. 골고루 버무려주세요.",
+		"13. 그리고 밥솥에 넣은 뒤",
+		"14. 대추 달인 물 250ml를 넣어서 취사! (쌀을 다 불려놨기 때문에 백미로 취사)물의 양을 너무 많이하면 죽이 되고, 또 너무 적으면 바닥이 타버려요. 정확히 250ml를 넣었더니 알맞았어요.",
+		"15. 짜잔! 약밥이 완성되었어요.",
+		"16. 완성 된 약밥을 골고루 섞은 뒤",
+		"17. 볼에 넣어 조금 식혔다가",
+		"18. 펼쳐서 한 김 더 식혀주세요.",
+		"19. 어느정도 식으면 적당한 크기로 칼집을 내고",
+		"20. 아기가 먹을 만큼 아기그릇에 담아주세요.",
+		"21. 남은건 이렇게 개별 랩포장 해서 냉동보관했다가 자연해동해서 먹어도 되고, 랩 제거 후 물 살짝 적셔서 렌지에 돌려서 먹여도 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/391441365703ab6e44e62088dbbd93a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/4619aeef275d1fee442e342505224c331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/c494af6c31d8ec1774a2ef516205eb6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/cf2d59b70c67f0d2180f76d8ded88ba51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/cd1fc18014d5dfa84dcad3c0f56396fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a77ead7e68eece682bcaa77ae0985d321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/5a5e6ccbf8fe24b94067ca150e6831251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/51a0b27ce9af63dd6b2c1a938aa1d8781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/603e5e2d415569b84a637e34bd9a54731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/4caa17d0536ad2060d1b302b08497b0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/55feb0e45826b4a692a9de16038a30be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/5a68e20c6f9c60cbdd2f0e721fa1cdb21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/459aaf5ec2ffd0b0591c71890d097d071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/60277680af3a896341282543d8b6a4901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a1e5471269c917aa50b7cdd985cb4a4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/b0e1ae7bedf717fb97dbf4676561c31e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/3fb9097d24577cedb66b19ab9d436c881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/58df56516544c8b0611c69ff4bd5fa3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/e14b736b30fa983c7bbeff57b16d96361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/e122c2d598bdd6ceeb97b8e1cca888e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/083e2a1e0cdbeab39a705bc4db3b8b8f1.jpg"
+	]
+}

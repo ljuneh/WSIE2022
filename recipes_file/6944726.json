@@ -1,0 +1,71 @@
+{
+	"id": "6944726",
+	"name": "가을제철 고구마요리/고구마스킨",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/1f624559f2e9a092e14013ab451dcb0c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944726",
+	"ingredient_ids": [
+		4,
+		212,
+		228,
+		204,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 깨끗이 씻은 고구마는 냄비에 물 붓고 다시마 1장 넣고  찜기 올려 10분~15분 정도 쪄 주세요~다시마 넣고 고구마 찌면 빨리 익고  감칠맛도 좋고 맛있게 잘 익어요~  ",
+		"2. 삶거나 전자레인지 돌려 고구마 익혀도 좋구요~",
+		"3. 쪄 낸 고구마는 이등분해 가장자리 0.5Cm정도만 남기고  숟가락으로 고구마속을 파내 주세요~",
+		"4. 파 낸 고구마속은 뜨거울때 포크로 눌러 으깨 준 다음  적힌 분량의 마요네즈, 연유, 소금, 우유을 넣어 주세요~연유 없으면 설탕 넣으시고  마요네즈 싫으면 버터로 대체 하면 됩니다  ",
+		"5. 골고루 섞어 주면 아이스크림보다 더 부드러운 고구마 필링이 완성됩니다요 상태로 빵에 발라 먹어도 맛있어요~  ",
+		"6. 파 낸 고구마속안에 고구마필링을 가득 채워 주세요~",
+		"7. 모짜렐라치즈 듬뿍 올려 에어프라이어에  치즈가 녹을 정도로만 돌려 주면 고구마스킨 완성~에프 대신 오븐이나 전자레인지 사용해도 좋아요~  ",
+		"8. 고구마스킨에 파슬리 약간만 솔솔 뿌려주세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/b94f2ffaa87bc002ae1e15d2bf8fbcbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/bee4f19b3e548d8da5ffdb2e0796c96b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/41bc428b67f95c5e0e172741c3b8e0d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5ea3c16594d3569ecf0b684f7e8497a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/3493b7a2c99c19128853ba8d5e8816511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/54417f4ca885bdfb2ba4e037d2087fb81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/08e2e53205125aa2d0a5209976d4c9dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/ccbc4085e8d55480bdd32c8b5faa68661.jpg"
+	]
+}

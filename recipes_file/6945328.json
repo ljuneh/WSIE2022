@@ -1,0 +1,45 @@
+{
+	"id": "6945328",
+	"name": "열매마 하늘마요리 카레라이스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/41d7a930a6f2f1be6e38682f8dad44591.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945328",
+	"ingredient_ids": [
+		9,
+		325
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "열매마작은것",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "시판카레",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		}
+	],
+	"recipe": [
+		"1. 당근, 호박, 열매마를 큐브로 썰어 준비해요.",
+		"2. 식용유에 채소재료들을 볶다가 물을 붓고 채소가 익을 때까지 끓여요.육수를 내서 사용해도 좋아요.",
+		"3. 채소재료가 다 익으면 카레를 넣고 조금 더 끓여줍니다.",
+		"4. 새우튀김을 에어프라이어에 데워 튀김카레 플레이팅을 했어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/701d39ae8257732b399bbdc235443b041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/6777b73dac522a8e2f19237f9279aa061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/901d2f15fb0b9295e4a2fb14466856b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/d88d2e4eeab7103e352a87eee110116a1.png"
+	]
+}

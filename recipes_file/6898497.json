@@ -1,0 +1,67 @@
+{
+	"id": "6898497",
+	"name": "팽이버섯 베이컨 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/5a445b781e9c72a54afb51895eecf50a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6898497",
+	"ingredient_ids": [
+		55,
+		406,
+		27,
+		504,
+		198,
+		477
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 팽이버섯은 밑둥을 잘라내고 몇줄기씩 뜯어 주세요",
+		"2. 베이컨은 채썰어 주세요.대파도 채 썰어 주세요",
+		"3. 팬에 식용유를 두르고 대파를 넣고볶다가(1~2분 정도)",
+		"4. 베이컨을 넣고 볶아주세요(1~2분 정도)",
+		"5. 버터를 넣고",
+		"6. 굴소스를 넣고",
+		"7. 팽이버섯을 넣고 재빨리 볶아주세요.(1~2분 정도)",
+		"8. 완성접시에 담아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/262e4776cdc1b143721c8dd89d558a161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/cc17b5b2822617e27881d27fb03312871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/6e250e6e8b9307b3da64f5d7f85c6bee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/b25ac76758f45113d7108c17fe5428be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/3ab741c76ab33c9f54861a171b0072af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/cdc4a2b6f06f1b5303f0d54fb907a2a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/8e7e930249c2508311a3e59785ddf33e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/21/39a19935c7ec1456fdee287927627b341.jpg"
+	]
+}

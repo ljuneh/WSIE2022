@@ -1,0 +1,92 @@
+{
+	"id": "6941382",
+	"name": "햄말이 채소 주먹밥 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/7cbb308055198976eb7ee4300cc04dfc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941382",
+	"ingredient_ids": [
+		219,
+		3,
+		6,
+		9,
+		497,
+		543,
+		660,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥싸먹는햄",
+			"ingre_count": "12",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "김밥김",
+			"ingre_count": "1/2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 기름을 두르고 다진 당근, 양파, 파프리카를 볶아줍니다.당근1/4개, 양파1/4개, 파프리카1개, 식용유1큰술팬중불",
+		"2. 채소가 익으면 한쪽으로 몰아놓고 다른 한쪽에 기름을 두른 후 계란을 깨뜨려 스크램블해줍니다.계란1개, 식용유1큰술",
+		"3. 따뜻한 밥에 볶아놓은 채소와 통깨, 소금, 참기름를 넣어 잘 섞어줍니다.밥1공기, 통깨1작은술, 소금1/2작은술, 참기름1작은술",
+		"4. 밥을 길게 뭉쳐줍니다.",
+		"5. 밥 싸먹는 햄으로 주먹밥을 잘 감싸줍니다.밥싸먹는햄12장",
+		"6. 김밥김을 반으로 자른 후 12등분 해줍니다.김밥김1/2장",
+		"7. 김띠를 잘 둘러줍니다.김띠 끝에 물을 묻히면 서로 잘 붙어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/7ecd689cbc78d21d7c7e2382679c7b891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/3802c5b67765e301d0870df126bb83211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/9060fa1e64bdc723544363b50cfe16b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/bbd39402e6dee15cec4cb30fd7e235361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/f6b4748169d21e387895ab45e30527151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/35b712f6ff9cdc6f6b585fd98e779de91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/547050644642f6fe924325886a5f6e791.jpg"
+	]
+}

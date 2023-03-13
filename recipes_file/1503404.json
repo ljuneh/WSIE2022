@@ -1,0 +1,63 @@
+{
+	"id": "1503404",
+	"name": "참치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/33cc97b071ffdd1316c57b3705ac909d.jpg",
+	"url": "https://www.10000recipe.com/recipe/1503404",
+	"ingredient_ids": [
+		473,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김치1주먹(크게)",
+			"ingre_count": "1주먹(크게)",
+			"ingre_unit": "주먹(크게)"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "참치통조림작은것",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물700g(종이컵기준3.5컵)",
+			"ingre_count": "700g(종이컵 기준3.5컵)",
+			"ingre_unit": "g(종이컵 기준.컵)"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루약간(기호대로)",
+			"ingre_count": "약간(기호대로)",
+			"ingre_unit": "약간(기호대로)"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 냄비안에 오일 조금만 두르고, 김치를 넣고 바글바글 볶아준다.",
+		"2. 볶는도중... 통조림용 참치를 넣어준다. 김치국물도 같이 넣어준다. (통조림용 참치는 뚜껑을 조금만 따서 , 뚜껑을 꾹 누르며 기름을 조금 빼준후, 김치 찌개안에 넣어준다 참치 기름을 완전히 제거해 줄 필욘없다. 적당히 기름이 돌아야 더 맛있으니...) 김치 숨이 죽을때까지.. 푹... 볶아준다.",
+		"3. 김치 숨이 죽으면. 이제 레시피 양대로 물을! 넣어준다. 물을 넣은 후, 고추장, 고추가루를 넣는다. 고추장은 시판용 고추장을 이용해보았다. 그리고, 이어서 다진마늘을 조금 넣어준다. 이제 응근한 불에 바글바글.. 진국의 국물이 만들어지게 끓여준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/7629c4759853976548f61039dae992321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/a032129c42d26c6064120dcf240395521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/d96b7a0255beaf720a89781b13c0a4101.jpg"
+	]
+}

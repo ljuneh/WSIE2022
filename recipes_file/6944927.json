@@ -1,0 +1,85 @@
+{
+	"id": "6944927",
+	"name": "[맛있는 꽃게요리]꽃게튀김/칠리크랩 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/b822862854a9c7b5347e793a590d8e171.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944927",
+	"ingredient_ids": [
+		480,
+		226,
+		379,
+		846,
+		515,
+		262
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "꽃게",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "칠리소스",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "건고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피쉬소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 꽃게 2마리를 깨끗이 씻어 손질해줍니다. *이때 물기를 확실히 빼줘야 튀길때 기름이 튀지 않아요.*",
+		"2. 전분가루를 적당히 준비한 다음 꽃게에 골고루 묻혀줍니다.",
+		"3. 기름에 꽃게를 속까지 익혀줍니다.  *저는 바삭하게 먹기 위해 두번씩 튀겨요.*",
+		"4. ** 맛있는 소스를 만들어 볼께요** 먼저 설탕 1큰술",
+		"5. 다음 간장 2큰술",
+		"6. 청주 4큰술",
+		"7. 피쉬소스 1큰술",
+		"8. 칠리소스 4큰술",
+		"9. 건고추 2개 넣어줍니다.",
+		"10. 그리고 소스를 끓여줘요",
+		"11. 소스가 끓어 오르면 앞에서 튀긴 꽃게를 넣어 버무려줍니다.",
+		"12. 소스를 졸여 버무리면 완성이예요. 예쁘게 그릇에 담아 줍니다.  저는 레몬으로 포인트 줬어요. 반찬으로도 맛있고, 안주로도 좋아요^^ 칠리소스가 들어갔지만 전혀 맵지 않아 아이들도 맛있게 잘 먹어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/57d4a6bb8dbff07ff03e760111feee841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/aba7f672ce42a7f5a1839b6ed37364c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/8fea73518f67c00f7f0bb70b4b1c94541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/9f1376d6daee1c6b30531a0125e7ed6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/c31335d0b04bd600c305fbed34ae4b0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/e8406a428e669c511e2fd3828f02ee911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/9c22ff392423a8f30726df293a49e1601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/da903f2caaa206d686288dfadc7e81bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/f07e7c9b3d9e639caaacf8a80284cf1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/a85bfb5aa7cc0eb4879ea64325f8abf11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/e513bac7da88ceeebdb5f0e2877e59621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/a4b0f8d6ab8d69282665ea21fb6a4f851.jpg"
+	]
+}

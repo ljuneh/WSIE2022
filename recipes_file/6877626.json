@@ -1,0 +1,43 @@
+{
+	"id": "6877626",
+	"name": "멸치볶음/아몬드멸치볶음~~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/10/623702c51f082d31adf1439f4911fe441.jpg",
+	"url": "https://www.10000recipe.com/recipe/6877626",
+	"ingredient_ids": [
+		320,
+		193,
+		194
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "아몬드",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 멸치는 1컵을 준비해 주시고 호두와 아몬드는 반컵정도를 슬라이스해서 준비해 주세요~~",
+		"2. 달군팬에 식용유를 두르고 잔멸치를 넣어 볶아 주시다가~~",
+		"3. 팬에 간장 0.5,올리고당 1.5,설탕 0.5,참기름 0.5,물 1~2큰술정도를 넣어 양념장을 바글바글 끓여 주세요.",
+		"4. 양념장이 바글바글 끓어 오르면 여기에 잔멸치와 호두 아몬드를 넣어 골고루 양념장이 배이도록 볶아 주시다가 마지막으로 통깨 약간 넣어 주세요~~",
+		"5. 멸치볶음.아몬드멸치볶음 완성~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/11/a7115cd39acbfabd7e855981c7c5b38c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/11/cfae946887280f29beaaf5f891a1d71a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/11/2eb09e3ae5ae75b7ad49c93b988de82c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/11/064a746a7224782a6a023d569809b9211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/11/55874fca3da0ae05937f242cc8f743461.jpg"
+	]
+}

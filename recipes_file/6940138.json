@@ -1,0 +1,51 @@
+{
+	"id": "6940138",
+	"name": "별미 비빔 냉메밀국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/99a6e3619838a4a2ea1759bf9466ecd91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940138",
+	"ingredient_ids": [
+		371,
+		3,
+		577
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "메밀국수1인분적당량",
+			"ingre_count": "1",
+			"ingre_unit": "인분 적당량"
+		},
+		{
+			"ingre_name": "새싹",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "참치통조림작은",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "시판용일본조미료쯔유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "와사비",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [],
+	"recipe_img": []
+}

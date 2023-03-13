@@ -1,0 +1,52 @@
+{
+	"id": "6940140",
+	"name": "맛보면 더위가 싹~ 날아갈 것 같은 열무 김치 냉국수*-*-시원한 음식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/fda8683cb0cacddbb5892fb2316aa8a11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940140",
+	"ingredient_ids": [
+		523,
+		1003
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "시판냉면육수",
+			"ingre_count": "2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "열무김치",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "열무김치국물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 시판 냉면 육수를 2~3시간 전에 미리 얼려놔 주세요.(이래야 아주 시원한 열무 김치 국수를 맛보실수 있어요!!)",
+		"2. 계란은 10분 동안 삶아주시고, 소면은 500원짜리 동전 크기를  1인분이라 생각하고 2줌? 꺼내주시고 물을 끓여주세요.",
+		"3. 물이 팔 팔 끊으면 소면을 넣어주세요. 물이 막 올라오면서 넘칠 것 같을 때 시원 한 물을 넣어주시면서 끓이면 면이 아주 쫄깃쫄깃 해져요!! 소면이 다 삶아지면 차가운 물에 얼음 넣고, 면을 바락바락 ?? 시원하게 헹궈 주세요.",
+		"4. 그리고 냉면 육수2팩에 열무 김치 국물 2컵을 섞어주시공, 열무 김치 를 2줌 꺼내 잘라주세요.(참기름 1T와 열무김치를 버무리면 더 맛있겠지만 난 귀찮아서 패쑤~)",
+		"5. 소면을 육수에 넣고, 열무 김치 얹어주고, 삶은 계란 까서 반으로 갈라서 올려주고, 깨 톡 톡 해줘서 한 입 먹으면 이보다 시원할 수는 없다~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/430fd2375abfff22549c456e50098acb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/18a8348fec21afca6b27eeb3562a36c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/fe0289442646d03e9fc209b060831c3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/3dcf666e700ae796f39d38dd5d4055e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/a2ef6d5b640ca3959144254ac5d2cc2c1.jpg"
+	]
+}

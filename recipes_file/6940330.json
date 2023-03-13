@@ -1,0 +1,48 @@
+{
+	"id": "6940330",
+	"name": "밥대신 양배추밥으로 유부초밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/051278b0150a6008deaff6d3dc0fd9a51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940330",
+	"ingredient_ids": [
+		21,
+		497,
+		198
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "삶은계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 양배추는 잘게 썰어서 식초물에 30분 담갔다가 헹구어서 물기를 빼 주세요.",
+		"2. 삶은 계란과 함께 잘게 다져 주세요. (믹서기 사용)",
+		"3. 버터(기름) 두른 팬에서 볶아요. 수분을 날리고 나면 진밥처럼 돼요.",
+		"4. 알알이곤약밥(곤약과 쌀 1:1) 과 함께 볶아주거나 으깬 두부와 볶아서 유부속에 채우면 탄수화물 줄인 한끼 식사가 됩니다.",
+		"5. 유부는 너무 꼭 짜지 말고 속은 적당히 채워야 더 맛있어요. 매콤한게 좋다면 청양고추 잘게 다져 넣어도 좋고 볶은김치에 먹으니 맛나요.^^~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/a6fa36cb1e91f87746849b4153ae8d221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/7ccba29e2ba2878e5918e1b394c010631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/ddd862286adb83e0a0fc8265c90395341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/a08ee807556ea06b2ce1bcb428f638071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/de1826d85766f3b18d952579f834c8691.jpg"
+	]
+}

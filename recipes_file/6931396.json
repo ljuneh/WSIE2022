@@ -1,0 +1,76 @@
+{
+	"id": "6931396",
+	"name": "포두부냉채 : 고단백! 저칼로리! 포두부와 겨자소스로 맛있게 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/04/20/3bfbb32ecf57d2ad4505cc74fd9ed6351.png",
+	"url": "https://www.10000recipe.com/recipe/6931396",
+	"ingredient_ids": [
+		8,
+		9,
+		597,
+		226,
+		231,
+		379,
+		660,
+		237
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "포두부",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "연겨자",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 포두부, 오이, 당근은 채 썬다.",
+		"2. 끓는 물에 포두부를 데친 후 헹궈 물기를 제거한다.                     \r                             네오플램 레트로T 편수냄비                          ",
+		"3. 고추기름을 제외한 소스재료를 고루 섞는다.",
+		"4. 포두부, 오이, 당근, 소스를 넣고 버무린 후 고추기름을 뿌려 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/20/b2469569e70317ee24b1f9b9910342ee1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/20/392212429d211e488af779c364c822db1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/20/b713b11421c9098b98ecd0d3b0ccd4a61.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/20/482de2edb92feb4876a4838b8d5fc6961.png"
+	]
+}

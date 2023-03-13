@@ -1,0 +1,75 @@
+{
+	"id": "6860343",
+	"name": "두유 리조또",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/09/73708f11fe7474c83a60fc544d105cad1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6860343",
+	"ingredient_ids": [
+		324,
+		911,
+		214,
+		300,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두유",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "현미밥",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파(작은것)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 기름을 살짝두르고 양파가 갈색빛이 돌때까지 볶아주기",
+		"2. 양파가 익으면 버섯과 물을1/3컵 정도 넣고 볶아주기",
+		"3. 닭가슴살과 두유1/2컵만 넣고 끓이기",
+		"4. 밥과 나머지 두유1/2컵을 넣고 살짝 졸이기",
+		"5. 졸으면 치즈1장을 넣고 녹을때 까지 저어주기"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/09/29e1004d1c913fc89de1dba2990425de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/09/73b92ce0fa20e086428621c0d0249d921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/09/31776084424f263a60e414c63abcf9c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/09/ee7d2fe32c45f956115e8f813461b78a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/09/c0093a4a439c679917de968b9a9a88951.jpg"
+	]
+}

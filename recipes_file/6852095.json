@@ -1,0 +1,42 @@
+{
+	"id": "6852095",
+	"name": "무더위를 통으로 날려버릴 통수박화채",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/9c1606971d569fe84297f74084c15e3f1.png",
+	"url": "https://www.10000recipe.com/recipe/6852095",
+	"ingredient_ids": [
+		161
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "수박",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "푸르츠칵테일",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "우유2컵(400ml)",
+			"ingre_count": "2컵(400ml)",
+			"ingre_unit": "컵(ml)"
+		},
+		{
+			"ingre_name": "사이다2컵(400ml)",
+			"ingre_count": "2컵(400ml)",
+			"ingre_unit": "컵(ml)"
+		}
+	],
+	"recipe": [
+		"1. 수박은 숟가락을 이용해 속을 파낸다. 밥숟가락 대신 원형 모양으로 떠 낼 수 있는 과일 스쿱을 이용해도 좋아요.수박 1/2통",
+		"2. 건져낸 수박(1/2 분량)과 국물을 제거한 푸르츠칵테일을 넣는다.푸르츠칵테일 1캔",
+		"3. 이제 우유, 사이다, 얼음을 넣고 섞어주면 끝! 남은 수박 속을 중간중간 더 넣어가며 먹어요.우유 2컵(400ml), 사이다 2컵(400ml)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/a502024d367b5940f3a3f1295fe2e6ec1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/8cdb91b43b3e362be29d2b1147876cdd1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/c890a0abd0a8c1196fbd19dea61165ce1.png"
+	]
+}

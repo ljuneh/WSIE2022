@@ -1,0 +1,120 @@
+{
+	"id": "6858991",
+	"name": " 베이컨 콩불",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/24/de7ca9f8351a0c26bc7ae1407ff957691.jpg",
+	"url": "https://www.10000recipe.com/recipe/6858991",
+	"ingredient_ids": [
+		406,
+		47,
+		9,
+		295,
+		3,
+		55,
+		27,
+		473,
+		224,
+		233,
+		660,
+		226,
+		379,
+		938,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "",
+			"ingre_unit": "천원분량"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1/4",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2~3큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 분량대로 양념을 만들어요.고추장 1큰술, 고춧가루 1큰술, 다진 마늘 1큰술, 참기름 1큰술, 후추 약간, 설탕 1큰술, 간장 2큰술, 매실청 2~3큰술, 깨소금",
+		"2. 깨끗하게 손질한 콩나물을 팬에 담고 베이컨은 3등분으로 잘라 콩나물 위에 올렸어요.",
+		"3. 당근과 청양고추를 넣고",
+		"4. 미리 만든 양념을 올린 후 양념을 섞지 않고 센 불에서 익혀요.",
+		"5. 콩나물의 숨이 살짝 죽었을 때 재료와 양념을 섞어 볶다가  대파, 양파, 팽이버섯을 넣고 살짝 볶은 후 불에서 내렸어요. 접시에 담아 깨소금 살짝 뿌렸어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/24/049d14ec119bfec7bc9f005ac2243e061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/24/b1f46509545e828a9011ada8797312bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/24/568a2c6c0343b61b5f06c27730d3e5501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/24/0960f919ed2e4e9c6126ff99e28d94821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/24/cf0a507b2a9bbaf35a1a65bfc77687c11.jpg"
+	]
+}

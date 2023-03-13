@@ -1,0 +1,35 @@
+{
+	"id": "3093784",
+	"name": "맥반석 메추리알",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/22/ecde6dc8fbc553ac88704eb33b09c07e.jpg",
+	"url": "https://www.10000recipe.com/recipe/3093784",
+	"ingredient_ids": [
+		221,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 전기밥솥에 재료를 담아 줍니다. 천일염을 솔솔~ 뿌려주세요.",
+		"2. 밥솥에 찜기능으로 70분 두시면 되요.",
+		"3. 70분이 지난후 밭솥 뚜껑을 열어보니~ 물에 삶았을 때보다 껍질도 쉽게 잘 벗겨져요.",
+		"4. 껍질 벗겨서 꼬지에 끼우면 애들도 좋아하는 맥반석 메추리알 완성~살짝 간이 베어 소금을 찍지 않아도~ 맛있게 먹을수 있네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/22/e3af5c14ea47c890ca4109351538e7ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/22/6aab702027a8e500d4c2395ecc0adf361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/22/028d40cf788383159fbd2528ec8284e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/22/391472bd2d27c8e70361340edd86edde1.jpg"
+	]
+}

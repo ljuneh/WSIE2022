@@ -1,0 +1,69 @@
+{
+	"id": "6856816",
+	"name": "방아잎 생채",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/10/f2e32c3efb75630d67802cdbd03d46b71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6856816",
+	"ingredient_ids": [
+		395,
+		3,
+		379,
+		543,
+		224,
+		379
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "방아잎",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "복분자효소",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 방앗잎은 깨끗이 씻어 물기를 제거하고 홍고추는 배를 갈라 씨를빼 채썰어줍니다 양파는 얇게 채썰어 찬물에 행궈 매운기를 빼줍니다",
+		"2. 복분자 고춧가루 간장 넣어 양념장을 만들어 주세요",
+		"3. 볼에 방앗잎과 양념을 넣어 가볍게 버무립니다",
+		"4. 설탕 참기름 들기름은 기호에 따라 넣어줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/10/ea13601eb86c4d2168fcf62feaa576f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/10/eb9243f50347ec603220352baee4b3021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/10/0328221722abd1f068934eddfe01774f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/10/f84a39866f943752e959a92d788d4e5e1.jpg"
+	]
+}

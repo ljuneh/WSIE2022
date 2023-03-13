@@ -1,0 +1,67 @@
+{
+	"id": "6846487",
+	"name": "돈까스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/15/701b9dd8f03a7d279a7cc6cfcc63032d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846487",
+	"ingredient_ids": [
+		487,
+		436,
+		234,
+		504,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 돼지고기 안심을 준비합니다.",
+		"2. 1을썰어서 망치로 두들겨 고기를 부드럽게 만듭니다. 소금,후추로 고기에 간을 합니다. 튀겨 놓았을때 모양이 줄어 들지 않습니다.",
+		"3. 빵가루에다 스프레이로 물을 뿌려놓습니다.",
+		"4. 2를 밀가루, 계란, 빵가루를 무처 160도 온도에 튀깁니다 . 고기가 기름에 뜨고 기름방울이 없어지면 익은것 입니다",
+		"5. 고소하고 파삭하게 튀겨진 돈까스가 완성이 됐습니다.",
+		"6. 양배추나 사라드 감자사라드 콜슬로를 사이드디쉬로 곁들여 놓습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/15/1456c2821eeec8f2a155a3b0761ff0141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/15/ea535f2ada10c592cf40ef676f7007851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/15/88a4972a19282a7e9bba0d940fb27cc21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/15/aa194d422c7515aed22ce2312f9090111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/15/9c2912b7c7a299365df81509ce3742101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/15/980bf635f06e4e4479ec512f7ca5f3ed1.jpg"
+	]
+}

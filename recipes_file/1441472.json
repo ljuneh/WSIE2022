@@ -1,0 +1,93 @@
+{
+	"id": "1441472",
+	"name": "유래는 몰라도 맛있으면 최고 LA갈비 (엘에이갈비)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/f09c30f77416875c3a44128fd2cac895.jpg",
+	"url": "https://www.10000recipe.com/recipe/1441472",
+	"ingredient_ids": [
+		3,
+		27,
+		54,
+		379,
+		846,
+		233,
+		457,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "LA갈비",
+			"ingre_count": "1",
+			"ingre_unit": "근"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕2+1/2큰술",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "과일주스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 분량의 양념재료를 골고루 섞어둡니다. 섞을 때 간장 등 친수성 액체 재료에 설탕을 먼저 녹이듯 잘 섞어준 다음에 다른 재료를 넣고 마지막으로 기름 재료를 넣으세요.",
+		"2. 갈비는 양념이 잘 스며들도록 칼집을 넣어서 준비합니다.",
+		"3. 양념 재료를 갈비에 잘 버무려 섞은 다음 공기가 통하지 않게 랩으로 밀봉시켜 냉장에 하룻밤 정도 숙성시킵니다. 급할땐 2시간이상 재워두시구요.",
+		"4. 적당한 크기로 썰어둔 채소재료를 굽기전에 한번 같이 섞어줍니다. 채소류는 미리 재워두지 마시구요. 굽기전에 골고루 한번 섞는 정도로만 하세요. 특히나 버섯은 스폰지같은 성질이 있기 때문에 양념 흡수력이 좋답니다. 혼자 짜질수 있으니 마지막에 한번 섞어주는 정도로 충분해요.",
+		"5. 기름 살짝 두른팬에 굽거나 오븐에 구워냅니다. 양념이 타지 않도록 주의하시고 한번 뒤집으면서 양념탄거는 닦아내가면서 구우면 좋아요.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/b307e56371d18fa1a251d3191081cbc01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/d316a9dcc28e7ec759252415db322e9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/3387cbba486c2a08f7ecbb35074977a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/fb4a9a7b05c60efc126ded8524a117401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/3e7d376bb5c20680c5dd421f261d45651.jpg"
+	]
+}

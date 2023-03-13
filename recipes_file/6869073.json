@@ -1,0 +1,93 @@
+{
+	"id": "6869073",
+	"name": "돼지등심에 훅가는 양념 추가! 돼지등심양념구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/28/6d801f2ec206c8c1cb8d6bc2157b50bc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6869073",
+	"ingredient_ids": [
+		117,
+		846,
+		379,
+		292,
+		226,
+		233,
+		28,
+		660,
+		757
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기등심",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "홀그레인머스타드",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "5",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기는 한 입 크기로 썰어 청주 1T, 후추 약간을 넣어 버무려 둔다.돼지고기등심 300g",
+		"2. 볼에 소스 재료를 넣어 섞은 후 고기를 넣어 버무려 잠시 재워 놓는다.[소스재료] 간장 4T, 맛술 1T, 설탕 2T, 다진마늘 1T, 홀그레인머스타드 2T, 생강 1/2t, 참기름 1T볼",
+		"3. 통마늘은 편으로 썰고 쪽파는 약 3cm길이로 썰어 준비한다.통마늘 5개, 쪽파 5대",
+		"4. 절여놓은 고기를 예열된 팬에 마늘과 함께 넣고 약불에 노릇하게 굽는다.약불",
+		"5. 고기가 다 익으면 쪽파를 넣어 버무려 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/28/128fac47e7fa814044479ddb02999c821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/28/fda9f4bd714ec326a30bb6b0329de9521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/28/01ff3ecf99571eaeb26dbbd801f760941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/28/29c9503c7404e851b91ae07f3efa60ed1.jpg"
+	]
+}

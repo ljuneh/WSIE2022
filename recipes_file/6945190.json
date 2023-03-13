@@ -1,0 +1,78 @@
+{
+	"id": "6945190",
+	"name": "트위터에서 핫한 라면요리, 순두부 라면",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/20d92109a2be08ebf8fd224f81310d741.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945190",
+	"ingredient_ids": [
+		498,
+		295,
+		27,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "매운맛라면면",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "면스프",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "건더기후레이크",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "순두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "250",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다. 라면은 열라면이나 매운 맛이 나는 라면을 준비합니다.",
+		"2. 물 250ml를 냄비에 부어 라면에 들어 있는 후레이크와 다진 청양고추와 순두부를 넣어주세요.",
+		"3. 물이 끓기 시작하면 라면 스프의 1/2과 대파도 어슷썰기하여 넣어주세요.",
+		"4. 스프를 넣은 물이 팔팔 끓어 오르면 라면 1/2개를 넣어주세요.",
+		"5. 다진 마늘 1작은술 넣고 끓여서 면을 익혀주세요.",
+		"6. 면이 꼬들 꼬들하게 익었을때 계란을 깨뜨려 한소끔 끓여준 후 불을 꺼주세요.",
+		"7. 후추 가루를 뿌려주고 다진 쪽파가있으면 고명으로 뿌려 완성합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/a1ceff0341d88ed93374a894c155a3561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/40ee93f3e696e78a4588a8d929def1971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/82eaa6dd86b978501ac351de5b5cc9d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/b385019ced670027f44e9256259552681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/80b3a866052c1f0f0fa193c021b310921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/8a1c845f54219b4a393e41a6224630b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/8c951047fe9f1fc580a636264dbd41d91.jpg"
+	]
+}

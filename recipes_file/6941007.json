@@ -1,0 +1,118 @@
+{
+	"id": "6941007",
+	"name": "가지덮밥 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/a5314211627f59e21569de651af00fae1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941007",
+	"ingredient_ids": [
+		18,
+		13,
+		11,
+		504,
+		237,
+		379,
+		477,
+		467,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "4",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "청홍피망",
+			"ingre_count": "1-2개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "다진돼지고기",
+			"ingre_count": "200",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미원",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 가지 청홍피망 먹기좋게 썰고",
+		"2. 나머지 야채들도 잘게 썰어 준비하고",
+		"3. 가지 청홍피망 120도정도 온도에서 살짝 튀긴 다음",
+		"4. 건져내고 기름기를 제거하고",
+		"5. 다진돼지고기도 120도 정도 온도에서 익혀 줍니다",
+		"6. 건져내여 기름기를 제거하고",
+		"7. 펜에 식용유 두큰술 두르고 다진 야채 돼지고기 넣고 볶아줍니다",
+		"8. 여기어 간장 굴소스 넣고 볶아줍니다",
+		"9. 육수를 4국자 넣고 미원 치킨스톡 넣고 튀긴 가지 청홍피망 넣고",
+		"10. 끓어오르면 후추가루 약간 물전분 2큰술 넣고 참기름 살짝 두르고",
+		"11. 밥위에 담아 냅니다",
+		"12. 계란 후라이 반숙으로 올려줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/a4f02f513a9609336e8196d5d372249a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/8590d9a7c1930d5d9c726e7e059a48881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/412aab7b44d6c67acd1fa42ce44a0e301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/a74f5b26854c5b7695fb6c13e942b0e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/10ec5ab8ffbafe6aab9161a44aa7293d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/9379c2165ddacda8721ab0859a80cbb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/d9d93738919690e0259c7860181a2fea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/8e9c77391d3acacaf3bd3dafbf51644e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/aa6cdd7b2b9706db370f979ee99d27cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/b761f39e8f29f1c1458b96418851128a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/13433d051841e8e127d13ebcc0e2f59f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/64d9c51e35632a63ff5b19b5884711521.jpg"
+	]
+}

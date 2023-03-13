@@ -1,0 +1,67 @@
+{
+	"id": "6940875",
+	"name": "대패삼겹살 요리- 팽이버섯 대패삼겹살 말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/b78e647c2727cb6be8b69517b07696971.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940875",
+	"ingredient_ids": [
+		963,
+		55,
+		15,
+		379,
+		226,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "대패삼겹살",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 먼저 팽이버섯은 깨끗하게 손질하고 깻잎은 절반으로 잘라 준비해 주세요.",
+		"2. 대패삼겹살은 미리 꺼내 해동해주세요. ",
+		"3. 해동된 대패 삼겹살 위로 깻잎- 팽이버섯 순서로 올려주세요. ",
+		"4. 모든 재료를 올렸다면 돌돌 말아 주세요. ",
+		"5. 팬에 대패삼겹살 말이를 올리고 앞뒤 모두 구워주세요. ",
+		"6. 작은 볼에 설탕 1T, 간장 2T를 넣어 간장 양념소스를 만들어주세요. 어느 정도 익은 대패삼겹살 말이 위로 간장 양념소스를 부어주세요.",
+		"7. 보글보글 끓이다가 데굴데굴 굴려가며 익혀주세요.",
+		"8. 대패삼겹살에 양념장이 잘 베였다면 불을 끄고 통깨를 솔솔 뿌려주면 최종 완성이 돼요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/022eb8b30c2b80fdff81ee7df838490c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/411026a82ed2d253136117d92b7168501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/715357910b5cc3acb0133c1e42357c5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/8893daae5e97925c72493d2d9c9479391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/36fb54e1f34cc87cc113833bf5cea0d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/8e33733535f40806bc656f5388ad672f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/2f45e19017d86928ff609d9a9f01758e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/b355eb3bf545c0677e6da7da841056a41.jpg"
+	]
+}

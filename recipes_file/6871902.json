@@ -1,0 +1,56 @@
+{
+	"id": "6871902",
+	"name": "매콤칼칼 좋구나 멸치꽈리고추볶음 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/28/849994919a6bb5fe5133750d5f7f3e961.jpg",
+	"url": "https://www.10000recipe.com/recipe/6871902",
+	"ingredient_ids": [
+		293,
+		379,
+		843,
+		575,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "지리멸",
+			"ingre_count": "100",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 기름 두르지 않은 팬에 지리멸을 넣고 잠시볶아 수분날려 줍니다",
+		"2. 간장넣고 재빨리 쉐킷쉐킷~~ 간장양은 먹어보고 멸치의 짠 정도에 따라 가감해야 됩니다",
+		"3. 꽈리고추는 절반으로 잘라서 넣고 볶아요 올리고당, 매실액, 참기름 둘러 마무리 합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/28/4fa8fdcabe6d61d2fdb8ec32aa22213c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/28/2264444672ae29dc7c0629c828816a311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/28/7203aee551a81409d281106ff6e233d31.jpg"
+	]
+}

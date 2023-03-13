@@ -1,0 +1,115 @@
+{
+	"id": "6940390",
+	"name": "나만의 비법 떡볶기만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/a193084c9d5347f3a3edfc238c3664e71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940390",
+	"ingredient_ids": [
+		972,
+		21,
+		3,
+		548,
+		473,
+		224,
+		226,
+		995,
+		29,
+		608,
+		27
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "개반"
+		},
+		{
+			"ingre_name": "짜장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "커리",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "육수팩",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "12",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		}
+	],
+	"recipe": [
+		"1. 1, 재료를 준비합니다.",
+		"2. 2, 육수룰 내야하므로 육수 다시팩있으신분 그거 1팩넣으시고 없으신분은 멸치나 디포리 몇개 넣으시고 만능간장 3스푼 사용하세요.10분간 끓여주고 디포리를 제거합니다.",
+		"3. 3.떡볶기를 세척해서 육수를 충분히 넣고요 월계수잎을 3장넣어줍니다. 불을 중불에 놓으시고요.",
+		"4. 4. 어묵을 넣어줍니다.",
+		"5. 5, 카레가루1스푼 짜장 1스푼 고추장 1스푼반, 고춧가루1스푼을 모두 넣어줍니다.",
+		"6. 6,진간장 2스푼과 설탕 2스푼을 넣어줍니다.",
+		"7. 7,마지막에 대파를 넣어줍니다 . 함께 끓엿던 월계수잎은 이제 제거해줍니다. 이제 아주 맛있는 특별한 떡볶기가 완성 되었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/a74f60c8cfe394ae981eb65e2422efd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/76822b059690bcaaa2c238409383257f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/cfd777f2a4cba045a8ec1a567d31d9691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/b758b6e7cdd2640e25f8a8c18c86badb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/3a57b09db4005c5362e670a5f601675c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/b5c1e6ac4bf3b9c38c078a659c0ff3851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/b6100f56cfa0b3f866771f320e6c972f1.jpg"
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"id": "6941683",
+	"name": "빨간파프리카 치즈아보카도볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/54d457c297ffb22e346229befca01e751.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941683",
+	"ingredient_ids": [
+		6,
+		162,
+		371,
+		966,
+		477
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "",
+			"ingre_unit": "반"
+		},
+		{
+			"ingre_name": "스프링치즈",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "조미김",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료 파프리카,밥,치즈,김, 아보카도를 준비한다.",
+		"2. 아보카도, 스프링치즈 채썰기",
+		"3. 채썬 것과 밥을 굴소스 넣고 비빈다.",
+		"4. 비빈 밥을 파프라카 안에 넣고 위에 스프링 치즈를 덮고 에어프라이기에다 넣고 15분 굽기에어프라이어",
+		"5. 맛있게 드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/46f228c91b87591f2d86d6521bd5e9801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/acdf7703ffc548d2eedd3a14a3a6b4821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/7606a18a0c5a22360d7c3b2baf4c47a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/4f5f2fa16a4c3a1a8b8213f6340a61711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/bfc657d45474072e01b4e00afa0717a01.jpg"
+	]
+}

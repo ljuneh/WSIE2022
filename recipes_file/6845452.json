@@ -1,0 +1,68 @@
+{
+	"id": "6845452",
+	"name": "소고기 미역국 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/27/863ef00241368109faf04187fc382b1f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6845452",
+	"ingredient_ids": [
+		495,
+		282,
+		333,
+		995,
+		233
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "건미역",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 우선, 미역을 찬 물에 불려 주세요. 미역에 따라 시간은 다소 차이가 있지만 한 시간 정도 담궈두시면 돼요.",
+		"2. 국거리 용 소고기도 찬물에 담궈 핏물을 제거해 준비해주세요.",
+		"3. 소고기와 미역을 냄비에 넣고 소금과 멸치 액젓 조금 그리고 참기름을 넣고 조물조물 버무려주세요.",
+		"4. 미림도 1큰술 - 2큰술 정도 넣어주심 좋아요.",
+		"5. 다진 마늘도 넣어주시고 타지않게 달달 볶아주세요.",
+		"6. 고기가 좀 익을 정도로(5분 정도) 볶아 준 다음, 물을 적당히 붓고 끓여주세요.",
+		"7. 폭폭 끓으면 부족한 간을 맞춰주세요. 멸치 액젓과 굵은 소금을 넣어주심 됩니다.",
+		"8. 국을 끓이는 중간 중간에 생기는 거품은 바로 걷어주시고, 간을 본 다음에 불에서 내려주세요.",
+		"9. 구수한 국물 맛이 좋은 소고기 미역국, 자주 끓이게 되는 메뉴인데 미역을 피를 맑게 해주는 요오드가풍부한 건강한 재료니까 맛있게 잘 드시고 건강 챙기세요. 단, 미역과 파가 궁합이 맞지 않으니파는 생략해주셔야 한다는 거 아시죠?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/2603b154006840808d22a4f92e44e4831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/20e4f1bf6acfdb09cf0ccb3d9a5ef6eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/2c0bce348c7a278843c7270521f37ba71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/5b712d55df87541a6634679e11e048591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/37b67e167fcaa424a9271e322a59cb4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/8d09f9b0d2a3cdcdbd7264c4142406df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/3d699568e0d6b432f3cfbb37f64b645a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/56ebca094fb8313c04a4f6c6cbcd4db41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/29/e6491ed9a10904754ebd8eb89fb1174a1.jpg"
+	]
+}

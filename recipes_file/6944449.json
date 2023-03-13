@@ -1,0 +1,29 @@
+{
+	"id": "6944449",
+	"name": "간단 반찬 맥주안주 굿굿!! 베이컨팽이버섯말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/3b25b54f93305721692ad07d103768fc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944449",
+	"ingredient_ids": [
+		55,
+		406
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 팽이버섯 밑둥을 자른고 먹기좋게 분리해 줍니당",
+		"2. 베이컨에 팽이버섯을 올리고 돌돌 말아 주세요",
+		"3. 팬에 베이컨팽이버섯말이를 올려 노릇하게 구워 줍니다중불연결부분부터 구워줘야 잘 풀리지 않아용"
+	],
+	"recipe_img": []
+}

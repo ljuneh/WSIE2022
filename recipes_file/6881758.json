@@ -1,0 +1,113 @@
+{
+	"id": "6881758",
+	"name": "연어장 만들기(연어장 덮밥 만드는 법)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/04/0b9c9721a6c93e73d6ac3f4af5cba6f41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6881758",
+	"ingredient_ids": [
+		61,
+		995,
+		343,
+		379,
+		226,
+		3,
+		134,
+		295,
+		27,
+		577,
+		339
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "연어",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "가쓰오부시",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "레몬",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "페퍼론치노",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2~3개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "와사비",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "무순",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 연어는 껍질을 벗기고(마트서 벗길걸 사용하셔도 좋아요.)",
+		"2. 연어살짝 해동시켜서 흐르는 물에 씻어서 키친타월로 물기를 제거해주세요.",
+		"3. 이제 물1컵을 냄비에 넣고 미림1컵을 넣어주세요. 여기에 간장1컵을 넣어주세요. 즉 물:미림:간장(1:1:1) 설탕(1)을 넣어주세요.",
+		"4. 보글보글 끓이다가 양파반개를 큼직하게 넣고 대파도 큼직하게 넣어주세요. 여기에 페퍼론치노를 살짝넣어주세요.",
+		"5. 칼칼하게 드시려면 청양고추도 같이 넣어주세요. 이제 야채가 물러질때까지 졸여주세요. 얼추 끓인후 가스불을 끄고 가쓰오부시한줌을 넣고 1분후에 걸러주세요.",
+		"6. 졸인간장은 체에 걸러서 식혀주세요. 이제 나머지 양파반개를 가늘게 채썰고",
+		"7. 레몬도 슬라이스해주세요.",
+		"8. 이제 저장용기에 연어를 넣고 위에 양파와 레몬을 올려주세요.",
+		"9. 이제 위에 식힌 간장을 넣고 냉장고에서 반나절정도 숙성시킨뒤에  도톰하거나 식성에 따라 얇게 썰어서 밥과 함께 와사비와 연어장을 올리고 무순을 올리면 연어장덮밥완성이에요.",
+		"10. 전 아삭하고 느끼하지 말라고 양파를 가늘게 채썰어 아린맛을 없애고 같이 넣어주었어요.",
+		"11. 음 밥도둑이 따로없네요 ㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/04/b054780ff66faf9a37f947edf64e1fc41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/04/607f0704b55ba2830ea56f11a27cbbbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/04/1829c2f4ce6ad4e7ccc5cb1acdb25ced1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/04/bf251c4baf34d3ce0d591c6b47c07bec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/04/dfa07dd6a7e7aa7632c3e97e652ead511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/04/f3af9cab217ee4a5c3735741118a7bb21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/04/576eed2f6d297b82c0d4694c33e493521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/04/e92683c8649965929b71fc70946f7fb81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/04/4d9a5940568666316615c9b913627c831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/04/e51e2006854a6388daa571f290efe53d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/04/7eb78b28dd4f082f68e4a87d213aaa181.jpg"
+	]
+}

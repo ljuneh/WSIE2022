@@ -1,0 +1,104 @@
+{
+	"id": "6868118",
+	"name": "스테이크덮밥(스테키동)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/fd504097b0ff4b9958c2e59b5f9034911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868118",
+	"ingredient_ids": [
+		495,
+		3,
+		757,
+		379,
+		292,
+		226,
+		575,
+		233,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 소고기는 30분전 미리 실온에 꺼내두고 소금후추 밑간후 올리브오일을 앞뒤로 발라주세요",
+		"2. 쪽파는 송송썰어주세요",
+		"3. 양파는 얇게 썰어 찬물에 담궈  매운기를 빼주세요",
+		"4. 마늘은 얇게 편썰어 찬물에 담궈 매운기를 빼고 키친타올로 물기제거해준뒤 기름에 튀겨주세요",
+		"5. 접시에 젓가락을 미리 올려두고",
+		"6. 센불로 고기를 구워주세요",
+		"7. 겉면이 딱딱학 누룽지가 만들어져야  맛있어요 원하는정도로 익혀주세요",
+		"8. 그런다음 젓가락올려둔 접시에 고기를 올려 5분정도 레스팅시켜주세요 그래야 육즙이 고루퍼져요",
+		"9. 후라이팬에 양파를 살짝볶고",
+		"10. 만들어둔 소스를 부어주세요 부르르 끓으면 불을 꺼주세요",
+		"11. 레스팅시킨 고기는 얇게 썰어주세요",
+		"12. 그릇에 밥을 담고 그위에 소스와 볶아둔 양파를 올려주세요",
+		"13. 그다음 고기를 빙글빙글 둘러주세요",
+		"14. 양파와 쪽파도 올려주세요",
+		"15. 마늘후레이크와 소스를 뿌려주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/c05f387dc62197adabc59c16fc6ac47e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/1a7e135666ddfc234b665f4ab056914e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/4750d42b55b094e87a7ff70665f391da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/121d27740660abe55b3e47849d10a40f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/497100d6fa6a4954f2b99b02b64206291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/dc3ff0e0e85ff75d80124bbd6af7468d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/bea915de8dd77cf8ab98d953795a3c691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/7999afca9de8065b161ea991b9c0baf31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/91e5345c9aff23ec8de23e55f6431abe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/ef62b36ee1bc3b3a1456243159b587cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/b2ac56b4545ed2c5f64ef31986c8cee91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/b1233f2df5b555bdd04e79ff7d57428a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/3d695e950c37364203f024c4c9cb96341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/edb669ea4b30713adaa962cb4aa2c2021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/08/dbdf9b347fd952f266587c7fbf7c366c1.jpg"
+	]
+}

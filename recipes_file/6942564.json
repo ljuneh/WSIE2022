@@ -1,0 +1,70 @@
+{
+	"id": "6942564",
+	"name": "우리 아이를 위한 건강 간식 겉은 바삭~ 속은 촉촉 <고구마 크로켓>",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/5fa3740f2796c29857e4b59273a863511.png",
+	"url": "https://www.10000recipe.com/recipe/6942564",
+	"ingredient_ids": [
+		4,
+		9,
+		7,
+		219,
+		234,
+		436,
+		432
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "요리에센스연두",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. [재료 손질하기]  고구마는 껍질을 벗기고 8등분 하여 볼에 담고 랩을 씌워 전자레인지에서 5분간 익히고 당근, 애호박은 곱게 다져주세요.전자레인지",
+		"2. [반죽 만들기]  찐 고구마를 볼에 담고 으깬 다음 다진 채소와 달걀노른자 1개, 연두를 넣어 고루 섞어주세요. 남은 달걀은 다른 볼에 잘 풀어 준비해 주세요.",
+		"3. [크로켓 빚기] 고구마 반죽은 먹기 좋은 크기로 동글납작하게 빚어주세요.",
+		"4. [크로켓 굽기] 밀가루, 달걀물 순서로 묻히고 빵가루를 씌운 다음 예열한 팬에 포도씨유를 두르고 앞뒤로 노릇노릇 익혀주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/a2bbbe1136e73e60c530e6b24a76c6801.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/093c7d4d467f13414cbc3b79d68f44af1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/d83b08493e70bd613394dff4d2c8865e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/09afce8c9bfc71f009e7988b055ae4731.png"
+	]
+}

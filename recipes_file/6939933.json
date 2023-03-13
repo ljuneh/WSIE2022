@@ -1,0 +1,54 @@
+{
+	"id": "6939933",
+	"name": "공심채,모닝글로리 볶음♥동남아 집반찬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/42247738831950b8a2b24d02659db7ee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939933",
+	"ingredient_ids": [
+		477,
+		504
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "공심채",
+			"ingre_count": "450",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "어간장또는액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 살살 씻어 물기를 뺀 공심채를 반으로 잘라주세요.",
+		"2. 센불에 식용유를 넉넉히 두르고 마늘편을 넣고 향을 냅니다.",
+		"3. 달궈진 팬에 줄기부분을 먼저 넣고 볶아줍니다.(두꺼워서 익는 속도가 다르니까요)",
+		"4. 숨이죽을 무렵,굴소스 반큰술 넣고 볶다가",
+		"5. 나머지 반단을 넣고 볶아주세요.",
+		"6. 잎부분이라 금새 숨이 죽습니다.굴소스 반큰술넣고 함께 볶다가 마지막 간으로 어간장 한큰술로 볶아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/7b9b85308bc0f1088954ff57d17ea3541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/d90c342402fbb2ee71f662b730bc42eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/f2dd73e4bd5a0b0f3fe08ea0f21e4bad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/6c782f12c2430e7b0f3a2de2a6b1bad31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/54fb84c91a0049d4917d23e821dbee941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/a9836e36a9749b97d9078258b984c5e51.jpg"
+	]
+}

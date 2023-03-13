@@ -1,0 +1,49 @@
+{
+	"id": "6941469",
+	"name": "닭 (가슴)살 커리 볶음 밥 - 이 따위(?) 재료로도 맛있을 수 있다니...",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/506bf141c8d7804fd1243a581ed754a51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941469",
+	"ingredient_ids": [
+		757
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "남은로스트치킨살",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "잡곡밥",
+			"ingre_count": "1.",
+			"ingre_unit": ".공기"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "맛소금1/3작은술",
+			"ingre_count": "1/3",
+			"ingre_unit": "작은 술"
+		},
+		{
+			"ingre_name": "커리파우더1.5작은술​",
+			"ingre_count": "1.",
+			"ingre_unit": ".작은 술 ​"
+		}
+	],
+	"recipe": [
+		"1. 로스트 치킨이나 남은 후라이드 치킨 등의 살을 발라 준비해요. (닭 가슴살은 익혀 결대로 찢어 준비합니다.)",
+		"2. 달군 팬에 기름을 두르고 닭 살과 밥을 얹어 줍니다.",
+		"3. 밥 위로 소금과 커리 파우더를 뿌려 준 후 골고루 비비듯 볶아 주어요.",
+		"4. 쫑쫑 썬 파를 넣고 가볍게 섞어 준 후 불을 끕니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/b63e456c547bad5f6207ce65f33f2e591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/6e454fcc8e1b137ba8fc7b36c613c5a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/0cd6236f04698d62be41585cadfe42121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/7ec4ef2ce3e099258192fe721a77348b1.jpg"
+	]
+}

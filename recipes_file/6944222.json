@@ -1,0 +1,80 @@
+{
+	"id": "6944222",
+	"name": "호박찌개 새우젓호박찌개 간단하지만 맛있어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/fb5d7933a9ec70e3419d1b68023723901.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944222",
+	"ingredient_ids": [
+		293,
+		3,
+		327,
+		390,
+		233,
+		876
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "둥근호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 둥근 호박은 반으로 잘라서 보니 씨를 파내지 않아도 될 것 같아 그대로 4등분 한 다음 도톰하게 썰어줍니다 양파도 채 썰고 꽈리고추는 반으로 자르고 홍고추는 어슷 썰어줍니다 ",
+		"2. 팬에 양파와 호박을 넣고 들기름을 넣어 볶아줍니다",
+		"3. 호박이 반쯤 익었을 때 새우젓을 넣어줍니다 ",
+		"4. 새우젓을 넣고 육수나 다시마 육수 부어주면 됩니다 저는 3번째 쌀 뜻물을 부어주었어요 ",
+		"5. 바글바글 끓으면 꽈리고추와 홍고추를 넣어줍니다 마지막에 후추를 넣어주면 구수한 #호박찌개 #둥근호박찌개 완성입니다 ",
+		"6. 양념도 간단하게 들기름과 새우젓만으로 끓인 호박 찌개지만 맛만큼은 간단하지 않고 맛있네요 ",
+		"7. 작은 냄비에 덜어서 바글바글 끓여 식탁에 올리면 밥 없이 찌개만 먹어도 될 만큼 심심하고 맛있답니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/1e7f943e2f6ef7c9f2d8ddbb7003b16d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/857bbcdf172f6529ffd0c633a851c2bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/8ca0a7620ac41df4ec531fdf69d37f6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/5f13bdf2cc92df5d6b40072887cc7b221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/838d560996e7d2b538afc69d531dc1521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/bf80e6ed80810f345601c8e517bd8b661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/bd4077e045b2cd090d8842ce5bb326db1.jpg"
+	]
+}

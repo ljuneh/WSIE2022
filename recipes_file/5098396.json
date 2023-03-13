@@ -1,0 +1,73 @@
+{
+	"id": "5098396",
+	"name": "명란젓 라면 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/13f984f3832b0b75b07c861f0ed1e3921.jpg",
+	"url": "https://www.10000recipe.com/recipe/5098396",
+	"ingredient_ids": [
+		342,
+		295,
+		29,
+		95,
+		198,
+		574
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "라면사리",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "명란젓",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "1/2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 라면사리와 청양고추, 마늘, 명란젓, 구운 김을 준비해 주세요. 김은 직화로 살짝 구운 후 가위로 잘라 주세요.",
+		"2. 청양고추는 송송 썰어 주시고 마늘은 슬라이스해 주세요. 명란젓은 가운데에 칼집을 낸 후 알만 살살 긁어 주세요. 껍질은 버려 주세요.",
+		"3. 끓는 물에 라면사리를 넣고 살짝 덜 익을 정도로 삶아 체반에 밭쳐 물기를 빼 주세요.",
+		"4. 달군 팬에 버터와 올리브오일을 넣어 주세요. 버터만 넣으면 탈 우려가 있으니 꼭 올리브오일을 함께 넣어 주세요.",
+		"5. 중불에서 마늘과 청양고추를 넣고 볶다가 고추의 매운 향이 올라오면 명란젓을 넣고 볶아 주세요.",
+		"6. 마지막으로 라면과 우유를 함께 넣고 살짝 볶은 후 접시에 담아 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/40ea5dba0822084925f869174473673a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/0d7c5ba1b812de716f0023c239f1fc0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/64bb5697d74370535b1e0e17245deb9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/153d5336ad52ce3945f2807a0245902f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/b64b7913a85244e47d99e56e976088a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/06/e36390eff04c32553860c97f4bc801951.jpg"
+	]
+}

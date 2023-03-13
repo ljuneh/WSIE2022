@@ -1,0 +1,32 @@
+{
+	"id": "6904993",
+	"name": "초간단 탕후루 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/728ffc5bf5ed1a1b1a8d232adbe8d9c81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6904993",
+	"ingredient_ids": [
+		155
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "딸기",
+			"ingre_count": "18",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리고당또는딸기시럽",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 딸기를 젓가락 한 개당 세 개씩 꽂아줍니다젓가락 또는 꼬지 6개",
+		"2. 딸기 위에 시럽을 듬뿍 뿌려줍니다",
+		"3. 서늘 한 곳에서 말려줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/f9338df177c0e986d3174b4b9408807d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/4789b005d04a290eecb1e2f1a1b8b74a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/f2ae01bac8d1897916a9abfcc0cdc6871.jpg"
+	]
+}

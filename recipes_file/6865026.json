@@ -1,0 +1,71 @@
+{
+	"id": "6865026",
+	"name": "고추잎 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/09/9e192c733776bdf7269bf5b71e85e3491.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865026",
+	"ingredient_ids": [
+		29,
+		333,
+		660,
+		938,
+		473
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "고추잎삶아서물기짠것",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "볶은통깨",
+			"ingre_count": "1",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "쪽파다져서",
+			"ingre_count": "3",
+			"ingre_unit": "줄기"
+		}
+	],
+	"recipe": [
+		"1. 고추잎을 삶아서 물을 꽉 짜내 준비합니다.",
+		"2. 갖은 양념을 다 넣고 버무려줍니다.",
+		"3. 접시에 담아내면 먹을 준비 완료."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/09/7900db6fa082fd40c0a1aca83999deed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/09/9df1ca6858b7e85f2d019ebce8afc50c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/09/9b603321b6c1743fc1a3b963e30bc97f1.jpg"
+	]
+}

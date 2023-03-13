@@ -1,0 +1,112 @@
+{
+	"id": "6945296",
+	"name": "집밥 TV) 무말랭이 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/3102711bc68b3b3561f1fa25ca126f041.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945296",
+	"ingredient_ids": [
+		99,
+		99,
+		29,
+		224,
+		390,
+		28,
+		333,
+		282,
+		290
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다시마멸치육수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쌀조청",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "조선파",
+			"ingre_count": "2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무말랭이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마른미역",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 찹쌀 500g을 물에 3시간 정도 불려줍니다. 그 사이 다시마와 멸치를 넣어 육수를 끓인 뒤 식혀줍니다.",
+		"2. 불린 찹쌀을 끓입니다. 쌀조청을 넣으면서 계속 끓입니다. 밥알이 어느 정도 삭을 때 까지 끓인 다음, 시원한 곳에서 잠시 식힙니다.",
+		"3. 조선파(토종파) 두단 정도와 마늘을 까서 다듬습니다. 다듬은 조선파(토종파)는 세로로 썰어줍니다.",
+		"4. 무말랭이는 찬물에 두세번 빠르게 씻어서 물이 잘빠지게 채반에 둡니다.",
+		"5. 큰 볼에 육수 3그릇, 찹쌀풀물 3그릇, 고춧가루 1그릇 다 넣고 섞어줍니다.",
+		"6. 새우젓(간 것), 마늘(간 것), 생강(간 것) 섞어주세요. 멸치액젓(조금), 굵은 소금으로 간해주세요.",
+		"7. 씻어서 물기를 뺀 무말랭이를 양념장에 부어줍니다. 다듬어 놓은 조선파(토종파)를 넣고, 골고루 버무려줍니다.",
+		"8. 마른미역(자른미역)도 그대로 넣습니다.",
+		"9. 마지막으로 깨도 넣어줍니다. 충분히 버무린 뒤 김치통에 옮겨 담아 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/4da12a2f4665bf0cf2b515695edd0f8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/02d50a4326a997b1ff03455a0d7154301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/de3d79b3be5c10f287c9f938a567afcf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/a70cf73294fbeae6e05e3723fa0184cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/1a16acec66c2780302e36d325199a3cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/896ac7ba066b3118835d2ddb747cb7da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/8f148e5803207c88146e04fdc21c39dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/d1badd3b1b2623ba432d634f95faa3d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/d34d69283074e49c6780d8f8cf25c4ff1.jpg"
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"id": "6943615",
+	"name": "오징어젓갈 사서 그냥 드시지 마시고 양념을 해보세요 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/2bb6b2180ff5075a3bca398e560688dd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943615",
+	"ingredient_ids": [
+		3,
+		295,
+		643,
+		327,
+		290
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어젓갈",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비해볼까요? 오징어젓갈은 시중에 판매하는것으로 구입했습니다.",
+		"2. 스텐통에 오징어젓갈을 부어주세요",
+		"3. 양파반쪽 다져주세요",
+		"4. 매콤하게 먹고 싶으서 청양고추2개 풋고추2개를 다져주세요 ^^ 매운맛이 싫으신 분들은 풋고추만 넣어주세요",
+		"5. 스텐통에 담아주세요",
+		"6. 들기름1스푼 넣어주세요",
+		"7. 깨듬뿍 없으면 생략하세요  섞어주시면 완성~!!",
+		"8. 완성~!! 예쁘게 담아주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/378f0576e252e1131d2809f565b8c9c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/6bc99be1d0948c632face16442ddcdd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/036193e4eddf0e4dac0927e46a4715101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/5f40bbc19d6c0c6a24700ddab1ded72b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/fa6675d99291154950be71f076def41e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/0cfe9c66529075c03e41baee1ce0a6e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/95194a1038642c7b782b13634d70e2131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/c549c587c0afb27db4bb01fabae79ce61.jpg"
+	]
+}

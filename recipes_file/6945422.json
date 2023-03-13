@@ -1,0 +1,101 @@
+{
+	"id": "6945422",
+	"name": "얼큰한 맛이 좋은 소고기 콩나물국 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/a0a01ad1d993f540cf8bf1266799174f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945422",
+	"ingredient_ids": [
+		660,
+		736,
+		233,
+		47,
+		295,
+		349,
+		390
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "국거리용소고기",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "조선간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 국거리용 소고기를 차가운물에 담궈 핏기를 제거 해 준다음 냄비에 참기름 1T + 다진마늘 1T",
+		"2. 고추가루2T + 조선간장2T 를 넣고",
+		"3. 고기가 어느정도 익을때 까지 볶아준 다음",
+		"4. 물을 부워주세요.",
+		"5. 콩나물 1팩을 씻어서 넣어주고 다진파를 넣어준다음",
+		"6. 후추톡톡",
+		"7. 청양고추3개 다져서 넣어주세요. 끓어오르면 중불로 낮춰 끓여준다음",
+		"8. 국간장 2T",
+		"9. 새우젓1T",
+		"10. 고추가루2T 를 넣어서 보글보글 끓여준 다음 약불로 줄여주세요.",
+		"11. 마지막 간은 개인 취향에 따라 다른데 조금 더 깔끔한맛을 원하시면  국간장 또는 소금으로 간을 더 해주면 됩니다!",
+		"12. 소고기국밥이 땡길때 꼭 한번 끓여보세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/f0d1065f829a3a48f5dec9aee012be581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/255de0a76feaed49fc6a6aee6af9d5801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/49e7222841f09fb7f352819f1a85b7361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/d33c48e32063b6020e86a2c5e25777701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/9ee5092953fa49aa9228e4b2b5a4facb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/f1bac9555ed1204f4decd3c3d6318cd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/5bf255b997408fc13ad625c9fecec06f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/7b2611258667912ceea50fe37767c2551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/2dff595289137d424f297f6c218861fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/0e6988d046c019dab7b7722941ab1fbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/fba33215960d143004a364344d28d3511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/86f6f0a86a5500ec3e773d086ef283241.jpg"
+	]
+}

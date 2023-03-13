@@ -1,0 +1,102 @@
+{
+	"id": "6873655",
+	"name": "갈비찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/89c50a3e23d2e9b74d57fc0d9aac81b71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6873655",
+	"ingredient_ids": [
+		3,
+		6,
+		5,
+		293,
+		9,
+		27,
+		579,
+		292,
+		233,
+		457
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지갈비",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1/2",
+			"ingre_unit": "병"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "",
+			"ingre_unit": "개인의취향에맞게"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕간장의",
+			"ingre_count": "1/2",
+			"ingre_unit": "정도"
+		}
+	],
+	"recipe": [
+		"1. 돼지갈비는 마트에서 썰어달라한뒤에 소주와 물에 담가 핏물을 빼준다",
+		"2. 끓는물에 갈비와 양파,대파를 넣고 끓여준다",
+		"3. 끓는 갈비찜에 미리다 섞어놓은 양념과 꾀리고추를 넣어 뭉근하게 끓인다.",
+		"4. 고기가 3/4정도 익엇을때 감자와 당근을 넣고 끓여준다.",
+		"5. 마지막으로 파프리카를 넣고 2분정도 더 끓인뒤 점시에담는다",
+		"6. 미지막으로 깨를 뿌려 예쁘게 접시에 담아낸다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/c401973ae9c9dfcaabfb95e14b9fedf01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/87ed956eaf2c0b9a24b8a6b6eccb806e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/da000a1ade3ea43bac58a7605b460e801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/369c8bcca9b16bf79f20e710354cbf611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/dc182770c6a57c8e1ba804a4bd668e9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/f29218fe965277c179eafed0b8c337981.jpg"
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"id": "6865029",
+	"name": "정월에는 꼭 먹어봐야 하는 가오리 초무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/10/5f8304af0c177308e046ebd01fa79f381.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865029",
+	"ingredient_ids": [
+		142,
+		417,
+		473,
+		380,
+		350,
+		660,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "손질가오리",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "봄동",
+			"ingre_count": "1/2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "매실진액",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "감식초",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 배와 봄동은 먹기 좋은 크기로 썰어둔다.",
+		"2. 손질된 가오리와 고추장, 매실진액, 감식초 깨소금, 참기름, 마늘을 넣고 조물조물 무쳐준다.                   ",
+		"3. 무쳐둔 가오리에 배와 봄동을 넣고 잘 섞어준다.                   ",
+		"4. 접시에 양상추를 깔아준다.",
+		"5. 완성된 모습"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/10/f0fe54fc77a6a749d1fa4b85f310cd7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/10/1415fffdad37832f3528ff68b349322f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/10/3d3b05307e2e6be476df694a396586101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/10/0737786c990aba4936f593a878787e311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/10/89890e2b3ce66b4310c8883ee92b5c081.jpg"
+	]
+}

@@ -1,0 +1,145 @@
+{
+	"id": "6922590",
+	"name": "#찜닭 [간장찜닭]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/43a62ee4d038c0a39a11210f2fc1cfe31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6922590",
+	"ingredient_ids": [
+		5,
+		3,
+		27,
+		21,
+		55,
+		302,
+		379,
+		478,
+		341,
+		477,
+		233,
+		225,
+		660,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "볶음탕용닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "4-5개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "14",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실원액",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "노두유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 당면은 미리 불려놓습니다.1-2인이 드실경우 양은 한줌만 담궈주세요!",
+		"2. 양념은 미리 섞어놓습니다.",
+		"3. 참기름을 제외하고 섞어줍니다.",
+		"4. 야채는 적당한 크기로 잘라놓습니다.",
+		"5. 웍에 생닭과 반으로 자른 감자를 넣어줍니다.감자는 둥글게 모서리를 깍아줍니다.",
+		"6. 만들어놓은 양념장도 넣어주세요.",
+		"7. 물 300ml를 부어 뚜껑을닫고 끓여줍니다. (20분정도)중간불과 강불사이매콤 칼칼한걸 원하시면 마른고추를 넣어주세요! 저는 페페로치노가있어 8개정도 넣었답니다.",
+		"8. 중간에 한번 저어줍니다. 불은 중불로 줄이고 좀더 끓여줍니다. (10분정도)아직 감자와 닭고기가 푹익지않았어요. 이때 간을보시고 싱거우면 간장을 더 넣어주세요!",
+		"9. 10분후 썰어놓은 채소와 당면을 넣고 뚜껑을 닫아줍니다.약불",
+		"10. 7-8분후 뚜껑을 열어 숨이 죽어있는 당면과 채소를 섞어줍니다.",
+		"11. 아직 물기가 많이 남아있는 상태입니다.",
+		"12. 전분가루를 넣기직전에 풀어줍니다.",
+		"13. 전분 푼물을 넣고 재빠르게 섞어주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/73a23d2b962b9188ad084c000f7ff3741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/5c612a8be2832d8d88e597007525ac8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/6a89c82aec2b4214e5e197d08e1d84ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/9da9ce9d8b81d326f87cbdb5f3fb5f241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/87aa12a9fe4e1fc07861c6deb2d2666f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/36e7fc937502e184cd439343b291da011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/9c094bcff95d04003e98e02444e474f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/f5f4297a530f4486eaa4eb16dea642711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/3d3fee015cf0b75deb89bbd0519c56531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/539d05c142ade37332c4cbfa5556cf581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/384b880040a4b43445e2d25a728a5e661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/1f1bb4e3e18bee4d9a43df1f0b352d831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/24/3c7ced884c11d3a0014c0d1ae971c75e1.jpg"
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"id": "6940774",
+	"name": "고추장감태김밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/7719f43dbdad6e199d1e6b9dd15b3aa61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940774",
+	"ingredient_ids": [
+		496,
+		660,
+		290,
+		473,
+		575,
+		231,
+		290
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "구운감태",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김밥햄",
+			"ingre_count": "4",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "딸기쨈",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "바퀴"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2~3바퀴",
+			"ingre_unit": "~바퀴"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "많이"
+		}
+	],
+	"recipe": [
+		"1. 계란 2개를 풀어 약불에 지단을 만들고 가늘게 채썰어주세요.",
+		"2. 김밥햄을 2줄씩 잘라서 구워주세요. 레시피는 1인분이지만 제가 먹을거까지 만들기 위해서 많이 만들었어요.",
+		"3. 밥 1공기에 참기름을 넣어주세요",
+		"4. 깨를 적당히 넣어주세요.",
+		"5. 소금간 대신 양념고추장을 1스푼 넣어주세요.",
+		"6. 구운감태위에 밥을 얇게 펴주세요.",
+		"7. 미리 만들어놓은 지단을 가득 올리고",
+		"8. 김밥햄과 단무지를 올려주세요.",
+		"9. 천천히 터지지않게 잘 말아주면 끝!",
+		"10. 조심스럽게 잘 잘라준 뒤 도시락통에 넣어주고 마요네즈를 동그랗게 뿌려서 멋을냈어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/8b25bb6527dc40d5c3bba74a3755bace1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/e3cfba1b6909c2138170ced2f0bc780f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/fd3fdbe970a1b89ec968403729a8fac91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/b6cc41522229a65e5a41d3cacf3f40b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/b7d00095775598d0e307f3768a8581ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/9e40c24bea4ee220f243b63d93543a021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/82b2ceb209f2a79784f7da8ac9c1706b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/3843e60fa1789ad066d4a1ba6f6ae1eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/5a86ae0b468f82f2346d610e222042721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/931bd9967b42db0f3bb00bca8f94ce9d1.jpg"
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"id": "6941396",
+	"name": "★다이어트 도시락★ 다시마 게살야채말이~! 살빠지는 음식~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/32f171a54923c608356cccfa69de08571.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941396",
+	"ingredient_ids": [
+		6,
+		6,
+		9,
+		228,
+		577,
+		482
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쌈다시마",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "쌈무",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "크레미",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "레몬쥬스",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "와사비",
+			"ingre_count": "1/3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "날치알",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 다시마는 물에 여러번씻어 소금기를 제거한후 30분정도 물에 담가주세요~",
+		"2. 노랑파프리카를 얅게 썰어주세요",
+		"3. 빨강파프리카를 얇게 썰어주세요",
+		"4. 당근도 얇게 채썰어주세요",
+		"5. 얇게썬 크래미에 위의 양념을 넣고 버무려주세요",
+		"6. 사진과 같이 다시마 쌈무 야채 크래미를 넣고 말아주세요~",
+		"7. 동글한 크래미는 사진과 같은 제품을 사용했습니다",
+		"8. 말아서 썰어주면 완성입니다 간단하죠?^^",
+		"9. 크래미위에는 날치알을 올려주었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/72dcf7bba329a68fec6b5927785095891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/1c9e73b907703eae80a74d3d2ac8d8181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/72f503a3d44003da9cea3b2ed59cda391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/97d7e4d324d351c3ad5b571ad66c182d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/f932bcec68f4678668b167a30dd667261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/dac467a39603bb35f9b8b3b691816afe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/e81ae03c5293762ae2c32db8192df0191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/a2ab0f5f459bc142531af459be60f3021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/f41511c64af748708283a770aeec9ef81.jpg"
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"id": "6879729",
+	"name": "숙주나물무침 데치기까지 (재래간장 한간장)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/93ea845124544a7df0d9fbc69c65c47b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6879729",
+	"ingredient_ids": [
+		233,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "숙주나물",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "채썬대파",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "재래간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 먼저 콩껍질과 시든 잎을 제거하고 깨끗하게 두번 정도 물에 씻어 채에 받쳐 줍니다.",
+		"2. 여기서 포인트는 젓가락으로 저어가면서 위 아래 있는 숙주나물을 골고루 데쳐주세요",
+		"3. 데친 숙주는 체에 바쳐 물에 한번 씻어주는데... 이때 물기를 손으로 부드럽게 짜 주세요~",
+		"4. 양념을 하기 전에 대파도 4등분해서  적당한 크기로 잘라 준비해 주세요",
+		"5. 불에 물기를 뺀 숙주와 대파를 넣어주고 간을 합니다.",
+		"6. 간 마늘을 넣습니다.",
+		"7. 재래간장 1T 넣어줍니다.",
+		"8. 참기름 조금 넣어줍니다.",
+		"9. 부족한 간은 약간의 꽃소금을 넣어 마무리해주시면 되세요",
+		"10. 그러면 아이들도 즐길 수 있는 반찬 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/8247d249ab1d2a2b06ee5d569c41a2a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/b497eb80eb8e341db58dce3e2df1b6d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/9026cb903804e9a4cd3faa048e882d1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/ee9d7af2b89233d0a2eea291ff3da49e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/fab4887dc39e0ea1d5834321eefab50f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/0df987c91c4071eee9870dca99d4351a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/75e16a234ff36523dcbd7c2c058b3df81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/35a37a440794e9c33e26e904c8d75e9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/4fcd2693cc5edebf9065f838fa05114b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/b1d57eb387db5e7d4779ba1685314b551.jpg"
+	]
+}

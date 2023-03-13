@@ -1,0 +1,109 @@
+{
+	"id": "6870013",
+	"name": "오야꼬동만들기 너무쉬운 닭고기덮밥!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/81a05635e856c34f92f1632bfffbb34d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6870013",
+	"ingredient_ids": [
+		126,
+		3,
+		343,
+		497,
+		379,
+		343,
+		226,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "닭고기",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 닭다리살이나 가슴살, 안심등 아무부위나 상관없어요 껍질과 기름을 제거한후 먹기좋은 크기로 잘라 찬물로 깨끗하게 씻어서 준비해주세요",
+		"2. 닭고기 밑간을해주세요",
+		"3. 양파는 채썰어 준비해주세요",
+		"4. 파도 송송 썰어 주세요",
+		"5. 파와 계란을 함께 넣고 섞어주세요열심히 풀지않고 대~충 섞어준다는 느낌으로 풀어주세요. 일본식 덮밥의 포인트!",
+		"6. 기름 살짝 두른팬에 밑간해둔 닭고기를 볶아주세요",
+		"7. 닭고기 겉이 노릇해지고 반쯤익었을때 양파도 함께 넣고 볶아주세요",
+		"8. 분량대로 만들어둔 양념장도 모두 부어서 한번 부르르 끓여주세요",
+		"9. 끓고나면 약한불로 닭고기를 익혀주세요",
+		"10. 제일 약한불로 줄인후 위로 대~충 풀어준 계란을 부어주세요 그런다음, 뚜껑을 덮어 계란을 살짝만 익혀주세요",
+		"11. 덮밥은 모두 익힌 계란보다는 요렇게 몽글몽글한 정도가 딱 좋더라구요^^",
+		"12. 그릇에 밥을 먼저 담고~",
+		"13. 그위로 완성된 닭고기를 올려주시면 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/329d0e467aa4cda38ff12c883172dbbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/4d6302b379570eb68dc8721d0f5e980e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/c0de6820cb83cdc31d24e8fb0df8bb391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/72ef93c54829c852830ea22a937984881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/91c52abeeb3fea1de2a0d29cc1a1a6501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/21c8bd7c91993a7eb0ea766c897228971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/91f05a43874b73bf95dbc82ac0d8fb8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/448bba2925be885d37838ce7998d46191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/bcc0b602a4ec53d6cc8fba25572c6fdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/e1df2b36a0719204cedbf09ce23d97121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/834702f28eab68f3a0202942c02fa1ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/7785cc9f3ae7701d56920433b255fbdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/19/33b8cd3f9ff72df214bca6af797a8fb01.jpg"
+	]
+}

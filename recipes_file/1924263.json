@@ -1,0 +1,77 @@
+{
+	"id": "1924263",
+	"name": "매운 어묵탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/c449bd8d1cb57a5ed83e87b0e60ebacf.jpg",
+	"url": "https://www.10000recipe.com/recipe/1924263",
+	"ingredient_ids": [
+		548,
+		19,
+		27,
+		295,
+		224,
+		225
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/5",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "멸치다시마육수",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참치진국",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 먼저 국물요리의 기본. 육수는 멸치와 다시마, 그리고 새우를 넣고 끓인 육수기 기본이 됩니다. 본래 일본식 어묵탕에는 가쓰오부시육수를 사용하지만, 한국식은 멸치다시마 육수를. 나머지 간과 맛을 참치맛이 나는 간장인 참치진국으로 하면 되는 것이지요.",
+		"2. 무는 먹기 좋게 살짝 도톰하게 썰고, 어묵도 먹기 좋게 썰어서 그리고 청양고추와 대파도 어슷하게 썰어서 준비합니다.",
+		"3. 멸치다시마 육수(4컵)에 나박하게 썬 무를 넣고 끓이기.",
+		"4. 간과 맛을 내주는 참치진국(2)을 넣고",
+		"5. 팔팔 무가 익을때까지 푹 끓여줍니다.",
+		"6. 무가 반 이상 익고, 국물이 팔팔 끓을 때 어묵을 넣고 같이 끓이고",
+		"7. 마지막으로 대파와 청양고추 썬 것을 넣고 한소끔 더 끓여주세요.",
+		"8. 취향 따라서 마지막에 고춧가루와 후춧가루 팍팍. 청양고추와 고춧가루, 그리고 바로 통후추 갈아서 넣어주어 매운 맛을 더해줍니당. 건고추 넣어 주시면 더욱 개운하고 시원한 매운맛을 내주고요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/1654bcc6107c7e8ff7973acf44db81351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/d8076c009a7c9752eb2e142ceda46c391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/023a50fb2eb4c401a589d6211dc3c5e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/3684cdb5cc8fd5362934f9c9aab2084d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/8a46333034c3a842fb27a3fa8c4fe4a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/06f05587faae051792f4ded880db43751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/f71541aae95a916defa8a3f6400de0f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/548bc146890e9d53cf18ea16a481d1c71.jpg"
+	]
+}

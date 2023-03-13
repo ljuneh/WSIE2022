@@ -1,0 +1,50 @@
+{
+	"id": "6833745",
+	"name": "대하 버터구이 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/f8f7a0c8cd591d89c505ccfa676f91261.jpg",
+	"url": "https://www.10000recipe.com/recipe/6833745",
+	"ingredient_ids": [
+		545,
+		198
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "대하(새우)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 대하 깨끗하게 씻어서 찔 준비를 했지요.",
+		"2. 대하구이 필수인 굵은소금이 없는거죠. 그래서 그냥 간소금으로 마구 마구 뿌렸어요.",
+		"3. 푹~ 쪄주세요! 대가리는 절대 버리면 앙대요! 버터구이 해먹어야 하니까요!",
+		"4. 대가리 버터 구이를 위해서 대가리와 몸통 분리 해주세요!",
+		"5. 버터구이 할꺼니까 살 같이 잘라도 됩니당.",
+		"6. 자, 이제 대가리 버터구이 준비를 할꺼에요~ 버터를 후라이팬에 녹여주세요!",
+		"7. 휙휙~ 버터가 잘 녹으면 버터구이 준비는 끝",
+		"8. 잘라놓은 대하 대가리를 마구 투하! 버터를 조금 더 넣어서 같이 졸여 주시면 더 맛나요.",
+		"9. 접시에 껍질 벗긴 대하와 버터에 구운 대가리를 예쁘게 담아주면 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/49c6f43ccb14c6895ce5067e8a0fe1961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/5f446a3c98fee438e97ccd699578e37e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/989bb50e963223355ecb2dfd258853d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/0980ace41ba5b475fd06c58bfb9d3da51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/7dea1e99d48f410db90fb95bc40bd4b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/e18f589245dc24baa340a63c10c6087a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/c02ebc39bc7a9c7859c5f31cdf7182961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/d3e2fa4c7a7fa30904e2da424763997d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/fb8d94e3f8b1989bad5515600bfc81181.jpg"
+	]
+}

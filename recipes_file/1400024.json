@@ -1,0 +1,88 @@
+{
+	"id": "1400024",
+	"name": "김치콩나물국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/a07eb544f4ccf16ce4e7ad8c6b162590.jpg",
+	"url": "https://www.10000recipe.com/recipe/1400024",
+	"ingredient_ids": [
+		47,
+		27,
+		295,
+		390,
+		233,
+		224,
+		497,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "잘게썬김치",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "멸치다시마육수",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 적당히 신 김치는 크지 않게 쫑쫑 썰어 준비하세요.",
+		"2. 진하게 끓인 멸치다시마 육수도 같이 준비해 주세요. 멸치다시마 육수는 넉넉한 물과 국물멸치, 다시마를 넣고 푹푹 끓여주세요~ 다시마의 경우 중간에 느른하게 진액이 나오는 것이 있을 수도 있는데, 그런 것이라면, 중간에 다시마를 꺼내고 끓여 주시고요.",
+		"3. 멸치다시마 육수에 잘게 썬 김치와 콩나물을 넣고, 또 김치 국물을 넣고 바글바글 끓이세요. 콩나물을 넣고 끓일 때는 처음부터 뚜껑을 닫고서 끓이되, 콩나물이 콩 비린내가 나지 않을 때까지 완전히 익히거나, 아니면 아예 처음부터 뚜껑을 열고서 끓이면 콩나물 비린내가 나지 않아요.",
+		"4. 콩나물과 김치가 어느 정도 끓으면 새우젓을 넣고 팔팔 끓이세요.",
+		"5. 마지막으로 다진 마늘, 고춧가루를 넣고 어슷하게 썬 대파와 청양고추를 넣고 끓이고, 맛을 보아 나머지 간은 소금, 후춧가루로 해주면 끝. 매운 맛이 싫으면 청양고추는 빼셔도 좋아요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/f2fc7224d60e8e0442814c145131be451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/677fd928e30d611d4b066a7a8788e83f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/a0a371ad1772062e2c2519a9c74ff3601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/3caa3e5e96f426e13b597e4bd019253e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/8340efce8ab327c939452c12065b6b461.jpg"
+	]
+}

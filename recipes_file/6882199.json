@@ -1,0 +1,54 @@
+{
+	"id": "6882199",
+	"name": "맑은 대구 지리탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/26/9f774ba899e3a013233675422227f5c41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6882199",
+	"ingredient_ids": [
+		68,
+		20,
+		295
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "대구",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 멸치 표고버섯 파뿌리 다시마 무우 육수 재료입니다",
+		"2. 육수는 천연 조미료 역활을 하기에 진하고 깊은 맛을 내줍니다",
+		"3. 생대구는 내장을 빼고 적당한 크기로 토막 내어 찬물에 헹궈두고",
+		"4. 나박하게 썬 무우와 콩나물은 머리를 떼고 다듬어 청홍고추 대파도 먹기좋은 크기로 썰어 준비~",
+		"5. 냄비에 육수를 넣고 두툼하게 썬 무우를 넣고 끓이다 씻어논 생대구 넣고 끓여 미림1스픈 넣어 혹시 남아 있는 비린맛을 잡아주고",
+		"6. 중간중간 생기는 거품은 걷어내주구요~ 거품을 걷어 주어야 국물이 더 맑고 냄새가 안나요 천일염으로 간을해",
+		"7. 다듬어논 콩나물 넣고 후르르 끓어 오르면 생강술 마늘 파 넣고",
+		"8. 홍고추 미나리 올려 살짝 끓여서 마무리~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/26/5868866721336b94dcaad1860ec1a67c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/26/073fcc6c7a398d663a6f59d8d2fd11b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/26/036d6cb0dbb9e64699f3fe7410716a8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/26/554416daf7b30564be350ba0985a895b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/26/caec23a530eb05234ffb2a4cefd8d7801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/26/854215fe9aca056cffbf2530d5f249161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/26/7a2d8a0611c09c63a1246f1bc354d3641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/26/ed77dbc5808d95cf15168b8b02568be01.jpg"
+	]
+}

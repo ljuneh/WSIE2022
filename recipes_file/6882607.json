@@ -1,0 +1,69 @@
+{
+	"id": "6882607",
+	"name": "쌀튀밥견과강정",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/20/004038654e362893014ad2ba9040d5451.jpg",
+	"url": "https://www.10000recipe.com/recipe/6882607",
+	"ingredient_ids": [
+		194,
+		193
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "호두",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "아몬드",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "쌀튀밥",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "쌀조청",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "쌀튀밥",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "쌀조청",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 호두와 아모드는 마른팬에 한번 볶아주고 잘게 다져줍니다.",
+		"2. 팬에 쌀조청 한컵을 넣어줍니다.",
+		"3. 조청이 바글바글 끓여줍니다. 이때 저어주지 않고 골고루 끓어오르지 않을때는 팬을 살짝 돌려 줍니다.",
+		"4. 호두+아몬드+쌀튀밥을 넣고 가스불을 꺼준후",
+		"5. 주걱으로 골고루 버무려 줍니다.",
+		"6. 쟁반위에 종이 호일을 깔고 그위에 잘 버무린 견과튀밥을 올리고 납작하게 잘 펴줍니다.",
+		"7. 완전히 식으면 자를때 부서지기 때무엘 말랑말랑할때 먹기 좋게 잘라줍니다.",
+		"8. 쌀튀밥강정도 같은 방법으로 만들어 줍니다.",
+		"9. 바글바글 끓어오르는 조청에 튀밥을 넣고 잘 섞어줍니다.",
+		"10. 종일호일 위에 올리고 잘 펴준후 먹기 좋게 잘라줍니다.",
+		"11. 준비시간도 짧고 빠르게 만들어 먹을수있는 쌀튀밥강정완성. 입이 심심할때마다 부담없이 먹을수있고 바삭바삭한 식감이 넘 좋아서 우리 가족 간식으로 즐겨먹고있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/20/e9c911c5d15d424bae9f4fe376565cc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/20/45397475cf491341eb1a9ffbe40bc2d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/20/7b98cefb4654dbcd71b1720756a5105e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/20/d4ab1d6a86a2c5274c37b2290e7ea9af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/20/2bbdfb76bce3646719bb2a8560d0bd931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/20/7efd3ebd6b17a4ccdc93720418569a7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/20/5f1e1ad46e1bc9fa903d68696d58441a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/20/9b13daf37b04a12f119da2eb6a1cca831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/20/d0e9709db6ff69dfb4724979930ad3861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/20/c53d4f3545b86499f0bf66f2497012961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/20/60e338df9f3f1e3c7a78d5728f8e34b41.jpg"
+	]
+}

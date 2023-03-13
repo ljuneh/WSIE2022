@@ -1,0 +1,83 @@
+{
+	"id": "6945533",
+	"name": "백파더 어묵볶음 진짜쉬워",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ad74535a7a11c8180471f33fa6d8891f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945533",
+	"ingredient_ids": [
+		3,
+		27,
+		295,
+		226,
+		233,
+		504,
+		995,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "사각어묵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2~3개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 납작어묵은 반을 잘라주고 다시 포개 가로가 긴쪽으로 반을 또 자르고 다시 또 포개서 긴방향으로 3등분 잘라주시면 되는데요 어려우면 그냥 먹기좋게 썰어 준비해주세요! ",
+		"2.  양파 반개는 먹기좋게 썰어주고 대파와 청양고추는 송송 썰어주세요 아이가 먹을거라면 고추는 생략! ",
+		"3.  이제 본격적으로 요리 시작! 팬에 어묵과 양파를 담아주고 설탕1 다진마늘0.5 진간장3 식용유2 분량의 양념을 담아주세요 ",
+		"4.  불을 키고 조리듯 볶아주시면 되요 중간중간 뒤적거리기도 하구요 어차피 어묵자체가 금방익기도 하니 양파가 어느정도 익어주면 되거든요 ",
+		"5.  수분이 다 날라가면 대파와 청양고추 넣어 볶아주다가 마지막으로 참기름 반스푼 넣어 한번더 휘리릭 해주면 끝! "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/8851c9b252bba1d703cdd1d02503fff21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/9b7f01927e27984fd47916f8687e82471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/8ee7e7b75d940fbf91ed123297ad3bae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/e903b4c393f0fe99b7d606af465d3c8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c3089a3f5d90b9a40acbd982c2fd46291.jpg"
+	]
+}

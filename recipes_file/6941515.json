@@ -1,0 +1,100 @@
+{
+	"id": "6941515",
+	"name": "간단한 반찬 베이컨 숙주볶음 만드는 법 간단하게 만들어서 맛있게 먹어요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/b5ecab7b424b78251abbafdd316761e11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941515",
+	"ingredient_ids": [
+		406,
+		52,
+		29,
+		27,
+		477,
+		379,
+		226,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "노란파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빨간파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "볶은참깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 숙주는 흐르는 물에 깨끗하게 씻는다.",
+		"2. 마늘은 0.3cm 간격으로 편 썬다.",
+		"3. 대파는 0.3cm 간격으로 송송 썬다.",
+		"4. 노란 파프리카, 빨간 파프리카는 0.3cm 간격으로 채 썬다.",
+		"5. 베이컨은 2cm 간격으로 썬다.",
+		"6. 팬에 기름을 두르지 않은 상태에서 베이컨과 마늘을 넣고 볶는다.",
+		"7. 베이컨과 마늘 향이 올라오면 노란 파프리카, 빨간 파프리카를 넣고 볶는다.",
+		"8. 노란 파프리카, 빨간 파프리카가 투명하게 익을 때쯤 숙주를 넣고 볶는다.",
+		"9. 숙주의 숨이 죽을 때쯤 굴소스 2T, 간장 1/2T, 설탕 1/2T를 넣고 볶는다.",
+		"10. 모든 재료와 양념이 잘 어울린 상태가 되면 대파, 참기름 1T를 넣고 볶는다.",
+		"11. 마무리로 볶은참깨 1T를 뿌리면 베이컨 숙주볶음 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/58430f1dd7fdc78f8a4dab9f914e90561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/a57cda12df326e60c51905c55e726bd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/770d91d7483c2ec669df31c6444e2faa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/b07febc2c798a824704ac149bb9f9ceb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/e70281981ce1f830fd62ccc08e28b3a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/ab03c88063b1a59fe32258ccad27e4041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/02bb9e0c828f6038e86fc53222e3ce7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/1bed11418571f115b8474823fb6ad9e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/12cf0af56ba06419405bac33b7c065041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/48e23b63087996ae2a0775a1182a8ed61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/a2ca0e1e68a188b32ecf6647329f52c11.jpg"
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"id": "6872537",
+	"name": "해물이 듬뿍 해물파전 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/11/7263705e8504004e76c8032753a104181.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872537",
+	"ingredient_ids": [
+		1027,
+		757,
+		387,
+		995,
+		219
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "해물믹스",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		},
+		{
+			"ingre_name": "청양고추(빨/초)",
+			"ingre_count": "3~4개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침기름",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 쪽파는 머리와 꼬리 부분은 손질해서 잘라주고 냉동 모둠해물은 씻어 물기를 빼줍니다. 청양고추는 기호에 따라 준비합니다.",
+		"2. 부침가루와 물, 달걀을 넣고 섞어줍니다.",
+		"3. 달군 팬에 기름을 넣고 쪽파를 깔고 그 위에 반죽을 적당히 덮어줍니다.",
+		"4. 해물을 골고루, 청양고추도 적당히 올려준 뒤 고명이 떨어지지 않게 반죽을 조금씩 뿌려줍니다.",
+		"5. 바닥이 노릇하고 바삭하게 구워졌다 싶으면 뒤집어서 윗부분을 타지 않게 부쳐줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/11/fbed537cea4c2d95f6dc46ea9f46ca7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/11/4c23d1dc865bdf5ad751d42e29fa3f141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/11/702714e69eaf4148b6c71d5ebdd4accc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/11/049d48a22aa82ee586c716f83eba60e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/11/ecdfec1368bef8a03e3ed703b65779911.jpg"
+	]
+}

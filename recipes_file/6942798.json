@@ -1,0 +1,126 @@
+{
+	"id": "6942798",
+	"name": "해물볶음짬뽕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/9b27d9e17418666895c5f36258608b3e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942798",
+	"ingredient_ids": [
+		65,
+		563,
+		3,
+		13,
+		52,
+		27,
+		53,
+		9,
+		226,
+		497,
+		237
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "칵테일새우",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빨간파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노란파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개당"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "감칠맛",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 각종야채와 양념을 준비해주세요 ★오늘 요리는 센불에서 빠르게 조리할거라서 양념까지 미리 준비해주시면 좋아요★",
+		"2. 고추기름 2큰술에 대파를 볶아향을 내주고 모든 야채를 넣고 살짝만 볶아줍니다~ ★고추기름에 야채가 전체적으로 코팅 될정도만요★",
+		"3. 오징어와 새우도 넣도 볶아줍니다.",
+		"4. 여기에 고추가루2큰술을 넣고 볶아줍니다~ ★익숙하지 않으시니 중간불로줄이시고 조리해주세요★고추가루가 탈 수있어요",
+		"5. 여기에 물4큰술(2큰술씩 나눠서 2번 넣고 볶아 주었어요)",
+		"6. 설탕 소금 msg 를 넣어주었어요 ★항상 그렇듯 msg는 정말 맛있게 드실분만 첨가해주세요★",
+		"7. 숙주를 넣어주세요★숙주는 숨이 금방 죽기때문에 조리 마지막에 넣어주세요★",
+		"8. 아까 남겨둔 물 2큰술과 면을 넣어주세요 ★저는 쫄면을 사용하였어요 일반 칼국수면이나 중화용 면보다 빨리 퍼지지 않아서 주로 많이 이용해요 쫄면은 1분만 삶아주었어요 팸에서 한번더 섞어줄거거든요★",
+		"9. 면을 1분간만 삶아 주었기때문에 면을 넣고 한번 더 조리해주세요 이때 부족한 간을 해주세요",
+		"10. 완성입니다~매콤칼칼하면서 달달한 중독성 강한맛의 볶음짬뽕입니다.정말 추천드려요 영상으로 보시면 더 쉬우실거에요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/ed055ee6f97ebcfeacf5352e0af964021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/86ec7a8c93b90db215e6e8ad894254821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/ef8451664301a88cbb5cd50f44aa3adf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/3b98d08b57dff1c08cc23084d7fa23491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/4987393d9e7861fb465c069ef459b9531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/4ca77d170b4505446f960773134710581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/489c192fe7d5a5821f0fcc0f77ab51e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/af71e49851855d5ad4e313b22240431c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/b60a66779a2a4f41b1fd7fd3feadb5171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/7f3ca7c16d209784de3cfe5f701dac1f1.jpg"
+	]
+}

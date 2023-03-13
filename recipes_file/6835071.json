@@ -1,0 +1,76 @@
+{
+	"id": "6835071",
+	"name": "깐풍만두 전분가루 없이도 맛있는 소스만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/1dd94284297cf2a3baea26c4f144020a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6835071",
+	"ingredient_ids": [
+		379,
+		231,
+		477,
+		226,
+		995,
+		233
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "냉동만두",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "냉장고속자투리채소",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미림(맛술)",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 제시 된 양념을 그릇에 모두 넣어 설탕이 녹을정도로 잘 섞어주세요",
+		"2. 기름을 적당히 두른 팬에 냉동만두를 앞뒤로 노릇하게 구워줍니다",
+		"3. 다른팬에 기름을 살짝 넣고 냉장고 속 자투리 채소를 다져 볶아주세요 (저는 양파, 당근, 송송 썰어놓은 대파를 넣었어요)",
+		"4. 채소가 반정도 익었을 때 미리 만들어 놓은 양념을 모두 부어서 약불에서 살짝 졸여주시면 되요 (걸죽한 소스가 좋으신 분들은 전분가루를 이용해 전분물을 만들어 1T 넣어주시면 되요)",
+		"5. 적당히 졸아든 깐풍소스를 맛있게 구워진 만두 위에 스~윽 뿌려주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/9591ae088b7cea0c202d7cb6de872b861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/8890d9379465032a63e10bf6981026051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/2bc02a159618117f339fd6c530409dba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/1760f1dd18a05f30660b86ddbd5172001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/a0e19ae123e00219db694caac883c3051.jpg"
+	]
+}

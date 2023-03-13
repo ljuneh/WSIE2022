@@ -1,0 +1,124 @@
+{
+	"id": "6942242",
+	"name": "백파더! 백종원표 '게살카레'+'게맛살볶음밥' (1+1)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/2403ff3ab80ada0880c7f04683487db81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942242",
+	"ingredient_ids": [
+		504,
+		5,
+		9,
+		3,
+		660,
+		497,
+		226,
+		231,
+		702
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "게맛살",
+			"ingre_count": "4",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "1~2인분",
+			"ingre_unit": "~인분"
+		},
+		{
+			"ingre_name": "물2+1/2컵",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "멸치액젓1+1/2T",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. (1)게맛살 : 먹기좋게 썰어주세요감자, 게맛살",
+		"2. (1)게맛살 : 칼로 게맛살 위에 선을 살짝 3번 긋는다",
+		"3. (1)게맛살 : 살짝 뜯어둔 게맛살을 궁중팬에 식용유를 두른 후 붓는다",
+		"4. (1)게맛살 : 튀겨지는 듯한 느낌으로 볶는다",
+		"5. (2)카레 : 카레가루에 물을 1/2컵 정도 붓고 젓는다",
+		"6. (2)카레 : 재료(양파, 감자, 당근)를 썰인다",
+		"7. (2)카레 : 볶은 재료위에 카레가룻물을 붓는다 + 물2컵을 추가로 더 붓고 끓인다",
+		"8. 익은 게맛살을 카레에 넣고 끓인다",
+		"9. 우유, 멸치액젓, 설탕, 식초를 넣는다",
+		"10. 정석은 계란 1알을 풀어 붓고 끓이면 완성! *저는 계란 생략하고 마무리했어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/4b9180a57922d59812f00f0cf53cada11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/68c6c67d86fca4c4ceac5ce52ead93121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/7678504ab34e5c9506e03a9f6c8fca391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/8d731f0098a583e578a5d9fbc20bbb551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/c56a149adeb7ad4e4081616450b4fc541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/f353452309bfa5fa6d34d49f530f65761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/7193b0f019feb5c9ce5b5a715ac9e30c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/9df093b26ce215cdccd1dc18f73cb2e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/c03ed9a5b7df3f1d78b46f85f7395e981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/181f3aa70f5a6c88295d65c9e4f307a21.jpg"
+	]
+}

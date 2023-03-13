@@ -1,0 +1,42 @@
+{
+	"id": "6829137",
+	"name": "백종원 고추장 짜파게티 레시피 먹어봤어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/23af656ed9e2333c1fe94aca65432fcf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829137",
+	"ingredient_ids": [
+		473,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "짜파게티",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 물을 적당량과 건더기 스프를 넣어 끓여주세요. 평소보다 라면을 물보다 조금 잡는게 첫번째 팁이라고 해요 : ) 전 대충 400 ~ 450ml 사용한 듯",
+		"2. 끓는 물에 라면을 넣어 자연스럽게 풀릴때까지 끓여주세요. 그리고 요 단계에서 물이 자박하게 남도록 덜어내주시구요",
+		"3. 고추장 0.5스푼을 넣어 풀어주세요.",
+		"4. 면이 다 익었을때 쯤 분말스프를 넣고 휙휙 저어 끓여주세요. 아 마지막에 오일도 넣어서 한번 저어주시구요 물기가 살짝 ~ 쿵 있도록 남겨주셔야 면이 마르지 않고 맛있는 거 아시죠 ?",
+		"5. 그리하여 탄생한 백종원 고추장 짜파게티 에요. 그냥 먹기에는 뭔가 아쉬워 오이라도 몇가닥 올려보았어요 : ) 아삭아삭 오이 ~ 잘 어울리잖아용."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/578009149a31546f3785ffe8aa95371d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/58171304e953da400422f6d2c71357e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/8558afd31a95816710df137cd392a96c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/7d3081ccc374a314552a2f73b410ff401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/e1e5c25fe84be461e75201473657a0ca1.jpg"
+	]
+}

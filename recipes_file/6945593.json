@@ -1,0 +1,37 @@
+{
+	"id": "6945593",
+	"name": "생강술 만들기, 미림대신 햇생강주로 잡내제거 합시다",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/4a5cbedecc74dacdbcc65d1c2a3732121.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945593",
+	"ingredient_ids": [
+		28,
+		846
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "생강",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "200~300ml",
+			"ingre_unit": "~ml"
+		}
+	],
+	"recipe": [
+		"1. 생강 손질한 후 ( @6945664 ) 생강 편 썰고 채를 썰어줍니다. 햇생강은 껍질이 연~해서 손질이 쉬워요. 흙을 제거해주시고 지들끼리 박박 문질러주고 남은 껍질을 칼로 깎아주시면 되지요~ 생강술을 위해 생강을 준비하셔도 되지만, 생강 말리기나 편강 ( @6945337 @6945411 ) 만들고 난 후 남은 생강 사용하셔도 좋지요~",
+		"2. 열탕 소독한 병에 채 썰은 생강을 넣어주셔요. 병 조동이가 좁으면 생강을 채썰어서 넣지만, 병 조동이가 넓으면 편을 썰어주셔요. 왜냐? 채 썬 것은 밖으로 나올 수 있기 때문이죠~생강은 채를 썰어서 넣는 것이 생강향이 더 잘 우러나와요~",
+		"3. 청주를 넣어주세요. 보통 생강:청주 비율을 3:7이라고 하는데 비율은 크게 상관 없어요. 진하면 적게 사용하고~ 옅으면 많이 사용하고~  푸드엄마는 생강 100g에 청주 200ml 정도 넣었어요.",
+		"4. 뚜껑을 닫고! 한 번 흔들어 주시고 병에 라벨링을 해주셔요. 언제 만들었는지, 어떤 식재료인지요.",
+		"5. 바로 다음날 사용해도 되지만 생강향이 우러나오게 하기 위해서 1주일 정도 냉장고에 숙성시키고 사용해주셔요. 다 만든 생강술은 꼭 냉장 보관해주시구요~ 6개월 정도 안에 사용해주셔요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/e30e38f023e08aa26a6ae25f7df222e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/ea55e7b7fd4ca4f6587d2632048c99f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/60cacb88f6a14c2428b54756447b887c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/ce737d667309279386961b01fa0a115f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/27d47f9d3b0ba4538bc7325a05836f1c1.jpg"
+	]
+}

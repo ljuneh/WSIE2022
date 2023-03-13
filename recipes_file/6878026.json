@@ -1,0 +1,37 @@
+{
+	"id": "6878026",
+	"name": "전어 손질하는법과 집에서 전어구이 만드는법~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/e1732584418d49f8f4216e67ef3b63dc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6878026",
+	"ingredient_ids": [
+		75,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "전어",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 전어를 준비해주세요",
+		"2. 생선 다듬기의 시작은 비늘 칼로 긁어주세요",
+		"3. 아랫배를 갈라서 내장을 제거해주세요",
+		"4. 오븐에 생선구이로 구웠으나 후라이팬에 기름을 두르고 구우셔도 되요 가시까지 먹는 생선이라 기름 두르고 바짝 구워주세요오븐",
+		"5. 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/26e60410ba01ef32bcae4075479082f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/04e83ac7299741a1ec4e0c5d468c50241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/a4ba714116c55d082b735b0b479378ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/dd0cdc1ce2d24cf6540c8c4f9bd21bff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/17/64ca243b6fabac2ed465f4c0cd45c5f11.jpg"
+	]
+}

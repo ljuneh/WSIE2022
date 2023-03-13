@@ -1,0 +1,73 @@
+{
+	"id": "6841799",
+	"name": "떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/20/44c0add0a0102fc1019b606bc118a1c71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6841799",
+	"ingredient_ids": [
+		473,
+		224,
+		29,
+		341
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가래떡",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "국물용",
+			"ingre_count": "",
+			"ingre_unit": "멸치"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 전 육수를 내서 사용하는 편이에요. 약간 국물이 있으면 밥 말아 먹어도 좋고 덜 매워서 아이들이 잘 먹더라고요. 멸치 다시마 북어포를 넣고 10분 정도 끓여줘요.",
+		"2. 뽑아서 항상 냉동실에 넣어둬요.",
+		"3. 고춧가루 마늘 다진것",
+		"4. 고추장",
+		"5. 물엿을 넣고 미리 양념장을 만들어놔요. 넉넉히 만들어서 냉장고에 숙성시켜서 해 드실 때마다 꺼내서 하시면 편리해요.",
+		"6. 먹기 좋게 해서 준비해두고. 물에 잠시 담가서 하시면 전분이 빠져서 깔끔한 국물을 느낄 수 있어요.",
+		"7. 양파 대파를 잘 썰어서 두고.",
+		"8. 멸치 베이스 국물을 바글바글 끓여서",
+		"9. 양념장을 넣어 풀어준 후",
+		"10. 주재료를 넣고 끓입니다. 국민간식 떡볶이만들기 에서 주의할 점 국물 양이에요. 조금 적다 싶은 양으로 두 컵 분량으로 시작하세요. 모자라면 추가하면 돼요.",
+		"11. 여기서 국물 양이나 양념을 더 넣으셔도 돼요. 전 고추장을 약간 더 넣어서 색깔을 진하게 간을 맞췄어요.",
+		"12. 거의 다 익었을 때 야채를 넣어줍니다. 계란 삶은 것과 튀긴 만두 다양한 면류를 넣어서 드셔도 별미에요. 밥 비벼 먹어도 괜찮더라고요. 식사 대용으로도 괜찮아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/20/8a8df39ea71bd24ad6d1c53de91c703d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/20/239936e9c0df738577c572c1842d84f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/20/f3bafe359fbbfcbfb105be1ca2868ae71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/20/ae8127bb03c704dc02fd4e4cc8e47f2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/20/7f9a16f71519a0b37fba13520c542bae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/20/280dc7488ffd0894c5589c00f5881f871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/20/aef708fa50599ccf3c4bbb80753895791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/20/0db4c335733fb6773214639c364aae8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/20/83f11d132c80fedba72c15b555f3a7c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/20/18f95b1e52a9868aad3731ee2876b7af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/20/48b6a74566d2a6f2156ab72075cc2ebe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/20/b86f41b1925585e8b07a6697ea323d6a1.jpg"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"id": "6850754",
+	"name": "왕 쉽다!!! 만들기도 쉽고 먹기도 쉬운 워터파크도시락 롤샌드위치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/aad6d573447d829c064ed8c5bdebeca51.png",
+	"url": "https://www.10000recipe.com/recipe/6850754",
+	"ingredient_ids": [
+		503,
+		202,
+		208
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "8",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "스트링치즈",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "과일잼",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "땅콩버터",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "쿠킹랩",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 식빵은 밀대를 이용해 얇게 밀어요.식빵 8장밀대밀대가 없을땐 빈병을 이용해요.",
+		"2. 과일잼, 땅콩버터, 크림치즈 중 취향에 맞는 것으로 한장씩 얇게 펴 발라요.과일잼 적당량, 땅콩버터 적당량, 크림치즈 적당량",
+		"3. 식빵 2장을 겹친 뒤 스트링치즈를 올리고 돌돌 말아요.스트링치즈 4개",
+		"4. 쿠킹랩으로 감싸 모양을 고정해 마무리.쿠킹랩"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/10/5d3be8cc2f3d737be3a4f0460069b0201.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/10/8dbd277f3549eb8a356ab44abcf07d751.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/10/6224daae4d99f6e14cdab61216c36a551.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/10/b3b6fcbc322c17eda5acd7825010f8541.png"
+	]
+}

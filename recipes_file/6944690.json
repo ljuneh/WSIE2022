@@ -1,0 +1,110 @@
+{
+	"id": "6944690",
+	"name": "두부샐러드 오리엔탈드레싱을 곁들여 한끼식사로 딱~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/30110c1a163385e8db6549ea0a93dbde1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944690",
+	"ingredient_ids": [
+		323,
+		11,
+		840,
+		158,
+		141,
+		379,
+		231,
+		226,
+		574,
+		846,
+		477,
+		660,
+		233
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양상치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 분량의 #오리엔탈드레싱 재료들을 모두 넣어 설탕이 녹을때까지 골고루 섞어서 잠시 냉장고에 넣어 줍니다.",
+		"2. 두부는 2등분후 먹기 좋게 도톰하게 썰어서 키친타올로 물기를 제거해 줍니다. ",
+		"3. 팬에 기름을 살짝 두르고 두부를 노릇노릇 부쳐 줍니다. 코팅이 잘된 팬을 사용하시면 기름을 두르지 않고 더 담백하게 구우셔도 됩니다.",
+		"4. 양상치는 한입크기로 뜯어서 깻끗이 씻어 건져줍니다. 풋사과는 잘게 썰어 주었어요. ",
+		"5. 브로콜리는 데쳐서 냉동고에 넣어 두었던 것을 사용했어요.",
+		"6. 접시에 양상치를 깔고 두부와 브로콜리, 풋사과를 올리고 견과류를 뿌려 줍니다. 오리엔탈드레싱은 곁들여 내어서 먹기직전에 뿌려 주면 되는 #두부샐러드 랍니다. 바나나도 하나 썰어서 데코해 봤는데요, 샐러드와 곁들여도 좋답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/6bb678d4e965a37d8cc5f996f31274f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/17f27bf3678a24b743be730e373929751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/552ffd971d7fbcb95e04eba7cd82c0ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/4ecc756d6cd2dc6a49d7235c594771941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/1f0b5c8cd32e0f948b557fc9a0b517371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/63ce852ca90d5b9077e079f79c9019951.jpg"
+	]
+}

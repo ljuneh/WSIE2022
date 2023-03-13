@@ -1,0 +1,57 @@
+{
+	"id": "6945285",
+	"name": "초간단 자취생 반찬 참치양파볶음 만들기 저렴한 가격으로 만들 수 있어요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/4380d7322be8d41dbe0ae55e8cff81831.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945285",
+	"ingredient_ids": [
+		3,
+		504,
+		224,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔1개",
+			"ingre_count": "125",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "볶은참깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 양파는 0.5x0.5cm 간격으로 다진다.",
+		"2. 예열된 팬에 식용유 2T를 두르고 양파를 넣어 볶는다.",
+		"3. 양파가 50% 이상 익었을 때 참치(기름 포함), 고춧가루 1.5T, 소금 1/4T를 넣고 볶는다.",
+		"4. 참치와 고춧가루가 잘 섞인 상태가 되었을 때 마무리로 볶은참깨 1T를 뿌리면 참치양파볶음 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/794e32063aa2aea5742bf2fb44fe64b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/bf176e1306db81f0c0adbe1d1703f7131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/9a30752e8138f4fc9720fb7e1f48c08d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/5fd16dc7c91cd2ad894aadd9dddad6ed1.jpg"
+	]
+}

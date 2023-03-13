@@ -1,0 +1,41 @@
+{
+	"id": "6860245",
+	"name": "콜팝",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/ecb30009089b8f1e81fb8ec34b8821ba1.png",
+	"url": "https://www.10000recipe.com/recipe/6860245",
+	"ingredient_ids": [
+		647
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "팝콘치킨",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "콜라",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "양념소스",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 팝콘치킨을 준비합니다",
+		"2. 튀김기에 30초간 튀겨줍니다",
+		"3. 콜팝용기에 팝콘치킨을 담습니다",
+		"4. 팝콘치킨 위에 양념소스를 뿌려줍니다",
+		"5. 콜라를 용기에 담고 그 위에 콜팝용기를 씌워서 나가면 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/8630c521a34768f52bb1e5d211563eac1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/cf211489bd2c701eeac34155cc059b201.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/dd3871abf72fcb6e76d58a5a291b49b11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/67ad67938ec1634f6abb43dffe351c7b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/08/32893e58691a21ed7e190d4179bf3c521.png"
+	]
+}

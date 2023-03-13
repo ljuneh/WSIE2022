@@ -1,0 +1,47 @@
+{
+	"id": "6869075",
+	"name": "우리몸에 좋은 인삼! 쉽게 먹을 수 있게 조리하기! 인삼정과",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/28/b5d6d1ddb51ca765525e95b1dd5c54af1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6869075",
+	"ingredient_ids": [
+		564,
+		226,
+		341,
+		227
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "인삼",
+			"ingre_count": "7",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 인삼은 조리용 솔로 닦아 깨끗하게 씻는다.인삼 7뿌리조리용 솔",
+		"2. 냄비에 인삼을 넣고 인삼이 잠길 만큼 물을 붓고 끓기 시작하고 센불에서 약 15분간 삶는다.냄비센불",
+		"3. 설탕과 물엿을 넣어 중불에서 조린다.설탕 100g, 물엿 4T중불",
+		"4. 2/3이상 졸여지면 꿀을 넣어 약불에 조금 더 졸여 완성한다.꿀 4T약불"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/28/cd21e682a6c86e92650171e5612d40841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/28/33b4caca80ab6973349462fb6c7bc9d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/28/42483b750a292352bd52c8e31c26519d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/28/ac21e332e66cd4f6c1c6802a7c0d6c5c1.jpg"
+	]
+}

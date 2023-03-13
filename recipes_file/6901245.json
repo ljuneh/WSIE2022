@@ -1,0 +1,93 @@
+{
+	"id": "6901245",
+	"name": "순정떡볶이:옛날 떡볶이 맛이 나요 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/03/827ac8eb8085e370f5f1517854c6de091.jpg",
+	"url": "https://www.10000recipe.com/recipe/6901245",
+	"ingredient_ids": [
+		504,
+		972,
+		473,
+		738,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1~2큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "350",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "네모어묵",
+			"ingre_count": "",
+			"ingre_unit": "생략가능"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "유기원당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생배즙(생략가능)",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "300",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "치즈생략가능",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 떡은 씻어서 물에 담가두고",
+		"2. 어묵은 끓는물에 데친후 헹군다.",
+		"3. 팬에 식용유를 두르고 고추장을 타지않게 약불에서 볶는다.",
+		"4. 떡을 넣어 함께 볶다가 떡이 노곤노곤해지면",
+		"5. 어묵을 넣어 함께 볶는다.",
+		"6. 단맛내는 재료들을 넣어준다: ->달이지 않고 착즙한 배즙이 있어 단맛+물이 필요할 때 넣으면 좋을 것 같아 넣었는데 생략가능하며 배즙을 넣지 않을 경우, 물을 조금 더 추가하고 단맛재료를 조금 더 추가해주세요.",
+		"7. 재료가 잠기게 물을 붓고 국물이 졸아들게 약불에서 끓인다. 다시마는 옵션:  ->배즙을 사용하지 않을경우 설탕과 물을 더 넣어주세요.",
+		"8. 다진파를 넣는다.",
+		"9. 기호에 따라 모짜렐라치즈를 넣어 주어도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/03/f017e302c8c766b02d9413121f1819251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/03/9283aef23f7cda7d958d19bb099292491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/03/3f51b22cdfbfdb1b6031cb419e617aa21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/03/acf4ba33551b64e85af3acc5e2ef92e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/03/d9d6df95844b4571a30e95f4ca2c797f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/03/514c3b126ee762db1cb27f8cf036776c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/03/2469c8963569f845d1152d004200644b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/03/7a85961b113a9116d8ed5e3a486cf7271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/03/d64d1e69de2a50bf3b6997f299123e5a1.jpg"
+	]
+}

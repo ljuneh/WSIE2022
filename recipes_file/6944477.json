@@ -1,0 +1,71 @@
+{
+	"id": "6944477",
+	"name": "양파장아찌만들기 황금비율만 알면 돼",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/248034903330ca33863abc3e8fa503d51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944477",
+	"ingredient_ids": [
+		3,
+		295,
+		379,
+		231,
+		226,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "비율"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "비율"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "비율"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "비율"
+		}
+	],
+	"recipe": [
+		"1. 우선 양파를 준비해주세요",
+		"2. 먹기 좋은 사이즈로 잘라주세요",
+		"3. 여기서부터 황금비율입니다. 간장1 : 식초1: 설탕1: 물1 1:1:1:1 비율만 생각하시면되요  종이컵이던 어느컵이던 똑같은 양만 넣어주세요",
+		"4. 식초1",
+		"5. 설탕1",
+		"6. 물1",
+		"7. 간장, 설탕, 물 그리고 식초를 냄비에 넣고 팔팔 끓여 준 후  바로 꺼주세요 식초만 마지막에 넣으시면 되요",
+		"8. 양파와 청양고추를 통에 넣어주세요",
+		"9. 야채위에 팔팔끓은 양념을 바로 부어주세요!",
+		"10. 수분이 많은 야채들이라  식혀서 넣는게 아니라 바로 넣어야되요 그리고 실온에 반나절 두고  다음날 냉장고로 넣어서 먹으면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/116785114857b2688467b6b068b8ad1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/3b31e0fac1a4dc3cab06eb20df6478e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/efc716469fcea3616a02bf98ea7471cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/bfcc7757c3e0dab54e46f7e3c1f2a5a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/cab2513eebbd155d5225e1a1388ed8301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/9c7c1b96d74d964864194ff4d8720d2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/556479e44043c817776c18cfbd71e2c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/c96e42ca1fab56e7ef867d0662d4d5b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/a04a6abbe9b983db51192d485f9fb7e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/5d9803b06f95771e742445fe3e1faefa1.jpg"
+	]
+}

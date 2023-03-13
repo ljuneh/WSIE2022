@@ -1,0 +1,94 @@
+{
+	"id": "6944845",
+	"name": "간단한 재료 상추에 싸먹는 불고기 느낌으로 소불고기김밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/f357b83b656bd4284b33a403fdab7abb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944845",
+	"ingredient_ids": [
+		16,
+		30,
+		282,
+		291,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소불고기",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "크래미",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "상추",
+			"ingre_count": "2",
+			"ingre_unit": "잎"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 부추를 데쳐 무칩니다",
+		"2. 계란을 부쳐 썰어놓습니다",
+		"3. 불고기를 바싹 볶아 놓습니다",
+		"4. 밥을 비빔니다",
+		"5. 김밥재료를 준비합니다",
+		"6. 김에 밥을 올리고 재료를 올립니다",
+		"7. 김밥을 말아줍니다",
+		"8. 김밥을 썰어놓습니다",
+		"9. 접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/2fce2fc02f8a352c990c6c63e5c670731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/58f57d80d7945a08d238ba75286b0aff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/610814de13be14efb8334ce7433e6c071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/a3e13ea4884f16fb286138ffaf55bc7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/da979c9faa51c070079e6479da713bd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/91a5719c83d65ffeec038701d2eacf861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/d919d1ec9761c4693ea021acc50741d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/deede3f9f11ffe84aec2629b605e33a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/a7e5f700337b087c58ff6853434b16531.jpg"
+	]
+}

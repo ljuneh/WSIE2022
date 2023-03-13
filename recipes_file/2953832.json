@@ -1,0 +1,74 @@
+{
+	"id": "2953832",
+	"name": "말린 취나물 볶음 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/f4f687fc98d8aac8a988079aeb09fad5.jpg",
+	"url": "https://www.10000recipe.com/recipe/2953832",
+	"ingredient_ids": [
+		327,
+		349,
+		337,
+		938,
+		327,
+		233
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "취나물말린거",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다시마물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵정도"
+		}
+	],
+	"recipe": [
+		"1. 팔팔 끓인 물에 말린 취나물 한줌 넣고 잠시 놔두세요.",
+		"2. 물이 좀 식으면 억센 줄기는 잘라내는 작업을 한뒤에 찬물에 한나절 담가두세요.",
+		"3. 보드랍게 불려졌으면 양념을 넣고 고루 조물조물 무쳐 놓으세요.",
+		"4. 팬에 들기름 살짝 두르고 볶다가 다시마물을 반컵정도 붓고 뚜껑을 덮고 끓는정도만 익으면..들깨가루를넣고 불을 끄고 뚜껑을 덮고 잠시 뜸을 들이면 부드러운 취나물이 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/b655439d56b1b1bf5f9b9092ebaf12d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/12929dc3a25187690e6cdf99098d02b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/3fb5fc30e79f597101d3c542fe2e5e031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/a361d4db51778baa8705b90033468a851.jpg"
+	]
+}

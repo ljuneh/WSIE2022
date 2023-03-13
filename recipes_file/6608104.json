@@ -1,0 +1,66 @@
+{
+	"id": "6608104",
+	"name": "바삭바삭 연근튀김 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/02/7a40fab2e3d207f9e7e8d0beaf8d0d841.jpg",
+	"url": "https://www.10000recipe.com/recipe/6608104",
+	"ingredient_ids": [
+		24,
+		734,
+		995,
+		231
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "연근",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "7",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "덧바를부침가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "튀김기름",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 연근은 껍질을 필러로 벗기고 찹찹찹~ 너무 두껍지않게 알맞은 두께로 썰어줍니다.",
+		"2. 썰은 연근은 식초 1큰술을 넣은 물에 20분정도 담궈줄건데요. 식초물에 담궈주면 변색도 막아주고 연근이 가지고 있는 떫은맛도 제거됩니다.",
+		"3. 식초물에 담궜던 연근은 찬물에 헹궈 물기를 빼주구요.",
+		"4. 물기를 뺀 연근에 부침가루를 넣어 밀가루옷을 얇게 입혀줍니다.",
+		"5. 얼음조각을 넣어 만든 튀김반죽옷을 입혀줍니다.",
+		"6. 기름에 두번 바삭하게 튀겨주었어요~ 얼음이 같이 들어가지 않게 반드시 주의해주세요!! 펑 하고 터질 수 있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/de343686f235220c2f98ad4ff0108d7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/5e3ce6d82b46caf37b3078eca39f06b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/cf24cfa6f51f28342c36252d0b4c38221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/6a53de8a479f4b16923d82740ba211cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/1a0c1449c2c3744fbf4d0a9bfcfa98131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/412912de35e9f9e7102706c4b84839521.jpg"
+	]
+}

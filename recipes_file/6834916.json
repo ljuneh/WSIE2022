@@ -1,0 +1,41 @@
+{
+	"id": "6834916",
+	"name": "아로니아 쨈만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/23/23129e17fdbe66aa6fffcddd923adde41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6834916",
+	"ingredient_ids": [
+		483,
+		694
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "백설탕",
+			"ingre_count": "750",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아로니아",
+			"ingre_count": "750",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 흐르는 물에 깨끗히 씻고 꼭지를 떼주고요.",
+		"2. 요렇게 채반에 걸쳐 물기를 쫘악 빼줍니다.",
+		"3. 친정엄마는 과실과 설탕을 1:1로 하라고 하셨어요 그래서 백설탕 750g / 아로니아 750g 정확히 재서 준비해주었답니다.",
+		"4. 깨끗히 닦은 냄비에 아로니아와 설탕을 버무려 넣어주고요 약한불에 뭉근히 끓여주어요.",
+		"5. 설탕이 많이 들어갔기 때문에 중간중간 체크하시면서 끓이셔야해요 찬물에 똑 떨어뜨려서 퍼지지 않으면 다 된거랍니다. 전 밥먹다가 조금 더 끓여버렸네요 조청같이 되었어요. 그래서 엄마에게 도움요청하니 물을 조금 넣고 끓이거나 꿀을 조금 넣고 끓이라고 하시더라구요 그래서 다시 살렸답니다.",
+		"6. 빈병을 열탕 소독해주고요.",
+		"7. 요렇게 병에 담아주면 된답니다. 쫀득쫀득 아로니아 과실이 씹히는 맛이 일품이에요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/9c6a104c6c290904aab78f3b7c06f5601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/a851e374172489fb81b161d4d4522b2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/28b53f1c0bb4a6148dc6739fbbdc37651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/c2523c8eca4518b105ddc88017e9cd0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/7c26da9da554c43ec4f5f2a87e1b240d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/fcea69475ebb3685e1b1816b3d51dfe31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/79f9c3003ff6089be123880f9b813f901.jpg"
+	]
+}

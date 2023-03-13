@@ -1,0 +1,66 @@
+{
+	"id": "6930572",
+	"name": "비건베이킹인데 너무 맛있는 감자 크래커!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/c00d47439f0dbbff7f88f57fb43fb02d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6930572",
+	"ingredient_ids": [
+		497,
+		226,
+		469
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "으깬감자",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "장식용설탕",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 감자를 담은 볼에 물을 약간 넣고, 랩핑하여 전자레인지에 9분 돌립니다.전자레인지",
+		"2. 익은 감자를 으깨 준비해 주세요.",
+		"3. 박력분과 소금, 설탕을 한데 섞고",
+		"4. 오일을 넣어 부슬부슬하게 섞어 줍니다.",
+		"5. 반죽에 으깬감자를 넣고 섞어주며  재료가 한 덩어리가 되도록 뭉치듯 반죽합니다.",
+		"6. 반죽에 종이호일을 깔고 밀대로 밀어 얇게 펴주세요.",
+		"7. 반죽을 원하는 형태로 잘라 팬닝 합니다.",
+		"8. 팬닝한 반죽에 포크로 구멍을 내고 설탕을 뿌려주세요.",
+		"9. 170도 예열된 오븐에서 15-20분 가량 구워 냅니다. [오븐 사양마다 차이가 있으니 구움색을 반드시 확인합니다.]오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/15c78cdadf88d268c7e692d3a52ab6db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/1484c98a021075288c24db07492d2fd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/95f8f74655d9deb92fa534edd7acce051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/cb477609db61e658b7b5e95ba963bb681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/01c9958d66f956a050b9031495c33c411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/10b672625d75c17ee6784107ffe2f13c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/a2e1bbccbfa0dab15fceb1ba7829b0de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/90a6edb77972e6f4cd227315d9a74b791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/13/273666f86935102c837ef7d658100da81.jpg"
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"id": "6809009",
+	"name": "닭가슴살 갈비구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/d5c96833cc122cb13fbd057eefa5c3df1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6809009",
+	"ingredient_ids": [
+		379,
+		226,
+		341,
+		660,
+		233
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 닭가슴살을 포를 뜨듯이 저며 썰어주세요.",
+		"2. 사진과 같이 얇게 펴준 후, 칼집을 내주세요.",
+		"3. 간장 5큰술, 설탕 1큰술, 물엿 1큰술, 참기름 0.5큰술, 다진마늘 1큰술, 후추 약간과 송송 썬 대파를 넣어 양념장을 만들어주세요.",
+		"4. 그릇에 닭가슴살을 담고 양념을 잘 발라 주세요. 30분 정도 양념에 재워둡니다.",
+		"5. 팬에 기름을 두른 후, 양념에 잰 닭가슴살을 구워주면 끝!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/64efac80fe41981f8bc10a9ed300ca561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/19381b5a9705dde44b041b87f5327b211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/1574234205d184a954eb829e0c6f27ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/7f16be0f8870ee84de44ba5947de14661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/36fdb29ce19d48c177a48b365a47b3791.jpg"
+	]
+}

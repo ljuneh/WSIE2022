@@ -1,0 +1,50 @@
+{
+	"id": "6898181",
+	"name": "초간단! 베이글 시나몬 러스크 만들기｜효썸",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/19/98ffdd17c6bceff99c41274af704f5071.jpg",
+	"url": "https://www.10000recipe.com/recipe/6898181",
+	"ingredient_ids": [
+		405,
+		226,
+		471
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "베이글",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무염버터",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계피가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "tsp"
+		}
+	],
+	"recipe": [
+		"1. 베이글을 반으로 자른 다음 반을 4등분으로 잘라주세요(총 8조각이 되도록).",
+		"2. 설탕에 계피가루를 넣고 골고루 섞어주세요.",
+		"3. 한 면에 부드러워진 버터를 발라주세요.",
+		"4. 버터를 바른 면에 계피설탕을 묻혀주세요(꾹꾹 눌러 듬뿍 묻혀주세요).",
+		"5. 170℃로 예열한 오븐에 10분간 구워주세요.오븐오븐형 토스터로 구울 수도 있어요!",
+		"6. 잘 구워졌으면 식힘만에 올려 충분히 식혀주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/15/99aa1bbb34b6d5705536c30ec9a3865f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/15/2c636b9185a4a9dcd3bb531760eb44bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/15/80bb387043dd0adfb960b614458306391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/15/52211d22c3231ff1d523117c4356b9751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/15/074446b7fde55884261c5299f404d9001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/15/b8114c88d6200b70311530373b99588c1.jpg"
+	]
+}

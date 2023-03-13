@@ -1,0 +1,85 @@
+{
+	"id": "6890834",
+	"name": "누룽지 닭백숙",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/13/f1a2ee9d6838f6e97dbb3d63f0ca5db01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6890834",
+	"ingredient_ids": [
+		785,
+		30,
+		9,
+		325,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "누룽지",
+			"ingre_count": "1",
+			"ingre_unit": "판"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "삼계탕키트",
+			"ingre_count": "",
+			"ingre_unit": "시판용"
+		},
+		{
+			"ingre_name": "찹쌀밥",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 백숙용 닭을 깨끗하게 씻어 기름을 제거 하고 넣어주세요",
+		"2. 삼계탕키트 대추 파도 함께 넣어주세요",
+		"3. 큰솥에 30분 이상 삶아주세요",
+		"4. 찹쌀밥을 해서 다른냄비에 닭육수로 죽을 끓여주세요",
+		"5. 잘 익은 닭은 죽위에 올려주세요",
+		"6. 후라이팬에 누룽지를 눌러서 구워준후 닭위에 올려주세요",
+		"7. 누룽지위에 국물을 부어주세요 2국자 정도 부어주면 누룽지가 눅으면서 잘 짤립니다.",
+		"8. 고기를 발라 먹고 누룽지를 쌀어서 죽과 함께 먹습니다",
+		"9. 양파장아찌 김치와 함께 먹으면 더 맛있어요~~",
+		"10. 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/13/323c3c7746f4322105945e1844e673e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/13/6ef9e55fe94b614b54c91da2e585395e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/13/ff083138b0d280652a6d35e3e7a9bbfb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/13/703430276670162130aaad5489acec3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/13/160c1625fb4ca25efa5a611c1f8a55e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/13/faa09c8c372780a8aa8bd2574b8688cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/13/c7878df017ab2a53f294e015ab66d4b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/13/f6628198707bfe4b94076b4521f4573d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/13/d7cd8e4c982dcad4cdd5900603d991bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/13/9dcf26914203e107720163a093b03a361.jpg"
+	]
+}

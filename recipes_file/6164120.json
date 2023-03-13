@@ -1,0 +1,50 @@
+{
+	"id": "6164120",
+	"name": "오이 샌드위치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/d0e13fa8988c95f61c147d57ccec17aa.jpg",
+	"url": "https://www.10000recipe.com/recipe/6164120",
+	"ingredient_ids": [
+		503,
+		8
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슬라이스아몬드",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마요네즈나크림치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추약간(선택)",
+			"ingre_count": "약간(선택)",
+			"ingre_unit": "약간(선택)"
+		}
+	],
+	"recipe": [
+		"1. 오이, 식빵, 마요네즈 준비해주시구요.",
+		"2. 오이는 소금으로 문질러 깨끗이 씻어주시고 반자른후에 필러로 얇게 밀어 준비해주세요.",
+		"3. 식빵에 마요네즈를 펴 발라주세요.",
+		"4. 오이를 대각선으로 겹쳐 놓아주신다음 가장자리를 잘라주신후에 대각선으로 잘라주시면 된답니다. 접시에 담아주신후 슬라이스아몬드를 솔솔 뿌렸답니다. 한개는 후추도 뿌리구요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/9e267da8d3b18229d05bdb50082527201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/c04fb3609db26632a5de707517f792561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/01f478b67051ddbc250d562d989b0e2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/3e5ece0b802d1905fedd375ee1b1bf191.jpg"
+	]
+}

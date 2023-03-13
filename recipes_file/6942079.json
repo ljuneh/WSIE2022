@@ -1,0 +1,103 @@
+{
+	"id": "6942079",
+	"name": "[우리품종 경기미 참드림] 토마토 소스를 곁들인 오징어 순대",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/06f3f8f155704c9e9b7a5360c279697a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942079",
+	"ingredient_ids": [
+		65,
+		30,
+		9,
+		7,
+		3,
+		323,
+		497,
+		234,
+		732
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "경기미로만든밥",
+			"ingre_count": "1",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1/3",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "토마토소스",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "어린잎(또는바질)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 손질한 오징어 중 다리부분을 끓는 물에 30초 정도 데쳐준다. 데친 오징어를 찬물에 식힌다.오징어를 데친후 썰어야 잘 썰린다.",
+		"2. 찬물에 식힌 오징어 다리를 잘게 썰어준다.",
+		"3. 부추, 애호박, 양파, 당근을 잘게 다져준다.  두부는 다진 후 면포에 올려 물기를 짜준다. 다진 모든 재료를 한 곳에 모아준다.",
+		"4. 모든 재료에 소금, 후추를 약간 넣어 간을 해준 후 '경기미 참드림'으로 만든 밥 한공기를 넣어 잘 섞어준다.",
+		"5. 손질한 오징어 안에 밀가루 1T를 넣은 후 입구를 막아 흔들어 오징어 안쪽에 밀가루를 묻혀준다.밀가루의 접착력을 이용하여 속재료가 잘 붙을 수 있게 해준다.",
+		"6. 오징어 몸통 안에 만들어 놓은 속재료를 채워준다.너무 많이 채우면 찌는 과정에서 터질 수 있으므로 80%정도만 꾹꾹 눌러 채워준다.",
+		"7. 속재료를 채운 후 넣은 속 재료가 빠지지 않게 꼬지를 이용하여 입구부분을 꿰매준다. 그 후 꼬지로 몸통을 조금 찔러 숨통을 만들어준다.",
+		"8. 오징어는 찜기에 올려 중불로 약 10분정도 찐다.중불로 10분",
+		"9. 찐 오징어를 한김 날려 식힌 후 먹기 좋은 크기로 썰어준다.",
+		"10. 토마토소스를 뿌려준다. 어린잎이나 바질을 올려 함께 먹는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/9c302672c7ed204510418fdae77f780e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/fd67494db619e73371db072f199627091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/1644e32263b0b23323783d0969d24f821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/b068a47eba3104b7fc1089500a9af4df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/b730d1bab0600da2fbf21a64c94797bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/9915a4ce87ab507ad47bd0646540dd3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/938428ec6165aedefb6dd3a636ad7b8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/30fce3b6eba53ac842da1e2db726244e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/405a0882f7a7c34fbbfc0c1e9ba5b1801.jpg"
+	]
+}

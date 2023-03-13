@@ -1,0 +1,63 @@
+{
+	"id": "6943518",
+	"name": "초간단 동그랑땡 만들기, 키토 프렌들리 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/1b5d4b40388c667cb56cc5cebf1b9feb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943518",
+	"ingredient_ids": [
+		3,
+		497,
+		455
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "다진돼지고기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진쇠고기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 다진 돼지고기와 다진쇠고기를 한 그릇에 담아줍니다.",
+		"2. 고기에 소금, 후추, 생강가루(생략가능) , 계란1개를 넣어줍니다.생강가루가 있으면 잡냄새를 잡아주지만 없다면 생략하셔도 됩니다.  소금간은 많이 안넣어도 나중에 케첩이랑 드시면 간이 딱 맞아요.  키토하시는분들은 소스없이 드시고요. ",
+		"3. 양파 반개를 잘개 다져서 넣어줍니다.  그리고 잘 섞어줍니다.잘게다질수록 고기가 흐트러지지 않아요.  갈아서 넣으면 너무 질척거려서 식감이 좋지않으니 다져서 넣어주세요. ",
+		"4. 잘 달궈진 후라이펜에 한숟가락씩 떠서 올려줍니다.크기가 거의 비슷하게 해주셔야 보기도 좋지만 익는 속도도 비슷해져요. ",
+		"5. 다른 한 면이 거의 익었을 때 뒤집어 줍니다.자꾸 뒤적 뒤적 하게되면 고기 볶음이 되어요.   한쪽 면이 어느정도 익을 때까지 기다렸다가 뒤집어야 모양이 잘 잡혀있답니다. ",
+		"6. 맛있게 드세요 :)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/744de021b64baab8bdcb52806c64c7cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/d433733dc2d0050664c8d25b851f2dca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/aea33af5156073dc2b95694ef202f7271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/e58a7a0c2d4df7fc66252bfe09e02ab51.jpg"
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"id": "6942081",
+	"name": "백종원 애호박전 더 맛있게 응용하기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/d7ce9c27a2e64e0c30d5917b22429def1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942081",
+	"ingredient_ids": [
+		3,
+		497,
+		383,
+		387,
+		295
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박반개",
+			"ingre_count": "160",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".작은술"
+		},
+		{
+			"ingre_name": "새우가루",
+			"ingre_count": "2.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "감자전분",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 애호박과 양파는 채칼을 이용해 곱게 채 썰어요",
+		"2. 채칼이 없으시면 최대한 얇게 채 썰어 주시고 양파는 호박보다 조금 더 굵어도 됩니다~",
+		"3. 채 썬 호박과 양파에 고운 소금을  티스푼으로 0.8을 넣고 10분간 절여요.  절이면서 나오는 물로 반죽을 합니다. 물은 따로 넣지 않아요.",
+		"4. 절인 채소에 새우가루 2.5 감자전분 2 부침가루 2를 넣어 잘 섞어줍니다. 새우가루는 집에 있는 건새우 아무거나 믹서에 곱게 갈아 쓰면 돼요~밥숟가락 계량",
+		"5. 팬을 중강 불로 달구어 기름을 넉넉히 두르고 반죽을 뚝 떼어 넣은 다음 숟가락으로 고루 눌러 얇게 펴주세요.중강불",
+		"6. 밑면이 익으면 뒤집어서 반대쪽도 익혀주면 완성입니다 .",
+		"7. 아이들 것 한 장 부쳐주고 나머지 반에는 청양고추 송송 썰어 넣어 어른 입맛으로 부쳐냈어요~",
+		"8. 부침가루를 넣었더니 간도 맞고 끝이 바삭해서 맛있어요~ 가운데 부분은 전분가루의 쫀득함이 매력적인 백종원 애호박전~",
+		"9. 재료를 얇게 썰어 부치면 물기가 생기기 전에 익혀 낼 수 있어 더 바삭하답니다~",
+		"10. 완벽한 막걸리 술상이 되었네요 ^^ 모두모두 맛있게 드세요 :D"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/e335cb747aafdf6335697d0d1721064a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/e3c62127aa8495cb975c8dd5c62227e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/0662a33f06db39477ea83b1d4ddc13b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/1d57982b9e7e45704e3c998252625ba21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/2cc833ddda2c3c1bf3499a3d662756d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/597f2f5289b64e3e4caff0d6e09f31791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/cbd0df20ce2c64e588e51b84dedc160e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/0d47a62ee23fb678c849069377cd801f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/fc362ac8b0a01392293d50da90c2befe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/2fd7003efb60cd5ea857cc07df072ac71.jpg"
+	]
+}

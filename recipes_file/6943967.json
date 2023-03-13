@@ -1,0 +1,86 @@
+{
+	"id": "6943967",
+	"name": "♥[신혼간식] 시장떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/b844205c17aa8dcd0e3bee8f27381f6c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943967",
+	"ingredient_ids": [
+		972,
+		27,
+		473,
+		226,
+		575,
+		543,
+		548
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "30~40개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "바퀴"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "3~5장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "삶은달걀",
+			"ingre_count": "2~3개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "비엔나소시지",
+			"ingre_count": "5~7개",
+			"ingre_unit": "~개"
+		}
+	],
+	"recipe": [
+		"1. 쫄깃 떡을 준비해주세요. 냉동떡이라면 물에 살짝 불리거나 2~3번 정도 헹궈주세요.",
+		"2. 태양초 고추장을 크게 한숟가락 떠주세요.",
+		"3. 설탕 1숟가락을 넣어주세요.",
+		"4. 종이컵 기준 물 가득 1잔을 부어주세요.국물떡볶이를 맛보고 싶다면 종이컵으로 반컵 더 추가!",
+		"5. 센불에서 살살 풀어주다가 끓어오르면 중불로 줄이고 떡을 넣어주세요.냉동떡은 말랑말랑 떡집 떡보다 조금 일찍(끓어오르기 직전) 넣어주세요. ",
+		"6. 어묵, 햄, 달걀 등 내맘대로 토핑을 넣어주세요.",
+		"7. 대파를 넣고 국물이 자작자작해지면  올리고당 2바퀴 빙빙  잘 섞어주면  추억의 맛 시장 떡볶이 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/1bd8eccf460c37ed56d656cf8a577bdb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/2a53f395013fc2498d0ed38a0d7bb58b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/d69334e1d7e915d4cf0d8cfdcb3bc6081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/c01eafd6db5a5915f2d315ad29f4c5271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/0acc93ff3ed097ae005b0af4d53878681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/f45788040490648c00222b71f87091a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/bcd846e636dea709e495c5f1476cb0671.jpg"
+	]
+}

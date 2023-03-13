@@ -1,0 +1,95 @@
+{
+	"id": "6944287",
+	"name": "30분완성! 찬바람이 불면 생각나는 진한국물 소고기해장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/fd62818e363de01656f6f1a2ead4bf781.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944287",
+	"ingredient_ids": [
+		123,
+		876,
+		848,
+		29,
+		292,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기사태",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소고기기름",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "2",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "배추우거지",
+			"ingre_count": "1",
+			"ingre_unit": "Kg"
+		},
+		{
+			"ingre_name": "일자콩나물",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소고기다시다",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 소고기는 핏물을 빼고 소고기기름과 냄비에 담습니다",
+		"2. 고추기름을 만듭니다",
+		"3. 쌀뜨물을 붓고 끓입니다",
+		"4. 된장을 풉니다",
+		"5. 배추우거지를 손질해 넣습니다",
+		"6. 선지를 넣고 순서대로 양념을 하고 콩나물을 넣습니다",
+		"7. 뚝배기에 덜어내 끓입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/f02e3318635e9b16cba2253032bfa4551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/5cf1ed26ec8aa5c56d369b047f2957bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/b4377b64e28aafceb7b2fa799a2b27001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/3c1367828522aa53d4557d76306bbea41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/9003cbe09a32b3f586b3076c2d8f75791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/b83c9e782dc5280ed0242c9d6028849a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/49c737febd295902d06720386b1781471.jpg"
+	]
+}

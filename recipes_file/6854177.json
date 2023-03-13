@@ -1,0 +1,46 @@
+{
+	"id": "6854177",
+	"name": "동치미국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/07/fd4f554733544c4a2849f2ca04ce0b851.jpg",
+	"url": "https://www.10000recipe.com/recipe/6854177",
+	"ingredient_ids": [
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "동치미",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소면500원크기",
+			"ingre_count": "500",
+			"ingre_unit": "원 크기"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은스푼"
+		}
+	],
+	"recipe": [
+		"1. 보기만 해도 시원한 동치미을 냉동고에 넣어쥬세요",
+		"2. 그다음에 소면을 삶아주세요.  (거품이생기면 넘치기 때문에 차가운물 넣어주세요. 넘칠라하면)소금도 넣어주세요",
+		"3. 계란도 같이 삶아주세요.",
+		"4. 소면을 차가운물로 씻어주세요.",
+		"5. 이제 예쁘게담으면"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/07/6fa9e5cbe2ce013425e20422005e0c021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/07/784b6719a0265ff5584def0d0c968bf21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/07/77faeaf54a0cdfa7387a5a7ec7013bc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/07/8f7e1270c824b07db0e90981ef1622171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/07/1f6644b0e40427548c3090f2bf9ca8e61.jpg"
+	]
+}

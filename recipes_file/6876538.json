@@ -1,0 +1,137 @@
+{
+	"id": "6876538",
+	"name": "수제비 만드는법, 반죽과 황금육수 만들기까지",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/15/c6839eec8e7d678c8b7eabf7307151791.jpg",
+	"url": "https://www.10000recipe.com/recipe/6876538",
+	"ingredient_ids": [
+		7,
+		9,
+		3,
+		27,
+		58,
+		574,
+		233,
+		349,
+		497,
+		343,
+		660,
+		90,
+		320
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루(중력분)",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "방울"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "파뿌리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 수제비는 시판 수제비반죽을 사용해도 좋지만 직접 만들어주면 더 쫄깃하고 맛있어요. 밀가루 3컵을 넓은 볼에 넣어주세요.수제비용 밀가루는 중력분이 적합해요.",
+		"2. 소금 1/2T를 물 1컵에 타 잘 섞은 소금물을 밀가루에 1큰술씩 넣어 농도를 봐가며 반죽해주세요. 1/2컵정도면 적당한 농도가 되요.반죽을 만들 때 물을 조금씩 넣으면서 조금씩 뭉쳐주면서 반죽을 만들면 실패하지 않아요.",
+		"3. 반죽의 농도는 칼국수 반죽보다 살짝 더 폭신하게, 손가락으로 눌렀을 때 잘 들어갈 정도로 만들어준 후 올리브유 1T를 넣어주세요.올리브유를 넣으면 더 쫄깃하고 찰진 반죽이 되요.",
+		"4. 밀가루 3컵이면 2~3명이서 먹기 딱 좋은 양이 된답니다. 만들어둔 반죽은 비닐에 넣어 1시간 이상 숙성시켜주세요.반죽은 전날 미리 만들어놔 냉장고에서 숙성시켜도 좋아요.",
+		"5. 수제비 육수는 찬물에 육수용 다시마, 파뿌리, 멸치를 넣고 끓여준 후 물이 끓으면 다시마에서는 진액이 나오기 때문에 건져내주고 10분~15분 더 끓여내 건져주세요.강불",
+		"6. 애호박,당근,양파는 모두 채썰어 준비해주세요. 야채는 냉장고 사정에따라 준비해주세요.",
+		"7. 고추와 대파류는 송송 썰어주세요.",
+		"8. 새송이버섯은 모양을 살려 얇게 썰어주세요.얼큰한맛을 좋아하신다면 청양고추를 넣어줘도 좋아요.",
+		"9. 거른 육수에 딱딱한 재료 순으로 당근-호박을 넣어준 후미림 1/2T, 국간장 1T, 소금 1/2T, 다진마늘 1/2T, 후추 약간으로 미리 간해주세요.국간장을 너무 많이 넣으면 색이 까맣게 변하기 때문에 소금간으로 맞춰주세요.",
+		"10. 간을 마치면 양파와 버섯을 넣어 끓여준 후 수제비를 얇게 떠주세요.반죽이 적당히 잘 되야 이렇게 쭈욱 늘어나면서 얇고 맛있게 떠진답니다.",
+		"11. 한소끔 끓인 후 익어서 동동 떠오르면 대파와 고추류를 넣고 마무리로 참기름 2방울을 넣어주세요.참기름을 넣어주면 고소함이 살아나요.",
+		"12. 완성된 비오는날 별미 수제비,"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/15/1959b4daf354e27ea09310bc5a70d1701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/15/ada0307b9cd54108de377adb0ad8bac61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/15/4b98c1686e23b71436e583ebd6fdd5141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/15/84762615bf61db761fd4f1a3f44f8f0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/15/bc0507a5ef795d9f818137283ef2c37a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/15/c146ab9bdf129225258476ded133c7e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/15/6981b7c5f236c21e3ac141f468cfce6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/15/227b0eb8eed6b2d61e9173716547526d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/15/4fa18ef8801c355af591dac555b9b0ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/15/2309191d6895984cc3b64a4c9764ec3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/15/237e5aed574d1430eb737847c7e3ba121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/15/ee1dd7c679b066115aac984fd01aee0a1.jpg"
+	]
+}

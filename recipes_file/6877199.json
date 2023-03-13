@@ -1,0 +1,65 @@
+{
+	"id": "6877199",
+	"name": "추석 음식 식혜, 칼로리 줄이는 비법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/27/b7ca061dddfd2445aa1449ddf26a0d521.jpg",
+	"url": "https://www.10000recipe.com/recipe/6877199",
+	"ingredient_ids": [
+		99,
+		132,
+		453,
+		497,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "엿기름",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물10인용밥솥기준",
+			"ingre_count": "10",
+			"ingre_unit": "인용 밥솥 기준"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감초",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 엿기름은 면포에 넣고 물을 붓고 조물조물해 준다.                     ",
+		"2. 물을 다시 부어가며 엿기름물을 만든 후 가라앉힌다. 찹쌀은 곱슬곱슬하게 밥을 짓고 맑은 윗물만 부어준다.                     ",
+		"3. 하룻밤 지나고 나면 밥알이 동동 뜨면 발효가 잘 된 것으로 밥알을 조금만 건져 물에 끓여준다. (마지막에 동동 띄우기 위함임) ㉤ 발효된 식혜는 밥솥에서 일반 냄비로 옮겨 담아준다.                   ",
+		"4. 밥솥에 다 들어가지 않아 남아있는 발효되지 않는 엿기름 물을 부어주고, 감초와 대추도 넣어준다.                   ",
+		"5. 거품은 걷어내고, 소금을 약간만 넣어주고 설탕도 기호에 맞게 넣어준다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/28/4783997ff22b3069d758981c5d0be9e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/28/ff01a9197ef23cbae6be7b2b01b0c1261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/28/3a15f7f22779403ea0a2189085f24b511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/28/10a34c0a594e7cbef8486f05ad10bfc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/28/c768b3560c4518e48fbc7c432003f8d31.jpg"
+	]
+}

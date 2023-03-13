@@ -1,0 +1,73 @@
+{
+	"id": "6154334",
+	"name": "강낭콩조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/f8b5be07a62b2c779645252a2b3d90e51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6154334",
+	"ingredient_ids": [
+		109,
+		379,
+		226,
+		960,
+		575,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "강낭콩",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마른다시마",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "물2+1/2컵",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "9",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "생강술",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 물과 마른다시마 2쪽을 넣고 3분정도 끓여 다시마물을 만들어준후 다시마는 건져내고 다시마물만 준비합니다.",
+		"2. 다시마물에 강낭콩을 넣은후 콩이 익도록 끓여주세요.",
+		"3. 손으로 눌러 보아 콩이 잘 익었으면 간장, 설탕, 생강술을 넣어줍니다.",
+		"4. 중약불에서 양념이 베어들도록 조려주심 되는데요. 중간에 거품은 숟가락으로 걷어내어 주세요.",
+		"5. 조림장이 절반정도 졸아들었을때 올리고당을 넣고 좀더 조려주세요.",
+		"6. 조림장이 3~4스푼 남으면 불을끄고 통깨를 뿌려내면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/88870f5df18ed2113fce96a31d29105c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/3976396df2d04d18a4938b7ee89ddf6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/5572e6f613b5f5abd2fd598c391e5b621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/f09dcdcf082472ae3ccf065a8b53089f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/d7220b7c0e3e6687122379f0854dee201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/01/067723672babef4c3fcf0574648ab5c91.jpg"
+	]
+}

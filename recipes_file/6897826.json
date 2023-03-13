@@ -1,0 +1,32 @@
+{
+	"id": "6897826",
+	"name": "간단 초콜릿 우유만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/ed5bfcfe228fcb82dd2d8be4e41359ac1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6897826",
+	"ingredient_ids": [],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "초콜릿가나초콜릿5조각정도",
+			"ingre_count": "5",
+			"ingre_unit": "조각 정도"
+		},
+		{
+			"ingre_name": "따뜻한우유",
+			"ingre_count": "2/3",
+			"ingre_unit": "종이컵"
+		}
+	],
+	"recipe": [
+		"1. 초콜릿을 중탕할곳에 넣어주세요.",
+		"2. 초콜릿을 덩어리 없을 만큼 저어가면서 중탕해주세요.",
+		"3. 중탕되면 2를 원하는 컵에 옮기세요.선택입니다. (전 종이컵으로 해서 옮겼어요)",
+		"4. 3에 따뜻한 우유 종이컵의 3/2를 천천히 붓고 섞어주세요.다 섞이면 완성입니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/5ac07efc679c6956671f24cb3b550b161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/158d2d3543c2d89a37529123f3134baf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/367bcf2c13a69f4c1a63da4c7fae987e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/133af3706fc729a8acdd572caad9f4b71.jpg"
+	]
+}

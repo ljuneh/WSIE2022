@@ -1,0 +1,91 @@
+{
+	"id": "6945642",
+	"name": "마루이의 푸드코트 :: 진한 국물 맛이 끝내주는 '꽃게새우탕'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/e43fc122d4438ad70b75e32d4be0dd021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945642",
+	"ingredient_ids": [
+		480,
+		79,
+		295,
+		27,
+		7,
+		19,
+		848,
+		224,
+		473
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "꽃게",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍게간장",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".숟갈"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟갈"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비",
+		"2. 무와 양파는 큼직하게 썰고 대파와 청양고추는 어슷하게 썰어 준비합니다.",
+		"3. 이제 무만 넣고 푹~ 끓여 줄게요~",
+		"4. 무가 익으면, 된장 1숟갈을 풀어 준 다음,",
+		"5. 손질한 꽃게와 새우,, 그리고 갖은 채소와 고춧가루 1.5숟갈, 간 마늘 1숟갈, 고추장 0.5숟갈, 홍게 간장 2숟갈 (액젓이나 국간장도 OK!!)을 넣고,",
+		"6. 꽃게와 새우가 익을 때까지 끓어주면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/abe7f3cc8c960b45b4114c6cf70ad7191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/8a89d24a52cfda44c82801f814bab2161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/ab736061ed935fce3beeb5e751e30e151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/c266404a10e0eac030670cd74d34fd191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/e783ef50b8f99c886a10a513e6dba6d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/ce508457a2bd75afe1fb1b39a33f6e3b1.jpg"
+	]
+}

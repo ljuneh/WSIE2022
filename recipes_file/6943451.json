@@ -1,0 +1,53 @@
+{
+	"id": "6943451",
+	"name": "감칠맛이 풍부한 닭육수(치킨스톡)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/72fcb7cd0c1bc2f91a32a5d1629fbe4c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943451",
+	"ingredient_ids": [
+		3,
+		29,
+		608,
+		857
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료를 손질해요 * 닭은 기름이 많은 꼬리와 안 속에 덜 제거된 내장을 제거해요. 내장이 남아 있으면 국물이 탁해져요",
+		"2. 찬물에 재료를 모두 넣고 끓여요 * 찬물에서 시작해야 재료의 맛이 잘 우러나와요",
+		"3. 물이 끓으면 약불로 1시간 끓여요 * 오래 끓이면 끓일 수록 맛이 더 깊게 우러나오지만 효율을 위해서 1시간만 삶아요",
+		"4. 뜨겁지 않게 식힌 후 기름을 걷어요 * 식으면 기름을 걷기가 더 쉬워요",
+		"5. 소독한 용기에 보관해요 * 1주일간 보관이 가능하나 시간이 지나면 맛과 향이 떨어지니 최대한 빨리 먹어요"
+	],
+	"recipe_img": []
+}

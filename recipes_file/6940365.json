@@ -1,0 +1,73 @@
+{
+	"id": "6940365",
+	"name": "정식품 콩국물을 이용한 돼지고기 콩국물 조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/39b8aa5c1be9c275c64b6917203d5ed01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940365",
+	"ingredient_ids": [
+		487,
+		497,
+		225,
+		504,
+		868,
+		485
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "정식품진한콩국물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "정식품진한콩국물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "파마산치즈가루",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 정식품 진한 콩국물 (검은콩)을 준비한다.",
+		"2. 정식품 진한 콩국물을 준비한다.",
+		"3. 돼지고기는 적당한 크기로 자르고 소금, 후춧가루 밑간한다.10분정도 밑간 하시면 됩니다.",
+		"4. 프라이팬에 식용유를 넣고 돼지고기를 구워준다.고기가 익으면 기름은 제거 해주세요.",
+		"5. 고기가 익으면 정식품 콩국물을 넣고 약불에서 살짝 끓여 준다.",
+		"6. 파마산 치즈 가루, 생크림을 넣고 졸인다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/d6ac80c75d8e7d5b92d386efb7c95c0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/96d03d5e61ea2468f9b6e3c321d79b191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/970971a1c63db03118052b34a0be8f021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/c5c61c456fb93329874ad39a70b00dd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/28c51a03cf43ca79e680ccdf285d02c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/6bc1fd84996bc3da0a64659c051275b81.jpg"
+	]
+}

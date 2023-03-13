@@ -1,0 +1,35 @@
+{
+	"id": "6850793",
+	"name": "여름 음료로 좋고 효능짱~ 수제 오디청",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/11/5c0784409f676fbdaa751d972eab61a01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6850793",
+	"ingredient_ids": [
+		164,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오디",
+			"ingre_count": "5",
+			"ingre_unit": "Kg"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 오디는 흐르는물에 살살 씻어 체에 받칩니다",
+		"2. 통을 깨끗히 씻어 말린뒤 오디를 넣습니다",
+		"3. 그위에 설탕을 올립니다 오디와 설탕에 비율은 1 : 1로 합니다",
+		"4. 맨위에 오디가 안보인게 설탕으로 덮습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/11/918009a3a56ec95b06358e5f04f0f2a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/11/d4faf9168e5dc1ec132531b5f11aa57a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/11/300d19523ae9e03ffa0ae653ede6b7c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/11/38fb22aa7cf29eef5c3983181493abae1.jpg"
+	]
+}

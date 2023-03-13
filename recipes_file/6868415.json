@@ -1,0 +1,70 @@
+{
+	"id": "6868415",
+	"name": "아삭한 야채와 곁들이는 도토리묵&양념장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/14/cbf3ae583f4ab40603732bb0088499cb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868415",
+	"ingredient_ids": [
+		8,
+		379,
+		226,
+		543,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "도토리묵1모(300g)",
+			"ingre_count": "1모(300g)",
+			"ingre_unit": "모(g)"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "숙주삶은것",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 끓는물에 묵을 넣고 묵이 맑아질때까지 데칩니다",
+		"2. 오이는 채를 썰고 파는 다집니다 오이와 숙주에 밑간을 하고 참기름을 넣고 무칩니다",
+		"3. 묵을 찬물에 헹궈 썰어놓습니다",
+		"4. 양념장을 만듭니다",
+		"5. 접시에 담아내고 양념장을 올립니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/14/02bbcec1c1d01a37edb0453d3a891fb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/14/2dc6524cc858cdc68e319369227520871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/14/47e56d080c71ff0bfede0d4cb89a627b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/14/eaf9c455cc4fe89b2901c13c423c3fd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/14/101952326205de06e3a1fe7fb41439b91.jpg"
+	]
+}

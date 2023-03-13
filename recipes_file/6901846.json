@@ -1,0 +1,59 @@
+{
+	"id": "6901846",
+	"name": "매생이굴국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/12/b044c73b0599094b145e7028ac4bc39b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6901846",
+	"ingredient_ids": [
+		93,
+		82,
+		497,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "매생이",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "굴",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다시육수",
+			"ingre_count": "4",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. *매생이에 이물질은 제거 해주시고 * 매생이는 체반에 받쳐 소금물을 조금 희석시켜 매생이를 씻어주시고 그리고 두번더 씻은후 매생이에 물기를 꼭짜주세요 (이번 매생이는 이물질도 거이없고 깨끗 하네요)",
+		"2. 에궁 제가 굴씻는 사진을 깜빡해서 ^^ *봉지굴은 봉지물을 버리지말고 그대로 여러번 흔들어 주세요 그런후 한번만 헹구어주고 소쿠리어받쳐 주세요",
+		"3. 무우는 채를썰어 주시고",
+		"4. 냄비에 참기름조금,굴 넣고 볶다가 무우,매생이를 넣고 볶아준다",
+		"5. 물4대접을 넣고 ,소금3티스푼 를 넣고 끓이다 싱거우면 소금간을 더하시고 마지막에 참기름 1를 더넣고 마무리 하세요(소금은 간을보시고 더넣어 주세요)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/11/41289f7ab1874eef9fdd340c37e35e8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/11/e631ce18224b30103593f8e79c14e15e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/11/0a57f0e8b49a1079fdf1a1c1be2f1f841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/11/d2cdf31045543d5dcb3c21b0ef498e781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/11/747f895edabd539f9923734c4c9f99561.jpg"
+	]
+}

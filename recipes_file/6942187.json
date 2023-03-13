@@ -1,0 +1,128 @@
+{
+	"id": "6942187",
+	"name": "짜장떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/2a64598f79ea4b4adef6ea448408df581.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942187",
+	"ingredient_ids": [
+		495,
+		548,
+		27,
+		21,
+		292,
+		226,
+		477,
+		504,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밀떡볶이",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "3",
+			"ingre_unit": "잎"
+		},
+		{
+			"ingre_name": "짜장분말",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "쿤술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루생략",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰슬"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 밀떡입니다 먼저 밀떡을 떼어주세요",
+		"2. 찬물에 10분정도 담그어 주세요 국물이떡볶이 아니기 때문에 미리 불려서 사용하셔야 됩니다",
+		"3. 짜장떡볶이 재료입니다 손질해서 씻어준비합니다",
+		"4. 소고기는 잘게 썰어서 후추톡톡.셜탕약간 넣어서 밑간을 해주세요 *소고기는 키친타월로 핏물제거해주세요 *돼지고기 다잠육 응용하세요",
+		"5. 양파는 깍뚝썰기 해주세요",
+		"6. 양배추도 깍뚝썰기 해줍니다 양배추을 넣어야 아삭한 식감, 채수가 나와서 감칠맛이 좋아요",
+		"7. 어묵도 밀떡크기로 썰어주시면 됩니다 2cm정도 크기에 길게 썰면됩니다",
+		"8. 대파는 1cm정도 채썰어주시면 됩니다",
+		"9. 썰기해서 준비된 재료들 입니다",
+		"10. 밀떡은 깨끗이 여러번 씻어서 체에 받쳐 물기을 빼줍니다",
+		"11. 물한컵에 짜장가루 크게두스푼 넣어서 풀어 준비합니다",
+		"12. 달군팬에 식용유 넉넉이 두르고 3스푼정도",
+		"13. 채썬대파을 넣어 파향이 올라 오면",
+		"14. 다진소고기 넣어서 볶아쥽니다",
+		"15. 고기가 익으며 부재료을 넣어쥬고",
+		"16. 밀떡도 넣어서",
+		"17. 센불에서 골고루 볶아줍니다",
+		"18. 약불로 줄여서 짜장소스을 부어쥽니다 굴소스1스푼,설탕1푼도 넣어서",
+		"19. 센불에서  골고루 볶아주고 보글보글 끓여주세요 *고추가루는 취향대로 추가하셔도 됩니다 *설탕도 기호대로 가감하세요",
+		"20. 간이 베이게 골고루 볶다가 물이 살짝 줄어들면 불을 껴주세요 이때 후추 살짝 톡 햐주세요",
+		"21. 짜장떡볶이 완성입니다 간식으로 별식입니다 통깨도 뿌려주세요",
+		"22. 매력적인 짜장떡볶이 별미입니다 *남은국물에 밥을 쓱쓱 비벼보세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/ea33482be85880bd4a223b00e07b0e1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/b74403151ec33f4217b776685cdcefe51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/eaa99679727d36fa5ff6980750574d4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/fcc417e0549a11106379ca23b87443ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/1e4e76f48557ab1ea083fb5677ac7a041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/80f8b5b4e6b2df6e2532234b677663711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/50668fe6fbb25498d9f93a8d61e5696f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/7677214e6c19ec1d0b6f20d56f9039261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/c4abd7635c44ed5b88eecbef9c0aab351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/e3c0df485a2f21529220ef40c737a13b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/f84d68e832e9c8be5e45e570623055581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/dcf39147a6202f92bcf5d0e0a21bb48a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/325e22e22a0bd283dd5871395d3028791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/daf3990da33e76a9bc3f65cc742643301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/35b65ab7b12270bd25f26f8f6a634c221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/64c6762d4d85a55272d14677336010cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/027be845492403ae1d0d0b6c1b6b81331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/39c9402061fc380432d0cf08ceada52a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/fcc051f3e97f0db18e69c3e9de8b9abf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/a689feb45270e52bc3b8a8d75fe11f711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/338ed40957946fb1aeda2cd4eb6bffc41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/07c0edd4b6ce0ecf632192b3437a66e11.jpg"
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"id": "6944430",
+	"name": "딸아이를 위한 밑반찬, 부드러운 등갈비찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/4327093e597376c423cc9bd1445edff91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944430",
+	"ingredient_ids": [
+		292,
+		29,
+		158,
+		142,
+		3,
+		608,
+		857
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "등갈비",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "8",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "쌀조청",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "6",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. ㉠ 마늘은 다져주고, 배, 사과, 양파도 손질해 둔다.",
+		"2. ㉡ 월계수잎, 통후추, 물을 붓고 끓여준다.                   ",
+		"3. ㉢ 등갈비를 넣고 애벌로 삶아준 후 물을 버리고 씻어 기름기를 빼준다.                     ",
+		"4. ㉣ 사과, 배, 양파를 갈아주고, 진간장, 맛술, 쌀 조청, 마늘, 후추를 넣고 양념장을 만들어 준다. *단짠단짠은 기호에 맞게 조절에 주세요.                           ",
+		"5. ㉤ 양념에 등갈비를 넣고 중불에서 자작하게 끓여 완성한다.                       "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/1d052589e6f69b4181a0acf76103f0631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/a1d7e476f8f6da44095311c22c6e43951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/1ad111743b35a9fe15d8ed789234a2b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/def9629eb5df0702f0285490b852c21d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/4ad40f706456630c665bb22e762459e41.jpg"
+	]
+}

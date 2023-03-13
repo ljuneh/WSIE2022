@@ -1,0 +1,77 @@
+{
+	"id": "932114",
+	"name": "맛있는 밑반찬 소고기장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/d21331f44b6bec01a2069838cd4e556a.jpg",
+	"url": "https://www.10000recipe.com/recipe/932114",
+	"ingredient_ids": [
+		495,
+		293,
+		29,
+		349,
+		226,
+		292,
+		225
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "삶은계란",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 소고기를 적당한 크기로 잘라서 찬 물에 30분정도 담구어 핏물을 뺀 후,물을 넉넉히 붓고 끓이기 시작해요.",
+		"2. 그러면 끓어오르면서 거품이 우르르 올라와요. 바로 핏물과 찌꺼기죠. 이것을 잘 걷어주어야 누린내도 잘 안나고 깔끔해요. 안그럼 국물도 탁해지고 냄비 가장자리에 들러붙어서 아주 지저분하답니다. 거품이 안나올 때까지 계속 걷어주세요.",
+		"3. 그리고는 약 2시간 정도를 약한 불에서 계속 삶아주는겁니다. 고기가 부들부들 해지겠죠?맹물에 오래 삶아야 고기가 부드러워요. 간장이 들어가면 부드러워지기 전에 금방 딱딱해집니다.",
+		"4. 푹 익힌 고기를 건져내어 식힌 다음에 결을 따라 쪽쪽 찢어주세요.",
+		"5. 다시 냄비에 고기와 삶은 계란, 꽈리고추, 통마늘을 적당히 넣고, 진간장과 국간장으로 입맛에 맞게 적당히 넣고, 설탕 1, 맛술 1, 후춧가루 약간을 넣고 고추와 마늘이 익을 정도로 졸여주면 끝이에요. 저는 조금 싱겁게 만든답니다. 덜 짠게 좋아서요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/c1eb440bfce7bf4cc4eb8fa2cd6f967a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/52772f2d99128078865ef8555c9a82ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/9160754552bc0c49b0f9bdc1183ba82d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/cb4ada9a1a0c7e771879c4f8171683161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/9efcf74f6c9d038c4260e248c3d8409a1.jpg"
+	]
+}

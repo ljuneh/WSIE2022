@@ -1,0 +1,118 @@
+{
+	"id": "6881601",
+	"name": "겨울에 먹은 나막 물김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/01/507e006aa91a686944998d75bc8263531.jpg",
+	"url": "https://www.10000recipe.com/recipe/6881601",
+	"ingredient_ids": [
+		27,
+		132,
+		29,
+		28,
+		90,
+		667,
+		995,
+		333,
+		282,
+		665
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "알배추",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "배달인즙",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "새우젓국물",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 다시마는(손바닥만한 크기) 물400ml에 담가놓습니다 (1시간)",
+		"2. 찹쌀풀 쑵니다 (물1컵 찹쌀가루1큰술)",
+		"3. 무우는 나박썰기 해놓고",
+		"4. 알배추도 무우크기와 비슷하게 썰어 놓습니다",
+		"5. 마늘과 생강은 칼로 작게 썰어 놓고",
+		"6. 대파는 큼직하게 썰어 놓고",
+		"7. 마늘과 생강은 다시팩에 담아 놓습니다",
+		"8. 고추가루도 다시팩에 담아 놓습니다",
+		"9. 김치 통에 마늘팩 생강팩과 고추가루 팩을 먼저 넣고 무우 배추,대파,대추 순으로 담고, 다시마 400ml물에 다시마는 건져내고 위에 양념을 넣고 잘 저어준후 찹쌀풀3큰술을 넣고 생수3.2L를 부어 준후 두꼉을닫고 숙성 시켜 줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/01/f2a7a21b1b6d29c436e8a2be0721f2c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/01/a111a3d0861c9854ef815317ba0ba4fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/01/0c477b7efde25df4b0cef5e048847a471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/01/6bf596d4ee8e34986a1ec5b1562b01661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/01/8fa48882d4eb1a8966138ad170a1d7321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/01/f81fff74e4074c5a59a5aff9ef45e81e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/01/e25ab342b0489bac886c33f6baf41c451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/01/ea946fa01830311acc9dcd509e3a2f391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/01/e05e41c9359ab05f86f3ef29d2f3e7c21.jpg"
+	]
+}

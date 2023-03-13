@@ -1,0 +1,73 @@
+{
+	"id": "6943011",
+	"name": "추석요리 블랙앵거스LA갈비 입안에 살살녹는 육질 LA갈비구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/201f7a1983bc992bdb55a5a619effb671.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943011",
+	"ingredient_ids": [
+		3,
+		579,
+		477,
+		379,
+		227,
+		29
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "블랙앵거스LA갈비",
+			"ingre_count": "2.35",
+			"ingre_unit": ".Kg"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 물에 소주를 희석시켜 갈비를 담궈 핏물을 뺍니다",
+		"2. 양파를 믹서기에 갈아 놓습니다",
+		"3. 채에 걸러 줍니다",
+		"4. 양파즙에 양념장을 만듭니다",
+		"5. 핏물 뺀 갈비를 넣고 무칩니다",
+		"6. 냉장숙성된 갈비를 팬에 굽습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/5800ba8bc11a9f787c7cfe3e37a81d351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/480fde4be079e01ad998ba4410516cf61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/4fb3654969c5a91728657068770dc2f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/2ee9686c167c102dbeb344ae1f2050fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/8e43d69adc01924027c1882db925661d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/1fa15ca567940699107599e19e91dc021.jpg"
+	]
+}

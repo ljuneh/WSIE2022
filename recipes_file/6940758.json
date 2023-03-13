@@ -1,0 +1,78 @@
+{
+	"id": "6940758",
+	"name": "칼칼하고 산뜻한 대가의 맛있는 맛있는 향신유 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/1bb81341341ae71295477e0c947900821.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940758",
+	"ingredient_ids": [
+		504,
+		3,
+		28,
+		29,
+		15,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "페페론치노",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. 식용유를 준비한다.",
+		"2. 페페론치노를 준비한다.",
+		"3. 양파는 굵게 채 썰어준다.",
+		"4. 생강은 채 썰어 준다.",
+		"5. 마늘은 편 썰어 준다.",
+		"6. 깻잎은 2~3등분으로 자른다.",
+		"7. 대파는 반으로 자르고 자른 대파는 적당한 크기로 자른다.",
+		"8. 모든 재료는 냄비에 넣는다.",
+		"9. 중불에서 15분가량 끓여준다.",
+		"10. 끓인 식용유에 야채 건더기는 걸려준다.",
+		"11. 향신유가 식으면 병에 담아 보관한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/f7c3fefb0ed1632e90b1102f3ad442491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/5e4156ef5b7f1236643a1c54d3f29aae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/7029d778209f10e441bd7de2e0b9018c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/c746773d6ddc7ca722a377bfd53775091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/7b755a077222ba98e82c302fbf812a381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/6c2a8f73ab9d692edacddd9152d544701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/83b8d4de0cd80f1e074a9fbb53815c851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/620ea85ee99ab4799a7ccecf6a5db86b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/05e4d79bd977c1d27be1cb4fda80a02d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/47d640b59c579105eebffd1df380a2591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/2315190680646b6485607e35b38bb9531.jpg"
+	]
+}

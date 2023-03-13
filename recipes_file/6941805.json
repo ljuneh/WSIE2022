@@ -1,0 +1,60 @@
+{
+	"id": "6941805",
+	"name": "씻어먹는 김치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/2b4aab96e89d67cebe7fd7cfe90248921.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941805",
+	"ingredient_ids": [
+		953,
+		327,
+		995
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 김치를 물로 씻어주세요",
+		"2. 물기를 짜서 준비해주세요",
+		"3. 가위로 머리부분을 잘라주세요",
+		"4. 먹기좋게 잘라주세요",
+		"5. 들기름3스푼 넣어주세요",
+		"6. 다시다1스푼 넣고 볶아주세요",
+		"7. 충분히 볶아주세요",
+		"8. 김치가 익었다 싶을때 물2컵을 넣어주세요",
+		"9. 끓여서 조려주세요",
+		"10. 다 끓였으면 대파와 고추로 마무리해주세요",
+		"11. 완성~!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/b58489f6f349df9a22fab4119d8fb2721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/19ff4730760fe66f2fa68340b92b68f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/a00261dd833c79e8035291f4c0c88a961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/dc476c51f0480071c219e5b19c3f088c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/7957f40ca0db06d684ce4cad97dc25b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/d2644ab9edb4e56b8130d9e334f2ef211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/4c8406cc6829d47871a8c81deb9db69a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/153ce3b14087cadd567c329576aac2fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/5b264044e3730df7c19a586120b1bb091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/abc8f20af1e63bf4b520386da3c8c6841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/55783a6c3d8f8ce9d3e619e86001043d1.jpg"
+	]
+}

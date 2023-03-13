@@ -1,0 +1,108 @@
+{
+	"id": "6943953",
+	"name": "베이컨 볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/08f325399a7bf6c6e402c5e31e13659f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943953",
+	"ingredient_ids": [
+		27,
+		3,
+		226,
+		477,
+		262,
+		172,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두툼한베이컨",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "건고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "찬밥",
+			"ingre_count": "3",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "파인애플",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "얇은베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 오늘의 재료",
+		"2. 계란은 가볍게풀어주시고요",
+		"3. 파기름을 낼 대파는 얇게 쫑쫑 썰어요",
+		"4. 양파는 물기가 생기지않도록 잘게 다져주시고요",
+		"5. 두툼한베이컨은 양파와 비슷한 크기로 잘라주세요. 물론 얇은 베이컨 사용하셔도 좋고, 베이컨이없으시면 햄으로 대체하셔도 되요~",
+		"6. 오일을 두르고 파를 볶아 향이 올라오기 시작하면 베이컨과 양파를 같이 넣어서 볶아요",
+		"7. 소금,후추로 살짝 밑간을 해주시고요",
+		"8. 볶은 재료를 한쪽으로 몰고, 달걀을 넣어서 스크램블 에그를 해주세요. 달걀이 80%정도 익어가면 재료와 전부 혼합해주세요",
+		"9. 찬밥을 넣어서 부시듯이 볶아주시고요.  설탕,(건고추),굴소스를 넣어서 간을 맞춰주세요. 혹시 간이 모자라게 느껴지면 소금을 더 넣으시구요. 설탕은 조미료의 역할을, 건고추는 부셔서 넣어주면 느끼함을 잡아줘요~",
+		"10. 굴소스가 뭉쳐있지 않게 잘 섞어주시면 끝!",
+		"11. 파인애플과 얇은 베이컨은 그릴에 구워 올려주면 더 멋져져요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/6ca9b310d083005f607978a51e6ec4101.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/bb09f402d8e3c34fd010c53fb33c91c01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/7412072087c17d40beb5f96c564a274f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c9c73883e060aac69dd449516943cff81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/991e5a920df963d7652eb53258b08ed91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/fa6c271b68b8f548f76ab4086d3e588d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/30e6f3291be2b4eec9a15adeecd5cd8a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/86eaedeff9e766ad47954644955476441.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/f088ff4a3b411c6499cd8d207ab760a61.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/e5420482aae8afa6cc0ab8543e95b7551.png"
+	]
+}

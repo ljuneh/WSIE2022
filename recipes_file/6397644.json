@@ -1,0 +1,43 @@
+{
+	"id": "6397644",
+	"name": "바나나 우유 직접 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/04/b22a4031afb0c1b4b0d4a952ffdcdfd51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6397644",
+	"ingredient_ids": [
+		141,
+		227
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "20",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "딜",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 바나나와 딜을 믹서기에 넣어줍니다",
+		"2. 나머지 재료도 넣고 갈아주세요~",
+		"3. 컵에 따라서 맛있게 드시면 끝!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/c49e1403fbbc0e544020470cb455e801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/77822b0c9fa3fcaf259a5ed40f686340.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/48e800343266b723e73cfe9164589ca51.jpg"
+	]
+}

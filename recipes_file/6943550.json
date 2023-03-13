@@ -1,0 +1,42 @@
+{
+	"id": "6943550",
+	"name": "청양고추 계란부침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/2e7ab0b2bdbcbcfea028534268cd37d11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943550",
+	"ingredient_ids": [
+		219
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "다진청양고추1큰술",
+			"ingre_count": "1",
+			"ingre_unit": "큰 술"
+		},
+		{
+			"ingre_name": "소금(or참치액)",
+			"ingre_count": "0.5~1T",
+			"ingre_unit": ".~T"
+		},
+		{
+			"ingre_name": "요리유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 달걀 4알을 잘 풀어줍니다.",
+		"2. 다진 청양고추를 취향껏 넣고 참치액, 소금 등으로 간을 해주세요.",
+		"3. 요리유를 두른 팬에 약불로 부쳐주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/bc7800ec1726795f8414cc688dcf2d701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f970d21ef1b4f390853698c984a7d4331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/e40951a76167109bc599cbc005d54be31.jpg"
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"id": "6904999",
+	"name": " 비빔냉면. 양념장만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/02673863b6f2a141ab649af9ac17d01f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6904999",
+	"ingredient_ids": [
+		9,
+		359,
+		840,
+		473,
+		231,
+		226,
+		224,
+		8
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "시판용냉면면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "움큼"
+		},
+		{
+			"ingre_name": "무쌈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "움큼"
+		}
+	],
+	"recipe": [
+		"1. 냉면면을 2인분 준비해 주세요.",
+		"2. 그리고 고명으로 올려서 함께 먹을 채소를 채를 썰어 주세요.",
+		"3. 그리고 냉면면을 알맞게 삶아 주세요.",
+		"4. 그리고 찬물에 헹구어서 물기를 빼주세요. 그럼 비빔냉면 소스를 만들어 볼께요. 아까 준비한 고추장.고춧가루.설탕.식초를 분량 재료에 적은 대로 넣고 섞어 주시면 비빔냉면 소스 양념장 완성.",
+		"5. 그리고 그릇에 담아 주세요. 그리고 고명을 올려 주시구요 견과류도 올려 주시고요.",
+		"6. 만든 양념을 올리시고 슥슥 비벼서 드시면 되세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/a3e5b82a54a4e7a01649abeffa23f8ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/082ffd8da0fe6407cc35f1e84626005b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/6249a9afc5b88ad20f43c9d0380184461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/da7c7499ac5b23e40f884d5766e9d5151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/554c4635625d5155d1faa51efc4c062c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/22/db9e1deb9e5082dcc759b9c0b422d6861.jpg"
+	]
+}

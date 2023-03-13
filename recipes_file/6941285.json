@@ -1,0 +1,70 @@
+{
+	"id": "6941285",
+	"name": "경기미참드림밥 우유카레 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/19dc4749779f3590402a8815fae4bafc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941285",
+	"ingredient_ids": [
+		3,
+		9,
+		7,
+		504,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "우유",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "프랑크소세지",
+			"ingre_count": "2/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 양파,프랑크소세지,애호박,고춧가루,당근,우유500ml,카레가루 준비해주세요",
+		"2. 양파랑,프랑크소세지,당근,애호박, 다질정도로얇게썰어서 중불로하고 양파먼저볶아주세요",
+		"3. 양파볶아주고 그다음 식용유 세숟가랏 넣고 볶아준다음 당근,애호박,프랑크소세지 넣어서볶아주세요",
+		"4. 다볶아준다음 고춧가루 세숟가랏넣어서 또다시저어서 볶아주고 흰우유500ml넣어주세요",
+		"5. 우유넣고 또다시 저어서 이때 카레가루넣어서 저어주세요",
+		"6. 다저어준다음 너무많이저으면 졸고 짜기때문에 우유 더추가해서 넣어서 다시저어주세요  (저는 많이저어서 그런지 좀쫄고 짯어서 우유더추가해서 저었답니다)",
+		"7. 조금더추가해서 붙고 저으면 우유카레가 이렇게완성!!",
+		"8. 맛있게 먹기!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/7d1a4ae9d0c0dbea991a1208dbb864fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/8aa9df26869844adedcce24d29cef5141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/9d60af736f7be00929eea1b9621567cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/a8b51dbdf5c713b92c7ccaa2a3c622f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/e1b4bba74600664b3f1dde9b6a91f2461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/e4e737a5f84be4eaac9b04d75b13dece1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/8df0dff6f4a603d8aaf3f2b5131a4cda1.jpg"
+	]
+}

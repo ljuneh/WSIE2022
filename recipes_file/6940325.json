@@ -1,0 +1,99 @@
+{
+	"id": "6940325",
+	"name": "닭봉간장조림~ 십년째 만들어 먹는 양념 공유해요!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/c37e0db0e0386d453eda2be45e26b9c01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940325",
+	"ingredient_ids": [
+		804,
+		27,
+		579,
+		379,
+		226,
+		231,
+		846,
+		341
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭봉",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 닭봉 2팩, 갯수로는 20개를 준비해요",
+		"2. 닭봉이 잠기게 우유를 부은 후 30분간 재워 잡내를 제거해줍니다",
+		"3. 30분 후, 우유를 헹궈내고 체에 밭쳐 물기를 빼주세요일반적인 냉장닭 밑손질은 여기서 마무리하고 Step6으로 가세요~",
+		"4. 냉동닭이나 잡내가 심한 냉장닭은 데치는 과정을 추가해주세요(선택사항)",
+		"5. 팔팔 끓는 물에 닭과 소주 반컵을 넣고 3분간 데친 후 하나하나 씻어줍니다 ^^",
+		"6. 오목한 조림팬에 간장 5, 설탕 2, 식초 2, 청주 2, 케첩 1, 물엿 1을 넣어 섞은 다음",
+		"7. 닭을 담고 대파 반대를 큼직하게 잘라 넣고",
+		"8. 양념과 재료를 고루 섞어 뚜껑을 덮고 중불로 20분간 조려줍니다중불",
+		"9. 중강중간 뚜껑을 열고 위아래 위치를 고루 바꿔가며 조려주세요~ 물을 넣지 않았지만 자박자박 수분이 나오면서 타지 않아요 ^^",
+		"10. 중불로 20분 졸여낸 모습입니다~ 색이 많이 달라졌죠? 이제 뚜껑을 열고 국물이 졸아들도록 중강불로 10분 정도 더 조려주면 윤기가 반짝반짝 나면서 완성됩니다!!중강불",
+		"11. 대파는 건져내고 담아주세요~ 양념, 닭, 대파 섞어 뚜껑덮고 중불 20분, 뚜껑열고 중강불 10분, 중간중간 섞어주기~ 간단하죠 :)",
+		"12. 한입에 쏙쏙 집어먹기도 좋고 무엇보다 양념이 진짜 찐으로 맛있으니까 꼭 한번 만들어보세요~ 다진 땅콩이나 쪽파를 올려도 좋습니다",
+		"13. 단짠단짠으로는 표현하기 부족한 닭봉간장조림~ 딱 한번만 만들어 보면 자주 만나고 싶은 단골메뉴가 될거예요 :D"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/ab1e0aabcb58de52cdba5a5cb4910f661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/ac99d98a2e2a7ef5c66ae2a73665f34d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/b645dd92c59678c0aa8526edd84a95b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/5b1843ddd717db73f6f22970914407231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/cd1d1451ab60da99b8308d892dbf09d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/ebb66546b2f979803b0f78079c803b771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/9a15ff01fad5f0ba73d7b28f0cdd9c931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/6ddab24df02d07da741e3ce0e8cd8ddb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/fdbb88682cc022c7b4a8347038d7b8b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/d97512af68806494289b10a3bddfa02f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/29501374892eaa20d6486cd724ef11831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/5499a980abb9d9c7e35372014fff38e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/345129d73ad7ff253acbf1aeb8d7ff751.jpg"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"id": "6924615",
+	"name": "우엉 요리 / 우엉조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/01/05/9c743acad7bd3f3ca163afdd18afad421.jpg",
+	"url": "https://www.10000recipe.com/recipe/6924615",
+	"ingredient_ids": [
+		26,
+		327,
+		995,
+		379,
+		226,
+		341,
+		292
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "우엉",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 우엉은 채 썰어 준비한다.",
+		"2. 프라이팬에 들기름을 넣고 우엉을 볶아 준다.",
+		"3. 살짝 볶은 후 물, 간장, 설탕, 물엿, 맛술을 넣고 졸여 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/05/549db389f4c59020abaa791ca1d496e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/05/76c50f7c73ec0ea50e56b96ca08237a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/05/3151984a3cf6001055ff112c30b6d9291.jpg"
+	]
+}

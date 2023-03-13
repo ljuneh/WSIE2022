@@ -1,0 +1,65 @@
+{
+	"id": "6910221",
+	"name": "깻잎 장아찌 황금레시피, 깻잎 간장 장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/10/2c809090fdb47d07723d656403abe6161.jpg",
+	"url": "https://www.10000recipe.com/recipe/6910221",
+	"ingredient_ids": [
+		15,
+		29,
+		379,
+		995,
+		226,
+		231
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "8",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 300g깻잎은 흐르는 물에 한 장씩 잘 씻은 후 되도록이면 물기 없이 차곡차곡 준비합니다.",
+		"2. 간장 1컵, 물 1컵, 설탕 1/2컵, 식초 1/2컵, 저민 마늘을 한꺼번에 넣고 설탕이 녹을정도로만 끓이다가 불을 끄고 식혀 장아찌 물을 만들어요.생생정보 황금레시피는 설탕과 식초가 1/2컵씩인데, 저는 좀 단 것 같아서 1/3컵씩 넣었어요, 마늘은 한알당 3편이 나오게 썰었습니다.",
+		"3. 잘 씻어서 물기를 뺀 깻잎에 끓여 식힌 간장물을 조심히 부어 주고요,",
+		"4. 처음에는 깻잎이 전부 잠기지가 않아도 나중엔 아주 푹~ 잠기게 된답니다.",
+		"5. 이렇게 냉장고에서 이틀을 두었다가 간장물만 쪼로록 따라내어 다시 한 번 살짝 끓여 식힌 후 다시 부어 넣어주면 오랫동안 먹을 수 있어요.",
+		"6. 아주 든든한 밥도둑 반찬이 완성!되었습니다.",
+		"7. 개운하고~ 맛있게 만들어 드세요 :)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/10/b34bfde46a5fc5bd131d3b78dfaf4ec11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/10/e7df7b8b17eaf2d621eb7953a9f5fa511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/10/1dfe813c6cf410cedeeeb92c1ef9b2b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/10/734987662e9629746d66c826096057721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/10/5054531798b0251c8d5d6ab27ffa43291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/10/0970390a7dc480a62ac1b3f5c349f1221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/10/00dc249c43fc78dbc36f22a891c987e11.jpg"
+	]
+}

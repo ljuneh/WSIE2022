@@ -1,0 +1,98 @@
+{
+	"id": "6942319",
+	"name": "추석 왕새우전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/a62fd56aeb551b3185d6bb4203197ba51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942319",
+	"ingredient_ids": [
+		291,
+		846,
+		234,
+		292,
+		295
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "흰다리새우",
+			"ingre_count": "7",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "흰후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침용기름",
+			"ingre_count": "3~4큰술",
+			"ingre_unit": "~큰술"
+		}
+	],
+	"recipe": [
+		"1. 흰다리새우인 왕새우를 준비하세요. ",
+		"2. 머리와 껍질을 제거하시구요.",
+		"3. 새우머리와 껍질은 잘 씻어서 냉동실에 넣어두었다가 된장찌개 같은 육수를 만들 때 사용하세요. ",
+		"4. 새우의 등쪽이 아닌 배쪽으로 칼집을 내서 펼쳐주어요. ",
+		"5. 원래는 이쑤시개로 실같은 검은 내장을 꺼내지만, 배를 가르면 이쑤시개 없이 내장이 보여서 바로 제거하면 되지요. ",
+		"6. 맛소금 약간, 흰후추 약간, 청주 약간을 뿌려서 15~20분 정도 재워주세요. 시간이 지남에 따라 약간의 수분이 나오므로 키친타올로 수분을 제거해요. ",
+		"7. 홍고추와 청양고추는 작게 다지듯 썰어두어요.",
+		"8. 날밀가루에 밑간한 새우를 앞뒤로 묻혀주어요.",
+		"9. 밀가루가 잘 스며들도록 잠깐 놔둡니다.",
+		"10. 계란 두 개를 잘 풀어주고 맛술 1큰술을 넣어주어요. 계란의 비린내를 제거해주고 부드러운 맛을 내주지요. ",
+		"11. 계란물을 새우에 앞뒤로 골고루 묻힌 후 계란물을 살짝 털어주어요.",
+		"12. 팬을 달구고 기름을 두른 뒤에 새우를 지져줍니다. 홍고추와 청양고추를 고명으로 올려주어요. ",
+		"13. 고추가 떨어질 수 있으므로 계란물을 약간 묻혀주어요. ",
+		"14. 노릇하게 잘 익혀주면 되지요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/a9db0356c5dba781ca3d9cbf4430a5ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/a5fb12171b70adb492e2b6038f49ab821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/ce02df66f008b42d9d850d198375469f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/577f5cc0ae0234dad9b65afb29f5a1b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/0ef143f823c044479597df0426f863a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/0f7aa2ed76b8635bc40e98605df7757c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/37e5d88b8f3c0ba3ff0fa09d557840941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/f2f62b640eba3355cb7ba7259c4dafe11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/70666ddddcdd64b44ae628ab08333ef01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/848fc219e3b21796ea479c1692c363a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/70a1b73be459bb9e361ccb67b56af7bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/91f87fd4df0ba4ff6b7bb3c73067b2601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/7f0e58de012d763ec5842b51019010dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/7f519c889c0035996f055a9fa737bf9e1.jpg"
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"id": "6942875",
+	"name": "다시마 소고기뭇국만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/f51785da37a826108f8067412cbc83431.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942875",
+	"ingredient_ids": [
+		90,
+		19,
+		660,
+		349,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "8",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "뜨거운물",
+			"ingre_count": "6",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료;다사마(5cmx5cm)8장,무1토막,홍고추1개 양념:참기름1큰술+국간장1큰술+소금0.5큰술",
+		"2. 다시마는 뜨거운물6컵에 5분간 불려주세요. 다시마는 버리지말고 굵게 채 썰어놓아요.",
+		"3. 무는 나박 썰어주고 홍고추,대파는 어슷 썰어줍니다.",
+		"4. 중불로 달 군팬에 참기름 1큰술을 두르고 볶아주세요.",
+		"5. 무를 넣어 3분간 볶아줍니다.",
+		"6. 다시마육수 6컵 국간장1큰술 소금반큰술은 넣어 5분간 끓여주세요.",
+		"7. 무가 부드럽게 익으면 채 썬다시마와 대파,홍고추를 넣고 3분간 끓여주세요.",
+		"8. 시원하고 감칠맛이 제대로입니다.",
+		"9. 다시마 소고기뭇국완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/9e2645459dfb1218aa4d11495bb609b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/5a28fab6fcc8d3e60c51f5b7c71be1d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/e876ef6efcb5916fe405e40d975941c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/d64ff9086a6377ae030046af01ada6881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/3a5ebaa3cb77ebd87ab67f51dd9030081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/9945db07a2c70f36d62163a722632d041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/a54d0ed96ec470350e4c0088c2af8b781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/c13bb766efdcaadf5220eee16df8d8bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/ca0546c1879b2ec78cbde91bb1d2412b1.jpg"
+	]
+}

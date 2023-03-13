@@ -1,0 +1,47 @@
+{
+	"id": "6943639",
+	"name": "해독효과가 탁월한 미나리! 다이어트주스로 해독주스 만드세요! ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/817674c1c9d26d592511f08e5f25adaa1.png",
+	"url": "https://www.10000recipe.com/recipe/6943639",
+	"ingredient_ids": [
+		20,
+		19,
+		9,
+		158
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 미나리는 깨끗이 씻어 잎사귀와 밑둥을 제거한다.",
+		"2. 사과는 씻어서 씨를 도려내고, 적당한 크기로 자른다.",
+		"3. 무, 당근은 깨끗이 씻어 적당한 크기로 자른다.",
+		"4. 믹서기에 모든 재료를 넣고 갈아 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/e43f7c1d1a9dca31f8689a3b703036061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a23a927a214072d3e71f9c1b2abbb76e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a4081399d8396c43e13b6ff0da03d3151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/e173cf3be638be1be9b035d29f10d5031.jpg"
+	]
+}

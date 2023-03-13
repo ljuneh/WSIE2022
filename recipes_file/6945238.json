@@ -1,0 +1,65 @@
+{
+	"id": "6945238",
+	"name": "참치전 만들기 간단하고 맛있게!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/aa5f1722913bce0941e85ae527aff5b41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945238",
+	"ingredient_ids": [
+		659,
+		3,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료들을 준비해줍니다. 재료가 무척 간단해요 :) 참치캔 1개 계란 2개 양파 반개 청양고추 1개",
+		"2. 계란을 깨서 풀어줍니다. 계란을 깨서 넣고 풀어주면서 소금, 후추 간을 조금 해주세요!",
+		"3. 참치캔을 까서 기름을 버려주세요. 참치캔 뚜껑을 딴뒤 거꾸로 엎어두면 기름이 알아서 아래로 흐른답니다.",
+		"4. 양파를 잘게 썰고, 고추도 다져서 계란물에 넣어줍니다.",
+		"5. 기름을 뺀 참치를 넣어주세요. 참치캔에서 기름이 어느정도 제거되었다면 양파와 고추를 넣은 계란물에 함께 넣어줍니다.",
+		"6. 잘섞어주세요! 섞을때는 젓가락을 이용해서 섞어주면 잘 섞인답니다.",
+		"7. 기름을 두른 팬을 달궈주세요. 센불로 달궈주신뒤 중간불로 줄여주세요.",
+		"8. 숟가락으로 1큰술씩 떠서 올려줍니다. 숟가락 1큰술이면 딱 먹기좋은 크기로 구워집니다. 1큰술을 뜰때 모든재료가 골고루 들어가도록 잘섞어가면서 떠주세요.",
+		"9. 한쪽면이 다익으면 뒤집어서 익혀주세요.",
+		"10. 다익혔으면 그릇에담아주세요. 그릇에 이쁘게 담아주세요! 저는 둥그렇게 담고 가운데 소스를 놓으려고 비워두었답니다.",
+		"11. 케찹과 함께 먹으면 맛있습니다. 참치전은 역시 케찹과 먹어야 맛있더라구요! 가운데 소스를 올려주고 함께 찍어먹었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/ed22587ed582e6856a69d76fa807cd541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/042c503a6ea0372465a560c42deb73cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/f8acef7c050df3cbc2ad23dd1ead89151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/26a5aa29bfb47f821b9d27b0750342961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/1d0d55d61729cab6a1aa9b2b915a6f9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/558207237d8f7a2fe6d374b0107389771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/69d81c3ca085353a459ba54cc1bde84f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/8ab2a1be3e506a91697387b4875c52501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/4467619ea9a9fb4bcfadbf26b4b9c55f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/7921ced6d8e9e3940725113c0ebb70481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/e4488551873532779170253e951949591.jpg"
+	]
+}

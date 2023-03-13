@@ -1,0 +1,71 @@
+{
+	"id": "6907181",
+	"name": "김치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/23/e1e8d522c046955d831a5ced6566e0801.jpg",
+	"url": "https://www.10000recipe.com/recipe/6907181",
+	"ingredient_ids": [
+		398,
+		295,
+		233,
+		575,
+		226,
+		224
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "배추김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "돼지고기앞다리살(찌개용)",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기는 맛술에재워둡니다.",
+		"2. 김치는 먹기좋은 크기로 썰어줍니다.",
+		"3. 청양고추는 어슷어슷 썰어줍니다.",
+		"4. 팬에 기름을 두르고 돼지고기,김치,청양고추,다진마늘,고춧가루,김치국물을 넣고 끓여줍니다.",
+		"5. 국물이 거의 다 졸여질때까지 끓여줍니다.센불에서 끓여줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/23/3e52cc5a60a830402c4ba83e6217420a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/23/d8cc53be73997f1e563789b9b5da2e4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/23/6b345e89b669d0a89cfff2e6e61046f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/23/217fc48f30f105e811d8f497549134c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/23/dd9ee64fa94d8d421ac370738f95cac71.jpg"
+	]
+}

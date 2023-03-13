@@ -1,0 +1,46 @@
+{
+	"id": "6613014",
+	"name": "쫄깃하게 소면 삶는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/c417f4bce0f79cc14cb5e2ea2ba60e791.jpg",
+	"url": "https://www.10000recipe.com/recipe/6613014",
+	"ingredient_ids": [
+		523,
+		995
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "여분의찬물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 먼저 손을 씻고 필요한 재료를 준비해주세요! 성인남성의 경우 1인분 150g이 배부른 양이랍니다. 저는 면요리 워낙 좋아해서 평균 권장량인 100g으로는 살짝 부족한 느낌이더라구요.",
+		"2. 요정도 양이에요. 상당히 넉넉하죠? 냄비에 물1L를 넣고 완전히 바글바글 끓어오를 때 그 때 면을 넣어야합니다.",
+		"3. 가운데 중심을 딱 잡고 면을 물에 넣는 순간 손을 딱 놓으시면 면이 알아서 이렇게 퍼지게 되요. 뭉치지 않고 고루고루 끓는 물에 들어가게 되서 좋답니다.",
+		"4. 한소끔 끓어오르면 준비한 여분의 차가운 물을 원모양을 그리며 부어주세요. 이 과정을 통해 면발에 탄력이 더해진답니다.",
+		"5. 차가운 물을 붓고 나서 한번 골고루 저어주세요. 그리고 한소끔 더 우르르 끓여주시면 적당하게 익었을거에요. 저는 퍼지는 면을 좋아하지 않아 탄력있고 쫄깃하게 삶아지는 시간으로 말씀드리면 제품마다 약간씩 차이가 있긴 하지만 평균적으로 4분30초가 적당합니다.",
+		"6. 자자, 면이 적당히 삶아졌다면 흐르는 차가운 물에 헹궈볼게요. 반드시 차디찬 차가운 물. 가능하면 얼음을 사용하셔도 좋습니다.",
+		"7. 이렇게 마치 빨래를 하는 느낌으로 면발의 표면에 남아있는 전분기와 이로인해 발생한 거품들을 완전히 씻어내야 텁텁함 없이 쫄깃한 면발을 느낄 수 있습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/e11001173e37d310243edbb7247865101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/ddbc16d765f29b6870313abf2a7b5f7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/6299b6224bfd6409bc4de5081d8d9c5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/f04aba9bc03d4333f65b23c0dc9663431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/5a934277c4a0cc96cb4673e1c1e7df4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/e19a126442e15ad1e3edd5fa551919a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/5e8fc6dded2b2efda7a944c5552422c11.jpg"
+	]
+}

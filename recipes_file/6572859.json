@@ -1,0 +1,34 @@
+{
+	"id": "6572859",
+	"name": "귤쨈 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/21/f6c116e26019273c88f038d8802de1e31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6572859",
+	"ingredient_ids": [
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "귤",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 귤은 껍질을 벗긴 후 가위로 조각조각내주시거나 기호에 따라 완전 으깨주셔도 됩니다.",
+		"2. 잘라 놓은 귤과 설탕을 2:1 비율로 넣어주세요.",
+		"3. 냄비에 붓고 불세기를 중약중약으로 번갈아 조절하면서 바닥에 눌지 않게 계속 저어주세요. 찬물에 떨어뜨렸을 때 퍼지지 않을 정도로 졸입니다.",
+		"4. 유리용기를 끓는 물에 소독해 주세요. 졸여진 귤 쩀을 용기에 넣어 주시면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/6166d3e1b20b380d9f837a6967a2a3531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/2829f943abf54fa0c4dc89537055b6691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/7a90a2c60eb363dc65b7d3259ebf4b3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/99f80d93d265293f18353414288f59501.jpg"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"id": "6843151",
+	"name": "메추리알장조림 쉬워요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/16/dca479154d79b0b279a4a2b473161a521.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843151",
+	"ingredient_ids": [
+		221,
+		3,
+		379,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "메실액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 저는 편하게 만들려고 까진걸로 샀어요. : 흐르는 물에 깨끗하게 씻어주어요.",
+		"2. 알이 잠길정도로 멸치육수를 부어주고 양념인 간장 설탕등을 넣었어요. 보통은 올리고당으로 만드는데 마침 똑 떨어졌네요.",
+		"3. 중간불로 느긋하게 보글 보글 조리면 되요. 집안 가득 짭조름 달달한 향이 퍼지고, 육수가 1/3정도 남으면 약한 불로 몇분 더 졸여요.",
+		"4. 김이 모락 모락 올라오는 방금 만들어서 깨만 솔솔 뿌려주신 후 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/18/40826f7cbd4ff033e6c436a7a218d4301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/18/6a2de633ea7fbc5eb7a6656c925188701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/18/c9529d1dde42ee74d3ff8dfb04d60d551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/18/28e64ebf5687459852d8620c4b8da05f1.jpg"
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"id": "6945400",
+	"name": "계란장조림 만들기 밥도둑이야",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/32ac61da7497697f5cf9b719696ed80c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945400",
+	"ingredient_ids": [
+		219,
+		497,
+		231,
+		295,
+		349,
+		226,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "5~6개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1.  가장먼저 계란은 완숙으로 삶아주세요 달걀을 삶을때는 소금과 식초를 같이 넣은 후 15분정도 조리를 해주고 (완숙 기준) 빠르게 찬물로 이동해 식혀주셔야 껍질을 부드럽게 잘 깔 수 있어요!",
+		"2.  냄비에 분량의 양념을 넣어주고 통마늘과 물도 넣어준 후 바글바글 끓여주세요 ",
+		"3.  간장양념이 바글바글 끓으면 삶아둔 계란을 넣어 끓여주시구요 ",
+		"4.  계란이 어느정도 색이 입혀지기 시작하면 듬성듬성 썰은 청양고추도 넉넉히 넣어주세요 아이들이 먹을거라면 패스, 혹은 1개만 넣으셔도 되고 좀 칼칼하게 먹고싶다면 2~3개정도 넉넉히 넣어주셔도 좋을것 같아요 그렇게 국물이 어느정도 졸아들고 계란색이 예쁘게 입혀지면 불을 끄면 끝~ "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/262cff59dc23fbc6d1062ecdce4833061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/2fd93d12ee6151a4faf4d042048dbc2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/369a642566c1c51e8a0ce42ed611fbc01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/89ff179891fc0eb302dd72be0910ed911.jpg"
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"id": "6908099",
+	"name": "완전 초간단 초간편 시금치 스팸햄 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/03/10/14cd8fecf44607b2df03052f389877a81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6908099",
+	"ingredient_ids": [
+		2,
+		295,
+		27,
+		432,
+		233,
+		327,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "스팸햄",
+			"ingre_count": "1/2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "2~3포기",
+			"ingre_unit": "~포기"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 스팸햄은 굵은 채로 썰어 주세요. 청양고추,홍고추,대파는 송송 썰어주세요.",
+		"2. 시금치는 한줄기씩 떼어주세요.",
+		"3. 팬에 포도씨유를 두르고 다진마늘과 대파를 넣고 볶아주세요.",
+		"4. 햄을 넣고 볶다가",
+		"5. 청양고추,홍고추를 넣고 볶다가",
+		"6. 시금치를 넣고 볶아주세요.",
+		"7. 시금치가 익으면 들기름과 깨소금을 넣고 섞어주세요.",
+		"8. 완성그릇에 담아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/10/d0abe7a5d95ea36e7ec13bf7d5d4e1d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/10/9a5040c4e9a87aaa4e344219143a0a791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/10/1df67d5207238cbb3169f2589c3af5fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/10/7c6ebf2db03ca5ce64113b3fc547d7f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/10/c772fadc98905fd39fb59ac8a2bf05da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/10/569110dfa0bba5434aa0674c3b96bca51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/10/128b2dfc768b875f95277860a17632101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/10/0c104045b6a0cf268f08dd9d54d0ea701.jpg"
+	]
+}

@@ -1,0 +1,117 @@
+{
+	"id": "6945003",
+	"name": "무청우거지 등뼈해장국~국물요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/ad91b230b6b9d97a0416283fd2fd88f41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945003",
+	"ingredient_ids": [
+		3,
+		27,
+		259,
+		15,
+		27,
+		295,
+		497,
+		233
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지등뼈",
+			"ingre_count": "3",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "건다시마작은크기",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "건파뿌리",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "편생강",
+			"ingre_count": "5",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "삶은무청우거지",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 돼지등뼈를 찬물에 담구어서 반나절을 핏물을 빼주세요 중간에 한번씩 물을 갈아주세요",
+		"2. 핏물을 뺀 등뼈가 살짝 잠길만큼 물을 붓고 월계수잎/편생강/통후추/생강술을 넣고 초벌로 삶아주세요",
+		"3. 초벌로 삶아낸 등뼈는 다 버리고 등뼈만 찬물에서 한번씩 씻어주세요",
+		"4. 씻은 등뼈가 푹잠길만큼 물을 붓고 양파/홍고추/대파를 넣고 다시팩(건다시마/편생강/건새우/건파뿌리)를 넣고 올리고당3큰술을 넣어주고 2~3시간을 펄펄 끓여주세요 센불에서 1시간 중불에서 1~2시간을 끓여내시면 되시고요 뼈가 작은경우 2시간 큰뼈일경우 3시간으로 해주시면 되세요 *올리고당을 넣고 끓여주시면 등뼈의 고기가 연해져서 부드러워 지네요",
+		"5. 끓여진 등뼈에 다시팩을 비롯해 익은 채소들을 건져내주신후 삶은 무청우거지를 넣고 양념들을 넣어주세요 10분간을 끓여주시면 되세요 저는 미리 삶아서 냉동시켜 두었던 무청우거지를 넣었어요",
+		"6. 깻잎/대파/청양고추를 썰어서 넣어주신후 5분을 더 끓여내시면 완성이네요",
+		"7. 얼큰하면서도 속이 괘운한 등뼈해장국이 완성이 되었어요 이제 김장철이 다가오죠 김장하실때 넉넉하게 끓여서 김치겉절이와 드셔보세요ㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/cc70d50eaa095ae788c8fa70e3b3999e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/19e924000b649a9dec8bc39b6e8be3c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/6237526797d8336200fe3e08f3980be01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/3f66208fe0b83d3da04e3a1d346198361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/1dca72e2590c864b3aac9bb21895aff21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/61148f8e769386cb395b13fdb1304e8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/6b48daf57883ba24975c8c9e0cb6ea1d1.jpg"
+	]
+}

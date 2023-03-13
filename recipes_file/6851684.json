@@ -1,0 +1,39 @@
+{
+	"id": "6851684",
+	"name": "감자 삶는법, 시간!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/27/d3b73d6c3b8afb2cc712547ee8a6e40e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6851684",
+	"ingredient_ids": [
+		5,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 우선 감자를 깨끗이 씻어주세요 껍질은 따로 제거하지 않고 삶아요 껍질을 제거하면 전분이 물에 녹아 빠지고 비타민 손실이 크고 맛도 없어지고, 수분이 스며들어 싱거운 맛이 나고 쉽게 부서져요",
+		"2. 끓는 물에 소금 반 스푼을 넣어주세요. 기호에 따라 설탕을 추가하셔도 좋아요!",
+		"3. 물이 끓으면 감자를 넣어주세요. 물은 넉넉하게 감자가 잠길듯하게~",
+		"4. 뚜껑을 덮고 센 불에서 25분~30분가량 삶아주세요",
+		"5. 여기서 잠깐! 감자가 익었는지 체크하기 위해 젓가락으로 구멍을 내는 건 좋지 않아요. 구멍으로 수분이 들어가 감자 맛을 떨어트려요! 25분 지나서 질러보면 거의 다 익었어요.",
+		"6. 촉촉하고 부드러운 감자 삶기 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/e6e3c9e99d97eacc4d6478c6c48ff8071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/7e9509a8119cf3aa69efefdf46682eda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/a3f51565969a0d0a57a1435b230042971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/b067e905e92c7e21569c80e49d9b58651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/e99402935ad453b97fe037e84e8a0c721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/01/c4c7d45d3bbab32f131e9fd8ac4f92321.jpg"
+	]
+}

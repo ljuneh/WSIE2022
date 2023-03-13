@@ -1,0 +1,51 @@
+{
+	"id": "6941803",
+	"name": "닭 가슴살 구이- 오븐형 에어 프라이어로 촉촉하게",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/da22613dd7f64945709596a68a3f37501.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941803",
+	"ingredient_ids": [
+		300,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "2",
+			"ingre_unit": "덩어리"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "카이옌페퍼2작은술​",
+			"ingre_count": "2",
+			"ingre_unit": "작은 술 ​"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 닭 가슴살은 소금& 후추로 간 한 뒤",
+		"2. 카이옌 페퍼를 뿌려 고루 발라 준다. (뒷 면도 똑같은 작업을 반복합니다.)",
+		"3. 그물 망에 오일 스프레이 해 주고 (생략 가능)",
+		"4. 재운 닭 가슴살을 얹어 줍니다.",
+		"5. 트레이에 물을 조금 넣어 밑 칸에 넣어 주고 350도F 에서 25분 구워 줍니다.오븐",
+		"6. 적당한 크기로 잘라 (육즙 흐르는 거 좀 보소)",
+		"7. 좋아하는 소스를 찍어 먹거나 야채를 곁들여 함께 먹는다. (먹는 방법 자유~)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/2696ac69d8a96fe2626d6f688737ed661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/fe97660bb3a1fbe503889a98be71b1531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/28df9122d3a678ee2f6127368f071a331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/a7ea12d50577ed196cf3008a9b5fd3cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/87f0760613fbb1135a08df7dbb1c7d191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/c40dd6c04f5056a0645f4b9e8118a7481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/1a1ee83d489b06855724c2b4ce4ce0721.jpg"
+	]
+}

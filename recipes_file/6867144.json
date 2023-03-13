@@ -1,0 +1,51 @@
+{
+	"id": "6867144",
+	"name": "밥도둑~마늘쫑 장아찌 무침♥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/536db305e29715302f818e90ecdd95741.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867144",
+	"ingredient_ids": [
+		29,
+		843,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘쫑장아찌",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 마늘쫑 장아찌를 머무릴 그릇에 꺼내 주셔요~",
+		"2. 마늘하고매실액 약간씩 넣어주시구 고추가루도2수저 넣어주셔요~",
+		"3. 요래다넣었죠잉~~그럼 살살 무쳐 주셔용~^^",
+		"4. 요러케~완성 됐음요~^^ 양념 몇개안드갔는디 넘나 ~ 맛있어여~~꼭 해드셔용~♥"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/ec6b3cf7eb15c1393b2e44ff6ff1667e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/b653c15f6c124fedd70a24307a53746d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/dc699f0bb1f490207e64d4e015565cbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/20/754116bb9987de10fe2c6b163eff619f1.jpg"
+	]
+}

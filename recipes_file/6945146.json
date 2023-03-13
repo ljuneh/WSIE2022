@@ -1,0 +1,93 @@
+{
+	"id": "6945146",
+	"name": "아이들 반찬 소세지 야채 볶음..",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/1b9338d71426fad99cfc0689dbf0ac4a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945146",
+	"ingredient_ids": [
+		433,
+		3,
+		9,
+		504,
+		233,
+		477,
+		379,
+		660,
+		543
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "비엔나소세지",
+			"ingre_count": "20",
+			"ingre_unit": "개정도"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "요리당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 우선 소세지는 문어 모양을 내주는데요. '+' 모양을 칼집을 내주면 됩니다.",
+		"2. 양파와 당근은 큼지막하게 썰어주는데요.좋아하는 야채로 대체 가능..",
+		"3. 우선 식용유 2큰술에 다진마늘 1큰술 넣고 들들 볶아주다가..",
+		"4. 소세지 넣고 볶아주는데요. 이때 문어 다리가 벌어질때까지 중불에서 볶아주면 됩니다.",
+		"5. 소세지가 벌어졌으면 야채 넣어주고 같이 볶아주세요~",
+		"6. 그 다음 여기에 양념장을 모두 넣고 양념이 골고루 섞이도록 볶아줍니다. (케첩, 굴소스, 간장, 요리당)",
+		"7. 다 볶아졌으면 참기름 1큰술과 통깨 뿌려주면 소세지 야채볶음 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/5845e6f9a5b2b6be850eb2deedb296bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/ee6c85b35922fb5f2128d22ae9fda1fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/b3c4123dc315ea5218b199e051d1e5de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/899779cd739238504b412ee9758ff1911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/6fb65841c13a86ea319110602827116f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/bccac568676396a19131060730756d4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/6837db28152d5cfd03a52d83680103751.jpg"
+	]
+}

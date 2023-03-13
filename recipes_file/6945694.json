@@ -1,0 +1,49 @@
+{
+	"id": "6945694",
+	"name": "홈카페 메뉴:생크림없이 우유만으로 리코타치즈 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/64499f2e12ed42cf49b62d04fad685961.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945694",
+	"ingredient_ids": [
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "우유",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "식초&레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 우유 300ml를 냄비에 넣고 약불로 끓여주다가 소금 한꼬집을 넣어주세요.",
+		"2. 냄비 가장자리가 보글보글 끓기시작하면 식초&레몬즙 1큰술을 넣어주세요.",
+		"3. 식초를 넣으면 이런 모습이 되는데 이때 한두번만 눌러붙지않게 사~알짝 저어주세요.",
+		"4. 그렇게 분리가 되면 젓지말고 불을 꺼주세요.",
+		"5. 면포가 있으면 면포에 넣고 짜주거나 채반에 한지호일올려서 거기에 부어주었어요.",
+		"6. 한지호일 가장자리를 잡고 꾸욱 짜주세요.",
+		"7. 꾸욱 짰을때 이런 모양이면 성공이에요.",
+		"8. 잠시 냉장고에 넣고 식혀주세요.",
+		"9. 샐러드위에 리코타치즈올리고 소스뿌려먹으면 훌륭한 리코타치즈샐러드가 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/f0c6d707abf78f77c340ca74c2bd2ff51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/cfd11a4f4d817e8ca2f195207e4250481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/9a6a8e155a488172651721dc7e03bae81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/28093fb1302d2381d58739b2aaec93e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/cfba1fde6addb6ffe95952e4f53f180b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/90f4dcb8ca4acd0b0dff3353f42a094b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/883407426a144a096080b028d1195d011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/c7558d1b849ba55c65bd0ed3b5b4eb7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/a7369d30c7f6472073175d1f9e8b7a5e1.jpg"
+	]
+}

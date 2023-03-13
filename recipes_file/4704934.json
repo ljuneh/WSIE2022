@@ -1,0 +1,47 @@
+{
+	"id": "4704934",
+	"name": "돌나물 물김치 담그기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/2b09e4c5bb62086d6fc14213dd562e35.jpg",
+	"url": "https://www.10000recipe.com/recipe/4704934",
+	"ingredient_ids": [
+		999,
+		3,
+		757
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돌나물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 돌나물을 깨끗이 씻고 양파와 쪽파도 준비합니다",
+		"2. 먼저 냄비에 물과 찹쌀가루 1큰술 넣고 찹쌀풀을 끓입니다.",
+		"3. 물 약간과 고춧가루 1큰술 반을 넣어 섞어주고 여기에 물을 부어 위에 맑은 고추가루물을 고운체에 걸러내립니다.",
+		"4. 고운체에 고춧가루물을 걸러내 줍니다.",
+		"5. 적양파는 둥글게 썰어주고 쪽파도 4cm길이로 먹기 좋게 썰어주세요. 통마늘은 채쳐 썰어주었고 생강도 채쳐 넣었어요.",
+		"6. 고춧가루물을 만들고 함초소금 2큰술을 넣어주세요.(함초소금은 일반 소금에 비해 짠맛이 덜합니다)",
+		"7. 고춧가루 물에 양파와 쪽파, 미나리, 래디쉬를 동글게 썰어 넣고 작은 통에 담아두었어요. 물 한 대접 반 정도의 양입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/2277656b2b1297ebe4ddfedffa7938c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/08c2bfb8cf5d4b22234dcb93bc41c90f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/ff71187c42b38b69da746225f0968acc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/5041819fe568e9f9188e6a22525883951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/48505a4ce50d816328a0f9640a11dea51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/16b84a1bf3994b30b9b812f8c87185981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/66f5a3df70833e0e907a9e84dc455ad81.jpg"
+	]
+}

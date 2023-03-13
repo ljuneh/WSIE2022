@@ -1,0 +1,109 @@
+{
+	"id": "6943714",
+	"name": "배추 겉절이 맛있게 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/4102c03646f22a827704e0a60a5da0d41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943714",
+	"ingredient_ids": [
+		32,
+		3,
+		142,
+		28,
+		287,
+		333,
+		390,
+		226,
+		224,
+		282
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "배추",
+			"ingre_count": "1",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1/2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "6",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1/3",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 통배추는 밑둥을 자른후 배추잎을 하나씩 떼어내어 깨끗히 씻은후 먹기좋은 크기로 어슷썰기로 썰어주세요.",
+		"2. 물 500ml에 굵은소금 3T넣고 녹인후 썰어놓은 배추위로 조금씩붓고 또 배추 올리고 소금물부으며 차곡차곡 쌓아줍니다.",
+		"3. 30분후 배추를 한번 뒤집어주세요.",
+		"4. 양파,배,홍고추,통마늘,생강은 깨끗히 손질해 놓습니다.",
+		"5. 믹서기에 손질해놓은 재료들과 새우젓,멸치액젓,까나리액젓만 넣아주세요.",
+		"6. 믹서기로 모든 재료들을 잘 갈아줍니다.",
+		"7. 갈아진 재료에 고춧가루 6T,설탕2T 넣고 다시 한번 양념들이 잘 어우러질수있도록 섞어주세요.",
+		"8. 양념은 상온에서 고춧가루가 잘 불수있도록 30분정도 숙성시켜줍니다.",
+		"9. 1시간뒤 배추 줄기를 꺽었을때 부드럽게 휘게되면 알맞게 절여진거예요.",
+		"10. 흐르는물에 2번정도 세척후 채반에 받쳐 물기를 빼줍니다.",
+		"11. 미리 만들어놓은 분량에 양념장을 넣어줍니다.",
+		"12. 조물조물 양념을 잘 무쳐주면 맛있는 배추 겉절이 완성! 맛을 보고 기호에 맞게 소금혹은 액젓과 설탕을 추가해줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/6e64c31fc86d3980b928d941b64342001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/dfda072c7bf24df47d7a3ca230564dfb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/da45b7924957a411ce85e09f6006aa2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/20955b5a945b882c075935f9567e24781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/56d3576900fc7fd52f326957c568df9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/e4cf0419322a9c0db4326bf2f602000e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/05cf5e192adf4a294224dff5d09aefc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/3d9df6d4d4ad90eaac3489ebfee14e9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/37fec400634ccc465093e54f4ab1054c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/eb3188242770133d5b488c07bb898b751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/9ce7bbeb5d13bde80e9c3290c42196f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/e239b8536b8f1b2d7db98fc6795b426a1.jpg"
+	]
+}

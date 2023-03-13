@@ -1,0 +1,76 @@
+{
+	"id": "6837731",
+	"name": "굴소스카레볶은밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/a83aa4ef0018c0b65505410770569e091.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837731",
+	"ingredient_ids": [
+		3,
+		9,
+		325,
+		295,
+		628,
+		477,
+		470
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "카레",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요^^",
+		"2. 후라이판에 기름 넣으시구 양파와 파를 넣고 볶아주세요^^",
+		"3. 계란을 하나 풀어서 스크램블 해주고여^^",
+		"4. 남은 야채도 넣어서 볶아주세요^^",
+		"5. 밥을 넣고 굴소스 한숟가락 넣고 볶아주시고여^^",
+		"6. 마지막으로 카레가루 한숟가락 넣어서 잘볶아주시면 되요^^",
+		"7. 완성~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/80346d6e7ad151522b084d8a049da1e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/6a8123328666314d84af66e1340e5fff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/350cce91c01da1cc9cea3bdf96f3610f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/2642299a0c1092f0859c99b105aed76a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/1a247be06205fb0a4dac195bfc352c9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/545be9050dd24aa2564225faea6827ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/08/8635992afb44422c607ac3f94e6a02991.jpg"
+	]
+}

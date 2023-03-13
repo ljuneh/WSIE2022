@@ -1,0 +1,104 @@
+{
+	"id": "6940310",
+	"name": "[간단요리/간단반찬] 홍양갱의 밤 - 어무부추볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/a288575bfad9367b8048ad302c9d754e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940310",
+	"ingredient_ids": [
+		548,
+		9,
+		3,
+		30,
+		995,
+		226,
+		543,
+		327,
+		575,
+		233
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "3~4장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 당근을 깨끗하게 씻고 껍질 한꺼풀 벗겨내주시고 부추도 잘 씻어 준비해주세요.",
+		"2. 당근 반 개를 채썰어주세요.저는 채칼을 이용해서 하였어요.",
+		"3. 부추도 당근의 크기에 맞게 썰어주세요.",
+		"4. 양파도 채썰어서 준비해주시면 됩니다.",
+		"5. 어묵은 반으로 썰어서 얇게 채썰어 준비해주세요.",
+		"6. 물 1T, 진간장 2T, 설탕 1/2T, 통깨 1/2T, 들기름 1T, 올리고당 2T, 다진마늘 1T 을 모두 넣고 잘 섞어 양념장을 준비해주세요.",
+		"7. 기름을 두른팬에 당근을 먼저 볶아주세요.중불",
+		"8. 당근이 익어가면 어묵을 넣어 함께 볶아주세요.중불",
+		"9. 부추와 양파를 넣고 같이 볶아주세요.중불",
+		"10. 준비해둔 소스를 모두 넣고 잘 볶아주세요.중불",
+		"11. 아주 간단하고 쉬운 어묵부추볶음 완성입니다.",
+		"12. 매운 양념이 하나도 안들어가서 아이들도 먹기 좋은 온가족 반찬이예요~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/2fd036c26b34681c4d3b091ce2722f441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/ef7e47c853cf9966ce7faa9e131878941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/631824e4861419420823a83f99e100581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/df6539772fa505debb9bff84b732f1991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/6bf0e8695dcca0f76607c69715427f7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/eff316f3cfe71fd6b281e1dd8896deda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/45d7ed5f2f344f027672988b64f5d0a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/a1ec06639892d06b6a4a174dfa0abebc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/5e45278ea1fc70216d3dab744288d7a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/77eef6ec9e4bf959c7586f038774364a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/2d43ae30d4e9c1a00bbefcbbdd83cda71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/79d098d396295a95df0c10a33b19b9621.jpg"
+	]
+}

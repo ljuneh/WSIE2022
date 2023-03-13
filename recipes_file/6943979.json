@@ -1,0 +1,81 @@
+{
+	"id": "6943979",
+	"name": "취향저격 생선조림 토란병어조림 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ae41988d2c3649dc0a1d7ddf0beef5b81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943979",
+	"ingredient_ids": [
+		70,
+		40,
+		477,
+		379,
+		846,
+		227,
+		29,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "병어",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "토란",
+			"ingre_count": "8",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 웍에 양념장을 만들어 토란 손질한 병어를 넣습니다",
+		"2. 양념장을 생선위에 뿌립니다",
+		"3. 센불에서 뚜껑을 열고 조림니다",
+		"4. 토란이 익으면 접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b7d477bbe28e56aa354863a9eed4f4fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/0c8e707860dabce8cbabb89543bcc9411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/91cd1699e903c257bb0b0ec121f0e2531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b644f791717b09d87161eeb23ac4cb751.jpg"
+	]
+}

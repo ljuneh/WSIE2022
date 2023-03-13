@@ -1,0 +1,65 @@
+{
+	"id": "6943142",
+	"name": "부추당근이 쏙쏙 들어간 계란말이/하트모양계란말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/02575303f4db9f57b6507237a2837d3b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943142",
+	"ingredient_ids": [
+		30,
+		9,
+		27,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "해바라기유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 부추/당근/대파를 최대한 작게 다져서 준비해주세요",
+		"2. 계란6개를 깨어넣고 소금2꼬집을 넣고 잘 섞어주세요",
+		"3. 다져둔 재료들을 넣고 잘섞어주세요",
+		"4. 중약불에 팬을 올려주시고 해바라기유를 넣고 키친타올로 고루 발라주시고 계란물을 2/3를 부어주세요",
+		"5. 계란물이 절반이상 익었다싶으시면 뒤집게로 잘 말아주시고 팬의 맨앞으로 자리를 잡은후 나머지의 계란물을 부어주시고 처음에 말아둔것을 살짝들어서 밑으로 계란물이 들어가게 한후 똑같이 말아주시면 되세요",
+		"6. 잘말아진 계란말이는 뒤집게로 눌러주시면서 앞뒤로 노릇하게 익혀주셔야 안에도 깨끗하게 익어요",
+		"7. 잘익은 계란말이를 도마에 옮겨둔후 3분정도 식혀주신후 썰어주셔야 단면이 깨끗하게 썰어지네요",
+		"8. 두툼하게 썰어진 계란말이를 약간 사선으로 잘라주시고 잘린단면을 서로마주보게 놓아주시면 예쁜하트모양이 되네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/53ecd5b5c2f3d39de8c853c8049b11d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/5282adf3178a83adcd8c659bbc74feed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/a36770e5f47c54bbf43679045ed059c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/1b61bccc51e547fba1435073976f41a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/07686d03148eadee3c25949107ae8b951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/e2aad35d0de50596c5222530ec561b401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/2ba2a4bffb5ebc97118ad39f6e1cad9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/d62eb8500254a134561be2a59cfb6b3f1.jpg"
+	]
+}

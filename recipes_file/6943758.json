@@ -1,0 +1,66 @@
+{
+	"id": "6943758",
+	"name": "가래떡 구이 < 간식 >",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/c886ca17796795a6be916b1bb6aa52d41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943758",
+	"ingredient_ids": [
+		194,
+		193,
+		272,
+		212,
+		214
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "가래떡",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "아몬드",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "건크랜베리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 쌀가래떡을 준비합니다",
+		"2. 식용유를 두르고 중불에 떡을 구워주세요",
+		"3. 한번 뒤집어서 뚜껑을 덮고 반대쪽도 구워주세요",
+		"4. 노릇하게 구워 주세요",
+		"5. 견과류와 건크랜베리를 넣고",
+		"6. 모짜렐라 치즈를 넣고",
+		"7. 과도로 작게 썰어서 슬라이스 치즈를 떡위에 올리고 치즈가 녹으면 뒤적뒤적 한후 불을 끕니다",
+		"8. 구워서 따끈따끈할 때 바로 먹으니까 완전 맛나네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/003dfde6177a97161c07bc95348f1ed31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/a18d55617e56a52b4cc8021b480474211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/c336718534c8342afa1487e0151271961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/618150fc79d7ff6240e6aa07dd6ca2c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/1b5927663917ad72bd5f8c38d4f7a29f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/31c76796e542ee30d0e6595ab0d4c7fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/b170de16a5a364429897ca592e2a9dbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/88ece0f32ef8f255a63e3588ce6648d11.jpg"
+	]
+}

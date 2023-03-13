@@ -1,0 +1,51 @@
+{
+	"id": "6943571",
+	"name": "감자채전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/fe7ef61f43c40fd0a99e4163118f86841.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943571",
+	"ingredient_ids": [
+		7,
+		387,
+		665
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "감자작은거",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "요리유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 감자는 얇게 채썰어 찬물에 10분 정도 담갔다 건져준다.",
+		"2. 애호박도 얇게 채썰어준다.",
+		"3. 1과 2에 부침가루 2T, 참치액 0.5T를 넣고 반죽해준다.",
+		"4. 기름을 두르고 달군 팬에 3을 잘 펼쳐 앞뒤로 노릇하게 부쳐낸다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/99dddf2fab03aaa12f379b91e67f3e5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/39f90d5d3c062e390fa9bd2f0a0a05791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/e99ad2bfbf4887337b36f4b4e41149431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/7ae6c0d29a80114f6cd743993a49e7701.jpg"
+	]
+}

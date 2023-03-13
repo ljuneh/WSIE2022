@@ -1,0 +1,157 @@
+{
+	"id": "2379477",
+	"name": "함박스테이크",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/6315e99e0feecd5c9d57d779d7293b66.jpg",
+	"url": "https://www.10000recipe.com/recipe/2379477",
+	"ingredient_ids": [
+		219,
+		379,
+		660,
+		198,
+		234,
+		857,
+		608,
+		754,
+		266,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "다진소고기",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진돼지고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진당근",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "카스테라가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "통계피",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "우스타소스",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "스테이크소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "HOT소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "치킨시즈닝",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "비프시즈닝",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 달구어진 팬에 버터를 넣고 녹인 불을 아주 약한 약불로 줄이고 밀가루를 팬에 넣어 볶아 줍니다.",
+		"2. 죽처럼 묽어져야 제대로 된 가 됩니다. 볶는 시간은 소량인만큼 대략 30~40여분 정도",
+		"3. 팬에 통계피. 통후추. 월계수잎을 넣고 끓여서 향을 우러냅니다",
+		"4. 양념을 넣어 잘 저어가면서 끓여주면 맛있는 돈가스 소스가 완성이 됩니다",
+		"5. 소고기와 돼지고기는 다져있는 것을 구입해도 되구요",
+		"6. 대파. 양파. 당근도 곱게 다져놓구요.",
+		"7. 볼에 고기를 넣고 다진 채소와 달걀, 양념을 넣어 버무립니다.",
+		"8. 카스테라 가루를 넣고 다시 버무려주면 찰진 스테이크용 고기가 완성됩니다.",
+		"9. 버무려진 고기는 볼에 치대어 약 200g 정도의 양을 손바닥 크기로 예쁘게 만들어줍니다.",
+		"10. 찜기에 약한 불로 약 15~20여분 정도 찜을 합니다. 기름기가 쪼옥 빠지면서 더욱 담백한 함박스테이크가 되지요",
+		"11. 전자렌지로 한김 올린 다음 그릴이나 팬에 구워드셔도 맛이 으뜸입니다전자레인지"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/c1371e36131e62e90c177a73835de0f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/9cb8778f8a1e0012102d7cd4a982f5a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/e398355326db00b4a9b5a7d19f7e24ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/9995fe015469114ce58b714efae2ac6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/96693831ab4758ee5b5afc50654284d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/c6c3d4009acfb2e851818ed365dff41e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/c86d1463404889c97abb45522480833f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/0c1dd6cc7f40c84b85074cc2d756d6cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/470b04374c46137bf8eb32d513d5920c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/84a392d583047164976adc200638fc571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/5fd4c3fb252cc7c3e07886f99dfb4d3f1.jpg"
+	]
+}

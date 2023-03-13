@@ -1,0 +1,70 @@
+{
+	"id": "6944390",
+	"name": "체리부로 닭칼국수로 간편하게 즐겨요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/3c563e84c69f2429f45306bcf7f3abf51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944390",
+	"ingredient_ids": [
+		5,
+		3,
+		325,
+		300,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "칼국수면",
+			"ingre_count": "2",
+			"ingre_unit": "인"
+		},
+		{
+			"ingre_name": "진한닭고기육수",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "야채건더기",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "그릇"
+		}
+	],
+	"recipe": [
+		"1. 육수와 칼국수면, 건더기스프, 닭가슴살로 구성돼 있네요.진한닭고기육수1봉, 칼국수면2인, 건더기스프1봉, 닭가슴살1봉, ",
+		"2. 물에 육수를 넣어 끓여줍니다. 육수가 끓으면 감자, 양파, 호박을 넣어 끓여줍니다.물2그릇, 감자1개, 양파1/2개, 호박1/2개, 진한닭고기육수1봉",
+		"3. 채소가 반쯤 익으면 물에 씻은 칼국수면을 넣어 끓여줍니다.칼국수면2인찬물에 면을 흔들어 밀가루를 씻어주세요.",
+		"4. 면이 거의 익으면 건더기스프를 넣어 끓여줍니다.건더기스프1봉",
+		"5. 동봉 된 닭가슴살을 하나씩 떼어 넣어 끓여줍니다.닭가슴살1봉"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/2fcb1178b30ac757d93dcf046cb697311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/57c08d8e21d6ac86c45f16f2210582831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/f89242e8cdac6a5c2c1c4f7906a37f761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/7365175e98648f08d1f705e06355ad721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/fd6ea86e25075319dd56bfcce049beda1.jpg"
+	]
+}

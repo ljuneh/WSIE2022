@@ -1,0 +1,103 @@
+{
+	"id": "6941447",
+	"name": "버너로 끓이면서 먹는 맛있는 샤브샤브 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/04fbc7745497b83c2176724438db17ab1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941447",
+	"ingredient_ids": [
+		583,
+		13,
+		55,
+		19,
+		27,
+		295,
+		515
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "샤브샤브용소고기",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "알배기배추",
+			"ingre_count": "1/2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "적근대",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "쌈추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생칼국수",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "샤브샤브용육수",
+			"ingre_count": "1",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "칠리소스",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장소스5T​",
+			"ingre_count": "5",
+			"ingre_unit": "T ​"
+		}
+	],
+	"recipe": [
+		"1. 이마트에서 구매한 샤브샤브용재료로 샤브샤브를 만들었다 필요한 다양한 야채들을 저렴하게 구입할 수 있어서 좋았다 생칼국수면,육수,소스 등이 함께 들어있다",
+		"2. 알배기배추,청경채,적근대,쌈추,팽이버섯 채소를 깨끗이 씻어준다",
+		"3. 집에 있는 무1/10,대파1/2,청양고추1개를 추가해서 샤브샤브 육수에 활용해보았다 이마트 샤브샤브용재료에 있는 육수를 넣고 무,고추를 넣고 끓여준다 이마트 샤브샤브재료 육수는 가쓰오부시 육수 맛과 비슷했다",
+		"4. 샤브샤브용소고기는 별도로 구매해서 준비해보았다 넉넉하게 500g 준비했는데 2명이서 다 먹을 수 있는 양이었다",
+		"5. 버너위에서 끓여먹으니 더욱 맛있었어요 샤브샤브는 끓이면서 먹어야 맛있네요",
+		"6. 야채,고기를 듬뿍 넣고 살짝 끓인 후 건져내서 소스에 찍어먹으면 꿀맛이에요 칠리소스에 찍어먹으니 더욱 맛있었어요",
+		"7. 정말 듬뿍 먹었어요~ 넘넘 맛있었나봐요,,",
+		"8. 샤브샤브를 다 먹고 배는 불렀지만 칼국수를 끓여먹었어요 육수도 점점 우러나서 깊은 맛이 나네요 계란죽은 배불러서 안했는데 담에는 만들어봐야겠어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/b0e8159ede2ee1a1799be1504e6309451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/c25a50a495605a4766d3cc82bc3b31f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/d11cbd267cb33c61ae26d6280dad31bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/7408199a0168313253892675f7b5c6ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/762727adf4bcf2842b4d763472c3ab291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/791d89f03979e3fac05b3d99fc40ce6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/4e1655af4075204f05a4ee4a4f2e830f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/d0683f1c7aa9f527e452cb1cf985d63f1.jpg"
+	]
+}

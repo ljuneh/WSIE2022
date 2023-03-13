@@ -1,0 +1,117 @@
+{
+	"id": "6926244",
+	"name": "비빔국수 (쌀소면) 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/a0c7ceeecbc667836605cd133eda158b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6926244",
+	"ingredient_ids": [
+		523,
+		56,
+		9,
+		3,
+		473,
+		1022,
+		231,
+		660,
+		543,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "3",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "원당",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 진간장 3T 고추장 3T 고추가루 3T 원당 2t 다진마늘 2T 식초 2T 참기름 2T 를 넣고 섞어주세요 양념을 먼저 만들어 숙성시켜요",
+		"2. 집에 있는 야채를 준비합니다 느타리버섯 당근 양파를 채썰어 주세요",
+		"3. 기름을 두르고 야채를 볶아주세요",
+		"4. 물을 끓여주세요 끓으면 쌀국수를 넉넉히 넣어주세요",
+		"5. 4분 30초 끓여주세요 봉지에 써있어요 한번 끓으면 찬물 한컵을 넣고 끓여주세요",
+		"6. 4분 30초 후에 찬물에 씻어 주세요",
+		"7. 손가락으로 국수를 비벼서 씻은 후 물기를 제거해 주세요",
+		"8. 양념장을 면에 섞어주세요",
+		"9. 볶은 야채를 넣고",
+		"10. 참기름과 식초를 제일 나중에 넣어 주세요",
+		"11. 생배추를 썰어서 고명으로 올려줍니다",
+		"12. 달걀 2개 대파 1/2개 채썰어서",
+		"13. 생배추 흰부분을 넣고",
+		"14. 새우살 씻어서 모두 넣어 주세요",
+		"15. 기름을 넉넉히 두르고 새우 계란 물을 넣어 부쳐 주세요",
+		"16. 국수를 비비고 새우 부침개와 생배추 고명 올리고 통깨를 뿌려서 맛있게 먹어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/86e038a9c8a611fa4b98ebcde169d0871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/4f6a86abc45175227c07aab1815b17281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/031c180b6da96180cabc3d028209e4811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/f8409aa20de16732e3f6822726eaecb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/7f858d2384fdf96f6b70000b3b54c8f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/4231cbe78b4357087002ca32019262581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/2fec51a010aa99a3f4432188882281b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/f32677502ffee1b5419fd5bc199259531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/b6ed54996f61577567f2a0a2e23aee021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/9a0db7b1cb198ce4ab395478989838691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/6a2066827002d2d0922a714ef7224a9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/64c26f05bfc30319721579b25a9ea13b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/6e204e2216a98525c2296a1965c802191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/67afd6280b4a5ebd424d0b9927e36d321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/fb2b586b87cebfb4b159e989eff05ac51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/08/3b8c2abbbc9a1dd97b330f240b87d7331.jpg"
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"id": "6941590",
+	"name": "초간단 밥반찬 비엔나소세지 강정",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/47f412e44d65464e37d7f5df2e917db81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941590",
+	"ingredient_ids": [
+		226,
+		575,
+		379,
+		995,
+		689
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "비엔나소세지약",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "아몬드슬라이스",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 먼저 비엔나소세지는 끓는 물에 살짝 데쳐 준비해 주세요.",
+		"2. 살짝 데친 비엔나소세지는 물기를 빼주고 한쪽에 십자(+)로 칼집을 내주세요. ",
+		"3. 설탕 1.5T, 올리고당 1T, 간장 1.5T, 물 3T를 넣고 강정 양념소스를 만들어 주세요. ",
+		"4. 팬에 적당량의 식용유를 두르고 비엔나소세지를 바삭하게 구워주세요. ",
+		"5. 소세지가 잘 구워졌다면 소세지를 따로 빼내거나 가 쪽으로 밀어주고 강정 양념 소스를 넣고 끓여주세요. ",
+		"6. 보글보글 끓으면 비엔나소세지를 넣고 잘 섞어주세요.",
+		"7. 강정 양념소스가 잘 베였다면 슬라이스 아몬드를 조금 넣고 섞어주세요. ",
+		"8. 이렇게 해서 완성이 된 달콤 짭조름한 비엔나소세지 강정이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/b8406fc9d88527cf389486570ccc1add1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/87a050f03541997d1f6a69040c2dcb581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/da64d036d1312f26d4cfaf7c50f55feb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d54c1de23ba973fcb485351eebad80291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/780b16b3a2d4ee41759830a5750187c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/6a432f7740962758c682b664ffb1bc381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/0874287459e0861ee93eaba7096ea3751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/c0a49764a5c9dd8a904211a538ab0b0e1.jpg"
+	]
+}

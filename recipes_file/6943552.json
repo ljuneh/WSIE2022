@@ -1,0 +1,74 @@
+{
+	"id": "6943552",
+	"name": "바지락 된장 파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/a3aeba3b2ba080ce1433bba284309c1b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943552",
+	"ingredient_ids": [
+		848,
+		920,
+		574,
+		29,
+		7,
+		27,
+		9
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "바지락살",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파스타면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 바지락살은 깨끗이 씻어 체에 받쳐 준비해요.",
+		"2. 곁들일 채소는 집에 있는걸로 자유롭게 준비해요! 전 마늘, 대파, 애호박, 당근으로 준비했어요.",
+		"3. 파스타면을 삶고 면수는 버리지 말아요.",
+		"4. 시판 된장을 체 위에 올려 놓고 따뜻한 면수를 부어가며 으깨며 살살 풀어주세요. 된장소스는 걸러진 부분만 사용해야 깔끔해요.",
+		"5. 팬에 올리브오일을 두르고 바지락살, 준비한 채소를 넣고 볶아요.",
+		"6. 파스타면을 넣고 면수와 된장소스를 간봐서 조금씩 넣어 볶아내면 완성! 다른 조미료는 넣지 않았어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/90f1835a5d3d128b780a831ee057dbab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/b6bc379c83bf122195ae471935a7a8c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/0d682526e9f75a15a154cbbfba1c35341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/c8e75eb388ba747a1a19274fa31db1601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/e7dc35f2d547115c42ad3e2051fbe6ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/27643c769c765640d7bd25767425fea01.jpg"
+	]
+}

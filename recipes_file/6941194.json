@@ -1,0 +1,136 @@
+{
+	"id": "6941194",
+	"name": "경기미로 만든 홈캉스도시락",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/c990c822e556b5cf52abc5475f2a804a1.png",
+	"url": "https://www.10000recipe.com/recipe/6941194",
+	"ingredient_ids": [
+		96,
+		90,
+		660,
+		497,
+		95,
+		290,
+		96,
+		660,
+		497,
+		95,
+		496
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "비엔나소시지",
+			"ingre_count": "12",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "검정깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진야채(당근브로컬리우엉)",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장에조린유부",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "기름뺀참치",
+			"ingre_count": "2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "볶은당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "절인오이",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란지단",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "볶은어묵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 1. 경기미 1kg을 모두 넣고 4, 5번 씻어 전분기를 제거한다.",
+		"2. 2. 15분정도 뒀다가 다시마와 맛술 한스푼을 넣어 취사한다.",
+		"3. 3. 칼집낸 비엔나소시지를 약불에 굽고 검정깨는 이쑤시개를 이용해서 눈모양을 붙여준다.",
+		"4. 4. 간장으로 조린 유부를 반으로 잘라 12개로 마련하여 밥과 다진야채, 참기름, 소금, 깨로 버무린 속을 넣고 비엔나소시지를 올리고 김을 잘게 잘라 묶어준다.",
+		"5. 5. 김에 버무린 밥을 올리고 어묵, 오이, 단무지, 계란, 참치를 넣고 돌돌말아 김밥을 말고 참기름을 발라 칼로 자른다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/edf617f99a5ea5fcd9066fd2efc7ba3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/2915f1b866b9e24dd214c590a4f7e7aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/5e2cbd18c26a32d2c839f1f0e36a7c9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/bdf72ced531769740c7605427e36b2e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/ec8b3bd62688471c22843415b6ac10881.jpg"
+	]
+}

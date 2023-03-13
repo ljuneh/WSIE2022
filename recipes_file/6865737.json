@@ -1,0 +1,68 @@
+{
+	"id": "6865737",
+	"name": "남은 참치캔 발견! 간단한 아이 반찬 만들어 보자! < 야채 참치 볶음 >",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/c9a589caaf45fc22d5bbd0a3fd0aff6a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865737",
+	"ingredient_ids": [
+		9,
+		3,
+		27
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔150g짜리",
+			"ingre_count": "2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "진간장2스푼(밥수저)",
+			"ingre_count": "2스푼(밥수저)",
+			"ingre_unit": "스푼(밥수저)"
+		},
+		{
+			"ingre_name": "설탕1스푼(밥수저)",
+			"ingre_count": "1스푼(밥수저)",
+			"ingre_unit": "스푼(밥수저)"
+		},
+		{
+			"ingre_name": "다진마늘1/2스푼(밥수저)",
+			"ingre_count": "1/2스푼 (밥수저)",
+			"ingre_unit": "스푼 (밥수저)"
+		},
+		{
+			"ingre_name": "고추가루1+1/2스푼(밥수저)",
+			"ingre_count": "1+1/2스푼(밥수저)",
+			"ingre_unit": "스푼(밥수저)"
+		}
+	],
+	"recipe": [
+		"1. 당근은 다져 주시고, 양파와 대파는 작은 크기로 송송 썰어주세요.당근 한줌, 양파 반개, 대파 한줌아이 반찬이라면 더 작게 썰어주셔도 좋아요.",
+		"2. 프라이팬에 기름을 제거하지 않은 참치 통조리 2개 분량을 넣고, 조금 전 썰어놓은 야채를 전부 넣어주세요.참치캔 2개 (150g x 150g)",
+		"3. 진간장 2 스푼, 설탕 1스푼, 다진 마늘 반스푼, 고추가루 1 스푼 반을 넣어주세요.진간장 2스푼, 설탕 1스푼, 다진 마늘 반스푼, 고추가루 1스푼 반조금 맵게 하시려면 고추가루 2스푼 넣어주세요.",
+		"4. 강불에서 약 1분간 볶아주시고, 중불에서 약 2~3분간 졸이듯 더 볶아 줍니다.강불 1분, 중불 2~3분",
+		"5. 마무리로 통깨 솔솔 뿌려주시면 맛있는 반찬이 완성 된답니다.^_^통깨 < 선택 재료 >"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/28225bd40d5e10738cb454caa8718c631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/55993068d7789beabb5c7df729b368811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/8981f7b8d9c10ebdc5ada1a128cb9b121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/f84a6935fb948127e679f6b446e4cd0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/23/48fc3ec523a49343d2a58d45faa99ec81.jpg"
+	]
+}

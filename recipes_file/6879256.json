@@ -1,0 +1,106 @@
+{
+	"id": "6879256",
+	"name": "소고기토란국 끓이기! (국물요리)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/05/1856d01b3e13f853a4d3540fb78393b11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6879256",
+	"ingredient_ids": [
+		19,
+		660,
+		497,
+		349,
+		233,
+		846,
+		660,
+		225
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "한우양지",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "햇토란",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들깨가루4~5큰술(가감)",
+			"ingre_count": "4~5큰술(가감)",
+			"ingre_unit": "~큰술(가감)"
+		},
+		{
+			"ingre_name": "국간장1큰술(가감)",
+			"ingre_count": "1큰술(가감)",
+			"ingre_unit": "큰술(가감)"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다시마물5+1/2컵",
+			"ingre_count": "5+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 햇토란은 장갑을 끼고 흐르는 물에 흙을 씻어내고 칼이나 숟가락을 이용해 껍질을 벗겨주세요. 토란 손질을 어려워하시는 분들도 계시던데, 토란 손질하는 방법은 그다지 어렵지 않아요. 흙을 제거한 토란은 맨손으로 만질 경우 가려울 수 있기 때문에 장갑을 끼고 껍질을 벗겨주심 돼요. 아님, 끓는 물에 소금 1 큰 술을 넣고 3~5분 정도 생토란을 데친 후 차가운 물에 담가 열기를 뺀 다음 손으로 살짝 밀면 껍질을 쉽게 벗길 수 있답니다. 껍질 벗긴 토란은 소금물이나 쌀뜨물에 담가 토란의 아린 맛을 제거해주심 되는데, 아린 맛에 민감하시다면 쌀뜨물에 토란을 살짝 삶아 주면 돼요.",
+		"2. 준비된 쌀뜨물이 없다면 토란이 잠길 정도의 물에 소금을 넣고 끓인 뒤 5분여 정도 삶아 흐르는 물에 헹궈 물기를 빼주세요.",
+		"3. 소고기 국거리(한우양지)에는 분량의 재료대로 양념을 넣고 조물조물 무쳐 밑간해주세요.",
+		"4. 무는 나박하게 썰어주시고요.",
+		"5. 달구어진 냄비에 참기름을 두르고, 미리 재워둔 소고기를 넣고 달달 볶아주세요.",
+		"6. 토란과 무를 넣고 조금 볶다가",
+		"7. 다시마물을 넣고 끓여주세요. 끓으면 불을 낮춰 토란이 익을 때까지 끓여주세요.",
+		"8. 저는 혹시나 끓어넘칠까 한쪽 가장자리에 이쑤시개를 하나 꽂아준 뒤 끓여줬어요. 이건 제가 국물요리를 할때 이용하는 방법 중 하나에요. ^ ^;;",
+		"9. 토란이 푹 익으면 들깨가루와 국간장을 넣고 끓여주세요. 마지막 간은 기호에 맞게 소금 & 국간장으로 해주심 되고요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/0c13b0fe815df7698671ccf1503ae66b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/47ef93172a41edeae573373c7464f8991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/b19a560e9e737dd10c9bdf05f6ad338f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/9a5347a95a01b3f43bf04365b9a6cce51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/700cd9b6794c728dc3f089d844b268d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/a490f909e29221488764a07a5b071fbe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/7e52ce832c67243d364c191c124354261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/6fc6c7bc4435292771481c13d637d3791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/08/2ca0bd285d9464a2bdbb449d58939cae1.jpg"
+	]
+}

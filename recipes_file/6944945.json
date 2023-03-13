@@ -1,0 +1,76 @@
+{
+	"id": "6944945",
+	"name": "바삭바삭 가지튀김 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/2d2e9bbd3b9f6b6499b84870ba9f68fc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944945",
+	"ingredient_ids": [
+		18,
+		387,
+		574,
+		379,
+		231,
+		226,
+		224
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 가지 한 개를 준비하고 먹기 좋은 크기로 잘라준다.",
+		"2. 튀김가루에 전분 두 수저를 넣고 물을 조금씩 넣으면서 반죽을 만들어준다.",
+		"3. 잘라둔 가지에 반죽이 골고루 묻도록 섞어준다.",
+		"4. 달군 팬에 올리브유를 넉넉히 둘러주고 가지를 튀겨준다.",
+		"5. 잘 튀겨진 가지는 키친타올에서 기름기를 살짝 빼준다.",
+		"6. 찍어먹을 소스는 간장 두 수저, 식초 한 수저, 설탕 한 꼬집, 고춧가루 한 꼬집으로 만들어준다.",
+		"7. 겉바속촉 가지튀김 완성! 이제 맛있게 먹는다~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/566b6a8cfe82db98fabe7a2da1aebcac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/40ce0332d8aef4ec25b8af4e49c6d4671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/3fef8ff3252173b0faadd45ca1094f971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/cbfb48ede692213dc1257e95687037f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/5045dfb3b598e7e6d711692be253923e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/a81990cd0a0ce9abb8086825379ebdf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/547cc421e83e78c0ed27a8ff06da9f3c1.jpg"
+	]
+}

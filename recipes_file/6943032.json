@@ -1,0 +1,63 @@
+{
+	"id": "6943032",
+	"name": "프렌치토스트 만들기 예뻐서 더 맛있는 무화과 프렌치토스트",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/39258fbb9c7378b3a64a46605a164d141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943032",
+	"ingredient_ids": [
+		219,
+		227,
+		497,
+		198
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵두툼하게",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "데코용슈거파우더",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 식빵은 슬라이스 식빵을 사용해도 좋지만 저는 통식빵이 있어 그대로 사용했어요.",
+		"2. 식빵을 적당한 크기로 잘라요.",
+		"3. 볼에 달걀, 우유, 꿀, 소금을 넣고 섞어요.",
+		"4. 식빵을 잠시 담가 적셔요",
+		"5. 달군 팬에 버터를 두르고",
+		"6. 적신 식빵을 넣고 약불에서 노릇하게 구워요. 우유와 달걀이 들어가 금방 탈수 있으니 (불앞에 계시고요. 중간불이나 약불로 구워주세요.) ",
+		"7. 장식할 무화과를 깨끗하게 씻어 잘라요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/6b2100e96b80403df3d7b0bdad1f06291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/56a06ac57429d0c2656b4f9546c016721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/71491798dbda3bc6e2ee7fdb81011ac91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/5a8de235eac0b67de56cca5c34e45ed51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/d5f4c839517dcb8130760c45823aa55a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/b072f3f52026feac5b851760037ff90d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/d840fd861644f457f6cffbd1c9a3ce901.jpg"
+	]
+}

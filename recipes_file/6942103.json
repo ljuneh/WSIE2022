@@ -1,0 +1,119 @@
+{
+	"id": "6942103",
+	"name": "정식품 콩국물을 활용한 채식 비건만두스튜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/da564eb1edb6d2fca8f64818feec23e81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942103",
+	"ingredient_ids": [
+		323,
+		9,
+		3,
+		53,
+		29,
+		667,
+		497,
+		224,
+		379,
+		327,
+		225
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "정식품진한콩국물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/4",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "데친머위잎",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "볶은깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 양파, 당근, 표고버섯은 잘게 다져 준비한다.",
+		"2. 두부는 키친타올에 물기를 제거한 후, 으깨어 준비한다.",
+		"3. 마른팬에 두부를 약불에서 볶아, 수분을 날려준다.",
+		"4. 어느정도 두부의 수분이 날아가면, 다진 양파,당근,표고를 넣어 한번더 수분을 날려준뒤, 준비된 양념장을 넣어 밑간을 해준다.",
+		"5. 데친 머위잎위에 만들어놓은 속재료를 넣고 감싼다.",
+		"6. 만들어진 머위쌈만두는 그릇에 옮겨놓는다.",
+		"7. 정식품 진한 콩국물을 끓인다.",
+		"8. 어느정도 끓으면 찹쌀가루에 콩국물을 섞어 찹쌀풀을 만든 후, 원하는 농도를 잡는다.",
+		"9. 준비된 머위쌈만두에 정식품진한 콩국물 크림을 부워주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/f1fdbbfede330775ecf0d17b3814d38d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/10d5fab3318708ff5dd419f2c198261b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/9a43a97acce523f91ada767d89f014d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/ff6793533bc79528b28ae07189b262e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/ef9a97726e3e1e7663b80a26c47c3d3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/0b535fd4c7ad27e8bb588c58e7b325e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/21f03fa4e9484da4af367255fb04e6001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/78ee258b72a212056b1fe00b51a1177b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/bcbeddb8cca6d80d3b5ff13f67bbecc11.jpg"
+	]
+}

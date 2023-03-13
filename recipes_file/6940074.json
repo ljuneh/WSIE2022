@@ -1,0 +1,134 @@
+{
+	"id": "6940074",
+	"name": "잡채 맛있게 만드는 방법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/929c4b213204717aa1a6ce8b526604bd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940074",
+	"ingredient_ids": [
+		302,
+		3,
+		117,
+		462,
+		497,
+		853,
+		226,
+		660,
+		543,
+		853,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "당면",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청피망",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노랑파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근10cm한토막",
+			"ingre_count": "10",
+			"ingre_unit": "cm 한토막"
+		},
+		{
+			"ingre_name": "돼지고기등심",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "건표고버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "노두유",
+			"ingre_count": "1/4",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "맛간장각",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름각",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 양파는 채썰어주시구요",
+		"2. 피망과 파프리카도 채 썰어주세요",
+		"3. 당근도 채 썰어주세요",
+		"4. 간장과 참기름,후추로 밑간을 해주세요",
+		"5. 간장과 참기름 후추로 밑간을 해주세요",
+		"6. 당면을 한시간 정도 불려서 투명해지게 삶아주세요. 삶아진 당면은 차가운물에 완전히 헹구어서 간장과 참기름으로 버무려 놓으면 달라붙지 않고 간이 베어요.",
+		"7. 양파-피망-당근-고기 순으로 채소를 잘 볶아줍니다. 볶으면서 소금으로 간을 조금씩 해주세요!잡채가 맛이 밋밋하다 느끼는 이유는 대게 밑간이 안 되서 씹을수록 맹맛이기 때문인 경우가 많아요",
+		"8. 간장,설탕,다진마늘을 넣어서 버무려 주시고, 선택사항으로 색이 더 진하게 만들어지게 하기 위해서 노두유(중국볶음간장)을 소량 넣어줍니다.(선택사항)",
+		"9. 완성되었습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/4481d93027bf346822252985a99d6da41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/26db8cf5983690ead9c722ce05e112991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/9aab0c4dc7e987c8930a19a14e59261a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/c84b03c03074c7f66bc7ffd821e99aab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/b3f6b646bba9ca8328fac264c4e208501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/dba98d51be00c7a2908f9c20e15cc39d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/24a923621e25835ece2ebf603bc357661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/5495189c44a57a30884ac08a1fffd1301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/f47796876d67f38cceb9c437164051c51.jpg"
+	]
+}

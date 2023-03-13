@@ -1,0 +1,49 @@
+{
+	"id": "6857927",
+	"name": "폭탄계란찜 달걀찜 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/05/f0a463505880e358de863c94a4e703141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6857927",
+	"ingredient_ids": [
+		497,
+		292,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 믹서기에 달걀, 소금, 맛술을 넣고 곱게 풀어주고 물과 다진파를 준비합니다",
+		"2. 뚝배기에 물을 넣고 보글보글 끓으면 달걀물을 넣고 나무주걱으로 잘 저어주는데 이때 불은 강에서 중불로 맞추고 몽글몽글 해질때까지 저어줍니다",
+		"3. 약불로 줄인 후 파를 조금 뿌리고 밥그릇을 덮은 후 김이 나고 뚜껑이 들썩거리면서 부풀어 오르면 불을 끄고 1분 정도 뜸을 들여줍니다 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/06/877e7ca4da1efbdc3ee8a8cda5e05ea81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/06/4a831822fd52fda81a52f2206e0312af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/06/7af72db829e4bdf558ed41eb1d37b7a91.jpg"
+	]
+}

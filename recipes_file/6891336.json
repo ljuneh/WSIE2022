@@ -1,0 +1,69 @@
+{
+	"id": "6891336",
+	"name": "새콤달콤한 프랑스 가정식! 산딸기 클라푸티",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/22/8e8dceede0ff18064205b64730f504f61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6891336",
+	"ingredient_ids": [
+		219,
+		226,
+		183
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "녹인버터",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "산딸기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "유기농박력분",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "맛술미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요.",
+		"2. 볼에 달걀을 풀어주고 설탕을 넣은 뒤, 가볍게 저어줍니다.",
+		"3. 달걀 푼 물에 맛술 미림을 넣고 골고루 저어줍니다.맛술 미림으로 달걀 비린내를 잡아주세요!",
+		"4. 녹인 버터를 넣고 가볍게 저어주세요. 그 다음, 우유를 부어주세요.",
+		"5. 가루를 채 쳐 넣어주세요.",
+		"6. 저어주면 반죽 완성!",
+		"7. 팬에 반죽을 붓고 산딸기로 가득 채워주세요.",
+		"8. 오븐 210도에서 7-10분 정도 구워주면 완성!오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/22/472f5c4f947a02b24c6f18304667b4f11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/22/57851a275cf1ebb22cbd16f592b070221.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/22/c84d69584aa6219e0cd0916b0e5d60dd1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/22/74da59c35ba0b96964204f7a824e150e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/22/f081d262823cf4ce70ed21d2583b600e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/22/17a676169ddf654613ae7b6dc4b51d6f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/22/a1606f0b328fca882c9da7b8ee22ed0d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/22/45506d32cd860b1d849639f144ca477a1.png"
+	]
+}

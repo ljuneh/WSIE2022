@@ -1,0 +1,44 @@
+{
+	"id": "6865234",
+	"name": "녹두가루를 이용한 청포묵 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/96ccc57098991683ab5f798950e9b6611.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865234",
+	"ingredient_ids": [
+		497,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "녹두가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 녹두가루를 종이컵 한컵을 계량한다",
+		"2. 생수 4컵을부어 골고루 뭉치지 않게 저어준다 녹두가루:생수 = 1:4",
+		"3. 중불에서 몽글몽글 투명해질때까지 타지 않게 저으면서 끓여준다~",
+		"4. 껄쭉하고 빡빡해지면 소금과식용유를 넣어잠시 끓인후 불을 껀다",
+		"5. 사각용기에 물로 헹궈 물끼있는 그대로 끓인 것을 부어 평평하게 한후 실온에서 2시간 굳힌다~ ※이때 냉동실이나 냉장고에 넣어서 식힘 묵이 딱딱해져 맛이 없어요~",
+		"6. 2시간후 이쁘고 탱글한 청포묵 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/c01012c69a67554df5b4296382f0aeb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/2dc8b2b7269769bf09f2ec3dac3e9cfd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/b25e80b09f7f6b52e5ddf74bcc60067f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/7494a8e918a2e230198bd164c92082c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/9ab64ffe2775c70747f8e7df3cb129cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/904fcc278d5ba28f5fc01956a4aaa8211.jpg"
+	]
+}

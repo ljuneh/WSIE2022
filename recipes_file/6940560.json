@@ -1,0 +1,69 @@
+{
+	"id": "6940560",
+	"name": "쉬운반찬 죽순새우볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/20/3795e77d0d314311077f794588971a421.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940560",
+	"ingredient_ids": [
+		39,
+		27,
+		29,
+		79,
+		477,
+		504
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "죽순",
+			"ingre_count": "2~3개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4~5개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "10~12마리",
+			"ingre_unit": "~마리"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료는 요정도 준비했습니다. ((손질된)죽순2~3개, 대파 반대, 마늘 4~5개, 새우 10~12마리",
+		"2. 죽순을 먹기좋은 크기로 길죽하게 썰어줍니다.",
+		"3. 마늘은 편마늘",
+		"4. 대파 쫑쫑 썰어줍니다.",
+		"5. 팬에 기름두르고 마늘과 대파 먼저 넣어서 볶다가",
+		"6. 새우 넣고",
+		"7. 굴소스 한수저 넣고 볶으면서 간을 보고 굴소스를 추가해주세요.",
+		"8. 죽순과 새우 익으면 완성!!",
+		"9. 간단한 반찬 죽순새우볶음 접시에 담아서 식탁에 올려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/20/e50aa744482ba7034e4295dc599afd291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/20/fed47ca6bc00714da1f46ef315b4b5a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/20/8303301c6728619a478dbe41bef3352b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/20/6bbb1deb0ae31d709aeb9256c9d9e99c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/20/2ec1e9eec6901ced4431bf8c610e14f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/20/a3450b7313813c43014836fde9927a711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/20/0add144e31402728d86ee6786baeb6e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/20/8b0c4a965e992b06791d873be2df90bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/20/5502ca2958b0711c0a1d49bc842c987a1.jpg"
+	]
+}

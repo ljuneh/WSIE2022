@@ -1,0 +1,97 @@
+{
+	"id": "6876046",
+	"name": "영양찰밥 연잎밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/e97507526ce7ac2d9f54ce338e5a7d741.jpg",
+	"url": "https://www.10000recipe.com/recipe/6876046",
+	"ingredient_ids": [
+		99,
+		115,
+		101,
+		184,
+		197,
+		189,
+		132,
+		188,
+		497,
+		602
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "팥",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "기장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "땅콩",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "해바라기씨",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "은행",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "연잎",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 찹쌀은 4-5시간 물에 담가준다",
+		"2. 기장도 4-5시간 물에 담가준다",
+		"3. 팥 삶아주기팥은 한번 살짝 삶아 물은 버리고  다시 물을 넣고 삶아주어야 팥의 쌉살한 맛이 없어짐니다 ",
+		"4. 은행은 팬에 기름을 두르지 않고 볶아 껍질을 벗겨준다",
+		"5. 호박씨와 땅콩은 끓는 물에 살짝 데쳐 헹구어 준비",
+		"6. 찹쌀과 기장 삶은 팥 땅콩을  찜통에 넣고 쪄준다",
+		"7. 팥 삶은 물에 소금을 약간 넣고 찌는 중간에 2-3번에 나 누에  뿌려주면서 섞어 주어야 부드럽고 맛있는 밥이 됩니다",
+		"8. 찜통에 40분 쪄주면 맛있는  영양 찰밥이 완성됩니다 영양찰밥 그대도 먹어도 맛있답니다",
+		"9. 연잎을 깔고 영양찰밥을 올려놓고 대추 은행 잣을 올려놓고 싸줍니다",
+		"10. 찜통에 넣고 져주면 연잎 향이 가득한 영양찰밥 연잎밥 만들기 완성입니다",
+		"11. 이렇게 만들어 놓으면 야외 나갈 때도 좋고 냉동에 보관했다가 바쁜 직장인들 든든한 아침식사 대용으로도 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/2224f5ac950c75c5309c01312bafb9f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/faa45af8160011d0157f2baf42aa5bb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/c6d4f10128a6b1a6ed4b77fdb21ad2b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/03fb7722a42442b13cae276d7fdf78351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/6f006a576e6f272cca95e44382a525151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/dd71ba3e3cf9c81ce8108650db45474e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/af84b8e88d308e80c7b460d3609391a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/3da01f048d3697d39f5dc18533a217aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/b928c30116c344c20d74221ef823da2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/7c6af7fa551160d30f8723bba2f5ac191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/08/6af285e28eb8ba8fbb54ac553fee0c511.jpg"
+	]
+}

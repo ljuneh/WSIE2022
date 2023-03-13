@@ -1,0 +1,70 @@
+{
+	"id": "6945192",
+	"name": "밥솥 생선미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/1015ef1e146b711fe11804452189b2051.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945192",
+	"ingredient_ids": [
+		995,
+		3,
+		19,
+		996,
+		91,
+		349,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "생선살",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "250",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "멸치가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비는 매우 간단해요. 밥솥에 해동된 생선살140g, 양파1/4개 썬것, 무 채썬 것 한 줌, 멸치가루 1T, 국간장 1T, 미역 자른 것 2T, 물은 눈금 2까지(250ml) 넣고 재가열 9분 해주세요  *미역 불리지 않고 마른 것을 씻어서 바로 넣으셔도 돼요  *생선으로 국이나 탕을 끓이실 때 비린 맛을 잡기 위해 무는 필수예요  *칼칼하게 드시려면 고춧가루 한 두 꼬집 넣어주셔도 좋아요 *생선은 흰살 생선 중 비린 맛이 적고 담백한 생선으로 하세요",
+		"2. 재가열 한번 해준후 다시 국안에 생선을 뒤집고 재가열 9분 한 번 더 해주세요 *이때 수제비 뜯어서 넣으시면 수제비 미역국으로 해서 만들 수 있어요. 수제비 넣기에 물이 부족하면 끓는 물을 좀더 부어주셔도 좋아요. 모자른 간은 마지막에 양념장 첨가해서 맞추시면 돼요 *양념장 (간장 2T, 고춧가루 1/2t, 마늘가루(다진마늘) 1/2t, 참기름 1t, 다진파)",
+		"3. 다된 후 참기름 1T넣고 섞어주세요",
+		"4. 완성이에요. 원기회복에 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/9c3028e6fb81a014faee135cd6d0843d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/b84c6280b31d221f2071902437e759d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/d49c92b4ffc78a1f1b611e9a010a3bc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/24dbe77d6b7f2ef1110332d3b3f0c5e21.jpg"
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"id": "6942224",
+	"name": "간단 한그릇 요리 치킨너겟 덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/b60be02394ebb0cc1f4a54a520bbffa51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942224",
+	"ingredient_ids": [
+		3,
+		52,
+		228,
+		30,
+		379,
+		995,
+		575
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "치킨너겟",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 치킨너겟은 에어프라이어에 180도, 10분 구워주세요. 에어프라이어",
+		"2. 숙주는 깨끗이 씻어주고 양파는 채 썰어주세요.",
+		"3. 양념소스를 만들어 보도록 할게요. 간장 1T, 물 1T, 올리고당 2t, 후추 조금을 넣고 섞어주세요.",
+		"4. 후라이팬에 기름을 두르고 계란 1개를 먼저 스크램블 해주세요. ",
+		"5. 스크램블 에그는 그릇에 담아주고 채 썬 양파를 볶아주세요.",
+		"6. 어느 정도 볶아졌다면 양념소스를 넣고 끓여주세요. ",
+		"7. 양파에 양념이 잘 베였다면 숙주를 넣고 가볍게 한 번 더 끓여주세요.",
+		"8. 그릇에 밥을 담고 계란은 가 쪽으로 둘러주세요. 밥 위로 볶아준 재료를 올려주세요.",
+		"9. 구워둔 치킨너겟은 먹기 좋은 크기로 잘라 올려주세요. 부추도 쫑쫑 썰어 조금 올려주고 마요네즈 뿌려주면 최종 완성이 돼요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/9c88c6426a4910b277067f5ca1990d371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/125a8461dd8385631425848c89c7ca871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/4cfd53aeb572c492cf258de5d53780a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/902899f07b8c222456ed1bc9b8ed38541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/8637bce4d3ec631c14c8491a30cba3e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/f303b51218acca54c29d0dd50dd705951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/ad442b887e32998a04d15851ef791ae41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/2c9af90d447db585f6d0ed6898be40341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/195481f00d438a3fffe5ef48d5c3797d1.jpg"
+	]
+}

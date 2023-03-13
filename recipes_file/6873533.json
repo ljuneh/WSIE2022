@@ -1,0 +1,71 @@
+{
+	"id": "6873533",
+	"name": "감자로 뚝딱 만들어내는 아이들간식~감자채피자",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/26/2100781b491825088fda6cb8d53210971.jpg",
+	"url": "https://www.10000recipe.com/recipe/6873533",
+	"ingredient_ids": [
+		212,
+		865,
+		724,
+		504,
+		734
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "중간크기감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "2",
+			"ingre_unit": "줌정도"
+		},
+		{
+			"ingre_name": "스파게티소스",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1-2스푼",
+			"ingre_unit": "-스푼"
+		}
+	],
+	"recipe": [
+		"1. 감자는 껍질을 깍아 얇게 채썬후 찬물에 여러번 헹궈 전분끼를 잘 씻어냅니다",
+		"2. 2에 튀김가루 1-2스푼을 넣고 잘 버무려줍니다",
+		"3. 팬에 식용유를 넉넉히 두른후 3을 넣어 노릇하게 부쳐줍니다",
+		"4. 다른면도 뒤집어서 노릇하게 부쳐줍니다",
+		"5. 4에 스파게티 소스 2스푼을 펴바르고 케찹도 취향껏 뿌려줍니다",
+		"6. 5에 모짜렐라치즈를 듬뿍 올려줍니다",
+		"7. 오븐에 치즈를 노릇하게 구워냅니다(오븐이 없으시면 팬에 약불로 치즈가 녹을때까지 뚜껑을 덮고 구워주심됩니다)오븐",
+		"8. 노릇하게 구워진 피자위에 파슬리가루 뿌려주세요.파슬리가루 없으시면 패쑤요~~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/26/e517086523f5b82d7ed87d2bc3cb54511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/26/f3ccb0110855491caedfd7f529207f571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/26/08482f64a18a73acaafe6fcfbebd7ca51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/26/3740436e3228f9d5eeef64908123c8951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/26/8459b333c82f0dc42dfafa644d68c2e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/26/5f23e808119a85dd1a99494c7c7d26c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/26/f006939a446b4fc14c98fbe11769c4f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/26/fae1bd64bfb5775015a90055c3b0c62c1.jpg"
+	]
+}

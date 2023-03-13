@@ -1,0 +1,51 @@
+{
+	"id": "6868102",
+	"name": "칵테일새우 요리 새우볶음밥 와따요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/30/cdd23734fe79d7cca62eda091d2e6f541.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868102",
+	"ingredient_ids": [
+		563,
+		477
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "칵테일새우",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "게란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 먼저 계란스크램블을 만들어주는데요. 다된후 그릇에 따로 덜어놔주세요.                   ",
+		"2. 새우는 한번 씻어서 꼬리를 따고 준비해주시고 각종 자투리 야채들 썰어서 준비해줍니다. 저는 이날 양파밖에 없어서 양파만 준비했어요~",
+		"3. 이제 본격적으로 만들기 시작! 먼저 후라이팬에 기름을 살짝 두르고 새우를 넣고 청주1스푼 소금 한꼬집 후추톡톡 넣어 볶아줍니다.",
+		"4. 반정도 익힌후 야채를 넣어 볶아줍니다. 너무 양파만 있는것 같아 색깔이 안예뻐서ㅜㅜ 대파도 살짝 썰어서 넣어주었어요~",
+		"5. 양파가 투명해지면 만들어둔 스크램블 넣어 같이 볶아주구요.",
+		"6. 밥도 넣어 골고루 잘 섞이도록 볶아줍니다.                   ",
+		"7. 굴소스 2스푼정도 넣어 볶아주면 끝! 혹시 다들 입맛이 조금씩 달라 짤수도 있으니 우선 1스푼 정도 넣고 간보면서 추가하심 될것 같아요~!                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/5de048071f35de51c68d6f5f40e4b5641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/541b18e409e87484b671464bf4f66bd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/2f0dce7f406efbea573e4a185bfa90411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/c8a85e88ca9f8eff91b1e5dc9ea131f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/c23ef88024c5580f8ba489e3c43760951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/e1aa98bcc97720551ceb5acb7eaab0831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/11/d6808717777912ce8aa5831cb9d0def81.jpg"
+	]
+}

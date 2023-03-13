@@ -1,0 +1,80 @@
+{
+	"id": "6825920",
+	"name": "부추전 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/1ad994be9a3255f36c9f63160d23a17e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6825920",
+	"ingredient_ids": [
+		30,
+		3,
+		9,
+		325,
+		234,
+		579,
+		497,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "시즈닝",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1/2",
+			"ingre_unit": "잔"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주시구요...",
+		"2. 당근, 호박, 양파를 채 썰어주시구요...",
+		"3. 부침가루 아닌 일반 밀가루에 바삭함을 주기위해 소주와 시즈닝 1큰술을 넣어주시고,",
+		"4. 반죽에 채소를 넣고 슬슬 비벼주세요.  막 비비면 부추가 짓물러지기 때문에 슬슬 아기 다루듯 비벼주심 되어요.  간은 소금을 살짝 하셔도 되구요.",
+		"5. 바삭하게 부추전을 만드는 비결은 바로 후라이팬이 뜨거워졌을때 기름을 넣어서 뜨거워지면 그때 반죽을 적당량..(반국자정도)넣어서 얇게 펴주시는게 비결이어요.",
+		"6. 그리고 앞뒤로 노릇노릇 굽기!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/2209300ff18f85c19efe8c072dfbdd1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/80f41b6c2ec612c7e810a36f9e9c0eea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/f0d6cacd77e66683c5f95cec60b0b3ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/63c87c38b3efa10f8448510e33a5714e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/acd3e34af4aa6361b4a74337edcffb251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/701568e5f1579a7621bfc8bcaf9e02651.jpg"
+	]
+}

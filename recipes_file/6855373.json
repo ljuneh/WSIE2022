@@ -1,0 +1,129 @@
+{
+	"id": "6855373",
+	"name": "알탕 쉽고 맛있게 끓이는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/2ac20d2f97567f8e4ce6a9f8f04040f81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6855373",
+	"ingredient_ids": [
+		701,
+		19,
+		3,
+		47,
+		20,
+		27,
+		295,
+		971,
+		379,
+		224,
+		292,
+		665,
+		497,
+		29,
+		455
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "동태알",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "곤이",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오만둥이",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 알과 곤이, 오만둥이는 소금물에 담갔다 찬물에 씻어놓고",
+		"2. 무는 얇게 나박썰기하고 나머지 채소도 손질해 썰어줍니다",
+		"3. 위의 양념 재료를 모두 섞어줍니다",
+		"4. 냄비에 물을 반 정도 붓고 무를 넣고 양념을 넣어 고루 풀어 끓으면",
+		"5. 양파, 콩나물, 알, 곤이, 오만둥이를 넣고 한소큼 끓여줍니다",
+		"6. 재료들이 익었다 싶으면 대파, 미나리, 청양고추를 넣고 한번 끓여줍니다",
+		"7. 알탕이 완성되어 넉넉히 담아봤어요~ 간장에 식초, 설탕을 넣고 섞어 맛간장을 만들어 종지에 담고 고추냉이를 조금 넣어주었어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/9185915620e0bc31985edadf6321eb571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/ec6c6d28d372b1acd2275ecb77fc1ac31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/4f9b2945e8df4f63703f8de532dbd0131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/d9ed73847407e05666247beec10687781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/99bc0bed1bb12e5d4ac79af4988686dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/ed4d04093aa2747d5768e36819bc2a5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/cf284da55eccda4306e9ac9d369a4ca41.jpg"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"id": "6496618",
+	"name": "호박식혜 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/c9c1dfd5777e4fa2dd7a52c2933144291.jpg",
+	"url": "https://www.10000recipe.com/recipe/6496618",
+	"ingredient_ids": [
+		995,
+		96,
+		995,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "엿기름",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "6",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "C"
+		}
+	],
+	"recipe": [
+		"1. 엿기름 500 g을 베주머니에 담아 미지근한 물 2 L을 부어둡니다. 첨엔 맹한듯 하지만 엿기름이 좀 불은듯하면 베주머니를 조물조물해 엿기름의 맛을 빼냅니다. 엿기름을 빼낸 물은 찌꺼기가 가라앉게 가만 두고 다시 물 2 L을 받아 베주머니를 담궈두세요. 뽀얗게 우러나면 조물조물해 엿기름을 우린 후 옮겨두고 다시 물 2 L 받아 조물조물 우려내세요.",
+		"2. 쌀 2 C으로 고실고실한 밥을 지어 첫번째 가라앉힌 물을 부으면서 꼭 설탕 1 T를 넣어주세요. 발효가 잘되거든요.",
+		"3. 전기밥솥을 보온상태로 둔 후 3-4시간(밥솥마다 조금씩 달라요) 지나 뚜껑을 열었을 때 밥알이 동동 떠오르면 발효가 다 된거예요.",
+		"4. 큰 냄비에 옮겨 담은 후 2.3차로 우린 엿기름도 부은 후 펄펄 끓입니다. 이 때 떠오르는 거품은 걷는게 맛이 깔끔합니다. 호박을 안넣으시면 마른고추나 생강 한쪽, 또는 유자껍질을 넣고 같이 끓이면 향이 좋습니다. 단맛을 내려면 엿기름의 단맛만으론 부족해 설탕 2 C(기호에 따라 조정)을 넣고 끓여 식힙니다.",
+		"5. 단호박을 삶거나 렌지에 익혀 믹서기에 넣고 갈아 체에 걸러 넣고 같이 끓이면 단호박식혜가 됩니다.",
+		"6. 식혜 위에 밥알을 동동 띄우고프시면 식혜가 전체적으로 한번 끓으면 밥알을 건져 찬물에 헹궈 뒀다 마실 때 조금씩 띄워드세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/e78565369cf373aa0bde0c7a43823e9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/4306190835f4ea818f08342249076a411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/6255eeda10d8ce4d702379fcdcb5315c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/2c2a4508c3fc221cb463a8ed469efd351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/f2141fdbdc3b5612a36ebfa9c04bb2b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/fa8ee57ef9fa2493a6a43a54bdb1232a1.jpg"
+	]
+}

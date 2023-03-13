@@ -1,0 +1,106 @@
+{
+	"id": "6877033",
+	"name": "감자조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/3a070a98e1b7533101d46c5da3533b0f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6877033",
+	"ingredient_ids": [
+		5,
+		504,
+		547,
+		226,
+		341,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "4~5개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "양파(생략가능)",
+			"ingre_count": "1/4~1/2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "당근(생략가능)",
+			"ingre_count": "1/8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘(생략가능)",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추(생략가능)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "10~15cc",
+			"ingre_unit": "~cc"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "3~5cc",
+			"ingre_unit": "~cc"
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "75",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "45",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "15",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "물(쫀득.보통)",
+			"ingre_count": "100~200cc",
+			"ingre_unit": "~cc"
+		},
+		{
+			"ingre_name": "물(푸석하게)",
+			"ingre_count": "300~400cc",
+			"ingre_unit": "~cc"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "5~7.5cc",
+			"ingre_unit": "~.cc"
+		}
+	],
+	"recipe": [
+		"1. 감자5개를 세척및손질해 자르고 물에 담가놓았다 물기빼기",
+		"2. 마늘5개.양파1/4개.청양고추1개 잘라준비하기(생략가능)",
+		"3. 양조간장75cc.설탕45cc.물엿15cc에 물200cc넣고(쫀득.보통100~200cc.푸석하게300~400cc) 조림장만들기(간장은 감자1개당15cc계량)",
+		"4. 팬에 식용유15cc두르고 감자 테투리가 투명해질때까지 볶기",
+		"5. 테두리가 투명해진 감자에 마늘5개.당근1/8개.청양고추1개넣고 투명한 감자테두리가 없어질때까지 볶아주기",
+		"6. 조림장을 부어 자작하게 조려주기",
+		"7. 자작하게 조려진 감자에 양파넣고 국물없이 조리기",
+		"8. 다 조려지면 참기름5cc 두르고 참깨3cc뿌려주기(참기름을 5cc이상넣으면 기름향이 강해지고 단맛이 더달게 느껴져요(참기름에 자신없으면 생략하세요)",
+		"9. 조림장에 물200cc넣고 조린 알맞게 익은 감자조림 - 장시간보관용이함",
+		"10. 조림장에 물400cc넣고 푸석하게 익힌 감자조림 - 밥에 비벼먹기 좋음"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/f39baaaf95d91541cf6d048070b354f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/b139de4d1a40894d159a466971430e1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/a45a9b3ae96b003034c1554cd7857ad61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/056156a52712075209cfa9558dd69e091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/e21b26eb8f4f8a2096dbd2f778aa19a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/38c7d360edc35c235db819aed2c259131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/e0890dbcf275cf3033951510b61182a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/b76817e72af561a90e88b62241f7946f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/5895a5854410bd1692eb8979af12a7231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/25/0b913e8110139b424de8bf6f32fd62601.jpg"
+	]
+}

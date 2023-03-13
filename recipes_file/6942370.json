@@ -1,0 +1,114 @@
+{
+	"id": "6942370",
+	"name": "얼큰한 굴순두부찌개 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/d7fa4582d04954d22f9e8db9aba8ac871.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942370",
+	"ingredient_ids": [
+		498,
+		82,
+		219,
+		3,
+		27,
+		660,
+		939,
+		574,
+		233,
+		455
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "순두부",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "굴",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시육수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "불린미역",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 미역을 물에 2분간 불려주세요.  미역을 불리지않고 바로 넣어줘도돼요.",
+		"2. 굴은 소금물에 가볍게 씻어 물기를 제거해주세요.",
+		"3. 예열한 냄비에 올리브유를 넣어주세요.",
+		"4. 다진마늘과 생강가루를 넣고 볶아주세요.",
+		"5. 마늘과 생강을 볶다가 불을 끈 다음 고추가루를 넣고 양념장을 만들어주세요.  만들어진 볶은 양념은 그릇에 옮겨주세요.",
+		"6. 냄비에 참기름을 넣은다음 양파가 투명해지도록 볶아주세요.",
+		"7. 양파가 볶아지면 다시육수를 넣고 끓여주세요.",
+		"8. 국물이 끓어오르면 순두부와 미역을 넣어주세요.",
+		"9. 볶은 양념장을 넣고 5분간 끓여주세요.",
+		"10. 굴을 넣어주구요.",
+		"11. 달걀을 넣고 한소큼 끓인다음 액젓이나 국간장 혹은 소금으로 간조절을 해주세요.",
+		"12. 마지막에 대파를 넣어주면 얼큰하고 맛있는 순두부찌개가 완성돼요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/e34c188196841df16c3e6597eaa0c4e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/59845d281ac6d3fa87e4240ef33d9fee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/9d372d2bb3b20b33ad3b32d7ca0288f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/3ac89dab66d4dd53837683ecc521c3a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/df0e4f738805eef21b994fb3964ea40a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/729fc72e094d55d79afce86c38b294161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/97278e09635498adb4291ab750595b1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/5001c02346ff6ee95aa7d2a8a2ccec491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/16aa19537c6d58ac62b203a5340aaafb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/f2cee4e5a5c6a2ad83eeb950a33f02f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/e1b4c8cbc3fe7229e3c267bd352b5b471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/0a4afb07cbcbd27b26a4df65a88f88ee1.jpg"
+	]
+}

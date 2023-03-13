@@ -1,0 +1,47 @@
+{
+	"id": "6945569",
+	"name": "빼빼로데이 선물로 좋은 커피땅콩 아몬드로 만들기~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c7f72ec9c0ca1d6d6b2cc0c8a2dfc1de1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945569",
+	"ingredient_ids": [
+		193,
+		226,
+		471
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "아몬드",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "계피가루",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 물 100g에 설탕1T를 넣고 끓여주세요.",
+		"2. 그리고 계피가루 1/3T를 넣어주세요.",
+		"3. 이상태에서 그냥 끓도록 나두면 됩니다. 절대로 섞어주면 안됩니다~ 안섞어줘도 그냥 끓어오르면서 섞이니 걱정마세요~",
+		"4. 물의 농도가 시럽같이 되면 아몬드를 넣어주세요.",
+		"5. 이제 불은 중약불로한 후 실리콘주걱을 이용해서 잘 섞어주면 됩니다",
+		"6. 시럽이 굳어 이렇게 가루가 생길때까지 계속 잘 섞어줍니다.",
+		"7. 모든 가루가 아몬드에 잘 달라붙으면 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/429f164661745938c8a01f0113938d9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/dad53d1b6a05d413f6d3b4b3c6548f601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/d37c221aa8e3f0acc8e422389385c9821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/abedf65b946355c185fe197f26b7d13e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/be0818dbb38d6b10b8f51765359c215d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/d8744eafd877eed4abdbc7d087334ff31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/6194a2ac15a7d1d182be358b1756b7431.jpg"
+	]
+}

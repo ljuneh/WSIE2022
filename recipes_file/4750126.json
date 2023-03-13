@@ -1,0 +1,77 @@
+{
+	"id": "4750126",
+	"name": "면역력 높여주는 봄요리 씀바귀무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/3e7f964d7599274e290bd7561691b5e0.jpg",
+	"url": "https://www.10000recipe.com/recipe/4750126",
+	"ingredient_ids": [
+		697,
+		497,
+		848,
+		473,
+		226,
+		497,
+		231,
+		660,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "씀바귀",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 씀바귀는 딱딱한 부분은 다듬어서 씻어주세요. 물에 씻어 흙을 털어내고 베이킹소다를 좀 풀어서 담궈두세요.",
+		"2. 4~5cm길이로 잘라줍니다.",
+		"3. 씀바귀는 끓는물에 소금을 약간 넣고 살짝 삶은뒤에 찬물에 담가 쓴맛을 좀 제거합니다.",
+		"4. 양념에 무쳐내고 접시에 담아내면 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/da3133f2ffa1dd3fb7d0cd423e42e0c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/1780d12cb2d746a69bee2e89bd6d8dff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/1f144dcf69cbdf0a96edba7cf6ae10bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/ddae2cfcb7c429add26180de973db47d.jpg"
+	]
+}

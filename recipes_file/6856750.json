@@ -1,0 +1,98 @@
+{
+	"id": "6856750",
+	"name": "추석 베이킹ㅣ호두 만주 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/17/c0fc8e8a7d5954193f9f3f70be8e27f71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6856750",
+	"ingredient_ids": [
+		198,
+		373,
+		497,
+		341,
+		226,
+		907,
+		194,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1/2",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "7",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "75",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팥앙금",
+			"ingre_count": "360",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "계란노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 계란을 거품이 나지 않도록 풀어준 다음 버터, 설탕, 소금, 물엿을 넣어주셍",
+		"2. 약불에 올려 설탕과 버터가 녹을 정도로 가볍게 저어주세요",
+		"3. 냄비를 불에서 내려 체친 박력분과 베이킹파우더를 넣고 주걱으로 #자르듯이 섞어주세요",
+		"4. 반죽을 비닐에 넣고 냉장고에서 30분간 휴지시켜주세요",
+		"5. 팥앙금을 20g씩 분할해주세요",
+		"6. 휴지한 반죽에 덧가루를 살짝 뿌리고 15g 분할해주세요",
+		"7. 반죽을 납작하게 눌러준 뒤에 팥앙금을 올려주세요",
+		"8. 손으로 살살 모아주며 둥글게 만들어주세요",
+		"9. 쿠키팬에 만주를 올려 손으로 살짝 누르고 윗면에 호두를 올려 눌러주세요",
+		"10. 계란노란자에 물한스푼을 섞은 계란물을 윗면에 발라주세요 180도로 예열한 오븐에서 15분간 구워주세요오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/08/058d4033658bf6140e375a51b43cfd471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/08/8d33a7728294255f05ca3a22dd28b2291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/08/f7aecf702c5d1790d242402afc75777a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/08/83fe51a54fa8669c93cd840b4006fd841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/08/24667a970c4dfb28dc845227003b9ee51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/08/b4749e97b146ac6ca732471b2d6022e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/08/ade92a761102cf34d7a38f63a57fd9111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/08/b8fbc04eb609885267446b46850008281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/08/6175f29a7734d881f72fc660422c4cf31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/08/0080cd26f607d7713c8efef37babd6c71.jpg"
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": "6945560",
+	"name": "[자취요리] 냄비밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/df2a177c4b02155f1317074f2c7cd5781.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945560",
+	"ingredient_ids": [
+		96,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "종이컵"
+		}
+	],
+	"recipe": [
+		"1. 쌀을 두세번 씻고 30분정도 불린다. 물은 쌀이 불기전양과 1:1비율로 맞춘다.쌀 불리는 작업없이 밥을 짓게되면 딱딱한 쌀밥을 맛보게됩니당 !",
+		"2. 인덕션온도 140도(가스레지는 중불)에 맞춘다.인덕션",
+		"3. 보글보글 끓으면 그냥 냅둔다.",
+		"4. 거품이사라지고 물양이 줄고 밥에 구멍이 생긴다. 이 상태에서 물양이 살짝 더 줄면",
+		"5. 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/8741fd2ad83e75120c47ee1c197194c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/4ca38f798662cf28b5f5c25a7ec586231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/65234e76f05163f3bc32499422fb7d1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/ab647f4d4577295209dc5d9b3d399a631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/4ff5084faf3e89f1ae7a94632489944b1.jpg"
+	]
+}

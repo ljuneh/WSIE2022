@@ -1,0 +1,77 @@
+{
+	"id": "6918300",
+	"name": "오늘 저녁은 채식위주로??? 에어프라이어표 버섯채소구이 ★",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/08/23/dde5c3f44d10f5f8f55ac6fb181388ce1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6918300",
+	"ingredient_ids": [
+		58,
+		54,
+		3,
+		18,
+		7,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빨강파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노랑파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "5",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 버섯과 채소는 모두 한입 크기로 썬다.",
+		"2. 볼에 버섯, 채소를 담고 소금, 후추, 올리브오일을 뿌려 섞는다.",
+		"3. 에어프라이어 바스켓에 섞은 재료를 담고 180도 온도에서 10분간 돌려 완성한다.에어프라이어중간중간 뒤적여주면 고루 익어요,"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/23/faec92945ed40278e3b44cd4d841db581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/23/e917d249170aaa770285f859120daf4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/23/ec682ce688439c87ec1a030690a2ab171.jpg"
+	]
+}

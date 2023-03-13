@@ -1,0 +1,119 @@
+{
+	"id": "6941837",
+	"name": "당면 샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/2a8cadc0248cfd5f4e07f2804a88b56d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941837",
+	"ingredient_ids": [
+		302,
+		219,
+		3,
+		8,
+		628,
+		57,
+		379,
+		231,
+		226,
+		938,
+		27,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "당면",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "목이버섯",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 당면은 찬물에 30분 정도 불려줍니다.",
+		"2. 대파는 송송 썰어줍니다.",
+		"3. 팬에 참기름2큰술 정도 넣고 가열해 줍니다.",
+		"4. 가열한 참기름을 대파에 섞어 파 기름을 만들어줍니다.",
+		"5. 양파는 채 썰어줍니다.",
+		"6. 오이는 돌려 깎아 채 썰어줍니다.",
+		"7. 햄도 채 썰어줍니다.",
+		"8. 목이버섯도 채 썰어줍니다.",
+		"9. 달걀은 소금 간을 한 후 잘 풀어 지단을 만들어 채 썰어줍니다.",
+		"10. 달군 팬에 기름을 두르고 양파가 투명한 색이 될 때까지 볶아줍니다.",
+		"11. 햄도 볶아줍니다.",
+		"12. 목이벗서은 살짝 볶아줍니다.",
+		"13. 파 기름, 간장, 식초,설탕,매실청을 넣고 잘 섞어 양념장을  만들어 줍니다.",
+		"14. 끓는 물에 불려 놓은 당면을 5분정도 삶아줍니다.",
+		"15. 삶은 당면을 찬물에 헹궈 체에 밭쳐 물기를 완전히 제거해 줍니다.",
+		"16. 볼에 당면, 썰어놓은 재료와 양념을 함께 넣고 잘 버무려줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/b09bc2da9384ef5f8da8b6ba47d3feeb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/430c4216c48ebc5866796b441ffb32aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/2c9512d02f86ff45143fe4dc0ab620821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/ad7e1dc55796d4cc9d01547df42aab0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/4da356268d03a99a0392be97e0f5f5721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/2c1ba529ad8a8f7e1971b8daff295e391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/1017ab15b6f3cf960b4b860d692767eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/c83d66efa0e26168d09c4bb265a277931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/1e5bdf9f421168012fe4f5d8c089bce91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/5379042fba7253b0cf0fb80df82361411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/8317a1d0e14c7e41a92ff44a3c62d5141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/8313207e1796ad97a6c52c323cae38bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/60eb3697a62abbe0f8d34dbbfc6ef3ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/0fd0e4d5bc92d625640f8a6ccb175fbc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/fa2d14d5498bee21b00b6099dbf4fa291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/9d1d5bd14d1767731dc08f65389804861.jpg"
+	]
+}

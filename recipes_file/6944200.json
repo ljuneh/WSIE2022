@@ -1,0 +1,111 @@
+{
+	"id": "6944200",
+	"name": "밀가루 없이 피자 만드는 법 계란 피자 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/2eebbf7ec233e3768b839c759491193e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944200",
+	"ingredient_ids": [
+		212,
+		732,
+		504,
+		3,
+		406,
+		371
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "토마토소스",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "노란파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빨간파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "4",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "블랙올리브슬라이스",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 양파, 노란 파프리카, 빨간 파프리카는 채썬다.",
+		"2. 방울토마토는 반으로 썬다.",
+		"3. 소시지는 0.5cm 간격으로 썰고",
+		"4. 볶는다.",
+		"5. 베이컨은 2cm 간격으로 썰고",
+		"6. 볶는다.",
+		"7. 계란은 원하는 조리도구로 곱게 푼다.",
+		"8. 팬에 식용유 2T를 두르고 키친타올로 가볍게 닦은 후 계란을 넣어 지단 만든다는 생각으로 익힌다.",
+		"9. 계란 밑면이 완전히 익고 윗면이 70% 정도 익은 상태에서 뒤집개를 사용해서 뒤집은 후",
+		"10. 토마토소스를 바른다.",
+		"11. 그다음 양파, 노란 파프리카, 빨간 파프리카, 소시지, 베이컨을 올리고",
+		"12. 모든 토핑 재료를 덮어 준다는 생각으로 모짜렐라 치즈를 뿌린다.",
+		"13. 마지막으로 방울토마토, 블랙 올리브 슬라이스를 올린 다음",
+		"14. 뚜껑을 닫아 모짜렐라 치즈가 있을 때까지 익힌다.",
+		"15. 모짜렐라 치즈가 다 녹은 상태가 되면 뚜껑을 열고 파슬리가루를 뿌리면 계란 피자 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/c700a2485b4f8b7db6420cde6ac94cbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/3b068076e418cd3dfcbb6738f87c78251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/e6d6afd545e45d722bdf0dc029afc7321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/7e48e85333fbc17a406d6b3b005313291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/70133d4e0086837ed78f60b79f9aeed11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/289b642a605d5a77ff321b5807d563541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/37419ad9b82160f532c5678863c4dcfd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/434950cee781be6f84e8fec637447e331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/bbc52fbf246e42476554e24a3253c2f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/1b2074ce3999ff3cd8c892f76d13647c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/230d2dc1f0863d276e5e4b1499983bf11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/17cd7950b745a98093d6ac23db5d88ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/3bedd72e1c71a8956b480826cfb41b2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/5bb00c91e2610ef483e24a948f34dd5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/656e72ada470ec18e3a7034f51863deb1.jpg"
+	]
+}

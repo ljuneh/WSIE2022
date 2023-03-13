@@ -1,0 +1,87 @@
+{
+	"id": "1827495",
+	"name": "삼각김밥 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/13/255554a1175f27ab8f49ce86718034a8.jpg",
+	"url": "https://www.10000recipe.com/recipe/1827495",
+	"ingredient_ids": [
+		953,
+		660,
+		543,
+		497,
+		660,
+		226,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "호두멸치조림",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 밥 1공기에 참기름(1),통깨(1),소금 약간 넣고 고루 잘 섞어주세요. 파는건 어떤 맛인지 모르겠지만 초밥이 아닌 주먹밥이라 요렇게 조미를 했어요.",
+		"2. 김치 송송 썰어 수분 꼭 짜고 참기름, 설탕, 깨소금 넣고 무쳐서 속을 만들어 주세요.",
+		"3. 호두멸치조림 넣고 주먹밥을 만들어주세요.",
+		"4. 요 알록달록한 속의 정체는? 자투리 채소들을(당근, 마늘쫑, 새송이버섯,) 잘게 잘라서 데리야끼소스로 간을 하고 볶다가 감자녹말을 넣고 마무리 볶아준겁니다.",
+		"5. 틀안에 조미한 밥1/3 담고 양념해서 만든 속을 1/3 그위 밥으로 나머지를 채워서 틀을 빼면 요런 삼각 모양의 주먹밥이 쨘 완성됩니다.",
+		"6. 고기, 양파, 새송이버섯을 다져서 볶아서 만들어도 맛있으니 만들어주세요.",
+		"7. 아들이 먹을 건 치즈까지 올려주었답니다.",
+		"8. 삼각김밥만드는 김위에 올려서 삼각김밥을 만들어주시면 됩니다.",
+		"9. 사먹어도 되지만 마음이 담긴 먹거리에는 건강이 담겨있고, 소화제가 필요 없답니다~",
+		"10. 드디어 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/9e8d607db39674f60406da58cd8e3c691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/804bf99b1fb88c4d8b2db42f1bc7b3d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/7bba91147f9704c8f531f89b44a8e3521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/4c42c90a706a4bf8fd8b06270e8945a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/082ccf3406ecbeb14a1d54f6887afac61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/c5d0603fb9f42f7a1bdb5f091fb7d5dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/9abc6c1baa7500a4b6692ddc3f713c4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/a852c771902103324feffe7dbaffcd2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/841437e54bffb22e239825f1f8ca604d.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/1cddff18a266d9f5951d52b1b71c0228.jpg"
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "6838790",
+	"name": "스팸 두부김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/27/ae09aa66bcad93573f96279242ecfea91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838790",
+	"ingredient_ids": [
+		953,
+		3,
+		295,
+		224,
+		226,
+		341,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부맘껏",
+			"ingre_count": "",
+			"ingre_unit": "넣기"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 스팸을 원하는 두께로 썰어주세요.",
+		"2. 기름 살짝 두른 팬에 노릇노릇 구워주세요.",
+		"3.  두부는 끓는 물에 데쳐서 따끈따끈한 두부로 준비해주세요.",
+		"4.  김치는 적당히 썰어 주시고 양파는 두껍게 슬라이스해두시고 청양고추는 씨 빼고 쫑쫑쫑 다져주세요.",
+		"5. 스팸 볶았던 팬에 양파와 청양고추를 넣고 볶아주세요. 기름은 따로 두르지 않고 팬에 묻어있는 기름을 그대로 사용합니다.",
+		"6.  양파에 대충 기름이 코팅됐다 싶으면 김치를 넣어주세요. 더욱더 빨간 색깔을 내주기 위해 고춧가루 2큰 술과 신맛을 잡아주기 위한 설탕 1큰 술, 물엿 반 큰술을 넣고 볶아주세요.",
+		"7. 마무리는 불 끄고 참기름, 설탕, 후추 넣고 가볍게 섞어주세요.",
+		"8. 따뜻하게 데치고 부쳐둔 두부와 스팸을 가지런히 플레이팅하고 중앙에 볶음김치를 딱 올려주시면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/451b835fcd6fe1375b6abc99df2e05211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/6dd431dcad9ba9292d054528301044e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/94398c1a763ebaf5938f4fd56134bb681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/b0abb9da068da54eb0de33525b0be5a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/0c9b00347ecfb2d595708cf4f2bf839b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/d78e3100dd5553c2bff75b9bd515f1b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/4cb2c9543b0571dd2f49d2a0304502f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/144e957d26fc88376fdf93711a1399f41.jpg"
+	]
+}

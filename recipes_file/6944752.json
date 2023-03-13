@@ -1,0 +1,60 @@
+{
+	"id": "6944752",
+	"name": "브로콜리 요리 / 브로콜리 마늘볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/e29b956b95fd1fa8e433875ce31329831.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944752",
+	"ingredient_ids": [
+		11,
+		29,
+		497,
+		225,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 브로콜리는 데쳐서 준비한다.",
+		"2. 마늘은 편 썰어 준다.",
+		"3. 프라이팬에 올리브오일을 넣고 마늘을 볶아준다.",
+		"4. 마늘향이 나면 브로콜리를 넣고 소금, 후추를 넣어 준다.",
+		"5. 마지막에 참기름을 넣어 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/593593586d1cf95bfc9c377834e276801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/40a512e0f74cb19771654f3e7dc522301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/927c8cf9fbbddd4a7bc4e6fa20c6c4ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/facb6697640b0924c07f629c2b9e93161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/5cf50c3b3a80ed7af2e3d3b6eddccb431.jpg"
+	]
+}

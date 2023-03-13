@@ -1,0 +1,56 @@
+{
+	"id": "6942261",
+	"name": "#감자요리 #초간단감자국만들기 #양파와 감자만 있으면 뚝딱 만드는 감자국!!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/769b70a4d5bf224438d2e20c07956b971.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942261",
+	"ingredient_ids": [
+		5,
+		3,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "천연조미료해물육수",
+			"ingre_count": "1",
+			"ingre_unit": "L"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 감차 두툼하게 썰어서 넣어 주고 양파도 비슷한 크기로 두툼하게 넣어 주고요.",
+		"2. 자 육수를 넣어 주고 다진마늘과 참치액젓을 넣어서 팔팔 센불에서 끓여 줍니다.",
+		"3. 감자가 다 익고 중불에서 은근하게 끓여 주면 감자국 후다닥 완성입니다. 마지막으로 간을 보고 부족하면 소금간을 해주시면 됩니다.",
+		"4. 감자가 아주 맛있네요. 달디단 맛이 나는 감자. 거기에 양파도 달고요. 감자국을 끓였는데 단맛이 나는 감자국이네요. 감자국 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/5ce33efb38724fa79c479467c51fdd211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/a4e2630400ecd41b8964daf3efad3e391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/fd9742bfe377b31f5230bbd54891ecb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/e51a17e91ef93b1773a5acd93a79c9861.jpg"
+	]
+}

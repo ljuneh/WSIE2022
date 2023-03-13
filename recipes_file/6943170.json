@@ -1,0 +1,109 @@
+{
+	"id": "6943170",
+	"name": "홍어회무침 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/624925f366b7756ab5d1a3f6690a99621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943170",
+	"ingredient_ids": [
+		20,
+		8,
+		19,
+		543,
+		231,
+		226,
+		497,
+		473,
+		233,
+		231,
+		226,
+		843
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "홍어회",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 무와 오이를 씻어 채 썰어 주세요. - 오이의 씨는 제거해 주세요. (오이를 반으로 가르고, 숟가락으로 쫘악 긁어내면 됩니다.)",
+		"2. 채썬 무와 오이에 식초(1/2컵), 설탕(2큰술), 소금(1꼬집)을 넣고, 20~30분간 절여 주세요. - 무와 오이의 수분을 제거하기 위함 입니다.",
+		"3. 절여둔 무와 오이를 꺼내 물기를 꽉 짜서 제거해 주세요.",
+		"4. 미나리를 다듬어 주세요. - 미나리는 잎을 떼어내고 줄기 부분만 사용했습니다. - 미나리 잎을 떼지 않으셔도 상관은 없습니다. - 미나리 대신 집에 있으신 야채를 사용하셔도 됩니다.",
+		"5. 준비된 재료를 모두 넣고, 양념장에 무쳐 주세요. - 양념장 : 고추장 2스푼, 고추가루 3스푼, 다진마늘 1스푼, 식초 5스푼, 설탕 3스푼, 매실액 2스푼 - 야채를 먼저 무쳐 주시고, 마지막에 홍어회를 넣어 주시면 됩니다.홍어의 향이 강한 경우에는 홍어회를 20분 정도 막걸리에 담궈 두시면 향을 조금 제거할 수 있습니다.",
+		"6. 마지막으로 통깨를 뿌려 주시면 마무리 됩니다. - 개인 기호에 따라 식초와 단맛을 내는 설탕 등의 양념재료를 추가하셔도 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/b37ae4dc0f02b89fbd808546f12db1d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/2c419521c01fbe4953f92ad75eed4e101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/e82b7725d6a554e2cf2a67e8d90d78d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/f997241517089cd598435409467ef9ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/5f5a51f6d7e7ccb979d12219e55b0e431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/6a9c54220daf53aa159ffaa00a35c8931.jpg"
+	]
+}

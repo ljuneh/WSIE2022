@@ -1,0 +1,74 @@
+{
+	"id": "6943740",
+	"name": "카나페 만들기/핑거푸드/와인안주",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/a5ae5b8092a0268e1a94211b0b24ab581.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943740",
+	"ingredient_ids": [
+		984,
+		214,
+		8,
+		228,
+		371
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "크래커",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "델큐브참치",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "3~4알",
+			"ingre_unit": "~알"
+		}
+	],
+	"recipe": [
+		"1. 네모난 델큐브참치,크래커,오이,체다치즈,마요네즈,방울토마토를 준비해보았다",
+		"2. 큐브참치를 키친타올 위에 올려놓고 기름을 빼준다",
+		"3. 카나페 위에 올릴 오이는 얇게 썰어준다",
+		"4. 체다치즈1장을 8등분하였다 8등분해도 카나페에 올리기에 충분했다",
+		"5. 크래커를 접시위에 올려놓고~",
+		"6. 크래커 위에 치즈조각을 올려준다",
+		"7. 그 다음 얇게 썬 오이를 올려준다",
+		"8. 마요네즈를 조금씩 올려준다",
+		"9. 마요네즈 위에 큐브참치를 올려준다",
+		"10. 집에 방울토마토가 없어서 토마토를 잘라서 올려보았다 방울토마토가 있으면 더 좋을듯하다",
+		"11. 간단하게 만들 수 있는 카나페 완성입니다~~",
+		"12. 카나페는 와인과 정말 잘 어울리네요 배고플때 간식으로도 괜찮아요~ 와인안주로 안성맞춤인 카나페 만들어보세용*.*"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/2bbaf1520a6b071971ddc5147b57d2351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/ac177ae1f1823f6765db8f69447273941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/0108750d8c75fa1a1be573747617cde91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/4837ca19808a22a07f00d631b82015221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/77a0007a30c6faf072ede23868d9c3ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/439b0958fbac4fc2718f8fef9f9dbf201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/3d0cfcee554730b09a4b3a5399f9ff3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/e152771cf4b01a26cade4683f66177ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/27fd6e52f49bf2def615db359a530fee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/4e57cf85786e2c5350c19cd3f56f28731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/9e9c026427e02a7cdeb05f0705a73cde1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/a00845b12f7c2ec241aa1e301569b4ea1.jpg"
+	]
+}

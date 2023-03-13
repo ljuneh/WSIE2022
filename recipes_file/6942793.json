@@ -1,0 +1,86 @@
+{
+	"id": "6942793",
+	"name": "깍두기볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/94a3d9c9b4c8b45e39e4a19447b654cc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942793",
+	"ingredient_ids": [
+		757,
+		487,
+		226,
+		327,
+		473,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "깍두기",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "깍두기김칫국물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료:깍두기기2컵,쪽파2대,밥2공기,돼지고기100g또는쇠고기 양념장:설탕0.3큰술+깍두기김칫국물1컵+들기름3큰술+고추장0.5큰술+소금약간",
+		"2. 잘게 썬 돼지고기뒷다리살입니다. 돼지고기 소고기 다가능합니다. ",
+		"3. 깍두기는 잘게 썰어주고 쪽파는 송송 썰어주세요.",
+		"4. 설탕,깍두기국물,고추장을 넣어 양념장을 만들어줍니다.",
+		"5. 팬을중불로 달궈준다음 들기름3큰술을 넣어 돼지고기를 넣어 고기가 익도록 볶아주세요. ",
+		"6. 잘게 썬 깍두기를 넣어 볶아줍니다. 깍두기가익을정도 3분정도 볶아주세요.",
+		"7. 양념장을 넣어 볶아주세요. ",
+		"8. 밥을 넣어 3분간 볶아주세요.",
+		"9. 그릇에 담아 송송 썬 대파를 올려주세요. ",
+		"10. 깍두기볶음밥완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/ef98589de917ff66f81f755be9f75a621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/2d814936b2400f0a9a46fc0907f1a0231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/a53162609917393082f8c5e881481c351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/02b6e2972ae6cb3c97b501b9419bbaf01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/de9fc648c4956887a04990cfcd46e4251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/2e12af734862e7caa5b532d548ee31451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/e11bb3fa42bb04891490795964e4d6791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/60f0cda1cce87aad13ec33a8bf231d931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/bf594faeb9f6b72e598c2d459f2c3bfb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/f4e80f307085856e8442ef871e09d6141.jpg"
+	]
+}

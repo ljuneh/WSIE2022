@@ -1,0 +1,50 @@
+{
+	"id": "6833308",
+	"name": "치킨양념소스 쉽고 맛있게 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/38ca4481fad7e29f4b41804e28f28dcc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6833308",
+	"ingredient_ids": [
+		724,
+		489,
+		575,
+		231
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "두반장",
+			"ingre_count": "",
+			"ingre_unit": "."
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "",
+			"ingre_unit": "."
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": "."
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요.",
+		"2. 재료 비율이에요. 올리고당 2 : 케찹 1 : 두반장 0. 3 : 간마늘 0.1을 넣고 끓여주세요. 끓으면 불을 끄고 마지막에 식초 0.1을 넣으면 끝 !",
+		"3. 새콤달콤한 치킨양념소스~ 참 쉽죠 ? ㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/a966b8576c13349ac62ceb47a4ae4ea21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/9f02df9954f834b7947756f4c7c9c6911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/0579028c62c0b5e3b9a50187582e8d211.jpg"
+	]
+}

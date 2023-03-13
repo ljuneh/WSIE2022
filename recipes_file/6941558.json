@@ -1,0 +1,67 @@
+{
+	"id": "6941558",
+	"name": "크레송감자구이샐러드:당신의 아침, 매력돋는 다이어트샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/2e02d2c81c36fa57f4077fe5407c866c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941558",
+	"ingredient_ids": [
+		5,
+		497,
+		371
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2~3개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "바질가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "크레송/어린잎채소",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 크레송은 물에 담갔다 조심스레 헹군 후 물기를 빼둔다.",
+		"2. 감자를 소금,후추,올리브오일에 버무려 에어프라이어 200도 15분 굽고 ㅡ에어프라이어",
+		"3. 뒤집은 후 방울토마토도 함께 넣어 5분더 굽는다.",
+		"4. 다 구워지면 바질가루 뿌린다.",
+		"5. 접시에 구운감자와 방울토마토 담고 ㅡ",
+		"6. 크레송을 얹고 소금,후추를 뿌린다.  가능하면 후추가루 말고 그라인드후추를 갈아주세요.",
+		"7. 마지막으로 올리브오일 한번 더 둘어준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/39b1165e61a985a596adf5b0d1f1986f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/e987e1bb104b0f7a283877289af572bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/183f5eff7e3a8e180482ca82b9c770cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/9081bbac450a6dbb380e3b41010b25b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/a9f38570ce15678ca0c2a0b9efa560ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/e9c9b652b97170d5453c51329e8dc03c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/fb4db3e5285bb9d693de1ef7aaf139041.jpg"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"id": "6941693",
+	"name": "감자채전 맛있게 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/073194beb5750615992f6059b21fddbf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941693",
+	"ingredient_ids": [
+		5,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 껍질을 벗긴 감자는 얇게 채 썰어주세요",
+		"2. 볼에 채 썬 감자와 전분 2큰술, 소금 1작은술, 후추를 조금 뿌리고 젓가락으로 잘 섞어주세요. *감자볶음이 될 것같다 싶으면 여기다가 밀가루나 부침가루 1큰술 넣어주세요:)전분과 튀김가루(혹은 부침가루) 1:2 비율로 넣으셔도 맛있답니다:)",
+		"3. 가열된 프라이팬에 기름을 넉넉히 두르고 감자를 넣어주세요",
+		"4. 어느정도 익었다 싶으면 감자전을 뒤집어 라면 스프를 뿌려주세요",
+		"5. 감자는 케찹이죠! 케찹에 찍어 맛있게 먹습니다:)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/91e5d0930a6f71a0c24794b05ec07a4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/161689b5df95703df5ac072bdf234f741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/59a688d81983ec7500cae53d1347b12d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/94be819a0429d5af65ccb42b3f6d0ca21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/4e35f5687194cd14df18313ab3cbe4f01.jpg"
+	]
+}

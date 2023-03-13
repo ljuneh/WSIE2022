@@ -1,0 +1,37 @@
+{
+	"id": "6847477",
+	"name": "홈메이드 딸기청",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/43b337317a2927130fb806437253b5a01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847477",
+	"ingredient_ids": [
+		155,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "딸기",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 딸기는 꼭지를 제거하고 흐르는 물에 깨끗이 씻어준뒤 1/3등분해줍니다.",
+		"2. 딸기와 동량의 설탕을 넣어줍니다.",
+		"3. 설탕이 녹도록 딸기와 설탕을 잘 버무려줍니다.",
+		"4. 열탕소독한 유리병에 설탕에 버무린 딸기를 차곡차곡 넣어줍니다.",
+		"5. 딸기 맨 위에 약간의 설탕을 담아 준 뒤 뚜껑을 잘덮어서 하루정도 실온보관 후 냉장보관 합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/10557b02eb030502e0e048ca36bc95a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/2761916ca761f2c0f1b7877b0034d9a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/282086077c6bfc2199427d9a1508184e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/d31fa66503adf8ad8af31ab58c4ce80b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/d6bc2b6a5b0c732d34f7a03458c7f60b1.jpg"
+	]
+}

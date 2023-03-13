@@ -1,0 +1,101 @@
+{
+	"id": "6944002",
+	"name": "오뚜기 간짜장 고형짜장으로 짜장밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/d883fab0d62e58413980f2b9df2727b81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944002",
+	"ingredient_ids": [
+		5,
+		9,
+		295,
+		504,
+		667,
+		225
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "고형짜장",
+			"ingre_count": "4",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "짜장용돼지고기",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파1+1/2개",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "2/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 오뚜기 직접볶은 간짜장 고형짜장을 사용해서 짜장을 만들었다",
+		"2. 감자2개,양파1개반,당근2/3,청양고추3개를 깨끗이 씻어서 준비한다",
+		"3. 감자2개를 깍둑썰기한다",
+		"4. 당근2/3을 먹기 좋게 잘라준다",
+		"5. 양파1개반을 먹기 좋게 잘라준다 매콤한 맛을 더하기 위해 청양고추3개를 넣어보았다(기호에 따라 선택)",
+		"6. 냄비에 기름을 두르고 짜장용돼지고기250g을 볶아준다 돼지고기에 후춧가루를 살짝 뿌리고 볶아준다",
+		"7. 준비해둔 채소들도 함께 볶아준다",
+		"8. 물3C를 넣고 끓여준다",
+		"9. 고형짜장 1조각이 1인분 분량이다 4조각을 사용해서 4인분을 만들었다",
+		"10. 고형카레를 넣고 잘 저어주며 끓인다",
+		"11. 찹쌀가루1T,생수2T를 섞어서 짜장에 넣고 끓여준다",
+		"12. 잘 저어주면서 끓여준다",
+		"13. 짜장(간짜장) 완성입니다",
+		"14. 짜장밥으로 먹어도 맛있구요~~",
+		"15. 짜장면을 만들어서 계란후라이를 곁들여 먹어도 맛있어요~>< 고형짜장으로 맛있는 짜장밥,짜장면을 만들어보세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/86f4444e77b2d303a41a6763dbaea1191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/38fcac463234cd0b491d1d352b6feec81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/09ae513633537082cd87031d3492971a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/a04a95b9f016da633ef03bbbf64ca6091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1ff6b0c899ae01ac8b893f81f367a28b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/2ff9eeb34bfe04fb622e7223559ac7e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/8bb07c80882ba1a0a7cf3269f4b5ee121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/6630695b0cb4c0594940dc59f1154bba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/47382dd358cb976ea9762ad41ca94f741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/9c6dc8f0bbc44470c1cc994f2ab7290c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/fff9391ceea73e412a53ec2522cab2d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/4b009dc7281b8ae3fbe69737bc7cd33c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/76fbf02b7b453dfe27e363f106839b6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/012144f61945642298d9f45b5618a5ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/278f21844f80dc17c8fb7bbfc2e97c521.jpg"
+	]
+}

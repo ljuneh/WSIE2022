@@ -1,0 +1,74 @@
+{
+	"id": "6942977",
+	"name": "식빵 믹스로 초코 마블 식빵 만들기(손반죽) ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/5b731b5fdeb7d9b126384b7da02ec9691.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942977",
+	"ingredient_ids": [
+		567,
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "플레인식빵믹스",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "인스턴트드라이이스트",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "210",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "실온무염버터",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "코코아파우더",
+			"ingre_count": "13",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "뜨거운물",
+			"ingre_count": "20",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "녹인버터",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		}
+	],
+	"recipe": [
+		"1. 볼에 식빵 믹스, 이스트, 물을 넣고 잘 섞어 주세요",
+		"2. 작업대에서 10-15분 간 치대어 주세요",
+		"3. 버터를 넣고 10-15분 간 더 치대어 주세요",
+		"4. 반죽을 반으로 나누어 주세요(반은 플레인 반죽, 나머지 반은 초코 반죽)",
+		"5. 랩을 씌워 반죽의 크기가 약 2배가 될 때까지 따뜻한 곳에 두세요",
+		"6. 반죽을 살짝 눌러 가스를 뺀 후, 동그랗게 굴려 주세요",
+		"7. 랩을 씌워 10-15분 간 그대로 두세요",
+		"8. 각 반죽을 밀어 펴 준 다음, 두 반죽을 겹쳐서 말아 주세요",
+		"9. 반죽이 팬의 높이보다 1cm 정도 높이 올라올 때까지 랩을 씌워 따뜻한 곳에 두세요",
+		"10. 180도에서 30-35분 간 구워 주세요",
+		"11. 맛있게 드세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/3da890d064adf31f5c526c0f1bf468341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/9e223c816c862fb85c16d68dc21c5b171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/d372ad695858f1056478b185b40607111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/1611bb20594d2554a50e0b271d2ac9181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/7b691e8abd9506da521d1dc31d57f1b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/018926e84b3180b698820b434fe435311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/ce2401fb99a404949eb18617f3bd78021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/98b10ea75db610ec1c0f4953a3088c7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/b662861adab222c43d0df8ea2718b17a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/3e04f0afc4ca5b0b6f23deeb6c8c3f041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/195f617eae6e92ea7b096b3f15b975b51.jpg"
+	]
+}

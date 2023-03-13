@@ -1,0 +1,61 @@
+{
+	"id": "6887489",
+	"name": "크림 새송이 / 오늘도 고생한 나에게#24 [ 심야레시피 ]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/04/18/4d0ccf58e6c23abfaa5c4bcdce3792ea1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6887489",
+	"ingredient_ids": [
+		58,
+		734,
+		995,
+		228,
+		226,
+		231
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 새송이버섯을 적당한 크기로 잘라준다",
+		"2. 물과 튀김가루를 넣고 반죽을 만든다",
+		"3. 튀김반죽에 자른 새송이버섯을 너어 잘 섞어준다",
+		"4. 새송이버섯을 튀긴다",
+		"5. 튀긴새송이 버섯을 프라이팬에 올리고 소스를 뿌린 후 약불에서 잘 섞어준다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/18/a4594ca41e59d6ee96f9c1cb0a63244f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/18/de716293c58016da9bdd68b80c27f8ff1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/18/08f2b7984e51fae801b9c8ada140ed3a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/18/4b7e3826f0f6788058437524dd347ad41.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/04/18/9c30ccdda0f843d4ab5062183829bc471.png"
+	]
+}

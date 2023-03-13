@@ -1,0 +1,88 @@
+{
+	"id": "6943652",
+	"name": "남은 전 꼬치 김밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/25518e0df62eadecb519fc84a18786621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943652",
+	"ingredient_ids": [
+		496,
+		9,
+		8,
+		497,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "꼬치전",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "4",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 꼬치전을 데워주고 (식용유를 두르지 않았아요) 저희는 버섯, 맛살, 햄, 쪽파가 들어가 있어서 단무지랑 당근, 오이를 추가해 주었답니다. 단무지 넣어 꼬치전 만드신다면 생략하심 되겠죠. 묵은지 양념을 깨끗하게 씻어 물기를 꾹 짜고 참기름 넣어 조물조물 무쳐 함께 넣어도 좋아요. ",
+		"2. 당근 1개 (중간 사이즈)를 채 썰어",
+		"3. 달군 팬에 식용유를 살짝 두르고 당근을 볶아 주세요. 살짝 숨만 죽도록~ 소금 간 살짝 해주세요. ",
+		"4. 오이(1개)도 채 썰어서",
+		"5. 달군 팬에 식용유 두르고 소금으로 간을 해 볶아 줍니다. ",
+		"6. 김밥 재료 꼬치전 + 단무지 + 당근 + 오이 그 외 집에 있는 재료 함께 준비해 돌돌 말아보세요. ",
+		"7. 밥 2공기 준비해 한 김 식힌 후 소금, 참기름, 통깨를 넣어 간을 해주세요.",
+		"8. 김밥용 김을 준비하고 양념한 밥을 고루 펴 주고 그 위에 꼬치전 2개",
+		"9. 단무지, 당근, 오이를 올려 말아 주심 된답니다. ",
+		"10. 이제 먹기 좋게 썰어 주면 끝! ",
+		"11. 꼬치 김밥이랑 함께 먹을 수 있는 국물떡볶이도 준비해 맛있게 한 끼 해결했답니다. 단무지랑 오이를 넣어주니 확실히 개운하니 좋네요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/dfb0196d565ae3247942ed084346862d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/62452b4816ad1a6918451a46e8a106a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/1e8bbdfa581d0f6622a13bac9765db681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/1c78496a037662b8db1b8338410127801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/7260fb49dfd39a75ab6ac2b0f74847b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/aad529a57c2a733db3b8113cca6301a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/faff56401211defa701f3ab28e2da2a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/e7396ce5eba602ab76196749854066091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/36d671259bdade7d2dae887fd0c6bdfd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/3b6b2f07c8fc02ac4e109d0ceff9e98e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/80530dee72ad141c3582fe5ca039a2f51.jpg"
+	]
+}

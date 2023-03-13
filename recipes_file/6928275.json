@@ -1,0 +1,120 @@
+{
+	"id": "6928275",
+	"name": "초간단 감자 수제비 : 수제비 반죽과 육수도 손쉽게~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/845a0c4e1a7c3ae9e9b81f5b3be7b30c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6928275",
+	"ingredient_ids": [
+		995,
+		497,
+		995,
+		349,
+		333,
+		379,
+		233,
+		5,
+		7,
+		27,
+		3,
+		34
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "중력분밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식물성기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "국물용멸치",
+			"ingre_count": "8",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 밀가루 2컵+식용유 1숟갈+물 3/4컵+소금 한꼬집으로  반죽을 만들어주세요.1인분 계량: 밀가루 100g 내외, 물 40cc 정도로 잡아주시면 됩니다. ",
+		"2. 수제비 반죽은 밀봉해서 30분 정도 냉장고에서 숙성시켜주세요.시간을 조금 단축시키셔도 괜찮습니다. ",
+		"3. 국물용 멸치 8마리+ 물 1.3L (15분 정도 끓이기) 반죽을 숙성하는 동안 멸치 육수를 준비해주세요.",
+		"4. 준비한 부재료들을 썰어서 준비해주세요.  (재료가 없으시면 감자나 애호박 하나만 있어도 괜찮습니다^^) 취향에 따라 당근, 부추, 버섯 등을 더 넣어주셔도 좋습니다.",
+		"5. 국간장, 멸치액젓, 간장, 다진 마늘 등으로 육수에 간을 한 후  익는 시간을 고려하여 육수에 감자를 넣고 2~3분간 먼저 끓여주세요.중불",
+		"6. 썰어놓은 나머지 채소들을 모두 넣고 1분간 끓여주세요.",
+		"7. 냉장고에서 꺼낸 수제비 반죽을 꺼낸 후 얇게 뜯어 넣어주세요.",
+		"8. 부족한 간은 소금 한 두꼬집으로 보충하고 3분간 바글바글 끓여주세요.",
+		"9. 그릇에 덜어 맛있게 드세요:)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/ac89658998e586d78e1f4567afa5f2671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/bd182ffb4d11d679e2be8a6000750ed91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/f4435338d198ea6ddc480c8bc84a34651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/600af1024d404e14d65c06a7fd5c86981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/e04e014c76f914918b395f78fdff3f901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/53390bd609aa0e6155475f38c9c7262f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/a4304b5f41a70a545ef97e66c006159b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/a838452202a415cf0cf9541f349dba6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/11/771c1a266c8bbe10f4e48ece493964821.jpg"
+	]
+}

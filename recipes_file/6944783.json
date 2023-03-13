@@ -1,0 +1,67 @@
+{
+	"id": "6944783",
+	"name": "에어프라이어 두부강정",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/fd6982e5a1b60042a03d9d034635c3da1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944783",
+	"ingredient_ids": [
+		323,
+		224,
+		226,
+		575,
+		473,
+		995
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "",
+			"ingre_unit": "쪼금"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 두부를 꺼내서 물기를 최대한 제거해봅니당. 두부를 큐브 모양으로 잘라주세요.도마 위에 키친타올 깔고 두부 올려놨어용.",
+		"2. 위생팩에 두부와 전분가루(혹은 밀가루)를 함께 넣고 마구마구 흔들어서 섞어주세요. 에어프라이어에 예쁘게 깔아놓고 구워봅시당. 180도에서 15분 -> 뒤적이고 5분 더 !!!!가루 2~3스푼 넣어서 섞어보고 부족하면 1스푼씩 더 추가해서 섞어용.",
+		"3. 빠삭빠삭하게 완성되었어요~!! 꺼내서 양념에 버무려줄게용. 한 입 먹자마자 감동입니다... 닭강정 뺨치는 맛이에요....!!!!!! 이렇게 맛있는데 다이어트간식도 될 수 있다니~~!!에프가 일하는 동안 쏘오스 재료 몽땅 섞어두기~!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/f1dba6ab19f7e64ac1dbebee5f2bae961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/fe1b70476c02dbeeeaa496a1ccc3975b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/03911a431ef8ac8d88ac75d7df5e1e8c1.gif"
+	]
+}

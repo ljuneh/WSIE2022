@@ -1,0 +1,51 @@
+{
+	"id": "6945210",
+	"name": "김치볶음밥 이것만 넣어도 맛있어요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/b00982afca9eb74a40c5b3fe8acb57a01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945210",
+	"ingredient_ids": [
+		953,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 참기름을 붓고 잘게 자른 김치를 볶아주세요.",
+		"2. 스팸을 사각썰기로 잘라주세요.",
+		"3. 노릇노릇하게 볶아주세요.",
+		"4. 볶은 김치에 밥을 넣고 참기름을 3t정도 넣어주세요.",
+		"5. 볶은 스팸을 넣고 함께 볶아주세요. 다른 방법 하나 더 말씀 드리면 볶은 김치에 스팸을 넣고 밥을 맨 나중에 넣으면 더욱 진한 김치볶음밥이 되어 맛있어요.",
+		"6. 고르게 잘 섞이도록 볶아주세요.",
+		"7. 10분도 안 걸리지만 맛은 기가 막힌 김치볶음밥이 완성됩니다.^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/d9624e48139c5362fc4f54b3668e50df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/453c12386726e1bdbbba25de817e587c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/0deeb64d741ab4532fbf966d61fc66db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/551745591472ae99c33a2e66a572ba0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/f95b380dfb536911b216e974cddf025f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/947970f75c9448daf36fdca03cda52381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/20936e0968b4cb2465660ebfcd8a17f61.jpg"
+	]
+}

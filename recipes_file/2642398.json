@@ -1,0 +1,39 @@
+{
+	"id": "2642398",
+	"name": "애호박볶음 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/a96f2d3b97f081872115781cfe66170b.jpg",
+	"url": "https://www.10000recipe.com/recipe/2642398",
+	"ingredient_ids": [
+		7,
+		3,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 애호박 1개는 조금 굵게 채썰어주세요. 볼에 담아 소금 1큰술 넣고 물기가 나올때까지 절인후 한번 행궈 손으로 꼬옥 짜서 준비합니다.",
+		"2. 팬을 달궈 오일 1큰술 넣어 채썬 양파 반개 분량을 볶다가",
+		"3. 양파가 투명해지면 절여뒀던 호박을 넣고, 다진마늘, 새우젓을 넣어 간을 맞춰줍니다. 불을 끄고 참기름을 살짝 넣으면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/21/5525989413c2878a8dcf2873eef69a1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/21/11b784aec2a516813405a95c45d417d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/21/6f82c51ed9e1e4202b772b20bb476d681.jpg"
+	]
+}

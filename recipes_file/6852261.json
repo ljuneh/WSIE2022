@@ -1,0 +1,55 @@
+{
+	"id": "6852261",
+	"name": "초기이유식 - 소고기미음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/13/e8d1f22495db43f3cbebc1483311cdee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852261",
+	"ingredient_ids": [
+		96,
+		121,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소고기안심",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "240",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 쌀 30g을 계량하여 물에 30분간 불려주세요.",
+		"2. 소고기는 기름을 떼고 적당한 크기로 썰어주세요.",
+		"3. 물을 3회정도 바꿔주며 약 30분동안 소고기 핏물 제거를 해주세요.",
+		"4. 1회 분량에 사용할 20g을 계량하여 소분해줍니다. 남은건 냉동보관 해주세요.",
+		"5. 스팀탱크에 물 350ml를 넣어주세요.",
+		"6. 스팀 바스켓 1단에는 소고기를 넣어주세요.",
+		"7. 스팀 바스켓 2단에는 불린쌀을 넣어주세요.",
+		"8. 스팀버튼을 눌러 30분 설정하고 기다려주세요.",
+		"9. 잘 익은 쌀과 고기, 고기육수까지 믹서기에 전부 넣고, 물 240g을 넣어주세요.",
+		"10. 모드설정에서 믹서기 버튼으로 바꿔준 뒤 믹서기를 작동해주세요.",
+		"11. 소고기미음 완성! 거름망으로 한번 걸러서 용기에 담아주세요. (필수아님)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/0f1b7b0d56e948cdaa773f47908596e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/22b0db0564e4b7a3372e4a327aac97fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/a16ad62dee5a7b876a72a0b60726f6d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/e6d6b73b50467a03919cc4cb7258e5f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/8a3209093e25f8eda9ed9291fd8cc7431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/10952834c85c6ec4f67b3fea05afa3851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/b837b8edf65e34732f957dae51c09dcc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/ad02ef30d69ea593763450b06f834e501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/b4270e5390f2e48972a24a98e9ad70791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/675f4887694ca6599ab1c02119a88f8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/06/75b22078224fecc821f2265d634387d01.jpg"
+	]
+}

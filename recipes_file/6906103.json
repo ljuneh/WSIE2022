@@ -1,0 +1,60 @@
+{
+	"id": "6906103",
+	"name": "칼국수 ...집에서 깔끔하게 즐겨요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/08/cf6584b0ca4828fbb9a2863cffabfa711.jpg",
+	"url": "https://www.10000recipe.com/recipe/6906103",
+	"ingredient_ids": [
+		7,
+		5,
+		56,
+		1015
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "생칼국수(시판용)",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 칼국수 끓일재료 준비를 한다 생칼국수,애호박,감자,느타리버섯",
+		"2. 애호박은 반달모양으로 자른다",
+		"3. 감자도 껍질을 벗겨 깨끗이 씻은다음  반으로 잘라 반달모양으로 자른다",
+		"4. 느타리버섯은 가닥가닥 찢어놓는다",
+		"5. 냄비에 육수를 붓고 야채를 넣고 끓인다 육수는 치킨스톡,멸치육수,등이 좋으나 없으면 그냥 생수도 괜찮다",
+		"6. 모든재료를 넣은 육수가 팔팔 끓으면 칼국수 면을 넣고 다시 면이 익을때까지 끓인다",
+		"7. 칼국수면이 투명해지면 완성",
+		"8. 그릇에 담아 칼국수를 완성한다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/08/2847981186cb92a50293fe0a3744472f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/08/daa60cb415c3efb35f48b46c24e34e391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/08/064666de1228f7f339635c882a0ac4941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/08/f1b98ed4ab1c6849efa57caa008214cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/08/6e8421bdabfc4949dda5b62f65e6b1111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/08/9c323355456788eea1f50edf1ec417cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/08/faeb5c9e1ffa1c06fcbc79cd0f4146fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/08/29b0edff13f0f6da61d542e4a7d301981.jpg"
+	]
+}

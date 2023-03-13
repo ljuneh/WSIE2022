@@ -1,0 +1,63 @@
+{
+	"id": "6942238",
+	"name": "자꾸 손이 가는 우렁이 강된장(feat, 양념장)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/3506908627b0fd3f060ca841d0813f041.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942238",
+	"ingredient_ids": [
+		58,
+		3,
+		995,
+		327
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "시판강된장소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "우렁이",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요",
+		"2. 우렁이를 물로 2번 씻은 후, 물에 담아둔다(소금 1t)",
+		"3. 양파와 새송이버섯을 잘게 썰어둔다대파, 쪽파를 추가하면 좀더 풍성한 맛이 날거에요.매운 맛의 강된장을 원하신다면, 재료에 청양고추 1개 추가해주세요! ",
+		"4. 냄비에 시판용 강된장을 붓고 물을 부은 후 끓인다",
+		"5. 썰어둔 양파와 새송이버섯을 넣고 젓으며 끓인다",
+		"6. 들기름 한 숟가락을 붓고 다시 젓는다잘 저어주세용~~~",
+		"7. 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/20a6a9695e6b55025395c2ddd06e70121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/6eda2459b904953d5fe81cd3c05255181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/d149d5987f19ac7a34492795d26c6fa91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/034b748428b15a38b7d827fb2f38ac321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/52688e56855e2f415ab6602eeadeb1d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/6d2366facb3a95f3b4d9effa0e4bbe6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/8a140f6f2ad5002b4d3ac507ca1c62291.jpg"
+	]
+}

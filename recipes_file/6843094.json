@@ -1,0 +1,63 @@
+{
+	"id": "6843094",
+	"name": "초간단 쫄면 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/16/a4bda753b6060e1115c664661aa310ac1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843094",
+	"ingredient_ids": [
+		8,
+		9,
+		21,
+		47
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쫄면시판",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "양념장(시판)",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "4/1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 쫄면,오이,당근,양배추,콩나물 등 집에 있는 간단한 야채들을 준비합니다. (쫄면과 양념장은 시중에서 쉽게 구매할 수 있습니다.)",
+		"2. 오이는 3등분해서 돌려깎기로 껍질을 벗기고 채를 썹니다.",
+		"3. 당근도 마찬가지로 채 썰어주세요.",
+		"4. 양배추는 4/1로 썰어줍니다.",
+		"5. 시판 쫄면을 알맞게 익히고, 면을 건져 찬물에 헹궈준 다음 채반에 받쳐서 물을 쪽 빼주세요.",
+		"6. 큰 대야에 야채를 듬뿍 넣고 양념장 또한 넣어주세요.",
+		"7. 비닐 장갑끼고 무치면 쫄면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/16/3ae2a0bef34be262321a7082f11f42491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/16/f1e9cae0de649b69df8a3e106b6051c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/16/12c3880f27a5bfeaf75de352fb0342ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/16/5f0693dd98101aaccaceb2a89840f7861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/16/5137a6820965733e9eb682ba6519b9b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/16/4ab6758d5c8dbbfd939cd87f3ea7ec301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/16/e44aea4d0ae2930b4fb37dd9f301533d1.jpg"
+	]
+}

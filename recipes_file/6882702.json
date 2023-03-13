@@ -1,0 +1,74 @@
+{
+	"id": "6882702",
+	"name": "제철 과메기로 감칠맛이 남다른~키야아아아 매콤 시원 과메기 김치찌개!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/23/9f31fca7bcd910dbf07384f41b0475091.png",
+	"url": "https://www.10000recipe.com/recipe/6882702",
+	"ingredient_ids": [
+		953,
+		27,
+		295,
+		504,
+		224,
+		292
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "과메기3마리(6쪽)",
+			"ingre_count": "3마리(6쪽)",
+			"ingre_unit": "마리(쪽)"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "다시마육수",
+			"ingre_count": "4",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 과메기는 먹기 좋은 크기로 자른다.냄비에 식용유를 두르고 자른 김치를 넣어 볶는다.과메기 3마리 (6쪽),김치 2종이컵,식용유 1숟가락 냄비",
+		"2. 다시마 육수 4컵을 붓고 끓인다.다시마육수 4종이컵",
+		"3. 센불에서 5분 간 끓이고 중불에서 20분간 끓인다.센불,중불",
+		"4. 과메기, 고춧가루, 맛술을 넣고 5분간 더 끓여 대파, 고추를 넣고 완성한다.대파 약간 , 홍고추 1/2개 , 청양고추 1/2개,고춧가루 , 맛술"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/23/c3e1df078cf6ceebb110020e8e9030a21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/23/a51876bbdd1af513f29305ad1e696fa41.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/23/024b9b5f7020c889fe96aff88c13dad81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/23/26a6e2e4e705b1fb70fb3f05d3294f8f1.png"
+	]
+}

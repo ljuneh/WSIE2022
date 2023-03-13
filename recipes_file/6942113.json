@@ -1,0 +1,84 @@
+{
+	"id": "6942113",
+	"name": "경기미 참드림:) 대삼불초밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/02bfa2d6e48554c5f582cea1742a3f341.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942113",
+	"ingredient_ids": [
+		963,
+		379,
+		226,
+		455
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "경기미참드림쌀",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대패삼겹살",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추냉이",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "배합초)식초",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "배합초)설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "배합초)소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 경기미 참드림을 준비해주세요. 밥솥에 쌀을 넣고 지어주세요. (저는 평소처럼 1작은술의 올리브유도 추가했어요 ~)",
+		"2. 대패삼겹살에 양념을 넣어 준비합니다 (간장을 안찍어 먹어도 되는 정도로 짭짜름한 정도에요!)",
+		"3. 달궈진 프라이팬에서 중불로 볶아줍니다.",
+		"4. 다 익은 고기는 잠시 불을 꺼둡니다 (나중에 초밥 위에 따뜻한 상태로 올릴거에요)",
+		"5. 배합초를 만들어줍니다. (저는 허브솔트를 사용했어요 !)",
+		"6. 분량의 밥이 준비합니다. (고슬고슬 되었어요 ~)",
+		"7. 배합초를 넣고 잘 섞어줍니다. (갓지은 밥, 따뜻할 때 꼭 배합초를 넣어주세요.)",
+		"8. 밥을 한입 크기로 만든 후 고추냉이를 위에 적당히 올려줍니다.",
+		"9. 만들어둔 고기를 (식었다면 데워서) 위에 올려줍니다.",
+		"10. 완성입니다:D"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/cfa925906eb26f51537450d61313af3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/f22f69072c5d6e6f5839036c306500121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/66d9688181328c245d204e79e71b07a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/f6a601b938860395679c14f0fbe415ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/50cf1520674f72b3dfa56f257121c4491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/a56173893479991e65cc2422afd6fe531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/16ccf51500f83a53f61f6b16e476e9a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/5355d4f521d9e7e4720f1d968fccbd9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/ce4f617712d5ba3f7c00b88733acdba51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/03003b9acbf188d2bcf82f60c80b272c1.jpg"
+	]
+}

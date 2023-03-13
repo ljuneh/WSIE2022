@@ -1,0 +1,35 @@
+{
+	"id": "6944215",
+	"name": "도토리묵 요리 / 도토리묵 전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/37565a3f42fe65c14a19b5a301c08e2e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944215",
+	"ingredient_ids": [
+		331,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "도토리묵",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 도토리묵을 준비한다.",
+		"2. 도토리묵은 먹기 좋은 크기로 자른다.",
+		"3. 프라이팬에 참기름을 넣어준다.",
+		"4. 약불에서 천천히 도토리묵을 구워준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/e1d77753b0943849820f8482d3b315161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/923dbbe629474b72f9b5c10636b9d77a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/a092baf9794c1629c337bb4f8fba51011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/ed448959d3f3bbd7a06080db970104851.jpg"
+	]
+}

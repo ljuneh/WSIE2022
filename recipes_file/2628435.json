@@ -1,0 +1,74 @@
+{
+	"id": "2628435",
+	"name": "베이컨간장말이밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/24/84d5d9b55180b9d9877df2386c381591.jpg",
+	"url": "https://www.10000recipe.com/recipe/2628435",
+	"ingredient_ids": [
+		406,
+		843,
+		341,
+		846,
+		477
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "8",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "컵정도"
+		},
+		{
+			"ingre_name": "간장1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 밥은 길이 3~3.5cm 정도의 타원형으로 밥을 통통하게 만들어 줍니다. (밥을 만드실때 밥을 단단하게 만들어 주세요. 단단하지 않게 하시면 간장양념으로 조리실때 밥알이 다 흐트러진답니다.)",
+		"2. 베이컨으로 밥을 돌돌 말아 줍니다.",
+		"3. 볼에 간장 1+ 1/2큰술, 매실액 1큰술, 물엿 1/2큰술, 청주 1큰술, 굴소스 1작은술, 후추를 넣고 섞어 줍니다.",
+		"4. 팬에 기름을 두르고 베이컨말이밥을 앞, 뒤로 구워 줍니다.",
+		"5. 요렇게 앞, 뒤로 갈색빛이 돌때까지 익혀 주세요.",
+		"6. 베이컨말이밥에 간장양념장을 붓고 조려 줍니다.",
+		"7. 한번씩 앞,뒤로 뒤집어 주세요. (너무 많이 앞, 뒤로 뒤집으시면 밥알이 뭉그러질 수 있답니다. ) 간장양념장이 없을때까지 조려 주시면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/78895a4235fe2b7c3acfc431dd3e3e5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/9ca44693028ce365292b75d558c347f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/cebeff9577dc668cdbb7d38993fa9c7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/ab7de62dc6bac4ea6c3823b7aea44bf21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/33ba2ebdaaf184553e2d786b68e450851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/43b9b8a6a3ada2ea197697e50d9f35b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/ccd93717fa2c43cd8b238211395b144b1.jpg"
+	]
+}

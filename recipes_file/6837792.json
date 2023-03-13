@@ -1,0 +1,69 @@
+{
+	"id": "6837792",
+	"name": "낙지 손질법과 낙지볶음 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/29/14c13b3278a342b2265bf6aa71f43b1a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837792",
+	"ingredient_ids": [
+		64,
+		295,
+		233,
+		473,
+		226,
+		379,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "낙지",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 가위로 낙지 머리를 잘라 내장을 꺼내준다. 손질된 낙지는 밀가루를 넣고 박박 문질러 깨끗한 물이 나올때까지 헹궈내준다.",
+		"2. 손질된 낙지는 끓는 물에 살짝 데쳐서 준비한다.",
+		"3. 양파, 애호박, 당근, 청양고추는 먹기 좋은 크기로 썰어 준비하고 팬에 파와 기름을 두르고 파기름을 내준다.",
+		"4. 파기름이 나오면 양파, 당근, 호박, 다진마늘 1수저, 고추장 1수저, 설탕 1수저, 간장 3수저, 고춧가루 2수저를 넣고 야채와 함께 볶아준다.",
+		"5. 어느정도 야채가 익으면 청양고추를 넣고 양념을 졸이듯이 볶아준다.",
+		"6. 마지막으로 낙지를 넣고 볶아주다 깨와 대파로 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/55d0a78ec5091819df74cb2fb00746c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/e38b8c2cc336e167e6f1219a2399b2331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/545638c95aeaee6a2849f19ec4e1872e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/8894ce2097385dcbb388e06a53336e711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/14fb25074842ba05bb39c08b8b8ea63a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/4b16aa4d0029e584da1b349a8967392e1.jpg"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"id": "6945044",
+	"name": "월남고동 미역국 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/29a1e47d31e92bc35aed4491692908021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945044",
+	"ingredient_ids": [
+		660,
+		939,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "불린미역",
+			"ingre_count": "2",
+			"ingre_unit": "줌정도"
+		},
+		{
+			"ingre_name": "손질월남고동",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 손질 월남고동 반으로 썰어준다",
+		"2. 1공기 정도 준비했어요",
+		"3. 불린 미역,월남고동 냄비에  담고 참기름2,액젓3 넣어",
+		"4. 달달달~ 볶이주세요",
+		"5. 물1.8L 정도 붓고 푹~ 끓여준다 부족한 간은 소금으로 입맛에 맞게 간해요",
+		"6. 이야~ 국물이 완전 진국이네요 엄지척~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/bb40da9f45e948174daec7930b9717d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/4a8ba70ff81484df23098e1068f3e12e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/57bb5e470f7f8cab179e8da84c35b61c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a691a9bb8c93190ba47b733d5a7c4f041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/079ccd697a2c87cf3030205da0da57e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/42af66daca7b8b0f19bccb55e912de501.jpg"
+	]
+}

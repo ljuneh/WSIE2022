@@ -1,0 +1,105 @@
+{
+	"id": "6901364",
+	"name": "묵은지김치찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/05/408b7be59c527175648b59d0dcede0271.jpg",
+	"url": "https://www.10000recipe.com/recipe/6901364",
+	"ingredient_ids": [
+		398,
+		3,
+		34,
+		233,
+		226,
+		341,
+		349,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "배추김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "돼지고기앞다리살",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "800",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 양파를 깔고",
+		"2. 적당히 썬 고기를 놀려주세요 너무 작지않게 크게 넣어주세요!(등갈비도 좋아요)",
+		"3. 배추김치를 썰지않고 길게 한번만 썰어 넣어주세요",
+		"4. 물에 준비된 양념을 넣고 부어주세요 한번 바글바글 끓인후에 뚜껑을 닫아 약불로 푹~끓여쥬세요 30분이상",
+		"5. 고기가 익었는지 확인해보고",
+		"6. 파 고추를 넣고 한번더 끓여주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/05/a3a6341ba46592ca9fe6dce16c531b331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/05/fe608f7040f68a828657f7ec7c264df81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/05/83f899b9264a2fa80b6f0ccdc57c742f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/05/3582f386df3b6a3787a0fc33d3da81181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/05/03e2e67c530a5929cb5b4bca5fac76841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/05/03cc17e1367ba531380d47074a20bc1c1.jpg"
+	]
+}

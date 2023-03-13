@@ -1,0 +1,82 @@
+{
+	"id": "6943395",
+	"name": "주꾸미 무침 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/ffa7a04719ae77dd48e8b6bf48c5434c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943395",
+	"ingredient_ids": [
+		63,
+		3,
+		580,
+		233,
+		473,
+		231,
+		843,
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "쭈꾸미",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "영양부추",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 주꾸미 손질를 손질해 주세요. - 밀가루 또는 커피믹스를 넣어서 쭈꾸미를 문질러 주세요.",
+		"2. 손질된 주꾸미를 물에 삶아 주세요.",
+		"3. 주꾸미가 삶아 지는 동안 야채 손질을 해주세요. - 양파, 영양부추, 파 등의 있는 야채를 활용하시면 됩니다.",
+		"4. 양념장을 만들어 주세요. - 준비된 양념재료를 넣고 잘 섞어 주세요. - 매콤한 맛을 좋아하시는 분들은 청량고추를 다져서 넣어주셔도 좋습니다.",
+		"5. 모든 재료가 준비되면 잘 섞을 수 있도록 준비하세요.",
+		"6. 준비된 양념장과 통깨를 넣고 섞어 주세요.",
+		"7. 잘 담아주시면 마무리 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/b66ff8d571880c3c54d455826eb980fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/de538bfeb7614eab443ef8d574e5bae01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/4489a9479694654b965575da963466a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/24fa9b23cf94df89477c1fa1441d54501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/f8369a8acbb92f1c6d1f7949079d96be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/fe495e5afd0af5551c4a9a96efcf389d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/d33a8e076ef8b181275b76721ed6d4411.jpg"
+	]
+}

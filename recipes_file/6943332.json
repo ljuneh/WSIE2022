@@ -1,0 +1,113 @@
+{
+	"id": "6943332",
+	"name": "미나리전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/33b57a08d63658a23e758719e6443ba61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943332",
+	"ingredient_ids": [
+		20,
+		3,
+		387,
+		563,
+		3,
+		379,
+		995,
+		231,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "매운고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "칵테일새우",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "쌀뜬물",
+			"ingre_count": "2.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "매운고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 먼저 장아찌 양념간장부터 만들게요. 양파 한 개를 먹기 좋게 잘라주시고, 매운고추도 넣으시면 훨씬 맛있어요!",
+		"2. 그릇에 간장 4스푼, 물 4스푼, 식초 2스푼, 설탕 2스푼을 넣어주세요. 전자렌지에 30초 데운 후에 섞어주세요.전자레인지",
+		"3. 썬 양파, 고추를 담은 통에 만든 양념간장을 부어주시면 완성입니다. 20분 후에는 맛있게 양념맛이 베어 있을 거에요.",
+		"4. 씻은 미나리를 1센티 간격으로 송송 썰어요. 줄기 쪽을 더 많이 쓸거에요.",
+		"5. 전에 매운고추가 들어가면 맛있어요. 2개 썰어 넣겠습니다.",
+		"6. 양파 1/4쪽도 결대로 얇게 썰어놓습니다.",
+		"7. 보울에 부침가루 2컵을 넣어주세요.",
+		"8. 쌀뜬물(물) 2컵을 먼저 넣어 섞으신 후 0.4컵 정도 물을 추가해서 약간 묽은 반죽으로 준비합니다.",
+		"9. 썬 미나리, 고추, 양파를 다 넣고 섞어주세요.",
+		"10. 칵테일새우를 1컵 정도 첨가하고, 얼음도 3개 동동 띄워줍니다.",
+		"11. 달군 팬에 식용유를 넉넉히 두르고 중불 이상에서 미나리전을 부쳐주세요.",
+		"12. 미나리전 완성입니다 바삭하면서 탱글탱글한 새우살도 씹히고 미나리 향까지 너무 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/dd7341b523bbd34043920ef1d9bafb111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/b318ca7425f226172c9fd6aeb00edd931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/72fda69de7f4fd32eb631a36c804b4cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/1e0601ea5d328cb53bb92a5526a92a661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/2dca2f2af7752c508bada0cde9898fff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/848682d535709af73704a075090a70631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/60c83240305856f20ddf8d7200d736e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/2e1f48a783e412882e5cda364cd2d0291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/46ab771e33e714d5d0c91d2ca29437c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/438909bfde12090c98c8b9b494490fb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/45acc88bb914c7838c1d65f23048aeb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/64ae9a523011d989a2e4d9e5902f35e11.jpg"
+	]
+}

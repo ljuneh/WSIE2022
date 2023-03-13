@@ -1,0 +1,65 @@
+{
+	"id": "6834829",
+	"name": "간단 아욱국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/2443e7a8c30cf640b602d8320417c6931.jpg",
+	"url": "https://www.10000recipe.com/recipe/6834829",
+	"ingredient_ids": [
+		33,
+		259,
+		876,
+		848,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "아욱",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "10",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 아욱국은 건새우랑 잘 어울려요. 국물도 금방 우러나고 감칠맛이 있거든요. 쌀드물을 이용하면 더 좋구요.",
+		"2. 건새우를 넣고 끓이다가 된장을 한수저 듬뿍 넣어요.",
+		"3. 건새우만으로도 딱 좋은 육수가 되요.",
+		"4. 아욱은 줄기부터 껍질을 벗겨서 준비해요. 고구마줄기 껍질 벗기는 것처럼 대충 벗겨주면 되요.",
+		"5. 아욱은 특이하게 요렇게 초록물을 빼주어야 맛나요. 볼에 다듬은 아욱을 넣고 물을 살짝 넣은 후 바락바락 주물러서 살짝 으깨요. 진한 초록물이 나오면 물에 살짝 헹궈서 물기를 꼬옥 짜서 준비해요.",
+		"6. 된장육수에 아욱을 넣고 푸욱 끓이기만 하면 끝이요. ",
+		"7. 끓을수록 초록이 짙어져요. 하지만 국물을 물을 한 번 빼서 보기 싫은 초록이 아니라 된장국 색깔 그대로에요.",
+		"8. 마지막으로 다진 마늘만 살짝~~~",
+		"9. 아욱이 흐물흐물할 정도로 끓여주면 되요. 30분 정도 끓였어요.",
+		"10. 이쁜 초록이 죽긴 했지만 보들보들 입안에 착착 감기는 맛이 일품이에요. 간단하게 끓여 밥말아 김치 얹어 먹음 딱이에요. 가을에 풍성한 아욱으로 꼭 만들어 보세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/d72751798c32d4e3d113b35c197acfcf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/666ea135bf05b5196026d03e6678f8531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/532f937d2216ee50529157373d6737111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/207e927b44ec6b2b254a63d172718ad91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/6819c9e7de047fada45cbfa5d9dd3ff61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/dc61232f5801cf6a9611292bf2b9b56a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/e781d5a03fa3b57b88af3df98d1f591c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/831889da261f1c1fc1c9cb4e4b7f75931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/7a1a9ace02bd0992e2fb54af4a5227611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/21/881a34427ef1f57463026f7380636e431.jpg"
+	]
+}

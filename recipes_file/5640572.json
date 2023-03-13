@@ -1,0 +1,66 @@
+{
+	"id": "5640572",
+	"name": "수프없는 무염식 라면 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/93ee55274b192724ce0bbfda59719c5e.jpg",
+	"url": "https://www.10000recipe.com/recipe/5640572",
+	"ingredient_ids": [
+		19,
+		79,
+		320,
+		16,
+		705
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "라면사리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/4",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다시마(작은조각)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "말린두부",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "상추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "트레비소",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 라면 1개에 수프와 건더기 수프가 들어 있는데 라면사리와 건더기 수프만 사용합니다. 수프는 음식물 쓰레기에 버려 주세요. 채소는 집에 있는 어떤 채소도 괜찮으니 개인취향대로 준비하시고요.",
+		"2. 라면 끓이기 제1 조건 소금간을 전혀 하지 않아도 수프넣은 것 이상으로 맛있게 하려면 맛난 국물맛을 내줘야 합니다. 무는 얇게 연필깎기로 저미듯이 썰어 새우와 멸치 다시마를 넣고 끓여서 육수를 만듭니다. 멸치와 다시마만 걷어 내고 무와 새우는 그냥 두었습니다.",
+		"3. 육수에 라면 사리를 넣고 보통 라면 끓이듯이 끓여 주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/51aecc239e304721a4bbe246ec4cd0af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/99b6e30ba34373bb2ef5e63a8d6f1b851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/ee15d16ae9d2200647b38433eac607f61.jpg"
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "6943159",
+	"name": "간단한 반찬 베이컨 팽이버섯 볶음 만드는 법 아이들도 맛있게 먹을 수 있는 반찬입니다.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/4ab8d097d86a43b6fd34ddc3dec7da061.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943159",
+	"ingredient_ids": [
+		406,
+		55,
+		29,
+		477,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "7",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노란파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빨간파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "볶은참깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 마늘은 0.5cm 간격으로 편 썬다.",
+		"2. 노란 파프리카, 빨간 파프리카는 0.3cm 간격으로 채 썬다.",
+		"3. 팽이버섯은 밑동을 썰고 먹기 좋게 손으로 떼어 준비한다.",
+		"4. 베이컨은 2cm 간격으로 썬다.",
+		"5. 팬에 식용유 1T를 두르고 마늘을 볶는다.",
+		"6. 마늘의 은은한 향이 올라오면 베이컨을 볶는다.",
+		"7. 베이컨에서 기름이 나오면서 노릇노릇하게 익기 시작하면 노란 파프리카, 빨간 파프리카를 넣고 볶는다.",
+		"8. 노란 파프리카, 빨간 파프리카가 투명하게 익기 시작할 때쯤 팽이버섯, 굴소스 1T를 넣고 볶는다.",
+		"9. 팽이버섯의 숨이 죽고 굴소스와 잘 섞인 상태가 되었을 때 마무리로 볶은참깨 1T를 뿌리면 베이컨 팽이버섯 볶음 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/1a0e7556364dfc0c2ee9e5088420e7341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/aba8497314aa694e66f009a93a2b4c3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/a722246c00d47336217e96e27d4bef421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/c4eff5cadff152887a404ab218a4482f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/ee05a354df9ed89043cf87759fdce5a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/ac7f2cfb07fd1298bed4771b10d19a301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/1973168d20f82f5eeb8c71ef582514921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/9c30ab49f66bffea8f263d71256bc5501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/77e72fa025a0303ac6f100f847bc298a1.jpg"
+	]
+}

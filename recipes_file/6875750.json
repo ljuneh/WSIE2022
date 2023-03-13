@@ -1,0 +1,64 @@
+{
+	"id": "6875750",
+	"name": "알배추요리 알배추된장무침 구수함 실화냐",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/24/916e3e293cc950c5cbe8f93c651479421.jpg",
+	"url": "https://www.10000recipe.com/recipe/6875750",
+	"ingredient_ids": [
+		848,
+		233,
+		27,
+		660,
+		497,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "알배추",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 알배추는 깨끗히 씻어주고 먹기좋게 3-4등분 해줍니다. 그리고 대파도 송송 썰어서 준비!",
+		"2. 알배추는 단단한 줄기부분과 얇은 잎부분을 나눠 데칠건데요. 먼저 끓는물에 소금 반스푼 넣어주고 단단한 줄기부분을 넣어 1분정도 데쳐줍니다. 그리고 1분후 잎사귀 부분도 다 넣어 1분정도 더 데쳐줍니다.                   ",
+		"3. 총 2분정도 데쳐준 후 빠르게 찬물로 이동해 손으로 짤수 있을 정도로만 헹군후 물기는 꽉 짜지말고 살짝만 짜줍니다. 알배추는 너무 많이 헹구면 단맛이 다 날아간다고해요. 그러니 손으로 짤수 있을 정도로만 헹궈주시고, 짤때도 너무 꽉 짜지 말아주세요~",
+		"4. 그리고 분량의 양념장을 넣고 조물조물 무쳐주기만 하면 되용 된장 1스푼 / 다진마늘 반스푼 참기름 / 통깨 / 대파 참고로 된장은 집집마다 간이 달라서 반스푼 먼저 넣어주시고 추가로 넣어주심 될것 같아요~!                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/cb51eabb4d39ca0f5941cfc1329eeeed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/17e6a0317790c96786fbcf43810a33061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/1ffc04ee8acb3001a3090dff8a6d3bd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/04/1f0232cf65f71e723c0f571d85a465d71.jpg"
+	]
+}

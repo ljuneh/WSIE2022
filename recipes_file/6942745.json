@@ -1,0 +1,82 @@
+{
+	"id": "6942745",
+	"name": "베이컨 달걀볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/e80e457c51a630bd5f0405b087ec1b381.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942745",
+	"ingredient_ids": [
+		219,
+		406,
+		27,
+		379,
+		497,
+		225,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 달걀 3개를 풀어 준비하고 베이컨은 적당한 크기로 썰고, 대파는 송송 썰어 준비합니다. ",
+		"2. 달군 팬에 식용유를 적당히 두르고 대파를 먼저 달달 볶아 파 기름을 만들어 주고 ",
+		"3. 이어 베이컨을 넣어 함께 볶아줍니다. ",
+		"4. 베이컨을 어느 정도 볶아 주었다면 사진처럼 한쪽으로 몰아 놓고 풀어 놓은 달걀물을 붓고 ",
+		"5. 휘휘 젓어가며 스크램블 에그를 만들어 주고 ",
+		"6. 두 재료를 섞어 한번 볶은 뒤 ",
+		"7. 간장 1을 팬 가장자리 부분에 부어 바글바글 끓여 풍미를 더해주고 그런 다음 볶아 놓았던 베이컨, 달걀과 함께 볶아준다. ",
+		"8. 이어 공깃밥 한 공기를 넣어 주걱을 세워가며 고루 볶아준다. 드셔보시고 부족한 간은 소금으로 해주세요.",
+		"9. 마지막에 후춧가루, 통깨 적당량을 넣어 휘리릭 볶아 마무리합니다. ",
+		"10. 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/fa154bead4c62ceba12c80e029987aab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/3ee25dbcfabd465e7026c7b84f56819b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/a0a3fc1fc103aa7ac01cdb3f2a4594f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/eae4f1927b861167e7662bd310da889c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/bffe643615adb71d590f0ad2de91f84b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/7150dba731d52928eb3136287e3af99d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/0ed2b633ca7136fa9033c6414e8737f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/986b2c387930d3bea29a763a2cf3452e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/8b63b9d9b541a33c39e8e928191ab3b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/d048b2fcc4c4f85e4d80224874ac834a1.jpg"
+	]
+}

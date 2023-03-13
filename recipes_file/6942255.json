@@ -1,0 +1,70 @@
+{
+	"id": "6942255",
+	"name": "참드림 경기미 고구마순비빔밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/1dfc92fffb8dcb416043c6aca32d330c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942255",
+	"ingredient_ids": [
+		660,
+		349,
+		473,
+		226,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "데친고구마순",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "데친콩나물",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무생채",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비한다.",
+		"2. 데친 콩나물에 소금, 참기름, 깨소금을 넣어서 양념한다.",
+		"3. 약간 부드럽게 데친 고구마줄기에 국간장, 참기름,깨소금으로 양념한다.",
+		"4. 무생체, 고구마줄기, 콩나물을 준비한다.",
+		"5. 비빔밥 그릇에 고추장과 함께 담아낸다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/772f8675d202c9026cbddb629a6a17731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/750d792b80df321cc7ebdae0ce42e94d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/7f275aad54f5459fe4820523356410bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/a9864afc3d565c44f97435eb13bedb211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/9542d309e0f0e49c959eb639acc786fc1.jpg"
+	]
+}

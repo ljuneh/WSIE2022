@@ -1,0 +1,104 @@
+{
+	"id": "6544373",
+	"name": "매콤한 삼치 조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/15b1b2fcb99ed6ad6d47d61b8b60b9141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6544373",
+	"ingredient_ids": [
+		72,
+		19,
+		5,
+		27,
+		295,
+		233,
+		224,
+		333,
+		547,
+		225,
+		226,
+		458,
+		343
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삼치",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 분량의 양념장을 모두 섞어 미리 양념장을 만들어 줍니다.  대파, 홍고추, 청양고추는 어슷 썰어 줍니다.  생선은 손질 후 먹기 좋은 크기로 잘라 줍니다.  무와 감자는 큼직하게 썰어 준비해 줍니다.",
+		"2. 찬물에 양조간장을 섞어 무를 넣고 끓이다가 끓기 시작하면 중불로 낮춰 10분간 더 끓여 줍니다.  무가 익으면 감자와 손질한 삼치, 양념장을 넣고 끓이고, 감자와 삼치가 익으면 대파, 홍고추, 청양고추를 넣고 한소끔 더 끓여 줍니다.",
+		"3. 겨울철 별미 밥반찬 매콤한 삼치 조림 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/47bc3be36923b73fa951a757989672ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/8ac53fd0796fa67a9bcf874cef7454b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/47c1ec9ea01c1d49f43916a626d74f371.jpg"
+	]
+}

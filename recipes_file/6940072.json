@@ -1,0 +1,108 @@
+{
+	"id": "6940072",
+	"name": "여름~오이김밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/9c006a3469e6f2a0cda3b84a40c4be201.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940072",
+	"ingredient_ids": [
+		96,
+		8,
+		9,
+		406,
+		289,
+		496,
+		201,
+		497,
+		660,
+		350
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "8",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "4",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "치즈",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 당근은 채를 썰어 주세요",
+		"2. 달구어진 프라이팬에 카놀라유를 넣고 당근을 볶아주세요",
+		"3. 계란 6개를 준비했어요 초란이라 작아서 6개  왕란은 4개정도면 되겠어요",
+		"4. 계란을 잘 풀어줄게요",
+		"5. 카놀라유를 넉넉히 두룬 팬에 계란을 부쳐 볼게요",
+		"6. 오이를 준비해서  반개만 사용 할건데요 길게 썰어주세요",
+		"7. 저는 김밥용 햄 대신 베이컨을 넣을거에요 약한불에서 베이컨을 구워주세요",
+		"8. 밥은 약간 꼬돌하게 해주세요 (질게만 안하시면 됩니다)",
+		"9. 밥에 소금 0.5T 깨소금 3T 참기름2T를 넣고 살살 비벼줄게요",
+		"10. 재료준비가 다 되었어요 여름김밥이라 시금치 대신 상큼한 오이를 넣어봤어요 오이도 소금에 저리지 않고 아삭한 그대로 넣어야 먹을때 오이향으로 김밥이 더 상큼해 집니다^^",
+		"11. 밥을 김위에 올리고 얇게 펼쳐주세요 김 전제에 골고루 밥이 올라갈 수 있게 얇게 펴주세요",
+		"12. 그위에 치즈를 제일 먼저 깔고 두떠운 순서대로 올려주시면 되세요",
+		"13. 김밥말이로 돌돌 김이 터지지 않게 잘 말아주세요",
+		"14. 김밥을 준비하기전 칼을 잘 갈아서 사용해주세요 잘 갈아진 칼로 이쁘게 잘라주시면 담백하고 시원 아삭한 여름 김밥 입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/e3ab482ba98d0a8f0add4ac240dfc8951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/cb618c48068a72223e7f8f29441012051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/de64ff643d66092ba964ab780dc3b2b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/99396c40bd152d11c15a99f8b0ceedf71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/457fa16dea486926249a0db88aa5a2191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/f8e2ecd44a8a2db3f25bd79e0f93ae611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/d2c5ebc1e1028df22e848db0a4fad8931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/89d060a2d470a497e026cb2bd187a2db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/4bf6660e050650f0188c61cda8e39cb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/c4326b9d3a1d1c50661855e03fe6ca241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/b6ed50cc96adcddbac3500143e5da0c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/eb0278ea0af8cbd499755643509847681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/3b50c680cc470424d9e81d7e849db7d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/2f440e7a7197dc500736732df6fcfb251.jpg"
+	]
+}

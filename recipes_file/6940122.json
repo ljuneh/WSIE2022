@@ -1,0 +1,59 @@
+{
+	"id": "6940122",
+	"name": "쌈무 만드는법 쌈무 레시피 쌈무절이기 고기에 싸먹자",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/51f66b2f485e5c99d718595b5b8628541.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940122",
+	"ingredient_ids": [
+		19,
+		231,
+		226,
+		497,
+		995
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 껍질을 벗겨내 얇게 썰어주세요. 채칼을 사용하여 일자로 잘라주셔도 됩니다.",
+		"2. 저는 칼로 써는게 더 편해서 이렇게 썰어 보았어요.",
+		"3. 이제 열탕소독한 그릇에 썰어놓은 무를 차례차례 대로 쌓아주세요.",
+		"4. 식초1컵, 설탕0.5, 소금0.5, 물반컵 이렇게 준비해주세요.",
+		"5. 소금이 잘풀어 지도록 섞어줍니다. 이상태로 냄비에 부워 끓여줍니다.",
+		"6. 뜨거운 상태로 그대로 부워줍니다.",
+		"7. 바로 드시고 싶으시면 실온에 3일, 천천히 드시고 싶으시다면 반나절 이상두신후 냉장보관 하시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/03e25d1140b3da45cf28fb44b29b952c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/695dd67df67ccbe63ef39f011852fd611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/7745bcec90c2622117b6b3c3acf8525c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/ef85cdc5c746920fb489111f4d435c701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/468fe8fb1800cb898b5e9869f00b7e8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/66783e325dd64b5d7b8b036a6995e3981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/6dcf1107c9ec957ee7d4b22ead6bc7df1.jpg"
+	]
+}

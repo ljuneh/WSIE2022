@@ -1,0 +1,52 @@
+{
+	"id": "816582",
+	"name": "그냥 생마를 갈아 먹기 힘들다면 마부침개 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/0a4bc3bf4b308abffc84eac996b02af7.jpg",
+	"url": "https://www.10000recipe.com/recipe/816582",
+	"ingredient_ids": [
+		387,
+		27,
+		504,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "마껍진깐것",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 마는 일단 겉에 껍질을 깨끗하게 씻은 상태에서 껍질을 까주세요. 그래야 속에 하얀 마에 흙색깔이 들지 않거든요. 마는 껍질을 까서 댕강댕강 잘라 준비하세요.",
+		"2. 분쇄기 안에 듬성듬성 썬 마를 넣고 갈아 줍니다. 갈린 마는 따로 볼에 담아 두고, 또 한차례 더 남은 마를 몽땅 갈아 줍니다.",
+		"3. 다 갈은 마에 부침가루 3숟갈, 송송 썬 대파나 쪽파 적당량 그리고 소금으로 간을 해서 반죽을 골고루 섞어 줍니다.",
+		"4. 충분히 달군 팬에 기름을 넉넉히 두르고, 만 반죽을 한숟갈씩 떠서 한 면이 노릇하게 완전히 구워지면 후딱 뒤집어서 다른 한면도 노릇노릇 구워주면 끝. 마부침개를 할때는 기름을 일반 식용유 사용하시는 것이 더 낫더라고요. 괜히 몸에 좋다고 올리브오일(그것도 엑스트라 버진 오일) 사용하게되면, 자칫 먹었을 때 익지 않은것 같은 느낌이 들 수 있으니깐요. 그냥 포도씨 오일이나 일반 삭용유 사용해서 부침개를 해주시면 되요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/4c910f3711660f432e99018ddcf80c441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/c8bac5d01bbd22ba57b263084cf82c361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/6343b2fc4f1a08770a4d3681ba725b931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/ba415836fa3856bc8182d5d5c8641c8d1.jpg"
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "6838329",
+	"name": "돼지고기수육",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/19/b8e49a0b29878812f96bfecaed49f12f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838329",
+	"ingredient_ids": [
+		27,
+		3,
+		295,
+		29,
+		28,
+		857,
+		608,
+		848,
+		568,
+		846
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기목살",
+			"ingre_count": "1500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "인스턴트커피",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "",
+			"ingre_unit": "​"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기 목살 500g을 3개를 준비합니다.",
+		"2. 돼지고기는 끓는 물에 한번 삶아줍니다.",
+		"3. 냄비에 된장을 풀고 삶은 돼지고기를 넣고 대파, 양파, 고추, 월계수잎, 통후추, 마늘, 생강 등을 넣고",
+		"4. 뚜껑을 덮어 폭 끓여줍니다.",
+		"5. 국물이 반 정도 줄고 젓가락으로 찔러봤을때 쑥 들어가면 잘 익은거니까 불을 끄고 잠시 뜸을 들여줍니다.",
+		"6. 접시에 배추김치는 꼭지 부분을 잘라놓고 무채 김치도 한줌 담고 수육을 적당한 굵기로 썰어 함께 담아주었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/24/b1bfeb1d2873c70e5401c2cebb7d44861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/24/534d786b53cadbe8f6c139fce578d6a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/24/c13037677595f67d07d26e97efc5e1d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/24/a00e96b03d2ffd10d54e607e5da2a3571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/24/b937605f0b181a9eb4d613437800bf231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/24/6c91394756c138bbdbaaed52afdf52f21.jpg"
+	]
+}

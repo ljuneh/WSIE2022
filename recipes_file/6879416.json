@@ -1,0 +1,83 @@
+{
+	"id": "6879416",
+	"name": "햄 숙주볶음 : 초간단 밥반찬&술안주",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/11/f3c9d700f1980e9bb193d0042a246eb31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6879416",
+	"ingredient_ids": [
+		295,
+		477,
+		504,
+		660,
+		290
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "숙주1봉지(250g)",
+			"ingre_count": "1봉지(250g)",
+			"ingre_unit": "봉지(g)"
+		},
+		{
+			"ingre_name": "채썬햄",
+			"ingre_count": "1/2~1주먹",
+			"ingre_unit": "~주먹"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1/2~1T",
+			"ingre_unit": "~T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 숙주는 깨끗하게 씻어서 채반에 물기를 빼주세요.",
+		"2. 대파를 얇게 썰어 준비 하세요",
+		"3. 햄을 베이컨처럼 얇게 채 썰어 주세요. *뜨거운 물에 살짝 담갔다가 빼서 사용 하셔도 좋아요(기름기 제거)",
+		"4. 청양고추를 적당한 크기로 어슷 썰어주세요.",
+		"5. 식용유에 파를 넣은 다음 중약불로 볶아 주세요.",
+		"6. 파향이 나기 시작하면 햄, 고추를 넣고 익을랑 말랑 할때까지 볶아 주세요(중불) 중간에 햄의 냄새가 싫다면 후추를 한번 톡! 뿌려주세요.                   ",
+		"7. 센불로 올려서 숙주와 굴소스를 넣고 빠르게 볶아주세요(살짝 익을랑 말랑 할때까지만!)",
+		"8. 불을 끈 뒤 참기름을 넣고 잔열로 빠르게 볶다가 얼른 접시로 옮겨주세요 (뜨거운 열에 숙주를 계속 두면 숨이 죽어요)",
+		"9. 접시에 담고 깨를 솔솔 뿌려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/13/36dc0c63ee30f0a64796fb3d00563e841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/13/cd513a9630fc7ce14d3f881811076b351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/13/3e43eeda3ba4380ad44d4e9867f0c49a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/13/60b117ad879de86a7b86d0e69407bea71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/13/5597f785de7a88f371e4d877b20456011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/13/9cfed6bb3b03bad244e013866db46aaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/13/254623254aa5d4f35f316e5d4c3bebfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/13/5252d56d9285c49d8d1996cd09d1eb701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/13/678cb0264266707b7c4f50ab91cfc9c51.jpg"
+	]
+}

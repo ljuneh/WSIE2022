@@ -1,0 +1,40 @@
+{
+	"id": "6943243",
+	"name": "심플 다이어트 건강식_단호박 라떼 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/e47012c7debe14b03da9ac9379a1ad011.png",
+	"url": "https://www.10000recipe.com/recipe/6943243",
+	"ingredient_ids": [
+		328,
+		227
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "단호박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "300",
+			"ingre_unit": "mL"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 단호박 표면을 씻어 4등분 해 준 뒤 단호박 속 씨를 제거하고 찜기에 넣고 센불에서 쪄주세요. (5~10분)5분 후 젓가락으로 쿡 찔러보고 익은 상태를 확인합니다.",
+		"2. 우유 300mL를 믹서기에 넣고 잘 쪄진 단호박을 작게 잘라 넣고 꿀 1T를 넣어줍니다.조금 더 부드러운 식감을 원하시면 껍질은 제거 후 속만 갈아주시면 노란 빛깔의 단호박 라떼를 드실 수 있습니다.",
+		"3. 믹서기에 재료를 곱게 갈아주세요.",
+		"4. 냄비에 곱게 갈아진 단호박을 넣고 따뜻하게 데워드시면 따뜻한 단호박 라떼가 완성됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/009b6553e6feb14374ec3fa9a6e11e3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/26db79b608747636108c62aee896a5ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/7b7d92e5c104f67a3ee86860317ac4531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/7350f6cc657d915682325a897316a82e1.jpg"
+	]
+}

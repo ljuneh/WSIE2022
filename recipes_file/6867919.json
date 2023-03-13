@@ -1,0 +1,278 @@
+{
+	"id": "6867919",
+	"name": "수술한 동서를 위한 반찬 5가지",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/9863c51dad5fefb3201f4f97316f719a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867919",
+	"ingredient_ids": [
+		74,
+		594,
+		995,
+		3,
+		848,
+		395,
+		29,
+		259,
+		379,
+		995,
+		227,
+		350,
+		660,
+		473,
+		995,
+		341,
+		29,
+		228,
+		350,
+		660,
+		320,
+		995,
+		227,
+		350,
+		660,
+		219,
+		728
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "장어",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "숙주2봉(600g)",
+			"ingre_count": "2봉(600g)",
+			"ingre_unit": "봉(g)"
+		},
+		{
+			"ingre_name": "어간장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "붉은고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "방아잎",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "제피가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "견과류두",
+			"ingre_count": "",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "매실진액",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "쥐채",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "매실진액",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "붉은고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "매실진액",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "수제소시지",
+			"ingre_count": "800",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 1. 장어국  장어는 깨끗하게 손질하여 잠길 정도의 물을 붓고 뼈가 흐물흐물해 질 때까지 삶아준다.                   ",
+		"2. 숙주는 끓는 물에 데쳐내고 삶아낸 장어는 도깨비방망이로 갈아준다.                   ",
+		"3. 삶아낸 봄동은 먹기 좋은 크기로 썰어 된장 3숟가락을 넣어준다.",
+		"4. 봄동은 조물조물 맛이 들게 무쳐두고 양파, 청양초, 붉은 고추는 먹기 좋게 썰어준다.",
+		"5. 장어 국물이 끓으면 된장에 무쳐둔 봄동을 넣어준다.",
+		"6. 데쳐둔 숙주, 썰어둔 채소, 마늘을 넣어준다.                   ",
+		"7. 어간장으로 간을 하고 먹기 직전에 제피가루와 방아잎을 넣어 완성한다.                   ",
+		"8. 2. 건새우 견과류 볶음  건새우는 이물질을 제거하고 먼저 프라이팬에 볶아 비린맛을 없애준다.",
+		"9. 만들어둔 양념을 붓고 볶아준 후 견과류를 넣고 잘 섞어주고 불을 끈다.",
+		"10. 마지막에 꿀과 깨소금, 참기름을 넣고 마무리한다.",
+		"11. 3. 취채무침  고추장, 물, 매실진액, 물엿을 넣고 양념이 걸죽해 질 때까지 끓여준다.",
+		"12. 손질해 둔 쥐채를 넣고 잘 섞어준다.",
+		"13. 불을 끄고 깨소금, 참기름, 마요네즈를 넣어 완성한다.",
+		"14. 4. 멸치볶음  멸치는 이물질을 제거하고 프라이팬에 바삭하게 볶아준다.",
+		"15. 먹기 좋게 썰어둔 청양초, 붉은 고추를 넣어준 후 양념을 넣어준다.",
+		"16. 마지막에 깨소금, 참기름, 마요네즈를 넣고 완성한다.",
+		"17. 5. 수제 소시지 구이  수제 소시지는 먹기 좋은 크기로 썰어 끓는 물에 데쳐 짠맛을 제거한다.",
+		"18. 달걀 옷을 입혀 노릇노릇 구워주면 완성된다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/137e77b44ed791d50df2b5ff772f93081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/2fe01b654faf497be62aa4599333de4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/0e4f2fc955a971a7db21a8ec70ca2e9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/81c5974daa5e4eba2bd7b36845fd63aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/e85023a1b6ced41f2fd8dee5f90bd6351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/e00cd15879848f5ee27116ae216678c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/dda57e39b3767268e278355ead56a89d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/9897863b63d92b3b5bcb5cf9f564436a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/aa322181d0623d21b68e5ee5c7bee4901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/12c9c67d316b28e8d489e232a2fa42a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/12431b6ea4a741280d8316f9eadb5c121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/752b55587df2eef49f6adbfb1ff029eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/5853a6d3ab80a47eb52fa3f823de90961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/d6325c7d591675cb6471c9dd554f340d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/b3deb823c3d4083f4247d96dee843c521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/aaf614f2c0df94115d1ba28a46473ef81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/d11a5e763e118713c434982b945540631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/05/019f09f9ee6ffe3873967a3e14b049d21.jpg"
+	]
+}

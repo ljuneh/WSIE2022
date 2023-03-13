@@ -1,0 +1,80 @@
+{
+	"id": "6944193",
+	"name": "밥반찬 두부조림 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/30755faac3bc4dc98838e4d3151a439f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944193",
+	"ingredient_ids": [
+		323,
+		9,
+		58,
+		3,
+		226,
+		379,
+		575,
+		660,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 두부를 일정한 크기로 자릅니다 그대로 두면 시간이 지나면서 물이 나와요 웍에 두부를 넣고 잠시 익혀서 물기를 빼주세요  야채를 썰어서 다른 팬에 식용유를 두르고 볶아주세요",
+		"2. 야채를 충분히 볶아주세요 설탕 1/2T, 간장 1T 넣고 섞어주세요  두부에 식용유를 두르고 충분히 노릇하게 부쳐주세요 뒤집어서 똑같이 부쳐주세요",
+		"3. 볶은 야채에 부친 두부를 넣고 두부 위에 설탕 1/2T, 간장 2T 넣고 뒤집개로 섞어서 볶아주세요  불을 끄고 고추가루 1T, 올리고당 1T, 참기름 1T, 통깨를 뿌려 섞어주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/51b6ed970bba72340355e5c1b696a1731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/5ddb527b5b7bf20074988ee477495ff91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/53dba43dc95457aa39f3aea416c68e471.jpg"
+	]
+}

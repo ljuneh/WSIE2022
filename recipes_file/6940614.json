@@ -1,0 +1,63 @@
+{
+	"id": "6940614",
+	"name": "[집밥]초간단 한끼 버터계란볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/6ec3d7a03250521b0f145ee5b44d59d31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940614",
+	"ingredient_ids": [
+		477,
+		27,
+		198
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		}
+	],
+	"recipe": [
+		"1. 대파는 쫑쫑 썰어서, 버터는 한조각 준비해주세요.대파 1줄기, 버터 1조각버터는 기호에 맞게 준비해주시면 됩니다. ",
+		"2. 계란 3알은 풀어주세요.계란 3알",
+		"3. 중약불로 달군 팬에 버터 한조각을 넣어 버터를 먼저 녹여주세요.버터 한조각중약불",
+		"4. 버터가 녹기 시작하면, 쫑쫑 썰어둔 파를 넣어 파기름을 내주세요.대파 1줄기중약불",
+		"5. 파 향이 노릇노릇하게 나기 시작하면, 그때 풀어둔 계란을 넣어주세요.계란 3알중약불",
+		"6. 계란 겉면이 튀겨지듯 올라오기 시작하면, 그때 스크램블을 만들어주세요.중약불",
+		"7. 스크램블이 만들어졌으면, 밥을 넣고 볶아주세요.밥 2인분중약불",
+		"8. 볶음밥이 잘 볶아졌으면, 가운데에 자리를 만들어주세요.중약불",
+		"9. 가운데 부분에 굴소스 2T를 넣어주세요.굴소스2T중약불저는 간을 세게 하는 편이라서 2.5T 넣었어요. 굴소스 대신 진간장으로 대체 가능합니다.",
+		"10. 골고루 잘 볶아주시면 완성입니다.중약불"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/e69a1e060ae479ec7c527d89b884904e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/60bb4bccb7ef4dbeb59927fb7ccb092c1.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/1173108bd5e46ceec1dc64dcc4b844db1.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/14ee122d9c0b45a34025a2407b3b4ac41.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/fd5d3be6875ec181aa84f99bbc37bbf51.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/89d4614d4e664666c2b8f2d7cd555aac1.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/f2d980fcf2c378be436e5fc4208160c81.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/cc5ad486b2131c5636d759affaa3a99c1.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/d1b70cb914321fe4117739237a1975631.gif",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/800cff60ba27835110023ca946d8cd6f1.gif"
+	]
+}

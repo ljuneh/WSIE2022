@@ -1,0 +1,49 @@
+{
+	"id": "6829023",
+	"name": "전기압력밥솥으로 옥수수찌기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/387905929d49ff596100a83891d90e381.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829023",
+	"ingredient_ids": [
+		104,
+		545
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "옥수수",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물1컵(200ml)",
+			"ingre_count": "1컵(200ml)",
+			"ingre_unit": "컵(ml)"
+		},
+		{
+			"ingre_name": "설탕1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "2/3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 옥수수를 준비하시구요. 옥수수의 겉껍질을 제거하고 몇 장씩만 남겨둡니다. 찔 때도 속껍질이 약간 있는 상태에서 찌는 것이 더 좋답니다. 옥수수 수염도 제거해줍니다. 옥수수 수염으로 차를 끓여 드시면 이뇨 효과에 좋구요.",
+		"2. 찬물에 한두번 재빨리 세척한 후에 물기를 제거합니다.",
+		"3. 옥수수를 내솥에 넣어줍니다.",
+		"4. 물 1컵에 설탕 1큰술 반과 천일염 3분의 2큰술을 넣어 고루 녹여줍니다. 옥수수 파는 집에서는 보통 설탕 대신 뉴슈가를 넣고 찐답니다.",
+		"5. 설탕과 소금이 완전히 녹으면~ 녹인 물을 고루 부어줍니다.",
+		"6. 만능찜 기능으로 30분 정도 쪄줍니다. 작은 옥수수의 경우는 20분도 가능할 듯하고요. 옥수수의 굵기나 크기에 따라 찌는 시간은 조금씩 달라질 수 있답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/346f5bc5989efb413be70f12ef3991241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/55fb9a99fbadeca3440194a6846d8aa01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/003506690bf59c447b9250c324e6cf4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/db47130794bdd34ff1c2340c9e2b9fad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/e1cffb14ca2ff821d8e08e13482c0c841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/59026f439ee08381c7b6ab2e19fb6de31.jpg"
+	]
+}

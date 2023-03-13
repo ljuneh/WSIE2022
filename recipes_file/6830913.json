@@ -1,0 +1,67 @@
+{
+	"id": "6830913",
+	"name": "아삭한 비트초절임",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/a0fb3105b49ca933f4244ceb26c8fe0b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6830913",
+	"ingredient_ids": [
+		44,
+		8,
+		21,
+		231,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "비트",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "피클링",
+			"ingre_count": "",
+			"ingre_unit": "스파이스"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 오이와 양배추는 적당히 썰어서 준비합니다.",
+		"2. 비트는 적당한 사이즈로 잘라주세요.",
+		"3. 작은 컵에 물 4번, 식초 2번, 설탕 1번, 소금 한스푼을 넣고 피클링 스파이스는 한줌 정도 넣었어요. 정확히 몇ml 막 이렇게는 개량을 못해요. 물4 : 식초2 : 설탕1 정도의 비율이라고 생각하시면 될거 같아요.",
+		"4. 팔팔 끓인 후에 준비한 재료에 뜨거운 채로 부어주세요. 뜨거워서 숨이 죽진 않을까 하는 걱정은 안하셔도 될듯해요.",
+		"5. 큰 통에 담아서 이상태로 식혀줬어요.",
+		"6. 식은 후에 소독한 유리병에 나눠 담았어요. 유리병 5개 소독했는데 4개가 나오네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/115df8e071a930869069dd4889ec56191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/cbaf007b480f7e09b1a50705bfbc06ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/0a8f71602a4526b19b8da951fc2a32401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/6cbe4902f0b9a297c490a38eb8a088a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/938039a82f51eb446e159c6f6ba18a631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/ae76e22b683b24957ed043f7b86eff041.jpg"
+	]
+}

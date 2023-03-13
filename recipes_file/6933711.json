@@ -1,0 +1,127 @@
+{
+	"id": "6933711",
+	"name": "김치찌개 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/06/02/7afeaadbd75fbdeb9257f805b8c17cd81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6933711",
+	"ingredient_ids": [
+		923,
+		27,
+		295,
+		504,
+		292,
+		233,
+		226,
+		477,
+		467,
+		660
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기목살",
+			"ingre_count": "600",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "1",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강즙혹은생강가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "강된장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 묵은지를 1년정도 이상 숙성시킨 것을 사용합니다",
+		"2. 목살은 정육점에서 먹기좋게 썰어 준비합니다  끓는 물에 정종1큰술 넣고 목살을 살짝 데쳐 핏물을 제거하고",
+		"3. 펜에 식용유를 1큰술 두르고 데친 목살 넣고 볶아줍니다 돼지고기의 고소한 맛을 업그레이드 해줍니다",
+		"4. 돼지고기가 노릇노릇하게 익으면 김치를 넣고 강된장 1큰술 넣고 살짝 더 볶아주세요",
+		"5. 그리고 김치국물을 같이 한국자 넣고 육수를 넉넉하게 부어 줍니다",
+		"6. 굴소스 1큰술 다시다1큰술 설탕1 큰술 정종1큰술 생강가루 2큰술 다진마늘 2큰술 넣고",
+		"7. 대파 청양고추를 어슷하게 썰어 넣고",
+		"8. 센불에서 끓어오르면 약불에서 한시간정도 졸여줍니다",
+		"9. 한시간정도 지나서 후추약간 참기름 조금 두르고 10분정도 끓여 줍니다",
+		"10. 그릇에 담아 줍니다",
+		"11. 맛잇는 김치찌개 밥반찬으로 먹어도 너무 좋습니다 술안주로 강추 합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/02/55d1137f114e4f452ec5ca0aa61e05681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/02/3346eef17813a4766de17a6f0cfde8271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/02/dcde1cdae8fc5a30ec90873654fa81271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/02/038eb9f7b1344a804c62a4b9281775811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/02/d9c5ae42ad731b388e3a73de54e5b6d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/02/c0d5af6982e3c85a0d34b40c6602d05c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/02/a21955b8c86a65e68f622718b65c025f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/02/d89eae8e446a4535c1b62a32697c2de01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/02/3d0214db15a1759368f57c6f9108df321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/02/ed69bc2cd3b810dab88390b82be4d74a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/02/e6bacd98c0286f912e07f02c7f2489f51.jpg"
+	]
+}

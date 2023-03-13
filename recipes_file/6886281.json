@@ -1,0 +1,52 @@
+{
+	"id": "6886281",
+	"name": "[얌무진 레시피] 쫀득쫀득, 바삭, 달콤! 떡 맛탕 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/28/7ca2a174822e92069536014f7e8518511.jpg",
+	"url": "https://www.10000recipe.com/recipe/6886281",
+	"ingredient_ids": [
+		226,
+		575,
+		995,
+		379
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "가래떡(영상에선한뼘짜리두개사용)",
+			"ingre_count": "1",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 해동한 떡을 먹기좋게 썰어줍니다.",
+		"2. 팬에 기름을 두르고 떡을 구워주세요약불",
+		"3. 양념을 모두 넣고 졸여줍니다중약불",
+		"4. 소스가 끈적해지면 떡을 넣고 섞어줍니다.약불"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/28/199d2f07553f4002f7dcdfb5caa261d11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/28/7564250313e0f0b801ad225da14f55581.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/28/c0b7091eaa7d6f868b9e081c9c4f1f881.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/28/9ae4c90e9b6c4eb3eb67ffd20e5912b51.png"
+	]
+}

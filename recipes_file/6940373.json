@@ -1,0 +1,94 @@
+{
+	"id": "6940373",
+	"name": "한입만 먹어도 시원한 음식은 바로 빙수죠~ 요즘 트렌드에 맞는 죠리퐁빙수 만들어봤어요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/a6ab3513bd9eadfea94901eca9bc31bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940373",
+	"ingredient_ids": [
+		893,
+		204,
+		218,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "죠리퐁",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "우유얼음",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "아이스크림",
+			"ingre_count": "1",
+			"ingre_unit": "스쿱"
+		},
+		{
+			"ingre_name": "오레오과자",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "초코시럽",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "카라멜시럽",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "빼빼로",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "휘핑크림",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "바나나우유",
+			"ingre_count": "240",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 아이스크림 만들 통과 휘핑크림, 바나나우유(흰우유)를 준비합니다.",
+		"2. 우유240ml과 휘핑크림500ml, 설탕1작은술을 섞은 후 냉동실에 넣어줍니다.휘핑크림500ml, 흰우유(바나나우유)240ml, 설탕1작은술넓은 통통은 아이스크림을 긁어줘야 해서 저렇게 넓은 통이 좋아요. ",
+		"3. 1시간마다 냉동실에서 꺼내어 포크로 긁어줍니다.포크",
+		"4. 아이스크림이다 싶을 정도로 긁어주고 얼려주기를 반복합니다. 저는 아이가 흰우유 알레르기가 있어서 아이스크림을 휘핑크림으로 직접 만들어봤어요. 아이스크림이 있으신 분은 이 과정은 생략하셔도 되요.",
+		"5. 집에 제빙기가 없어서 지퍼백에 우유를 넣어 얼려놨어요.우유240ml지퍼백",
+		"6. 지퍼백에 얼린 우유를 찧어서 그릇에 담아줍니다.",
+		"7. 우유샤벳 위에 아이스크림을 얹어줘요.아이스크림1스쿱",
+		"8. 연유와 카라멜시럽, 초코시럽을 뿌려줍니다.연유, 카라멜시럽, 초코시럽 취향껏~",
+		"9. 죠리퐁을 넣어줍니다.죠리퐁1/4봉지",
+		"10. 오레오와 빼빼로 등으로 장식해줍니다. 저희 집에는 널스캔디가 있어서 뿌링클처럼 뿌려줬어요. 저희 아이가 초코렛도 꽂아줬네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/12e2930e3a9058c474def30456f9b7441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/7ea056accf9cb2c85d4dcff3fb56eae51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/c9a824195436a69c37e55fbe8c98049b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/0efee0e9cdf1f38c31c396105dd506791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/a15666251f7e234ccba52811794af39a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/9222e425318e27ab77abd35a1cdc05101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/56cd73338e369bdf840f77cf62a349de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/72ac505497092f0cff3ed1bf2246b9fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/c3d66f6793ead1b6db92dddf236281651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/92a594e0245f387ce6ec854e685e82ef1.jpg"
+	]
+}

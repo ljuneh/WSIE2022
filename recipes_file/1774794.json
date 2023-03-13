@@ -1,0 +1,95 @@
+{
+	"id": "1774794",
+	"name": "입맛 살려주는 깻잎 장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/e4d2f398832cd7501189aec4a69ce6cd.jpg",
+	"url": "https://www.10000recipe.com/recipe/1774794",
+	"ingredient_ids": [
+		15,
+		379,
+		343,
+		575,
+		29,
+		3,
+		9,
+		543,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "100",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "12",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "새우젓국물",
+			"ingre_count": "3",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "4",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "5",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1.",
+			"ingre_unit": ".수저"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "3",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "매실엑기스",
+			"ingre_count": "5",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 깻잎은 깨끗이 씻어 물기 빠지게 해놓으세요.",
+		"2. 양념 재료들은 채썰고 다지고 해서 고루 섞으세요. 모지라는 간은 소금간으로 하세요.",
+		"3. 저장 용기에 깻잎 서너장씩 놓고 양념 한수저씩 올리는걸 반복 하면 돼요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/b8f53ab31622e7412a74f31dbd8cc5ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/7daa0ecab273e9c187974fc96763ad651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/b1f03e6145ebefa598a0fa8d0312f59c1.jpg"
+	]
+}

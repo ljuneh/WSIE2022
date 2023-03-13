@@ -1,0 +1,50 @@
+{
+	"id": "1759351",
+	"name": "황태무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/ec8d01486f95f32ec20efdf5b1744192.jpg",
+	"url": "https://www.10000recipe.com/recipe/1759351",
+	"ingredient_ids": [
+		473,
+		660,
+		233,
+		290
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "황태포(or북어포)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 황태포는 따뜻한 물에 10분간 불려준후 껍질을 벗기고 잔가시를 제거한후 손으로 잘게 찢어주세요. 손질한 황태포는 손으로 꾹짜서 물기를 빼주세요.",
+		"2. 양념장 재료를 넣고 조물 조물 무치시면 돼요.",
+		"3. 검은깨 살짝 뿌려 마무리해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/1534c918f945ba7971869ae4afd6cfe61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/ea4561c1b5d93dfdd4e6893cd92a50fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/ad38d950678f77745cd219915f1077221.jpg"
+	]
+}

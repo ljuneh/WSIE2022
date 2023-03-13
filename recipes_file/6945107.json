@@ -1,0 +1,41 @@
+{
+	"id": "6945107",
+	"name": "간편하게 냉동생지로 데니쉬 식빵 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/e8a9237ec9938ffdac629a6ce30772111.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945107",
+	"ingredient_ids": [
+		689
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "데니쉬식빵생지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "아몬드슬라이스",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 냉동생지를 하룻밤 냉장실에 넣어 해동해 주었어요. 냉장해동해도 되고, 아님 실온에서 40분 정도 해동한 후 발효시키면 됩니다. ",
+		"2. 해동이 완료된 데니쉬 식빵 생지를 27-30도 내외에서 3시간 정도 발효했어요.",
+		"3. 1.5~2배 정도 크기가 커질 정도로 발효하면 됩니다.",
+		"4. 발효가 완료 된 다음 우유나 계란물 발라 준 후,",
+		"5. 아몬드 슬라이스 솔솔 뿌려서 구웠어요. 175도로 예열된 오븐에서 25~30분 정도 노릇하게 구우면 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/5db363b063c618107b3888bd5891bbf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/fd2795206cc0b7b333d5b2e35269916c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/e060a34d759b0ef182bb06c1775c40651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/3bd0cb9006397fc55b3f56938ac839c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/97a32cc98b9e512a06ff67155e2592191.jpg"
+	]
+}

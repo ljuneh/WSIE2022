@@ -1,0 +1,71 @@
+{
+	"id": "6930757",
+	"name": "♥[신혼밥상] 구수한 배춧국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/33413c83716d69d9341039a2982792541.jpg",
+	"url": "https://www.10000recipe.com/recipe/6930757",
+	"ingredient_ids": [
+		848,
+		27,
+		233,
+		224,
+		295
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "알배추",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "멸치다시다육수또는생수",
+			"ingre_count": "700",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 알배추 밑단을 잘라 큰 볼에 담고 밑부분을 살살살 비며서 분리시킨 뒤 깨끗하게 씻어주세요.",
+		"2. (배춧잎 15장)먹기 좋은 크기로 썰어주세요.아이들이 먹는다면 더 잘게 썰어주셔도 좋아요.",
+		"3. 멸치다시다육수 700ml (생수도 ok)을 붓고 된장 크게 1.5숟가락을 넣고 살살 풀어주세요.집된장마다 짠농도가 다르기 때문에 된장양을 조절하세요.",
+		"4. 육수가 끓기 시작하려 할때 배춧잎을 몽땅 넣어주세요.",
+		"5. 다진마늘 반숟가락을 넣어주세요.",
+		"6. (선택) 매콤 칼칼한 맛을 선호한다면 청양고추 송송~아이국이라면 패스~",
+		"7. 대파 송송썰어 팍팍 넣어주세요.",
+		"8. 고춧가루 반스푼을 넣고 10분이상 보글보글 끓여주면 초간단 배춧국 완성!된장이 맛있고 오~래 끓여주면 국물이 졸아서 간이 필요 없음! 그래도 싱겁다면 새우젓 또는 소금"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/81c979dcf5240b8085bf1a25886bdcc21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/99560575152c2af59435ecfed942a0ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/1df4f389de3df2d6735b963a4670e07e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/123a0cef0b069124a54684664b9f3f481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/cef788ddf961242cdbeaf614864ee69a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/e13f725ec2a5f92d4fc1f726807ebf811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/1ab464933d02c4eab454eca7b718e6381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/15/0773fce8760336338a06cd997d035ec31.jpg"
+	]
+}

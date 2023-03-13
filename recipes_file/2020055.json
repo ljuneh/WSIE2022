@@ -1,0 +1,72 @@
+{
+	"id": "2020055",
+	"name": "미역냉국 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/ae5711fb4195ee14ae04f1acc155721b.jpg",
+	"url": "https://www.10000recipe.com/recipe/2020055",
+	"ingredient_ids": [
+		339,
+		3,
+		505,
+		497,
+		231,
+		250
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "불린미역",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "무순",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "수박즙",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 미역불려 한입크기로 썰어 놓고 양파채썰고 실파 송송썰어 준비합니다.",
+		"2. 분량의 수박즙에 소금, 식초, 레몬즙과 얼음을 넣습니다.",
+		"3. 손질해놓은 미역, 무순, 파등을 넣어 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/f80416679750a1fb849d44553d1636401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/d4d4ece361ee10c48db6362ab07876691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/69ecb89a34b5f240b50197769864c0c81.jpg"
+	]
+}

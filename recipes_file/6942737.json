@@ -1,0 +1,109 @@
+{
+	"id": "6942737",
+	"name": "오징어덮밥 추석요리로는 어때요?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/8f2ffc68ac4febd145595ad90517d6691.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942737",
+	"ingredient_ids": [
+		65,
+		3,
+		9,
+		27,
+		295,
+		379,
+		224,
+		226,
+		473,
+		29,
+		292,
+		660,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 야채를 준비하여 양파는 채썰기,대파와 고추는 어슷썰기,당근은 반달혹은 나박썰기 합니다.",
+		"2. 손질한 오징어는 칼집으로 모양을 내고 2등분 하여 2×5cm정도 크기로 썰어놓아요.",
+		"3. 분량의 양념(간장 고춧가루 설탕 맛술 마늘 고추장)으로 양념장을 만들어 놉니다.",
+		"4. 양념장은 바로 사용하기도 하지만 몇시간 냉장 숙성을 시키면 더 맛있어요.",
+		"5. 볶을 땐 순서를 잘 지켜야해요. 달군 팬에 식용유를 두르고 중강불에서 제일 먼저 양파와 당근을 볶아요.",
+		"6. 양파 당근이 살짝 익으면 양념장을 붓고 볶아 줍니다. 이 때 물 반컵 정도를 넣어요.",
+		"7. 양념장이 살짝 볶아지면 중불에서 오징어를 넣고 빠르게 익혀줍니다.",
+		"8. 참기름 대파 고추를 넣고 휘리릭 뒤적여주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/43383e9cfc19419c8f44591c5723cc371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/646d3800451f109ef47f18a6c161300b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/4874b6827efb6d98c8737df4e161f5da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/da0153ca57e7a3c56e50d64cee42c0331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/4874e40b5e850b3006115f99cda594731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/0c1b2afbf88f4eb8694ee8eac00937651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/0d03cdf4c0170a942f89edba800e47bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/5e27445eb1528d79a33bcf817078d1761.jpg"
+	]
+}

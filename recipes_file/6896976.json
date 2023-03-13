@@ -1,0 +1,65 @@
+{
+	"id": "6896976",
+	"name": "버터쿠키 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/a33131aa5e77c58ae6091e0f24b13b651.jpg",
+	"url": "https://www.10000recipe.com/recipe/6896976",
+	"ingredient_ids": [
+		198,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "버터",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 실온버터를 볼에 넣어줍니다",
+		"2. 버터를 부쉽니다(?)",
+		"3. 설탕을 넣습니다",
+		"4. 서걱서걱 소리가 줄어들때까지 섞어주세요",
+		"5. 서걱서걱소리가 줄어들면 계란을 넣습니다",
+		"6. 섞어주세요",
+		"7. 다 섞어주었으면 박력분또는중력분또는밀가루를 넣어줍니다(박력분이면 더 좋겠죠?)",
+		"8. 섞어주세요",
+		"9. 이렇게 묵직한 반죽이(?)됩니다",
+		"10. 짤쭈머니에 담아주세요(짤쭈머니 없으신분들은 유튜브 보고 만들어보시거나 사시면 좋으실것 같네요)",
+		"11. 이럴게 이쁘게 짜쭈세요",
+		"12. 너무 이쁘죠?근데 반죽이 뻑뻑해서 짜기 힘드실거에요",
+		"13. 버터쿠키 반죽을 180도로 예열한 오븐에 넣어 12분간 구워주세요오븐",
+		"14. 완성이 되었어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/0ab8457e7b701c865474602f9eb9c6231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/c752c4453e23147032608f6fad4eeb781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/5b15d0c9dba234d9ea77d89422ec7f1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/dbff6ae321868fa3c5a3a20c3e1acd5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/4339ccfe18f620c4e9bc59cbeea743011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/5bd88a483b539771955b2d1efe5e71d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/da0c6d94cbfddf16aedc66b41233bbcd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/2bd69e7888587e44a7c0635184c5b45f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/b232ff0b3b6c34c9d2485634ccdaf4b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/9fe4088ca4fb99e1d877a5feac36ef2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/e77605122f369959c242c4b243e130211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/987315e32842eec5e37c5c653da889551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/e01124ce45347a79cf888b005f497f921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/02/aef55dd50e617b0d890c5a5f04ed5ed71.jpg"
+	]
+}

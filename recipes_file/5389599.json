@@ -1,0 +1,50 @@
+{
+	"id": "5389599",
+	"name": "우유 과일 펀치 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/21/e92f95da2cbf7f6e3343901ac16516c11.jpg",
+	"url": "https://www.10000recipe.com/recipe/5389599",
+	"ingredient_ids": [
+		158,
+		170,
+		145,
+		693
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "사과",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "키위",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "블루베리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "아가베시럽",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "우유(과즙우유)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 사과, 키위, 블루베리, 아가베시럽, 우유( 과즙우유)를 준비했어요.",
+		"2. 과일은 작게 썰고 냉동 블루베리는 한번 헹궈 물기를 빼주세요.",
+		"3. 아가베시럽은 기호에 맞게 넣어 잘 저은 후 과일을 넣고 섞어주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/0f36e540b9c9ee71fab677eaa0b6ea9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/bd3b9c3fccc1e82973785ab9f6fd5a6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/d6652926e4c00fefa5dc31a1cfaed6941.jpg"
+	]
+}

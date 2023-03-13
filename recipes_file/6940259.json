@@ -1,0 +1,98 @@
+{
+	"id": "6940259",
+	"name": "술안주/반찬 버터문어볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/230f2243da052f477ac2d75b58a2bda41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940259",
+	"ingredient_ids": [
+		77,
+		3,
+		30,
+		198,
+		379,
+		224,
+		343,
+		226,
+		473
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "문어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당/물엿",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "파프리카가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 문어는 잘게 썰어주세요 저는 미리 삶아진 문어를 사용했습니다",
+		"2. 채소도 길쭉하게 썰어서 준비해주세요",
+		"3. 버터를 팬에 녹입니다 이때 버터말고 식용유나 올리브유를 써도 괜찮아요",
+		"4. 버터가 다 녹으면 문어를 넣고 약 3분간 볶아주세요 (중약불)",
+		"5. 그런 다음 채소를 넣고 약 5분간 또 볶습니다 (중약불)",
+		"6. 어느정도 채소가 익었으면 양념재료를 넣고 약 2분간 또 볶아주세요",
+		"7. 간을 보시고 부족한게 있다면 추가해서 맛있게 드세요^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/5726e93e8e8e02af785fc41650a6f1821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/033c793935018af564505722ad3080061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/1263efa8c425d4f1e89318779b2256fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/f52aa473354b2907fa90c920cc8490ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/8d833ad9a3dd10b646c189de02b39da21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/b64f40cba5ab42a412a83071dcfde9ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/b322971b2cc4e7c2c61ac4875aa0dabd1.jpg"
+	]
+}

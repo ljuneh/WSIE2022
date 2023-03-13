@@ -1,0 +1,114 @@
+{
+	"id": "1805484",
+	"name": "감자탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/0d8c7ea45ba5d9bd9b0d75b007d4f742.jpg",
+	"url": "https://www.10000recipe.com/recipe/1805484",
+	"ingredient_ids": [
+		5,
+		15,
+		3,
+		27,
+		28,
+		29,
+		337,
+		233,
+		848,
+		224
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지등뼈",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "얼갈이데친거",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "등뼈삶은물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "20",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "2",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "",
+			"ingre_unit": "기호"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": "기호"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 찬물에 3~4시간 정도 우려서 (중간중간 물을 바꿔 가면서) 핏물을 말끔하게 빼준 등뼈를 넣고 등뼈가 잠길 정도의 물을 붓고 팔팔 끓여서 끓인물은 버리고 헹구어서 버립니다.",
+		"2. 요 과정을 거쳐야 기름이나 불순물 제거가 된답니다. 다시 물을 잡아 센불에서 생강편을 넣고 10여분 정도 삶아서",
+		"3. 된장(2), 양파(반이나 1/4로 잘라서), 들깨가루(2), 대파(길이로 잘라서), 마늘, 생강(편으로 썬다)을 넣고 푹 끓이는데 약불에서 1시간 정도 끓고나면 채소는 모두 건져내세요. (된장 간의 세기는 집집이 다르기에 자기집 된장 간을 기준으로 넣으세요)",
+		"4. 끓는 동안 데친 얼갈이는 들깨가루(1), 고추가루(2), 된장(1), 다진마늘(1)을 넣고 조물조물 무쳐놓고",
+		"5. 감자는 껍질 벗겨 놓고 고추, 대파 송송 썰고, 깻잎은 반정도만 잘라서 준비해 놓으세요.",
+		"6. 삶은 등뼈와 감자 얼갈이 무친거 넣고 삶은 국물도 붓고 감자가 푹 익을때까지 끓여서 간 보고(모자라는 간은 소금으로)",
+		"7. 고추, 대파 넣고 끓이면서 깻잎도 넣고 마무리 끓이면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/cff6e7b1095d3d42d27f72ac5133ea051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/1e5f5be30cd23448b303487131781ac21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/f41b2d51fc4c18c4304517a13679f4c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/1377a2fd8aafc7a352a916209528d83f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/cac3bf63d4a03c5ddaf200bb33fde0c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/7c3627bfc6f23376de95b3eff79b67761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/25/35d1e91c29a905c74fdcc80f55411eb91.jpg"
+	]
+}

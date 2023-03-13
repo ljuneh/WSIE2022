@@ -1,0 +1,85 @@
+{
+	"id": "6866497",
+	"name": "오징어 젓갈 무침 밑 반찬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/08/6f9d1cf5a4b00f126b8264a1af7cbae91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866497",
+	"ingredient_ids": [
+		19,
+		295,
+		27,
+		233,
+		497,
+		224,
+		226,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어젓갈",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 무는 가늘게 채 썰어 소금1t 넣고 약10분간 절인 후 씻지말고 꼭 물기를 짜주고",
+		"2. 무 절이는 동안 대파 고추 다진마늘 준비하고 오징어 젓갈은 가위로 잘게 잘라주세요",
+		"3. 절여진 무에 고춧가루 2T 넣고 버무리고 잠시 두세요 일반 무로 하면 색이 고운데 자색무를 사용해 곱지가 않네요~먼저 무에 고춧가루를 버무려 주면 무에 색이들어 고와져요",
+		"4. 무에 오징어 젓갈 설탕 1t 마늘1 넣고 먼져 버무리고 고추 대파 넣고 버무려 주세요",
+		"5. 마지막에 통깨1 넣고 마무리해요",
+		"6. 입맛 살려주는 오징어 젓갈 무침 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/08/e4756257c457dd35635c609a68fd9cd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/08/03e4a5152ff6375712863596a1a7d3dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/08/d6fd2b2274407090616f2d23d45298171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/08/e98ab9c54bc883dc208e72336e2fdaf61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/08/e33cd9fab91ac8b43d472a7aea71cdba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/08/aba7d9bf1161435d815e1c79999bbe6e1.jpg"
+	]
+}

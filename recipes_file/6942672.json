@@ -1,0 +1,85 @@
+{
+	"id": "6942672",
+	"name": "마라소갈비찜 레시피, 하오츠 마라소스로 만드는 매콤한 밥도둑!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/c73c7f71b5bd32a40ea08851088000e01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942672",
+	"ingredient_ids": [
+		29,
+		27,
+		857,
+		9,
+		187,
+		53,
+		189
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소갈비",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "10~12알",
+			"ingre_unit": "~알"
+		},
+		{
+			"ingre_name": "베트남건고추",
+			"ingre_count": "8~10개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "5~6개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "3~4개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "은행",
+			"ingre_count": "6~7개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "하오츠마라소스",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "정수물",
+			"ingre_count": "1.",
+			"ingre_unit": ".L"
+		}
+	],
+	"recipe": [
+		"1. 소갈비는 기름을 제거한 후 찬물에 넣고 하룻밤정도 핏물을 뺍니다. 핏물을 제거한 갈비는 냄비에 마늘, 대파, 통후추, 건고추를 넣고 한번 끓여서 불순물을 제거해줍니다.초벌 삶기를 잘 하면 잡내, 불순물 제거 뿐 아니라 양념을 했을 때 양념이 쏙쏙 잘 배어 더 맛있는 소갈비찜을 만들 수 있어요!",
+		"2. 한번 끓여낸 갈비에 하오츠마라소스를 180g(1팩)을 넣고 2~30분정도 재워주세요.별다른 양념장을 만들지 않아도 마라소스만 있다면 맛있는 소갈비찜을 만들 수 있어요~",
+		"3. 재워 둔 고기를 냄비에 옮겨 담고 물 1.5L 정도를 부어주세요. 당근, 밤, 표고버섯, 은행, 대추 등을 넣고 끓여주세요. 한 번 끓어오르면 중불로 줄여 졸여주세요. 이미 고기는 충분히 익은 상태이기 때문에 국물이 자작해질 정도로만 끓여주시면 된답니다!감자나 고구마, 단호박을 넣어주셔도 맛있어요.",
+		"4. 잘 졸여진 갈비찜을 그릇에 옮겨담고 쪽파와 통깨를 살살 뿌려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/eff50251ae763d043822648b5713f30b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/f6e9d17fdc5b61dade519929be1b1ad51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/407bca88c493cdc9dd6faa9788caf5011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/20536fb08884bc887914b645b86352ae1.jpg"
+	]
+}

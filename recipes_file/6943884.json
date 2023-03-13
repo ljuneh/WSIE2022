@@ -1,0 +1,62 @@
+{
+	"id": "6943884",
+	"name": "부추김치~밥도둑이여라~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/6dc7cb7295987f566665137df4fbfd531.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943884",
+	"ingredient_ids": [
+		30,
+		333,
+		226,
+		543,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "오이소박이담고남은양념",
+			"ingre_count": "5~6큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1/2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 오이소박이하고 남았던 부추반단이네요",
+		"2.  @6943882  오이소박이 남은 양념장이네요 5~6큰술정도 양이네요",
+		"3. 양념장이 조금 부족하것 같아서 멸치액젓/설탕/통깨/고추가루를 넣어서 섞어주세요",
+		"4. 부추를 조금씩 집어서 밑에부분으로 양념장을 넉넉하게 바른후 나머지양념을 잎쪽으로 바른후 절반으로 접어서 통에 담아주세요",
+		"5. 양념장했던 그릇에 물1컵을 붓고 남은양념을 씻어서 그물을 부어주세요",
+		"6. 남은 양념장으로 만든 부추김치이네요 뚜껑을 덮어서 실온에서 1~2일을 보관후 냉장고해가면서 드시면 되세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/0bd29ceec2479df5f5b2b1b2543d61a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/eb06d94191bdf1b7935509e5899bf3fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/f6015f2be26f74441068ce47943a25b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/e35f0b486ad65be6294e9d185d0cabe81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/24ea65e03958d3de0f814efe3aa640481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/cd2913c9e77ad11cf5dc5ffff0780f661.jpg"
+	]
+}

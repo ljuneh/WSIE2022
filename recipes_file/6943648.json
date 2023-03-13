@@ -1,0 +1,58 @@
+{
+	"id": "6943648",
+	"name": "머랭쿠키의 모든것☆꿀팁 대방출!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/916c0104c20e6f6b7538db99d950d5771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943648",
+	"ingredient_ids": [
+		226,
+		250,
+		950,
+		904
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀흰자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "식용색소",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "스프링클",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 달걀흰자를 휘핑기의 제일 낮은 단계로 멍울을 먼저 풀어줍니다",
+		"2. 멍울을 풀어준뒤 고속으로 휘핑합니다",
+		"3. 어느정도 거품이 뽀얗게 되면 설탕을 3번에 나눠서 휘핑해 주세요",
+		"4. 레몬즙을 넣고 휘핑날을 들어 올렸을때 뿔이 올라오면",
+		"5. 색소를 넣고 팬닝해 주세요",
+		"6. 100도로 예열된 오븐에서 1시간정도 구워 줍니다오븐",
+		"7. 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/4a8ff17b8f1e71694da5ece0c65ce1d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/c9af1df239b8ba0b37dd65c69f6ebacd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/5b13566430d9fcc6bd9fed6599343c531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/55eb4e1e12156f1b1b400ee29207e0a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/29f3ce5b06cd6dcd19daf0491c3080491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/bcf6ee421e373d72767ee66b762e71ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/e69feddff7af21c84bf606bb6524c30e1.jpg"
+	]
+}

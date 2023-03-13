@@ -1,0 +1,83 @@
+{
+	"id": "6941313",
+	"name": "백종원감자사라다빵 백종원 감자 사라다 샐러드 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/cfea78f143b4c1d084591d1a8dfe90761.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941313",
+	"ingredient_ids": [
+		219,
+		5,
+		3,
+		9,
+		226,
+		497,
+		228,
+		289
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 계란을 삶아주세요. 완숙은 12분 입니다. 삶으실때 식초1T 넣어서 삶아주세요.",
+		"2. 감자는  @6941312  여기 삶는법이 있어요.",
+		"3. 삶은 감자를 으깨주세요. 국자가 큰효과를 봅니다.",
+		"4. 양파, 당근, 맛살 이렇게 썰어주세요.감자가 뜨거울때 넣으면 양파의 매운맛이 사라집니다.  또 당근과 맛살, 양파의 익힘 효과가 있어 쉽게 상하지 않습니다.",
+		"5. 달걀의 노른자는 채에 받쳐서 으깨주세요.",
+		"6. 이제 간을 해줍니다. 설탕1t, 소금1t, 마요네즈 2T 넣어보시고 섞으신후 간을 보세요.",
+		"7. 싱거우시면 소금간을 해주시고  퍽퍽 하다면  피클이나 마요네즈를 더 넣어주세요. 오이를 소금에 절인것도 괜찮아요.",
+		"8. 계란 흰자는 식감을 위해서  이렇게 조금은 크게 썰어주세요.",
+		"9. 이제 섞어주세요.",
+		"10. 이제 그릇에 담아줍니다. 필요할때 마다 빵에 발라드시면 됩니다. 딸기잼도 같이 발라서 드시면 더 맛있답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/9929833d35ad7e65b180025856e074a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/44d2452386d17ececa13cccac0ca33d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/540a5da2a10e72f95928b1d4dc5527c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/b4b4c4dbfadd82e003ed7aa6648d41491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/bb73eef36f72d5c00cdb1ad1b642747b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/6b808a67f4925d13ec344bee5ffec9841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/1893613c2241ec2fb9434512cc4faade1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/d5c9a940405820444476e834e8eebf061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/6f8e905e0e4f6f2867ced291b67f0dce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/59faee414d821bc97e32f333c6bc48411.jpg"
+	]
+}

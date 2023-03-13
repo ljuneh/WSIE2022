@@ -1,0 +1,67 @@
+{
+	"id": "6942213",
+	"name": "밥솥 앙금 고추장 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/faf3237428a5470ff5ae185eead41f201.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942213",
+	"ingredient_ids": [
+		224,
+		292,
+		349,
+		227
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "앙금",
+			"ingre_count": "220",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "20",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "11",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "11",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "병아리콩가루",
+			"ingre_count": "10",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 백태를 앙금으로 만들어서 고추장으로 만들어봤어요. 시판되는 앙금으로 만드셔도 돼요. 백태를 머그컵으로 반컵하시면 100g이에요. 전날 12시간 이상 물에 두어서 냉장고에 넣어서 불려두세요",
+		"2. 불린 백태를 씻어서 밥솥에 넣고 물을 눈금 2까지 부은 후 일반 취사나 빠른 취사 해주세요",
+		"3. 다 익힌 콩을 꺼내 갈아주세요. 저는 덩어리감이 좋아서 거칠게 갈았는데 믹서기에 곱게 갈면 고운 앙금으로 만들수 있어요",
+		"4. 갈은 콩을 밥솥에 넣고 설탕 10T, 물2T 넣은 후 만능찜 10분 해주세요",
+		"5. 앙금완성",
+		"6. 만능찜이 다 된 후 저어주시면 안에 남은 물기도 날라가요",
+		"7. 앙금 8T와 고춧가루 20T, 국간장10T, 맛술 10T 넣고 *짭잘한것을 좋아해서 국간장을 썼어요. 진간장도 괜찮아요",
+		"8. 병아리콩 가루(혹은 메주가루, 미숫가루 괜찮아요) 10T 넣고 또 섞어주세요. 너무 되직하면 국간장과 맛술은 1T씩 더 넣으면서 조절하세요",
+		"9. 완성이에요. 냉장고에 넣고 1주에 한번씩 고르게 섞어주시면서 2개월 정도 기다리시면 맛있는 고추장이 됩니다 :)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/95ac9e2998272eed32e9f84f6bf2b8231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/359d48704d6e3a77b51e42e35f5e67fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/f26ee14f4d0f9cf1ec06cc75eeee07e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/dd43917b77e83475e4398c507fafb4a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/1190934134edf426648ad41b4f917cb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/e86604681381b3d3b673f0d1178772421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/b66422d1510a70c146dbe87bb721aa4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/50df045308ad35868ec09d18facb444a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/952b9d903b3054b1f795d52d3c3588441.jpg"
+	]
+}

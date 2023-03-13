@@ -1,0 +1,101 @@
+{
+	"id": "2015331",
+	"name": "돼지고기 목살 김치찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/11/66e1c04182a18b0d6357e844dbbb2acf.jpg",
+	"url": "https://www.10000recipe.com/recipe/2015331",
+	"ingredient_ids": [
+		923,
+		3,
+		29,
+		27,
+		497,
+		226,
+		995,
+		90,
+		320
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "1/2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "돼지고기목살",
+			"ingre_count": "150~200g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "청주or소주",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		},
+		{
+			"ingre_name": "새우머리",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		}
+	],
+	"recipe": [
+		"1. 사용할고기(약 150~200g정도 되지 않았을까요?ㅎㅎ 눈대중;;;)는 찬물에 30분이상 두어서 핏물을 빼주세요",
+		"2. 핏물을 제거한 고기는 흐르는 물에 살짝 헹구기만 하시고 청주나 소주, 와인에 절여서 누린내제거를 해주세요..",
+		"3. 고기가 절여질동안에 육수를 끓여주시면 됩니다. 육수재료를 그냥 모두 넣으시고 바글바글 끓여주시면 끝. 불에서 내리고 잠시 식혀주세요",
+		"4. 김치찜을 할 냄비에 술에 절여둔 고기와 묵은지 반포기를 넣고, 양파, 파를 넣어주세요 양파는 그냥 내맘대로 썰었구요...대파는 냉동실에 이렇게 송송썰어둔것밖에 없어서 그냥 넣었어요... 대파는 어슷썰기로 넣어주시면 더 좋답니다~",
+		"5. 김치 포기 사이사이에 고기를 넣어주었어요",
+		"6. 그리고 끓여둔 육수를 부어주세요 모든 재료들이 잠길정도로 부어주시면 됩니다. 각각 사용하실 냄비나 양에 따라 육수의 양도 달라지겠죠? 그리고 난후에는 그냥 푹~~~~ 삶아주시면 됩니당... 간은 후추나 설탕으로 맞춰주세요 설탕을 넣으시면 신맛이 약간은 잡히는 느낌이 들더라구요... 저는 1Ts 넣어주었답니다. 그리고 나서.. 한 2시간가량 푹 삶아준것 같네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/24/6151ca53bb909e219fa316b475dcd5c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/24/eff77d83be9a4ffd7828910c900f19d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/24/8a9687108e7f0d7835a35a9e91ab45711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/24/a9f2695f2a3a4a093ad1d31f4e60ad071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/24/593903bd35cfbdbea5c6fc54423e98641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/24/6ec666d5319ad1971826c60a033fb0c71.jpg"
+	]
+}

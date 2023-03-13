@@ -1,0 +1,105 @@
+{
+	"id": "6873250",
+	"name": "집밥 백선생3 홍어찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/21/69feb6f073c9492031a707ccba77ec351.jpg",
+	"url": "https://www.10000recipe.com/recipe/6873250",
+	"ingredient_ids": [
+		533,
+		20,
+		292,
+		27,
+		3,
+		295,
+		233,
+		660,
+		290,
+		379,
+		224,
+		848
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "홍어",
+			"ingre_count": "450",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "200",
+			"ingre_unit": "g~"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 키친타월로 깨끗이 닦아준 홍어에 칼로 길쭉하게 칼집을 내주세요. (이렇게 해주면 양념이 골고루~)",
+		"2. 그리고 찜기에 수증기가 오르면 준비한 맛술을(비린내 제거) 넣고 위에 홍어를 올리고 뚜껑을 닫은 다음 중불에서 7분간 쪄주세요.",
+		"3. 홍어를 찌는 동안 양념장을 만들어볼까요. 대파와 양파와 청양고추를 잘게 잘게 다져 준비해주세요.",
+		"4. 그리고 그릇에 썰어둔 재료들과 다진 마늘, 참기름, 깨를 넣고 잘 섞어주세요.",
+		"5. 이렇게 섞어둔 재료를 반으로 갈라 한 쪽엔 담백한 양념장을",
+		"6. 다른 쪽엔 매콤한 양념장 재료를 넣고 잘 섞어주시면 양념장 준비는 끝.",
+		"7. 아 참! 양념장 만드는 게 다 끝나셨으면 미나리는 10cm 간격으로 썰어 준비해주시면 재료 손질은 끝.",
+		"8. 7분 후 홍어가 어느 정도 익었으면 위에 아까 만들어 놓은 양념장을 고르게 펴서 발라준 다음, 뚜껑을 닫고 3분~",
+		"9. 그리고 3분 후 미나리를 넣고 다시 뚜껑을 닫은 다음 2분만 더 쪄주시면 오늘의 요리 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/21/a35c7debf826c2a63e8853e1c14c0cfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/21/9188aa731a42bb33857db69e82fee1141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/21/34daa8c2c024702af0f7520b6cc026031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/21/a7bbe83bda6551767b392937ad1616dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/21/d650fbab105dd8797d35b7bfc48569f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/21/716f618f6a66622294079590e104c4541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/21/c30df29eb46736e105cb7fe87a4fcf351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/21/4bb4d4ffe4ffeb99d195577d88b5b8b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/21/c4b6af6aaa7590267d2ccef2366888ba1.jpg"
+	]
+}

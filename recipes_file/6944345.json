@@ -1,0 +1,85 @@
+{
+	"id": "6944345",
+	"name": "낙지파전 만드는법(너무나 쉽고 간단해요.)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/832803ca2613df296b99ffdbeb66fac41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944345",
+	"ingredient_ids": [
+		757,
+		734,
+		387,
+		655,
+		219
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "낙지큰거",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "탄산수",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개씩"
+		}
+	],
+	"recipe": [
+		"1. 쪽파는 깨끗이 씻어서 물기를 빼주세요. 그리고 2등분 해주세요.",
+		"2. 낙지는 내장을 제거해주세요.",
+		"3. 그리고 굵은소금을 넣고 빨래하듯이 씻어주세요. 뻘 낙지면 이렇게 하는것이 좋고 그냥 낙지는 빨판이 깨끗해서 조금만 씻어도 되요.",
+		"4. 씻은 낙지는 뜨거운 물에 살짝 데쳐주세요. 데치는 이유는 나중에 파전을 부칠때 기름에 튀지않아서 좋아요.",
+		"5. 데친 낙지는 길게 썰어주세요.",
+		"6. 고추는 어슷썰어서 준비해주세요. ",
+		"7. 달걀 2개는 풀어서 준비해주세요.",
+		"8. 반죽을 만들어줄께요. 부침가루 1컵에 튀김가루 1컵을 섞고 탄산수(그냥 찬물을 써도 되요.) 를 넣고 농도는 요플레정도 농도로 준비해주세요.",
+		"9. 이제 달궈진 팬에 기름을 넉넉히 두르고 반죽을 넣어주세요.",
+		"10. 그 위에 쪽파를 올려주세요.",
+		"11. 낙지와 고추를 올려주세요.",
+		"12. 그 위에 반죽을 조금 뿌려서 접착력을 높여주세요.",
+		"13. 그리고 달걀을 위에 올려주세요. (고소한 맛도 추가되면서 접착력을 더 높여줘요.)",
+		"14. 이제 앞뒤로 노릇하게 익혀주면 낙지파전 완성이에요.",
+		"15. 초간장을 만들어서 곁들어 드시면 완성이에요. 간장 1: 식초 0.5 : 고춧가루 약간을 섞어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/404787b4cf6dbc47dbb4d4e438f03aaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/b771d1bbbc153d3bf2166b6b140d70701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/5a306e97664a63a1928ff35ce40e0f201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/43a96205ec7eb962f3f4cb6f686f03d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/2dfc0f09510475b9b9435c3dfd6d4e231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/eb8b64a33378ef4e0d2d051bfbfe4b3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/322612aef04e8bd76d5d9b174036e1511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/c111b083c24f8f5f72e30d5f0a1468e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/d5ba444bd813b00e4fdc8d42f2a4507c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/71da8d5eace0500925d45f4e9386031d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/59772c684c4a0b015ba4d8ad5a7a0ce71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/6dc59ca557c79dd330175d577c63e5451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/869c1e262145e7f59644d7e8d4ffb6951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/d09871f5db6251e43fc849327c18f13c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/6e954e53d89476a225e495044e3630081.jpg"
+	]
+}

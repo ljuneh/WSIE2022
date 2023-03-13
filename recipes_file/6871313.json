@@ -1,0 +1,59 @@
+{
+	"id": "6871313",
+	"name": "마늘쫑 장아찌 고추장 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/15/7fc2bf9a2de1f70af307107f8aed44f81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6871313",
+	"ingredient_ids": [
+		17,
+		473,
+		224,
+		575,
+		543,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘쫑",
+			"ingre_count": "3",
+			"ingre_unit": "컵분량"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 정말 간단한 재료로 5분 만에 완성되는 반찬이랍니다 저는 마늘 장아찌 담글때 마늘쫑을 넣어서 덤으로 만들어진 마늘쫑 장아찌와 마늘 짱아찌도  같이 넣어서 무쳐봤어요",
+		"2. 고추장,고춧가루,설탕이나 올리고당 그리고 참깨와 참기름을 넣어 조물 조물 무쳐 주기만 하면 되는데요",
+		"3. 정말 간단한 재료와 레시피지만 이 맛을 아는 분들은 너무 좋아 하실 반참이랍니다",
+		"4. 오늘은 밥대신 누룽지를 끓여서 뜨끈한 누룽지에 올려 먹으니 세상 부러울 반찬이 없더랍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/15/d88b338dd14cf3d40b5c7cead76225c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/15/eacfa76c948d8db57de78a993500edc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/15/5a34e962c03478a22df8c93f66d6a9971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/15/bc23306ff9c8ca06a819b0179c484b2c1.jpg"
+	]
+}

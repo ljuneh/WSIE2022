@@ -1,0 +1,104 @@
+{
+	"id": "6941231",
+	"name": "된장찌개 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/8e5c15d6cb747f278b0970fc18d7dbad1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941231",
+	"ingredient_ids": [
+		323,
+		27,
+		7,
+		3,
+		295,
+		5,
+		19,
+		876,
+		848,
+		233,
+		473,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기국거리용1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 야채는 찌개용으로 작게 썰어주세요. 고추는 매운맛을 위한거니 취향껏 넣어주시면 되요!",
+		"2. 두부 한 모도 잘 썰어 줍니다.",
+		"3. 소고기를 종이컵 기준 한컵 반 준비하여 냄비에 후추를 조금 넣고 볶아줍니다.중약불고깃집에서 된장찌개용 소기름 부분을 얻어와 넣어주시면 훨씬 구수하답니다!",
+		"4. 고기가 어느정도 익으면 익기 오래 걸리는 무를 먼저 넣어 한번 더 볶아줍니다.",
+		"5. 쌀뜨물을 국.그릇으로 두그릇반~세그릇 정도 넣고 푹 끓여줍니다. 된장 크게 두 스푼, 고추장 한 스푼도 잘 풀어 넣어주세요.센불쌀뜨물은 찌개 끓일때 육수로 사용하면 좋답니다!",
+		"6. 무가 어느정도 익으면 나머지 야채,두부를 넣고 다진마늘 한 스푼, 고춧가루 두 스푼 을 넣고 한소끔 끓여주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/4f2578bce7f538940837160b733cd7b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/855919992043345146516c6c445984041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/c5d3306796120674b865b464c26e8c721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/7032b0e13094fbdce35bce6ee65dee6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/8de1ee1a99b1231163d4d4333afbc86c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/425de297fea19af721d9fa71796b85b21.jpg"
+	]
+}

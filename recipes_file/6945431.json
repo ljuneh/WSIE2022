@@ -1,0 +1,49 @@
+{
+	"id": "6945431",
+	"name": "[자취요리] 바나나 오트밀 쿠키",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/e2bb762f28334c4cd8d6da0ebcdfc0fd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945431",
+	"ingredient_ids": [
+		572,
+		141
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오트밀",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "꿀또는요리당",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "올리브유또는식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 바나나1개 , 오트밀 3 넣는다.",
+		"2. 꿀 또는 요리당 1 넣고",
+		"3. 으깬다.",
+		"4. 종이호일에 올리브유 약간 바른뒤",
+		"5. 쿠키모양을 잡고",
+		"6. 에어프라이어 200도 10분 돌린다.에어프라이어"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/0d8bfe0211243f26d0fbc883c309f3da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/e4fa0ae317d68ca70cac15ab379d49d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/b5ea5415ac3f9e350567484a5cf5a8161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/0438ce25f234d86141cecc46475a6cbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/dd54b93418d74efea1150ef44e1b90fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/01/2d3476ecd6212cf919c8f8cc4921425c1.jpg"
+	]
+}

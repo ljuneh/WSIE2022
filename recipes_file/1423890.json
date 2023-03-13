@@ -1,0 +1,92 @@
+{
+	"id": "1423890",
+	"name": "간장 소스 닭날개 튀김 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/1528a7d9a744024bb981f6c532336353.jpg",
+	"url": "https://www.10000recipe.com/recipe/1423890",
+	"ingredient_ids": [
+		383,
+		995,
+		379,
+		477,
+		226,
+		233,
+		846,
+		514
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭날개",
+			"ingre_count": "24",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "감자전분",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다시마(5*5)",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "핫소스",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 일단, 닭날개는 흐르는 물에 깨끗히 씻어서 준비한다음우유에 닭날개가 잠길정도만큼 넣어 잡내와 비릿내를 잡아주세요. 전, 우유가 모잘라서 물을 약간 넣어서 30분정도 재어주었어요.",
+		"2. 30분정도 재어둔 닭날개는 흐르는물에 다시한번 씻어서키친타올에 올려 물기를 닦아 준비하고",
+		"3. 비닐봉지에 감자전분과 닭날개를 담고비닐봉지를 마구 흔들어서 자 연스럽게 감자전분이 닭날개에 골고루 입혀질수있도록 흔들어주세요. 감자전분이 닭날개의 수분을 충분히 흡수할수있도록 10분정도 가만히 두고",
+		"4. 깨끗한 기름을 적당한 팬에 담고 적정온도가되면 9분정도 갈색빛이 돌때까지 바싹하게 튀겨주세요.",
+		"5. 잘튀겨진 닭날개튀김은 채반에 키친타올올려 기름을 빼내고간장소스에 버무려주면 엄마표 교촌치킨이 완성되는데 이렇게 튀긴 닭날개튀김 허니머스타드소스나 좋아하는 소스에 콕하니~ 찍어먹어도 좋답니다.",
+		"6. 이제 양념을 만들어주시는데, 물 100ml(1/2컵), 다시마(5*5) 1장, 간장 1T, 굴소스 1T, 설탕 1T, 다진마늘 1T, 청주 1T, 핫소스 1t 넣어 소스가 펄펄 끓을때까지 끓여주세요.",
+		"7. 소스가 완성되면 간장소스에 휘리릭 버무려 접시에 담아내시면 됩니다. 간장소스에 닭날개튀김을 완벽하게 버무리실 필요 없어요. 대충대충 버무리면 소스가 뭍지않은 곳은 더욱더 바삭해서 짭조름하면서도 바삭한 교촌치킨을 즐기실수있거든요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/7b97b4fb3231d269fa89a6538ea8277b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/f3092d3f6f4a2ecfb04ba8b7b96cce7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/29d41ee2139ac37da078865c7149a2431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/901b5e62827d0294374a46962275c6e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/d8ea2bb648fdf9cffbc34627caee5ad41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/a807a6e0600f92e1c71c3a6b324eb3911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/14/78cc3128d1a0e1773af2a592e8f2b4401.jpg"
+	]
+}

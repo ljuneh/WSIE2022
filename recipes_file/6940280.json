@@ -1,0 +1,63 @@
+{
+	"id": "6940280",
+	"name": "정식품 콩국물을 이용한 쫀득한 젤라또 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/1612463c2d0d46211156d20846668df71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940280",
+	"ingredient_ids": [
+		383,
+		485,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "정식품진한콩국물",
+			"ingre_count": "350",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "정식품진한검은콩콩국물",
+			"ingre_count": "350",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "감자전분",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 정식품 진한 콩국물 (검은콩) 을 준비한다.",
+		"2. 정식품 진한 콩국물을 준비한다.",
+		"3. 감자전분을 준비한다.",
+		"4. 설탕을 준비한다.",
+		"5. 생크림을 준비한다.",
+		"6. 검은콩 국물에 전분을 넣고 한번 섞는다.",
+		"7. 한번 섞은 뒤 나머지 재료를 넣고 한번 더 섞어 준다.",
+		"8. 약불에서 은은하게 끓여 준다.농도는 주르륵 흐르는 정도가 가장 좋아요. 너무 오래 끓이면 쫀득함이 살아지고, 너무 적게 끓이면 전분맛이 남아있어요.",
+		"9. 용기에 담아 냉동실에 4시간 정도 얼려준다.",
+		"10. 숟가락으로 부셔서 잘 섞어 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/0f62bea7a05873ba4829a77b6b088d1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/db1b550d432a105c606b206d632b5b231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/6529c16ba6361a14390fb7ab61da2bf61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/d52b331ee612a464f576f5957b921cad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/8a78b14b97ba949277200cecc1c008fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/ee387f00eedc8f91ad6c771bd955e91e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/0eae9b51e349d9c91cfba566ff8187d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/82804d3940ebf8bf81ab3374d0084c5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/23a6c866c1810a2cf1b43a1b5444dc371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/0232ce0ee1ba373ffea6fcfbc9d0b9261.jpg"
+	]
+}

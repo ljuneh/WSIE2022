@@ -1,0 +1,80 @@
+{
+	"id": "3303893",
+	"name": "갈릭 올리브스파게티 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/03/31/969fe83fb2553ce900b063418f2af94d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/3303893",
+	"ingredient_ids": [
+		735,
+		29,
+		995,
+		497,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "마른홍고추작은것",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "7",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "올리브슬라이스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1000",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "파르메산치즈가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 삶아낸 스파게티면을 체에 받쳐 준 뒤, 올리브오일 1큰술을 넣고 고루 버무려 줍니다. 그래야 서로 달라붙지 않아요. 삶아서 바로 사용할 땐 굳이 사용하지 않아도 됩니다.",
+		"2. 올리브오일을 3큰술 넣은 달궈진 팬에 편썬 마늘을 넣고, 마른 홍고추를 작게 잘라 넣고 마늘과 고추향이 나게 볶아줍니다. 슬라이스올리브을 넣고 고루 볶아 주다가 화이트와인을 넣고 볶아줍니다.",
+		"3. 마늘 향나게 볶아지면 스파게티면을 넣고 고루 볶아 줍니다. 간을 보아 소금을 조금 넣어 주셔도 좋아요.",
+		"4. 파슬리가루를 뿌려 마무리~",
+		"5. 접시에 담아내고 올리브오일을 1큰술 사르르 뿌려낸 후 식성에따라 파르메산치즈가루를 뿌려 드시면 됩니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/31/c7d82c65864689d661cb8a6baf0cc94f1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/31/58932959417e49ed8a851ef018abe0791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/31/7dfc548280154723aaed1fc2f6dd35b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/31/63cefbaaaae5d09b3de0a0ed8fa4f4201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/31/207b406e81eb42c9708e14ab0b014deb1.jpg"
+	]
+}

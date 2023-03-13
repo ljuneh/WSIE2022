@@ -1,0 +1,81 @@
+{
+	"id": "6941838",
+	"name": "야끼 카레 만들기 (남은카레 요리) (쉬움, 자취, 만드는 법, 전자레인지, 치즈)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/137a9582165fcdfc61aa077fc75e1dd31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941838",
+	"ingredient_ids": [
+		3,
+		406,
+		201,
+		198,
+		477
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "남은카레",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 카레를 시켜 먹거나 해 먹습니다.",
+		"2. 남은 카레를 잘 보관해뒀다가 다음날 꺼냅니다.",
+		"3. 양파 1개를 준비하고 잘 썰어주세요",
+		"4. 양파를 볶아주세요",
+		"5. 베이컨을 준비하고 잘 썰어서 같이 볶아줍니다.",
+		"6. 볶은 야채에 남은 카레들을 넣어주고 굴소스를 1큰술 넣어주고 볶습니다.",
+		"7. 집에 있는 치즈를 준비해줍니다. (모짜렐라가 있으면 모짜렐라를 추천드려요!) 저는 집에 치즈가 이것 뿐이였어요 ㅠㅠ",
+		"8. 계란1개를 준비하고 잘 풀어줍니다.",
+		"9. 버터를 준비합니다.",
+		"10. 볶은 카레를 그릇에 담고 버터 1숟가락 을 올려주고 풀어준 계란을 부어주고",
+		"11. 치즈를 올려줍니다.",
+		"12. 전자레인지에 3분 돌려주세요.전자레인지",
+		"13. 완성! 잘 섞어서 드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/3df17259b26d528e9d981c4819f4e81e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/e6847d536bd11d82d43b5189d2c1dfa51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/54f50d5ed24a15a2e168625720358a311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/38da448f4870c76437e8411c3908bb201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/2cc07d88d420268c94f8383db682bc331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/87399273bde36a90ec44fa4f816100771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/dfeb1cd61fe80264c87c5ab0516c75331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/ba5c362b004f11e0791c57a3fa6a349d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/482303b972a449a79fcc0c473192dda11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/adaee89217c6d80494ed7a7f19265e501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/821c9e0b12f8926ec2c2834380ab5c0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/af469453851593bf0e015e0eec15a2031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/935cfa1c23e2ceab9da83b5db48af39f1.jpg"
+	]
+}

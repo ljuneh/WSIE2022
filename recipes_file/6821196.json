@@ -1,0 +1,76 @@
+{
+	"id": "6821196",
+	"name": "후라이드치킨",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/a9bd1c89d24ed39c76168bb36b8fe1831.jpg",
+	"url": "https://www.10000recipe.com/recipe/6821196",
+	"ingredient_ids": [
+		246,
+		233,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "레드와인",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "바질가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "강황가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 손을 깨끗하게 씻고 필요한 재료를 준비해주세요.",
+		"2. 칼집을 내어주시면 속까지 더욱 빠르게 익힐 수 있답니다.",
+		"3. 레드와인반컵,바질가루1/2T,후추1/2t, 소금1t,다진마늘1T을 넣고 가볍게 섞어 닭고기를 재워두겠습니다.",
+		"4. 박력분2컵,강황가루1/2T,소금1/2T,물300ML을 넣어 가볍게 섞어 반죽을 완성 해 주세요. 강황은 너무 많이 넣게 되시면 쓴맛이 날 수 있으니 주의 해 주시구요",
+		"5. 시즈닝 해 두었던 닭을 완성한 후라이드치킨 튀김반죽에 넣고 고루 섞어 튀길 준비를 해 주세요.",
+		"6. 기름의 온도는 180~185도 정도가 적당한데요, 강불에서 4분간 예열 해 주시고 소금을 살짝 넣어 보셨을 때 타다닥~ 튀어오르면 적당한 온도에요.",
+		"7. 튀김반죽을 묻혀 두었던 치킨을 초벌튀김 해 보겠습니다. 불은 중불에서 강불 사이로 조절 해 주시고 가장 처음 기름에 넣고 난 뒤에는 뒤적거림을 삼가 해 주세요. 30초에서 1분정도 지난 다음에 붙은 닭을 떼어 주셔야 지저분하지 않고 깔끔하게 튀기실 수 있습니다.",
+		"8. 두세번정도 뒤집어 가면서 6분간 튀긴 후라이드치킨을 키친타월에 바쳐 기름을 빼 주시고 기름의 온도가 오르도록 3분정도 기다려주세요.",
+		"9. 기름온도가 다시 오른 다음 키친타올에 바쳐두었던 치킨을 다시 넣고 재벌튀김 해 보겠습니다. 이때는 3분정도 추가로 더 튀겨주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/a08ef8773ae057b293793d54b84734fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/cf892f540c2a0ba0e97399c0c83e2c571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/12affa78a1270202276ca4e6ea3d9c401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/d9a56ac5515e50782df7974e65c9dd9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/152e9446d57b96d116000fc6f1f925f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/f955e142dbc771a51371c026d6dc3a141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/48879dd22e123e301c1f109776c77eb21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/a329c8696e063177f1ac8812e3483d791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/cae6e29409f74aebd5ed5aef4dafc94b1.jpg"
+	]
+}

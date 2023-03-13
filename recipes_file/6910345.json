@@ -1,0 +1,83 @@
+{
+	"id": "6910345",
+	"name": "허니갈릭 연어",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/3b4c7f70f3c9509790df0718377f52ce1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6910345",
+	"ingredient_ids": [
+		61,
+		497,
+		995,
+		379,
+		227,
+		570
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "연어",
+			"ingre_count": "3",
+			"ingre_unit": "덩이"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "올리브오일혹은식용유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "옥수수전분",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 소금과 후추를 이용해 연어 밑간을 해줄게요",
+		"2. 팬에 올리브 오일을 넉넉히 둘러주세요",
+		"3. 중간불에 밑간을한 연어를 양쪽 다 익혀줄게요",
+		"4. 다 구워진 연어는 그릇에담아 따듯함을 유지할 수 있게 호일로 덮어주세요",
+		"5. 다진마늘을 넣고 30초만 볶아줄게요",
+		"6. 그 후, 물 5T와 간장 5T와, 꿀 3T을 넣어줄게요",
+		"7. 옥수수전분과 물을 잘 섞어줄게요",
+		"8. 옥수수전분을 양념에 넣어 농도를 맞춰주세요",
+		"9. 양념이 끓으면 연어를 넣고 조려줄게요",
+		"10. 양념을 연어에 끼얹어 주세요",
+		"11. 그릇에 담으면 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/289d63edffaa708c8e2ca20c5bf9be2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/61f6366b6aa3bc83add10fc6c6becf3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/970079b6f317ebd04310c00c65d3542b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/a6a321e350c154651a0e0f0d4eb3ee461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/75bdfe1a7cc1757a3bd743149def7c9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/fe6451279bb41a1ca279d6e42d64a3bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/3cc8363afd11891587d73db1705c8dfb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/6b1e68df017a691c06997c309147d0101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/1a9f61fad062c4661b7581e3a5e63a6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/a9cfc88fea166dbbc2ca62634fed24821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/04/12/0da41d3a55c42b60d3a0044a208e142f1.jpg"
+	]
+}

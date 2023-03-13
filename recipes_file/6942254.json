@@ -1,0 +1,91 @@
+{
+	"id": "6942254",
+	"name": "참드림을 활용한 두부알선(찜)을 소개합니다~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/6ccda91bda5ad294bd663effb6a75cd21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942254",
+	"ingredient_ids": [
+		323,
+		292,
+		27,
+		497,
+		379,
+		231,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "붉은파프라카",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "노랑파프리카",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비한다.",
+		"2. 두부는 으깨고 야채는 잘게 다져준다.",
+		"3. 달걀 3개와 밥, 다진야채를 섞은 후 소금, 맛술로 간을 한다.",
+		"4. 사각틀에 호일을 깔고 재료를 부어준다.",
+		"5. 찜기에 15분간 찐다.",
+		"6. 접시에 식힌다.",
+		"7. 사각 모양으로 썰어준 후 대파로 장식하고 초간장을 곁들여 낸다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/c38cc3d8c573abcdb2a53ed48c9144731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/02401e2e98f695d5aa6fb1b77ed6c3da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/2bfe7b9c7b9166982e2e0f22dce1796c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/c3077290ea46cfad7e60b3a08e61ccb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/f95f0569a1f73f017204e9476dc9783c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/ca3045d2922df6a987918b34a118d00b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/1e081dd014a5969a6df870c3a470b35e1.jpg"
+	]
+}

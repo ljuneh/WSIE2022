@@ -1,0 +1,101 @@
+{
+	"id": "6941451",
+	"name": "남편이 제일좋아하는 반찬 어묵볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/b4904f57e07c78d903bb8d4315bc337c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941451",
+	"ingredient_ids": [
+		548,
+		3,
+		27,
+		477,
+		379,
+		226,
+		575,
+		233,
+		290,
+		995
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2/3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/3",
+			"ingre_unit": "종이컵"
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료들을 준비해요",
+		"2. 어묵은 사각썰기를 해도 되고  길쭉길쭉 하니 잘라도 됩니다",
+		"3. 제일먼저 기름 좀 두르고 (저는 올리브유 썻어요~) 다진마늘을 볶아주는데요 센불에하시면 바로 타버리니 작은불에 마늘기름 나오게 볶아주세요~",
+		"4. 약한불에 잘 볶아서 마늘기름 내주었으면 이제 부터 순~~~ 싹",
+		"5. 양념을 뺀 모든 재료를 냅다 들이붓고  양파가 약간 투명해질때까지 볶아주세요~~ 휙 휙 빠른 손놀림을 필요로 합니다!",
+		"6. 양파가 투명색이 보이기 시작하면  이제 양념을 넣을때에요~ 굴소스 넣고, 간장넣고, 설탕, 올리고당 넣고 볶아준후에 물 1/3 컵을 부어주세요~ 약간 말랑하게 먹기위해서요~",
+		"7. 얼추 다 볶아졌으면 이제 깨소금 투하!!!! 한번 더 뒤적여 주고~",
+		"8. 완성되었어요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/49bc381415313f29453ac4f8c2d655f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/f9b3d345313f7589f342463f4f1434911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/ef0674e17b565ceb7d7071e50ddcbfef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/8776de7f95032b660cc9ac995c647d161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/db35fa683c54814b16af8dcbacc70aff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/8dfadf9c1191edd8dba5c307d77b5f491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/0f0bd9da4e3079776260acb8d1926c8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/1c97952ac6a1fbd97f15336b961fb6721.jpg"
+	]
+}

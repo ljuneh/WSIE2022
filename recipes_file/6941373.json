@@ -1,0 +1,91 @@
+{
+	"id": "6941373",
+	"name": "경기미 참드림 _ 쭈욱~ 늘어나는 치즈 밥피자",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/0403f885bd998a8ea341595c753c282e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941373",
+	"ingredient_ids": [
+		96,
+		732,
+		473,
+		3,
+		325,
+		6,
+		175,
+		216,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "또띠야",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "토마토소스",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 경기미 참드림을 깨끗하게 씻어 밥을 합니다.",
+		"2. 각종 야채를(파프리카, 양파, 호박) 썰어서 후라이팬에 오일을 두르고 볶아주세요.쎈불평소에 편식하는 야채가 있다면 잘게 썰어서 넣어주세요. ",
+		"3. 밥과 토마토소스를 넣어 볶아주세요. 소금과 후추로 간을 합니다. 맛있게 볶은 피자 볶음밥은 잠시 그릇에 덜어놔주세요.고추장 1티스푼도 같이 넣어서 볶아주면 매콤하면서 감칠맛이 더 좋아집니다. ",
+		"4. 후라이팬에 또띠아 한장을 올린 후 토마토소스를 넓게 발라주세요.약불",
+		"5. 그 위에 만들어놓았던 피자볶음밥을 올려주세요. 올리브도 올려주시면 더욱 맛있는 피자를 만들 수 있어요.약불",
+		"6. 피자치즈도 듬뿍 올리고 뚜껑을 닫고 치즈가 녹으면 완성입니다.약불"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/232d8a70fb939e32f57a00096c2e36ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/76b6f5dc1ab0ded6d3a5e5459314b3831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/831a0d93acd245e785cc4c865c76e7411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/69eccb2551aa0501aeb679135f9173671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/793d089298af1551edd56f15eb45ea381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/810bf1c4f6553ef08756f27f2f1462a31.jpg"
+	]
+}

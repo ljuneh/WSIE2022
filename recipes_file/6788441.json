@@ -1,0 +1,58 @@
+{
+	"id": "6788441",
+	"name": "부대찌개 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/23/8e67daf57870ea9e373739b94a293a0d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6788441",
+	"ingredient_ids": [
+		224,
+		343,
+		349,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "사골육수",
+			"ingre_count": "",
+			"ingre_unit": "멸치다시마육수"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 양념장을 만들어 주는데요, 고춧가루 2, 미림 2, 국간장 1, 다진마늘 1/2, 후춧가루 조금 넣어요. 여기서 매콤함을 좀 더 가감하시려면 고춧가루와 다진마늘을 조절해주세요.",
+		"2. 찌개를 끓일 냄비에 재료들을 다 붓고, 가운데 김치를 넣어주셔야 김치맛이 골고루 퍼져서 국물이 맛있답니다.",
+		"3. 베이크드빈은 토마토 소스에 익힌 콩을 버무린 건데 마트에 가면 천원정도에 구입할 수 있어요. 재료 위에 올려 주세요.",
+		"4. 보통 2-3스푼 넣으시면 충분해요.",
+		"5. 그 위에 양념장을 넣고 콩나물을 올려주세요.",
+		"6. 그리고 모든 재료가 자작할 정도로 사골육수를 부어주세요.",
+		"7. 콩나물이 숨이 살짝 죽고 양념장이 잘 풀어지게 10분정도 끓여주면 맛있는 부대찌개 완성입니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/001b6aa98c3657c0551fe87cf315dfc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/1ab553bfe414158e582a77d25a35e65c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/d436b02d5d8fa5d29c41bfabb337f6401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/9a06a41995e757d7486ccbbd22434d251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/28b6f6d57e5547c11c2beba7154bbad31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/631cbac7753fda0962ad9d0030ea2e9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/c1f8903227ed3f60a112d3bb22f09aab1.jpg"
+	]
+}

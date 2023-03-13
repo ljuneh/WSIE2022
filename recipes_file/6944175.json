@@ -1,0 +1,96 @@
+{
+	"id": "6944175",
+	"name": "한그릇요리 초간단 밥도둑 베이컨 덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/6a598096aa9afd14986cea9d9b1227a11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944175",
+	"ingredient_ids": [
+		406,
+		3,
+		29,
+		660,
+		757,
+		379,
+		477,
+		575,
+		292,
+		224
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 마늘은 편 썰고 양파도 채 썰어주세요. 베이컨은 뜨거운 물에 한번 헹군 뒤 썰어주었어요.",
+		"2. 간장 1/2T, 굴 소스 1/2T, 올리고당 1/2T, 맛술 1/2T, 고춧가루 1t를 넣고 섞어주세요.",
+		"3. 기름을 두른 팬에 마늘 먼저 볶다가 베이컨을 넣고 볶아주세요.",
+		"4. 베이컨에서 기름이 나오면 양파를 넣고 볶아주세요.",
+		"5. 양파가 어느 정도 익으면 가 쪽으로 밀어내고 계란 1개를 스크램블 해주세요.",
+		"6. 계란이 완전하게 익으면 모든 재료와 합쳐주고 양념소스를 넣고 볶아주세요.",
+		"7. 마지막에 쪽파를 쫑쫑 썰어 넣고 참기름을 넣고 마무리해 주세요.",
+		"8. 그릇에 밥을 담고 베이컨 볶음을 올려주세요. 간단하게 먹기 좋은 한 그릇 요리 베이컨 덮밥이 이렇게 완성되었어요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/3fac09d6533a6fb093f2dbb51efaa0071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/a99b2398500b157bd4bc33c750f70f401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/ecee9e03933b8780bcff81ee29d03ba41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/c06fa0d0367d3eff9de06699f35651081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/a3df2d3c2f20215b21a368ccf6a4dd741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/5a7ef63639d6623a4caa0fb24988869f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/bd3fbfbf6608bc7fb8ec9bbfc62366ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/7c92df20c347c2db1097aca3f3d89f091.jpg"
+	]
+}

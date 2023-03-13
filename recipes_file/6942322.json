@@ -1,0 +1,114 @@
+{
+	"id": "6942322",
+	"name": "케이크 오 카라멜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/ad5289c8e240cb5b31344155dfe5904a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942322",
+	"ingredient_ids": [
+		219,
+		204,
+		696,
+		373,
+		884,
+		497,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "비정제설탕",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "32",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1/2",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "무염버터",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "카라멜크림",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "오렌지리큐르",
+			"ingre_count": "14",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "7",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "토핑용피칸",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 버터는 전자레인지를 돌려 완전히 녹여 둡니다.전자레인지",
+		"2. 카라멜 소스는 냉장상태라면 전자레인지에 돌려 흐르면서 따뜻한 상태로 만들어 주세요. 카라멜 소스 만들기는 링크를 참고해주세요.  @6854081 ",
+		"3. 볼에 달걀을 풀고 설탕과 소금을 넣고 잘 섞어주세요.",
+		"4. 여기에 연유와 바닐라 익스트랙을 넣고 잘 섞어줍니다.",
+		"5. 미지근해진 녹인버터와 카라멜 소스를 넣고 잘 섞어주세요. ",
+		"6. 체친 강력분, 박력분, 아몬드 가루, 베이킹 파우더를 넣고 거품기로 잘 섞어줍니다.",
+		"7. 완성된 반죽은 주르륵 흐르는 반죽이에요.",
+		"8. 팬에 스쿱으로 80% 정도로 팬닝 하고, 피칸 약간을 올려줍니다.",
+		"9. 175도로 예열된 오븐에서 20~25분 정도 구워줍니다. 윗면이 탄력이 있고 꼬치를 찔러 보아 깨끗하면 다 익은거에요.오븐",
+		"10. 완성된 케이크는 틀에서 분리 한 후,",
+		"11. 아직 따뜻할때 오렌지 리큐르에 물을 섞어 바닥은 제외하고 골고루 발라줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/a573850eca755cdc7c97db5e47ea4b8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/9a639781fbd01a9140f41946f027bc771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/93a7384ff2deacf6d29bedb4796f7df61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/45ff56b2840e581525396c9358afe2ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/622a2572ae97f24f1db9dd9128f546661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/01aa8ab1ea076b0d9ca8b892624d74b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/95e362085f0dbeae02128a96846741821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/2502bfd1b84fdfecf215bfdda37707c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/8ea815eb251ab5a732365b3718214fb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/18b00a26d5043efab63baa8330ab07561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/b05f15aaeeb6fdc1b2b92e7fb587d60e1.jpg"
+	]
+}

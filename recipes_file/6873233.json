@@ -1,0 +1,59 @@
+{
+	"id": "6873233",
+	"name": "중복, 누구나 쉽게 끓여 먹는 전복 삼계탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/22/afe34aec4a02e0f0ec1d8020bf6965141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6873233",
+	"ingredient_ids": [
+		86,
+		282,
+		27
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "영계",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "전복",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "시판한약재",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 시판 한약재를 준비하고 닭은 기름기를 가위로 잘라낸다. 내장, 핏기는 깨끗하게 제거한다.",
+		"2. 대추, 마늘, 수삼은 손질하여 영계 속에 넣어준다.",
+		"3. 누룽지는 따로 면포에 넣어준다.",
+		"4. 물 1L, 손질된 영계와 전복, 누룽지, 굵은소금을 압력솥에 넣어준다.",
+		"5. 대파는 송송 썰어준다.",
+		"6. 가스불에 올리고 추가 움직이면 불을 낮추고 20분 정도 끓여 완성한다.",
+		"7. 그릇에 누룽지, 국물, 대파를 넣고 저어주면 누룽지 죽이 완성된다.",
+		"8. 접시에 닭고기, 전복, 수삼, 대추를 담고 대파를 올려 마무리한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/01/f210aff64189ba877ca05af5beb9d3281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/01/d0913bdf02b5d0d18c86fb89ed1988341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/01/6ae347606830d05ed310cacdb22b70411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/01/c870196f7341137ff2c1920361ae24b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/01/d4c9cc9c79696f640480be9d160a7ab61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/01/6c6e0d94cf3fb59f3de1b2423329a7811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/01/b0b59c5b1533525e22cdce121ff21a8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/01/64c887acfa6a83e2565a358f983f51e61.jpg"
+	]
+}

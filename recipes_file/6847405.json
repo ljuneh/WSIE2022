@@ -1,0 +1,113 @@
+{
+	"id": "6847405",
+	"name": "삼겹살 두루치기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/03/19b73c763ef17d3b0430aaeb818311601.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847405",
+	"ingredient_ids": [
+		487,
+		953,
+		3,
+		9,
+		29,
+		27,
+		995,
+		473,
+		224,
+		226,
+		379,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청량고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개​"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 야채는 원하는 크기로 손질해주세요. ",
+		"2. 양념장은 전체적으로 섞일 수 있도록 따로 만들어서 넣어주는 것이 좋습니다.",
+		"3. 삼겹살을 팬에서 먼저 볶아줍니다.",
+		"4. 고기가 어느 정도 익으면 야채를 넣고 같이 볶아줍니다. ",
+		"5. 김치를 넣고 타지 않게 볶아줍니다. ",
+		"6. 물 1컵과 만들어 놓은 양념장을 넣어서 전체적으로 섞어줍니다. ",
+		"7. 양념장이 내용물에 전체적으로 베일 수 있도록 졸여주세요. ",
+		"8. 적당히 졸여지면 접시에 이쁘게 담으면 완성. 생각보다 어렵지 않죠? 매운거 좋아하시면 청양고추나 고춧가루를 더 넣어서 만드셔도 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/09/732c709088680b37b63a1f962f2f87b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/09/dce153de1e1f984ffc91cafd9dd64f361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/09/067e33382ccdcb70f3953771a4a3992e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/09/e524cbdfcc4d99836a8470fb3a978e3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/09/927cba6d36d9423de2d803c1fdac64b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/09/0764e12d04c5395492cd359f134fc65d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/09/38b6b02677ead8e3f809bc8b3cf2f72d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/09/b4ce9ad4904e26cc8c2f8683d711e6151.jpg"
+	]
+}

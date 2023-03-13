@@ -1,0 +1,98 @@
+{
+	"id": "6942870",
+	"name": "삼겹살필라프",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/c67aeeaa070ce0577cc3827880b9b1271.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942870",
+	"ingredient_ids": [
+		487,
+		27,
+		3,
+		911,
+		6,
+		22,
+		477,
+		484,
+		379
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "데리야끼소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 찬밥과 삼겹살, 냉장고에 있는 야채들을 준비해주세요.",
+		"2. 대파는 송송썰고 삼겹살, 양파, 피망, 파프리카, 버섯은 먹기 좋은 크기로 썰어주세요.",
+		"3. 후라이팬에 식용유를 두르고 대파를 볶아주세요.",
+		"4. 대파 향이 올라오면 삼겹살을 넣고 볶아주세요. 삼겹살에 소금과 후추로 밑간을 해주세요.삼겹살이나 목살 부위가 맛있어요 !",
+		"5. 삼겹살이 익으면 양파와 버섯을 넣고 볶아주세요.",
+		"6. 색감을 더해줄 피망과 파프리카도 넣어줬어요.피망 대신 애호박이나 브로콜리 넣어주셔도 좋을 것 같아요 !",
+		"7. 2분 더 볶다가 굴소스 2T, 데리야끼소스 1T 넣어주세요.데리야끼 소스 대신 돈까스소스, 스테이크 소스 넣어 주셔도 좋아요 !",
+		"8. 소스가 다 섞인 후 찬밥을 넣고 볶아주세요.뜨거운 밥은 냉장고에서 식혀 넣어주세요. 뜨거운 밥은 볶으면서 밥알이 퍼져요 ㅜㅜ",
+		"9. 밥알에 소스가 골고루 잘 입혀지도록 볶아주세요.",
+		"10. 마지막으로 간장을 1T 넣고 섞어주면 완성입니다.",
+		"11. 그릇에 담고 마요네즈를 뿌려주세요 .",
+		"12. 달걀 반숙을 올린 후 파슬리 가루를 뿌려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/7e398144aa9e9da112cfe13e02cfdeb21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/6b78e6256be66252ac3152acd7f76ec31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/3fb6f76ed4174d79c37c84721741e2061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/caed14765d93d467953752988435563a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/01c9dbc58ae4544e68531ff0644a39cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/293a110431cb6ab2de21ffc97f415f581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/67143a1a687d4d2781222d232d22ddb41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/31730f9e45fd5687998ac7e50d225aff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/b7d5dfb075ea23a18342244fd4cb0e181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/b1a3970dd6c0cdf5a4e671285200d5e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/cacbfbe544c43aeaa4b9cb90c73ceb221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/880365bc2664f299815591c87ada5e0a1.jpg"
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"id": "6942992",
+	"name": "홈메이드 패션후르츠청",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/524ba0c89a78a6f7740c92fc5cabd21d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942992",
+	"ingredient_ids": [
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "냉동패션후르츠",
+			"ingre_count": "2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "패션후르츠동량"
+		}
+	],
+	"recipe": [
+		"1. 청을 만들어 담아 둘 용기를 열탕소독합니다.",
+		"2. 냉동 패션후르츠를 반으로 잘라 과육을 분리해서 담아둡니다.냉동 패션후르츠 대신 퓨레를 구입하셔도 됩니다.",
+		"3. 패션후르츠 과육의 양과 설탕을 동일하게 하여 열탕소독해 둔 용기에 담아둡니다.실온에 2일정도 두신 뒤 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/59b4884fc94523aa882bfdc9e99a2ccd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/a2d7133931ce70f02a82692055ca1ec31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/432f1460e631954c640d44fa267f117b1.jpg"
+	]
+}

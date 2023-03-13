@@ -1,0 +1,105 @@
+{
+	"id": "6943130",
+	"name": "[주말] 목살구이 카레 업그레이드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/acde43df80e201b9c52fe7ce83b40fa11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943130",
+	"ingredient_ids": [
+		3,
+		5,
+		9,
+		198,
+		504,
+		734
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "야채",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "4",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "돼지목살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "허브솔트적당히",
+			"ingre_count": "",
+			"ingre_unit": "뿌림"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 돼지 목살은 허브솔트를 뿌려준다. (소금&후추를 뿌려줘도 됩니다)",
+		"2. 목살은 튀김가루를 묻힌다. (그러면 약간 코팅이 되어 더 바싹하고, 속은 촉촉해짐.)",
+		"3. 버터를 녹이고 채 썬 양파를 넣어요.",
+		"4. (백종원 카레 스타일) 로 양파가 노릇노릇해질때까지 충분히 볶아줘요.",
+		"5. 나머진 잘게 썬 야채도 넣고 볶는다.",
+		"6. 야채가 좀 익으면 우유를 물 대신 넣는다. (풍미가 더 부드러워짐)",
+		"7. 카레가 보글보글 끓으면, 다른 프라이팬에 식용유를 두르고, 튀김가루를 묻힌 목살을 굽는다. 통마늘도 같이 구워주면 풍미가 좋다.",
+		"8. 한 후라이팬에는 목살을 구워주고, 다른 냄비의 카레 야채&우유가 잘 끓으면 카레 가루를 넣어준다.",
+		"9. 돼지고기는 먹기 좋게 잘라준다.",
+		"10. 작은 공기에 흰밥을 담는다.",
+		"11. 담은 공기의 밥을 접시에 엎는다.",
+		"12. 옆에 목살구이, 카레를 얹고, 위에는 미니 파프리카로 장식해서 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/f7e01ab93ec777d3f09e169a62e052151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/d6525ecbb727158e027560188da838921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/bd32a357f23e753229516a4a42677f141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/59ae0fb6b039a8028923f267f88359981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/4b49ef5d7cd0b84105e8ba11f3f972c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/24ea9018c06fadb3b655854152e04cca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/2796f3513341de984993f8876e21ee6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/84d13297a6f4d9ce799989945def3c011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/4d8b48785228e85851a189c535034cdb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/46f588509cc08f649db02d36cfa81c321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/7dda89659274492469fa9326c419ec761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/55467cfc0b1d610a422b6fb11ffc04171.jpg"
+	]
+}

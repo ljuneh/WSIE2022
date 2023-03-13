@@ -1,0 +1,97 @@
+{
+	"id": "6883227",
+	"name": "짜장떡볶이. 아이간식으로 좋은 짜장가루 요리.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/24/ccbcf4659ef3789ce568910adc9fbd1d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6883227",
+	"ingredient_ids": [
+		972,
+		548,
+		3,
+		226,
+		233,
+		1028,
+		660,
+		27,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "햄or소세지",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물3컵(750ml)",
+			"ingre_count": "3컵(750ml)",
+			"ingre_unit": "컵(ml)"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "짜장가루",
+			"ingre_count": "3-4T",
+			"ingre_unit": "-T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 물 3컵을 넣고 끓여준 후 다진마늘을 반스푼정도 넣어주세요.",
+		"2. 물이 끓는 동안 양파, 어묵, 햄 등을 잘라주세요. 저는 소세지가 있어서 넣어주었어요.",
+		"3. 양파를 먼저 넣고 약간 익으면  어묵과 소세지를 넣어 같이 끓여주세요.",
+		"4. 설탕 2T를 넣어주세요.",
+		"5. 어묵이 부들부들 익어가면 떡을 넣어주세요.",
+		"6. 떡을 넣은 후 다시 끓어오르면 짜장가루를 넣어가며 풀어주세요. 저는 3스푼 정도 넣었는데요. 취향에 따라 1스푼 더 넣으셔도 좋아요.",
+		"7. 짜장가루를 풀어가면서 재료들에 짜장이 스며들 때까지 약불에서 뒤적이면서 졸여주세요.",
+		"8. 마지막으로 대파 한줌과 참기름 한바퀴, 그리고 통깨를 넣어 섞어주시면 완성이예요.",
+		"9. 고추장떡볶이나 케찹떡볶이와는 또 다른 매력의 짜장떡볶이가 완성되었답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/fa7f9a00e9b320b85265d557b53b143c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/b0b24dc4a1f561b0579129361a8bd6271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/8b970f4376d9e43c3d2c81398fb38ff01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/ef128cde4ca469405a6e11f03a0b3a3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/486a858fa46b96e71d8ed66c42f1cbbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/8dde120c4c242b6f397b37c283d3c3fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/99bc9081c4474f65b25ab4657810bde81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/5e55b9b7f26cd547a19e08888be7cf711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/84ae42172aaa8f9d67a980340fecf92f1.jpg"
+	]
+}

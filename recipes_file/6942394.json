@@ -1,0 +1,68 @@
+{
+	"id": "6942394",
+	"name": "생크림에 연유까지 부드럽고 촉촉한 프렌치토스트",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/afe8e8883a580c91cea7faabe92c31021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942394",
+	"ingredient_ids": [
+		503,
+		485,
+		204,
+		497,
+		198
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "5~6쪽",
+			"ingre_unit": "~쪽"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 계란은 알끈을 끊고 충분히 저어 주세요.",
+		"2. 연유와 소금을 넣고 쉐키쉐키~연유가 없으면 설탕으로 대체해도 됩니다. 연유반컵이 많아보여도 프렌치토스트는 안달면 맛이 없어요. 걱정말고 넣어주세요.",
+		"3. 마지막으로 생크림을 넣고 계란물에 섞어주세요.",
+		"4. 식빵은 그냥 적셔도 되지만 저는 반으로 잘라서 넣어봤어요^^",
+		"5. 팬에 버터를 넣고 중약불로 먼저 녹여주세요.",
+		"6. 버터가 녹으면 계란물에 충분히 적셔둔 식빵을 넣고 앞뒤로 노릇하게 구워주세요.연유가 들어가서 너무 센불로 굽기시작하면 쉽게타요. 중약불에 천천히 구워주세요.",
+		"7. 앞뒤로 노릇하게 구워내면 완성.",
+		"8. 접시에 담고 당도가 부족하면 시럽을 뿌려드세요.",
+		"9. 부치자마자 뜨거울때 설탕을 뿌려도 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/bfa368dfc438738aa4c43c548e718f7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/fe46500bf3d174602b028d016022f8d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/005ff1e7dd885d16fcf90f29edd699b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/c3fdbcc4fc2c412b51d8341abd77aaf11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/489c2684df17c43256b61a3fa57561471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/4174be9f445cf1ff830fae3ab22bd8251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/0776b768f2ed538b4e445716f887e2df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/1bdd5155280f93cbbd006a5ce6f706311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/a3980505de6ba6b75da1e51f9b9411121.jpg"
+	]
+}

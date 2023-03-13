@@ -1,0 +1,49 @@
+{
+	"id": "6940232",
+	"name": "아기 첫 이유식 바나나미음 레시피 (베이비무브쿡마스터로 초기 이유식 만들기)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/e64c5d80b9c86aaa8821e31edaa715321.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940232",
+	"ingredient_ids": [
+		141,
+		99,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "35",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 찹쌀 혹은 백미를 20g 계량해줍니다.찹쌀20g바나나가 찬 성질이므로 찹쌀과 함께 만들면 좋아요.",
+		"2. 찹쌀을 깨끗이 씻은 후 물 200ml를 넣고 1시간 이상 불려줍니다.물 200ml",
+		"3. 바나나를 손질해줍니다. 바나나 껍질을 제거한 뒤, 위아래 부분은 잘라내고 사용합니다.초록마을 무농약 바나나를 사용했음",
+		"4. 바나나를 35g 계량한 후 잘게 썰어줍니다.바나나는 20~35g 사이로 넣어주면 좋아요.",
+		"5. 베이비무브쿡마스터 1층에는 불린쌀은 2층에는 바나나를 넣고 찜기모드로 30분간 익혀줍니다.",
+		"6. 바나나는 살짝 데쳐야하므로 10분만 익히고 꺼내줍니다.바나나를 너무 오래 익히면 신맛이 나니 10분정도만 살짝 익혀줍니다. (8개월까지 과일은 익혀서 먹이는게 안전함)",
+		"7. 다 익은 이유식재료들을 믹서기에 넣고 3단계모드로 설정한 후 곱게 갈아줍니다.",
+		"8. 완성된 바나나미음을 체에 걸러서 이유식 용기에 담아줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/27310ace58b08f36398b5b3afb48b1a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/6d4511c903ac2134e8331818580647ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/64971b8ee0c9f92de33ae33cb43751811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/59bab3f2c766236d6fe42e00d5d34dc71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/c8917a4e11d1a7fa83ecf1d51f2a56691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/955d607077e20d2230ac83e4ba6967df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/7cda4e75dbdade9599943b250e0eb44d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/71aedfa4ea08a450696b72e628644a391.jpg"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"id": "6856690",
+	"name": "국물맛이 진하고 깔끔한 전복내장 미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/04/3cc5f40eba7a65df50d7c23e27a9359e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6856690",
+	"ingredient_ids": [
+		379,
+		327
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "불린미역",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "전복내장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "육수물",
+			"ingre_count": "8",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 물에 불려 씻어논 미역과 전복내장 준비합니다",
+		"2. 들기름 3스픈 둘러 전복 내장을 넣고 달달 볶아줍니다",
+		"3. 물기 꼭 짠 미역도 넣어 함께 볶아줍니다",
+		"4. 물양은 미역이 잠길 정도로 멸치육수나 맹물 넣어 푹 끓여 국간장으로 간을 마춰주세요",
+		"5. 미역국은 약불에서 오랜시간 끓여야 국물 맛도 진하고 맛있습니다 모자란 간은 액젓이나 소금으로 해줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/04/d6a7e04e901995034f4f2950f3f81e411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/04/a4849aefbb74c212b38ba0880e59d49e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/04/beb4a7c12550b7a5ca94340ab069fa421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/04/cd9cee33705247b020b286e6369abef21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/04/6032ebd0c9fd02c4af4a0c030b6543311.jpg"
+	]
+}

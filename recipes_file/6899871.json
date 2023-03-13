@@ -1,0 +1,81 @@
+{
+	"id": "6899871",
+	"name": "알토란, 미역줄기볶음 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/10/f29d80669ab39a58dcd7d6ddb01152901.jpg",
+	"url": "https://www.10000recipe.com/recipe/6899871",
+	"ingredient_ids": [
+		376,
+		3,
+		29,
+		231,
+		292,
+		350,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "미역줄기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "붉은고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "현미유",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 미역줄기는 흐르는 물에 2~3번 흔들어가며 씻어 소금기를 없애준다.",
+		"2. 양파, 붉은 고추는 먹기 좋게 썰어주고 마늘도 다져놓는다.",
+		"3. 냄비에 물, 식초 2숟가락을 넣고 삶아낸 후 찬물에 헹구어준 후 먹기 좋은 크기로 잘라준다.                       ",
+		"4. 현미유를 두르고 데쳐낸 미역줄기, 마늘을 넣고 볶아준다. 볶는 중간 수분감이 없을 때 물 2~3 큰 술을 넣어준다.                   ",
+		"5. 얇게 채 썬 양파 1개, 채 썬 홍고추 1개를 넣고 볶아준다.",
+		"6. 맛술 3 큰 술을 넣고 남은 잔열로 미역줄기를 볶아준다.                   ",
+		"7. 넓은 접시에 옮겨 식혀준 후 깨소금, 참기름, 후추가루 약간 뿌려 완성한다.                     "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/e3606ac2966703427fa21c9cdda085c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/5f1e57e95cbb93aedd6e083b50ed4e201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/1ae4e0da32b96c4f027f38edaaf4c16a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/ecf1d4dd870890ed667dae9cd717b80e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/b559b59afcb578c78a2362b8f989f3d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/60eb4d9a119f7d3e4b43c4d503daf3911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/12/3649acf4769ee5675e579ec83832826e1.jpg"
+	]
+}

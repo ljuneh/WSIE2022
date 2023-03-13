@@ -1,0 +1,58 @@
+{
+	"id": "6867735",
+	"name": "[간단 자취요리] 삼겹살에 밥 비벼먹자! 삼겹살 비빔밥 만들기 / 삼겹살 덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/50a89dc0c94e62a1540909eacd9641fa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867735",
+	"ingredient_ids": [
+		995,
+		379,
+		226,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삼겹살1+1/2줄",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비한다.",
+		"2. 우선 대파를 굵직하게 썰어준다.",
+		"3. 삼겹살도 같은 크기로 썰어준다.",
+		"4. 팬에 삼겹살을 볶는다.중불 ",
+		"5. 삼겹살에 기름이 나오면 대파를 노릇할때까지 볶는다.",
+		"6. 준비한 물과 양념을 넣고 조려준다.",
+		"7. 국물이 자작하게 남으면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/99c9c3ecdf2e250fa1b53df7536dc6081.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/6bc41771e496e52610de5a63492a11591.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/0651341e12dcfa62839cf21ccbd9c61a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/cdb302c5ff2b969f3c184360b8777e841.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/4abdfd1b79b85d0821ecb5e1fbe05a3b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/342926c3d2b51e9d2a4d733d0a9260ca1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/31/3ede7712ea7205445c86b1a4f50db60f1.png"
+	]
+}

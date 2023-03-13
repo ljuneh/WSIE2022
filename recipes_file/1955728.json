@@ -1,0 +1,164 @@
+{
+	"id": "1955728",
+	"name": "콩나물 농어찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/96da368da00ecdadb1d133c4a2bfbff4.jpg",
+	"url": "https://www.10000recipe.com/recipe/1955728",
+	"ingredient_ids": [
+		47,
+		31,
+		27,
+		660,
+		543,
+		995,
+		995,
+		848,
+		995,
+		224,
+		379,
+		233,
+		938,
+		575
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "농어(반건조500g)",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "160",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "만드기(또는미더덕)",
+			"ingre_count": "170",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쑥갓",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "녹말",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "맛술(청주)",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술(청주)",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루(또는생강즙)1/4t(1T)",
+			"ingre_count": "1/4t(1T)",
+			"ingre_unit": "t(T)"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 제일 먼저 해야 할 일은 양념장 만들기에요!! 분량의 재료를 모두 넣어 양념장을 만들어주세요. 매실청이 없으시다면 올리고당으로 대체해주어도 되구요 .그도 없다면 설탕 1T를 넣어주세요.",
+		"2. 콩나물은 찜용 콩나물을 사서 머리를 떼어내주세요. 콩나물 머리는 조리시 떨어져서 좀 지져분해보이거든요..머리째 넣어서 드시고 싶으시면 그렇게 하셔도 무방합니다~ 전 머리는 다른곳에 쓸 예정이라 다 떼어냈어요~~ 마트에서 포장해서 파는 콩나물이 찜용이 새로 나왔더라구요.. 그래도 큰 통에 담아서 찜용으로 파는 콩나물보다는 굵기가 얇아요.",
+		"3. 미나리를 넣어야 하지만 집에 쑥갓이 있어서 대신 사용했어요. 쑥갓은 콩나물 길이로 썰어주고 대파는 어슷썰어주세요..",
+		"4. 이건 만드기라고 하는데요. 미더덕 친구쯤으로 생각하시면 되요.",
+		"5. 배를 갈라 내장을 제거하고 소금을 뿌려 반건조시켜둔 농어에요 그래서 생선살에 밑간이 다 되어있답니다. 비늘은 벗겨서 말리는데 배부분과 꼬리부분, 머리부분에는 약간씩 비늘이 남아있으므로 깨끗하게 비늘을 제거해주고 흐르는 물에 구석구석 깨끗하게 씻어내주세요..",
+		"6. 가위로 지느러미부분을 다 잘라내주세요.",
+		"7. 먹기 좋은 크기로 토막을 내주세요. 머리부터 꼬리까지 4토막을 냈어요.",
+		"8. 냄비에 물을 넣고 된장을 풀어 통마늘을 넣고 한소끔 끓여주세요..",
+		"9. 농어를 넣고 맛술(청주)을 넣어 한소끔 끓여 농어를 건져주세요. 잡내가 잡아진답니다. 농어를 넣고 오래 끓이지말고 뜨거운 물로 샤워시켜준다는 느낌으로 한번 후르르 끓으면 건져주세요.",
+		"10. 냄비에 물을 넣고 농어를 넣어 양념장을 2/3 넣어 뚜껑을 닥고 농어를 익혀주세요.",
+		"11. 농어가 반쯤 익을때까지 끓여주면 되요.. 중불에서 조리했어요..",
+		"12. 만드기를 넣고 그 위에 콩나물을 올려주세요..",
+		"13. 남은 양념장을 콩나물 위에 골고루 올리고 뚜껑을 닫아 콩나물을 익혀주세요..",
+		"14. 콩나물이 익으면 녹말물을 조금씩 넣어가면서 걸쭉하게 농도를 맞춰주세요. 콩나물은 너무 익히면 수분이 다 빠져서 질겨져요.. 숨이 죽을 정도로만 익혀주면 되요.",
+		"15. 불을 켜놓은 상태에서 쑥갓과 대파를 넣고 버무려준 다음 불에서 내려주면 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/cb37a5355a4cde0506acf6d9fce83c101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/1ec261ed6c5b0900d77a4d2ec23c3fa11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/20d0b512c7db961964b09df3673a458f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/d77ad7f9633ffbaef6cefeb91e8c91aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/ee06d7f27353cf266c415479100695911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/480df8084a6c9a55544c2e1401588f201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/e2da3444da0c75cb790c8cd721fdae851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/fd205ddc68122cb644de320f6029eb1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/faeb18433454fa76ee15d61afd407e5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/01c251caeae2388fe3ad63b37373e9901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/5aca4c0b971da2aa8c983fd57159215a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/8b69c3af004cad6520b7cb34c9ed08e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/9417bd486ff9c7bb042e4443713ffa431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/d29e0413acf4696760f44455a8b280c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/d07c56219292a4bc849aaed5be4289601.jpg"
+	]
+}

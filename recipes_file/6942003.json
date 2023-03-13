@@ -1,0 +1,38 @@
+{
+	"id": "6942003",
+	"name": "따끈따끈 단호박두유 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/6fa409e914a4c9391d4fd56ee9353e661.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942003",
+	"ingredient_ids": [
+		324
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "찐단호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두유",
+			"ingre_count": "2",
+			"ingre_unit": "팩"
+		}
+	],
+	"recipe": [
+		"1. 으깬 단호박 속과 두유를 준비해주세요.",
+		"2. 두유와 단호박을 잘 섞습니다.",
+		"3. 전자렌지 용기에 붓고 따뜻하게 데워줍니다.3분씩 돌려가면서 뜨끈해지면 꺼내주세요",
+		"4. 체반에 부은 뒤 국자로 빙글빙글 저어 곱게 내려줍니다.걸러주지않으면 넘김이 껄끄러울 수 있어요 상관없고 귀찮다면 넘어가셔도 돼요ㅋㅋ",
+		"5. 걸러진 단호박두유는",
+		"6. 컵에 담아서 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/f1b11cce5536e1c7df43a5fe9a7f142d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/7453bceca366788c585720a08fd9f7a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/007c1b773ecf5f3b825ef85cbff2077e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/35e98b4db767cc4c232dadd95f2b00bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/5092ac9beea0a597e03d2a65fa0fb4111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/3a40bb2c5fa5f0ad44afd1100c6579901.jpg"
+	]
+}

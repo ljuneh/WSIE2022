@@ -1,0 +1,73 @@
+{
+	"id": "6943411",
+	"name": "매콤 오징어볶음 입맛돋네",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/b066dbc0db1ed4c6f9727c659ea85f691.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943411",
+	"ingredient_ids": [
+		65,
+		29,
+		295,
+		473,
+		276,
+		379,
+		843,
+		292
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고운고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 추석에 튀김하려고 델꼬온 오징어 튀김 안 만들었어요 그래서 튀김대신 볶음입니다 ㅎㅎ 먹기좋게 썰어 줍니다",
+		"2. 들기름에 편으로썬 마늘부터 볶아요",
+		"3. 고추장, 고운고춧가루, 간장넣고 잠시 볶아요",
+		"4. 오징어넣고 센불로 재빨리 쉐킷쉐킷~~",
+		"5. 청양고추넣고 마무리~~ 부재료없이 오징어만 볶았는데요 맛나요 청양고추가 한 수~~ ㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/2c85edbb93ee7fb9ea158a0d9b22ab341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/578245c88a5039c5603c67673755bcea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/5d53060c6dad60fb1d58d5f92a1e8d121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/07a770a01ca6a67c016f25396ae92a681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/b1168e712de69bf9ce91f88e88645ac11.jpg"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"id": "6852411",
+	"name": "말린조개살 아삭이고추조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/08/a7992b957dc3503c810d37a927f7392a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852411",
+	"ingredient_ids": [
+		379,
+		343,
+		341
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "2",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "2",
+			"ingre_unit": "스픈"
+		}
+	],
+	"recipe": [
+		"1. 동죽은 찬물에 바락바락 주물러 이물질을 제거하고",
+		"2. 간장 파 마늘 고추가루 섞어 양념장을 만들어",
+		"3. 팬에 오일 둘러 씻어논 조개를 미림 1스픈 넣어 달달 볶다 썰어논 아삭이 고추넣고 양념장을 넣어 볶듯이 조려낸다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/08/82c3d20078131e5593061df9b9739b841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/08/03325e70a7bd1d03e818ff58186562791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/08/c8a1d060f4934f7801142b56aab24b401.jpg"
+	]
+}

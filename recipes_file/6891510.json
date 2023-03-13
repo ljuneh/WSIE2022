@@ -1,0 +1,45 @@
+{
+	"id": "6891510",
+	"name": "회복되어라~ 모봘~모봘~♥ 손상모발회복주스 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/26/3dfe366dc78d8874664915545206b3d11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6891510",
+	"ingredient_ids": [
+		172,
+		135,
+		141,
+		722
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "파인애플",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "망고",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "코코넛밀크",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		}
+	],
+	"recipe": [
+		"1. 파인애플, 망고, 바나나는 껍질을 벗긴 후 썰어 준비한다.",
+		"2. 믹서기에 모든 재료를 넣고 간다.",
+		"3. 컵에 따라 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/26/fc94345b1e568560db656d83c85bfcdb1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/26/e7b7ea262314b2b7c24ec9fffe874d031.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/26/0a6bb2b8f893774653c88d9a4268b08a1.png"
+	]
+}

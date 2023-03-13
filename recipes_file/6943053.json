@@ -1,0 +1,50 @@
+{
+	"id": "6943053",
+	"name": " 추석요리 잡채찐빵 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/8cea6a85b44463fc14388dcaa9dbea641.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943053",
+	"ingredient_ids": [
+		1025,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "잡채",
+			"ingre_count": "1",
+			"ingre_unit": "접시"
+		},
+		{
+			"ingre_name": "오뚜기핫케익가루",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "미지근한물",
+			"ingre_count": "60",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 케익가루에 전분 미지근한물 넣어서 잘저어 한덩어리로 반죽을 완성합니다.",
+		"2. 반죽을 정당히 나눠 6등분정도 했어요. 동그랗게 뭉쳐 펴준후에 잡채올려서 다시 동그랗게 빚어주세요. 이때 장갑끼고 식용유살짝 묻혀서 하시면..잘묻지않고 반죽을 완성할수 있어요. 잡채는 취향에따라 잘게 잘라서 이용하시면 더 좋아요.",
+		"3. 김이 오른 찜기에 넣어서 15분~20분정도 쪄주세요..전 아래에 머핀컵이용해서 쪄줬답니다.",
+		"4. 완성된 잡채찐빵이에요.."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/7efd18059ac9334a330943e3a79036eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/f5e42ee53ddb76ad249d2ef4f39aa4881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/fedeb517362f35c4ba6bd93c8b8e81591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/681b30cdeb8f970207c7713845bcf1901.jpg"
+	]
+}

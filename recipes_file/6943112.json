@@ -1,0 +1,69 @@
+{
+	"id": "6943112",
+	"name": "맵지 않아서 좋은 단짠단짠 간장 어묵볶음 맛있게 만드는 법 간장 어묵볶음 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/19c1ca2ccb509d3ff08f4bf97d3db2f21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943112",
+	"ingredient_ids": [
+		3,
+		379,
+		226,
+		660,
+		290
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "사각어묵",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 어묵을 끓는 물에 10초 정도 데쳐주세요",
+		"2. 어묵을 건져내어 먹기 좋은 크기로 잘라주신 다음에 체에 밭쳐 물기를 자연스럽게 제거해주세요",
+		"3. 프라이팬에 식용유를 둘러주신 다음에 파를 넣고 파기름을 내주세요중불",
+		"4. 양파를 넣고 볶아주세요",
+		"5. 양파가 투명 빛으로 변하기 시작하면 데쳐준 어묵과 간장, 설탕을 넣고 볶아주세요",
+		"6. 불을 꺼주신 다음에 참기름을 넣고 섞어주세요",
+		"7. 완성된 간장 어묵볶음은 예쁘게 플레이팅 해주시고 그 위에 깨를 뿌려 마무리해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/fe2ac33ce683d15140484912f7d6b5c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/5b2e5b3412e9515bd59045b7c13b77d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/67d1469061dc561ab99ac078c94fd6cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/86a3323551ed05e80baa9c025cdbc07e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/367a519e83da1dd0a91717ab7085cd891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/b5914e81fa335f4587166efc66e3d1e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/5f9c2c0bb76bf13f6e94d14e3641d0f91.jpg"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"id": "2872584",
+	"name": "수정과 끓이는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/fd694301cc2daff965e943095acc07aa.jpg",
+	"url": "https://www.10000recipe.com/recipe/2872584",
+	"ingredient_ids": [
+		28,
+		995,
+		995,
+		526
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "생강",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "10",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "통계피",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "10",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "통후추(선택)",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 통계피,생강을 준비해주시고 통계피와 물 10컵을 넣어 40분~1시간 정도 끓여주세요.",
+		"2. 생강도 물 10컵을 냄비에 넣고 40~1시간 정도 끓여주신후에 면보에 걸러 주세요. 통후추는 취향껏 생강이나 계피와 같이 넣어 끓여 면보에 걸러주시면 된답니다~",
+		"3. 계피물과 생강물을 한 냄비에 붓고 황설탕을 넣어 한번 팔팔 끓여주시면 된답니다. 수정과를 한김 식힌후 곶감과 실백을 띄워 드시면 된답니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/068622f9022cc77d26ab3222d82b26461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/efe25325bf7f81246b7b8c396e5be8f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/f382067300a9f1e1bfa70c7ba0e85ba21.jpg"
+	]
+}

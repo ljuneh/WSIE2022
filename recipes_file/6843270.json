@@ -1,0 +1,55 @@
+{
+	"id": "6843270",
+	"name": "우유로 생크림 만드는 방법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/18/41935c60e0b9b4fbe44587edc6bfb4ea1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843270",
+	"ingredient_ids": [
+		198,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "우유",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 버터100g와 우유150ml를 냄비에 넣고 약불로 녹여줍니다. 팔팔 끓이면 안되요.",
+		"2. 잘 녹여줍니다. 버터하고 우유가 이렇게 잘 섞였으면",
+		"3. 믹서기에 아까 녹인버터+우유를 넣고",
+		"4. 계란 노른자 1개를 넣어줍니다. 확실하진 않지만 계란노른자가 유화제 역할을 한다네요.",
+		"5. 그리고 믹서기로 갈아주세요.",
+		"6. 잘 갈아졌으면 보울에 담고 냉장고에 12시간 동안(12시간 이상)넣어줍니다. 다만들어놓고 일어나 다음날 휘핑했어요.",
+		"7. 자, 이제 꺼내보니 덩어리같은것이 둥둥 떠있네요.",
+		"8. 거품기로 잘 섞어줍니다!",
+		"9. 그다음 설탕 20g 도 나누어가면서 계속 휘핑해주세요. 설탕양은 취향에 따라서 넣으셔도 좋습니다. 제 기준에서는 20g이 딱 좋더라구요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/23/6ff2ed438e8560ebc161fa506b9835db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/23/07a0e8d78ffd278fed0830166aa99faa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/23/4f71b443b4e4dafb7c1096b540dd73231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/23/3a11a2b266916e226e0dcd4a262d01021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/23/55dd3bcf1159e4bc4ef0059d33a7df591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/23/6993289cfabcbb99c760e2a49de6ec141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/23/a31588f6341a84db2a7da7936e31fcd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/23/f6bfbfc2aa5ab326ab650a8d8740298d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/23/8cebe8af923acbdc9e7712360b73454e1.jpg"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"id": "6883764",
+	"name": "김치볶음밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/10/696c4f875c4b3fde6c1b0a58f203b2501.jpg",
+	"url": "https://www.10000recipe.com/recipe/6883764",
+	"ingredient_ids": [
+		953,
+		659
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "밥공기"
+		},
+		{
+			"ingre_name": "햄작은캔",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		}
+	],
+	"recipe": [
+		"1. 햄과 김치를 먹기좋은 크기로 자르고 팬이 기름을 두르고 김치를 볶아줍니다.",
+		"2. 김치가 어느정도 익으면 햄을 넣고 볶아줍니다.",
+		"3. 햄도 어느정도 익으면 또 참치를 넣고 볶아줍니다.",
+		"4. 마지막으로 밥을 넣고 1~2분 정도 볶아주면 완성됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/10/92422139f1c91dbc5e9b05010d742f091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/10/c66bc6a8004298f418221458c1193c9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/10/72e0cee9a71010e9bd669b7678d9b2031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/10/ea68a7bf8be7eb157dbd023916d0b64d1.jpg"
+	]
+}

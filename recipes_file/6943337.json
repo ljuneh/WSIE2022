@@ -1,0 +1,57 @@
+{
+	"id": "6943337",
+	"name": "소고기 등심 스테이크(소고기스테이크, 와인 안주, 등심구이,손님초대요리)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/ae78772e306e53dff28b94be3b75d7dd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943337",
+	"ingredient_ids": [
+		122,
+		497,
+		574
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기등심",
+			"ingre_count": "220",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5-6개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 손가락 한마디 두께의 스테이크용 고기를 준비한다.(새우살이 붙어 있는 등심 부위가 제일 부드럽고 맛있어요!!!)",
+		"2. 소금, 후추, 올리브유는 반 큰술을 뿌린다.",
+		"3. 골고루 양념을 문질러준다.",
+		"4. 달군 팬에 올리브유를 살짝 두르고 통마늘을 반정도 익힌다.",
+		"5. 강불에서 아주 뜨겁게 팬을 달구고 고기를 올린다.",
+		"6. 앞, 뒤로 한 번씩만 뒤집어 준다.",
+		"7. 굽기는 개인의 취향에 따라 부드럽게 구우면 완성된다. (그냥 먹어도 맛있지만 호일로 싸서 5분동안 레스팅을 하면 육즙이 골고루 퍼져서 고기가 더 맛있어요.)그리고 고기가 부드럽고 맛있어서 다른 소스 없이 소금, 고추냉이를 곁들이면 더 깔끔하게 고기의 깊은 맛을 느낄 수 있어요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/0a6a6fdb6874c3064ea3afb3cd8763791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/845a4960c2675ca6fa575c9ebd281b8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/07d63e09e5e691f2358222c6c144953b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/52f3a8935346f40c49a541dc9894304b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/abbf40fe9853460fca9c14c8cdb6454e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/f01548ca3e14145b05feba4f0769115b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/6f492ea933829da1da5eb23fdc5ef09b1.jpg"
+	]
+}

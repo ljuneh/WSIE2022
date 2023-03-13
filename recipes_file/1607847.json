@@ -1,0 +1,77 @@
+{
+	"id": "1607847",
+	"name": "콩가루 냉이국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/18/250adead8d18ea7f1451b14e7fee5c59.jpg",
+	"url": "https://www.10000recipe.com/recipe/1607847",
+	"ingredient_ids": [
+		46,
+		349,
+		320
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "냉이",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "날콩가루3T(취향껏)",
+			"ingre_count": "3T(취향껏)",
+			"ingre_unit": "T(취향껏)"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "집된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "시판된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "쌀뜨물6컵(1.2L)",
+			"ingre_count": "6컵(1.2L)",
+			"ingre_unit": "컵(.L)"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다시마(사방5cm)",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 쌀뜨물에 다시마와 멸치를 넣고 끓이다가 끓으면 다시마를 건져내고 중불에 멸치는 10~15분 정도 더 끓여서 육수를 준비해요. 쌀뜨물은 쌀을 2~3번 씻어낸 이후의 것을 사용하시구요. 쌀뜨물을 사용하는 이유는 된장의 입자를 골고루 분산시켜 국물맛이 더 좋아지기 때문이에요. 쌀뜨물이 없으면 그냥 물을 사용하시면 돼요.",
+		"2. 육수가 우러날 동안 냉이는 상한 잎이나 떡잎을 뜯어내고 깨끗이 씻어서 준비해요. 크기가 큰 것은 칼로 세로로 갈라주세요.",
+		"3. 물기가 있는 냉이에 날(생)콩가루를 취향껏 묻혀요. 비닐봉지에 넣고 흔들면 쉽게 묻힐 수 있어요.",
+		"4. 멸치를 건져낸 육수에 된장을 체에 받쳐서 곱게 풀어요. 체에 남는 덩어리는 넣지 마세요. 저희 시어머님이 된장을 오가피 담은 독에 담아 주셔서 집된장 맛이 써요. 그래서 시판 된장이랑 섞어서 먹는 답니다. 집된장이 맛있는 분들은 그냥 집된장 쓰시면 됩니다만 집집마다 장맛이 다르니까 양을 가감해 주세요. 참고로 제가 사용한 양은 계량스푼으로 위를 편평하게 깍아서 된장 2T 입니다. 절대 듬뿍 아니에요. 먼저 된장으로 간을 하고 맛을 본 후 간이 부족하면 국간장이나 소금으로 부족한 간을 더해주세요. 전 국간장을 1/2ts 더 넣었어요.",
+		"5. 팔팔 끓는 된장을 푼 육수에 콩가루를 묻힌 냉이를 넣고 익을 정도로만 잠시 끓여요. 냉이향을 위해서 저는 마늘을 따로 넣지 않았어요. 취향에 따라 다진마늘을 조금 넣으셔도 됩니다.",
+		"6. 전 색감을 위해 홍고추도 조금 넣었는데 없으면 굳이 넣지 않으셔도 됩니다.",
+		"7. 완성이에요. 콩가루가 들어가 구수하면서도 시원하고 향긋한 냉이향이 가득한 국에 밥 한술 말아드시는 건 어떠세요?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/2bde057b3708e4a106b8e3aca9a6ca701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/5dc7b79e8c91e08f25a85e43b7ecf4731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/a5db7997bd33245983c5196b833f985a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/dd3227e46548f9f434ece0bd384bef0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/661a7690f702d0b8cc64426a7d5e606a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/a4035756a5a30ff943d405b9f9b83c061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/f0d70424b8820a48029b4d75add80269.jpg"
+	]
+}

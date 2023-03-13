@@ -1,0 +1,48 @@
+{
+	"id": "6943517",
+	"name": "송편 맛탕 만들기. 명절후 딱딱해진 송편 다시 쪄먹지 마시고 달달하게 맛탕으로 만들어 맛있게 드세요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/50cdea99e4b6f136d54153c2a0fb13e91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943517",
+	"ingredient_ids": [
+		504,
+		226,
+		575
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "굳은송편",
+			"ingre_count": "2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 굳은 송편은 열이 오른 기름에 노릇하게 튀겨 주세요. *떡이니 탈수 있어 중불로 줄여서 튀겨야노릇하게 잘 튀겨져요.",
+		"2. 노릇 해지면 건져내 키친 타올에 올려 기름기를 제거해 주세요. ",
+		"3. 팬에 식용유,설탕,올리고당을 섞어 끓입니다. *저는 떡이 많이 남아서 양을 많이 2T씩 했는데 조금 밖에 남아 있지 않다면 1T씩 넣으시기 바랍니다.",
+		"4. 보글보글 끓으면 튀긴 송편 넣고 시럽이 남지 않을때 까지 버무려 줍니다. 보글보글 끓으면 튀긴 송편 넣고 시럽이 남지 않을때 까지 버무려 줍니다. ",
+		"5. 다 버무린 송편은 검정깨나 견과류 올려 완성합니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/d8973164d56e8a18f37e654919ca78171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/2348258f268cf0f15f36083e588f0d611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/b645838db598635b858b2065367637e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/853510f1216ab87e4986da15a64988711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/991ae3dafb4538e4ecbf42879fc7241c1.jpg"
+	]
+}

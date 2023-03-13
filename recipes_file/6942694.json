@@ -1,0 +1,76 @@
+{
+	"id": "6942694",
+	"name": "단무지볶음밥 든든한 한그릇 집밥!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/f9bb91c6bca3e92f8553b8a0dcec29a41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942694",
+	"ingredient_ids": [
+		496,
+		5,
+		3,
+		295,
+		543,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "검은깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 감자는 작게 깍둑 썰어 물에 담갔다 전분을 빼준 뒤 물기를 제거해 주세요. 양파도 감자 크기로 썰어주세요. 단무지와 청양고추는 다져주세요.",
+		"2. 달구어진 팬에 오일을 두르고, 감자를 넣고 볶아주세요.",
+		"3. 감자가 반 정도 익으면 양파와 단무지를 넣고 볶아주세요.",
+		"4. 양파가 투명해지면 밥과 청양고추를 넣고 볶아주세요. 밥의 양이 다른 재료들보다 작지요? ㅎㅎ 감자의 절반 정도의 양으로 준비했어요.",
+		"5. 단무지볶음밥의 간은 단무지와 청양고추가 들어가 약간의 소금만으로도 충분해요. 검은깨와 통깨를 넣고 한번 더 섞어주세요.(소금의 양은 기호에 맞게!)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/f0f421222bf38ce6c2f5e17106243d961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/98db9ee2e2564fc02d3a4127d381fb7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/70463ec99e654e08db8e768814bed5ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/c6d4d7ec9ea3e1cb15cda376c0767fab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/adeb79251588f3e4dd9915842e0afd681.jpg"
+	]
+}

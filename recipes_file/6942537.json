@@ -1,0 +1,70 @@
+{
+	"id": "6942537",
+	"name": "좋은 음식도 위가 편해야 한다! 한방재료로 만든 위 편한 밥 짓기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/fd99f8fb3d591e95a964774996a066e31.png",
+	"url": "https://www.10000recipe.com/recipe/6942537",
+	"ingredient_ids": [
+		96,
+		99,
+		97,
+		19
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "현미",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "검은쌀",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "조생흑찰",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "불린차조",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "햄프씨드",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "말린산사",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 잡곡은 불린다.",
+		"2. 쌀, 잡곡, 무, 산사를 넣는다.                     \r                             네오플램 레트로T 양수냄비                           \r                             닥터하우스 트윙클 스토브 (크림)                          ",
+		"3. 밥물을 맞춰 안친다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a4a711eed76af7e386c0ce58e35be0ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/24336d0556b26f858a627e6b4584275c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e3868125a305d345b51c2d4ea0b639961.jpg"
+	]
+}

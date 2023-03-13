@@ -1,0 +1,66 @@
+{
+	"id": "6854716",
+	"name": "계란국 황금레시피 오늘은 간단하게 계란국해먹자 팽이버섯으로 영양까지~!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/c5d5a04f4ce835e466c82b05d653d3751.jpg",
+	"url": "https://www.10000recipe.com/recipe/6854716",
+	"ingredient_ids": [
+		55,
+		3,
+		27,
+		390
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "5",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "국물용멸치",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 주재료를 준비해주세요 * 계란을 잘 풀어주세요 * 팽이버섯은 결따라 찢어주세요 * 대파는 5cm정도만 송송~ 썰어주세요 * 양파는 채썰어주세요",
+		"2. 다시다 두조각(양쪽 5cm정도되는 크기)과 국물용 멸치 2 넣고 끓여주세요 팔팔~ 끓어오르고나서 5~10분정도 더 끓여서 우려내줍니다",
+		"3. 다시다와 멸치는 건져내고 썰어둔 양파와 팽이버섯넣고 끓여줍니다",
+		"4. 팽이버섯이 익었다 싶을때 계란3알 풀어둔걸 둘러가면 부어주세요",
+		"5. 썰어둔 파 넣어주시고 끓여줍니다 간은 새우젓으로만 넣어서 해주시면 됩니다 중간에 올라오는 하얀 거품들은 떠서 버려주시면 국물맛이 더 깔끔해진답니다",
+		"6. 예쁜 국그릇에 담아내면 부드럽고 순한 계란국완성~!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/5ab394960390ad84cf8c88539dcbb50e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/6d39cae9bac20f4e67120f831dbeb13b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/6f1301f46250b8c116030d8f8ffacee91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/e4dda60ace6bd86711b4c8a4404718611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/8f55b1eb2bcb4faa907f0a654bd1518a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/16/7ee9586a29f08388148300ed7947a8721.jpg"
+	]
+}

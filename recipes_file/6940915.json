@@ -1,0 +1,91 @@
+{
+	"id": "6940915",
+	"name": "오색소보로덮밥:별거없는데 별거있어보이는",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/0b321859d94ec71640388e234f16ca681.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940915",
+	"ingredient_ids": [
+		8,
+		219,
+		953,
+		504,
+		843,
+		231,
+		497,
+		282,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "캔햄",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 오이는 얇게 썰어 소금에 버무려둔다 싱싱한 오이라면 생오이를 잘게 깍둑썰기애 넣어도 좋아요",
+		"2. 두부 소금 살짝 뿌려 굽고 햄도 구워 팬 한쪽으로 밀어놓고 달걀물 넣어 스크램블에그를 만든다. 두부, 햄 구울 땐 식용유 넣지않고 담백하게 구워냈어요.햄 대신 어묵, 참치캔, 다짐육 등도 좋아요.재료는 냉장고 사정껏.  ​ ",
+		"3. 절인 오이는 꼭 짜주고 양배추김치는 잘게 썬다 양배추김치 말고 집에 있는 배추김치,총각김치,깍두기 어느 것이라도 좋아요",
+		"4. 찬밥은 전자렌지에 뜨겁지 않게 데워 초밥양념 한다.전자레인지초밥양념할 때 매실액을 넣으면 설탕을 넣지 않아도 되고 여름철 배앓이도 예방할 수 있어 좋아요.",
+		"5. 접시에 초밥을 펼쳐담고 -",
+		"6. 그 위에 각각의 재료를 나란히 담는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/4f3e757e1f1d97ebd1df7b48b754bd211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/d4a33043f341aa8b2e07739ad267c1ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/080e9451e0e56085d2ca166c37f468f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/fb77179b8278514868faa407be313d221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/890719aa0ee549dc47c6c85dc72e92e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/0796b7ab1c5cb00da1c78fb534a5b8131.jpg"
+	]
+}

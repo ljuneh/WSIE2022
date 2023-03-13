@@ -1,0 +1,44 @@
+{
+	"id": "6839263",
+	"name": "자취라이프 쉬어버린 파김치!!! 심폐소생술로 살린 파김치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/73aa163c2bba556d58768295f948413a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6839263",
+	"ingredient_ids": [
+		327,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "파김치",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 엄마가 김장해서 김치를 보내주셨는데... 파김치, 총각김치, 배추김치, 무김치 등등 많이 보내주셔서요~ 기존 김치들을 정리해야 해서... 일단 실험적으로 파김치를 볶아봤어요~",
+		"2. 한주먹의 파김치를 준비 합니다.",
+		"3. 흐르는 물에 씻어 양념을 씻어 냅니다.",
+		"4. 냄비나 팬에 들기름 2숟가락을 넣어 줍니다.",
+		"5. 씻어 놓은 파김치를 넣고 볶아줍니다.",
+		"6. 김치의 잎이 순이 약간 죽을때 까지 볶아 주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/380668327f2f85ff9a572538c9752e991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/83403db5707aa114a900117ebc7234481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/180bebe5ff79aa1835264c8b9cd6db2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/fb6ea5728f72f1c101035f1012dc51591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/02783607970763c53b823b4401d24f751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/a4c38216850030099e27d72881680fe21.jpg"
+	]
+}

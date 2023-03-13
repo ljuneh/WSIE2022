@@ -1,0 +1,128 @@
+{
+	"id": "6939967",
+	"name": "떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/df960e0819b9ae81246743b26ea25d911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939967",
+	"ingredient_ids": [
+		548,
+		367,
+		995,
+		29,
+		379,
+		473,
+		224,
+		341,
+		459,
+		724
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "떡",
+			"ingre_count": "450",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "바질",
+			"ingre_count": "1/2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "작은양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3~4컵",
+			"ingre_unit": "~컵"
+		},
+		{
+			"ingre_name": "페페론치노",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "8",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "냉동새우",
+			"ingre_count": "3",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "6",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "6",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "쇠고기다시다",
+			"ingre_count": "1.",
+			"ingre_unit": ".티스푼"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "생강청",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "연두",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		}
+	],
+	"recipe": [
+		"1. 페페론치노,바질,마늘,파,양파를 갈으세요.",
+		"2. 간걸한번 물에 끓여요. 비율은 파1:물2.5 가 좋아요.(연두도 넣으세요.)",
+		"3. 끓인건 채에 거르세요. 그리고 10분간 끓이세요.",
+		"4. 고춧가루,물엿,생강청,간장,다시다,고추장,을 넣어 끓이세요.",
+		"5. 케찹도 넣으세요.",
+		"6. 어묵과 떡도 넣으세요.",
+		"7. 끓이고 새우 넣으세요.",
+		"8. 떡이 익을때까지 끓이면 됩니다.",
+		"9. 불을 끄고 위에 타임을 얹으시면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/f3d8646aa50222e1b6058b5a3852b1f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/ae9d294c59d8223f87fe28e4c02fecdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/7b80baaf62ca2d261feb372c36c068d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/044d58b914779c5e81ae64956d5e4a981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/7f741f64d2311940d6ae978263a7d0a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/a2e22d5520103ad4184ee7cfc1c2179d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/6a09926fe9ca2fc932e3b43e4c2cb4c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/48538ddcf3228300fed91106d92474501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/5a688aae802e7da45657cf2d4386f9be1.jpg"
+	]
+}

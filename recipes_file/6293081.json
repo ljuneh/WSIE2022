@@ -1,0 +1,80 @@
+{
+	"id": "6293081",
+	"name": "선짓국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/4db246c3d3afeca94056e0a33d326b44.jpg",
+	"url": "https://www.10000recipe.com/recipe/6293081",
+	"ingredient_ids": [
+		19,
+		52,
+		643,
+		224,
+		574,
+		27,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쇠고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "선지",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "1/2",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "붉은고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 쇠고기와 나박나박 썰은 무, 고춧가루에 올리브유를 두르고 볶아준다.",
+		"2. 물 4컵을 붓고 끓으면 거품은 건져낸다.",
+		"3. 삶아둔 숙주와 삶은 취나물을 넣어준다.",
+		"4. 선지와 풋고추, 붉은 고추, 대파, 마늘, 간장을 넣고 마무리한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/9575b37e8f989fb81491017f00e181cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/00c8e653848cf5c741ed508dddcbb7481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/cff6643aa166417332f5781eeb7b67d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/83aa9c1b3ad0a9d5dcc298183bad5bf81.jpg"
+	]
+}

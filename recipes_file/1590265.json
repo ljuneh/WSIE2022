@@ -1,0 +1,98 @@
+{
+	"id": "1590265",
+	"name": "매콤한 닭봉조림 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/3143ee518dcfb447797b77855971b1a5.jpg",
+	"url": "https://www.10000recipe.com/recipe/1590265",
+	"ingredient_ids": [
+		804,
+		29,
+		28,
+		857,
+		295,
+		379,
+		292,
+		226,
+		660,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭봉",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "양파1/2개(64그램)",
+			"ingre_count": "1/2개 (64그램)",
+			"ingre_unit": "개 (그램)"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "10",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "말린빨간고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "90",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "50",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "300",
+			"ingre_unit": "그램"
+		}
+	],
+	"recipe": [
+		"1. 닭봉 한팩을 흐르는 물에 잘 씻어서 체에 받쳐놓고 냄비에 물 반쯤 넣고 팔팔 끓으면 닭봉을 넣고 팔팔 한번 끓인후 건져서 체에 받쳐놓습니다.",
+		"2. 향신료랑 양념류 다 넣고 닭봉 넣고 물 300그램 넣어서 중불에 끓여주세요.",
+		"3. 골고루 가끔씩 저어주시면서 양념 잘 베이게 해주시구요. 양념국물이 2/3정도 남을때까지 조려주세요",
+		"4. 국물이 줄어들면 향신료 다 건져내고 닭봉에 대추나 밤 넣고 은근한불에 국물이 걸쭉해질때까지만 졸여주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/4790afe5bbfce170635c709f1a31ca851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/cc280778bc0058ae5e7308a1a0189a5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/f753b516613d0a83ad1db1c7b75c8e0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/523da611bda24c96c2daf7f2fbb0cf5d1.jpg"
+	]
+}

@@ -1,0 +1,122 @@
+{
+	"id": "6922090",
+	"name": "부들부들 야들야들 매콤 차돌박이 파스타 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/11/13/0cdf9dd5c77e9429ce96c89a255364481.jpg",
+	"url": "https://www.10000recipe.com/recipe/6922090",
+	"ingredient_ids": [
+		226,
+		343,
+		477,
+		233,
+		29,
+		295,
+		53,
+		504,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "3",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "스파게티",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장소스",
+			"ingre_count": "4",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "면수",
+			"ingre_count": "4",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "땡초",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "베이비순",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 소스는 모든 재료를 잘 섞으면 완성",
+		"2. 마늘, 청양고추, 표고버섯은 슬라이스해서 준비합니다.",
+		"3. 물 1L, 소금 10g, 스파게티 면 100g 기준으로 삶아줍니다. 알 단테로 삶는 시간 보다 1분 덜 삶습니다.",
+		"4. 면이 삶아지는 동안 식용유를 두르고 마늘을 중약불로 노릇노릇하게 볶습니다.",
+		"5. 슬라이스한 청양고추, 표고버섯 그리고 땡초를 넣고 살짝 볶습니다.",
+		"6. 면수를 60cc(4 스픈) 과 간장소스 60cc(4 스픈)을 넣고 끓여줍니다.약불소스량은 입맛에 맞게 가감 팔요",
+		"7. 면이 삶아지면 차돌박이와 면을 넣고 볶아 줍니다. 면에 소스가 배이면서 착돌박이가 부드럽게 익혀집니다.중불야채를 볶을 때 차돌박이를 볶으면 차돌박이가 너무 질겨집니다.",
+		"8. 프라이팬을 돌리면서 만테까레를 해주면서 마무리합니다.만테까레란 면이 거품기 역활을 하면서 면수, 전분, 오일이 유화되면서 소스가 부드러운 느낌의 농도를 형성해서 부드럽게 면을 감싸 안게 됩니다.",
+		"9. 참기름을 살짝 넣어 향을 첨가하고 가니쉬로 베이비순을 올립니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/13/c3367a79ab725de00c2e3e9e8c07ba4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/13/895f6c19809496179467e56e549e83271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/13/f6f0ae3a435f5fa8e87b0db3f829d52b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/13/530f026dfe797fffaea8ed55ec3b7cef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/13/17e993385f555ea21fdc6a506e8135651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/13/ce4c9edd0f761be237edb3e3b1d6b7521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/13/bd4a73742eb712c4cc17c625a776284a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/13/97c22c92586906c8faa9bfce7a3971c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/13/32a748efb343be89c1f9e1b14d56d3f41.jpg"
+	]
+}

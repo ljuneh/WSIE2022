@@ -1,0 +1,83 @@
+{
+	"id": "1491382",
+	"name": "고소하고 연한 쇠고기 육회 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/0199a6cd4705e214c4dda00bde29284a.jpg",
+	"url": "https://www.10000recipe.com/recipe/1491382",
+	"ingredient_ids": [
+		142,
+		29,
+		226,
+		350,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "육회용쇠고기(우둔or홍두깨살)",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실엑기스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 배는 채썰어 연한 설탕물에 담궈두세요. 마늘은 2개는 편으로 썰어 놓고 하나는 다지고 파의 흰부분도 다져놓으세요. 육회 양념장은 간장, 설탕, 파, 마늘, 깨소금, 후추, 참기름으로 섞어 만들고 이때 참기름, 설탕, 마늘 양은 좀 많이 넣어줘도 좋아요.",
+		"2. 잣은 고깔을 떼어 다듬고 키친타월을 깔고 다져 잣소금을 만들어 놓으세요. 육회용 고기는 만들기 바로 직전에 냉장고에 꺼내주세요.",
+		"3. 양념장을 얹고 깨소금 뿌리고 조물조물 무쳐주고 설탕물에 담궈둔 배를 껍질을 벗겨 일정하게 채를 썰어 면보에 수분을 제거해 가면서 접시에 보기 좋게 배열해주세요. 양념한 고기를 깐배 중앙에 얹고 마늘 편을 돌려담고 고기 가운데 잣소금을 뿌려줍니다.",
+		"4. 고기 위를 살짝 숟가락으로 눌러준 후에 달걀 노른자를 올려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/656ca712e3165b507b68c346b634f6cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/9e6a0b39eb39a90013ce78a2dfb05c531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/6e55de10b24881048d18cc6ce3bb52ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/5cad3d0082cc40d2d330b3487ddf37781.jpg"
+	]
+}

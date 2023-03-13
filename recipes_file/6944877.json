@@ -1,0 +1,52 @@
+{
+	"id": "6944877",
+	"name": "고구마머핀 만들기 핫케익믹스로 쉽지만 맛나게",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/aa847c75f90219edb60103f9a78866a41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944877",
+	"ingredient_ids": [
+		219
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "핫케익믹스",
+			"ingre_count": "2.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "0.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "삶은고구마으깬것",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 고구마는 껍질 벗겨서 물에 푹 삶아주세요.이렇게 젓가락이 푹 들어가면 불 꺼주세요.",
+		"2. 포크로 삶은 고구마를 으깨줍니다.",
+		"3. 달걀1개, 우유 0.5컵 넣고 거품기로 잘 풀어주세요.                   ",
+		"4. 핫케익믹스 2.5컵 넣고 잘 섞어주세요.                   ",
+		"5. 삶은고구마도 반죽에 넣고 잘 섞어주세요.",
+		"6. 머핀틀에 식용유를 살짝 발랐어요.",
+		"7. 머핀반죽을 머핀틀에 8~90% 정도 채워줍니다.",
+		"8. 오븐에 머핀코스로 윙~~돌려주세요.수동으로 하면 180도에서 25분정도 돌리면 될듯합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/e4da0c7ec321791f3ce202912b34dc221.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/0d6821ef2bba9bf39321659f61e039b61.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/21b330b50ec6e719c01ea6fe1cd3c34b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/2f2553c39a4cfc09ed9132a59b5295f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/350f9aa08da9fbea9e21552bfb337e841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/a725bb31b9714a183ba81d475cda49151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/fc18c69d3f5806b8a5be8fe89a2cc36f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/30c13d8dba613bb67262977cdd43dd811.jpg"
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"id": "6941980",
+	"name": "또띠아 콘피자( 또띠아피자, 식사대용, 아이간식, 맥주안주, 초간단요리, 오븐요리)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/0bb0cb78fb446152f315df300f10d1cb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941980",
+	"ingredient_ids": [
+		216,
+		732
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "또띠아",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "스위트콘",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "토마토소스",
+			"ingre_count": "2.",
+			"ingre_unit": ".큰술"
+		}
+	],
+	"recipe": [
+		"1. 양파를 다지듯이 잘게썬다.",
+		"2. 스위트콘에 물기를 빼서 담아둔다.",
+		"3. 또띠아를 준비하고, (냉동일 경우 해동해서 사용.)",
+		"4. 토마토소스를 골고루 펼쳐 바른다.",
+		"5. 피자치즈를 전체양의 2/3정도만 골고루 펴준다.",
+		"6. 양파, 스위트콘을 토핑해주고,",
+		"7. 남은 피자치즈를 위에 한번 더 흩뿌려준다.",
+		"8. 180도 오븐에서 13분간 굽는다. (오븐이 없다면 팬에 올려 약불에서 뚜껑 덮어 치즈가 녹을 정도만 굽는다. 이때 바닥이 타지 않게 불 조절을 잘 해야한다!)오븐",
+		"9. 뜨거울 때 조각을 내서 맛있게 먹는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/c33c7d1d92f11db0b87eb9e3d9297d211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/ba5cb40732c4cbd6709ac13ddb6342bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/43e4911b3e5114512ebd3ce491a8b5bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/2aa16497212f3b584f9d7de187eed5c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/5b2f42eee571eb2d505fdaa0431a96301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/aee5034651ed78c5e7a2dc561234ed891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/b46714852fa5158afd51a2eff4eb5da51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/c88301afde9afda46def67c6b609ae3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/61b3848319543ab5473441b0a184a6d11.jpg"
+	]
+}

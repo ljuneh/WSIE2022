@@ -1,0 +1,115 @@
+{
+	"id": "6941279",
+	"name": "완두콩애호박스프:속편한다이어트스프",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/56f797574f1c255228ab4901999e71ea1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941279",
+	"ingredient_ids": [
+		7,
+		108,
+		3,
+		29,
+		198,
+		5,
+		497,
+		323,
+		504,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "완두콩",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "우유(또는두유)",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료는 모두 채썬다",
+		"2. 버터 두른 팬에 마늘과 양파를 볶는다. 좀 더 든든한 한끼를 원하면 감자도 넣어주세요.",
+		"3. 애호박을 볶고 완두콩을 넣는다. 소금, 후추 조금 넣고.",
+		"4. 준비한 완두콩 중 토핑으로 올릴 것 조금 남겨넣고 넣어주세요.",
+		"5. 다시마물을 붓고 재료가 푹 익도록 끓인 후ㅡ",
+		"6. 믹서로 곱게 갈아준다. 감자를 넣지 않았다면 물을 너무 많이 붓지 마세요. 애호박에 수분이 많아 스프가 너무 묽어질 수 있어요.",
+		"7. 우유나 두유를 넣고 한소끔 끓인 후ㅡ",
+		"8. 한번더 갈아준다. 소금, 후추로 간 맞춘다 좀더 진하고 크리미한 스프를 원하면 생크림을 함께 넣어주어도 좋아요",
+		"9. 미리 물 뺀 두부는 깍둑썰기 한 후 팬에서 굽는다. 소금, 후추 뿌려서ㅡ 완두콩은 볶으면 좀 질겨지는데 걍 두부랑 같이 구웠어요. 먹을 만 했음요.",
+		"10. 스프를 그릇에 담고 구운두부와 완두콩을 올린다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/60d524ab5a3e2e35eb339589b1e6e95e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/80a056b70abb40c93ab135583f85633c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/7613a48a6c4be8e4e78a3927c2ce62711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/8f564dc648a78e7a62eb12673b2931c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/92518ec250f1b064cf2c16f055377f761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/3f5dcc34e4de5dd4cb501d1a084d51861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/be52af91a44eff3cf7aae3cd5febc60c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/f58005a86c27e569355f1641fab87b8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/939e0c4cf69944ed154d61875ae20eb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/765c963b49067f27dc19c8d37881054f1.jpg"
+	]
+}

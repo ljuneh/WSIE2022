@@ -1,0 +1,76 @@
+{
+	"id": "6943560",
+	"name": "관자 오일 파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/7dee236a3b16c85877ddd45255d776f01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943560",
+	"ingredient_ids": [
+		920,
+		29,
+		54,
+		2,
+		497,
+		467
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "관자슬라이스",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파스타면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "페페론치노",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 슬라이스관자는 냉동이라 미리 자연해동했어요. 시금치, 마늘, 양송이버섯 등 적당히 준비해요.",
+		"2. 팬에 올리브오일을 두르고 편으로 썬 마늘, 잘게 부순 페페론치노를 넣고 볶아줘요.",
+		"3. 파스타면도 삶아줍니다.",
+		"4. 관자 등 다른 재료를 넣고 볶아주다가 파스타 면을 넣어요.",
+		"5. 간은 치킨스톡과 소금 살짝으로 했고 시금치는 맨 나중에 넣어줍니다. 불끄고 넣어서 뒤적여줘도 충분해요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/259372186b29d13df3f45016c45bba031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/697d25828a5418e6d7c8ff1eb4a048011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/dbde876cd07757fee328316a30c03ab81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/2f88bde9561b465b545326ec8a501f6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/79d4a97ba641db4b0c549868072020281.jpg"
+	]
+}

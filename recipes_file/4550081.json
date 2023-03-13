@@ -1,0 +1,63 @@
+{
+	"id": "4550081",
+	"name": "도라지나물 만드는법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/f347c689a8531f573ce7d4c9d2d8d2dd.jpg",
+	"url": "https://www.10000recipe.com/recipe/4550081",
+	"ingredient_ids": [
+		38,
+		282,
+		504,
+		233,
+		757,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "도라지",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 예열한 후라이팬에 기름을 두른후. 도라지를 올린다.",
+		"2. 소금을 뿌려 주세요. 볶아 준다.",
+		"3. 대파를 다진마늘을 약간 넣고 볶는다. 불은 중간불",
+		"4. 차례상에 올라가는 도라지나물은 마늘과 파는 넣지 않고. 소금간만 하세요 .",
+		"5. 깨소금을 마지막에 뿌린",
+		"6. 참기름은 사용하지 않는다. 참기름 대신 기름을 넣어 도라지 만드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/ce5ef8ea7104aab53d9c35672501368a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/f0508e1f8f3b7acc6801c00464db6ac11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/9e9a6a1eb2869fc6875eab354b492a221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/20d822312f1813b3279566557af398881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/436a0a2fdcafc7950340cfa350dc30cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/1efae815754958af1f0da7a08da19f071.jpg"
+	]
+}

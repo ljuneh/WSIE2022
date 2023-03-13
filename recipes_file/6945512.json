@@ -1,0 +1,75 @@
+{
+	"id": "6945512",
+	"name": "초스피드반찬 : 계란장조림 만들기 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/41e5e9e498308ad346189f8366a698aa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945512",
+	"ingredient_ids": [
+		282,
+		995,
+		379,
+		292,
+		575
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2/1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액기스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 계란10개는 씻어서 물을 부워주고 굵은소금 1T를 넣어 끓여주세요.",
+		"2. 삶아진 계란은 차가운물에 담궈 빨리 껍질을 제거해주고",
+		"3. 냄비에 계란을 넣어 물 2컵,",
+		"4. 간장 2/1컵",
+		"5. 올리고당1T",
+		"6. 맛술3T",
+		"7. 매실액기스2T를 넣어주고",
+		"8. 대파와 마늘을 넣어서",
+		"9. 센불에 끓이다 끓어오르면 약불로 줄여 물이 2/1정도만 줄어들면 바로 불을 꺼서,  계란을 꺼내주면 됩니다!",
+		"10. 생각보다 단짠단짠 맛있는 계란장조림! "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/65ccef1cbbcdc473c4a55cbcc160fe631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/3b8489222e01ef6e89cb144c13009c521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/1e8c6e71ffa25fc2799f245f0053bd681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/00940f345f92cb764c2cb356f88c05a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/2c32e28ee151d86031b96deb791ca4ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/dd5e3d350e1daca82948ca797d2573c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/b7de8abb8f04cfc8847e19b9b0ec29e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/919edc27986a5bc5c319a3346f3b99c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/ddefd8dcce18ee0ca766dec471bede441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/796537ce9074410879242c676be1ae171.jpg"
+	]
+}

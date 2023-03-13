@@ -1,0 +1,32 @@
+{
+	"id": "6945619",
+	"name": "[에어프라이어] 방어머리구이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/1e95ecdfeb3e693df24ca8ec749aebc11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945619",
+	"ingredient_ids": [
+		504
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "방어머리",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 손질 해 준 방어머리는 찬물에 30분 담궈 핏기를 빼주세요.찬 물 ",
+		"2. 핏기 빼 준 방어머리는 키친타올로 물기를 제거해줍니다.키친타올",
+		"3. 방어머리를 에어프라이어에 넣고 식용유를 앞, 뒤 골고루 발라준 뒤 앞 180도 10분, 뒤 180도 10분 돌려주세요.식용유 2T에어프라이어앞 180도 10분, 뒤 180도 10분"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/8bfe4c8d60017ca43dec94649f171b851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/f94892da9c960de756b5159030baee181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/6fcf9c8fb0077f20297fb917990d7a591.gif"
+	]
+}

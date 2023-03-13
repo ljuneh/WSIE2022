@@ -1,0 +1,80 @@
+{
+	"id": "6850169",
+	"name": "엄마가 끓여주던 구수한 맛! 백선생 만능된장, 고등어강된장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/c744819cbc973667eb20b4207aa3769a1.png",
+	"url": "https://www.10000recipe.com/recipe/6850169",
+	"ingredient_ids": [
+		848,
+		226,
+		660,
+		876,
+		3,
+		295,
+		27
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "된장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "부순참깨",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통조림고등어",
+			"ingre_count": "2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "10",
+			"ingre_unit": "Cm"
+		}
+	],
+	"recipe": [
+		"1. 만능된장은 재료를 모두 넣고 잘 비벼주세요. 그러면 만능 된장은 완성.[만능된장] 된장 5큰술, 부순 참깨 5큰술, 다진 마늘 1+1/2큰술, 설탕 1/2큰술, 참기름 2큰술 ",
+		"2. 대파와 청양소추는 송송 썰고, 양파는 굵게 다져 준비해주세요. 통조림 고등어는 물기를 빼고 뼈를 발라 뚝배기에 넣고 잘게 부숴요.대파 10Cm, 청양고추 1개, 양파 1개, 통조림 고등어 2캔 뚝배기",
+		"3. 만능된장을 쌀뜨물에 풀어 붓고 중간 불로 끓여요.쌀뜨물 3컵중불",
+		"4. 끓어오르면 준비한 채소를 넣고 국물이 1/3정도 줄어들도록 졸여 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/30/b567cf7a1ac272f88239fcbaf75756b51.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/30/2dbf2cc8ea5f74b2c88cfe26aaf7b8c11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/30/b8a34009471e99585fe969c960f631d51.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/30/6416c7f370c6f0bfbd89bd1182a9f37e1.png"
+	]
+}

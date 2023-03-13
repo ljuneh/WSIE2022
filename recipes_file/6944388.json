@@ -1,0 +1,104 @@
+{
+	"id": "6944388",
+	"name": "가지밥:맛있는 비빔장 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/9fe3e706f77d78d7d29ff4c1db674d291.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944388",
+	"ingredient_ids": [
+		18,
+		379,
+		96,
+		995,
+		379,
+		226,
+		350,
+		224,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "계란후라이",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘가루(1/2큰술)",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "잘게썬파",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 가지 두개를 0.5cm 두깨로 썰어 중간불에서 기름없이 팬에 구워줍니다. ",
+		"2. 가지가 어느정도 구워지면 간장 2큰술을 넣어 볶아줍니다. ",
+		"3. 종이컵 2컵의 쌀을 넣고 구운가지를 올리고 2컵의 물을 넣은 후 압력밥솥 취사버튼 꾸욱!!!! ",
+		"4. 가지밥이 완성되었습니다. ",
+		"5. 맛있는 [ 비빔 간장양념 만들기] 간장 6큰술 설탕 1/2큰술 깨소금 2큰술 마늘가루 1봉지 (또는 간마늘 1/2큰술) 고춧가루 1큰술 잘게 썬 파 4큰술 참기름 1큰술",
+		"6. 재료들을 잘 섞어줍니다. ",
+		"7. 그릇에 가지밥을 담고 양념장을 덮은 후 ",
+		"8. 노른자 주르륵~~~ 반숙 계란후라이 올려 ",
+		"9. 비벼비벼~~~ 한입 가득! 가지의 자연스런 달큰한 맛에 맛난 양념장 함께 곁들이니 밥이 절루 꿀떡꿀떡 ※양념장을 입맛에 맞에 더 넣어 먹어도 좋고요.",
+		"10. 텃밭 겆이 한 빨간 고추도 맛난 쌈장에 콕! 다른 반찬 1도 필요없는 맛난 가지밥 브런치 였습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/7e1870a392cd4cf8682fb922499820541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/a514bb4d789f97b668df3dc9979c0b9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/4ddaffc8ad42d53f75e80cfae525034c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/065c12df5c5755e8effba232d54306291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/15e10232f489dfb0bffe95b09d14e9f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/581a7f3658bbe270b961d6d6b336948e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/e3b63746a9f0a41c76934e72bc2a28671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/8fffff5db652f3a94bd79397703d2ff91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/3ea52c59926e4f26ab87ea4841d0bd6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/db79050cb0b936c550c4951e998fb7321.jpg"
+	]
+}

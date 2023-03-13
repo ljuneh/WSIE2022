@@ -1,0 +1,68 @@
+{
+	"id": "554907",
+	"name": " 쌈밥 도시락",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/a2ad0a0a8c589da5c0d90fb6eb9162f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/554907",
+	"ingredient_ids": [
+		765,
+		228,
+		497,
+		660,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "흰쌀밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "통조림햄작은것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "꽃상추(또는청상추)",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "쌈장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 상추는 깨끗하게 씻어 물기를 제거한후 준비 하세요. 고슬고슬한 밥에 소금과 참기름 통깨를 넣고 버무려 한입 크기로 동글동글 뭉쳐 줍니다.",
+		"2. 마요네즈와 쌈장의 비율을 1:1로 섞어서 준비 합니다. 통조림햄은 적당한 크기로 썰어 노릇노릇 구워 줍니다.",
+		"3. 상추에 밥을 올리고 쌈장을 조금씩 발라주고 그위에 구운 햄을 올리면 완성. (밥에 간을 했기 때문에 쌈장은 적당히 올려 주세요.)",
+		"4. 간단하면서도 맛있는 쌈밥 도시락 완성. 요건 차가워도 맛있으니 도시락으로도 안성맞춤이죠. 상추와 쌈장. 그리고 구운햄의 조화가 아주 기가 막혀요. 마치 고기쌈을 먹는듯한 느낌? 나들이용 도시락으로도 그리고 입맛없을때 간단한 식사로도 참 좋을것 같아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/8f9e390b7d06cb4122c066c22f3af10f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/645ba968fad2fc57b95062fef52fc8661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/c15e12e1a91563937715473697ec310c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/239359db1a889dcddf839fb7bbda02e01.jpg"
+	]
+}

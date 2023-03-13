@@ -1,0 +1,66 @@
+{
+	"id": "6940409",
+	"name": "초간단 참치오뎅 김치찌개!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/fc79f73212e2c7f9cc6ec08464c88a9d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940409",
+	"ingredient_ids": [
+		398,
+		27,
+		233,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "배추김치",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "납작오뎅",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "참치캔큰것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "아주조금"
+		}
+	],
+	"recipe": [
+		"1. 잘익은 배추김치(묵은지)를 먹기좋은 크기로 잘라서 넣어주세요",
+		"2. 물2L를 부어주시고 캔참치를 기름을 빼주시고 넣어주세요",
+		"3. 납작오뎅도 작게 잘라서 넣어주세요",
+		"4. 대파1개를 쫑쫑 썰어주세요 취향에 따라서 청양고추 1~2개를 넣어주셔도 좋아요",
+		"5. 저희집 묵은지가 짭자롬해서 따로 간을 하지는 않았고요 설탕과 다진마늘/후추가루 조금만 넣어주었어요 10분간을 펄펄 끓여주시고 썰어주신 대파를 넣고 2~3분을 추가로 끓여내시면 되세요 *배추김치의 짠맛에 따라서 소금/국간장을 넣어주세요",
+		"6. 쉽고간단하게 만들수있는 참치오뎅 김치찌개가 완성이 되었어요 간단 술안주로도 아주 굿~이랍니다ㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/e7650801b18e8a22293b7adf4f6b81691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/9e8ab3f666f02f94dbdc5a2acb91ad6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/58657af8d6aa514989968cfde6d0be761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/b2610cffa29717926af82367b20b63bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/3cb2eef1f44685d4776df776f5d4a33e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/7260160f1c3bd5e43f1aa41be721be581.jpg"
+	]
+}

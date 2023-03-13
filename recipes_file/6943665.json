@@ -1,0 +1,90 @@
+{
+	"id": "6943665",
+	"name": "추석요리 _ 도미머리조림 수미네반찬 따라하기(짝퉁)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/1f95bea6059d1cdd5d70a3d5dabb7e3a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943665",
+	"ingredient_ids": [
+		19,
+		90,
+		846,
+		379,
+		226,
+		29,
+		28,
+		295
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "도미머리",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 생수에 도톰하게 썬 무, 다시마넣고 끓여요",
+		"2. 무가 살캉해지면 편으로썬 마늘, 생강 넣고",
+		"3. 간장, 술, 설탕넣고 끓여요",
+		"4. 청양고추, 홍고추도 넣고 끓여요",
+		"5. 저는 이미 익은 도미머리라 마지막에 넣고  국물 끼얹으며 조림 해요",
+		"6. 국물 자작해지면 마무리 합니다 ㅎ 물녹말도 필요없어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/eaa97321c4fb4163b002d45c07d3468b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/f8e387503b5010b0c8392c5a790bbd891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/6e9f399860123f6b4ad34cf636e451b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/a6f8758c4a2dcf1c22182bfd37011ed11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/320219ac35638cb0e252d01a4b5445a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/dc1429c94609da9365fb2519f2da9c681.jpg"
+	]
+}

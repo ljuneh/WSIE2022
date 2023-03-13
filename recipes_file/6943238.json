@@ -1,0 +1,53 @@
+{
+	"id": "6943238",
+	"name": "냉동만두 요리 만두밥 어때요?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/10317cae712de881dee66bd96d9a28811.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943238",
+	"ingredient_ids": [
+		473,
+		660,
+		216
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "냉동만두",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1.  먼저 만두는 3~4개정도 준비해주시면 적당하고 크기가 작다면 좀 더 많이 넉넉히 준비해주셔도 상관없어요 전자렌지용 그릇에 담아 랩을 씌우고 구멍을 뽕뽕 뚫은 후 3분정도 전자레인지에 돌려주세요 전자레인지                   ",
+		"2.  잘 익은 만두는 가위로 슉슉 잘게잘게 잘라주시구요 ",
+		"3.  고추장 1스푼과 참기름 반스푼 그리고 밥과 함께 슥슥 비벼주세요 사실 그냥 이대로만 먹어도 너무 맛있겠쥬 느끼한거나 치즈를 안좋아하시는 분들은 그냥 이대로 드셔보시길!! 추천해요 이대로 먹으면 매콤함과 고소함이 같이 잘 어우러져 이대로도 훌륭한 요리거든요                   ",
+		"4.  하지만 저는 치즈를 좋아해 듬뿍 얹어서 전자렌지에 1~2분정도 치즈가 다 녹을때까지 넉넉히 더 돌려주었어요 전자레인지 사양에 따라 조금씩 다를 수 있으니 다 녹을때까지 돌려주시면 된답니다 ",
+		"5.  짜잔! 냉동만두 요리 만두밥 완성! 이 요리는 어떤 만두를 넣냐에 따라 맛이 조금씩 달라질 수 있는 메뉴인데요 고기만두를 넣었다면 고기 특유의 고소함, 김치만두를 넣었다면 매콤하면서도 아삭한 김치의 식감이 매력젹이겠죠? "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/50326e215746315676bec9f34dff78f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/3402c195d0f6c302fd6e6abc104ba8291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/ad13915d0203f1faebc61964c761ba441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/fd673c49dd1c435632c8e01d4fddf0011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/d6d8b1243a5369f86898f51b4c67fe8d1.jpg"
+	]
+}

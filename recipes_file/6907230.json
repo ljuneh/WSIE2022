@@ -1,0 +1,71 @@
+{
+	"id": "6907230",
+	"name": "초코 마블 쿠키",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/09915debc272b49e5719f15b59f8ffa51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6907230",
+	"ingredient_ids": [
+		696,
+		546,
+		198,
+		884,
+		872
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "65",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "2/3",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "코코아가루",
+			"ingre_count": "3",
+			"ingre_unit": "g​"
+		}
+	],
+	"recipe": [
+		"1. 실온의 버터를 부드럽게 풀고, 슈가파우더, 소금을 넣고 가볍게 섞은 뒤, 계란 노른자와 바닐라 익스트랙을 넣고 잘 섞어주세요. ",
+		"2. 박력분과 아몬드 가루를 체쳐 넣고, 주걱으로 부슬할 정도로 섞은 다음,",
+		"3. 60 g의 반죽을 다른 볼에 덜어 코코아 가루를 넣고,",
+		"4. 완전히 섞어 각각 한덩어리로 뭉쳐주세요. ",
+		"5. 흰색반죽에 초코 반죽을 조금씩 떼어 섞어가며 마블을 만든 뒤, 원통형으로 모양을 대충 만들어주세요. ",
+		"6. 넉넉한 크기의 종이호일이나 유산지를 깐 후, 그 위에 반죽을 놓고 유산지를 반으로 접어, 그 위에 긴 자를 놓은 뒤, 바닥의 유산지는 위쪽 방향으로, 자를 잡은 손은 아랫쪽 방향으로 힘을 줘, 동그란 원통 모양으로 만들어주세요. 이렇게 하면 동그란 모양을 좀더 예쁘게 만들수 있어요 ",
+		"7. 원통모양이 완성이 되면 반죽을 유산지에 말아 잘 봉한 뒤, 냉동실에서 한시간 정도 굳혀줍니다.",
+		"8. 실온에 잠시 두었다가 살짝 냉기가 빠졌을때, 0.5 cm 두께로 잘라 팬닝 한 후, 170 ~175도로 예열된 오븐에서 12~15분 정도 노릇하게 구워주세요. 오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/57ca3db2336472235dc7bdb9670d6eb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/dbf79ba799a221b1d5c78657d71f014a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/e0a3ac83ad7d2b0ccf118b10263d93c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/d1d38f8b73983b82b7463b415c1c80171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/d6b96c53e830a6df16e18f2071bd998a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/ed4258443fa015d62dd3f925d4f817021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/feafc464eaf43b96141ceb8bd81807fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/dd40aba3a5597d16a37561a32b91c83c1.jpg"
+	]
+}

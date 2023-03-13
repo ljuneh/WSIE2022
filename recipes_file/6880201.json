@@ -1,0 +1,81 @@
+{
+	"id": "6880201",
+	"name": "만두강정 소스까지 다 만들기 간단간식 맥주안주로 굿굿!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/50a3188ab277080733f21878c68ae62a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6880201",
+	"ingredient_ids": [
+		104,
+		473,
+		724,
+		575,
+		226,
+		292,
+		233
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "만두",
+			"ingre_count": "6-10개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "옥수수",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "땅콩가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "3",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟갈"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		}
+	],
+	"recipe": [
+		"1. 만두를 구워주세요 저는 에어프라이어에다가~ 에어프라이에어 돌리실분들은 180도에서 12분정도면 다익어요에어프라이어",
+		"2. 위의 분량대로 양념을 섞어 만들어줍니다 이 양념은 두부강정이나 양념치킨 전부다 사용가능해요",
+		"3. 톡톡터지는 식감을 주기위해 저는 냉동실에 얼려뒀던 옥수수를 조금 넣어줬습니다 콘옥수수캔을 물빼고 넣어주셔도되요",
+		"4. 소스는 한번 파르르 끓여주세요제 분량대로 만드시면 만두 왕교자사이즈로 10개정도 버무릴수있는 양입니다",
+		"5. 다익은 만두를 끓여둔 소스에 투하!",
+		"6. 뒤적뒤적 잘섞어주기만하면 끝이에요고추장때문에 매운맛이 있으니 아이들을 위해 만드실경우 고추장양을 살짝 줄이셔도 됩니다",
+		"7. 그릇에 쪼로리 담고 위에 땅콩가루 뿌리고 파슬리가루 살짝 뿌려주면 비쥬얼 업업!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/c9cf10dddc7aefd028035f49bdcd2b8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/05e558532f4973472e9a9a61af99bade1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/9bedc862f3e9d2d61ba506b0c014a1931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/e204f074df10caa39c06afc795d4e5d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/9c6c11f8331c4d9d477cc82b3122196f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/1f76fec522178ca6e7682e1944e5e3c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/4c4cd6c77aeb0d85f10ac48542c0d51c1.jpg"
+	]
+}

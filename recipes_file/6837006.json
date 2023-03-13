@@ -1,0 +1,49 @@
+{
+	"id": "6837006",
+	"name": "집에서 밀크티 만들기~ [얼그레이 밀크티]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/c49fef6b48b29c19f1365b5ed9ad3a991.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837006",
+	"ingredient_ids": [
+		995,
+		226
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "얼그레이(잎차)",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "120",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 3g의 잎차를 준비합니다",
+		"2. 밀크팬에 물과 잎차를 넣고 중불에 올려서 물이 끓기 시작하면 3분간 우려줍니다",
+		"3. 3분이 지나면 약불로 줄이고 설탕과 우유를 넣어줍니다",
+		"4. 가장자리가 바글바글 거리면 바로 불을 끕니다",
+		"5. 체에 걸러서 잔에 담아줍니다",
+		"6. 진하게 잘 우러난 밀크티 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/63070bb6011e1106d75068253cfe98be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/f7c2e745546936b79e300ebf8afc44e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/3ccb5d67b1f8c2aa9f0fe70e2290318b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/4a5715fcd61acbcb48bc6cf1dfe24faf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/f1a869ef51348949e2f071fa463d879d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/22/31cd3a2055f8593d9d93ab3caecadd8e1.jpg"
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"id": "6945342",
+	"name": "초간단 마늘떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/159caf5c89c2dd7a530c997878ec2b7b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945342",
+	"ingredient_ids": [
+		972,
+		3,
+		27,
+		543,
+		473,
+		224,
+		226,
+		233
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "사각어묵",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "삶은달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 떡볶이떡은 12개이고요. 사각 어묵은 한 장으로 세모꼴로 썰어줍니다. 양파는 채썰고 대파는 어슷썰어줍니다. 달걀은 달걀이 잠길 정도의 물을 붓고 식초 1큰술과 소금 1큰술을 넣고 15분간 삶아준 다음 찬물에 담궈서 껍질을 벗겨줍니다.",
+		"2. 떡볶이떡은 찬물에 씻어서 건져줍니다. 5분 정도 담갔다가 사용하면 더욱 좋아요. ",
+		"3. 초간단 양념장인데요. 아래 몇 가지 양념만 넣고 만들어도 맛이 아주 괜찮아요. 고추장 2큰술, 고춧가루 1/2큰술, 설탕 1큰술, 다진마늘 1큰술 등을 섞어주세요. ",
+		"4. 물 1컵 반을 냄비에 넣고 양념장을 넣어 풀어줍니다. 끓기 시작하면 떡볶이떡과 어묵, 삶은 달걀을 넣어줍니다. 그런 다음 양파채를 넣어줍니다. ",
+		"5. 5분 정도 양념장이 걸쭉하게 될 때까지 끓여줍니다.",
+		"6. 나중에 대파를 넣어주고 통깨를 뿌려줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/5c79e432395f30316406e380a829dc631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/87bb85fc9da47b740b5438dbb0d57c9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/453e205a60af4e0f9ccb1a7f72b47c041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/cb2bf4c9577fcc66d7f9618892c48a541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/5fec0168541ef44a79272760cb0aa5241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/f4e2fd5fd06f6b6214a765ada5b591001.jpg"
+	]
+}

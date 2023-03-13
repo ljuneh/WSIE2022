@@ -1,0 +1,71 @@
+{
+	"id": "6943397",
+	"name": "개운한 콩나물 해장라면 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/f285cb2549b4fbcd173ab85f4a0788a61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943397",
+	"ingredient_ids": [
+		441,
+		27,
+		34,
+		224,
+		504
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "씻은콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "국공기로"
+		},
+		{
+			"ingre_name": "채썬무",
+			"ingre_count": "1/2",
+			"ingre_unit": "밥공기"
+		},
+		{
+			"ingre_name": "라면",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 분량의 재료를 준비합니다. 라면은 어떤 것을 사용해도 상관없지만 매콤한 스프가 기본이 되는것이 좋아요!",
+		"2. 대파와 고추는 송송 썰어줍니다. 파가 많이 들어가야 맛있어요.",
+		"3. 무는 채썰어준비합니다. 볶은다음 끓을꺼라 조금 굵게 썰어주는게 부서지지않고 깔끔하게 만들 수있습니다.",
+		"4. 웍에 식용유2스푼을 넣고 파를 볶아 기름을 내줍니다.",
+		"5. 거기에 채썬 무 반공기와 고춧가루 2스푼을 넣어 달달 볶아줍니다. 볶다가 물을 넣어야 더 시원한 맛이 나요!",
+		"6. 라면 봉지에 적혀있는 분량의 물을 모두 붓고 스프도 다 넣어줍니다. 이때 국물 간을 봐서 싱겁다 싶으면 조금더 끓이면돼요.",
+		"7. 무가 어느정도 익었을때 면을 넣고 콩나물도 같이 넣어줍니다. 면이 익는 속도와 콩나물이 비슷하더라고요.",
+		"8. 끓인라면을 예쁘게 담아 맛있게 호로록!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/d2bddc2245d6f4f3d6fc92630b4dcceb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/5b1cebf8362a7ac1997663153d09b2101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a03fc6a38d5394774e5346474944df5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/55e6fec74633679db2b724ae88493d131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/91d099b45c344dd6b3ab5b46f10689241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/c2c6b483d632d0ed2a54b395144017041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/5add9e221bd2baa26084581316c84d5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/2a4f3f7179c081af9ae7ebb32284e2511.jpg"
+	]
+}

@@ -1,0 +1,96 @@
+{
+	"id": "1030843",
+	"name": "매운탕은 역시 조기매운탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/25/b021d5001639e90c846752b4f3ac9db9.jpg",
+	"url": "https://www.10000recipe.com/recipe/1030843",
+	"ingredient_ids": [
+		295,
+		27,
+		31,
+		504,
+		224,
+		349,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "조기(중간크기)",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "멸치다시물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "무(두줌)",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "붉은고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "쑥갓",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "후춧가루(소금대체가능)",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 조기는 내장과 비늘을 제거하고 굵은 소금을 뿌려 1시간 이상 재워놓아요.이렇게 해야 생선에 간이 베어들어 나중에 맛있고 찌개를 끓여도 잘 부스러지지도 않아요. 무는 나박 썰고, 쑥갓과 나머지 재료들도 씻어서 손질해놓아요.",
+		"2. 생수 1리터에 멸치 한 줌을 넣어 멸치다시물을 내줍니다.",
+		"3. 팔팔 끓여 10여분 정도 지나면 다시멸치를 꺼내고, 다시물을 잠시 다른 곳에 옮겨둡니다.",
+		"4. 살짝 달군 뚝배기에 가스불을 끄고 식용유를 2큰술 넣고, 고춧가루를 3큰술 넣어 잠시 볶아줍니다. 이 때 뚝배기가 너무 뜨거우면 고춧가루가 까맣게 탈거에요. 항상 고추기름을 낼 때는. 약한 불에서 내주세요. 매운탕을 끓이기 위해 약식으로 고추기름을 내주는거에요. 고추기름이 있다면 바로 고추기름을 넣으셔도 되고요.",
+		"5. 고추기름이 충분히 우러나왔으면 여기에 끓여둔 다시물을 붓고 나박썬 무를 넣어 3~4분 정도 끓여 무를 익혀줍니다.",
+		"6. 무가 투명해지면. 씻어서 소금간한 조기를 넣고 불을 올려 센 불에서 뚜껑을 열고 10여분 정도 팔팔 끓여줍니다. 생선살만 익으면 되지요. 국간장 3큰술을 넣고 다진 마늘도 넣고 풋고추(또는 청양고추)와 붉은 고추를 넣고 마저 끓여줍니다. 생선살에 간이 되어있어서 국간장으로만 간을 해도 딱 맞지만 싱거우면 소금으로 간을 맞춥니다.",
+		"7. 맨 마지막에 대파와 쑥갓, 후춧가루를 솔솔 뿌려주고 30초 정도 지나면 불을 끕니다. 오래 끓이면 대파와 쑥갓의 향이 다 달아나서 좋지 않아요.쑥갓은 선택사항이지만 쑥갓의 향기가 매운탕의 맛을 한층 더 업그레이드해줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/76126eccdc727ca2721017f04a545e841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/a481fe1c67b185af0473366997810a271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/b32aa346f7cfa6611850b24beee685a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/870d533c6cc0d2516e4c21f0eece9e711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/57c3870ec0e25fe37d3ad41e4441f7ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/6b1935ae6565adb441b06f972905b9981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/56cf5864c55bef67cb67c5b2b63e62721.jpg"
+	]
+}

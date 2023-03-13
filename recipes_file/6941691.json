@@ -1,0 +1,69 @@
+{
+	"id": "6941691",
+	"name": "에그슬럿 슬럿 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/da39da60511ded5f12a039407409915a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941691",
+	"ingredient_ids": [
+		219,
+		5,
+		291,
+		198
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바게트빵",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "바다소금",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 감자를 씻어 껍질을 벗기고, 깍둑썰기 해주세요.",
+		"2. 시솔트 1 티스푼과 함께 감자를 15분간 삶기 시작합니다. 다 삶으면 체에 받쳐 물기를 빼주세요.",
+		"3. 찍어먹기 좋게 바게트를 스틱형으로 잘라주세요.",
+		"4. 달군 팬에 버터를 살짝 두르고 바게트를 굽습니다.",
+		"5. 믹서에 삶은 감자, 버터 2스푼, 맛소금을 한꼬집 넣습니다. 곱게 갈아주세요.",
+		"6. 준비한 유리병 항아리의 1/3 만큼 감자퓨레를 답아줍니다.",
+		"7. 달걀을 깨서 이 위에 얹어주세요.",
+		"8. 냄비에 물을 받아 유리병을 담그고 끓여주세요. 병크기와 가열하는 냄비뚜껑 유무에 따라 15분 - 30분이 걸리는 것 같아요. 저는 뚜껑을 연채로 가열하여 30분이 걸렸습니다.",
+		"9. 이렇게 계란흰자만 익었을때 완성입니다.",
+		"10. 바게트와 함께 플레이팅 해주세요. 취향에 맞게 소금을 첨가하고, 가니쉬가 있으면 뿌려주시면 좋겠죠."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/0203afa4c7e8851deaf5844baed1fc701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/87bbf627350f52c92ec5cdc06307bf861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/ed1db24501c365808b8ed6951529f19f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/fe7fd9c02383b14ccf6386a1555244881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/f00de43222270ad3259453078bc4d4731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/727717832961d09a06486f130990efcb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/9190c1f346fe2ee824bdf284d46fe7c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/ca4e6a457f4183d04f9d5507004180771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/79c3bd17895ab4cfa6190fb482ecf6a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/d55a98a9d0d56461a9e7e4f71fbb70751.jpg"
+	]
+}

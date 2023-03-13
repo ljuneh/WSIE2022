@@ -1,0 +1,56 @@
+{
+	"id": "6860857",
+	"name": "생김치로 김치볶음 정말 맛있어요~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/dda2c977688285658b838a42f79ea7b91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6860857",
+	"ingredient_ids": [
+		327,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "생김치",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "무생채",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "멸치간것",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 김치 속 싸고 남은 배춧잎과 무채를 들기름 1스푼을 넣고 볶아주었어요.",
+		"2. 멸치 간 것 1스푼 (너무 가까이 확대해서 찍었더니 엄청 거칠어 보이네요. 하지만 아주 곱게 간 멸치랍니다)",
+		"3. 준비한 멸치 간 것 1스푼을 넣어주고 볶아주면 돼요. 정말 쉽지요. ~~멸치 간 것만 넣어주고 (멸치 간 것 없으면 그냥 멸치 넣어도 좋지요)",
+		"4. 어느 정도 볶아주다가 물 200ml를 넣고  국물이 자작 자작 할 때까지 볶아주면 기막 킬 정도로 만난",
+		"5. 생김치 볶음이 완성되었어요. 푹 익을 정도로 볶아주어야 맛나요.",
+		"6. 접시 담아서 통깨를 솔솔 뿌려주면 돼요.",
+		"7. 따신 밥 위에 척척 걸쳐먹으면 정말 맛있어요. 이제는 우리 딸들이 생김치로 볶아달라고 한답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/14a5cb55d91f19abc319b4505ea2a32e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/2e5b72a2016b2d646395dd907c70b14e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/2639362c46cf606c7ed87c26b681a59b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/b62d211c154a6b058e12cb224a9ef22a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/1dc7867cd6a0f55b551a0ff6511bd5701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/7a7028c1841cf33ef36a4817b85f73a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/14/02abb66c5d642aeb48bd14475b3ed43d1.jpg"
+	]
+}

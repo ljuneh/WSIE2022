@@ -1,0 +1,101 @@
+{
+	"id": "6872087",
+	"name": "비트 피클, 새콤달콤아삭한 비트요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/26/ead97a545d36afeb2d7d695d2e77d73a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872087",
+	"ingredient_ids": [
+		44,
+		3,
+		295,
+		995,
+		226,
+		231,
+		497,
+		857
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "비트",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "비트줄기",
+			"ingre_count": "6",
+			"ingre_unit": "개~"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무10cm정도",
+			"ingre_count": "10",
+			"ingre_unit": "cm 정도"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "170",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "청주or소주",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "있으면월계수잎",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 위에 써진 소스 재료들을 다 넣고 중불에서 끓이다가 팔팔 끓어오르면 불을 꺼주세요. 그리고 식혀주시면 소스는 끝.간을 봤을 때 시큼한 맛을 원하시면 식초를 10cc~ 더 추가하셔요.",
+		"2. 소스를 식히고 있는 동안 준비한 재료들을 손질해볼까요. 줄기와 잎을 칼로 잘라 분리해주세요. 저희는 줄기만 사용할 거 랍니다.남은 잎은 데쳐 나물로 먹어도 맛있어요~",
+		"3. 그리고 줄기에 있는 겉껍질은 질기니깐, 칼로 하나하나 벗겨주세요.",
+		"4. 그리고 펄펄 끓는 물(+소금 1/2T)에 줄기를 넣고 중불에서 1분 정도 데쳐 준 다음 물에 씻어 열기를 빼주세요.보통 나물 데치는 것보다 많이 살캉할 정도로만 데쳐주는 게 point.",
+		"5. 물기를 제거한 비트 줄기를 한 입에 먹기 좋게 썰어주세요.",
+		"6. 그리고 비트 뿌리와",
+		"7. 양파와 무는 최대한 아주 얇게 썰어주시면 재료 준비는 끝.뿌리와 무는 껍질을 벗겨주시는 거 다들 잘 아시죠! 채칼을 사용하실 때 정말 주의하시길~",
+		"8. 소독된 용기에 준비한 재료들을 (비트 뿌리, 비트 줄기, 양파, 무, 청양고추) 차곡차곡 다 넣어주세요.청양고추는 이쑤시개로 찔러 넣어주면 더욱 좋답니다.",
+		"9. 여기에 아까 식혀둔 소스를 넣어주시고 냉장고에 넣어 보관해두었다가 다음날부터 드시면 된답니다. 이걸로 비트피클 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/26/847c721b46b4253cf4b0ac91988075301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/26/55de09e966aef7efc09398d1da7b86a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/26/fda859f400981965e4f53b4a83508b211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/26/4a31f870deff3fc0b7b2b094c437164e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/26/b82460be8982be78105e0ce4385324e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/26/064a89d8bcd55f51a92b49d13ee108eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/26/bd6fb8ef037a5e56eb103da5cf80ede11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/26/54dcfe69d2aa1f0f7282d59569b2f56e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/26/154e8bdfb8147b5c6b99805958eb5e311.jpg"
+	]
+}

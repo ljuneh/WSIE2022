@@ -1,0 +1,71 @@
+{
+	"id": "6942188",
+	"name": "참치마요주먹밥 간단하게 휘리릭~~!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/f513ce5386cefe0a59bfe2d96d746ff81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942188",
+	"ingredient_ids": [
+		659,
+		228,
+		660,
+		291,
+		543
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": "듬뿍"
+		}
+	],
+	"recipe": [
+		"1. 참치를 채에 걸러 기름을 쏙 빼주세요",
+		"2. 참치를 볼에 넣고 공기밥을 넣어주세요",
+		"3. 맛소금으로 살짝 간을 하고 마요네즈를 넣구요",
+		"4. 참기름도... 넣으셔도 되고 안넣어도 됩니다.",
+		"5. 김가루는 듬뿍!!! 많을 수록 맛있어요 ㅎㅎ",
+		"6. 통깨를 넣어서 고소한 맛을 더 해줍니다",
+		"7. 장갑을 끼고 잘 비벼주시면 되요~",
+		"8. 먹기좋은 크기로 잘 뭉쳐주시면 완성입니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/4216c91ef455d7bd38f583ac4f98733c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/e61d9b0ab04f8334e08904c2cee3180b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/fe1593023b46d5f258f7c1917fddd0a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/7deb90f13b45e52c68a78509e82f5b351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/02e029266cd24184f9680dc399d697c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/326165d8252f4a4a57503a454f94e01b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/934653c1b59e53739f5a951cb2cd55801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/7f6c742e2379d34a641d9c63011b37681.jpg"
+	]
+}

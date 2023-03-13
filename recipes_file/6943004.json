@@ -1,0 +1,45 @@
+{
+	"id": "6943004",
+	"name": "(아기나물 활용) 아기비빔밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/fdfa56df9e679906e8d7feed7761a1251.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943004",
+	"ingredient_ids": [],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "고사리나물",
+			"ingre_count": "1",
+			"ingre_unit": "젓가락"
+		},
+		{
+			"ingre_name": "무나물",
+			"ingre_count": "1",
+			"ingre_unit": "젓가락"
+		},
+		{
+			"ingre_name": "콩나물무침",
+			"ingre_count": "1",
+			"ingre_unit": "젓가락"
+		},
+		{
+			"ingre_name": "소고기된장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "노른자후라이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요재료의 모든 레시피는 '로운이의식단일기'에 업로드 되어있습니다.",
+		"2. 달걀은 노른자만 분리해서 후라이해주세요",
+		"3. 아기 그릇에 옹기종기 예쁘게 담으면! 비빔밥 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/62f0ad3633020ad67d8517b6e97b19a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/31e1aa7b7312b4132eabdb912dee964c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/97b3eac554bf1e1fbec01267e1b739c11.jpg"
+	]
+}

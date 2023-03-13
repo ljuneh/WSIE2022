@@ -1,0 +1,53 @@
+{
+	"id": "6840294",
+	"name": "귤청",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/19/f699f353f9f3df1a6ce86e52b06474e01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6840294",
+	"ingredient_ids": [
+		940,
+		282
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "귤설탕",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "베이킹소다",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "구연산",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 1. 레몬청 담글 때처럼 먼저 베이킹소다를 이용해서 귤 껍질을 박박 문질러 주세요.",
+		"2. 구연산을 1ts 정도 넣고 물을 넣은 후 10분 가량 그대로 두었답니다.",
+		"3. 2. 1번의 귤을 흐르는 물에 씻은 후 이번에는 굵은 소금을 이용해서 세척한답니다. 1번과 마찬가지로 굵은 소금으로 껍질을 박박 문지른다음 물을 넣고 10분 가량 그대로 두시면 된답니다.",
+		"4. 3. 2번의 귤을 흐르는 물에 깨끗이 씻은 다음 이번에는 끓는 물에 10초 정도 넣어 주세요 그런 다음 체에 받쳐서 물기를 완전히 말려 주시면 된답니다.",
+		"5. 4. 귤청을 담글 때 쓰는 도구는 모두 물기가 없어야 해요 도마도 칼도....귤도... 물기가 완전히 마른 귤을 얇게 슬라이스 하시는데요 꼭지 부분은 제거해서 버렸답니다.",
+		"6. 5. 귤이 1kg 이기 때문에 설탕도 1kg 또는 1.2kg 을 넣어야 하는데요 약 200g 정도는 귤 위를 덮을 수 있게 남겨두고 나머지 설탕과 귤을 함께 섞어주세요",
+		"7. 6. 설탕과 함께 섞은 귤은 열탕 소독하여 말린 병 속에 담고나서 윗 부분에 남겨놓은 설탕을 덮어 주세요",
+		"8. 이제 요 귤청은 실온에(서늘한) 2~3일 정도 두었다가 냉장고에서 한 달 정도 숙성시킨 뒤 에이드나 차로 마시면 된답니다. 그리고 귤청의 과육은 나중에 잼으로도 활용할 수 있으니 귤잼도 만들어보세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/b23ff35b31cc78f89a0b7535d54341e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/a62bf14a43e6640568ebcce16f4a7d0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/76de715e9ada544ed4f8a570508b1ece1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/25a1f3d68c024815cc60ef12f154ae651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/ffc07dce5c43018c90b0ef2df8fcbb791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/4749567d7ab495ceb0a86f1561df918b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/61781fdb140ec6b00f366769fb3bc1751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/eba67e3530ce7ba419f32c859af4c3b71.jpg"
+	]
+}

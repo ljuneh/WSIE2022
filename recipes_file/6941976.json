@@ -1,0 +1,93 @@
+{
+	"id": "6941976",
+	"name": "가지튀김 새우살 넣으니 맛나네요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/6fb7a1fdaf4d8438b1bcfd7e1fcfb7a71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941976",
+	"ingredient_ids": [
+		18,
+		79,
+		3,
+		27,
+		497,
+		734,
+		995,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "8~10마리",
+			"ingre_unit": "~마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 새우, 양파, 대파 다져서 소금 살짝 후추 톡톡 뿌려서 버물버물 해줍니다. (양파, 대파는 생략하셔도돼요)",
+		"2. 가지는 아래쪽에 나무젓가락을 양쪽에 놓고 잘라서 가지가 끝까지 썰리지 않게 해주고 나무젓가락을 뺀 후 두개를 한셋트로 해서 잘라 준 후",
+		"3. 가지 사이에 다진 새우살을 넣어줍니다. (사진보시면 어떻게 하는지 아시겟죠?)",
+		"4. 이제 튀김옷입혀줄 반죽을 해주는데 튀김가루or밀가루를 3~5수저 넣고 계란한개 넣어준 후 물을 부어주는데 주르르 흐르는정도 농도가 될 정도로 물을 부어서 섞어주면 됩니다.",
+		"5. 이제 가지를 튀겨주면 되는데, 저는 가지가 반 잠길정도로만 기름을 부어서 튀겼답니다. (궂이 가지가 다 담길정도로 하지 않아도 충분히 튀길수 있어요) 기름의 열을 올려서 (굵은소금 하나 넣어서 치익~하고 올라올정도 되면)",
+		"6. 이제 튀김옷을 살짝 입힌",
+		"7. 가지를 넣어 튀겨주면 된답니다.",
+		"8. 노릇노릇하게 잘 익었다 싶으면",
+		"9. 가지튀김을 건져 키친타올에 놓고 기름을 한번 빼준 후",
+		"10. 접시에 담아주면 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/cc12f55572140e613e30b2e5c416579f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/ee996f1c1c430b16c98382d2245848781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/c2b49fa8f33ae6fab8daed9edd9c83df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/92c047911138e776066fc710d07fd6031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/04d691798307e0562367bcaa727f3b9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/67650dfb263edbb6ff3ed76bc22005dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/c7275325fc092b66538cf5298a2803001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/259cde2ebee6d5134db375ce459d0a361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/fe6b67957b4fdf07a9748d42fa071f241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/59f0004d95cc95fbdc6963aa121d0d341.jpg"
+	]
+}

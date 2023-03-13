@@ -1,0 +1,83 @@
+{
+	"id": "4090829",
+	"name": "가래떡강정",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/28/2796f3b8cf8e3d01601a3b76af1098991.jpg",
+	"url": "https://www.10000recipe.com/recipe/4090829",
+	"ingredient_ids": [
+		504,
+		473,
+		724,
+		843,
+		575,
+		292
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가래떡",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호두가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "찹쌀가루1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 1회용 비닐봉지에 가래떡을 담고 찹쌀가루를 넣어 튀김옷을 입혀줍니다.",
+		"2. 달군 프라이팬에 식용유를 적당량 붓고 170도씨 온도에서 튀김옷을 입힌 가래떡을 튀겨냅니다.",
+		"3. 튀겨낸 가래떡은 키친타월을 깐 접시에 담아 기름기를 제거해줍니다.",
+		"4. 달군 프라이팬에 분량의 양념 재료 고추장, 케찹, 진간장, 매실액, 올리고당, 맛술을 넣어 보글보글 끓여줍니다.",
+		"5. 튀겨낸 가래떡을 넣고 버무리듯 양념을 고루 묻혀 주고 불에서 내려요.",
+		"6. 고명으로 호두가루를 살짝 뿌려냅니다.호두가루 대신에 땅콩가루나 아몬드가루도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/28/92ff2b28e673621b70e6e1d56452d2c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/28/a6a2912961e72e0be81aa9758753d6f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/28/6114f80af59741914c221887e339f5a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/28/89f813378d1692613f4b9d77839979c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/28/ed5da5cc7022bb3164562e02100afde41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/28/b0a7a0666b91bf23b2a99c4834db564c1.jpg"
+	]
+}

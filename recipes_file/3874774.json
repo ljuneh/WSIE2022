@@ -1,0 +1,67 @@
+{
+	"id": "3874774",
+	"name": "감자구이 오믈렛",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/f3945edba6389b7ea52c388a9ed5d6a8.jpg",
+	"url": "https://www.10000recipe.com/recipe/3874774",
+	"ingredient_ids": [
+		219,
+		3,
+		212,
+		214,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "감자(소)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 감자는 0.2cm 정도의 두께로 통썰기 합니다.",
+		"2. 양파는 채썰어 달구어진 팬에 기름을 두르고 볶습니다.",
+		"3. 달걀을 깨뜨려 그릇에 담은 다음 소금, 후추로 간을 합니다.",
+		"4. 감자는 여러번 물에 헹군 다음 달구어진 팬에 기름을 두르고 감자를 넣고 앞, 뒤 노릇노릇하게 굽습니다.",
+		"5. 볶아두었던 양파를 조금 넓게 골고루 편 다음 달걀물 1/3만 붓습니다.",
+		"6. 그 다음 구워 두었던 감자를 놓고 달걀물을 마저 부은 다음 뚜껑 닫고 약불에서 천천히 익힙니다. 다 익어갈때쯤 모짜렐라치즈와 슬라이스치즈를 뿌립니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/2f536f6a1f184ed2bd335b311f959dd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/67724773202934ed2f8cffb7b4e1424d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/a52482bb531fb16388339864d7d04daa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/594428cf0ee498b306f43365323fe5001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/7b1735d349bef11744864fc4b46cbaaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/2365894a12d9dc93181d6af287fde1cd1.jpg"
+	]
+}

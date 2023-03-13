@@ -1,0 +1,73 @@
+{
+	"id": "6940251",
+	"name": "<세종댁달순레시피>매생이북엇국 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/468bdfc75e520519acc0359abc74020d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940251",
+	"ingredient_ids": [
+		93,
+		527,
+		995,
+		665,
+		327,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "매생이",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "황태",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다짐마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 북어포를 용기에 넣고 물을 넣어 불려 줍니다..",
+		"2. 매생이를 두번 정도 헹궈 채에 담아 물기를 제거합니다.매생이는 여러번 행궈주면 ",
+		"3. 매생이를 2번 자른 후 북어(50g), 들기름(1큰술)를 넣고 달달 볶아줍니다.",
+		"4. 북어 볶은 냄비에 물 2컵을 넣고 끓여 줍니다.",
+		"5. 냄비에 물 2컵을 넣고 매생이(150g), 다짐 마늘(1작은술)을 넣어줍니다.",
+		"6. 참치액(2수저)를 넣고 간을 맞춰주시면 완성!깔금하고 개운한 맛을 원하시면 거품을 걷어 내시면 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/7daec0653f35f0801f517c6d822d348b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/3894e7d6067cc2e94beebd43621daf7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/d256d3f0897db49c1276259c85d426da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/5eef20ca63c3e2124fb3389860f96f241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/bf91a7920dd8685b1e4585d802a0366f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/5c4d9ed2774f59478c6e29911565773a1.jpg"
+	]
+}

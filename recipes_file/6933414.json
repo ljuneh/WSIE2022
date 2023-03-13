@@ -1,0 +1,76 @@
+{
+	"id": "6933414",
+	"name": "#최애반찬#소세지강정",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/05/18/2cad62498784efd2b97c0f80abebfcff1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6933414",
+	"ingredient_ids": [
+		433,
+		3,
+		379,
+		226,
+		231,
+		477,
+		575
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "비엔나소세지",
+			"ingre_count": "30",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "캐첩",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 소세지 슥슥 칼집을 넣어주세요.",
+		"2. 끓는 물에 살짝 데쳐 주세요.데쳐주면 기름기도 빠지고 칼집도 선명해진답니다.",
+		"3. 캐첩 5스푼, 간장 1스푼, 굴소스 1스푼, 설탕 1스푼, 식초 1스푼을 넣고 양념장을 만들어 주세요.다진마늘을 약간 넣어주면 양념치킨 맛이 나요.",
+		"4. 달군팬에 양파 등을 볶아주세요.",
+		"5. 데친 소세지를 넣어주세요.",
+		"6. 양념장을 넣고 달달 볶아주세요.",
+		"7. 윤기 및 달달한 맛을 추가하기 위해 올리고당 한바퀴만 둘러주면 밥도둑 최애반찬 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/18/2ce1f216f9b862994d8c590512b67c031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/18/6531030d3f191c293fc441ca699890151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/18/7701bfd3bd6428f5081aabd5eb99a93c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/18/d69d261acdf255804de371b59ccb8f8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/18/cb4ed7ddf6b33e52ac6bd3663a49eb411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/18/2b37f9e5d7990742faa631394b7271511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/18/090db4d15ba93270b26b8b0834a837781.jpg"
+	]
+}

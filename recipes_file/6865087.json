@@ -1,0 +1,86 @@
+{
+	"id": "6865087",
+	"name": "멸치 꽈리 고추 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/05/2c12f837da4f09d3b6c3d4c682d6972d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865087",
+	"ingredient_ids": [
+		293,
+		379,
+		343,
+		29,
+		938,
+		665
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "작은멸치",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "썬대파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다시마가루",
+			"ingre_count": "1/3",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "볶은참깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 팬에 기름없이 살짝 볶은후 체반에 받쳐 놓습니다.",
+		"2. 꽈리고추는 깨끗히 씻은후 길이가 긴것은 반으로 잘라 놓습니다.",
+		"3. 팬에 간장. 미림 다시마가루. 마늘 매실청. 참치액,대파를 넣고 끓으면",
+		"4. 꽈리고추를 넣고 볶다가 물1/2컵을 넣고 졸이다가",
+		"5. 멸치를 넣고, 홍고추을 채 썰어 넣고, 고루 저어주면서 볶아줍니다.볶은 참깨도 넣어 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/05/ad37ece23bba84b3207a1082379e0c4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/05/e3952040851d5aff63126aaf7bbda4041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/05/73378c5bba8c850679cc32ad61706a761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/05/3916b770b75e4e8d65de981c9b8568621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/05/3f8dcdd43ab1c154c30ea170596d4cd91.jpg"
+	]
+}

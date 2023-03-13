@@ -1,0 +1,61 @@
+{
+	"id": "6944210",
+	"name": "새우머리갈릭버터구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/89556a00db903a9cde885a03b83a90ea1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944210",
+	"ingredient_ids": [
+		198,
+		29
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "새우머리",
+			"ingre_count": "14",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밑간용맛소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "시즈닝가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 새우 튀김하고 남은 새우머리인데요. 뾰족한 부분을 가위로 자르고 수염같은 것을 깨끗이 정리해요.                   ",
+		"2. 깔끔하게 정리된 새우머리입니다.",
+		"3. 맛소금을 뿌려 밑간을 해둡니다. ",
+		"4. 마늘을 저며 썰어줍니다.",
+		"5. 팬에 버터 한 조각을 넣고 저민 마늘을 볶아줍니다.",
+		"6. 새우머리가 빨갛게 익을 때까지 볶아줍니다.",
+		"7. 버터 향이 아주 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/73b4deb82753b8562d8ef430527f327e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/d2f9c8c09fa9b95cb48cc7fe7d12f9851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/321e0f74b7f658b102f97554407272561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/efb9afaf7ac1635fffd74b2ff026ec5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/40c7d64c09dabedd742018a0c8033ffe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/e53034090ac2e26bf02ba8bade6c6b1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/2c7a34c27a6e0c2ae7e100349dbdbe1f1.jpg"
+	]
+}

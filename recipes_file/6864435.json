@@ -1,0 +1,81 @@
+{
+	"id": "6864435",
+	"name": "나박김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/0ae9cb989b70a6602f18b04785b10244.jpg",
+	"url": "https://www.10000recipe.com/recipe/6864435",
+	"ingredient_ids": [],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "얼갈이배추180g",
+			"ingre_count": "180",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "콜라비150g",
+			"ingre_count": "150",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "사과100g",
+			"ingre_count": "100",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "배170g",
+			"ingre_count": "170",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "래디시25g",
+			"ingre_count": "25",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "밤25g",
+			"ingre_count": "25",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "석류40g",
+			"ingre_count": "40",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "쪽파50g",
+			"ingre_count": "50",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "설탕5g",
+			"ingre_count": "5",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "오천년의신비명품천일염5g",
+			"ingre_count": "5",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "물9컵",
+			"ingre_count": "9",
+			"ingre_unit": " 컵"
+		}
+	],
+	"recipe": [
+		"1. 각각의 재료를 준비한다.",
+		"2. 얼갈이배추와 콜라비는 사방 3cm 크기로 썰고, 껍질을 벗긴 배와 사과는 사방 2cm크기로 납작하게 썬다. 마늘과 생강은 곱게 다진다.",
+		"3. 밤과 래디시는 얇게 슬라이스하고, 석류는 알갱이를 빼서 준비한다. 쪽파는 4cm길이로 자른다.",
+		"4. 얼갈이배추와 콜라비에 소금과 설탕을 넣고 약 20분간 절인 후 체에 밭쳐 물기를 제거한다.",
+		"5. 볼에 물, 소금, 매실청, 설탕을 넣고 저어 녹인 후, 고춧가루, 마늘, 생강을 면보주머니에 넣고 잘 묶은 후 김칫국물에 넣어 색을 낸다.",
+		"6. 김칫국물에 얼갈이배추, 콜라비, 사과, 배, 래디시, 밤, 석류, 쪽파를 넣고 하루 정도 상온에서 숙성한 뒤 냉장고에 보관한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/308ed9ed95545d55dac119b909b47d62.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/d88a3366e6f5ff7eff48423644ed526b.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/7b103449a6872cf70c221c8351ae5e9c.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/d8a20d16af8d5ac0b8f2b184885127bf.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/edf83fa377a77472f8dd188382a74c4f.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/a6490be2f19516208cfa1ba2939775da.jpg"
+	]
+}

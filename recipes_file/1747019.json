@@ -1,0 +1,56 @@
+{
+	"id": "1747019",
+	"name": "집에서 만들어 먹는 파래김자반",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/18c28eceb1f8a9cc495277de43c78667.jpg",
+	"url": "https://www.10000recipe.com/recipe/1747019",
+	"ingredient_ids": [
+		504,
+		226,
+		497,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "건파래",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 깊은팬에 약간 넉넉한 기름을 두르고 준비해두신 파래를 넣어 약불에서 볶아줍니다.",
+		"2. 서서히 볶다보면 바삭바삭 해질거예요. 이렇게 약 3~5분간 볶아줍니다.",
+		"3. 소금, 설탕을 넣어 맛을 조미해 주시고 마지막에 참기름과 통깨를 뿌려 마무리 해줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/8657db2ac0b363fdb95b09190cd62ad21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/94d71aa1e899c514378fc7d2ff8f16b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/096221f1c97fd90989710615eb0470e61.jpg"
+	]
+}

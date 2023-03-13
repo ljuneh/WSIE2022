@@ -1,0 +1,69 @@
+{
+	"id": "6864213",
+	"name": "새송이버섯 브로콜리 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/c4382f5ea8e7fd0c0da38ad0bf65cafc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6864213",
+	"ingredient_ids": [
+		58,
+		11,
+		477,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "2",
+			"ingre_unit": "큰송이"
+		},
+		{
+			"ingre_name": "쪽파5줄기다진것",
+			"ingre_count": "5",
+			"ingre_unit": "줄기 다진것"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "5",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "3",
+			"ingre_unit": "테이블스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 브로콜리를 끓는 물에 1분간 데쳐 체에 건져놓습니다.",
+		"2. 올리브오일(또는 식용유), 다진파, 고추가루, 간마늘을 먼저 팬에 넣은 후 불을 중약으로 맞춥니다.",
+		"3. 그동안 새송이버섯을 얇고 넙적하게 썰어주세요.",
+		"4. 기름이 바글거리면 굴소스를 넣고 잘 뒤섞어가며 마늘과 파가 타지않을 정도로만 향을 충분히 우려낸 뒤, 버섯을 넣어 양념을 고루 묻도록 해줍니다. 이 때 버섯이 익으면서 물이나오는데 수분이 거의 남지않도록 잘 졸여주세요.",
+		"5. 왠만큼 졸여졌다싶으면 데쳐놓았던 브로콜리를 넣고 잘 버무려준 뒤 양념이 고루 묻으면 불을 꺼주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/76e31bd3df65f3ec0f8f368d583717b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/1d03859e9f261ba47c0e64ac98fe409f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/b59d5885ad694e8a52b7df3693927b5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/8247b34cf63517a76166dcf0757791741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/0774277b472dfec51dac33403dcd3ea91.jpg"
+	]
+}

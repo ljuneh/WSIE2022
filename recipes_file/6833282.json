@@ -1,0 +1,39 @@
+{
+	"id": "6833282",
+	"name": "청귤청 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/86e857cb525b8cc6e473ef0f8be00ff21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6833282",
+	"ingredient_ids": [
+		671,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "청귤",
+			"ingre_count": "10",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "8",
+			"ingre_unit": "kg"
+		}
+	],
+	"recipe": [
+		"1. 제주에서 도착한 청귤이예요 요녀석 무려 10kg이지요 초록초록하지욤",
+		"2. 미숙과라 아직 크기가 많이 크지않네요 요거보다 작은건 500원짜리 동전만 해요 ㅎ",
+		"3. 유기농이라 세척이 간단해요 저는 베이킹소다를 물에 희석시켜 10~20분정도 입수시켰다가 뽀득뽀득 3번정도 헹궈냈어요",
+		"4. 깨끗한 면을 바닥에 깔고 씨어낸 청귤을 펴놔요 물기 건조시키죠 30분정도 자연건조시켰어요 글이고 다른깨끗한 수건으로 남은 물기들 닦아내줬어요",
+		"5. 레몬처럼 앞뒤 꽁지들잘라내고 슬라이스 해줬어요 저는 요번추석때 선물할꺼라 500g 병에다 설탕청귤설탕청귤  1:0.8비율로 담았네요",
+		"6. 선물할병들은 작은병 우리식구 먹을건 큰병에다 만들었어요 요렇게 만들어서 수시로 병을 위아래로 뒤집어주며 설탕을 녹여줘요 3일정도 설탕이 다녹으면 냉장보관하며 3주정도 숙성시킨후부터 먹을수있지요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/996a4de27996343412b76067f2d21eae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/da556271817df6d352fdd879aa136a661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/12ae29af4e66aa196fc721a96c5f1c3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/9438b5c25515f49ccd5e83ed8f1da9cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/01/ad8a5cac329ea84407b7531f5be18f961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/03/092bf9b8e08ecabe5cbf5bfb861d32ea1.jpg"
+	]
+}

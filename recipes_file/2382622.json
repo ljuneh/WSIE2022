@@ -1,0 +1,123 @@
+{
+	"id": "2382622",
+	"name": "동태탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/ba5156c92a5b206f1b973acbba43cef6.jpg",
+	"url": "https://www.10000recipe.com/recipe/2382622",
+	"ingredient_ids": [
+		3,
+		27,
+		19,
+		15,
+		473,
+		379,
+		848,
+		497,
+		1015,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "절단동태",
+			"ingre_count": "4",
+			"ingre_unit": "덩이"
+		},
+		{
+			"ingre_name": "미나리(or쑥갓)",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청량고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "덩이"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "청량고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".Ts"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "0.",
+			"ingre_unit": ".Ts"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "소주or청주",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 흐르는물에 깨끗히 씻어주시고 청주나 소주, 레몬즙을 조금 넣어 비린내 제거를 해주시면 좋아요",
+		"2. 육수재료들(다시마약간(10*5cm 세로*가로), 새우머리 3개, 국물용 멸치 5마리, 명태 머리 1개, 물 적당량)을 냄비에 넣고 잘 우러나올때까지 끓여주세요",
+		"3. 야채들은 모두 적당히 썰어주세요",
+		"4. 양념재료(고추가루 3Ts, 청량고추가루 1Ts, 고추장 1Ts, 간장 1.5Ts, 된장 0.5Ts, 소금 2ts, 소주or청주 1Ts,  육수 3Ts, 다진마늘 1Ts(3알정도)) 는 한데넣어 잘 섞어주세요",
+		"5. 우선은 무를 깔아주세요 (한 1cm 정도 두께로 정사각형정도로 잘라주시면 될것 같아요",
+		"6. 그리고 체에 한번 걸러준 육수를 고기가 잠길정도로 자작하게 부어주세요",
+		"7. 그리고 청량고추(1개)를 넣고 같이 끓여주세요",
+		"8. 양념, 양파를 넣고 동태에 간이 베도록 끓여주세요",
+		"9. 준비한 야채들을 넣어주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/6420e591627f1a85bcbf59492f2647811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/7d17891a4b0e7c0ca503bda9943cd52d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/0ffd3047bc498c745ee20638ce3ff9541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/9182a2841c221920f0d74069adf3c1f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/f3f20b647b1e7057eca5cf237c0887911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/64524753fbc0b090af7f85dd1d0f654a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/f100b81b61e43984574758d52958362d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/f3aecd51791d1b38eb673a985507f8691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/17/eb0b49e5c6514579a8bb8f9e18dac30c1.jpg"
+	]
+}

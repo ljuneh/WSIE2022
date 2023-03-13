@@ -1,0 +1,56 @@
+{
+	"id": "6940110",
+	"name": "간단 타르타르 소스 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/bd0d746ab7ad5361e4390864236418941.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940110",
+	"ingredient_ids": [
+		3,
+		226,
+		228,
+		938,
+		231
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이지3cm",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 양파와 오이지( 또는 피클)를 잘게 썰어 주세요",
+		"2. 설탕 1T 마요네즈 넉넉히 매실청 1T 식초 1T 넣고 섞어주세요",
+		"3. 묽어서 마요네즈를 추가했어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/1172c61f697693db934eae04684d6ce51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/97f4a35157df1cfd135049e55a576f611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/debc6160bf495f07ec4af40674479d7d1.jpg"
+	]
+}

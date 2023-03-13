@@ -1,0 +1,33 @@
+{
+	"id": "6869425",
+	"name": "꽃게 찌기만 해도 맛있다지요? 꽃게찌는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/08/1de7bb33410c58df26ec033fed304c401.png",
+	"url": "https://www.10000recipe.com/recipe/6869425",
+	"ingredient_ids": [
+		480,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "꽃게",
+			"ingre_count": "",
+			"ingre_unit": "먹을만큼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 솔로 꽃게를 깨끗이 씻는다.",
+		"2. 물을 넣은 찜기에 꽃게를 넣는다.배딱지가 천장이 보이도록 넣어야 육즙이 흐르지 않아요.",
+		"3. 뚜껑을 닫고 20분간 센 불에서 익힌다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/08/2bb4743a0d406ccefb104e985c4b16011.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/08/d697516c37f9dd73851ebbea9d002c081.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/08/478954f8c67588e93d8125a9431127991.png"
+	]
+}

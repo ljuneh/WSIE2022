@@ -1,0 +1,79 @@
+{
+	"id": "6943298",
+	"name": "남은 재료 활용 부추전 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/1d04de474122c7621e9fae202ddfc5bb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943298",
+	"ingredient_ids": [
+		30,
+		295,
+		3,
+		9,
+		387,
+		995,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		}
+	],
+	"recipe": [
+		"1. 재료준비해주세요",
+		"2. 부추는 깨끗하게 씻어 주시고 물기를 제거한후 알맞은 크기로 썰어준비해주세요 부추전은 어떤야채가 들어가도 잘어울리는 레시피인거 같아요",
+		"3. 청양고추는 씨를 제거하고 송송 썰어주시고 양파와 당근 새송이는 채썰어주세요 오징어다리는 알맞은 크기로 썰어주세요 오징어다리는 튀김할때 기름이 많이 튀는 해산물이라 부추전에 활용하시면 좋을거 같아요 청양고추는 아이들이 있다면 따로 준비해주시고 다른 야채가 있다면 함께 넣어 주셔도 좋을거 같아요 해산물은 홍합이나 조개 새우등 다양하게 활용하는것도 나쁘지 않을거 같아요",
+		"4. 이렇게 함께 재료를 넣고 계란 1개와 부침가루 한컵을 넣어주세요 물반컵으로 농도를 맞추어주시고 잘섞어주세요 소금한꼬집을 넣어 간을해주셔도 되는데요 해산물이 많이 들어가면 구지 소금을 넣지 않아도 간이 맞을거 같아요 명절에 음식을 하고 남은 식재료가 고민일때는 부추전을 활용하는것도 좋을거 같아요",
+		"5. 팬에 식용유를 두르고 골고루 펴서 부침개를 만들어주세요 부추전을 바삭하게 만들고 싶다하시면 팬에 열을 올리고 재료를 넣어 부쳐주시면됩니다 뒤집고난뒤에는 뒤집개로 꾹꾹 누르지마시고 그대로 약불 중불에 부쳐주면 바삭한 느낌에 부추전이 만들어집니다",
+		"6. 남은 짜투리 식재료 버리지마시고 부추전으로 활용해보세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/3011c33f3c3a8e2f932cd7ee067ef3311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/bb2913af0c3bc20696216e0144796c591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/16ab21fef2ae9f23acad57cae4e5220e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/32ed6a8c781065d6b9dfe0c9d0b3c2b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/b94f5b1b3a9982760e9fa3edaf401c831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/9971b3f41de54eb940d306bffd8612dd1.jpg"
+	]
+}

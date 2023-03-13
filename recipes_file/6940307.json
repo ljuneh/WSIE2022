@@ -1,0 +1,39 @@
+{
+	"id": "6940307",
+	"name": "초코바나나 아이스크림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/d17338cdb1a7b7fc2420e9cc99fd192c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940307",
+	"ingredient_ids": [],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "얼린바나나",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "초코가루",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "우유바나나양의",
+			"ingre_count": "",
+			"ingre_unit": "절반"
+		}
+	],
+	"recipe": [
+		"1. 전날 시중에 잘 익은 바나나를 싸게 사서 작게 조각조각 얼려둡니다.",
+		"2. 얼린 바나나와 초코가루 2수저의 양을 믹서기에 넣습니다. (잘 익은 바나나도 달기 때문에 많이 안 넣으셔도 되요)",
+		"3. 우유를 바나나의 절반 잠기게 부어줍니다. (많이 넣으면 슬러시처럼 되고, 적게 넣으면 갈기가 힘들어져요)",
+		"4. 중간중간 수저로 뒤적이며 갈아줍니다.",
+		"5. 예쁜 컵에 부어주면 완성! (녹아도 초코바나나 우유가 되니 맛있어요)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/5e80cfaf66400fca2be3ab488f22e1ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/3f7678acabcd992a964a7b98b998ddff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/4ad855e308dce2fdfc6eeef6c7d8e5a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/b987321c8859fbb7f7cddb53e75388781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/c61bffc4b478323cf87ab15b2590acde1.jpg"
+	]
+}

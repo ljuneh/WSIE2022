@@ -1,0 +1,80 @@
+{
+	"id": "6942320",
+	"name": "냉파 요리/ 치킨 샌드위치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/ef37cae9c42c1d6daa04ab577df92d9d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942320",
+	"ingredient_ids": [
+		503,
+		219,
+		327,
+		266
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "남은치킨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "스테이크소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "머스터드소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 달걀 1개는 프라이를 해서 준비한다. 들기름을 좋아해서 들기름을 넣고 프라이를 만들어 주었다.",
+		"2. 식빵은 테두리를 잘라내고 팬에 양면으로 노릇하게 구워준다.",
+		"3. 스팸은 한 조각 잘라서 양면으로 구워 주었다.",
+		"4. 얼마 전 시켜먹은 치킨이 몇 조각 남아서  얇게 편으로 썰어서 빵처럼 구워 주었다.",
+		"5. 치킨 샌드위치에 만들 속재료가 모두 준비 되었다.",
+		"6. 소스로는 스테이크 소스 1T와 머스터드 소스 1T를 준비 하였다.",
+		"7. 구워 낸 식빵 한 면에 머스터드소스를 입혀준다.",
+		"8. 그 위에 갓 구워 낸 스팸을 올려준다.",
+		"9. 윤기 흐르게 구워 낸 치킨도 올려준다. 남은 치킨은 항상 처치 곤란이지만 버리지 말고 재활용 해서 먹으면  끝까지 먹을 수 있어서 마음이 편해  지는 것 같다.",
+		"10. 치킨 위에 스테이크 소스  입혀 준다.",
+		"11. 그 위에 두툼하게 익힌 달걀 프라이  올려준다. 옹기종기 모인 가족처럼 단단하고 탐스러워 보인다.",
+		"12. 남은 식빵 한장으로 지붕 만들어 주고 집에 있는 과일과 함께 아침 식사로 맛있게 준비 되었다.",
+		"13. 속이 꽉 찬 남은 치킨을 이용한  샌드위치. 아침 굶지말고 무엇이든지 먹고 코로나 잘 이겨내자."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/36058e13c83c988c6fc726c0185331d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/422235be3db810b6f0411d6a43708d781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/89cd9b38a3981b8afeaaa146cbb1f4d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/78a243e1610987ab834f6379b690b6031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/4d5c9583c42a2030dbb9a0b7a551433c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/ca5d8c5343adb82c40964985a449b1bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/59140d6cfe9110e383dd94ded88afbef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/4104f10d82a0f00d3a8035a2ea4b63461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/f1ed9ec36b5ad42bd0cb856cc3e1ae871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/54a015a408c8ee0b1e7e9d4c5256dbb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/fac822c78fb6ac2cb8db17d7e7b48fe91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/f49f3156ab2b3007957dbf0652642f641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/944a0ba4af83d00866ee7e574a1a286a1.jpg"
+	]
+}

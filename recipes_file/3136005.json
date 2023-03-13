@@ -1,0 +1,110 @@
+{
+	"id": "3136005",
+	"name": "구수하게 한그릇~얼큰한 배추된장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/23/1a63693a7b90bf56afd1182d331cf2f7.jpg",
+	"url": "https://www.10000recipe.com/recipe/3136005",
+	"ingredient_ids": [
+		848,
+		473,
+		233,
+		27,
+		224,
+		660,
+		846,
+		379,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "속배추",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "쇠고기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "6",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "쌀뜬물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "표고버섯가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 쇠고기는 간장+청주+후춧가루로 밑간을 미리 해두고요 ~",
+		"2. 멸치육수와 쌀뜬물을 같이 사용 했어요... 쌀뜬물을 바글바글 끓이다가 된장 1큰술을 넣고 끓여 두고요...",
+		"3. 며칠전 끓여 얼려 놓았던 멸치육수.. 다시마도 똑~ 떨어져서 있는 육수재료 끓여 만들어 얼려 놓았던거 해동시켜 준비하고요",
+		"4. 냄비에 참기름을 두르고 밑간된 쇠고기를 볶아줍니다... 살짝 익을정도 까지만 볶아주도록 해요",
+		"5. 멸치육수와 쌀뜬물을 넣고 끓여 줍니다... 이때 고추장과 고춧가루도 함께 넣고 끓여 주어요",
+		"6. 끓고있는동안 속배추를 깨끗이 씻어 적당한 크기로 잘라주는데... 저는 손으로 잘게 찢어 준비 해놓았어요",
+		"7. 육수가 바글바글 끓으면 속배추를 넣고 끓여 줍니다...",
+		"8. 파, 마늘을 넣고 조금더 끓여줍니다.. 된장의 짜기에 따라 간이 안맞으면 소금간을 하셔도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/c7e88daf46d1e2e8a8ad3b30e708f7ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/094892faf9531d5b6a76fb0ff30feed41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/228c80d8a45c77d35dfad19b7c5dba841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/f51a6f23254a12913a2abffaa09dd8a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/c7b1e5386305166530c38015377b14831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/696c55f7b93d73578cd97a5dfb0d7d6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/cd3d8f2b2611636b71d7a6db00ea98b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/ba862a6db56ab88303f398624a5c7ed81.jpg"
+	]
+}

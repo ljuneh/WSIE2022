@@ -1,0 +1,44 @@
+{
+	"id": "2586652",
+	"name": "조개살 된장미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/e7aec15e822fa23033776d95c3150824.jpg",
+	"url": "https://www.10000recipe.com/recipe/2586652",
+	"ingredient_ids": [
+		91,
+		848,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "조갯살",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 냉동실에 보관했던 조갯살과 미역을 꺼냈네요~물이 끓으면 해동된 미역을 넣어주세요.",
+		"2. 조갯살도 넣어주시구요. 조갯살 없으면 새우나 쇠고기 굴등~ 있는 재료 넣어주시면 되네요~",
+		"3. 된장도 풀어주세요. 된장 안넣으실 분들은 소금으로 간맞추시면 되구요. 보글보글 끓여주시기만 하면 끝~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/8de21877c69c350604b6f84e416b87b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/152abc2aafa4493fd1418dcbaacfd2bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/5cb9f94622bc3c3ed13f3aade346599b1.jpg"
+	]
+}

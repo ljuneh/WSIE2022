@@ -1,0 +1,63 @@
+{
+	"id": "6945383",
+	"name": "달콤한 간식! 에어프라이어로 만든 카스텔라디저트! 카스도스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/e685252f821125ed58124525babf0d511.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945383",
+	"ingredient_ids": [
+		341,
+		226,
+		1004
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "카스텔라",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀노른자",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "코코넛가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "잣가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "콩가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 카스텔라는 갈색 부분을 제거하고 직사각형 모양으로 자른다.                     \r                             카카두 호주 캄포나무도마                          ",
+		"2. 달걀 노른자는 잘 풀어준 후 체에 내린다.",
+		"3. 자른 카스텔라를 노른자> 물엿 순으로 묻힌다.",
+		"4. 에어프라이어 바스켓에 넣고 170도 온도에서 10분 뒤집어서 10분간 굽는다.",
+		"5. 설탕, 코코넛가루, 잣가루, 콩가루를 각각 굴려 묻혀 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/063bf22f8f196f231f1d40cb3850d84c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/b1cfe325230d5da145829e670bfb37af1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/8c39d13a20dcf1e69dfbbe8da5670acb1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/eefa4951420ef4c53e17374c1e2057fe1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/1ad2938b3ff2ebe80b70fd89c9b13deb1.png"
+	]
+}

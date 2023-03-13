@@ -1,0 +1,60 @@
+{
+	"id": "6943819",
+	"name": "브로콜리두부무침~다이어트식단",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/6f6fed7d3dcc60766b8a4a194b0daac91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943819",
+	"ingredient_ids": [
+		323,
+		543,
+		337,
+		327,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "데쳐준브로콜리",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1.  @6943815  브로콜리세척법과 데쳐내는방법이네요 펄펄 끓는물에 소금1작은술을과 식초를 넣고 30초간 살짝 데쳐주세요",
+		"2. 찬물에 담구어서 2~3번을 흔들어 씻어주신후 채반에 담아서 털어주시면서 물기를 최대한빼주세요",
+		"3. 물기가 빠진 브로콜리에 두부반모를 손으로 물기를 꼭짠후 넣고 통깨를 곱게 갈아서 넣고 들깨가루를 뿌린후 소금/들기름을 넣어주세요 *들깨가루는 껍질을 벗겨서 갈아놓은것으로 넣어주시고 없으시면 갈아준통깨를 더 추가하세요",
+		"4. 두부를 잘 으깨어 주시면서 잘무쳐주세요",
+		"5. 브로콜리가 아삭하면서도 으깨어진 두부가 부드러우면서 고소한맛으로 싱겁더라도 맛있게 잘먹을수있는 다이어트식단으로 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/cb86bc3869cb710c05f747113f033c631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/c2c6814251d18187e86d17fbec1ee2621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/827f92591dfaef4587f1eeaa97b2dfdb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/f8580a70985308f67fdea0ba35f081561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/a566123f4f208544962f9c566d52a3eb1.jpg"
+	]
+}

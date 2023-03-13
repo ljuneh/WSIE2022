@@ -1,0 +1,52 @@
+{
+	"id": "6901932",
+	"name": "너무 착한 가격 팽이버섯으로~ 맛살 팽이버섯전, 팽이버섯 맛살전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/12/14/33df22233812d644ad48756d4a7a9c451.jpg",
+	"url": "https://www.10000recipe.com/recipe/6901932",
+	"ingredient_ids": [
+		55,
+		289,
+		15,
+		535
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "15",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "허브솔트",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 팽이버섯 2봉지를 밑동을 자르고 가닥가닥 떼어 가위로 숭덩숭덩 잘라 그릇에 담아 주었습니다. ",
+		"2. 길이가 짧은 맛살 5개를 결대로 찢어 팽이버섯과 함께 담아 줍니다. ",
+		"3. 그리고 깻잎 15장을 채설어 넣고 계란 3개, 허브솔트 1/2작은술을 넣고 고루 잘 섞어 줍니다. ",
+		"4. 그리고 달군 팬에 기름을 두르고 반죽을 한큰술씩 떠서 둥글 넙적하니 모양잡아 앞, 뒤 노릇하니 부쳐 줍니다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/19/744c4106046da10d72a757921d3ce2241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/19/0d7905bc4e4772761abe30993d6fbd951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/19/8b24d98b8e8157537e1c45702d75c2f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/12/19/fa99fef70093e400bafb735ba831760b1.jpg"
+	]
+}

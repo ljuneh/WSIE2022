@@ -1,0 +1,95 @@
+{
+	"id": "6943569",
+	"name": "크림 파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/b1489b0e4b67a88a01c712f0d6d743aa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943569",
+	"ingredient_ids": [
+		920,
+		218,
+		203,
+		406,
+		3,
+		11,
+		29,
+		53,
+		497,
+		574
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "파스타면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "휘핑크림",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 베이컨, 양파, 마늘, 버섯을 올리브유를 두른 팬에 볶아준다.",
+		"2. 다른 냄비에 물, 올리브유와 소금 약간을 넣고 파스타면을 삶는다.",
+		"3. 1이 어느 정도 투명해지면 우유와 휘핑크림을 넣고 끓인다.",
+		"4. 3에 체다치즈와 브로콜리를 넣고 끓여주고 간은 소금, 후추로 한다.",
+		"5. 삶은 파스타면을 옮겨주고 살짝 볶아주면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/78e9262d816d5f85e1ebb3bfb75a04e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f968255ae0bb386de23c7b0b2a3af3141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/3eacf480df6aa3ebc06b1f4c072abf6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/3afccc6c0c9479fbd57ef388ef8a8d8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/ebf35f69d2b16b014a37ffc76f98e2e51.jpg"
+	]
+}

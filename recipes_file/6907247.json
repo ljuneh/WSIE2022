@@ -1,0 +1,73 @@
+{
+	"id": "6907247",
+	"name": "간단하지만 특별한 양파링전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/4637f591f940e54dcb117222b2988cc31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6907247",
+	"ingredient_ids": [
+		3,
+		387,
+		295,
+		504
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "스팸햄",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양파는 둥글게 썰어서 하나씩 빼주세요. *(양파링 6개 정도)",
+		"2. 부침가루를 입혀주세요. *(비닐에 넣고 흔들면 깔끔합니다)",
+		"3. 스팸햄,당근,청양고추,홍고추는 송송 다져주세요.",
+		"4. 계란 하나를 넣고 섞어주세요",
+		"5. 팬에 식용유를 두르고, 양파링을 팬위에 올리고 양파링안에 계란반죽을 넣어주세요. *양파링 위로 넘쳐 내리지 않을 만큼 양을 조절해주세요.",
+		"6. 뒤집어서 노릇하게 익혀주세요.",
+		"7. 완성그릇에 담아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/e5eb628ad47605b8dc207b40703510671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/25/c06791548b0c65299ddb2793403931251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/25/d118207df0ca5a86a6d1fae341ff54bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/ff9e9aacc290037c68457d899fe861351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/188a46f886c2d0034a16b0d5feba5c291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/c5b32d90dc030f2afd98bed5d5ea40f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/24/2f13cd14b0d27fa5279815111986aa381.jpg"
+	]
+}

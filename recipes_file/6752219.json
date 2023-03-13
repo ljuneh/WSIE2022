@@ -1,0 +1,42 @@
+{
+	"id": "6752219",
+	"name": "베트남식 연유커피 카페쓰어다 caphe sua da",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/3d746c153774da35633395ef47ffd20e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6752219",
+	"ingredient_ids": [
+		599,
+		204
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "에스프레소",
+			"ingre_count": "1",
+			"ingre_unit": "shot"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "15-20ml",
+			"ingre_unit": "-ml"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "6",
+			"ingre_unit": "조각"
+		}
+	],
+	"recipe": [
+		"1. 연유의 양은 개인 기호에따라 가감하시면 되는데요. 저는 룽고잔에(120ml용량) 약 15-20ml 정도의 연유를 넣어 만들었어요.",
+		"2. 바닥에서 약 1cm정도의 두께로 깔린 연유.",
+		"3. 바닥에 연유가 깔린잔에 고대로 에스프레소 1shot을 추출. 네스프레소 강도 12의 kazaar 카자르로 내려 에스프레소 40ml.",
+		"4. 연유 + 에스프레소 휘휘저어 + 얼음 5-6개 정도만 동동 띄어주면 카페쓰어다 완성!",
+		"5. 우유까지 넣어주면 연유라떼 내지는 돌체라떼 가 되지요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/3e83a54c649d03ecd4cf920aaee7da9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/3ed4daea4aee5734a0c3863e066901e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/e2c5a401009e44441ffbb1b0a4f211b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/378c3dff3d67a8cd990920a271ddb0bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/06/9ced5bcb0d072e523a0d33e964357f3e1.jpg"
+	]
+}

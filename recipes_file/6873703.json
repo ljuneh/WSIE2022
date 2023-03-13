@@ -1,0 +1,48 @@
+{
+	"id": "6873703",
+	"name": " 초간단 단호박빵 (노오븐, 노버터, 노밀가루 케익)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/edba0d0c425c81d32d37ab3b8f78dc791.jpg",
+	"url": "https://www.10000recipe.com/recipe/6873703",
+	"ingredient_ids": [
+		328,
+		219,
+		227
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "단호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "견과류(선택사항)",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		}
+	],
+	"recipe": [
+		"1. 단호박은 잘 씻고 랩에 싸서 전자레인지에  약 5~7분 익혀주고 달걀은 노른자와 흰자를 분리해둡니다전자레인지",
+		"2. 익힌 단호박을 큰 볼에 담아 으깨주다가 노른자, 꿀을 넣어 섞어줍니다",
+		"3. 흰자는 한 방향으로 세게 저어 머랭을 만들어줍니다(단단하게) 그리고 단호박+노른자를 섞어 으깬 곳에 머랭을 담아 살살 섞어줍니다",
+		"4. 완성된 반죽은 전자레인지 용기에 담아 랩을 씌운 후 구멍을 송송(포크로 랩을 3번정도 쳐주세요 ㅎㅎ) 뚫고 약 6~7분 정도 전자레인지에 돌려주세요~~",
+		"5. 촉촉하고 폭신폭신한 단호박 빵이 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/d140418a3276d46448289fc2cd089f0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/39fe52950df1b07c13b14847ff4fe8a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/69bb977df61c68728030951e3a7215341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/f32d31e4619b08536d57debb5b5747fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/28/72373be34ec27a3e5643709891fab0b81.jpg"
+	]
+}

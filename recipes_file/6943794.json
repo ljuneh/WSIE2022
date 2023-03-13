@@ -1,0 +1,80 @@
+{
+	"id": "6943794",
+	"name": "가시오이무침~새콤달콤하게",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/b6bf8cb834daf1f45532e89616f730e91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943794",
+	"ingredient_ids": [
+		3,
+		233,
+		226,
+		543,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "가시오이",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가시오이절일때소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "2배식초2+1/2큰술",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 가시오이를 깨끗하게 씻어주신후 반으로 가르시어 어슷하게 너무 얇지않게 썰어주세요",
+		"2. 소금1큰술을 넣어 10분간 살짝 절여주셨다가 찬물에서 한번을 씻은후 채반에 담아서 물기를 빼주세요",
+		"3. 양파를 얇게 채를 썰어서 찬물에 5분을 담구었다가 채반에서 물기를 빼주세요",
+		"4. 살짝절인가시오이/채썬양파를 넣고 다진마늘/다진파/고추가루/2배식초/설탕/소금을 넣어서 양념이 고루베이게 살살 버무려주세요  *단맛/짠맛은 개인의 취향껏 추가하세요 식초는 가급적 2배식초를 이용하세요",
+		"5. 통깨를 뿌려서 마무리해주시면 새콤달콤하면서도 아삭한 가시오이초무침이 완성이 되네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/b713c990bfce0edece12021bbaa87e141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/974cc0ef20aa0cec6c8701d5dcaab9881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/8ef8838a4a1cac8812b7a6d329226ac91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/14bf2b63c737a1053c7886d3c995a5241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/38a13a7c601fc34821d2f8738763520a1.jpg"
+	]
+}

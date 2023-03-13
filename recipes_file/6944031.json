@@ -1,0 +1,49 @@
+{
+	"id": "6944031",
+	"name": "레몬청 만들기, 겨울에 따뜻한 레몬차 좋죠!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/884cb7a015c1ce84447b22c845629e6a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944031",
+	"ingredient_ids": [
+		134,
+		940,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "레몬",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "베이킹소다",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		}
+	],
+	"recipe": [
+		"1. 레몬청 만들기 는 레몬 껍질도 사용하기 때문에 껍질에 묻어있는 불순물을 제거해줄게요. 레몬을 30분가량 찬물에 넣어주세요.",
+		"2. 베이킹 소다를 이용해서 레몬을 깨끗하게 닦아주었습니다. 베이킹소다를 3스푼정도 뿌린 뒤 고무장갑을 끼고 껍질을 빡빡 닦아주시면 됩니다.",
+		"3. 레몬은 흐르는 물에 여러번 씻어주세요. 베이킹소다와 불순물이 충분히 없어질 수 있을만큼 씻어주시면 됩니다.",
+		"4. 저는 강판을 사용하려고 했는데, 생각보다 이쁜 모양으로 안잘리기에 하나하나 칼질을 해서 잘라주었어요.",
+		"5. 레몬은 씨앗을 전부 제거해주세요씨가 들어가면 나중에 에이드나 차를 타먹을때도 걸리적거리고, 자칫 잘못하면 쓴맛이 날수도 있다고 하더라구요.",
+		"6. 레몬청을 오래 보관하기 위해서는 레몬과 설탕 1 : 1의 비율로 맞춰주시면 좋아요.",
+		"7. 설탕과 레몬을 한볼에서 섞은 후 30분 가량 기다리면 설탕이 대체적으로 녹아있어요. 그럼 미리 준비한 병에 레몬을 넣어주도록 할게요~ 아직 덜 녹은 설탕도 같이 넣어주세요.",
+		"8. 병에 다 옮겨담았으면 가장 윗부분에는 얇게 설탕을 덮어주세요.이렇게해주면 윗면에 나와있는 레몬들의 갈변을 막아준답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ca655757bfa31e75352fd080a4a7ed2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/5590f7271931418eb5a63a56d34a79261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/213a8e0962b10f7bf016cfffa30d09241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/3e7c154c3d81c13ce11b453e0c0630d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/9a11c697015e9d177a9600978ee7654f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1b23aacc0a3ab00dce04e9ed45c1432c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b74fdd58c77623ce0c0de157649c04c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/2c85eb89e6ff8dd2e17d4cfebea197b41.jpg"
+	]
+}

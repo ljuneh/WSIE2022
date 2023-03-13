@@ -1,0 +1,69 @@
+{
+	"id": "6943286",
+	"name": "백파더 카레라이스 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/6b463a06f3fab4523aeeba7610ddac1f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943286",
+	"ingredient_ids": [
+		487,
+		995,
+		504
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "고체카레큐브",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "150",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "양파큰것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양송이",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생크림또는우유",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기는 가로세로 1센치 큐브로, 양파는 채로, 양송이는 밑동 제거 후 채썰기로 준비한다.",
+		"2. 달군 팬에 식용유를 두르고, 양파를 볶는다.",
+		"3. 양파가 골든브라운색이 될 때까지 약불에서 수분을 날려가며 천천히 볶는다. 양파를 카라멜라이즈화하면 단맛이 배가 된다.",
+		"4. 3에 고기와 버섯을 넣고 볶는다.",
+		"5. 4에 물을 3컵 넣고 끓인다.",
+		"6. 물이 끓으면 카레를 넣고 잘 풀어준다.",
+		"7. 다 끓었으면 생크림을 추가한다.",
+		"8. 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/989ef816cc0b517a801a02c0aff9562c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/5b3b4d4e605680de89d34f757744782b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/3d1059c3978519201d9c11959f8446eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/6f4a19896cbc9de68654e37d554c547a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/1b48f2fcbe28403779e8f00e54657d101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/c67f53ed8597454f9bb0b7b548398a511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/7cf646a877f2fd036907cf3c3a9e4d271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/3d32d656be1683cf616257dcacd424ab1.jpg"
+	]
+}

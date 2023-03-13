@@ -1,0 +1,70 @@
+{
+	"id": "6880849",
+	"name": "닭곰탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/7847ac16c21aab1d7691c1f92e4e14b21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6880849",
+	"ingredient_ids": [
+		126,
+		28,
+		27,
+		225
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭고기",
+			"ingre_count": "1/2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5~6개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "쌍화차티백",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		}
+	],
+	"recipe": [
+		"1. 토막낸 닭고기는 미리 살짝 익혀서 한번 씻어주고 다시 냄비에 담았어요",
+		"2. 여기에 쌍화차 티백을 넣고 생강, 마늘도 넣은후 물을 넉넉히 부어 끓입니다 (요즘엔 워낙 티백 제품이 잘 만들어져 나오기에 이렇게 쌍화차 티백도 있답니다)",
+		"3. 잘 끓고 있어요~~ 센불에서 30분정도 끓인후 닭고기는 건져 줍니다",
+		"4. 익힌 닭고기는 건져 줍니다",
+		"5. 닭고기는 한김 식힌후 뼈를 발라 줍니다",
+		"6. 살을 발라낸 닭뼈를 넣고 국물은 그대로 한소끔 더 끓입니다",
+		"7. 진하게 우러낸 닭국물을 보세요~~ 닭곰탕을 밥을 같이 넣어 먹는 음식이기에 이 국물에 밥을 토렴하면 더욱 따뜻하게 드실수 있답니다^^",
+		"8. 일단 쌍화차 티백으로 끓이니 정말 간편하고 편해서 국물요리하기 정말 좋더라구요!!! 적당히 한약재의 향과 맛도 있지만 은은하게 느껴져서 먹기에 전혀 거부감없고 딱 좋더라구요^^ 추운 겨울날에 부드럽고 담백한 닭곰탕 한번 끓여 보세요~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/8224a1ec3304b5517d8bd4742382accd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/ccfff19ed45fdb084072d46d586c4f6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/ece28b07b0a80e56ffa10c9fa6a9046a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/18588391e112df6009b3389acaa79fa41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/7febcaa0d5be7d449bf1f05f080631731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/441f80369ae11b5f614b8114042d3b9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/f7009dec91a9a317fd8401dfcad7bd0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/12/370f2fbb860ca3baaaae0288d4fdc04a1.jpg"
+	]
+}

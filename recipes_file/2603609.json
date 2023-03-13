@@ -1,0 +1,82 @@
+{
+	"id": "2603609",
+	"name": "호두를 넣은 멸치고추장볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/66b8d5ce694f9e1930cd1a09eed84d35.jpg",
+	"url": "https://www.10000recipe.com/recipe/2603609",
+	"ingredient_ids": [
+		194,
+		543,
+		29,
+		660,
+		504,
+		473,
+		341,
+		379,
+		224
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "중멸치70g(2컵정도)",
+			"ingre_count": "70g(2컵 정도)",
+			"ingre_unit": "g(컵 정도)"
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 멸치와 호두는 약불에서 식용유를 두르지 않은 상태에서 그냥 볶아 주세요. 미리 볶아야 멸치 비린내가 나지 않고 호두는 더 고소해집니다.",
+		"2. 볶음 멸치와 호두는 잠시 꺼내 접시에 담아 주세요.",
+		"3. 중불에서 달군 팬에 식용유를 두르고 편으로 썬 마늘을 넣고 볶다가 양념장을 넣고 살짝 끓으면 볶은 멸치와 호두를 넣고 재빠르게 볶아 주세요.",
+		"4. 불을 끈 후 통깨와 참기름으로 마무리해 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/fa587388802c806d02039955376f082d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/af426ba1086b57ee74c2952fdfd039101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/c556f0c6dda5f69df3b37f92762ebf861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/09/94ea07c62915a7100a6e70da5e08ea3f1.jpg"
+	]
+}

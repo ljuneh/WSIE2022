@@ -1,0 +1,70 @@
+{
+	"id": "6943189",
+	"name": "진미채볶음 마요네즈를 넣고 부드럽게~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/5e9409cb725a2ccae2f1cfac9c1be3ef1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943189",
+	"ingredient_ids": [
+		571,
+		228,
+		379,
+		575,
+		292,
+		660,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "진미채",
+			"ingre_count": "150",
+			"ingre_unit": "g쯤"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1.  전에는 볼에 물을 넣고 진미채를 넣었다가 뺐는데 종종 해먹다 보니 요령이 생기네요. 체에 진미채를 넣고 물을 틀어 두어바퀴 돌리고 물을 빼줍니다. (설거지도 줄이고 편함)                    ",
+		"2.  간장, 올리고당, 맛술, 참기름, 간마늘, 마요네즈를 넣고 저어서 풀어줍니다.                    ",
+		"3.  촉촉한 진미채를 넣고 볶아줍니다.                    ",
+		"4.  마무리는 통깨 솔솔~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/0968c32ea5a9d04aacadd8d6631115201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/0daa228982a41244cbf19081b8e48aea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/1222838ba25ccf6dd5044dba7fedfaba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/cc4daab1362f23be4c6f03e69c4a59051.jpg"
+	]
+}

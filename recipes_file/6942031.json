@@ -1,0 +1,110 @@
+{
+	"id": "6942031",
+	"name": "송이덮밥 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/669a60157f4182d293f8a39522ef71601.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942031",
+	"ingredient_ids": [
+		13,
+		237,
+		379,
+		477,
+		467,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "스팸햄",
+			"ingre_count": "50",
+			"ingre_unit": "그랭"
+		},
+		{
+			"ingre_name": "양송이편",
+			"ingre_count": "150",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "청피망",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍피망",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "쌍노두소스",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "물전분",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 햄을 한입 크기로 썰고",
+		"2. 청홍피망 삼각형으로 썰고 청경채 밑동을 자르고",
+		"3. 양송이편 끓는 물에 소금약간 넣고 데쳐 준비하고",
+		"4. 청홍피망 청경채 햄 살짝 데쳐 준비하고",
+		"5. 펜에 고추기름 한큰술 넣고 대파 마늘편 넘고",
+		"6. 간장1큰술 넣고 향이 올라오면",
+		"7. 준비한 재료를 넣고 센불에서 볶아서",
+		"8. 야채가 순이 약간 죽으면 육수를 한국자 넣고",
+		"9. 굴소스 쌍노두소스 치킨스톡 넣고",
+		"10. 끓어오르면 후추가루 약간 물전분을 넣고 볶아줍니다",
+		"11. 물전분 익으면 참기름 살짝 두르고",
+		"12. 그릇에 담아 냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/abbab360b02214867b4d4ddbc7597ad51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/e91af4ce790b306dd5cc37d0c0ee19d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/250fb5c592a145f2b7e4f9cbd72e46e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/3801d372dcd9980aa7af2508c30af65c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/63a35bac2353c9f459f851cc60d7c7151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/61dca8b3e5b8f9db0f8382891d0bdc011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/d8d66716386b3b633c33589eea4931f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/626a01a34037322e9c469e7815fe51bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/dfe1ad244eb5a77c3b9739aff1bc622f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/695ffd469496148f5167ad8034a5ef341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/758ec1ae5906edb3fdc2296ca82f267b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/59d48dd669a43ffca045fb8e16f530f51.jpg"
+	]
+}

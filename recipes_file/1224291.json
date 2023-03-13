@@ -1,0 +1,72 @@
+{
+	"id": "1224291",
+	"name": "♪ 간단히 먹을 수 있는 볶음밥 김쌈",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/7b05bbe9d2b8b44254c9065ecd1dbf46.jpg",
+	"url": "https://www.10000recipe.com/recipe/1224291",
+	"ingredient_ids": [
+		628,
+		30,
+		881
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "찬밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "감자중간크기",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "유기농옥수수",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "양파작은것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미강유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "구운소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 감자,양파는 잘게 자르고, 옥수수는 물기를 빼 놓는다,",
+		"2. 부추는 짧게 잘라 준비하여 놓은 뒤에 팬에 기름(볶음밥을 잘 뭉치려면 소량의 기름을 사용한다) 두르고 감자와 양파에 소금과 후추가루를 넣고 볶아준다.",
+		"3. 감자가 거의 익으면 옥수수를 넣은 뒤에 섞어주고, 밥을 넣고 소금으로 간을 하고 부추를 넣어 섞은뒤에 불을 끈다.",
+		"4. 큰 김에 볶음밥을 말아주려면 김밥을 만들듯이 만드는데 볶음밥의 양을  일반 김밥의 3분의1정도 양만 넣고 말아주고, 한 입 크기의 김쌈을 만드려면 김을  반으로 자른뒤에 6등분하여 밥 한숟가락 정도의 양을 넣어서 말아준다.",
+		"5. 볶음밥으로 만든 김밥은 먹기좋게 잘라 담으면 된다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/20/6ff9b435094bf36efb8b23e1ba9f550c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/20/2b6b90fdb066207efa08ff8dda63f5311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/20/696aed38bf2071295fec07a7fe18d97c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/20/481de98af92bbac55c3f3de45f89227a1.jpg"
+	]
+}

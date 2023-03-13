@@ -1,0 +1,84 @@
+{
+	"id": "6941774",
+	"name": "집밥 TV) 이연복 셰프의 팁으로 만드는 짜장밥! 짜장가루로 간단하게!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/1112fab14e49b5b1b79636976a8134401.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941774",
+	"ingredient_ids": [
+		1028,
+		21,
+		487,
+		379,
+		226,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "짜장가루",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파1+1/2개",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 파는 송송, 양파는 깍뚝썰기, 양배추는 듬성듬성, 돼지고기는 먹기 좋은 크기로 썰어줍니다.",
+		"2. 짜장가루에 물 3T를 넣어 되직하게 풀어줍니다.",
+		"3. 웍에 식용유를 넉넉히 붓고 파를 먼저 넣어서 파기름을 내주세요. 파기름이 만들어지면 돼지고기를 넣고 튀기듯이 구워줍니다.그래야 식감이 바삭하고 맛있어요.",
+		"4. 고기가 살짝 익으면 간장 1T를 팬 가장자리로 흐르게 넣어주세요.가장자리로 흐르게 넣어야 그래야 불맛이 납니다. ",
+		"5. 고기가 갈색이 되며 익으면 양파를 넣고 볶다가 양배추도 넣어서 함께 볶아주세요.",
+		"6. 설탕 1T를 넣어 볶아주세요.설탕은 맛을 보고 단 맛이 필요하다 싶으면 넣어주세요. 보통 춘장을 이용할 땐 넣지만, 짜장가루엔 설탕이 이미 포함된 경우가 많아서 맛에 따라 설탕을 안넣어도 됩니다. ",
+		"7. 이제 물에 풀어놓은 짜장가루를 넣고 볶다가 물을 넣어주세요.",
+		"8. 끓이는 사이 전분가루를 물과 1:1로 풀어놓습니다. 어느 정도 끓으면 농도를 보며 전분가루를 조금씩 넣어서 농도를 알맞게 맞춰줍니다.",
+		"9. 완전히 끓으면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/4b3db74f32d9df252fd98afff25e2c5d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/826941fbca52c5254f442c30da545afc1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/bceeee8b0ff6465ed5da77f09cf871791.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/8c0f8df0490ae46d8802f50e5bd5511f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/7497b4b941011840e37754b3758f62661.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/2280f971b02bf03db7b1d9009ffcff871.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/fb6e27d3a355c9196fa57226e304f1e31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/96eaec37198541d8f91571b6adbcac941.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/0ce0b5b832ed8c2e99ae51d399556cdf1.png"
+	]
+}

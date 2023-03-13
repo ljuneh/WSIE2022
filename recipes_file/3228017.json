@@ -1,0 +1,61 @@
+{
+	"id": "3228017",
+	"name": "새콤 달콤 미역줄기초무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/22/5c115fe61ba2e177e93dc801bf94449c.jpg",
+	"url": "https://www.10000recipe.com/recipe/3228017",
+	"ingredient_ids": [
+		231,
+		226,
+		843,
+		497,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "미역줄기2줌(100g)",
+			"ingre_count": "2줌(100g)",
+			"ingre_unit": "줌(g)"
+		},
+		{
+			"ingre_name": "채썬무",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		}
+	],
+	"recipe": [
+		"1. 미역줄기는 깨끗하게 씻어 30분 가량 물에 담가 소금기를 제거한 후 끓는 물에 살짝 데쳐 주세요. 데친 미역줄기는 찬 물에 헹궈 물기를 꼭 짜고 먹기 좋은 크기로 썰어 주세요.",
+		"2. 무는 곱게 채 썰어 주세요. 미역줄기와 채 썬 무에 분량의 양념을 넣고 골고루 버무려 주세요.",
+		"3. 새콤달콤 미역줄기초무침 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/22/f6825bdf0f169effccab5ba4317174fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/22/1d56aa158231e7fdd81d067c438f46341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/22/d42766d5809a7dde67e2dbc1eeedc8001.jpg"
+	]
+}

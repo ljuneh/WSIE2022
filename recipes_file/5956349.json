@@ -1,0 +1,61 @@
+{
+	"id": "5956349",
+	"name": "노릇한 닭봉구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/05/da5208fa70919a5fc056dcd3c5f25eb01.jpg",
+	"url": "https://www.10000recipe.com/recipe/5956349",
+	"ingredient_ids": [
+		804,
+		3,
+		379,
+		693
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭봉",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "아가베시럽",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 닭봉에 칼집을 조금 내서 우유에 담궈주세요.(비릿내와 잡내 제거/20~30분정도) 담궈 재우는 동안 오븐 예열을 해주세요.(온도는 220도)오븐",
+		"2. 원래는 오븐팬에 올려야 하지만 큰 접시에 호일을 깔고, 그 위에 종이 호일을 깔고~양파를 썰어 종이호일 위에 올려주세요.",
+		"3. 양파 위에 우유에 담가 두었던 닭봉을 올려주세요.(후추로 간을 해 주세요. 그 위에 종이호일을 덮고 호일을 덮어 25분간 구워줍니다.",
+		"4. 닭봉을 굽는 동안 소스를 만듭니다. 간장:아가베시럽=1:1이지만 맛이 거의 나지 않으므로 허브솔트를 조금 넣어주세요.",
+		"5. 구운 닭봉위에 소스를 넣어 5분을 더 구워주세요.(다 익지 않아 뒤집어 4분 더 구워주었습니다)",
+		"6. 구워진 닭봉을 꺼내어 담아주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/3f6a1fce127cd8275e04d08489fb15771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/7877c3d334671b2ee25287a71718182d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/bdc9029e5208997ae7900379340061291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/580c1b3af719eebdc4e4577411fec41e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/efb40de19f3ba9ba185f05bce443c2db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/7d858e38c1e670b3ddbd6351b78f41f81.jpg"
+	]
+}

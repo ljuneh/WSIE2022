@@ -1,0 +1,66 @@
+{
+	"id": "6916469",
+	"name": "닭 가슴살 양파 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/07/26/7f72452227cf7928d6dc0d86ede6b5441.jpg",
+	"url": "https://www.10000recipe.com/recipe/6916469",
+	"ingredient_ids": [
+		3,
+		300,
+		295,
+		477,
+		379
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1.",
+			"ingre_unit": ".개"
+		},
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비하고",
+		"2. 양파 1.5개 굵게 썰고, 청양, 홍고추 씨 제거해 채 썬다",
+		"3. 닭 가슴살 캔은 체에 밭쳐 국물을 제거한다",
+		"4. 달궈진 팬에 식용유 약간 두르고 양파 넣고 살짝 볶다가 소금 두세 꼬집 넣고 볶고",
+		"5. 다음 굴 소스 반 스푼, 간장 1스푼 넣고 섞는다양파의 아삭한 식감을 주기위해 약간 덜 익은 느낌으로 볶아야지 아삭한 식감이 되어요",
+		"6. 양파가 살짝 투명 해질 즘에 닭 가슴살, 고추 넣고 섞은 후",
+		"7. 통깨, 후춧가루, 참기름 약간 씩 넣고 섞는다",
+		"8. 들들 들 볶음 닭 가슴살 양파볶음 반찬으로 술안주로 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/26/26afb10a8f1714ff2a2a6b740b88127d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/26/5b1d3f9b9fd4238e69c3dc15567d09641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/26/e619146af1394c04268ca46ec905db241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/26/556c1d13756a2e22ccc0858a3c56dbb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/26/92bce855b0cc5e66b65e2328cfa1cbb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/26/282dbc0949b5459d73f354d62d5cdc331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/26/b033da676730c0f73a98d4f5e3442b821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/26/d5d071ec4e2f88ec0959f906703dfa441.jpg"
+	]
+}

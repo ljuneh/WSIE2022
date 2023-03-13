@@ -1,0 +1,48 @@
+{
+	"id": "6874362",
+	"name": "복숭아 주스 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/08/fc070216b0f1f254b0ae683f93c2bb3a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6874362",
+	"ingredient_ids": [
+		144,
+		655,
+		227
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "복숭아",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "탄산수",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		}
+	],
+	"recipe": [
+		"1. 복숭아는 잘게 잘라 믹서기 안에 넣어주세요.",
+		"2. 탄산수 100ml를 넣습니다.",
+		"3. 단맛을 위해 꿀도 넣어주세요.",
+		"4. 믹서기에 1분정도 갈아주세요.",
+		"5. 얼음 한 주먹 넣으면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/08/903696162560f086080d1c9d8f27cfc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/08/5346253818a2049bf55a8f5c58f999a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/08/e2a738064dfabc5748e3baf93e8dcbfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/08/311d1da674373b6f88d4b0881db3bef01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/08/9d2c721e47a0803333ab4efb6ae0efd21.jpg"
+	]
+}

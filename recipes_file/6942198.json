@@ -1,0 +1,89 @@
+{
+	"id": "6942198",
+	"name": "새콤달콤무김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/99ba005eebdda90414d9ba46c1b9584e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942198",
+	"ingredient_ids": [
+		19,
+		226,
+		231,
+		282,
+		224,
+		665,
+		231,
+		938,
+		497,
+		29,
+		455
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "10",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "8",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "5",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 무는 큰것(1kg정도)으로 준비해서 껍질을 벗기고 납작하게 썰어서 식초100ml ,설탕100g, 굵은소금3T 에 4~5시간 절여요. 중간에 한번 뒤섞어 주세요.",
+		"2. (납작하게 또는 길쭉하게 취향대로 썰어도 됩니다) 단촛물에 절여진 무는 채반에서 물기를 빼줘요.",
+		"3. 양념장은 미리 만들어 숙성해 두는게 좋아요. 고춧가루가 불어 나면서 맛이 듭니다. 싱거우면 참치액 첨가 단맛 좋아 하시면 설탕이나 올리고당을 첨가해서 입맛에 맞춰요.",
+		"4. 양념장에 버무려서 냉장 보관하면서 드세요. 저는 숙성 일주일째가 제일 맛있는거 같아요. 여러음식에 잘 어울립니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/5bfcbcadabfbd3ac569b751d0148ae991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/913ab2184c74bf0d683c2b2dfe3b9aa71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/d02dc2eeba10371b140f883bb1b5da7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/949b38495c9940852528cff478f422761.jpg"
+	]
+}

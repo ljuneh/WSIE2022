@@ -1,0 +1,44 @@
+{
+	"id": "6941419",
+	"name": "다이어트 요리, 상큼한 오이 콩국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/10/b46d5f6f27510db45a48ce1789a7b9721.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941419",
+	"ingredient_ids": [
+		8,
+		497,
+		840
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "콩국물",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 오이 꼭지를 잘라내고 필러로 깎아둔다.                     ",
+		"2. ㉡ 소금으로 간을 한 콩국물, 견과류(해바라기씨, 호박씨)를 함께 준비한다.",
+		"3. ㉢ 오이를 그릇에 담고, 콩물, 견과류를 올려 완성한다.                         "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/a61d767ff8b61c6f7cc6f8c4177028581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/ef9c61e9f7643d61a3199aa81dfedfd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/3a44130314d3f7798e042b353999e4bd1.jpg"
+	]
+}

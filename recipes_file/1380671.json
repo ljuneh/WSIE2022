@@ -1,0 +1,77 @@
+{
+	"id": "1380671",
+	"name": "돼지갈비김치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/03/c243627f8fd3b8ba4c622e604d87101e.jpg",
+	"url": "https://www.10000recipe.com/recipe/1380671",
+	"ingredient_ids": [
+		90,
+		473,
+		224,
+		233,
+		226,
+		27,
+		349
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지갈비",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "익은김치",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 돼지갈비는 먹기좋은 크기로 잘라주고, 맛있게 익은 김치도 적당한 크기로 썰어 준비합니다.",
+		"2. 돼지갈비와 김치를 냄비에 담고 고추장1.5T, 고춧가루2T, 다진마늘1T, 설탕0.5T넣어 조물조물 30분정도 숙성시켜준후~",
+		"3. 뚜껑덮고 약불에서 은근히 익혀주세요 그럼 이렇게 물도 넣지 않았음에도 자박하게 국물이 생겼을꺼에요~ 한두번정도 뚜껑을열고 섞어가며 돼지갈비를 익혀준후",
+		"4. 다시마물이나, 다시마1장과 적당량의 물을 넣어 펄펄 끓여주세요.",
+		"5. 돼지갈비도 잘익고, 김치가 알맞게 익으면 대파한줌넣어주고, 모자라는 간은 국간장, 모자라는 감칠맛은 설탕약간넣어 마무리하시면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/03/e21d58e48eb27181afd5343a1351eeae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/03/35000090ec2792dd9979ab06bbe87bf41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/03/629943f58a2709a26a3245ed913063bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/03/65a9b7bf0c88ff6d5b1e8578d75faf801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/03/2d10330151c6dafdef5107426587d56a1.jpg"
+	]
+}

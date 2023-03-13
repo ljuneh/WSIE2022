@@ -1,0 +1,57 @@
+{
+	"id": "6538821",
+	"name": "마늘쫑 건새우볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/c8451708b9b0ee1201bce79253de72011.jpg",
+	"url": "https://www.10000recipe.com/recipe/6538821",
+	"ingredient_ids": [
+		17,
+		259,
+		379,
+		575,
+		292
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘쫑",
+			"ingre_count": "5",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 중새우는 빈 후라이팬에 먼저 볶아줍니다 고소한 향기가 솔솔~",
+		"2. 체에 받쳐 잔가루들을 제거해줍니다.",
+		"3. 양념장 만들동안 넓은 쟁반에 쭉 깔아 식혀줍니다.",
+		"4. 양념장을 만들어줍니다. 간장 2T, 올리고당 1T, 맛술 1T~",
+		"5. 팬에 올리브유를 두르고 마늘쫑을 먼저 볶아줍니다. 초록색빛이 진해질때까지 잘 볶아주시면 되요.",
+		"6. 그 다음에 건새우 투하. 양념장 넣고 뒤적뒤적 조려주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/63013367068a2300a1faab42fff243a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/b43997babbb4762246599ccd373970061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/148296265e36f6d3f52b3b00b409b9821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/a92fafad0210d80cc04249f87874d4f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/0c7a807f646bc67e4cd9cf1001c98aee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/f4b3aa50e200fda9fa47ac4ef0231e301.jpg"
+	]
+}

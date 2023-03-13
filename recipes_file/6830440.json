@@ -1,0 +1,46 @@
+{
+	"id": "6830440",
+	"name": "전자렌지에 계란찜 하는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/22/71480e82230f12c01174ff5aeb0f96e61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6830440",
+	"ingredient_ids": [
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추(or쪽파)",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "계란과동량"
+		},
+		{
+			"ingre_name": "새우젓국물",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		}
+	],
+	"recipe": [
+		"1. 계란을 풀어서 하얀부분은 건져 주시고 체에 계란물을 걸러줍니다.",
+		"2. 그냥 물을 사용하셔도 되는데요, 저는 다시마물 끓여 놓은게 있어서 다시마물을 준비했어요. 계란물과 동양의 물을 준비해서 섞어 준후, 새우젓국물 1.5큰술을 넣어 골고루 섞어줍니다. 간은 기호에 따라 가감 하셔도 되고요.",
+		"3. 송송 썰어 놓은 쪽파나 부추를 넣어줍니다. 기호에 따라 통깨나 흑임자를 올려도 되고 야채을 잘게 썰어 넣으셔도 된답니다.",
+		"4. 전자렌지 사향에 따라 다를 수 있지만 저는 요래 뚜껑을 덮고 9분을 돌렸어요. 이 양의 반을 하실 경우에는 4~5분정도가 적당하더라구요. 양이 많을때는 중간에 뚜껑을 열어 가운데부분을 숟가락으로 열십자로 한번 건드려 주면 더 잘 익더라구요. 랩으로 씌우실때는 구멍을 군데군데 뽕뽕 뚫어서 렌지에 넣으심 되요.전자레인지",
+		"5. 푸딩처럼 부드러움이 좋은 포실하고 맛난 밥반찬 완성. 불 앞에 안서계셔도 밥반찬 뚝딱 만들 수 있어요~ 뚝배기계란찜은 추운 겨울에 해서 드시고 더운 여름은 전자렌지에 가볍게 준비해 보세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/22/1e97317b16dda445c912fa1fa32fec9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/22/c129c8e6bdfabafe5a5ec9f1cccdb49b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/22/92b658cb1d34669a16287f64271ff1dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/22/b1ab10f99fad5c592fb86403c8623d3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/22/03f55e8be138647755d09d084f76a3f81.jpg"
+	]
+}

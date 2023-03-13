@@ -1,0 +1,131 @@
+{
+	"id": "6866633",
+	"name": "표고버섯탕수육,표고탕수 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/86982ec8de27f215058a3a554cee67051.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866633",
+	"ingredient_ids": [
+		53,
+		3,
+		497,
+		660,
+		504,
+		489,
+		477,
+		724,
+		226,
+		231,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "15",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청홍피망",
+			"ingre_count": "1/2",
+			"ingre_unit": "개씩"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "녹말가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "녹말가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵반"
+		},
+		{
+			"ingre_name": "달걀흰자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "찬물",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "두반장",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 표고버섯은 밑동을 자르고 안의 먼지를 털고 큰건4등분 작은건 3등분으로 어슷하게 썰어줘요.",
+		"2. 여기에 소금 후추로 간을 해주고 참기름을 두르고 골고루 섞어주세요.",
+		"3. 이제 날녹말한큰술을 넣고 골고루 섞어주세요.",
+		"4. 튀김옷을 녹말가루1컵반,달걀흰자1개,식용유2Ts,찬물약간만들어 주세요.",
+		"5. 여기에 버섯을 넣고 잘 버무려주세요.",
+		"6. 이제 튀김기름을 두르고 잘 튀겨주세요.",
+		"7. 소스는 한쪽 냄비에 미리 두반장2Ts,굴소스1Ts,케찹3Ts,설탕4Ts,식초3Ts,물1컵만들어 놓고",
+		"8. 양파는 큼직하게 피망은 삼각형모양으로 썰어주세요.",
+		"9. 소스를 끓이다가 양파먼저 넣고 피망은 나중에 넣어주세요.",
+		"10. 물전분3Ts를 넣어 농도를 조절해주세요. 드시기 직전에 표고버섯 튀긴것을 한번 더 튀겨서 따뜻한 소스를 올리면 완성이에요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/207093607a8e3e77c424a35ed4351b9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/09262a1e394cfd18fae1dbc43d0584161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/e556d4ceb95668be0d683bdaa41ce57d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/ceb9fbf23230f8fb226d06572b48bdd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/e8b968ab02eaf228079b01d0aeb4c98d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/36ed937c2a0ae3e27fc1fdf1b72e54ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/eb4a6b17d987fb254042b896bf2c5ab41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/e6cda23ee555cb3e1f9712df1f8d9cb41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/b060364d837923f028ef0da6ec14006b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/10/b1cf19901eb36ca7fa1461ae5ed47b181.jpg"
+	]
+}

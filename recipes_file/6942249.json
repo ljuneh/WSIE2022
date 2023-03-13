@@ -1,0 +1,53 @@
+{
+	"id": "6942249",
+	"name": "비름나물 간단하게 나물반찬 무치기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/068328be88ceea7ea10479bf1ef815e71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942249",
+	"ingredient_ids": [
+		497,
+		543,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "비름나물",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1.  비름나물 손질을 해야 하는데 줄기는 버리고 어린잎만 떼어냈습니다. (남는 거보다 버리는 것이 더 많은 상활....)                    ",
+		"2.  끓는 물에 소금을 넣은 후에 비름나물을 넣고 1분 정도 데쳐냅니다. 어린잎만 데치는 거라서 살짝만 데쳐도 됩니다. ",
+		"3.  찬물로 여러 번 헹궈주세요.",
+		"4.  물기를 꽉 짠 후에 뭉쳐진 나물을 풀어줍니다. ",
+		"5.  소금, 간마늘, 참기름, 통깨를 넣고 조물조물 무쳐주면 비름나물무침이 된답니다. 1단이라서 줄기 떼고 어린잎만 무쳤더니 양이 너무 작더라고요. 2~3단은 해야 할듯해요.                    "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/bb11e6d41e92a2b7cf1c3f3ae1b3e44a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/c8ccd76494c296fadfa418bf8d8170221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/d88a9831dd6b5f1654ff54de269a5ecb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/0816187b6fd7e643d03ecb7ece14b44e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/97dfd65788f95aa6283d39600147e1fc1.jpg"
+	]
+}

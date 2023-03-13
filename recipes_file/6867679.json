@@ -1,0 +1,90 @@
+{
+	"id": "6867679",
+	"name": "휘슬러 압력솥에 팥찰밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/29/779f68623ba1a124abc65b25839bd6831.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867679",
+	"ingredient_ids": [
+		99,
+		103,
+		102,
+		105,
+		545,
+		187,
+		132,
+		497
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "콩",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "조",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "수수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "율무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양대콩",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "데친팥",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 찹쌀 잡곡을 섞어 깨끗이 씻어 3시간 정도 불려 놓아요",
+		"2. 팥은 하루전날 물에 담궈 불린후 부르르 끓으면 첫물은 버리고 (팥의 아린맛 제거) 다시 물을 넣고 팥알이 터지지 않을 정도로 삶아줍니다",
+		"3. 압력솥에 불려논 찹쌀과 잡곡 팥 대추 밤 재료가 한쪽으로 쏠리지않게 펼쳐 소금으로 간간하게 간을해 물은 팥이 잠기지 않을 정도로만 잡아줍니다",
+		"4. 압력솥에 고슬하게 지어진 찰밥~",
+		"5. 밥이 다 되면 굳기전에 밥알이 으시러지지않게 고루 잘 섞어줍니다",
+		"6. 한번에 넉넉히 만들어 보관용기에 담아 냉동실에 넣었다 데워먹으면 편리합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/29/8139b9ce9acc975f70127ff3bc3e77de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/29/cbdc8a7dee84fd6cdf5b46a639eec23d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/29/1cfaa69772cba42c65dc8e7f5cd0f7251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/29/7f29d83354b877774a648d8c0206bcb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/29/cf16368e62a7a23d6d23e08211544b7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/29/ef4f99b854536dfa35ff86e3e74de4cb1.jpg"
+	]
+}

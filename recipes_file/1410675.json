@@ -1,0 +1,46 @@
+{
+	"id": "1410675",
+	"name": "조갯살 미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/b1266d430481c71b10669cb6aa00469e.jpg",
+	"url": "https://www.10000recipe.com/recipe/1410675",
+	"ingredient_ids": [
+		91,
+		660,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "미역",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "조갯살",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 미역을 찬물에 30분 정도 불린 상태입니다.",
+		"2. 냄비에 참기름을 두르고 조갯살을 넣어 먼저 살짝 볶아 주세요.",
+		"3. 불린 미역을 물에 헹군 후 자른 뒤 함께 넣어 볶아 줍니다.",
+		"4. 미역이 적당히 볶아지면 준비된 육수를 넣어 끓여 주세요.소금으로 간 해 주었어요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/aee03faec9a4fb60d5b13c3cb32c25b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/cddc7eb57a2a4c22dbabf138006e38e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/1324c19e77a105244adc1064345a8efc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/abd681d0d178526fbf6d8a0f4bcb091b1.jpg"
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"id": "6944666",
+	"name": "단짠단짠 삼겹덮밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/f7b75adfbdd90a513024900dea7da1021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944666",
+	"ingredient_ids": [
+		3,
+		27,
+		379,
+		455,
+		226,
+		575,
+		292,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "1",
+			"ingre_unit": "인분량"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 볼에 분량의 양념을 모두 넣고 잘 섞어 준비합니디",
+		"2. 양파 채 썰고 대파 어슷 썰어요",
+		"3. 달군 팬에 삼겹살을 노릇하게 구워 줍니다",
+		"4. 썰어 놓은 양파,파 넣어  볶아 주세요",
+		"5. 팬을 기울여 한쪽으로 밀어놓고 페이퍼타올로 기름기를 닦아냅니다",
+		"6. 준비 해놓은 양념을 붓고",
+		"7. 약불에서 저어가며 짜작하게 조려 밥에 올려 완성합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/9e44b228365e6d9743f199fd9aae51521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/4b62540ef62467547fea627be33492a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5268d54166929421b0d8050549131ec11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/8737343e29eaa8ebb4672fea2718422e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/605d3a1e7b61b38efcc7b737850b258e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/54a1d0827bbc552f4c908c15da4516aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/ae44ad70dd02d046abea18e7c92ef3921.jpg"
+	]
+}

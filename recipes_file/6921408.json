@@ -1,0 +1,127 @@
+{
+	"id": "6921408",
+	"name": "간장새우장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/10/30/c6fbc65d4520ca11b3e4dde1d38ed1fd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6921408",
+	"ingredient_ids": [
+		79,
+		3,
+		262,
+		134,
+		28,
+		29,
+		857,
+		608,
+		579,
+		271,
+		379,
+		995,
+		292,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "새우",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파뿌리",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "건고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "레몬",
+			"ingre_count": "3",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "건대추",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "200",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "100",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "쌀엿",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 새우를 씻어 소주 반컵 붓고 담가 두어요 저는 쓰고 남은 레몬 껍질을 넣고 담갔어요 30분",
+		"2. 양념과 재료들을 모두 넣고 끓여요 마늘을 5개는 통으로 나머지는 생강과 편으로 넣었어요",
+		"3. 간장을 끓이는 동안 새우를 다듬어요 머리뿔 꼬리물총 등 2~3번째 사이에 이쑤시개로 내장제거~ 물기를 닦은 다음 열탕소독한 유리그릇에 차곡히 넣어요",
+		"4. 간장이 다 식으면!!! 부어요~ 3일후에 먹쟈용"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/10/30/e1c13d3f350f11824cddc6915179ed081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/10/30/8cbd4e79931800a51ea202d7cbc7545a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/10/30/04da6bb9ed4d64dbe9654365096421741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/10/30/7e2c686f1ff2cee8ff3e4ab1f3351a6e1.jpg"
+	]
+}

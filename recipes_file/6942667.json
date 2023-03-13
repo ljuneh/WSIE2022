@@ -1,0 +1,133 @@
+{
+	"id": "6942667",
+	"name": "상추물김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/48a8d90454e09baefc4e736bfb2831551.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942667",
+	"ingredient_ids": [
+		16,
+		3,
+		9,
+		28,
+		29,
+		390,
+		226,
+		234,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "상추",
+			"ingre_count": "40",
+			"ingre_unit": "장정도"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "6",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 오늘은 친정엄마표 상추 물김치를 만들어 볼게요",
+		"2. 재료를 준비해 주시고",
+		"3. 상추를 먼저 절일게요",
+		"4. 깨끗이 씻은 상추는 사이사이에 소금을 뿌려주세요천일염 ",
+		"5. 물을 부어주고 20분 정도 절여 주세요",
+		"6. TIP: 봉지를 상추위에 살포시 올려 주시면 상추가 골고루 잘 절여 져요물봉지 활용 ",
+		"7. 풀 만들기 : 냄비에 밀가루 1T",
+		"8. 물 4컵을 넣고",
+		"9. 저어가며 잘 풀어 주고 중불에 한번 끓여 주고 식혀 주세요",
+		"10. 양념: 믹서기에 홍초 3개",
+		"11. 마늘 6쪽",
+		"12. 새우젓 1T",
+		"13. 설탕 1T를 넣고",
+		"14. 식힌 밀가루 풀을 넣고",
+		"15. 믹서기에 곱게 갈아 주세요",
+		"16. 양파 반개를 채썰어 주고",
+		"17. 당근 1/4개",
+		"18. 생강 반개",
+		"19. 홍고추 1개를 채썰어 주세요",
+		"20. 채썬 재료들",
+		"21. 준비된 재료로 물김치를 담아 볼게요",
+		"22. 절인 상추는 물기를 빼고",
+		"23. 반으로 잘라 주세요",
+		"24. 그리고 채썰어 둔 재료를 넣어 주세요",
+		"25. 미리 만들어 놓은 양념 소스를 넣고 버무려 주세요",
+		"26. 양념이 싱거우면 소금으로 간을 해주세요",
+		"27. 상온에서 하루정도 두었다가 냉장해서 드시면 됩니다^^ 맛있게 드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/5931c3e09500952ae928f9a15617bc8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/ed10fc80141790eabe11d38a610ea9bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/5d8c8c9afc7cbc2a538c87292d9dbf621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/1a9579316aaa6ac0999e43280184c5bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/00c84e93de91384d2ab48ba0e25539851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/be98e5f848b36ac2124373e4ce506b231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/b08b793641c3d362c718dea676914a401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/f36599e04efa4d1cee2d518349ab09ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/da72dd1a7594313cc22364d67bd081b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/3851dd22222368a917f3ed3c76fc14421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/52a41f0173a4b8ec25fb28a69aaff5091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/3e97d6f8bd8d18875d3fbcfcfc9aa5ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/d87b83c3fd65371ff8c5d51fe23e40ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/03587827abc1b3fb96b8e092097c55841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/27c2f0d29089880d7da221fbf4a66d831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/358a4fc33f08226231c0e5b91fc618b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/65cb21dbb725ee06e7e07d58d0fc8c341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/a8a35511cc8b77d1276e9350247b46591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/fb2156cd445c203506cf71c10b86bfe21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/1d1d7cedcc62bf1ef9972e38c8cfb2eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/fdcda68e0bfddf49272b097c14be15651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/ed324d569da6546c72fee0631ba4412e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/4a3224eb377073db644f2376ecd2cf291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/5dec969b515a8f9d7b01947e8bae5cf01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/ea10ba2eb149881825fb82f87da6edc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/95c7c165c2e178a9b1f6956432cd2b6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/f6980ba70a4f15fe4f2c4d7e1c3630621.jpg"
+	]
+}

@@ -1,0 +1,122 @@
+{
+	"id": "6940018",
+	"name": "실곤약 냉채 만들기 /냉채소스 레시피 [시원한 음식]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/d177f61e7cafc5ec2ae73bf1091c07da1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940018",
+	"ingredient_ids": [
+		912,
+		6,
+		8,
+		3,
+		158,
+		597,
+		231,
+		959,
+		233,
+		226,
+		291,
+		350
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "실곤약",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "크래미",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1.",
+			"ingre_unit": ".개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "연겨자",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "사과즙",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액기스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 파프리카는 색깔별로 준비 해서 사용하면 좋은데 한 가지 색으로도 충분합니다.",
+		"2. 먼저 실곤약은 끓는물에 살짝 데쳐서 찬물에 헹구고 가위로 중간중간 한 번씩 잘라 주세요",
+		"3. 오이는 돌려깍기 하셔도 좋고 가운데 씨부분을 도려내고 채썰어도 좋습니다. 약간의 소금에 잠시 절여주세요",
+		"4. 양파도 곱게 채썰어 찬물에 담궈 매운 맛을 빼줍니다",
+		"5. 파프리카는 가운데 씨부분을 도려내고 곱게 채썰어 주세요",
+		"6. 크래미도 손으로 찢어 주시고",
+		"7. 사과는 작은것은 1/2개 큰것은 1/4개 갈아서 소스 만들때 즙만 사용합니다",
+		"8. 분량의 재료로 연겨자 소스 만들어 주세요.",
+		"9. 절여 놓은 오이는 물기를 짜사 그대로 사용하시면 되고 양파도 건져서 준비하고 냉장고에 보관했다가 식전에 소스 곁들여 주면 됩니다.",
+		"10. 실곤약은 퍼지지않기 때문에 미리 준비해 뒀다가 드셔도 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/5f8fae800444daa980f0aaa8aa3685c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/2af839f6ec7aacec3fda26642d6340511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/05bd3eb834ed9c20ad2f0c589b21a7cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/6f1a5e7407eefec22138720f3df17bd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/27d37a53479721510748d99b239e7d5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/359bf07332a58cf8ed82db45b8f6ad041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/6bd8e776ac251058d4323af28bc224cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/56a4d760a1fec72e341bde82f0cf31561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/e2ed5a940356927679cf95d33a4e74721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/7b468c1410a9eeff5df9067d0842283e1.jpg"
+	]
+}

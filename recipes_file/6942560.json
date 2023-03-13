@@ -1,0 +1,44 @@
+{
+	"id": "6942560",
+	"name": "식단 관리! 저에게 맡기세요- 토마토의 단맛과 영양 가득 쉽게 맛있게 건강하게 즐기는 <토마토 바나나 죽>",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/b7720b98eba782d8651d57c5eb1b11e61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942560",
+	"ingredient_ids": [
+		51,
+		141,
+		432
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "요리에센스연두",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. [토마토 손질하기] 토마토의 꼭지 쪽에 칼집을 내 심지를 제거하고 끓는 물에 15초간 데쳐 찬물에 식힌 후 껍질을 제거해 주세요.",
+		"2. [끓이기] 토마토, 바나나를 한 입 크기로 썰고 포도씨유를 두른 팬에 토마토를 볶아주세요. 바나나를 넣어 으깨면서 볶아주세요.",
+		"3. [연두 하기]  끓는 토마토에 바나나를 으깨면서 볶다가 연두를 넣어 잘 섞어주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/4dfc0e07dac0e8a48a886cc7b55d32dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c4313fee6eb2214e1cc8c5de6001981b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/4aa031423529b60ccbc22893051b4ab51.jpg"
+	]
+}

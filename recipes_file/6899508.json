@@ -1,0 +1,65 @@
+{
+	"id": "6899508",
+	"name": "바다향 품은 물파래단감무침 특별하게 만들어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/06/7bb249977f532407723e667d8fc647541.jpg",
+	"url": "https://www.10000recipe.com/recipe/6899508",
+	"ingredient_ids": [
+		939,
+		224,
+		233,
+		290
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "물파래",
+			"ingre_count": "2",
+			"ingre_unit": "덩이"
+		},
+		{
+			"ingre_name": "단감",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 물파래는 굵은소금넣고 바락바락 주물러 씻어요",
+		"2. 흐르는 물로 여러 번 헹궈 줍니다",
+		"3. 물기 빼 놓아요",
+		"4. 단감은 껍질 벗기고 얄팍하게 채 썰어 준비 합니다",
+		"5. 액젓, 고춧가루, 다진마늘, 깨로 양념 만들고",
+		"6. 단감부터 넣고 살살 버무립니다",
+		"7. 물기 빠진 파래는 먹기 좋게 썰어서 넣고 뭉치지 않도록 잘 무쳐 줍니다",
+		"8. 신맛 좋아하면 식초 첨가해도 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/06/34dd3381be1e9457f2a8b9c9bce67f171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/06/cf48e63468e404e3b2fa75c7ff4d9e6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/06/3adf694d2f095d425ab7e413cdaebeec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/06/9725c04aa58adb6d5ae05540104a6a2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/06/32f1c55840205e995d8befd637f8a69c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/06/3968648b10b9910c2c91f4088f85b1ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/06/c1ee25eca68b526c2731d13cadbe4b0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/06/0ecd51f65efa9afe693e6c745fa61f9f1.jpg"
+	]
+}

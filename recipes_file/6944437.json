@@ -1,0 +1,85 @@
+{
+	"id": "6944437",
+	"name": "한조각에 무화과 하나씩! 홈베이킹레시피 무화과파운드케이크 ♥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/acf4e0d42e43018cb3138f16c4ed88381.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944437",
+	"ingredient_ids": [
+		546,
+		219,
+		884,
+		373
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "무염버터",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "135",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "135",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드파우더",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "반건조무화과",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "건살구",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "럼",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 반건조 무화과는 꼭지를 제거하고 6등분, 건살구는 2등분 해 럼에 절여둔다.",
+		"2. 볼에 실온에 둔 버터를 넣고 핸드믹서로 부드럽게 푼다.",
+		"3. 슈가파우더를 넣고 핸드믹서로 섞는다.슈가파우더를 넣고 바로 핸드믹서로 섞으면 가루가 날릴 수 있어요. 고무주걱으로 버터와 섞은 뒤 핸드믹서로 돌려주세요.",
+		"4. 달걀과 바닐라익스트랙 섞은 것을 2~3회에 나누어 넣으면서 섞는다.",
+		"5. 체친 가루재료를 넣고 주걱으로 자르듯이 섞는다.",
+		"6. 가루가 약간 남아있을 때 절여둔 무화과와 건살구를 넣고 섞는다.",
+		"7. 틀에 반죽을 넣고 180도 예열한 오븐에 35~40분 굽는다.",
+		"8. 구워져 나온 파운드케이크를 틀에서 빼 식힘망에 완전히 식힌다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/2ccdda9f14226ac0bacbe294cc5578ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/65f4ed0d427fdbc19fffec7cf9b51f871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/ca049243e9d517df87c1eca947b81ad61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/5728bec922b11513872082f319d9cf5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/e59dcfa24da8903ce81da7f1a0ff8e001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/7e3aed77efa12198dfdb38c3d30ec3041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/14880e88ecaeb6d1a3414a9546867aed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/079c86313b958c0085cc3104429c3a0e1.jpg"
+	]
+}

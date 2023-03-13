@@ -1,0 +1,83 @@
+{
+	"id": "6940142",
+	"name": "집밥 TV) 마늘쫑 고추장 볶음 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/885e52bfde72d70f1310df3b96688d761.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940142",
+	"ingredient_ids": [
+		17,
+		473,
+		276,
+		379,
+		938,
+		738,
+		226,
+		497,
+		660,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘쫑",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고운고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 소금을 넣고 손질한 마늘종(4-5센티 정도)을 데칩니다.",
+		"2. 1분 정도 데친 후 차가운 물에 두어번 재빨리 헹궈 물기를 빼줍니다.아삭함을 원하시면 더 빨리 건져도 되요, 한 번 데쳐야 아린 맛이 사라집니다",
+		"3. 양념장-고추장 2T, 고운고춧가루 1T, 간장 1T, 매실청 1T, 조청(혹은 올리고당) 1T, 설탕 1/2T, 소금 조금넣고 잘 섞어주세요.",
+		"4. 마늘종과 양념장을 함께 넣고 팬에서 잘 볶아줍니다. 참기름과 깨소금을 뿌리면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/769b3ae5073ba2608c767f60c8a1fc0b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/e13f8d0c2f16d78ba641811f01dd357c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/1ea364c775ed3cebd5b5f645bca2d3b61.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/502d6c7e29ab6e34162a8ff1fe08bae71.png"
+	]
+}

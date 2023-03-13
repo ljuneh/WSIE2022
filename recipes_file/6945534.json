@@ -1,0 +1,72 @@
+{
+	"id": "6945534",
+	"name": "오리부추요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c01efc605adddfa2002e4dcf2d82e3121.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945534",
+	"ingredient_ids": [
+		30,
+		3,
+		231,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오리훈제고기",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비해볼까요?",
+		"2. 부추 양파를 먹기 좋게 썰어주세요",
+		"3. 썰은 야채를 스텐볼에 넣어서 진간장2큰술 넣어주세요",
+		"4. 식초 2큰술 넣어주세요",
+		"5. 설탕1스푼 넣어주세요",
+		"6. 고추가루 1큰술 넣어주세요",
+		"7. 섞어주세요 시간이 지나면 숨이 죽습니다.",
+		"8. 오리훈제고기를 따뜻하게 익혀주세요",
+		"9. 완성~!!!!!! 예쁘게 담아주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/da2207942dfe2354fcdcbfb50427d3de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/105f67a8fec7f7264af5e1cc6795a5b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/33cf958bccfd4a088665915ffa59c1161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/de9b47e93c2b46abf1666e1f4ca0cdcb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/bc902d1b7228df25d006125a5efa358a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/19f8655f7303e63d208493de1b2f55ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/f067a7295b6e390530dfd053fb7caed91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/787f86a752a027d3091caf148c4664951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/ba515c7c4a1c1aced700fbb0ddf8b7271.jpg"
+	]
+}

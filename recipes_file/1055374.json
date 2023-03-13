@@ -1,0 +1,115 @@
+{
+	"id": "1055374",
+	"name": "매콤한 어묵멸치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/b39cdc977c66716cf09e7c9e61d82c8b.jpg",
+	"url": "https://www.10000recipe.com/recipe/1055374",
+	"ingredient_ids": [
+		548,
+		27,
+		224,
+		504,
+		233,
+		995,
+		497,
+		225,
+		350,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파작은것",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "중멸치",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당(또는물엿)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".작은술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		}
+	],
+	"recipe": [
+		"1. 멸치는 기름기 없는 팬에 살짝 볶아놓고 양파와 대파, 청홍고추도 썰어놓고 어묵은 삼각형으로 썰어 뜨거운 물에 샤워를 시켜줍니다.",
+		"2. 팬에 식용유를 두르고 다진 마늘을 볶다가 양파를 넣고 볶다가 양파가 숨이 약간 죽으면 이어서 멸치를 넣고 잠시 볶아줍니다.",
+		"3. 여기에 데쳐둔 어묵을 넣고 양념을 한 다음~",
+		"4. 청홍고추를 넣고 물을 조금 부어 타지 않도록 볶아준 다음 마지막에 깨소금과 후춧가루를 넣으세요.",
+		"5. 대파를 넣고 마무리 합니다. 너무 마르게 볶기 보다는 요것도 촉촉하니 수분이 있는게 더 맛나요. 어묵은 다 익은 상태이기 때문에 오래 볶을 필요는 없답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/6675473e58ce01691fc85b1bc5a2d5e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/9ef8f39807f4a39e578979ef95300f521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/e8710bb5b78f51fa0e2b4bcf9aa257141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/8d21ad65dd393ea735d0bf23eed211821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/11/7c916072a04a42bbeeb5756e6a8827371.jpg"
+	]
+}

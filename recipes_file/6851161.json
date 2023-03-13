@@ -1,0 +1,30 @@
+{
+	"id": "6851161",
+	"name": "이걸 왜몰랐을까!! 사먹는 것보다 맛있는 뻥튀기 아이스크림샌드위치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/17/52336d997eec01e1a792db61ee77c4bb1.png",
+	"url": "https://www.10000recipe.com/recipe/6851161",
+	"ingredient_ids": [],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "뻥튀기",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "퍼먹는아이스크림",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비한다.뻥튀기 4개, 퍼 먹는 아이스크림 2컵",
+		"2. 뻥튀기에 아이스크림을 올린다.",
+		"3. 그 위로 뻥튀기를 덮어 지그시 누른 다음 마무리!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/17/3e191c4396fa6b3dac0eec46fc092be91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/17/52dd85e903b4e7cde59a5b7b7adab1971.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/17/7a972e93f970742a2734c3e57bc37c381.png"
+	]
+}

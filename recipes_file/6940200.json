@@ -1,0 +1,45 @@
+{
+	"id": "6940200",
+	"name": "치킨무",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/0513d603dd051b141cf184895d25d1e31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940200",
+	"ingredient_ids": [
+		19,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "뉴슈가",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "강초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 한입사이즈로 무를 사각썰기 해주세요.",
+		"2. 적당한 사이즈의 락앤락 컨테이너 안에 물 3컵과 썰어둔 무를 부어주세요.",
+		"3. 뉴슈가 1 스푼, 강초 2 스푼, 소금 1 티스푼을 넣고 섞어주세요.",
+		"4. 냉장보관하여 절여 보관합니다. 필요하실 때마다 꺼내어 드세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/80fbecddd936621f31f4ce6bfc6702e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/e3e9b37cd0e5d80cae02d41ca57a7d5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/108409a87d274857c3c143074982ee461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/d41c196091f0d8f55ee4d73d964947451.jpg"
+	]
+}

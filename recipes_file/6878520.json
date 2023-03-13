@@ -1,0 +1,68 @@
+{
+	"id": "6878520",
+	"name": "신박한 스파게티의 탄생! 장아찌스파게티",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/25/cf54e4a5b93decec58283062f34942ff1.png",
+	"url": "https://www.10000recipe.com/recipe/6878520",
+	"ingredient_ids": [
+		735,
+		406,
+		574,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "고추장아찌",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "파르메산치즈가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 고추장아찌는 꼭지를 떼고 볼에 담아 가위로 잘게 자른다.고추장아찌 5개가위",
+		"2. 베이컨은 잘게 썰고 통마늘은 굵게 다져 준비한다.베이컨 3장, 통마늘 3개",
+		"3. 냄비에 물을 끓여 소금 약간 넣고 스파게티면을 넣어 삶는다.스파게티면 1인분냄비",
+		"4. 팬에 올리브유를 넉넉히 넣고 다진 마늘을 볶는다.팬",
+		"5. 마늘기름을 낸 후 베이컨을 넣어 함께 볶는다.",
+		"6. 마늘이 노릇해지면 삶은 스파게티면과 잘게 자른 고추장아찌를 넣고 면수 1국자 정도를 넣어 볶는다.",
+		"7. 그릇에 스파게티를 담은 후 파르메산 치즈가루를 뿌려 완성한다.파르메산 치즈가루 약간"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/25/042d5ab826a4f649e295cbf4c022041d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/25/db61fed5f091bb21c137d2269a4310fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/25/09136de5c05a4083b8c4a07159e945a31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/25/5d0cd0e8ab664c907c6d701a74138dd11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/25/97c7b1f4bc9e6b8d9fe0a67f1cd6c5891.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/25/c4ba9b3d87ea6e9c0b4d06bf3f0918931.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/25/751bbaa7eabbf14d12a4c672c74a67b11.png"
+	]
+}

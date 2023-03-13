@@ -1,0 +1,65 @@
+{
+	"id": "6929057",
+	"name": "미나리 겉절이 (미나리무침)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/03/22/a4816bbf835c7469cbd68080e63077201.jpg",
+	"url": "https://www.10000recipe.com/recipe/6929057",
+	"ingredient_ids": [
+		20,
+		379,
+		665,
+		224,
+		231,
+		660,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 우선 요만큼만 무쳐 먹을껀데요. 미나리 겉절이는 그때 그때 먹을양만 무쳐 먹어야 맛있어요~ 끄트머리 상한부분 정리하고 씻어주면 됩니다.",
+		"2. 그런다음 줄기부분.. 빨갛게 된부분만 칼로 잘라줍니다.",
+		"3. 그런다음 먹기 좋은 크기로 썰어주고요.",
+		"4. 볼에 미나리 넣고 양념재료 넣어주고 무쳐주면 됩니다.간장, 참치액, 고춧가루, 식초, 참기름, 통깨"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/22/d2a393a10008cde3c58f553a8ebfac561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/22/8ebd229efccf1c680d88d8da5c688fd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/22/058b57f7488b5843880e6ca0c811b5851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/03/22/ffff232771ce2dd9b499b7fce54f43361.jpg"
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"id": "1988418",
+	"name": "장어 구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/7be0f1029db316cee27eb9e53f1db1f7.jpg",
+	"url": "https://www.10000recipe.com/recipe/1988418",
+	"ingredient_ids": [
+		74,
+		379,
+		846,
+		226,
+		341,
+		28,
+		857
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "장어",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "장어육수",
+			"ingre_count": "1",
+			"ingre_unit": "Cup"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "Cup"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "Cup"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "계피",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "15",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "월계수잎(생략가능)",
+			"ingre_count": "2~3장",
+			"ingre_unit": "~장"
+		}
+	],
+	"recipe": [
+		"1. 뼈와 머리를 찬물에 한시간 정도 담가 핏물을 제거합니다. 그 후 흐르는 물로 깨끗이 씻어 핏물 잘 제거해 주셔야 해요.",
+		"2. 물 5컵을 부은 후장어 뼈와 머리를 넣고 끓여1컵 정도 분량의 장어 육수가 나올 수 있도록뭉근하게 끓여 주세요. (대략 2~3시간 정도)",
+		"3. 육수 재료를 넣고 뭉근하게 끓여 양이 반으로 줄을 때까지 끓여 주세요. 끓인 양념 간장은 거른 후 식혀 줍니다.",
+		"4. 장어는 페이퍼 타월로 잘 눌러 핏물 완전히 제거하신 후 살쪽으로 칼집을 촘촘하게 내 주세요. 참, 장어는 물로 씻어내면 안돼요~",
+		"5. 그릴에 기름을 골고루 잘 바른 후장어의 안쪽 살 부분이 먼저 불에 닿게 해서 오그라들지 않도록 애벌구이 해주세요.",
+		"6. 양념 간장을 앞뒤로 발라가면서 구워 줍니다. 앞뒤로 여러번 발라가면서 구워야 간이 깊이 배고 컬러도 먹음직스러워져요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/f2c601049142cc5f8c84000f4aa384fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/dbf66fe8011eee5422279146e5e3fcb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/014902f8485a9967e969d0ce4a4b5a171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/ee2edc7e28f3df4614a66a7865eedb731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/f633f64303550893f8fe65cd25d4bc191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/1998501cad69c46ee9524a3f1c3420b91.jpg"
+	]
+}

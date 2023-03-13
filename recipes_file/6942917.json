@@ -1,0 +1,66 @@
+{
+	"id": "6942917",
+	"name": "다이어트 고단백 요리_닭가슴살야채카레 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/0ad49b133d4f516153f31d48f782459a1.png",
+	"url": "https://www.10000recipe.com/recipe/6942917",
+	"ingredient_ids": [
+		300,
+		21,
+		3,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카3/4개or1개",
+			"ingre_count": "3/4개 or1개",
+			"ingre_unit": "개 or개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "500~600mL",
+			"ingre_unit": "~mL"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 닭가슴을 넣고 닭가슴살이 잠길 정도로 물을 부어주세요. 후추를 톡톡 넣고 센불에서 5~10분정도 끓여줍니다.물이 끓을때 표면으로 떠오르는 불순물 및 거품은 수시로 걷어 버려주세요.",
+		"2. 삶아진 닭가슴살은 찬물 샤워시켜주시고 결대 찢어 준비합니다.  양배추와 양파, 파프리카는 먹기좋은 크키로 잘라주세요. 카레가루는 생수 5스푼정도 넣고 잘 풀어 준비해주세요.닭가슴살은 다 익혀 삶기보단 찢길 정도로만 삶아져도 괜찮아요.",
+		"3. 냄비에 닭가슴살을 넣고 식용유 1T을 두른 후 중불에서 볶아주며 겉면을 살짝 익혀줍니다.",
+		"4. 양파, 양배추, 파프리카를 넣고 함께 볶아주다가 카레를 넣고 골고루 섞어주세요.",
+		"5. 생수 500mL 정도 부어 카레와 재료 잘 섞어주시고 중간불에서 걸쭉하게 될때까지 끓여주시면 됩니다.",
+		"6. 따듯한 밥에 닭가슴살카레를 올려 먹으면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/5d04eae3d92d82e59f88df0b18bf1c3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/6c21e4b5d6ab7eeef81fc5a451516a791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/d531db6bd1faef67c620242d454e8bfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/b4c5ceb87a55ce2bbea100c218d316941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/4665643b16139f1829cccf5afa9ddb621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/901664f5fb1664dda05754967669d32e1.jpg"
+	]
+}

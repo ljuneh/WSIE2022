@@ -1,0 +1,69 @@
+{
+	"id": "6941055",
+	"name": "스팸돈부리 덮밥 단짠이 매력있는 요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/99bd994e7fcae1967b09ee0e7e2fbe141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941055",
+	"ingredient_ids": [
+		613,
+		379,
+		226,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "공기밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "채썬대파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "자색양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "스팸또는햄",
+			"ingre_count": "71",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		}
+	],
+	"recipe": [
+		"1. 재료준비해주세요",
+		"2. 계란은 소금 한꼬집을 넣고 곱게 풀어서 준비해주세요 양파는 채썰어준비해주시고 스팸은 알맞은 크기로 썰어 뜨거운물에 부어 짠맛을 제거해주세요 물기를 제거한 스팸은 식용유를 살짝만 넣고 스팸을 노릇하게 구워주세요 스팸 기름과 짠맛을 제거하기위해 살짝 데쳐줘도 좋아요",
+		"3. 식용유를 넣고 양파를 볶아주세요 양파향이 올라오면 간장3큰술과 설탕 2큰술을 넣어 볶아주시고 채썰어놓은 대파를 볶아주세요 대파는 생략해도 좋아요 간장과 설탕 비율이 이정도면 조금 짜다 싶을정도로 밥에 비벼먹으면 적당한 짠맛의 간입니다 싱겁게 드시고싶다면 간장과 설탕양을 줄여주시면 될거 같아요",
+		"4. 볶아진 재료에 물 한컵을 넣고 스팸을 넣어주세요 스팸 모양을 잡아주시고 풀어놓은 계란을 부어주세요 약불에서 서서히 계란을 익혀주시고 완성그릇에 공기밥을 미리 담아 놓은뒤 돈부리를 올려주시면 완성입니다 스팸을 늦게 넣어 조리한 이유는 양파를 볶았을때 간장과 설탕의 짠맛이 스팸에 묻어나 짠맛이 느껴질까바 맨 마지막에 넣어 조리했어요",
+		"5. 스팸돈부리덮밥은 한그릇만 먹어도 배가 부른 요리같아요 짭조름한 맛이 밥과 함께 먹으니 잘어울리는 덮밥 요리같아요 아이들 식사에도 잘어울리는 한끼입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/dc1f24e1acc2d882a6ef26c85171554f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/4dc7cc6f326373ce63b175f9ac3f6d121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/4807af78d4e8a900ce5c2307095653581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/68fc65e42ae6fb4b35d220538813e1701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/bb895e18c9a57ff78bcd4eb7c27922961.jpg"
+	]
+}

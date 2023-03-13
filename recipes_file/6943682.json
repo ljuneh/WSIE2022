@@ -1,0 +1,48 @@
+{
+	"id": "6943682",
+	"name": "초간단 훈제계란 만드는 방법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/7ad5492e75e46c394b149cb087026ec21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943682",
+	"ingredient_ids": [
+		497,
+		231,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "5~10알",
+			"ingre_unit": "~알"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 계란을 깨끗하게 씻어서 압력솥에 담아준다. 이때 계란이 살짝 잠길 정도의 물이면 충분하다. 소금 약간, 식초 약간을 넣어주면 맛도 업그레이드되면서 껍질도 한 번에 벗길 수 있으니 일을 수월하게 해 줄 수 있다.",
+		"2. 조리 시작 압력솥을 닫고, 센 불로 3분 정도 돌려 칙칙 소리가 나기 시작하면 약불로 약 40분간 천천히 익혀준다. 가끔 잘 되는지 확인하는 정도의 수고로움만 있으면 잠시 후 훈제계란을 먹을 수 있다.",
+		"3. 다 익은 계란 한 김 식힌 솥에서 계란을 꺼내어 그릇에 담아본다. 아직은 그냥 삶은 아이인지 훈 제인지 알기 어렵다.",
+		"4. 껍질을 벗긴 계란 짠하고 나타났다. 나는 훈제계란.. 사진 찍고 나니 너무 웃긴다. 마치 계란이 공중부양한 거 마냥 붕 떠 있다.",
+		"5. 갈라본 계란 반을 손으로 잘라보았더니 이렇게 잘 익었네.. 40분 동안 익혀준 보람이 있었어요.."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/089b74807ead7926bab53d28d64cec0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/126d09c35c092005453d83ca2880f3651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/abe4eadfd766bbf7669132b5fb93966d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/e2e1bf897cfd5c8cc369485e25002e3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/d857a9f466943abe33f881b8e90df47d1.jpg"
+	]
+}

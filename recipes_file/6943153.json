@@ -1,0 +1,73 @@
+{
+	"id": "6943153",
+	"name": "부드러운 진미채볶음 황금레시피 진미채 간장볶음 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/465363af70aefcfbd15dd38e45dca4071.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943153",
+	"ingredient_ids": [
+		571,
+		228,
+		290,
+		379,
+		226,
+		575,
+		660,
+		233
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "진미채",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 흐르는 물에 진미채를 헹궈주신 다음에 키친타월을 사용하여 물기를 제거해주세요 그리고 진미채에 마요네즈를 뿌려주신 다음에 골고루 버무려주세요",
+		"2. 양념장 재료를 섞어주어 진미채 간장볶음 양념장을 만들어주세요간장, 설탕, 올리고당, 참기름, 다진 마늘",
+		"3. 진미채 간장볶음을 만들어줄 양념장을 프라이팬에 넣고 끓여주세요약불",
+		"4. 마요네즈와 같이 버무려준 진미채를 넣고 진미채에 양념장 골고루 배일 수 있도록 볶아주세요",
+		"5. 완성된 진미채 간장볶음을 예쁘게 플레이팅 해주시고 위에 깨를 뿌려 마무리해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/69c86334a4bd205585b7486c0635f93c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/3470833201031e0f2bb18df9491c687d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/7422c863926a17e6e65378e7d30a4c8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/5ec2355bc2e4db8fabf8df8f2e25a37f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/705cc871cfb2915c849a46f56cdaea711.jpg"
+	]
+}

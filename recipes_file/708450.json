@@ -1,0 +1,56 @@
+{
+	"id": "708450",
+	"name": "감자전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/2bb5ad789780b82b67bcebb45ad3a107.jpg",
+	"url": "https://www.10000recipe.com/recipe/708450",
+	"ingredient_ids": [
+		225,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자(중)5개(약500g)",
+			"ingre_count": "5개(약 500g)",
+			"ingre_unit": "개(약 g)"
+		},
+		{
+			"ingre_name": "대파나쪽파썰은것",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "식용유나포도씨오일",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 감자는 껍질을 까서 깨끗히 세척후, 강판에 거친듯 하게 갈아주고....",
+		"2. 다 갈아 놓은 감자는 체에 밭쳐 살살 숟가락을 이용해 눌러주어 아래쪽으로는 수분이 내려오고, 위쪽으로는 감자 건지가 남게 해주고....",
+		"3. 따로 받은 감자물은 가만히 두어 감자전분이 밑으로 하얗게 가라앉도록 잠시 두었다가....",
+		"4. 시간이 조금 지나서 감자전분이 가라앉은 것이 눈에 보이면, 위에 물은 가만히 조심스레 따라내고 아래 하얀 전분만 남겨두고...",
+		"5. 따로 두었던 감자건지를 감자전분이 있는 볼에 넣고, 송송 썬 대파나 쪽파를 1줌 넣어주고, 소금, 후춧가루를 넣어 간을 하고... 청양고추를 하나 정도 썰어 넣으셔도 좋고요 버섯을 잘게 썰어넣어도 맛있어요.",
+		"6. 충분히 달군 팬에 기름을 넉넉히 두르고, 감자를 한 숟갈씩 떠서 평평하게 펴준 뒤, 한쪽면이 완전히 익으면, 뒤집개를 이용해서 휙~~뒤집어 주고....",
+		"7. 다시 다른 한쪽 면도 노릇, 바삭하게 부쳐주면 끝.... 감자전은 기름이 조금 넉넉히 들어가야 겉면이 바삭하게 잘 부쳐지고, 감자 자체도 기름 때문에 잘 익기도 한답니다..."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/5ba0be1d961c69d76bcac899aa05811f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/4464f6fcb8b5195f9f6b4c7972c467981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/0242e1518a7b07f28d3cf724cc4a33f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/18d99c733325b4f015d8cd2942b56e5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/66b6a5ce059a01d0c61ca3baa8f5d0fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/ffa1af6d4af29164152724fe5af832a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/8077d61630a39af8cb410106e81289e61.jpg"
+	]
+}

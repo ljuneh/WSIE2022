@@ -1,0 +1,51 @@
+{
+	"id": "6875055",
+	"name": "카레두부구이. 아이반찬으로 좋아요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/940f3948fb5a3eb1d8906c95061210f31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6875055",
+	"ingredient_ids": [
+		323,
+		387
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 두부를 굽기 좋은 크기로 잘라주시고  소금을 약간 뿌려서 5분정도 놓아두세요.소금을 뿌려놓으면 두부가 단단해져서  구울 때 잘 부셔지지 않는다고 해요.",
+		"2. 카레가루2T와  부침가루 1T를 섞어주세요.",
+		"3. 계란도 풀어주세요.  (카레의 간이 있어서 계란에는  간을 하지 않으셔야 해요!)",
+		"4. 카레가루와 부침가루 섞은 것에  두부를 넣어 골고루 가루를 묻혀주고요.",
+		"5. 계란물에 포옥 담그어  기름을 두른 팬에 구워내 주시면 됩니다.  약불에서 지글지글 천천히 구워주세요.",
+		"6. 앞뒤로 뒤집어서 구워내 주면  카레향 솔솔 나는  맛있는 카레두부구이가 완성된답니다.",
+		"7. 쪽파나 브로콜리를 올리면  더 예쁜 카레두부부침 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/a7e25c6f964abeb8fba60d79818a83d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/a427a59a5a3b775103bc9d4f23ed0c621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/26dba4febd3fdf80c7c9427a3aa27e981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/0e79dc6aeabe85f1315e66446f7f3d4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/93984bdaef4d8d933fa7f768a59f18031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/84d6c1aa4a70097e0a280df364cdef681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/fed5bc580629bb4f6d151564123872081.jpg"
+	]
+}

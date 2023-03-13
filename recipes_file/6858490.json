@@ -1,0 +1,69 @@
+{
+	"id": "6858490",
+	"name": "건강을 잡은 멸치 견과류볶음 짜지 않아요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/16/83b62dd576b9d0d846b5fde11185db531.jpg",
+	"url": "https://www.10000recipe.com/recipe/6858490",
+	"ingredient_ids": [
+		320,
+		840,
+		574,
+		853,
+		575,
+		226,
+		228
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 멸치는 달군팬에 살짝 볶아 멸치의 비린 맛을 잡아 줍니다 견과류 호두 땅콩 아몬드 준비 합니다",
+		"2. 팬에 올리브유 두루고 견과류 올리고당 넣어 볶다 멸치와 짜지않은 맛간장 1스픈 넣어 약한불에 볶아 줍니다",
+		"3. 설탕 1스픈 넣어 한번 더 살짝 볶아",
+		"4. 불을 끄고 마요네즈 1스픈 넣어 팬에 남은 열로 덖어 줍니다",
+		"5. 고소함이 가득한 견과류 멸치볶음 짜지않고 엿처럼 달라붙지 않아요",
+		"6. 접시에 담아 햄프시드 올려 고소함을 더해줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/01/09db6689d99117edef8d2d64cb89f27e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/01/5e111c1a193ec0240ad2ba22df2bb2481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/01/6db549bec18b3f9a0adb8682de7f1fde1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/01/f66210e833dae87272eef3180c14dc3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/01/f89c1fc83aade6dbdf499c76eaff1d941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/01/baaf7d39558b7de626b2d9288dbec1ef1.jpg"
+	]
+}

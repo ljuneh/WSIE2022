@@ -1,0 +1,66 @@
+{
+	"id": "6945071",
+	"name": "쉽고 간단한 팽이버섯 양파볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/9255f418070b4b8f6a03efe9384b57ba1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945071",
+	"ingredient_ids": [
+		3,
+		55,
+		379,
+		660,
+		233,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "송이"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 양파 먹기좋게 채 썰어요 팽이버섯은 밑동을 자르고 가볍게 헹군 후 물기를 털고 팬에 담아요",
+		"2. 간장2,후추톡톡 넣고",
+		"3. 간이 고루 배이도록 살짝  볶다가 기름을 빙~ 두르고 슥슥 볶아준다",
+		"4. 다진마늘 반큰술 통깨솔솔 넣고",
+		"5. 슥슥~ 볶아 그릇에 담아내요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/e3ff0887fa3255acd6846bfc479570bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/c8ac546f0277015c0a59197889c57b251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/f30958e71432679ae46928215343e0771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/b0bdbc4591d798d27b4965f87162a3871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/6730125bb4abeebc0e995976f9a0d5a11.jpg"
+	]
+}

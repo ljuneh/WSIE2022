@@ -1,0 +1,68 @@
+{
+	"id": "6932067",
+	"name": "비건 통밀쿠키 ! 초간단에 맛있고 난리부르스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/059293013789ac076f6da60db79d89fc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6932067",
+	"ingredient_ids": [
+		469,
+		226,
+		324,
+		874,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두유",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통밀가루",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "다크초콜릿(생략)",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 카놀라유에 설탕 + 소금을 넣고  휘핑기로 잘 섞어 주세요",
+		"2. 두유를 넣고 잘 섞어 줍니다.",
+		"3. 통밀가루를 체 쳐 넣고 주걱으로 섞다가",
+		"4. 뭉치듯 반죽 해주세요.",
+		"5. 반죽을 손으로 눌러 편 후, 랩으로 덮어 밀대로 얇게 밀어 펴줍니다.",
+		"6. 스크래퍼로 스틱모양으로 잘라 주세요 / 쿠키커터로 찍어도 예뻐요",
+		"7. 155도 예열된 오븐에서 25분간 구워 냅니다.오븐",
+		"8. 구워져나온 스틱을 잘라주세요",
+		"9. 완성된 스틱의 끝에 녹인 초콜렛을 묻혀 완성합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/16a136a621e09044cb754576727239831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/a0eb4fd6d9cb4e6cb92dc7491f6b49fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/f45bc25f29921a634d695c265575522f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/5869ceec769bc5b1dbe3da2e5375ea551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/3c1c1704079ab6da95438dfb65980d241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/c4849024fc99453bd4270b603986dd9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/3cbb9e3d182609f24262382e86f8b3261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/112c972f105d3d12bdf133df0d08e16c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/04/73799069e3c8826c5d2b26703f4040171.jpg"
+	]
+}

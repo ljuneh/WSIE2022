@@ -1,0 +1,65 @@
+{
+	"id": "6917856",
+	"name": "오지치즈감자 만들기 - 간단 감자 요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/08/20/7ac2793829b694ab3690898cb98d50fd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6917856",
+	"ingredient_ids": [
+		5,
+		212,
+		203
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진베이컨",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 감자는 스틱 또는 깍둑썰기해서  찬 물에 약 10분간 놔둬 전분기를 빼 준 뒤  저처럼 기름에 구우듯 튀기실 분들은 미리 한 번 살짝 데쳐낸 뒤 물기를 빼 주세요!!",
+		"2. · 달군 팬에 식용유와 감자를 넣고",
+		"3. 센 불에서 감자가 노릇노릇해질 때까지 튀겨준 뒤",
+		"4. 접시에 담아줍니다 ",
+		"5. · 팬의 기름을 닦은 후 양파와 베이컨을 넣고",
+		"6. 중불에서 노릇노릇해질 때까지 볶아줍니다",
+		"7. · 튀긴 감자 위에 볶아낸 베이컨과 양파를 올려주고",
+		"8. · 모짜렐라치즈를 골고루 뿌려주고",
+		"9. 체다치즈를 뚝뚝 떼어서 올려준 뒤",
+		"10. 전자레인지에서 2분간 돌려줍니다전자레인지",
+		"11. 포슬포슬한 감자와 짭조름한 베이컨과 고소한 치즈가 잘 어우러져 맛있는 오지치즈감자 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/20/c8637b6c04b560f89a1352665bf3a1341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/20/6be8146d9039b7ada7fc08cf21840b1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/20/18bb1e885ea3c4dff553f702c78690891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/20/1ab12fc8e1d6e3da1f96447ba0ba7b111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/20/2d49e393c740d9db240d5790bb0278931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/20/fe84436822e24c17baf62f1a3b849ffe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/20/136c7cbc0dc9157bc9fc9a89b7cea26f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/20/59c78de8d4e146144bb183c6a964904c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/20/4afa09cea2f2e4d73d722700c519411a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/20/d64a51cd6c192777555da369e71ca9391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/20/8ff97d6fa3454785703a022563a42aeb1.jpg"
+	]
+}

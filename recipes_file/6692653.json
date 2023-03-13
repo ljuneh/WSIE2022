@@ -1,0 +1,67 @@
+{
+	"id": "6692653",
+	"name": "고추장 매실장아찌 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/3a92d18c7c3fdc674b461837e6fd8bfe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6692653",
+	"ingredient_ids": [
+		227,
+		938,
+		660,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "매실청건지",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "고추장1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 매실청 건지를 1줌을 준비하시구요. 1줌은 한 손으로 가볍게 가득 쥐었을 때를 말합니다.",
+		"2. 양념장은 고추장 1큰술, 꿀 1큰술, 후추가루 약간, 매실청 1큰술, 참기름 1큰술, 통깨 반큰술, 고추가루 1큰술을 넣어 완성하면됩니다. 양념장을 만들때 다른 그릇을 사용하면 설거지를 해야 하니까, 큰 볼을 사용하고 매실청 건지를 한쪽에 밀어 넣고 양념장을 옆에다 고루 섞은 다음 다 같이 무쳐주면 양념도 잘 배이고 좋답니다.",
+		"3. 위생장갑을 끼고 매실청 건지에 조물조물 양념이 잘 배이도록 합니다.",
+		"4. 새콤한 맛이 지친 입맛을 살려주는 매실장아찌 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/f5e778b7cef14df080f91d46f088c2771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/7304a72f8c6fd8626b2d686f9fe26a001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/d6f4b3dc378c2f76667cfa1b8447382d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/7bf1ab63b1fb1c59dfcb2b5b870951ec1.jpg"
+	]
+}

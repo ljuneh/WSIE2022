@@ -1,0 +1,60 @@
+{
+	"id": "6939897",
+	"name": "기름떡볶이 ~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/7c400b5b827c5d0ac71becdd28ad7f951.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939897",
+	"ingredient_ids": [
+		972,
+		379,
+		224,
+		226,
+		469
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "15",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 떡 끓는 물에 말랑하게  삶아준다",
+		"2. 그사이 파 송송 썰어 놓고",
+		"3. 삶은 떡은 물에 헹군 후 팬에 담아준다 간장,고춧가루,설탕 투하~ 기름을 빙~ 두르고",
+		"4. 가스불을 켜기 전 고루 버무려준다",
+		"5. 팬이 타지않게 약불로 슥슥~  볶아 접시에 담아낸다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/911064a04a34a1c9169bf553d9e3f99a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/a65b50d8ab19d81b5dc4902175e85f0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/1bab5fe35e518ffb3e5f3c74961cd87e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/088275bfcdb637713e9696770c42941c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/eb71d6dc5b780e0407c84a6aa3f3b8ac1.jpg"
+	]
+}

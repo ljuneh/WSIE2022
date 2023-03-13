@@ -1,0 +1,61 @@
+{
+	"id": "6843238",
+	"name": "콩나물국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/18/0ca5539bfcd2434229e0f59e9db5a1001.jpg",
+	"url": "https://www.10000recipe.com/recipe/6843238",
+	"ingredient_ids": [
+		995,
+		47,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "송선미의천연육수이야기팩",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "900",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 다시물을 만들어서 요리를 했는데요. 요즘 시중에서 나오는 다시팩으로 요리하니 경제적으로나 시간적으로 그리고 맛도 아주 좋다는 것입니다. 오늘은 콩나물국을 아주 간단하게 육수팩으로서 만든 걸 소개합니다.",
+		"2. 시중에 파는 것은 멸치육수로만 된 것은 조금 저렴하구요. 거기에서 디포리나 다시마, 몇가지가 든 것은 가격차이가 나죠? 사실 때에는 할인가격 된 걸 사시면 아까운 마음 덜 드실거에요. 전 이번에 큰마음 먹고 꽃게가루가 든걸 샀는데요. 어떤 육수팩은 가루로 되어 있지 않고 다시마 조각, 멸치, 새우몇개 이렇게 된 게 있더라구요. 가루를 된 걸 사면 활용이 잘 될 것 같아요.",
+		"3. 끓는 물에 송선미의 천연육수이야기 육수팩을 넣고 10분후에 불을 꺼주면 되는 간단한 다시팩이에요. 맛도 있고요. 정말 깜놀해서 포스팅해본답니다.",
+		"4. 오늘 콩나물국을 끓였는데요. 따로 냄비에 끓인 육수를 넣구요.",
+		"5. 끓어 오르면 콩나물을 넣어준답니다.",
+		"6. 육수팩이라서 짠맛이 있어 많은 간을 해주시면 안되시구요. 적당한 간으로 소금을 넣어주시구요.",
+		"7. 한번 더 끓어오르면 파를 잘게 썰어서 올려준답니다. 한 번 더 끓어 오르면 불을 꺼시고",
+		"8. 참기름 한방울 툭 떨어뜨려주면 콩나물국 완성 된답니다. 간단하지만 맛있어요.",
+		"9. 이렇게 해서 끓여 나온 콩나물국은 아침에도 저녁에도 괜찮으시구요. 저녁에는 고추가루 넣어주셔도 칼칼한 콩나물 해장국으로도 괜찮으시겠죠?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/addfe6c16224cddc5b0e9e981e19ca6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/fae3cf2ce78b42c9097fa6bf9526562a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/9b3aa920aa61b14ebcce820cc21247731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/5290bce8396379de3a70351645e629471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/3dbf1a4a9cedea406d27c6358b7ad8511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/74bfbaeccbf1af5efff9e51f3aa502fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/ef4f504c75bc597309ffe312ea1385b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/a13c5ff5a08102e59af7a569844f39121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/24/2e274236c2e5e29d005ad959caff57be1.jpg"
+	]
+}

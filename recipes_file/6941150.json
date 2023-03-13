@@ -1,0 +1,97 @@
+{
+	"id": "6941150",
+	"name": "국민 밑반찬 어묵볶음 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/40aecb755fb59286993956369f9cf0d21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941150",
+	"ingredient_ids": [
+		548,
+		3,
+		27,
+		9,
+		233,
+		379,
+		226,
+		224,
+		575,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "330",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 먼저 어묵은 뜨거운 물에 가볍게 데쳐 준비해 주세요.",
+		"2. 그리고 먹기 적당한 크기로 썰어주세요.",
+		"3. 대파, 양파, 당근도 적당한 크기로 채 썰어 주세요.",
+		"4. 양념 재료인 간장 3T, 설탕 1T, 고춧가루 2t를 넣고 잘 섞어주세요.",
+		"5. 팬에 적당량의 기름을 두르고 다진 마늘을 먼저 볶다가 양파, 당근을 넣고 볶아주세요.",
+		"6. 어느 정도 볶아지면 어묵을 넣고 살짝 더 볶아주세요.",
+		"7. 만들어 놨던 양념장을 넣고 볶아주세요. ",
+		"8. 어묵에 양념장이 잘 베이도록 조금 더 볶아주세요.",
+		"9. 마지막으로 대파를 넣고 숨이 죽을 만큼 살짝 더 볶아주세요.",
+		"10. 불을 끄고 올리고당 1T, 참기름 조금을 넣고 섞어주세요. 올리고당을 마지막에 넣고 섞어주면 윤기가 나요! ",
+		"11. 통깨를 솔솔 뿌려주면 완성이 되는 어묵볶음이랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/09194d210a2f308df43ff5eec4cdf4591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/e6b25dd1bb20d1baac55bcdc0c45e77a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/b43bb225bd92554173a62c68d3fac9eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/23b0038f205da9c847e7c3963b36f26b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/f5e91da0db7b51ffca4c13e2875e68d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/95be7f18cdba9af8d506901744ea1d611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/2c34d966c4e350fb0c3a785b2321a2e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/da1a91b99d781bd131307a3d00a6901d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/8d2a2619e61de30eaec4df25a56900171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/d6854abd5333bf9af0c950a5ea775e5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/00bed93c673c7b713c20595871aec3f51.jpg"
+	]
+}

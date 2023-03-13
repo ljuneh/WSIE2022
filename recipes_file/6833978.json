@@ -1,0 +1,96 @@
+{
+	"id": "6833978",
+	"name": "집밥 백선생 아삭아삭 콩나물볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/9a0538a5008e9a59278fa0ffa5fdb0201.jpg",
+	"url": "https://www.10000recipe.com/recipe/6833978",
+	"ingredient_ids": [
+		47,
+		27,
+		473,
+		224,
+		379,
+		226,
+		292,
+		233
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟갈"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		}
+	],
+	"recipe": [
+		"1. 방송에서는 콩나물, 당근, 대파만 사용했었는데 저는 냉동실에 다진야채 얼려놓은거랑 햄 약간 함께 넣어줬답니다~  재료는 기호에따라 준비하시면 될듯해요",
+		"2. 제일 먼저 콩나물을 데칩니다 대충 2-3분정도만 데쳐주세요  콩나물은 찬물로 씻고 체받에 받쳐 물기를 빼줍니다",
+		"3. 양념장도 준비 ! 방송에서는 모든 양념이 1:1 비율이었는데 저는 설탕만 반으로 줄여 사용했어요",
+		"4. 팬에 기름을 두르고 파기름 내기 !",
+		"5. 파향이 고소하게 나면 다진야채와 햄을 넣어 볶아주세요",
+		"6. 양념장도 넣어주고 충분히 볶아줍니다 태우지않도록 조심 !!",
+		"7. 밥을 넣어 잘 비벼준뒤",
+		"8. 마지막에 콩나물을 넣어 섞어주며 마무리",
+		"9. 그릇에 볶음밥을 담고 김가루를 올려주세용 계란후라이도 빼먹으면 안되겠죠?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/3fe58968af13e5a3aa7a31d6b7dfe4951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/92a9114d616b06fea0a38030930afb411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/4cb7890f5e165562d91d109aec73a2ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/8686d73e7d72be11d8ebb3d84663a4c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/6810d5add724cef04a4b142600c895f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/2c933f85063b1e8123feae68d7d5a21a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/be2f97474f23714ab50be4ba5b6257981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/acc65cb9a255fe179ce5d9d6ff853c5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/09/d63a0ef2fcb97acb7cc44decf752d8651.jpg"
+	]
+}

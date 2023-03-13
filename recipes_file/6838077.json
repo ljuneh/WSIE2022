@@ -1,0 +1,51 @@
+{
+	"id": "6838077",
+	"name": "꽈리고추 새우볶음 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/b5a77bc7297b42e9b31f86963a1bfa341.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838077",
+	"ingredient_ids": [
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마른새우",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "부순깨",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 꽈리고추는 꼭지 따고 깨끗이 씻습니다. 가운데를 갈라주세요. 그래야 양념이 잘 베입니다.",
+		"2.  통마늘 편으로 썰어서 준비하시고 마른새우 한줌 준비했어요.",
+		"3. 우선 팬에 기름두르고 편으로 썰은 마늘먼저 노릇하게 살짝 볶은 다음 준비된 꽈리고추 넣고 진간장 5스푼, 올리고당 2스푼 넣습니다.",
+		"4. 그리고 간이 베이도록 볶아주세요. 꽈리고추가 약간 투명해지면 마른새우 넣으시고 한번 볶아준 다음 부순깨 1스푼, 참기름 1스푼 넣습니다.",
+		"5. 그리고 한번더 휘릭 볶아주시면 꽈리고추 새우볶음 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/2fe52a8617d700497286e4367bf5f5461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/20bc839000a66eb3584bc31f050f7e081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/034ba2d16f1cc4f5a3db48c1365450ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/9dafd4d6f45a6c6459b7b804e0b9f9451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/6fd5fce381c5889ce8338182e09314db1.jpg"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"id": "6944389",
+	"name": "간편 레토르트 사골곰탕 국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/bdf5259a4351eb8ca3df9823044d130f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944389",
+	"ingredient_ids": [],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "레토르트사골곰탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "국수",
+			"ingre_count": "1",
+			"ingre_unit": "인분량"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소불고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 사골곰탕 준비해요",
+		"2. 볼에 계란 풀어 주고요",
+		"3. 약불에서 계란 물을 동그랗게  둘러 붓고 바닥면이 익으면 불을 끄고 뒤집어 남은 열로 구워줍니다",
+		"4. 계란을 말아서 채 썰어 준비합니다",
+		"5. 국수 삶아 찬물에 충분히  헹궈 줍니다",
+		"6. 그릇에 국수를 담고 사골곰탕은 끓여서 부어주세요",
+		"7. 준비한 계란 지단을 올려 주세요 볶아 놓은 불고기가 있어 같이 얹어 맛있게~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/ac804fbbc29bdff9538dee81bfb06ff81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/6ba3c93d199f14695b2e769731cbd1cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/ab4ee50e3220e750139db72cadf9faef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/5fd30a8956b7f874ee2da0f5b5e989ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/c4588c45d7fba4aec315ff4e3ddbbd781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/0454bf61448834ea4d01bb3be217ec2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/6f1569c02f32e49b99a51233c540077d1.jpg"
+	]
+}

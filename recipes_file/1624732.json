@@ -1,0 +1,93 @@
+{
+	"id": "1624732",
+	"name": "감자샐러드 모닝빵샌드위치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/e917e821eb0d733b19d964aab7dfee10.jpg",
+	"url": "https://www.10000recipe.com/recipe/1624732",
+	"ingredient_ids": [
+		352,
+		628,
+		158,
+		228,
+		227,
+		497,
+		250
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "모닝빵",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "감자3개(300g)",
+			"ingre_count": "3개(300g)",
+			"ingre_unit": "개(g)"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진피클",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "머스터드소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 감자와 계란을 삶아주세요. 그동안 양파는 찬물에 잠시 담궈서 매운맛을 뺀 후 다지고 햄, 사과, 피클도 다져둡니다.",
+		"2. 자와 계란이 다 익으면 뜨거울 때 소금, 후추 그리고 마요네즈 2T를 먼저 넣고 잘 으깨어 섞어주세요. 잘 섞고난 후 햄, 사과, 양파, 피클을 넣고 나머지 마요네즈 2T와 머스터드소스, 꿀, 레몬즙을 넣고 잘 섞어주세요.",
+		"3. 잘 버무려진 속을 모닝빵 안에 넣으면 끝이에요. 모닝빵은 완전히 자르지말고 2/3 정도만 잘라서 속을 채워야 내용물이 흘러내리지 않아서 먹기에 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/0ac9db82bfc71536b20591b4379305aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/4be1c1ceb9cf4fa9a2f23d9b17fdd17b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/d4fc63867e1dcaeff82d910de5600f511.jpg"
+	]
+}

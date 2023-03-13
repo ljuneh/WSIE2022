@@ -1,0 +1,70 @@
+{
+	"id": "6943464",
+	"name": "초스피드 밑반찬 감자채볶음(채소볶음, 밑반찬)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/fbc5f96fbe1b12989e6a9859db30d50f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943464",
+	"ingredient_ids": [
+		295,
+		497,
+		504
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "감자대자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파대자",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 채소 껍질을 벗겨 씻어서 준비한다.",
+		"2. 감자는 살짝 굵게 채썬다. (칼질이 서툴면 손 조심하고 채칼 이용.)",
+		"3. 전분기를 빼기 위해 감자는 찬물에 5분 담궈둔다.",
+		"4. 고추는 어슷썰고, 양파는 채를 썬다.(아기가 먹는다면 고추는 생략하기!)",
+		"5. 감자를 두세번 찬물에 헹구고 채에 받쳐 물기를 뺀다.",
+		"6. 팬에 식용유를 두르고",
+		"7. 물기 뺀 감자를 넣어준다. (중불에서 볶아주기.)",
+		"8. 감자가 반쯤 익으면 양파를 넣는다.",
+		"9. 양파가 투명해지기 시작하면 소금, 후추를 넣어준다.(간을 강하지 않게 슴슴하게 만들어야 채소맛을 맛있게 느낄 수 있어요.)",
+		"10. 감자가 완전히 익으면 고추를 넣는다.",
+		"11. 고추색이 변하지 않게 센불에서 30초 정도만 볶고 접시에 담아낸다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/8da8ac6b2259cf7db6dcace987572d5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/74fbc79657968eedbc34fe5b4fcfc0a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/98150f0e64790800fc17d80700e5e8511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/cb852e134d3411546e4a402389d5ca691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/6d870e3e802cc8e45bb8e5c561a933481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/44d6ab065e21762d8147f92f01b5c8ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/05b6d8b9ecea6a8d22a663c5725025371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/187c895d339e6b8cdc6d94a27bd80f621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/d2e1c01e5370f53535a37bc425d0a0711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/fb28564a74f0216952c9a55f04c38edd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/ad2283ad6929fb5221e3464d5dc6732e1.jpg"
+	]
+}

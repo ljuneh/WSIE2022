@@ -1,0 +1,102 @@
+{
+	"id": "1723942",
+	"name": "삼겹살 김치찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/0ebf36035b461398257b928199c8a5b8.jpg",
+	"url": "https://www.10000recipe.com/recipe/1723942",
+	"ingredient_ids": [
+		953,
+		27,
+		226,
+		497,
+		343,
+		349,
+		29,
+		660,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김칫국물",
+			"ingre_count": "1",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "다시마육수",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 삼겹살에 소금, 후추, 미림(청주)등을 뿌려 밑간 해두세요.",
+		"2. 압력밥솥에 김치 -> 삼겹살 ->김치 ->삼겹살 순으로 켜켜이 얹습니다. 1컵가량의 육수를 만들어 둡니다.",
+		"3. 켜켜이 쌓은 삼겹살과 김치에 만들어둔 육수를 부어 뚜껑을 덮고 추가 달랑거리면 약불로 줄이시고 10분간 끓여줍니다.",
+		"4. 간을보시고 부족한 부분은 소금으로 마무리 하시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/df3d7b7517ed2cc5f3ffb2f7d24d6b791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/dfdccaa9f720cd3d6de49eef2e8898b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/480db7b2e696b344c9d6965ab4dbef6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/afe0b87a25d4a884612bd46b626d3bee1.jpg"
+	]
+}

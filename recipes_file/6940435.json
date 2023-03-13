@@ -1,0 +1,99 @@
+{
+	"id": "6940435",
+	"name": "닭가슴살로 닭갈비 해먹기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/3929c48eacff663604212c83ba4fca1f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940435",
+	"ingredient_ids": [
+		21,
+		22,
+		3,
+		9,
+		911,
+		224,
+		379,
+		231,
+		327
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살(110g)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "그린스위트",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료준비해주세요 닭가슴살2팩, 양배추, 양파, 피망, 버섯, 당근",
+		"2. 양념장을 만들어주세요 고춧가루2T, 간장1T, 식초2T, 들기름1T, 그린스위트1/2T",
+		"3. 잘 섞어서 준비해주세요",
+		"4. 채소들을 먹기 좋게 손질해주세요",
+		"5. 버섯과 닭가슴살을 제외한 채소들을 양념과 함께 볶아주세요",
+		"6. 숨이 죽으면 버섯과 닭가슴살을 넣어주세요(닭가슴살은 익힌 것을 기준으로 합니다)",
+		"7. 5분~10분 정도 양념이 잘 배이게 푹 익혀주세요 (수분이 너무 없으면 물을 3T정도 넣어주세요)",
+		"8. 깨소금 착착 뿌려주면 완성!",
+		"9. 상추쌈과 찐 양배추를 곁들이면 더 맛있답니다",
+		"10. 아암♡"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/e3c89c75ef373eeae894b5952c7c30741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/26650cae033f8b1061d9eb8f0697583e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/f8533c9ac70eb5c09113efec4a5dd9421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/5308500c07be97329af10dd39f724acb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/4c7fd75295371212ee628ac56f8c04a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/459cdc7924414ac24242f90b4f90bff51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/ee23b8c0cb707a89bb9421a07b72cacc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/473f887e36f8859f12986e50480f4f061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/f521830f45161a7724d95aac4640e9101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/dcaa12615e52a956202ca2068d98771e1.jpg"
+	]
+}

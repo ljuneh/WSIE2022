@@ -1,0 +1,51 @@
+{
+	"id": "6941684",
+	"name": "추석준비 조기준비",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/b7ea1ff53786084e0074ff9a8b3de0371.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941684",
+	"ingredient_ids": [
+		162,
+		371,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "국산조기",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "컬러고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 칼집내고 소금 뿌리는데 5분정도하고 씻어주세요.",
+		"2. 컬러고추, 조기준비요.",
+		"3. 에어프라이기에 18분정도 돌리면 됩니다. 컬러고추가 매우니 조심해야 해요.에어프라이어",
+		"4. 맛있게 드세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/a0c88750b8938a211b83b333d1c4732d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/20b1ae7b7c9d67a0ca286dbaf10a9c5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/d64d44fc6d58b3dab43e5dd25fa15bef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/53dcbb6ae3a538b110f8a2b671bc3f2c1.jpg"
+	]
+}

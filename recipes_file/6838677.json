@@ -1,0 +1,35 @@
+{
+	"id": "6838677",
+	"name": "생강청",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/e4d492116ac8b618252fbe9634673d5a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838677",
+	"ingredient_ids": [
+		28,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 생강은 깨끗하게 껍질을 제거해줍니다.",
+		"2. 생강은 길쭉하고 굵게 채썰어줍니다.",
+		"3. 생강 : 설탕 = 1:1 의 비율로 설탕과 생강을 골고루 섞어줍니다.",
+		"4. 병에 꼭꼭 눌러서 담아주세요. 시간이 지나면 물기가 생기고 생강이 밑으로 내려갑니다. 그런것을 감안해서 꼭꼭 눌러서 담아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/2415ebd21a88b871be0303d9f10f5bb41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/fffbc24d527396cd74b095b88b18d8231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/2c8d4a2a9429d11d95baff34e8f5eb791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/26/132689d805a6b8b28f4f2eea4d03339d1.jpg"
+	]
+}

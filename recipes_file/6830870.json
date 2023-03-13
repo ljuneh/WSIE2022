@@ -1,0 +1,63 @@
+{
+	"id": "6830870",
+	"name": "백종원 만능간장 떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/7c65944c9599e57cad8e9bb313c3aa681.jpg",
+	"url": "https://www.10000recipe.com/recipe/6830870",
+	"ingredient_ids": [
+		972,
+		9,
+		295,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "만능간장1/2국자(50ml)",
+			"ingre_count": "1/2국자(50ml)",
+			"ingre_unit": "국자(ml)"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 당근은 먹기좋게 썰어둡니다.",
+		"2. 홍고추도 어슷썰어둡니다.",
+		"3. 청양고추도 어슷썰어줍니다.",
+		"4. 떡볶이떡은 끓는 물에 말랑하게 익혀서 찬물에 헹궈줍니다.",
+		"5. 떡볶이떡이 잠기도록 물을 붓고 만능간장을 넣어 끓입니다.",
+		"6. 떡이 만능간장과 어우러져 맛있을 때 당근, 양파, 청양고추, 홍고추, 후춧가루를 넣고 한소끔 휘리릭 끓여줍니다.",
+		"7. 국물이 자작해지고 채소가 적당히 익으면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/2ac2c1ef5169ee4aa8e604a4db9a06181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/2a000a7ce3e07fe271b6d8105a35d33c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/ce568ccbf8794d973f78275a9f8dbd5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/489027865b272531f184072fbdbd75091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/f7f41d53ae1ae61f27d6a93fdb94a1d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/fb3513f16bbf89c7d7ad74b123025f5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/31/1ebf23ad9eaec69e88d2c4f23cb097c91.jpg"
+	]
+}

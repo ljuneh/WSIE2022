@@ -1,0 +1,70 @@
+{
+	"id": "6858416",
+	"name": "시원 담백한 콩나물 굴국! (굴 요리)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/12/8ae365c627839fa29db52a09253325a81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6858416",
+	"ingredient_ids": [
+		47,
+		82,
+		19,
+		27,
+		233
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "굴",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "새우젓1큰술(가감)",
+			"ingre_count": "1큰술(가감)",
+			"ingre_unit": "큰술(가감)"
+		},
+		{
+			"ingre_name": "다시마육수5+1/2컵",
+			"ingre_count": "5+1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 콩나물은 깨끗하게 손질한 뒤, 흐르는 물에 씻어 물기를 제거해주세요.",
+		"2. 대파와 청양 홍고추는 쏭쏭 썰어주세요. 굴은 간 무 & 무즙을 이용해 불순물을 제거해주세요.굴을 간무&무즙을 넣고 섞어 불순물을 흡수하면 흐르는 물에 3~4회정도 씻어 물기를 빼주면 돼요. 아님, 옅은 소금물에 흘리듯이 씻어주심 되고요.",
+		"3. 냄비에 다시마 육수를 넣고 팔팔 끓인 뒤, 미리 준비한 콩나물을 넣고 뚜껑을 덮지 않고, 4분여 정도 끓여주세요.",
+		"4. 굴과 다진 마늘을 넣고 끓여주세요. 간은 새우 젓갈로 기호에 맞게 해주세요.",
+		"5. 마지막에 대파와 청양 홍고추를 넣고 한소끔 더 끓여준 뒤, 불을 끄세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/14/d6b68a2072dfc485d438fda7c25bb1471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/14/4489cb74a62725b23a7a5016ff5bad291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/14/f73e841749c86ba53c5f4fecb2f4399d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/14/81a85ac827d3bbe2c4ac2f865f34395c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/14/868ae50c08e7e842ebeef1ace1235bf41.jpg"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"id": "6940305",
+	"name": "명태전 굽기~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/338f9d9a043ac432beb7a94c47ae838e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940305",
+	"ingredient_ids": [
+		351,
+		234,
+		219,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "명태포",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 명태포 1팩 준비합니다",
+		"2. 명태포는 자연 해동시켜 페이퍼타올로 꾹꾹 눌러 수분기를 제거해 줍니다",
+		"3. 볼에 계란 깨 넣고 소금2꼬집  넣어 풀어 주고요 일회용비닐팩에 밀가루 넣어 줍니다",
+		"4. 명태포 밀가루 옷 입혀주고",
+		"5. 계란물 적셔",
+		"6. 약불로 달군 팬에 기름을 넉넉히 두른 후 하나씩 올려 줍니다",
+		"7. 앞,뒤 노릇노릇 구워 접시에 담아 냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/2a3faf805b2f74310338dbc2d8b417281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/eb90a39893576216e1d7c720b74f6d231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/ec5e044a3b8743b763d3e3664bd647da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/121a920a15bcf91d646ff01753bfa2b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/38cf532818ae0ae861ab462ecd9e80871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/57a4b157df75278b3e89b03cc7235b121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/181708785efed7ae6030821f1c19bc0e1.jpg"
+	]
+}

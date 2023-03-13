@@ -1,0 +1,88 @@
+{
+	"id": "6944367",
+	"name": "김수미 오이소박이 레시피 아삭아삭한 비결",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/17d2a8550c5488e18b7bb71d1a50e8c71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944367",
+	"ingredient_ids": [
+		8,
+		282,
+		30,
+		333,
+		276,
+		226,
+		233,
+		282,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진새우젓",
+			"ingre_count": "2/3",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "고운고춧가루",
+			"ingre_count": "7",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "300",
+			"ingre_unit": "cc"
+		}
+	],
+	"recipe": [
+		"1. 오이는 양끝부분 잘라내고 2~3토막으로 자르고 각각 십자가로 칼집을 넣어요.                      ",
+		"2. 물에 굵은소금 조금 넣고 팔팔 끓여서 오이를 살짝 데쳐주세요. 너무 오래 데치면 안되요~ 5초정도만 담갔다가 바로 건져서 찬물에 헹궈서 식혀요~                   ",
+		"3. 굵은소금 슬슬~~ 뿌려서 오이에 골고루 잘 문질러서 절여두세요.",
+		"4. 김치양념 만들기 부추 2cm 길이로 썰어주세요                   ",
+		"5. 고운고춧가루 7큰술, 설탕 2작은술, 액젓2큰술 넣었구요. 국물이 많이 없어새우젓은 곱게 다져서 2/3큰술 정도, 다진마늘도 1큰술 넣어주고요. 생강은 없어서 생략~ 부추소 완성                           ",
+		"6. 절인 오이는 칼집 사이에 부추소를 넣어주고~ 겉에도 양념을 골고루 잘 발라서 김치통에 차곡차곡 넣어주세요.                   ",
+		"7. 양념한 그릇에 물 300cc넣고~ 굵은소금 1/3큰술 넣고 녹인후 김치통에 얌전히~~~부어주세요. 저는 마지막에 통깨 좀 뿌려주었어요.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/01e92907232295442e15a5be0447691e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/d1b43e4f0452d6a084d9c4a24f8458001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/ee4c2ac537c4b61657a3f97b28a2779f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/d86cb654e65b601945788cfd235ee40c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/1b8fde32638b133e440dd10ad588909c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/bcb00684459c05dbcf4920d2d6c4c36a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/ecbd3a707ee148aee33205ac955a9cd81.jpg"
+	]
+}

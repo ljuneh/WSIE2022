@@ -1,0 +1,75 @@
+{
+	"id": "6945500",
+	"name": "호밀 캄파뉴",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/0bc0685e5fed8bd4ee627af3759b4faf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945500",
+	"ingredient_ids": [
+		106,
+		567,
+		995,
+		497
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "175",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호밀",
+			"ingre_count": "75",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "인스턴트드라이이스트",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "몰트액기스",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "170",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 제빵기로 만들었어요. 제빵기 내솥에 물을 넣고 소금과 몰트액기스를 넣은 후 그 위에 강력분과 호밀을 넣고 맨 위에 인스턴트 이스트를 넣어주세요.  몰트 액기스가 없다면 메이플 시럽 7 g 으로 대체 가능합니다.",
+		"2. 반죽코스로 반죽을 합니다. 반죽코스 한번을 다 돌리기엔 호밀빵에겐 반죽시간이 좀 길어요. 반죽 코스를 시작한 후 끝마치기 5분 정도 남겨두고 반죽을 완료합니다.",
+		"3. 완성된 반죽은 잘 둥글려 따뜻한 곳에서 1차 발효를 합니다.",
+		"4. 2~2.5배 정도 부풀면 1차 발효 완료. 28~30도에서 50분 정도 걸렸어요.",
+		"5. 1차 발효가 완료된 반죽은 가스를 빼고 잘 둥글려 중간발효를 합니다. 실온 온도에서 10~15분 정도 해줍니다.",
+		"6. 중간 발효가 완료되면 밀대로 타원형으로 밀어편 뒤..",
+		"7. 위에서 부터 차근히 말아 원루프형으로 성형해주세요.",
+		"8. 맨 마지막 부분은 잘 꼬집어 성형을 마무리해주세요.",
+		"9. 원루프 형으로 잘 성형된 반죽은..",
+		"10. 반느통에 넣고 2차 발효를 합니다.",
+		"11. 2배 정도 부풀면 발효 완료에요. 30도 내외에서 30~35분 정도 걸렸어요.",
+		"12. 2차 발효가 완료된 반죽은 테프론 시트에 옮겨 물을 뿌린 후 밀가루를 체쳐 올린 후 칼금을 넣어줍니다.",
+		"13. 무쇠팬과 스텐볼을 230도로 오븐과 같이 예열한 후 무쇠팬에 반죽을 올려 스텐볼을 덮고 15분 정도 구워줍니다. 시간이 되면 스텐볼을 열고 200도로 내려 10~15분 정도 구워줍니다. 완성된 빵은 식힘망에서 식히면 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/5c7cdebd97ac21b94c5c7d8f593cd3c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/0e46d5f42e4b7031473982d1e35b40391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/2920e4303c9a5935a549d79f678d6fec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/9ad4bba26e646c2f777aee80b9db83481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/6909e468f668e3e0ae982aa36560008f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/7c59bfdac7c64af326ab24e5cd2c445b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/9342195845065f7af451c102fc32281c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/8c12a193fec8877544baf917c1d15e831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/172c349c2d70d43fa9ec2edef8737e551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/9ee5220ac3cb6f9048394f98933476681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/a68787daa3967a08466e9257ae8079681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/87718806f4a3b31d063ba422e87f11f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/c4f76022f4bdb13f4681c94c0e4f26ae1.jpg"
+	]
+}

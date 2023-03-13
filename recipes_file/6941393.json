@@ -1,0 +1,74 @@
+{
+	"id": "6941393",
+	"name": "모듬채소부침개:물없이 밀가루없이 달걀도 없이(코로나극복 다이어트부침개)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/29629b0ce42e9c890e9de423a059466e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941393",
+	"ingredient_ids": [
+		18,
+		5,
+		30,
+		7,
+		383,
+		497,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "감자전분",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "표고가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 모든 채소는 가늘게 채썰거나 짧게 자르고 볼에 담는다 채소는 냉장고 사정껏 무엇을 넣어도 상관없어요",
+		"2. 감자전분을 넣는다. 감자전분은 재료를 코팅할 정도만 넣어주세요.",
+		"3. 소금,표고가루 등을 넣고 골고루 잘 섞는다. 소금 대신 간장간을 해도 좋고 표고가루는 생략해도 무방, 마늘가루나 다진마늘을 넣어주어도 좋아요.",
+		"4. 팬에 식용유를 두르고 기름온도가 올라가면 부침개반죽을 떠넣고 고르게 펴준다.",
+		"5. 뒤집어 노릇노릇하게 부친다. 뒤집을 때도 식용유를 조금 추가해주세요. 감자전분으로 반죽하면 밀가루반죽보다 식용유가 덜 들어가는 편이에요.(이또한 다이어트에 효과적)",
+		"6. 장아찌간장이랑 곁들여 낸다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/8d34c1f3a40e501e55442e80c25b60351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/b525553a05328c3624d561b55d5acc3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/8e85e6e1dae16cbcdff5b7ad8ed8aa9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/614d6c552c2a095149b08ae6026f54f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/3d0b551f48e82bbceb2bf29b03a94cdc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/5918ecff8ac10564e8a1bcf9da05d2471.jpg"
+	]
+}

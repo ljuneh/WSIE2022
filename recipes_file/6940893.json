@@ -1,0 +1,79 @@
+{
+	"id": "6940893",
+	"name": "no식용유 두부부추볶음:두부로 만든 리조또!?!(다이어트식)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/46d69117d6818b69984622bd16f119ff1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940893",
+	"ingredient_ids": [
+		323,
+		219,
+		3,
+		5,
+		497,
+		660,
+		543
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "표고가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 물 뺀두부는 볼에 넣어 으깬다.",
+		"2. 부추와 양파는 썰어넣는다",
+		"3. 달걀과 소금, 후추, 표고가루(선택)를 넣는다.",
+		"4. 재료를 한데 섞는다",
+		"5. 식용유를 두르지 않은 마른팬에서 반죽을 넣어 충분히 양파가 익을 때 까지 볶는다",
+		"6. 두부부추볶음을 그릇에 담고 참(들)기름과 통깨를 뿌린다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/0044eed787c4bb698b5106d6d9dcafe41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/1ed8400758efb0735a1ec42a5275b3f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/9fbc5ac02493c13b44c566114309e1751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/ed9cdfe1db0a65f2b4a9234e16d5b23e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/f436f3f73058dcd1b3c3fec45400ab141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/c1edfa1818b9543867605263ed923e0b1.jpg"
+	]
+}

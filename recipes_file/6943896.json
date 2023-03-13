@@ -1,0 +1,65 @@
+{
+	"id": "6943896",
+	"name": "냉파 요리/후식용 요리/ 송편강정",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/bcdecc23da51c016764ddc6dff0640291.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943896",
+	"ingredient_ids": [
+		327,
+		194,
+		227,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "송편",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "견과류:잣",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 냉동실에 있는 추석에 먹고 남은 송편 10개를 해동 시켜준다. 강화도 쑥으로 만든 송편이라고 친구가 준 귀한 송편이다.",
+		"2. 팬에 들기름 1T를 넣고 약한 불에서 송편을 구워준다.",
+		"3. 집에 있는 잣 1T정도와 호두 1T정도를 잘게 다져 주었다.  씹히는 식감을 위해서 분쇄기에  갈지 않고 칼로 다져 준 것이다.",
+		"4. 떡이 익었으면 꿀 1T를 넣고 먼저 코팅을 시켜 준 뒤에,",
+		"5. 올리고당 1T를 넣어 단맛을  더해준다.",
+		"6. 팬을 흔들어서 골고루 단맛을  입혀 주었다,",
+		"7. 접시에 꿀 먹은 송편을 올려주고 견과류를 올려준다.",
+		"8. 쫀득하고 단맛이 입안에서  착 달라붙는 맛이다. 맛있어~~~. *^^*"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/3db5d440e994d067922c42c90b53b6801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/a4e9cb1c849678a0070237a179b24b7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/a46c21a39c52541f6735b45fc9c520af1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/ec19560336b3952e9747b5649388857b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/d0619c8e546906556e2608e8bc166a8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/f7229fef3014362a70d66eb19cd05ef81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/bb127c829dbc2de3ba7a1dff4d055a771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/950f528aaf94dd40daea99d403c9fcb81.png"
+	]
+}

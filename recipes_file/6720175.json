@@ -1,0 +1,79 @@
+{
+	"id": "6720175",
+	"name": "순두부 버섯들깨탕 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/21/fbfe9f1c29cbaa1f936925f313aabc3d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6720175",
+	"ingredient_ids": [
+		53,
+		58,
+		3,
+		27,
+		295,
+		337,
+		667,
+		1015
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 멸치, 다시마, 무를 넣고 육수를 넉넉하게 만들어 주세요.",
+		"2. 버섯은 먹기 좋은 크기로 잘라 주세요.",
+		"3. 양파는 가늘게 채 썰고 대파와 청양고추는 어슷 썰어 주세요.",
+		"4. 들깨가루와 찹쌀가루를 준비해 주세요. 순두부 버섯들깨탕은 살짝 농도가 있어야 맛있기 때문에 찹쌀가루를 넣어 주었습니다. 좀 더 묵직한 농도를 원하시면 한 큰 술 더 넣으셔도 됩니다.",
+		"5. 멸치, 다시마 육수에 찹쌀가루를 넣고 잘 풀어 주세요.",
+		"6. 육수가 끓어 오르면 순두부, 표고버섯, 새송이버섯, 양파, 청양고추를 넣고 끓여 주세요.",
+		"7. 국물이 어느 정도 우러났으면 들깨가루를 넣고 끓여 주세요. 간은 소금으로 해 주세요.",
+		"8. 마지막으로 대파를 넣고 후루룩 끓으면 뚝배기 등에 담아 상에 내 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/12/750612909c0c841ee0ea4b95192c24a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/12/58f9d474a29f568d3ffd142759268d4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/12/0313d7cb5670297b96ca2da5f90cb79b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/12/75ee617146d6c53a740f6ce43144ee601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/12/d7b268e70f0e10811df297a4cdb6e0651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/12/cc09efdd3ccd7076611efdbbe2b808ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/12/e00c89c4277fdc21c241249c8f1b5f771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/12/acf9034e8b1868353f75a2cfedb473161.jpg"
+	]
+}

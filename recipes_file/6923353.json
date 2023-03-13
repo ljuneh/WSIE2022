@@ -1,0 +1,82 @@
+{
+	"id": "6923353",
+	"name": "꼬마김밥 누구나 좋아하는 꼬마김밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/3da561cd088ab3027bf82026b5292eae1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6923353",
+	"ingredient_ids": [
+		95,
+		350,
+		660,
+		496,
+		497,
+		9
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "김",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "시금치나물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 밥은 평상시보다 조금 꼬들고들 하게 해줍니다",
+		"2. 계란 3개를 잘 풀어서 소금 한 꼬집 넣고 잘 섞어 놓았어요",
+		"3. 팬에 기름을 두른 다음 키친타월로 닦아주고 계란물을 부어준 다음  뒤집어서 한 번 더 익혀줍니다 단무지와 계란지단은 같은 크기로 썰어줍니다",
+		"4. 당근은 채 썰어서 소금 한 꼬집 넣고 살살 볶아줍니다",
+		"5. 김은 4등분 해줍니다 단무지와 계란지단이 꼬마김밥 말기 딱 좋은 크기더라고요",
+		"6. 김을 거칠한 면을 위로 놓고 밥을 펼쳐줍니다 밥 위에 단무지 시금치 당근 계란을 올려준 다음 말아줍니다",
+		"7. 말면서 들고 먹으면서 말았어요 전 부칠 때나 김밥 쌀 때는 먹어가면서 말아야 제맛이지요",
+		"8. 꼬마김밥은 말아서 썰지 않고 손으로 들고 먹어야 제맛이랍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/51c2c4f9d4df6aa24c3ef358a34a5c7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/954d107f262a91747e3fafc7343e929e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/0955f9dd24217cdc9788eb0754dfd0b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/46ac90a4d965e75be0ac71a68e6e7b611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/ae6661e7b06e2d066fd760b87799c94d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/f167a5e4d63d01490e1397c499e36bdc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/2d5f164179224c8781d1dc065de792ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/11/7c9027bdfc910ce3e9a082738c1402f51.jpg"
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"id": "385717",
+	"name": "15분만에 뚝딱! 오븐에 굽는 웨지감자.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/bac9ccebdef52613c0cf2d0ae8feba2d.jpg",
+	"url": "https://www.10000recipe.com/recipe/385717",
+	"ingredient_ids": [
+		497,
+		225,
+		233,
+		895
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "감자중간것",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유(or카놀라유)",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "사워크림",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "살사소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "치즈소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 감자를 깨끗하게 씻어 물기를 털고 반달모양으로 잘라서 준비 하세요.",
+		"2. 큰볼에 카놀라유, 다진마늘, 파슬리가루, 후춧가루, 소금들을 넣고 고루 섞어 주세요.",
+		"3. 요기에 잘라놓은 감자를 넣고 마구 버무려 주세요.",
+		"4. 오븐팬에 팬닝후 210도로 예열된 오븐에 15~20분 정도 구워 주세요. 각자 오븐의 온도에 맞게 조절 하시면 되요. 감자가 익을 정도로만.오븐",
+		"5. 노릇노릇 익어가는 웨지감자. 굽는 내내 마늘을 넣어서 향이 더 좋아요.",
+		"6. 단 15분만에 맛있는 웨지감자구이 완성. 사워크림, 살사소스, 케첩을 곁들여서 먹어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/940c84f09b35bffd96ccfb213f7d8c6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/9747f5d703ea7b520418205f3b3835b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/4cce4363c2f562a7e5e50c11bdbadd671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/eb28e72ed2b2d20b5e508310a49101ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/1d08320edabafdf88274e5e1293789511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/28/5e6b1647c7ac9bd8f81a0ff11195c77c1.jpg"
+	]
+}

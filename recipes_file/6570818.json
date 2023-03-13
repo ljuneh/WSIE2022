@@ -1,0 +1,39 @@
+{
+	"id": "6570818",
+	"name": "초장 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/99ca1e468967e6a5572b4700a24b0a0a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6570818",
+	"ingredient_ids": [
+		473,
+		231,
+		226
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 고추장 2숟가락, 식초 2숟가락, 설탕 2숟가락넣고 휘저으시면 돼요.",
+		"2. 쪼끔씩 맛을 봐 가면서 이게 부족해... 이런 재료를 조금씩 더 넣으면 돼요.",
+		"3. 시큼한 맛이 좋다면 식초 더 넣으시고요 ~ 그런 식으로 맞춰 가면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/4eb86b265f480ad653ad93dc9df8be011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/20e5f4ff0017aaebae8d5fb1c98a9ce91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/0d184b5f85ff9f14d77b679ff1b4346e1.jpg"
+	]
+}

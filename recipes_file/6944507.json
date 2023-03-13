@@ -1,0 +1,98 @@
+{
+	"id": "6944507",
+	"name": "직접 손질해서 삶기까지 야들야들 맛있는 돼지고기내장수육",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/035a1f69b0fddcd4a0e192655a2fea021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944507",
+	"ingredient_ids": [
+		995,
+		579,
+		304,
+		857,
+		29,
+		848,
+		497,
+		390
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "오소리감투",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "돼지곱창",
+			"ingre_count": "2",
+			"ingre_unit": "Kg"
+		},
+		{
+			"ingre_name": "허파",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맥주",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파뿌리",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "15",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 돼지고기내장을 손질 합니다",
+		"2. 다시망을 만듭니다",
+		"3. 물을 끓인후 물이 끓으면 다시망 내장을 넣습니다",
+		"4. 내장이 끓기 시작하면 된장 맥주를 넣고 익힙니다",
+		"5. 다 익은 내장은 썰어 접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/b3c886b5fb680d1732fbcacc4898e4ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/1233f8746cf076b9b19daca2899b4cec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/48950464663e96bfbe7e1ffb1ae38e851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/314589912e52ce99d34aed278d783d971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/7c355da6d77c225fcca5a15151bf0f501.jpg"
+	]
+}

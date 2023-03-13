@@ -1,0 +1,78 @@
+{
+	"id": "6865089",
+	"name": "따끈한 메생이 굴국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/05/2e9da15351878167cae1e1d9b444bc971.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865089",
+	"ingredient_ids": [
+		82,
+		362,
+		665,
+		333,
+		27,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "메생이",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "굴",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "쌀뜬물",
+			"ingre_count": "1.",
+			"ingre_unit": ".리터"
+		},
+		{
+			"ingre_name": "디포리",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "파뿌리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 메생이을 씻어서 체반에 받쳐 물기를 빼줍니다.",
+		"2. 쌀뜬물에 디포리을 넣고 파뿌리도 넣고,끓여 육수을 내줍니다.",
+		"3. 굴은 깨끗이 씻어 건져놓고",
+		"4. 대파는 송송 썰어 놓습니다.",
+		"5. 육수가 끓으면 메생이를 넣고 끓이다가 굴을 넣고, 멸치액젓과 참치액을 넣고 간을 보시고 끓입니다.",
+		"6. 썰어둔 대파도 마늘도 넣고 한번더 끓입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/05/98d4a59e9a0db9fa1e6bcdecf7278dc21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/05/1914312eb519a0454685c5c9e080b4211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/05/189cd25f730d18eb3da6604c2741e93b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/05/4ecd6327f0531772492353927d9ad8f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/05/c07f2d1c0b1f28f26c7b8397d3f0779a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/05/9bec08e41b77e433b2702be72508d45a1.jpg"
+	]
+}

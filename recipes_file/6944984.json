@@ -1,0 +1,69 @@
+{
+	"id": "6944984",
+	"name": "보쌈, 수육",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/860da62c678744cd32341de8c4206eb51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944984",
+	"ingredient_ids": [
+		29,
+		848
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기뒷다리살",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "배추머리",
+			"ingre_count": "2~3개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "파뿌리",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "귤껍질",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파껍질",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘장아찌국물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 비계 없이 살만 있어도 따뜻하게 바로 먹으니까 부드럽고 맛있어요",
+		"2. 뒷다리살 말 그대로 살만 있네요 물에 한번 씻어서 넣고",
+		"3. 냉동실에 평소 모아둔 배추 머리, 파뿌리, 귤 껍질 (겉껍질 제거하고 흰 껍질), 양파 껍질을 넣어 주세요",
+		"4. 고기가 물에 잠길 정도로 물을 넣고 된장 2T 를 넣고 된장을 수저로 풀어 주세요",
+		"5. 물이 끓기 시작하면 양파 껍질을 넣고 골고루 섞어주세요 중간에 고기 덩어리를 위아래로 바꿔 주세요 이때 양파 껍질을 건져주세요 고기색이 붉어 집니다 장아찌 마늘 6개와 마늘국물 3T 를 이때 넣어 주세요",
+		"6. 수육 물이 2/3로 줄어들면 불을 끕니다 뜨거울때 썰어서 김치와 같이 먹어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/410535720ca53a81df12b69e12e482571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/1ea58be4146b01312dff1114e18a8b7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/a6806d0a8937c68473bdad7ff6c3daa91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/7d69f218629605913b213f68490121f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/4a4d4b5dbb8632818c28e90da0dd774e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/917c3c05404db02a92d941992d40bc4b1.jpg"
+	]
+}

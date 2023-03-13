@@ -1,0 +1,89 @@
+{
+	"id": "6941914",
+	"name": "스페인요리 감바스알아히요 ! 업그레이드버전! 누룽지감바스 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/25ad4940149bf5ee2f7d8678816e00e81.png",
+	"url": "https://www.10000recipe.com/recipe/6941914",
+	"ingredient_ids": [
+		574,
+		29,
+		497,
+		79,
+		785,
+		386
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "7",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "페페론치노",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "누룽지",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "바질가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "바게트",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 새우는 물기 제거 후 소금, 후추 간을 한다.",
+		"2. 마늘은 편 썬다.",
+		"3. 팬에 올리브유와 마늘을 넣는다.                     \r                             닥터하우스 트윙클 스토브 (크림)                          ",
+		"4. 페페론치노와 바질가루를 넣는다.",
+		"5. 소금 후추 간을 해준다.",
+		"6. 잘게 부순 누룽지를 넣는다.                     \r                             누룽지                          ",
+		"7. 새우를 넣고 익힌다.",
+		"8. 파슬리가루로 마무리 한다.",
+		"9. 바게트 위에 누룽지감바스를 올려 먹는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/5ec5b9268ddf84e8dcff58ebacc9000e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/5605976d21148a5a2871f06981cb9d831.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/c73e7f99b4d2d5df9c895ab6a49f27dc1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/dd1d22f47b6deb51c363cf088840d18a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/cf598020bd5a11ba3d0b38da197bf4bb1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/6f5811aac585a99528902b96502076271.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/e4299f80b8ff6e80cb9f36afff3c47e91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/77e224fe0c1bdfa73624949295ac884a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/261b9613f7bc7a2d0c3c041643aaba831.png"
+	]
+}

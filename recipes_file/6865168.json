@@ -1,0 +1,81 @@
+{
+	"id": "6865168",
+	"name": "탕수육소스 만드는법 새콤달콤 부먹으로",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/fb9b3e8901528414f947198674625b6a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865168",
+	"ingredient_ids": [
+		9,
+		8,
+		57,
+		108,
+		379,
+		231,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "시판탕수육",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "목이버섯",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "완두콩",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파1개물",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "45",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "7",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 탕수육은 직접 돼지고기 등심을 사다가 튀김옷을 입혀 튀겨서 만드셔도 되요. 저는 시판용 사다가 에어프라이어에 공기로 튀겨 주었어요. 기름 튀기는 일도 없이 엄청 편하긴 하더라구요~^^",
+		"2. 목이버섯은 미지근한 물에 담궈 불려 줍니다. 그럼 금방 불어 올라요.",
+		"3. 양파와 당근은 먹기 좋은 한입 크기로 썰어 주시고, 오이는 반을 갈라 어슷 썰어 주시고, 목이버섯은 물기를 제거하고 한입 크기로 뜯어 줍니다. 완두콩은 체에 받쳐 물기를 빼 줍니다.",
+		"4. 냄비에 분량의 물을 붓고 끓으면 간장을 넣고 끓이다가 식초와 설탕을 섞은 물을 부어 끓여 줍니다.",
+		"5. 썰어 놓은 야채와 완두콩을 넣어 끓여 줍니다. 녹말가루 2큰술에 물을 개어 가면서 농도를 맞추어 녹말물을 부어 줍니다. 부르르 끓이면 걸쭉한 소스가 완성 된답니다.",
+		"6. 소스를 만드는 사이에 에어프라이어에 고기튀김을 넣고 180도에서 약 15분정도 공기로 튀겨 줍니다.  중간에 한번 프라이어 손잡이를 잡고 흔들어 주었어요. 기름없이 튀기니 담백해서 너무 좋더라구요.에어프라이어",
+		"7. 노릇하게 튀겨 진 튀김을 접시에 담고 소스를 부어 주면 되는 탕수육 이랍니다. 이렇게 부먹으로 드셔도 되고, 소스를 찍어 먹는 찍먹으로 드셔도 좋답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/5289af51b410c7886b8799a5f4f8123d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/c5f5817f64da75614b8f47c2a809ff511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/1aef089971adad80a6b007ba4f10234b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/77b60de1cf30f411568a59fc850773951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/bc2f6fa4086df938ff9547735cf2914d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/5d721cbc690248cc2360667d33e1207f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/14/06aa249a4be2eb82ebb964c9d84463ab1.jpg"
+	]
+}

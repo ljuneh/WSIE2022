@@ -1,0 +1,131 @@
+{
+	"id": "6873085",
+	"name": "김치당면덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/ec39d10207ea5b0f412c0c9052eada051.jpg",
+	"url": "https://www.10000recipe.com/recipe/6873085",
+	"ingredient_ids": [
+		953,
+		302,
+		3,
+		58,
+		295,
+		27,
+		198,
+		226,
+		379,
+		543,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "베이컨이나돼지고기안심",
+			"ingre_count": "160",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "400",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "4",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "200",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근6cm길이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장2큰술듬뿍",
+			"ingre_count": "2",
+			"ingre_unit": "큰술 듬뿍"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 당면은 찬물에 미리 담가 불린다. 30~1시간정도",
+		"2. 양파는 반갈라 채썰고,당근은 6CM길이로 채썰고 새송이 버섯도 당근 길이만큼 잘라 채썬다. 고추와 파는 어슷썰어 준비한다.",
+		"3. 베이컨과 김치는 1~2CM폭으로 썰어 준비한다.",
+		"4. 팬에 버터를 녹이고 베이컨을 넣어 볶는다.",
+		"5. 베이컨이 노릇하게 익어가면 김치를 넣고 달달 볶다가",
+		"6. 양파,당근,버섯을 넣고 볶는다.",
+		"7. 재료가 잘 어우러지며 볶아지면 고추장,설탕,간장을 넣어 볶는다.",
+		"8. 간이 베어들며 볶아지면 불린 당면과 고추,대파를 넣고  재빨리 볶아낸다.너무 오래볶지 마세요 당면이 수분을 흡수해 뻑뻑해질수 있어요. 촉촉함이 너무 없으면 물을 살짝 넣어 주세요",
+		"9. 통깨,후추,마지막으로 참기름을 넣어 맛을 낸다.",
+		"10. 그릇에 밥을 담고 볶은 김치당면을 얹어준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/e0c38af66ab755fe0226aca5936fa09c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/5f167c75d71cef1140d9d70c85de23141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/9b58c2743df2438f931ac3caccaad50f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/ac89709acc672dc0ac99fbc1e675aa671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/a4dab6f5d513f0e86d28620e334ec42a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/f3d00e582a2ef5a4177cbcda26baec401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/d99e773c934102267a12ff13904f46531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/cd70286ec8900db7de872fb63e3795d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/b5af369f3c2941ea248e1624ebb9dd061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/5f8f83511cc5c16f8f7721f01fa984bc1.jpg"
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"id": "6945623",
+	"name": "불 맛 가득 해물 볶음밥 만드는 방법 해물 볶음밥 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/3f4a7db0225a3e4c5c28e55cdde82ae61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945623",
+	"ingredient_ids": [
+		233,
+		1027,
+		3,
+		226,
+		379,
+		477,
+		702
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "해물믹스",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 프라이팬에 식용유를 넉넉히 둘러주신 다음에 파와 다진 마늘을 넣고 볶아주세요강불",
+		"2. 양파를 넣고 볶아주세요",
+		"3. 양파가 투명 빛으로 변하기 시작하면 해물믹스를 넣고 볶아주세요해물믹스는 후추로 간을 해주신 다음에 넣어주셔도 좋으며 반드시 물기를 제거한 상태에서 넣어주세요 또한 저처럼 화력이 약하신 분들께서는 물이 생기지 않도록 하기 위해 해물믹스를 조금씩 나누어 넣어주시는 것을 추천해드립니다",
+		"4. 밥을 넣고 밥을 풀어주시면서 재료와 같이 골고루 볶아주세요",
+		"5. 설탕과 굴소스, 간장을 넣고 볶아주세요",
+		"6. 성된 해물 볶음밥은 예쁘게 플레이팅 해주시고 위에 후추와 파슬리를 뿌려주어 마무리해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/5d7a968d9d25f8760d0b5a425fbcd2111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/d9bd430e28bda52a0c9db15601b0c8461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/956451e73fde4878f029296c68384c171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/6dbd06371b6f525233824920283425f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/ddee39645eb09e802a5642095ff49f871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/64caca5f6c716542860823c8d2e8ceb31.jpg"
+	]
+}

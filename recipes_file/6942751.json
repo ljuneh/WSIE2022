@@ -1,0 +1,51 @@
+{
+	"id": "6942751",
+	"name": "백파더, 남편 간식! 추억의 라면땅 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/1caecd1613366d2eca8930f23548156c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942751",
+	"ingredient_ids": [
+		441,
+		228,
+		226
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "수프",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 라면, 스프, 마요네즈, 설탕을 준비한다.",
+		"2. ㉡ 마요네즈를 라면에 발라준 후 설탕, 스프, 파슬리가루를 뿌려준다.                         ",
+		"3. ㉢ 전자레인지에 1분 30초, 뒤집어 1분 30초 돌려준다.전자레인지                   ",
+		"4. ㉣ 먹기 좋게 잘게 조각을 내 준다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/529ec70b57591f82bc11b15c674f13531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/715aea919379bf093830f06f52f808781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/3374643a0d32fabca3a065160c2509231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/3a9f4cdbd6227d7272e239f2768803081.jpg"
+	]
+}

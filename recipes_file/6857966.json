@@ -1,0 +1,75 @@
+{
+	"id": "6857966",
+	"name": "전복내장죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/06/6e321e1e89425f808879df4fe94d72e71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6857966",
+	"ingredient_ids": [
+		330,
+		99,
+		660,
+		497,
+		95,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "라면전복",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "내장",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "멥쌀",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 전복 껍데기에서 전복을 분리한후 내장은 안 터지도록 분리해주세요. 라면전복이라 사이즈가 작죠!!~",
+		"2. 전복은 먹기 편한 사이즈로 썰어주시고 내장은 믹서기에 갈아주세요",
+		"3. 전복은 팬에 참기름을 두른후 볶아주세요",
+		"4. 전복을 볶은 다음 미리 불려 놓은 멥쌀,찹쌀을 넣고 볶아주세요전 멥쌀,찹쌀 1:1 비율로 했지만 쌀 비율이나 종류는 상관없습니다 ",
+		"5. 냄비에 볶은 전복과 쌀을 넣고 물을 붓고 끓여주세요",
+		"6. 믹서기에 갈아놓은 내장을 붓고 중불에서 끓여주세요",
+		"7. 냄비에 눌러 붙지 않도록 저어가면서 끓여주세요 죽이 어느정도 완성단계 될때 소금 간해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/06/cdfbeeadf84b98f8b0c0163dbc9392741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/06/d7afe2b2be5aac1172ca23b1723b84fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/06/88e480e2f3d2c19a6b2955cf7afd9e1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/06/140be08a23183a68893561914b45b1551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/06/739005acad65ac3ae4703057618a58b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/06/8066df9291ca4cca6db749d59f34f9e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/06/286095544b79dcc34791e615bf2427bd1.jpg"
+	]
+}

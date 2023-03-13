@@ -1,0 +1,64 @@
+{
+	"id": "6942689",
+	"name": "집콕생활 간단한 요리 참치비빔밥으로 코로나극복",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/fe0b0602708712a3f0d5218eaca9507e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942689",
+	"ingredient_ids": [
+		16,
+		20,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추믹스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새싹",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "상추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "",
+			"ingre_unit": "약간씩"
+		},
+		{
+			"ingre_name": "반숙후라이용계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "150g참치캔",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "시판용볶음고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 각종 채소는 식초를 2큰술 섞은 물에 넣었다가 흐르는 물에 헹궈 준비해요. (양배추믹스, 새싹, 상추, 미나리)",
+		"2. 그릇에 밥을 담고 그 위에 채소를 둘러 담고 가운데 참치를 올려요. 시판용 볶음고추장을 크게 한술 올리고 참기름을 둘러요.참치는 기름기를 적당히 머금도록 젓가락으로 집어 올려요.",
+		"3. 계란후라이를 반숙으로 만들어 올리고 파슬리 가루로 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/0fa61da5e11c93f5e3dfd16eb0f84d421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/50e6db84d3f4a2c8d4a932f2c81ac0571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/ca6a9e5ce8c910840de5fbdd5d615c851.jpg"
+	]
+}

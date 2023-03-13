@@ -1,0 +1,42 @@
+{
+	"id": "6944071",
+	"name": "고구마무스, 고구마잼 만들기, 다양하게 응용 가능!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/998483270aa7a768c2acf6c695e498ee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944071",
+	"ingredient_ids": [
+		4,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 먼저 고구마는 푹 삶아서 준비해주세요. 저는 고구마 세개를 사용했는데 이렇게 하면 정확히 300g이더라구요. 이만큼만 이용해서 만들었는데도 양이 제법 충분했어요.",
+		"2. 고구마와 우유 그리고 설탕을 믹서에 넣어서 한번에 갈아줄거에요. 고구마가 워낙 되직해서 잘 안갈릴수도 있는데 중간중간 끊어서 갈아주니깐 다 갈렸어용",
+		"3. 갈아놓은 고구마와 우유는 채에 한번 걸러서 냄비로 옮겨주세요.",
+		"4. 잼과 같은 종류는 불에 올려놨을 때 처음부터 끝까지 주걱으로 잘 저어주셔야해요.약불",
+		"5. 다 만들어진 고구마무스는 밀폐용기에 넣어서 냉장보관하시면 되어요~~!! 일반 잼에 비해서 설탕도 많이 안들어갔기에 최대한 빨리 드시는 걸 추천드려요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1c4322de5e6a3f20d914fc0b3a20213d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/090632eca40c02627d7e7e8b35400b7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/87ddad59a3c2e2899685eaca2519cdd01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1ec9637d625f4ee5c34a1cefc80ca1681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/cc96b5ceec9809fb7a53654cecb9f31a1.jpg"
+	]
+}

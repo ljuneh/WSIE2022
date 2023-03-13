@@ -1,0 +1,58 @@
+{
+	"id": "6919927",
+	"name": "식빵을 뭉쳐 에어프라이어에 넣었더니?? 못난이빵 ★",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/09/30/b79ba18614892c5869b9fe7c78e466f41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6919927",
+	"ingredient_ids": [
+		503,
+		219,
+		148,
+		204,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진호두",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "크랜베리",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 식빵은 사방 1cm 크기로 잘라 준비한다.",
+		"2. 달걀물에 연유, 소금을 넣어 섞은 후 자른 식빵, 호두, 크랜베리를 넣어 섞는다.",
+		"3. 섞은 식빵을 한입 크기로 뭉친다.",
+		"4. 에어프라이어 바스켓에 넣고 170도 온도에서 10분간 구워 완성한다.에어프라이어"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/30/f4a31e8e4938f5f70054fa348c3797a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/30/7d282e217ea0094e3b5cf28194d7f3361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/30/7c66928587059cea7a1cfe9a46dbad4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/30/9b8829c45b651c77754e7a6f32557d4d1.jpg"
+	]
+}

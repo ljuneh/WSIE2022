@@ -1,0 +1,44 @@
+{
+	"id": "6941649",
+	"name": "(아기반찬) 돼지고기 파프리카 말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/a4b51d78d17a8b226699949bd578c6461.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941649",
+	"ingredient_ids": [
+		487
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "12",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "파프리카각각1/5개씩",
+			"ingre_count": "1/5",
+			"ingre_unit": "개 씩"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해요돼지고기(등심대패) 12줄, 파프리카(3색) 각 1/5개 씩",
+		"2. 파프리카를 길게 썰어요 (6개가 나오도록)도마, 칼",
+		"3. 등심대패 2장을 겹쳐서 깔고 3색 파프리카를 넣어 돌돌 말아요.",
+		"4. 이렇게 6개가 완성 되었어요",
+		"5. 후라이팬 약불에 구워요 (고기 속까지 익히기 위해서 꼭 약불로 구워주세요)후라이팬약불",
+		"6. 골고루 굴려가며 맛있게 익혀주세요따로 기름은 두를 필요 없이 구우면서 고기의 기름이 나와요",
+		"7. 짜자잔! 돼지고기 파프리카 말이 완성",
+		"8. 한 입 크기로 썰면 이렇게 알록달록 예쁜 모양이 나와요",
+		"9. 쉽고 간단한 방법으로 모양도 맛도 좋은 반찬이 완성되었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/b3f83d9f0c7fba2833d93a680fb9df501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/46c6bac01e3e5e24c7799a354784cdf61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/09cd3bca7aa576abdbdd58277e36d23b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/ecbfe0176a4e2f1ca8f8a1525cd4e9051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/b12ee504ea18e12114d3b44d4eedf3a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/358cb6f9793969d4bdc30ae1fdc4c9081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/a0590720f58c29288d2168ecf524dda71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/af83ab67fb508de9f1962c95ce5746501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/a92c0a76d2a38300b8697673da3636171.jpg"
+	]
+}

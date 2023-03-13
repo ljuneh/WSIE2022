@@ -1,0 +1,48 @@
+{
+	"id": "1811602",
+	"name": "리코타치즈",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/f14abf261c712fa82b30b10690b2a1c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/1811602",
+	"ingredient_ids": [
+		485,
+		250,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1000",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "3~4큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 우유 - 생크림 - 소금 - 레몬즙을 모두 넣고 휘휘 저어줍니다.",
+		"2. 제일처음에만 재료가 섞이도록 저어주고, 약불에서 보글보글 끓여줍니다. 30분정도 젓지말고 몽글몽글하게 끓여줍니다.",
+		"3. 30분정도 끓이시면 어느정도 몽글거리는게 보이실꺼예요. 볼에 체를얹고 면보를 깐다음 조심해서 부어줍니다.",
+		"4. 물이 어느정도 빠지면, 끈으로 윗부분을 꼭..묶어 하룻밤정도 식혀줍니다.",
+		"5. 하루가 지나면 이렇게 맛있는 리코타치즈가 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/a1cbb20e72c76007fd1b547c93ed8b311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/8e4447a8b0dc3f99345cb3659fad7a131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/6969ee647b9ac4e53f4019e9195188401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/ec1701e7686944713aa00ac93e7f4cea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/0747b4a077e6f0a5a1e1e62f3ac61e1a1.jpg"
+	]
+}

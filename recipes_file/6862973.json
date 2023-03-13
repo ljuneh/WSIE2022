@@ -1,0 +1,80 @@
+{
+	"id": "6862973",
+	"name": "찰흑미 넣어 좀더 쫄깃한 새알동지팥죽 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/23251e6bfc4f0fa18f563652471995a01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6862973",
+	"ingredient_ids": [
+		115,
+		99,
+		995,
+		667
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "팥",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찰흑미",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "소금(선택)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕(선택)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 팥을 준비합니다",
+		"2. 팥을 씻어 물에 불립니다",
+		"3. 찰흑미 찹쌀을 씻어 물에 담가 놓습니다",
+		"4. 냄비에 팥을 넣고 한소끔 끓여 첫물을 따라버립니다",
+		"5. 다시 물을 받아 팥을 푹 익힙니다",
+		"6. 팥이 익으면 휴롬에 갈아 팥물만 받아냅니다  휴롬이 아니면 체에 팥을 으깨어 팥물을 만듭니다",
+		"7. 팥물에 흑미 찹쌀을 넣고 끓입니다",
+		"8. 찹쌀가루에 미지근한 물을 넣고 반죽합니다",
+		"9. 새알을 만듭니다",
+		"10. 끓는물에 새알을 넣습니다",
+		"11. 새알이 동동뜨면 건져냅니다",
+		"12. 팥죽이 익으면 새알을 넣고 익힙니다",
+		"13. 그릇에 담아내고 기호에 맞게 소금이나 설탕을 곁들입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/3faafb661b391bd28f0f45bd7ce5403a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/627d7eca0c336c3a9e735d2de5cb53f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/f034008c743a9a2ac33abb2b491361ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/71a1999e99d7926487c7e6c9f5d3e2a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/4964b02956281968a4db36bdb696564d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/4405fac20eee42d1c05204a3501a83181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/84431766d21a8bef6273da9d5cdeec001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/f457fd1cb08786b791fd364922ada1641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/2d2779df7c7010e211b0e97adc0b550d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/72e0988c9a08a063fc974ddcf5a518b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/085fa0575df2654199b9eec793ce8b591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/d8e5d19a3219972253db66de60498d9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/22/074f55ae6be0c55b1708defa4e0640da1.jpg"
+	]
+}

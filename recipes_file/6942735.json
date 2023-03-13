@@ -1,0 +1,95 @@
+{
+	"id": "6942735",
+	"name": "추석요리 속까지 촉촉하고 부드러운 황태구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/1e5747986b96ad5fc724a080176416921.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942735",
+	"ingredient_ids": [
+		527,
+		379,
+		473,
+		224,
+		292,
+		458,
+		233,
+		226,
+		575,
+		660,
+		592
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "황태",
+			"ingre_count": "4",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "4",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "양파즙",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 황태는 잔가시들유 손질해 머리 꼬리 지느러미를 자르고 물에 1시간 이상 담궈 부드럽게~",
+		"2. 구울때 오그라 들지않게 등쪽에 잔칼집을 내줍니다",
+		"3. 양파를 갈아서 1차 숙성시켜",
+		"4. 분량데로 유장을 만들어요 유장 농도는 주루루 흐르는 느낌으로",
+		"5. 간장 참기름으로 북어에 유장처리해 고추장 유장을 발라 줍니다",
+		"6. 들기름 두룬팬에 중약불에서 노르스름하게 구워 줍니다",
+		"7. 속속들이 양념이 베인 황태구이 입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/3c12a13853f3a34f98df6d8442733f1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/c9e9df93971d2cca1222b6f762ebfba91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/397990ac7e1896370d96855494df6e5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/2a8ebb7ab7f5f689d4a0ef520aebda601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/323df0054098befbb4624c634da3cdb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/9b48d3de7017f5a1a5395d8762f217c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/b46ce89b466f4bca2fe06c47966c3c641.jpg"
+	]
+}

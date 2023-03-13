@@ -1,0 +1,110 @@
+{
+	"id": "6856614",
+	"name": "진짜 간단하고 쉽게 끓이는 육개장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/07/a520a826a2880939a543cb73676f027f1.png",
+	"url": "https://www.10000recipe.com/recipe/6856614",
+	"ingredient_ids": [
+		995,
+		219,
+		504,
+		660,
+		224,
+		233,
+		349,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "소양지",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "콩나물(or숙주)",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "불린고사리",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "느타리버섯1줌(100g)",
+			"ingre_count": "1줌(100g)",
+			"ingre_unit": "줌(g)"
+		},
+		{
+			"ingre_name": "대파10cm",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마10cm",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 생수 1L에 다시마 2장을 넣고 약20분 이상 불려 다시마 물을 만든다.",
+		"2. 소고기는 찬물에 담가 핏물을 빼고 불린 고사리는 칼로 먹기 좋게 썰고, 느타리버섯은 하나하나 때고, 대파는 반 자르고 숙주는 깨끗이 씻어 준비한다.소 양지 300g, 불린 고사리 100g, 느타리버섯 1줌(100g), 대파 10cm 6개, 콩나물(or숙주) 120g",
+		"3. 냄비에 식용유1T, 참기름2T, 고춧가루3T 넣고 고춧가루가 타지 않게 약불로 고추기름이 나오게 볶는다.냄비약불",
+		"4. 볶아놓은 양념에 준비한 양의 반의 대파, 핏물 뺀 고기를 넣고 한번 더 볶고 고사리, 느타리버섯, 숙주를 넣어 볶는다.",
+		"5. 볶아진 재료에 다시마 물을 붓고 다진 마늘2T, 국간장2T, 후추 약간 넣고 간을 보고 싱거우면 소금을 약1/2T를 넣는다.",
+		"6. 약 30분간 끓인 후 남은 대파와 달걀물을 올려 한소끔 끓인 후 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/07/f868a3d911d860576d4522420d1e35371.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/07/c9046f0018da4bb7abc262e2d2c943c51.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/07/46fe92a32e4fcebaa8abbaf7e2243fb91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/07/fb012d54304beccae53b4dac2dbaeeb31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/07/3aaf00c5a43f26a2f44cf49695d7f0831.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/07/273aec6e8d4a1ce56ed58b762a3b6c3e1.png"
+	]
+}

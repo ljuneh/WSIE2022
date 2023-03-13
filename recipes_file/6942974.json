@@ -1,0 +1,119 @@
+{
+	"id": "6942974",
+	"name": "아삭! 고추 오이무침 손쉬운 밑반찬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/ca12eaf62c26b1161c8e1177b7bb34ae1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942974",
+	"ingredient_ids": [
+		8,
+		3,
+		30,
+		16,
+		473,
+		939,
+		224,
+		938,
+		233,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이고추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "상추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 오이를 깨끗하게 씻어주세요. 저는 베이킹소다와 식초를 사용해어 세척했어요.",
+		"2. 양쪽 끝을 조금 잘라내고 반으로 갈라 어슷썰기 해주세요.",
+		"3. 깨끗이 씻은 오이고추를 잘라 넣어주세요.",
+		"4. 양파 반개도 잘라 같이 넣어주세요.",
+		"5. 부추도 있어서 한줌 썰어 넣어주었어요.",
+		"6. 양념을 만들 차례예요. 고추장 ,고춧가루, 다진마늘과 액젓을 분량대로 넣어주세요.",
+		"7. 매실청,갈은깨 마지막으로 참기름 조금 넣어주세요. (통깨를 갈아넣고 쓰면 더 좋아요)",
+		"8. 이제 양념을 썰어놓은 오이 등에 넣고 잘 무쳐주세요.",
+		"9. 잘 무쳐졌네요. 맛보시고 양념을 조금 더 넣어주셔도 됩니다.",
+		"10. 두고 먹을건 통에 담아 냉장고로 들어갑니다.",
+		"11. 바로 먹을건 상추를 넣어 한번 더 무쳐주었어요.",
+		"12. 자, 이제 완성! 오이반찬 하나면 밥 한공기 뚝딱입니다",
+		"13. 아! 이건 외전인데요. 매운거 못먹는 둘째를 위해 남은 오이는 살짝 볶아주었어요.",
+		"14. 달군 후라이팬에 기름 넣고 다진마늘 넣어서 마늘 기름 만들고요",
+		"15. 센불에 빠르게 볶아주세요",
+		"16. 소금,후춧가루, 생강가루 조금 그리고 볶은 깨로 간을 합니다",
+		"17. 맵지않은 오이볶음도 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/706fac1c4c6c4373d882b049ec48af651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/e826e1b11a911afe49956940d62286b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/e780d1a758e08a04e51ebcb8698720071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/7c31b3d7ddadb0bcc8a622a17336c8041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/0cf7c3095390211d1d98557792dc9e191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/ef27e56b517b1ef3f40a0328d3f629091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/230c784cf03831250e394411390d4afb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/eeee15e482e583ea46b8e18dc94a30041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/4cf6e0e50a8ba245087daf768b0c94821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/7f7ae470f6cf4a8336bfff79c89e00f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/05d5836dfa974c4cb430a99ff2ab5d371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/14e41551ee45300c3c6f1536811f95351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/6e04878e532971b35034aaf80d93ff661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/5feb96c571e89ded4243a91d41231d431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/593719055a689b89ed0fc874c14303341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/e32e95849ee0387243997c8da0f234171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/f7ed94b7e10695e1f38844190167d4321.jpg"
+	]
+}

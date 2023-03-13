@@ -1,0 +1,59 @@
+{
+	"id": "6943242",
+	"name": "명절나물.. 도라지 볶음 초간단볶기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/1b0b72a98d7efba7db281322bab0b2381.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943242",
+	"ingredient_ids": [
+		38,
+		282,
+		660,
+		29,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "도라지",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2/1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고명으로얹을쪽파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 도라지는 아린맛을 먼저 빼줘야 하는데요 굵은 소금 2스푼을 넣고 도라지를 박박 주물주물 주물러주고 한번씻어내고 소금 1스푼을 넣고 30분 정도 물에 담궈둡니다",
+		"2. 예전에 시어머님이 알려주신건데 30분 담궈둔 도라지를 건져서 끓는물에 1~2분정도 데쳐주면 아린맛이 싹 빠진다고 알려주셨어요 저는 살짝 데쳐 냈답니다",
+		"3. 볶음 팬에 도라지, 마늘 한스푼 ,참기름 1스푼 을 넣고 조물조물 무쳐서 잠시 밑간을 해둡니다 10분정도....",
+		"4. 뿌리 채소들은 밑간을 해두면 간이 골고루 배어들어서 쉽고 빠르게 볶아낼수있어요 10분 밑간해둔 도라지는 불을 켜고 뒤적뒤적 해줍니다",
+		"5. 5분정도 달달 볶다가 간을 맞춥니다 이때 준비해둔 쪽파와 통깨 넣어줍니다 마지막에 불을 끄고 참기름 1스푼 넣어주면 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/6b7424a2953ed2f1c14a5a96fce468bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/cc96a28a10e1133d68d2555249f3b0c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/f51411033568acdf4b868c0d161417831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/9c653015965e317447463525dcf063601.jpg"
+	]
+}

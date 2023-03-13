@@ -1,0 +1,59 @@
+{
+	"id": "4081526",
+	"name": "담백한 야채참치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/4bc839a28007e5d702c147e305abd357.jpg",
+	"url": "https://www.10000recipe.com/recipe/4081526",
+	"ingredient_ids": [
+		379,
+		292,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "통조림참치캔",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 참치통조림 한캔(보통크기)은 기름기를 쭉 제거해서 준비합니다. 야채는 모두 굵게 다져서 준비합니다.",
+		"2. 후라이팬에 오일살짝 두르고 단단한 야채부터 볶아주기 시작합니다.",
+		"3. 양배추와 양파도 볶아 줍니다.",
+		"4. 기름 따라버린 참치넣고 보슬보슬 부셔주면서 볶아 줍니다.",
+		"5. 참치가 보슬보슬 흩어지면 간장 1/2작은술 넣고 맛술 1/2큰술도 넣어줍니다.",
+		"6. 설탕 1/2작은술 넣어서 단맛도 조금 가해줍니다.",
+		"7. 마지막에 후추가루 살짝 뿌려주면 끝.",
+		"8. 야채참치 간단하게 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/23/2f7308f52e2c884046a116ed9e87006a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/23/1e58a581924adf5c4e11e4266eeb73f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/23/e937d0a6478046b713dd33bdda4ef8d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/23/b0b3d6ae7c57b4b900d20fea2e0d778b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/23/f14769a9d9baa123d0566b7d0faad8871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/23/0e9cc9ffc57a3fe5cc2c5761692dde3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/23/1116df066427c784478d08edd940de891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/23/588cc882df652e66d4867ccde42c75dc1.jpg"
+	]
+}

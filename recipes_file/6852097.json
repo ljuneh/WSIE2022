@@ -1,0 +1,52 @@
+{
+	"id": "6852097",
+	"name": "수박 100% 먹기(수박껍질쥬스)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/583787d18a27e5bec7ef69cb6ccc961a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852097",
+	"ingredient_ids": [
+		675
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "수박껍질",
+			"ingre_count": "3~4조각",
+			"ingre_unit": "~조각"
+		},
+		{
+			"ingre_name": "수박과육",
+			"ingre_count": "3~4조각",
+			"ingre_unit": "~조각"
+		},
+		{
+			"ingre_name": "꿀(올리고당)",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "블루베리청(생략가능)",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 수박껍질을 깨끗하게 씻은후 준비를 합니다. 수박껍질과 수박과육, 꿀을 준비합니다. * 비율을 1:1로 정해서 먹지만, 처음시도 하시는분들은 수박과육양을 더 많이 잡는게 좋을것 같아요.",
+		"2. 수박껍질을 잘게 잘라서 믹서기에 넣어 줍니다.",
+		"3. 수박껍질+과육+꿀을 믹서기에 넣어 줍니다.",
+		"4. 믹서기에 따라서 조절 하세요.",
+		"5. 갈아주니... 상태가 이렇게 되었어요.",
+		"6. 수박 과육이나 물을 조금 첨가해도 좋아요.. * 저는 블루베리청을 조금 첨가해서 퍽퍽하게 먹었어요.",
+		"7. 블루베리청 2숟가락을 넣어 줍니다. * 과일청이 있다면 넣어 주어도 됩니다. * 과일청이나 꿀이 없다면 올리고당을 넣어도 좋아요. - 올리고당이 장운동에 도움을 줍니다.",
+		"8. 컵에 담아요.. 숟가락으로 먹어도 좋고, 그냥 마셔도 좋은것 같아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/359168227c0a45fd5f3be0426c9db98d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/79cc291c66a1fdb38c16ec303fa67fef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/f740eb29bf159d0fd1c35aca2fd177171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/5c8e227f866004971a7685b98b44a3d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/b4a50fab45352708ffd2547a3e55d0761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/a78bf50b0bbd5fe942ddf817599ae7b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/aaf9606e8914c4265929746ad56c0a2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/04/49f939655ac329d9d31ff37c9879cf911.jpg"
+	]
+}

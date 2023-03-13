@@ -1,0 +1,108 @@
+{
+	"id": "6892805",
+	"name": "오징어젓,무우 말랭이 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/19/05d0f5c0dcafa7465c8c594d0baf68fa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6892805",
+	"ingredient_ids": [
+		751,
+		30,
+		3,
+		995,
+		939,
+		341,
+		226,
+		458,
+		543,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어젓",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무우말랭이",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양파는 졸이기 때문에 대충 크게 썹니다.",
+		"2. 마늘은 슬라이스 합니다",
+		"3. 부추는 2cm 간격으로 잘라줍니다.",
+		"4. 양파는 물 1C을 넣고 약불로 반컵이 되도록 졸입니다.",
+		"5. 오징어젓은 가위로 잘게 잘라 줍니다.",
+		"6. 약불에서 찹쌀 가루 1T와 물 1C을 넣고 풀을 쑤워 주세요..",
+		"7. 졸인 양파 물은 체에 받쳐 물만 따로 두세요.",
+		"8. 볼에 고추가루,설탕,액젓,물엿을 넣고 버무립니다. 무우 말랭이에 간이 들도록 바락바락 주물러 주세요..",
+		"9. 어느정도 간이 베었으면 오징어젓,부추와 마늘,통깨,참기름 넣고 한번더 버무립니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/19/924cf6a6f87f1b18497c252b8d650b821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/19/acfc22646b35f1f1df3c2283e1e7c0e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/19/4d52e68064648b151c3ba555fd14801e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/19/6655b6b1851ff42515a5e668c44f95561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/19/a0333d913b7b7b3cb7889d9561f56f901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/19/23296415d123ae4093bb0aa583e37ec51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/19/47d3041812c1aa59e656a3889080ca741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/19/1920168493e53d38c42cc6c7909bf68a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/19/a26f5ec4b47c14799b1877b13ce6aa091.jpg"
+	]
+}

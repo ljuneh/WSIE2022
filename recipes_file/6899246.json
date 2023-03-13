@@ -1,0 +1,70 @@
+{
+	"id": "6899246",
+	"name": "옥수수빠스/맛탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/4d16c723f288672e1bf793c7a0b11e101.jpg",
+	"url": "https://www.10000recipe.com/recipe/6899246",
+	"ingredient_ids": [
+		504,
+		734,
+		995,
+		226,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "옥수수한캔",
+			"ingre_count": "432",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "870",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "7",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 제일먼저 캔옥수수의 물기를 채반에 받쳐서 제거해주세요.",
+		"2. 옥수수를 다져주세요. 믹서기나 핸드블랜더로 다시면 더 쉽고 간편합니다.옥수수믹서기나 핸드블랜더로 다지면 더 쉽고 간편하답니당",
+		"3. 다진 옥수수와 튀김가루와 물을 반죽해주세요.다진옥수수432g 뒤김가루7T 물4T",
+		"4. 반죽이된 옥수수를 동그랗게 만들어줍니다. 주먹을 쥐면 엄지와 검지사이로 반죽이 동그랗게 튀어나옵니다.주먹을 쥐면 엄지와 검지사이로 반죽이 동그랗게 튀어나옵니당",
+		"5. 동그랗게 만든 옥수수 반죽을 기름에 튀겨주세요. 가만히 냅두면 서로 달라붙으니까 옥수수반죽들을 괴롭혀주세요.중불가만히 냅두면 서로 달라붙으니까 옥수수반죽들을 괴롭혀주세요",
+		"6. 색이 노르스름하게 변하면 채를 이용해 키친타올을깐 그릇에 담아주세요.키친타올 그릇",
+		"7. 팬에 식용유와 설탕을 넣고 설탕을 녹여주세요.식용유 설탕팬중불",
+		"8. 설탕이 갈색으로 변할때까지 녹여줍니다.",
+		"9. 튀김들 투하! 튀김을 설탕에 버무려준다고 생각하시면 될거 같아요.",
+		"10. 그릇에 담아주면 완성입니다. 그릇에 식용유를 살짝 묻혀주고 담으면 옥수수 빠스가 달라붙지 않습니다.그릇에 식용유를 살짝 묻혀주고 담으면 옥수수 빠스가 달라붙지 않습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/bd3b0c62560704d2ba11d9c8a3b5e5b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/2475c7f580338e66af2a75f2251f5f241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/dcb116151a33bdaa8ae025560a43ff0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/a8346b03bd1f0d2b90bbcb1112d6da641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/9a0202f7cea4212f1ddf3989f1a4b6541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/93e05e2278d4efae6d4b26df6ed221481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/681e194d6fc7530705109096bddf97d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/cc1f4dbdd26039a87254948c2e882a271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/cd24ea57795cc3ef20ff075c134bf7af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/0846f12f572cc3a194971c5082795f571.jpg"
+	]
+}

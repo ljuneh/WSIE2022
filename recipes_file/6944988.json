@@ -1,0 +1,72 @@
+{
+	"id": "6944988",
+	"name": "생크림 식빵 :: 생크림 베이킹",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/e6ca343df3e46c80c22ca2a74c1b4a901.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944988",
+	"ingredient_ids": [
+		485,
+		567,
+		497
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "92",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "인스턴트드라이이스트",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "비정제설탕",
+			"ingre_count": "8",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물154g±",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 반죽은 편하게 제빵기로 했어요. 제빵기 내솥에 액체재료를 먼저 넣은 뒤, 가루 재료를 넣고, 맨 위에 이스트를 넣어줍니다. 설탕, 소금은 이스트에 닿지 않게 넣어주심 좋아요. 사용하는 생크림은 냉장고에서 바로 나온 것을, 물은 실온의 물을 사용했습니다.",
+		"2. 제빵기 반죽코스를 한번 반, 미처 못 되게 돌려주었습니다.",
+		"3. 물은 환경에 따라 들어가는 양이 달라 질 수 있으니까, 질기 봐가며 물의 양은 조절해주세요. ",
+		"4. 반죽이 완성되면 잘 둥글려 따뜻한 곳에서 2~2.5배 정도 부풀수 있도록 1차 발효해줍니다.",
+		"5. 저는 32도 내외에서 45분 정도 걸렸어요. ",
+		"6. 1차 발효가 완료되면, 가스를 빼고 한덩어리로 둥글려 실온에서 젖은 면보를 덮어..",
+		"7. 12~15분 정도 중간발효해줍니다. ",
+		"8. 중간발효가 완료되면 밀대로 타원형으로 밀어편 뒤..",
+		"9. 원통형으로 성형합니다.",
+		"10. 옥수수 식빵팬에 팬닝 한 뒤 따뜻한 곳에서 틀 높이까지 2차 발효해줍니다. ",
+		"11. 30도 내외에서 40~45분 정도 걸렸어요.",
+		"12. 2차 발효가 완료되면 180도로 예열한 오븐에서 30분 정도 윗면과 옆면이 노릇해지도록 구워줍니다. 완성된 식빵은 팬에서 분리 한 뒤 식힘망에서 완전히 식혀 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/1a3411ebdfd6a6de0844d26173cfb7921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/cc314b3ad34b6000d607bd1a5fc321201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/8493f35da62e3a9f4c9a70d202f305301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/1c6931c6ba85836119873847c1bde5cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/a6f1bfcc9cb115c796a9079c49aa17401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/1848e9ac047c5879d9faf3fcdad56b1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/1942bd9e1ba116181abdb37e70584a3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/63055e18b3a7bb8c0fe3665871be46741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/469c68abdb62be5fc9f29a3856c216c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/d6690ce57516ad7f5d4f89523b77a4201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/7d4562e17aa01c2a29043295626e99841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/0026b006a99b18d1df7b6c13243c1e411.jpg"
+	]
+}

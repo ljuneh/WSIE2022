@@ -1,0 +1,109 @@
+{
+	"id": "671138",
+	"name": "뚝배기달걀찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/d395933435c7c5ba340b9aab47db13b3.jpg",
+	"url": "https://www.10000recipe.com/recipe/671138",
+	"ingredient_ids": [
+		219,
+		995,
+		390,
+		497,
+		225,
+		660,
+		224,
+		846
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치다시마육수",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진당근",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국물용멸치",
+			"ingre_count": "7",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "다시마(십센치)",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 다진 양파(2큰술), 다진 당근(2큰술), 다진 대파(2큰술)를 준비해요. 그리고 멸치다시마 육수(1컵)를 준비합니다. 만드는 법은 냄비에 국물용 멸치(7마리)와 다시마(10cm 1장), 물(2컵)을 넣고 물이 끓으면 2분 후 다시마는 건지고, 5분정도 더 끓여 멸치도 건진 후 불을 꺼 마무리합니다.",
+		"2. 이제 달걀(3개)은 젓가락으로 저어 풀어줍니다.",
+		"3. 그리고 멸치다시마 육수(1컵)를 부어 섞어주고,",
+		"4. 달걀물은 체에 2번정도 걸러줍시다. 이렇게 체에 걸러주면 달걀찜이 한결 부드러워집니다.",
+		"5. 그리고 다진 새우젓(0.5큰술), 참기름(0.3큰술), 청주(0.5큰술), 소금, 후춧가루(약간)로 간하고,",
+		"6. 다진 양파, 다진 당근, 다진 대파를 넣어 섞어줍니다.",
+		"7. 그리고 뚝배기에 부어준 후 센불에 올려끓어 오를때쯤~",
+		"8. 뚜껑을 덮어 약한불에 3분정도 쪄줍니다. 그리고 불을 끈 후 5분정도 뜸을 들여줘요. 그리고 고춧가루(약간)를 뿌려 마무리합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/4d07a97ee9bd68fdf1a1c615950e8fc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/37246c2cc8a253d9bd0a88e3707626761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/95cc69c3563a6358e42e2270e232193f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/c81c9687f81a75d6e0ba6ef0daa1f0a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/e51dc42445bf62c25b86f9c15ed791861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/2c9c808bdfcf025897320e66c6cb83781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/74301124d6cb7a94ac5d8801777d971c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/19/fa5427924fe6e2efd71d8c89f68dbd5d1.jpg"
+	]
+}

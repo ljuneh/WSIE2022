@@ -1,0 +1,64 @@
+{
+	"id": "6941845",
+	"name": "계란찜(계란요리, 푸딩계란찜, 보들보들, 아기반찬)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/83aba7e4fff664eca3d688ae3d3ed2511.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941845",
+	"ingredient_ids": [
+		995,
+		497,
+		660,
+		292
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2/3",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 중탕을 위해 냄비에 물을 먼저 끓인다.",
+		"2. 그릇에 계란 2알을 깨서 알끈을 제거하고,",
+		"3. 소금, 참기름, 맛술을 넣는다. (참기름 고소한 맛이 계란 비린내도 잡아줘서 없으면 맛술을 굳이 넣지 않아도 된다.)",
+		"4. 계란이 완전히 풀어지게 잘 저어준다.",
+		"5. 물을 더해서 한 번 더 저어주고,",
+		"6. 물이 끓는 냄비에 넣고, (넣을때 손이 뜨거울 수 있으니 다치지 않게 주의한다!!)",
+		"7. 뚜껑을 닫아 중불에서 중탕한다.",
+		"8. 계란 표면이 익으면 ,",
+		"9. 한 번 골고루 저어준다. (이 과정을 2번 정도 반복하면 완성 되었을 때 골고루 부드럽게 익는다.)",
+		"10. 5분정도 중탕하면 보들보들 푸딩같이 부드러운 계란찜이 완성된다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/2cb78c55202ade123b3b1aa9de1bb4db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/0349f897332c7ce8b4fc0a196c7a86491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/3b67880adcaefc12c5eab67ae65067f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/3c80a008fb24f69ac41f64efa3757eed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/6f777d1967385d66f09316b27c7f1e601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/d5cc5ccb3fb2f1fc62bc0aa662cc45381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/c910e3af5933de5b9d8243a8df36207f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/96dde43594d6bca35aed33d089f90ccf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/b9e34a9dd87a557bc4ea1de17ea694f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/ca418401ac26a6ab1d1967900178e48a1.jpg"
+	]
+}

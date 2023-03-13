@@ -1,0 +1,53 @@
+{
+	"id": "6941857",
+	"name": "(아기반찬) 완두콩오트밀전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/e1b93db1ef849fca6b9c1fa7edf595351.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941857",
+	"ingredient_ids": [
+		108,
+		572,
+		219,
+		574
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "완두콩",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "오트밀",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 완두콩 오트밀 전을 만들기 위해 재료를 준비해요완두콩 2T, 오트밀 4T, 달걀 1개, 올리브유1.5T달걀은 특대란을 사용했어요. 혹시 크기가 작은 달걀이면 1.5개 혹은 2개 정도 써주세요",
+		"2. 완두콩을 물에 1시간 정도 불린 뒤",
+		"3. 껍질을 모두 까요아가가 먹을 것이기 때문에 소화가 잘 안되는 콩 껍질은 모두 벗겨요",
+		"4. 볼에 오트밀과 완두콩을 넣고 고루 섞어요볼",
+		"5. 달걀을 풀어서 잘 섞어준 뒤",
+		"6. 한숟가락씩 떠서 올리브유 두른 팬에 노릇노릇 구우면",
+		"7. 고소하고 담백한 완두콩오트밀전이 완성되었습니다.!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/19a2e8d4aa5c1fa716318bc30c4d29e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/a715aea394f8d3c94034ec4ae2de7ac71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/fba6bae4bf698e58182a6869501b7c131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/24db1ffdb549c5843e4d2e6b4821d5741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/708955fd606c6ae86374483daac91a351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/00f46ab09a953750aa5d0d777f087f211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/fa01ab1d7923e0b9e09dfa7a8d55ff211.jpg"
+	]
+}

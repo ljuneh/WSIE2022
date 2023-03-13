@@ -1,0 +1,27 @@
+{
+	"id": "1459379",
+	"name": "된장 고추잎 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/04/bd277c555c2ae7cf37a04900bb06a632.jpg",
+	"url": "https://www.10000recipe.com/recipe/1459379",
+	"ingredient_ids": [
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 밭에서 바로 따온 고추잎을 끓는 물에 살짝 데쳐 주었어요.",
+		"2. 볼에 된장, 고추가루, 다진마늘, 통깨, 참기름, 소금 약간을 넣어 준비해 주세요.",
+		"3. 삶은 고추잎을 넣어 조물조물 무쳐주면 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/04/2940045b7c73ba69220124566c85b4641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/04/725b24d1bebb28a88c328caf6f27caa41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/04/49c6bbe10a39003db2109839306c71951.jpg"
+	]
+}

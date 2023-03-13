@@ -1,0 +1,93 @@
+{
+	"id": "6945145",
+	"name": "솔방울 오징어 볶음우동",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/f364400fc11159f1741ccc59ec8c70091.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945145",
+	"ingredient_ids": [
+		3,
+		27,
+		9,
+		477,
+		237,
+		575
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "우동사리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "솔방울오징어",
+			"ingre_count": "12",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "버터작은",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "솔트",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 파,양파,당근 고추 채 썰어준다 고추는 반을 가른 후 씨를  제거하고 채어줍니다",
+		"2. 야채 팬에 담고 버터반큰술 솔트톡,후추톡톡 넣어 약불에서 볶아준다",
+		"3. 오징어 넣고 슥슥 볶아요",
+		"4. 면을 살짝 삶아 채에 받쳐 건져 내고 (면수버리지않아요)",
+		"5. 준비한 재료에 투하~ 이때 면수 3큰술 넣어 준다 굴소스,고추기름 입맛에 맞게 넣고",
+		"6. 맛있게 슥슥 볶아 그릇에  담아 완성합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/b971d4836821a868fa970eea702020251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/aa6d32f04804e8b5e2644323068f870a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/e880d8cb9d1f137a2a072f7ff7c108041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/2f1aa565134db58b965c30bdb0cd82e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/fe45295df0c39a46770e5600e286af011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/88c6d33b7e8b1dfea2cd63b457e3c1941.jpg"
+	]
+}

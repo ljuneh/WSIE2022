@@ -1,0 +1,119 @@
+{
+	"id": "6864268",
+	"name": "돼지등갈비찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/9449f33676f20e8f8c2f2e05e797a1e31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6864268",
+	"ingredient_ids": [
+		132,
+		187,
+		379,
+		226,
+		458,
+		846,
+		857,
+		608,
+		341,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지갈비",
+			"ingre_count": "2",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "통생강",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 등갈비는 물에 담궈 3시간 핏물 우려 냈어요",
+		"2. 통후추 대파 생강 월계수잎 준비해",
+		"3. 핏물뺀 등갈비 넣고 한번 끓여 줍니다",
+		"4. 한번 우르르 끓여 남아있는 이물질과 돼지의 잡내를 잡아줍니다",
+		"5. 삶아논 등갈비는 깨끗이 샤워시켜",
+		"6. 간장 가루마늘 후추 통마늘 설탕 미림 양념소스를 만들고",
+		"7. 고명으로 쓸 대추 밤도 준비~",
+		"8. 삶아논 등갈비는 쪽으로 잘라 만들어둔 양념에 1시간이상 재워 뒀어요",
+		"9. 등갈비가 잠기도록 물부어 30분정도 끓여줍니다 끓이다 물이 부족하면 중간에 물을 더 부어 주기도 합니다",
+		"10. 손질한 대추 밤 넣고 뚜껑을 덮고 밤이 어느정도 졸여질때까지 익혀 줍니다",
+		"11. 잘 졸여진 등갈비 마지막에 참기름 2스픈 올리고당 넣어 윤기를 내고 마무리합니다",
+		"12. 윤기 자르르한 등갈비 적당히 짭쪼롬 달큰해 아이들도 잘 먹어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/14dde79f3f7ada41d776a185d5ca9f211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/fe01ca805fbb48bc0a7a733bc5b46e731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/45eb6c4be9ebaf484409f4cfa3b6c6d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/52a79cd3b602557060860ee8c39a39211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/f406f20c871f03fac15fc52ffdc197c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/1986e48c5602dd010868fbdb242084f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/8984323c4e4ea2a9476533b2eaee88051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/aa013487c249e42e7019e46e72b174aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/c3887e813c18add3f00bdc06aea33c5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/1d6d442cf3565361bb41a7f5aeb034d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/9afacc4ea8dbdc689cbb0355545cb2f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/23/13adc06e8c21ff9f493885c46cd7d6c31.jpg"
+	]
+}

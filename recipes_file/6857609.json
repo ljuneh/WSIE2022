@@ -1,0 +1,70 @@
+{
+	"id": "6857609",
+	"name": "명절 음식 전요리 활용하기 동그랑땡전조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/28/7d84f1a48a864a65c231151f22127f2c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6857609",
+	"ingredient_ids": [
+		477,
+		379,
+		995,
+		226,
+		575
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "동그랑땡",
+			"ingre_count": "14",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "8",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 양념장을 만듭니다",
+		"2. 팬에 동그랑땡을 넣습니다",
+		"3. 양념장을 올립니다",
+		"4. 약불로 은근히 조린후 불을 끄고 올리고당 통깨를 뿌립니다",
+		"5. 접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/28/150f10f0c9643097c7f7ee15c28199121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/28/e8598f427bd96c7108ac13182894ead81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/28/90e8f1586db488c4451f806b2ae27ff71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/28/599dfe6e09907d6dc80e1a211530cd771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/28/b89869de97cd897a05fdbc7be8b8680c1.jpg"
+	]
+}

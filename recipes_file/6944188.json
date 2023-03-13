@@ -1,0 +1,63 @@
+{
+	"id": "6944188",
+	"name": "식빵 요리 에어프라이어로 식빵 러스크 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/818ff101336b467e6113c5136ea1f11a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944188",
+	"ingredient_ids": [
+		503,
+		226,
+		575
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "녹인버터",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "시나몬가루",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 식빵은 길게 썰어 준비합니다.",
+		"2. 녹인 버터 4T에 올리고당 1T를 넣고 섞습니다.",
+		"3. 그다음 조리용 붓 또는 숟가락으로 식빵 앞면과 뒷면에 촉촉하게 바르고",
+		"4. 설탕을 식빵 앞면과 뒷면에 골고루 뿌립니다.이때 단 것을 좋아하면 설탕을 많이 뿌리고 단 것을 별로 좋아하지 않으면 조금만 뿌리면 됩니다.",
+		"5. 그다음 에어프라이어 전용 팬에 담고",
+		"6. 에어프라이어에 넣어 160도에서 15분 정도 굽습니다.에어프라이어높은 온도에서 구우면 설탕이 탈 수 있기 때문에 낮은 온도에서 굽는 것이 좋습니다.",
+		"7. 15분 뒤에 에어프라이어에서 꺼내고 한 번씩 뒤집고",
+		"8. 160도에서 10분 더 굽는다. 가정에서 사용하는 에어프라이어마다 성능 차이가 다르기 때문에 시간 조절하면서 굽는 것이 좋습니다.",
+		"9. 10분 뒤 알맞게 구워진 상태가 되면 에어프라이어에서 꺼내고 시나몬 가루 2꼬집을 뿌리면 식빵 러스크 완성.",
+		"10. 시나몬 가루 2꼬집을 뿌리면 식빵 러스크 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/5dfce94880b69a995c0ee0cdbebe96251.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/fe2556006e5ad7adb4d46fa6169cec451.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/9dbdac6b1deea0ef6a7e151d22cff61b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/42f6bd93a2693375d133aa972b004bc41.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/0bf88a0123591d9b696e4a809aff9a5b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/1efa57c10650e7e081250ed93e3d74651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/b11df35c881e4373d2f60122eac19d3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/51c8a918490cfed23f16c33ac1f1cd6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/79494f590288d4bb3378ce1945b78b211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/6e16e0cc4c984394f5f2709f2e1e70211.png"
+	]
+}

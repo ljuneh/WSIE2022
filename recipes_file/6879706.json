@@ -1,0 +1,42 @@
+{
+	"id": "6879706",
+	"name": "후식으로 상큼하게 과일 먹어줘야지~ 단감사과샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/9e8aabeaf55c8ac0b84fd50ed2194a771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6879706",
+	"ingredient_ids": [
+		158
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "단감",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "믹스견과",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "플레인요거트",
+			"ingre_count": "2",
+			"ingre_unit": "통"
+		}
+	],
+	"recipe": [
+		"1. 단감은 껍질을 벗겨 적당한 크기로 썬다.단감 2개",
+		"2. 사과는 씨를 제거하고 적당한 크기로 썬다.사과 1개",
+		"3. 볼에 견과류를 넣고 플레인 요거트를 넣어 버무린다.하루 견과 2개, 플레인 요거트 2통볼"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/6a6bed98957f1e36eedac450608075ac1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/41cb29acb6ba29c74fb7cd41824be4e31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/17/f75ddf1dbfceeec67f3837d463d04ba01.png"
+	]
+}

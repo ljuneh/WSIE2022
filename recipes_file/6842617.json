@@ -1,0 +1,100 @@
+{
+	"id": "6842617",
+	"name": "까르보나라",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/05/de2687a612f472c3c6537a44701cd81d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6842617",
+	"ingredient_ids": [
+		735,
+		198,
+		406,
+		497,
+		702,
+		868,
+		212
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘1쪽(다진마늘1T)",
+			"ingre_count": "1쪽(다진마늘 1T)",
+			"ingre_unit": "쪽(다진마늘 T)"
+		},
+		{
+			"ingre_name": "우유1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "무가당생크림",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파마산치즈가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "중력분밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 스파게티 면은 취향에 따라 5~10분 삶아주세요. (면을 다 삶고 나서 찬물에 한번 빡빡문질러 전분을 없애주시고, 올리브유를 조금 묻혀 놓으면 잘 안 불고 쫄깃해요!) 베이컨은 적당한 크기로 썰고 마늘은 잘게 다져 줍니다.",
+		"2. 냄비나 깊은 후라이팬을 중불로 달궈 버터를 녹이고, 다진 마늘을 넣고 볶아주세요.",
+		"3. 마늘 향이 올라온다 싶을 때 베이컨 넣고 30초 정도 더 볶습니다.",
+		"4. 우유와 생크림을 부어 주세요. 팔팔 끓으면 지방층이 분리되기 때문에 최대한 끓지 않게 중~약불을 오가며 불조절 잘 해주세요.",
+		"5. 그리고선 소금, 후추, 파슬리가루를 넣어주시고",
+		"6. 파마산 치즈가루도 넣고 휘~휘 잘 저어 주세요.",
+		"7. 그리고 밀가루와 모짜렐라 치즈를 넣고 계속 가열합니다.",
+		"8. 이제 부터 농도가 생기기 시작하니 쉬지 않고 천천히 저어 주셔야 해요~ 그렇게 시간이 조금 지나면 스프정도의 점도가 생겨요.",
+		"9. 그 때 삶아 둔 면을 넣고 잘 섞어주기만 하면 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/ff7620a3284b8f30ec372f3756e304d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/d8e4433077e25ed250443ebb1f5811ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/d760dd6e78f16d120b40cc2059533d501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/00f8b86c9b42f11b5a9cc69cadeb9aef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/ccdbf3ae4b51afc500e449d9c0aa0c391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/119dad5dd980cc9585114f874c9b39ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/185f8444a4c11dfd9d56c255512974bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/64964d5966434c37710cce0241288a791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/02/17/9edd0e6bae4f25a495099c0cdf6df0b41.jpg"
+	]
+}

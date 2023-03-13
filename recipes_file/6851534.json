@@ -1,0 +1,91 @@
+{
+	"id": "6851534",
+	"name": "고급진 한그릇 요리! 입에서 살살 녹는 연어덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/24/f1c55d6db52d365112340457ddce14321.png",
+	"url": "https://www.10000recipe.com/recipe/6851534",
+	"ingredient_ids": [
+		624,
+		339,
+		3,
+		29,
+		379,
+		343,
+		995,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "훈제연어",
+			"ingre_count": "1/2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "채썬양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무순",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고추냉이",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "티"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "3",
+			"ingre_unit": "티"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "티"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "티"
+		},
+		{
+			"ingre_name": "가스오부시",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 양파는 채썰고 마늘은 칼로 한번 눌러 준비한다.채썬양파 1/4개, 마늘 3톨 칼",
+		"2. 팬에 소스재료를 넣고 조금 졸여 채에 걸러 준비한다.[소스재료 2인분기준] 양파 1/4개, 마늘 3톨, 간장 5티, 미림 3티, 물 2티, 설탕 2티팬, 채",
+		"3. 연어는 한입 크기로 잘라 준비 한다.훈제연어 1/2팩",
+		"4. 그릇에 따뜻한 밥을 올리고 소스 2티 뿌린후 채썬양파, 연어 순으로 올린후 무순과 고추냉이 올려 마무리.밥 1공기, 무순 조금, 고추냉이 조금 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/24/04059bc2f795059affb39717fcfb615b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/24/557e9e0beb12e13bb5cd83bddb8396151.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/24/ecdf32d4fcfae4fbcaf7b6ba769f71211.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/24/9ba6d95e6cd821bf447334cad5138ef21.png"
+	]
+}

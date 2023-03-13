@@ -1,0 +1,39 @@
+{
+	"id": "6842678",
+	"name": "무전 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/02/06/976115d2e20c369149772a3266e9618e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6842678",
+	"ingredient_ids": [
+		19,
+		387
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 무는 전부칠 정도로만 준비해주시구요",
+		"2. 얇게 썰어주세요. 저는 좀 두껍게 썰었네요",
+		"3. 얇게 썰은 무는 부침가루 반죽에 넣고",
+		"4. 요렇게 잘 섞어주신다음 골고루 부침가루옷을 발라서",
+		"5. 예열된 후라이팬에 기름두르고 노릇하게 익혀줍니다",
+		"6. 앞뒤로 노릇해지면 꺼내시면 되는데요 무가 속까지 익지 않아도 됩니다 속이 약간 아삭한 맛에 먹어야 무전의 매력이거든요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/34915920c688a12c0f00b988f386e4831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/2ed6812ed4b847c4e518c76feba74d5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/611301d5b1ee97eb7665a6a363c684721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/bc80e6267005361576316d7dd8f07e641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/d4c5adc7286e5fb4a86d012288bec8331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/7f738f79d35ddcdc7904926798e3a4461.jpg"
+	]
+}

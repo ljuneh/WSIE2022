@@ -1,0 +1,66 @@
+{
+	"id": "1023516",
+	"name": "은은한 바다의 맛 파래김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/18/7f8e97cb79d9fd64c8823b0f8afd9c49.jpg",
+	"url": "https://www.10000recipe.com/recipe/1023516",
+	"ingredient_ids": [
+		543,
+		333,
+		233,
+		295
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "물파래500g(굵은소금약간)",
+			"ingre_count": "500g(굵은 소금약간)",
+			"ingre_unit": "g(굵은 소금약간)"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 파래는 볼에 담아 굵은 소금을 넣고 조물 조물 주물러 여러번 씻어 낸 후 물기를 꼭 짠다.",
+		"2. 양념 재료를 준비한다 홍고추, 청양고추는 씨를 뺀 뒤 다진다. 다시 담아 보았더니 고추는 옆으로 곱게 채를 썰어도 좋더군요.",
+		"3. 양념을 골고루 섞은 후 파래와 함께 조물 조물 무친다.",
+		"4. 유리용기에 담아 하루 정도 실온에 두었다 매콤한 맛이 배면 냉장고에 넣어 둔다.",
+		"5. 사진 열심히 찍고나니 통깨 넣는 것을 깜빡 했어요 마지막에 통깨를 넣어주세요.",
+		"6. 약간 간간하고 매콤하고 생각보다 순한 맛이에요. 색다른 김치. 맘에 드는 맛이라 기분이 상큼하네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/cfd1684c55199496f0ce819b4c8798a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/fdf0e057a60f2a865ad2916b90b42dd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/0c19cf85c674e12c7f2bca28fb69df171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/96ac04fe8d02ec97b9fe6d3426f140131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/07d1c6d55a60b1499038b3b3d6b705a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/2497c2bc5c9b5dbf10456f0394de99d01.jpg"
+	]
+}

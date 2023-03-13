@@ -1,0 +1,65 @@
+{
+	"id": "6943455",
+	"name": "노버터, 노에그, 노밀크 비건 초콜릿 스콘 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/84e8ef5046d08ff0f4bc5339ea76bb681.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943455",
+	"ingredient_ids": [
+		696,
+		226,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "165",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무가당코코아가루",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "가당두유",
+			"ingre_count": "170",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식물성오일",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 박력분 + 아몬드가루 + 코코아가루를 볼에 넣고 잘 섞어 준비합니다",
+		"2. 두유 + 오일 + 설탕 + 소금을 볼에 넣고 잘 섞어 준비해 주세요.",
+		"3. 가루류 재료를 체 쳐 넣고, 액체 재료를 부어 주걱으로 잘 섞어 주세요.",
+		"4. 어느정도 뭉쳐 날가루가 보이지 않으면, 손으로 뭉쳐 2cm 가량의 두께로 눌러 펴 줍니다.",
+		"5. 스크래퍼를 활용하여 원하는 크기로 잘라 팬닝 합니다.",
+		"6. 170도 예열된 오븐에서 25-28분 가량 구워 냅니다. [오븐 사양따라 다를 수 있으니 반드시 구움색 체크하세요]오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/d987a1f73360a86b8705926184d35f491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/08e10bef5ef65264f293ba812bd407241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/8a9a3a4284cd359cb1cb0bc26f945fea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/4009c9cc5ce8b39d666807efeab0f4561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/1ae424d03db23bc682882d3a9a94924f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/17e2c77816300e3f19bc0caf78cfe3791.jpg"
+	]
+}

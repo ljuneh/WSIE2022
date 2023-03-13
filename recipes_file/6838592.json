@@ -1,0 +1,96 @@
+{
+	"id": "6838592",
+	"name": "북어국 황금레시피/ 북어국끓이는법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/23/69f612e613a764a945c698b41bf1400a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838592",
+	"ingredient_ids": [
+		423,
+		323,
+		379,
+		233,
+		660,
+		497,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "북어포",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파(채썬것)",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "참치액젓(or새우젓)",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 북어포는 먹기좋게 잘라주세요~ 이미 잘라져 있어도 길이가 길 수 있으니 먹기 좋게 손으로 잘라주는게 좋아요!",
+		"2. 북어포를 그대로 참기름에 볶으면 탈 수 있기 때문에 물에 살짝 담가주세요. 우려낼 필요없이 그냥 물만 적시면 돼요",
+		"3. 물에 담갔다 바로 뺀 북어포를 손으로 물기를 꽉 짜준 후(물 버리지 마세요!!)  참기름을 두른 냄비에 북어를 볶아주세요.",
+		"4. 북어 담갔던 물을 냄비에 부어주세요. 모자르면 생수도 더 넣어주시구요^^ 맛있게 하려면 쌀뜨물 넣는게 짱! 저희엄마는 항상 쌀뜨물로 끓이시더라구요~ 전 귀찮아서 생략;;;;",
+		"5. 물이 끓으면 다진마늘 1큰술",
+		"6. 참지액젓2큰술",
+		"7. 간장1큰술  (참치액젓이 없으면 간장만 2큰술 넣어주세요)",
+		"8. 간장이나 참치액젓을 많이 넣으면 국물색이 탁해지기때문에 간은 소금으로 맞추는게 좋아요!",
+		"9. 도마쓰기 귀찮아서 두부는 뚜껑에서 잘라주고 ㅋㅋㅋㅋ",
+		"10. 간을 맞춘 후 두부넣고",
+		"11. 계란 넣고",
+		"12. 마지막에 파 넣어주면 끝!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/23/9c59e81c46b9d78b8c796f016ccd8bb91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/23/154f519cec30400facfc3387c1d4a87d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/23/59803f58b267af98f967326294f1caee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/23/53001d9f5ac869534bb55c8a7a8377221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/23/5a9a51ad799d45ec62d0ac1314663c221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/23/931b0e839a99666a272581a7ef91e4131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/23/8588359027735f5288e794481955340b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/23/c695450a12c5742aedf8e4e4ec86633e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/23/a3c0b4999f86fd274415e70bb44f622e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/23/150c7310aec34ca7c780f285d8c40f701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/23/a7fd4f423956a0077e488aeeb05d3c671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/23/5b99bc805b454500a76d712aaf7001041.jpg"
+	]
+}

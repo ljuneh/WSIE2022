@@ -1,0 +1,64 @@
+{
+	"id": "6945022",
+	"name": "아침에 감자국 끓였습니다. 명란 감자국, 명란요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/dc6b9afab452323997848c52d352f63c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945022",
+	"ingredient_ids": [
+		5,
+		233,
+		27,
+		295
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "명란젓3개...",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다시마멸치육수",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 감자 2개를 껍질 벗기고 길이가 길게 반으로 자르고 반으로 자른 감자를 길게 반으로 잘라 부채꼴로 잘라 냄비에 담아 줍니다.",
+		"2. 냉동실에 있던 명란젓 3개...130g을 쏭쏭 가위로 잘라 잘라 담고 다진마늘 1큰술도 넣어 줍니다.",
+		"3. 그리고 다시마 멸치육수 4컵을 붓고 끓여 줍니다.",
+		"4. 센불에서 한번 고르게 끓으면 중~약불로 줄여 줍니다. 끓으면서 생기는 거품을 걷어 주었습니다.",
+		"5. 마지막으로 대파 1대, 청양고추 2개를 어슷하게 썰어 넣고 후추약간을 넣고 한번 더 끓여 마무리 해주었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/37a97d67a7bf90fe837882ce7be7971c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/ef0e45d0f1779112f56d30343829329d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/87ddc1084653ee84f715637c4ca467421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/1894163794b45bbdc2cb00dfa67c62b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/fe0cde48a040ef44146dcde21bfcd4ff1.jpg"
+	]
+}

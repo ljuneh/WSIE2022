@@ -1,0 +1,72 @@
+{
+	"id": "1503413",
+	"name": "계란 참치 덮밥 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/11/0d3f9ad72481dae70e19188cc8e7aaf5.jpg",
+	"url": "https://www.10000recipe.com/recipe/1503413",
+	"ingredient_ids": [
+		562,
+		7,
+		995,
+		233,
+		292
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "참치통조림",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파작은크기",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "560",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "국간장(조선간장)",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 애호박은 먹기좋게 네모지게 썰어주고, 양파는 송송 얇게 썰어주세요. 대파도 송송 썰어주세요. 작은 양파 약 1/2개 사용함. 큰 양파라면 1/4정도만 사용하세요.",
+		"2. 참치는 중간짜리 통조림 (150g) 짜리로 사용해 주세요. 참치는 사용전에 기름을 제거해주자. 통조림 뚜껑을 아주 조금만 열어 통조림 뚜껑을 누른채로 기울여서 자연스럽게 기름을 빼주세요. 계란은 작은 볼 안에 미리 풀어놓는다.",
+		"3. 냄비 안에 물 을 넣고 바글바글 끓여주세요. 끓기 시작하면 애호박과 양파를 넣고 국간장 (=조선간장), 다진마늘을 넣고 저어준다.",
+		"4. 이제, 기름기 살짝~ 제거해준 '참치' 를 모두 넣어준다. 참치의 살짝 비린맛을 제거하기위해. '맛술' 을 같이 넣는다.",
+		"5. 바글바글 한소끔 끓여준다. 애호박과 양파가 적당히 익었을 때",
+		"6. 미리 풀어둔 계란을 넣어주세요. 넣을때는 그냥 푹 넣지말고 휘~휘~~ 원을 그려가며 계란물을 부어주세요. . . 계란물을 부은 후 , 건드리지 말고. 그냥 바라보고만 있어주세요. 익을 때쯤 소금과 후추로 살짝 간을 해주시면 되고 많이 하시면 짜게 됩니다. 기호에 따라 대파를 넣어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/11/698566557c9406d0be21f29bca4476f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/11/cdc56aec88297c27b48b7214587f70b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/11/35a0f84a33732c634160d323a32d8fd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/11/f01834e959e21f1faec8ef021d4eb7dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/11/6867e52152024dccaccf7f34cb8fd13d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/11/487a09e237c5c9d613f2a53c4bfc0b651.jpg"
+	]
+}

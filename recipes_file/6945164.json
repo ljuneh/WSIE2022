@@ -1,0 +1,57 @@
+{
+	"id": "6945164",
+	"name": "고기 먹을 때 필수템- 파절이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/3eea88da40543d0ec68b06036473b8b31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945164",
+	"ingredient_ids": [
+		231,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "파채",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "부추400g​",
+			"ingre_count": "400",
+			"ingre_unit": "g ​"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "통깨1작은술​",
+			"ingre_count": "1",
+			"ingre_unit": "작은 술 ​"
+		}
+	],
+	"recipe": [
+		"1. 부추와 파채를 적당한 크기로 잘라 줍니다.",
+		"2. 분량의 식초와",
+		"3. 설탕,",
+		"4. 고추 가루를 넣어 줍니다.",
+		"5. 통깨를 넣고 잘 버무려 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/d2a84960d369b62e158f8b7a9b2928801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/ee307b7bded0c9fe0bbee5895511e4a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/6556706b9fa3ecdb82f4a2d4558abbcc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/61ef6bfaae9086a73ddc2a80ce81f9761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/4f6e855c9055148a4d16d09acd44c3c41.jpg"
+	]
+}

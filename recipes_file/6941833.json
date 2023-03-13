@@ -1,0 +1,100 @@
+{
+	"id": "6941833",
+	"name": "참치통조림밥:간편함을 넘어 영양밥으로(코로나극복)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/10ed6870cec3a4a3a935e8c58f53a43b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941833",
+	"ingredient_ids": [
+		96,
+		553,
+		108,
+		30,
+		233,
+		660,
+		327,
+		853
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "늘보리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "발아찰현미",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "흑미",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "완두콩",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "저염강된장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 백미와 늘보리 등 잡곡 한컵을 씻어 밥솥에 넣어 30분이상 불린다.",
+		"2. 참치캔의 기름을 제거한 참치를 밥솥에 담는다.",
+		"3. 채소강된장을 3큰술 정도 넣고 밥물을 쌀과 물의 비율을 1대1로 맞춘 후 취사한다. 강된장 없을 때는 양조간장+소금+청주를 넣어주세요.",
+		"4. 밥이 취사되는 동안 양념장을 만든다.",
+		"5. 취사가 끝나면 바로 주걱으로 뒤적여주세요.",
+		"6. 참치밥과 부추양념장을 함께 내어 비벼먹는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/cb88873df656d600f45c0d5a117e43121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/15b105ca2c53401a860dd4218d0e33101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/729c2a85594259f1206cc5bad23072f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/fce42c2a62604195ad064578178f57fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/68ab4fb1039edc224c92752de875a78a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/292cfcd36c0c8f40ab3df3fcdd613f711.jpg"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"id": "6854462",
+	"name": "특별히 오늘은 달걀 2개! 수란라면",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/11/6048c31d16c4a67c0973f8111202fcd01.png",
+	"url": "https://www.10000recipe.com/recipe/6854462",
+	"ingredient_ids": [
+		441,
+		27,
+		219
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "20",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 대파는 파채칼을 이용해 채 친다.대파 20cm",
+		"2. 냄비에 물(2 + 3/4C=550ml), 라면 수프를 넣고 끓인다.라면 1봉냄비",
+		"3. 끓어오르면 라면을 넣고 젓가락으로 살살 풀어가며 센 불로 끓인다.센 불",
+		"4. 면발이 풀어지기 시작하면 중간 불로 줄인 뒤 달걀을 깨 넣고 대파채를 얹어 뚜껑을 덮는다.달걀 2개중간 불",
+		"5. 2분 뒤 불을 끈다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/11/123bdd204c82c93d981dd040f68045a21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/11/5c5404400242df6e0de0e901570162471.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/11/a8bd145735e1722b100068a448c150211.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/11/7f07d590fc229390b791f17b45acb1711.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/11/37e7248fe79ed53b2460be78d8a85a631.png"
+	]
+}

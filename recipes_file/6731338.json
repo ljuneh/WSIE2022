@@ -1,0 +1,56 @@
+{
+	"id": "6731338",
+	"name": "초간단 스크램블 에그",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/78294f3e51cf8d45be468bac2fbf3d271.jpg",
+	"url": "https://www.10000recipe.com/recipe/6731338",
+	"ingredient_ids": [
+		219,
+		198,
+		497,
+		702,
+		857
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "우유or생크림",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 계란을 풀어 소금, 후추, 생크림 또는 우유를 넣어 섞어 주세요. 팬에 버터를 녹여 주세요.",
+		"2. 버터가 녹으면 계란을 넣고 젓가락으로 저어 주세요. 저는 젓가락으로 시계반대방향으로 휘저으며 가장자리 부분의 달걀을 안쪽으로 밀어넣어주며 섞어주었어요. 점차 몽글몽글 해지면 재빠르게 불위에서 내려주세요.",
+		"3. 완성된 스크램블 에그를 접시에 올리고 파슬리 가루를 약간 뿌려 주시구요~ 곁들일 채소나 과일을 함께 올려주시면 끝입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/3541cf320109a0586a5755ab1df3ad8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/bfe42fafcc6a12242c995dafdcc2db911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/07/6979b81d685da001de1fac0ae22aa93b1.jpg"
+	]
+}

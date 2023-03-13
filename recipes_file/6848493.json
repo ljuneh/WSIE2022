@@ -1,0 +1,81 @@
+{
+	"id": "6848493",
+	"name": "부추김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/d21cfe728cfa35375f06f93df3c47a061.jpg",
+	"url": "https://www.10000recipe.com/recipe/6848493",
+	"ingredient_ids": [
+		30,
+		224,
+		333,
+		390,
+		290,
+		233,
+		455
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "800",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "7",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실원액",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "찹쌀풀",
+			"ingre_count": "7",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 밭에서 바로 따와서 싱싱해요 다듬을게 별로 없어서 바로세척 하네요 부추세척  1. 물을받아서 살살흔들어 부추이물질 제거",
+		"2. 2. 흐르는 물에 다시 행궈냅니다 상추처럼 물기를  탈탈 털어내고 버무릴 큰그릇에 담아줍니다",
+		"3. 양념준비  # 찹쌀풀  믹스커피 먹는 종이컵에  물한컵 찹쌀가루 한스푼  물에 찹쌀가루 잘풀어주고  약불에 졸여주면 됩니다",
+		"4. #양념  고춧가루 멸치액젓 새우젓 매실원액 찹쌀풀 다진마늘 깨 생강가루",
+		"5. 양념재료가 준비가 됐으면  씻어놓은 부추위에  준비한 양념들을 넣고  골고루 비벼가며 무쳐주세요",
+		"6. 부추김치 완성입니다요  김치통에 옮겨닮아 하루정도 실온에서 익혀줍니다 그리고는 냉장고에 넣고 먹는다죠",
+		"7. 바로 무쳐서 싱싱할때 맛봐도 맛있다는요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/feecf2539d15143c9fe6e5169d365fc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/c89707874eb71bb839f2de527c4d6e601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/9efc8257a3adf71244f27f4e58ee7e6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/c469b3db2db059dc0e6efb5a6723bec41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/8afeb57804c1589cb2b14e229aaa3b6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/27fb45a6680c42764a94287c60fc23371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/cab1e672465683d2ebe76aaf06ccf0d71.jpg"
+	]
+}

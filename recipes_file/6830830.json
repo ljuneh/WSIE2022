@@ -1,0 +1,41 @@
+{
+	"id": "6830830",
+	"name": "짜빠구리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/5241d5339860d23eb94a3638c56c2f4b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6830830",
+	"ingredient_ids": [
+		219
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "짜파게티",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "너구리라면",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 물에 너구리 라면의 다시마를 넣고 끓이다 물이 끓어오르면 면을 넣고 반쯤 익을 때까지 끓인다",
+		"2. 물을 1/2컵 정도 남기고 따라낸 뒤 짜파게티 수프 1개, 너구리스프 1/2개개 및 기타 스프를 모두 넣어 잘 섞는다",
+		"3. 약불에서 살짝 볶는다",
+		"4. 달군 팬에 계란을 프라이 한다",
+		"5. 완성된 짜빠구리 면 위에 얹어 마무리 한다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/fa167756dd77ea813bf242b511b5ac711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/09bfc317b564c3b2e8b5aca93be4a5cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/b384494514208d21c6c23c66ece045381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/80243aa7cd3b3c44f90843d69bbc59e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/607abb6ead6a83ebed9c31763cabeb031.jpg"
+	]
+}

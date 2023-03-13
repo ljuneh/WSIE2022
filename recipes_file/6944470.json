@@ -1,0 +1,46 @@
+{
+	"id": "6944470",
+	"name": "소고기육전만드는법 이렇게 쉽다고?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/334a697f19ab89a501ee049305b618d41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944470",
+	"ingredient_ids": [
+		495,
+		387
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요 소고기 (아무부위나 상관없음) 계란, 부침가루",
+		"2. 부침가루와 계란을 다른 그릇에  담아서 준비해주세요",
+		"3. 소고기는 먹기 좋은 사이즈로 잘라준 후  계란과 부침가루에 묻혀주세요",
+		"4. 먼저 소고기에 부침가루를 묻혀준 후  계란을 묻혀주세요",
+		"5. 맛있게 구워주세요  익었을 정도까지만 구워주세요",
+		"6. 이정도가 됫으면 그릇에 담아주세요",
+		"7. 맛있게 먹으면 됩니다! 막걸리 안주로 딱이에요  개인적으로 밤 막걸리가 맛있더라구요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/6a9ba5810dd524f77a6931c496235ae61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/47e7b3b454474d731ebc57aeafb1e9201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/336e7d6b0c0990ff4c71fcdf28de794f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/e1f8e25ebc07e37899c840c4ec9b83d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/b4e3068dec1dd61221990e516ff369b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/dc005a9847e4c1667a156622799428441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/36cf202fe482d220ce7a7f6de546f8271.jpg"
+	]
+}

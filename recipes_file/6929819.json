@@ -1,0 +1,71 @@
+{
+	"id": "6929819",
+	"name": "부산에서 유명하다는 달걀만두 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/04/02/f862795394714ba8253e88cb9d1b46a31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6929819",
+	"ingredient_ids": [
+		219,
+		504,
+		665
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "삶은당면",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진당근",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. *당면이 잠길 정도의 물을 붓고  *당면을 넣고 삶아 주세요. (센불에서 8~10분 정도)",
+		"2. *익은 정도를 확인하고 찬물에 헹군 후  *체에 받쳐 물기를 완전히 뺀 후 썰어 주세요.",
+		"3. 대파,당근,청양고추는 다져 주세요",
+		"4. 달걀을 풀고 참치액을 넣고",
+		"5. 대파,당근,청양고추,당면을 넘고 저어 주세요.",
+		"6. 팬에 식용유를 두르고  반죽을 2큰술씩 넣고 둥글게 펴 주세요 (중약불)",
+		"7. 가장자리가 익어가면",
+		"8. 반으로 접어 고루 익혀 주세요",
+		"9. 완성 그릇에 담아 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/02/568edacdc864e04f36b2a3e162b895da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/02/bd3434e70f31309e4587409b0ed04e471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/02/1d78a94fcd8eb71fc2177445aa96f05c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/02/3535c59c83b656cbc3c685e0d5c7d73a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/02/946b806259119d0206c2325504030c5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/02/039fae093d0429dcf9ed5ae3bb4b164c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/02/4db572edcbc82f1753949fc8edd66bd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/02/b2bb27b4686865610f88abec6be503d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/02/c3e4dd05f4434825d8ce36edcc22d21a1.jpg"
+	]
+}

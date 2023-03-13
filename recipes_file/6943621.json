@@ -1,0 +1,66 @@
+{
+	"id": "6943621",
+	"name": "맛있는 밑반찬 고추어묵볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/8aca5c30ec8a0dad5924bfc3949e7a551.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943621",
+	"ingredient_ids": [
+		548,
+		295,
+		327,
+		379,
+		575,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 청양고추는 어슷썰기를 한후 씨를 제거 한후 웍에 어묵과 담습니다",
+		"2. 들기름을 넣고 볶습니다",
+		"3. 순서대로 양념을 합니다",
+		"4. 센불에서 빨리 볶아냅니다",
+		"5. 그릇에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/0c1304a9104e2be6cb9deb8b9bacd4191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/2adbd5bddf534cd81e70051b92165b2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/3a09bebff49de11a25d701f2987fb2601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/dcba1ff9e6c1290d568538f743458fb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/0386fcc61af341fa5f96af553866731e1.jpg"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"id": "6846712",
+	"name": "방울양배추주스 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/07/29060967acbe2712cf2d948432f04a2a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846712",
+	"ingredient_ids": [
+		365,
+		158
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "방울양배추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실원액",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 방울양배추는 겉잎 떼내고 깨끗하게 씻어서 준비했구요. 생으로 갈아도 좋다던데 저는 살짝 익혀서 갈아줬어요.",
+		"2. 냄비에 물 넣고 데쳐줬는데요. 물이 끓을 때 천일염 넣고 살짝 데쳐줬어요.",
+		"3. 방울양배추는 오래 익히면 쓴맛이 난대요. 저는 1분 정도 데쳤는데도 좀 쓴맛이 나더라구요. 5초 정도만 데쳐도 될듯해요.",
+		"4. 찬물에 헹군 방울양배추와 사과는 껍질째 잘라서 준비했어요.",
+		"5. 데친 방울양배추와 사과 넣어줬구요.",
+		"6. 생수와 매실원액 넣어줬는데요. 제가 해보니 생수 조금 넣어주면 너무 뻑뻑해서 물 넉넉히 넣어주는 게 좋아요.",
+		"7. 재료 넣어줬으니 이제 갈아주기만 하면 되겠죠. 중간에 물이 부족해서 추가로 더 넣어줬답니다. 주스처럼 먹기 편하게 하려면 물 아주 많이 넣어주시구요. 씹히는 식감이 좀 있게끔 하고 싶다면 물양 좀 줄여서 돌려주면 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/29be2bd19d98c4745b32a7e4d171a4d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/8cc5935a1acff9054178f84b015d89ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/993062b3b9d69f5288660306634a67001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/02afb8d6c88464351e9e653376bd9ddd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/bf0359bcf21bfee2982cc1dc5186f5961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/e1aecbb301252782bda63fee1072ee551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/22/900837a21b5599a80539e211bfe8ddbe1.jpg"
+	]
+}

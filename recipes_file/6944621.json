@@ -1,0 +1,121 @@
+{
+	"id": "6944621",
+	"name": "기본 김밥~우엉김밥 맛있게 싸는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/d68f5f8fdd143f63fa0ce7e29894f0d81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944621",
+	"ingredient_ids": [
+		9,
+		496,
+		2,
+		504,
+		660,
+		497,
+		543,
+		2,
+		379,
+		660,
+		497,
+		543
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "4",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김밥김",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "우엉조림(250g)",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "게맛살",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "4",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "1/4",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "1/4",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 깨끗히 씻은 시금치를 끓는 물에 넣어 살짝 데쳐줍니다.시금치1/4단냄비중불",
+		"2. 찬물에 열을 식히고 물기를 꼭 짠 후 간장, 참기름, 소금을 넣어 양념합니다. 전 시금치무침에 간장으로 간한게 맛있더라구요. 개취~간장1큰술, 참기름1큰술, 소금 약간",
+		"3. 통깨를 뿌려 준비합니다.",
+		"4. 뜨거운 밥에 소금, 통깨, 참기름을 넣어 양념합니다.밥4공기, 소금1/2작은술, 통깨2큰술, 참기름1큰술",
+		"5. 달군 팬에 기름을 두르고 채썬 당근을 소금을 넣어 볶아줍니다.당근1/2개, 식용유1큰술, 소금 약간후라이팬중불",
+		"6. 김밥김 위에 양념한 밥을 펼치고 게맛살1/2개와 볶은 당근, 단무지, 시금치, 우엉4줄을 넣어 돌돌 말아줍니다.김밥김1장, 게맛살1/2개, 단무지1줄, 우엉4줄김발",
+		"7. 먹기 좋게 썰어줍니다.도마, 칼"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/3f22a04e080480475408e9e5b2855be31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/b44ed5b7337cc67b8f43eccf6da46bbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/d7baf4c86b217763692bf33e09c40bf51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/2230d383ae4437fb389409127d9166d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/7229a17d322d885f1558dc4b81c485c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/741439c0fe3529752beac8f136d25c1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/dabf562fcc7a9bc5430741fdbf4538891.jpg"
+	]
+}

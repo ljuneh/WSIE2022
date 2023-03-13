@@ -1,0 +1,68 @@
+{
+	"id": "6940374",
+	"name": "[스테이크]맛있는 발사믹 스테이크 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/7013bd86ebc7273fa1dd0dd0f468ca141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940374",
+	"ingredient_ids": [
+		3,
+		266,
+		477,
+		575,
+		393
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "스테이크용소고기",
+			"ingre_count": "2",
+			"ingre_unit": "덩이"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "스테이크소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "발사믹식초",
+			"ingre_count": "8",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 양파 한개를 채썰어 줍니다.",
+		"2. 기름을 두르고 냄비에 양파가 투명해질때까지, 흐물흐물 해질때까지 볶아줍니다.",
+		"3. 볶아진 양파에 스테이크 소스를 2큰술",
+		"4. 굴소스 6큰술",
+		"5. 발사믹식초 8큰술",
+		"6. 올리고당 4큰술 넣어줍니다.",
+		"7. 소스가 걸쭉 해질때까지 계속 끓여줍니다.",
+		"8. 소스를 끓일 동안 예열한 팬에 소고기를 구워줍니다.",
+		"9. 고기가 다 구워지면 그릇에 담고 소스를 얹어주면 완성이예요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/d6dc15e9b802d4dab1342065172c06201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/954374287f2ccd3eb3a5da9265f019461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/4448bff5ac63d28e29ccc2b979b5118b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/e7a94f9af6ee54524dd85cdfa5f55f611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/4cc33313d54e487db12b4e3038e6771d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/9b44776b24bc58a7da2553f789bae30c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/29957198dffe620a46deb322372dac621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/1604eec363107b1a3a6149605f93cdde1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/50441aa5687184d749eac0fd25f5dd571.jpg"
+	]
+}

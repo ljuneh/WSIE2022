@@ -1,0 +1,123 @@
+{
+	"id": "6942424",
+	"name": "차돌박이 쫄면 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a9c8a1a48151b76e81e398d775ccaa6a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942424",
+	"ingredient_ids": [
+		900,
+		158,
+		3,
+		15,
+		162,
+		226,
+		231,
+		379,
+		473,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "차돌박이",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "쫄면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실즙",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": "소소"
+		}
+	],
+	"recipe": [
+		"1. 사과 반개를 채 썰어 주세요",
+		"2. 양파 1/4개를 채 썰어 주세요",
+		"3. 꺳잎 10장을 돌돌 말아 채 썰어 주세요",
+		"4. 뭉친 깻잎을 위생팩에 넣고 흔들어 주면 간단히 풀어 줄수 있어요",
+		"5. 아보카도 1개를 슬라이스 해 주세요",
+		"6. 모든 야채를 준비하신 후",
+		"7. 양념: 설탕 1T, 고추가루 2T, 매실즙 2T, 식초 2T,간장 1T고추장 1T,참기를 1T, 참깨를 뿌려주세요",
+		"8. 끓는 물에 면을 넣고 3부넝도 삶아 주세요쫄면을 삶을때 식초를 한방울 넣으면 쫄면 특유의 잡냄새가 살아지고 식감이 훨씬 쫄깃해 집니다.",
+		"9. 면, 야채, 양념장을 넣고 비벼주세요",
+		"10. 고소한 맛을 더해주기 위해 아몬드를 넣었어요",
+		"11. 차돌박이 1팩 준비",
+		"12. 앞뒤로 맛있게 구워주세요",
+		"13. 탱글탱글 쫄면과 고소한 차돌박이",
+		"14. 맛있게 드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e475457972eb4cdb93a8f7900649faec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/31fe006e29846e57c301aa7f3702016f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/2d43c4302d53c0b426761ec041eeb0b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/f516a89dcb9ea190c0dd6b5e4ceefb301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d70aa6365d37c8e1cee0f87ea4fd90961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/11a714297f0faba299159273ffdc55c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/9dc6b8fba0925109da00e86ba16662981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/f9b1d142aa30caa22bf95b2069ff6dbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/14531240d303e5bd227d3f65a8205eea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/291c9148ec22060027a6db66591996f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/8d0a505b7124a37cd5fc61ef3c462cf81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a110aa3f4bf7ccececeb2cce3c1b9e311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/fbfcf919d4b1110b945cbc472c25c78e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/4dc0c719b14e75ff55a204a9cabc4fd91.jpg"
+	]
+}

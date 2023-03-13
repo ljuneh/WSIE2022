@@ -1,0 +1,72 @@
+{
+	"id": "6944333",
+	"name": "두부 콩국수 만들기, 이렇게 간단해도 되는거야?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/e9dacae0b9f675330639036a69c52d9e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944333",
+	"ingredient_ids": [
+		323,
+		497,
+		226,
+		290,
+		192,
+		8,
+		523
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "150-200ml",
+			"ingre_unit": "-ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "8",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "캐슈넛",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 위에 써놓은 재료들을 믹서에 넣고 다 갈아주시면 됩니다! 물론 소면과 오이는 제외!!! ",
+		"2. 두부도 역시 콩으로 만들기 때문에 콩국수와 제법 비슷한 맛이 나더라구요. 심지어 견과류와 깨가 아낌없이 들어가서 정말 고소해요~!!!",
+		"3. 저는 견과류 중에 캐슈넛을 사용하였는데 다른 견과류로 대체해도 괜찮을 거 같아요! 대신 깨는 필수입니다!! 깨가 갈려서 고소함이 극대화되거든요ㅎㅎㅎ ",
+		"4. 물이 바글바글 끓으면 소면을 넣어주세요~!",
+		"5. 고명으로 오이가 빠지면 섭하죠~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/b5e5ba85de6a0d004250c4e664d527131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/9170756ac92f0cd4c80e1ab31c3acd0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/4893a434f58fe81e5b0477bce500bc3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/78b4ffd11dc1403e0b249d30a02464911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/80070e6790ff45f8d326aabbd4fe3f421.jpg"
+	]
+}

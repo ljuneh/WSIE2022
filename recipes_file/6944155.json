@@ -1,0 +1,99 @@
+{
+	"id": "6944155",
+	"name": "깻잎지",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ad5b87ff88864b1de704d77b3c1325831.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944155",
+	"ingredient_ids": [
+		15,
+		9,
+		757,
+		349,
+		939,
+		224,
+		29,
+		543,
+		660,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "100",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "5",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "청홍고추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 깻잎은 깨끗이 씻어서 가지런히 끝을 맞춰 소쿠리에 받쳐둡니다.",
+		"2. 당근은 채썰고 청.홍고추와 쪽파는 잘게 다집니다.",
+		"3. 2)에 간장등 분량의 양념으로 양념장을 만듭니다.",
+		"4. 마늘 고춧가루도 빠짐없이 넣어요.",
+		"5. 통깨와 참기름도 넣구요.",
+		"6. 마지막으로 물을 붓고 양념장을 완성합니다.",
+		"7. 보관통에 깻잎을 2~3장씩 깔고 양념장을 끼얹어 줍니다. 이 과정을 반복합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/6058e0389f88c855d5c0716ec2c60ba21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1f90aecbee4fc3d011027fafb49cb2431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/40514cc168da75f9ec5f63653fd3ca871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/3b49d526cfbe43cfddad3e1f1a0025d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/039e04c8d97210446d1ca0c6c3628c791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/5522accfe4686f325baf356cfbc51d071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/38a54ed76b5ae2a520f273c44648e0391.jpg"
+	]
+}

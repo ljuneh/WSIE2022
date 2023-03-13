@@ -1,0 +1,75 @@
+{
+	"id": "6942024",
+	"name": "알리오 올리오 파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/ba69aaf8013855ebfe92a07d6dc1ec671.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942024",
+	"ingredient_ids": [
+		29,
+		920,
+		295,
+		497,
+		467
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "삽겹살",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "8",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "페퍼론치노",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파스타면",
+			"ingre_count": "",
+			"ingre_unit": "먹고싶은만큼"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "1/4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "파슬리가루4번정도툭툭",
+			"ingre_count": "4",
+			"ingre_unit": "번정도 툭툭"
+		}
+	],
+	"recipe": [
+		"1. 1. 냄비에 소금 1/3 숟가락과 물 500ml를 넣는다. ※ 면을 가만히 놔두면 냄비의 열이 계속 전달돼 면이 타버린다. 면이 타지않게 움직여준다.  집게로 눌러 면이 물속에 잠길정도로 부드러워지면 놔둔다. 면은 10분정도 삶으면 부드럽다.",
+		"2. 2. 재료손질(물이 끓기를 기다리며) 2-1) 마늘은 2등분을 한다.(4등분 이상 하면 두께가 얇아져 쉽게 탄다.)  2-2) 청양고추는 얇게 썬다.(고명용) 2-3) 페퍼론치노는 2등분 한다. 2-4) 삼겹살은 원하는 크기로 썬다.",
+		"3. 3. 볶기(면 삶기 시작 6분경과 후에) 3-1) 팬에 올리브 오일 5숟가락을 두르고 마늘을 볶는다. 3-2) 마늘 향이 올라오면 삼겹살과 페퍼론치노를 넣고 볶는다. 3-3) 원하는 색깔이 나올때까지 볶는다.  3-4) 파슬리 가루, 소금, 후추, 치킨스톡을 넣는다. 3-5) 1차로 맛을 본다. 이때 좀 짠데? 느낌이 들어야 한다. 그래야 면을 넣었을때 간이 적당하다. 면 없이 먹었을때 밍밍하다면 면을 넣으면 아무 맛도 안난다. 그냥 기름 먹는맛.",
+		"4. 4. 면 투입 및 마지막 볶기(소스는 뜨거운 상태여야 한다.) 4-1) 냄비에서 면을 꺼내고 물기를 2~3회 털어준 뒤 소스에 넣는다. 면수도 1/2~1국자 넣어준다. ※ 털지않고 넣어도 되는데 털지않고 넣으면 수분이 들어가 밍밍해진다. 4-2) 불을 최대로 올리고 면을 계속 이리저리 움직여서 간이 스며들게 한다. 4-3) 팬에 있던 소스가 줄어들고(면이 소스를 머금으면) 마지막으로 부족한 간을 한다.",
+		"5. 5. 완성된 알리오 올리오 파스타를 접시에 담는다. 6. 먹는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/253aabad335ba7d1e5b48190a8fd80d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/7cc13b53d0503e29b9e690d2974cd1c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/9eed76c0b4650cd4998fee962ebee4261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/f0154afbcce8c2c178459a36a16115ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/81ff4c1206646ba6a90cdde478b734a31.jpg"
+	]
+}

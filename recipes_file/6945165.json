@@ -1,0 +1,50 @@
+{
+	"id": "6945165",
+	"name": "푸실리 요리 / 푸실리 마요네즈 샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/b2ffa87f12b19e0e7e0803e5179de6351.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945165",
+	"ingredient_ids": [
+		6,
+		226,
+		228
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "푸실리",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 푸실리를 준비한다.",
+		"2. 푸실리는 뜨거운 물에 소금, 오일을 넣고 삶는다.",
+		"3. 삶은 푸실리는 찬물에 씻어 물기를 제거한다.",
+		"4. 파프리카는 주사위 모양을 잘게 자른다.",
+		"5. 준비한 재료는 그릇에 모두 담는다.",
+		"6. 설탕, 마요네즈를 넣고 섞는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/ab6d3f9adfa5a41688e598bac29c10891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/5e5033a2e277b297788bd32958801de41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/e5ebf1c9b86bac8c477d6dd8acadc0301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/20a13907736b6e77b1307032142f9f021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/3112e7f27de8c7b5cda50632afe88eb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/d96073b1abbc36960d4e54a02065f8841.jpg"
+	]
+}

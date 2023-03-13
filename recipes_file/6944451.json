@@ -1,0 +1,44 @@
+{
+	"id": "6944451",
+	"name": "달달한 고구마라떼~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/99a45867ea4af796979f2a05d5db8f521.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944451",
+	"ingredient_ids": [],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "찐고구마",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "시나몬가루",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "꿀이나메이플시럽",
+			"ingre_count": "",
+			"ingre_unit": "상황에따라"
+		}
+	],
+	"recipe": [
+		"1. 찐고구마 2개를 적당한 크기로 잘라 우유 600ml와 함께 믹서기에 넣고 갈아준다찐고구마 2개, 우유 600ml믹서기",
+		"2. 고구마의 크기에 따라 우유를 더해준다너무 되직하게 않게 갈기위해 고구마에 따라 우유를 더해준다",
+		"3. 믹서기에 갈은 우유를 냄비에 넣고 중불에서 가열해준다..중불우유가 끓어넘치기않게 저어주면서 끓여준다",
+		"4. 적당량 컵에 담고 나머진 거품기로 거품을 만들어준다거품기",
+		"5. 컵에 담은 후 시나몬가루를 톡톡 뿌려준다시나몬가루"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/d6aae747d404979a32a5e53e799ba1a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/6329fed370ef7f369344cd46e66c53f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/e6ffcf623fe8847088bb302312d262cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/65b8cd27b5f1012d1f70aaa75ac674aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/7c6b1490b168fe6308039c7cb7cb0ea51.jpg"
+	]
+}

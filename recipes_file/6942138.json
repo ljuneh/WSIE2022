@@ -1,0 +1,80 @@
+{
+	"id": "6942138",
+	"name": "쌀 단호박 사블레",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/883ea942dba458b2f51991116cf140f41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942138",
+	"ingredient_ids": [
+		198,
+		884
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "버터",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력쌀가루",
+			"ingre_count": "110",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "단호박분말",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드분말",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개분"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "토핑용설탕",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 버터를 부드럽게 풀어주세요.",
+		"2. 슈가파우더를 넣고 골고루 섞어주세요.",
+		"3. 달걀노른자, 바닐라익스트랙을 넣고 잘 섞어주세요.",
+		"4. 미리 체쳐놓은 가루류(쌀가루,단호박분말,아몬드분말)를 넣고 가르듯이 섞어줍니다.",
+		"5. 낱가루가 보이지 않을 정도로 섞이면 비닐봉투로 반죽을 옮겨주세요.",
+		"6. 반죽 자체가 잘 부서지는 반죽이기 때문에 비닐봉투의 도움을 받아 한 덩어리로 뭉쳐줍니다.반죽양이 적을때는 그냥 손으로 뭉쳐주셔도 되요. 다만 강하게 누르기보단 한 덩어리로 뭉치기만 한다는 느낌으로 해주어야지 구운 후에 모래처럼 부서지는 식감으로 만들 수 있어요. ",
+		"7. 종이호일이나 유산지 위에 반죽을 긴 원통형으로 대충 모양을 잡아서 놓아주세요.",
+		"8. 종이로 감싼 뒤 스크래퍼를 이용해서 반죽을 밀어주어 모양을 잡아주세요.",
+		"9. 모양이 잡히면 종이로 감아서 냉장고에서 1시간 동안 휴지시킵니다.",
+		"10. 반죽이 자르기 적당하게 단단해졌다면 냉장고에서 꺼내고 겉면에는 설탕을 골고루 뭍혀줍니다.",
+		"11. 두께 1cm로 잘라주세요.",
+		"12. 팬에 적당한 간격을 두고 팬닝해 주세요. 저는 타공매트를 이용해서 구워주었어요.",
+		"13. 170도로 예열된 오븐에 약 12분간 구워줍니다. 굽은 온도와 시간은 사용하는 오븐과 쿠키 크기에 따라서 조절해 주세요.오븐",
+		"14. 노랑노랑 단호박 쿠키 완성이예요 ~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/d5ebba4571bf8fd08ec2733f4ecabe451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/d9bcb4b3fef2aec4c166e043b8badef91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/68bb9bbb4c50d1634331719f396d96601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/18352d05aa66c4ad15e9e1daee572b4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/c6046f3c620f6ce3346e71e84130cbbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/16476a11c27139b3a89888332c48ebd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/036426580a541421837b1811dfd6c2271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/231e57a7c4496e838c7afa8ad091fc521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/2d882a51d6151a89d6954a2ef54776891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/156cac41d4f7c55cbb21a0c53fce5ded1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/027932317e48d988f99225b94e299e561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/5bc26e5505cf71f9fe2c3a32f01145a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/753959d624c51b83626c1a018e8493e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/161e18fe76cb6696dd0e013d98b4f1f81.jpg"
+	]
+}

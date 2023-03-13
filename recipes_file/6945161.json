@@ -1,0 +1,46 @@
+{
+	"id": "6945161",
+	"name": "귤젤리 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/398b58b16309aed875d6e069cf5fe7781.png",
+	"url": "https://www.10000recipe.com/recipe/6945161",
+	"ingredient_ids": [
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "귤",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "분말한천",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "회곤약",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 준비 재료 귤 3개(200g), 분말한천 2g, 회곤약 2g, 설탕 50g분말한천은 회곤약 동량으로 대체 가능합니다 ",
+		"2. 귤을 반으로 잘라 과육과 껍질을 분리해주세요",
+		"3. 믹서기에 귤 과육 200g을 갈아주세요",
+		"4. 갈아놓은 귤 주스에 분말한천 2g, 회곤약 2g, 설탕 50g을 넣고 잘 저어준 뒤 끓여주세요",
+		"5. 끓인 액을 귤껍질에 부어주고, 굳혀주면 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/ec5fc6f7ec0105a50019b9c942ca98f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/59a55fb97d452508f17245c859e3e0871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/c51780f88878a838063433da128b54bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/3d182f5d06c8849c32fc5638b7b646ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/e8be03bc49fa3e75619ace88cbe3239f1.jpg"
+	]
+}

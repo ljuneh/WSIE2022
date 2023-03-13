@@ -1,0 +1,66 @@
+{
+	"id": "6940520",
+	"name": "#2정식품 콩국물로 만들어 고소함 두 배 고구마스프",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/920b0495739585df49483e64a2848a811.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940520",
+	"ingredient_ids": [
+		4,
+		3,
+		198,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "35",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "체다슬라이스치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "정식품콩국물",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 팬에 버터를 넣고 녹기 시작할 때 채 썬 양파를 넣어 갈색 캬라멜화 될때까지 볶아줘요",
+		"2. 양파가 갈색으로 변하기 시작할 때 익혀둔 고구마를 넣어 으깨 함께 살짝만 볶아줍니다.",
+		"3. 콩국물을 300ml넣어 한소끔 끓여준 후",
+		"4. 끓인 재료를 믹서기에 넣고 곱게 갈아준다",
+		"5. 곱게 갈아낸 재료는 다ㅣ 냄비에 옮긴 후 소금과 후추로 간을 해 준 후 약불에서 저어가며 끓여준다",
+		"6. 마지막으로 부드러운 목넘김을 위해 치즈 한장을 넣어 녹이며 끓여내면 끝~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/6cbf6dfdd5b7b91d3bf118c560a0d7e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/0467d8294670f59f133775062e2bc2191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/ec3b13ec9cca333e9fc959365262f78e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/7ae575fd24fab6d8c08df69027430a2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/6e0cc4ce9726538c7a581f1af22d289a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/4a2609c6f2cb81ef26e6e9b35805eb321.jpg"
+	]
+}

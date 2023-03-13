@@ -1,0 +1,71 @@
+{
+	"id": "6941559",
+	"name": "코로나 극복~ 김치돼지고기두루치기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/63a5c1a663cc948563c3a5a640ad4df91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941559",
+	"ingredient_ids": [
+		398,
+		327,
+		225,
+		226,
+		379,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기앞다리살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "배추김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3~4큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1~2큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "각종야채",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		}
+	],
+	"recipe": [
+		"1. 먼저 들기름에 잘 익은 배추김치를 넣어 볶아 줍니다",
+		"2. 여기에 돼지고기 앞다리살을 넣고 후춧가루와 설탕, 간장을 살짝 넣어 같이 볶아 줍니다 ",
+		"3. 어느정도 볶아지면 고춧가루도 살짝 넣어 줍니다",
+		"4. 각종 야채도 취향껏 넣어 볶아 줍니다 마지막에 불을 끄고 참기름을 몇방울 떨어뜨려 줍니다",
+		"5. 앞다리살임에도 살코기는 부드럽고 지방과 껍데기가 고소하면서 쫀득하고^^ 김치를 같이 볶아서 더욱 깔끔하면서 시원하고 그냥 먹어도 짜지 않아서 좋고~~ 양파를 넉넉히 넣어 달달하면서도 고추의 향이 배어서 참 맛있어요! 갓 지은 따뜬한 밥에 올려 먹으니 대박!! 다른 반찬 전혀 필요 없어요!^^ "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/e0b32fa1d19c5072a4441b04c533800c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/605ff9c686a0be5cfcf7beb89a40b7cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/f284dc24e218b4e520d9ba22d95f63ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/4e05880ed29853ddbb119b3c66ada52c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/fdeea23af4f97615aa7b81bdfd0522561.jpg"
+	]
+}

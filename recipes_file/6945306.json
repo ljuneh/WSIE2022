@@ -1,0 +1,83 @@
+{
+	"id": "6945306",
+	"name": "무청시래기 고등어조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/e6ffb7217f6effddbaff33f16b1dc8d71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945306",
+	"ingredient_ids": [
+		59,
+		349,
+		379,
+		292,
+		455,
+		224,
+		233,
+		295
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "무청시래기",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "고등어",
+			"ingre_count": "1/2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 무청시래기는 10cm 길이로 잘라 한 줌만 사용해요 냄비 바닥에 깔아 줍니다 ",
+		"2. 고등어 1/2마리도 2~3도막 잘라 시래기위에 올려요 ",
+		"3. 양념 담고 물 1/3컵 부어 뚜껑열로 끓여요",
+		"4. 보글보글 끓으면 중불로 줄이고  국물 끼얹으며 조림 합니다 ",
+		"5. 국물 자작해지면 마무리~ 다진마늘 넘 많이 넣었네요 ㅡㅡ;; 다진마늘은 1/2T만 넣는걸로~~ 무청시래기 고등어조림 완성입니다 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/2bd3f8db90f797c03e6933d36f23b9531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/846dedd36b3a1d39f63e1ba92eb6b4ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/962a691d7290021d3e70ee965d3323011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/bdfdb5d06ed6a2745299a96327e539411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/c02a5fd52488afdeaa8c648c8237ec741.jpg"
+	]
+}

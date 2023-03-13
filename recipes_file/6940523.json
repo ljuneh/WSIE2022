@@ -1,0 +1,55 @@
+{
+	"id": "6940523",
+	"name": "♥[신혼간식] 허니버터고구마",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/e85185078fe661a2e0720df8516973ef1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940523",
+	"ingredient_ids": [
+		4,
+		198,
+		227
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "4",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "플레인요거트",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 고구마를 8~10분정도 쪄주세요.",
+		"2. 젓가락으로 찔렀을 때 반쯤 들어가면 에어프라이어 180도 7분~20분 정도 돌려주세요.에어프라이어겉바속촉 에어프라이어 활용 추천!",
+		"3. 고구마 껍질을 벗긴다음 1/3정도 반을 갈라주세요.너무 뜨거워서 손댈 수 없다면 칼집 내주기! ",
+		"4. 고구마 사이에 버터 쏘~옥",
+		"5. 단맛을 좋아하는 만큼 꿀을 뿌려주세요.",
+		"6. 파슬리가루 솔솔 기호에 따라 플레인요거트를 찍어 드시면 디저트 홀릭!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/ec3bcc126ec50bcd0c96add02ad961031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/dbd65b4f0d2ff27ec9de7ec2dfd151161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/6eff2eb508afb35e0b94c5a05598a6741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/8741ea6e4a2f38f6dabb063e5c84e7241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/ddf1454ca4ee6fb2ad438fcf9b06e34e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/53699d5dfefd44326bd433b0e37a0f441.jpg"
+	]
+}

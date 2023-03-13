@@ -1,0 +1,95 @@
+{
+	"id": "1764184",
+	"name": "동태탕 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/da0562244f4c04145e1db1e659284359.jpg",
+	"url": "https://www.10000recipe.com/recipe/1764184",
+	"ingredient_ids": [
+		19,
+		47,
+		31,
+		90,
+		233,
+		295,
+		27,
+		545
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "작은크기동태",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "쑥갓",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "새우버섯분말",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 료는 미리 손질해두고이부분에서 가정에 있는 재료 더 보충해서 넣으셔도 됩니다.저는 평상시에 이정도에서 가끔 미더덕을 넣기도 해요.",
+		"2. 재료 씻으실때 생선 대가리 근처 내장 사이에 강낭콩 크기의 초록색 쓸개가 있는지 없는지 잘 확인하시고 떼어내셔야 국물맛이 씁쓸하지 않거든요. 쓸개만 떼어내고 나머지 내장은 모두 넣어서 끓여야 국물이 기름지고 맛있어요. 동태는 우럭처럼 기름기가 많은 생선이 아니므로 그냥 내장 다 넣으셔도 됩니다. 물론 대가리도 넣으시구요, 손질해서 김치냉장고 선동기능으로 보관했던 동태 입니다.",
+		"3. 만능냄비에 물, 다시마를 넣어 물이 끓으면 다시마는 건져내고무를 넣고 1~2분 팔팔 끓이다가",
+		"4. 동태, 다진마늘, 고추가루, 새우버섯 분말을 넣어말린 새우랑 버섯을 가루로 만들어 이렇게 넣으면국물맛이 훨씬 감칠맛납니다.없으시면 요즘 맛선생이나 산들애 같은 천연재료 조미료 넣으세요.",
+		"5. 다른 재료 더 이상 넣지않고 이 상태에서동태가 거의 다 익을때까지 팔팔 끓입니다.",
+		"6. 동태가 거의 익고 국물이 우러났으면 소금으로 간을하고남은 재료를 넣어서 한번 팔팔 끓여 완성하면 됩니다.소금간은 천일염으로해야 국물이 시원하고 맛있어요.정제소금하고는 맛이 전혀 다르거든요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/dc3dbbfb3de35daaa94bf71ca4b4dc191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/f3651229588f2dcb02a127538880eac91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/1c9995ff6a9d262b58839ef95a73bde71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/b04cae2db5c592f2ee77e2f8211f7ab91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/e4e10ce650dc1dbdf5166c01634193c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/22/64f4f5f39c5bc1a5273d2486ba4e7a151.jpg"
+	]
+}

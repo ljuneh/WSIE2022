@@ -1,0 +1,47 @@
+{
+	"id": "6940778",
+	"name": "간장계란밥의 뒤를 이를 갈치밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/150149116f78fdc8d0a2ee50dd76ce841.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940778",
+	"ingredient_ids": [
+		67,
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "갈치",
+			"ingre_count": "2~3토막",
+			"ingre_unit": "~토막"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 갈치는 식용유를 살짝두르고 강불에서 달궈 중불에서 앞뒤로 노릇하게 구워주세요강불-중불",
+		"2. 잘구운 갈치는 살코기만 바르고 가시는 전부 제거해주세요.",
+		"3. 밥에 밑간을 해주는데 집간장,국간장안됩니다. 진간장이나 맛간장을 사용해주세요.",
+		"4. 그리고 참기름도 넣고 잘 비벼주세요. 진간장과 참기름의 비율은 본인입맛대로 하시면 됩니다.",
+		"5. 간장과 참기름으로 밑간한 밥위에 갈치살을 올려주면 완성~ 잘 비벼서 드세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/edb37a14497640c6f7f4b2514a6ec81a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/606a7b3e3eb581d7b702c239429ae57b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/7f63a9f72281637215aafa55f5a16b8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/a3c825ec2794248cc99e701fd4bc17951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/69a786712bbd33b63d7d47400b60ec8b1.jpg"
+	]
+}

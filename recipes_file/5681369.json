@@ -1,0 +1,60 @@
+{
+	"id": "5681369",
+	"name": "고소하고 달콤한 들깨강정",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/d0e2bc978a35fc412d60554e39f6dba41.jpg",
+	"url": "https://www.10000recipe.com/recipe/5681369",
+	"ingredient_ids": [
+		184,
+		226,
+		575,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "들깨",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "땅콩",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "4.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4.",
+			"ingre_unit": ".큰술"
+		}
+	],
+	"recipe": [
+		"1. 들깨는 물로 깨끗하게 씻은 후 돌을 제거하고 체에 밭쳐 물기를 빼주세요.",
+		"2. 국내산 볶음땅콩은 껍질을 제거해주세요.",
+		"3. 달군 냄비에 물기를 뺀 들깨를 넣고 저으면서 볶아주세요.",
+		"4. 들깨가 타지 않게 노릇노릇하게 볶아주세요.",
+		"5. 달군 프라이팬에 설탕, 올리고당, 물을 넣고 설탕이 녹을 때까지 젓지 말고 약불에서 보글보글 끓여주세요. 설탕, 올리고당, 물의 비율은 1 : 1 : 1로 했습니다.",
+		"6. 엿물에 볶음들깨와 땅콩을 넣고 재빨리 한 덩어리로 만들어주세요.",
+		"7. 도마 위에 유산지를 깔고 엿물에 버무린 들깨를 올려주세요. 유산지로 덮은 후 밀대로 반듯하게 밀어서 식혀주세요. 유산지를 사용하면 내용물이 달라 붙지 않아서 좋답니다.",
+		"8. 강정이 굳기 전에 먹기 좋은 크기 원하는 모양으로 썰어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/2ec5f7e68a23f7c6cfeb734a2e7512a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/5a4fb745d0a28b1238e3d40080518cab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/b424b5ceb0e29e6fd91539a1c614789f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/b7407a56c707470804c2028e482129b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/d52fd5a561e2a17be8615dc6ed6ddea01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/00e9b97440d8fcf8f69cb4608cddb0bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/3c9f2de593f3ed42b1effed6e0a9ca3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/2eb42f50a4c869ca4dfd98393b6a96031.jpg"
+	]
+}

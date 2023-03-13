@@ -1,0 +1,91 @@
+{
+	"id": "6942476",
+	"name": "카레 돈가스덮밥 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d6600cbab724a844d0d1eab6437f8c181.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942476",
+	"ingredient_ids": [
+		9,
+		5,
+		3,
+		6,
+		158,
+		995,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "카레용돼지고기",
+			"ingre_count": "140",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "치즈돈가스",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 기름을 두르고 돼지고기, 감자, 당근, 양파순으로 볶아줍니다.돼지고기140g, 감자1개, 당근1/2개, 양파1/2개, 식용유1큰술후라이팬중불",
+		"2. 물 3컵을 넣어 끓여줍니다.물 3컵",
+		"3. 채소가 익는 동안 돈가스를 튀겨줍니다.치즈돈가스1장, 식용유 넉넉히팬약불",
+		"4. 채소가 익으면 카레 푼 물을 넣어 섞어줍니다.카레가루80g, 물1컵",
+		"5. 사과와 파프리카를 넣어 살짝 끓여줍니다.사과1개, 파프리카1개사과와 파프리카는 마지막에 넣어 살짝 끓여줘야 아삭한 식감을 살릴 수 있어요.",
+		"6. 튀긴 돈가스를 한입 크기로 썰어 밥 위에 얹어줍니다.밥1공기, 치즈돈가스1/2장",
+		"7. 돈가스 위에 카레소스를 얹어줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/8ce2fbd32170d43fa5a8cf93c585d49f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e113dfcfe4f3701d4f94250f985e3bed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/873d1434b4c7780b193f49a8c68f5a111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/ce88404381c59965a715c517c39bdb961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/813f6eefee488458e973530fd4ad2cc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/9143a696435a98342060eadb11f707f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/8c53f6e0a1449c4fc2c081f5d0bdd4621.jpg"
+	]
+}

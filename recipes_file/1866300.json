@@ -1,0 +1,41 @@
+{
+	"id": "1866300",
+	"name": "이른새벽 사과잼만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/28769c07a459d5a91ddd67ac1fe28774.jpg",
+	"url": "https://www.10000recipe.com/recipe/1866300",
+	"ingredient_ids": [
+		158,
+		134,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "사과",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "레몬",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 사과껍질과 씨를 제거하시구요. 얇게 썰어주시면 재료준비끝.",
+		"2. 설탕은 사과의 50% 넣으시면되요.",
+		"3. 냄비 불에 올리시구 아무것도 넣지 마시구 슬라이스한 사과넣고 위에 설탕부어주세요. 불은 약불로 하시구요. 뚜껑도 덮어주시구요. 그대로 두시면 된답니다. 한 10분정도 지나면 사과에서 수분이 나와 보글보글 끓어 주네요.",
+		"4. 한 20분 더 졸여주시면 색깔도 많이 변하구요. 가끔 나무주걱으로 저어주시면서 타는지 살피시면 되요. 이제 갈아주면 완성인데요. 그전에 레몬 1개 즙을 짜서 향을 더했는데 없으면 안넣으셔도 상관없답니다. 살짝만 더 졸인후에 핸드믹서로 갈아주시면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/38c15305a58cf281caf17090bf9ea08f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/4ebda39ffa32572622d7ff32c0cdde1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/66a400d8cf12f927717da0e6a6d598da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/30/a3cc032996653e502b0ce8522a07397e1.jpg"
+	]
+}

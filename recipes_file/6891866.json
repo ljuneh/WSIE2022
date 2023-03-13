@@ -1,0 +1,52 @@
+{
+	"id": "6891866",
+	"name": "요리가 아니다! 초간단 <명란 아보카도 비빔밥>",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/01/4b3e44d3d99ff3d9635359f0bc2ea5dc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6891866",
+	"ingredient_ids": [
+		162,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "명란알",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쯔유간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 아보카도는 껍질이 거뭇거뭇해야 잘 익은 아보카도 입니다. (1인 반개면 충분)녹색끼가 많이 도는 아보카도는 실온에 후숙 후 사용하세요",
+		"2. 반으로 갈라 내 중앙에 씨를 큰 칼을 툭 꼽아 약간 비틀어 뽑듯이 제거해줍니다",
+		"3. 껍질을 제거한 아보타도는 먹기 좋은 크기로 잘라 줍니다",
+		"4. 냉동보관중인 저염직 명란젓! 녹기전에 칼집을 내어 껍질을 벗기면 쉽게 벗길 수 있습니다명란젓이 많아 다 못드실 경우 꼭 소분하여 냉동보관하세요",
+		"5. 계란 후라이와 김가루를 더해준 후 참기름을 둘러주면 명량 비빔밥 완성! 기호에 맞게 쯔유 간장을 넣어 간을 맞춰 드시면 됩니다.쯔유 간장이 없을 시 일반 간장:설탕:물=2:1:2을 넣고 끓여 내어 사용하세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/01/609cd1b721c5d5eb12dbbdba77b9e2871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/01/e359eb262b94b9c02f2b352fc2fd00a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/01/d53896d584a4afaeebfe3b995f1920831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/01/6b61b815053ff6fc98f4ff1835c314bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/01/579c5f6459b28f2311bc438f01aee70f1.jpg"
+	]
+}

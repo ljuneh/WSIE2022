@@ -1,0 +1,73 @@
+{
+	"id": "6875013",
+	"name": "옥수수참치전. 간단한 아이반찬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/d909a1586f1967596ec1593f047e99211.jpg",
+	"url": "https://www.10000recipe.com/recipe/6875013",
+	"ingredient_ids": [
+		22,
+		3,
+		387,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "참치1캔(150g)",
+			"ingre_count": "1캔(150g)",
+			"ingre_unit": "캔(g)"
+		},
+		{
+			"ingre_name": "옥수수캔",
+			"ingre_count": "1/2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 참치는 기름기를 쪽 빼주고요.  옥수수도 물기를 빼주세요.",
+		"2. 피망과 양파는 잘게 다져 준비해주세요. 더 예쁘게 하고 싶으시다면 당근도  썰어서 넣어주시면 알록달록 예쁘겠죠?",
+		"3. 준비해놓은 재료를 볼에 넣고,  부침가루나 밀가루 2스푼, 계란 2개를 넣어 잘 섞어주세요.저는 간이 되어 있는 부침가루를 넣었고,  케찹을 찍어 먹으려고  소금, 후추 간을 약간만 해주었어요",
+		"4. 섞어준 재료를 기름을 두룬 팬에  알맞은 크기로 올리고,  약불에서 천천히 구워주세요!",
+		"5. 어차피 양파와 피망만 익으면 되니  많은 시간 구워주실 필요는 없고,  노릇노릇할 정도로 구워주시면 됩니다",
+		"6. 키친타올에 올려서  기름기를 좀 빼주고요.",
+		"7. 케찹과 함께 담아내면  완성입니다.  옥수수의 톡톡터지는 맛이  느껴지는 옥수수참치전입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/af25eaaf8dfaf35d4a851191665a43c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/95644b248b264b356600000debf1ee2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/8fabbe020c62b95c07ee726d34cc5ac61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/8b59f0c6002be20630022b7d609d8d2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/6cd05f11902d9527fe8e4d30b0ccf5261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/b6278b7e1ed91dbb797055fef3e028cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/20/f1e1e17b184ab29668ab1db35fda40331.jpg"
+	]
+}

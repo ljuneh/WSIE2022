@@ -1,0 +1,75 @@
+{
+	"id": "6943799",
+	"name": "순대내장국 20분완성 순대국 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/1f9bfcc00a605a7a8bfaf5dae84e48521.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943799",
+	"ingredient_ids": [
+		684,
+		224,
+		390,
+		29,
+		349,
+		995,
+		295
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "사골육수",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "순대",
+			"ingre_count": "400",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "내장",
+			"ingre_count": "300",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 사골육수 1.5리터를 끓여줍니다 끓으면 새우젓1스푼을 넣고 내장을 먼저 넣어줍니다",
+		"2. 끓는동안 다대기 만들어줘요고춧가루3스푼.새우젓1스푼.마늘1스푼.국간장1스푼.물2스푼.청양고추4개(잘게썰어서)중불",
+		"3. 내장을 넣고 한소큼 끓으면 청양고추 대파 넣고 1분정도 지나 순대넣어줍니다",
+		"4. 순대 넣고 3분후에 불 끄면 완성입니다 집에 들깨가루 있으시면 넣어드시면 더  고소해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/4417637bab34c124c0fce67ef56d9be71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/85d772544e5c77eb83065d5885e7f0cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/c2f0bcaf2d8ca968e9e70bdb6acb8fd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/aeb7b87123decf2d4075e25d5407e1991.jpg"
+	]
+}

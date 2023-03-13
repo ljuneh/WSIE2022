@@ -1,0 +1,60 @@
+{
+	"id": "6847857",
+	"name": "참치김치찌개 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/10/5bcb30edf3b231a829da369ce0d4065d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847857",
+	"ingredient_ids": [
+		953,
+		53,
+		295,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. 김치를 먹기좋은 크기로 썰어줍니다",
+		"2. 대파,청양고추,표고버섯을 잘게 썰어줍니다",
+		"3. 미리 썰어둔 김치를 볶아줍니다",
+		"4. 김치가 겨우 잠길정도만 물을 붓습니다",
+		"5. 보글보글 끓여줍니다",
+		"6. 참치를 넣고 끓여줍니다",
+		"7. 표고버섯과 청양고추를 넣고, 또 끓여줍니다",
+		"8. 버섯이 익어갈때쯤, 대파를 넣어줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/10/bd85d157d7de4a6ebb04307382bf38411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/10/8130669772e550e057cf408dc66d38d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/10/ccb8a4ff0e80b82bd0133ac3aa7609b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/10/1f4d7de12bb2a27c1983c662b6e9c8e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/10/f45f9ea78791822aa0797f038f174e581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/10/acd45254a5f3c3a300d8732547e741d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/10/3c9366e2ee5c6b2013104fbfd2d0f3e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/10/aa03abad89e3d82228598dd563422e9b1.jpg"
+	]
+}

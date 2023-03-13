@@ -1,0 +1,59 @@
+{
+	"id": "1545659",
+	"name": "산모에게 좋은 음식 닭미역국 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/41eefa0a2044a0847bfd51c28eeeb7dd.jpg",
+	"url": "https://www.10000recipe.com/recipe/1545659",
+	"ingredient_ids": [
+		91,
+		545,
+		846,
+		349
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 닭은 기름이 많은 엉덩이부분과 날개깃부분을 잘라 깨끗히 씻은후통마늘 한줌, 천일염 1T, 청주 2T를 넣고 물을 적당량 붓고 푹 끓여주세요 펄펄 끓기시작하면서 생기는 거품은 모두 제거해 주시고 닭의 육수가 충분히 울어나올수 있도록 푹 삶아 익혀주시면 됩니다.",
+		"2. 잘 먹지않은 닭가슴살부분과 남은 닭살은 먹기 좋은 크기로 찢어서 준비합니다.",
+		"3. 다이어트중이신분들은 국물을 그대로 차갑게 식혀서 기름부분을 걷어내시면되고, 산모인 경우엔 체력적으로도 많이 힘드니깐 국물 그대로에 불린 미역을 담고 푹 끓여주세요.",
+		"4. 미역이 부드럽게 익으면, 찢어놓은 닭살 넣어 10분정도 더 끓여주세요,",
+		"5. 마지막으로 모자라는 간만 천일염이나 국간장을 넣어 맞추시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/aa8e476c021e7b60af6aa599ff1773c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/bb652d100d2e357d2ec8f972d4f4c4be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/fc8747cdfcff99973c1cb5ec02044ad41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/ed33ba264477faa216b8476a5cfe6dc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/0bb10493b53fa65c6e7cd61f2f0d11451.jpg"
+	]
+}

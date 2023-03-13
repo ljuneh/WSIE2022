@@ -1,0 +1,116 @@
+{
+	"id": "6940836",
+	"name": "정식품 콩국물로 만든 우삼겹콩국물찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/2d6f1f14430505d03d60ea3bf13632841.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940836",
+	"ingredient_ids": [
+		3,
+		7,
+		323,
+		27,
+		233,
+		224,
+		848,
+		473,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "우삼겹구워서",
+			"ingre_count": "1",
+			"ingre_unit": "줌정도"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "콩국물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양파는 먹기 좋게 한입크기로 썰어주고 ",
+		"2. 애호박은 약간 도톰하게 썰어 4등분 해줍니다.",
+		"3. 두부 반모도 먹기좋게 썰어주고",
+		"4. 대파는 쫑쫑 썰어 줍니다.",
+		"5. 우삼겹은 먼저 후라이팬에 구워 주세요.이렇게 구워서 넣으면 기름도 쪽 빠지고, 누린내도 안나요^^",
+		"6. 냄비에 멸치육수 1컵과 ",
+		"7. 콩국물 2컵을 넣고",
+		"8. 끓기 시작하면 된장 1큰술, 고추장 반큰술을",
+		"9. 국물에 잘 풀어 줍니다. ",
+		"10. 바르르~ 끓으면 썰어둔 양파와 애호박을 넣고",
+		"11. 살짝 익으면 두부와 ",
+		"12. 우삼겹도 넣어 주세요.",
+		"13. 다진마늘 반큰술과",
+		"14. 고춧가루 반큰술을 넣고 ",
+		"15. 대파도 넣어 줍니다.",
+		"16. 모자라는 간은 소금으로 마무리~하면 완성^^ "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/ace72b06a100ecb59c08212a9ef131251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/2583d86c94104db13436d3169ede48951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/531f66d8e2e353611d2e36f2f84c4cd01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/3799fa3a42aae7d2bc6bcc3403562f2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/980e6620c715d2dc7166ea5f3127521c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/e623908abddbbbddfcfcd40cb170babb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/9dca75b2eea6a637b15e281ce48a223f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/a5418ece5650730e4f8e3b86657c2dff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/b4d99c25d4dcea4c84784c31ebac93401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/df49a4d0b51ef120fa8bd4d324d5e2641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/ec44e6230a91d69811ad60ad8798c8551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/18573047756e9ebe9833b9e8c86931951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/ba5e4444e184d552aae7902fca6137db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/9a72884312b364f26e3a1adb4c9f69811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/b819fc4fd6504760e32688c1a118f8d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/4d8fc183226d5374e84195c05308f2451.jpg"
+	]
+}

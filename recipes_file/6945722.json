@@ -1,0 +1,48 @@
+{
+	"id": "6945722",
+	"name": "매생이떡국 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/488da863cf90e3e5752e4f5ade78316b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945722",
+	"ingredient_ids": [
+		93,
+		379
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "사골국물",
+			"ingre_count": "1",
+			"ingre_unit": "L"
+		},
+		{
+			"ingre_name": "매생이",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "떡국떡",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "계란지단",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 사골국물이 끓으면 떡을 넣고 떡이 떠오를 때까지 센 불에 끓여주세요.",
+		"2. 떡이 떠오르면 간장을 넣고 나머지 모자란 간은 소금으로 해주세요.",
+		"3. 매생이를 넣고 젓가락으로 살살 풀어준 뒤 약간만 더 끓여주세요.오래 끓일 필요 없이 3분 정도 살짝만 끓여주면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/cd9833c3deba99b380602b46a5f84bec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/e2c734a891f4f52d0a2a889951465ff61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/b06fb7771bd8f9e42a26ae68f0ba6d941.jpg"
+	]
+}

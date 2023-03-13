@@ -1,0 +1,58 @@
+{
+	"id": "6939923",
+	"name": "패스트푸드점 부럽지 않은 식빵 치즈스틱 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/844f8b564eb82f9dcc09728bbf17d98c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939923",
+	"ingredient_ids": [
+		503,
+		212,
+		702
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "45",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 식빵 겉 테두리를 잘라주신 다음 밀대를 사용하여 식빵을 납작하게 펴주세요식빵 겉 테두리는 나중에 빵가루를 만들 때 사용할 예정이므로 버리지 마시고 따로 보관해주세요",
+		"2. 빵가루를 만들기 위하여 식빵 겉 테두리를 에어프라이어 또는 프라이팬에 수분이 없어질 정도까지 구워주세요에어프라이어",
+		"3. 수분을 없애준 빵가루는 믹서기에 넣어 곱게 갈아주세요",
+		"4. 곱게 갈아준 빵가루에 파슬리를 넣고 섞어주세요",
+		"5. 계란을 그릇에 풀어 계란물을 만들어 주세요",
+		"6. 납작하게 펴준 식빵 위에 모짜렐라 치즈를 적당량 올려주신 다음 치즈스틱 모양을 만들어 주세요 치즈스틱 모양을 만들기 위해 식빵을 돌돌 말아주셔도 좋으며 반으로 접어주셔도 좋습니다 단 식빵이 풀리지 않도록 위쪽 테두리에는 반드시 계란물을 발라주세요",
+		"7. 식빵 치즈스틱 겉에 빵가루를 묻힐 수 있도록 계란옷을 입혀주세요",
+		"8. 빵가루를 골고루 묻혀주세요",
+		"9. 식빵 치즈스틱을 기름에 튀겨주시거나 프라이팬에 기름을 넉넉히 둘러주신 다음 구워주세요튀길 경우 : 기름 온도 170℃ , 구울 경우 : 강불구워주실 때는 기름을 식빵 치즈스틱 위에도 뿌려주신 다음 구워주세요",
+		"10. 완성된 식빵 치즈스틱은 기름을 살짝 빼주신 다음 예쁘게 플레이팅 해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/12f291dc0d318cc3a53b6c68682ea2f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/03e7162562e1dcd9087c3a6e0783b8f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/b20bd2d6d65a94e8edd960641d9612fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/6302b3bb8418a428746bf43b06dc05e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/c520734f093977d7ff7791532ab5b5421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/754afe698659d9e5d031389b718c737b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/2f75c4e08dcd5ecd230c8e542ecb839a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/fbd9ec259ea5ea32fb19d5de5dae3d971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/aab681c50c4589681394fe67709bdd361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/cb075e8dbb746a0f0a542088ce600e271.jpg"
+	]
+}

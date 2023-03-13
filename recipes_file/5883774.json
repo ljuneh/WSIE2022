@@ -1,0 +1,32 @@
+{
+	"id": "5883774",
+	"name": "색다른 깻잎 김밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/14/e5257e7b40150c5b7ea4d4eaa8a22cc3.jpg",
+	"url": "https://www.10000recipe.com/recipe/5883774",
+	"ingredient_ids": [
+		15
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "",
+			"ingre_unit": "장아찌"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		}
+	],
+	"recipe": [
+		"1. 밥에 참기름과 깨소금을 넣고 양념해 주었어요. 깻잎이랑 햄이 간이 되어있어서 소금은 넣지 않았답니다.",
+		"2. 깻잎 두장 끝을 붙이고 하나에 밥을 얇고 골고루 펴준 후 소시지를 반을 잘라서 올려주었어요. 그리고 돌돌돌 말아주면 완성 하나로 한번 돌려주고 남은 하나로 잘 감싸주면 된답니다.",
+		"3. 새콤 달콤 짭쪼름한 깻잎으로 만든 스마일 김밥... 귀엽고 깜찍하죠? 맘같아선 소시지를 하나를 다 넣을까 했는데 그럼 밥이 너무 조금 들어가더라구요. 검정깨도 톡톡해서 눈도 만들어 줬어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/4530934ecee8fb05587f17eac6c93e1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/3054f9f456572bc6283618799c77ea771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/10e05174d2462cc5c27a0ea0d04219d61.jpg"
+	]
+}

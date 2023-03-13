@@ -1,0 +1,43 @@
+{
+	"id": "6945172",
+	"name": "고소하고 부드러운 병아리콩 간장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/c08be404b4d52c405a83e78f69e0ca7e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945172",
+	"ingredient_ids": [
+		113,
+		379,
+		575
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "병아리콩",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 병아리 머리 모양을 닮은 병아리콩은 먼저 불려 줍니다 씻어서 2~3시간 불려요 껍질은 따로 벗기거나 하지 않아도 씻고 삶고 하는 과정에서 대충 다 벗겨 지는 것 같아요 저는 아침 먹고 불려서 점심 즈음에 조림 했어요",
+		"2. 콩 불려져서 사이즈도 큼직해졌어요 ㅎㅎ ",
+		"3. 뚜껑닫고 삶아 줍니다 푹 무른 콩이 좋으면 10분 살캉한 콩이 좋으면 7분 정도 삶으면 되겠어요 저는 10분 삶았더니 푹 물렀네요 ",
+		"4. 간장넣고 조림 합니다 이미 익은 콩이라 콩에 간 배도록만  하면 되지요 ",
+		"5. 올리고당넣고  잘 섞어 마무리해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/da523adbefdabf162c46b4f36e7f46841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/3a72b2853f9e29b3aaae707e85b12d191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/d749d3a4b44f9a6181d7d26a68fe06de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/cb683231c5e789540370347c3ae1c94e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/cbaed0448e60030f8a9fc0885a293d881.jpg"
+	]
+}

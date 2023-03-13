@@ -1,0 +1,58 @@
+{
+	"id": "6918383",
+	"name": "달콤한 양파속에 꼭꼭 숨은 닭가슴살",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/1ce224af5aaad6a4f789f925760323fb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6918383",
+	"ingredient_ids": [
+		300,
+		219,
+		3,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "각종자투리야채",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양파는 껍질을 벗겨 손질해  링 모양을 살려 썰어줍니다.남은 양파도 다져서 넣을꺼예요.",
+		"2. 각종 자투리 채소들을 잘게 다져주세요.편식하는 재료들을 꼭꼭 숨기기 좋아요.",
+		"3. 단백질도 중요하니까 닭가슴살도 다져서 넣어주시구요~",
+		"4. 달걀 3개를 넣고, 소금으로 약간 간을 해줍니다. 잘 섞어 주세요~",
+		"5. 기름 두른 팬에 링으로 썰어둔 양파를 올리고  숟가락으로 달걀물을 한수저씩 떠 넣어줍니다.",
+		"6. 뒤집을때는 뒤집개 두개를 이용해  살살 뒤집어 주세요.",
+		"7. 속까지 골고루 익혀주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/947ac4fa06194101bed94d5acca759641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/46e28cd57b704c8a6ff4c082b9816a0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/f67689b79fc34a1867aabf0ccb1eacaa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/a186868124e7bd3965805358848f98aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/53712d8cb9733233d6fceeaf6632406c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/e14721692a752af696a7dd1975ffd6fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/29/55e83331734ddc61d3c99b905adf1d841.jpg"
+	]
+}

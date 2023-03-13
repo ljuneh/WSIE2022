@@ -1,0 +1,92 @@
+{
+	"id": "6940973",
+	"name": "시원한 음식 김치말이국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/d6940cb5f81af3952d3cd7318e80453a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940973",
+	"ingredient_ids": [
+		523,
+		953,
+		8,
+		226,
+		660,
+		350,
+		231
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "동치미육수",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "김칫국물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "삶은계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비합니다.",
+		"2. 소량의 김치는 칼보다는 가위가 편해요~ㅎ 가위 이용해서 김치 적당히 잘게 잘라줍니다.",
+		"3. 김치에 설탕 1/2작은술, 참기름 1작은술, 깨소금 약간 넣어 조물조물 무쳐주구요~",
+		"4. 오이는 가늘게 채썰고 삶은 달걀은 1/2등분합니다.",
+		"5. 냉동실에 얼려두었던 동치미육수는 잘게 부셔서 그릇에 담아줍니다.",
+		"6. 김칫국물 1/2컵과 파인애플 식초 1큰술 넣어서 섞어줬어요.",
+		"7. 소면은 끓는 물에 넣고 끓어오르면 찬물 조금 부어 진정시키기를 2회 반복합니다.",
+		"8. 흐르는 찬물에 삶은 소면 헹궈서 전분기 적당량 빼줍니다.",
+		"9. 소면은 돌돌 말아서 그릇에 담아줍니다.",
+		"10. 준비된 육수 부어주고 고명 올려줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/1092105345b4f768293e3347216262921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/9b928e5aa12ffb1fca4c5698a55aaa7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/c969b50a7850728a4b414f9a2527b3551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/c86ee4efaac3997e44071e152bf095201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/ef638c064c40d0e5b83405c91a93d8541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/6701f8eb8da199fd9a96214859744db81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/b553d6a24353da08c35243d4d1738a3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/e049526481f0cb643d2ee7b9c50639e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/42b5b2574229d63ff23f1c04dd6601491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/c9dd26055b95ed5de23a970f134d0c131.jpg"
+	]
+}

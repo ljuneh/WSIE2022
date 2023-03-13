@@ -1,0 +1,48 @@
+{
+	"id": "6525244",
+	"name": "악마의 유혹 핫초코",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/385565ebfdb41eb950d438ccc687616b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6525244",
+	"ingredient_ids": [
+		485,
+		546
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "우유1+1/2C",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "1/2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "에소프레소파우더",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "초코렛",
+			"ingre_count": "8",
+			"ingre_unit": "온스"
+		}
+	],
+	"recipe": [
+		"1. 빨리 잘 녹게 하려고 다졌고 우유, 생크림, 슈가파우더, 에소프레소 파우더 준비합니다.",
+		"2. 스팬에 우유, 생크림, 슈가파우더를 넣고 팬 가장자리에 바글바글 거품이 일 정도로 따뜻해지면 다져놓은 초코렛 잘 녹이면 완성입니다.",
+		"3. 부드러운 맛을 위해 휘핑크림을 핫초코 위에 한스푼 올립니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/9b8deb7683c21eb6cd4c12eb2e6aefeb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/bb9bffb776c589cfa55f1e5e21a78d021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/f86e7a2cee35328a873769e5c44fb2141.jpg"
+	]
+}

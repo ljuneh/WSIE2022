@@ -1,0 +1,125 @@
+{
+	"id": "6868747",
+	"name": "집에서 꿔바로우 만들기 :: 찹쌀탕수육",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/20/449ee910947c886ccafac91407fa288d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868747",
+	"ingredient_ids": [
+		226,
+		231,
+		547,
+		497,
+		995,
+		9,
+		504,
+		497,
+		667,
+		504,
+		995,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "8",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지고기등심(또는안심)",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3~4컵",
+			"ingre_unit": "~컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "8",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 소스재료를 넣고 소스를 만들어주세요 야채는 양배추, 오이, 당근, 양파는 다양하게 넣어주셔도 좋아요",
+		"2. 고기는 키친타월로 핏물을 없앤 후 칼등으로 두들겨주세요  그리고 소금 후추로 밑간을 해주세요 10분정도 둡니다.",
+		"3. 그리고 한입 크기로 썰어주세요",
+		"4. 튀김옷을 만들어주세요",
+		"5. 깊은 팬에 식용유 3~4컵을 중간불에서 170'c정도가 가장 적당합니다 반죽을 한방울 넣었을때 3초후 떠오르면 된거랍니다",
+		"6. 그리고 돼지고기는 전분을 앞뒤로 무쳐줍니다",
+		"7. 튀김옷을 한번 더 묻혀서 튀겨주세요",
+		"8. 돼지고기가 충분히 다 익을 수 있도록 5~6분간 튀겨주세요  돼지고기는 다 익으면 위로 둥둥 뜬답니다  처음에는 센불로 하시고, 너무 불이 쎄면 중불로 낮췄다가 다시 올리세요중간불~센불",
+		"9. 체에 밭쳐 기름기를 제거해주세요 전분으로 튀겨서 처음에는 흐물흐물하고 눅눅하답니다 이걸 한번 더 튀겨주세요  그럼 정말 바삭하고 촉촉한 꿔바로우가 된답니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/20/da2633ef20f5a32808e2fa45dd413ec71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/20/a7149861e76e42c629aad091c270ded91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/20/4d04ca9ac25278dda2aafb6946e05b3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/20/9e8dfa86664df7b0118d949ea4aaf9931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/20/6d329d48a07f57a87db6b78b88f4d3501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/20/f41a3a3666740b1180ac1e6bd799969b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/20/6f7ec3ea517672694883ef8d078e0a6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/20/a8277028d66635b94bdc8ca2705ad61d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/20/6023f1629df3444cb585235ee939e9b11.jpg"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"id": "763269",
+	"name": "먹고 나면 힘이 불끈! 전복죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/d7018ada62e5655888ff5ea712b33d1d.jpg",
+	"url": "https://www.10000recipe.com/recipe/763269",
+	"ingredient_ids": [
+		660,
+		349,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "전복작은것",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "불린쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "끓는물",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 깨끗이 손질한 전복은 살은 먹기 좋게 저며 썰고, 내장은 가위를 이용해 터뜨려 잘게 잘라줍니다. 쌀은 미리 3시간 전에 씻어서 물에 불려 준비해주세요.",
+		"2. 전복 살은 참기름 두른 팬에 살짝 구워 따로 한쪽에 준비해둡니다.",
+		"3. 참기름을 두른 냄비에 불린 쌀과 전복 내장을 넣고 달달 볶아 투명하게 볶아줍니다.",
+		"4. 끓는 물 5컵을 붓고, 쌀알이 잘 퍼질 때까지 푹 끓이다가, 국간장을 넣어 간을 하고, 맛을 보아 나머지 간은 입맛에 따라 소금이나 국 간장으로 맞춰줍니다.",
+		"5. 그릇에 완성된 죽을 담고 미리 구워냈던 전복을 가지런히 올려 담고, 깨소금과 김 가루를 솔솔 뿌려주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/ee6c1d5aed646eb7ed896f46da5fbb391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/d807aa61dbaf6504a12749e6598aa9ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/d24f4b95d4cd3e7c43f0747acd39a3501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/fd2af43b09f04af193b590e53ab4d2281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/96467db84c23aa343fc6f9ba05c3d8521.jpg"
+	]
+}

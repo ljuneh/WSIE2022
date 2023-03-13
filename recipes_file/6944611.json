@@ -1,0 +1,129 @@
+{
+	"id": "6944611",
+	"name": "돼지쪽갈비찜 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/1dc298af818f1119970ebc8a56c3c0a01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944611",
+	"ingredient_ids": [
+		5,
+		9,
+		19,
+		3,
+		379,
+		224,
+		473,
+		848,
+		226,
+		292,
+		660,
+		233,
+		457
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쪽갈비",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청홍고추각",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "멸치다시마육수",
+			"ingre_count": "5~6컵",
+			"ingre_unit": "~컵"
+		}
+	],
+	"recipe": [
+		"1. 찬물에 쪽갈비를 담가 핏물을 빼주세요(설탕3T 첨가)보통 핏물 빼는데 1시간 정도 물갈아주면서 빼는데 설탕을 넣으면 짧은 시간(20~30분)에 핏물을 뺄 수 있다고 해요",
+		"2. 향신재료(마늘,대파,통후추,월계수잎 등)을 넣고, 한 번 끓여서 불순물을 빼주세요",
+		"3. 고기가 데쳐지는 동안 들어갈 야채들을 썰고, 양념장도 준비해주세요. 데친 고기와 함께 재료준비가 완료되었네요양파- 굵게 채썰기 무- 나박썰기(생략가능) 당근- 편썰기(저는 꽃모양내기 했어요) 감자 -반달썰기",
+		"4. 모든 재료를 넣고, 멸치다시마육수를 붓고 끓여주세요양파, 대파, 청홍고추 제외",
+		"5. 재료가 어느 정도 익으면, 남겨 두었던 양파, 대파, 청홍고추를 넣어주세요",
+		"6. 양념이 잘 배도록 졸여주세요",
+		"7. 국물이 자작해지면 돼지쪽갈비찜 완성!",
+		"8. 그릇에 담아 쏙쏙 잘 빠지는 부드러운 쪽갈비살을 뜯어보아요~^.~ 양념 잘 밴 감자, 당근, 양파, 무의 맛은 다 아시죠?  밥이 온데간데없이 사라진다는~ㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/d8431a7151ba7a8a974d1baa75a0ae6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/3287c130de5267b6260732dcd0e25b641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/a920b93102b3eb4f3c31b7aad80c20ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/81208b995cd9345b369e17184aa625321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/cb8eb541fb662684bbbaa0320d1b8edb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/4db5570fe6a9ad96cf8a773b48b6d19f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/834d441d77900259cd23ce8873f9aaf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/46b7034463c6dd309772851904781da21.jpg"
+	]
+}

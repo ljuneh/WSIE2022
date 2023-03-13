@@ -1,0 +1,115 @@
+{
+	"id": "6842219",
+	"name": "궁중떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/27/8e661ad3d0697e5fc1c82eeca1704c331.jpg",
+	"url": "https://www.10000recipe.com/recipe/6842219",
+	"ingredient_ids": [
+		972,
+		53,
+		6,
+		9,
+		660,
+		290,
+		379,
+		575,
+		660,
+		379,
+		226,
+		233,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쇠고기(불고기용)",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비한 다음, 떡볶이떡이 단단할 때는 미지근한 물에 담가두거나, 살짝 데친 후 찬물에 담가 말랑말랑하게 준비해서 떡 양념에 버무려주세요.",
+		"2. 표고버섯은 기둥을 떼어 편으로 썰고, 파프리카와 당근은 먹기 좋은 크기로 잘라주세요.",
+		"3. 쇠고기와 표고버섯은 볼에 담고 양념에 버무려서 준비해주세요.",
+		"4. 달군 팬에 기름을 두르고 쇠고기, 표고버섯, 당근을 넣어 2분간 볶다가",
+		"5. 떡볶이떡과 파프리카를 넣고 1분간 더 볶아주세요.",
+		"6. 그릇에 궁중떡볶이를 담고 깨를 뿌려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/27/8d641ef6ee7ad2f2c39514e6eb2042931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/27/01869110970809022affd737b74c21a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/27/9a2d409d14b1767300acbb6511e0e39c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/27/24110bf2c67f96ec80b040bf4416d2a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/27/94c9b6f1e8a18095e3a46b427252c2af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/27/2ec44faaa63db02054393d3cb9fc7ae61.jpg"
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"id": "6945599",
+	"name": "[자취요리] 가지밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/30cc2c474255cc3570f09aafe232c4fc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945599",
+	"ingredient_ids": [
+		18,
+		327,
+		379,
+		224,
+		226,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 가지를 먹기좋게 썬다.",
+		"2. 들기름을 두르고들기름이 가지에 빠르게 스며드니 적당히 후라이팬 상태를 봐가며 기름을 둘러주셔요 ",
+		"3. 간장 1 넣고",
+		"4. 볶는다. 볶는중에 가지가 숨이 죽으면 불을 꺼준다. @6945560  냄비밥이 지어질동안 양념장을 만든다.",
+		"5. 고춧가루 2(숟가락)",
+		"6. 간장 2와 1/2",
+		"7. 설탕 1",
+		"8. 참기름 1",
+		"9. 난 통깨도 뿌렸다. (생략가능)",
+		"10.  @6945560  냄비밥을 보글보글 끓으면",
+		"11. 가지투하 후 1,2분 정도만 약불에 뜸들인담에 불을 끈다. @6945560  (냄비밥 레시피 참고하셔요)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/6ee853d2d9c2c6aef5ccaa1d0c8f53341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/27a4f1bf1aedb87837a1307c8be6a67a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/6e290ec876cbe45f17a1e221861fe9f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/75b1aa28a7fc730bebf674817360ffbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c3be74277bb353647d56d31eadbf24a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/03ff8cbddcbcf6575098d3ebd08f1b2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/eddd8a16cd8f3b976a778619a9f6cc321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/8fb710c1ec9962ced3041f4545b5dda01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/8cb20f30741279b592c9fe2c656904331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/c814c1678e95e89b03bafaab2c514c851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/3b66a184dd7bd1424af43885a2678bdf1.jpg"
+	]
+}

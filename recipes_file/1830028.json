@@ -1,0 +1,83 @@
+{
+	"id": "1830028",
+	"name": "약식 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/dd46063901640f8f7fd2b85459d512ce.jpg",
+	"url": "https://www.10000recipe.com/recipe/1830028",
+	"ingredient_ids": [
+		187,
+		132,
+		188,
+		478,
+		379,
+		497,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "찹쌀2+1/2컵",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "계핏가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 대추는 돌려깍아 씨를 제거해주고, 밤은 껍질을 벗겨, 편으로 썰어줍니다",
+		"2. 찹쌀은 두어시간전에 불려 물기를 빼줍니다..~",
+		"3. 냄비에 물2컵을 붓고 대추를넣고 15분정도 끓여주다가, 대추를 건져내고",
+		"4. 남은물에 양념재료를 넣고 설탕이 녹을때까지 좀더 끓여줍니다...",
+		"5. 밥솥에 양념한 대추물을 붓고, 찹쌀을 넣은후, 밤과대추, 잣을 넣고 골고루 섞어줍니다... 압력밥솥보다는 전기밥솥이 더 잘되더라구요 압력밥솥은 밑부분이 타버릴 수 있어요",
+		"6. * 17분이면 약밥이 다되었네요 ~~",
+		"7. 먹고남은것은 틀에 넣어 식혔답니다",
+		"8. 충분히식혀 틀에서 빼낸 약밥을 모양을잡아 썰어줍니다.... 약식은 칼로 써는게 아니라는데...ㅠ 뜯어먹기 뭐해서 잘랐네요 ㅠ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/f9faec1c0d9259079181cb66eeb288da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/76b0b6e66ec997d6efec15649527c84c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/2cbf046e47e9728c8b822063916ec5a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/a0a58525176ad32b9ce957b99cc94d6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/7d639b76599b954a1c59478b699f33fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/12cb9af7166e75ca33d5eac9204f0a3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/987323c94f5f1cee02c3a041e745f9171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/e8639a27689031315195c25c73889e461.jpg"
+	]
+}

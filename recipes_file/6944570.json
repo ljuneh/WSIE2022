@@ -1,0 +1,157 @@
+{
+	"id": "6944570",
+	"name": "이탈리아 가정식 닭고기 스튜 - 뽈로 알라 카치아토라-",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/28fb0c33d57dea84d14480a3895e40bb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944570",
+	"ingredient_ids": [
+		406,
+		5,
+		3,
+		371,
+		29,
+		175,
+		58,
+		253,
+		497,
+		402,
+		995,
+		205,
+		657
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "마트에서파는닭다리",
+			"ingre_count": "4~5개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "샬롯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "올리브",
+			"ingre_count": "",
+			"ingre_unit": "몇알"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "ea"
+		},
+		{
+			"ingre_name": "브로컬리",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "로즈마리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "건타임",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "보이진않지만"
+		},
+		{
+			"ingre_name": "화이트와인",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파마산치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "토마토페이스트",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. [간편하게 닭고기 손질하기 ] 발목 끝 부분 먼저 잘라내 주세요. 콜라겐이 많은 부분이라 오래 삶다보면 너덜거려서 보기 안좋아서 전 제거를 하는 편이에요.",
+		"2. -그 다음 발목 부분인 아킬레스건 쪽을 돌려 칼집을 넣어 잘라주세요.",
+		"3. 힘줄 부분도 잘라 준 후 이렇게 고기를 아래로 쭉 당겨 줍니다. 그리고 열을 가해주면 그 만화에서 보시는 고기 이미지 아시죠? 주인공들이 잡고 뜯는 .. 고기가 수축이 되면서 그렇게 익어요!                   ",
+		"4. [고기 마리네이드 후 색 내주기] 소금, 후추, 로즈마리, 마늘, 올리브 오일에 1시간 가량 마리네이드해 주세요.",
+		"5. 덧가루를 골고루 발라 주세요",
+		"6. 기름을 두른 가열된 팬에 불을 최대한 약하게 해준 후 아주아주 천천히 익혀줍니다. ",
+		"7. 그러면 고기가 타지않고 이렇게 노릇, 바삭하게 색이 나요.",
+		"8. [치킨 알라 카치아토라 스튜] 재료들은 편하게 썰어 주세요. 한입 크기가 좋겠지요.",
+		"9. 냄비에 버터를 녹여 준 후 베이컨을 넣어줍니다.",
+		"10. 베이컨 기름을 뽑아준 후 샬롯과 마늘을 넣어 천천이 볶아주세요. 불은 약하게, 버터에 볶는 요리는 온도가 높으면 안돼요.",
+		"11.  페이스트를 넣어 볶아준 후 화이트 와인을 넣어 향을 내줍니다. tip:페이스트 1큰술을 넣었지만 조금더 진한 토마토 향을 원한다면 2큰술 까지는 괜찮아요. 하지만 그 이상은 케챱맛만 나실거에요.",
+		"12.  물(또는 치킨스탁)을 넣어주신 후 색을 낸 닭다리살들을 넣어 끓여줍니다.",
+		"13. 닭다리살 투척하고 건 타임을 조금 넣어주세요.",
+		"14. 야채들은 볶아서 색을 내주시고 소금 후추 간을 해주세요. 스튜라고 해서 야채들을 같이 넣어 그냥 익히는게 아니라 이렇게 따로 볶아서 맛과 향을 내준 후에 스튜에 넣어주면 더 맛이 좋아져요!",
+		"15. 토마토는 맛과 향을 올려주기 위해 설탕, 오일을 둘러준 후 180도씨 오븐에 30분 가량 익혀주세요. 큰 토마토도 괜찮아요.                   ",
+		"16. 녹색야채와 으깨지는 토마토만 빼고 자글 자글 끓이고 40분 가량 끓여준 걸쭉해진 스튜에 토마토와 브로컬리도 투척!                   ",
+		"17. 약 10분가량 더 끓여준 후 버터 1작은술 넣어 소금 간과 함께 마무리합니다. tip :브레이징같은 끓이는 요리는 마지막에 소금간을 해주시는게 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/6d171b5de3890006f9c972a44a696a471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/083e6bfa61bb1c9ff602852838c490a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/9fc2052e42d040aeb92ba68f3c34b8c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/46278128598b4ed894206a0dd83607ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/74c0444a63a0055135a1f1464c1274e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/266cdb7b33b13ea4139ad33e851df3861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/2d5d648c3d069dfbe6099021e88a33841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/7909c0faad2aff283a5845b7fd83db001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/680ae238fac54cc7d40caabd10aefa1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/3c97f5a407f8208198f045376ffc827b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/797ae87228d90536b52be518bd6c4a891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/6fdc639661e84ed1adaad84ac880b2d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/d6453a19b581a413b7736cd62fd871ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/1619e77ec729ea19171adb14e5cfa8a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/4ab3c5509afcd5a867adbcba3963bdbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/1f7a9d7793df58c67215d1ecd0b47ef21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/7492fbd721b1e7a6caaf43976f96f3231.jpg"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"id": "2659680",
+	"name": "상큼달콤한 맛 다이어트에 좋은 채소 바나나샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/bb30ce0d0b4f70f8814454560c082768.jpg",
+	"url": "https://www.10000recipe.com/recipe/2659680",
+	"ingredient_ids": [
+		6,
+		371,
+		42,
+		141
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "바나나1+1/2개",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "플레인요구르트",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 파프리카는 흐르는 물에 씻은 후 적당한 크기로 썰어 줍니다.",
+		"2. 방울토마토는 꼭지를 제거하고 흐르는 물에 씻은 후 물기를 제거하고 반으로 썰어 줍니다.",
+		"3. 양상추는 흐르는 물에 씻은 후 물기를 제거하고 적당한 크기로 뜯어 줍니다.",
+		"4. 바나나는 껍질을 벗겨 1개 반은 동글동글한 모양으로 썰어 줍니다. 바나나 1/2개는 플레인 요구르트와 함께 갈아서 소스로 만들어 보려고 남겨 두었어요.",
+		"5. 믹서기에 플레인 요구르트와 바나나 1/2개를 넣어 함께 갈아 줍니다. 상큼하면서도 달콤한 맛이 느껴집니다.",
+		"6. 그릇에 양상추, 파프리카, 방울토마토, 바나나를 담아 줍니다.",
+		"7. 6의 상큼 달콤한 소스를 뿌려 냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/c694ec2c248db2e2c1a0ed9b99669fb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/6c5c7e236343414b0292e26c05e5a4de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/9aaaeaf9c27fe9109fe14c512ac6d7011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/890e350ef4b566517fd2e3e877efe8071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/ebb66f48ffdbb1a3e4c69846b18a112f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/2a536940e431edfacb121b415a33712d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/29/1c165e0334e0b2ad184a2c3cf58fcc4f1.jpg"
+	]
+}

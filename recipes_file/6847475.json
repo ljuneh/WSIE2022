@@ -1,0 +1,62 @@
+{
+	"id": "6847475",
+	"name": "초간단 계란찜(냄비중탕)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/d9bb654f06b19bee9569f3634c353fd71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847475",
+	"ingredient_ids": [
+		219,
+		757,
+		497,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2~3개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/6",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술(생략가능)",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 달걀 2~3개 쪽파를 준비해요.",
+		"2. 달걀에 소금을 넣어 풀어 주어요. * 새우젓을 좋아한다면...간을 새우젓으로도 가능합니다.",
+		"3. 풀어 놓은 달걀에 물을 1컵 넣어 잘 풀어 주어요. * 당근, 양파, 파, 버섯을 다져서 넣어주면 맛있어요.",
+		"4. 냄비에 국그릇 1/3정도 오게 물을 부어서 뚜껑을 닫고 끓여주면 됩니다. (냄비중탕) * 약불에서 10분정도..",
+		"5. 달걀 3개를 하면 이렇게 폭탄 계란찜이 되는것 같지요.. * 파 송송 준비가 되었다면 뿌려 주면 된답니다.. * 아이들이 싫어해서 생략했어요.",
+		"6. 열이 나가면 달걀찜이 내려 앉아요..ㅎㅎ",
+		"7. 조금 단단하다고 느낄수 있는 달걀찜 * 다른일을 보다가 30분가열(약약불)",
+		"8. 물은 같은 비율이지만 달걀 2개... * 약약불에서 10분가열..",
+		"9. 달걀 3개와는 느낌이 조금 다르지요.. 부드러운 달걀찜이랍니다.."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/871f7eca7c6526ff4023f63e10f23af51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/341f4393817c73bb564fb5e026adeb731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/c40d0cf198433e3b4a8410e4edbebe7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/a548104de7a35b6bc66728709137b5511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/8c6802097d5ad264eb99e845314e72391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/71ad7442d1234a377149f0c4c316c9e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/0ead9d928432f780c3609ed3ef18e9bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/088d7d81f2b45b54971753b768baaf361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/3bae66a5f05acc97d0702e164ef35d5f1.jpg"
+	]
+}

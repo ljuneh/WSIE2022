@@ -1,0 +1,41 @@
+{
+	"id": "6941097",
+	"name": "경기미참드림으로 지은 '다시마밥'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/3ddfa04bd8c4d407ccddb3a1c3e745691.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941097",
+	"ingredient_ids": [
+		96,
+		90,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 불려 둔 쌀을 솥에 담고 다시마를 얹는다.",
+		"2. 평소대로 밥물을 붓고 밥을 한다.",
+		"3. 밥이 되면 다시마를 얇게 채 썬다.",
+		"4. 채 썬 다시마를 밥과 섞어 그릇에 담는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/d7394bc1ec824e64d06ec7f6694ce2ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/0891ea96829fe65e82f28a087d24d3ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/0d74f6d10ca996629b713a71ae7a17d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/046d8b30c631285a6b3cfbb11c9f57131.jpg"
+	]
+}

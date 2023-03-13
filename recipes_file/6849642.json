@@ -1,0 +1,41 @@
+{
+	"id": "6849642",
+	"name": "단호박전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/95502cb39b9783f4482bf2a2d5ffea07.jpg",
+	"url": "https://www.10000recipe.com/recipe/6849642",
+	"ingredient_ids": [],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "백설자연재료부침가루100g",
+			"ingre_count": "100",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "물180g",
+			"ingre_count": "180",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "돌나물120g",
+			"ingre_count": "120",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "단호박60g",
+			"ingre_count": "60",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "식용유3큰술",
+			"ingre_count": "3",
+			"ingre_unit": " 큰술"
+		}
+	],
+	"recipe": [
+		"1. 단호박은 껍질을 벗겨 채 썰고 돌나물은 찬물에 살짝 세척한다.",
+		"2. 부침가루에 물을 넣어 반죽 한 후 돌나물, 채 썬 단호박을 넣어 섞어준다.",
+		"3. 팬에 식용유를 두르고 부침 반죽을 동그랗게 부쳐내 완성한다."
+	],
+	"recipe_img": []
+}

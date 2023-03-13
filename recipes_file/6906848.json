@@ -1,0 +1,72 @@
+{
+	"id": "6906848",
+	"name": "고구마줄기볶음 볶아볶아서 내입으로 쏘옥!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/25a580b2056440f60dd877bcfa71fd101.jpg",
+	"url": "https://www.10000recipe.com/recipe/6906848",
+	"ingredient_ids": [
+		3,
+		327,
+		233,
+		349,
+		337,
+		995,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "삶은고구마줄기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 삶은 고구마 줄기는 물기를 제거하여 적당한 길이로 자르고 양파는 채 썰어 준비한다.",
+		"2. 예열된 팬에 들기름을 두른 뒤 다진 마늘, 양파를 넣어 볶는다.",
+		"3. 예열된 팬에 들기름을 두른 뒤 다진 마늘, 양파를 넣어 볶는다.",
+		"4. 국간장, 들깨가루, 물을 넣은 후 볶는다.물이 부족하면 더 부워 뚜껑을 닫아 익혀요.",
+		"5. 기호에 따라 간은 소금으로 하여 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/de0345edaaf39a87ba634d6f86a18c6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/6afb35d8ec8d92f6acdd2bbd87a6fac61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/4efc65a1b2a2246f9bb545f2db9873061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/02680713a1b58b87167d3fe29c79624e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/02/18/f6ff1cd443e8ac5129094a4db771e4481.jpg"
+	]
+}

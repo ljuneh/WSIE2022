@@ -1,0 +1,56 @@
+{
+	"id": "6944512",
+	"name": "새송이버섯전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/dd00abf7678118f0e6e7a3c02238ccf31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944512",
+	"ingredient_ids": [
+		58,
+		6,
+		27,
+		219,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 새송이버섯은 얇게썰어서 튀김가루를 입혀주세요 달걀물도 소금간을 해서 만들어 주세요",
+		"2. 후라이팬을 예열해서 기름을 두른다음 달걀물을 묻히고 후라이펜에 올려주세요",
+		"3. 파프리카와 대파로 색의 조화도 만들어서 예쁘고 영양많은 새송이 버섯전 완성했어요~~ 식감이 아주 쫄깃쫄깃 끝내줍니다~~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/32325e7ded0ff32a4dd5ad6e7ad9605c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/a1df77acc8e091a751f1bcbfd2a442261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/21c3b7a1fb393bdbe382673454a467fd1.jpg"
+	]
+}

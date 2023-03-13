@@ -1,0 +1,94 @@
+{
+	"id": "6945587",
+	"name": "싱싱한 생굴로 굴전 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/7f50ca446adfda3ba2288052770b4e1c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945587",
+	"ingredient_ids": [
+		82,
+		757,
+		55,
+		226,
+		473,
+		379,
+		231,
+		233,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "굴",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎순",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1/4",
+			"ingre_unit": "묶음"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미향",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 생굴이 싱싱하네요 흐르는물에 씻어서 물기를 빼주세요",
+		"2. 쪽파, 깻잎순, 팽이버섯을 잘게 썰어 주세요",
+		"3. 밀가루 2T , 부침가루 2T, 소금 한꼬집 넣고 수저로 골고루 섞어준 다음 달걀 2개를 곱게 풀어줍니다",
+		"4. 반죽에 굴을 넣고 가볍게 섞어주세요 팬에 식용유를 두르고 예열한 후 굴 한개에 야채반죽을 수저로 떠서 팬에 넣고 앞뒤로 부쳐주세요",
+		"5. 초고추장 양념을 골고루 섞어주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/deb2ff0ec097a7a7e722910fbcda54581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/6868ccdbd124226e3fbb8f926d6930021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/8fcdce17849912d22c41d1ebf6afb4931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/5052b1ae556e6690d896e4b836a1c74a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/baf0b94a7bc49df1dd6ecd049683d1201.jpg"
+	]
+}

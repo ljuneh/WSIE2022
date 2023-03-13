@@ -1,0 +1,69 @@
+{
+	"id": "6944334",
+	"name": "단호박 파스타 만들기, 부드럽고 달콤하다♡",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/ea83cbb84542d796efe4c57bbd3770ae1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944334",
+	"ingredient_ids": [
+		328,
+		497,
+		226,
+		920,
+		79
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "단호박",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "파스타면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 전자레인지에 3분가량 돌린 뒤 잘라주시면 더 잘 잘리는데, 저는 귀찮아서 그냥 한번에 잘라버렸답니다.",
+		"2. 댕강댕강 잘라 준 단호박들은 찜기에 올려서 15-20분 가량 쪄주세요.",
+		"3. 단호박 크림 파스타이기 때문에 생크림이 들어가면 좋지만... 지방이 높기에 저는 무지방 우유를 사용하여서 만들었어요. ",
+		"4. 면을 삶아줄 물을 준비해주신 후 소금과 오일을 살짝 둘러주세요. 그리고 물이 바글바글 끓으면 면 투척!! ",
+		"5. 소스와 면이 다 준비되었으면 이제 두가지를 섞어주도록 합시다!! 기름을 두른 팬에 새우를 넣고 한번 구워주었어요.",
+		"6. 어느정도 익은 새우에 미리 만들어놓은 단호박소스를 넣어주세요~~!!",
+		"7. 어느정도 볶다가 저는 살짝 싱거운 거 같아서 후추와 소금을 추가해 주었어요. 그릇으로 옮긴 뒤 파슬리와 파마산치즈를 살짝 뿌려주면 더 맛있어요!ㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/4dc52861144a983eea2728efe31e105b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/ce8d18fac4497311e2935928727f41c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/a3e53492e52bef16fb36671ab37274771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/3d57342876f10278d03c9f7bcb51fb981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/a9fb7a8c10c19d6322fa99c0a6026d211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/e539bb505209d0ffad3a16cc6d53c2e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/dbf4a1383eb14f4c6b474edf82043e971.jpg"
+	]
+}

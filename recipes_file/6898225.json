@@ -1,0 +1,85 @@
+{
+	"id": "6898225",
+	"name": "양배추찜과 쌈장(달큰하니 맛납니다)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/19/3d22e6a4c209ccd9cbf356f90b3f08fe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6898225",
+	"ingredient_ids": [
+		21,
+		848,
+		292,
+		233,
+		228,
+		660,
+		341
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/4",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 겉껍질을 벗겨요",
+		"2. 4등분해요",
+		"3. 물이 팔팔 끓을때 양배추를 넣어요 뚜껑은 닫지 않고  삶아요",
+		"4. 10분정도 끓었을때 젓가락으로 찔러서 두두둑 찔러지면  다 된거예요 안 익으면 젓가락이 안 들어가요",
+		"5. 찬물에 풍덩~~ 식혀줘요",
+		"6. 엎어서 물빼줘요",
+		"7. 쌈장은 된장,고추가루,마늘,물엿,맛술,다진파,마요네즈,참기름 넣고 비벼요",
+		"8. 한쪽 떼어서 먹어봐요 맛나쥬~~",
+		"9. 사진 한방♡♡♡"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/19/2b18f0ca59070e18cb2c5d98955f72e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/19/2352d81312aa02d78dc499ff12798d3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/19/0695375f25d8bd4836c25381fc91afaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/19/6b891cda2eff0237ba567c3571435dfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/19/b54b77761e266fdece058ac42ab3075d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/19/fe3ab4f642922635a4d543f657d2abac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/19/8fe66dd356de490b2a5f6ec47c4f2a2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/19/9f0fdab10d390f3823c78bd9065dae451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/19/82f0e9fce5907083f7259bbbd28fdae31.jpg"
+	]
+}

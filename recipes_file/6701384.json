@@ -1,0 +1,29 @@
+{
+	"id": "6701384",
+	"name": "미니새송이버섯볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/a1189b41085a447624234d0cca8277101.jpg",
+	"url": "https://www.10000recipe.com/recipe/6701384",
+	"ingredient_ids": [
+		337
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 새송이 버섯은 깨끗히 손질해서 먹기 좋은 크기로 잘라줍니다. 길쭉길쭉 썰어도 좋지만 그래도 먹기 간편하게 잘라주는게 나을 것 같아 사각으로 썰어 주었습니다.",
+		"2. 마늘, 양파, 당근은 다져줍니다. 야채 크기는 너무 작지않게 다졌습니다~",
+		"3. 프라이팬을 달궈 포도씨유를 두른 후 다진 마늘과 양파, 당근을 볶았습니다. 양파와 당근이 어느정도 익으면 준비된 새송이버섯을 넣어 볶아주고 간장과 아가베시럽을 넣습니다. (매실청이 있으시면 아가베시럽 대신 매실청을 넣어주셔도 좋습니다.)",
+		"4. 이제 들깨를 넣어 주시면 됩니다. 마지막으로 참기름 약간과 통깨를 넣어 주시면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/d3ae99ffe585a777090eb16a2cd6ed581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/b1a8377874d5312434c1b31637e02b581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/cca45d128d7058359ae4731b806afd7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/4d1b6b137416e65c4902e7a6dceca1f11.jpg"
+	]
+}

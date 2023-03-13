@@ -1,0 +1,106 @@
+{
+	"id": "6945509",
+	"name": "꼬막 비빔국수 만들기. 다이어터를 위한 꼬막 비빔곤약면/꼬막무침/꼬막삶는법.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/baa7ce7876a2f4629208dc59f64653b51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945509",
+	"ingredient_ids": [
+		83,
+		15,
+		30,
+		27,
+		6,
+		231,
+		224,
+		738,
+		543,
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "꼬막",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "곤약면",
+			"ingre_count": "2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이비채소",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 꼬막은 굵은 소금 1T 넣어 20~30분 해감합니다. *예전엔 뻘이 많이 나와서 오래 해감을 했는데 요즘은 바닷물로 해감을 해서인지 깨끗 하더라구요.",
+		"2. 깻잎 꼭지는 잘라 내고 돌돌 말아 채 썰고 부추는 송송 썰어 주세요. *깻잎 대신 상추를 넣어도 되는데 해산물인 만큼 비린내 잡는 데는 깻잎이 훨씬 좋더라구요. ",
+		"3. 대파 흰 부분과 파프리카는 송송 썰어 주세요. *홍색 파프리카가 없으면 홍고추나 당근도 좋아요. ",
+		"4. 해감 시킨 꼬막은 맑은 물이 나올때 까지 여러번 깨끗이 씻어 물이 끓기 시작하면 꼬막과 식초,소금을 넣어 한방향으로 저어가며 삶아 줍니다. *식초를 넣어 삶으면 비린내가 나지 않더라구요. 또 한쪽 방향으로 돌려 삶아야 꼬막 살이 붙는 것을 방지하고 잘 까집니다.",
+		"5. 삶은 꼬막은 껍질 벗겨 알맹이만 빼주세요. (물에 씻지 않아도 될만큼 깨끗하더라구요.) *다 벌어져 있어서 까긴 쉬웠지만 잘 안까진 꼬막은 수저로 꼬막 뒷쪽을 들어 올려 까면 됩니다",
+		"6. 양념 만들 통깨는 곱게 갈아 주세요. (생략 가능)",
+		"7. 곤약 면은 끓는 물에 넣어 3분간 데쳐 찬물에 헹굽니다. *곤약은 국수와 달리 꼬들꼬들 해서 식감이 좋더라구요. *다이어트 걱정 없는 분들은 국수나 라면,밥 등에 비벼 드셔도 좋아요.",
+		"8. 그릇에 곤약면과 무친 꼬막,참기름으로 완성합니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/58616cd773b28f87b4f2fb596cc77b2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/867ceceab4f48ec798c12e472455fd901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/f8404fc503085c4e8babc9207063f0ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/e6ea5b7a90e409811ff4389f5e9f0edd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/12ed97ca86edcf45cebe3431689e8eaa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/9d9a6a03163f3d407a39b2d06a5c44781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/43beda65f30006c0a55c335699360e9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/ef15ad7aa8c8427a9c63cfd12a47081d1.jpg"
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"id": "6945229",
+	"name": "콩나물 한 봉지로 다양한 요리해볼까요?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/76adf0d4de472e67c779e86c71216d721.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945229",
+	"ingredient_ids": [
+		47,
+		995,
+		27,
+		29,
+		939,
+		349,
+		497
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 준비해볼까요? 콩나물 다시다 대파 준비해주세요",
+		"2. 먹을 만큼 물을 담아서 다시마2장을 넣어서 끓여주세요",
+		"3. 씻은 콩나물을 넣어서 같이 끓여주세요",
+		"4. 마늘 1스푼 넣어주세요",
+		"5. 국간장1스푼 넣어주세요",
+		"6. 액젓1스푼 넣어주세요",
+		"7. 소금으로 간해주세요",
+		"8. 다시마를 건져주세요",
+		"9. 대파를 넣어서 마무리 해주세요  간이 심심하면 소금으로 간을 해주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/a1226775a0744bd3a72d4d2d69db3fdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/b6715953a69ba4a2223efb743b3661e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/6edb50dce207438fcc4a887a338a3f601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/d84c861627c50e73419445fb053181a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/3975725096ad608dd995462124ef8a5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/eae7044cfd40c77b6cc882ddb4388d001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/351b841ccec5fddb6c1263612767362e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/9d67c0786987c1941dd4a85d6688c5fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/29/6314a2ba57b4a0f9c09d846d59ead2ed1.jpg"
+	]
+}

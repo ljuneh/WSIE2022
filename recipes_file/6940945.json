@@ -1,0 +1,44 @@
+{
+	"id": "6940945",
+	"name": "시원하게 도토리묵밥 한사발~: 시원한음식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/7be9c5366690c994d88d6669049f0c461.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940945",
+	"ingredient_ids": [
+		331,
+		51,
+		95
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "도토리묵",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "동치미육수",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		}
+	],
+	"recipe": [
+		"1. 도토리묵을 끓은물에 3-4분가량 끓여 찬물에 씻어준다.",
+		"2. 묵을 길에 썰어서 그릇에 넣는다.",
+		"3. 육수를 비우고 김가루와 토마토를 올리면 완성♡ 집에 야채들 더 올려서 곁들여 먹어도 맛있어요♡"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/2b8c4294cac59c84614c42dc66a353f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/504d5ec53fd1c415613e6fc71374b3571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/6de6c204b464e613446fe9912d9b4ba71.jpg"
+	]
+}

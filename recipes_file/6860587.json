@@ -1,0 +1,60 @@
+{
+	"id": "6860587",
+	"name": "바삭~쫄깃한 쥐포튀김/간식만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/13/5ca73b8ead55ca11e647c32865310ef01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6860587",
+	"ingredient_ids": [
+		234,
+		436,
+		219,
+		504
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "쥐포(튀김용)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 튀김팬에 식용유 적당량을 올리고-튀김용 쥐포는 물에 한번 헹궈 준비해요",
+		"2. 가위로 5~6등분으로 자르고",
+		"3. 넓은 접시에 밀가루1T와 빵가루6T를 담아놓고, 달걀1개를 풀어준비하고 자른 쥐포를 밀가루에 고루버무려 준비해요 기름온도는 약불로합니다 밀가루-달걀물-빵가루 순입니다",
+		"4. 밀가루 옷을 입힌 쥐포는 풀어놓은 달걀물에 적시고",
+		"5. 빵가루에 넣어 꾹꾹 눌러가며 빵가루를 입혀줍니다",
+		"6. 빵가루가 떨어지지않게 눌러준 쥐포는 튀김준비해요 좀 번거롭다구요~^^맛은좋아요~ 시간있을때 빵가루까지만 입혀놓고 냉동실에 보관하고 필요할때 살짝 튀겨 간식으로 내도 좋을듯해요",
+		"7. 튀김하기- (약불)빵가루 입힌 쥐포는 기름에 넣고 앞,뒤로 노릇하게 구워줍니다",
+		"8. 살짝만 튀겨주시면 돼요 약간 노릇할때 꺼내주면 되겠어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/13/dad2060eb62643767bc37e390a19fe4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/13/e4b2ecea93c73111e45068d399555a4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/13/275dbe4e3656244cffc81961a90935bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/13/937ca56390f3d1b874bbf82632e693de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/13/115a0311d1aba9c67ed7f9d4fa5164cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/13/83e597bd5b92096aebcf34073016785c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/13/d1297ab3a867d10ca436cf0fa53084471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/13/6f0aae3f3882d57c21f0c430648f659e1.jpg"
+	]
+}

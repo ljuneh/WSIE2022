@@ -1,0 +1,60 @@
+{
+	"id": "6911662",
+	"name": "연하고 부드러워 정말 맛있는 고사리나물볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/05/06/1b165a713bdca615532d0622e869a2a61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6911662",
+	"ingredient_ids": [
+		41,
+		327,
+		432,
+		477,
+		379,
+		349,
+		29
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "고사리",
+			"ingre_count": "1",
+			"ingre_unit": "Kg"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 고사리를 다듬어 깨끗히 씻어 체에 받칩니다",
+		"2. 물기가 빠진 고사리에 들기름 오일을 넣고 볶습니다",
+		"3. 순서대로 양념을 합니다",
+		"4. 접시에 담아냅니다"
+	],
+	"recipe_img": []
+}

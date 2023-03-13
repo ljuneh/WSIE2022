@@ -1,0 +1,76 @@
+{
+	"id": "6867210",
+	"name": "쇠고기 장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/cd3e12fcf2e70e77fb62dccc0eaf5c921.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867210",
+	"ingredient_ids": [
+		28,
+		3,
+		857
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "쇠고기홍두깨살",
+			"ingre_count": "1200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "깐마늘20개정도",
+			"ingre_count": "20",
+			"ingre_unit": "개 정도"
+		},
+		{
+			"ingre_name": "청양고추10개정도",
+			"ingre_count": "10",
+			"ingre_unit": "개 정도"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "조림간장",
+			"ingre_count": "5",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "월계수잎10장정도",
+			"ingre_count": "10",
+			"ingre_unit": "장 정도"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "3~4톨",
+			"ingre_unit": "~톨"
+		},
+		{
+			"ingre_name": "대파3~4뿌리정도",
+			"ingre_count": "3~4뿌리 정도",
+			"ingre_unit": "~뿌리 정도"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 쇠고기 가운데 홍두깨살 부위를 골라서 사면 좋습니다. 찬물에 담가 핏물을 빼라는 말도 있지만, 그렇게 하지 않고 곧바로 삶아도 됩니다. 고기를 삶을 때, 고기가 물에 넉넉하게 잠기도록 하는 것이 좋고, 센불에서 한 번 끓어오르면 중불에서 약 40-50분 정도 삶아서 쇠고기가 안쪽까지 완전히 익는 것이 좋습니다. 고기를 삶을 때 함께 들어가면 좋은 것들은 월계수잎, 생강, 대파, 양파, 통후추 등입니다.",
+		"2. 고기가 완전히 익으면 고기를 따로 건져냅니다. 고기를 삶은 물은 장조림의 국물로 사용하기 때문에 버리지 말고 건더기와 분리해서 그릇에 담아 냉장고에 넣어 둡니다. 쇠고기 삶은 물을 냉장고에서 식히면 위에 하얗게 기름이 앉게 되는데, 이 기름을 완전하게 제거해야 장조림 국물이 깔끔합니다. 삶은 고기가 조금 식으면 손으로 고기를 찢습니다. 결대로 찢으면 쉽게 잘 찢어집니다.",
+		"3. 냉장고에서 식힌 국물을 꺼내 하얀 기름을 모두 걷어내고, 끓입니다.  국물에 찢은 쇠고기를 넣고 간장으로 간을 합니다. 진간장과 조림 간장을 섞어 넣으면 좋습니다.",
+		"4. 국물이 끓을 때 깐통마늘과 청양고추를 넣습니다.  국물이 자작할 때까지 중간불로 조립니다. 장조림의 국물 간을 맞출 때는 맛을 보면서 간장을 조금씩 추가로 넣는 것이 좋습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/76a947c0ee2d16f4f548414950e2bc881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/51d0b42d93574467dbc8c049fb7e66291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/5b43c83d68450f1d48c76bf57435efd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/21/98338f88ecdac02c9bd1d26fb9033b681.jpg"
+	]
+}

@@ -1,0 +1,75 @@
+{
+	"id": "6941202",
+	"name": "뽀얀 국물의 황태국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/674dcf44d692906191e33c0745be310d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941202",
+	"ingredient_ids": [
+		973,
+		53,
+		323,
+		47,
+		327,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "황태채",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "멸치다시마육수",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해 주세요. 콩나물과 두부는 깨끗이 씻어 놓아요.멸치다시마육수는 한꺼번에 끓여서 식힌 후 패트병에 소분하여 얼려놓고, 필요할 때 해동시켜 사용하면 편해요.",
+		"2. 냄비에 들기름 1스푼과 황태채를 적당한 사이즈로 잘라서 넣어주세요. 황태채를 들기름에 버무려준 후 10분 정도 그대로 두세요. 불은 올리지 않은 상태입니다.",
+		"3. 10분 정도 지나면 중간불에서 황태채를 오랫동안 볶아주세요. 연기가 모락모락 날 때까지 오랫동안 볶아야 뽀얀 국물이 나와요. 저는 20분 동안 뒤적거려 줬어요.",
+		"4. 멸치다시마육수를 넣고 센불에 끓여주세요.",
+		"5. 표고버섯을 넣어주세요.",
+		"6. 팔팔 끓을 때 콩나물과 두부를 넣어주세요. 마지막에 소금으로 간을 맞추고 후추를 살짝 뿌려주세요.",
+		"7. 뽀얀 국물의 고소하고 맛있는 황태국 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/8035a85484ca5c8bff9d0f9e0af3d29f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/774c6c8c44ab8c19b35ad6c1de9df7131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/b2201a417e95afe3c64d92b05c1b03a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/8d3f57732db3fff8c58e142d12e0c4a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/462cb8ad93c19f471c04822e2b9b5fa91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/0af1274a35383d13371a45d8ab3f9bc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/7e0db0e9ff02a604f153e28f2dac1b3a1.jpg"
+	]
+}

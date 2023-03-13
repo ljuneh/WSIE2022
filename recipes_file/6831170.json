@@ -1,0 +1,45 @@
+{
+	"id": "6831170",
+	"name": "백종원만능간장활용요리 감자조림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/3048faa2261ef98cb532a5ef0d3ee7811.jpg",
+	"url": "https://www.10000recipe.com/recipe/6831170",
+	"ingredient_ids": [
+		643,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자중간크기",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "백종원만능간장",
+			"ingre_count": "3",
+			"ingre_unit": "ts"
+		}
+	],
+	"recipe": [
+		"1. 감자는 깍뚝썰기하듯이 썰어서 준비한 다음 먼저 물에 잠시 담궈두었어요. 감자전분기를 좀 빼기 위해서 입니다.",
+		"2. 담아두었던 물은 따라버리시고 물을 잠길정도 담아서 준비해요. 만능간장도 넣어줍니다.",
+		"3. 고추도 약간 썰어넣고 끓여줍니다. 약간의 단맛을 위해 올리고당도 조금 넣어주었어요.",
+		"4. 조림장이 줄어들때까지 조려주면 감자조림 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/8ed3ca8e7e5e4d5c65c2557b7912a1c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/3fedefbf2f5238fe90189deb9827244f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/a3dbfb9b06f5234b9a43edc9a703f04c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/06/64004719934e506e6e9de143af18b21c1.jpg"
+	]
+}

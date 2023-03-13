@@ -1,0 +1,67 @@
+{
+	"id": "6908295",
+	"name": "식빵으로 애플파이 만들기 NO오븐",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/03/13/f88bfbd870150166a46c6fbe8537ae521.jpg",
+	"url": "https://www.10000recipe.com/recipe/6908295",
+	"ingredient_ids": [
+		503,
+		158,
+		226,
+		227,
+		471
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "계피가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 사과반쪽을 깍뚝썰듯이 잘게 썰어주세요",
+		"2. 팬에 설탕2T넣고 약불에 졸여주세요",
+		"3. 사과색깔이 누렇게 변하면 계피가루 넣어주세요 저는계피를 좋아해서 많이 넣었지만 취향에따라 조금씩 넣어서 간보세요",
+		"4. 꿀한스푼넣고 골고루 썩은뒤 그릇에 담아주세요",
+		"5. 식빵4개는 테두리를 잘라내고 밀대로 밀어 납작하게 해주세요 둥근거아무거나 사용하세요 컵이나 템플러 절구통방망이등등 사진은5개이예요 한개는 입속으로 ㅎ",
+		"6. 밀어둔 식빵위에 조림해둔 사과를 올려주세요 너무 많이 올리면 터져요",
+		"7. 식빵테두리를 포크로 눌러 붙여주시고 지저분한 식빵끝부분은 칼로 정리해주세요 식빵이 서로 붙지 않을경우 계란한개와 물조금 섞어서 테두리쪽을 발라서 해주시면 잘붙어요",
+		"8. 만들어진 식빵은 오븐에 구워내셔도 되고 팬에 하셔도 되요오븐",
+		"9. 팬에 버터한스푼을 녹여서 약불에서 구워주세요",
+		"10. 더맛있게 먹을려면 사용하다 남은 계란을 식빵앞뒤로 솔로 이용해 발라서 구워먹음 맛있어요 이렇게 노릇하게 구워내면 완성입니다",
+		"11. 식빵 애플파이 간식으로 최고죠"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/13/0ab921671403d8572f06192306934f6d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/13/a26b47a1fae2c2a264714ae69bd4c6d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/13/7726db3a9b157541d908cb8d2d6f71401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/13/6ce120add19cacf449fad5dcd4c1553f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/13/017b4d9140861cc29d57ac611123505e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/13/2ea97c9ced42752fc854fa61e53276071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/13/56cb3377e1f773a61a247afcf34ec7fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/13/c50e1ccb72f716c62d8f720637ee452e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/13/13b1276b8f192deb180db2274bfb84f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/13/0f76e2b68ee2530b1589c61a679941e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/13/93bc8c51bc131e625c7d4a841ea68c7c1.jpg"
+	]
+}

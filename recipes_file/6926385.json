@@ -1,0 +1,104 @@
+{
+	"id": "6926385",
+	"name": "봄동 무침 < 간단한 겉절이 만들기 >",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/67b929ba2de450223a7c4965993a6c821.jpg",
+	"url": "https://www.10000recipe.com/recipe/6926385",
+	"ingredient_ids": [
+		417,
+		19,
+		27,
+		142,
+		158,
+		333,
+		233,
+		290
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "봄동",
+			"ingre_count": "5",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "3",
+			"ingre_unit": "도막"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "26",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "20",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "10",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 봄동 5뭉치 입니다",
+		"2. 배추 심을 과도로 도려냅니다",
+		"3. 한가닥씩 뜯어 주세요",
+		"4. 흐르는 물에 두번 씻어 주세요",
+		"5. 엄지로 흰 부분을 문질러 흙을 제거해 주세요",
+		"6. 고추가루 26T 다진마늘 10T 멸치액젓 20T를 넣고 다대기를 만들어 주세요",
+		"7. 대파를 어슷썰어 주세요",
+		"8. 물기를 탁탁 털어주세요 고여있는 물이 없도록 봄동을 손으로 잡고 거름망을 뒤집어서 물을 빼주세요",
+		"9. 채썬 대파와 봄동을 넣어 주세요",
+		"10. 비닐장갑 낀 손가락으로 봄동 위에 다대기를 문지르며 양념을 골고루 발라주세요",
+		"11. 사과 1조각 배 1조각을 채썰어주세요",
+		"12. 같이 버무려 줍니다",
+		"13. 간 깨를 뿌려주세요",
+		"14. 하루 베란다에서 숙성시켰어요",
+		"15. 맛을 보니 좀 짜게 됐어요",
+		"16. 무 세도막을 납작하게 썰어 주세요",
+		"17. 골고루 버무려 주세요",
+		"18. 하루 상온에 숙성시킨 후 맛을 봅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/6f5695cf93103afd305b96d0e90846881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/396aac29647469f1e2ec28be1d336ccc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/c3ee3d9e167b3e3e87fe63ed6acbeb301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/3ac4779dbaacdf4413134339b55eeab31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/7c890302043870cf3777a8ea4291ff561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/dfebb9a58cc8ed19c05efcbf934c3b531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/ad8215c2b7c8b2322c2005413858153b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/54eaea4a59afb6c116996201835e61de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/0f2b731e3e5e55a24ba9b304e6ca53251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/568a9f06c0a3b6804c3f2fcb315bc82b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/9eb71434b0db8ff285347f7d1d1475431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/f613cf7a419789636e1f7c88c95a53ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/b8546beccce7bc01d10e5b11ef29908d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/cc646edffd6193b274dd94e4068191a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/ad934af19d75fabb396795fcfd7154841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/40c99c6946bb1449081c7617e07e982e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/6a7564acefd57c93eb156a288ddd811f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/02/11/e5f3e1bd4511483e5c1089550e19671e1.jpg"
+	]
+}

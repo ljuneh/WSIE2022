@@ -1,0 +1,66 @@
+{
+	"id": "6940115",
+	"name": "모닝빵 달걀 샌드위치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/b4dede14f38190d3e197f152e42053411.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940115",
+	"ingredient_ids": [
+		228,
+		204,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "머스타드",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 계란삶기  @6933927  계란을 삶아 껍질을 벗겨준다",
+		"2. 계란 노른자와 흰자를  분리해 준다",
+		"3. 흰자를 칼로 다지거나 다지기에 넣고 다져준다 (분리하지않고매셔나포크로으깨어주기ok)",
+		"4. 계란 노른자를 으깨어  주면서 고루 섞어준다",
+		"5. 마요네즈,머스타드,연유 후추 넣고",
+		"6. 고루 섞어준다",
+		"7. 빵 칼을 이용해 모닝빵 끝을 조금 남기고 반으로 잘라준다",
+		"8. 준비한 계란을 모닝빵에 채워 넣는다",
+		"9. 맛있게 챱~ 챱~~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/a89f2a8e11999e313bfa6b59a9ab43311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/cc13bfc1ab0b071c18bf026f15a283071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/5487a214ac138ee7b158387efeb1b4ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/91fdab7652432f512149137980514dbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/0d386e14abb3830ad16684f7653e54441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/6a37fa6b50d1fbc426fb6220859b517f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/1898e365ba03fe446bd9e9b07d6d6cb41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/6644e9a4a1c6b4836b4b3fde286588d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/747cc41a0ed20257a4a6634696e35f131.jpg"
+	]
+}

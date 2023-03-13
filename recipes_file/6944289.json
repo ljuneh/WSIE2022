@@ -1,0 +1,62 @@
+{
+	"id": "6944289",
+	"name": "백주부의 더덕무침 맛있게 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/a6360823721b64a03ad5130dc4f50d2c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944289",
+	"ingredient_ids": [
+		37,
+		224,
+		843,
+		660,
+		543,
+		473
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "더덕",
+			"ingre_count": "3",
+			"ingre_unit": "주먹정도"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "솔솔솔"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 더덕을 병이나 다듬이로 으깨줍니다.",
+		"2. 준비된 양념들로 양념을 준비합니다.",
+		"3. 고루고루 잘 섞이도록 비벼주면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/3ad772c53efd128673504370ee8b691e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/f917af573daa0e97261ad2d4b95292e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/5c14690dc2832dd71ee38ceb1eb5d4171.jpg"
+	]
+}

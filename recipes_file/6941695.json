@@ -1,0 +1,57 @@
+{
+	"id": "6941695",
+	"name": "에그슬럿 베이컨에그 앤 치즈 샌드위치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/d9bdb4769bddb323474f4547d1e3fe8c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941695",
+	"ingredient_ids": [
+		219,
+		406,
+		203
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버거번",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "",
+			"ingre_unit": "적당"
+		}
+	],
+	"recipe": [
+		"1. 팬에 버거번을 구워주세요.",
+		"2. 베이컨 4장을 바짝 굽습니다.",
+		"3. 계란후라이 반숙을 해야합니다. 약불에서 3분 정도 후라이합니다. 익히다가 흰자만 익었을때 조심스럽게 뒤집어주세요. 뒤집는데 성공했다면 이제 가스불을 끄세요! (잔열이 알아서 해줍니다)",
+		"4. 버거번 양면에 케첩을 뿌려주세요.",
+		"5. 아래 버거번에 베이컨, 반숙란을 순서대로 놓아주세요.",
+		"6. 체다치즈 2장을 얹어줍니다. 나머지 버거번도 올립니다.",
+		"7. 완성! 맛있게 먹습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/e79d5a8a2f07ffc832f95fb70526e1e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/384afa90d18fc513e3c54c1f3fdaf7081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/8e4e0a99744fe300fb7d837e44f2f67a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/93ac99afbb3b8134c112d159ef19316a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/fec2a1b02854e7463879ae4bf35651b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/0596c9cf07072495f52119e9c9c4a8251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/6e7ff5e1e13c593483635bc4004a340e1.jpg"
+	]
+}

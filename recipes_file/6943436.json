@@ -1,0 +1,107 @@
+{
+	"id": "6943436",
+	"name": "해물찌개 얼큰 칼칼한 국물요리!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/fb7f74ba03c3f4666cd8e9449f992d941.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943436",
+	"ingredient_ids": [
+		65,
+		19,
+		27,
+		295,
+		323,
+		349,
+		846,
+		224,
+		233,
+		225
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "홍합살",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "조갯살",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "멸치다시마육수3+1/2컵",
+			"ingre_count": "3+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 냉동실에 자리하고 있는 홍합살, 오징어, 조갯살이에요. 홍합살과 조갯살은 흐르는 물에 씻어 물기를 빼주고, 오징어도 기호에 맞게 썰어주세요.각 가정의 냉장고 사정에 따라 다양한 해산물을 더 넣어줘도 돼요~",
+		"2. 무는 나박 썰고, 두부는 깍둑 썰어주세요. 홍고추와 청양고추는 다지고 대파는 송송 썰어주세요.",
+		"3. 냄비에 멸치다시마육수, 무를 넣고 끓여주세요.",
+		"4. 무가 투명해지기 시작하면 국간장, 청주, 오징어, 홍합살, 조갯살, 두부를 넣고",
+		"5. 다진 마늘, 고춧가루를 넣고 끓여주세요. 이때, 후춧가루도 톡톡!",
+		"6. 대파, 청양고추, 홍고추를 넣고 한소끔 더 끓여주세요. 모자란 간은 기호에 맞게 소금, 국간장, 참치액 등등으로 맞춰주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/5243198be907bfc77ff71a94b3b8485a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/5a287eaf09063a7fa2d1409ca5579ae71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/25228ebfd2a8a1f919664c83bf5d76b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/68daeb490a6a8c016516f83285d1e2761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/b8cbbba5137a92efa1844cf87d37b1ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/fdcaa39f2be5552c67d485906fd3dafe1.jpg"
+	]
+}

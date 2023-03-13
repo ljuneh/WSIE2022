@@ -1,0 +1,109 @@
+{
+	"id": "6943644",
+	"name": "크로크무슈 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/a3be1109ed5fbc71ba6e1c2377143c4d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943644",
+	"ingredient_ids": [
+		212,
+		198,
+		198,
+		234,
+		485,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "통밀빵",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "샌드위치햄",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "체다슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "옥수수콘",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 재료들의 양을 먼저 사진으로 확인해주세요. 집에 저울이 없다면 베샤멜소스를 만들때 버터와 밀가루의 양은 사진과 같이 준비해주시면 된답니다.",
+		"2. 크로크무슈에는 요 베샤멜소스를 만들어 발라주어야 하는데요. 버터10 g을 잘라 후라이팬에서 먼저 녹여주세요.저울이 없을 경우 베샤멜소스 만드실때 버터와 밀가루의 양은 1대1 비율로 넣어주시면 된답니다.",
+		"3. 녹은 버터에 밀가루도 같은 양으로 넣어주세요.",
+		"4. 밀가루와 버터를 잘 섞어준 상태에서 우유 반컵을 부어주세요",
+		"5. 생크림도 반컵 부어주세요.집에 생크림이 없다면 우유만 한 컵 정도 넣어주시면 된답니다.",
+		"6. 농도가 되직하게 될 정도로 계속 잘 섞어주세요. 되직하게 만드셔서 잼처럼 빵에 발라먹으면 좋답니다. 베샤멜소스에 맛을 한번 보신후 입맛에 따라 소금을 적당히 넣으셔서 간을 맞춰주시면 더욱 맛있게 크로크무슈를 드실 수 있어요.",
+		"7. 잼처럼 되직하게 잘 만들어진 베샤멜소스만 완성이 되었다면 크로크무슈는 이미 완성된거나 다름없어요:)크로크무슈를 만들고 남은 베샤멜소스는 냉장보관해놓으시면 2~3일 정도는 다시 크로크무슈를 만들어드실 수 있어요",
+		"8. 통밀빵에 베샤멜소스를 통밀빵 4장 모두 듬뿍 쓱싹쓱싹 발라주세요.소스가 만들어졌다면 여기서부턴 아이와 함께 즐거운 요리시간을 가져보세요:) 아이들이 엄청 재미있어 한답니다.",
+		"9. 듬뿍 바른 베샤멜소스 위에 슬라이스햄 두장, 체다치즈 1장, 옥수수콘도 적당히 올려주세요.옥수수콘은 빵안에 넣어주셔도 되고, 빵위에 베샤멜소스를 바를때 그위에 올려주셔도 예쁘고 맛있답니다:)",
+		"10. 완성된 샌드위치는 버터를 조금 후라이팬에 녹인후 앞뒤로 노릇노릇하게 잘 구워주세요",
+		"11. 노릇노릇하게 구워진 샌드위치 위에 베샤멜소스를 한번 더 듬뿍 발라주세요",
+		"12. 이제 여기에 옥수수콘을 조금 올려도 되고, 모짜렐라치즈를 듬뿍 올려주세요",
+		"13. 이제 오븐이나 에어프라이어에서 180도로 7~8분 익혀주시면 완성이예요.에어프라이어,오븐전자레인지로 하실 분들은 치즈가 녹을 정도로 잘 데워주세요:)",
+		"14. 완성된 크로크무슈에는 파슬리가루를 솔솔 뿌려주시면 커피숍에서 즐기는 맛있는 크로크무슈가 완성되겠죠:)  요 크로크무슈는 정말 아이도 잘먹고 어른들도 너무 맛있게 드실수 있답니다. 집에서 즐거운 요리시간도 가지시고 커피한잔과 우유한잔과 함께 행복한 홈카페도 즐겨보세요 ♩"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/f31b974d058b1641962759f4416d8bdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/ba609ebd33d787f43d28cf9f06b808eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/ef330ede27f95d085f3acda93d37757c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/1bfe76e655033133b185f5919b80fee01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/b7759298cbf915122a36f2f8413086361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/cadea6f7765613be330de253decfbd081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/bd46aceca25332cfa0e5326ede29a0d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/b3baa70782c1e7cdfd84ca979ba60a8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/fa27d2773b9e4dd694293a7ebdeabc2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/0a84f5088cb964008bf9a12dc91f8b701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/e117ae86fbe31c23ebcc3039192e08db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/9f1f4d06b24483e441ae7b6186a0a2311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/465da92362214d13fa9700d74ca372c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/3d2ee32f114cb44d6353dc8dee92c8d41.jpg"
+	]
+}

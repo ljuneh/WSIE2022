@@ -1,0 +1,58 @@
+{
+	"id": "6616412",
+	"name": "미역 표고버섯 소고기죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/23/d1f6ec371962677babafed863f8ce9191.jpg",
+	"url": "https://www.10000recipe.com/recipe/6616412",
+	"ingredient_ids": [
+		96,
+		495,
+		53,
+		1015
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "불린미역",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 제일 먼저 말린 표고버섯을 물에 넣어 1시간 정도 불려주셔야 합니다.",
+		"2. 소고기는 15g을 다져서 준비합니다. 핏물을 빼고 끓는 물에 삶아 잘게 다져주시면 됩니다. 바쁠때 시간 절약도 되고 자주 먹지 않는 특정 재료가 있는 경우엔 이유식 한번 만들자고 대량으로 사야하기 때문에 재료들을 손질해서 아이스큐브에 넣어 보관해두면 좋답니다.",
+		"3. 불린 미역은 체에 받쳐 흐르는 물에 문질러 가며 잘 씻어줍니다. 잘게만 썰어서 넣어줘도 좋지만 미역 자체가 워낙 미끌거려서 갈아서 넣는게 더 편리해요.",
+		"4. 미역을 처음 넣기 때문에 저는 믹서기에 갈아 줬답니다~",
+		"5. 불린 표고버섯도 아주 잘게 다져줍니다.",
+		"6. 육수에 불린 쌀, 소고기, 미역, 표고버섯을 넣어줍니다.",
+		"7. 센불로 끓이다 끓어오르면 약한불로 줄이고 쌀이 퍼질때까지 끓여주시면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/e7f3749f6b8752e6a5100994e5626a851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/f5788c0dbf397347f6df00a9ebae0b811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/790c53c8a7e485bd238df3906edcc77e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/4d8d0786b435bea15ce1f1e7115aaec61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/6899393f9928a8d4115599acce5f170b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/2bc348d0e7490b3533e23e62b0688a071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/2c9a168542c42d299326ba15fe668d941.jpg"
+	]
+}

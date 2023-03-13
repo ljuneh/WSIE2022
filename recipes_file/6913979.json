@@ -1,0 +1,77 @@
+{
+	"id": "6913979",
+	"name": "김치콩나물국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/4abf6b4ece975df6261b41a7b6ae65b81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6913979",
+	"ingredient_ids": [
+		953,
+		47,
+		90,
+		765,
+		233,
+		31
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "3~4조각",
+			"ingre_unit": "~조각"
+		},
+		{
+			"ingre_name": "김치(깍두기)",
+			"ingre_count": "2",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "270",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "쌈장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "쑥갓",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 집개와 가위로 김치를 잘게 썹니다 김치국물 4국자 김치머리 깍두기국물2국자 깍두기2국자 다시마 넣고 물 자작하게 붇고 끓입니다",
+		"2. 김치가 끓으면 10분정도 더 끓입니다",
+		"3. 콩나물 넣고 쌈장 넣고 마늘 넣습니다",
+		"4. 재료가 잠길 정도로 물을 붇습니다",
+		"5. 뚜컹 닫고 센불에 끓입니다",
+		"6. 고추넣고 끓이다가 쑥갓과 쪽파 넣고 한번 끓인후 불을 끕니다",
+		"7. 밥위에 콩나묽국 넣고 다진 소고기 얹어서 먹어도 좋아요",
+		"8. 쌈장 2T 넣었는데 쌈장 1T와 국간장으로 간해도 좋습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/552e834753d936415431b5b6795dca961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/c892983711517e1d978b8cca18e9e2271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/962e8871f320caf426df9a0daaafcd091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/b0a5ce78fa2b2d15e28637a9fe6dc7f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/6d78893bb211a5fbc92629acb220a8181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/b4b4709de63ae43e2ea690e6183ec2a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/3245c0505b8b12990b7a4f19a9dc69201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/06/14/1ed75b5b3ec146af0828016d9ae8acdf1.jpg"
+	]
+}

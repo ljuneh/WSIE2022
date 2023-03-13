@@ -1,0 +1,89 @@
+{
+	"id": "6943885",
+	"name": "소불고기 전골 황금레시피 간편하게 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/113f5a74381df1f38e04b8e1e65d8ebb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943885",
+	"ingredient_ids": [
+		302,
+		911,
+		9,
+		3,
+		746,
+		660,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소불고기",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "쯔유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 제일먼저 당면을 불려주세요.",
+		"2.  @6943825  소불고기 양념법은 여기를 참고하시면 됩니다.  저는 사두었던 냉동 소불고기를  한번 해볼께요.",
+		"3. 이제 자작하게 부을 육수를 만들께요. 맹물에 물의양을 정하시고  쯔유2T, 참기름0.5T, 간마늘,  진간장2T, 설탕1T  조금 이렇게 넣어주세요.",
+		"4. 이제 좋아하는 야채를 넣어서 버섯 당근 양파 대파 이렇게 준비해주세요.",
+		"5. 이쁜 펜에 차례대로 담아주세요. 색깔별로 담으면 더 이쁘답니다.",
+		"6. 이제 아까 준비해둔 육수를 넣고 당면이 익을때 까지 불을 키고 졸여주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/fe1f00e4886f46872d50a6b9228741d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c4a0f10f2577327b52854156870347bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/cc49b7979915ff26e5743da9147466661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/0875c44a28a0d7cbc0a9279a074cc3ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/5092cb74b39302a36d72957d2b74ba841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/d2d3c86774ac74d92aa7327915eacaa71.jpg"
+	]
+}

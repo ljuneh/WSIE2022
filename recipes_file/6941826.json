@@ -1,0 +1,98 @@
+{
+	"id": "6941826",
+	"name": "소고기미역국:황태가 들어가야 찐이다 (feat.아들생일국)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/a0d00894185475c7d3846bed4a273c5c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941826",
+	"ingredient_ids": [
+		233,
+		349,
+		90,
+		527,
+		259
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "국거리한우",
+			"ingre_count": "300",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "건미역",
+			"ingre_count": "30~50그램",
+			"ingre_unit": "~그램"
+		},
+		{
+			"ingre_name": "현미유",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대게맛간장(또는액젓)",
+			"ingre_count": "1~2큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "소금부족한",
+			"ingre_count": "",
+			"ingre_unit": "간만큼"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "황태",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "건표고",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "미역불린컵",
+			"ingre_count": "15",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 국거리소고기는 잠시 물에 담가 핏물제거 한다: 소고기는 냉장상태라면 꼭 핏물제거 하지 않아도 돼요. 저도 가볍게 헹구는 정도로만...",
+		"2. 건미역은 다시마와 함께 물에 불린다: 미역불린 물은 국물로 활용할 것이므로 물에 담그기 전에 한번 헹궈주세요.",
+		"3. 건어물들은 마른팬에 볶다가 미역불린 물을 넣고 끓인다: 모두 냉동실에서 나온거라 가볍게 헹구고 덖어줘야 깨끗하고 잡내도 안나요.  미역 불린 물이 적으면 생수를 보태서 끓여주세요.",
+		"4. 소고기는 적당한 크기로 썰고 ㅡ",
+		"5. 냄비에 현미유와 다진마늘을 넣는다: 식용유+들(참)기름을 넣어주어도 돼요.",
+		"6. 소고기 넣고 볶는다: 소고기가 익을 때까지 간장을 넣지마세요. 고기가 질겨질 수 있어요.",
+		"7. 고기가 어느 정도 익으면 미역과 국간장을 넣고 달달 볶은 후ㅡ",
+		"8. 황태육수를 미역 잠길 만큼만 넣어 끓인다.미역국 맛있게 끓이는 방법 중 하나가 육수를 한꺼번에 넣지 않고 몇번에 나눠 넣고 끓이는 거에요. ",
+		"9. 육수를 넣고 끓이고를 반복한 후 간장과 소금으로 간을 맞춘다: 간장만으로 간맞추기 보다 조금 싱겁게 간한 후 소금으로 부족한 간을 맞추면 국물맛이 한결 깔끔하고 더 맛있는 것 같아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/930fb3aa69ea4646586c4c4c273f10721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/9d14b5864eb92b55d8344b671d0870311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/711ece85b6449afcbf5452b1dc75d7c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/17a27a154bb08f02e25414261cb0d1221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/9599ffd29fc0b6aca4894d793a06341a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/bc0830e7d29b59137b2e677be766915e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/f8fb41e293ba8e233bbe600082edef291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/5078b60a1a74ff3d37fbbd51cb06aaec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/b88c54d92f2d2b374edcb62d11b9f6011.jpg"
+	]
+}

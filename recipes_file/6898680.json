@@ -1,0 +1,111 @@
+{
+	"id": "6898680",
+	"name": "늙은호박김치/게국지",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/25/b36a70c7539ec8a1c66d4ee5e9d608bc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6898680",
+	"ingredient_ids": [
+		32,
+		595,
+		27,
+		545,
+		224,
+		390,
+		233,
+		457
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "늙은호백",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배추",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "알타리",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "얼갈이배추",
+			"ingre_count": "1/2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "돌게(꽃게넣어도됨)저는언니네서가져온돌게가",
+			"ingre_count": "7",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "멸치액젓1+1/2종이컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "매실액기스",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "찹쌀풀",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 찹쌀풀을 미리 끓여 식혀주세요(찹쌀가루 종이컵으로 반컵,물3컵)",
+		"2. 시골서 가져온 늙은호박..손질해 볼까요~ㅎ",
+		"3. 생으로 껍질을 까다가 손가락을 베이고 나서 전자렌지에 2분 돌려서 껍지를 깠어요 어차피 찌게 해먹을 김치라 껍질채 해도 된다는 사실을 껍질을 힘들게 다 까고 언니한테 들었어요~;;전자레인지",
+		"4. 배추, 얼갈이배추, 알타리무청을 한꺼번에 살짝 절여주세요",
+		"5. 도톰하게 썰어 호박도 살짝 절여주세요",
+		"6. 알타리 무도 납작하게 썰어 살짝 절여주세요",
+		"7. 재료가 절여지는동안 양념장을 만들어주세요 미리 끓여 식힌 찹쌀풀에 (고춧가루,멸치액젓, 새우젓,매실액기스,다진마늘,생강)넣고 섞어주세요.돌게도 손질해서 소금 약간 뿌려주세요",
+		"8. 절여진 채소와,무,호박,게를 넣고 양념으로 버무려주세요",
+		"9. 호박김치는 고추가루 조금만 넣어주고 짜지않게 담그세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/25/4039be980d85e727e6177ed71539e1ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/25/52f9ed30659609beec10bae281f2cf211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/25/b1c85bd2d859b008351dc70e6510fddd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/25/b09efa0f8391375beb2a8c00fe67bd1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/25/31a1d8d82a9ac5d9740a7fe3def2cfff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/25/ebc949c203c17d014e12a1b21385ad271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/25/8d70867ab89af36e24f233791c9c0d1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/25/b0e602f9890f084ee2ad5ce85f18c5ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/25/e388094ef245105b3638249ce796634c1.jpg"
+	]
+}

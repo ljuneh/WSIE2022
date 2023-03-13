@@ -1,0 +1,52 @@
+{
+	"id": "6847421",
+	"name": "일식 푸딩계란찜 # 중탕계란찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/25/9acee06cc3569a7f78d037e85cf652ea1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847421",
+	"ingredient_ids": [
+		995,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 계란은 풀어주세요. 계란은 많이 저어줄수록 부드러워져요.",
+		"2. 계란은 양을 체크하고, 계란 물 : 물 = 1 : 1~ 1 : 2 만큼 물을 부어 섞어주세요. 계란 2개 풀 물 = 용량이 100m 계란 2개에 물은 약 1 종이컵 정도 넣어줍니다.",
+		"3. 소금 1/3t정도 넣어 간해주세요.",
+		"4. 일식 푸딩 계란찜 중요한 Tip.1 계란물은 체에 걸러 부드럽게 만들어 줍니다.",
+		"5. 일식 푸딩 계란찜 중요한 Tip.2 뚜껑을 닫아주더라도 수증기가 들어가지 않도록 랩을 꼭 씌어주세요.",
+		"6. 푸딩 말고 그냥 부드러운 계란찜을 원한다면 랩을 빼고 뚜껑만 닫아주면 돼요. 이렇게 됩니다... 그래도 맛있네요.ㅎ",
+		"7. 물을 찜기 바닥 밑까지 부어준 후 찜기위에 올려주고 뚜껑을 닫습니다. 중불에서 15분~20분 불끄고 5분정도 뜸들여 줍니다.",
+		"8. 뚜껑을 열어서 살짝 흔들어 익었는지 확인해 주세요.  시간은 화력 및 냄비에 따라 차이가 있을 수 있으니 참고바래요~ 전 중불에서 20분 5분 뜸들여주니 딱 잘 됐어요.",
+		"9. 파로 하트 데코 해줬어요.ㅎ",
+		"10. Tip.3 찜기 없이 끓는 물에 그릇을 넣고 중탕하는 방법도 있어요. 방법은 동일해요. 단, 끓으면서 물기가 들어갈 수 있기 때문에 랩은 꽁꽁 싸줘야 해요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/01/4930829ceec7c265f553fe066b89263e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/01/ede36dd1df1df60edbc1e46f3c2041ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/01/20131c787cff372d90f9173cfb41a3021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/01/5c3097c3a4e2468e97a2180e61080c9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/01/09bb956fb51c66742f6ad5f93d68b9091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/01/f82cd5c433776e9106408a51718c7b561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/01/ced11d8a27765381339904647152cce31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/01/084bab0dcd67f0c86db9492f7cc178281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/01/788a6b2fd69eab37b0ccbae4cf8e45c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/01/43214794bc01efdc05e07bc17edc4c1d1.jpg"
+	]
+}

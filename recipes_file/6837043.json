@@ -1,0 +1,49 @@
+{
+	"id": "6837043",
+	"name": "단호박죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/2c5ebd7081e931ef19915a4411ce379d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837043",
+	"ingredient_ids": [
+		328
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "단호박",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "찹쌀가루(마트판매하는건식)",
+			"ingre_count": "1",
+			"ingre_unit": "그릇"
+		},
+		{
+			"ingre_name": "비정제설탕",
+			"ingre_count": "1",
+			"ingre_unit": "그릇"
+		}
+	],
+	"recipe": [
+		"1. 우선 단호박죽 만드는법의 시작은 단호박다듬기예요. 단호박을 반으로 잘라주세요.",
+		"2. 그런다음에 속을 전부 파내주세요. 씨를 제거해주시는거죠.",
+		"3. 이제 단호박껍질을 까줄차례! 이때는 말이죠 전자렌지에 3~5분 정도 크기에 따라 다르지만 위생팩에 넣고 살짝만 돌려줘도 껍질까기가 쉽답니다.전자레인지",
+		"4. 이렇게 단호박의 솔살을 드러내게 껍질손질 잘해주세요.",
+		"5. 단호박을 조그마한크기로 잘라서 삶아주는거예요.",
+		"6. 삶은 단호박을 믹서기에 넣어 갈아주세요. 이때 찹쌀가루가 없다면 불려놓은 찹쌀을 넣고 같이 갈아주세요.",
+		"7. 일부 단호박갈아놓은것에 이제 찹쌀가루를 섞어주세요.",
+		"8. 그런다음 비정제설탕을 넣어주세요.",
+		"9. 이제 이렇게 끓여서 익혀주면 끝입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/30e977d5fd5c271696940324a47115ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/002a655ffff4b0fe69b4ce73399f991d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/070c3b96692cd9e570ef3f3d276e735a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/7c51e273c9f9e4f272c09794a7802ccf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/468a587b7244ac6cc4df86e050c082641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/bde53e10fba381fc6b1334042b1e8a751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/bc939c0cab1f9fdb6b1a598ab3936d521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/a780335155789a68e27397167d2300081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/30/da39df473c5ab1305c43c12827caef3d1.jpg"
+	]
+}

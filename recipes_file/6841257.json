@@ -1,0 +1,67 @@
+{
+	"id": "6841257",
+	"name": "닭백숙 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/08/b0630d3452336e3480545d1dd2d73a011.jpg",
+	"url": "https://www.10000recipe.com/recipe/6841257",
+	"ingredient_ids": [
+		132,
+		995,
+		27,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "중닭",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "수삼",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 닭은 목주변과 꽁지부분 배속의 남아있는 내장 등을 깨끗이 손질해 줍니다.",
+		"2. 손질한 닭은 끓는 물에 앞뒤로 데친 후 찬물로 씻어줍니다 .",
+		"3. 큰 냄비에 닭을 넣고 잠길 정도로 물을 부은 후 수삼, 대추, 마늘을 넣고 닭이 잘 익도록 1시간 이상 폭 끓여줍니다. 처음엔 강불에서 중불로 익혀주면 속까지 잘 익을거에요.",
+		"4. 큰 대접에 닭 반마리를 담고 국물도 넉넉히 붓고 대파도 송송 썰어 넣어 닭백숙 완성했네요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/50076a761f4c31a09d7ec61396321b761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/e5683dd26b32175751e1b469c701e0f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/114721be3daa0d208ffc20f6e45787f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/15/20e7b4f30f323c18645fbfb4319314bf1.jpg"
+	]
+}

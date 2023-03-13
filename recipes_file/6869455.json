@@ -1,0 +1,88 @@
+{
+	"id": "6869455",
+	"name": "가오리찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/08/347c32f70dd3df0ba48e17fd0fccc2931.jpg",
+	"url": "https://www.10000recipe.com/recipe/6869455",
+	"ingredient_ids": [
+		794,
+		846,
+		349,
+		295,
+		233,
+		224,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "가오리",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "4",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 미끌 미끌한 점액을 깨끗하게 제거하고",
+		"2. 내장을 빼고",
+		"3. 흐르는 물에 씻어 주심돼요.",
+		"4. 손질된 가오리 3마리를  찜기에 올리고  청주 2, 생강, 마늘을 넣고 김이 오르기 시작하면 대략 10~15분 정도 쪄주세요.",
+		"5. 진간장 4,국간장 1, 청양고추 1개, 다진 마늘 1,다진 파3, 고춧가루 1, 올리고 당 1, 홍고추 1개을 넣어 양념장을 만들어 줍니다.",
+		"6. 완성된 가오리를 그릇에 담고",
+		"7. 양념장을 껴얹어 주면  가오리찜 완성",
+		"8. 부드러운 가오리찜"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/08/6fab1c92b176349f233d1f2f7149fac81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/08/41b23a332034d4d3a87aea8b8acebb8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/08/e2d0df379cf5cda2071bd9137bc824891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/08/7fd825834bffb5783aeca0665ae7f1641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/08/43b190254aae1a614660ffce71b65bea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/08/703ee928f6be5b3a7d4f6740dfde63401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/08/c76673e7f94b9ce22ef6470dcdaa7ddd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/08/ab75ca38fc83fcee0e04a26b01afe7641.jpg"
+	]
+}

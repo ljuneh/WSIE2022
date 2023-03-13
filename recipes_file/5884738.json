@@ -1,0 +1,73 @@
+{
+	"id": "5884738",
+	"name": "보양식으로 좋은 장어탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/1b5d2c2cbceee5ba33344f54e9ebb08a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/5884738",
+	"ingredient_ids": [
+		995,
+		27,
+		29,
+		28,
+		27,
+		857
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "장어뼈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "장어뼈가잠길정도"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "건고추나홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 장어뼈는 깨끗한 물에 씻어 핏물을 제거해주시고 냄비에 넣어 끓는물에 한번 데쳐 물을 버려주세요~                   ",
+		"2. 통마늘과,생강을 팬에 넣어 볶다가",
+		"3. 장어뼈,물을 넣어주시고 향신료 재료를 모두 넣어 물이 반이 될때까지 끓여주세요.",
+		"4. 색이 아주 진하이 푹 고아졌지요~~ㅎ",
+		"5. 건더기를 체에 받쳐 국물을 걸러주세요.",
+		"6. 국물에 소금간하고 대파 듬뿍 넣어 밥말아 드시면 땀이 절로 나면서 보양식으로 아주 좋답니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/7e663dc3e92fafd3bf36ecd4d1f3b30e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/99373135a80447494022fc63edc8084d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/6feaf576636a7482ed79c3559b491c1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/c433014b945e246e1217dc4476a4e5001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/2326ef44012214caa23b223a04def4bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/08/b48d43b6831a916e9b2648ff21da43701.jpg"
+	]
+}

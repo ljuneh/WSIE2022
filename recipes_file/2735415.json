@@ -1,0 +1,89 @@
+{
+	"id": "2735415",
+	"name": "느끼하지 않은 치즈밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/21/0bd196d7d05b9b9601215a65e9349c57.jpg",
+	"url": "https://www.10000recipe.com/recipe/2735415",
+	"ingredient_ids": [
+		295,
+		212,
+		203,
+		473,
+		724,
+		575,
+		846
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "다진김치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다진새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양념장을 만들고 김치는 묵은지 씻어서 물기 꽉 짜 놓고, 새송이버섯 냉장고에 굴러다니는거 꺼내 다지고 청양고추도 그야말로 마구 썰어 놓았어요.",
+		"2. 양념장을 밥에 넣고 비벼주세요.",
+		"3. 양념소스에 비빈 밥을 뚝배기에 담고 그 위에 김치랑 버섯을 담고 또 그위엔 치즈를 올리고 그위 청양고추까지",
+		"4. 뚜껑 덮어서 약한 불에 올려 두면 치즈가 녹아들면서 바닥은 누룽지가 되어요.",
+		"5. 노글노글 녹아든 치즈랑 밥이랑 젓가락으로 막 섞어봤어요. 마치 낫또를 진액 나오게 비비는 것 처럼 막 휘돌렸어요~",
+		"6. 쭈욱 늘어나는 치즈가~~ 완전 군침 돌게 만들어요. 피클이랑 같이 먹으니 넘 맛있더라구요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/21/8c6e449336292873508ad5ae7d51ce411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/21/ac24213786d5231071c0bd5b83cc32901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/21/1f5a8b36381fb8aeefbc37b983d6eaf71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/21/c7854cf449e5399f9a25911a6abdac981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/21/ce5d88b9a9513ca1aae1110dd9f8897e.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/21/2e460ba5c843f720c61d5570a7c15178.jpg"
+	]
+}

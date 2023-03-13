@@ -1,0 +1,67 @@
+{
+	"id": "6864726",
+	"name": "다이어트와 건강!두개를 동시에!해독주스★",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/8c3f0cffd4bd77e56fed264e9dee51021.png",
+	"url": "https://www.10000recipe.com/recipe/6864726",
+	"ingredient_ids": [
+		21,
+		11,
+		9,
+		51,
+		141,
+		158,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "800",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 채소와 과일은 동일 한 양으로 100g씩 준비한다.양배추 100g, 브로콜리 100g, 당근 100g, 토마토 100g, 바나나 100g, 사과 100g",
+		"2. 냄비에 준비한 채소를 넣고 물을 부어 끓인다.물 800ml냄비바나나와 사과는 생으로 사용한다.",
+		"3. 물이 끓기 시작하면 뚜껑을 닫고 중불로 줄이고 10~15분간 끓인다.중불",
+		"4. 끓은 채소를 그대로 식힌다.",
+		"5. 끓인 채소가 식으면 믹서기에 사과, 바나나와 함께 넣고 갈아 완성한다.믹서기"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/03/c6557be36773ed343429d48c01732fa41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/03/b7bf9ab64477cea055c7475eba3891aa1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/03/b9892e56331601ce1645596036197a031.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/03/5d835aed4a50c7c7eec94c1a9d82a1aa1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/03/ad65ff0f30a13734d1e79151721568f21.png"
+	]
+}

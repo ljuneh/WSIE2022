@@ -1,0 +1,88 @@
+{
+	"id": "6879650",
+	"name": "아삭아삭하고 맛있는 알타리무김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/16/786c89dc42f0988162dbebe0509410121.jpg",
+	"url": "https://www.10000recipe.com/recipe/6879650",
+	"ingredient_ids": [
+		391,
+		995,
+		282,
+		29,
+		847,
+		287
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "알타리무",
+			"ingre_count": "4",
+			"ingre_unit": "Kg"
+		},
+		{
+			"ingre_name": "쌀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "배즙",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "10",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 알타리무를 준비합니다",
+		"2. 다듬은후 깨끗히 씻어놓습니다",
+		"3. 굵은소금에 절입니다",
+		"4. 쌀가루에 물을 적게 넣고 되직하게 쌀풀을 쑤어놓습니다",
+		"5. 배즙을 준비합니다",
+		"6. 쌀풀에 배즙 고추가루를 풀어놓습니다",
+		"7. 알타리무가 절여지면 살살 씻어 체에 받칩니다",
+		"8. 물기가 빠지면 모든 양념을 합니다",
+		"9. 살살 버무립니다 기호에 맞게 간은 액젓으로  가감합니다",
+		"10. 통에 담아 기호에 맞게 숙성시킵니다",
+		"11. 그릇에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/16/8b2ee91abf2d9d5f6883c2239d92f7a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/16/45424a9b32f241b0d91615d91c09462a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/16/ec0445d329d114d15236fe798478803a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/16/60ff5306e1a17da2850a3f87a8518ed41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/16/d77a4592c470d93f454e6bd9a53b928b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/16/60ea5b5a63653d33a8aa495eaba1dfe11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/16/7f95cc0b5aa03ab47b863d54ac84388d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/16/824b636d3a91143784f6433ad271a2891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/16/0f490312edaa71c0a261c065ee6018dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/16/7a618d1158f3f1d93c0249c7dc1f3ec01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/16/fda50b962d5fa0fc7c7c0ece24bb19d81.jpg"
+	]
+}

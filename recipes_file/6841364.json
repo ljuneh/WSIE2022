@@ -1,0 +1,69 @@
+{
+	"id": "6841364",
+	"name": "카레 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/10/bf561283b147bd1b02b35d50ffa7330d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6841364",
+	"ingredient_ids": [
+		5,
+		9,
+		3,
+		995,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "캔옥수수",
+			"ingre_count": "1/3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "카레100g(1봉지)",
+			"ingre_count": "100g(1봉지)",
+			"ingre_unit": "g(봉지)"
+		}
+	],
+	"recipe": [
+		"1. 각종 채소는 깍뚝썰기로 썰어놓아요. 카레는 한 그릇 요리로 먹기 편할 뿐 아니라 야채를 먹지 않는 아이들에게 거부감 없이 야채를 먹일 수 있는 방법 중 하나에요. 손님상차림에도 괜찮은 것 같아요.",
+		"2. 냄비에 식용유 두르고 예열 후 야채 넣어 볶아줍니다. 야채는 겉 부분이 코팅 될 정도만 볶아줍니다.",
+		"3. 코렐 밥공기로 두 공기 물을 넣어줍니다.",
+		"4. 카레 100g 한 봉지 넣고 뒤적뒤적..섞어줍니다. 바닥에 채소가 들러붙지 않도록 골고루 저어준 후",
+		"5. 뚜껑 덮고 중불에서 야채가 익도록 뭉근히 끓여줍니다. 중간에 한번 열어 뒤적여줍니다.",
+		"6. 감자가 익었는지 확인하고 재료가 모두 익었으면 캔옥수수를 넣어줍니다.",
+		"7. 옥수수를 많이 넣을수록 고소한 맛이 나는데 취향대로 양조절을 하세요. 저는 1/3 정도 넣었어요. 보통 옥수수캔 구매하면 한 번 사용하고 밀폐용기에 넣어 냉장보관하는데 이게 빨리 상하더라구요. 소분해서 냉동보관하는 것도 방법인것 같아요. 안그러면 한 번 사용하고 다 버리게 되니까요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/14/3aa3448be33fecfcfc4113308ea09b221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/14/735d73c643d56dab51373ef99b369e771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/14/98b2db2eac38752cffad89c068b6eec41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/14/005f4dff8d04eb2c7b64278950c598cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/14/5e89c291a36536a30645ce63668627791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/14/b29943b43ce3337522c888cbd2d26d891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/14/f36655aa09c64b27166b5dbf5f4eb92f1.jpg"
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "6941086",
+	"name": "백종원 달래장 만들기 맛남의 광장 레시피 맛있는 달래장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/8295f047d3356a8053abeca23771b3571.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941086",
+	"ingredient_ids": [
+		914,
+		357,
+		226,
+		29,
+		660,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기다짐육",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달래",
+			"ingre_count": "1/2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "간장소주잔",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "땡초",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "솔솔솔"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기 다짐육을  간장에 살살 볶아주세요. 설탕도 한스푼 넣어주세요.",
+		"2. 이렇게 되었나요? 그럼 다음 단계로 이동할께요.",
+		"3. 그릇에 볶아놓은 고기를 부워주세요. 그리고 식혀 줍니다.",
+		"4. 볶아 놓은 고기가 다 식었다면  이제 양념을 해줄께요. 고추가루(굵은:고운)반반 섞어서 2T,  간마늘 1T, 땡초, 참기름, 통깨  이렇게 넣어주세요.",
+		"5. 달래를 잘 씻어서 먹기 좋은 크기로  썰어주세요.  달래의 머리 부분은 쫑쫑 썰거나 칼자루 부분으로 찧어 주세요.",
+		"6. 이제 달래와 양념장을 부워서  살살살 버무려 주세요. 삼겹살에 올려먹으니 향긋한 향기가 나서 더 맛있었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/3cbb6bee1587ba7b39561c9529d9f95e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/f247d7de40df429cf911749753f416cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/eb2715b4f23378ca4b74a544fe5e91da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/5bdcd13eb3810b3a603917a670d3c8921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/938636d9dd8e087f8cc68fb920fa81f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/43daf3779b1ebf4f77798ebac8dfa14f1.jpg"
+	]
+}

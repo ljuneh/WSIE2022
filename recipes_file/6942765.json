@@ -1,0 +1,49 @@
+{
+	"id": "6942765",
+	"name": "식감좋은 애느타리버섯무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/5e80de14df58274761de40bd6b7c74841.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942765",
+	"ingredient_ids": [
+		327,
+		290
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "애느타리",
+			"ingre_count": "2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "후딱간장소스",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 애느타리버섯은 밑둥 자르고 가닥가닥 뜯어 놓아요",
+		"2. 끓는 물에넣고 10초 데치고",
+		"3. 흐르는 물로 열기식혀 놓아요",
+		"4. 물기 짜고",
+		"5. 후딱간장소스(1.5T), 들기름(1/2T), 깨(1/3T)넣고 조물조물 무쳐 줍니다",
+		"6. 그야말로 후딱 버섯무침 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/96dbda469893f18b7028e1f7f2c7ab001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/332fa858b227a8a376cf9bf06ac4e1df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/201fbb110f4f610d2776353b3f58569f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/0036ac93defd42f20f13f25442cb328d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/0b3b9dd4610d331b00b66d5abb0e7bb21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/7583bebb31955699eec0408f9c1398221.jpg"
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"id": "6943903",
+	"name": "초보 베이킹 _ 꽈배기 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/341b5d06a06fe4f07b430125afd42fb31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943903",
+	"ingredient_ids": [
+		995,
+		567,
+		226,
+		497,
+		219,
+		198,
+		504,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "물",
+			"ingre_count": "110",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "인스턴트드라이이스트",
+			"ingre_count": "6",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "6",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "많이"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 물에 이스트를 넣고 녹여줍니다.",
+		"2. 설탕, 소금을 넣고 섞어줍니다.",
+		"3. 달걀도 넣고 섞어줍니다.",
+		"4. 강력분을 넣고 가볍게 섞어줍니다.",
+		"5. 15분간 실온에서 방치해 줍니다.",
+		"6. 버터를 넣고 반죽해 줍니다. 반죽이 매끈해질 때까지 반죽해 줍니다.",
+		"7. 따뜻한 실내에서 부피가 약 2배 정도 커질 때까지 발효해 줍니다. (약 1시간 정도)",
+		"8. 1시간 후 반죽을 정확히 9개로 나눈 후, 표면을 매끄럽게 둥글려줍니다. 실온에 15분간 방치해줍니다.",
+		"9. 반죽을 밀어줍니다.  반죽 한 쪽 끝을 고정시키고 반대쪽 끝을 2~3번 밀어줍니다.",
+		"10. 그리고 들어올려줍니다.",
+		"11. 따뜻한 실내에서 부피가 약 2배 정도 커질 때까지 발효해 줍니다. (약 1시간 정도)",
+		"12. 1시간 후 180℃ 기름에 튀겨줍니다. 앞, 뒤 각각 약 1분 정도 튀겨줍니다. 불을 조절해가면서 너무 진한 색이 되지 않게 튀겨줍니다.",
+		"13. 기름기를 빼고 한 김 식혀줍니다. 설탕 묻혀주면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b2f37172b9cc224c0bbdba91c02000001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b573bb53c75e48be5a4d55f4a6629d961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/e16621c73b80e55105e5398b466a2e091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/0fd4bdc356b1529b310a5664951f9d271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/0595ebf2b50cd84176f1cc38a1b066641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c51d49ec193493d86b5b955dd1fad5371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/7a4be5288697ecbda29a23643150deda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/25cd2450b5a81be8dc0251df2408e6381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c06c9b799d1c05480f66a1b6fdaf43331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/27539b63460ac7782365f9e8005185c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/9c4227d07c83d8eab12b160f43d475241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/01afd661af6d829a8495fcc59ee4a5dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c7ba1eb6eb4982188186dcd62fa8c13f1.jpg"
+	]
+}

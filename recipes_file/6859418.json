@@ -1,0 +1,38 @@
+{
+	"id": "6859418",
+	"name": "아이반찬과 술안주로 좋은 오징어튀김 만들기.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/29/a3d443da62a52284c6e8359594748ff91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6859418",
+	"ingredient_ids": [
+		65
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 먼저 오징어를 깨끗히 씻어주세요. 바다생물들은 깨끗히 씻는게 중요한듯.",
+		"2. 오징어는 식감을 위해 두툼하게 썰어줬어요.  다리는 2개씩 겹쳐서 썰어줬고요.",
+		"3. 오징어는 키친타올로 물기한번 제거해주시고 봉지에 밀가루 넣고 잘 섞어주세요.  요렇게 하면 오징어에 수분이 제거되서  튀길때 기름이 안튄다고 하네요.",
+		"4. 튀김옷을 입힐 반죽을 만들고  오징어에 튀김 옷을 입혀줍니다.",
+		"5. 이제 오징어를 튀겨주시기만 하면 되요.  지글지글 끓는 튀김소리~ 맛있는 소리죠. ㅋ~",
+		"6. 요렇게 맥주랑 한잔 먹으면 좋은 오징어 튀김. 술안주로 딱이죠? ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/29/1cc2dd90d8b13c6569cd303d216075711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/29/854a08bcb33df489796d8cabdea0a9921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/29/8d0cb94d4e4408874e40cc36f8c265221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/29/0c317f850163fae430836800c51fccdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/29/835b8b4ca1f12792d5a135086e7a2e2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/29/6f22ac986bce20d9213eb945a173f3ca1.jpg"
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"id": "6944393",
+	"name": "게맛살볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/85122ea3ede152cb767833d650bf929e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944393",
+	"ingredient_ids": [
+		3,
+		379,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "게맛살",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 맛살 먹기 좋은 크기로 썰어요",
+		"2. 양파 맛살 크기와 비슷하게 썰어 담고",
+		"3. 후추톡톡,간장반스푼 넣어 휘리릭~ 볶아요",
+		"4. 기름을 적당히 두르고 슥슥 볶아 주다가",
+		"5. 대파 송송 썰어 넣고",
+		"6. 통깨솔솔 뿌려 볶아 주면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/6ea02c6b72779f215ac15fa137d27c131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/d3c2e9932a281a6bb2e0b92bf3b97e281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/5361b1c1b786f9902385a24769e7797c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/de391e47b0fd31945d940efa7ae7c83c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/6dc0c4bde1b43a8463135e537bf5a02e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/17/6232b8912a1e76088e014e703c558aae1.jpg"
+	]
+}

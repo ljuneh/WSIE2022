@@ -1,0 +1,34 @@
+{
+	"id": "6877892",
+	"name": "압력솥 밥 하는 법, 잡곡밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/14/eb1d25b327d0911b849d1e1342bc0eb01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6877892",
+	"ingredient_ids": [
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "잡곡쌀",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 압력솥에 잡곡쌀과 물을 1:1 비율로 넣어주세요.저는 거의 공식처럼(?) 밥을 하는데요. 쌀과 잡곡의 비율은 7:3으로, 물과 쌀은 1:1 로요. 고슬고슬함과 된밥의 경계에 있는 밥을 좋아하는 분들도 계시지요? 그럴 땐 물을 조금 적게 해서 1:0.8 정도로 잡아주면 돼요.",
+		"2. 뚜껑을 완전히 밀폐한 뒤 센 불로 가열해주세요.",
+		"3. 압력 표시기가 빨갛게 변하면 약불로 줄여 5분간 가열해준 뒤 불을 꺼주세요. 10분간 그대로 두며 뜸을 들여주세요.",
+		"4. 불을 끈 뒤엔 10분 정도 뜸을 들였다 열어주면 되는데요. 증기가 완전히 배출된 것을 확인한 뒤 뚜껑을 오픈해주셔요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/14/812d03bd66ae52625ffc9ef3046825351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/14/58c265a011a0758c7ef03b916e5222f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/14/f855cdac2387fda5d1b9b887caf29ae11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/14/854248f3575ba122e75fec6340b74e851.jpg"
+	]
+}

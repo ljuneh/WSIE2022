@@ -1,0 +1,61 @@
+{
+	"id": "6941025",
+	"name": "토마토덮밥/비빔밥: 불안쓰는 전자렌지 원볼푸드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/703d3b931f0328d0723e3963c3f6fda81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941025",
+	"ingredient_ids": [
+		219
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "완숙토마토",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추페스토(또는와사비)",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "양념간장(맛간장또는장아찌또는간장)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브오일(또는참기름)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쪽파(또는부추또는깻잎)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 밥팩에서 찬밥꺼내 그릇에 담고 달걀도 깨넣는다",
+		"2. 토마토를 적당히 썰어 담고 페스토나 와사비를 올린다.",
+		"3. 집에 있는 맛있는 간장 아무거나 올린다: 양념간장,장아찌간장 등등",
+		"4. 전자렌지 가능한 뚜껑이나 랩 씌워 전자렌지에 돌린다 전자렌지 시간은 각자 전자렌지 사양에 맞춰 돌려주세요. 전 4분정도 돌렸어요.전자레인지",
+		"5. 올리브오일+참기름 넣는다.쪽파나 부추 다져넣거나 깻잎, 상추,루꼴라 등 잎채소 뜯어넣어 비벼 먹으면 맛과 영양이 업 된다. 올리브오일+참기름 조합 괜찮아요. 오일도 입맛껏 건강에 좋은 걸로 넣어주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/4eab8ab7be36267153fda0a5797385181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/649d2759ed6838dc00313173e71776681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/9fd9d34aff83aeacacb8f4df607ab6471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/ca5550e293764cf80c6923196d7243b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/7dbd7d0c3d30cbac8db2fca13c3d8d921.jpg"
+	]
+}

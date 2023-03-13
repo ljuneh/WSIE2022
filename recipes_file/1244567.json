@@ -1,0 +1,74 @@
+{
+	"id": "1244567",
+	"name": "매콤한 부추전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/390585e374e12d9da88a930e34e63632.jpg",
+	"url": "https://www.10000recipe.com/recipe/1244567",
+	"ingredient_ids": [
+		30,
+		65,
+		3,
+		295,
+		387,
+		995,
+		432,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근(작은것)",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 부추는 깨끗이 씻어 물기를 제거한뒤 알맞은 크기로 잘라주세요. 오징어는 먹기좋게 썰어주시고, 청양고추는 쏭쏭 썰어주세요. 당근, 양파는 채썰어주세요.",
+		"2. 부침가루에 물을 넣고 잘 개어준뒤 미리 준비해둔 부추, 오징어, 야채들을 넣고 소금으로 살짝이 간도 해주며 섞어주세요.",
+		"3. 달구어진 팬에 포도씨유를 두르고, 부추전반죽을 국자로 떠서 올려주고 노릇노릇 맛있게 구워주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/d05fa6473f6b8528e91f9fa16ee621f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/495e9a3719eb42aa9cb8af60d1eca4541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/07/ceffa619b9af29a80441454ed18947391.jpg"
+	]
+}

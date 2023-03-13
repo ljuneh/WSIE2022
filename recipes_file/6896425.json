@@ -1,0 +1,107 @@
+{
+	"id": "6896425",
+	"name": "우럭매운탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/09/23/6314ee135bf026d5a24068cadb27ea4b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6896425",
+	"ingredient_ids": [
+		71,
+		19,
+		31,
+		55,
+		27,
+		224,
+		497,
+		292,
+		233,
+		457
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "우럭",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "멸치다싯물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쑥갓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "어간장(국간장)",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1/8",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 제법 큰 녀석은 딱 한 마리, 나머지 여섯마리는 새끼들",
+		"2. 내장손질은 낚시터에서 해가지고 와서 지느러미와 꼬리를 가위로 잘라주고 칼로 비늘만 제거했다 큰 녀석 한마리만 토막내 주고 나머진 그대로~",
+		"3. 멸치 넣고 다시국물 끓이다 멸치 건져낸 후 나박썰기한 무를 넣어 익힌다",
+		"4. 양념재료를 섞어 양념장을 만든다",
+		"5. 무가 투명하게 익으면 우럭과양념장의1/2를 넣는다",
+		"6. 맛을 보아 나머지 다대기 넣은 후 다시 한 소끔 끓이고 나서 팽이버섯과 쑥갓 대파 홍고추 넣는다 싱거우면 소금이나 국간장으로 간을 맞추고, 매운탕과 함께 와사비간장(우럭 찍어먹기 위해)을 곁들여 낸다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/23/ed187cf3af17bc288e720562284e2baa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/23/8b629b270fe22cb811a704f4401944591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/23/03496792eaf233981cd6caf64fba836f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/23/194a56a469d2cf3513d416dfeaaa17e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/23/14a024a93ceff829b9df309ecebe7f221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/09/23/6b2e74f6d26a86025cbbd114ec9a762f1.jpg"
+	]
+}

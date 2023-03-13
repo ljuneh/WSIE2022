@@ -1,0 +1,62 @@
+{
+	"id": "6835931",
+	"name": "여름보양식 전복, 낙지로 해신탕! 전복낙지삼계탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/20/c6d37a946ae04e233da604fb989a7b0a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6835931",
+	"ingredient_ids": [
+		64,
+		564,
+		132,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "영계",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "꼬마전복",
+			"ingre_count": "20",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "낙지",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "인삼",
+			"ingre_count": "3",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 꼬마전복은 칫솔로 깨끗하게 씻어줍니다.",
+		"2. 세발낙지도 손질해 씻어줍니다.",
+		"3. . 냄비에 물을 붓고, 닭이랑 인삼, 대추, 마늘 등 재료를 다 넣고 팔팔 끓이다가 마지막에 전복이랑 낙지를 넣고 살짝 더 끓여요.",
+		"4. 간은 소금으로만 합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/20/39d72037cbfffab1986121cb9a0b686e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/20/5b4511530c0e7bb7e911da3a4da78cc41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/20/c33647bf0604f93d650cdb4edaf0ed3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/20/47426036b90a84c9894d56598d55e32e1.jpg"
+	]
+}

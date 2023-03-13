@@ -1,0 +1,105 @@
+{
+	"id": "6883040",
+	"name": "윤식당 닭강정 만드는 법 쉬우면서 맛있어요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/01/29/e3bfa22417da588f1bd68ce3c224c54d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6883040",
+	"ingredient_ids": [
+		497,
+		579,
+		734,
+		995,
+		575
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭정육",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "튀김기름",
+			"ingre_count": "",
+			"ingre_unit": "넉넉히"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "녹말가루",
+			"ingre_count": "5",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "달걀흰자",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마더소스",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "8",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 닭은 한입크기로 썰어주세요.",
+		"2. 여기에 소금,후추,카레가루약간,소주약간을 넣어주세요.(소주는 생략가능) 대신 미림넣으면 튀기실때 탑니다 넣지마세요.",
+		"3. 밑간한 고기에 튀김가루(2)을 넣고 잘 버무려주세요. (속을 촉촉하게 하고 부드럽게 해요.)",
+		"4. 이제 녹말가루(5)에 흰자반개분량에 물을 약간 넣고 튀김옷을 준비해주세요.",
+		"5. 튀김옷에 밑간된 고기를 버무려주세요.",
+		"6. 튀김기름을 올리고 190도에서 약 7분간만 튀겨주세요. (집집마다 크기도 틀리고 온도도 틀려요. 불이 약한집은 9분간 튀겨주세요.)",
+		"7. 잘 튀겨진 고기는 키친타월에서 기름기를 빼주세요.",
+		"8. 이제 마더소스(4)에 올리고당(8)을 넣고 끓여주세요. 마더소스- 간장2컵,물2컵,설탕1컵,후추1ts,마늘1/4컵,양파1컵,배2/3컵(10인분기준-밥그릇계량)",
+		"9. 끓인 소스는 닭튀김에 넣고 버무려주세요.",
+		"10. 원래는 끓인소스위에 닭튀김을 넣는건데 양이 어느정돈지 보려고 반대로 했네요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/29/487a397e65c1b29d3fccf5de0adfec381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/29/e2519d81d04d4224dca21dba523624011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/29/ff993b2a85eab120b22935070a77378f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/29/41b8c05bccc880a1a7534520cdc9faad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/29/cc08d0054ee6bc170dea4ceff1a7ccde1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/29/303af7b3ef6e4d93ba703a777d9254001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/29/ff53a05d1701de5b7feea0278e4c14661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/29/9b64626aadb433d2686f86dcb4b3c52e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/29/3373e7e7324ebb70194050952bedd9a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/01/29/de476a036643a69a401c006b6a0cd67b1.jpg"
+	]
+}

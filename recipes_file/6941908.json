@@ -1,0 +1,76 @@
+{
+	"id": "6941908",
+	"name": "오후의 달달한 간식, 에프로 만드는 초간단 고구마 맛탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/be6466ae26e8f865f6d3c874afa88d251.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941908",
+	"ingredient_ids": [
+		394,
+		226,
+		575,
+		227,
+		458,
+		432
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밤고구마",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "검은깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다. 껍질 색깔이 고운 고구마 1개 정도는 껍질째 굽기 위해 흙만 깨끗이 씻어 주세요.",
+		"2. 껍집을 벗긴 고구마는 먹기좋게 잘라 주세요.",
+		"3. 에어프라이어에 종이호일을 깔고 고구마를 넣어준 후 포도씨유를 골고루 뿌려 주세요.에어프라이어",
+		"4. 180도에서 20분간 노릇하게 익혀주세요. 에프 종류에 따라 시간은 조절해 주세요",
+		"5. 고구마가 익는 동안 맛탕 시럽을 만들어 줍니다. 팬에 설탕 2T와 올리고탕 2T을 넣고...",
+		"6. 꿀 1T도 넣어 줍니다.",
+		"7. 생강 1/2t 도 함께 넣어주고 약물에서 설탕이 녹을 때까지 젓지말고 그대로 방치해 놓습니다.",
+		"8. 설탕 시럽이 다 녹았으면 구운 고구마를 넣어 주세요.",
+		"9. 고구마에 시럽이 골고루 묻도록 잘 버무려 주세요.",
+		"10. 불을 끄고 검정깨를 뿌려 완성합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/3fbc97fd77836aa10fc32fd47cb1965b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/044cece3cba9721352e6773338c967061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/902eb3c5839b3a5c4a822bb425f504d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/1899225dbd33c176689de392be3a8c431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/4b9b17c8bc8e9e8612540c85295323d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/3f6b67ccdf1163278bfc2fc7531fa4351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/a022a61b4b18fec64a503c6c7e735f621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/414c92e0066c81ca03ec74d9d02da1541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/f58ea494ee2720aeabf7df0d7f858a6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/bc78f8b58ae6e9f3a21f504e356e00c81.jpg"
+	]
+}

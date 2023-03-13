@@ -1,0 +1,49 @@
+{
+	"id": "6873025",
+	"name": "너무좋아네가 아무생각안나♥ 망고스무디 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/4c61dc65602fe59db3ec4035357542101.png",
+	"url": "https://www.10000recipe.com/recipe/6873025",
+	"ingredient_ids": [
+		135,
+		227,
+		655
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "망고",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "플레인요거트",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "1",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "탄산수",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 망고는 손질하여 깍둑 썰기 한다.망고 2개",
+		"2. 믹서기에 망고, 플레인 요거트, 얼음, 꿀을 넣는다.플레인 요거트 150ml, 얼음 1cup, 꿀 2T믹서기",
+		"3. 갈아서 완성한다.애플민트, 탄산수 100ml약간의 물이 필요하면 탄산수를 조금 넣어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/2af96c45f8f6787884f115e7fe6011961.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/a9b9f1fad484cc0897652089d258bbe01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/20/8eabb1fc37230598a17bd18d8b4081f61.png"
+	]
+}

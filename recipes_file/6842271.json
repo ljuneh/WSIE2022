@@ -1,0 +1,111 @@
+{
+	"id": "6842271",
+	"name": "상하이 파스타 - 토마토와 짬뽕의 만남",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/28/adbf7bda7299b822535892963c31d7441.jpg",
+	"url": "https://www.10000recipe.com/recipe/6842271",
+	"ingredient_ids": [
+		735,
+		497,
+		27,
+		29,
+		295,
+		13,
+		379,
+		224,
+		79,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2~3큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "버섯양파등채소(대체가능)",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "홍합등해물(대체가능)",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "시판용토마토소스",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "면수",
+			"ingre_count": "6",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 소금 1TS 풀어 넣은 물에 스파게티면 1인분을 끓여주세요. 소스와 함께 끓이는 과정이 있어서 8분짜리 면을 6분간 조리해줬습니다.",
+		"2. 면이 익는 동안 토마토 짬뽕 국물 만들어 주세요. 식용유 충분히 두른 팬에 청양고추, 대파, 마늘을 볶아주세요",
+		"3. 마늘이 노릇노릇해지면 버섯과 양파 넣어주고 다시 살짝 볶아주세요",
+		"4. 어느 정도 양파가 투명해지기 시작하면 간장을 2TS 넣어주시고,",
+		"5. 고춧가루도 2.5TS 넣으시고 고추기름이 살짝 나올 때까지 볶아주세요",
+		"6. 고추기름이 나오게 되면 준비한 해물을 넣고 1~2분 살짝 볶아줍니다.",
+		"7. 다 볶은 베이스에 면수 6국자, 물 반컵, 채소, 토마토소스 3TS도 넣고 끓여주세요",
+		"8. 물이 끓어 오르면, 파스타 면을 넣고 2~3분 끓이면 완성입니다 :)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/28/758724d48a57d2a598899be8c73e16be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/28/84b9eb37eccd481c62c4162e7e5abbb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/28/212e2a10278dc74e74f33e0508abe4c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/28/b07d197d1ecdc6b049b2b7e4110ab8931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/28/5b47897fa3d22cda78f514321fb814001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/28/a29bfde8017a36c319f812686963f5e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/28/d1d2cb2d2deca8bdf16b2a4ddba0ead61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/28/32bca9122a81857e8abec8615b3ad55e1.jpg"
+	]
+}

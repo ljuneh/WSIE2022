@@ -1,0 +1,29 @@
+{
+	"id": "6866026",
+	"name": "어서와 콜라비는 처음이지? 여기 주목! 콜라비 손질법☆",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/a60c801acfbae65e81aeb2d50fcdd92f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6866026",
+	"ingredient_ids": [
+		45
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "콜라비",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 깨끗이 씻은 콜라비를 준비한다.",
+		"2. 콜라비를 옆으로 눕혀 잎 부분과 뿌리 부분을 썬다.",
+		"3. 반으로 자른 후 사과 깎듯이 껍질을 제거한다.칼질이 서툴다면 필러를 이용해주세요.",
+		"4. 원하는 요리에 맞게 썬다. 나박 썰기 -> 나박김치용  깍둑 썰기 -> 피클, 깍두기용 얇게 채 썬다-> 생채, 샐러드용"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/578bf78e8541d92deee0900b3091ccef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/9775dc6c9e04813cfcf71d0808234db51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/b1c6d994639e414ecad0c9f0f5a513b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/28/a9cc2a1fed59077a2ac71a1cea9a0af01.jpg"
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"id": "6936079",
+	"name": "전자레인지로 1분 초코칩 쿠키 머그컵 케이크 디저트",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/ced860ba3d412a460fa1d832fb0ee1d81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6936079",
+	"ingredient_ids": [
+		198,
+		872,
+		373,
+		226
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "버터",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "45",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "코코아가루",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "초코칩",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "30",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 먼저 전자레인지에 돌릴 수 있는 머그컵을 준비해주세요. 그리고 버터 25g을 넣고 녹여주세요. 전자레인지에서 40초 간 돌려주시면 됩니다.전자레인지",
+		"2. 버터가 녹았다면 박력분 45g, 코코아 가루 2g, 베이킹 파우더 2g, 설탕 30g, 우유 30ml을 모두 넣어주세요.설탕은 흰색설탕, 갈색설탕, 흑설탕 모두 사용가능하지만 맛으로는 흑설탕이 제일 맛있어요.",
+		"3. 모든 재료를 잘 섞어 주었다면 초코칩 한줌을 넣고 섞어주세요.",
+		"4. 이제 전자레인지에 돌려줄 차례입니다. 컵의 모양 크기에 따라 다르겠지만 저는 1분 20초 돌려주었어요. 컵이 좁고 깊은 머그컵이라면 1분 40초 돌려주시면 됩니다.",
+		"5. 머그컵 케이크가 잘 익었다면 꺼내주시고 초코칩을 위에 살짝 더 올려주세요. 살짝 올려만 주시면 열기로 인해 사르륵 자연스럽게 녹아요. 이렇게 해서 초간단하게 만들어본 머그컵케이크랍니다.단짠단짠의 느낌으로 즐기고 싶다면 소금을 한 꼬집 솔솔 뿌려주시면 됩니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/d6e1af454df4de115368588e49a9fb071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/86d93235664cceede3a267d44635054f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/38f30975f3b76c83c5f99c75e3ed6a9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/15c52f9e7d25c48faf069ea3150267591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/07/309ff339b79fd1f09fc04de5e308d7fc1.jpg"
+	]
+}

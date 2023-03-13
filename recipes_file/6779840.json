@@ -1,0 +1,89 @@
+{
+	"id": "6779840",
+	"name": "비빔국수 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/98e735e00c8e2bd8de238cd4bef00ecb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6779840",
+	"ingredient_ids": [
+		523,
+		406,
+		219,
+		473,
+		379,
+		575,
+		660,
+		290
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "묵은김치",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요.",
+		"2. 달걀은 끓는 물에 넣고 7분간 삶아 잘 익은 반숙으로 준비해 볼게요. 삶은 달걀은 4등분 해 주세요.",
+		"3. 김치국물2T, 고추장1T, 간장1/2T, 올리고당1.5T, 참기름1t, 깨1t 넣고 가볍게 섞어 양념장을 만들어주세요. 김치국물이 꼭 들어가야 합니다!",
+		"4. 김치는 먹기 좋게 2cm정도의 간격으로 잘라서 준비해주세요.",
+		"5. 소면을 쫄깃하게 삶아 준비해주세요.",
+		"6. 면이 익는 데 까지 5분정도 시간이 소요되죠? 그 사이에 베이컨을 바삭하게 구워주세요. 팬을 강불에서 3분간 예열해 주시고 중불로 줄여 각 면당 3분 정도 씩 기름 없이 구워 크리스피하게 준비해주세요.",
+		"7. 키친타올로 베이컨 겉 면의 기름을 살짝 닦아 내 주시고 접시에 옮겨 한김 식혀 준비해주세요.",
+		"8. 삶은 소면과 손질해 두었던 묵은 김치 그리고 양념장을 넣고 섞어볼게요~ 면의 쫄깃함을 유지하기 위해 최대한 가볍게 힘을 뺀 상태로 양념과 함께 섞어 주시고 고명으로 준비해 두었던 베이컨과 달걀을 얹어 완성해주세요! 깻잎정도 곁들여 주시면 더욱 싱그럽게 즐길 수 있을 것 같아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/e357f43571451fca72c8a7099587d98b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/9f4b893297a973543bb9808566c37f861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/f4c23a66c26763e33b99314185f7f59c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/f375bce04f6d74407d9d66b5071d1f901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/aaf254ccd193a1c9e170cc0f611fbc641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/7ea0dd95a95804283dd6f5d9a58c987b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/ab2fd484b585b3cbdc7747b82e2e64bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/6ee5841ce7abe79fcf64af37953441051.jpg"
+	]
+}

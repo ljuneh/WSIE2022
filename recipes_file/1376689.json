@@ -1,0 +1,88 @@
+{
+	"id": "1376689",
+	"name": "저장용 맛있는 도시락 반찬 김장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/72b835f70c48c2cae1f297381d0fee0b.jpg",
+	"url": "https://www.10000recipe.com/recipe/1376689",
+	"ingredient_ids": [
+		95,
+		543,
+		660,
+		379,
+		736,
+		995,
+		846,
+		473,
+		458,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "김",
+			"ingre_count": "70",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "조선간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "아가베시럽이나물엿",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		}
+	],
+	"recipe": [
+		"1. 먼저 조림양념장재료부터 끓이기 조림양념장재료 간장 1컵, 조선간장 2분의 1컵, 물 3분의 1컵, 아가베시럽이나 물엿 1컵, 청주 3분의 2컵, 고추장 2, 생강즙이나 가루 0.3, 마늘 5톨을 냄비에 한데 넣고 바글바글 끓기 시작해서 약 2분 정도만 끓여줍니다. 보통 오래 보관하고 먹는 장아찌에는 전 조림장에 멸치나 다시마, 마른 표고버섯 등으로 우린 육수를 사용하지 않고, 그냥 이렇게 깔끔하게 만듭니다.",
+		"2. 팔팔 오래 조리지 마시고 스르르 조림장을 끓여 주세요. 편으로 썬 마늘에서 맛이 어느정도만 우러나오게 그리고 풀어넣은 고추장이 조림장에 잘 섞일 정도로만요.",
+		"3. 김 70장은 10장 정도씩 꺼내서 일단 반으로 자르고, 다시 4등분 해서 총 김 1장을 8등분 합니다.",
+		"4. 자른 김을 5장~10장씩 끝부분이 살짝 포개지게 계단처럼 층층히 올린 다음, 끓인 조림장을 적당히 발라주고, 그 위에 통깨를 솔솔 뿌리고 통깨는 적당히 뿌리시면 되시고요. 김은 10장을 포개도 좋긴 하지만, 가운데 부분이 조림장이 스며들지 않을 수도 있으니, 한번 포개는 김의 양으로는 5장~7장 정도가 좋은것 같아요. 먹기 직전에 참기름을 조금씩 뿌려서 상에 내셔도 좋답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/7dec5d3485c6c702e7380d861de09c731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/b859212a27ff56dfe6e2cbbae160ccdc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/62a158ac13a23a7a14bbe79dfd7c0a601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/3ebbd9c30bb841cec3607b045890ec1a1.jpg"
+	]
+}

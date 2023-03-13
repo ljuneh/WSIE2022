@@ -1,0 +1,80 @@
+{
+	"id": "6868100",
+	"name": "콩나물 삶는법 비린내 안나는 콩나물 무침!!! 맛있는 반찬요리로 뚝딱~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/07/89cca586c02396aac7e63af69f32c1f51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868100",
+	"ingredient_ids": [
+		47,
+		995,
+		497,
+		233,
+		27,
+		497,
+		290
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "썬것"
+		},
+		{
+			"ingre_name": "참기름1/2숟가락",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟 가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 콩나물은 흐르는 물에 씻고, 콩나물이 반 정도 잠길만큼의 물을 준비한다.",
+		"2. 소금은 1숟가락 정도 넣은 후 뚜껑 닫고 2분 30초 삶아준다.",
+		"3. 다 삶아진 콩나물은 채에다가 물기를 빼준다.",
+		"4. 아삭한 식감을 위해 바로 찬물에 담궈준다.",
+		"5. 찬물에 식힌 콩나물은 다시 물기를 빼준다.",
+		"6. 다진마늘과 썰어놓은 파는 기호에 맞게 넣어준다.",
+		"7. 참기름은 1/2스푼 정도, 소금은 1스푼 정도 넣어준다.",
+		"8. 깨도 솔솔 뿌려준다.기호에 맞게 고춧가루를 뿌려줘도 좋아요. ",
+		"9. 잘 섞어준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/07/7910535cdc3d2fd8ef85d0af2a34665a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/07/3a4ee79396775b5faf93fefef15cf0bd1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/07/f3d059e89ca96888edfe022d11e380c61.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/07/5454273f04fb057128d0f908936bce181.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/07/1eb76d7b20f648a17d6c36661ea47fde1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/07/2a6bbabf80c9535597d02efac911a89a1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/07/2e23a8665d6dfe9a657e17dd2986794e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/07/7063ff3eb6ce30d6f81cff3dcda5da311.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/07/58829b2a2d869f3a23ded4cb4e9a8dd21.png"
+	]
+}

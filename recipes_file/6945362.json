@@ -1,0 +1,52 @@
+{
+	"id": "6945362",
+	"name": "고구마 튀김",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/eb1608e93689f3862a59b4304952684c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945362",
+	"ingredient_ids": [
+		4,
+		734,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "100~120g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "차가운물",
+			"ingre_count": "90~110g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비하기 고구마, 튀김 가루, 물",
+		"2. 고구마 껍질 제거 후  끝부분 / 썩은 부분 제거하기",
+		"3. 0.7cm 정도의 크기로 편 썰기 (1cm 이내)",
+		"4. 튀김 반죽 옷 만들기 바삭한 식감은 원하면 얼음 / 전분 추가하기",
+		"5. 고구마를 넣어 반죽 옷 입히기",
+		"6. 기름 온도가 올라오면 튀김옷 입힌 고구마 넣어 익히기 기름 온도 : 180도 _ 반죽 옷을 떨어뜨렸을 때 3초 뒤 올라오면 온도 설정 완료!!",
+		"7. 색이 나면서 고구마가 다 익으면 체 망에 걸러 기름 제거  기름 제거 후 접시에 담아 완성하기"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/e6b1ef2882811ba2a2bfc586847318371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/3a288d91943e4c2ca2e9acdb15a81afc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/e8bfae006b36cab551966bcf56c0f4d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/d5d770b6b39e1f565ded203169d55e3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/4920e999f332c0f2f4d91e9e1c14fb8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/659426d6e5e6d4b4a87bda494c7f420f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/904c626e7ba06239c57bff6ae78e9ab71.jpg"
+	]
+}

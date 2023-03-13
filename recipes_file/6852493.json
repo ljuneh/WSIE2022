@@ -1,0 +1,89 @@
+{
+	"id": "6852493",
+	"name": "목살간장볶음 갈비처럼 야들야들 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/c29bb9e5c7aaa5b64dc7e9eefef5277a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852493",
+	"ingredient_ids": [
+		379,
+		575,
+		226,
+		233,
+		660,
+		290,
+		3,
+		11,
+		27
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "목살",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 시간이 어느정도 있어서 고기를 재워놓고 볶으려고 위의 양념재료를 넣고 양념장 부터 만들어 주었어요",
+		"2. 목살은 깍둑썰기로 잘라주고 양념장에 버무려서 냉장숙성 30분정도 했답니다",
+		"3. 팬에 기름없이 양념된 고기를 바글바글 볶아주다가",
+		"4. 양파와 브로콜리를 넣고 볶아주세요~ 저는 집에 있는 야채를 이용해서 넣었어요 ㅋㅋ 당근이라던지 다른 야채가 있으시면 추가로 넣으시면 더 맛있을거 같네요^^",
+		"5. 고기가 어정도 익어가면 대파와 깨를 넣고 마무리로 볶아주시면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/fae4926264b480b07abc3c7d1655da1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/f72a845000f9d83b96acfe8a7a8efe8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/7fa23e9fe70d6490d660ef8b54268c1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/86a90b7ef87396c2a08b9414a7fb75f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/11/709bf07c8a8e612cb3dd0275f66adfec1.jpg"
+	]
+}

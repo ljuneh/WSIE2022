@@ -1,0 +1,77 @@
+{
+	"id": "6861252",
+	"name": "고들빼기김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/184d64e9b46ab09e5589497cd99de6bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6861252",
+	"ingredient_ids": [
+		545,
+		224,
+		29,
+		28,
+		938,
+		575
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "고들빼기",
+			"ingre_count": "4",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "멸치액젓1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "5",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 흙을 두 번 정도 씻어주세요.",
+		"2. 잔뿌리는 제거하고 알타리 다듬듯 긁어서 손질한 후 큰것은 4~6등분해요. 검은부분도 살짝 도려내고요.",
+		"3. 소금 1과1/2컵을 풀고 고들빼기를 담가 삭혀요. 잠기도록 물을 그릇에 담아 눌러주세요.",
+		"4. 꼬박 하루 경과, 쓴물이 어느 정도 우러나왔어요. 반나절 더 절여주었어요",
+		"5. 한두 번 헹궈주고 맛을 보니 아직 좀 많이 써요.",
+		"6. 다시 소금을 1과 1/2컵 붓고 2차로 반나절 삭혀 주세요.",
+		"7. 준비한 재료를 다지고 섞어 양념을 준비해주세요. 간은 맛보아가며 식성에 따라 가감해주세요.",
+		"8. 고들빼기 물기는 너무 마르지않게 짜주시구요. 양념을 고루 섞어주세요. 저는 따로 이런저런 야채 안 넣었네요. 오직 고들빼기만 ㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/dcf40289029636d5f155c32dce76202f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/68cf3539e14712cbcb6d1a97b96ce00e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/471191bf04457a2edbe049208e9a18c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/4560b5e9dbcdf2327a680d5e6fed056e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/f7ee9dabea84593ca88ebc723281d05c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/8e04256e0cf0f4772e7eb99b222b95c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/5e42a0754c8f4ab037a9f12cb14443501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/18/f4d8b3b91e559972cbfc19f76e80810f1.jpg"
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"id": "6943024",
+	"name": "어묵우동 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/44c6ccaf3f49de689705e86363d4ea4b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943024",
+	"ingredient_ids": [
+		15,
+		31,
+		27,
+		911,
+		19,
+		90,
+		233,
+		497,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "사각어묵",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "우동사리",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "쑥갓",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "4",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "가쓰오육수",
+			"ingre_count": "5~6스푼",
+			"ingre_unit": "~스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5~6컵",
+			"ingre_unit": "~컵"
+		}
+	],
+	"recipe": [
+		"1. 육수를 만들기 위해 무(4조각)와 다시마(5~7조각)을 넣어 주세요. - 다시마 및 멸치 등 개인 취향과 가지고 계신 재료에 따라 달리 하셔도 좋습니다.",
+		"2. 물 5~6컵과 가쓰오육수(5~6스푼)을 넣어 주시고 끓여 주세요. - 가쓰오 육수가 없으신 경우, 일반 간장과 소금으로 간을 맞춰 주셔도 됩니다.",
+		"3. 육수가 끓는 동안 어묵과 버섯 등을 준비 해주세요. - 사각어묵으로 나무젓가락 등을 이용해서 1/3씩 접어서 꽂아 주시면 됩니다. - 버섯은 보기 좋게 칼집을 내어 주었습니다.",
+		"4. 끓는 육수에 어묵과 버섯을 넣고 끓여 주세요. - 어묵이 끓여지면서 국물맛은 더욱 시원해 지네요.",
+		"5. 계란 1개를 노른자와 흰자를 구분하여 지단을 만들어 주세요. - 섞어 풀어서 사용하셔도 상관 없습니다.",
+		"6. 야채를 준비해주세요. - 대파, 쑥갓, 깻잎 등 집에 있으신 야채를 넣어주시면 됩니다.",
+		"7. 물에 우동사리를 넣고 끓여 익혀 주세요. - 끓는 물에 2분 정도 삶으면 됩니다.",
+		"8. 육수 속 어묵과 버섯이 잘 익을 수 있도록 한번 더 끓여 주세요. - 중간에 국물을 맛보시고, 간은 소금으로 조정하시면 됩니다.",
+		"9. 삶은 면을 넣고 어묵과 국물을 넣어 완성해 주세요. - 고추가루를 넣어서 더욱 맛깔스럽게 보입니다.",
+		"10. 매콤한 것을 좋아하시는 분들은 고추가루를 더 넣어 주셔도 됩니다. - 개인적으로 얼큰한 맛을 더 즐기려고 고추가루를 더 넣었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/c1aa3ffcb52583e03f50a72081d47dc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/363b0d1223017d0baa9f3018672b94111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/89b81d0fc5bc53118f091fc6ac27d6b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/fecc24e610b50561202050e730222a7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/7b688fc4b0cf027cb0000cd85a1ee4221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/3c406a37544788092909ba7dd284c3d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/ee78a92eee27d71c8c149fec86d3a16d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/02050bae7cc1929f91f7ae3d5f344bf21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/dcc6598eb6bf67d7a80776006305e54b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/3f93d7ae5b87297fa3d89a73769537ef1.jpg"
+	]
+}

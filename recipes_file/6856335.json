@@ -1,0 +1,59 @@
+{
+	"id": "6856335",
+	"name": "쌈장도 만들어 먹는게 최고! 쌈장만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/a7610e014b27fde1743bd1f709af28f71.png",
+	"url": "https://www.10000recipe.com/recipe/6856335",
+	"ingredient_ids": [
+		848,
+		473,
+		660
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "된장",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진고추",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "부순참깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 볼에 된장과 고추장을 2:1 비율로 넣고 섞는다.된장 6T, 고추장 3T볼",
+		"2. 다진 양파, 다진 파, 다진 고추, 부순 참깨, 참기름을 넣고 한 번 더 섞어 마무리.다진양파 3T, 다진파 2T, 다진고추 2T, 부순참깨 1T, 참기름 2T취향에 따라 올리고당(1~2T)을 넣어 단맛을 추가해도 좋아요.",
+		"3. 만들어진 쌈장으로 맛있게 찍어먹어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/5a1dbaff7f3e5919eef078eef1070fe11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/ea89562ae515f5d6399da41c547030411.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/02/4b20e3cde2f93ac10324402f584173891.png"
+	]
+}

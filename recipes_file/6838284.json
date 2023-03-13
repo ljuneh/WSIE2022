@@ -1,0 +1,62 @@
+{
+	"id": "6838284",
+	"name": "닭백숙 끓이는법, 압력솥에 끓이는시간",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/18/1a5f61c8e3770a354d78c281e574a2341.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838284",
+	"ingredient_ids": [
+		132,
+		29,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "900",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백숙용황기티백",
+			"ingre_count": "37",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "17",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생수",
+			"ingre_count": "1300",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 닭 기름기 부분은 떼어내주세요.",
+		"2. 닭 속에 손을 집어넣어서 핏기가 있는 것은 깨끗하게 씻어내주세요.",
+		"3. 핏기와 기름기를 제거해서 여러 번 깨끗하게 씻어주세요.",
+		"4. 마늘, 대추, 황기티백을 넣어주고 소금 1 큰 술을 넣어주세요.",
+		"5. 생수 1300cc를 넣어주세요. *닭이 거의 잠길 정도의 물을 넣어주시면 돼요.",
+		"6. 압력밥솥에 넣어 끓이다가 추가 딸랑거리기 시작할 때부터 시작해서 15분 후에 불을 꺼주세요. *추가 15분 정도 계속 딸랑거린 후에 불을 꺼 주시면 돼요.",
+		"7. 추가 15분 동안 딸랑거린 후에 불을 끄고 잠시 두었다가 증기를 빼고 뚜껑을 열어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/18/248950933ddbaacf2d3a4cab4eec563b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/18/298f0105c29c172dd0fbf95542444e041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/18/ea291f7e8a1cea8e7c5d10c1cc3e3db11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/18/c57299d555108b662ab9a8bbdbaeb72a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/18/6c9079cd464cfc038a46b2c73063e1aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/18/e12709415bb41323a151c94325e111b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/18/6a1218d1f484c15139604d49c0a6d74a1.jpg"
+	]
+}

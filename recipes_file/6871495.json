@@ -1,0 +1,85 @@
+{
+	"id": "6871495",
+	"name": "칼로리걱정없는 두부마요네즈 감자사라다",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/38553c137522ebebd2a52a4236b8e5911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6871495",
+	"ingredient_ids": [
+		323,
+		5,
+		8,
+		9,
+		3
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금(두부마요네즈)",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "물(두부마요네즈)",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금(감자사라다)",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 두부는 끓는 물에 살짝 데친 뒤 물기를 빼줍니다.",
+		"2. 두부를 조각 내어 믹서기에 넣고 소금 1/2 작은술과 물 한큰술을 넣어 곱게 갈아줍니다.",
+		"3. 스푼으로 섞어주며 최대한 부드럽게 갑니다.",
+		"4. 계란을 삶은 뒤 노른자와 흰자를 분리하고, 흰자는 잘게 다져줍니다.",
+		"5. 감자는 껍질을 제거한 뒤 적당한 크기로 잘라서 끓는 물에 소금약간과 함께 삶아줍니다.",
+		"6. 오이는 잘게 썰어 소금에 절인 뒤 물에 씻어 물기를 제거합니다.",
+		"7. 양파는 잘게 손질 한 뒤 물에 담구어 아린맛을 뺀뒤 물기를 제거합니다.",
+		"8. 당근은 최대한 잘게 썰어줍니다. 당근이 굵으면 식감이 좋지 않을 수 있습니다.",
+		"9. 삶은 감자에 두부마요네즈, 소금 약간을 넣고 감자를 잘 으깨 줍니다.",
+		"10. 잘 으깬 감자에 손질해 놓은 양파, 오이, 당근, 계란 흰자, 노른자를 넣고 잘 섞어줍니다. 섞으면서 개인 기호에 맞추어 소금간을 해줍니다. (소금의 양은 버무리면서 조절해주시는것이 가장 좋습니다.)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/1e61f3a5b30ac4e2c5d29abb83db440c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/b2d3a9d6adcb4badddf338ed3fdbd2781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/587101027c5c02deeff7bc2da2293ec01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/a3c96460cb7376b6135d4d16057c4f7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/211bb12b31c2e2046326e34b900ba2f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/45d7de28b632d43599d786752e22aa8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/1fa14bf21a6cde1d1b0f53f66d6061cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/4da6bb7d69e44829448e461416dfa68b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/b2690545b747e5a95e91ca03d58b16d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/22a01d6babb97eddb13d1cd6fb752ebd1.jpg"
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"id": "6880171",
+	"name": "맛있는 생선조림  임연수무조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/d61c4a813a6ae090d2862097e3dd4d1b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6880171",
+	"ingredient_ids": [
+		19,
+		379,
+		226,
+		29
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "임연수1마리(4토막)",
+			"ingre_count": "1마리(4토막)",
+			"ingre_unit": "마리(토막)"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "4",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "양파절임간장",
+			"ingre_count": "10",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 임연수를 깨끗히 씻어놓습니다  무는 도톰하게 썰어놓습니다",
+		"2. 양념장을 만듭니다",
+		"3. 냄비에 무를 깔고 생선을 올립니다",
+		"4. 중불로 조리다가 약불로 조립디다 다 익으면 불을 끄고 파를 올립니다",
+		"5. 접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/52b23d1f8a15ce7452bacd58c9e3a8cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/174321c75e02d1d08ecc06b244f3f7211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/fd6ff3f2ab100d0606a342da362db2d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/edc4fb1fe4cdc9c7e0af07a09c2bf8bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/28/89fe614102b29eadd5b765fef87a219f1.jpg"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"id": "6772489",
+	"name": "양배추즙 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/15/1d8049cc54916ae9d75ee6cb96ed3bee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6772489",
+	"ingredient_ids": [
+		21,
+		142,
+		231
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 일단 양배추를 준비해주세요~",
+		"2. 양배추를 깨끗히 씼은후, 물에 담근후 식초 한스푼 넣고 30분정도 담궈주세요~ 식초물에 담구면, 소독효과도 좋고 양배추 특유의 냄새가 사라진답니다~",
+		"3. 30분후 양배추의 물기를 뺀후 채썰어 주세요~",
+		"4. 배도 껍질을 까서 준비해주세요.",
+		"5. 믹서기에 갈을거라, 작은 크기로 잘라주세요~",
+		"6. 믹서기에 배를 먼저 갈아주세요~",
+		"7. 배를 갈고 난 후에, 그위에 바로 양배추를 넣어서 함께 갈아주세요!",
+		"8. 다 갈은 배+양배추를 배보자기에 넣고 즙을 내려주시면 끝이랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/10d4a1eeab6ce29a31051bba25828e681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/504abd8c57af5fc089343f01bffb42ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/ae254a127f6cbff8300dff55a3eaa7e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/bfb7e00840c2d8b70ee74a30b96ed4461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/a4934ab4192fa0f0a5da009f8682d5c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/429bf1b95af234e88e0cc6da8c2d478c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/8ceb008d9b24beb6784ae25284ad88f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/16/81efdf5b867499bbbc2e1e763e2360781.jpg"
+	]
+}

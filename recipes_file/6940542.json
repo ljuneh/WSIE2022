@@ -1,0 +1,80 @@
+{
+	"id": "6940542",
+	"name": " 검은콩물 찹쌀수단.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/4c0233a7afe275689cdd7b086a16af5d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940542",
+	"ingredient_ids": [
+		497,
+		995,
+		497,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "백옥분",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "건식멥쌀가루",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "170",
+			"ingre_unit": "g."
+		},
+		{
+			"ingre_name": "검은콩국물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/8",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 백옥분 200g, 건식 멥쌀가루 50g, 소금 2g, 물 170g. 쌀가루에 소금을 넣고 물을 넣어 귓볼농도로  (수제비 반죽 농도)로 반죽하여 대충 4등분한다. 노란색은 치자가루를 1/8작은술씩 반죽에 올리고  물 한방울씩 색소에 닿게 넣고 색이 골고루 퍼지도록  각각 치댄다.백옥분 없으면 찹쌀가루도 괜찮아요. 건식가루는 마트 밀가루 파는곳 근처에 있어요.찹쌀가루일 경우는 물양이 좀 다를 수 도 있으니 물을 가감하길",
+		"2. 7~8g정도로 동그랗게 만듬다.. 크기 일정하지 않아도 됨.",
+		"3. 펄펄 끓는 물에 넣고 동동 떠오르도록 익힌다.",
+		"4. 찬물에 담가 뜨거운 떡을 식히고  체에서 물기를 뺀다.",
+		"5. 억억한 그릇에 담음 후 나중에 먹을때는 작은 그릇에 조금씩 덜어 먹는다.",
+		"6. 검은콩 콩국물 2컵, 소금 1/8 작은술, 설탕 1큰술을 넣고 섞어서 국물을 만들기.더 달게 먹고 싶으면 설탕을 취향에 맞게 넣는다.",
+		"7. 요리하기 하루 전날 미리 얼려놓은 콩국물 얼음도 넣는다.콩국물로 만든 얼음은 녹아도 고소하고 맛이 변하지 않는다.",
+		"8. 준비한 완성된 콩국물을 붓기.",
+		"9. 덜어 먹을때는 개인용 작은 그릇에 검은콩 콩국물 얼음을  몇개 넣고",
+		"10. 찹쌀 동글이를 담고~~",
+		"11. 검은 콩국물을 적당히 넣는다.",
+		"12. 출출할때....이렇게 먹으면 든든하다. 색도 예뻐서 눈으로 먼저 먹는 콩국물 찹쌀 동글이.",
+		"13. 콩국물은 시원하면서 달달하고  동글이떡은 쫄깃해서 순삭~~~."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/6242e9f772f080e6423ffb111bd03e891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/cfe86b74b6b0201b3e473b83bc471e321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/3eacfcc73ac6c9786900c8d8a546a11a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/693495e90c56382731f5c1a54a6a13ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/1d4edc2c08899d8e7d328a1303c2dccd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/a93c24d5b1697c6b7665f726ed474fe91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/74047fd3e1b31b357ea3506ca28f255e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/e6b904f6e6eac291c59b5673e9a303cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/9860537399507aab3793e3484e09a7881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/c9702d67805fa3e954308e22f5651e241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/0f32cfdb1aaa3ea280b47eb29f041ab41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/2db35eea3fe03908662cd85b679a710c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/a9565f57bb195a5bdd776f98d5e391eb1.jpg"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"id": "6834032",
+	"name": "소고기볶음밥 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/5119bc54c88fa9de6d2e6ce3ad36de261.jpg",
+	"url": "https://www.10000recipe.com/recipe/6834032",
+	"ingredient_ids": [
+		3,
+		9,
+		495
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "",
+			"ingre_unit": "다진것"
+		}
+	],
+	"recipe": [
+		"1. 먼저 당근을 다져주세요.",
+		"2. 맛있는 양파도 다져주세요.",
+		"3. 프라이팬에 기름을 두르고 다진 당근을 먼저 투하 아주 살짝 볶구요.",
+		"4.  양파 다진것도 마저 투하- 달달 볶아주세요.",
+		"5. 양파랑 당근이 반쯤 익었다 싶으면 소고기 준비! ",
+		"6. 소고기도 넣고 볶아주세요. 이때 후추랑 소금 톡톡 넣어주세요.",
+		"7. 볶음밥의 황금소스, 굴소스가 있지만 고기맛을 온전히 느끼고 싶어서 이번 볶음밥엔 소금간만 쓰기로 했어요. 기호에 맞게 사용하시면 됩니다.",
+		"8. 밥통에 넣어뒀던 밥을 투하~",
+		"9. 주걱과 국자를 이용해 잘 펴서 볶아주면 금새 고슬고슬해지는 밥이 됩니다.",
+		"10. 나머지 간은 소금으로 역시 톡톡, 고슬고슬 맛난 소고기 볶음밥 완성입니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/60ff758d07f99df4e2b6bed8b9bf264e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/7595c9e4d267c9988c200ba40f4135461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/6c49ce056ee1863b5ff5bbf1729cf11a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/ba98039cc9ae3a8d730280e994926a631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/5a84e7a0e1aa74f439d248aa0c70adf01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/e9f9b95fe81ba0d9efe7770ed7786f171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/8769b5829e77395c5d0b93eca573d5461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/6a5c8d463b1cb6c61ad348cc91ff92d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/6ba0e9d6efb9dbf1479debd1a21c89ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/14/24605bf420cd13da30fcf28615ab3de41.jpg"
+	]
+}

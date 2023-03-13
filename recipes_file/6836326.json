@@ -1,0 +1,78 @@
+{
+	"id": "6836326",
+	"name": "집에서 양고기스테이크 굽기~ [양갈비스테이크 / 램스테이크]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/5f9a9527d96130d6b56ef9b9897465c21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6836326",
+	"ingredient_ids": [
+		23,
+		371,
+		253,
+		857,
+		266,
+		1011
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양고기",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아스파라거스",
+			"ingre_count": "6~7개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "로즈마리",
+			"ingre_count": "3~4줄기",
+			"ingre_unit": "~줄기"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "5~6큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "홀그레인머스타드",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "스테이크소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "발사믹크림",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양고기에 통후추를 뿌리고  로즈마리 줄기를 얹어줍니다",
+		"2. 뜨겁게 달군 팬에 오일을 붓고 로즈마리를 넣어 향을 내줍니다",
+		"3. 미디움~미디움 웰던으로 구워봅니다. 양고기를 넣고 앞뒤로 각각 센불에 3분구워서 겉면을 시어링해줍니다. 다시 중불로 낮춰서 앞뒤로 각각 2분씩 더 구워줍니다",
+		"4. 아스파라거스와 토마토도 적당히 구워줍니다",
+		"5. 구워진 스테이크는 잠시 대기합니다.  열기가 고기속에서 골고루 퍼지도록 기다리는 건데 '레스팅'이라고 합니다",
+		"6. 먹기 좋게 접시에 담고 소스를 준비하면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/59d2503aa49c7f388c918696ed558f1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/b7284125c640a0462c64d6108385c7821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/853d1ac41f6a67850e88c2e40823e9441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/501a5df47ba421c23be8206255cb15151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/317e831aa2c280e19136dd0f9c3ef4f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/15/1dbf9a16a7d9bb44185fb97ed15ddeb71.jpg"
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"id": "6941541",
+	"name": "오뎅탕(초간단 요리)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/0f97c3777d37c55c118af4857868ba891.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941541",
+	"ingredient_ids": [
+		3,
+		29,
+		746,
+		343,
+		497,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "부산어묵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무많을수록",
+			"ingre_count": "",
+			"ingre_unit": "좋아요"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쯔유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡톡톡"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "l"
+		}
+	],
+	"recipe": [
+		"1. 무는 먹을꺼라서 이쁘게 양파는 안먹을꺼라서 대충 잘라줍니다",
+		"2. 냄비에 다넣고",
+		"3. 양념들 다 넣어주고 계속끓이면 끝 끓고나서 중불에서 5~10분 정도 싱거우면 더끓이세요 간장 더 넣지 말고요 시원한 맛에 먹는거라 오뎅이랑 무는 끓이면 끓일수록 맛있는거 아시죠",
+		"4. 완성입니다  소주반병정도는 챙겨줄꺼에요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/52233526edc9109035349ec7b2ea72b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/5c6486498991981e904568ba0410b3dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/042bc8bd3e030926c9ca74e7c4a3b1791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/8bfadc4f733cac9ee67102ab7b36a1d71.jpg"
+	]
+}

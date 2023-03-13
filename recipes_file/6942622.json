@@ -1,0 +1,53 @@
+{
+	"id": "6942622",
+	"name": "코로나 극복 후다닥 집밥 만들기 _ 닭가슴살 계란 덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/d7560aef873fe4a7af003885c97a815b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942622",
+	"ingredient_ids": [
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "훈제닭가슴살",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "닭가슴살소세지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 계란 2개를 풀어서 계란물을 만들어 줍니다.계란 2개",
+		"2. 계란물을 달구어진 후라이팬에 부은 후 스크램블로 준비합니다. (영상참조)스크램블할땐 계란이 약간 덜익었을때 불으르 꺼주세요. 그래야 더 몽글몽글해지더라구요.",
+		"3. 훈제 닭가슴살과 소세지를 데친 후 먹기좋은 크기로 잘라줍니다.훈제닭가슴살, 닭가슴살소세지",
+		"4. 밥을 담아놓은 그릇에 준비한 재료들을 예쁘게 담아줍니다.소소는 취향에 맞게 준비해주세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/d8fd192836ac6c41f45d820da034fdfc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/75211ec7f4b3c94486168e635aedf1c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/2ec846b330b748ada1c50a14886e4d4b1.jpg"
+	]
+}

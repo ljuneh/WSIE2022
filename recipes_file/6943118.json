@@ -1,0 +1,68 @@
+{
+	"id": "6943118",
+	"name": "간편밑반찬 감자채볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/bdb5cbe9528fdc7b9945850bb5a05ad31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943118",
+	"ingredient_ids": [
+		5,
+		3,
+		9,
+		497,
+		470,
+		467
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "카레",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 감자는 채를 썰어 물에 잠시 담궈둡니다",
+		"2. 15분정도만 담궈두고 헹궈서 채에 물기를 뺍니다",
+		"3. 양파와 당근은 채를 썰어줍니다",
+		"4. 팬에 식용유를 두르고 감자랑 당근부터 양념을 넣고 볶아요",
+		"5. 감자가 반쯤 익으면 양파도 넣고 볶아요",
+		"6. 마지막에 후추 1꼬집"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/834b97862ec9d291f0b32147fbdf83a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/91410b0bc1ca0418e94be1105b584c2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/9df63d78106033c4766ccf1bbfa2d33e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/14a38da40f5a89e05b89f198a95ffaa91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/a88cf269aa07da733370881792598b881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/a00693a2a5c20a02432a69d461b4cb791.jpg"
+	]
+}

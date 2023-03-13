@@ -1,0 +1,57 @@
+{
+	"id": "6857743",
+	"name": "번거롭지 않은 고구마전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/01/cdff51382c618f922d1a163c852e129a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6857743",
+	"ingredient_ids": [
+		4,
+		234,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "표고소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 고구마는 깨끗이 씻어 0.4cm 간격으로 썰어 줍니다 너무 두꺼우면 오래 익혀야하고 너무 얇으면 쉽게 탑니다",
+		"2. 봉지에 밀가루 1스픈 넣고 고구마 자른것을 넣어 흔들어 마른가루를 입혀 주세요",
+		"3. 밀가루 소금 파슬리가루 섞어 부침반죽을 만들어 줍니다",
+		"4. 밀가루 무쳐논 고구마에 부침반죽 입혀 줍니다",
+		"5. 달군 팬에 기름 넉넉하게 두르고 부침옷 입힌 고구마 넣고 튀기듯 구워 주는데 너무 센 불에서 익히면 겉만 딱딱해질 수 있으니 불 조절을 해주세요",
+		"6. 앞면이 반투명하게 익으면 뒤집어 노릇 바삭하게 구워줍니다",
+		"7. 겉은 바삭 쫄깃 속은 달달하고 포근~ 맛있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/30/65f2d06a9d6baf49d7885a5169e53ea21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/30/5442665ecd93bedc329a8856cd33c1911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/30/5a3d4ea924fbce9201e3be4d2842b95b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/30/a81046d4999e9a77f71af1c4b273bc191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/30/c50f43771289ad4c1a890df4648b1b941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/30/a5411e98818bfe67b921da56513ba39e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/30/00682426f34b4568172a2da9751d638a1.jpg"
+	]
+}

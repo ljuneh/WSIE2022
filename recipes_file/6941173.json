@@ -1,0 +1,65 @@
+{
+	"id": "6941173",
+	"name": "표고버섯볶음 굴소스가 포인트",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/2e25e416884e83132258b01e359584bd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941173",
+	"ingredient_ids": [
+		53,
+		27,
+		574,
+		477,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "빨강파프리카",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "노랑파프리카",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1.  일단 버섯은 깨끗하게 세척하고 손질해 먹기좋게 얇게 썰어주시구요 파프리카 또한 안에 씨를 발라내고 길쭉하게 썰어 준비합니다 이때 저는 노랑색밖에 없어서 요걸로만 넣었는데 빨강색도 있으면 같이 넣어주면 색감이 더 예쁘게 나오겠죠? 대파는 사진엔 없지만 송송 썰어 준비합니다 ",
+		"2.  팬에 올리브유 또는 기름을 두르고 파프리카를 먼저 넣어 볶아주다가 버섯을 넣어 같이 볶아주세요 ",
+		"3.  그리고 잘 볶아지면 굴소스 1스푼 넣어주시구요 ",
+		"4.  마지막으로 송송 썰은 대파 넣어 휘리릭 볶아내면 끝! 이때 벗서에 물이 생기지 않게 후다닥 볶아주는게 포인트에요 :) ",
+		"5.  그릇에 담아 통깨까지 뿌려주면 표고버섯볶음 완성! 저는 노랑 파프리카만 넣었지만 빨강색도 넣어주면 더 이쁘겠다 싶었어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/61a0aed510ce2ad6d797548a6ce558c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/2d23bbeabb37225ba9865b3b240ecb5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/bddab5949baba2a0e1bf8489e534e3111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/2496287dcb3727d49204fca3bb2b60c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/c5969a369d656a9012fd948f18cd0fd91.jpg"
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"id": "6849504",
+	"name": "감자닭볶음탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/a1451bde2196a7def3f1c154e17df49d.jpg",
+	"url": "https://www.10000recipe.com/recipe/6849504",
+	"ingredient_ids": [],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭(북채)4개",
+			"ingre_count": "4",
+			"ingre_unit": " 개"
+		},
+		{
+			"ingre_name": "닭(날개)8개",
+			"ingre_count": "8",
+			"ingre_unit": " 개"
+		},
+		{
+			"ingre_name": "당근80g",
+			"ingre_count": "80",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "감자150g",
+			"ingre_count": "150",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "양파70g",
+			"ingre_count": "70",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "애호박70g",
+			"ingre_count": "70",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "가지70g",
+			"ingre_count": "70",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "대파1대",
+			"ingre_count": "1",
+			"ingre_unit": " 대"
+		},
+		{
+			"ingre_name": "백설제일제면소국산100%당면40g",
+			"ingre_count": "40",
+			"ingre_unit": " g"
+		},
+		{
+			"ingre_name": "백설사리원불고기양념150㎖",
+			"ingre_count": "150",
+			"ingre_unit": " ㎖"
+		},
+		{
+			"ingre_name": "물3컵",
+			"ingre_count": "3",
+			"ingre_unit": " 컵"
+		}
+	],
+	"recipe": [
+		"1. 손질한 닭은 끓는 물에 살짝 데쳐 흐르는 물에 씻어 체에 밭쳐 물기를 제거하고, 당면은 찬물에 30분 이상 담갔다가 체에 밭쳐 물기를 제거한다.",
+		"2. 당근, 감자는 필러로 껍질 벗겨 한입 크기로 자르고 양파는 껍질을 벗겨 감자와 비슷하게 썬다.",
+		"3. 애호박, 가지는 한입 크기로 자르고 대파는 어슷하게 썬다.",
+		"4. 냄비에 닭, 물, 불고기양념을 넣어 끓이다가 닭고기가 2/3정도 익으면 감자, 양파, 당근을 넣어 5분 정도 끓인다.",
+		"5. 4에 가지, 애호박을 넣어 끓이다가 익으면 당면을 넣어 끓인다.",
+		"6. 당면이 익으면 그릇에 담아 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/76dcc9473f11cd6e982cd3ab5e07c785.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/e3c082e08a14a6d197f1f72cf786fee0.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/c2fe987b756ef75e3c0f333fa60b2029.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/6998cc8ab539b695ecbab16de2a5d230.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/323776de393e368f8e62be059d0f6200.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/06/43121e9651567bca452fc340655bbd6f.jpg"
+	]
+}

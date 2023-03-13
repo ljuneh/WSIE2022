@@ -1,0 +1,86 @@
+{
+	"id": "6941332",
+	"name": "쑥된장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/abce0f41a8938b70024956feeb78db861.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941332",
+	"ingredient_ids": [
+		506,
+		1004,
+		29,
+		848
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쑥",
+			"ingre_count": "4",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "콩가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "매운고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "시크릿코인",
+			"ingre_count": "1",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간을보시고소금",
+			"ingre_count": "",
+			"ingre_unit": "추가"
+		}
+	],
+	"recipe": [
+		"1. 봄에 쑥을 뜯어 깨끗히 손질 한뒤 콩가루를 묻혀 냉동실 보관",
+		"2. 끓는물에 시크릿코인 하나 넣어주세요 /없을시 다시마,멸치 육수를 만들어주세요",
+		"3. 코인이 녹으면 쑥을 넣어 풀어주세요",
+		"4. 된장 2스푼 풀어주세요",
+		"5. 마늘.매운고추 잘게 다져서 같이 넣어주세요",
+		"6. 된장이 끊이 시작하면 거품을 걷어내주세요",
+		"7. 고춧가루 반스푼 넣을게요",
+		"8. 반을 쫑쫑썰어 주세요",
+		"9. 파를 넣어주세요",
+		"10. 간이 안 맞으면 소금으로 조절해주세요",
+		"11. 마지막에 간을 보시면 시원하고 향긋한 쑥국 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/425c2986cdb61dbd7562002ed6e80f141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/0a4d0e19c3400df5e3077ceb04ec9bc41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/2a5a32f53b3b33fe1042d9593b5c7a851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/8ce2ca316d5a7b292541ccfad864b0c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/991ae9996dcd2948536c35968d72d6121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/127ca18daeb2b36b704bb77a342e26e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/e85d66583b898d3c38d012c6b73fd1521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/1fad8e58103f9e19784f07f30cb714e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/6c1ca3ccf577afcf41f48da0a23ab8d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/ea3dfbf7538c2dce51802c50c289d28b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/62861f5b790205e8ff333c3ed57a1f6f1.jpg"
+	]
+}

@@ -1,0 +1,172 @@
+{
+	"id": "6944937",
+	"name": "미네스트로니 수프",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/84f2b046203b6b352bb2416f4ceedfc11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944937",
+	"ingredient_ids": [
+		3,
+		9,
+		51,
+		19,
+		108,
+		702,
+		406,
+		29,
+		14,
+		21,
+		467,
+		608,
+		619,
+		657,
+		198,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "스트링빈스",
+			"ingre_count": "2",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "완두콩",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "스파게티",
+			"ingre_count": "2",
+			"ingre_unit": "가닥"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "셀러리",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "300",
+			"ingre_unit": "mL"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "1",
+			"ingre_unit": "잎"
+		},
+		{
+			"ingre_name": "정향",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토페이스트",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "검은후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 물을 끓이면서 재료를 세척한 뒤, 분리해 주세요. Tip) 스파게티와 향신료는 젖지않게 따로 보관해 주시고, 베이컨은 교차오염이 되지 않게 따로 보관해주시고, 파슬리는 싱싱해지도록 찬물에 담가 보관해 주세요. Tip) 셀러리 손질 시 두꺼운 섬유질을 제거한 후 사용해주세요.",
+		"2. 마늘은 꼭지를 제거하고 곱게 다져주세요. Tip) 미네스트로니 수프는 재료가 많고 시간이 부족한 메뉴입니다. 최대한 불작업과 도마 작업을 동시에 진행해 주세요.",
+		"3. 양파는 사방 1.2cm 크키로 썰어주세요.",
+		"4. 양배추는 두꺼운 심을 제거하고 사방 1.2cm 크기로 썰어주세요.",
+		"5. 무는 사방 1.2cm 크기를 맞춰 0.2cm 두께로 편썰어 주세요.",
+		"6. 스트링빈스는 1.2cm 길이로 썰어주세요.",
+		"7. 물이 끓어오르면 소금을 약간 넣고 토마토를 데쳐주세요",
+		"8. 데친 토마토는 찬물에 헹구고 껍질과 씨를 제거하고 사방 1.2cm 크기로 썰어주세요. why?) 토마토의 껍질을 벗기는 이유는 질긴 식감을 제거하기 위해서이고, 씨를 제거하는 이유는 토마토의 특유의 신맛을 제거하기 위해서 입니다.",
+		"9. 완두콩과 스트링빈스는 끓은물에 데치고 찬물에 헹군 뒤, 식혀주세요. Tip) 완두콩과 스트링빈스는 과정 상 가장 마지막에 사용하는 재료이기 때문에 다른 재료와 섞이지 않게 보관해 주세요.",
+		"10. 베이컨은 사방 1.2cm 크기로 썰어 데쳐주세요.",
+		"11. 스파게티는 알덴테로 7분 삶아주세요.",
+		"12. 당근은 1.2×1.2×0.2cm 크기로 썰어주세요",
+		"13. 셀러리는 0.2cm 두께로 편썰거나 포 뜬뒤, 사방 1.2cm 크기로 썰어주세요.",
+		"14. 파슬리가루를 만들어 주새요. How?) 파슬리 잎을 곱게 다지고 면보에 감싸 흐르는 물에 헹군 뒤, 물기를 제거하고 키친타올에 올려 말려주시면 됩니다.",
+		"15. 삶은 스파게티는 건져서 1.2cm 길이로 썰어주세요.",
+		"16. 냄비에 버터를 녹이고 다진 마늘을 볶아준 후 베이컨을 넣고 살짝 볶아주세요다진 마늘은 쉽게 타기 때문에 약불에서 볶아주세요.",
+		"17. 17에 양파, 양배추, 무를 넣고 살짝 볶아주세요.",
+		"18. 18에 당근, 셀러리를 넣고 당근이 숨이 살짝 죽을 때까지 볶아주세요",
+		"19. 19에 토마토페이스트 1큰술을 넣어 신맛과 향이 날아가도록 재료들이 뭉칠 때까지 타지 않게 볶아주세요. Tip) 스톡을 넣기 전까지는 중약불로 진행하셔야 합니다.",
+		"20. 20에 스톡 300mL, 향신료, 토마토, 스파게티를 넣고 끓여주세요.",
+		"21. 21이 끓여오르면 거품을 제거해가며 중불로 끓여주세요.",
+		"22. 22의 향신료들을 건지고, 스트링빈스, 완두콩을 넣고 소금과 후춧가루로 간을 해주세요.",
+		"23. 완성된 수프는 건지 50g, 수프 150g을 계량해서 수프에 그릇에 담아 마지막으로 파슬리가루를 뿌려 제출해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/27b278d65cbcf917067100d51fd998531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/1eebc9f9c1ac2ed60f7d1bd8bc93a9ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/7fec5f29eb720bd58422ce0e5e6f9d781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/290dcd3dfe8d5a7bc8869bd104e349e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/be43fc45a75ed45d161eee0a4c05d6c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/d2c773d72b106a0bedbcda9cf48b87a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/88ea2ad0a4f6c7a257c84cb678bee30a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/59665db0085f654fac2ed6e2c2d50b861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/bb9a6acefba8230381dc97eba5f422f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/ebe263d7d35c475b400d4413326f437b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/c48baa31043a2de92d72b0ab0675c59d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/75ecbd8ea6d5bfeb0e4f2eae091a314e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/85087e10bc46f8d1b063018985a6f3521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/3b2959470703acb318b5d096ba5295ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/1c803d7a00afd168f10146e4ac0ca5b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/6a6a06fd336a6411356f358021be95611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/da8e218dbf3c620ad3bc49651cbb229c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/0add580c39951386dcc1ed55f5eca7651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/91d289fdb180288b5919161f4b1498961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/a8a369ebfcbd793ac9ca152646fe954f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/b41de59181f053fc9b0ce63d022d32db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/91ed4ee38f00baf6d0e013db0b94a6b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/b0a1e379cf4e31119c21e8a3f37e6e031.jpg"
+	]
+}

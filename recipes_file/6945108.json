@@ -1,0 +1,73 @@
+{
+	"id": "6945108",
+	"name": "집에서 어묵탕 끓여먹기~~맛 보장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/766b1b0dfc033a8f96a334a9334a0a031.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945108",
+	"ingredient_ids": [
+		349,
+		295,
+		3,
+		90,
+		19
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "납작어묵",
+			"ingre_count": "24",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "홍게간장",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "북어대가리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "말린대파뿌리",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "3/1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 준비한 재료들을 모두 넣고 큰냄비에 물을 가득 채워서 끓여줍니다 끓은지15분쯤 지나면 다시마는 건져냅니다",
+		"2. 마트에 납작한 어묵을 돌돌 말아서 나무젓가락에 꽂아줍니다",
+		"3. 육수물이 팔팔 끓으면 홍게간장 국간장 넣고 간을 봐서 싱거우면 홍게간장이나 소금으로 간을 합니다 어묵에서 소금기가 나오니 너무 짜게 간을 하지않아요",
+		"4. 간을 맞추고 어묵넣고 5분정도 더 끓입니다 푹 퍼진거 좋아하는분은 더 끓이셔도되요 저는 쫄깃한게 좋아서 그냥 5분 정도 끓이고 바로 건져먹었네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/e51594276b690dbd59a6d0954a7a954c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/c73296ea1b41f33fb7ed0cb04d2218f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/4431eb23c225d71402dccc16b6716de51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/58fbfcca5744def4e6136f58a755712f1.jpg"
+	]
+}

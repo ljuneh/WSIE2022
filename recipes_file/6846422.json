@@ -1,0 +1,73 @@
+{
+	"id": "6846422",
+	"name": "홍어찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/1846bba4925188c59a05b216a9075c881.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846422",
+	"ingredient_ids": [
+		533,
+		29,
+		497,
+		845,
+		716,
+		28,
+		493
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "홍어",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "초고추장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "실고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "석이버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란지단",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 홍어를 잘라 소금을 뿌려 1시간정도 놓습니다.",
+		"2. 찜기에 홍어를 넣고 한김 찐 다음에 양념을 올려 놓고 다시 한번 쪄줍니다.",
+		"3. 2를 접씨에 보기좋게 담고 초고추장을 곁들여 내놓습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/3a932740681612d2f092c5ddb4c8a0341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/3c59bd5ab27bb390169952a39b0e6cc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/14/4e2cd5f9ba0e3756d3476d073438a0571.jpg"
+	]
+}

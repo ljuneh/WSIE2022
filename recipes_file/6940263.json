@@ -1,0 +1,79 @@
+{
+	"id": "6940263",
+	"name": "아이간식 핫케이크 슬기로운 집콕간식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/6a0b323bfcee79c042d2769628985a031.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940263",
+	"ingredient_ids": [
+		638,
+		776,
+		1021
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "핫케이크가루",
+			"ingre_count": "160",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "냉동딸기",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "황도복숭아",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "시럽",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용류",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 핫케이크재료를 준비해 주세요.",
+		"2. 큰볼에 우유에 계란을 퐁당 깨서 넣고 섞어주세요.",
+		"3. 계란과 우유에 핫케이크가루를 넣고 다시 섞어줍니다.반죽의 농도는 주루룩 흐를정도로 걸죽해요. ",
+		"4. 키친타월에 식용류를 묻혀서 팬을 가볍게 닦아주세요.에그팬을 사용할거예요.",
+		"5. 팬은 가장 약한불에 놓고 핫케잌 반죽을 한국자 떠서 부어주세요.",
+		"6. 약한불에서 반죽이 전체적으로 뽀글뽀글 올라오면 빠르게 뒤집어주세요.",
+		"7. 하나씩 뒤집어주시면 되요.",
+		"8. 에그팬이 크고 화구는 작아서 에그팬을 조금씩 옮기며 골고루 익혀줍니다.화구의 중심부분이 열기가 강하니 타지 않게 조심해주세요. ",
+		"9. 분량의 반죽으로 에그팬에 구우니 핫케이크 6개가 나옵니다.",
+		"10. 냉동 딸기와 메이플 시럽으로 핫케이크를원하는대로 꾸며줍니다.",
+		"11. 딸기가 제계절이 아니라 냉동딸기를 작게 썰어 올려줍니다.",
+		"12. 제철인 황도도 작게 썰어 올려줍니다.",
+		"13. 칼로 조각을 내서 맛있게 드세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/c144f93ec6981b135b56370f286939eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/87a39182543ae6fef40ec04780e570ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/371b6a89ed9713d25b35e0b021fe8ebd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/2e6c4cc7766cd5b4095f4c490ec281831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/6bacee48c9638d509f4342aa623bab0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/0a617dc923a59a3801e76757df08584c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/3f221399d82bfe75ea0feb3f2c4c011f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/957d3af40b12ec55988582ea6329d25e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/9b735a79287ade646eefc17d6257f3c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/cad9d23d0e5097f224449fb9ad472f361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/0d76bca9bb7c0a3c2160d7a32e6f71041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/f4d3f26f7a645c7f8d8c3c3f19f4eb3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/aec0f3a72f7b2320c402f1a09f263b751.jpg"
+	]
+}

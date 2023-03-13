@@ -1,0 +1,69 @@
+{
+	"id": "6854517",
+	"name": "수분이 부족할때, 나를 채워주는 그것! 오이샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/12/e1e9373d9f3fa5be98c5eeef3fb896cd1.png",
+	"url": "https://www.10000recipe.com/recipe/6854517",
+	"ingredient_ids": [
+		8,
+		289,
+		371,
+		379,
+		231,
+		597,
+		575,
+		432
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "1",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "연겨자",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 오이와 토마토, 맛살은 한입 크기로 썬다.오이 1개, 맛살 1줄, 방울토마토 10개",
+		"2. 드레싱을 만든다.[드레싱] 간장 1T, 식초 1/2T, 연겨자 1/3T, 올리고당 1T, 포도씨유 1T",
+		"3. 드레싱에 채소와 맛살을 버무린 뒤 그릇에 담아 마무리."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/12/fc7cb024064f33c8ed602b9b9bf4f37c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/12/fd06271458d6c30b3bc72ca52893fbff1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/12/a640157df657cca7842c6907136041981.png"
+	]
+}

@@ -1,0 +1,72 @@
+{
+	"id": "6904848",
+	"name": "계란볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/20/b5b38ee9dac593791a87d672b84c305b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6904848",
+	"ingredient_ids": [
+		379,
+		226,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "멸치반찬",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "냉동밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 팬에 식용유 살짝 두르고 계란2개를 풀어 스크램블 한다. (너무 오래볶으면 질겨지므로 부드럽게 익으면 따로 건져놓는다)",
+		"2. 계란볶은팬에 스팸을 작게 잘라 바짝 볶아준다.",
+		"3. 스팸이 익으면 멸치반찬을 넣고 살짝 볶아준다.",
+		"4. 멸치가 따뜻해지면 냉동밥(전자렌지에 약 4분해동)을 넣고 섞어준다. (밥을 넣고 섞을때누 불을 끄고 섞어야 눌러붙지않는다.)전자레인지",
+		"5. 밥과 부재료가 전부 섞이면 불을 약불로 하고 따뜻하게 볶아준다. 이때 간장1큰술,설탕1/2큰술,후추약간,참기름 약간 넣고 섞어준다.",
+		"6. 마지막으로 스크램블 계란을넣고 골고루 섞어 불을 끈다.",
+		"7. 그릇에 올려 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/20/4573a2c6b1e22b2bbd8c0924eaa7868d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/20/74fcb226b3ebf77f93907c52e73c10f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/20/704e3c7ffe3a29fd715aa48ee3639d631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/20/f313314d8693734ce824094a52877e241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/20/5422ca5c2262064639a5af2a4ce1be431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/20/df39a45cd6ea44c85e872e3fd75512d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/20/d50f3affff797dd56ecee3218aadaae11.jpg"
+	]
+}

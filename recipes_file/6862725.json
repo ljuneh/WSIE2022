@@ -1,0 +1,62 @@
+{
+	"id": "6862725",
+	"name": "달걀찜보다 더 부드럽고 담백한 5분 두부찜!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/16/3308e13a29f879b9f230b9841ada2c831.jpg",
+	"url": "https://www.10000recipe.com/recipe/6862725",
+	"ingredient_ids": [
+		323,
+		31,
+		3,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "70",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "쑥갓",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양파, 쑥갓, 소시지를 잘게 다진다.양파 1/4개, 쑥갓 1대, 소시지 60g",
+		"2. 믹서에 두부와 우유를 넣고 간다.두부 1/2모, 우유 70ml믹서기",
+		"3. 간 두부에 다진 재료를 넣고 소금, 후추로 밑간한다.[다진 재료] 쑥갓 1대, 소시지 60g, 양파 1/4개, 소금 약간, 후추 약간",
+		"4. 그릇에 담은 후 랩을 씌워 전자레인지에 5분 정도 익혀낸다.그룻, 랩, 젓가락, 전자레인지랩에 젓가락으로 구멍을 콕콕 내주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/16/d1bc1b263e2156f7e6d82e1ae23cfedb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/16/a9003eaf7498d780e786b6b5741a865f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/16/752e8901fde9b5c5d75199ee408543bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/16/9fed069290c893d26a367a5517a41c041.jpg"
+	]
+}

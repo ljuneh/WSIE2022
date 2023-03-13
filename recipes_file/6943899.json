@@ -1,0 +1,46 @@
+{
+	"id": "6943899",
+	"name": "고소하고 달콤한 눈꽃 고구마라떼",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/3d5b13387010d6a324739a78e4ac6b2f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943899",
+	"ingredient_ids": [
+		485
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "맘스리얼베이스고구마",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "냉동군고구마",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "스팀우유",
+			"ingre_count": "190",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 계량컵에 생크림을 넣고 약 2분정도 핸드믹서를 이용해 크림을 만들어주세요.",
+		"2. 잔에 맘스리얼베이스 고구마를 넣어주세요.",
+		"3. 잔에 스팀우유를 부은 후 잘 섞어주세요.",
+		"4. 만들어둔 크림을 올린 후 치즈 그레이터를 이용해 냉동 군고구마를 슈레드 토핑해주시면 완성~!",
+		"5. 치즈를 추가로 토핑하면 고소하고 짭쪼름한 풍미의 고구마라떼를 즐길 수 있습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/37a10bbfb37fe0963121e2defe2e85381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/fc7e73bee6fc27e8dd9ec6edb41d35a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/34ac7aed128f0e82affed50afcd640e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/5e5fdab14fe4a3ecc07fde8265064e2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b524c3b833048a1c87fd401cd93920d61.jpg"
+	]
+}

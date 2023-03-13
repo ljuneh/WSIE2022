@@ -1,0 +1,61 @@
+{
+	"id": "1772909",
+	"name": "담백한 느타리 버섯볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/cf83d5c91521672e71788451635329c5.jpg",
+	"url": "https://www.10000recipe.com/recipe/1772909",
+	"ingredient_ids": [
+		911,
+		29,
+		3,
+		9,
+		27,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 당근,양파,파 등을 썰어 주세요.",
+		"2. 버섯을 씻어~ 살짝만! 데쳐 주세요. 데친 다음 찬물로 한번 행구어 주세요.",
+		"3. 한번 데친 버섯을 물기를 빼서 손으로 찢어 주세요.",
+		"4. 마늘을 넣고 먼저 볶아줍니다. 마늘향이 나기시작하면~ 당근,양파를 넣고 함께 볶아요.",
+		"5. 야채들이 반쯤 익으면 버섯을 넣어주세요. 소금으로 살짝~ 간도 해주세요. 마지막에 볶을때 파를 넣어 한번 더 볶으면 끝~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/8aef3b897791b93b0a1652caf1dff30d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/fb319a25c48bced059e9fe3ed73315e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/b33551d9c55828693d06182f50ef698d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/aaebc49a9dc1571f17dc8e4f6629d7e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/d7a020d58cf79ffefb529adab95da1cc1.jpg"
+	]
+}

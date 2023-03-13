@@ -1,0 +1,64 @@
+{
+	"id": "6943754",
+	"name": "부추계란 볶음 초간단 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/970a27540b51ced30ed6ea259050632b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943754",
+	"ingredient_ids": [
+		30,
+		497,
+		660,
+		504,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "21",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료준비해주세요",
+		"2. 부추는 흐르는물에 깨끗하게 씻어주시고 식초 몇방울로 소독해주는것도 좋을거 같아요 부추는 뿌리부분에 흙이 많이 묻어있어 깨끗하게 씻어줘야할거 같아요 부추는 0.5~1cm크기로 잘라 준비해주세요 계란 스크램블 만들준비해주세요",
+		"3. 잘 풀어놓은 계란에 썰어놓은 부추를 넣어주시고 소금으로 간을 해주세요 예전에는 굴소스를 넣어 만들어봤는데요 소금간만으로도 맛이 괜찮더라구요 이제 완성된거나 다름없는 부추달걀볶음입니다",
+		"4. 팬에 식용유를 넣고 재료를 넣어주세요",
+		"5. 젓가락을 이용해 스크램블 만들어주셔도 되고 숫가락으로 빠르게 저어 스크램블 만들어줘도 좋아요 저는 나무 숟가락이 편하네요",
+		"6. 참기름 1큰술로 마무리 해주시면 완성입니다",
+		"7. 초간단 밑반찬요리 간단하지유 밥에 비벼먹으면 딱좋은 반찬입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/e400815ccf96aabf0a533569a3857e7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/63f4b559364c8615db9a190e5e9a96201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/15c72219037fec45199683b0185074031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/cc56c76786a4d47996acd1ed90bb127e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/2e58d9f8cc5877d8dbf55b2baa0e90cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/5001992bb664f559a3e6460af37b3d421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/b48f9e4d0e669bd937dd93f19daa3df21.jpg"
+	]
+}

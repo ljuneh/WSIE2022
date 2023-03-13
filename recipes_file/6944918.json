@@ -1,0 +1,58 @@
+{
+	"id": "6944918",
+	"name": "간단해요~스페니쉬 오믈렛",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/5d32ca891946037a94559716817949d11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944918",
+	"ingredient_ids": [
+		5,
+		219
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요달걀5/감자(대 2)/올리브오일(재료가 정말 간단하죠^^)저는 감자가 작아서 중 2, 소 2 사용",
+		"2. 감자를 얇게 편썰기한 다음 4등분 해주세요",
+		"3. 팬에 올리브 오일을 넉넉히 두르고 감자를 넣어 튀기듯 익혀주세요(센 불에서 다 익히면 겉면이 너무 바삭해지니 주의)센불에서 어느 정도 익으면 중불로 낮춰서 속까지 잘 익혀주세요이때 소금간도 같이 해주세요",
+		"4. 달걀은 5개 모두 풀어서 잘 섞어주세요소금, 후추 간도 함께 해주세요",
+		"5. 작은 팬에 기름코팅을 먼저 합니다",
+		"6. 팬에 달걀을 먼저 붓고 익혀진 감자를 같이 넣어주세요기호에 따라 감자를 으깨듯이 섞어주셔도 돼요",
+		"7. 저는 색감을 위해 당근과 단호박을 썰어서 같이 넣었어요원래는 안넣어도 되는 재료라 생략가능해요 기호대로 다른 야채 추가 가능~",
+		"8. 잠시 뚜껑을 덮고 익혀주세요",
+		"9. 재료가 다 익으면 큰접시를 가져다가 뚜껑처럼 덮은 후에 뒤집어주세요",
+		"10. 짜잔~ 완성되었어요",
+		"11. 한 조각 덜어서",
+		"12. 개인 접시에 담아",
+		"13. 한 입 크기로 먹어봅니다 오왕~~이게 뭐야? 스.페.니.쉬. 오.믈.렛. 넘 맛있잖아!!^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/d0b278d943e78ca11353202e43f992a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/1e68971f18cad67278e796606c4a323e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/43fa498852a6056409e1e2706407cdc21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/afa9cceeb4e34e23af6b7a1d8975810c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/8186d0de0678c599598357a2f8abd5bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/10db874e62e46f6a4596b4d74d526c3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/146e1f803039125afc4f244d1b8edc7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/576e2724f22c0c09f6d568284678417b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/bf6a9019bf49c7f600083424febfd0c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/bf9732f66666027ca94c9a32251ee7231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/3fd649e0d8f782947e3b96225f3ddbcb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/6f252b6acbfd73badaaf57b2ab6ec7ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/24/cb04c07c9b932482708d698aba15e1b11.jpg"
+	]
+}

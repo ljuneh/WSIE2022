@@ -1,0 +1,49 @@
+{
+	"id": "6864389",
+	"name": "별다방 부럽지 않아효~달달한 오레오프라프치노♥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/26/2cf7b66bf8e99e7c003955b755f51d321.png",
+	"url": "https://www.10000recipe.com/recipe/6864389",
+	"ingredient_ids": [
+		485
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "오레오과자(50g)",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "바닐라아이스크림",
+			"ingre_count": "1",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "1",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 오레오 과자 안에 크림을 제거한다.오레오 과자(50g) 1봉",
+		"2. 믹서기에 오레오 과자와 우유, 얼음, 아이스크림을 넣고 간다.바닐라 아이스크림 1cup, 얼음 1cup, 우유 1cup믹서기",
+		"3. 갈아낸 재료를 컵에 따른다.",
+		"4. 생크림을 올려 완성한다.생크림 적당량"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/26/f79ab5b9cf45d87c65fcf8c02e7270281.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/26/d0da96bc6dbc8e295a4439bcd8fca84e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/26/40a24fa38fb7362da45dd49dd9bba1091.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/26/95fb5d359dc4f1c55af85adac23bada41.png"
+	]
+}

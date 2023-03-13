@@ -1,0 +1,39 @@
+{
+	"id": "3992848",
+	"name": "갈치구이 굽기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/f530b0cb9c91e73298835e42b1198ebf.jpg",
+	"url": "https://www.10000recipe.com/recipe/3992848",
+	"ingredient_ids": [
+		67,
+		497,
+		574
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "갈치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 갈치는 칼집을 내고 소금을 뿌려놔주세요",
+		"2. 오븐팬에 올리고.. 포도씨유를 갈치껍질 부위에 발라주세요",
+		"3. 180도로 예열된 오븐에서 15분정도 구워주세요오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/06083bcb4fcd1edf6d1602858ed5e6a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/d94a031bb8279a12e4ebd6733ec2c7e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/07/31e668ec033f1693dbd4afb70ca3c4891.jpg"
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"id": "6941816",
+	"name": "국민 밑반찬 여름반찬 실패없는 오이지무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/8b89d28074b71294825be31c5ccdd07a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941816",
+	"ingredient_ids": [
+		1010,
+		233,
+		224,
+		575,
+		660,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오이지",
+			"ingre_count": "3~4개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3~4큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 잘 절여진 오이지 3~4개를 썰어 물에 담궜다가 헹구기를 2~3번 반복해요. 오이지 맛을 보며 기호에 맞는 간에 맞게 헹궈요.                       ",
+		"2. 헹군 오이지를 면포에 싸서 세로방향으로 쥐어짜요. 세로방향으로 짜면 가로방향보다 수월해요.                     ",
+		"3. 다진파, 다진청양고추(2~3개), 다진마늘1작은술, 고춧가루3~4큰술, 올리고당1큰술, 참기름1큰술, 통깨를 넣고 조물조물 무쳐요.                              ",
+		"4. 오독오독한 국민 밑반찬 오이지무침이 완성되었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/979d434f70519220be00c92346e2bd2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/428f15c28bc4eb22dcb0ecd80562fd1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/12ce107765b419a5464eb8a55539027f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/4b613713e03b476641e66080ead36a3f1.jpg"
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "6881437",
+	"name": "매콤 쭈꾸미볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/7ec3ace85e90f465d0984cdf36589a711.jpg",
+	"url": "https://www.10000recipe.com/recipe/6881437",
+	"ingredient_ids": [
+		63,
+		9,
+		3,
+		473,
+		224,
+		233,
+		457,
+		843,
+		960,
+		379
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "쭈꾸미",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 쭈꾸미는 밀가루넣고 주물러 씻어 건진 후 끓는물에 넣고 아주잠깐 데쳐 냅니다",
+		"2. 양파, 당근, 오이고추 썰어 준비해 놓아요",
+		"3. 팬에 오일둘러 양파부터 충분히 볶아 줍니다 양파가 볶아지면 당근넣고 볶아요 ",
+		"4. 살짝데친 쭈꾸미넣고 쉐킷쉐킷~~ 양념장은 미리 만들어 두었어요 고추장, 고춧가루, 다진마늘, 다진생강, 매식액, 맛술, 간장 넣었어요",
+		"5. 양념넣고 쉐킷쉬켓~~",
+		"6. 오이고추넣고 잘 섞은 후 참기름 둘러 마무리해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/a6f6ce65fb796ab0c2837d8466ef8df01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/6c6b2642ad257ab897ff3736c64cf8f61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/5c8dd7155d819972188fcf7aea9617e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/5b696995789e00a1fb66435ce9f655521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/533b59433662ceb8a331a315b578c9731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/27/957bac6741080c143b07e628c445a3671.jpg"
+	]
+}

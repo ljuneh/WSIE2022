@@ -1,0 +1,94 @@
+{
+	"id": "6945191",
+	"name": "소시지로 만든 제철음식 홍합스튜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/c5e55cd7ebd7fdafecd0a851c2e715b71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945191",
+	"ingredient_ids": [
+		88,
+		367,
+		402,
+		574,
+		497,
+		205
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소시지",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍합",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "페페론치노",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바질",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "토마토퓌레",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "토마토케찹",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "화이트와인",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파마산치즈",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 홍합은 손질하는 게 조금 귀찮긴 하지면 요즘 제철에 잘 어울리지요~!~~ 홍합은 손으로 빡빡 문질러서 이물질을 제거하고 준비해 놓았어요~~!~",
+		"2. 팬에 올리브유를 둘러준 다음 편 썰은 마늘을 넣어 볶으면서 페페론치노도 넣어 칼칼함을 내줍니다 ",
+		"3. 매콤함과 칼칼함의 풍미가 나면 홍합을 넣어줍니다 홍합을 넣고 홍합 입이 벌어지기 시작하면 칼집 넣은 소시지를 넣어줍니다",
+		"4. 통째로 넣어주기도 하고 잘라준 다음 칼집 넣은 것도 넣어주고 토마토퓌레를 넣어줍니다 ",
+		"5. 화이트 와인을 넣어 풍미를 더욱더 내주면서 토마토케첩도 조금 넣어 감칠맛을 더해줍니다 ",
+		"6. 소금을 조금 넣어주는데 간을 봐가면서 넣어줍니다 홍합도 소시지도 간이 되어 있어서 아주 조금 넣어주었어요~!~ ",
+		"7. 마지막에 바질 한 개 올려주고 파마산 치즈가루 솔솔 뿌려주면 쟌슨빌 소시지 홍합스튜 완성입니다 ",
+		"8. 큼직한 소시지가 들어가 있는 #제철요리홍합스튜 골라 먹는 재미가 쏠쏠하지요~!~ ",
+		"9. 얼마 안 있으면 한 해를 마무리하는 연말이나 파티 등 모임이 많을 때가 돌아오는데 파티나 와인 안주 맥주 안주로 빠질 수 없는 쟌슨빌 소시지로 가족들과 간단하게 홈 파티에 홍합을 곁들인 홍합스튜를 만들어 보시는 게 어떠신지요~!~ "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/fc87515da7489c0bc8d0e24f557d164c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/f60e2b254e8fa9acf27d5a7a3f1f72f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/9b8315c7c3941be76bfbaecf1aef9f211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/dfa386c13b34f8b2daabe106de4899301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/9cb56d44bdb1a0ad5fd8e5c76eb467091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/22b38a4ab63321edaf1945cd59a5e03a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/3033ea8e52abb59fce1bfcda63732cb21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/37faeb12cacd359d85bf7e3f038243ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/6c9460f640da22e842e4d61a6acbe2ec1.jpg"
+	]
+}

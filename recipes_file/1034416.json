@@ -1,0 +1,111 @@
+{
+	"id": "1034416",
+	"name": "쇠고기장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/56526291f99214488797cb31743315df.jpg",
+	"url": "https://www.10000recipe.com/recipe/1034416",
+	"ingredient_ids": [
+		221,
+		295,
+		29,
+		3,
+		995,
+		857,
+		29,
+		1015,
+		379,
+		226,
+		846
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쇠고기장조림용(한우)",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "건홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강1톨(마늘크기정도)",
+			"ingre_count": "1톨(마늘크기정도)",
+			"ingre_unit": "톨(마늘크기정도)"
+		}
+	],
+	"recipe": [
+		"1. 쇠고기는 찬물에 담궈 핏물을 빼주세요. 메추리알은 삶아서 껍질을 벗겨주세요. 울대빵이랑 빵돌이들이 자진해서 메추리알을 까준다고하길래. 이번에는 괜찮겠지싶었는데 역시나 메추리알의 갯수가 줄어있네요. 마늘과 청고추,청양고추는 깨끗이 씻어서 물기를 제거해주세요.",
+		"2. 물4컵에 양파반개+통후추+건홍고추를 넣고 물을 끓여주세요. 물이 끓으면 핏물을 제거한 쇠고기를 넣고 무르도록 푹 끓여주세요.",
+		"3. 쇠고기가 익으면 체에 걸러 결대로 찢어주세요. 이것도 울 대빵이 손수 해주었답니다. 순간순간 가위도 사용하면서 한두개 입으로 쏘옥. 육수는 면보에 한번 걸러서 준비해주세요.",
+		"4. 육수에다 장조림양념을 다 넣고 결대로 찢은 쇠고기를 넣어주세요. 끓으면 메추리알과 마늘+생강을 넣고 끓여주세요. 쇠고기장조림이 어느정도 되어갈무렵 어슷썬 청고추랑 청양고추를 넣어주세요.",
+		"5. 접시에 담기가 무섭게 젓가락들이 날라오는 쇠고기장조림 완성이예요. 뜨끈한 밥한공기씩 놓고 맛있게 먹었답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/18/8df31d5ead20ec97a8429f179951fd711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/18/13626a32729fe0c94d505c17d812f2481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/18/602694f8ea0403a243cc967e858ca9341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/18/ccbf97b4f0a6ae2248a6025503f1a5661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/18/a43357d99faa78bce42747a14ca2be091.jpg"
+	]
+}

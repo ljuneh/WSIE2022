@@ -1,0 +1,50 @@
+{
+	"id": "2998440",
+	"name": "닭가슴살 샐러드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/8248303aeac57280875575e7937d0fcb.jpg",
+	"url": "https://www.10000recipe.com/recipe/2998440",
+	"ingredient_ids": [
+		300,
+		379,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "홀그레인머스타드or씨겨자",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 닭가슴살 양념소스를 먼저 만들어둔다.",
+		"2. 닭가슴살은 얇~게 져며서 준비한다.",
+		"3. 미리 만들어둔 양념소스를 얇게 져민 닭가슴살에 차곡차곡 발라서 숙성해두기. 이렇게 양념발라서 잠시 냉장고에서 숙성시켜준다",
+		"4. 냉장고안에서 닭가슴살이 숙성되는동안.. 야채를 준비한다.",
+		"5. 센불에서 재빨리 익혀준다.",
+		"6. 숙성시킨 닭가슴살은 그릴자국 나도록 구워내기."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/90ab3d7df445b1eb6982c8c02a84ee1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/0efb973ae39e95887071f746938189941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/c8026e8011c4852264de9dc606e21fd41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/18f3f581e521beba140380e35b48c5ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/e01523fc174ad58d7e98bf8cae7f3fcb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/49d570ad611fd15134b65d3c3354ab7f1.jpg"
+	]
+}

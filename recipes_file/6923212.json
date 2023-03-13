@@ -1,0 +1,51 @@
+{
+	"id": "6923212",
+	"name": "#갈비김치찜 [돼지갈비김치지짐]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/12/08/bbc3cf800091d636098889d3a5f2a5451.jpg",
+	"url": "https://www.10000recipe.com/recipe/6923212",
+	"ingredient_ids": [
+		953,
+		995,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지갈비",
+			"ingre_count": "2",
+			"ingre_unit": "근"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술또는소주",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 김치는 먹기좋게 잘라서 준비합니다.반절로 잘라 찢어놓았어요. 가위로 잘라 사용해도 좋습니다.",
+		"2. 돼지갈비는 기름기는 적당히 떼어내고 사용해주세요.",
+		"3. 김치, 갈비, 설탕, 물을 냄비에 넣은후 불에 올려줍니다. 뚜껑을 덮어주세요.중간불(총 35~40분 조리)",
+		"4. 끓으면 맛술(소주)를 넣어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/08/10c221150d397da5979f3c695255dca11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/08/24be35904d56ad250d10a8cdde224a691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/08/0cb95af065c9fc33041042a3507970ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/08/3c21378d520d9c7ad7b58909bd4ec5601.jpg"
+	]
+}

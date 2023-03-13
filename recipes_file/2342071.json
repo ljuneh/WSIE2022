@@ -1,0 +1,45 @@
+{
+	"id": "2342071",
+	"name": "된장으로 무친 미나리 나물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/04/a1ea017654d4b17fea252a122a79d714.jpg",
+	"url": "https://www.10000recipe.com/recipe/2342071",
+	"ingredient_ids": [
+		20,
+		848,
+		938,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 미나리는 억센 줄기는 잘라내고 깨끗이 씻어서 끓는물에 소금 한큰술 넣고 줄기 부터 넣으면서 데쳐주세요.",
+		"2. 마지막에 생수에 헹궈서 물기 꼭 짜 먹기좋은 길이로 잘라주세요.",
+		"3. 된장에 매실청 넣고 된장을 고루 잘 풀어서 깨소금 넣고 조물조물 무치세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/588097f9cc06a8011473091843a834381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/450c0dc99cb3a6c3ff9bde0e03e920041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/2ac6e3db7bb17adca8a19359d538d5c31.jpg"
+	]
+}

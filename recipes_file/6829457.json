@@ -1,0 +1,42 @@
+{
+	"id": "6829457",
+	"name": "장어튀김",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/2dfde005d5227afbf5b1b1fb551096c71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829457",
+	"ingredient_ids": [
+		846,
+		471
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "계피가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/3",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 먼저 손을 깨끗하게 씻고필요한 재료를 준비해 주세요!",
+		"2. 장어 특유의 비린내와 잡내를 잡아주는 재료로는 계피가루 만한 게 없더라구요 장어는 3CM 간격으로 잘라주시고 청주1T, 계피가루1/2t, 후추1/3t를 넣고 조물조물 무쳐서 재워주세요. 소스에 들어 갈 사과는 사방0.7CM정도의 크기로잘게 깍뚝썰기해서 준비 해 주세요. 그리고 알싸한 향이 튀김의 풍미를 높여 줄 마늘은 0.2CM간격으로 편썰어 준비 해 주세요.",
+		"3. 잡내를 잡기 위해 청주와 계피가루에 재워 두었던 장어에 편썬마늘과 전분1컵 그리고 물120Ml를 넣고 조물조물 튀김 반죽을 완성 해 주세요.",
+		"4. 중불에서 3분간 예열한 팬에 식용유1/2T를 넣고 잘게 깍뚝썬 사과를 넣고 가볍게 볶아주세요. 그리고나서, 식초50ML,설탕5T,물100L,소금1t를 넣고 한소끔 끓어오를 때 물녹말(물4T:녹말2T)를 넣고 한번 휘저어 끓여내면 완성입니다!",
+		"5. 튀김 팟에 기름500ML정도를 붓고 강불에서 4분간 예열 해 주세요. 180도 정도의 온도에 맞춰주시고 장어반죽을 하나씩 떼어 튀기기 시작해 주세요. 묵직한 튀김 반죽이 기름에 들어가 3~4분정도 지난 뒤 가볍게 두둥실 기름 위를 떠다니게 될거에요. 바삭함과 가벼워진 느낌이 든다면 충분히 잘 익은 거랍니다~ 잠시 튀겨 진 장어를 키친타월에 건져 주시고 다시 기름 온도가 오를 수 있게 1분정도 기다려 주셨다가 다시 한번 재벌튀김을 1분간 해 주세요! 상큼한 사과소스를 곁들여 내면 맛있는 보양식 장어튀김 완성입니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/fd6d9861a16137ec4d59395a153966311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/b27db812fa01ac242e8ce0364d7ab9881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/af56c340e21cdc14c181012d9ca44d0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/7b93ea9b194b650521488e9ec601f32a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/14/eba5a0fddb99bc86033a9577a1b54ce91.jpg"
+	]
+}

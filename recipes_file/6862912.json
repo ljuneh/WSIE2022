@@ -1,0 +1,82 @@
+{
+	"id": "6862912",
+	"name": "신라면을 이용한 신라면투움바 파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/20/68e4e9c3f6a5b7b508625506b1e9d1541.jpg",
+	"url": "https://www.10000recipe.com/recipe/6862912",
+	"ingredient_ids": [
+		29,
+		3,
+		214,
+		198,
+		79,
+		702
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "신라면",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "새우",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 분량의 재료를 준비합니다.",
+		"2. 신라면을 반정도만 삶아 체에 받쳐둡니다.",
+		"3. 마늘, 양파, 새우의 순서로 올리브오일 두른 팬에 볶아 주고 후추를 뿌려줍니다.",
+		"4. 우유를 붓고 버터를 넣어 잘 저으면서 끓여줍니다.",
+		"5. 신라면 스프를 2/3에서 1개까지 넣어줍니다.  너무 많이 넣을 경우 짤 수 있으니, 본인 입맛에 맞게 적당량 넣어주세요.  전 1개 넣었어요~",
+		"6. 슬라이스 치즈 2장을 넣고 잘 저어줍니다.",
+		"7. 미리 삶아놓은 면을 소스에 넣고 1분간 잘 섞어줍니다.",
+		"8. 그릇에 예쁘게 담고 파슬리를 살살 뿌려주면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/20/a777cce7ec0e28955d24109f7c9dca731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/20/c648ab0bfd2332adba264d87ca7a2cb81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/20/daccecb37e51a070cd85d2aed17f72591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/20/af0d6a3300baa56218ac12628101434b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/20/b85b5cabcdddf6396c3b4b5696c2237c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/20/a96df877c3d105947179a4e2d30127e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/20/113b98434fb81194cda2eb2e9f7f32691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/20/dc182557b18c3cb1c10da176b0dd0f471.jpg"
+	]
+}

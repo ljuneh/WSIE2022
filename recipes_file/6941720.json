@@ -1,0 +1,64 @@
+{
+	"id": "6941720",
+	"name": "맛있는 김치볶음밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/70fa72ddd5e9f1d97ab6113c306d70681.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941720",
+	"ingredient_ids": [
+		379,
+		953,
+		574,
+		27
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "베이컨이나햄",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. 우리품종 경기미 중 참드림!! 우리쌀이라 더 맛있는 참드림~",
+		"2. 쌀알이 고르고 윤기가 좌르르~~ 넘 맛있어 보이죠? 밥할때 쌀을 씻어도 쌀뜰물도 깨끗하더라구요",
+		"3. 밥지으니 윤기가 좌르르~~ 그냥 먹어도 맛있지만 간단하게 김치볶음밥 해서 먹으려 해요",
+		"4. 베이컨이나 햄이 필요한데 저는 햄을 썰어서 넣어 주었어요~~",
+		"5. 파 1대 썰어주고 파기름 내줄꺼에요",
+		"6. 김치 적당량 한줌 준비해 주세요",
+		"7. 오일 1스푼 두르고 파넣어 볶아주세요~~",
+		"8. 그다음 햄 넣어 볶볶~",
+		"9. 김치 촥~~ 마지막으로 간장 1스푼 넣어 태워주듯 볶아주세요",
+		"10. 마지막으로 참드림미로 맛있게 지은 밥 넣어 볶아주면 완성!! 완전 밥도둑이죠?"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/3287baad48ede10dd2698030dd984f1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/0a13341c7a4dc81912157ff8c8e0ae141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/47edad97cfdd341c9064cb831111f9ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/181639b6a7d8ba6898dc3edc7b76afd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/cc79481aec0fd563dd76a96ac55567261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/257adc8eeffa6e444178c8e3eada98951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/6de14248d422ac5f3ed98ea465a3e3e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/5d07a032163478c95521f46f742b3da41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/a5749d96dff819fe675a4e6ffd5707421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/b2e76d794b661f049387639c568517f11.jpg"
+	]
+}

@@ -1,0 +1,100 @@
+{
+	"id": "6862021",
+	"name": "갈치국 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/77421675b0ba1ce17b2936bc3d9b07871.jpg",
+	"url": "https://www.10000recipe.com/recipe/6862021",
+	"ingredient_ids": [
+		325,
+		27,
+		295,
+		876,
+		233,
+		224,
+		349,
+		292
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "갈치(小)",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파(小)",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치팩",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "800~1000ml",
+			"ingre_unit": "~ml"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1~2큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 갈치들은 비늘을 다 긁어냈어요.비늘은 소화도 안 되고 영양분도 없다고 하니 제거하는 게 맞는 것 같아요. ",
+		"2. 냄비에 쌀뜨물을 붓고 호박과 멸치팩을 넣고 끓였어요.",
+		"3. 국에 들어갈 재료로는 양파, 대파, 다진 마늘, 청양고추를 준비했어요.",
+		"4. 국물이 끓을 때 손질한 갈치를 넣고 멸치팩은 건져냈어요.국물이 끓을 때 갈치를 넣어야 생선살이 잘 부서지지 않아요. ",
+		"5. 국간장으로 간을 맞추고 맛술을 넣고  고춧가루, 후추를 뿌려 끓였어요.",
+		"6. 양파, 대파, 청양고추를 넣고 마저 바글바글 끓여 불에서 내렸어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/34bc56f56a997353aecd453212f268521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/5488aedb620f79d84bdf07a6b1961c5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/a2af02f03c85a04b215775387b8cdd191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/df187469109f44d09b4f5b114caeaee41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/570e9a41ce4d8f59f060d42f902778161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/02/91c8563c180874af9433212f447154021.jpg"
+	]
+}

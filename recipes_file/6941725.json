@@ -1,0 +1,111 @@
+{
+	"id": "6941725",
+	"name": "오징어무국 얼큰한 국물이 끝내줘요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/417e877371bc65023cd348a18681973b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941725",
+	"ingredient_ids": [
+		65,
+		19,
+		3,
+		7,
+		27,
+		224,
+		349,
+		939,
+		292,
+		233,
+		90,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국멸치",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 다시멸치국물에 무를 넣어 끓입니다.멸치5마리, 다시마1장, 무1/4개",
+		"2. 채썬 양파와 반달썰기 한 애호박을 넣고 끓여줍니다.양파1/2개, 애호박1/2개",
+		"3. 채소가 익으면 고춧가루, 국간장, 맛술, 액젓을 넣고 끓여줍니다.고춧가루1큰술, 국간장1큰술, 맛술1큰술, 액젓1큰술",
+		"4. 손질한 오징어를 넣어줍니다.오징어1마리",
+		"5. 다진 마늘과 다진 파를 넣어줍니다.다진 마늘1큰술, 파1/4대",
+		"6. 소금으로 간합니다.소금 약간",
+		"7. 홍고추를 넣어 얼큰함을 더해줍니다.홍고추1개"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/4d9f18d67ddaa12f11e8f79d7789c99a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/124946a0843b42e920dba377eb293c851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/26f00b78ce5d42ab28cf40f7693313391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/9afdfec9675a5245f033b987c8102c711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/fef0d3162a1c408feca62fe04dc461a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/ddde27c8f8b7c40b22ca3263e0f7bea51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/97fc0e5211da3e60f55f200b3e38d9391.jpg"
+	]
+}

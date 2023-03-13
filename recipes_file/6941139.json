@@ -1,0 +1,70 @@
+{
+	"id": "6941139",
+	"name": "소세지 빵 만들기 에어프라이어",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/9a9b30a8264d7b3109ebfe6e862f4bc31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941139",
+	"ingredient_ids": [
+		643,
+		29,
+		208,
+		724
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "소세지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "적양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "캔옥수수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 적양파를 채썰어 주세요",
+		"2. 소세지를 잘라주세요",
+		"3. 풋고추를 다져 주세요",
+		"4. 마늘을 다져 주세요",
+		"5. 식빵 위에 소세지 양파 옥수수를 넣어 주세요",
+		"6. 크림치즈를 넣어 주세요",
+		"7. 오븐 후라이팬 다 좋아요 에어프라이어에 돌려 주어요오븐,에어프라이어",
+		"8. 165도 5분 ! 꺼낸 다음 케찹을 뿌려서 먹어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/3a1c45e54c0f59e85245de9300e879591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/a633390c63b2a61b40c5f7e95604b15f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/174c8155f9cee0ea9f3a149d04759cdc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/fbd35e5a837e5be460fc3048abbd59cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/471cbc9ea16a3a105f148f84ed7487851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/65297977dd593a0c1b0ab05070234d4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/dcfa0cd1f7819266f5803ddd8531336f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/03ad83157f6e59a47c6b394149d70f4a1.jpg"
+	]
+}

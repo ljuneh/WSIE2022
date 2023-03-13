@@ -1,0 +1,71 @@
+{
+	"id": "2602719",
+	"name": "사골곰탕 떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/f5a579e9a97a75d9726aae689274c62b.jpg",
+	"url": "https://www.10000recipe.com/recipe/2602719",
+	"ingredient_ids": [
+		972,
+		473,
+		341,
+		379,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "오뎅",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 떡볶이떡과 어묵 준비해주세요~",
+		"2. 라면과 어묵은 끓는 물에 살짜쿵 기름기만 뺀다 생각하고 데쳐주세요.",
+		"3. 양념장 미리 만들어 두시구요~",
+		"4. 사골곰탕에 미리 만들어둔 양념장 풀어주시구요.",
+		"5. 떡볶이떡을 넣어주세요~",
+		"6. 떡볶이떡이 말랑해지면 미리 데쳐놓은 라면과 어묵을 넣어주세요.",
+		"7. 양파와 당근을 넣어주세요.",
+		"8. 불을 끄신뒤 대파와 초록색야채를 넣어서 여열로 익혀주신후 참기름 한방울 넣어주는 쎈쑤~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/d5afcb449a93037280993c7529aba85c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/5eb3fde5c9f7238d620c997a2edef7f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/2ae96677806cb01b752463eb6cbaacaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/f3ff2b61b17adfc75daceaff93bd95b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/aa013bbe72ccf25c68ed735c7b3ab1341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/8cd08f966a593bb0862a1d73d75d25691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/d85b458bb5a6300bcfb6b3aa36637b051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/23/8fa20169972fb3313868a83d53386dba1.jpg"
+	]
+}

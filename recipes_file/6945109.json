@@ -1,0 +1,98 @@
+{
+	"id": "6945109",
+	"name": "사골육수없이 부대찌개 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/8e5521f93a8434fc70f44af47f40730f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945109",
+	"ingredient_ids": [
+		953,
+		3,
+		27,
+		628,
+		233,
+		473,
+		379,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "치즈소세지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "사림곰탕스프",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "라면사리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 재료준비",
+		"2. 김치를 잘게 잘라 냄비에 넣습니다",
+		"3. 파와 양파도 썰어 넣습니다",
+		"4. 햄과 치즈박힌 소세지도 넣어주세요.그리고 물 600ml를 넣고 끓여줍니다",
+		"5. 끓는 사이 마늘을 다지고",
+		"6. 양념을 만들어 잘섞어주세요",
+		"7. 끓기시작하면 준비해둔 하얀스프를 넣고",
+		"8. 양념도 같이 넣어 풀어주세요",
+		"9. 보글보글 끓으면 사리도 넣어 면이 다익으면 불을 꺼주세요",
+		"10. 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/f3902cd30b24a808e25a2bac7203d86c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/02e2bd49d46487220b566d372bb65d731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/b1489e937f6ea6e92ffc71a34ac344ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/a572725b0a14b70e131b0f44cb15c9011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/03460dada5ec767565883bbf54e591651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/863da2cc533f1bf2becd0f585012eada1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/d2784b2a7dacd89fd4c24b4c150352a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/716adf0b2e5b4a3308c6a0826d2f035b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/b06454e42a90f7e1a2873fe7c4b6821a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/aa073dcf1882b25890d75e2144b500a21.jpg"
+	]
+}

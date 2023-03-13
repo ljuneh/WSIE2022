@@ -1,0 +1,73 @@
+{
+	"id": "6925152",
+	"name": "단짠단짠 치느님! 목우촌 치킨너겟 간장치킨 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/01/31/586e25558da930261316c17242f33b1f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6925152",
+	"ingredient_ids": [
+		226,
+		575,
+		292,
+		843,
+		233,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "주부9단골든치킨너겟",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 프라이팬에 너겟이 잠길 정도로 기름을 두르고 약불로 치킨너겟을 노릇노릇 튀겨주세요.",
+		"2. 튀겨진 너겟은 느끼하지 않도록 키친타올에 올려 기름을 제거합니다.",
+		"3. 작은 볼에 진간장2, 설탕2, 올리고당3, 맛술2, 매실액1, 다진마늘1, 물3 넣고 양념장을 만들어줍니다.",
+		"4. 음푹 페인 프라이팬에 소스를 넣고 강불로 시작해서 끓기 시작하면 중불로 가열해줍니다.",
+		"5. 소스가 끓기 시작하면 치킨너겟을 넣고 주걱으로 빠르게 버무려 줍니다.",
+		"6. 소스가 치킨너겟에 흡수되어 거의 없어졌을 때 아몬드 한줌을 먹기 좋게 버무려 주면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/17/740b9949c6c3df2e79685b34aff5b1011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/17/d6dd7c1ef47f0c7a74d51379dec315da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/17/cd1b82084576ea351f781b5de2b1b6ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/17/bf0412077349d5b2e527675e6f89447f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/17/543cf4bbdcbdce1a312f5bc671a2e6691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/01/17/347bc17462acf2354d544ebac49710a21.jpg"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"id": "6944652",
+	"name": "짜투리 식빵으로 아이들 간식 러스크 만들기..",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/d3073570944e1854d5b13256fcf206901.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944652",
+	"ingredient_ids": [
+		503,
+		226,
+		504
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 우선 식빵은 5장밖에 없어서 5장 꺼내 가위로 깍두기 모양으로 잘라줍니다.",
+		"2. 5장 자르니 양은 이만큼이네요..",
+		"3. 비닐팩에 잘라놓은 식빵 모두 넣어주고..",
+		"4. 설탕 3큰술,",
+		"5. 식용유 2큰술 넣어준 다음..",
+		"6. 골고루 다 섞이게 흔들어 주세요~ 그럼 이렇게 골고루 잘 묻어요~",
+		"7. 오븐팬에 설탕 발라진 식빵 올려준 다음..",
+		"8. 에어프라이어로 10분 정도 구워주면 됩니다. 중간중간 열어서 얼마나 구워졌는지 확인하셔야해요~ 갑자기 확 타버릴 수 있거든요~",
+		"9. 1차로 굽고 다시 뒤집어 3~5분 정도 더 구워내면 러스크 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/fe456275796b8ddc085c39a5f1d4f8971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/53e05b18d33ce2079fce84ed24056e0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/811d44274e5f6d87228b3bbf9a6f82d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/b81bf22c15749684f18e76c132f68ec61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/4d9219ce6779a9014a4668d8c23b9e351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/f69057587cdcaa61922736bfe5969d751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/58836c2546324737675b9ac12941af8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/ae224459644e7ae6e32640358d01bfc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/a6d06aac9efde8d7977ef24857eb96171.jpg"
+	]
+}

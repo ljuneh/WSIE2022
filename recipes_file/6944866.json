@@ -1,0 +1,60 @@
+{
+	"id": "6944866",
+	"name": "간식 맥주 안주로 좋은 이자카야식 건새우 튀김",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/02d462d533d2b07216981485edf797bb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944866",
+	"ingredient_ids": [
+		259,
+		234,
+		291,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 건새우의 찌꺼기는 체에 한 번 걸러준 후 물에 10분 정도 담가 두세요.",
+		"2. 비닐팩에 밀가루 1큰술 전분가루 1큰술을 넣어주세요.",
+		"3. 물에 불려 놓은 새우을 건져서 밀가루가 있는 비닐팩에 담아 주세요.",
+		"4. 밀가루와 불린 건새우를 쉐킷하여 밀가루를 묻혀 주세요.",
+		"5. 팬에 기름을 넣고 가열한 뒤 소금 한꼬집을 넣어 \"치익\" 소리가 나면 밀가루를 묻혀 놓은 새우를 넣고 튀겨주세요.",
+		"6. 뭉치지 않도록 젓가락으로 살살 흔들어 분리시켜 주세요. 탈 수 있으므로 중 약불에서 튀겨주세요.",
+		"7. 수분이 빠져 바삭해지면 건져 키친타올에서 여분의 기름기를 빼주세요.",
+		"8. 기호에 따라 맛소금을 살짝 뿌려 접시에 담아 완성합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/c96d8d88751d6819b0f065c0c25f90751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/3b11d3e942a69780a0f29764cfa27cf31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/eae59e2471b69a3f63eea39c7eb675ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/fead0beaae8b8cb25bc24165c95c76701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/349c9f9b2fe853860fef8f5b7295190e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/625367d9dec1ee0ae1c76ff030647edd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/94e37137c2ae7779d7b46aab4da18f561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/9aa45968d868fb4bc387eb20aa206ad81.jpg"
+	]
+}

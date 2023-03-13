@@ -1,0 +1,95 @@
+{
+	"id": "6941820",
+	"name": "잡채 추석음식으로 필수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/b6cca954683af9af4084343c600138ac1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941820",
+	"ingredient_ids": [
+		302,
+		487,
+		3,
+		9,
+		22,
+		53,
+		379,
+		29,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "당면",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "2/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고운소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 말린표고는 불려주고 당근 피망 양파를 손질합니다.",
+		"2. 모든 재료는 채썰기하여 준비합니다.",
+		"3. 돼지고기는 기름없이 후추 소금으로 살짝 간을 하여 볶아요.",
+		"4. 나머지 야채들은 볶을 때 소금간을 아주 살짝씩만 하여 기름에 볶아놉니다.",
+		"5. 물(1.5L)이 끓으면 당면을 넣고 간장 1T 더하여 7~8분 더 삶아요.",
+		"6. 삶아진 면을 체에 받치고 달라붙지 않을 정도로만 찬물로 살짝 씻어요.",
+		"7. 넓은 웍에 물기 빠진 당면을 넣고 간장3T 참기름1 마늘1을 넣고 1~2분 정도 살짝 볶아줍니다. (식용유 조금 넣으면 잘 볶아져요)",
+		"8. 당면에 물기가 없고 윤이 나면 불을 끄고 나머지 재료를 모두 넣고 손으로 버무립니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/42357a1f7f7948006e9dce97d5a8214f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/91e3549b65d90ac258c520d9e23391f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/c854fcf6021cf12410f68b841ca6768b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/346584b03d44730e7711cdfcbd0d7fe31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/6f8846d88df92631a528bf75b518247f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/fede0595fefaab1423a3d34a63f4238b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/c18e8132c2f8d294f2bb3b00b030f6b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/3631eca5e93fc1f64c71f02fe7f870c11.jpg"
+	]
+}

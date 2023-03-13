@@ -1,0 +1,53 @@
+{
+	"id": "6941513",
+	"name": "찬란한 닭가슴살 장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/9f63ac24f1afdb8995154e1b528274021.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941513",
+	"ingredient_ids": [
+		300,
+		221,
+		608,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 1) 재료를 손질해요",
+		"2. 2) 후추 월계수 잎을 넣고 닭가슴살을 삶아요 * 후추 월계수 잎을 넣으면 잡내를 제거할 수 있어요",
+		"3. 3) 건더기가 반정도 잠길만큼 육수를 덜어내고 양념을 넣어요",
+		"4. 4) 메추리알과 손질한 재료를 넣고 조려요 * 고루 저어주어야 색깔이 고루 배여요",
+		"5. 5) 국물이 건더기의 1/3 정도 남으면 불을 꺼요"
+	],
+	"recipe_img": []
+}

@@ -1,0 +1,90 @@
+{
+	"id": "6944254",
+	"name": "제철 호박덮밥 맛있는 한그릇음식",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/15/39d2f2e5e0a871536e943876c84407ae1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944254",
+	"ingredient_ids": [
+		3,
+		660,
+		547,
+		939,
+		995,
+		543,
+		295
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "조선호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "송송썬파(or부추)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1.  분량의 양념장 재료를 모두 넣어 줍니다. 매운맛이 싫으시면 고추가루를 생략하셔서 담백하게 드셔도 좋습니다.                   ",
+		"2. 호박과 양파를 채를 썰어 줍니다. ",
+		"3. 움푹한 팬에 양파를 넣어 볶다 줍니다.                    ",
+		"4. 양파가 투명하게 익으면 호박을 넣어 줍니다. ",
+		"5. 호박을 살캉거리게 볶아줍니다. 너무 흐물거릴정도로 볶지는 않습니다. ",
+		"6. 분량의 양념장을 넣어 골고루 섞어가면서 볶아줍니다. ",
+		"7. 다 볶아지면 송송썬 부추나 파와 통깨, 참기름 1큰술을 넣어 섞어줍니다. 더욱 칼칼하게 드실거면 청양고추를 송송 썰어서 추가로 넣어줍니다.                   ",
+		"8. 그릇에 강황밥을 퍼 담아줍니다.",
+		"9. 밥위에 호박볶음을 적당량으로 올리고 송송 썬 부추를 고명처럼 올려주어서 초간단하게 완성된 #호박덮밥 이랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/aaeceb5cbb938cfb74666f1883d4cf1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/e7aecac4b17a995517f7975cad21d1ae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/6bcef5c17dc5a5bcfbe2398ed7b695e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/f9a4fe11a00d5f8a9b441561e664d7911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/78bb1ae088c2e329aa9603a484505f1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/f5c1d01e5f72b372ae58201b725a60b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/8e2c599b9bb81753301f83c08712e69b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/01cfc883e27bc50eb0726068bb1e101d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/b8bc3aa255485e510a9315ca7ab7ae7d1.jpg"
+	]
+}

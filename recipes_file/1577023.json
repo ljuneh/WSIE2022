@@ -1,0 +1,77 @@
+{
+	"id": "1577023",
+	"name": "따끈한 콩비지찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/f911b21e47c278ae6fa4b5512af227c6.jpg",
+	"url": "https://www.10000recipe.com/recipe/1577023",
+	"ingredient_ids": [
+		953,
+		487,
+		29,
+		224,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "콩",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김칫국물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 1.콩은 충분히 불려준 다음에 믹서기에 곱게 갈아준다. 콩껍질을 벗기기도 하는데 그냥 해도 상관은 없는것 같다.",
+		"2. 2.뚝배기에 돼지고기를 넣고 마늘 약간과 후추가루를 넣고 볶아준다. 고기는 덩어리 있는걸로 해도 되는데 씹히는게 싫어서 갈은 고기로 준비했다.",
+		"3. 3.고기가 볶아졌으면 김치를 썰어넣고 다시 한번 볶아준다.",
+		"4. 4.콩 갈아놓은 것과 물을 넣고 고추가루와 김치국물로 간을 맞춘다. 김치국물만 너무 넣으면 신맛이 강해지니까 소금으로 조금 간을 했다.",
+		"5. 5. 참기름도 약간 둘러주고 마지막엔 대파를 썰어넣고 마무리한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/29/03fc52f2bbd77904896d07a3f755b4541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/06/29/5f67bfd2b6256030490b0c5eb3bc8f401.jpg"
+	]
+}

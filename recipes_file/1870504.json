@@ -1,0 +1,73 @@
+{
+	"id": "1870504",
+	"name": "김장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/8290ca9c935c63d69af2e14e09417e5d.jpg",
+	"url": "https://www.10000recipe.com/recipe/1870504",
+	"ingredient_ids": [
+		95,
+		543,
+		379,
+		292,
+		3,
+		29,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김",
+			"ingre_count": "25",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시마우린물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "요리당",
+			"ingre_count": "0.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3~5개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "대"
+		}
+	],
+	"recipe": [
+		"1. 우선 김을 먹기 좋은크기로 짤라줍니다. 김한장을 8등분정도 하면 됩니다. 김밥용김 같은걸로 해야 풀어지지 않는답니다. 저는 재래김 잔뜩 사둔게 있어서 그걸로 했답니다. 돌김은 절대 안됩니다. 다 풀어져버려요.",
+		"2. 간장 1컵, 다시마우린물 1컵, 맛술 3큰술, 요리당 0.5컵, 양파 1/3개 굵직하게 채썰고 마늘 3~5개 정도 저며썰고 대파 흰부분만 준비하고 모든재료 한데섞어 보글보글 끓여줍니다. 너무 오래 끓이지 말고 끓어오르면 잠시만 더 끓여준뒤 불끄고 완전히 식혀줍니다.",
+		"3. 자른김은 통에 적당히 담고 통깨 사이 사이 뿌려주고 간장물 살살 부어주고 또 김담고 통깨 뿌려주고 간장물 부어주고 요렇게 김에 간장물이 골고루 베이도록 부어주면 끝. 냉장고에 넣어두고 하루정도 지난뒤부터 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/05d34d0493797922d9fb5b24d7e4202b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/7ece66e2d6a7fb1a62362cdc5811298f1.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/a6b7e581db3c27a155d79dbd6d97ca991.bmp"
+	]
+}

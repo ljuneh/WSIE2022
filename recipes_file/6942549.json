@@ -1,0 +1,84 @@
+{
+	"id": "6942549",
+	"name": "NO실패,생크림반죽케이크:생크림 남았다고 고민하지 마세요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/46cd33a5f1c0fda3f196728df8acdcff1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942549",
+	"ingredient_ids": [
+		234,
+		485,
+		226,
+		219,
+		373,
+		497,
+		546
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "바닐라익스트릭",
+			"ingre_count": "2",
+			"ingre_unit": "방울"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "슬라이스아몬드",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "초코칩",
+			"ingre_count": "",
+			"ingre_unit": "선택"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 토핑재료를 제외한 모든 재료를 볼에 담는다",
+		"2. 핸드블렌더로 1분 정도 돌려 반죽한다",
+		"3. 18~20센티 케잌틀에 반죽을 틀에 담는다",
+		"4. 슬라이스아몬드를 듬뿍 뿌린다",
+		"5. 180도로 예열된 오븐에서 45분 정도 굽는다,젓가락테스트 후 반죽이 묻어나지 않으면 꺼낸다오븐",
+		"6. 식힘망에 올려 한김 식으면 슈거파우더를 뿌린다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/87fe36cc68e7e8a301692272278ae02b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/2feea4a4ba68561d234b2543cfe15fbe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/b8e4b6198956c0a492a87fc623ca29371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/11864cc5d8104d4f6a87bb431e5f4ebe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/071fe08a7d0c890ef49cbd5bb112f0381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c14fc4d4075f09122b432a95e1ff13b71.jpg"
+	]
+}

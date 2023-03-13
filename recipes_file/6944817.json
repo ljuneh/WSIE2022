@@ -1,0 +1,84 @@
+{
+	"id": "6944817",
+	"name": "요즘이 적기, 솎음 무로 만든 총각 김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/b216868fc607f86e11790cd1d0a74a3a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944817",
+	"ingredient_ids": [
+		882,
+		333,
+		390,
+		224,
+		29,
+		158,
+		142,
+		282
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "총각무",
+			"ingre_count": "2",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "귤",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 총각무는 겉잎은 떼낸 후 쓱쓱 밀어 껍질을 벗겨 먹기 좋은 크기로 잘라준다.                   ",
+		"2. ㉡ 굵은소금 1/2컵은 물에 풀어 넣고 나머지 1/2컵은 뿌려 간을 한다.                   ",
+		"3. ㉢ 간이 들면 씻어 물을 빼둔다.                   ",
+		"4. ㉣ 사과, 배, 귤은 껍질을 벗겨 멸치 액젓, 새우젓을 넣고 갈아준다.                   ",
+		"5. ㉤ 마늘도 넣고 너무 많이 갈리지 않도록 준비한다.                   ",
+		"6. ㉥ 고춧가루를 넣고 양념장을 완성한다.                   ",
+		"7. ㉦ 물기뺀 총각무에 양념장을 넣고 잘 버무려준다.                     ",
+		"8. ㉧ 무청은 끓는 물에 삶아낸 후 소분하여 냉동실에 얼려둔다. *된장국, 시래기찜 만들어 먹으면 맛있어요.                     "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/2b0ecc37667783c4e01ae00cab714f4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/8597f27507b3299ba96ec6f8f0f5f3201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/18d140127fc6a0bef1d787c33a2722d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/5ea900e196c60634da7da4491cff11a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/24fdce49ba22ce0c0321559dec0363411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/a8c903d272c69073b9bfa5204850cc9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/396468b982f8869d87ee17b5ac5c59d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/e0370e5e56a5dcab50d2a3440b14c1821.jpg"
+	]
+}

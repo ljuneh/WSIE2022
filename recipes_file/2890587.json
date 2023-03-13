@@ -1,0 +1,68 @@
+{
+	"id": "2890587",
+	"name": "달콤 짭쪼름한 닭강정",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/ce27d23100903db9f6000678c4434e3c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/2890587",
+	"ingredient_ids": [
+		379,
+		227,
+		233,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭봉(500g)",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "윙(500g)",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "전분",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 구입하신 닭봉이나 윙은 찬물에 헹구신 뒤에 2-3개 칼집을 넣은뒤 우유에 30분 정도 재워 두세요. 잡내도 제거가 되고 살이 연해지거든요~",
+		"2. 우유에 재워두었던 닭은 체에 받치어 우유를 빼준뒤에 소금과 후추(혹은 간편하게 허브솔트)를 조금 뿌려 골고루 버무려 밑간을 해두었어요..",
+		"3. 밑간해둔 닭(500g)은 위생비닐에 전분 1/2컵과 함께 넣고 봉지 윗부분을 묶은뒤에 위아래로 흔들어 주신후 닭에 골고루 전분이 묻게 됩니다.  Tip. 전분을 묻히신 뒤에 바로 튀기지 말고 5-10분 정도 후에 기름에 넣고 튀기셔야 가루가 떨어지지 않고 맛있게 튀겨져요.",
+		"4. 넓은 냄비에 닭이 반쯤 잠기도록 기름을 부어 주신후 전분을 묻힌 닭을 넣어주세요. 저는 이번에 기름의 양이 살짝 많았어요~ 그래서 중간에 뒤집을 필요는 없었어요.",
+		"5. 뚜껑을 닫고 튀기시다가 15분쯤 지나 뚜껑을 열어 보신후에 아랫부분이 노릇하게 튀겨졌으면 뒤집은후 다시 뚜껑을 닫고 6-8분 정도 뒤에 다시 확인해 보신후 노릇하게 튀겨졌으면 완성 입니다.",
+		"6. 튀겨진 닭을 체에 받치어 잠시 기름을 빼는 사이 후라이팬에 닭강정 소스를 끓여 주세요.",
+		"7. 소스가 바글바글 끓으면 불을 끄시고 튀긴 닭을 넣으시고 재빨리 버무려 내시면 완성 입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/63342f14987d7e4920ca0308344c27161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/28181b7eb0af02b99a6f37d17d2759d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/49566a05170a86706ad74e1a4081aa4a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/f70f1222fa69e0e6b5cf55e91a9d84961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/f369ca986447902755ed95e6f34725b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/8a83d6a9620fcbf3a4910573b0dfc3961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/10/9e0c640a883d2651bd3342660fe9ffeb1.jpg"
+	]
+}

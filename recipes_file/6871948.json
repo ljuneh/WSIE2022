@@ -1,0 +1,75 @@
+{
+	"id": "6871948",
+	"name": "검은콩요리, 콩자반,부드러운콩조림 만들기.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/eca7fb8edf16d77602cf973e681a45a51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6871948",
+	"ingredient_ids": [
+		112,
+		90,
+		227,
+		226,
+		504
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "검은콩",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마른표고",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "4",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "집간장",
+			"ingre_count": "2",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "3",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 부드러운 검은콩조림을 할때는 하룻밤 푹 불려 주세요.",
+		"2. 물7컵에 다시마와 표고를 담가 둡니다. 물을 사용해도 되는데 다시마물을 사용하면 더 맛있어요.",
+		"3. 불린콩이 다시마물에 푹 잠기도록 부어 줍니다. 다시마물6컵 부었더니 푹 잠기더라구요. 센불로 끊이다가 약불로 줄이고 콩을 푹 삶아 줍니다. 끊이면서 거품은 걷어 내고, 콩물이 넘치지 안도록 약불로 20분쯤 끊여 줍니다.",
+		"4. 진간장,집간장,설탕을 넣고 조려주기 시작해요. 약불로 30분쯤 푹~~ 국물이 적다 싶으면 다시마물 추가해 주세요.",
+		"5. 콩이 푹 무르면 꿀 3수저를 넣고 조려 줍니다. 국물이 너무 많다 싶으면 중불로 수분을 날려 주시면 되요. 국물이 자작하다 싶으면 참깨 넣고 마무리해주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/d3608f300e01efca0baf712c5625438f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/1c9595b8d67d47f02326265570984b151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/ea10602620098848b743c8e0cf70e23e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/6407a81b765bfb7cf3d0aad9529be1e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/29/6090c0aa6d929b8591aa29081dab76ea1.jpg"
+	]
+}

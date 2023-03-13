@@ -1,0 +1,85 @@
+{
+	"id": "6945311",
+	"name": "밥도둑 깻잎찜만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/6bcd7f6ce04ea0efd4ffb7e9cdcab0701.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945311",
+	"ingredient_ids": [
+		15,
+		27,
+		9,
+		295,
+		379,
+		224,
+		938,
+		327,
+		350
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "6",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 깻잎은 깨끗이 씻어서  물기를 빼주세요",
+		"2. 대파 당근 청양고추는 쫑쫑쫑 썰어서 볼에 담아  준비해주세요 청양고추는 기호에 맞게 넣어주세요",
+		"3. 간장 물 고춧가루의 비율을 1:1:1로 잡고 매실청은 1/2만 넣어주세요",
+		"4. 들기름도 넣어주시고  깨소금도 톡톡~~ 들기름이 없다면 참기름도 좋습니다",
+		"5. 큰볼에 깻잎을 두장씩 깔고 만들어 놓은 양념장을  수저로 조금씩 떠서 바르듯 올려줍니다",
+		"6. 기왕이면 같은 방향으로  이쁘게 차곡차곡 쌓아주세요",
+		"7. 찜통에 찜기 올리고  냄비타니깐 물도 찰랑찰랑 넣고 양념 발라놓은 깻잎 볼 통째로 넣고 중불로 15분~20분정도 쪄주세요",
+		"8. 다른반찬 1도 없어도 느므느므느므 맛있는 깻잎찜 완성~~~~~~~ 깻잎찜 만드는날에는 밥도 넉넉하게 준비하셔야 할거에요ㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/8b72f69fd1f37fe26dab191a2ab8a0af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/5a76e297cb1449c1d33b2892e63723641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/606a683daa30d5924fe364d9e490e2de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/ce5c50dfb54d3581da49fe69753820b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/1a6862ada8cbdf8c590ff84678fe9c991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/d27b18848b958dd5710e19b4b5cad5501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/1737f5cf7d54d92b83a006d84d5d36601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/30/9386db1824ce39eb4af9dbbd1bf067a81.jpg"
+	]
+}

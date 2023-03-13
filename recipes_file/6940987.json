@@ -1,0 +1,64 @@
+{
+	"id": "6940987",
+	"name": "늙은호박 부침개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/44da51a72064f5247658ff7080ae38bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940987",
+	"ingredient_ids": [
+		355,
+		497,
+		234,
+		734,
+		995,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "늙은호박",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "뉴스가",
+			"ingre_count": "1/2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/3",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 전용채칼로 긁어내서 밥공기로 두공기택을 큰그릇에 담아놓습니다",
+		"2. 밀가루 반공기정도 넣어주며 뉴수가,소금,물을 넣어줍니다",
+		"3. 재료를 넣고 잘 섞어줍니다",
+		"4. 중불로 반죽을 넓게 펴서 구워주고 뒤집개로 뒤집어 주면 되요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/ebb85226905e0d5fa41e4688636a03cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/75dee7fb3a3c3e0a33a7d11d5ca9ed8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/0c259acffb74ea489efe10dd14d0dcee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/bfa84d549cb30f74dc31f2df95cc9efd1.jpg"
+	]
+}

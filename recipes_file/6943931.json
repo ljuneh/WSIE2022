@@ -1,0 +1,56 @@
+{
+	"id": "6943931",
+	"name": "물냉면 : 시원한 육수 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/793ed3369b66bd52dbb08ed9d44bf4951.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943931",
+	"ingredient_ids": [
+		231
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "냉면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "분말스프",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "사골국물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물겨자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 사골육수를 만들어 냉동실에 보관하고 냉면 먹을 때 사용하면 좋아요.",
+		"2. 사골육수에 시판 냉면에 들어 있는 분말 스프를 넣고 마늘가루를 넣어 맛을 한층 더 업그레이드 시켜 줬어요.",
+		"3. 육수를 만들어 냉동실에 보관하고 살얼음을 얼리면 훨씬 ~ 시원하고 맛난 물냉면을 즐길 수 있지요. 먹기직전에 식초와 물겨자를 넣어주면 맛있는 냉면육수 완성! (살얼음 얼릴 시간이 없다면 육수에 얼음을 갈아 넣어주는 방법도 있습니다) 냉동실 상태에 따라 시간은 다르므로 1시간 이상 상태를 체크해 주세요.",
+		"4. 사과(배 대신)와 집단무지(오이 대신) 계란을 고명으로 올려 주고 살얼음 살살~ 시원한 냉면 국물을 부어주면 시원한 물냉면 완성!",
+		"5. 살얼음 살살~ 시원한 물냉면 집에서 시판 냉면으로도 충분히 맛난맛 즐길 수 있습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b448bf6c98cce09a8df6eaf75c2de5031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/925c2d53afaf0b38aecbb3404d1f8e7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/3da2a5a1828192edaec5494b494968861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/450cd1943fb379a3604eeed166eaf03b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/9b51e0caed0bac480eec2555de27fab21.jpg"
+	]
+}

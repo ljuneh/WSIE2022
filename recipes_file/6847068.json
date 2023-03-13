@@ -1,0 +1,75 @@
+{
+	"id": "6847068",
+	"name": "지금이 제철, 쭈꾸미 샤브샤브",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/25/a896a8879683f50e96522acbe2ddec8b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847068",
+	"ingredient_ids": [
+		63,
+		1024,
+		3,
+		55,
+		665,
+		27,
+		90,
+		282
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쭈꾸미",
+			"ingre_count": "10-12마리",
+			"ingre_unit": "-마리"
+		},
+		{
+			"ingre_name": "쌈채소",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1-2대",
+			"ingre_unit": "-대"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 나른한 봄,  입맛과 기운을 돋워주는 충남 서천 봄쭈꾸미로  쭈꾸미 샤브샤브를 만들어 보아요~",
+		"2. 1. 쭈꾸미, 새조개를 밀가루와 굵은소금으로 문질러 씻어 뻘을 제거해 줍니다.",
+		"3. 2. 냄비에 물과 다시마, 참치액을 넣고 끓여 육수를 만들어 주세요. 3. 육수에 넣을 쌈채소, 양파, 버섯, 대파를 깨끗이 씻어 먹기 좋은 크기로 썰어주세요. 4. 육수에 준비한 채소를 넣어 익혀주세요.",
+		"4. 5. 채소의 숨이 어느정도 죽으면 쭈꾸미를 넣어주세요.",
+		"5. 6. 알이 가득 찬 봄철 쭈꾸미 샤브샤브를 즐겨주세요~ 알이 꽉찬 봄철 쭈꾸미의 고소함은 양보할 수 없어요~",
+		"6. 봄철 쭈꾸미는 간편하게 데쳐서 초고추장에 찍어드시거나 쭈꾸미구이, 쭈꾸미볶음으로 드셔도 맛있고, 탕으로 요리해 드셔도 좋습니다^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/25/ab7c72d894a18ff2c74521b568bf5c641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/25/d632bb82f204a552ee14ea6939d18d5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/25/de4c75442a35cdb927aeae94456a68bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/25/6552ff99e1cc96a3764828085ff0679f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/25/7c49937b4dd9520e4e6fb7d4b2b9b8701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/25/1309c0756a6abf2d13c9f286b8e4d9a01.jpg"
+	]
+}

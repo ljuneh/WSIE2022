@@ -1,0 +1,77 @@
+{
+	"id": "6943075",
+	"name": "추석 음식, 부드럽고 쉽게! 고사리나물 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/39bbf98c6f41c3970ac80af50cd24aee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943075",
+	"ingredient_ids": [
+		41,
+		333,
+		1015,
+		29,
+		505,
+		504,
+		660,
+		350
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "고사리",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 고사리는 물에 헹궈낸 후 쌀뜨물에 하룻밤 담가둔다.                       ",
+		"2. ㉡ 담가둔 물과 고사리를 압력솥에 넣고 삶아준다.                   ",
+		"3. ㉢ 치카치카 1분만 돌려준 후 불을 끄고 여열로 익혀준다.                   ",
+		"4. ㉣ 5분 정도 지난 후 씻어 물에 1시간 이상 담가 아린 맛을 없애준다.                   ",
+		"5. ㉤ 액젓, 마늘, 식용유, 참기름을 넣고 조물조물 무쳐둔다.                         ",
+		"6. ㉥ 무쳐둔 고사리를 육수를 넣고 볶아준다.                   ",
+		"7. ㉦ 썰어둔 실파를 넣고 볶은 후 참기름, 깨소금을 넣고 마무리한다.                     "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/71b168d9fbc7cbb5d3e8d5551074bda01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/d66a9ade350810986c7f2eef54ab10a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/26b6bc2726540e0237450033eea26d031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/159b4efa0bd3c02f26f6e3629662dcce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/39bbb4b77fbe2368306e9a5aa99b13e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/5120f35d716b9c9c2a5b070859f193b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/9dcb01ce115773c15b3602d5074e21e51.jpg"
+	]
+}

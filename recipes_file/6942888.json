@@ -1,0 +1,125 @@
+{
+	"id": "6942888",
+	"name": "비비고만두로만든 만두전골",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/eef49b0406d70d386a13e0a3ced993821.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942888",
+	"ingredient_ids": [
+		55,
+		20,
+		302,
+		27,
+		292,
+		320,
+		90,
+		853,
+		224,
+		939,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "만두",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "한우소고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "숙주나물",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당면",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 1,,만두 한봉지를 준비하고 야채들을 준비합니다.",
+		"2. 2,멸치와 물 1리터를 넣고 다시마도 2개넣고 15분끓여준후 육수룰 채에 내려 식혀줍니다.",
+		"3. 3,이제 한우 소고기에 밑간을 해야합니다 맛간장 1스푼 맛술1개 후추와 간마늘 반스푼을 넣어줍니다.",
+		"4. 4,모든야채랑 만두를 넣고 가운데 소고기를 가지런히 놓고요 육수룰 넣어줍니다. 육수눈 1리터의 물이 끓인상태라 많이 줄어있어요 그걸 다 넣어줍니다.",
+		"5. 5, 뚜껑을 닫고 3분끓여준후에요",
+		"6. 6, 매운 고추양념을 만듭니다. 진간장 반스푼 액젓 맛술 간마늘 반을 넣고 고춧가루를 불려준후 양념장으로 매운 전골용으로 사용합니다.",
+		"7. 7,매운 양념을 넣은거에요 아주 맛있어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/884a3f3273030596c50da076433a8d551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/11da36bc8446e3577a06b0abffcb670a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/9a574e3d1bb60369c156d4bab175e07a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/0433d56b4ebfefce88b5e8b4076fa0901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/9339001de73391b5a9a8a407e0b484381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/e303689b1e080bec0622eb9d4629a3cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/20c5fe1761148d8576dd968c26ffb4b41.jpg"
+	]
+}

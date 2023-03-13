@@ -1,0 +1,35 @@
+{
+	"id": "6880985",
+	"name": "그릇들아 이제 좀 떨어져라!!! 그릇떼기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/a46cfe0ecbf33a1468c593753d05a5231.png",
+	"url": "https://www.10000recipe.com/recipe/6880985",
+	"ingredient_ids": [],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "냉수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "온수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "큰볼",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 접시가 들어갈 수 있는 큰 볼에 온수를 붓는다.온수큰 볼",
+		"2. 붙은 그릇을 볼 안에 넣는다.그릇",
+		"3. 그릇 위에 냉수를 붓는다.냉수"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/c83828ba2be10f7fb2828ba3a51b62381.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/50a17e6a464aed3c9ef7dd035a3dbe981.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/7c19aed6c37be19a2599ed488b4ff8cf1.png"
+	]
+}

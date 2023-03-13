@@ -1,0 +1,60 @@
+{
+	"id": "6941597",
+	"name": "위에 좋은 양배추요리, 베이컨 양배추볶음 만들기.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/6c420584637eab30de69d94b6fb368631.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941597",
+	"ingredient_ids": [
+		289,
+		406,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추큰걸로",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "대파흰부분",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "굵은후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 모든 재료를 미리 썰어서 바로 사용할 수 있도록 준비를 해두었어요.",
+		"2. 올리브오일 적당히 두르고 파를 넣어 볶아주세요.",
+		"3. 볶은 파가 갈색으로 변할때쯤 베이컨과 맛살을 넣고 살짝 볶아요.",
+		"4. 양배추를 넣고 약간의 소금과 굵은 후추를 넣고 숨이 살짝 죽을때까지 볶아줍니다.",
+		"5. 마지막에 레몬 반개를 짜서 넣었습니다.",
+		"6. 맛살과 베이컨이 들어가 간은 걱정하지 않아도 되고 레몬이 들어가 느끼하지 않아요. 저는 레몬을 좋아해서 반개를 넣었지만 식성따라 맞추셔야 합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d40871709c313833289babeff93a25041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/27e7d18438204fad18d4fcd7f1c1d5f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/b4b8917b879450d9a1f86e4d7036768f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/6e3c4cea171f55e2bd4c253a1cd3e2bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/7bb12a4b80ed0904f0566bd5eab9d71e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/fd7379c95080fa3df976ade8790fb45a1.jpg"
+	]
+}

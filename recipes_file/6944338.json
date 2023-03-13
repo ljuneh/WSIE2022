@@ -1,0 +1,97 @@
+{
+	"id": "6944338",
+	"name": "비빔국수(망향비빔국수 스타일~:)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/bf81c7ad0a1e51ff59e54871303eaeae1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944338",
+	"ingredient_ids": [
+		523,
+		16,
+		3,
+		8,
+		9,
+		473,
+		224,
+		226,
+		231,
+		660,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "상추",
+			"ingre_count": "5~6장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요                     \r                             [주간특가] 심플아이콘 공기/대접/찬기/면기/머그 테이블웨어 24종 특가                          ",
+		"2. 일단 양념장 재료들부터 모두 섞어주세요 (다른 재료 준비하는 동안 좀 숙성되게요)",
+		"3. 냄비에 국수 삶을 물을 끓여주시고, 그 동안 야채를 손질해 주세요 (오이, 당근, 양파는 모두 채썰기, 상추는 큼직하게 손으로 뜯어주세요)상추와 양파정도는 넣어주시고 그 밖에는 집에 있는 야채들 이용하세요~^^",
+		"4. 물이 끓으면3분 30초~4분 30초동안 국수를 삶아주세요",
+		"5. 물이 끓어오르면 찬물 반컵을 부어주기를 두 번 반복해주세요면발이 탱글탱글해지게 하기 위함이예요",
+		"6. 삶은 국수를 찬물에 서너차례 헹구어 체에 받쳐 물기를 빼주세요",
+		"7. 건진 국수에 야채와 양념장을 둘러담은 후 냉면 육수를 부어주세요",
+		"8. 모든 재료가 잘 섞이게 비빈 후 완성그릇에 담아주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/386cf09f0b0ec4c57c8cc5aeb0db3fd51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/bd2f3daf5c7f41d70447f5e2470541591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/dff7f9f92c2fefd3ad3044246eb1a8901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/27b05fa6e420594a99d99e25e2ac27f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/ffa7c316e7ba81f1e3683116b7e3f2801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/eb21c9d25f129f6c477d4c719b7f53fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/2a7c658d286e640bc64eaec57cb9e46b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/1e6f6b0c346692f9a94191bad6e3b8e01.jpg"
+	]
+}

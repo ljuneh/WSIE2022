@@ -1,0 +1,95 @@
+{
+	"id": "6940173",
+	"name": "[네모김밥]참치마요 스팸무스비 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/2a85703cfd812c941bbc6bf761e4181d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940173",
+	"ingredient_ids": [
+		95,
+		659,
+		219,
+		15,
+		228,
+		497,
+		660,
+		290
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 밥 2공기에 소금, 참기름을 넣고 밑간 해주세요.소금 한꼬집, 참기름 1큰술, 깨 1작은술스팸에 짠맛이 있기 때문에 소금 간은 조금만 해주세요.",
+		"2. 참치는 체에 받쳐 기름을 빼고 마요네즈를 넣고 섞어주세요.마요네즈는 취향껏 넣어주세요 !",
+		"3. 스팸은 원하는 두께로 썰고 후라이팬에 구워주세요.",
+		"4. 달걀 3개는 풀어서 지단을 부치고 무스비 틀에 맞게 썰어주세요.약불무스비 틀은 다이소에서 구입했습니다 ! 없으시면 스팸 통에 랩을 씌워 사용해주세요.",
+		"5. 무스비 틀 아래 밥을 깔아주세요.  그 위에 깻잎, 참치마요를 올려주세요.",
+		"6. 달걀지단과 구운 스팸도 올려주세요.",
+		"7. 맨 위에 밥을 다시 펼쳐주세요.숟가락에 물을 묻히면 밥알이 달라붙지 않아요 ~",
+		"8. 무스비 뚜껑으로 꾹 눌러주세요.무스비 틀이 없으시면 스팸통에 랩을 깔고 눌러주세요.",
+		"9. 무스비 3~4개 정도 만들고 김은 세로로 절반 잘라주세요. 밥에 감싸 주세요.",
+		"10. 한입에 들어갈 수 있도록 1cm 두께로 썰어주세요.칼에 물이나 참기름을 발라 썰면 잘 썰려요 ~",
+		"11. 접시에 담아주면 완성 입니다 !"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/996b1ce1c5808bcd059aac6a6dfb85fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/dfe714b0dd0c194d4df6bb6a5cbdfd0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/647c9eb684c8a445aac2aed14dcdc1e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/0cf3c43f81b34a99f73a9382b5f52f591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/8ea54f6e0396621a3a83f44b44469e021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/df9d0bb7834f523185d50b440f3d815a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/ce43cfbffd030f99aa197d48d6af70671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/c0a4da98c7b019240e90e6db94906ab61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/7f69bb8d257c10a8d22c036215dcd4b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/84dc5719925e1ea2755f21a505ec05ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/ca67115c1815ff1ee20d4b888f7e26b41.jpg"
+	]
+}

@@ -1,0 +1,72 @@
+{
+	"id": "6944713",
+	"name": "백종원 참치주먹밥 간단하게 먹기 좋은 오니기리~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/5fed80d42fa24477f207eb38454c62a91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944713",
+	"ingredient_ids": [
+		659,
+		228,
+		543,
+		497,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "단무지다진것",
+			"ingre_count": "3",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "3",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "구운김",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 참치는 채에 받쳐서 기름기 쪽~ 빼주세요.                     \r                             전남생협 2019년 첫 수확 곱창 재래김 50매, 100매                          ",
+		"2. 단무지는 곱게 다져주세요.",
+		"3. 참치, 마요네즈, 단무지를 넣고 잘 섞어주세요.  요렇게 하면 참치샐러드가 되어서그냥 먹어도 맛있어요.                   ",
+		"4. 고슬고슬하게 지은 밥에참기름 1숟갈, 소금약간, 통깨 약간 넣고 잘 섞어주세요.                   ",
+		"5. 삼각김밥틀에 랩 깔고~밥 올리고 참치샐러드 1숟갈 넣고 꼭꼭 눌러주고,다시 밥 올리고 꾹꾹 눌러주세요.                     ",
+		"6. 마지막으로 구운김을 주먹밥 아랫부분에 감싸주면 참치오니기리 만들기 끝!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/0edea4f6e8b30e3de156b18c41b74d5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/105d28c5f98aa6d1093ad3a479e2d5261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/fb4c93085f40f3e90a0ca915a368097d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/9a62040958e5eda00cd3de3b744c639c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/3ba59999f957931fba180309e56f7c7f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/a814b4374f508f89fdb4fb23c99419271.jpg"
+	]
+}

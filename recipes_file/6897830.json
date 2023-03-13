@@ -1,0 +1,95 @@
+{
+	"id": "6897830",
+	"name": "전복죽(내장넣어서만들기)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/774aa5b762771e3313b36eba208a78cb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6897830",
+	"ingredient_ids": [
+		86,
+		99,
+		9,
+		3,
+		1000,
+		379,
+		497,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "전복",
+			"ingre_count": "6",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "닭육수",
+			"ingre_count": "4",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 살아있는 싱싱한 전복으로 구입 합니다",
+		"2. 전복은 위와옆에 검은부분을 솔로 깨끗이 씻어 줘야 합니다 완전 힘들어요 ㅠㅠ 위 사진과 비교가 되나요 하얀색으로 변했지요 ㅎㅎ",
+		"3. 어른숟가락으로 얕은쪽에서 깊은쪽 으로 찔러 넣어주어서 껍질을 분리 해 주세요. 이빨도 제거 해 주시고요 내장이 터지지 않도록 조심 합니다 내장과 분리 해 주세요",
+		"4. 깨끗이 손질된 전복은 잘게 썰어 주세요",
+		"5. 내장은 가위로 잘랐어요",
+		"6. 당근,양파도 잘게 썰어 준비 하시고요",
+		"7. 달구어진 팬에 참기름 한 방울 넣고 중불에서 전복 내장을 볶아 줍니다",
+		"8. 당근,양파도 넣으시고 중불에서 달달 볶아 주세요",
+		"9. 잘게 썰어놓은 전복도 넣으시고요",
+		"10. 찹쌀은 1시간정도 불려 놓습니다",
+		"11. 야체와전복이 어느정도 익었으니 불려놓은 찹쌀도 넣어주시고요",
+		"12. 바닥에 눌어붙지 않도록 중불에서 나무 주걱으로 골고루 저어 주세요",
+		"13. 닭 육수 물 입니다 *다시마 물로 넣어도 됩니다",
+		"14. 야체와 전복,불린 찹쌀을 눌지 않도록 볶아준후 닭 육수를 부어 끓여 줍니다",
+		"15. 쌀알이 퍼질때까지 끓여 줍니다 전복이 짭쪼름한 맛이 있어 다 끓이고 나서 부족한 간은 소금으로 넣어 주세요",
+		"16. 전복이 졸깃졸깃한 맛과 그 향이 어찌나 느낌이 좋은지 먹어보지 않고는 표현으로 어렵네요 ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/c87e1a6ead6e3162ef0f518477974f811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/5b8dd0bca229ed8fe8e39037d74b43d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/8bf74c56baf909f68cffca8f7f61c7f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/536c851ef74629c0fb16461447a126ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/b4afe354d41305404de4ebc37f956bfe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/51cb4205b55fed02f20964a3e3e3ee781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/0b7ce3b5c6a25d59fbd07db50f63d9d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/d777ac0c26f93470fc8e5488612578c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/1ce354e1f86b3b17da36c45fc6f87d7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/4cb172ad6b184327809ad1a2482a42721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/f91a59bff4f29836ba2fbd8f10177bce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/9211179da90b4d71722097f7fd21b25c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/cb406e36aa7f8ce5f87e0f98725eff361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/1db58b328d0351b71563489a4ae777491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/223b1b1fc0d0cfdccde11b34efc60a4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/14/3a3dc41c26c5fd212d09b4711d96d57b1.jpg"
+	]
+}

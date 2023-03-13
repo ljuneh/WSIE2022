@@ -1,0 +1,67 @@
+{
+	"id": "6894538",
+	"name": "바쁜 아침 5분 뚝딱 !맛보장 '참치계란간장밥'레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/ed4298f7c819d1e00986c53c6b5e3e0f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6894538",
+	"ingredient_ids": [
+		659,
+		27,
+		379,
+		660,
+		290
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.5~2T",
+			"ingre_unit": ".~T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 볼에 계란2개, 참치 2T 넣고 대파는 가위로 쫑쫑 썰어 줍니다.T:성인 숟가락 기준",
+		"2. 계란과 참치, 대파를 골고루 잘 섞어 줍니다. 이따 간장으로 간을 할 거라서 따로 소금간은 하지 않으셔도 됩니다.",
+		"3. 달궈진 팬에 기름 살짝 두르고 방금 만든 참치계란물로 스크램블 에그를 만듭니다.",
+		"4. 넓은 그릇에 밥1공기,방금 만든 스크럼블 에그 간장, 참기름,깨를 넣고 잘 비벼주시면 끝!",
+		"5. 바쁜 출근길 한끼 식사로 추천 드리고 싶은 초초간단 '참치계란간장밥'완성입니다.",
+		"6. 한입 먹어보니 참치와, 깨, 참기름의 고소한 맛에 대파향이 어우러져 넘 맛있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/5cdfd7e49ba38827e2f633027b6f9ec31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/d17d0501029e9349c75a925f2e348ed91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/d02fcfa6632bbf7bff0aa7304067a8ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/c081b6fa7803f64232127c632e7ec0401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/e558b6c55ebb9a4560d172cefacd4f681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/08/22/4d9e7b282fdef8a0d3b283ed20b975211.jpg"
+	]
+}

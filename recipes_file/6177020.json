@@ -1,0 +1,44 @@
+{
+	"id": "6177020",
+	"name": "콩물 만드는법 ,콩비리지않게 삶는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/04/04/6fd9541601f93411ba5d3416865f32611.jpg",
+	"url": "https://www.10000recipe.com/recipe/6177020",
+	"ingredient_ids": [
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "불린콩",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.5~2컵",
+			"ingre_unit": ".~컵"
+		}
+	],
+	"recipe": [
+		"1. 콩은 씻어서 넉넉한 물을 붓고 하루밤 불린다 최소한 6시간 정도 불리세요~",
+		"2. 콩 불린물에서 콩깍지를 까요~  손으로 비벼 쉽게 까질 때 까지 불려야해요~",
+		"3. 껍질 벗긴 콩은 다시 씻어서 쿠커에 담고 넉넉한 물을 넣어 삶아요",
+		"4. 콩은 살짝 익혀야 고소하구요~  삶으며 시간을 재보니 3분정도가 딱 좋네요~ 4분은 넘지않게 삶으세요~",
+		"5. 삶은 후에 콩껍질이 더 잘 벗겨지네요~",
+		"6. 믹서에 콩한 컵에 물 1.5~2컵 넣고 아주 곱게 갈아요~",
+		"7. 아주 고운 2중채에 콩물을 바쳐요~  남은 콩은 한번 더 갈아서 바쳤어요~",
+		"8. 남은 콩은 비닐에 담아 냉동보관~  비지는 비지찌개 만들거예요~",
+		"9. 아주 맑고 고소한 콩물 냉장고에 넣어두면 며칠을 괜찮아요~  그래도 빨리 그날 갈아서 그날 먹는게 좋답니다:)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/04/c6a7f696075ec4ffda9e0f3252deddc61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/04/ff506c9e09585c36659c72889befc9e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/04/774969109d489220d4687c62b50debae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/04/a01aee84528db12b08f1db1ea78fe26b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/04/824ae538d5110492120d3c07850c76041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/04/afa29174bbf6af932faa216181410b161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/04/f01c64da30b9ae4de9e5601db63ed3d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/04/839ccfec1d4c912093c0ffa5fd0222951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/04/04/bf9162832e5390771a363ec863bc709b1.jpg"
+	]
+}

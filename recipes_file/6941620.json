@@ -1,0 +1,86 @@
+{
+	"id": "6941620",
+	"name": "경기미로 만든 약식선물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/fb235c83f2fdbf05ecd29f1cc5c738e71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941620",
+	"ingredient_ids": [
+		132,
+		187,
+		188,
+		194,
+		478,
+		319,
+		660,
+		497,
+		471,
+		99
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "경기미쌀",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "잣",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "1",
+			"ingre_unit": "웅큼씩"
+		},
+		{
+			"ingre_name": "흑설탕",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "메이플시럽",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계피가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "1",
+			"ingre_unit": "웅큼"
+		}
+	],
+	"recipe": [
+		"1. 1. 하루동안 담가 불린 경기미를 물을 빼서 준비한다. 2. 불린찹쌀을 약간 섞어준다.",
+		"2. 2. 대추는 돌려깍기, 밤은 껍질벗겨 4등분, 호두나 견과류는 부순다. 3. 대추씨와 대추 몇개를 넣고 물을 넣어 끓여둔다. 4. 팬에 3의 물,설탕을 넣고 약불에서 카라멜시럽을 만든다. 5. 모든 재료와 소금을 조금 넣어 전기밥통에 넣고 취사한다.",
+		"3. 6. 더운 김이 빠진 뒤, 랩으로 싼다. 7. 알맞은 상자에 담아 선물을 구성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/baeffc4c1bc251de80f3c41e3ad1197f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/ec5a0621abff47262df67ac16176d6c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/17fa1534530f5c9a4818d31b49407c6d1.jpg"
+	]
+}

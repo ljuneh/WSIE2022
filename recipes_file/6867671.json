@@ -1,0 +1,44 @@
+{
+	"id": "6867671",
+	"name": "시원하게 탁 터지는 맛이 짱짱맨乃 자몽에이드",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/30/fd39d9d637131a555454d1dde23985421.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867671",
+	"ingredient_ids": [
+		180,
+		442,
+		590
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "자몽",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사이다",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "1",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "애플민트",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 자몽은 깨끗이 씻은 뒤 껍질과 씨를 제거하여 과육만 준비한다.자몽 1/2개",
+		"2. 컵에 자몽을 넣고 숟가락을 이용해 즙을 낸다.",
+		"3. 2에 얼음을 넣고 사이다를 부어 완성한다.사이다 1캔, 얼음 1cup [선택재료] 애플민트 약간"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/30/05c633181262797a483349e1d87e55c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/30/e4e4222dc8642476451ad0e8317b8c501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/30/8f508df6996be379312dcaa4a8f7556b1.jpg"
+	]
+}

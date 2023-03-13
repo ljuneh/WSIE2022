@@ -1,0 +1,102 @@
+{
+	"id": "6912915",
+	"name": "오이무침인가? 오이소박이인가? 감칠맛이 예술인 액젓 오이 무침~^^",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/05/24/5b425c29773565530ec2c3e6ffdf6a851.jpg",
+	"url": "https://www.10000recipe.com/recipe/6912915",
+	"ingredient_ids": [
+		8,
+		30,
+		27,
+		9,
+		224,
+		226,
+		939,
+		29,
+		543,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간만"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "생강또는생강가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 잘 씻은 오이는 길이로 4등분을 한 뒤 먹기 좋은 크기로 썰어 주세요.오이는 칼등을 이용해 씨를 제거하거나 소금으로 문질러 깨끗히 씻어주세요.",
+		"2. 볼에 오이를 담고 꽃소금을 크게 한스푼(25g) 정도 넣어 고루 섞은 뒤 잠깐만 절여주세요.",
+		"3. 오이를 절이는 사이 대파는 송송썰어 준비해 주시고,",
+		"4. 부추는 오이길이 정도로 잘라주세요.",
+		"5. 오이가 절여져 표면에 수분이 좀 생긴다 싶을때 오이를 씻어서 채에 받쳐 물기를 빼주세요.오이 절이는 시간은 10분 정도면 충분해요. 너무 오래절이지 말고 씻기전에 먹어봐서 그닥 짜지 않으면 물로 헹구지 않고 바로 사용하세요. 많이 짤때는 물에 좀 담궜다가 사용하세요.",
+		"6. 물기빠진 오이에 먼저 고춧가루를 넣어주시고 버무려 주세요.고추가루를 먼저 넣고 버무려야 색이 곱게 나와요. ",
+		"7. 그다음 액젓과 마늘 생강을 넣고 버물버물~",
+		"8. 설탕을 조금 넣어야 감칠맛이 돌아요. 그러니 설탕 싫어도 한숟깔은 넣어주세요~ㅎㅎ",
+		"9. 양념장이 다 버무려 지고 나면 이때 부추와 대파, 당근을 넣고 다시한번 버물버물~~절이는 정도에 따라 간이 달라지니 이때 간을 보세요. 혹시 싱겁다면 이제부턴 소금으로 간을 맞춰주세요. ",
+		"10. 마지막으로 통깨를 양껏 넣으시고 마무리해 주세요 ^^",
+		"11. 젓갈이 들어가 훨씬 맛이 풍부한 오이무침 완성입니다.새콤달콤한 오이무침을 원하신다면 여기에 식초넣고 설탕도 약간만 더 넣으시면 또다른 오이무침이 됩니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/24/9faee93cf026e1ff469b6b1c522aee361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/24/1483eafd3e9dc77ecefbb7b683de32ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/24/d8663b45a0669efb6957a50ccd9f8ad11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/24/378b81bbf8a69658967146ad02064a151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/24/94141810749d3373e886de8b948932ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/24/f11b7baa3845825a9ddecf503f4a7f111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/24/3e0d14e74458a4212ee4b29f478cc4491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/24/a48c3fe0f007e658079fb274f4482ed91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/24/644c279f501968a7ab64f2ad95d5ee6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/29/19c4ded99c0525405862c9dfa81585351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/05/29/baa7df61910f078e4a5b15b9403571da1.jpg"
+	]
+}

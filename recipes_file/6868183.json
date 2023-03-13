@@ -1,0 +1,102 @@
+{
+	"id": "6868183",
+	"name": "애호박 만두",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/04/10/29b8c6c3fe81b4c50d620a2bb7498e031.jpg",
+	"url": "https://www.10000recipe.com/recipe/6868183",
+	"ingredient_ids": [
+		7,
+		323,
+		3,
+		9,
+		29,
+		225,
+		660,
+		379,
+		497,
+		286
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/4",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "불린표고",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "돼지고기간것",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "만두피",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. ﻿﻿시판되는 만두피를 사용해도 되지만, 밀가루에 소금 약간, 식용유 한두 방울을 섞어 된반죽해서 원형으로 만두피를 직접 만들어도 좋아요.",
+		"2. 만두소 준비 애호박은 채썰어 소금에 살짝 절였다 꼭짜서 살짝 볶아 놓으세요.  돼지고기는 마늘, 후춧가루, 파, 간장으로 밑간하세요. ﻿불린 표고는 다져서 간장, 후춧가루, 참기름으로 조물조물 해놓으셨다가 살짝 볶아두세요. 양파와 당근은 굵게 다져놓으세요. 두부는 물기를 제거한 후 으깨 놓으시구요.",
+		"3. 준비된 재료를 모두 혼합하여 소금 약간과 참기름과 참깨를 넣고 만두소를 만들어놓으세요.",
+		"4. ﻿만두피에 만두소를 넣고 예쁘게 만두를 빚으세요.",
+		"5. 끓는 찜솥에 만두를 넣고 12~15분 정도 찌면 맛있는 찐만두~",
+		"6. ﻿맛있는 육수 내서 만두를 넣으면 맛있는 만둣국이 완성된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/10/7f5d6cf14672495ceb6bd608aa1cdefa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/10/24eeaeb58fd017ac2451a04567b5cfd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/10/5c5548f24ab4dd8d8a202a61f78bfcad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/10/732845275db761fb05ae408799e4c07c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/10/548df230a68ca4ee54ec5a676024a9251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/04/10/628fdd8ba151b71585d88031ff15d0521.jpg"
+	]
+}

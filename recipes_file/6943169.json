@@ -1,0 +1,110 @@
+{
+	"id": "6943169",
+	"name": "LA갈비 추석요리에서 빠질 수 없죠?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/6fa8654e3b2f783e250e3f7a2d0c83ee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943169",
+	"ingredient_ids": [
+		3,
+		142,
+		158,
+		379,
+		292,
+		226,
+		29,
+		28,
+		660,
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "LA갈비",
+			"ingre_count": "2",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "대파흰부분",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. LA갈비는 깨끗이 여러번 씻어서 뼛조각을 없앱니다.",
+		"2. 설탕 2/3숟가락 넣어 녹인 물에 고기를 담가 30분 정도 핏물을 우려냅니다.",
+		"3. 양파 사과 배는 믹서기에 갈아서 준비합니다.",
+		"4. 갈은 3)에 분량의 간장 맛술 설탕을 섞어요.",
+		"5. 4)에 마늘 후추 생강을 넣어요.",
+		"6. 5)에 대파 흰부분과 참기름을 넣고 마지막에 물을 붓고 섞어줍니다.",
+		"7. 핏물을 뺀 갈비는 잠시 받쳐두어 물기를 뺍니다.",
+		"8. 켜켜이 양념장을 끼얹어 골고루 양념이 베도록 하여 밀폐용기에 담아 냉장고에서 8시간~하루 숙성시킵니다.",
+		"9. 넓은 팬에 갈비를 깔고 양념을 자작하게 붓고 중불에서 앞 뒤로 노릇하게 구워냅니다.",
+		"10. 10분 정도 익힌 후 가위로 자르고 약불에서 잠시 졸이다시피 구우면 먹음직스런 갈색빛을 띱니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/f4529b649a532c9620bd18e7a2a588b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/4ea3f0423259d558f49e2beb7241e8551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/6f6bb59a4681fb411e1366fd46c138111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/4d202800e2f917604b326d6cb36dd9a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/5e224c241071b846cf813305cb7a42b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/3c84f3774244d4e5b6d6b6fe49c385211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/235187016379cdf5386f748b688e7b151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/8088367baf5c5efd4ef419c76db71e191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/dd6419a42d5af5287f59ee473c78b0b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/6aab4246ce332959e8302fefa6fa82781.jpg"
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"id": "6863267",
+	"name": "향긋한 미나리무침 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/099862a72ddaecfbdb39715f965286cf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863267",
+	"ingredient_ids": [
+		20,
+		233,
+		497,
+		379,
+		843,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참깨",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		}
+	],
+	"recipe": [
+		"1. 미나리를 흐르는물에 잘 여러차례 헹궈내주세요.",
+		"2. 팔팔 끓는물에 소금 소금 반스푼 넣고 미나리의 잎파리 부분을 잡아 줄기먼저 30초 정도 데쳐주세요.",
+		"3. 그리고 모두 넣어서 30초 더 데쳐주세요.",
+		"4. 데쳐진 미나리를 건져내 찬물에 빠르게 헹궈주세요.",
+		"5. 물기를 최대한 꾹~짜낸 미나리를 먹기좋게 듬성듬성 잘라주고",
+		"6. 볼에 담아 다진마늘 한스푼",
+		"7. 간장 한스푼",
+		"8. 참기름 한스푼",
+		"9. 매실액 한스푼 그리고 깨 솔솔 뿌려서 조물조물 버무려 줍니다. 맛보시고 부족한 간은 소금으로 해주셔야 맛이 깔끔해요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/48827a1ffbfbeadc757121be30f72e9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/f8a93be280438d432899884c752de4651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/16a08df50ecb493080177853f01d5c851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/755391b98a8aefd494d9c00bfbb155001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/e59455a537be22ae12dfc61f394f724e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/0c6a19548872ed469516e810b0d8e8f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/65e11994f72b9b60e277c01311becd841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/3faf4dc2229f196d186d02201dd8d8191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/30/0be1ecf4c79766ebbd9324b85b7125a81.jpg"
+	]
+}

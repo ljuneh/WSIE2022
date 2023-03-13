@@ -1,0 +1,102 @@
+{
+	"id": "1651984",
+	"name": "집에서도 맛있게 즐기는 자장라이스, 자장면",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/29/584e81727a012b7691469eb9b399acac.jpg",
+	"url": "https://www.10000recipe.com/recipe/1651984",
+	"ingredient_ids": [
+		27,
+		487,
+		504,
+		660,
+		846,
+		497,
+		526,
+		458
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자(중)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파(중)",
+			"ingre_count": "2.",
+			"ingre_unit": ".개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물1+1/3컵",
+			"ingre_count": "1+1/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "녹말물",
+			"ingre_count": "3~4큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "3~5큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "생강즙",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기는 적당한 핏물을 빼준후 청주와 소금,후추로 밑간을 해둡니다. 모든 야채는 같은 사이즈의 크기로 썰어 준비를 해둡니다. 자장에 들어가는 재료는 그다지 크게 구애받지 않으셔도 되요. 그저 집에 있는 야채를 사용하시면 되겠어요.",
+		"2. 춘장을 넉넉한 기름에 약 10분간 튀기듯이 볶아줍니다. 그리고 체에 걸러 기름을 쪽 빼주도록 합니다.",
+		"3. 팬에 오일을 두르고 대파와 양파를 먼저 볶아줍니다. 그래야 양파의 향이 우러나와 더욱 맛있는 자장이 만들어 진답니다. 그리고 여기에 나머지 야채인 감자, 돼지고기, 당근을 넣어 볶아줍니다.",
+		"4. 야채가 볶아지면 여기에 볶아둔 춘장을 넣어 줍니다. 그리고 준비해둔 물을 넣어 팔팔 끓여줍니다. 설탕을 넣어 당도를 맞춰줍니다.",
+		"5. 감자가 익으면 여기에 양배추를 넣어줍니다. 녹말물을 넣어 농도를 조절해 줍니다.",
+		"6. 감자가 익고 걸죽한 농도의 자장소스가 완성이 되었으면 불에서 꺼주시면 됩니다.",
+		"7. 준비한 밥이나 면에 얹어드시면됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/1e4d14e145115eef7cec8bc4a127ea9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/a06b79a74e2f49ba4f69d3227c80f5311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/09a9499915c2fb742af794d9e8e5fc541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/bcb3710aab23f3e4aa7f078cc38f7d9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/fbad5d265f6a328a83013e59f578bf211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/8e36f971995d601917b4d32b56e21e101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/99daba9dc7a9602b107c26071ee872291.jpg"
+	]
+}

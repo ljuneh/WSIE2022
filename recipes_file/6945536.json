@@ -1,0 +1,99 @@
+{
+	"id": "6945536",
+	"name": "칼제비 만들기 칼국수 수제비 한번에 먹기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/a98c68c45690fab5d25fa4366eec52dc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945536",
+	"ingredient_ids": [
+		5,
+		325,
+		328,
+		9,
+		295,
+		90,
+		349,
+		579
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "칼국수면",
+			"ingre_count": "4~5인분",
+			"ingre_unit": "~인분"
+		},
+		{
+			"ingre_name": "수제비",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "단호박",
+			"ingre_count": "4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파(or영양부추)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국멸치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 칼국수면과 수제비는 다양하게 나와있는 제품으로 편하게 만들었어요.",
+		"2. 감자와 단호박은 먹기 좋은 크기로 납작하게 썰어주고, 호박과 당근은 채를 썰고 청양고추는 송송 썰어서 준비합니다. ",
+		"3. 물 7머그컵에 국멸치팩 2개와 다시마 6조각, 국간장 1큰술을 넣어 센불에서 팔팔 끓여주고 10분후에 건더기를 건져 줍니다.                   ",
+		"4. 감자를 먼저 넣고 끓여줍니다.                   ",
+		"5. 칼국수면과 수제비,단호박을 넣고 끓여 줍니다. 중간에 한번씩 긴 나무젓가락으로 저어주면서 끓여 줍니다.                      ",
+		"6. 면이 쫄깃하게 익으면 썰어 놓은 당근과 호박, 청양고추를 넣어 줍니다. ",
+		"7. 호박이 살캉거리게 익으면 다 익은거에요. 간은 따로 하지는 않았어요. 칼국수와 수제비 반죽에 간이 되어있어서 일단 끓여보고 기호에 맞게 넣어주심 되는데, 저는 따로 넣지는 않았어요. ",
+		"8. 후추를 톡톡 뿌려주고 그릇에 담아냅니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/08472ad2875683428fc46980f9352f821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/02c45ba495963e7f681de0921be831a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/78ec6800d9a6b8c24b39a325c1153b641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/4e3b51e62c1c07fb02574f868c74bfef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/2b7c8f78b9bfe8f6bfd6b31a07c3f1271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/40de36c2f92e8409f24917f94a2ad1681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/fe57fa12d30c99e3265a5ee8bc6e3e7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/1c2079203b0b0d06e665cf85f113de051.jpg"
+	]
+}

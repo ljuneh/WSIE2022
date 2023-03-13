@@ -1,0 +1,116 @@
+{
+	"id": "6943542",
+	"name": "백종원 고추장찌개 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/94b74c04d91f15c92fd75598e89b3f931.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943542",
+	"ingredient_ids": [
+		660,
+		504,
+		473,
+		224,
+		379,
+		5,
+		963,
+		27,
+		333,
+		56,
+		3,
+		295,
+		225,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대패삼겹살",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 야채들은 미리 손질해 준비해주세요.",
+		"2. 참기름과 식용유를 둘러준 뒤 고추장을 넣고 약불에서 타지않게 충분히 볶아주세요.",
+		"3. 볶아진 고추장에 고춧가루를 넣고 한번 섞어준 후 바로 물을 넣어주세요.",
+		"4. 감자를 먼저 넣고 끓여주세요.",
+		"5. 대패삼겹살, 간마늘, 국간장, 멸치액젓, 느타리버섯, 양파를 넣고 끓여주세요.",
+		"6. 감자가 충분히 익으면 청양고추, 대파, 후춧가루를 넣고 한소끔 끓여 완성해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/71d6ae40b35b2d22d98aa0113f3e0aaa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/659bb97218d1826b94e93d47931858981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/3691c507bc7e3ed2c33b9834581d17801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/46b6d9ae10a1b48650ab612b86c911c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/71b6ccbd78bcafff8249b7a9623b68411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/934aae34f1245228de6356f3ba45108f1.jpg"
+	]
+}

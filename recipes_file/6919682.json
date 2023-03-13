@@ -1,0 +1,80 @@
+{
+	"id": "6919682",
+	"name": "♥[신혼밥상] 아삭아삭 양배추 샐러드빵",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/09/26/d0a7a3fec4ca1a5eeb09f2e2f07ad38f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6919682",
+	"ingredient_ids": [
+		352,
+		21,
+		9,
+		8,
+		228,
+		226,
+		724,
+		291
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "모닝빵",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "2",
+			"ingre_unit": "밥공기"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3~4큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "머스타드",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 양배추랑 당근은 채칼을 이용해 얇게 얇게 오이도 얇게 썰어 준비.",
+		"2. 양배추 일반 밥공기 2그릇 기준에 마요네즈 3~4큰술, 머스타드소스 1큰술, 설탕 1스푼, 맛소금 한꼬집 생략가능!",
+		"3. 비벼주세요~",
+		"4. 모닝빵 중앙을 쓱쓱 잘라 오이 쏙쏙, 버무린 양배추 채우고 캐찹 쭈욱 뿌려주세요.",
+		"5. 맛있게 먹기 꿀팁! 슬라이스 햄 반 접어서 넣어 줘도 맛있음!",
+		"6. 아삭아삭 새콤달콤 건강하고 맛있는 샐러드빵! 우유 or 커피와 함께 든든한 아침식사*간식으로 최고!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/26/4201db8311c59c2f64fbab3bfe01f3061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/26/9e48a3fb5e19734ddfa834f26c09a25b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/26/7dbb43828027d96ef015ee30493dd72d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/26/0a4c402dc046880a13c8670ef9c87ae91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/10/03/ce03fd0aff4b1c92f0346cd87b45465e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/09/26/5a8d8d11bc98013cd25811e70fb116711.jpg"
+	]
+}

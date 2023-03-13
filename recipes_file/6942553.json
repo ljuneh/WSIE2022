@@ -1,0 +1,100 @@
+{
+	"id": "6942553",
+	"name": "써는 방법을 다르게 했을 뿐인데, 맛이 다르다고? 제철 감자로 다양하게 즐기는 감자전 3종 <동글감자전, 감자채전,",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c14c03b5cb64ad2c02f6525d178fecef1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942553",
+	"ingredient_ids": [
+		5,
+		234,
+		219,
+		432,
+		234,
+		432,
+		234,
+		432
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "요리에센스연두",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "감자중",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "요리에센스연두",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "감자중",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "요리에센스연두",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. [동글감자전 만드는 법 - 1]  껍질을 벗겨 두께 0.7cm로 썰고 연두로 버무립니다.",
+		"2. [동글감자전 만드는 법 - 2]  감자의 물기를 제거하고 밀가루 → 달걀물 순서로 입혀 예열된 팬에서 노릇노릇하게 익힙니다",
+		"3. [간 감자전 만드는 법 - 1]  껍질을 벗긴 감자를 강판에 갈고 밀가루, 연두를 섞습니다.",
+		"4. [간 감자전 만드는 법 - 2]  예열된 팬에 포도씨유를 두르고 반죽을 1스푼씩 떠 동그랗게 굽습니다.",
+		"5. [감자채전 만드는 법 - 1]  감자는 길이 5cm, 두께 0.2cm 정도로 얇게 채를 썰고 밀가루, 연두와 섞습니다.",
+		"6. [감자채전 만드는 법 - 2]  예열된 팬에 포도씨유를 두르고 약불로 줄여 얇게 펼쳐 굽습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/074d7f4717a4c897d8b2bf9742c84a981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/b77e84d7f224e080714006b34d2d5eec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/2283c74581e69345e1a867ad9fc7fb641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/957ffc911006be43e6b72cb2b6df303c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/405fcfa87504f6464b97845b1b7449da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/9d203a871ef09b36f697448a68043bca1.jpg"
+	]
+}

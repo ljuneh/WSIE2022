@@ -1,0 +1,78 @@
+{
+	"id": "6945662",
+	"name": "매콤한 팽이버섯 조림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/f97eb2d3327e2d70a4531ea264cd54051.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945662",
+	"ingredient_ids": [
+		55,
+		504,
+		543,
+		473,
+		226,
+		233,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료를 준비해주세요.",
+		"2. 팽이 버섯은 밑둥을 자르고 세척해서 준비해주세요.",
+		"3. 팽이버섯을 한 입크기의 덩어리로 분리해주세요.",
+		"4. 그릇에 양념소스를 만들어 잘 저어주세요. [양념소스재료] 고추장-1큰술, 진간장-1큰술, 설탕-1.5큰술, 다진마늘-1큰술, 물-2큰술",
+		"5. 팬에 식용유를 약간 두르고 팽이버섯을 강불로 앞뒤로 약 30초씩 구워 주세요.강불",
+		"6. 소스를 버섯위에 뿌려주세요.",
+		"7. 뒤적여서 소스가 베이게 해주세요",
+		"8. 통깨나 대파를 잘게다져 올려 주시면 비주얼은 더 좋아보여요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/a19e7d5fb981e56e07e26c64bccebf091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/5ab299e9928f01b0d513ed57ea2600c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/945de1486b316616ec3dc710e63168f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/4558318a2aae7a75e3458cce391225ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/cf48d4bdea781cbdfca9656c5698d4751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/f18fe18bdde4352341bf2dab04459b3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/2a9d073d90d08c249902b82966d22bb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/6d98f0a1cd5aa9d431b1547792d408eb1.jpg"
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"id": "6944858",
+	"name": "홈브런치 무화과 오픈샌드위치 맛있게~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/50539e9d5369a52c86bee32210901f771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944858",
+	"ingredient_ids": [
+		140,
+		503
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "무화과",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "잼",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "바나나크림치즈or커스터드크림",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "슈거파우더",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계절과일추가",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 무화과는 반을 가른뒤 3~4등분으로 썰어주고, 바나나도 도톰하게 썰고 포도는 알을 따서 준비했는데, 생략하셔도 되어요. ",
+		"2. 잼이나 크림치즈 또는 커스터드크림 등을 베이스로 준비합니다. 저는 수제로 만든 사과잼과 아들램이 만들어 놓은 커스터드크림으로 준비했어요.",
+		"3. 식빵은 토스터기에 넣고 노릇하게 구워줍니다. 바게트빵을 준비하셔도 좋습니다. ",
+		"4. 식빵을 2등분으로 썰어 줍니다. ",
+		"5. 한쪽은 잼을 바르고, 한쪽은 커스터드크림을 발라주었어요. 취향껏 기호에 맞게 발라주심 됩니다. ",
+		"6. 슬라이스한 바나나를 올려줍니다.",
+		"7. 바나나위에 무화과를 올리고 제철과일 포도를 곁들여 줍니다. 그 위에 슈거파우더를 뿌려 줍니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/3ffcf88d63de8d708ee01f3480a6818e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/b0253aa5efe150659d347f7c42b115f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/325f67dee710ad97f0df60237aef8d0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/33f776857e57fcec8bb6cf20b1e3b6a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/6e775069be28c0320332a9f2a8a8c5e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/54628fa13e78560476e1ab6800317e6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/f8e165506d467165f13160a00547c7371.jpg"
+	]
+}

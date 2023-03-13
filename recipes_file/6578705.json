@@ -1,0 +1,47 @@
+{
+	"id": "6578705",
+	"name": "식혜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/0aea1fc7a3b3e073904a865b4e103abf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6578705",
+	"ingredient_ids": [
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "엿기름",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고슬고슬지은밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		}
+	],
+	"recipe": [
+		"1. 엿기름을 용기에 담고 물을 엿기름이 흠뻑 젓고 불어도 마르지 않을 만큼 양의 물을 부어주고 고루 섞어줍니다. 두어 시간 후 엿기름이 불고 저어보면 색이 우윳빛으로 보입니다.",
+		"2. 첫 번째 먼저 큰 통에 소쿠리를 걸치고 불린 엿기름을 따라붓고 1차 거릅니다.",
+		"3. 엿기름 물을 꼭 짠 건더기에 새 물을 부어 손으로 박박 주물러 주면 뽀얀 엿기름물이 우러나옵니다. 2~3번 반복합니다.",
+		"4. 우유처럼 뽀얗던 엿기름 물이 두시간 정도 지나면 앙금은 가라앉고 맑은 물이 위로 뜨면 전기밥토에 살며시 따라 줍니다.",
+		"5. 고슬고슬 좀 되다 싶게 했던 밥으로 1 공기를 따라둔 엿기름 맑은 물에 함께 섞어주고 보온 밥통의 뚜껑을 덮습니다.",
+		"6. 4 시간 정도 지나서 뚜껑을 열어보니 이렇게 밥알이 동동 떴네요. 들통에 옮겨 다시 끓여 센 불에서 팔팔 끓이다 보면 거품이 생겨납니다 1차 거품을 살살 걷어냅니다.",
+		"7. 그리고 또 팔팔 끓여서 두 번째 거품을 걷어내고 설탕을 1컵을 넣어줍니다.",
+		"8. 세번까지 거품을 걷어내면 거품이 다시 생기지 않습니다. 원래의 엿기름 양에 물을 첨가하지 않았고요. 많은 양을 원하시면 물과 설탕을 더 넣어주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/bebeaf64cb890567635917c87f902a011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/79030957a42096f4c8d30150e3e1955b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/f02979b5789760729517fe7ae1a553971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/1fd8c699ba569174cb76eae49077ee061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/58448cdb83fd9eac5ec6ed752f9db7831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/e15aeaca6c81f026b372f80e089437351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/f088204aeb7988771a552ac022e958d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/22/4bf8710a7f69578a1667cad34aa73d6b1.jpg"
+	]
+}

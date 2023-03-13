@@ -1,0 +1,103 @@
+{
+	"id": "6940794",
+	"name": "파인애플을 통째로~파인애플 볶음밥 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/9315b7541035943d0c559ee6c984bd191.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940794",
+	"ingredient_ids": [
+		172,
+		867,
+		219,
+		22,
+		3,
+		53,
+		535,
+		497,
+		504,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "파인애플",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "새우살",
+			"ingre_count": "170",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피망",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "허브솔트",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 껍질과 내장을 빼고 살만 준비한 새우살을 굵직하게 자른 후 허브솔트를 넣고 버무려 밑간해둡니다.새우살170g, 허브솔트1/2작은술",
+		"2. 파인애플을 반으로 자른 후 칼로 속을 파내줍니다. 파낸 파인애플은 심을 제거한 후 굵직하게 다지고 숟가락으로 파인애플 속을 긁어내 준비합니다.파인애플1/2개칼, 숟가락",
+		"3. 달군 팬에 식용유를 두르고 간마늘을 볶아 향을 내줍니다.간마늘1큰술다진 마늘도 상관없어요~^^ ",
+		"4. 마늘향이 올라오면 다진 양파, 피망, 표고버섯을 넣어 볶아줍니다.다진 양파1/4개, 피망1개, 표고버섯4개",
+		"5. 채소가 익으면 밑간한 새우를 넣어 볶아줍니다.",
+		"6. 새우가 익으면 채소와 함께 한쪽에 몰아두고 다른 한쪽에 기름을 두른 후 계란을 깨뜨려 스크램블해줍니다.계란1개, 식용유1큰술젓가락",
+		"7. 스크램블이 완성되면 채소와 함께 볶아주고 긁어낸 파인애플과 다진 파인애플을 넣어 살짝 볶아줍니다.",
+		"8. 밥과 후춧가루, 소금을 넣어 볶아줍니다.밥1공기, 후춧가루 약간, 소금1/2 작은술",
+		"9. 속을 파낸 파인애플에 볶음밥을 담아줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/9b71cc66bb57b7db208fff1b8c3e60081.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/f82f79f673e9205b04096a4ef4dc02561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/7ff5052b6a5d2f3b58484dbe47b5a4b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/401cbe1ac01d77cbc4ddfa6665bdd2511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/8356ae09c087a1c3f4ff0b563259806b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/bf76334295c89cc0bf3e20c5dfdb00bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/34c0c3b61b72a3c2e4dc257812af90a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/f8fdbbcf1e7d4d15872a64f8c6bfd6421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/96a2c0a3510a50d813b4427bd057e1261.jpg"
+	]
+}

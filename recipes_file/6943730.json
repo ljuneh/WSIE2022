@@ -1,0 +1,65 @@
+{
+	"id": "6943730",
+	"name": "잔멸치볶음~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/9cd11f354dbb6183002ecc4943c41edd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943730",
+	"ingredient_ids": [
+		677,
+		379,
+		575,
+		543,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "잔멸치",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "땡초",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 통마늘 편 썰어 팬에 담고 기름을 두른 뒤 노릇노릇 볶아준다",
+		"2. 잔멸치 투하~ 땡초 썰어 넣고 간장,기름을 두르고",
+		"3. 슥슥슥~ 볶아주다가 올리고당을 넣고 볶아준다",
+		"4. 통깨 솔솔~ 뿌려",
+		"5. 휘리릭~ 볶아접시에 담아낸다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/df8a0d73c9e68126e2b6c17e8091df9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/631de0a40a42efae86d7abee42ea19ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/8f274088f9c7bb298f55bf1bd04315981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/76d52a9e9fa2350a5f2d8728b2efd36a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/67de8d8323f7bbd0dc6b41bea36070ad1.jpg"
+	]
+}

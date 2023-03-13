@@ -1,0 +1,85 @@
+{
+	"id": "6942046",
+	"name": "경기미 가와지 1호로 만든 스틱 주먹밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/0819349d4d29e37640b0ea1695999ddf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942046",
+	"ingredient_ids": [
+		96,
+		30,
+		497,
+		660,
+		290,
+		203,
+		379
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우엉조림",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "1.",
+			"ingre_unit": ".장"
+		},
+		{
+			"ingre_name": "소세지",
+			"ingre_count": "6",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 밥솥에 가와지 1호를 지어줍니다.",
+		"2. 그 사이에 끓는 물에 소금을 약간 넣고 부추를 20초 이내로 데쳐줍니다.소금 1t냄비푸릇한 색감을 위해 소금을 넣어줍니다. 부추는 오래 데치면 질겨지니 짧게 데쳐주세요.",
+		"3. 데친 부추와 우엉조림을 잘게 다져줍니다.더 식감있는 주먹밥을 원한다면 단무지나 당근 등 채소를 더 넣어주세요~",
+		"4. 끓는 물에 소세지를 데쳐준 뒤 물기를 제거합니다.",
+		"5. 다 지어진 밥에 깨, 소금, 참기름을 넣어 양념하고 다져두었던 재료들을 넣어줍니다.참깨를 많이 넣어주면 식감이 좋아져요/ 밥친구를 넣어도 좋아요~",
+		"6. 랩을 깔고 그 위에 만들어 놓은 밥을 얇게 펼쳐줍니다.뜨거운 밥보다 식힌 밥이 ",
+		"7. 체다치즈1/2와 소세지2개를 올려줍니다.과하게 재료를 넣어주면 안 말릴 수 있어요/체다치즈 대신 모짜렐라 치즈를 넣어도 좋아요/뽀드득 소세지를 사용하면 식감이 더 살겠죠?",
+		"8. 랩으로 말아 스틱모양으로 만들어줍니다.굽지 않고 랩에 싼 채로 야외에서 들고 먹기에도 좋아요~",
+		"9. 팬에 올린 뒤 약불로 굽다가 간장을 조금씩 끼얹고 한번 더 구워줍니다.약불우엉조림이 짤 경우 간장은 없어도 돼요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/d82f277a1c6995be7540a0c56475d5741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/26af057d00ebbfc0ae9c1a8d0dd60c9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/5f7a00f7145487baad92b48d0a3da5641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/d891d2c0a69d7c56c4ca3ad02c5d4c4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/7e9345cb29fd20165cdd32a551bc38e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/6affb4d0c9d6da676802201fb616bd501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/9aa9018e7b90c8157e0cce49fc84300f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/13753dfd292dcf530d7f5afd38c9168e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/c35265082f41883f5c0af6d85764ad6a1.jpg"
+	]
+}

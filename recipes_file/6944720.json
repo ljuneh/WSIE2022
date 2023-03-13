@@ -1,0 +1,85 @@
+{
+	"id": "6944720",
+	"name": "순두부에그인헬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/981006c5b350f94dfa3f0d2cbdec55cd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944720",
+	"ingredient_ids": [
+		498,
+		216,
+		219,
+		301,
+		497,
+		995,
+		757
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "순두부",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "각종야채",
+			"ingre_count": "",
+			"ingre_unit": "기호에맞게"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "닭안심",
+			"ingre_count": "5",
+			"ingre_unit": "덩어리"
+		},
+		{
+			"ingre_name": "로제소스",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 각종 야채를 준비한다.",
+		"2. 올리브도 좋아하신다면 추천요ㅋ",
+		"3. 재료를 팬에 넣고 소금으로 살짝 밑간하여 볶아준다.",
+		"4. 소스와 물을 넣고 끓여준다.",
+		"5. 순두부를 네등분해서 넣는다.",
+		"6. 달걀도 넣어준다.",
+		"7. 치즈를 올려준다.",
+		"8. 쪽파를 올려 뚜겅을 닫아 치즈랑 달걀을 살짝 익혀준다.",
+		"9. 애기들은 이렇게 밥이랑 같이 줬답니다^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/616a786e43557eb4e0db367b0d06fbf01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/721bb5ab93f8d8f05a3c3b24bade73511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/ecd1f34ab6052e7371cf55327120276a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/012209aff507d7682cc87bfa397fd6f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/35a30d0bdf3effce03388bbdb4125d2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/37970c6d3638c67e751073ee7efb79df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/1a3a4205ee6f19fe435541b3224d3fe71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/a5236870571fc1da6751702efec7787f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/21/9f2ddce5c443690c69d4ed03fcb303311.jpg"
+	]
+}

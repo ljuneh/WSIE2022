@@ -1,0 +1,71 @@
+{
+	"id": "6941888",
+	"name": "메추리알조림 오늘은 너로 정했다!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/926c1ce8bdc2962303a5db957f63db401.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941888",
+	"ingredient_ids": [
+		90,
+		995,
+		379,
+		226,
+		575
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "깐메추리알",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1.  전에는 메추리알을 사서 삶아서 했는데 지금은 깐메추리알 1봉지를 사 옵니다. 그 작은 알을 삶아서 껍질을 벗기고 있으면 내가 왜 이걸 사왔을까? 하는 생각이 들곤 하기도 하고 그 시간에 다른 걸 하지... 뭐 그런 생각이... 좀 더 비싸긴 하지만 삶고 껍질 벗기는 시간이 포함된 거라고 생각하면 또 그렇게 비싸지 않아요.",
+		"2.  물 2컵에 다시마와 통마늘 2개, 설탕 1T를 끓여줍니다.",
+		"3.  메추리알은 물에 헹군 후 물기를 빼줍니다.",
+		"4.  끓어오르면 다시마는 다 버리지 말고 조금 남겨서 채 썰어주세요. 나중에 메추리알조림의 고명으로 사용할 거랍니다.                   ",
+		"5.  이제 메추리알을 넣고 조려주면 됩니다. 물을 좀 많이 넣은듯하지만 센 불이 조리면 되니까요.                   ",
+		"6.  넣자마자 1번, 10분 후 2번, 20분 후 3번, 25분 후 4번 시간대별로 메추리알의 색상의 진하기가 다르죠? 중간보다 좀 더 센 불에서 조렸고요 마지막 5분은 중약불에서 조려줬습니다.                       ",
+		"7.  통마늘과 비교도 해봤어요. 10분, 20분, 25분입니다. 통마늘 2개를 넣었는데 25분이 되니 마늘 하나는 으깨졌더라고요.                     ",
+		"8.  마지막에는 올리고당 2T를 넣어서 윤기나게 넣어 본 메추리알조림입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/c4aaa9495e7e09be8b367c476aaed3f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/2fc64df37286beff206b88ef4f6b10911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/95bcae55dad41c600f144c36a70a773d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/e6197d0a70230a52e28098f91e598f1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/0379c78295136b359f6257e11f25be2f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/fa68c40a29a9bdf187851e62fecb55541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/7b81f9d3cd12432d1a4b2e57f7813b3f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/81e7fb7a367cec8c39175959a972274a1.jpg"
+	]
+}

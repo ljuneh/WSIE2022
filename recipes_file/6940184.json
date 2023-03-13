@@ -1,0 +1,88 @@
+{
+	"id": "6940184",
+	"name": "밥솥 치킨 스테이크 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/f57d5efc33cbb88718678f50f754afd81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940184",
+	"ingredient_ids": [
+		497,
+		292,
+		455,
+		660,
+		226,
+		198
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭고기정육",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 닭고기 정육은 허벅지살, 다리살을 펼친 것을 의미하는데요. 펼쳐진 것을 구입하셔도 되요. 이번에 직접 발골해보았어요. 껍데기가 있는 정육이 좋은데 껍질이 없어도 괜찮아요. 껍데기 있으시면 있는 채로 하세요 :) 닭다리 하나에서 나오는 정육이 150g정도 되더라고요",
+		"2. 닭다리를 안쪽을 위로 놓고",
+		"3. 뼈 위의 살을 가르면서",
+		"4. 뼈주위를 살과 떼어내세요",
+		"5. 최대한 두께를 일정하게끔 펼쳐줘서 반으로 자르고 키친타울로 물기를 제거해주세요. 한조각당 소금 한 꼬집씩 뿌리고 후추도 뿌려서 한시간정도 냉장고에 재워두세요.  *소스를 따로 만들꺼라 너무 짜지 않게 한꼬집씩만 뿌려주세요",
+		"6. 밥솥에 정육을 펼쳐놓고 재가열 9분해주세요. 껍질이 있을경우 껍질아래에 있는 지방이 녹아 기름이 나오도록 껍질있는 면을 아래로 해주세요",
+		"7. 재가열되는 동안 소스를 만들어주세요. 진간장 1.5T, 맛술 1T, 설탕1t, 생강가루 1/4t(혹은 다진 생강 1/2t), 참기름 1t, 버터 1t섞어주세요  *생강가루 생략하셔도 괜찮아요",
+		"8. 재가열이 다된 모습",
+		"9. 고기를 뒤집어주고서 소스를 위에 고루 부어주세요. 재가열 9분 해주세요",
+		"10. 다된 모습",
+		"11. 구운 고기를 뒤집어서 접시에 놓고 소스를 위에 부어주세요. 참깨나 다진파도 위에 뿌려서 맛있는 한끼 하세요 :)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/85d651cff0a81536c2f3137bce6626d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/5353c9b75f05f0f066ba92e05f502f1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/13cb780426d8dece032774b6f9f8d32e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/4f6ce8259e812dd6e3198b0ef554e84f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/4545676d664b04bd0df94fb47c28b05d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/6d0609caf7dc6114e9ff22de585c93441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/cf5c927196fde1806011d9094ef6f8271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/6b7d993d4cd54a81882da5c8e54200ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/030377f3a1d95454d041877fc7b7cc9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/80fef28277ac1d7b856a599e1d614b7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/ca4313c912b85cc57e563779d0ba4f151.jpg"
+	]
+}

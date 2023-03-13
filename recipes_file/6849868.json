@@ -1,0 +1,73 @@
+{
+	"id": "6849868",
+	"name": "고추장 고추잎나물 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/24/2ae1165f95c710abf4f602b7f140cec21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6849868",
+	"ingredient_ids": [
+		233,
+		27,
+		327,
+		543,
+		939
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고추잎",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장1+1/2스푼",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 고춧대를 연한 부분까지만 다듬어주세요.",
+		"2. 커피포트에 물을 끓여 부어주었어요.",
+		"3. 젓가락으로 몇 번 저어주세요.",
+		"4. 차가운 물로 여러 번 헹구어주었어요.",
+		"5. 다 데쳐졌어요.",
+		"6. 들기름 1스푼, 통깨",
+		"7. 고춧잎을 꼭 짜주고 나서 고춧잎 200g,  고추장1+1/2스푼, 다진 마늘 1/2스푼, 대파를 넣어주세요.",
+		"8. 조금 싱거운 것 같아 액젓 1/2스푼, 들기름 1스푼, 통깨를 넣고",
+		"9. 조물조물 무쳐주면 정말 고소하고 맛있는 나물 무침이 완성되었어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/24/238c3306470c07bdaf3c7325be1984e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/24/4246f2fe920df0a09f4ff5025cdb86c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/24/db746424e026ee8b443ab1f3fb0295061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/24/25f03941dc80bd9f0afaba23f11a6e511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/24/045e69a6a068804361fae49252e4cb061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/24/9ee18a29f90e0df93114a1e69f11eb3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/24/ca9dedf3d7690b5ba2a07fd0cd179c861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/24/a553698952358a02bec2fff046038f8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/24/d0389a54ef3f6884d96f5cfce20cb1491.jpg"
+	]
+}

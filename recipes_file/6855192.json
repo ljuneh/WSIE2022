@@ -1,0 +1,92 @@
+{
+	"id": "6855192",
+	"name": "맛동산 아직도 슈퍼에서 사먹니? 맛동산 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/23/893bd6f197a3a885e9b94d3bf2f1aaf81.png",
+	"url": "https://www.10000recipe.com/recipe/6855192",
+	"ingredient_ids": [
+		373,
+		497,
+		226,
+		226,
+		341,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밀가루2C(200g)",
+			"ingre_count": "2C(200g)",
+			"ingre_unit": "C(g)"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1/8",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물1/4C(50ml)",
+			"ingre_count": "1/4C(50ml)",
+			"ingre_unit": "C(ml)"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "포토씨유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진땅콩",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 밀가루2C과, 베이킹파우더1/8T, 설탕1T, 소금약간을 채에 쳐 내린다.",
+		"2. 채에 쳐 내린 재료에 계란1개, 포도씨유1T를 넣고 반죽을 한 후 20분간 휴지 시킨다.물 1/4C(50ml)",
+		"3. 도마 위에 밀가루를 약간 뿌리고 반죽을 약0.3cm 정도로 밀대로 민다.",
+		"4. 얇게 민 반죽을 약 가로4cm 세로2cm로 잘라 가운데 칼집을 넣어 가운데로 한쪽 끝을 돌려 준다.",
+		"5. 모양 잡은 반죽을 달군(약180도) 기름에 튀겨 낸다.중약불에 천천히 속까지 익혀야해요.",
+		"6. 팬에 소스재료를 넣고 젖지 않고 녹을 때까지 약불에 끓인다.소스재료: 설탕 4T, 물엿 1T, 물 5T팬",
+		"7. 튀겨낸 과자와 다진 땅콩2T를 소스에 넣고 재빨리 묻혀낸다.",
+		"8. 유산지를 깐 쟁반에 하나하나 잘 때어 잠시 식혀 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/23/5b9fea56afb8187f9375eb6f1874db091.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/23/b17493b9097feb2bd8bf5758f6ed26a51.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/23/e54fa39007cf4089d389cc6a62f42be41.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/23/208a6141640bdb80b6fd20e7f114db6b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/23/6903b327211289f4eeb1749017c62e451.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/23/12d5d18e633ff65345e5cf6a25dc4af71.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/23/07ce388cc389b4b028aeb73d1712d6571.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/23/b28b063c16af79b4dddfc0a0921850d51.png"
+	]
+}

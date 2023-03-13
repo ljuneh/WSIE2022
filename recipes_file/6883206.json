@@ -1,0 +1,74 @@
+{
+	"id": "6883206",
+	"name": "진짜 천혜향 과즙을 듬~뿍 넣어서! 상큼 폭신 천혜향 마들렌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/2a50acef346e736f3108bff8d8aeb5461.png",
+	"url": "https://www.10000recipe.com/recipe/6883206",
+	"ingredient_ids": [
+		669,
+		219,
+		226,
+		198,
+		373,
+		696,
+		469
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "천혜향",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "160",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "2/3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "90",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 천혜향은 즙을 낸다.천혜향 1개",
+		"2. 볼에 달걀과 설탕을 넣어 섞는다.달걀 4개 , 설탕 150g볼",
+		"3. 달걀설탕물에 박력분, 아몬드 가루, 베이킹 파우더를 체쳐 넣어 섞는다.박력분 160g , 베이킹 파우더 2/3숟가락 , 아몬드가루 90g",
+		"4. 3에 천혜향즙과 녹인 버터를 넣는다버터 120g TiP) 버터는 전자레인지에 1분 30초 정도 돌리거나 중탕해서 녹여줘요.",
+		"5. 마들렌 팬에 카놀라유를 바르고 반죽을 90% 채운다.카놀라유 약간마를렌 팬",
+		"6. 170도로 예열된 오븐에 10분 구워 완성한다.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/4c6a8b64d1adfeda872a79d4e4e482401.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/b0f693aff5a04b864b0377de6923665e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/02f183251938687fe13adda1dd092c1c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/213b7e9f32966d1e40e8248a55ebd7c21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/29b7ea9fe0d092b8af86a5f197d2b16d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/02/01/3793ab0cd49607c53e7b88a84fb603a71.png"
+	]
+}

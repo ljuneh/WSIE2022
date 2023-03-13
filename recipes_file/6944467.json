@@ -1,0 +1,63 @@
+{
+	"id": "6944467",
+	"name": "백종원 오징어초무침 만드는 법 정말 간단해요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/1f037f61f215d98daf1f76187db5bd601.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944467",
+	"ingredient_ids": [
+		65,
+		21,
+		15,
+		473,
+		231,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 양배추, 깻잎은 먹기 좋은 크기로 잘라주세요",
+		"2. 오징어 데치기  (팔팔 끓는 물에 오징어를 담구고  3분 있다가 건져주세요  오래 데치면 질겨집니다.)",
+		"3. 야채위에 오징어를 올리고 먹기좋은  사이즈로 잘라주세요",
+		"4. 고추장3, 식초4, 설탕3 숟가락을  넣어서 양념을 만들어줍니다. (기호에 따라 식초나 설탕을  추가해주세요)",
+		"5. 재료 위에 뿌려주세요",
+		"6. 잘 무쳐서 먹으면 되요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/31a5301e978e9556def382f9c48db99f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/5cd15b2b486db69873b1cfe833d0163a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/aebed1ca1f720ebe7cf3d7b332a7ee511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/9af6f7b2e35c0697af296993bc8d19fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/394b781d097acae586f6e2729a51cf1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/a106a85bddf3b4e8880a6d010edcf9ed1.jpg"
+	]
+}

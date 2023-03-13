@@ -1,0 +1,107 @@
+{
+	"id": "6942907",
+	"name": "삐라후 오므라이스 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/1c51ba5c4b46f19c6fb04bff81e8499e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942907",
+	"ingredient_ids": [
+		9,
+		628,
+		504,
+		228,
+		514,
+		226,
+		575
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "완두콩캔",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "옥수수캔",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "머스터드소스",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "토마토케찹",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "핫소스",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 기름을 두르고 다진 당근을 볶아줍니다.당근1/2개, 식용유1큰술팬중불",
+		"2. 당근이 반쯤 익으면 다진 햄을 넣어 볶아줍니다.햄1/2통",
+		"3. 뜨거운 물을 부은 후 물기를 뺀 완두콩을 넣어줍니다.완두콩캔250g",
+		"4. 옥수수콘도 뜨거운 물을 부은 후 물기를 빼주고 팬에 넣어 함께 볶아줍니다.옥수수콘250g",
+		"5. 채소가 다 볶아지면 밥을 넣어 볶아줍니다.밥2공기",
+		"6. 설탕, 올리고당, 핫소스, 케찹을 넣어 삐라후소스 를 만들어줍니다.설탕1작은술, 올리고당1작은술, 핫소스1작은술, 케찹2큰술",
+		"7. 계란을 풀어 지단을 만들어줍니다.계란3개",
+		"8. 지단이 완전히 식은 후 그릇에 넣어 모양을 잡아줍니다.",
+		"9. 볶음밥을 넣어 덮어준 후 뒤집어줍니다.",
+		"10. 마요네즈와 머스터드소스를 뿌려줍니다.마요네즈 취향껏, 머스터드소스 취향껏"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/7fd82d297f732f8495ac8dd6c18131d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/aa1aafb4eaf4e0e84cd651d3f3ae78b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/fb0236c8c3712529e8c93fd73aec35751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/057988d607d1f25b69eeccfb13e75bf61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/7c71ff3d10cc4374b64283bdc9eabdf71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/8d128081ddcbe58934f92d2d5a08b9b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/4854220a475faaabb1ebc107f84c3d541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/6593c2341731acc3cd772e96bb1926111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/7bdeae72083fdca21954427f0fa41eca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/e5dd818e22288c1ebd867a8e5a3b32ee1.jpg"
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"id": "6941607",
+	"name": "찬란한 돼지고기 장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/2e7abed6a5c8a42a5111126af52175f61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941607",
+	"ingredient_ids": [
+		487,
+		221,
+		608,
+		857,
+		226
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 1) 재료를 손질해요",
+		"2. 2) 파 후추 월계수 잎을 넣고 돼지고기를 삶아요 * 파 후추 월계수 잎을 넣으면 잡내를 제거할 수 있어요",
+		"3. 3) 고기를 건져내고 육수에 양념을 만들어요 * 육수를 사용하면 감칠맛이 배가 되요",
+		"4. 4) 고기를 잘게 찢어 메추리알과 손질한 재료를 넣고 조려요 * 고루 저어주어야 색깔이 고루 배여요",
+		"5. 5) 국물이 건더기의 1/3 정도 남으면 불을 꺼요 "
+	],
+	"recipe_img": []
+}

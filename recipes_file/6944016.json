@@ -1,0 +1,65 @@
+{
+	"id": "6944016",
+	"name": "가지볶음 황금레시피 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/012c3b229784c081b3a17606582143911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944016",
+	"ingredient_ids": [
+		18,
+		3,
+		9,
+		226
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "움큼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 한끼 아이들 방학 메뉴로도 너무 좋은 거 같아요..",
+		"2. 그럼 우선 메인인 가지를 아주 작게  깍뚝썰기를 해서 준비해 주세요. 양파랑 당근도 그렇게 준비해 주시면 될거 같아요.",
+		"3. 우선 기름을 두른 팬에  파기름을 내줄거예요..그리고는 가지랑 다른 야채들을 넣고  볶아 주세요..",
+		"4. 여기에 간장이랑 설탕 후추로 간을 해주세요...",
+		"5. 분량의 밥을 넣어서 함께 볶아 주세요.. 그냥 날것으로 먹어도 되는 가지인지라",
+		"6. 살짝 쿵 볶아서 밥이랑 함께 볶으면서 익혀 주시면 되요.",
+		"7. 밥 볶는 동안 옆에서 반숙후라이를 해주세요. 아이들이 반숙을 좋아해서요...",
+		"8. 그럼 리조또 같은 가지 볶음밥 완성 식감도 좋고 맛도 좋아요. 가지 안먹는 아이들에게도 인기 만점이랍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/8e31cd7fdf6b90c863b4ecc4b48cad3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/cda234692904a172321b0b6a9d5121c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/e71cf8cf90238a1fe3ddc710a318602d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/240201218393939a784d34935e8c5e541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/73ab75871d14637a6dafbc1af32159711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/d0f8a5fb92f6451caca85d8fe35f474e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/86ff59adfb399c7d0b048bb6cfdd81a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/2d2c03cf58b7f563d5b2cad7b7d90ef41.jpg"
+	]
+}

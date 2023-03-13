@@ -1,0 +1,66 @@
+{
+	"id": "6940485",
+	"name": "연어초밥 싱싱한 연어초밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/b6a1400da180200937c7410a57c13a591.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940485",
+	"ingredient_ids": [
+		339,
+		231,
+		226,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "생연어",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "배합초",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "무순",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "비율"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "비율"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "비율"
+		}
+	],
+	"recipe": [
+		"1. 모든 재료만 준비되면 만드는것은 너무 쉬워요",
+		"2. 배합초:식초:설탕:소금=3:3:1(1:1:1/3) 비율로 섞어줍니다 밥에 배합초를 넣고 살살 섞어 재빨리 식혀줍니다",
+		"3. 연어는 비스듬히 포를 떠줍니다",
+		"4. 밥은 먹기 좋은 크기로 주먹밥을 만든 뒤 고추냉이를 올려주고 무순도 올려주면 연어초밥 완성 ",
+		"5. 한입에 쏘옥 맛있는 연어초밥 먹다보면 양에 모자란것같이 너무 좋아하는 초밥 입니다",
+		"6. 손님 접대에 식탁에 올려놓아도 폼 나는 연어초밥 가끔 먹고 싶어지더라고요~!~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/a6a493cc3ae8ef3d2da97884bb56a4701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/fec56978cb563e54dc6ee0b10391543c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/01b542c4a50ec5d32b3ac5236b73db2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/29573a15d2fdc936ad52ffe8a787161d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/60884f06a373036fca85459bd7418b311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/7b26d97bcd18d1982a7e9f1a135feaee1.jpg"
+	]
+}

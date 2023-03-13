@@ -1,0 +1,79 @@
+{
+	"id": "6940702",
+	"name": "오이냉국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/1776fe688f787fabe2e7cb2fd4e8e3871.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940702",
+	"ingredient_ids": [
+		8,
+		9,
+		91,
+		3,
+		226,
+		231,
+		497,
+		349,
+		843
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "미역",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "6",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 건 미역을 10분 정도 물에 불려주세요",
+		"2. 준비한 채소를 채 썰어 줍니다",
+		"3. 물 500ml 에 소금 1/2t, 국간장 1/2t 넣고 저어서 녹여주세요. 설탕 2t, 식초 6t  (가장 적정한 비율이 설탕:식초=1:3) 더 단맛을 원하신다면 설탕 1 추가, 매실액은 1/2t만. 국간장과 매실은 많이 넣으면  색깔이 텁텁해 집니다.",
+		"4. 불린 미역을 꽉 짜서 쫑쫑 썰고 준비한 야채를 넣어주세요",
+		"5. 얼음과 참깨 뿌려서 마무리^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/0112b6f0d3c271cf065d58df8effcf8b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/b97d7c828b28c11b4958fd7571cedd991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/7cbd2ae186b5a492284c6f08cb9101511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/240cc62aaf60eb06b0e3552a7ea88e991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/5fc46cd67d862d77175d95ffb05b8d831.jpg"
+	]
+}

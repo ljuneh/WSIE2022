@@ -1,0 +1,39 @@
+{
+	"id": "6943475",
+	"name": "홍시 드레싱 / 홍시 고추장",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/fdee690b7d23d534b33af257f13304d31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943475",
+	"ingredient_ids": [
+		178,
+		543,
+		473
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "홍시",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 홍시는 껍질과 씨를 제거하, 과육은 그릇에 담는다.",
+		"2. 준비한 홍시 과육에 통깨, 고추장을 넣는다.",
+		"3. 모든 재료를 섞어 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/c1832f276c7202e75cc54143a99040601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/88410f6b7c5c265bd67e44bcccb5a8231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/082d7de628e4ce764c7b2c968eccc0c71.jpg"
+	]
+}

@@ -1,0 +1,91 @@
+{
+	"id": "6940193",
+	"name": "오므라이스 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/0730f0a192af9f02e474146afdbade121.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940193",
+	"ingredient_ids": [
+		3,
+		9,
+		628,
+		477,
+		724
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 파는 총총 썰어주세요",
+		"2. 양파도 잘게 썰어주세요",
+		"3. 당근도 잘게 썰어주세요집에 남아있는 재료들을 사용하시면 됩니다:)",
+		"4. 햄도 먹기 좋게 썰어주세요",
+		"5. 후라이팬에 오일을 넉넉하게 둘러주세요중불",
+		"6. 파를 먼저 넣어 볶아 파기름을 만들어주세요",
+		"7. 파가 익으면 나머지 재료들을 넣어 볶어주세요",
+		"8. 재료들이 어느정도 익으면 밥 한공기를 넣어주세요볶음밥에 사용하는 밥은 꼬들꼬들한 밥을 사용해야 맛있답니다",
+		"9. 굴소스 2큰술을 넣어주세요",
+		"10. 케찹 1큰술을 넣어주세요. 그리고 후추도 조금 넣어주세요",
+		"11. 센 불에서 휘리릭 빠르게 볶아주세요",
+		"12. 계란 2개를 잘 풀어서 계란 지단을 해주세요 *볶음밥에 덮어줄거예요:)중약불",
+		"13. 완성~! 맛있게 먹습니다:)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/cb023cc814bc10471a560dd3b432fc4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/959e0de250bd5d3bd13e0ea3f9869d6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/d260805dcb2327158537d4dc55afa6851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/97232262b2711729b6a48eccb72d8bc41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/449568ef93b0fdb00e6612be3dcc027b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/6b57b834d33979e9ea2e6f787c687fe71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/052025d07847af828b8e4ec720291ed51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/6652b8daa16dee65c19fc590d292bd1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/4d1ccab47a4e16826618f6762f16092c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/11d7553f5ed83240e62ec8a76eff0a731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/72b98d65f4003e14d44ef482576d9e921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/5d7cd19cc564067828d5a87b135bf6951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/515eeccd6338b989531e4d679a528f091.jpg"
+	]
+}

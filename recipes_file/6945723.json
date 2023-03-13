@@ -1,0 +1,89 @@
+{
+	"id": "6945723",
+	"name": "밥솥 페스토 수제비 파스타 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/2fa43ddd3f9a6da1296bb2fcadce1ab61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945723",
+	"ingredient_ids": [
+		234,
+		995,
+		497,
+		212,
+		574,
+		497,
+		197,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "페스토",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		},
+		{
+			"ingre_name": "해바라기씨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 밀가루100g, 물50g, 소금1/4t 넣고 둥글게 반죽을 만들어준 후 봉지에 밀봉하고 미리 상온에서 30분이상 숙성시켜주세요",
+		"2. 밥솥에 올리브유 2T두르고 숙성된 수제비 반죽을 떼어 고르게 넣어주세요",
+		"3. 끓는 물 100ml 넣고 소금 2꼬집 넣고 저어준 후 재가열 9분 해주세요",
+		"4. 재가열되는 동안 모짜렐라 치즈 2줌(40g) 정도 꺼내서 해동해주세요",
+		"5. 수제비가 익은 모습. 수제비로 만들면 파스타면 익히는 시간 들이지 않아도 되서 좋아요",
+		"6. 바질 페스토 2T, 모짜렐라 치즈 40g넣고",
+		"7. 섞어주시면 수분도 조금 날라가서 걸죽한 면수가 되고 밥솥의 열기에 모짜렐라 치즈가 녹아요",
+		"8. 그릇에 옮겨서 파슬리 뿌리고 해바라기씨나 다른 견과류 넉넉히 뿌려서 같이 드시면 맛있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/a765136ace765b6677f7d7fe1d78c5021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/21587ca7c636127fa822f5d91bd64a111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/f468303ee7ece7dd508056b69a8f92c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/6854f038e1f52c1cfc88597c267189d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/f5abcb532dafc5a499279f0d091698881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/4bcf8ae2acbf49ef874034c17c68a4be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/9c338d1ccff69e38eebdf81822a9b17a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/a4959e6adb6ae120c0659d20c7ed71e71.jpg"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"id": "6944372",
+	"name": "양파장아찌~다른장아찌국물 버리지 마세요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/4e18a7b3e3ec793d550baaa78ce66b8a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944372",
+	"ingredient_ids": [
+		295,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양파큰것",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장장아찌국물남은것",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3~4개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 큰양파를 껍질을 벗겨서 씻어준후 키친타올로 물기른 꼼꼼하게 닦아주세요",
+		"2. 양파를 먹기좋은 크기로 잘라주세요",
+		"3. 남은간장촛물을 맛을 보시고 더 추가하고싶은 것을 추가해주세요 저는 가시오이를 담아서 먹었던거라서 살짝은 싱거워서 진간장/설탕을 추가를 했어요",
+		"4. 간장촛물을 펄펄 5분간 끓여주신후 손끝에 따뜻하다 할만큼만 한김식혀주세요",
+		"5. 자른양파를 통에담고 청양고추자른것을 양파위에 뿌려주세요",
+		"6. 따뜻한정도의 간장촛물을 조심히 넣어주시고 차갑게 식혀준다음 한번을 섞어주시고 냉장보관하시고 1일이 지나고서는 바로 드셔도 되세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/2faf72a2c7d11ced35c69b7c8be96df01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/1fce9393db0819e9364ed8193504c2e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/e6fad45a4ded387d25b8e8d4b38209091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/d46660fff085263e27db546db0b619031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/fb3413270478132da0492f394b2d73911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/f8b868dac26d2fc25d9092699bc30bd91.jpg"
+	]
+}

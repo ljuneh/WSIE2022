@@ -1,0 +1,44 @@
+{
+	"id": "6850829",
+	"name": "마요리/마밥짓기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/05/19a83c95959eada2cb87ffb045ee40d11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6850829",
+	"ingredient_ids": [
+		96,
+		50
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "콩",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 껍질은 감자까는 칼로 깠어요.위를 튼튼하게 해주는 뮤신이라는 성분 때문에 미끄덩 미끄덩~                   ",
+		"2. 작은 깍둑 모양으로 썰었어요.",
+		"3. 쌀이랑 찹쌀을 살짝 섞어서 씻어가지고 30분 정도 불렸다가 마랑 호랭이콩을 함께 넣고 취사버튼 꾹!",
+		"4. 마랑 콩이 처음에 넣었을때랑 똑같이 그대로 차분하게 밥이 지어졌죠?^^ 마가 고구마 맛이랑 비슷한데 고구마 보다는 살짝 쫀득한 맛이 있어요. 암튼 우덜 입맛엔 굿굿!!",
+		"5. 잡곡밥을 즐겨 먹기에 다양한 잡곡들이랑 마,완두콩,호랭이콩 까지 넉넉하게~",
+		"6. 밥솥 뚜껑을 여니까 냄새가 구수 구수~~~~넘넘 구수하고 좋으네욤"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/7d87516c6d301d7292b7e3ae79ea85521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/29daa106d13d527fa2b957ae562630b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/595201932a73a46535838671cb09f4921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/7e7c8da91abd7e8a613739565874e0a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/a43422efee2563a5bb2c2686e62228761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/02/9220aa5dd9b2c43e28df3a1c228920141.jpg"
+	]
+}

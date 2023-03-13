@@ -1,0 +1,77 @@
+{
+	"id": "911497",
+	"name": "고구마야채빵",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/e573910826ab035232be9462cf8cbc61.jpg",
+	"url": "https://www.10000recipe.com/recipe/911497",
+	"ingredient_ids": [
+		995,
+		6,
+		9,
+		227
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "옥수수식빵믹스",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "170",
+			"ingre_unit": "cc"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청피망",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고구마(큰것)",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호두다진것",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 일단 제빵기에 식빵믹스를 넣고 반죽코스로 먼저 돌리기 시작합니다. 반죽이 되어가는 동안 당근, 빨강, 노랑 파프리카, 청피망을 잘게 다졌어요.",
+		"2. 반죽코스를 돌리다가 나중에 부재료를 넣으라는 소리가 나면 잘게 썬 야채를 넣고 1차발효까지 끝냅니다.",
+		"3. 1차발효가 되어가는 동안..고구마 2개를 익혀서 으깨고, 호두는 다져서 꿀과 함께 잘 섞어놓았어요.",
+		"4. 빵 가운데 넣으려고요. 고구마로는 무엇을 만들어도 다 맛난 것같아요.",
+		"5. 1차 발효가 끝난 반죽을 꺼내 전자저울에서 똑같이 3등분합니다. 확실히 저울에서 재어야 나중에 빵크기가 비슷해지더라구요. 1개당 235g정도 됩니다.",
+		"6. 밀대로 넓게 펴서 가운데 고구마반죽을 넣어 돌돌 말아서 길쭉하게 늘린 다음 꽈배기처럼 꼬아주었어요.",
+		"7. 팬에 올리브유를 휴지에 묻혀 살짝 바른 다음 성형한 빵을 놓았습니다.  바닥에 반죽을 놓을 때도 서로간의 위치간격이 일정해야 해요. 너무 떨어져 있던가 붙어있으면 팬바닥의 온도가 각각 달라서 따로 혼자 떨어져있는 반죽은 온도가 넘 높아져서 타기 쉽상이지요.",
+		"8. 오븐에서 다시 30분정도 2차발효를 끝낸 후, 180도 컨벡션오븐에서 20분간 구워냈어요.오븐",
+		"9. 알맞게 노릇하게 구워졌네요. 바닥이 뚫린 망에 얹어 잠시 식혀야 빵 아랫쪽에 수분이 생기지 않아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/2aaf1a60a161cd54dd53ec96af21467c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/93c0b06dbc56da20cc1031d0444189b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/6908e11b8ad4d2cd674fadec86e48fd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/424a4b927c0cf645ae05d764ad6ddfe71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/900baa8ba4fa77d52eb4e1b18a14de521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/c89381ff18b6972fa2e894c07933c2e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/98ac619b7e1f41b0d40247b7f71f24311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/a6e5a05db3114fd3c28a5ba6f6da48e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/054202b9e893048bbb071574886b74481.jpg"
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"id": "6521394",
+	"name": "바지락칼국수 맛있게 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/ef69b75b5cf61cf6f619d43cc415dd481.jpg",
+	"url": "https://www.10000recipe.com/recipe/6521394",
+	"ingredient_ids": [
+		84,
+		5,
+		3,
+		325,
+		27,
+		219,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "바지락",
+			"ingre_count": "2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "칼국수면",
+			"ingre_count": "4",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "표고버섯(가루)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 물을 끓여 주셔요. 물이 끓어주는 동안 바지락 두봉지를 손질을 할겁니다. 찬물에 여러번 행궈주심 되어요. 요즘은 해감이 되어서 봉지에 팔지요.",
+		"2. 끓는 물에 바지락을 넣어 다시 끓여주세요 그럼 저렇게 거품이 생겨요~ 그냥 두었다가 나중에 한꺼번에 없애주려구요. 대략 10분정도 끓여 주었어요. 바지락만 넣고 끓여도 아주 괜찮은 육수가 되지요.",
+		"3. 바지락을 끓여 육수를 만드는 동안 채소들을 적당한 크기로 잘라 준비를 해둡니다.",
+		"4. 칼국수 면에 묻어 있는 밀가루도 한번 물에 행궈주었답니다.",
+		"5. 바지락이 끓고 있는 육수에 면을 투하해서 한번 더 끓여 주세요. 또 거품이 생기죠.. 거품은 싹 겉어주세요~",
+		"6. 면이 익고 있을때쯤에 감자, 호박을 넣어 한번 익혀주시고 감자 호박이 익을때쯤 양파, 대파...제일 마직막엔 달걀을 풀어 주심 된답니다.                   ",
+		"7. 소금으로 간을 하시고, 표고버섯가루를 넣어 간을 해 주면 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/a1908321aa0a05de0a68327826b660af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/9885e92b286e2542d7b596ad2b9a64bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/80e6ea3806f5a01b23e1fbea064f1e401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/8837a57d44d202fa458a0cf6e5ab2cb91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/23e608e85f7fd829ce9325b027a813261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/872f1ef9a14611d3471058c679c3fd351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/14/19c139fc9e90af06fde424a280c5106b1.jpg"
+	]
+}

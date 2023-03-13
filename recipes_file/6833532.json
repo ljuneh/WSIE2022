@@ -1,0 +1,91 @@
+{
+	"id": "6833532",
+	"name": "우렁된장찌개 황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/04/9cd4827f71a0d7d06288853fc179bc981.jpg",
+	"url": "https://www.10000recipe.com/recipe/6833532",
+	"ingredient_ids": [
+		753,
+		323,
+		3,
+		325,
+		295,
+		848,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "육수용다시마(멸치)",
+			"ingre_count": "다시마(멸치)",
+			"ingre_unit": "다시마(멸치)"
+		},
+		{
+			"ingre_name": "우렁",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꿀(생략가능)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 육수를 내주세요~!",
+		"2. 육수가 끓을동안 우렁, 양파, 두부,호박 등 재료 준비해주세요~",
+		"3. 전 양파, 청양고추 이렇게 보관해서 냉동실에 두고 써요. 오래오래 먹을수 있어서 좋아요 !",
+		"4. 야채는 먹기 좋게 썰어 주시고",
+		"5. 된장 2, 고춧가루 1 넣어서 섞어주세요~",
+		"6. 우렁된장찌개 황금레시피 팁!! 저는 호박은 푹 다 익혀야 해서 제일먼저 넣었어요.",
+		"7. 우렁은 잘 익어야하니, 호박 다음 넣어주고",
+		"8. 준비한 된장을 풀어주세요~!",
+		"9. 잠시 끓을때까지 대기!",
+		"10. 양파, 두부 넣어주세요.",
+		"11. 한번더 끓으면 파 넣고 조금 더 팔팔~!",
+		"12. 꿀 1스푼 넣고 마무리~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/611402137959942bf7f4536dfef815e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/4f85a8e88ebaa8220d2f6bb7e95df4a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/df2c9d22f6d5f6a72992106fe7e38ede1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/a78500696822749b903292d194f4968c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/9b5f50dc52ee2354359ff4ec43b930b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/ccece1f690b3b13e985b0f980d639a421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/9a1726556d2513ff7f52e453426d370c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/ea8748fbf9b455285d037c5459c2d4d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/376163b61deb953f8668cf8518d3cd231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/4bd1b6c64809ffd0b542efe97bdb4a191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/9427440c772520787890219e604f2cb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/16/3421402e89d942d5844f92c75eae3a641.jpg"
+	]
+}

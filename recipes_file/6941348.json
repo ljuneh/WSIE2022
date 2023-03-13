@@ -1,0 +1,66 @@
+{
+	"id": "6941348",
+	"name": "감자채볶음 카레 감자볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/1b1fbdab7be41e3e51c3c31236dc97a61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941348",
+	"ingredient_ids": [
+		5,
+		3,
+		504,
+		292,
+		497,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 감자랑 양파를 채 썰어 준비하고 ",
+		"2. 달군 팬에 식용유(3)을 두르고 감자랑 양파를 함께 볶고 ",
+		"3. 감자가 다 익으면 카레 가루(1), 맛술(1)을 넣어 전체적으로 양념이 섞이도록 볶아주고 ",
+		"4. 드셔보시고 부족한 간은 소금으로 해주시고 후춧가루 취향껏, 통깨나 검은깨 뿌려 마무리해 주세요. ",
+		"5. 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/39411369440736e6f4c8393529c9d8cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/de4349de76077a5ecfec4cb2a11631d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/d012bfd05fbdd2b1607b9603812a56611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/80ccf89010b263dfbf8e1fa464e1eae11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/c0aedc03c9afdaf99960cb970a84e3c21.jpg"
+	]
+}

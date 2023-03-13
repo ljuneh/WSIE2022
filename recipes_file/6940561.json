@@ -1,0 +1,71 @@
+{
+	"id": "6940561",
+	"name": "더운데 볶지 마세요! 아삭해서 더 맛있는 초간단 감자채무침 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/24a012f2da623cbed0cf7d61f887415b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940561",
+	"ingredient_ids": [
+		5,
+		9,
+		295,
+		497,
+		231,
+		226,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 감자와 당근은 채썰어주세요.감자, 당근도마, 칼",
+		"2. 청양고추는 얇게 총총총 썰어줍니다.청양고추",
+		"3. 채 썬 감자는 녹말가루를 제거해주기 위해 찬물에 한 번 씻어준 후 끓는물에 10초정도 데쳐주세요.감자냄비",
+		"4. 그리고 체에 받쳐 물기를 제거해줍니다.체",
+		"5. 볼에 채 썬 감자, 당근, 청양고추, 그리고 소금 2티스푼과 설탕 3티스푼을 넣어주세요.감자, 당근, 청양고추, 소금, 설탕볼",
+		"6. 그리고 상큼하게 식초 3티스푼을 넣어준 후 조물조물 잘 섞어주세요.식초",
+		"7. 마지막으로 그릇으로 옮긴 후 통깨 1/2 큰술을 솔솔 뿌려주면 초.간.단 감자채무침 완성입니다.통깨"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/c8767cb6f5ff91953c1f9703b5a35b641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/3aa6767fdca8de1067ba0f99f4d6dd731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/9183f643a0e2cbaf7657c9bdf714f4c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/9752d41e92da8df82c0fb243f175c3531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/bcf3c3350ad9e16451be40d5de3433f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/6108867d0953f678bf5fde180f136feb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/7faed1d3711766962788d644083fdeb91.jpg"
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"id": "6829385",
+	"name": "감바스 알 아히요, 새우 마늘 까수엘라 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/24/784255ef1793f9bae0a215edb29461751.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829385",
+	"ingredient_ids": [
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "새우(중하)",
+			"ingre_count": "20",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "올리브오일1/2컵(1컵240ml)",
+			"ingre_count": "1/2컵(1컵240ml)",
+			"ingre_unit": "컵(컵ml)"
+		},
+		{
+			"ingre_name": "슬라이스한마늘",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "건고추(취향껏)",
+			"ingre_count": "5-10개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 새우는 머리를 떼고 꼬리에 붙어있는 물주머니를 잘라서 준비. 꼬리를 제외한 껍데기도 모두 깐다. 내장 제거는 취향에 따라.",
+		"2. 까놓은 새우는 깨끗이 씻어놓고 오일에 넣을 때 기름이 많이 튀니 페이퍼타월로 물기를 꼼꼼히 제거. 여기까지만 하면 반 이상은 완성했다고 봐도 된다.",
+		"3. 올리브오일을 반컵 정도 붓고 오일이 달궈지면",
+		"4. 슬라이스해놓은 마늘을 한 줌 정도 넣고 익힌다.",
+		"5. 고추도 넣고,",
+		"6. 마늘향과 고추향이 올라오고 마늘이 거의 다 익었으면 손질해놓은 새우도 넣고 재빨리 익힌다. 새우는 금방 질겨지니 너무 오래 익히지 않도록 한다.",
+		"7. 마지막으로 소금 간하고 완성!",
+		"8. 빵도 꼭 준비해 같이 먹는다. 식빵, 바게뜨, 뺑 드 깜빠뉴, 치아바따 등 달지 않은 빵으로 준비!",
+		"9. 완성된 감바스에는 파슬리를 뿌려서 서브."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/f06611d2f0183ca5b81129c8814f23a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/86dbecdf04790aa45f1733c3ac0f18af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/28214b8cbf24903b8c9327119ab89e4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/61f1887df84502f6be7240e61d5e933f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/6e203342adf23b4f5d4b0a83a64959d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/55c321d96e7de7106991cbb24f6e8f981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/a0997d95738e1087c6c94af1ad6bb6c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/35c7b9ae5223d301fe00c061503ba1171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/de36a40bba3fe9aab35c38999fadeb651.jpg"
+	]
+}

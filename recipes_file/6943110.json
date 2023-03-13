@@ -1,0 +1,62 @@
+{
+	"id": "6943110",
+	"name": "추석요리 배숙",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/1860ce6ca2dcb3fe0610f4248507e0751.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943110",
+	"ingredient_ids": [
+		142,
+		995,
+		28,
+		857,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "배",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "쌀조청",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 물1리터를 넣고 생강은 편썰기로 썰어서 넣고 30분 정도 끓여주세요.",
+		"2. 끓이는 동안 배는 껍질벗겨서 모양커터로 이쁜 모양으로 잘라준 후에 통후추를 박아주세요. 모양커터 없으시면 칼로 이쁘게 다듬어서 잘라주시면 됩니다.",
+		"3. 요렇게 꽃모양 커터 이용해서 가운데 통후추 박아줬네요.",
+		"4. 커터로 자르고 남은 배는 어떻게 하나구요?? 드셔도 되고....전 끓고 있는 생강물에 넣었답니다. 그러면...설탕양도 줄이면서 시원하고 달콤한 배숙을 만드실수 있어요.. 혹~~요렇게 하기 싫으신분들은 남겨두셨다 갈아서 쥬스로 드셔도 되고...고기양념에 활용하시면 된답니다.",
+		"5. 바글바글 끓은 후에 생강과 익은 배는 건져내주세요...",
+		"6. 설탕1스푼과 쌀조청 1스푼을 넣고 잘저어서 녹여준후에 잘라놓은 배를 넣고 끓여주세요. 배가 익어서 떠오르면 다된거랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/19ab78839c99a1ae2c0f6e2818986a031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/bd8c34890cacef15e359b18405811f2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/474e63cd08a6a7da28aa1e475d63fb0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/e788088c1995d981d6c32a50ce1bd3b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/3d865ad9f0cce6cc85106e79df289f7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/29/1271c92adf6e185a1c5773facfae354f1.jpg"
+	]
+}

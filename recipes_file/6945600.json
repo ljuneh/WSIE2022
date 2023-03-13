@@ -1,0 +1,91 @@
+{
+	"id": "6945600",
+	"name": "새콤달콤한 오이 초무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/7882b99e7ec43f84b1b52dbde3622ada1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945600",
+	"ingredient_ids": [
+		8,
+		3,
+		27,
+		282,
+		543,
+		224,
+		226,
+		379,
+		231,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료를 준비해주세요.",
+		"2. 양파는 얇게 채썰고 찬물에 담가 아린 맛을 제거해주세요.",
+		"3. 오이는 굵음 소금으로 오이 표면을 박박 문질러 잔여물을 제거 하고 세척 후 약1Cm두께로 동그랗게 썰고, 파는 송송 썰어주세요.",
+		"4. 볼에 오이, 양파, 대파를 넣고",
+		"5. 양념재료를 모두 넣어주세요. 고춧가루-2큰술, 설탕-2큰술, 간장-1큰술, 식초-3큰술, 소금-1/2큰술식초는 많이 넣으면 너무 신맛이 강하니 처음에 3큰술 넣고 무쳐가면서 맛을 봐가면서 더 추가하실 분들은 추가해주세요.",
+		"6. 조물조물 버무려주세요.",
+		"7. 기호에 따라 통깨를 넣어주면 완성.",
+		"8. [연관 레시피] 오이 소박이 @6945309 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/0e3d13d05f982f45d60096e5ff869d8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/e1ff62f881e251729961995c406d39671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/abcb71b45d34662efcfa4954dfd74b411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/452c24fc38eae2ddc8e1f835a702c6231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/99879aface4110bbc294441d6cccd8f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/6c5d02985eb00d191c268cf425adc01f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/fb9283651f5716e32e8bee4e8a361ac51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/c976591c25d2c02720b0def32daab8261.jpg"
+	]
+}

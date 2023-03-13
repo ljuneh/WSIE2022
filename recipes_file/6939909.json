@@ -1,0 +1,74 @@
+{
+	"id": "6939909",
+	"name": "미역무침 # 밥반찬 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/77e761eb73ca59d042d9ac6ff7def9f51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939909",
+	"ingredient_ids": [
+		3,
+		643,
+		226,
+		938,
+		660,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "불린미역",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 물에 불린 미역을 씻어서 물기를 빼주세요 먹기 좋게 잘라주세요",
+		"2. 양파와 풋고추를 채썰어 넣고",
+		"3. 고추가루 1T 진간장 1.5T 설탕 1/2T 매실청 1/2T 참기름 1T 통깨를 뿌려 주세요",
+		"4. 골고루 섞어주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/ad0bba53d1bd89d2c407377df92166f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/78d7d9e469b37258b0a14e522f0da30d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/802034d1886f20f26f4ccbc1031b0ac11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/842160b36ded59565b1ff3d7800cc9041.jpg"
+	]
+}

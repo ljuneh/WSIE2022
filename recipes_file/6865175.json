@@ -1,0 +1,77 @@
+{
+	"id": "6865175",
+	"name": "마른오징어 요리, 마른오징어무국,",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/2387a2d4689f7f6e3a518863761b7a711.jpg",
+	"url": "https://www.10000recipe.com/recipe/6865175",
+	"ingredient_ids": [
+		90,
+		27,
+		29,
+		3,
+		349
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "마른오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "다시멸치",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "마른표고",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "수저"
+		}
+	],
+	"recipe": [
+		"1. 마른오징어, 무우, 양파, 대파, 마늘을 준비합니다.",
+		"2. 무우는 얄팍하게...나박나박 썰어주고, 양파와 대파는 적당한 크기로...",
+		"3. 마른오징어는 따끈한 물에 한시간쯤 불려 두었다가 가위로 적당한 크기로 잘라 주시면 됩니다.",
+		"4. 다시멸치, 마른표고, 다시마를 넣고  다시국물을 만들어 주세요. 다시국물은 뚜껑 열고 20분쯤 끊이면 됩니다.",
+		"5. 멸치와 다시마는 건져 내고, 무우를 넣고 끊기 시작하면, 오징어를 넣고 끊여줍니다",
+		"6. 20분쯤 푹 끊으면 국간장으로 간을 하고, 다진마늘, 양파를 넣고 한소끔 끊여 주고, 마지막에 대파를 넣어 줍니다. 드시기전에 후추를 살짝 뿌려 드셔도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/2c432872140cde62db8af99edfcf6a7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/104e89263cb9db684a2565b93644fd441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/0abb1644b5c3ee1c4eb176e4ed14ca5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/567ce0eb812d1160ec357bd9dc347d8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/5647a70ac6581165f937662b50fe9fa11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/13/c8c96065fca3888c4f1c7b3b38bbd9031.jpg"
+	]
+}

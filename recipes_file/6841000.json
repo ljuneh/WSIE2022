@@ -1,0 +1,59 @@
+{
+	"id": "6841000",
+	"name": "나는 소금으로 만든 떡국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/02/034c02ac22e6335d9b1e2eddcf25dcb81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6841000",
+	"ingredient_ids": [
+		495,
+		27,
+		497,
+		29
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "떡국떡",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 소고기를 넣어 국물을 만들어 줍니다. 소고기가 어느정도 익으면 떡국떡을 넣어줍니다.",
+		"2. 나는 소금 중간입자입니다. 국물요리용은로 국물요리에 사용하면 잘 녹아 어우러진 깊은 맛을 내줍니다.",
+		"3. 떡국떡에 알맞은 양을 숟가락을 이용해서 담습니다.",
+		"4. 소고기를 넣어 국물을 만들고 떡국떡을 넣어 익혀줍니다.  대파를 넣어 주고 나는소금으로 간을 맞춥니다.",
+		"5. 알맞게 익은 떡국떡이 국물에 올라오면 가스렌지 불을 끄고 그릇에 담으시면 됩니다. 나는 소금으로 간을 더해 깊은 맛이 납니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/02/63573e0ad2d0c218809b62acad4ac1a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/02/85aa21615dcefa75cad06573c44c3d4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/02/ca60e486fcb569adf856c45069f4ed3c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/02/a8a08c1ab2b144e1c903720b18c642d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/02/fc6da10b2e42423a9bedbde42b287d5f1.jpg"
+	]
+}

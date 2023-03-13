@@ -1,0 +1,35 @@
+{
+	"id": "6673777",
+	"name": "수제 딸기쨈",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/5b6058a728228bb77177abc3502b3ac11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6673777",
+	"ingredient_ids": [
+		155,
+		226
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "딸기",
+			"ingre_count": "5",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 딸기는 씻어서 물기를 제거해 둡니다.",
+		"2. 믹서에 살짝 돌린 딸기를 냄비에 넣고 끓여주세요.",
+		"3. 설탕을 딸기양의 1/2 넣고 졸이듯 저으면서 계속 끓입니다.",
+		"4. 한시간 반정도 졸여주세요. 점성이 생기면 완성이에요. 용기에 담아 보관하면 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/f0d61b1d540c2be3ef9042d3231e4c311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/67db3c935805070324b023c383fc3c6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/7e57bd4ce392679238ba20d2ec245b841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/18/4614e7c245cab7f292f6b4603e6902161.jpg"
+	]
+}

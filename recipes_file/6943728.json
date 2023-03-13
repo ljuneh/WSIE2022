@@ -1,0 +1,36 @@
+{
+	"id": "6943728",
+	"name": "출출한데 뭐 먹을까?? 신라면 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/09/7b936f96aec6b7ffb3211f7fb866d4751.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943728",
+	"ingredient_ids": [
+		995
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "신라면",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "550",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 신라면 레시피 1. 물 550ml (3컵)를 끓인 후, 면과 분말수프, 플레이크를 같이 넣는다. 2. 4분 30초간 더 끓이면 얼큰한 소고기 국물 맛의 신라면이 됩니다.",
+		"2. 물 550ml 물 550ml를 최대한 맞춰봤어요.. 냄비에 눈금이 있어 너무 편해요 ",
+		"3. 수프와 후레이크 준비하기 끓는 물에 수프 넣기 물이 보글보글 끓으면 수프와 플레이크를 넣고 끓인다.",
+		"4. 끓는 물에 면 넣기 물이 팔팔 끓으면 면을 넣고 센 불로 끓이기 시작한다. 이때 젓가락으로 면을 들어 올리는 걸 반복해 주면 쫄깃한 면으로 조리 가능하다.",
+		"5. 다 익은 후 대파 넣기 라면이 거의 익을 즈음 대파를 넣고 살짝 끓여준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/030696cc3d5e16f44581c6ebf67887e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/10f0f49e0c72bdc9413c1cef5fbf97ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/1933b5c3e1c3fed38aae637f706fd1611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/68a263991692dd0173e5e2d1a12ef1991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/361a1625cffd18433a1be4c0cd4b0bce1.jpg"
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"id": "1519902",
+	"name": "간단하게 매콤한 김치말이김밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/5df2d9da43ca7e71222943bb7f378a43.jpg",
+	"url": "https://www.10000recipe.com/recipe/1519902",
+	"ingredient_ids": [
+		487,
+		953,
+		660,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "",
+			"ingre_unit": "다짐육"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파래김",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 돼지고기는 후라이팬에 익혀줬구요.",
+		"2. 묵은지 김치꺼내 열심히 다져주세요.",
+		"3. 김치는 후라이팬에 열심히 볶아줬지요. 고춧가루 조금더 추가해줬더니 적당히 맵고 괜찮터라구요.",
+		"4. 밥이 다되면 거기에 익힌 돼지고기 다짐육 넣어주고 참기름 소금도 추가해줍니다.",
+		"5. 집에 있던 파래김에 밥올리고 거기에 김치 올립니다. 돌돌말아 적당히 썰어줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/bc84662356ec5a05c1c3235af9abbb361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/07054da3d1f573efc3170d95fb12870c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/ce6ba33060ff2e08cc137d37debc37b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/164aa8a2a87f79a1b6a00ebfab2632bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/26/d9d531aaeb0e6abea8c280a9bedc45781.jpg"
+	]
+}

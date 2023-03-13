@@ -1,0 +1,53 @@
+{
+	"id": "6939867",
+	"name": "[ 고구마줄기 볶음 ] 기본반찬, 시골밥상, 고소한 고구마줄기 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/2db7cbcaa97fb47431550ebc4dbdd1e61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939867",
+	"ingredient_ids": [
+		801,
+		27,
+		379,
+		337,
+		327
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마줄기",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "10",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 팬에 들기름 2t, 간장 3t, 고구마줄기(미리 잘라둔)를 넣고 볶아줍니다.진간장은 짠맛이 강해 2t만 넣으세요. 다시마 간장 등 시중에 나오는 달큰한 간장을 사용하시면 더 맛납니다. ",
+		"2. 들깨가루 3t를 넣고 30초간 볶아줍니다.",
+		"3. 대파(10cm)를 썰어 넣고 볶아줍니다.파의 식감이 싫으시면 송송송 썰어 넣으시면 됩니다.",
+		"4. 불을 끄고 통깨를 넣고 저어줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/93e3850ca7455d9033246bacdc863c661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/39339c8a38930ae1e01b3bda0a90dfe51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/15cb45668a9f8bc2b406321607b085d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/4c0806f8724ba6c4443442ae83b9200b1.jpg"
+	]
+}

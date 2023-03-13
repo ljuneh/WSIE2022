@@ -1,0 +1,71 @@
+{
+	"id": "6846992",
+	"name": "오이지 오이지무침 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/24/7ab387498c40a2f0dc8301b246df927f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846992",
+	"ingredient_ids": [
+		1010,
+		660,
+		350,
+		29,
+		231,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오이지",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 잘익은오이지를 준비합니다",
+		"2. 파마늘 고추가루 깨소금 설탕 참기름 양념을 준비합니다",
+		"3. 오이지를 썰어서 반은식초물에 담구어 송송썬 파와 고추가루를 언저놓습니다",
+		"4. 나머지반은 물에씻어 아싹할정도로 짜서 고추가루 마늘 파 설탕 깨소금.설탕으로 양념을 합니다",
+		"5. 2가지맛의 오이지가 완성됐습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/24/5ee0f011eef47d13624473bf7c604fd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/24/e9c887493c3b77bad24da05a50643e981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/24/ccae8722a2ec08c41e7d717a904260791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/24/5937a4872a2df8fbc169390203f303321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/24/cd4c0fefa31fd164b54cd6a772c210841.jpg"
+	]
+}

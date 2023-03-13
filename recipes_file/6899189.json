@@ -1,0 +1,81 @@
+{
+	"id": "6899189",
+	"name": "생크림머핀 ☆ No버터 폭신폭신♥ ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/02/5b114ee1403f2eef1fcf188e408f43b71.png",
+	"url": "https://www.10000recipe.com/recipe/6899189",
+	"ingredient_ids": [
+		226,
+		696,
+		485,
+		219,
+		373,
+		884
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "35",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "초코칩",
+			"ingre_count": "45",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "초코칩(장식용)",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "4",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "슬라이스아몬드",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 볼에 생크림, 설탕을 넣고 휘핑한다.",
+		"2. 달걀을 넣고 살살 섞는다.",
+		"3. 박력분, 아몬드가루, 베이킹파우더를 체친 후 바닐라익스트렉을 넣고 섞는다.",
+		"4. 날가루가 거의 안 보일 때쯤 초코칩 45g을 넣고 섞는다.",
+		"5. 머핀틀에 반죽을 80% 넣은 후 초코칩 10g, 슬라이스아몬드를 올리고 180도 예열된 오븐에 25분간 구워 완성한다.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/02/8d3dbcc0445f1b57c2822ea705502d1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/02/9584bad671e87812be949146ee6aa7fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/02/eca87b1a6803f06d2db5fdf822fa45f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/02/8571157aeacae8fe9189ae257a4232711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/02/69a0d036636c23aa9fe4d598f6257d161.jpg"
+	]
+}

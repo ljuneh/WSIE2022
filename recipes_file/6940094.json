@@ -1,0 +1,73 @@
+{
+	"id": "6940094",
+	"name": "생연어 연어초밥 집에서만들기 연어회는 덤입니다.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/d8dc7f27c9a822bb2af0d27ff6b148841.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940094",
+	"ingredient_ids": [
+		379,
+		231,
+		226,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "생연어",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밥한공기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "단촛물",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생와사비",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 밥한공기에 단촛물2T를 넣고 잘 섞어주셔요. (귀리잡곡밥이라 밥이 누렇습니다.)다시마 넣고 고슬고슬 흰쌀밥을 해주셔도 좋아요. ",
+		"2. 밥을 한줌씩 쥐어서 초밥 모양으로 둥글고 길게 만들어줍니다.",
+		"3. 주먹밥위에 생와사비를 콕콕! 찍어주시면 됩니다.생와사비가 없어서 와사비믹스를 사용했습니다.",
+		"4. 생연어를 냉동실에서 살짝 얼렸다 꺼내서 두툼하게 썰어주세요. 칼끝을 세워 껍질을 제거했습니다. 보통 마트에서는 껍질을 제거하고 판매합니다. ",
+		"5. 베란다 화분에서 나뭇잎 몇장 뜯어서 청량감있게 깔고 간장 종지를 올려봅니다.",
+		"6. 완성된 초밥을 간장에 찍어 드시면 됩니다.",
+		"7. 짜투리 연어도 회로 잘라줍니다. 초장에 찍어서 드세요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/df9da0795efb6fcd85faa4530eef8d2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/432e3178c9ab19d5de777054eb059ec71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/e5e21bb51bbceb71e8d793eb3a7968a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/7fd8bb0c367082f35a79f09e3fa231ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/5c2099a0608f52992beffda6bf7edd9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/610ffdba13fc96c61074a92b3909ff621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/91d36e4c202071fb63ef9a2e6525f5a91.jpg"
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"id": "6943260",
+	"name": "오트밀 초코칩 쿠키",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/b2f144edc5cf6be9eb66eb15e460cd901.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943260",
+	"ingredient_ids": [
+		198,
+		483,
+		940,
+		572,
+		497,
+		455
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "중력분",
+			"ingre_count": "155",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "백설탕",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다크머스코바도설탕",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹소다",
+			"ingre_count": "1/2",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "오트밀",
+			"ingre_count": "130",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "초코칩",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "시나몬가루",
+			"ingre_count": "1/4",
+			"ingre_unit": "ts"
+		}
+	],
+	"recipe": [
+		"1. 녹인 버터에 분량의 설탕을 넣고 섞는다.다크 머스코바도 설탕이 없으면 흑설탕으로 대체 가능하다.",
+		"2. 계란을 넣고 휘핑한다.손으로 만져봤을 때 설탕이 희미하게 느껴지는 상태까지 휘핑한다.",
+		"3. 버터혼합물에 가루류를 체쳐 넣고 주걱으로 섞는다.",
+		"4. 쿠키반죽에 오트밀과 초코칩을 넣고 섞은 뒤, 냉장고에서 최소 30분정도 휴지시켜준다.오트밀은 푸드프로세서나 믹서기로 설핏 갈아서 쓰면 좋다.",
+		"5. 휴지가 끝난 쿠키반죽은 40g정도로 분할한 뒤, 180도로 예열된 오븐에서 11~13분 구워준다.오븐퍼지는 쿠키라 구울 때, 쿠키반죽과 반죽 사이에 간격을 충분히 두자!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/c05c0eea8171409f0628a8ebbfeb0ca11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/2597495e63b0a94ca95488dc951093171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/8448b720525acb667153019327a43f331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/9a9ae02c7f52cbfbf34560f8e649da8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/71af6aebc3c4bc06ad56270f808b9a7c1.jpg"
+	]
+}

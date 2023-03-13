@@ -1,0 +1,116 @@
+{
+	"id": "6940370",
+	"name": "맵단짠의 대표주자 안동찜닭 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/cae91db5e8421e6ed27a2fb05aa9b9751.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940370",
+	"ingredient_ids": [
+		3,
+		9,
+		328,
+		27,
+		295,
+		28,
+		233,
+		379,
+		226,
+		579
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "볶음용닭",
+			"ingre_count": "900",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "치즈떡",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "미니감자",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "넓적당면",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "6",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "단호박",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마른고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "10",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 야채 손질하기 전, 당면을 찬물에 1시간 정도 불려주세요.당면",
+		"2. 양파와 감자, 단호박은 큼직큼직하게 썰어주시고, 당근은 반달 모양으로 얇게 썰어주세요.양파, 감자, 단호박, 당근도마, 칼",
+		"3. 파와 청양고추, 마른홍고추는 어슷썰기 해주시고, 생강은 잘게 다져주세요.파, 청양고추, 마른홍고추, 생강",
+		"4. 닭은 하나하나 깨끗하게 씻어서 끓는 물에 5분 정도 데친 다음 다시 찬물에 깨끗하게 씻어주세요.닭냄비",
+		"5. 그 다음 물 800ml를 붓고 다진 마늘 2 큰 술, 다진 생강 약간, 소주 1컵(종이컵 기준)을 넣고 뚜껑을 닫은채로 10분 정도 끓여주세요.생수, 다진마늘, 생강, 소주",
+		"6. 깔끔한 국물을 위해 거품도 제거해주세요.",
+		"7. 그리고 감자, 양파, 당근, 청양고추, 단호박, 마른 고추, 간장 10 큰 술, 설탕 3 큰 술을 넣고 뚜껑을 닫은채로 15분 정도 더 끓여주세요.감자, 양파, 당근, 청양고추, 단호박, 마른고추, 간장, 설탕",
+		"8. 마지막으로 오늘의 스페셜 게스트 넓적 당면, 치즈떡과 대파를 넣고 살살 섞어준 다음 3분 정도 끓여주면 안동찜닭 완성입니다.넓적당면, 치즈떡, 대파"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/794e6893b6be955296b2e0d7e16cc06b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/6d357e945550cf8425a821e30fcf4ca71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/76fa017eed58848968dbb40a97bc55291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/bedcaba37f6fc7b661352fc7ed341a3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/1a3ee4442a9c25a7744abc817d52d6871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/1f1631fb6257a7ba2827b9c8505211d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/b279457ff9e0215660f5930352db2bab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/29/b0ae43a98c5aa57caeea2598993271ac1.jpg"
+	]
+}

@@ -1,0 +1,79 @@
+{
+	"id": "6888303",
+	"name": "백종원 양파덮밥 간단하고 맛있는 한그릇요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/05/04/ffa09dc859949865952eddb6da59390c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6888303",
+	"ingredient_ids": [
+		995,
+		226,
+		292,
+		379
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양파작은것",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파or대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "12",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 저는 2인 기준으로 만들어서 양념을 2배로 했는데요 1인기준으로 만드실때 절반씩만 넣어주시면 되요",
+		"2. 초간단 백종원 양파덮밥 만드는 법 어렵지 않은데요 요리 초보라도 누구라도 맛있게 만들어 드실수 있어요 계란은 미리 풀어서 준비해주시고",
+		"3. 양파도 얇게 썰어 준비해주세요",
+		"4. 양념도 분량대로 미리 섞어서 준비해주시면 요리가 훨씬 더 편하답니다 ~!",
+		"5. 후라이팬에 양파를 넣어준뒤 미리 섞어준 양념도 같이 넣어주세요",
+		"6. 양파가 익을때까지 약한불로 끓여주세요",
+		"7. 어느정도 양파가 익으면서 양념이 베이면 미리 풀어준 계란물을 넣어주세요",
+		"8. 백종원 양파덮밥에는 대파가 들어갔지만  저는 대파가 없어서 쪽파를 같이 넣어줬어요 계란이 살짝 덜 익어야 밥 비벼먹을때 더 맛있으니깐 완전히 익지 않도록 살짝만 익혀주세요",
+		"9. 계란을 살짝 익혀 밥위에 올려주면 맛있는 한그릇요리 백종원 양파덮밥 완성이예요 :) 백선생님은 위에 가쓰오부시도 올려주셨는데 전 없어서 패쓰~ 안올려도 맛있긴 한데 담엔 좀 사다 올려먹어봐야겠어요 ~",
+		"10. 마땅히 큰 재료가 들어가지 않고 양파와 계란만 있어도 맛있는 한끼식사가 금방 만들어 지는데요 혼밥하기도 좋고 입맛없을때 한그릇 만들어 먹어도 좋을것 같아요 :)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/04/34f77f98e1eec375ad0913c4ada9d9c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/04/88f5101d10a0810115a38c747e7842d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/04/dc266c887529c855384fe83ffddb13c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/04/d44519c4f951de3f0a5c00d5c2539e681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/04/c06dfabbbb92d83816fc822fbd6437301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/04/e1e64e84efd1b0e81181809934b446011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/04/dbec83bb3f8a06b3715c01947ec721a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/04/52b60ad5d0581981d1988a15ba48cbf01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/04/36d0ceea02cc232c5dd1ef1281089f331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/04/77c124f198b22752fa16ad446c9a3c651.jpg"
+	]
+}

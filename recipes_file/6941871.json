@@ -1,0 +1,63 @@
+{
+	"id": "6941871",
+	"name": "집밥/ 추석 전부치기 /육전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/18abf21471be6b039bc0994a212a9dcc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941871",
+	"ingredient_ids": [
+		234,
+		219,
+		504
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기20장정도",
+			"ingre_count": "470",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가는소금",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 육전 부칠거라고 정육점에 주문을 하니 넓게 잘라서 470g 을 주신다. 세어보니 10장인데 반을 잘라서 시용해도 충분할것 같다.",
+		"2. 밀가루 2T정도 준비한다. 소고기가 싱싱해서 후추 양념은  하지 않았다.",
+		"3. 달걀 3개에 가는 소금 1ts를 넣고 골고루 섞어준다. 소금이 뭉치지 않게 잘 풀어준다.",
+		"4. 소고기에 밀가루를 입히고  살살 털어준다. 밀가루는 달걀물이 잘  입혀지도록 하기 위해 하는 작업이다.",
+		"5. 밀가루 입혀서 준비한 육전용 소고기.",
+		"6. 밀가루 입힌 소고기를 달걀물에  담가서 달걀에 적셔준다.",
+		"7. 팬에 식용유를 넣고 육전을 부치는데 여러번 뒤집지말고 핏물이 올라오면  한 번 더 뒤집어서 핏물이 나오지  않을때까지만 익히면 된다.",
+		"8. 노릇하게 잘 익었다. 간장 1T, 레몬즙 1T, 설탕 1T의  초간장을 만들어 찍어 먹어도  되지만 달걀물에 소금을 넣어서  그런지 간이 되는것 같다.",
+		"9. 얼마전 냉동실에 있는 스테이크용을 살얼음 상태로 녹인후에 사선으로 잘라서 육전을 부쳤었는데 식구들이 아주 잘  먹어줘서 기분이 좋았다.",
+		"10. 스테이크용으로 만든 육전."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/4a65c192945a97eeaca7274e153e87061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/9d484c19d6858abf2457a36aadcbdbcc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/a53d1c29ceb3fff6ed755e566e8c472b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/652b92cef41d8722a3eb8c284bdbc0ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/323433e20e1352890825fc1f0d1581191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/273ea78777fab792e1c9fe54bca3195b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/44ed7d50719252d6c9103fde460a8dab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/99f890290d7c82c05f6c0addfe9c1b571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/b7e1d8a9517b4974ed2c402c13b87db81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/251ad6c19c7b793a4ea582a87dc613e21.jpg"
+	]
+}

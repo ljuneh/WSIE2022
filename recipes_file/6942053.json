@@ -1,0 +1,60 @@
+{
+	"id": "6942053",
+	"name": "집에서 간단하게 백설기 만들어요~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/9e8592ce6aa7b8376ab899d7eff3cc961.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942053",
+	"ingredient_ids": [
+		995,
+		226,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "건식쌀가루",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2~3컵정도",
+			"ingre_unit": "~컵정도"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 우선 쌀가루부터 준비하는데요. 마트에서 파는건 건식 쌀가루예요~ 방앗간에서 빻아온건 습식 쌀가루고요.. 건식은 물기가 없기 때문에 물을 조금 더 넣어서 만들면됩니다.",
+		"2. 볼에 쌀가루 4컵 붓고..",
+		"3. 물은 2컵 정도 부었는데 물기가 좀 부족하더라구요. 2컵반이나 3컵 정도 넣어주면 될거 같아요.",
+		"4. 그 다음 반죽을 해주는데요. 이렇게 반죽이 잘 뭉쳐질때까지 해주면 됩니다.",
+		"5. 그다음 고운 체로 쌀가루 걸러주고요. 쌀가루 체에 거를땐 손으로 살살 비벼가며 해주면 잘 걸러집니다.",
+		"6. 잘 걸러진 쌀가루에 설탕 2컵..",
+		"7. 소금 1큰술 정도 넣어줍니다. 이때 습식 쌀가루.. 즉 방앗간에서 빻아온 쌀가루는 소금을 더 안 넣어도 됩니다. 빻을때 소금을 넣고 빻기 때문에요..",
+		"8. 이제 찜기에 틀 올린 다음",
+		"9. 쌀가루 골고루 펴서 올려줍니다.",
+		"10. 그 다음 익을때까지 50분 정도 쪄주면 됩니다.",
+		"11. 익었나 안 익었나 볼때는 젓가락으로 찔러보세요~ 젓가락에 안 묻어나면 다 익은겁니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/2d7cf83c08c1da4f9a46391d8d32d86f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/4d0c66ef273b7c6250b663695f127f061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/65326d012007e6ec1a47d072010a012a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/6c344f316ccd40dde8511f2714fe8d661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/9437cb127c0c77a9546419074070f0a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/7286e43a730387501fa0dd1aad023b9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/d01186e56301c38d958e88aff1f8c9831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/c865813f139e37777824dc6ee35a74c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/847a2de2537b838318bf1ad49b04db431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/66628e9fe168cf2fa728bd5e58d18d9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/17/24c70c7e1fcb86297e543d8d0fe8a0af1.jpg"
+	]
+}

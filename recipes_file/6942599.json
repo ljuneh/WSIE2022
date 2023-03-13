@@ -1,0 +1,139 @@
+{
+	"id": "6942599",
+	"name": "닭갈비 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/d5e229a5ffee7a7b8487a699bebc3a4f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942599",
+	"ingredient_ids": [
+		299,
+		3,
+		27,
+		5,
+		15,
+		21,
+		473,
+		379,
+		226,
+		843,
+		341,
+		233,
+		292
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭다리살",
+			"ingre_count": "2",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1~2단",
+			"ingre_unit": "~단"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "떡",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "양파갈은것",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 닭다리살을 우유에 재워 두세요. - 우유가 없을 시에는 소주나 맥주 등 술에 담궈 주셔도 됩니다.",
+		"2. 야채 등 재료를 손질해 둡니다. - 양파를 갈아줍니다.(2~3스푼 정도양) - 양배추, 깻잎, 감자 등을 먹기 좋은 사이즈로 잘라 줍니다. - 대파와 양파도 드시기 좋은 크기로 잘라 둡니다.",
+		"3. 양념장을 만들어 주세요. - 고추장, 간장, 설탕, 매실액 등의 양념재료를 넣고 잘 섞어 주세요. - 간을 보셨을 때, 살짝 짜다는 느낌이 있어도 나중에 야채가 들어가서 상관없습니다.",
+		"4. 우유에 담근 닭을 깨끗하게 씻어 주시고, 양념의 3스푼 덜어서 섞어 둡니다. - 고기에 양념이 스며들기 위함 입니다.",
+		"5. 팬에 살짝 기름을 두르고, 초벌을 해주세요. - 초벌을 통해 고기를 익히려고 함도 있지만, 닭고기의 육즙을 잡기 위해서도 초벌을 진행하는 것이 좋습니다.",
+		"6. 초벌된 고기를 먹기 좋은 크기로 잘라서 볶아주세요.",
+		"7. 깻잎을 제외한 모든 야채를 넣어 양념이 골고루 섞이도록 볶아 주세요. - 단단한 종류의 야채를 먼저 넣는 것은 모든 음식 조리의 순서의 기본이 될 수 있습니다.",
+		"8. 마지막으로 깻잎을 넣어 주세요. - 감자 또는 고구마가 익으면 마지막으로 깻잎을 넣어 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/6388818501b37f423814684656ddc08c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c3ac7eb52645697d6c672c9b16ed484b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/7d5667ff5402f23e8cdd29559e64db301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/4d1da0c8a4fee3d2436a268c654b4f791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/95e76fa32ad80822511f602e4c1b0adc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/a0f141a9811d75cf05cf83f6d434f13b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c9622d38ad04f54b587cb67d7cf493b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/3c3fd9a0fbdf6880d7bbca26870985781.jpg"
+	]
+}

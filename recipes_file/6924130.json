@@ -1,0 +1,66 @@
+{
+	"id": "6924130",
+	"name": "쉽고간단한 시금치양파계란볶음!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/12/27/258f7b445277ce15104c5a59ca2563501.jpg",
+	"url": "https://www.10000recipe.com/recipe/6924130",
+	"ingredient_ids": [
+		2,
+		3,
+		497,
+		574,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 시금치한줌을 작은크기로 잘라주세요",
+		"2. 양파 반개를 작게 썰어주세요",
+		"3. 계란 3개를 깨서 잘섞어두세요",
+		"4. 팬에 올리브유2큰술을 넣어주세요",
+		"5. 시금치자른것과 양파자른것을 볶아주세요 *가스불은 중불입니다",
+		"6. 양파가 투명해지면 풀어둔 계란물을 가운데쪽으로 부어주시고 소금 1작은술을 고루 뿌려주시고 살살 섞어가면서 볶아주세요",
+		"7. 계란물이 익을정도로만 휘리릭 볶아주시고 통깨를 뿌려주시면 완성이네요",
+		"8. 쉽고간단하게 만들수있지만 영양만점인 시금치양파계란볶음이 완성이 되었어요 바쁜아침식사대용이나 다이어트식에도 좋고 아이들반찬으로도 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/27/4c80c354826328f18126bd95a6dda3ab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/27/4b8cdee1d58cefd0de89fad36d2669311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/27/c32e9cc7da9d008904e7d70ded324bad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/27/b500956e2ebd2a34d3b86170d83932541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/27/baca87f76382b797609e104c1e218e991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/27/cac2c9862b2ce9798ae10a1759b597531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/27/820464d0c75d897cb59ad022409d162d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/12/27/55dd68f2635ab67c42667f8ef8eb3f561.jpg"
+	]
+}

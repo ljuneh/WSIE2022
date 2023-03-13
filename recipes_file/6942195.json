@@ -1,0 +1,59 @@
+{
+	"id": "6942195",
+	"name": "초스피드 반찬완성, '감자햄야채볶음'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/67e5d6828d460ea730e50cdbac828e411.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942195",
+	"ingredient_ids": [
+		3,
+		5,
+		504,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘햄",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 햄과 양파, 감자를 먹기좋은 크기로 손질한다",
+		"2. 감자의 전분을 빼기 위해, 감자는 물에 10분 담군다",
+		"3. 후라이팬에 기름을 두른 후, 햄과 양파를 먼저 볶는다",
+		"4. 감자를 같이 넣고 볶는다",
+		"5. 소금과 후추를 넣어 간을 맞춘다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/b24e7d55a18607bca2d40465aaf1431d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/4447538f5b59e1848ac952f9757905341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/c0e3d81c1ae0a7adf3154ededa5bac8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/5710b8600e83d540ed538d81580465ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/da6ce1c6ec396ab43edcea6cd8e09b9f1.jpg"
+	]
+}

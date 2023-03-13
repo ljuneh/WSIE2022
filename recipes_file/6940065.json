@@ -1,0 +1,60 @@
+{
+	"id": "6940065",
+	"name": "집에서 스테이크 굽기/스테이크 맛있게 굽는 법/스테이크 시어링",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/9e7f17a642fcfba152fa06fa45e163771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940065",
+	"ingredient_ids": [
+		198,
+		497,
+		225,
+		54
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "스테이크용소고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "7",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 먼저 팬을 달군 후 버터70g를 녹여준다",
+		"2. 스테이크용소고기300g을 팬에 올려준다 후춧가루를 뿌려준다",
+		"3. 소금도 한 꼬집 뿌려준다",
+		"4. 팬에 맞닿은 고기 부분이 익으면 뒤집어준다",
+		"5. 시어링해서 겉이 바삭한 스테이크를 구워보았다",
+		"6. 양송이버섯을 올려준다 스테이크에 양송이버섯을 곁들여 먹으면 더욱 맛있다",
+		"7. 맛있는 스테이크 완성입니다",
+		"8. 적당히 익은 스테이크가 부드럽고 맛있네요! 스테이크를 소금이나 스테이크소스에 찍어먹어도 맛있고 생와사비를 곁들여 먹어도 맛있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/976f953e216866b2d6094d01fb6789bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/2f327b5cd6e5d176c961e0ad062da49d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/c086edd5446d46d26c868539a3f9892e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/310256f4960281f1d7b0b9c7d1e30da91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/8c49268741e04e1c78aaac315d82ba221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/698adff68d8fe08e23d9115863613d901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/640c878bee0e024e7a3c2b633d73214c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/25/797558a8684b4268753b5eeaa24edeb11.jpg"
+	]
+}

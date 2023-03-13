@@ -1,0 +1,87 @@
+{
+	"id": "6945606",
+	"name": "백종원 알감자조림 밥도둑인 감자요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/aadf3f6363062c48a11ec3c9faa793bd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945606",
+	"ingredient_ids": [
+		582,
+		547,
+		477,
+		575,
+		226,
+		292,
+		543,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "알감자",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "저염액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "머그컵"
+		}
+	],
+	"recipe": [
+		"1.  알감자는 흐르는 물에 깨끗이 씻어서 찬물에 잠시 담궈 두어 사이사이에 혹시라도 남은 흙을 제거해 줍니다.                      ",
+		"2. 감자가 잠길 정도로 물을 붓고 굵은 소금 1큰술을 넣고 끓여 줍니다. 젓가락으로 찔러봐서 쑥 들어가면 다 익은거예요.                       ",
+		"3. 삶은 알감자를 별도로 다른 그릇에 옮기지 않고 그대로 조리시면 되고요, 남은 물도 그대로 사용합니다. 여기에 통마늘을 넣어줍니다 ",
+		"4. 분량의 물과 양조간장, 굴소스, 저염액젓, 설탕, 맛술을 넣어 줍니다. 물은 감자가 자작할정도로 넣어 주시면 됩니다. 백종원알감자조림 따로 양념을 조리지 않고 감자와 함께 조리시면 되어요.",
+		"5.  센불에서 끓이다가 감자가 반쯤 익어가면 중불로 줄여 졸여 줍니다.                    ",
+		"6.  감자가 다 익으면 분량의 올리고당을 넣어 반닥반닥 윤이나게 졸여지면 불을 꺼줍니다.                    ",
+		"7.  참기름 1큰술과 통깨, 송송 썬 청양고추를 넣어 골고루 섞어줍니다. 청양고추는 기호에 따라 생략하셔도 되고 파를 송송 썰어서 넣어 주셔도 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/f51f15d6228aef8d789dbd457df824001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/4b714826f68cc4484ec42eef008ce3231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/7df62cbef71bc9dbdf11c2e7b8dc7b841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/7a5b6832fd48ddf04db209e92bafddc01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/b7887cc04223a084127c9d3bd455b7191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/fe053e1ef090502eded2462f3ab5586d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/b5fa2e03348aca09ec69bd3d092a02a91.jpg"
+	]
+}

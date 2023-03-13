@@ -1,0 +1,109 @@
+{
+	"id": "6945184",
+	"name": "피자도우 만드는 법, 시카고피자 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/1969b45c8a656874864ba1b5c9c30ae41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945184",
+	"ingredient_ids": [
+		226,
+		497,
+		565,
+		198,
+		104,
+		212,
+		708,
+		732,
+		702,
+		3
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "강력분",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "이스트",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "옥수수",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "3",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "슬라이스햄",
+			"ingre_count": "5",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "토마토소스",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. [피자도우] 강력분은 체를 쳐서 곱게 내려주고요 ~이스트, 설탕, 소금은 사진과 같이 3군데로 나뉘어서 넣어주세요",
+		"2. 가운데 홈을 파서 우유를 넣어줍니다 우유는 전자레인지에 미지근하게 데워서 사용해주시는데요 한 번에 많이 넣지 말고 2~3번 나누어 넣어주면서 반죽을 해주세요",
+		"3. 덩어리가 만들어지면 손반죽으로 10분정도 해주세요",
+		"4. 실온에 놔두었던 버터를 넣고 다시 10분정도 반죽을 해주세요                   ",
+		"5. 완성된 반죽은 둥글리기 한 다음 랩을 씌어 따뜻한 곳에서 40~50분 1차 발효를 해주세요",
+		"6. 거미줄이 생긴 1차 발효가 끝난 반죽 아까보다 제법 부풀었어요다시 반죽의 기포를 빼주고 둥글리기 한 다음 2차 발효 20분 정도 해줬어요                     ",
+		"7. 하나는 밑에 깔을 도우, 다른 하나는 토핑을 올려 준 후 덮어줄 도우로 사용할 거라 반죽은 2:1 비율로 나누어 주세요                   ",
+		"8. [시카고피자] 먼저 밑에 깔을 도우부터 밀대로 밀고 원형틀 위에 올리고 포크로 구멍을 내주세요 ~                   ",
+		"9. 도우 위에 모짜렐라 치즈를 듬뿍 올리고요 그 위에 잘게 썰은 양파와 옥수수를 넣어주세요                   ",
+		"10. 남은 반죽도 밀대로 밀은 다음 토핑 위에 덮어주고 바닥에 깔은 도우와 위에 덮은 도우를 감싸며 마무리를 해줍니다                   ",
+		"11. 그 위에 시중에 판매하고 있는 토마토 스파게티 소스를 발라주고요                   ",
+		"12. 슬라이스 햄과 모짜렐라 치즈 듬뿍 올리고 파슬리 솔솔 뿌려 200도 예열된 오븐에서 25분 정도 구워주세요 15분 정도 구워지고 윗부분이 탈까 봐 저는 중간에 종이호일로 덮어주었어요 ~                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/fc9c92931c95f4fa32358beb5e8f96b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/4376a6b195b9b5f1e78ce1bb2f092b261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/66bfe0ee68c324a353a153b616c055431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/2cf5a683498ed38fc425880cb22b1aed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/48a003e1da0fb6a9f84fa29a64bd22121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/c5ce2a9f892e6ce101044cb835f9139b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/fb539df6a18fd9311e0853af0fdb289a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/107d2bb451518a1400790556ae0660361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/4e31830a40eb6fe638aacd9949e7178a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/fc8597565c6b014ca92a2827eeb091ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/022da31986f604e69c51a72dcd5e50e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/28238fd3c121cfd30ebcc916dfa8ae2b1.jpg"
+	]
+}

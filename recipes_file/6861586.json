@@ -1,0 +1,63 @@
+{
+	"id": "6861586",
+	"name": "달걀말이~계란말이황금레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/24/d5fc112a579170e34c563c1d61cfdbee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6861586",
+	"ingredient_ids": [
+		219,
+		292,
+		228,
+		505
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금약간(맛보며가감)",
+			"ingre_count": "약간(맛보며가감)",
+			"ingre_unit": "약간(맛보며가감)"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 달걀을 준비해서 잘 풀어주세요",
+		"2. 맛술,소금을 넣어 잘 풀어주세요  맛술이 들어가면 비린내도 제거되면서 감칠맛이 난답니다  맛술대신 청주와 설탕조금 넣으셔도 되요",
+		"3. 마요네즈를 넣어 잘 풀어주시고 실파,후추를 넣어 섞어주세요  마요네즈가 들어가면 고소한맛이 한층 업그레이드 된답니다~ 파마산치즈가루도 같이 넣어주시면 더욱 더 고소해집니다  당근도 같이 넣어주시면 색감이 더 이쁘겠지요  ",
+		"4. 달걀말이 하실때에는 우선 코팅팬을 준비해주세요 전 달걀말이 전용사각팬을 사용하고 있어요  달군팬에 기름을 두르고 키친타올로 전체적으로 한번 닦아내주세요",
+		"5. 불을 약불로 해주시고 달걀을 넣어주세요",
+		"6. 가장자리가 익으면 끝쪽부터 돌돌 말아주세요",
+		"7. 돌돌말은 달걀말이를 가장자리에 두고 다시 달걀물을 부어 돌돌 말아주시구요 이과정을 4~5번 반복해주시면 되는데 달걀물 부으실때 양을 조금씩만 넣어주세요 사각팬에 넓게 퍼지는 정도까지만 부어주시면 되세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/24/469b138f098d6467dccc42e93c1fde1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/24/4f620a58c905bdb9069c9394f17a9dce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/24/68f22ae855017718b440acc7c9d8b3201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/24/fc28c889ce6f551c7b4ea3d49cd39c5c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/24/6a943a50581051db385ad330363029271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/24/b064a09f6de7157adbedc4e3907bd6fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/24/8f01caf92e9b0c1175eb3a7a5ec7ecbc1.jpg"
+	]
+}

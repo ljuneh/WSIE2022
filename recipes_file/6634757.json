@@ -1,0 +1,95 @@
+{
+	"id": "6634757",
+	"name": "부대찌개 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/174f02b656219f37404676d62a18a7e11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6634757",
+	"ingredient_ids": [
+		953,
+		203,
+		995,
+		224,
+		349,
+		233,
+		292,
+		960,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1/2",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "사골육수",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 분량대로 양념장을 만들어 주세요.",
+		"2. 나머지 재료들을 손질해 주세요.",
+		"3. 김치는 딱 요정도 여자주먹보다 작은양이 여야 합니다.",
+		"4. 소고기는 생강술1, 후춧가루 약간 넣고 밑간해 두었습니다.",
+		"5. 준비해둔 재료 전골냄비에 주욱 담아주시구요 여기에 베이크드빈스, 양념장, 김치 등등 다 넣어주시면 끓일준비 완료",
+		"6. 물1.5컵 (300ml) , 사골육수1.5컵(300ml) 넣어주세요.",
+		"7. 보글보글 끓여주세요.",
+		"8. 마지막 대파와 고추 약간 넣어주었어요 체다치즈도 한장 녹여줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/e92f862f183e36a047764ca45c9b9cd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/072bb9b0cd3c4b935eb250a8d41a8bb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/c8e9d15f04b2a710f975045a4ca6acda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/7ebd402886adfaf3d4ed4d1d036eeca51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/7d26cbd7ed6cceef8c6df06fe63ecd7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/4203b1941246c486b7a4737090250b821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/286dc24e503c1e06fde1988cb96b6e201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/20/e73dc01194bfcb7617780de65d48023c1.jpg"
+	]
+}

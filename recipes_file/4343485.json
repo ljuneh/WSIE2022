@@ -1,0 +1,58 @@
+{
+	"id": "4343485",
+	"name": "파래무침 맛있게 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/2c2f1f083ac1e6abedbc6fa6a7607bf8.jpg",
+	"url": "https://www.10000recipe.com/recipe/4343485",
+	"ingredient_ids": [
+		92,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "파래",
+			"ingre_count": "220",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "멸치액젖",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕(생략가능)",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 파래는 손으로 박박문질러 이물질을 제거해주고 잡티를 골라냅니다.",
+		"2. 무우는 채썰어 준비합니다.",
+		"3. 파래 마지막 휑구는물에 무우와 함께넣어 씻어주면 파래와 무채가 자연스럽게 섞어질수있게 해주세요.",
+		"4. 체에받혀 물기를 잘 빼주세요.",
+		"5. 넓은볼에 담고 멸치액젖 2큰술을 넣어줍니다.",
+		"6. 설탕은 아주 조금넣거나 넣지 않으셔도 됩니다.",
+		"7. 참기름 1작은술을 넣어요.",
+		"8. 양념으로 조물조물 무쳐줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/9fa77c8030012febf7db1c123e83309e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/b81d9f4bb591ad8f2aa3f1d58d049fef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/64eadf1ee04ac895907b93e48cc1dda21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/f4bff3940db12a68e8cdc09655e613d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/43692f6af287572a3d96c85ccd71f7cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/ebe1419bea079b4d7571a327797d932d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/07731b3a38e180db57541271c53580431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/1ab4cb3b68aac7b159a6b65914d063471.jpg"
+	]
+}

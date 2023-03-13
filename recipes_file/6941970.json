@@ -1,0 +1,63 @@
+{
+	"id": "6941970",
+	"name": "콩나물황태라면. 숙취 해소에 좋은 얼큰한 콩나물 해장 라면.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/ac05d3971622df2840904f3a8937cf541.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941970",
+	"ingredient_ids": [
+		441,
+		47,
+		527,
+		27,
+		432,
+		224
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "황태",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "포도씨유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 느타리 버섯은 가닥가닥 떼어 놓고 콩나물은 씻어 나오니 물에 한번만 흔들어 씻어 줍니다. *오늘은 콩나물 뿌리가 길어도 해장 요리이니 만큼 아스파라긴산이 많아 자르지 않았어요.",
+		"2. 황태는 가위로 작게 자르고 물에 담궜다 곧바로 물기 짭니다. *황태가 물에 담구면 금방 부드러워 지는데 오래 담구면 맛있는 맛이 다 빠지니 넣었다 바로 빼서 꼭 짜주세요. ",
+		"3. 대파,청양고추는 송송 썰어 주세요. *고추가 매울까봐 1개만 썰었는데 맵지 않아서 후회 했네요. 얼큰하게 드시려면 청양고추 2개 넣으세요. ",
+		"4. 냄비에 포도씨유와 고춧가루 넣어 고추 기름 만듭니다. *고추 가루가 쉽게 타니 중불로 줄여 볶아 줍니다. *집에 고추기름이 있으면 먼저 넣어 바로 황태를 볶아 주면 더욱 편리하게 끓일수 있어요.",
+		"5. 고추기름에 황태 넣어 볶다가 볶아 지면 라면과 콩나물, 물 500ml 를 넣어 3~4분 끓여 주세요. 참고로 전 면이 얇은 진라면을 넣었는데 예전에 너구리를 넣으니까 오동통 한게 훨씬 맛있더라구요.",
+		"6. 3분 정도 끓었으면 라면스프와 느타리버섯,대파,고추,계란 넣어 흰자만 익으면 완성합니다. *느타리 버섯은 고기 같은 쫄깃한 식감이 좋아서 넣었는데 없으면 안넣어도 됩니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/75e1c6c76cb3ed29433f03265dcb044f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/8cdfa1d327e2fb07e10cfcfcca5561a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/a5bd934f5a4cead55b42a1bd280e337d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/094558e2c507a8faa6fce6bc0849919f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/5872c17aa7bd7afa8d78087c590416fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/20e3232c00d14ce03c91b03c51e813c61.jpg"
+	]
+}

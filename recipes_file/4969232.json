@@ -1,0 +1,79 @@
+{
+	"id": "4969232",
+	"name": "죽순들깨나물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/73bf7e796671af4a8efe9bf638d3f857.jpg",
+	"url": "https://www.10000recipe.com/recipe/4969232",
+	"ingredient_ids": [
+		39,
+		27,
+		3,
+		337,
+		497,
+		660,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "죽순",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "냉동새우살",
+			"ingre_count": "",
+			"ingre_unit": "적당양"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생수(또는육수)",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 죽순은 먹기 좋은 크기로 잘라 준비해주세요.",
+		"2. 양파와 대파도 썰어 준비합니다.",
+		"3. 냄비에 생수나 육수를 200ml 넣고 끓여줍니다. 물이 끓으면 새우와 마늘을 넣고 끓여주고 죽순을 넣어줘요.",
+		"4. 들깨가루 2큰술을 넣어줍니다.",
+		"5. 소금으로 간을 하고 대파와 양파를 넣어줍니다.",
+		"6. 한번 더 우르르 끓이고 참기름으로 마무리합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/c511c814c71911a0e71ff50d299b26281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/edf8421d4a92647efe1148cf60cc5e8a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/fe73fb5ef8206c8a7ab06020f7addeb41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/5024ec6da6518c08ff720ddc428d613c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/f4db859999fbed7d1f08f70b404c561d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/6a05641cdd5409e033d5c206f06cc8f31.jpg"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"id": "6839271",
+	"name": "밀가루 없이 바삭한 감자전 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/07/b36cff2b733981f40c8bddb02032a5d31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6839271",
+	"ingredient_ids": [
+		5,
+		219,
+		728,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "표고버섯가루",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "콩기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 감자는 아주 얇게 채를 썰어준 후 달걀을 풀어준다.",
+		"2. 표고버섯 가루, 소금을 넣고 반죽을 해 준다.",
+		"3. 프라이팬에 식용유를 두르고 적당한 크기로 올려 얇게 펴준다.",
+		"4. 노릇노릇 구워주면 완성된다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/e050a03844698e1b1007c09e88c5a0cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/8017e81adab63231fc95e7e42a9a22e51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/2781b9af5246b3c29fdd2a9c8e38aad11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/efdbf66f161bc45734dde8a6de0e3fa01.jpg"
+	]
+}

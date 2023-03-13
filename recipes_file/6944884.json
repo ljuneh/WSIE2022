@@ -1,0 +1,65 @@
+{
+	"id": "6944884",
+	"name": "게살 주먹밥 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/38d0752bc11de24ceaf32c6edc35f38c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944884",
+	"ingredient_ids": [
+		11,
+		214,
+		660,
+		497,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "게살",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "1/4",
+			"ingre_unit": "송이"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 게살은 잘게 찢어 준비합니다.크래미3개",
+		"2. 슬라이스치즈는 다져 준비합니다.슬라이스치즈1장",
+		"3. 브로콜리는 끓는 물에 살짝 데친 후 물기를 빼고 다져줍니다.브로콜리1/4개",
+		"4. 따뜻한 밥과 통깨, 참기름, 소금을 넣어 섞어줍니다.밥2공기, 통깨1작은술, 참기름1큰술, 소금 약간",
+		"5. 삼각틀에 넣어 모양을 잡아줍니다.삼각틀"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/dd4e37bfb3dd6cd8528a2c471621aeeb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/e0a786db88d618862f27663813ae590a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/a51d1c78675d25b82bbb303d99d8a7a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/fd052dae17952c959e787b15df37572f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/7175adcf7373f7f6ee79e06a66e0c6831.jpg"
+	]
+}

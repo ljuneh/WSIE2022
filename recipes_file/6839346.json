@@ -1,0 +1,48 @@
+{
+	"id": "6839346",
+	"name": "맛있는 전복요리, 전복찜 만들기♬",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/cba6727f47d5b734db40205ae00d85381.jpg",
+	"url": "https://www.10000recipe.com/recipe/6839346",
+	"ingredient_ids": [
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "전복작은거",
+			"ingre_count": "40-50마리",
+			"ingre_unit": "-마리"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맛술(미림)",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 전복은 솔을 이용하여 깨끗히 씻어주세요. 그리고 이빨도 제거 해주세요.",
+		"2. 냄비에 물1컵과 맛술(미림)2T를 넣고 팔팔 끓여주세요.",
+		"3. 팔팔 끓기 시작 하면 찜기(삼발이)를 올리고",
+		"4. 전복을 예쁘게 탑을 쌓아 올린다음  뚜껑을 닫아2-3분간 익혀주세요.",
+		"5. 2-3분간 익은 다음 홍고추 1개를 송송 썰어 넣어주세요.  그런 다음 다시 2분간 뚜껑을 덮어 익혀주세요. 어느정도 익으면 한개 까먹어 보면서 익은 정도를 확인하세요 !",
+		"6. 그릇에 예쁘게 담아 내면 끄~~~~~읕!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/98a340dc4a4633177e66e8f214f4bbdc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/28d0a18e56fb6af9d170cf8b79439dbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/bba2bf8a41e2c07e7a7525e05a700c211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/c076f533356e3655500e21c89b7d69061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/dcaf9c489950cbc36152d5ec97b379721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/04/69f901d7ab97c08696ada5b7c9aae7d61.jpg"
+	]
+}

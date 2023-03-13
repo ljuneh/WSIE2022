@@ -1,0 +1,46 @@
+{
+	"id": "6841379",
+	"name": "간단하게 끓이는 시원한 백합조개탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/10/60106c4e0d597c99797cebbcf7b837e91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6841379",
+	"ingredient_ids": [
+		30,
+		295,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "백합조개",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 해감한 백합조개를 준비합니다. 미끌거리는 것이 없어도록 씻어 줍니다.",
+		"2. 부추와 청양고추는 먹기 좋은 크기로 썰어 줍니다.",
+		"3. 냄비에 물 500ml와 백합조개를 넣고 끓입니다. 거품이 생기면 걷어 냅니다.",
+		"4. 조개가 입을 열면 고추를 넣고 소금 간을 합니다. 부추는 오래 삶으면 질겨지므로 넣었다가 한 김 오르면 바로 빼 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/10/792de728d132894c707719442bb11b151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/10/79072753254424c2bc6870cb87f904d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/10/c46b18e6120407421aa692b27722d1b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/10/402b28fef7fbd2cc85fb1109b8d140821.jpg"
+	]
+}

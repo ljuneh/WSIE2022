@@ -1,0 +1,81 @@
+{
+	"id": "1376495",
+	"name": "고구마 줄기 김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/75321edf1110a6a279938c995f06ed7c.jpg",
+	"url": "https://www.10000recipe.com/recipe/1376495",
+	"ingredient_ids": [
+		801,
+		29,
+		3,
+		142,
+		333,
+		543,
+		497,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마줄기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 준비된 고구마 줄기는 끓는 소금물에 살짝 데쳐 껍질을 제거해 주세요.",
+		"2. 믹서기에 적당한 크기로 썰은 양파, 홍고추, 마늘, 배를 넣고 멸치액젓을 함께 넣어 갈아주세요.",
+		"3. 청-홍 고추는 깨끗히 씻은 뒤 어슷어슷 썰어 주세요.",
+		"4. 볼에 준비된 고구마 줄기와 곱게 갈아둔 양념들과 청홍고추, 고추가루, 통깨를 넣어 잘 섞어줍니다. 마지막으로 설탕 소금을 넣어 간을 조절합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/03/21ab875bec5e067365ad445fa7e8678f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/03/22f3ba74e69d7708faa3625207af47991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/03/8444d856ca64588baf23eef6db85c7321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/03/1084ddc7e5a61d0063ee4f13efdc0a8d1.jpg"
+	]
+}

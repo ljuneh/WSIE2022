@@ -1,0 +1,85 @@
+{
+	"id": "1847500",
+	"name": "묵은지 닭찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/23/3d6ff2c79d765eec49dd0d9c586c304b.jpg",
+	"url": "https://www.10000recipe.com/recipe/1847500",
+	"ingredient_ids": [
+		923,
+		3,
+		923,
+		320,
+		90,
+		224
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "1",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "1",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "",
+			"ingre_unit": "몇개"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 나중에 탕국물을 위해 멸치와 다시마를 이용해서 육수를 우려주고요~~ 닭은 청주와 후추로 비린내 제거를 하고 물은 끓여서 닭은 살짝넣어 불순물과 기름기를 살짝 제거해주세요. 그리고 육수를 위한 다시마와 멸치는 빼주세요.",
+		"2. 그리고는 김치국물을 일정량 넣어주세요.",
+		"3. 그리고 묵은지 한통 다 넣어줘요~",
+		"4. 그후에 양파를 채썰어 넣어주면 끝입니다.",
+		"5. 요렇게 끓어오르면 고춧가루와 후추를 조금씩 더 넣어주고요. 저는 간을 봐가며 집에서 만든 새우가루와 다진마늘을 좀 넣어주었습니다.",
+		"6. 그리고 한번 더 끓여주면 됩니다.",
+		"7. 끓으면 묵은지는 먹기좋은 크기로 잘라주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/2b18884f58513ddd79104707546a5ac31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/7bdae458de65db7f30e6fe0165f4d4a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/49435f836e4e8db1dc83fa2c2aba92bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/85dd39089b5dfea25b3bc336f73d6b701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/83646ccd9034ddbb0d678bfe6960b49e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/5249709cc22328bb41ded9620bc3469d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/f805921e5b118ddd3fc2663f62e6be311.jpg"
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"id": "6940479",
+	"name": "크림 카레 리조토",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/eb706de7ffb2654f751b67164fc67b251.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940479",
+	"ingredient_ids": [
+		3,
+		295,
+		203,
+		198
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "너비아니",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "270",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 양파는 볶음용으로 잘 썰어주세요.",
+		"2. 청양고추도 작게 썰어주세요.",
+		"3. 약불에 냄비를 올리고 버터를 녹여주세요.",
+		"4. 양파를 넣고 노릇해질 때까지 볶아 주세요.",
+		"5. 우유를 넣어주세요.",
+		"6. 카레가루를 넣어주세요.",
+		"7. 청양고추를 넣고 끓여주세요.",
+		"8. 밥을 넣어주세요.",
+		"9. 체다치즈를 넣고 끓여주세요. 팔팔 끓여준 뒤 너무 졸이지 말고 불을 꺼주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/d8c36367c09367c098d29342970da8c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/d4af74e3b5c1cc33d7d3de415517a1781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/397765b4fb6355d70f61235f5915a3f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/33faffe62324c88b9903af7b3942c9451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/a4957a37ad231dd21279012aeff7c8931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/9a9222f7f2c450e57966bf93108198e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/6e732108b44f63654c9ffbb4a6bcac441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/173450d0de4afd6507a125d60bb47e891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/41d84a752b181a6e8d04440fcd22e90f1.jpg"
+	]
+}

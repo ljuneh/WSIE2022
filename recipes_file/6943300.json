@@ -1,0 +1,74 @@
+{
+	"id": "6943300",
+	"name": "추석요리 닭육개장 만들기 몸보신",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/4497af265d4844d8f58d6d4795e463c41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943300",
+	"ingredient_ids": [
+		3,
+		27,
+		1000,
+		379,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "작은닭",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "불린토란줄기",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "불린고사리",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "닭육수",
+			"ingre_count": "4",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 어린닭2마리 또는 토종닭하나를 30분이상 고아주세요~ 궁물은 그대로 둡니다.",
+		"2. 그동안 재료준비 파2대.다진마늘 4개 미리불린 토란줄기한줌.고사리한줌",
+		"3. 닭을 좀식혔다가 정성껏 살을 발라줍니다. 껍질은 좋아하는분만 넣어주세요",
+		"4. 고추기름을 내주세요~ 올리브유 4T.고추가루2T 약불로 불켜자마자 동시작업~",
+		"5. 남은 재료를 모두 넣고 볶다가 닭육수를 부어줍니다.",
+		"6. 간은 간장2T.소금1T로 해줍니다.",
+		"7. 그릇에 덜어 맛있게드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/5a4550cb00bbfde89266a59a2f78df231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/359040fea8aaed0cb41f32735263a3351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/6309b1dc38210532757532afe1846eb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/0bc869c3eaeea488c4c06540f6a8ed4e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/667c2484b3144655da3d89ec1c3c70561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/b6acc8e80fdc14d781fbe0b9c3579ff31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/91e73a272d73033c276c1bd4f6febe7c1.jpg"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"id": "6943871",
+	"name": "바지락 무밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/c14ba846dd2f43d77e74584855bf6bf81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943871",
+	"ingredient_ids": [
+		96,
+		19,
+		960,
+		660
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "조갯살",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다시마물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "생강술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 물1컵에 다시마를 넣어 1시간 정도 우려내어 다시물을 만듭니다.물1컵, 다시마1조각볼",
+		"2. 쌀을 깨끗히 씻어 30분 정도 불려 준비합니다.쌀1컵",
+		"3. 다시물을 넣어줍니다.",
+		"4. 쌀 위에 채썬 무를 덮어준 후 뚜껑을 덮어 밥을 합니다.",
+		"5. 밥이 되는 동안 참기름, 생강술을 넣어 바지락을 볶아줍니다.참기름1작은술, 생강술1큰술",
+		"6. 밥을 한 후 20분 정도가 지나 뜸을 들일 때 조갯살을 넣어줍니다.",
+		"7. 10분 정도 뜸을 들인 후 그릇에 담아냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/fbac38c9cbf3b83c60c032ae492569881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/eafa5d3dbd5591dee76459270461dae91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/a0da120ef9c38477a3ccf02c52ef834f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/fe53ee987912f9d1566688e43ab780991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/fef2171e5c05b24aa4ae21e65167d62c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/135e220379fbe3159c3909e6a24a04471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/b0e68182d87833a894bf3668a035126e1.jpg"
+	]
+}

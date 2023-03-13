@@ -1,0 +1,82 @@
+{
+	"id": "6942919",
+	"name": "산뜻함이 매력적인 초간단 비빔밥_상추 비빔밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/206fac7e838e1ac4508268038d6ab1c01.png",
+	"url": "https://www.10000recipe.com/recipe/6942919",
+	"ingredient_ids": [
+		16,
+		504,
+		224,
+		379,
+		231,
+		226,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "상추",
+			"ingre_count": "7",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 상추는 깨끗이 씻어 물기를 털어 준비한 뒤 먹기 좋은 크기로 잘라 주세요.",
+		"2. 큰 볼에 고춧가루, 간장, 식초, 설탕, 후추(한 번 톡), 참기름을 넣고 양념을 잘 섞어 주세요.",
+		"3. 손질한 상추를 양념장이 담긴 볼에 넣고 골고루 버무려 주세요.",
+		"4. 프라이팬에 식용유를 두르고 계란 프라이를 만들어줍니다.",
+		"5. 따뜻한 밥에 잘 무쳐진 상추무침과 계란프라이를 올려주면 맛있는 상추 비빔밥이 완성됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/10c7eabcb869ad0f14d1de23d895c4aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/c49e8f79164ce24dd2dcec7d90f98a351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/acfa635b49026e052a3815dc173ce7791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/91776f0f297ff68f420527449f0a9e0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/d4407f6737f3de38f6055a39c5faf9a91.jpg"
+	]
+}

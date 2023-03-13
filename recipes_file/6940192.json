@@ -1,0 +1,87 @@
+{
+	"id": "6940192",
+	"name": "시원한 음식 즐기기~ 청포묵밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/9f06eceab6716b44bd8491ff117045351.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940192",
+	"ingredient_ids": [
+		550,
+		8,
+		953,
+		575,
+		660,
+		1015,
+		379,
+		292,
+		231
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "청포묵",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "생김",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "붉은고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "4~5컵",
+			"ingre_unit": "~컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2~3큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 미리 갈아둔 멸치와 건새우, 다시마를 넉넉히 넣고 양파, 대파, 청양고추를 넣고 물을 부어 은근히 끓여 줍니다 다 끓으면 건더기는 건지고 간장과 연두를 넣어서 잘 섞은후 냉장고에 넣어 식혀 줍니다",
+		"2. 오이는 깨끗이 씻어서 채썰어 주고, 김치도 채를 썰어서 올리고당과 참기름을 넣고 고루 섞어 줍니다 생김은 한번 살짝 구워서 가위로 채를 썰어주고, 붉은고추도 조금 준비합니다",
+		"3. 청포묵은 먹기 좋은 두께로 길게 썰어 줍니다 대접에 청포묵을 담고, 오이를 듬뿍 올려줍니다 김치도 넉넉히 올리고 붉은고추와 생김, 참기름, 깨를 올려줍니다 시원해진 멸치육수에 양념재료를 넣어 고루 섞은후 그릇에 넉넉히 붓고, 얼음을 몇조각 넣어 줍니다",
+		"4. 청포묵은 탱글탱글, 부드럽고 넘 시원하네요 오이는 아삭하고 김치와 잘 어우러져서 넘 맛있어요 여기에 미리 식힌 밥을 조금 말아서 같이 드시면 더욱 좋아요 여름에 시원하게 한끼 먹기엔 참 좋은 묵밥이랍니다^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/320dcbea606f1726c5f7b25489c089c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/b4325bc6a50bedd31e22522260171fb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/da37ad4075e21f6792ee05e302822fb91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/26/1de1a830a992691404a70b10299ef1721.jpg"
+	]
+}

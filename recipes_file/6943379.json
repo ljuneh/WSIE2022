@@ -1,0 +1,70 @@
+{
+	"id": "6943379",
+	"name": "집밥/ 어묵 매운탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/50dd6d3d5969fd8b72e56389e3f88f671.gif",
+	"url": "https://www.10000recipe.com/recipe/6943379",
+	"ingredient_ids": [
+		548,
+		27,
+		3,
+		224,
+		473,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "내린육수2+1/2C",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 시중에 파는 어묵. 4장 들어있는 1봉지를 구매하여 먹기좋은 크기와 길이로 잘라서 준비한다.",
+		"2. 뚝배기에 대파 1/3줄기, 양파 약간을 썰어 넣고 고춧가루 1T를 넣어준다.",
+		"3. 고추장 1T도 넣어준다. 고춧가루만 넣으면 밋밋하고 고추장만 넣으면 텁텁하여 반씩 섞어서 끓이는 것이 좋다.",
+		"4. 내린육수 2C과 1/2C을 넣어서 한소끔 끓여준다.",
+		"5. 부르르 끓어 오른다. 칼칼한 냄새가 난다.",
+		"6. 끓기 시작할때 준비한 어묵을 넣어준다. 어묵을 넣으면 거품이 신기하게도  가라앉는다.",
+		"7. 부르르 한 번 더 끓여서 식탁으로 옮기면 되는데 싱거우면  소금으로 간을 해 주면 된다. 내 입맛에는 딱 좋은 것 같아서 소금간을 하지 않았다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/1763bd94520ae9a7550cec54bbd7ea291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/fa68dd96e1a3afa39f51e5a7b01b4b841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/61632a59536ed4a88a683f6d5460e2f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/7e03e2f565ee0b703ee244238765d1b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/0d00116a1ad017fd1435a2aa3f1cd3521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/8c90482bfaee31e6f5048428a422b2ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/c016b45bcf652f34314f94fc6891847b1.gif"
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"id": "6867023",
+	"name": "외국 불로그에서도 대박난 특별한 맛의 중국요리 동파육.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/17/5555cd2751c3676f5507f60b2a3d10141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867023",
+	"ingredient_ids": [
+		995,
+		379,
+		226,
+		227,
+		660
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "통삼겹살",
+			"ingre_count": "600",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "붉은양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파채",
+			"ingre_count": "50",
+			"ingre_unit": "그람"
+		},
+		{
+			"ingre_name": "참기름2작은술",
+			"ingre_count": "2",
+			"ingre_unit": "작은 술"
+		},
+		{
+			"ingre_name": "소금1/2작은술",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은 술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 삽겹살 통째로 600그람을 물이 끓을 때 넣어줍니다. 붉은 양파 한개도 껍질채 썰어 넣어요.",
+		"2. 중불에서 30분정도 끓여  젓가락이 쑤욱~들어갈 정도로 익으면 삽겹살을 건져주세요. 흐르는 찬물에서 깨끗하게 씻어요.",
+		"3. 1.5cm~2cm 두께로 썰어 팬에서 노릇노릇 익힙니다.",
+		"4. 물1컵. 간장 3큰 술. 설탕 1큰 술을 넣고 뭉근하게 서서히 조립니다. 국물이 거의 없어지면 꿀 2큰 술 참기름 1작은 술을 넣고  뒤적뒤적 하면서 조금 더 조립니다.",
+		"5. 참기름과 소금으로 밑간한 파채를 중심에 올리고... 완성된 동파육을 가장자리에 돌려 담기 해요. 음식을 그릇에 낼 때는 가장자리 여백이 있어야 요리가 돋보여요. 접시에 꽉 차게 담는 것은 절대로 금물~~ 정갈하게 조금씩만 담아냅니다*^^*"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/17/175f5637d9f1a9c287e8e2f0b73121f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/17/9aa25f462e29b716e3406de4032dd57c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/17/778b800ecab1650149eb838d1c1d79cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/17/d2dc75867c03595b361a973ddb246e4f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/17/842689865a355d27bf74038a77e2411e1.jpg"
+	]
+}

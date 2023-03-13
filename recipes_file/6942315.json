@@ -1,0 +1,72 @@
+{
+	"id": "6942315",
+	"name": "가래떡꼬치구이 말랑말랑 맛있는 에어프라이어요리!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/56e37ffccf65be663b210330789937091.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942315",
+	"ingredient_ids": [
+		473,
+		379,
+		515,
+		226,
+		225
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "케찹1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "칠리소스",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "찰조청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "가래떡",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 말랑말랑한 가래떡에 꼬치를 끼워주세요.가래떡이 많이 딱딱하다면 끓는 물에 데쳐 이용하세요.",
+		"2. 분량의 재료대로 양념들을 넣고 섞어준 뒤 불에 올려 뽀글뽀글 끓여 식혀주세요.",
+		"3. 가래떡 꼬치에 오일을 발라주세요.",
+		"4. 에어프라이어 석쇠 위에 오일을 바른 가래떡 꼬치를 올리고",
+		"5. 180도에서 6 ~ 7분 정도 구워주세요.에어프라이어각 가정의 에어프라이어 사양은 다 다르므로, 온도와 시간은 가감하세요!",
+		"6. 미리 만들어둔 꼬치 양념을 여러 번 발라주고 2 ~ 3분 정도 구워주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/7d95a05a72821374024d3b6ecbe22dec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/d0912ce20b0fdeb25c39414e4043bb971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/3a742441952432961fa0944e61d16c521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/533e9ace342c6a7a2654388dad3298571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/4dcc5aeee7fa2492f249c50ed5d809b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/a747bbd41e5ff304752f3a2b86f3267f1.jpg"
+	]
+}

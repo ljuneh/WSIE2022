@@ -1,0 +1,44 @@
+{
+	"id": "6945507",
+	"name": "빼빼로데이에는 초간단 호두 빼빼로 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/5ad20c4235e75a91f0efbfda8c19a1561.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945507",
+	"ingredient_ids": [
+		503,
+		557
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "초콜릿",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진호두",
+			"ingre_count": "2~3스푼",
+			"ingre_unit": "~스푼"
+		}
+	],
+	"recipe": [
+		"1. 식빵은 길쭉하게 잘라서 준비합니다.",
+		"2. 에어프라이어에 200도로 5분간 굽습니다.",
+		"3. 에어프라이어로 구운 식빵은 한김식혀줍니다.",
+		"4. 초콜릿은 중탕으로 녹여준후에 구운 식빵스틱에 묻혀줍니다.",
+		"5. 호두를 다져서 위에 굴려줍니다.",
+		"6. 이상태로 초콜릿이 굳을때까지 기다립니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/68f6b2fd04457fe8e91ac03ebed1f1281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/aa729908b0f569115f335aab1a8e25da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/41293615225218527f808f371dd544301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/f1b5f3f84e0930270bc98dbf617ddfb11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/359338abb1657b89065a46c0a45aebe81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/47dc6081c20389075a7c90693589c0331.jpg"
+	]
+}

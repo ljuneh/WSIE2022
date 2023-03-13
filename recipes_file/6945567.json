@@ -1,0 +1,124 @@
+{
+	"id": "6945567",
+	"name": "큐브스테이크덮밥 초간단 맛있는 스테이크요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/d814202a0b1245efe2e185bf4b545bcd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945567",
+	"ingredient_ids": [
+		52,
+		3,
+		757,
+		574,
+		497,
+		496,
+		577,
+		379,
+		226,
+		292,
+		575,
+		198,
+		28
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "한우꽃등심",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "숙주",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": "송송"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "1",
+			"ingre_unit": "접가락"
+		},
+		{
+			"ingre_name": "와사비",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		}
+	],
+	"recipe": [
+		"1. 네모네모 큼지막하게 썰어주신다음 소금,후추,올리브유 둘러서 잘 버무려주세요 ㅎㅎ",
+		"2. 양파하나 쪽파 8개정도 준비해주었어요 양파는 채썰어주시고 쪽파는 송송 썰어주세요!",
+		"3. 단무지는 얇게 썰어주세요 집에 있으심 활용하시고 없으시면 패스 있어서 그냥 그냥 사용했어요 ㅎㅎ",
+		"4. 후라이팬에 올리브유두르고 구워줘도 되고 저는 에어프라이어에 돌려서 겉면만 구워줬어요 ㅎㅎㅎ 소고기 오래 구울필요없이 살짝만 겉면만 익히는게 매우 중요한거 아시죠",
+		"5. 간장과 설탕, 올리고당, 간마늘 ,생강, 버터의 조합 이거 또 그냥 먹어도 맛있잖아요 양파를 자글자글 조려주세요 그런다음 남은 양념은 두시는 센스",
+		"6. 양파를 조리고 남은 양념에 숙주를 넣고 숨을 죽여줍니다 센불에 한번 살짝 볶고 남은 잔열로 익히시면 됩니다 :)",
+		"7. 샐러드도 준비했고 밥을 깔고 그위에 양파조림과 숙주무침을 올려주고 구운 스테이크도 올려줍니다 그리고 단무지 한젓가락 올리고 와사비 1t 올려주고",
+		"8. 쪽파 솔솔 뿌린다음 샐러드에는 견과류와 드레싱으로 마무리 해줬지요 큐브 스테이크 덮밥 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/4f1ee37f5ed81f7a46413592bf2a79b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/1eaa7687cdd31bbeda7a8f493f9eda3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/a13b136b59077424061e361b923c39771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/1e15533ac61419e26f2d2916027ac9161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/3d54b101521d2045ea1357a63011d0ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/b778fe0f528d57fa1a2551145878cd581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/ac45f071c951b376fbdc3bc0561134be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/1e374ea7b7b5194604fdda52f2b68f761.jpg"
+	]
+}

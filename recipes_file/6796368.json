@@ -1,0 +1,65 @@
+{
+	"id": "6796368",
+	"name": "백종원 비빔국수양념장 마이리틀 텔레비전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/279251f20c97ff4310cd6c200857cf9e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6796368",
+	"ingredient_ids": [
+		226,
+		379,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간양파",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "50",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "배주스",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다. 설탕,간장,간고기,다진파,간양파 1/2컵씩(100ml) 다진마늘 1/4컵(50ml) 티비에선 양파를 다졌지만 전 갈았답니다.",
+		"2. 배주스는 저같이 시중에 파는 갈아만든 배주스를 넣으셔도 되구요. 겨울내 드셨던 배즙있으면 그거 넣으셔도 됩니다. 사실상 저 배주스는 200ml 약 한컵이 조금 넘습니다. 그냥 다 넣었어요남겨서 뭐해요.",
+		"3. 모두모두 재료를 냄비에 넣고 고루섞어주세요. 바글바글 끓여줍니다. 재료와 양념이 잘 어우러지게 끓여주세요.",
+		"4. 거품이 올라오면 한번쯤 걷어내주세요. 고기를 넣었기에 거품이 올라옵니다. 10~15분정도 끓이면 됩니다. 다 끓으면 잠시 식혀줍니다.",
+		"5. 고추가루 2/3컵(150ml)를 넣고 고루 저어줍니다.",
+		"6. 양념장이 완성되었어요~  움...좀 되직하다고 해야할까요??그래요~ 여기에 김치국물, 참기름 , 식초, 깨소금등등을 첨가해서 비벼드심 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/eb968b2c63e34335c418e61d795b3a451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/8f87a2e7f9028fa3191795232c0b386d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/5d33dbfbb5a0034e79dbe6636757825a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/7c9338f0bdddcb69655dd28a90c193b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/807c4063ac7ffc9a4c7b4e80bcccfaed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/6920a316ec6c378aa0f69c571a6dfafc1.jpg"
+	]
+}

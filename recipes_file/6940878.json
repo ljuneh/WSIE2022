@@ -1,0 +1,43 @@
+{
+	"id": "6940878",
+	"name": "에어프라이어에 돼지고기 앞다리살 굽기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/02/1e51e0a47df290df5dfc42107a054b5d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940878",
+	"ingredient_ids": [
+		574
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기앞다리살",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "솔트",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 그냥 통째로 넣어도 되는데 칼로 절반을 나눴어요. 얇으면 빨리 익으니까요. ",
+		"2. 고기에 올리브유를 바르고 솔트를 뿌려줬어요. 솔트가 없으시다면 소금과 후추를 뿌려주셔도 됩니다. ",
+		"3. 190도에서 20분동안 구워줍니다.",
+		"4. 20분 후 집게로 한번 뒤집어서 한번 더 구워야겠죠? ",
+		"5. 2차는 180도에서 15분을 구웠어요.",
+		"6. 가위로 먹기 좋은 크기로 쉽게 잘랐어요. 비계가 완전 딱딱해지더라고요. 비계는 떼어내고 구워주셔야할거 같아요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/4f8f0e3907c54eaa15e11f68765846921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/29d92e5fa0c2796010d6c4037b7b9c001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/dc20cef00379edd3bd0b7461eb1cd0cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/86ce223c77fd79d885ebc657440e45781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/ecce0c347ffec8cd52f636dbb7ba9b5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/b7091442356aee911e8d07c8fd45a9aa1.jpg"
+	]
+}

@@ -1,0 +1,105 @@
+{
+	"id": "6940585",
+	"name": "시원하고 아삭한 양배추 김치 만들기! [시원한 음식 ]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/8495d433c90f7d9902af9048fb88e7231.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940585",
+	"ingredient_ids": [
+		21,
+		757,
+		3,
+		158,
+		29,
+		28,
+		939,
+		350,
+		545
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "4",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액기스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다시마우린물",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "2/3",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 양배추는 겉잎을 떼어 내고 가운데 심지 부분도 잘라 주세요. 굵은 줄기도 제거하고 적당한 크기로 썰어줍니다",
+		"2. 쪽파도 적당한 길이로 썰어 주시고 갈아줄 재료인 양파,홍고추, 사과는 대충 썰어줍니다. 사과는 작은 것은 반개 큰 것은 1/4 조각정도만 준비하시면 됩니다.",
+		"3. 양배추는 물 1.5L에 천일염 2/3컵을 녹여서 소금물에 40분정도 절여줍니다",
+		"4. 물 2/3컵에 다시마 몇조각 넣고 다시마를 우려내서 다시마 물을 만들어 주세요 15분정도면 충분합니다",
+		"5. 갈아줄 재료 쪽파를 제외하고 다 넣고 다시마 물로 갈아 주세요",
+		"6. 분량의 액젓,고추가루,매실청  넣어 양념을 만듭니다.",
+		"7. 절여진 양배추는 물에 가볍게 씻어 주시고 물기를 잘 빼주세요. 준비한 양념 넣고 쪽파 넣고 버무립니다.",
+		"8. 깨소금 솔솔 뿌려서 마무리합니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/2a541475e569c47cfe3909462766dc171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/5db84472607f1a46b8394eea67b25e101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/ce9feaa0d26c75636a81042403c083b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/4d7afb89e5aac7900f5c36876acfaabb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/3b675d5117f323b45a19c59f8ef286eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/b6385e988f3959953c5839a6916fdab71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/bfb9838a6a5f7b7841e6eddd29c8a76b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/2495b24520ce69028aa2ab5b2a9bc14c1.jpg"
+	]
+}

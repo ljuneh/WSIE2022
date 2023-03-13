@@ -1,0 +1,95 @@
+{
+	"id": "6943653",
+	"name": "얼큰한 돼지고기 김치찌개(국물요리, 김치요리, 소주안주,밥반찬)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/bfaf3e793f9e72ad667d2545b00e5c041.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943653",
+	"ingredient_ids": [
+		487,
+		27,
+		995,
+		226,
+		390,
+		224,
+		349,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "1/2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2.",
+			"ingre_unit": ".공기"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 김치와 고기는 한 입 크기로 잘라 냄비에 넣는다.(고기는 기름기가 조금 있는 부위가 더 맛있다.)",
+		"2. 새우젓도 넣고,",
+		"3. 고춧가루, 설탕, 후추도 넣어준다.",
+		"4. 고기가 익도록 볶아준다. (돼지기름이 충분히 스며나오도록 볶는다.)",
+		"5. 생수를 넣는다.(고기의 맛이 우러나기 때문에 굳이 육수를 쓸 필요가 없다.)",
+		"6. 다진 마늘도 넣어주고,",
+		"7. 센불에서 끓여준다.",
+		"8. 끓기 시작하면 약불로 해서 국간장으로 간을 하고 뚜껑 덮어서 약15-20분간 끓인다.(집마다 김치 염도가 달라서 국간장의 양은 그에 맞게 조절해주는게 좋다.)",
+		"9. 국물이 진하게 우러나고 김치가 살캉하게 익으면 대파를 넣고,",
+		"10. 2분간 더 끓인다.",
+		"11. 보글보글 끓으면 뜨거울 때 맛있게 먹는다!(기호에 따라 두부를 넣어도 좋아요~)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/33a68f8b7148d46525d3fc4bbf2ef0911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/c94a91505e0a16c7e756b0a894d3b5f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/42463c1d58ef151e39996dea49d9029e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/fda73d4529f201121ee48fe7f0c227331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/8cae5351d3b70517ece23225985aee0e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/ec2fcec6e8135183d301a10007bb27521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/b298fd76e8a93d2ae20aef2cec7387ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/769f56aefb89cc4d5a4e42f07da80db31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/fa0892bbb59d1acfacfc8cf8a2af0cf81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/8575170d5dcc59c68d63e06c7ce417c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f8649735664e723a7c6ad4080c431afa1.jpg"
+	]
+}

@@ -1,0 +1,446 @@
+{
+	"id": "6941658",
+	"name": "코로나극복~!! 면역력을 높여주는 나물반찬 5가지와 나물반찬을 이용한 나물요리 3가지",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/11a8f0554c5643fc5f2a0f0c6b6633171.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941658",
+	"ingredient_ids": [
+		233,
+		282,
+		327,
+		543,
+		349,
+		29,
+		327,
+		27,
+		543,
+		47,
+		27,
+		233,
+		660,
+		497,
+		543,
+		2,
+		379,
+		660,
+		497,
+		543,
+		19,
+		27,
+		233,
+		327,
+		497,
+		543,
+		41,
+		38,
+		2,
+		47,
+		473,
+		543,
+		219,
+		504,
+		482,
+		2,
+		47,
+		41,
+		38,
+		660,
+		543,
+		473,
+		47,
+		2,
+		41,
+		15,
+		543,
+		660,
+		497,
+		504
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "깐도라지",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "삶은고사리",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "연두",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고사리",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "도라지",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "날치알",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고사리",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "도라지",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무나물",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "묵은김치",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "쇠고기산적",
+			"ingre_count": "2",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "묵은김치겉잎",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "시금치",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고사리",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "도라지나물각",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "8",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 도라지의 쓴맛을 없애기 위해 굵은 소금 1큰술을 넣어 20분 정도 둔 후 바락바락 씻어줍니다.도라지400g, 굵은 소금1큰술도라지의 쓴 맛을 없애기 위한 방법이에요.",
+		"2. 물기를 짠 도라지에 들기름을 넣어 달달 볶아줍니다.들기름1큰술팬중불",
+		"3. 도라지에 들기름이 베이면 다진 마늘, 소금을 넣어 볶아줍니다.다진 마늘1작은술, 소금 약간",
+		"4. 통깨를 뿌려주면 도라지볶음 완성~!!통깨 약간",
+		"5. 달군 팬에 들기름, 다진 마늘, 파를 넣어 볶아줍니다.들기름1큰술, 다진 마늘1작은술, 대파 약간팬약불",
+		"6. 마늘향이 올라오면 삶은 고사리와 국간장을 넣어 볶아줍니다.삶은고사리400g, 국간장1.5큰술중불",
+		"7. 통깨를 뿌려주면 고사리볶음 완성~!!통깨 약간",
+		"8. 끓는 물에 깨끗히 씻은 콩나물을 넣은 후 뚜껑을 덮어 삶아줍니다. 콩나물의 익은 냄새가 나면 콩나물을 건져 찬물에 넣어 식혀줍니다.콩나물300g콩나물이 완전히 익은 후에 뚜껑을 열어야 비린내가 나지 않아요.",
+		"9. 물기를 짠 콩나물에 다진 마늘, 대파, 소금, 참기름을 넣어 버무려줍니다.다진 마늘1작은술, 대파 약간, 소금1/2작은술, 참기름1큰술",
+		"10. 통깨를 뿌려주면 콩나물무침 완성~!!",
+		"11. 끓는 물에 다듬은 시금치를 넣어 살짝 데쳐줍니다.시금치1단",
+		"12. 찬물에 식혀 물기를 꼭 짠 시금치에 간장, 참기름, 소금을 넣어 무쳐줍니다.간장1큰술, 참기름1큰술, 소금 약간",
+		"13. 통깨를 뿌려주면 시금치무침 완성~!!",
+		"14. 달군 팬에 들기름과 다진 마늘을 넣어 볶아줍니다.들기름1큰술, 다진 마늘1작은술팬약불",
+		"15. 마늘향이 올라오면 채썬 무를 넣어 볶아준 후 뚜껑을 덮어 익혀줍니다.무1/3개팬중불",
+		"16. 무가 익으면 연두, 소금, 대파를 넣어 볶아줍니다.연두1큰술, 소금 약간, 대파 약간",
+		"17. 통깨를 뿌려주면 무나물볶음 완성~!!통깨 약간",
+		"18. 볼에 따뜻한 밥과 통깨, 고추장을 넣어 줍니다.밥1공기, 통깨1작은술, 고추장1작은술",
+		"19. 도라지, 고사리, 콩나물, 시금치를 다져 넣어 준 후 잘 섞어줍니다.도라지볶음20g, 고사리볶음20g, 콩나물무침20g, 시금치무침20g",
+		"20. 비빔밥을 둥글고 도톰하게 꼭꼭 뭉쳐줍니다.꼭꼭 뭉쳐줘야 구울 때 흐트러지지 않아요.",
+		"21. 푼 달걀에 주먹밥을 넣어 달걀물을 묻혀줍니다.댤걀1개",
+		"22. 달군 팬에 기름을 두르고 앞, 뒤로 노릇하게 구워줍니다.식용유1큰술후라이팬중불",
+		"23. 나물주먹밥구이 완성~!!",
+		"24. 뚝배기에 참기름을 솔로 발라줍니다.참기름1큰술뚝배기, 기름 바르는 솔",
+		"25. 뚝배기에 따뜻한 밥을 담아줍니다.밥1공기",
+		"26. 도라지, 고사리, 콩나물, 시금치, 무나물, 다진 김치를 밥 위에 올려줍니다. 그리고 고추장, 통깨, 날치알, 김가루를 올려줍니다.도라지볶음20g, 고사리볶음20g, 시금치무침20g, 콩나물무침20g, 무나물20g, 다진 김치30g, 고추장1작은술, 통깨 약간, 날치알2큰술, 김가루 약간",
+		"27. 불에 뚝배기를 올려 지글거리는 소리가 나도록 5분 정도 누룽밥을 만들어줍니다.",
+		"28. 뚝배기 나물알밥 완성~!!",
+		"29. 달군 팬에 기름을 두르고 쇠고기산적을 구워줍니다.쇠고기산적2토막, 식용유1큰술후라이팬",
+		"30. 따뜻한 밥에 통깨, 소금, 참기름을 넣어 섞어줍니다.밥2공기, 통깨1작은술, 소금1/2작은술, 참기름1큰술",
+		"31. 김밥김 위에 양념한 밥을 펼쳐놓고 깻잎을 올려줍니다.김밥김1장, 깻잎2장",
+		"32. 씻은 후 손으로 쭉쭉 찢어 준비한 배추 겉잎을 펼쳐주고 그 위에 쇠고기 산적, 도라지, 고사리, 콩나물, 시금치를 올려 돌돌 말아줍니다.배추겉잎1/2장, 쇠고기산적1/2토막, 도라지볶음20g, 콩나물무침20g, 고사리볶음20g, 시금치무침20g 김발",
+		"33. 먹기 좋게 썰어주면 나물김밥 완성~!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/bd2bfaf8ff71659a42c6b848b1d677111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/96476313baaf6b4fc67672297c5fcfdb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/5aa1fecfc06008b4ec8ec99e3a26a0031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/167a392509d06ad54432bf89ca32d6461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/8ce4c80a4c583be9c06e761a7e49230c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/8e98dbdfb594db5bbe747c05ba0c437c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/cb69063aa525a7645a2e9ed98b4955161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/2c95535bf01cbbb49494d541985c60a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/1d1b9ecebe2b4a55c2b55e97c97bc20e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/be460de5badd79f3240a5b1685b6eb441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/afe45450f90521fa8a7b6a8767146af41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/96fef88a2a9364073c16ed161ca8fb581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/76c252aaaf0f199553717d7c683c341b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/56e1689b35c3c1f9552bc1a0308fb6a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/fc40dfb0adaa06f36919516e1f3095831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/baa7bc628016e80df9757b61a8da6c221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/7a9199b11d25688d40c709b74dd3cbdb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/66df89d23a018e6873491d2a37d182b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/6f3cd74fc9382a286f44cba1793657621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/c5c4417e309c126aaa6a26a55c78e9b21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/d3eee03c6424774eee465fb80ebf84fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/b07d965b2567caa10bfc1c7dd89078331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/5d831783a06d9ab963bddce5e7cd92361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/a8d0114af9528278538c6e11248b1e6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/390791377924eb5c4c337d69519af5181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/fef93cc477734c93f8ed9aebe08f9e7b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/03c6c9167181e27e8d04489547417a301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/f25c223afb115e6a11c53bdae5a3b93d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/45a0d193ea9baa96411bbf9e1cbf54ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/741d20c65abc50fa8fa744bb4559e79b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/dc9b07ad27e46ac84af616379106b1db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/ec68fef6207f40e2851e05e1e27e88eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/1fa7d9c68d82b56cafadb4b354e97a8a1.jpg"
+	]
+}

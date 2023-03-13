@@ -1,0 +1,90 @@
+{
+	"id": "6945122",
+	"name": "입에서 사르르 녹는 햄치즈 에그마요 샌드위치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/52480dd4e16140bc9d98cb253cef8e8d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945122",
+	"ingredient_ids": [
+		503,
+		201,
+		228,
+		226,
+		3
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "머스타드",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "스위트칠리소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 소금을 톡톡 뿌리고 계란은 끓는 물에 12분간 삶아 완숙 계란을 만들어주어요!강불물이 끓고부터 12분이기 때문에 대략 13~14분정도 끓여주시면 됩니다.",
+		"2. 양파 1/4 조각을 얇게 썰어주어 대략 7~8분 동안 물에 담가 주세요.양파의 매운기를 빼기위해 물에 담궈주는 것이랍니다.",
+		"3. 스팸을 원하는 두께로 구워 주세요.너무 두꺼우면 특유의 스팸 맛으로 인해 다른 재료들의 맛이 잘 안느껴진답니다!",
+		"4. 양파의 물기를 빼주어요.",
+		"5. 노른자와 흰자를 분리하고 노른자를 가루가 되도록 으깨 주어요.에그마요의 꿀팁입니다! 노른자를 으깬 뒤 소스를 섞으면 몇배는 더 부드러운 맛을 느낄 수 있어요.",
+		"6. 흰자는 씹는 감이 있도록 취향껏 다져주세요.",
+		"7. 마요네즈, 머스타드, 설탕을 넣고 잘 섞어 주세요.",
+		"8. 다진 계란 흰자를 넣고 잘 섞은 뒤 후추를 뿌려 한 번 더 섞어 주세요.",
+		"9. 재료 준비가 끝나면 빵 -> 햄 -> 치즈 -> 양파 -> 계란 -> 칠리소스 순으로 차곡차곡 쌓아주어요.재료를 넣는 순서는 상관없지만 평평한 재료부터 넣는 것이 흐르지 않고 편하답니다.",
+		"10. 종이 호일이 있다면 바닥에 반쯤 놓은 뒤에 샌드위치를 만드시면 드실때 편합니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/a9ac6f2628671fa56483adc4be560b381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/f2bf9ad50493f0f1fe6a9b39e306047c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/14048637735fca99523d0232db99f7721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/53821b8c3709eb304a6517b923f8c0041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/eaaa37198dbeb6be082644dfba3602281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/88704fe60ee9c14682858f69e1d4530b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/6e06a480d8dbfcefb99f5ea4efc62fba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/62cd6c616bee17f122e9700a9254310b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/95ae72acaf14d37fc3ff3a809d58438f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/783ff50532f49d7aa6928cb455a0dd8a1.jpg"
+	]
+}

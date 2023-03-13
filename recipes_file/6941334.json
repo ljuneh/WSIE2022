@@ -1,0 +1,64 @@
+{
+	"id": "6941334",
+	"name": "집밥 메뉴/ 손님상 요리/ 애호박전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/d423741e1dc92d1dbe3cd6135000bfe31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941334",
+	"ingredient_ids": [
+		7,
+		219,
+		234,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "붉은고추(혹은적파프리카)",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파혹은부추",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가는소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 채소 준비: 애호박은 1/2개 먹기 좋은 두께로 썰어서 준비하고, 붉은 고추는 반을 갈라 씨를 털어내고 다져 주었다. 냉장고에 쪽파가 있어서 잎 부분만 잘게 썰어 준다.",
+		"2. 달걀 2개에 가는 소금 1/4ts를 넣고  잘 섞어 준비한다.",
+		"3. 썰어서 준비한 애호박에 밀가루를  입혀 달걀물에 퐁당  넣어준다.",
+		"4. 팬에 식용유를 넣고 약한 불에서  한 면을 익힌후 뒤집어서  고명을 올려준 뒤 익혀준다. 여러번 뒤집지 말고 이렇게 두번만 뒤집어 주면 된다.",
+		"5. 만들기도 쉽고 먹기도 좋으며, 이렇게 전을 부쳐 놓으면 색다른 느낌으로 식탁이 밝아지는 느낌이 든다.  간장 1T, 설탕 1T, 레몬즙 1T 로  초간장을 만들어 곁들이면 더욱 좋다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/edc99cfd989ce31a89b47913a9e732d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/c3b1b138048e98148d200f25c4c5432b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/a263814e0ac2f4331d74faae601b4ad91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/042d3f4d701f311e30e3e7fab48a6c691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/75f7d896b9af14698581af5b0354f5031.jpg"
+	]
+}

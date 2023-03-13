@@ -1,0 +1,113 @@
+{
+	"id": "6942948",
+	"name": "추석나물요리 누구나 좋아하는 나물로만 삼색나물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/bf9784d432e0b87b25cb347d96888a661.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942948",
+	"ingredient_ids": [
+		41,
+		38,
+		282,
+		226,
+		327,
+		665,
+		379,
+		497,
+		29,
+		543,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고사리",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "도라지",
+			"ingre_count": "581",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "데친숙주",
+			"ingre_count": "3",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "조미료",
+			"ingre_count": "",
+			"ingre_unit": "소량"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 도라지는 손질해서 절입니다",
+		"2. 손질한 고사리에 들기름을 넣고 볶습니다",
+		"3. 고사리에 순서대로 양념을 하고 볶습니다",
+		"4. 절인 도라지는 물에 헹궈 꼭 짠후 볶습니다",
+		"5. 도라지에 순서대로 양념을 하고 볶습니다",
+		"6. 물을 끓여 숙주를 데칩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/51463f66d93854c2a440e6fb84c401be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/3a917279964e0ee7e2c1c4d3ebd6f4bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/a65efb234f534840ec84809d76a1a5701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/cfaf093a3e7c567d0a7a99570c93ee891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/bdffcb4cfd40021838cc4d8baaa34f2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/aeaa51d422b555b2c5db4ad31ba38fe81.jpg"
+	]
+}

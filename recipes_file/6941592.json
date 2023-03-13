@@ -1,0 +1,60 @@
+{
+	"id": "6941592",
+	"name": "(아기반찬) 병아리콩자반",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/b47cf46821d1d7f8a1dd677b6aa6fcbb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941592",
+	"ingredient_ids": [
+		113,
+		847,
+		995
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "병아리콩",
+			"ingre_count": "1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "아기간장",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "배즙",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요물200ml, 아기간장 1t, 배즙 2t, 병아리콩 (종이컵 반컵)냄비",
+		"2. 병아리콩을 1시간 이상 물에 불려요.병아리콩을 따로 찌지 않고 바로 졸이기 위해서는 불리는 작업이 꼭 필요해요.",
+		"3. 물에 불리면 이렇게 껍질이 분리돼요아가가 먹을거라 소화가 잘 안되는 껍질은 모두 벗겨내요",
+		"4. 껍질을 모두 제거하고",
+		"5. 흐르는 물에 가볍게 씻어요",
+		"6. 물, 아기간장, 배즙을 한 곳에 합치고",
+		"7. 냄비에 껍질 깐 병아리콩과 졸임물을 넣어요",
+		"8. 냄비 뚜껑을 닫고 최약불로 서서히 쪄요최약불꼭! 최약불로 천천히 쪄주세요",
+		"9. 조금씩 졸아들어 육수의 양이 1/3쯤 될 때 뚜껑을 열어서",
+		"10. 타지않게 계속 저으면서 볶아요",
+		"11. 계속 졸이다보면 맛있는 병아리콩자반이 완성됩니다.!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/64bd2773eff47709e0332386617f501a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/e87f05b7e0927364292cd9a98a358eb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/f848aac02d23afb4bda5dd91822112cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/52961265a3610abcfc9f5f4e7df190331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/a63727ad44fb4fcb73592de6a33ab1f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/ad1099771c5b2ab8d6ee0f3c232b0aed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/9cde2a39fff9c64c6d8c655e90c29edc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/1541856ffc6a6f422fa7e0a27ece49a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/73b284040f69e6aded905e9181dc86e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/c790eabe5d5351a53a2587c086c6d6031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/7780bfa893a5d92c069f9b45adf51fb51.jpg"
+	]
+}

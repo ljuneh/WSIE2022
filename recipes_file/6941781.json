@@ -1,0 +1,79 @@
+{
+	"id": "6941781",
+	"name": "오므라이스의 업적 - 아이에게 야채를 먹여라!! ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/c8c50bdb774d7ba157e25ccbde8ed95a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941781",
+	"ingredient_ids": [
+		9,
+		54
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "​감자작은것",
+			"ingre_count": "1",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "양파보통크기",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "1-2개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "소금2/3작은술",
+			"ingre_count": "2/3",
+			"ingre_unit": "작은 술"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "계란2개​",
+			"ingre_count": "2",
+			"ingre_unit": "개 ​"
+		}
+	],
+	"recipe": [
+		"1. 감자와 당근, 버섯은 잘게 잘라 주세요.",
+		"2. 양파는 뿌리쪽을 붙여 둔 채로 칼집을 넣어 잘게 잘라 줍니다.",
+		"3. 계란은 미리 풀어 준비합니다.",
+		"4. 팬을 달구고 오일을 넣은 후 당근과 감자를 먼저 볶아 줍니다. 사이즈가 작기 때문에 2-3분만 볶아 주시면 되어요.",
+		"5. 버섯과 양파도 볶아 주어요.",
+		"6. 야채들 위로 소금 간 약간을 해 줍니다.",
+		"7. 밥을 넣고 밥 위로 나머지 소금을 이용해 간을 해 줍니다",
+		"8. 야채와 밥을 골고루 섞으며 볶아 줍니다.",
+		"9. 프라이 팬을 달궈 기름을 얇게 발라 줍니다.",
+		"10. 풀어 놓았던 계란을 약한 불로 타지 않게 부쳐 줍니다.",
+		"11. 그릇에 밥을 담고 그 위로 계란을 덮어 주세요. 그리고 케찹을 뿌려 먹어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/fd2acb3b3ee76cf06f54bf8393548c681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/fa0a9c60a900ee774f90342456a7d16a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/616f8aa5df2536881082d32cdd72f0281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/8c06e8cf2c4ddeac4f37b215b1e9c0701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/fa4afab8f4486b6a694cf66bd75b09be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/5510a7b5922854d12acea712c7290aea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/85b597034b18bd0848d19c366cef2d511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/63115564c617a76e89a7a1bcb3f6ebbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/7d1dcf18897251cbed525ff5b93d53571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/ff3d44c8446fffd9e05814db4ef0965b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/85b100a3b5a024bae4bd533f87ffade81.jpg"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"id": "6942362",
+	"name": "정식품 콩국물 활용요리 콩국물빙수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/91eaac3a235e7f84405db778534e73941.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942362",
+	"ingredient_ids": [
+		204,
+		155
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "정식품콩국물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "찹쌀떡",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "딸기",
+			"ingre_count": "2~3알",
+			"ingre_unit": "~알"
+		}
+	],
+	"recipe": [
+		"1. 콩국물 반정도(500ml) 냉동실에 얼려줬습니다. 저처럼 세워서 얼려도 좋지만 나중에 얼려서 부셔셔 먹을꺼라 눕혀서 얼리는게 부시기 좋습니다.",
+		"2. 얼린 콩국물을 바로 꺼내면 꽁꽁 얼었기 때문에 꺼내놓고 약 5~10분정도 조금 녹여주신 뒤 이제 흔들고 때려서 으깨주시면 되겠습니다. (믹서기로 갈아주셔도 좋아요)",
+		"3. 얼린 콩국물을 손쉽게 꺼낼수 있도록 윗면을 가위로 잘라주세요.",
+		"4. 그대로 뒤집어서 그릇에 담아주시면 되겠습니다.",
+		"5. 빙수 위에 고명을 올릴건 취향껏 준비해주시면 되는데요. 저는 찹쌀떡을 준비해봤습니다. 먹기좋게 4등분 혹은 6등분으로 잘라주세요. (한입에넣기좋게)",
+		"6. 콩국물 빙수 위에 잘라둔 떡을 고명으로 올려세요.",
+		"7. 콩국물 자체에 단맛은 없으니 취향껏 추가해주시면 되는데요. 꿀도 좋지만 아무래도 연유랑 궁합이 잘 맞더라고요. 연유도 뿌려줬습니다.",
+		"8. 그리고 과일이라던지 시리얼 혹은 과자도 함께 올려드시면 맛있답니다 : )"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/e40af20131019b61566c5b8579f860dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/5a6f4dc21d6d25f9973cc9819b1211c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/bb157d0dfbdf8b38c832cd94717f67db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/7baf237fee4a2347f4a10f232c93ffef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/ec3978756d83b7ba31d62b80a7a65d5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/257549acdd178bd4612b1e7ba3474f631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/3a431305020587409ec28d9699c6c2131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/4f531aa9020e02dfd22f8b9317fda1701.jpg"
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": "3190855",
+	"name": "대추차 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/5be0e1c76d0f12828bed2a110419ddf9.jpg",
+	"url": "https://www.10000recipe.com/recipe/3190855",
+	"ingredient_ids": [
+		132,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "대추",
+			"ingre_count": "10",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 대추 10줌에 물은 자작하게 넣고 끓여주세요.",
+		"2. 끓으면서 대추가 빵빵하게 부풀어 올라 냄비 밖으로 튀어나오려고 하니 숨을 가라앉히기 위해 몇번씩 휘저으면서 터트려주세요.",
+		"3. 국물은 냄비에 그대로 걸러두고, 대추를 채에 걸러서 누르고 비벼가며 내려줍니다.",
+		"4. 암튼 처음 대추 끓였던 물에 채에 내린 대추를 합쳐서 불에 올려 팔팔 30분정도 끓여줍니다. 이때 설탕을 넣는 경우도 있는데 저는 대추만으로 충분히 달아 아무것도 안넣었어요. 더 단맛이 좋은분들은 나중에 차로 마실때 꿀을 넣어 마시는게 좋을 것 같네요.",
+		"5. 유리병은 끓는물에 소독해서 끓인 대추차를 넣어 마개를 꼭 닫아 뒤집어서 충분히 식힌후에 냉장보관하면 끝!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/6a1b34ecf857842d8827553bcac8a7611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/e9dc32c1edaf570c03190a5bcf31e44f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/0e9cd98018c28d08e6a6ab29ce9fe39d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/68580bdc10eed7df1a16e756403cf4321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/15/f7daa13803b9a9cdad8bbf5427d77e98.jpg"
+	]
+}

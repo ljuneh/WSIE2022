@@ -1,0 +1,54 @@
+{
+	"id": "6941851",
+	"name": "열무김치된장지짐~남은 열무김치를 별미반찬으로",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/fd69884bdb4483f45f950dbd3debe9e01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941851",
+	"ingredient_ids": [
+		295,
+		848
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "익은열무김치",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시멸치",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "아주조금"
+		}
+	],
+	"recipe": [
+		"1. 여름내 먹었던 열무김치가 좀남아있었네요",
+		"2. 찬물에서 양념을 깨끗하게 씻어주세요 저는 짠맛과 고추가루냄새를 빼기위해서 2~3시간을 담구었어요",
+		"3. 씻은열무김치를 꼭짜주신후 냄비에 담아주시고 열무김치가 살짝 잠길만큼 물을 부어주세요",
+		"4. 다시멸치를 머리와 내장을 제거한후 넣어주시고 된장을 풀어주신후 센불에서 펄펄 끓여주세요",
+		"5. 저는 칼칼한맛을 위해서 청양고추를 넣어주었어요",
+		"6. 센불에서 10분을 끓이시다가 중약불에서 10분을 더 끓여주시면 별미반찬인 열무김치된장지짐이 완성이 되었어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/0bf7438c811f9069399e5ee60ed2a2611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/d290b48fcf89615f41e6a6e8aa399d761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/9cf8a2ce15e416a3defde52212757b571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/0cc75087aa87563d45179f275f0e99581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/70702cbac9d36a7a93bbdfce00bd9e261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/93ab8d44e389341b105d3a703db5df991.jpg"
+	]
+}

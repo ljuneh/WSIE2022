@@ -1,0 +1,33 @@
+{
+	"id": "6942725",
+	"name": "홈메이드 펄슈가 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/e85dbf85b12b7d372d8bd6df2c24b68f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942725",
+	"ingredient_ids": [
+		483,
+		995
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "백설탕",
+			"ingre_count": "75",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼이하"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 설탕 전부 넣고, 물은 일단 0.5 티스푼만 넣어보세요.  불은 최대한 가능한 약불로 유지해요. 숟가락으로 저어주며 설탕이 뭉치게하면서 수분을 날려주세요.한번에 0.5 큰스푼을 다 넣으면 물이 너무 많아서 카라멜라이징될 수 있어요.",
+		"2. 만일 계속 설탕이 뭉치지 않으면 티스푼으로 2방울 정도 소량으로 추가하면서 진행하세요.  계속 젓다보면 딱딱하게 뭉쳐서 설탕이 깨지지 않는 형태가 되어요. 중간 중간에 적당한 사이즈가 나오도록 뭉쳐주고 깨주기를 반복하세요.",
+		"3. 10분 이내면 깨지지 않는 딱딱한 설탕이 완성되어요.  볼에 넣어 식힌 후 사용하세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/50135c4d864c3af498ab525cc87ce46c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/e46ae42b1d9b6e6b782397cde9ee73b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/24/5c43471e7f9a050b5983653f6acb2d831.jpg"
+	]
+}

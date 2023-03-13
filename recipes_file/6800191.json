@@ -1,0 +1,55 @@
+{
+	"id": "6800191",
+	"name": "된장으로 무친 시금치나물",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/29/026b710c63099a7668bc45189e0c06fe1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6800191",
+	"ingredient_ids": [
+		848,
+		233,
+		224,
+		350,
+		327
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 시금치는 손질해줍니다.",
+		"2. 시금치는 끓는물에 소금넣고 살짝만 데쳐줄께요.",
+		"3. 볼에 된장1큰술, 다진마늘 1작은술, 고춧가루 약간 깨소금약간, 들기름 약간 넣어줍니다.",
+		"4. 된장양념을 미리섞어놓은 볼에 시금치를 넣어줍니다.",
+		"5. 가볍게 조물조물 무쳐주면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/29/04f247cca8b0064fca2d12c5dc4643621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/29/91e24704a89b24a4432b09a592b9863a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/29/f671ecdb9639f545351416d9269734381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/29/de9a7e26821047fdda870e5ad513d0171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/29/86bc5a0c8ea74d82bb9acc09bce20e891.jpg"
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"id": "6943522",
+	"name": "실패하지 않는 치킨무 만들기, 맛있는 비트 치킨무",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/fe2cf82a955e922dd2b02b7ccc90526a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943522",
+	"ingredient_ids": [
+		19,
+		44,
+		995,
+		226,
+		231
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "무",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "비트",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2.",
+			"ingre_unit": ".L"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 재료를 모두 준비해 주세요.비트는 없으면 생락하셔도 되요. 저는 새깔을 예쁘게 내고 싶어서 넣어봤어요~",
+		"2. 물, 설탕, 식초를 넣고 끓여 주세요.",
+		"3. 이렇게 팔팔 끓으면 불을 끄고 식혀 주세요.",
+		"4. 열탕소독한 병을 준비해 주시고요.",
+		"5. 무를 깍둑썰기 해 주세요.",
+		"6. 비트도 깍둑썰기 해 주세요.",
+		"7. 무랑 비트를 적당히 섞어서 넣어 주세요",
+		"8. 한 김 식은 단 식초물을 모두 잠길 만큼 넣어 주세요.",
+		"9. 뚜껑을 잘 닫고 뒤집어서 하루 정도 실온에 두세요.뒤집어 두면 진공상태가 됩니다.",
+		"10. 하루 지난 모습이에요.이제 냉장고에 넣어서 차갑게 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/9d593a59136bff2544f83849ac4359fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/ea63d73a5813345f5ece9e3bd267d7491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/3c3663c565b2806f33a5386f81cf39e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/010f8c7464d9ff14cd776d760310b7301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/cbda88b9b116277f76b82bbc5db25aa81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/b1b70758449d537a148851633ce3aded1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/22c0a85bba7f8abb21a624fbf56620e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/377e6f90ac3307a918d70070c7655f9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/2f986e144057ddeec03a3a2da337ba091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/43b82167bcaed5741f8950360d0d75df1.jpg"
+	]
+}

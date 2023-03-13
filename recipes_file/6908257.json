@@ -1,0 +1,53 @@
+{
+	"id": "6908257",
+	"name": "담백 고소한 계란떡볶이◡̈*✧",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/03/12/10f19d6b16a9d82d72248cf24b49c0981.jpg",
+	"url": "https://www.10000recipe.com/recipe/6908257",
+	"ingredient_ids": [
+		3,
+		198
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "떡",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 기름을 두르고 버터 한숟갈 고르게 둘러주세요",
+		"2. 중불에서 양파를 넣고 볶기",
+		"3. 소금 후추도 넣어주세요 (저는 후추는 많이 소금은 0.7T?정도 넣었어요 입맞에 맞게 가감해주세요!!)",
+		"4. 양파가 익으면 떡을 넣어주세요 여기도 소금간 필수!!!!",
+		"5. 양파와 떡이 노릇해질때까지 볶아주세요",
+		"6. 약불로 줄인뒤 재료를 넓게 핀후 소금간한 달걀을 고르게 원으로 둘러주세요",
+		"7. 달걀이 반정도 익었을때 뒤적여주세요",
+		"8. 불을끄고 한번 더 고르게 섞어주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/12/f3b01fa4a3e8c78a9f165192865d7f8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/12/6de1190786489ef388492963f7518c001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/12/e3d42c86b7df4a2a748152549c36a3341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/12/cfadb148c58e0207b30746aa52ead2b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/12/c0ba66efbb5a73e67492bc8009f50fbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/12/ec5eb5cb8a71a325e8b04fe058dae4821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/12/5299bd07f22921ff01e0622a00d5f11b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/12/cbcb0c03efe1f6d1facd35a03752b19f1.jpg"
+	]
+}

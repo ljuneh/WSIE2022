@@ -1,0 +1,44 @@
+{
+	"id": "6885452",
+	"name": "대추고 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/03/14/03d6bdf7b06ce287ac56aacee109fc7d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6885452",
+	"ingredient_ids": [
+		132,
+		526
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "대추",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물대추부피의",
+			"ingre_count": "3",
+			"ingre_unit": "배"
+		},
+		{
+			"ingre_name": "황설탕",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 분량의 물과 대추를 큰 냄비에 넣고 팔팔 끓인다. 일단 강불에 올렸다가 팔팔 끓으면 중~약불로 불 세기를 줄인 뒤 뚜껑을 덮어 가열한다. 대추 색이 반투명해지고 살이 아주 쉽게 뭉그러질 때까지 익힌다.통대추 말고 대추를 돌려깎고 남은 씨 부분을 쓰셔도 좋아요. ",
+		"2. 다 익은 상태-대추 살의 색이 반투명해졌고, 손가락으로 살짝만 눌러도 쉽게 으스러짐.",
+		"3. 1.을 체에 올려 껍질과 씨를 제거한다.",
+		"4. 1.에 분량의 설탕을 더해 강불에 올려 수분을 증발시킨다.",
+		"5. 처음에는 보글보글 끓지만, 시간이 지나면 퍽! 소리가 나면서 묵직하게 끓어 올라요.데이지 않도록 주의하세요. ",
+		"6. 사진의 모습처럼 색이 한층 더 진해지고, 주걱으로 바닥에 선을 그어봤을 때 원상태로 돌아오지 않으면 완성.대추고가 너무 질게 되면 대추고로 만드는 음식(특히 약밥)이 굉장히 질어져 맛이 떨어져요.  다 만들고 완전히 식힌 대추고는 수저로 떠서 뒤집었을 때 수저에 붙어 있답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/14/7df1e0cb948bf013d553634781220d881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/14/79344a169e490d44d648810b7deb41701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/14/8a96f26f48298439e8deeb1f68c5395e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/14/214dd8e34fc6e694b6e89da74e5bb7651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/14/d9ff9366662bd9b1dcc5b10e02c9e6d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/03/14/49520a15ec9070f023c9d09d57d1e47b1.jpg"
+	]
+}

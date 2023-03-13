@@ -1,0 +1,98 @@
+{
+	"id": "6943978",
+	"name": "새우야채우동볶음 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/e45cafdd1805f3fc6629056dd6dc8ac51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943978",
+	"ingredient_ids": [
+		79,
+		83,
+		859,
+		643,
+		29,
+		3,
+		9,
+		504,
+		477,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "새우",
+			"ingre_count": "20",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "꼬막",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "우동면",
+			"ingre_count": "2",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "풋고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 냉장고에 있는 각종 야채를 씻어 준비 하세요.마늘은 살짝 덩어리가 있게 다져 주시는 것이 더 좋은 것 같습니다.",
+		"2. 팬에 기름을 두르고, 파와 양파를 먼저 볶아 주세요.파와 양파의 향이 더 좋게 느껴 집니다.",
+		"3. 새우와 꼬막을 넣고 볶아 주세요.드시기 좋게 새우의 껍질을 까서 넣으셔도 됩니다. 꼬막 손질은 소금물에 해감 후, 살짝 데친 후에 숟가락을 이용해서 껍질을 벗겨 주시면 됩니다. 시중 마트에 통조림 형태로도 꼬막을 구입할 수 있으니 활용하셔도 좋습니다.",
+		"4. 고추, 다진마늘, 당근 등의 나머지 야채를 넣고 볶아 주세요.새우나 야채에서 물이 나오기 때문에 별도의 물은 넣지 않으셔도 됩니다.",
+		"5. 우동면은 끓는 물에 살짝만 데치시고 나머지 재료와 함께 볶아 주세요.우동면 삶기는 별도 사진을 추가하지 못했네요.",
+		"6. 굴소스(4스푼)을 넣고 간을 맞춰 주세요.살짝 싱겁게 먹는 습관이 있습니다. 개인의 기호에 따라 소금이나 굴소스를 가감하시면 됩니다.",
+		"7. 그릇에 담아 내면 완성 입니다.보기에는 다소 하얗게 보일 수 있지만, 재료마다 간이 적당히 잘 스며들어서 괜찮습니다. 매콤한 것을 좋아하시는 분들은 고추기름이나 고추가루를 볶을 시에 첨가하시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/cebad656cd92d3e7adffe729e36cd3231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b501354b95062e0792e5a2be2ba68b841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/3031624b63819fa75a8af52517c547631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/bbda114f07cc5ce51dfe7cf84b3f3a271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/6a11da16054d1186641070cfdfd4e3df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/acd26371e4955e6a516d5ef9c05cef0d1.jpg"
+	]
+}

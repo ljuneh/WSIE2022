@@ -1,0 +1,43 @@
+{
+	"id": "6802499",
+	"name": "향긋한 두릅전 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/29/0540e63256412fe9733a933b09a303bb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6802499",
+	"ingredient_ids": [
+		49,
+		387
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "두릅",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 두릅을 끓는 물에 데쳐주세요. 두릅은 크기가 크고 두껍기 때문에 살짝 데치는 느낌보다는 삶는다는 생각으로 해주시면 된답니다.",
+		"2. 두꺼운 부분이 잘 안 익으니까 먼저 살살 넣어주세요. 덜 익히면 구웠을때 딱딱하더라구요. 그래서 조금 더 많이 익혔어요.",
+		"3. 부침가루로 부쳐줄꺼에요. 밀가루를 사용하시면 소금간을 조금 해주셔야 한답니다.",
+		"4. 걸쭉하기 보다는 조금 묽게 반죽을 만들었어요.",
+		"5. 두릅이 커서 먹기 좋게 반을 똑 잘랐어요. 두릅이 작다면 그냥 그대로 사용하셔도 된답니다.",
+		"6. 반죽에 두릅을 넣고 잘 섞어주세요.",
+		"7. 달군팬에 기름을 두르고 두릅을 올려주세요. 잘랐기 때문에 몇개씩 잡아서 같이 구웠어요.",
+		"8. 앞뒤로 노릇노릇하게 구워내면 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/3dbfe9a97cb83c647aff6380681a51911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/9cf3130a8da99f51e3ae8c839bca46f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/169a221860fc5c15827fdd0504b1cbfc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/75c2141c8496149d04726e8d177c51ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/504f6c5aa5daae2decf4e18b1cffc54e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/0ef08b92198cfc02711d88a050a8a0971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/e2763a3e6e7fecc4ee026f540afb114d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/30/9bf67bccf2be6ab1182d8a014870ab031.jpg"
+	]
+}

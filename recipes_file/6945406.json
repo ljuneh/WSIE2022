@@ -1,0 +1,70 @@
+{
+	"id": "6945406",
+	"name": "실패없는 계란찜 레시피 냄비계란찜 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/a9f240dbd67801e05a5b110e9b9c38c41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945406",
+	"ingredient_ids": [
+		219,
+		9,
+		290,
+		291,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "210",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 달걀 네 개에 맛소금 1/3t와 후추를 넣고 잘 풀어줍니다.",
+		"2. 당근과 대파는 잘게 다져 준비합니다.고명은 취향껏 준비하시면 된답니다!",
+		"3. 멸치육수 210ml를 코팅된 냄비에 넣고 끓어오르면 풀어 둔 달걀물을 천천히 부어 줍니다. (이때 바로 저으시면 안되요!)중불멸치육수가 없으신 분들은 생수 210ml에 고향의 맛 조미료를 1t 정도 넣으셔도 되요!",
+		"4. 달걀물을 부은 후 30초 정도 후 부터 천천히 저어주다 반 정도 익으면 당근과 대파 고명을 얹어줍니다.",
+		"5. 뚜껑을 덮고 약불에서 완전히 익을때 까지 뜸을 들인 후 참기름 과 깨소금을 뿌려주면 초간단 냄비계란찜 완성!약불"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/68f98aab16914e0d9b1d3303aacea6f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/63b5ee1aa330f35e4ed640c7ce645c1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/65017010ccbdf631017e658e095320251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/958bc8b71b16b8d1bf0e07986687ba901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/9ecd73d60524ef00471d3601628c061f1.jpg"
+	]
+}

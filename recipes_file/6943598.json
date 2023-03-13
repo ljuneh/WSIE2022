@@ -1,0 +1,89 @@
+{
+	"id": "6943598",
+	"name": "얼큰하고 개운한 모둠전 찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/93b40dbed05c50f7270498eaaf78bf141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943598",
+	"ingredient_ids": [
+		953,
+		3,
+		27,
+		295,
+		224,
+		939,
+		226
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "냉동전",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".숟갈"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟갈"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비",
+		"2. 멸치 육수 만들기",
+		"3. 멸치는 건져내고 김치와 양파를 넣고,",
+		"4. 양념(고춧가루 1.5숟갈, 액젓/진간장 1숟갈, 설탕 0.5숟갈)을 넣고 끓입니다.",
+		"5. 양파가 살짝 투명해지면 모둠전 투하!!",
+		"6. 송송 썰은 대파와 청양고추, 홍고추를 넣고 끓이면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/d08fde3a106c560ada4400914760a21c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/393949875f8b2f533d89c1cf6cefd31d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/fc008e847e25144ca9b9d7ca2a7216a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/d4634f5c20d8818acd4887d8bccb5a551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/37ca1b467a5cd8bcab96e9f9625fb0ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/01ef75f19c7b1596eb549345d81e5c3f1.jpg"
+	]
+}

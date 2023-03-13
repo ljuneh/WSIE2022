@@ -1,0 +1,99 @@
+{
+	"id": "6685841",
+	"name": "칠리 항정살 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/17/e94ac49f8ec3bef2b9a67496726220d41.JPG",
+	"url": "https://www.10000recipe.com/recipe/6685841",
+	"ingredient_ids": [
+		234,
+		3,
+		295,
+		9,
+		233,
+		53,
+		231,
+		379,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "항정살",
+			"ingre_count": "10",
+			"ingre_unit": "덩어리"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "스윗칠리소스",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "요리당",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "탈탈"
+		}
+	],
+	"recipe": [
+		"1. 항정살을 해동시켜 밀가루를 뭍힌 후 중불에서 달궈진 팬에 기름을 전혀두르지 않고~ 중불로 슬슬 구워줍니다. 굽는 동안 영파 반개, 당근을 채쳐주고 청양고추는 다져줍니다. 표고버섯도 먹기 편하게 잘라주세요~",
+		"2. 바싹하게 구워진 항정살은 따로 담아두고~!",
+		"3. 팬에 기름을 살짝두르고 중불에서 다진마늘 한스푼과 다진청양고추를 넣어서 살살 볶아줍니다. 그리고 썰어둔 양파와 당근을 넣어 볶다가~ 버섯을 넣어 같이 볶아주고 후추도 탈탈 넣어주세요.",
+		"4. 요리당 1스푼, 간장 1스푼, 식초 한스푼을 요리당부터 순서대로 넣어서 약불에서 볶다가 물을 한스푼 넣어주고~ 칠리소스를 5스푼 넣어주세요~",
+		"5. 칠리소스가 야채들과 잘섞여지면 바싹구운 항정살 투하~ 항정살에 칠리소스가 잘 묻도록 살짝 볶아주면서 쫄여주면 완성~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/5bf4d1c6f002618fe720160ece95688f1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/edeea87324994c7ff1b9a6412dcbb34d1.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/93480153aa421dcf17a0c9c2913b6f271.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/59eca5d4ef0b5f50e0d102948a9660501.JPG",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/26e947129bd1e5131dac80eec2beeeb31.JPG"
+	]
+}

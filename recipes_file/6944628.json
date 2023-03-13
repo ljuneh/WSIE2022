@@ -1,0 +1,103 @@
+{
+	"id": "6944628",
+	"name": "설탕으로 절인 '도라지 오이무침'",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/be4ed037d90f2ac815c807078f781b4d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944628",
+	"ingredient_ids": [
+		38,
+		8,
+		226,
+		282,
+		543,
+		473,
+		843,
+		231,
+		379,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "도라지",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".숟갈"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟갈"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "팍팍"
+		},
+		{
+			"ingre_name": "고춧가루가득",
+			"ingre_count": "2",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1.",
+			"ingre_unit": ".숟갈"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "3",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "3",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "숟갈"
+		}
+	],
+	"recipe": [
+		"1. 재료 준비",
+		"2. 도라지는 깨끗하게 씻어 먹기 좋게 자른 다음,",
+		"3. 설탕 1.5숟갈을 넣고 15분간 절여 주세요. (양에 맞게 조절해 주세요!!)",
+		"4. 오이도 반으로 나눠 큼직하게 썰고",
+		"5. 굵은소금 0.5숟갈을 넣어 10분간 절입니다.",
+		"6. 절여지는 동안 분량의 양념을 만들어 보아요~ ⑤ 고춧가루 가득 2숟갈, 고추장 1.5숟갈, 매실액/식초 3숟갈, 간장/간 마늘/참기름 1숟갈을 넣고 섞어 주세요~",
+		"7. 절여진, 도라지와 오이는 두어 번 헹궈 물기를 제거한 다음,",
+		"8. 양념장을 넣고 조물조물 무쳐~",
+		"9. 마무리로 통깨를 뿌려 섞어주면 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/23839e562bae8e45975740202ce0a68d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/fe1d05015d9d1647b7cbdcce4d56fee91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/c784950082e18ffdcf73edc239bc725f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/f82444887619dfe800fe8b8cfe725a7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/723d3546d261e6bbab58920276b31f5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/8ad64c13a68377eb43ed28a6ccaca4e21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/d4380092792fb9c34a91d0401fe6381e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/310869b0f12002ac340e9f7ce96d6b361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/ff3ecf0b14f72554741545b38bfb20ec1.jpg"
+	]
+}

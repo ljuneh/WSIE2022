@@ -1,0 +1,43 @@
+{
+	"id": "6872265",
+	"name": "고구마샐러드 고구마요리 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/05/be0be31757eca8ef900eeaf391b0cc6b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6872265",
+	"ingredient_ids": [
+		485,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "삶은고구마2개(430g)",
+			"ingre_count": "2개(430g)",
+			"ingre_unit": "개(g)"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꿀(혹은올리고당)",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/5",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 삶은 고구마는 껍질을 벗긴 뒤 모양이 모두 으스러질 때까지 으깨주세요.",
+		"2. 나머지 재료를 넣고 잘 섞이도록 고구마를 한번 더 으깨주세요.생크림 5큰술, 꿀 1.5큰술, 소금 1/5 작은술",
+		"3. 생크림은 샐러드의 농도를, 꿀은 단맛을 조절해주는 것이니 양은 취향껏 조금씩 조절하셔도 좋아요.집에 호두, 아몬드 등의 견과류가 있다면 살짝 다져서 넣어주세요. 씹는 식감도 좋고 포만감도 있는 고구마 샐러드로 변신해요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/05/f956d98fc6d01afa9eee93ee284265351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/05/2964f5bc78d71b6f4d785d76742362791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/05/5cd40d9b3a7374b2bc6cc25d40c204001.jpg"
+	]
+}

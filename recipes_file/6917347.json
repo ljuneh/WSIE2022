@@ -1,0 +1,97 @@
+{
+	"id": "6917347",
+	"name": "비트 깍두기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/08/12/5319c7609429a53aaf5efc272ff22ee91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6917347",
+	"ingredient_ids": [
+		44,
+		27,
+		667,
+		995,
+		995,
+		224,
+		390,
+		28,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "비트",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "절임소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵반"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "홍고추효소",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 1.비트를 깨끗이 씻어 다듬어서 썰어준다",
+		"2. 2.소금에 절여준다",
+		"3. 3.찹쌀 풀을 끓여준다",
+		"4. 4.대파를 어슷하게 썰어준다",
+		"5. 5.새우젓을 곱게 다져준다",
+		"6. 6.생강을 곱게 다져준다",
+		"7. 7.30분 후 절여진 비트를 건져준다(물에 헹구지 않는다)",
+		"8. 8.비트국물에 찹쌀 풀, 고춧가루 1컵, 홍고추효소1/4컵, 새우젓2T,  생강약간, 마늘2T, 소금1t를 넣고 버무려준다",
+		"9. 9.버무린 양념에 비트를 넣고 섞은 후 대파를 넣어준다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/12/0f156f17be288e959e62da4665935b101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/12/3f6ae2bd7ce29f18d156bfe5497d97551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/12/bb2e14887cd0034eebbc34c3da180d8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/12/33aee5a54e765f2736a3b98bdbd1de261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/12/f8471664ceb802a34bdb6c70ec8ad2441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/12/c530b0e4e73fad9e61eba70ac40b6d0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/12/e2b61c58e6bd94fe0fe027ba6a3c32651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/12/505fdd666c03466c9492a1007a7c3f151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/08/12/37761c5873bd88ba7549d4bfefea57121.jpg"
+	]
+}

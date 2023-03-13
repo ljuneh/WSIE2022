@@ -1,0 +1,74 @@
+{
+	"id": "6941333",
+	"name": "고추 무침 하나면 밥 한 그릇 뚝딱 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/7efb1e104f5f125c3a170e28bed8a5671.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941333",
+	"ingredient_ids": [
+		295,
+		848,
+		473,
+		938,
+		226,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청양고추가루1작은술",
+			"ingre_count": "1",
+			"ingre_unit": "작은 술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘1작은술",
+			"ingre_count": "1",
+			"ingre_unit": "작은 술"
+		},
+		{
+			"ingre_name": "참기름1작은술",
+			"ingre_count": "1",
+			"ingre_unit": "작은 술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 고추는 씻어 꼭지를 딴 후 4-5등분 해 준비한다.",
+		"2. 분량의 재료를 섞어 양념장을 만든다.",
+		"3. 잘라 놓은 고추에 양념장을 넣고",
+		"4. 살살 버무려 준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/eae40e2a1c6be3ede2cc5921ad8308b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/298cd94d62916b8239640b0bb7d2176f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/dabd059d46d3f96a2cc2483437e7fdfc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/a0ec406bac0cfe6c26d2d93cb4f415061.jpg"
+	]
+}

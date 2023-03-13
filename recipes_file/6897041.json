@@ -1,0 +1,57 @@
+{
+	"id": "6897041",
+	"name": "<노오븐> 초간단 마늘토스트(마늘빵)만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/e71735b4be84f3f83e809b2329fbfa801.jpg",
+	"url": "https://www.10000recipe.com/recipe/6897041",
+	"ingredient_ids": [
+		198
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵또는남은빵아무거나",
+			"ingre_count": "4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘(다진마늘)10알(2큰술)",
+			"ingre_count": "10알(2큰술)",
+			"ingre_unit": "알(큰술)"
+		},
+		{
+			"ingre_name": "설탕또는연유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "파슬리(생략가능)",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해주세요~.",
+		"2. 빵은 먹기좋은 크기로 자유롭게 잘라주세요~.",
+		"3. 통마늘을 사용할경우 믹서기에 곱게 갈아주세요~.",
+		"4. 아무것도 넣지않은 팬에 잘 다져진 마늘을 넣고 중불로 2분간 볶아주세요~.",
+		"5. 볶은 마늘. 버터. 설탕또는연유. 파슬리를 넣고 잘섞어주세요~.",
+		"6. 아까 잘라놓은 식빵에 5번의 마늘크림을 펴발라주세요~.",
+		"7. 아무것도 넣지않은 팬에 마늘크림을 바른 식빵면부터 약불로 2분 구워주세요~.",
+		"8. 뒤집어서 약불로 3분구워주시면 완성입니다~."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/69dac6081b0a6f86422b03774f2555da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/0af47c025264fbb92e97fa758e0d44a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/06638ca18a9566cea8ab083cee1563891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/0c6481515f06e0dad36b2f41de2886a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/b0f8adefff43d7e7c104e2de5d957b051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/8ce11591259aff1b81b148797922cb821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/2b1ba647ff78ec61a340de40cb87c9801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/10/03/bd49d7cc08d1d2fb97e053f6b6d4fa181.jpg"
+	]
+}

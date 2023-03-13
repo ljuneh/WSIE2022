@@ -1,0 +1,47 @@
+{
+	"id": "6941667",
+	"name": "요즘 핫한 크림진짬뽕 만들기★",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/d718f1548bf0d5057eef3490e64c2ad71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941667",
+	"ingredient_ids": [
+		995,
+		214
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "진짬뽕라면",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 물과 우유를 같이 넣어줍니다.꾸덕꾸덕하게 드시고 싶은 분들은 우유를 200ml 소스를 넉넉하게 드시고 싶은 분들은 우유를 300ml 넣어주세요~",
+		"2. 우유물이 끓으면 건더기와 양념소스를 넣어주세요. 이때 양념소스는 반만 넣어주세요양념을 반 이상 넣으면 짜요ㅠ",
+		"3. 면도 같이 넣고 중불에서 끓여주세요.",
+		"4. 끓으면 슬라이스 치즈 두장을 넣고 면이 익을때까지 졸여주세요.이때 부재료로 소시지를 넣어드셔도 좋아요.",
+		"5. 면이 다 익으면 그릇에 담아 드시면 됩니다 맛있게 드세요^^)/유성스프는 취향에 맞게 드세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/01f5dc56329c99e1ac9e008552e0a8e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/2216d46465cf22a91b23464aca6284f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/12c165dc32cf3fb1f92c99d46c5f46ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/f50e6553b65264da0bf214cb038da96e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/9b205511045e4fae456ea0bf0bc511071.jpg"
+	]
+}

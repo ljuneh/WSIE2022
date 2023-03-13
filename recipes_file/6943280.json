@@ -1,0 +1,87 @@
+{
+	"id": "6943280",
+	"name": "고추잡채",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/216706fe6e3734a3a30d4d54784a31491.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943280",
+	"ingredient_ids": [
+		21,
+		29,
+		233,
+		477,
+		467,
+		497,
+		379
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "숙주나물",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "매운고추",
+			"ingre_count": "15",
+			"ingre_unit": "개정도"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "치킨스톡",
+			"ingre_count": "",
+			"ingre_unit": "악간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 재료를준비합니다",
+		"2. 고추는 반갈라서 씨를 제거해줍니다",
+		"3. 반가른 고추를 채썰어줍니다 양배추도 채썰어줍니다",
+		"4. 마늘기름을냅니다",
+		"5. 양배추를 먼저 볶아줍니다",
+		"6. 익을때쯤 숙주나물을 볶아줍니다",
+		"7. 적당히 익었을때 굴소스 넣어줍니다 볶으면서 간을봐줍니다",
+		"8. 채썰은고추를 넣어줍니다",
+		"9. 같이볶아줍니다 이때 너무오래볶으면 고추색이 변하니 주의하면서 적당히볶으면서 간을 맞춥니다",
+		"10. 접시에 담아내면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/fe1be13a28fe9c2177bde45c86d2228b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/a8a392bb09deb021bd7edf52633953a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/f6d2e08301da657da9254eb0008612c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/38997d0c470ab1b6752f1adc6fa329741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/601254cd0b31f133b0c206690d8e5ed21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/5db337d2a774235962ce51bed7e4c4c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/0fa9b15c2176d397dcf3a95c3bdc75711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/fd681c88bddc0b1135d8f951ea51dec91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/b9bd783a0b0b85d8f48483fb5d1942f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/688ad3a50f2da7c0a3a8e17eef869b0d1.jpg"
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"id": "6905662",
+	"name": "김치볶음 레시피 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/31/7bb3f8dc53e703c145e662ef122948af1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6905662",
+	"ingredient_ids": [
+		21,
+		226,
+		504,
+		543,
+		477,
+		224
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "4",
+			"ingre_unit": "잎"
+		},
+		{
+			"ingre_name": "소시지1줌(적당량)",
+			"ingre_count": "1줌(적당량)",
+			"ingre_unit": "줌(적당량)"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "들기름또는참기름",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "김칫국물",
+			"ingre_count": "5",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 김치는 먹기 좋게 한 입 크기로 썰어주고, 양배추는 큼직하게 썰고, 소시지도 먹기 좋게 썰어 준비해주세요. * 양배추, 소시지는 생략하셔도 됩니다. 볶음김치에 양배추를 함께 넣으면 먹을 때 식감이 좋고 신 김치와 달큼한 양배추가 잘 어울리네요.",
+		"2. 볶을 팬에 식용유 2를 두르고 준비한 신 김치, 소시지, 양배추, 김칫 국물 5를 모두 넣어 주세요.",
+		"3. 재료가 전체적으로 식용유에 코팅되도록 볶아줍니다. 숨이 죽으면 이때 설탕 1 그리고 들기름이나 참기름 3을 넣어 고루 섞어 충분히 볶아 줍니다. 볶음김치에 기름이 넉넉하게 들어가야 맛있답니다. 이때 김치 간이 싱거우면 굴 소스 0.5 정도 추가해주시고 또는 색감을 위해 고춧가루 1을 넣어 함께 볶아 주셔도 된답니다. 집집마다 갖고 계신 김치의 염도나 신맛의 정도가 다르니 위 레시피 참고하셔서 만드심 될 것 같아요. 그리고 김치의 신맛에 따라 설탕량을 줄이거나 늘려 주심 됩니다.",
+		"4. 다 볶아지면 통깨 0.5를 넣어 고루 섞어주고 마무리해주세요.",
+		"5. 김치볶음 완성 ^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/31/62ab0c354af14836f429a57b2ac6f71f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/31/dc5c9823f0795b8bb30cb5c00d1f26841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/31/995e65b07e8f7284971011c5d8ffd6141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/31/535d70c9261fb5c6cda7bbfbfb1103671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/31/9b1a3076bca7157a20e801a45f3fdfe81.jpg"
+	]
+}

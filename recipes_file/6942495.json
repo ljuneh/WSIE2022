@@ -1,0 +1,101 @@
+{
+	"id": "6942495",
+	"name": "돼지고기 메추리알 장조림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/7e71c71348d3a85694711f9351da17de1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942495",
+	"ingredient_ids": [
+		221,
+		487,
+		293,
+		9,
+		19,
+		349,
+		226,
+		290
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "10~15개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "물엿또는올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 준비한 돼지고기의 핏물을 빼줍니다. - 먹다 남은 어떤 술이던 상관없이 재워 둡니다",
+		"2. 메추리알을 삶아서 껍질을 깨끗하게 벗겨 줍니다. - 껍질 제거 된 제품도 마트에 많이 있습니다.",
+		"3. 야채를 손질해 주세요. - 마늘, 무, 당근, 꽈리고추 등 준비합니다.",
+		"4. 고기를 깨끗하게 씻어 삶아 줍니다. - 찬물을 넣고, 월계수잎과 소주 한잔을 넣고 15~20분 정도 삶아 줍니다.",
+		"5. 1차로 삶은 고기를 씻고, 다시 삶습니다. - 핏물을 제거 했어도, 삶는 과정에서 불순물이 또 생길 수 있기에 한번 씻어내고 다시 삶습니다.",
+		"6. 양념을 만들고, 삶은 고기는 찢어 줍니다. - 간장과 설탕, 후추 등의 재료를 넣고 양념을 만들어 주세요. - 삶은 고기는 드시기 좋은 크기로 찢어 줍니다.",
+		"7. 고기와 통마늘, 양념을 넣고 끓여 줍니다. - 찢은 고기와 통마늘을 넣고, 간장양념을 넣어 중불에 15분간 끓여 줍니다. - 약 5분 뒤, 당근과 무를 넣고 다시 끓여 줍니다. - 야채는 단단한 것 부터 먼저 넣어 주세요!",
+		"8. 마지막으로 꽈리고추를 넣고 더 끓입니다. - 꽈리고추를 넣고 약한 불로 약 10분 정도 뚜껑을 덮고 끓여 줍니다. - 개인의 취향에 따라 양념 간장과 설탕(또는 물엿) 등을 더 첨가하서 간을 맞추시면 됩니다.",
+		"9. 완성 입니다.! 깨를 살살 뿌려 주세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/26edef829d62eac6760d679fb89bbfe21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/568820ec57b47e3df56ef3f613e45bbe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/5472485814dace5b93bc734fb9bd555a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/f212c460256521fe2b1d836abf7b22da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/4059cfb752367e6315c60bcf8cbda8e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/1b18c6d455dd44597a3a6a84db1c85261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/81007e9e5cb1d0a620f3ef1ef832269c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/0f364aaf0a904e20375c4f11cc8e3dbb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/98119cdf8287cf83d492cc5402efbeda1.jpg"
+	]
+}

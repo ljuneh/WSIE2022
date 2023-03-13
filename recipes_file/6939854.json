@@ -1,0 +1,80 @@
+{
+	"id": "6939854",
+	"name": "백종원 바삭 김치전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/ee29d939c541a08b3caba3cc6815c4d81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939854",
+	"ingredient_ids": [
+		953,
+		387,
+		995,
+		406,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "0.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "3",
+			"ingre_unit": "ea"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "0.",
+			"ingre_unit": ".스푼"
+		},
+		{
+			"ingre_name": "고추가루반",
+			"ingre_count": "",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 송송 썬 파, 썬김치 1컵, 썬 베이컨 2줄을 준비해주세요",
+		"2. 보울에 부침가루 1컵을 넣습니다",
+		"3. 김치와 김치국물 4스푼을 같이 넣습니다",
+		"4. 물 0.7컵만 넣어주세요 김치국물과 얼음이 들어가는 걸 감안했습니다",
+		"5. 설탕 0.3스푼",
+		"6. 고추가루 반 스푼 넣어주세요",
+		"7. 베이컨과 파를 넣고 섞어주세요",
+		"8. 얼음 3개를 넣으면 준비완료",
+		"9. 팬에 기름을 넉넉히 두르고 센불에 올려주세요 김치전 반죽을 한국자 크게 떠서 펴주세요 (2장 나옵니다)",
+		"10. 진짜 바삭하고 안에 베이컨이 또 신의한수 너무 맛있어서 모자랄지도 몰라요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/b210b488da4f84de2eac1a26771ff6fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/5ab43b9d546726fab7e407d6c05926a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/b0191231cb75672d379b55589e3344901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/1721515b1917e67575cc70e694a780191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/2f60361e948722c7a4264ff218c34ddf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/ef82cc588fd2ae2ec7242f72022b77921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/5758fc408fd5a33d4ea2fa8ae97065b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/92cbce7071d3596e3ee5d5cff3d46aa01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/596e67a14ce20b95050d36a701f14de41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/71ad9c91c294b968e7cbb3ced3e0c43a1.jpg"
+	]
+}

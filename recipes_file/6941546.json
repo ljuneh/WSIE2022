@@ -1,0 +1,55 @@
+{
+	"id": "6941546",
+	"name": "달걀을 이용한 케익만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/2ff8a4d8c13b797644b38373c5a8bb481.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941546",
+	"ingredient_ids": [
+		219,
+		696,
+		227,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 달갈4개를 흰자와 노른자를 분리해주세요",
+		"2. 예열된 통7중스텐레스 냄비를 예열한다음 ,기름 약간 두르고 노른자 먼저 부어주세요",
+		"3. 달걀 흰자를 머랭을 쳐주세요 생크림처럼 풍성하고 끝이 뽕긋하게",
+		"4. 노른자위에 흰자 머랭을 다 부어주세요",
+		"5. 실리콘주거으로 머랭을 예쁘게 돌려가며 담아올려주세요",
+		"6. 통7중스텐레스냄비를 뚜껑덮고 인덕션 3단에 10분 가열해주면 근사한 달걀케익 완성",
+		"7. 도마에 옮겨 반으로 자른다음 엎어주세요",
+		"8. 조각케익처럼 자른다음 꿀을 살짝 발라준뒤 그위에 아몬드가루 솔 솔~~ 근사한 달걀케익 완성!!^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/9e1fe2c06ec6eb62e7aba1413352f38e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/dd584b5692334fb508fcfb51695333051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/62dbd5434cca6da7627a7187a34e0d6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/888c133447ee473ce43d02dc6c8f92111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/d0e3ff65bce55f0ab772364e3ec763951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/a84da797d288aaa55b68c3c4cabd8ef51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/cf56b7917e7e6cac7e1c01fe6f0293cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/11/7d4faf7d08bebcc3157fa7927430f6d51.jpg"
+	]
+}

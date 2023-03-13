@@ -1,0 +1,43 @@
+{
+	"id": "6701666",
+	"name": "돼지고기 수육 맛있게 삶는법 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/08/f663f7f25ec51644eaba026ce4931ec61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6701666",
+	"ingredient_ids": [
+		233,
+		848,
+		579
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "3",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 고기를 꺼내서 이렇게 물에담구거나해서 녹여주세요.",
+		"2. 물을 냄비 반틈정도 담아서 끓여주세요. 먼저 양파를 한개 껍질까서 반으로 쪼개서 넣어줬어요. 반개밖에 없으면 반개 넣으셔도 되고 잡내에 많이 민감하시다면 반개정도 더 넣고~ 뭐 살짝 더 들어가거나 덜들어간다고 맛이 달라지거나 하지 않아요.",
+		"3. 다진마늘을 넣어서 잡내를 없애 줄거에요. 그리고 여기에서 소주도 3스푼정도를 넣어 줬어요. 생강있으시면 좀 넣어주시구요~",
+		"4. 된장 듬뿍 한스푼 넣어줬어요.",
+		"5. 대파 한개정도 넣어주시면되요~ 이제 뭐 다른거 안넣고 뚜껑덮고 센불로 20분정도 팔팔 끓여주시면 수육 맛있게 삶는법 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/f8bdb21469f8f35d8df1f63ece58585b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/039a41edc50fc8654e5258a44a095ad41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/ffac618834bdadc9ae84cb43789fc4701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/199e466dbce713d3f065e07fac21c8c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/11/a6b4d1edce98e0c2ba204f84e226b9961.jpg"
+	]
+}

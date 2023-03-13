@@ -1,0 +1,78 @@
+{
+	"id": "6940533",
+	"name": "[ 감자채 볶음 ] 기본반찬, 초간단, 햄사용",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/a368867d1dc415eff1826cd250f080c81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940533",
+	"ingredient_ids": [
+		5,
+		9,
+		3,
+		574,
+		497,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "큰소세지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 감자 1개를 먹기 좋게 썰어줍니다.",
+		"2. 당근 1/4개를 감자와 같은 크기로 썰어줍니다.",
+		"3. 썰은 감자와 당근에 소금 0.5t 넣어 버무려 둡니다.미리 간이 베이게 합니다.",
+		"4. 양파 1/4개를 감자와 같은 크기로 썰어줍니다.",
+		"5. 소세지(존슨빌) 1개를 감자와 같은 크기로 썰어줍니다.소세지 대신 햄 고기를 넣으셔도 좋습니다. 소세지나 햄은 물에 한번 데쳐서 사용하시면 염분을 낮출 수 있습니다.",
+		"6. 달군 팬에 올리브유 2t를 넣습니다.",
+		"7. 감자와 당근을 먼저 볶아줍니다.중약불에 볶아줍니다.",
+		"8. 감자의 겉면이 익으면 양파를 넣고 볶아줍니다.",
+		"9. 소세지는 따로 구워줍니다.소세지는 따로 볶아서 넣으셔야 훨씬 식감이 좋습니다.  소세지나 햄은 볶을때 물을 살짝 넣어서 볶다가 키친타올로 물기를 제거해주시면 짠맛도 덜해지고 식감도 졸깃해 집니다.",
+		"10. 감자와 햄을 섞어서 볶아줍니다.이때 강불에 20초 이내로 볶아줍니다.",
+		"11. 통깨 1t를 넣고 섞어줍니다.불을 끄고 통깨를 넣으셔도 좋습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/ed645be74c082ecc964b15b5da4297721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/91ffc0d6a335b306671d0768656fde961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/4f0146608d33c801fb0025875d1767b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/7ffd1fb38887866d61a437354aba579c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/200a66b830e9cc0dc9e16c236908f8dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/1a95f2295e3fbeb6c35c7aca65b85ffd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/a52400d19155cd00ddf8e7a6358f46151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/ed7500102379c5526d0fd6bcd7d97ed31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/a894b618aeb15695cec21998fbcba7711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/32831860d61a3babace61b8be0586ba41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/7205553bc7c04c5d516d06b356171dad1.jpg"
+	]
+}

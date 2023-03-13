@@ -1,0 +1,69 @@
+{
+	"id": "6864808",
+	"name": "국물이 시원한 조갯살 미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/05/af7350f743a44bec9f29af02694a0dcb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6864808",
+	"ingredient_ids": [
+		91,
+		995,
+		660,
+		545
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "미역",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "조갯살",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "8",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "집간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 산모용 미역은 손으로 뚝뚝 잘라 물에 불린다음 거품이 날 정도로 바락바락 주물러 씻어 냅니다",
+		"2. 미역 줄기와 잎을 따로 분리해 둡니다",
+		"3. 조갯살도 손질해 넉넉히 준비했구요",
+		"4. 달군 냄비에에 참기름 두르고 조갯살을 넣고 달달 볶인줍니다",
+		"5. 볶아진 조갯살에 분리해둔 미역줄기 넣고 같이 볶다가",
+		"6. 물8컵 넣고 미역 줄기가 무르도록 푹 끓이다가",
+		"7. 국간장으로 간을하고 나머지간은 천일염으로해 끓여 주세요",
+		"8. 미역줄기가 어느정도 물러지면 미역잎을 넣고 끓여 줍니다",
+		"9. 보글보글 끓이면 조갯살의 뽀얀국울이 우러나와 구수하고 시원합니다",
+		"10. 간단하면서도 맛있게 끓일 수 있는 조갯살 미역국~ 뫈성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/05/63ed7a822c026323bb7b2324c413e8761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/05/9b35dcb530faad1645998bb71243c4e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/05/88d9a5e976c20b7a70f4edd2fee37bde1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/05/fb744d35ec279d955e0c9275528a1a841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/05/2d2eaa9293b422b49e450fa13316b0231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/05/4cc1e38c6f98218193938cf2087a7f541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/05/1c2ee7a8020ab73b3c9a6fc2edfa9ca31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/05/af28c25ab307580a21d0a8fdf387b1021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/05/97521a732e362e0134d3d175caa448de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/05/5847b3bd9d374f5cbc31b39c6988c56b1.jpg"
+	]
+}

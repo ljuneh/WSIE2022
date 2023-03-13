@@ -1,0 +1,41 @@
+{
+	"id": "6934125",
+	"name": "단짠단짠 아이간식 굿굿 ! 간장떡볶이 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/06/10/14e8901d919c3e2603dae42e1784e9ea1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6934125",
+	"ingredient_ids": [
+		972,
+		227,
+		504
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "15",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 냉동떡은 찬물에 1시간 불립니다.",
+		"2. 팬에 식용유 2스푼 넣고 떡을 익을때까지 볶아줍니다약불살짝 노릇도 맛있고 바삭한걸 원하시면 좀더 노릇하게 구워주세용",
+		"3. 진간장 1스푼을 넣고 잘 섞어 줍니다팬이 넘 뜨거우면 간장이 타니 조심하세용",
+		"4. 불을끄고 꿀2스푼 ,참기름 반스푼 추가해 섞어줍니당"
+	],
+	"recipe_img": []
+}

@@ -1,0 +1,63 @@
+{
+	"id": "6944138",
+	"name": "크로플 만들기 / 집에서 카페 분위기 내봐요 ~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/3448cfa0e140c0dce98142dc833289c21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944138",
+	"ingredient_ids": [
+		319,
+		546,
+		840,
+		381
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "크로와상생지",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "메이플시럽",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "엑설런트아이스크림",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "견과류",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "민트",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 냉동 크로와상 생지를 실온에 20분 정도 뒀어요. 와플팬을 2분 예열 시킨 후 생지를 올려주세요.크로와상 생지는 50g 짜리 2개 사용했어요 ~ ",
+		"2. 뚜껑을 덮고 6분 구운 모습이에요 ! 다 익었지만 바삭한 식감을 좋아하시면 더 구워주세요.",
+		"3. 총 9분 구웠더니 바삭하게 구워졌어요 : )",
+		"4. 크로플은 잠시 식혀둘게요 식어야 더 바삭해요 !",
+		"5. 그릇에 크로플을 담고 엑설런트 아이스크림을 반개 썰어 올려줬어요.아이스크림 대신 휘핑크림을 올려주셔도 좋아요 ~",
+		"6. 그 위에 메이플 시럽을 뿌려주세요.메이플시럽 대신 꿀도 잘어울려요 ~",
+		"7. 슈가파우더를 뿌리고 다져놓은 견과류를 뿌려주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/43f6c4961cfd209585243a4a3f91464c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/69b32a4218d3f16f467ba88b16f7ddb41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/8afe733b783c3a5bd58cb28f8998849b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/b9d5c3c93945984a5b76ed95c1859c3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/4cc6525e0fdc931a4e6e37d3528214bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/4e993fa95d9ace04a2b9a65452d072091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/8c6b6950bef7e0a382505109b9392a771.jpg"
+	]
+}

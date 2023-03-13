@@ -1,0 +1,93 @@
+{
+	"id": "6944106",
+	"name": "단호박 사브레 쿠키",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/b663ad2363760802c924891cc5da1b911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944106",
+	"ingredient_ids": [
+		546,
+		884,
+		497,
+		696,
+		190
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "실온무염버터",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "실온달걀노른자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "바닐라익스트랙",
+			"ingre_count": "2",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "125",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "아몬드가루",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "단호박가루",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "호박씨",
+			"ingre_count": "30~35g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "달걀흰자_바르는용",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "설탕_코팅용",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 부드럽게 푼 버터에 슈가 파우더를 넣고 잘 섞어 주세요",
+		"2. 달걀, 바닐라 익스트랙, 소금을 넣고 잘 섞어 주세요",
+		"3. 박력분, 아몬드 가루, 단호박 가루를 함께 체 쳐서 넣어 주세요",
+		"4. 날가루가 보이지 않을 때까지 섞은 후, 반죽이 한 덩이가 되도록 가볍게 치대어 주세요",
+		"5. 호박씨를 넣고 잘 섞어 주세요",
+		"6. 완성된 반죽을 냉동실에 1시간 동안 넣어 두세요",
+		"7. 차갑게 굳은 반죽을 두께 약 1cm 정도로 잘라 주세요",
+		"8. 170도에서 15-18분 간 구워 주세요",
+		"9. 맛있게 드세요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/e2b9e5b5ad04b482938ab5db58b960f41.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/2602fec49e7643c55d38b6ccad737f631.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/abb97ba16588d7722383a7c779ab90701.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/23be9d8245b7e54e9df7cb2e897ee7d91.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/d68f30b5be2b68fead2aedd33f1fa2ca1.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/1c9f76fdfd258d08f78fff6573dfa2341.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/59c45a50db6af50aa6469fd3a0453f631.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/ff54eb95808c1faea30da3398e179d261.bmp",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/1fdd0637a7728a65b99aa7aa8d67545d1.jpg"
+	]
+}

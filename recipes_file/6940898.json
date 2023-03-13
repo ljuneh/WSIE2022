@@ -1,0 +1,75 @@
+{
+	"id": "6940898",
+	"name": "에어프라이어달걀찜:내안에 빵있다(간단아침메뉴)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/5f419ec81efa34901a3defd916847d1e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940898",
+	"ingredient_ids": [
+		219,
+		503,
+		894,
+		212,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진토마토",
+			"ingre_count": "2~3큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "바질페스토",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1~2큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 오븐그릇에 올리브오일 두르고 잘게 썬 토마토를 담는다",
+		"2. 식빵을 찢어 담는다.",
+		"3. 달걀을 포크로 섞고 소금, 후추, 우유, 바질페스토를 떠 넣는다. 달걀은 흰자 노른자가 대충만 섞이게만 하면 돼요/바질페스토는 없으면 생략하세요. ",
+		"4. 모짜렐라치즈를 얹고 에어프라이어에서 익힌다.에어프라이어",
+		"5. 보통 180도 20분 또는 200도 15분 돌린다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/06e1dc2afe2c80572a36a662665845411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/ff6babe6492970cb2f85c0e61c20cd2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/e286dccfebb1ffcef2309a51fd4ef8051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/827718727b3dbf1902209baf0c61c0fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/04/9117f48b60e07cd9be2e9877b2fc5e1b1.jpg"
+	]
+}

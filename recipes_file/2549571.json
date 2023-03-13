@@ -1,0 +1,95 @@
+{
+	"id": "2549571",
+	"name": "무피클",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/21/f4ef838f2708acf5e15d8e44a05c87031.jpg",
+	"url": "https://www.10000recipe.com/recipe/2549571",
+	"ingredient_ids": [
+		295,
+		231,
+		226,
+		497,
+		857,
+		608
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "무우",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "노랑파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빨강파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5~6쪽",
+			"ingre_unit": "~쪽"
+		},
+		{
+			"ingre_name": "단촛물-물",
+			"ingre_count": "1",
+			"ingre_unit": "컵반"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "컵반"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵반"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "5~6장",
+			"ingre_unit": "~장"
+		}
+	],
+	"recipe": [
+		"1. 무우와 파프리카는 적당하게 썰어 끓는물에 살짝만 데쳐줍니다",
+		"2. 그리고 재빨리 찬물에 헹궈 물기를 쪽 ~~ 빼줍니다",
+		"3. 청양고추와 홍고추는 적당하게 썰어 찬물에 담궈 매운기를 빼준후 물기를 쪽 ~~ 빼주고요",
+		"4. 단촛물을 만들어주세요",
+		"5. 바글바글 잘 끓고있지요",
+		"6. 야채를 유리병에 차곡차곡 담아요",
+		"7. 끓여낸 단촛물을 부어주고, 식힌후 밀봉해 둡니다..."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/f4711a44c621dd3f5e883bde9042109e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/48588130adacdf5b24804b3f55c237681.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/2a65eeef222c2cd385fae69ae5563f661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/37392ab1bb8fb013d39a2792ea8c2f7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/608d9c50b86d89061114f14ed202d1711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/a4e2fcb53125da57d1bec69d0f3355fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/14/461fcac5545666763b9099e090b2f8981.jpg"
+	]
+}

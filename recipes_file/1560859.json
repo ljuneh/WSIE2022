@@ -1,0 +1,101 @@
+{
+	"id": "1560859",
+	"name": "매콤한 쭈꾸미덮밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/29/284f6fc03ee18292d3fda367eb68e15c.jpg",
+	"url": "https://www.10000recipe.com/recipe/1560859",
+	"ingredient_ids": [
+		63,
+		757,
+		295,
+		473,
+		379,
+		226,
+		477,
+		233,
+		846,
+		341,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쭈꾸미",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파(중)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매운고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 쭈구미는 밀가루로 깨끗히 씻어줍니다.",
+		"2. 양파는 가늘게 채썰어서 1개, 쪽파도 약간 준비합니다.",
+		"3. 깨끗히 손질한 쭈꾸미는 볼에 담고 물엿을 제외한 분량의 양념을 넣고 조물조물 밑간을 해놓습니다.",
+		"4. 예열된 후라이펜에 넉넉하게 올리브유를 제외힌 식물성오일을 뿌리고, 양파를 넣어 볶아주다가 양념해놓은 쭈꾸미와 물5T를 넣어서 강불에서 볶아주세요.",
+		"5. 모든재료가 익으면 통깨와 쪽파, 모자라는 감칠맛은 물엿을 넣어 조절하면 완성입니다. 밥을 넉넉히 담은 접시에 주꾸미볶음을 올려주기만하면 맛있는 쭈꾸미덮밥이 완성됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/50cee0fbe2d608e876b29a91b8cf68fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/d1510aac705f827a28d18133fc06ea9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/e0779f6494a4076875cb1a3fe17fd2d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/2ac31b878cabcbe61f03883c278655391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/f728f61cfee07845a3b13a01b8ee8d271.jpg"
+	]
+}

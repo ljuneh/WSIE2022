@@ -1,0 +1,82 @@
+{
+	"id": "6940294",
+	"name": "#1정식품 콩국물을 활용한 요리 양배추전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/6b12b2dfb9d98fa8866f81d6928ad4c61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940294",
+	"ingredient_ids": [
+		21,
+		923,
+		65,
+		387,
+		292
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/8",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "4~5장",
+			"ingre_unit": "~장"
+		},
+		{
+			"ingre_name": "오징어",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "돼지고기간것",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개씩"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "정식품콩국물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양배추와 묵은지는 깨끗히 씻어 잘게 채 썰어 준비한다",
+		"2. 오징어는 먹기 좋은 크기로, 돼지고기 간것도 충분히 넣어준다",
+		"3. 혹시 모를 돼지고기 잡내를 없애줄 맛술 1큰술과 후추가루를 살짝 뿌려줌",
+		"4. 부침가루 2컵과 계란 2개를 넣어 반죽 준비",
+		"5. 물 대신 정식품 콩국물을 넣어 너무 묽지 않도록 반죽한다 양배추가 충분히 들어가서 콩국물의 양은 조금 적은 게 좋다",
+		"6. 중약불에 기름을 충분히 둘러준 후 반죽을 올려주고, 한쪽면이 노릇하게 익은 후 뒤집어 익혀준다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/e06b4fc61fce8535ac78b4ee803859ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/6861205b79d868d233446fce3ef923331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/b2c84fe0b05a254fa416726093607f301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/1f894f8c8582e63fa071f55bc43827091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/e1eceded2fb45eb73b189574ffea24f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/28/1e440979e910347238748b73d4ff6ff51.jpg"
+	]
+}

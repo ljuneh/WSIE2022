@@ -1,0 +1,54 @@
+{
+	"id": "6942236",
+	"name": "입에 넣으면 녹아버리는 '감자전' 요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/83acb3d2d15c8e21c0fea02067ea8bf51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942236",
+	"ingredient_ids": [
+		5,
+		995,
+		497,
+		504
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "6",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 1-1. 감자를 깨끗하게 씻어 껍질을 벗긴다 1-2. 1/4크기로 자른다",
+		"2. 믹서기에 자른 감자와 물1/2컵을 붓는다",
+		"3. 믹서기에 간 감자에 전분가루와  소금을 넣고 잘 섞는다",
+		"4. 후라이팬에 식용유를 잘 두른 후,  잘 섞은 감자를 한 국자씩 올린다감자가 잘 타니까 굽는동안 수시로 식용유 리필해주세요!",
+		"5. 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/77fccdec1d97815d4d3ebf6aa86252601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/872bf3d412d71f9abe6b22c2a12f356c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/f94104b5699ac0d54f6367f8d8b7cfa71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/2d4c19905bccdac4bbbe91d2dcde1af21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/19/87425495e09f5036f7d037c41183c9ae1.jpg"
+	]
+}

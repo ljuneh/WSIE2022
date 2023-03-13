@@ -1,0 +1,47 @@
+{
+	"id": "6864083",
+	"name": "깨끗하게 피조개 손질해요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/03/055514489c2f0c707104c971c4c367be1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6864083",
+	"ingredient_ids": [
+		957,
+		545,
+		846
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "피조개",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "천일염",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 바지락보다 훨씬 큰 사이즈 피조개~",
+		"2. 흐르는 물에 바락바락 주물러 씻어 브러쉬로 껍질에 붙어있는 뻘 이물질 제거하고 씻어 줍니다",
+		"3. 볼에 조개가 담길 정도로 물을 담아 천일염 듬뿍3스픈 풀어 2시간정도 해감시켜줍니다",
+		"4. 뚜껑을 닫고 반나절이상 두면 해감된 조개속에 있던 이물질을 밷으면 조개입이 벌어져 있어요 물에 몇번 더 행궈주고~",
+		"5. 냄비에 피조개가 잠길 정도의 물을 붓고 물이 팔팔 끓을때 청주3스픈 피조개를 넣고 피조개가 70%정도 입을 열었다면 불을 꺼줍니다 너무 오래 삶으면 질겨서 식감이 떨어져요",
+		"6. 잘 삶아진 피조개~ 껍질과 살을 분리해 채에바쳐 뜨거운 물을 한번 뿌려 주세요 이렇게 손질하면 뻘을 씹거나 껍질이 씹히지 않아요",
+		"7. 초장이나 양념장 기호에 맞게 드시면 쫄깃하니 맛있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/03/65c99e3f69a6e74e88ae73bd5f8b97c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/03/d2a398863ac202f074b9968f010680551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/03/57dc117b1ad5741854fc91ffdb7798b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/03/ffaea90c9a51ff25c3f5bed2ed95bc181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/03/a237412fdf33b5994ec10ccd9dd4bb461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/03/28115284253e5626915236f5b512b16d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/03/9d2a0e3b3017334da95953204ccf99e01.jpg"
+	]
+}

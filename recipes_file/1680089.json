@@ -1,0 +1,86 @@
+{
+	"id": "1680089",
+	"name": "깻잎참치전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/abc6287acc3f3c621f4f4b76df489d9b.jpg",
+	"url": "https://www.10000recipe.com/recipe/1680089",
+	"ingredient_ids": [
+		3,
+		9,
+		7,
+		3,
+		234,
+		497,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎(작은것)",
+			"ingre_count": "12",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "캔참치1개(150그램)",
+			"ingre_count": "1개(150그램)",
+			"ingre_unit": "개(그램)"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 깻잎은 깨끗이 씻어 물기를 닦고 꼭지를 떼어 준비하세요.",
+		"2. 참치는 기름을 따라내고 당근, 양파, 애호박은 잘게 다져서 준비하세요.",
+		"3. 볼에 참치, 양파, 당근, 애호박, 소금, 후추 넣어서 참치를 으깨가며 고루 섞어 주세요",
+		"4. 계란 1개 넣어 잘 섞은 다음 밀가루 넣어 섞어 주세요.",
+		"5. 깻잎 뒷면이 위로 오게 놓고 반쪽에다 반죽을 올려 주세요.",
+		"6. 계란 1개는 잘 풀고 5의 깻잎을 적셔줍니다.",
+		"7. 기름두른팬에 앞뒤로 구워내면 완성."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/ed3a45734ae048e10d7f29f46098ac9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/c9d27d1892f18a4f0dcdfa329a79ccaf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/56548d76d00ddfd5437726d6c38a365c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/caa7de0e002998cc8b42eb99dfcc4dbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/8c7942a0a133361224276aeb7334e4781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/d3b818cde296b0a85af27bcc9c0c710e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/3d9a8fc9b384bf80604ec0448bf64e7c1.jpg"
+	]
+}

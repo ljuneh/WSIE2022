@@ -1,0 +1,75 @@
+{
+	"id": "6940005",
+	"name": "베이컨 넣고 백종원 가지밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/b309a0fefeff25fad09eafc2210ed52f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940005",
+	"ingredient_ids": [
+		96,
+		18,
+		406,
+		27,
+		504,
+		379
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "가지",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 대파는 쫑쫑 썰고",
+		"2. 가지는 반달 모양으로 도톰하게 썹니다.밥을 지으면 가지가 다 물러지기 때문에 어차피 모양은 크게 상관이 없답니다. 편한대로 손질해 주세요",
+		"3. 베이컨도 먹기 좋은 크기로 썰어 준비해요.베이컨 대신 다진 돼지고기를 사용해도 좋아요!",
+		"4. 쌀은 3번 정도 깨끗이 씻은 다음 찬물에 15분 동안 불려요",
+		"5. 쌀이 불 동안 가지를 볶을 차례입니다! 프라이팬에 식용유 적당량과 쫑쫑 썬 대파를 넣고 센 불에 볶아 파기름을 내요.",
+		"6. 파기름이 나면 베이컨을 넣고 살짝 볶다가",
+		"7. 가지를 넣고 계속 볶습니다.",
+		"8. 가지의 숨이 살짝 죽으면 재료들을 한쪽으로 몬 다음 빈 공간에 간장 2큰술을 넣어요.이러면 간장이 지글지글 끓으면서 불맛이 난답니다!",
+		"9. 5초 뒤 재료들에 간장이 잘 배도록 섞어 주면 가지 볶기 끝이랍니다!",
+		"10. 밥솥에 불려둔 쌀을 넣고 평소 잡는 물 양보다 20% 정도 적게 물을 넣어요.",
+		"11. 그리고 그 위에 볶은 가지를 얹고, 전기밥솥에 잡곡밥 모드로 취사를 해요.",
+		"12. 취사가 끝나면 가지와 밥이 잘 섞이도로 주걱으로 살살 저어 주면 가지밥 완성이랍니다!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/321ccc3c2b6ccc30e33b74c46e096a911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/ebb4e97070af175a962e4f569c4156791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/00263a0c6cee1b58fc6e0e759e583b881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/743d48fe8975abb54eeebf8c07ce3a811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/148e235a73ef03c73099e9dfb0091d8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/ed0e14ec419e8e4ff31dec7861d9f8991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/cd91958d60142a1e346ccaa13a1d18ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/f42723d812596d855bd8f43a56d0f0f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/4b0ac8a7ae2c7081dd20193ad1618db91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/440441db844a817d56fd0e4d423537b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/e5cde1e18ef2caa93e0ced037efd44801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/ab1fe0901e1c662ecd52eb9db1b1cef11.jpg"
+	]
+}

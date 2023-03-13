@@ -1,0 +1,39 @@
+{
+	"id": "6863701",
+	"name": "수비드 병아리콩",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/714284634465af1bfbb8daf17ee4d7e31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863701",
+	"ingredient_ids": [
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "말린병아리콩",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "900",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "수비드",
+			"ingre_count": "",
+			"ingre_unit": "장비"
+		}
+	],
+	"recipe": [
+		"1. STEP 1 병아리콩 불리기 병아리 콩 150g을 450g의 물에 담은 후 12시간동안 냉장 보관합니다. 가능하다면 주기적으로 물을 넣어서 콩이 계속 물에 잠길 수 있게 해주세요.",
+		"2. STEP 2 걸러주기 체를 이용해 병아리콩의 물기를 제거합니다.",
+		"3. STEP 3 수비드 조리 진공팩에 불린 병아리콩 330g과 신선한 물 450g을 넣어줍니다. 90°C 로 예열한 수비드 베스에서 3시간 15분동안 조리해줍니다.",
+		"4. STEP 4 식히기 조리된 팩을 얼음물에 넣어 식힌 후 냉장보관합니다. *필요한만큼 꺼내 사용한 후 진공포장하여 보관하시면 됩니다. 야채 수비드의 경우 추가적인 살균 없이도 장기간 보관이 가능합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/76ce0baf310eea00a06ae635a45ea8ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/ed83c27a9de01e56ee1001331d410bc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/95ff5159d0649fc4c95fec544d4b4b3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/11/4bb6ee9fad31424aec573a212441d4e01.jpg"
+	]
+}

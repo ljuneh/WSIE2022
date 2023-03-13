@@ -1,0 +1,101 @@
+{
+	"id": "6944482",
+	"name": "엽떡레시피 집에서 엽기떡볶이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/db64928e748753852da09c354ac052511.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944482",
+	"ingredient_ids": [
+		972,
+		21,
+		226,
+		341,
+		473,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오뎅",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물2+1/2종이컵",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 우선 떡을 물에 먼저 불려주세요 그래야 쫀득하고 빨리 익고 맛있어요",
+		"2. 떡을 불려두는 동안  양념을 만들어줄거에요  물은 종이컵 2번 반 양을 준비해주세요 +고추장 2 숟가락",
+		"3. 고춧가루 3",
+		"4. 카레가루 1  (매운맛 카레가루가 좋더라구요)",
+		"5. 다시다 0.5 , 후추 1",
+		"6. 설탕1.5",
+		"7. 물엿 1",
+		"8. 물이 끓을때 떡, 오뎅, 양배추를 넣고 끓여주세요약불",
+		"9. 떡이 익을때 쯤 불을 꺼주세요",
+		"10. 그리고 맛있게 먹기! 시켜먹는거랑 똑같아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/ec575a625e26f2b79b4574dffcfa56941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/109549c8336ba40ee7156a31217b88551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/4b1ca5df2c1c5bc194341ab1d482aeb81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/547d2819d4d401bc038e5203d88624221.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/d257f5acc6f4f6a327094351fbf7071d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/01b4a465188fb94f5fedb65b79dca3431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/463d15ba7b4a17848844d55c57eaa0b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/6d540be5d53f5e4e0c55b93de19642511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/da4a4442689cc8ab04f97e4a6253885b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/18/c1e4e6d40145ad395a4b65bd773cae7a1.jpg"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"id": "5913264",
+	"name": "자몽청 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/10/9ad72bcb5bcce0d38143501f370991b01.jpg",
+	"url": "https://www.10000recipe.com/recipe/5913264",
+	"ingredient_ids": [
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "스위티자몽",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 스위티자몽을 깨끗하게 씻어주세요~",
+		"2. 속껍질까지 벗겨주시고 씨도 꼬옥 제거해주세요~",
+		"3. 병은 끓는물에 식초를 넣어 소독해 말려 준비해주세요~",
+		"4. 자몽은 속껍질까지 벗겨 준비해주세요.",
+		"5. 바닥에 설탕을 2~3스푼 넣어 깔아주신후에 자몽청 속살을 넣어주시고 켜켜히 설탕을 넣어주시면 된답니다~ 자몽청과 설탕을 반복해서 넣어주시고1~2일 놓아두시면 자몽이 설탕에 절여진답니다~",
+		"6. 컵에 얼음을 넣어주시구요",
+		"7. 스위티자몽청을 넣어주신후에 탄산수만 넣어주시면 된답니다.."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/c77e4ed9782d2a86acc1732a2ed458a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/bedd788617e8750f5e619d28b91a655e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/31a7a9e72431aeb054aa428c4af04c191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/97d9c6c00121f1cbb08acc3850b2a0371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/1ac0d7f1e2f3577be590a4d45b5b175d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/ae69414538a238cacbd750e88f915bcd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/19/bfda7a8ce2f3c72b300a4547e572d6d61.jpg"
+	]
+}

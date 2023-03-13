@@ -1,0 +1,48 @@
+{
+	"id": "6903799",
+	"name": "고구마치즈구이 | 고구마+모짜렐라치즈+핫케이크가루로 맛있는 간식 만들기☆",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/08/bb8bd1b2f8845d403ff4fec111ab55ea1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6903799",
+	"ingredient_ids": [
+		638,
+		212,
+		738,
+		227
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마작은것",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "핫케이크가루",
+			"ingre_count": "1/2~2/3고구마양",
+			"ingre_unit": "~고구마양"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "조청",
+			"ingre_count": "",
+			"ingre_unit": "기호에따라"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": "기호에따라"
+		}
+	],
+	"recipe": [
+		"1. 고구마는 찐 후 으깨주세요",
+		"2. 핫케이크가루를 조금씩 넣어가며 숟가락으로 섞다가 손으로 반죽해주세요 (고구마의 수분이 많아서 핫케이크가루가 꽤 들어가요)",
+		"3. 원하는 크기로 떼어낸 후 둥글리고 홈을 판 후 모짜렐라치즈를 넣어주세요",
+		"4. 미리 만들어 놓은 후 팬에 기름을 두르고 앞뒤로 노릇하게 구워주세요",
+		"5. 건강한 달달한 맛인데요 더 달게 드시고 싶으시면 꿀이나 조청을 곁들여 드세요~"
+	],
+	"recipe_img": []
+}

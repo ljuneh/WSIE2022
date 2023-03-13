@@ -1,0 +1,58 @@
+{
+	"id": "6943850",
+	"name": "햄 김치찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/137aea0fc877e239fee4c76a7107ee231.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943850",
+	"ingredient_ids": [
+		628,
+		27
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "익은김치",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "1",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "280",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 햄 미지근한 물에 헹궈 먹기 좋은 크기로 썰어 준비한다",
+		"2. 김치 먹기 좋게 썰어 냄비에  담고 김치국물 1국자 넣어준다",
+		"3. 후추톡톡,기름을 살짝 두르고 볶아준다",
+		"4. 물 800ml 정도 붓고",
+		"5. 준비한 햄 넣어준다",
+		"6. 보글보글 푹~ 끓여 주다가",
+		"7. 대파 어슷썰어 넣고",
+		"8. 한소끔 끓여 내면 완성 (부족한 간은 액젓으로)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/13bcd2010814199bddaba7187ae3cb631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/daf1be84f00914fa61db242f97e76b931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/73a6d7964a2c7acbacdf16d4e1eb08481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/514e9fc65cce40b7a7681c07eb5098851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/e2a6f634ccfd0a7bd5e2d18f54ce5c6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/2826c53cb7462c89a0f48e1bc9a9a2471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/71cf04d6823c72c131f9033e924852cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/11/63e82cf567143bcb4aa44c8f4108f3fc1.jpg"
+	]
+}

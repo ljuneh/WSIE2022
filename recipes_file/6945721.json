@@ -1,0 +1,89 @@
+{
+	"id": "6945721",
+	"name": "빼빼로데이/BLT샌드위치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/d3663210e39d0efcfc6627cb382804851.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945721",
+	"ingredient_ids": [
+		503,
+		51,
+		219,
+		42,
+		492,
+		228,
+		497,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "4",
+			"ingre_unit": "징"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슬랑이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "60",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "딸기잼",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "머스타드소스",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간씩"
+		}
+	],
+	"recipe": [
+		"1. 제료 준비해 주세요~",
+		"2. 토마토는 식감 좋게 약간 두껍게 썰어 주세요~",
+		"3. 팬에 기름 두르고 달걀 때 소금 약간 뿌리고  달걀후라이 만들어 주세요~반숙도 좋고 완숙도 좋으니  취향껏 달걀후라이 만들어 주세요~",
+		"4. 양상추는 씻어 물기 완전히 제거하고  손으로 먹기 좋게 뜯어 주시구요~",
+		"5. 식빵위에 딸기잼 바르고 양상추, 슬라이스치즈, 토마토,  달걀후라이 순으로 차례대로 올려 주세요~양상추는 듬뿍 올려 주는게 맛있더라구요~  ",
+		"6. 머스타드소스와 마요네즈 뿌리고 식빵 하나 덮어 주면 BLT샌드위치 완성!",
+		"7. 완성한 샌드위치 유산지로 포장해  먹기 좋게 이등분으로 썰어 드시면 돼요~",
+		"8. 든든한 샌드위치 BLT샌드위치입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/e4098a12d6ece8ac2c888e7574838e1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/5a2b02f6ca5c17023f24602b8d1037cb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/372be4a057564c780cf59788a2c54ef21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/e3b4a4b79311fdf49c18d522f54bf99d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/6da851eb53a77efb7b00d5c1d5d66bf31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/2e748fb0e3caf8d7b9634c0160c7122c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/bd42d8ac9202480e819773bca8b6fe371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/01c1ea7651b057c44736be40258fa8361.jpg"
+	]
+}

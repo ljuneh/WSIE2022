@@ -1,0 +1,161 @@
+{
+	"id": "712868",
+	"name": "중식당 덮밥을 집에서 만들어 보기~새우덮밥~ ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/09/cb735c9e715d8bfde382858c79c5891c.jpg",
+	"url": "https://www.10000recipe.com/recipe/712868",
+	"ingredient_ids": [
+		39,
+		9,
+		233,
+		28,
+		379,
+		477,
+		846,
+		1015,
+		660,
+		543,
+		497,
+		225,
+		846,
+		379,
+		497,
+		225,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "새우중하",
+			"ingre_count": "15",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "쇠고기or돼지고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "죽순",
+			"ingre_count": "1/2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "양파큰것",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "대파흰부분",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "육수",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "녹말가루",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 자... 먼저 재료준비....일단 사진에는 없지만, 국이나 찌개를 끓일 때 사용하는 멸치+새우다시마를 우린 육수를 2컵 진하게 우려 준비하고.....쇠고기나 돼지고기는 연한 살코기 부위로 준비해 고기양념재료인 청주(1), 간장(0.5), 소금, 후춧가루(약간씩) 를 넣어 조물조물 양념을 하고...새우는 중하새우로 머리와 껍질을 다듬어서 등에 내장을 빼서 준비하고...(마트에 조개류 파는 코너에 손질된 잔 새우를 사용하셔도 괜찮아요...)",
+		"2. 죽순은 죽순의 빗살 결무늬를 살려서 먹기 좋게 잘라 준비하고....당근과 양파는 먹기 좋게 채 썰고...죽순은 저는 통조림을 사용했어요...보통 죽순은 저장하기 힘들어서 통조림의 형태로 가공해서 이용을 하는데요...보통 죽순 통조림을 꺼내서 보면 죽순 안에 이물질이 끼어 있는 것을 볼 수가 있거든요...그때 보이는 흰 앙금은 부패해서 생긴 것이 아니고, 죽순에 들어 있는 수산염, 카시란, 전분, 단백질 아미노산 등이 티록신과 결합해서 생긴 것이라고 하네요....이것은 쌀뜨물에 씻거나 끓는 물에 죽순을 담가 찬물에 식혀 살살 긁어내면 잘 떼어지니 걱정하지 말고 사용하세요...^^",
+		"3. 팔팔 끓는 물에 굵은 소금(0.5)정도를 넣고....미리 손질해 놓은 새우, 죽순, 당근을 넣고 살짝 데쳐서 건져주고...이렇게 데치는 이유는 새우살도 탱글탱글하게 익혀서 나중에 잘 볶아지면서 양념이 잘 배게 하고, 육즙이 새나오지 않게 하기 위함인데요....정......이 과정이 번거롭다 하시면 그냥 나중에 무조건 볶아 버리세요..ㅎㅎ",
+		"4. 약하게 달군 팬에.....기름을 넉넉히 두르고....채 썬 대파와 가늘게 썬 생강 채, 다진 마늘(0.5)을 넣고 달달 기름에 향이 배도록 볶다가.....본래 마늘도 편으로 썰거나 채 썰어서 익혀 주면 좋은데요...통으로 된 마늘이 없어서 그냥 다진 마늘을 사용했어요....통으로 된 마늘을 사용하려면, 2-3쪽 정도 사용하시면 되요...사실 위에 생강채도 없어서 그냥 생강가루를 조금 넣어 주었답니당...ㅋㅋ(없다고 요리 안되는거 아니니, 대충 패쑤~~~ㅠㅠ)",
+		"5. 이어서 미리 밑간을 한 고기를 넣어 볶고...고기가 하얗게 익으면, 양파도 함께 넣고 볶아주고....",
+		"6. 미리 데쳐낸 새우, 죽순, 당근도 함께 넣고 볶다가, 간장(1), 굴 소스(1), 청주(1) 를 넣어 볶고...",
+		"7. 미리 우려낸 육수(2컵)을 넣고...이때 사용하는 육수는 쇠고기 육수도 좋고...치킨스톡을 푼 육수도 좋고....닭뼈 우린 육수도 좋고요~~저는 앞서도 이야기 했지만, 제가 애용하는 멸치+새우+다시마 육수를 사용했어요...",
+		"8. 바글바글 잠시 끓이다가....",
+		"9. 녹말가루(2), 물(4) 을 섞은 물녹말을 조금씩 풀어가며 멍울 없이 농도를 맞춰 풀어 주고...마지막으로 참기름(0.5)을 넣고, 입맛에 맞게 소금, 후춧가루를 넣어 나머지 간을 하면 끝...",
+		"10. 완성된 새우덮밥....나중에 취향껏 통깨나 흑임자를 조금 뿌려내셔도 좋아요..."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/a9ecdfe7ac7717f5af2ca830bd46447f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/0b8edd75e8f30f10d50a0838fb9bac721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/985c838b0d224af9bdf65789e670f9271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/07d9c9dcdef8b28b7d25394dece4cd6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/09c52bbd836f350e6d35d18cb87fd47f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/f2dbc610118cab830f11c4372f8514531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/2181dbf80009daac6f36b4d741214cb71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/91bf3b9c9cc6f03edecf35a1dae279431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/29/84f4c17f9f296833d2f4c433ccee33771.jpg"
+	]
+}

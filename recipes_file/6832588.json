@@ -1,0 +1,39 @@
+{
+	"id": "6832588",
+	"name": "11. 알짜파게티 (색다른 라면요리) ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/23/98df7e0c49ef1362502b1eff78148cd41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6832588",
+	"ingredient_ids": [
+		995
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "짜파게티",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "350",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. - 350ml정도의 물을 넣고 팔팔 끓여준다.",
+		"2. - 물이 끓으면 면과 야채후레이크를 넣고 팔팔 끓여준 후에, 계란을 투하시켜준다.",
+		"3. - 여기서 핵심은 노른자가 흩어지지 않도록, 주의ㅋ",
+		"4. - 이후에 짜파게티스프를 넣고 노른자만 피해서 휘휘 저어준다.  - 그러다 보면 어느덧 적당히 졸여진 알 짜파게티 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/23/078945711c355749a6647935f6b740a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/23/d926c30c2b58837d4fdb3caba4196f621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/23/d0feaa615b313a2e9f9e1b7474b5fabd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/23/398f2f3a9e4c2944a0ff91120803bc381.jpg"
+	]
+}

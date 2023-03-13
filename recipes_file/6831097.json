@@ -1,0 +1,59 @@
+{
+	"id": "6831097",
+	"name": "연어 간장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/03/3d5b4f02f3a232dd240b67da4d2917371.jpg",
+	"url": "https://www.10000recipe.com/recipe/6831097",
+	"ingredient_ids": [
+		61,
+		379,
+		575,
+		995,
+		3
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "연어",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 연어를 먹기좋은 사이즈로 등분합니다.",
+		"2. 연어에 소금, 후추, 정종 1/2스푼으로 밑간을 합니다.",
+		"3. 양념장을 만들어요. 간장 1.5스푼, 올리고당 1스푼, 물 반컵, 참기름, 다진마늘, 다진양파를 섞어요.",
+		"4. 카놀라유를 두른 팬에 마늘을 편썰어 향을내 볶아줍니다.",
+		"5. 밑간이 된 연어를 중불에서 구워줍니다.",
+		"6. 한면이 익었을때 뒤집어 양념장의 반을 넣고 채썬 양파1/4 도 함께 넣어요. 양념장이 끓고 1분후 뒤집어서 나머지 양념장을 넣어요.",
+		"7. 그릇에 담고 얇게 채썬 양파와 쪽파로 고명을 올리면 완성입니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/a370fa40573c5c610cc86d54b71ec8501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/3e5caf8018d6fb9b870a6141a6137dc11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/a7c68971268407154c93777544c19f6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/00a2b6ec376b8558afeccde213d2d0a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/fb27bb7b2a57bdc917b644e33f94aed91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/c1d2e5f67e595f6b2347e88379ae2aa81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/05/1ddcbcbb5ac804f1a48c604ba8f0c2731.jpg"
+	]
+}

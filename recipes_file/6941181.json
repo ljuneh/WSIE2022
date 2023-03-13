@@ -1,0 +1,84 @@
+{
+	"id": "6941181",
+	"name": "주말에 치맥 안주 만들기/ 마요네즈 간장양념 치킨",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/52dfdbd001fe2bddc9794d6e27a253881.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941181",
+	"ingredient_ids": [
+		27,
+		379,
+		250,
+		226,
+		228,
+		660,
+		233
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "냉동치킨",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "고명으로견과류",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "사과즙이나양배추즙",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 살로만 들어있는 냉동 치킨 반 봉지는  고추장 양념 치킨하고 나머지는  같은 방법으로 해동 시킨다. 전 과정은 같고 양념만 다르게  만들었다.",
+		"2. 대파는 채를 썰어서 찬물에 담가준다.",
+		"3. 집에 있는 견과류를 이용하였다. 호두가 있어서 사용 하였다. 아몬드를 이용해도 고소할것 같다. 10g정도 다져 준비한다.",
+		"4. 마요네즈 간장양념치킨 으로는  간장 1T, 레몬즙 2T, 설탕 1T,  마요네즈 4T, 참기름 1ts, 다진 마늘 1T, 청양고추 2네즈 간장양념치킨 으로는  간장 1T, 레몬즙 2T, 설탕 1T,  마요네즈 4T, 참기름 1ts, 다진 마늘 1T, 청양고추 2개 를 다져서 넣고 잘 섞어준다.",
+		"5. 에어프라이기 160도에서 8분 돌리고 다시 뒤집어서 8분 익힌 닭고기는  위의 양념에 버무려 준다.에어프라이어",
+		"6. 견과류와 파채를 올려주면 완성. 맥주 안주로 이정도면 훌륭하지 않을까~~."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/0373f2304837368438734d740426a3b31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/54e59678f3910f724c408a1566b283971.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/22acc5a40adf94a7e05b00aaad87ee371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/ebadc781875c77e44166e10b39dee21b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/24daa8ee7fb0afc0496a0acc7d3484921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/f3dd252fc10a4c660a7bfc8d4c51be981.jpg"
+	]
+}

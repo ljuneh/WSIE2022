@@ -1,0 +1,64 @@
+{
+	"id": "6929865",
+	"name": "햄,치즈 오이롤~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/04/03/2506980fc75bdb3fd354b462d02131d21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6929865",
+	"ingredient_ids": [
+		203,
+		8,
+		228
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "슬라이햄",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "체다치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "머스타드",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "갈색설탕",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 오이 깨끗히 씻은 후 꼭지를 잘라 내고 필러로 오이 끝을 두세번 벗겨내고",
+		"2. 깍아 내어 사용합니다",
+		"3. 체다치즈 3등분으로  잘라주고",
+		"4. 샌드위치햄도 3등분으로 잘라준다 (저는 일반 햄으로 잘라 주었어요)",
+		"5. 오이 위 치즈,햄 올리고",
+		"6. 도르르~ 말아서",
+		"7. 꼬지에 끼워 완성합니다",
+		"8. 소스는 머스타드,마요네즈 갈색설탕 넣고 섞어요 소스에 콕~ 찍어 맛있게 냠 냠~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/03/6224fce154734d97f440d3a990d485241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/03/f27dd0c81581bde9d9b3fb05387a19ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/03/d501ae571160994b128ff7a5db70d6571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/03/72f35b5db913dbbe9d38cdb95b66633d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/03/146fff8591fc3b27330193a5c784a7c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/03/841789ef1d2c67da6aa7491a9c4222bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/03/2223ec74342c2403f8d562c2742f8ca01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/04/03/681da5ed6c7c25af02a2d9a1c67b17ec1.jpg"
+	]
+}

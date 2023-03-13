@@ -1,0 +1,96 @@
+{
+	"id": "6942940",
+	"name": "수미네 반찬 더덕구이 [추석요리]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/4a4e6c8fa8e8e32f8d615b907d7d9c0a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942940",
+	"ingredient_ids": [
+		37,
+		660,
+		543,
+		473,
+		233,
+		547,
+		995,
+		226,
+		660,
+		227
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "더덕",
+			"ingre_count": "250~300g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "다진대파",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "0.",
+			"ingre_unit": ".숟가락"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 더덕은 껍질을 벗기고 한번 씻어 낸 후 물기를 제거하고 넓적하게 썰어주세요. * 더덕의 쓴맛을 없애려면 소금물에 10~20 정도 담가 두면 된답니다. 단, 소금물에 너무 오랫동안 담가 놓으면 더덕의 향이 날아가니 참고해주세요. ",
+		"2. 썰어놓은 더덕은 방망이로 평평하게 두드려주세요. 이때 너무 세게하면 바스러질 수 있으니 살살 톡톡 두드려 줍니다. ",
+		"3. 이제 더덕에 참기름을 살짝 발라주세요. ",
+		"4. 그리고 약불에서 더덕을 초벌구이 해줍니다.",
+		"5. 전체적으로 노릇노릇하게 구워주심 된답니다.",
+		"6. 분량대로 양념장을 만들어주세요. 고추장 1, 다진 마늘 0.5, 다진 대 파 1, 양조간장 0.5, 물 1, 설탕 1, 참기름 0.5, 꿀 1을 한데 넣어 고루 섞어주세요. ",
+		"7. 미리 구워 놓은 더덕을 팬에 다시 올리고 그 위에 양념장을 고루 발라주세요. 약불에서 앞, 뒤로 한 번 더 구워 마무리해주세요. 더덕을 미리 초벌구이를 한 상태라 양념장이 스며들 정도로만 구워주면 된답니다. ",
+		"8. 더덕구이 완성^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/def01929200db3fd92c2243b4988dd811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/c9bf386adce6872452c6ba2b469b7d831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/4d50733b3c69c860e963515c0f6516d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/506caa8e9c6f76a9aef190c6975f357a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/a0a3800067544c015a23123a95df12db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/8f4c01b666b81ff313f977933f36a5301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/541ca9db23cc17231c314f780895281e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/0bdc5ae8d2bd20d583e6d0b3ed75a6d51.jpg"
+	]
+}

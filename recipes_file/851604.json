@@ -1,0 +1,38 @@
+{
+	"id": "851604",
+	"name": "달콤한 고구마죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/17f821ec861df30d9196b6faf243d13c.jpg",
+	"url": "https://www.10000recipe.com/recipe/851604",
+	"ingredient_ids": [
+		4,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "찬밥",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 물을 적당히 붓고 찬 밥 한 덩이와 고구마 한 개를 깍둑썰어 넣어줍니다.",
+		"2. 처음엔 센 불에, 끓기 시작하면 약한 불에 끓이기 시작해요.",
+		"3. 밥이 퍼지기 시작할거에요. 바닥에 눌어붙기 쉬우니까 주걱으로 바닥을 긁어가며잠시 끓이다보면 밥도 푹 퍼지고, 고구마는 말랑하게 잘 익을거에요. 마지막에 입맛에 맞게 소금으로 살짝 간해주면 되지요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/db28bcbb975d6c233a5e56e225e423c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/dde3fcb8689734c9e6e68ad48793b8561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/30/ab4bcaf72fd4abb4c8a929ed3f2c09151.jpg"
+	]
+}

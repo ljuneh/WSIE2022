@@ -1,0 +1,62 @@
+{
+	"id": "6359268",
+	"name": "말린 도토리묵볶음 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/02/1f420b6ea7e6fca20ee720fea6474a3e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6359268",
+	"ingredient_ids": [
+		3,
+		295,
+		504,
+		233,
+		350,
+		379
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "말린도토리묵",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 먼저 말린 도토리묵을 준비한다. 물에 도토리묵을 3~4시간 정도 불려준다.",
+		"2. 끓는 물에 도로리묵을 2~4분정도 데쳐준다. 팬에 식용유를 살짝 두르고 다진 마늘을 반스푼 넣어 먼저 볶는다. 묵을 볶다가 양파 반개와 청양고추를 썰어 함께 볶는다.",
+		"3. 간장 2스푼과 깨소금을 넣고 간을 맞춘다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/e29d93b57052f8b252b982ebff501a5d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/4f65295aade4ea41a6b782f6c0f53ed01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/03/a2a270df72bed07ace4bff3184582d491.jpg"
+	]
+}

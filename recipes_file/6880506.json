@@ -1,0 +1,70 @@
+{
+	"id": "6880506",
+	"name": "들깨가루 토란탕, 따뜻한 국물 요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/03/e3c9e2e1d099118b9247c44acabcd2301.jpg",
+	"url": "https://www.10000recipe.com/recipe/6880506",
+	"ingredient_ids": [
+		337,
+		287,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "손질된토란",
+			"ingre_count": "350",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소고기(치맛살)",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소고기육수",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "까나리액젓",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "썰은쪽파(고명)",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "있으면새우",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		}
+	],
+	"recipe": [
+		"1. 껍질을 벗긴 토란을 먹기 좋은 사이즈로 도톰하게 썰어주세요.",
+		"2. 펄펄 끓는 물(+소금 1/3T)에 넣어 중불에서 3분 정도 데쳐주세요.이렇게 하면 진액이 빠져나오고, 아린 맛도 같이 제거된답니다.",
+		"3. 그리고 찬물에 씻어, 체에 밭쳐 물기를 제거해주세요.",
+		"4. 이제 냄비에 토란, 육수, 소고기, 들깨가루, 액젓, 다진 마늘을 넣어주세요. 그리고 뚜껑을 닫고 중불에서 3분 30초, 약불에서 8분 끓여주세요.저는 냉동실에 저장해 놓은 육수를 사용했는데요. 이때 고기 250g + 물 4L를 넣고 중불에서 1시간 끓였답니다. 집에 있는 다른 육수를 써도 OK!!",
+		"5. 다 끓였으면 내장을 제거한 새우를 넣고 1분 30초만 더 끓여주세요.새우는 장식용이랍니다. 있으면 넣고, 없으면 패스~~",
+		"6. 마지막에 썰은 쪽파를 뿌려주면 끝. (간을 봤을 때, 싱거우면 액젓을 살짝만 더 추가해주세요.)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/03/46020d10b0b13990e0c8f99341f070241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/03/8f044710dad19a53413729a4142c90e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/03/79acc553b33499c721324ebcf1531e2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/03/2c0690316f679c9a993598b7a9887d161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/03/ae3cb9d8a1272d3f4e81cf3d7c02c1a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/03/e8470c0c5fd9938be4fcf6eef314ee011.jpg"
+	]
+}

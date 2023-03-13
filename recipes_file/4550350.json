@@ -1,0 +1,96 @@
+{
+	"id": "4550350",
+	"name": "새조개 샤브샤브",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/3628fe3e0a083cd852d8dd4fe2c80b03.jpg",
+	"url": "https://www.10000recipe.com/recipe/4550350",
+	"ingredient_ids": [
+		454,
+		13,
+		19,
+		84,
+		320,
+		90,
+		27,
+		423,
+		3
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "새조개",
+			"ingre_count": "20",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "배추속",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청경채",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "비타민",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "바지락",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청량고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "북어포",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 청경채, 비타민, 배추속은 깨끗하게 씻어 먹기좋은 크기로 손질해주세요.",
+		"2. 깊은 냄비에 물을 넉넉히 붓고 육수재료 무, 바지락, 멸치, 다시마, 대파, 청량고추, 북어포, 양파를 넣고 푹~끓여 육수를 만들어 주세요 .",
+		"3. 물이 끓기 시작하면 다시마를 건져내 주세요.",
+		"4. 육수를 만드는 중 생기는 거품은 걷어내 깨끗하게 만들어 주세요. 30분 이상 재료들의 맛이 충분히 우려졌다면 체에 걸러 깨끗한 육수에 무우를 넣고 끓여 주세요.",
+		"5. 전골냄비에 면보에 깨끗하게 걸러낸 육수를 넣고 (시원한 맛을 위해 무는 함께 넣어주세요.) 손질해놓은 채소를 먹을만큼 넣어주세요.",
+		"6. 새조개를 적당량 넣고 뜨거운 육수에 담궈 살짝만 익힌 후 간장과 고추냉이찍어 익은 야채와 함께 드시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/8492ae76609d22336120a21ed4077dbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/7d12e5e093c5a313d233bfd0f5f5e6301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/b9aad6071e09000b53ddf121fa3ee3651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/286034e0c55696d3aa811639710f3ee71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/7040d5f81a866f75ae61fc83cda2cc1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/61d00a164749cce4f0e904fd8acc25d01.jpg"
+	]
+}

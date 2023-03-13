@@ -1,0 +1,68 @@
+{
+	"id": "6892181",
+	"name": "깐마늘 소금 장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/07/07/3095bcb5476bcd0a51f92b721b0768001.jpg",
+	"url": "https://www.10000recipe.com/recipe/6892181",
+	"ingredient_ids": [
+		497,
+		995,
+		226,
+		231,
+		579,
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "깐마늘",
+			"ingre_count": "1",
+			"ingre_unit": "kg"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "6",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		}
+	],
+	"recipe": [
+		"1. 마늘은 껍질을 까서 씻은후 체반에 받쳐 물기를 빼주세요.",
+		"2. 물6컵에 소금1.5컵을 녹인후",
+		"3. 마늘을 병에 담고 부어 주세요(24시간 동안)",
+		"4. 마늘을 체반에 받쳐 물을 따라 낸후",
+		"5. 다시 병에 마늘를 넣고 설탕,물,식초,소주를 녹인후 부어 주세요.한달 정도 숙성 시켜주세요.",
+		"6. 숙성된 마늘 장아찌입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/eae52e972d76c082edea59c4b1ddf3d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/aa3d07b9c47c9be87ca0e972ffbbee5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/3986ae6920c5d674b25041ce32dc0d591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/bf2bb5545f1c2c9c7afe4628d7c20da81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/07/c06793346c4bc37463f4498de1036d051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/07/07/14c32ddb3a976bf73aaca35afe9535b11.jpg"
+	]
+}

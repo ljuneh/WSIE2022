@@ -1,0 +1,94 @@
+{
+	"id": "6943977",
+	"name": "(아기 국 반찬) 맑은소고기국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/98900e9e17b69e2dbb06bd97bfb63bf01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943977",
+	"ingredient_ids": [
+		19,
+		47,
+		27,
+		233,
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "국거리용소고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "멸치다시육수",
+			"ingre_count": "800",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "아기간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1.",
+			"ingre_unit": ".t"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해요.국거리용소고기 100g, 무 200g, 콩나물 150g, 대파 30g, 멸치다시육수 800ml, 다진마늘 1t, 아기간장 1.5t, 참기름 1.5t",
+		"2. 콩나물은 뿌리와 콩껍질을 제거해주세요.",
+		"3. 국거리용 소고기가 크기가 조금 커서 아가가 먹기 좋게 좀 더 등분하였어요.도마, 칼",
+		"4. 무는 얇은 사각형 모양으로 썰어주세요.",
+		"5. 대파도 송송 썰어 준비해요.",
+		"6. 콩나물도 아가가 먹기 좋은 길이로 썰어주세요",
+		"7. 냄비에 참기름(1.5t)을 두르고 국거리용 소고기를 넣어 볶아요.냄비",
+		"8. 소고기가 어느정도 볶아지면",
+		"9. 무를 넣고 볶아요.",
+		"10. 소고기가 무가 골고루 볶아지면",
+		"11. 멸치다시육수 400ml와 콩나물을 넣고 1차로육수는 한번에 다 넣는 것 보다 두번 나눠서 끓이면 국물이 훨씬 구수해요",
+		"12. 팔팔 끓여요",
+		"13. 그다음 다시 남은 멸치다시육수 400ml와 아기간장 1.5t, 다진마늘 1t를 넣고",
+		"14. 팔팔 끓으면 위에 뜨는 거품은 건져내 주세요.거품을 건져내야 맑고 깔끔한 국물이 완성됩니다. ",
+		"15. 마지막으로 썰어 둔 대파를 넣고 한번 더 끓여주면",
+		"16. 구수한 냄새가 입맛을 사로잡는 맑은소고기국이 완성되었습니다.",
+		"17. 아기 국그릇에 맛있게 담아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/ef9348bed35b54fd23204949e0431ce91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/28bc213cfa2aad2cbc5994f09bf3313d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/7b91ab6461cfed09e00ff79f00955b7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f14a0da1dbb9157b62870b47b86d24721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1bb62eef15a347b42aa9187bd76eae6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/49f4d869e06d9370ea6115af3b2d43d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/7aa329616a2b253c99eae4276336e85b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f854713f522264c10e5f3b20d4954cd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/e771c2721308dd5ab8136c1147b58d161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/009ac911a9ccb76be6ce16518a377bdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/166e53d91800e1c7eb5904a69484ddec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/2db9c7bf97de48d08bbf49253f68ad801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/f5e1349b336dc7c8fecbb1bdb8f5c3ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/4cf918f0b3a0d1c3e417ede82b634abb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/1c0b5b3ebb55ab9b216de3302765252b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/427aa2572ca01bd0d3488e4c4fa902b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/a2992348727958596feef01e726e488f1.jpg"
+	]
+}

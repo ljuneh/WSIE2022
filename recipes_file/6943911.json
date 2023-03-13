@@ -1,0 +1,58 @@
+{
+	"id": "6943911",
+	"name": "잡채요리 잡채김말이(야채김말이) 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/d2fc5b2f6b06ae9446814ddd2d9655be1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943911",
+	"ingredient_ids": [
+		1025,
+		734
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "잡채",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "튀김기름",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 먼저 김은 4등분 해주세요.",
+		"2. 잡채는 전자렌지에서 살짝만 찬기가 빠질정도로 1분간 돌려주세요.그리고 가위로 4등분 해주세요.전자레인지너무 차가우면 말기가 어려워요. 그러니 찬기만 빠질정도로 해주시면 좋아요.",
+		"3. 튀김가루를 볼에 한컵정도 담고 물을 2/3컵정도 넣어 대충 풀어주세요.",
+		"4. 여기에 얼음을 살짝 섞어주세요. (얼음대신 탄산수를 넣어도 좋답니다. 이때에는 물대신 탄산수를 넣으면 되요.)",
+		"5. 이제 김에 잡채를 말고 끝부분에 튀김반죽을 살짝 발라 말아주세요.",
+		"6. 이 김말이에 튀김가루를 한번 살짝 무쳐주세요. 이 과정은 잡채에 수분기가 많아서 기름에 튀길때 튀지말라고 덧바르는 거랍니다~",
+		"7. 튀김온도가 어느정도 올라오면 튀김반죽을 무쳐서 노릇하게 튀겨주세요. 가장자리부터 미끄러지게 넣으시면 안튀고 좋아요!",
+		"8. 튀김소스인데요. 초간장을 만들어서 찍어드시면 더욱 좋답니다. 간장 1에 매실청 1 식초 1을 섞고 마지막에 고춧가루 1작은술을 섞어주시면 끝 바로 드시려면 튀김을 바삭하게 오래 튀겨주시고 아니면 한번 야채김말이를 초벌튀김을 했다가 나중에 한번 더 튀겨드시면 더욱 바삭하게 드실수 있답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/bf6ba3c227c441a66b430da787c4edef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/8ab036fb41eb565878b29c6d071b41661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/59ac66670a8fc3e92b8e800b7a8038d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/74644767a22960dfc179953788d307831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/a4c0471814bea158bbdc1cdfb5f7c8ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/924d6ca7ac57419bae2ea3a898fbfbda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/9f43d9dd9fb3510498970006f7cbd09b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/a636b01b36524855fb0f222f22c3b4151.jpg"
+	]
+}

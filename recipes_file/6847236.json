@@ -1,0 +1,57 @@
+{
+	"id": "6847236",
+	"name": "궁중떡볶이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/04/fd4c9d303bcf61a1fc61406900315f201.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847236",
+	"ingredient_ids": [
+		3,
+		233,
+		575,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "​물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "만능간장고기위주",
+			"ingre_count": "1",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 먼저 떡볶이를 만들 냄비에 떡, 양파를 넣고 물 한컵 그리고 만능간장을 고기위주로 1국자 퍼서 넣어주었어요. ",
+		"2. 끓기 시작하면 다진마늘과",
+		"3. 올리고당 넣어주고",
+		"4. 참기름도 살짝 넣어주고, 대파도 송송 썰어 넣어주었어요. 짜면 물을 좀더, 싱거우면 간장을 좀더 넣어 간을 맞추면 될것 같아요. 참고로 저는 간장자체가 좀 짭쪼름하길래 물을 조금 넣어주었네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/a77977c11b743b52da9df53442db3a371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/5a763e4b532c251b200de89a962e515a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/c4f734104b389350b8f7fb9f2119d6401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/50638328d87daeb52e04b1b62021802c1.jpg"
+	]
+}

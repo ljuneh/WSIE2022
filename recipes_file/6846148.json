@@ -1,0 +1,85 @@
+{
+	"id": "6846148",
+	"name": "봄에 먹는 쪽파김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/08/e8f8dabd1934bfc2151cb5ea8b8fc3ee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6846148",
+	"ingredient_ids": [
+		667,
+		995,
+		224,
+		29,
+		28,
+		938
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쪽파큰단(대충)",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "찹쌀풀(찬밥)",
+			"ingre_count": "풀(찬밥)",
+			"ingre_unit": "풀(찬밥)"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "7",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "까나리액젓(조정)",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1~1.5컵",
+			"ingre_unit": "~.컵"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕(물엿)",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 쪽파길이가 짧으면서 싱싱하고, 뿌리가 동글한 쪽파가 좋아요.. 저는 시댁에서 다듬어온 쪽파를 사용했어요. 뿌리를 제거해도 좋고, 뿌리채 사용해오 된답니다..깨끗하게 다듬어요.",
+		"2. 깨끗하게 씻어 바구니에 담아 물기를 빠지게 했어요.. 김치 담을때 쪽파 물을 탈탈 털어 주어요.",
+		"3. 쪽파가 물이 빠질때... 찹쌀풀을 쑤어서 식혀 두어요.",
+		"4. 깨끗하게 씻어 놓은 쪽파에 까나리액젓을 살살 뿌려서 절여주세요..(입쪽보다는 뿌리쪽을 넉넉히 뿌려 줍니다.) * 쪽파양에 따라서 액젓양을 조금씩 넣어 조절 합니다.",
+		"5. 절여진 쪽파 옆에.. 양념을 만들어 주어요.",
+		"6. 양념이 다 만들어 지면  맛있게 잘 버무려 주세요.. (이때, 간을 보아 부족한 것을 보충해주세요)",
+		"7. 돌돌 말아서 드셔도 되고, 가지런히 통에 담아 비닐로 공기 차단후 숙성시켜도 좋고, 생김치를 좋아한다면 바로 김냉으로 보관"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/08/c9e6dda4c3418e1180a2477f67d575951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/08/92e687853d22b78bdb828441ae27d9491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/08/cc85b1d98def4ef2df981df8b04f08de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/08/90be46549008ff5e522a5e96cf45bf361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/08/57b6c998bf7e340c79dcd3f9b0ba08de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/08/8f15850922848c8088363f80af236a261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/04/08/54f063b9c79d81d6372ff4c8fdcf35421.jpg"
+	]
+}

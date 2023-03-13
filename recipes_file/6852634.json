@@ -1,0 +1,39 @@
+{
+	"id": "6852634",
+	"name": "제철과일로 자두잼 만드는법 ~#",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/13/6a4f7d8e44e4c8cf75f742c59a1eca731.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852634",
+	"ingredient_ids": [
+		168,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "자두",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/4",
+			"ingre_unit": "머그컵"
+		}
+	],
+	"recipe": [
+		"1. 자두는 깨끗이 씻어 7개는 씨를 제외하고 블렌더에 넣고 갈아 주세요.",
+		"2. 남은 자두 3개는 작게 썰어 줍니다. 갈아 놓은 자.두와 분량의 설탕을 냄비에 넣고 끓여 줍니다. 제가 설탕의 양을 좀 더 넣었더니 너무 달더라구요, 1/4컵이 적당합니다. 끓기 시작하면 중약불에서 저어가면서 끓여 줍니다.",
+		"3. 계속 저어 주다가 생기는 거품은 좀 걷어 내 주시고, 걸쭉해지기 시작하면 썰어 놓은 자두를 넣어 졸여 줍니다. 요래 썰어 넣으면 잼먹을때 씹히는 식감이 있어 더 맛있어요. 제가 썰어 놓은 것보다 좀 크게 썰어주시는 것도 좋을거 같아요. 끓이다 보니 좀 많이 퍼져 있더라구요.",
+		"4. 와전히 걸쭉해지도록 졸여지면 찬물에 한방울 떨어뜨려 퍼지지 않는지 확인한 후에 증탕으로 소독한 유리용기에 따뜻할때 담아 줍니다. 잼은 용기에 담아 놓으면 좀더 굳어지기 때문에 약간 물게 만드시는게 좋아요.",
+		"5. 유리용기에 담아 한번 뒤집어 주면 한번 더 열소독이 되어 오래 두고 먹기에도 좋답니다.",
+		"6. 자두스무디 자두 3~4개와 얼음 10개, 유산균파우더 3큰술, 우유 2/3컵을 넣고 블렌더에 휘리릭 갈아주면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/13/405ac26bf0ef81da4a3b3f3df7fc3bd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/13/95d32466b5b285706e370bb131cbac871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/13/b53eb7fa0619f91df6bbf269b2b98fb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/13/7e88d8d8d23a034a9136f98305f2c04d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/13/6dbd1c61f6f8e40c1d2b7126bfcb33691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/13/841e0aef99674ac3915a178b6b6c68601.jpg"
+	]
+}

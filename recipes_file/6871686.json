@@ -1,0 +1,38 @@
+{
+	"id": "6871686",
+	"name": "아침에 한잔 마시면 든든하지요! 토마토주스",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/23/90eb4082776f9519f558ac53118dccbf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6871686",
+	"ingredient_ids": [
+		51,
+		227
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "2",
+			"ingre_unit": "Cup"
+		}
+	],
+	"recipe": [
+		"1. 토마토는 4등분하여 꼭지만 잘라 준비한다.토마토 4개",
+		"2. 믹서기에 토마토, 야쿠르트, 꿀, 얼음을 넣어 갈아준다.야구르트 1개,꿀 2T, 얼음 2cup, 믹서기",
+		"3. 모두 갈리면 컵에 넣어 완성한다.컵"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/23/aebc3e3cebe5c7225e17ca36c894f07e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/23/2e5807d1cc6411eacb3b03b5663f48d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/23/6b8c2f24ad5575f8f04f3046895806101.jpg"
+	]
+}

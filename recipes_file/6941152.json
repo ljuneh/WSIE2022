@@ -1,0 +1,83 @@
+{
+	"id": "6941152",
+	"name": "고구마순볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/d3ca85d0bfc23140f0e938d5127b2a071.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941152",
+	"ingredient_ids": [
+		825,
+		995,
+		282,
+		349,
+		327,
+		27,
+		29,
+		337
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마순",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "굵은소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 고구마순은 한단 정도이며 껍질을 까서 준비합니다. 재래시장에 가면 할머니들이 까서 판매하는것을 볼 수 있어요 무게로는 400g입니다.",
+		"2. 대파, 마늘은 다져서 1큰술씩 정도 입니다.",
+		"3. 흐르는 물에 2번 정도 씻어 주세요",
+		"4. 냄비에 물5컵을 부어 끓으면 굵은 소금 1/2작은술을 넣고",
+		"5. 고구마순을 넣어 삶아요 불을 줄이고 10분정도 삶아요약불",
+		"6. 약 1컵의 물을 남기고 버려주세요",
+		"7. 국간장2큰술(양이 적으면 1큰술),  들기름2큰술, 다진파마늘1큰술씩 넣고 잘 섞어주세요",
+		"8. 잘 섞어주고 뚜껑을 닫고 약불에 10분 정도 더 끓여줍니다",
+		"9. 들깨가루를 듬뿍 넣어보세요 취향에 따라 고추가루 1큰술 넣으면 빨갛고 매콤한 고구마순볶음이 됩니다.",
+		"10. 완성!!!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/463ccfb1788284b2dc0e652fb0369e0c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/131b7d1f66463f80332a88e25541d5ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/d9e6cca6f9350d845e4c5dee4d671a361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/c240cff3912bd5758c8b585b1484b69f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/6a1269c56b32f23db7517574ea1917501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/f4c992bfc52bb5e903ee1853184c2e6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/b6bec616c05d4fc040dece85284d0f5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/af73461c6e0fb6dbfa3f64d9d3df74a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/80f6a2dc3aa7c55d7a3aeec77d5906011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/0d1f0d914f682d0bed865b7ca0d685011.jpg"
+	]
+}

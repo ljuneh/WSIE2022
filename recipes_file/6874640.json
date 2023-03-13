@@ -1,0 +1,81 @@
+{
+	"id": "6874640",
+	"name": "말린보리굴비찜, 시원한 녹차물과 함께",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/03/b316febeedd8638c53a452f805f6314f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6874640",
+	"ingredient_ids": [
+		876,
+		27,
+		846,
+		28,
+		290,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "말린부세조기",
+			"ingre_count": "3",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "1",
+			"ingre_unit": "L~"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "시원한녹차물",
+			"ingre_count": "",
+			"ingre_unit": "원하는만큼"
+		}
+	],
+	"recipe": [
+		"1. 먼저 요리 시작하기 30분 전 쌀뜨물에 부세를 넣어 불려주세요.이렇게 담가주면 부드러운 식감과 비린내도 잡는 데다 나중에 손질하기도 편하답니다.",
+		"2. 30분 후 부세를 꺼내 손질을 해볼까요. 칼을 옆으로 눕혀 꼬리에서 머리 쪽 방향으로 살살 긁어 비늘을 제거해주세요.",
+		"3. 다음으로 가위를 사용해 보이는 지느러미들을 (아가미, 등, 꼬리, 배 등등) 다 잘라 제거해주세요.",
+		"4. 그리고 배를 갈라 안의 내장을 꺼내주고,작은 생선이라면 입에 젓가락을 넣어 내장을 뺄 수 있지만 이건 사이즈가 크기 때문에 배를 갈라 빼주는 걸 추천~☆",
+		"5. 뼈 사이사이에 박혀있는 핏덩이는 물로 깨끗하게 씻어주세요. 이걸로 비린내 잡는 부세 손질법은 끝.",
+		"6. 대파는 반으로 갈라 4등분 해주고, 생강은 얇게 편 썰어주세요. 이걸로 재료 준비는 모두 끝.",
+		"7. 찜기에서 수증기가 피어오르면 청주는 안에 부어주고, 대파, 생강은 밑에 깔아준 다음",
+		"8. 그 위로 부세를 올리고 뚜껑을 덮어주세요. 그리고 중불에서 5분만 쪄주세요.",
+		"9. 5분 후 뚜껑을 열어 참기름과 깨를 살~짝 발라주세요.저희는 쫄깃한 식감을 원해 구웠는데 부드러운 식감을 원하시는 분들은 찌기만 하셔도 된답니다.",
+		"10. 예열된 프라이팬에 참기름을 두르고 반으로 갈라 펼친 찐 부세를 넣은 다음 약중불에서 앞뒤를 노릇노릇하게 구워주면 오늘의 요리 끝."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/03/8e35b9d702a2668eab1aad34e09ec4521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/03/a373bf3898d42e0924bc0bdcba3a2f9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/03/49cda832b89963fc29cbb3ebb78ec5c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/03/f7f5714023899e9922365711cc79bce21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/03/2e271b374909b9d2bbaf9d5460bc54561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/03/9aa65e745869d838963bd11ef883d1a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/03/e4e0f8f87bd4b55e88d56a600aef98821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/03/96c70dfc5cf31262347cabaafe4d78931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/03/862f8d3cf403560be84752de47d186491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/03/438bb59f343da2fe02a09b1ac4bfddf81.jpg"
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"id": "6941829",
+	"name": "(코로나극복)돼지고기묵은지청국장찌개:시원~한 청국장국물 맛좀 보고 가세요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/54a644c6bcf7a03063449a20e0a0e3ae1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941829",
+	"ingredient_ids": [
+		579,
+		923,
+		323,
+		670,
+		224
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기살코기",
+			"ingre_count": "150",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파(또는무)",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "쌀뜨물3+1/2컵",
+			"ingre_count": "3+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시마(황태또는건표고)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청국장",
+			"ingre_count": "2~3큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "부추(또는파)",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 두부,묵은지,양파나 무를 적당히 썰어둔다.",
+		"2. 두부 빼고 채소들과 돼지고기를 넣는다: 돼지고기는 소주에 담갔다 사용하면 누린내 제거에 도움돼요.",
+		"3. 쌀뜨물과 황태,건표고,다시마를 넣고 쌀뜨물을 넣어 푹 끓인다.",
+		"4. 국물이 우러나게 끓으면 청국장을 넣고 두부도 넣어 휘리릭 끓인다. 된장을 조금 넣어주어도 맛있어요.",
+		"5. 간을 보아 싱거우면 소금이나 국간장 조금 넣어주고 부추나 파를 넣고 불을 끈다: 저는 간이 딱 맞아서 아무것도 넣지 않았어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/928e753d97c9c5e8f12ac615617fa4741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/b0a63571a886462ce27cd25194bd6e6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/75b35bb740915bc34054a4da03f54f991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/3e756643613da27cf9fb19abcea2874e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/332d4928ffb3986aac2803c3c0afe7001.jpg"
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"id": "6942641",
+	"name": " [동그랑땡과 꼬치가 하나로]",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/bd00bba01124d110cc94066f9ec68c911.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942641",
+	"ingredient_ids": [
+		504,
+		53,
+		548,
+		289,
+		497,
+		219
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1/4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛살",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "동그랑땡",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루또는밀가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "스팸작은거",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		}
+	],
+	"recipe": [
+		"1. 집에 있는 재료를 사용하셔도되요. 모든 재료들은 동그랑땡 지름의 크기에 맞춰서 썰어줍니다. 막대어묵을 사용했더니 크기가 딱이네요. 쪽파나 대파도 같은 길이로 썰어둡니다.",
+		"2. 꼬치는 순서가 중요해요. 야채를 사이사이 꽂아줘야 느끼하지 않고 맛있어요. 배추김치를 씻어서 하나 꽂아도 맛있어요. 파> 햄> 파 > 어묵 > 표고 > 맛살 > 동그랑땡",
+		"3. 달걀을 풀고 소금간을 해줍니다. 달걀을 두번입혀서 두번익힐거라 넉넉히 해줍니다.",
+		"4. 밀가루나 부침가루를 풀어 손으로 문질러 발라준후 털어둡니다. 밀가루 사용시 소금간을 조금 해요.. 저는 부침가루를 사용합니다.",
+		"5. 꼬치에 계란물을 발라 익혀줍니다.",
+		"6. 팬에 기름을 두르고 전부 한번 익힌후 다시 계란물을 발라 한번더 익혀줍니다. 한번만 하실경우 냉동 동그랑땡은 전자렌지 돌려서 익혀준후 사용하셔야 해요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/2aeab659bc2a92f918c533670cc57b061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/211f781561d935cd5dfd15b90b3556a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/2547efd72867bf4a39492c2f166e92431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/65e914b35a51a2fc76ded8da4ec7c4c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/07bc28e73fef3d73d55541fd973ad9021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/23/a9cc95bbef24f302da90aa85e728e7151.jpg"
+	]
+}

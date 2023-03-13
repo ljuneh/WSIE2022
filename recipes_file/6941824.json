@@ -1,0 +1,76 @@
+{
+	"id": "6941824",
+	"name": "쉽고 간단하게 '소고기 미역국 끓이는 법' ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/3f0f0ce61caa78512a17b20dfa9183781.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941824",
+	"ingredient_ids": [
+		495,
+		995,
+		327,
+		233,
+		349,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "1",
+			"ingre_unit": "주먹"
+		},
+		{
+			"ingre_name": "미역자른걸로",
+			"ingre_count": "6~7조각",
+			"ingre_unit": "~조각"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름1+1/2T",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다시다(또는살뜨물사용은선택사항)",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. [빠른 재료 준비] 1-1. 소고기를 해동한다. 1-2. 미역을 먼저 물에 20분정도 불린다.얼린 소고기는 요리하기 1시간, 30분전에는 꺼내서 자연 해동시키세요. 그리고 미역은 소금에 베인 미역의 경우는 모르고 미역국 끓이면 짜고 떫은 맛도 약간 나니까 불려주는 작업을 2번 반복해주세요. ",
+		"2. 2-1. 해동해서 물로 헹군 소고기를 냄비에 넣고 볶는다.  2-2. 소고기가 익었다 싶을 때, 다진마늘을 넣는다.음식장인 박여사님의 손맛비법을 제게 전수해주신 바, 냄비에 참기름과 들기름을 1큰술씩 붓는게 포인트! 이렇게 하니까 정말 풍미가 진하게 살아요. (다진마늘은 제 방식입니다)",
+		"3. 물을 뺀 미역도 같이 냄비에 붓고 볶는다.기름이 좀 남아있는 상태에서 미역을 볶아야 고소함이 배여요.",
+		"4. 물을 붓고 끓여주세요.다시다를 넣거나 살뜨물을 넣어주면 좀더 국물맛이 살아요.",
+		"5. 끓는다 싶을 때, 국간장과 소금을 넣어 간을 맞춘다.미역국을 끓일수록 진국이니까 처음부터 너무 짭게 맞출 필요는 없어요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/d967ac8c903fbb703f73ab9813a68a8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/1021030bda57a9fc9a149724da86a15d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/00d17fbb1fffc8400d3cdacade47b62e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/a2421003bb8d23c05f0135991ea7dd371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/18793300ff1ea61b3bf52308af1c22071.jpg"
+	]
+}

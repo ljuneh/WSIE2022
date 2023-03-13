@@ -1,0 +1,71 @@
+{
+	"id": "6941044",
+	"name": "식빵러스크 에어프라이어 식빵요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/e7cd5621eb7e03307d37dc2725ca47a91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941044",
+	"ingredient_ids": [
+		198,
+		226,
+		1026,
+		227,
+		319
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "도톰한식빵",
+			"ingre_count": "4",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "과일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "메이플시럽",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 전자레인지용 그릇에 버터 두스푼을 담고 30초간 돌려 녹여주세요전자레인지",
+		"2. 녹인 버터에 설탕 2스푼을 넣어 잘 섞어줍니다~ 설탕이 다 녹지 않아도 괜찮아요~설탕을 1스푼만 넣고 나중에 꿀이나 메이플 시럽을 뿌려 드셔도 좋아요~",
+		"3. 만들어진 허니버터 소스에 식빵을 앞뒤로 담가 푸욱 적셔준 후",
+		"4. 에어프라이어에 담고 파슬리 가루를 솔솔 뿌려 200도에서 5분간 구워주세요~ 에어프라이어",
+		"5. 뿅! 초간단 식빵러스크가 완성되었어요~ 파슬리 가루는 당연히 생략가능하고 단맛을 선호하시면 완성된 러스크 위에 슈가파우더나 꿀, 시럽을 뿌려내세요~",
+		"6. 달달하고 따끈한 빵에 상큼한 과일 몇조각과 시원한 아메리카노 한잔 곁들이면 고단함이 싸악~ 날라가지요",
+		"7. 허니버터소스를 빵의 겉에만 바르지 않고 속까지 적셔지도록 푸욱 담갔다 구워내면 엄청난 풍미와 촉촉함을 느낄 수 있으니 소스 넉넉하게 만들어 푹푹 적셔주세요~",
+		"8. 생각도 많고 할 일도 많지만 이 순간만큼은 내려놓고 디저트의 맛과 입안의 느낌에 오롯이 집중하는 행복한 시간이 되길바랍니다 :D"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/1664c9d8347d4b56eb57bdb417fbb9d01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/1cde46c7a685dc273727933cbf6b2b2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/61888dc0ffc7c4bfee6621a461747bea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/592bc91fab6848d5c72daa3f0ed761591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/7acf348c0d2a0aada3f6f2bf7acb7d431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/f70ba5e8f5c2f59ab5b043acdd524c1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/c9ee76b07fa80627548954b1d0a10e241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/06/cc2f8ce40c60a2f809684079ecec1e511.jpg"
+	]
+}

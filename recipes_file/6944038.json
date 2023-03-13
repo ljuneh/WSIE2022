@@ -1,0 +1,41 @@
+{
+	"id": "6944038",
+	"name": "식빵으로 정말 쉽게 고구마 파이 만드는 법!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/bf5014fa5f4b270698f2ffd4d3f1e4f51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944038",
+	"ingredient_ids": [
+		503
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마무스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "계란노른자",
+			"ingre_count": "1",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 오븐을 사용하셔도 좋고, 저는 초초초간단하게 만들기 위해서 에어프라이어를 사용해 주었어요. 오히려 에어프라이어가 더 빠르게 익고 예열 시간도 필요없기 때문에 더더욱 편하더라구요. 오븐",
+		"2. 테두리가 들어가도 괜찮지만 저는 조금 더 예쁜 모양을 위해서 식빵 테두리를 정리해 주었어요. 식빵 테두리는 에어프라이어에 또 구워서 과자처럼 드셔도 좋아요ㅎㅎㅎ",
+		"3. 테두리를 정리해준 식빵은 밀대로 얇게 밀어주세요!",
+		"4. 밀대로 밀어서 납작해진 식빵은 반으로 잘라준 뒤 가운데에 고구마 무스를 적당량 올려주세요.테두리에는 노른자를 바르고 윗면을 다른 식빵으로 덮어주세요. 노른자가 접착제 역할을 한답니다.",
+		"5. 테두리는 포크로 콕콕 찔러서 잘 붙여주세요~ 윗면에 노릇한 색상을 위해서 노른자를 얇게 발라주셔도 좋아요ㅎㅎㅎ 저는 파슬리도 톡톡 뿌려주었습니다!에어프라이어 160도에 10분가량"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/88f3f4047961a7845e1bd120b159ebe71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/0abc53e3cafbd866438d85c66f8fab411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/c83ba8d9f4a076740f15e600155ad4f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/0f53f1c9a210e2286aa85c6b5e0992b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/154df0a4e1c86a3c84d78613d44c41d01.jpg"
+	]
+}

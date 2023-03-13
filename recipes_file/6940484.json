@@ -1,0 +1,54 @@
+{
+	"id": "6940484",
+	"name": "청양고추로 밥도둑 만들기 / 청양고추 스팸 다대기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/2b756eda659df0f1eb8367a85efff49d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940484",
+	"ingredient_ids": [
+		295,
+		504,
+		379,
+		341
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 청양고추는 송송 썰어 준다.",
+		"2. 스팸은 칼로 으깨어 준다.",
+		"3. 프라이팬에 식용유를 넣고 고추를 볶는다.",
+		"4. 고추의 매운 향이 나면 스팸을 넣고 볶는다.",
+		"5. 간장, 물엿을 넣고 약불에서 볶는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/88e98e46ed3244ffec5d8ad49124376d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/9d1b912c9d410741984f5023627bb76c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/b2274b71c1fd87bbf9468713aeb5aeb41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/80d2dc885859905f2d08a03e2ed959741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/595717a228108d80f4f9e0d42ec209131.jpg"
+	]
+}

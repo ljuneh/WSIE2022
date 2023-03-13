@@ -1,0 +1,60 @@
+{
+	"id": "6875843",
+	"name": "소고기 미역국 끓이기 산모 미역국 끓이기 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/09/05/bca925a612a0e86d65b98dcdce64c9161.jpg",
+	"url": "https://www.10000recipe.com/recipe/6875843",
+	"ingredient_ids": [
+		495,
+		29,
+		327,
+		349,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "산모용미역",
+			"ingre_count": "1/3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 산모용 미역을 찬물에 10분정도 담가요미역을 따뜻한 물에 담그면 미역이 풀어지니까 찬물에 담궈요",
+		"2. 미역을 박박 문질러 깨끗이 씻어 5cm길이로 썰어주고",
+		"3. 큰솥에 소고기와 마늘 그리고 들기름을 넣고 볶다가",
+		"4. 고기가 어느정도 익었을때 준비해둔 미역을 넣고 센불에 끓이다가 끓기 시작하면 약불로 15정도 더 끓인다. 이때 국간장을 넣고 싱거우면 기호에 따라 소금으로 간을 맞춘다",
+		"5. 미역국을 끓일때 들기름을 넣고 끓이면 더 감칠맛이 있다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/05/8bc5d9950bb698cd536c54853531dbb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/05/3de284bfa1b3e37cbbb6748ce94a292e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/05/c8e01789cca22d88c3588f4aa3bde44f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/05/bb88119a46d4cd6e62a5aa8a936656921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/09/05/61e8c3b3de71803768b0e2ec6195ff1b1.jpg"
+	]
+}

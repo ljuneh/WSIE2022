@@ -1,0 +1,51 @@
+{
+	"id": "6937457",
+	"name": "초간단 야식 떡강정~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/f5b8553f0cdc5641b64032f22f4cbae91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6937457",
+	"ingredient_ids": [
+		972,
+		473,
+		724,
+		575
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "15",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 떡 물에 헹궈 물기를 빼고 준비한다",
+		"2. 볼에 고추장,케찹,올리고당을 넣고 섞어준다",
+		"3. 달군 팬에 기름을 넉넉히 두르고 튀기듯 노릇노릇 구워준다",
+		"4. 양념소스를 붓고",
+		"5. 약불에서 빠르게 볶아내면 완성",
+		"6. 그릇에 담고 맛있게 냠~ 냠~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/edb50040828f0bb2147d552db4ab693e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/10e2e0f5c6c4e5d1970f08548d3fec6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/3d74770b750d2fe1fceda2c82457bafa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/e9f93527b69cab49dc6154a14bbee23b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/0c5c52d15a8d4846cd0e038ed1d916a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/24/15f94d79fd57288cdbbbab57fbb01cc21.jpg"
+	]
+}

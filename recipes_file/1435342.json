@@ -1,0 +1,87 @@
+{
+	"id": "1435342",
+	"name": "부드러운 소고기 장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/30/9dec0a4bb0bd45e6d2d5cfe5a67a19ca.jpg",
+	"url": "https://www.10000recipe.com/recipe/1435342",
+	"ingredient_ids": [
+		27,
+		28,
+		219,
+		231,
+		34,
+		497,
+		379,
+		995,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "장조림용소고기",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "10",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "6~8개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "8",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 달걀은 물에 식초, 소금을 넣어 끓인 물에 넣고 삶아줍니다. 식초는 산과 단백질의 반응으로 단백질 응고를 시켜주기 때문에 혹시나 깨진 부분이있어도 너훌너훌 떠다니는걸 방지해주죠. 물이 끓고 실온의 달걀을 넣었을 때 대략 3~4분 삶으시면 반숙, 12분 삶으시면 완숙됩니다.",
+		"2. 소고기는 찬물에 1~2시간 담궈 핏물을 빼줍니다.",
+		"3. 물 8컵에 돼지고기와 통마늘 5개를 넣고 속까지 익도록 푹 삶아줍니다. 끓이는 동안 뜨는 거품을 걷어냅니다. 고기는 건져서 찢고 거품을 걷어내 맑은 육수는 3컵정도 남겨 식히고, 통마늘과 나머지 부유물은 버립니다.",
+		"4. 육수에 찢어놓은 돼지고기, 삶은 달걀(메추리알), 통마늘 5개, 대파, 생강, 고추, 그리고 양념 재료를 넣고 국물이 반으로 졸아들 때까지 약한불에 졸여줍니다. 간이 잘 베도록 고기를 뒤집어가며 졸여주세요. 완성되면 생강은 빼고 한김식혀 보관합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/b317d30981fff67505dafeecedbd9a391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/5032ca344afb9d1f04c272c74f5792161.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/dcb37d0bd07a0037534032d0f43ee6801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/31/5075636891a8fa34805c5b5059c7fc891.jpg"
+	]
+}

@@ -1,0 +1,79 @@
+{
+	"id": "6945563",
+	"name": "새송이버섯덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/912b3c2dda9766feba1e95c7708de0e51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945563",
+	"ingredient_ids": [
+		58,
+		27,
+		198,
+		233,
+		292,
+		995,
+		543
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		}
+	],
+	"recipe": [
+		"1. 새송이버섯 1개를 적당한 길이로 썰고 대파 약간을 송송 썰어준다",
+		"2. 팬에 버터 1T를 넣고 녹인 후 다진 마늘 1T를 볶아준다중불",
+		"3. 다진 마늘이 익으면 대파를 넣고 볶아준다중불",
+		"4. 대파가 익으면 새송이버섯을 넣고 볶아준다중불",
+		"5. 진간장 1T, 맛술 1T, 물 1T를 넣고 양념이 고루베도록 볶아준다중약불진간장을 넣으면 양념이 탈 수있으니 불을 중약불로 조절해 준다",
+		"6. 그릇에 밥을 담고 버섯을 올린 후 통깨를 솔솔 뿌려준다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/eae48dce48d1f068548250deae57a9ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/10fe1f461bf1dbb8b2ab15340b8fdc231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/8ec7816d2f58cdf709f310bd7009b6211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/97182f17d64898b05daf520d7833076a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/eef361b91ba45d229200de979cc89dd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/03/1b489547df90eb34634a7b6dc42767ab1.jpg"
+	]
+}

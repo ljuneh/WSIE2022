@@ -1,0 +1,62 @@
+{
+	"id": "5840021",
+	"name": "시원하고 칼칼한 보양음식 낙지연포탕만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/03/18/bcc7b661e37137ed5d6d4e06b95314a21.jpg",
+	"url": "https://www.10000recipe.com/recipe/5840021",
+	"ingredient_ids": [
+		64,
+		27,
+		90,
+		320,
+		295
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "낙지",
+			"ingre_count": "4",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "무2cm크기",
+			"ingre_count": "1",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "12",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 재료는 사진처럼 썰어 준비하시구요. 낙지는 밀가루에 비벼주어 뻘과 끈적거림을 동시에 제거해주세요.",
+		"2. 육수를 준비합니다. 시원함을 더해주기 위해서 무도 송송 썰어 먼저 국물을 내주었어요. 이 때 다시마와 멸치, 그리고 살짝 칼칼함을 더해줄 고추도 넣어 함께 끓여줍니다. 건고추나 혹은 고추씨가 있다면 더 좋겠지요.",
+		"3. 육수재료가 센불에서 팔팔 끓기 시작하면 약 15분정도 더 끓인 후에 무를 제외한 나머지 재료들은 건져내줍니다.",
+		"4. 여기에 애호박도 넣어주시고.. 한소끔 끓인 후 소금 약간을 넣어 부족한 간을 맞춰주세요. 국간장을 대신해도 좋아요.",
+		"5. 그리고나서 손질한 낙지를 투하!! 낙지는 너무 오래 익히지 않도록 해주세요. 낙지를 넣은 후 바로 대파를 넣어 마무리 해주세요.",
+		"6. 먹기 좋은 크기로 썰어 뚝배기에 담아냈답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/20/7ead980ac5c8c1e6a45f6e2785702eaa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/20/e5e2bbc97199f2269a9b157d7391c97e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/20/cb4f0239d54dc389a6615aa47aaa47a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/20/13f2fe6e6a63d3d0486023729ee357ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/20/4c853b10b031ac2c63927227a4d0b8b11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/03/20/3992ae7dac958283ebcaf859b79c8ff31.jpg"
+	]
+}

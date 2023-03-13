@@ -1,0 +1,58 @@
+{
+	"id": "6858906",
+	"name": "눈과 입이 즐거운 빵빵한 계란찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/25/de71e78b0cf9f9d6bb6dfa44e015e29e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6858906",
+	"ingredient_ids": [
+		995,
+		505,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "청정원멸치국수장국",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청정원후추가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2~3방울",
+			"ingre_unit": "~방울"
+		}
+	],
+	"recipe": [
+		"1. 계란을 깨트려 젓가락으로 잘 풀은 후에 참기름을 2방울 정도 넣어 비린내를 없앤다.",
+		"2. 실파는 송송 썬다.",
+		"3. 뚝배기에 물을 담고 멸치장국을 넣어 끓인다.",
+		"4. 멸치육수가 끓기 시작하면 중불로 줄이고 후추와 계란물을 넣어 살살 저어가며 끓인다.",
+		"5. 계란이 몽글몽글하게 익기 시작하면 불을 끄고 실파를 뿌린 후에 뚜껑을 덮어 그대로 두어 뜸을 들인다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/25/57b8c472d93d541d105c5462a1fe1dc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/25/80a1fcfc219066caebc748667179ae9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/25/c1a27a9b9be8a82602ac48d4f30b6a741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/25/3e0ec40104881dc0b120dcae8e6c93071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/25/4ba141fe3939c254996c501936875e411.jpg"
+	]
+}

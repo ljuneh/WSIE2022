@@ -1,0 +1,54 @@
+{
+	"id": "6943788",
+	"name": "감기예방에 좋은 대추 생강차",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/9ac8526312c0af0d27f02d8d6c85fc8c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943788",
+	"ingredient_ids": [
+		271,
+		995,
+		227
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "건대추",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "건생강",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "리터"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		}
+	],
+	"recipe": [
+		"1. 대추는 물에 깨끗히 씻어 주세요",
+		"2. 건생강도 준비 해주세요",
+		"3. 냄비에 물 3리터와 대추를 넣고 끓여 주세요(20~30분 정도)",
+		"4. 대추를 건져서 방망이로 으깨거나 믹서로 갈아 주세요",
+		"5. 대추를 건져낸 물에 건생강을 넣고 끓여 주다가",
+		"6. 대추 으깬 것을 넣고 물 1리터를 더 붓고 20분 정도 끓여 주세요",
+		"7. 체에 받쳐 건더기를 거른 후",
+		"8. *기호에 맞게 꿀을 넣어 주세요 *꿀 안넣고 마셔도 좋습니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/555f3ef12733c38ee3949176912a6fad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/cf80654d8965b285a1b26e83f3c639cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/3bcfd275771b900f10613efc944c7d6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/20c7cae4f409fbb32524e15427f211b61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/c271ff79865410e44b0670c9993ab3a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/199fd152d8ae8f98b6559bc1c0c3bf621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/dae605512d8473c12475c47349e310ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/08/cc7932494434096f5ca58a290e0adde91.jpg"
+	]
+}

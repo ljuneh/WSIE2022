@@ -1,0 +1,66 @@
+{
+	"id": "6945703",
+	"name": "단감 깍두기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/84b0cca0930b13ac7624062e245ca0a51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945703",
+	"ingredient_ids": [
+		27,
+		224,
+		939,
+		938,
+		233,
+		543
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "단감",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 단감은 깨끗이 씻어 칼로 꼭지를 제거한 다음 껍질을 깎아줍니다.",
+		"2. 감을 한 입 크기로 깍둑썰기를 해줍니다.",
+		"3. 대파는 다져줍니다.",
+		"4. 그릇에 고춧가루,액젓,매실청,다진 마늘,통깨를 넣고 양념장을 미리 만들어 줍니다.",
+		"5. 볼에 썰어놓은 감과 양념을 넣고 버무린 다음 마지막으로 다진 대파를 넣고 한 번 더 버무려줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/2908c9ccc416dff623b3c07ae6ebadf61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/a6c7050126bf7636b5726b2f78bce0b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/e06c4c0984f86a6747406f8dba7017d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/086b5a23f292891d504080ed45e837f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/9148236660011510f79949516c274e871.jpg"
+	]
+}

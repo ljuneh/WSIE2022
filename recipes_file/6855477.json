@@ -1,0 +1,88 @@
+{
+	"id": "6855477",
+	"name": "느타리버섯 된장국(찌개)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/52a84c91cb5800a9d3582cad0f1610811.jpg",
+	"url": "https://www.10000recipe.com/recipe/6855477",
+	"ingredient_ids": [
+		56,
+		3,
+		936,
+		21,
+		29,
+		7
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "조개",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 물을 냄비에 적당량 담고 국물내기 재료를 넣고 우려주세요 (멸치, 조갯살, 다시마)",
+		"2. 조개는 10분정도 물에 넣어놓고 해감시켜요 그리고 서로비벼 바락바락 씻어주어요",
+		"3. 버섯은 국에 넣을거기 때문에 큼직큼직 뜯어놓고요",
+		"4. 마늘은 편으로 썰어 준비합니다",
+		"5. 양배추도 한줌 정도 씻어서 준비해요 없으면 생략해도 되요",
+		"6. 애호박도 큼직하게 준비합니다",
+		"7. 양파도 큼직하게",
+		"8. 국물내기재료는 조갯살빼고 다 빼주어요 그리고 된장을 2큰술정도 넣어 끓여요 (저희집 된장은 좀 싱거워서 2큰술 넣었는데, 간을보시고 가감하셔야해요 약간 싱겁게하시는게 나중에 간이 맞아요)",
+		"9. 준비된 조개도 넣어주시고",
+		"10. 뜰채로 거품과같이 올라오는 불순뭏은 걸러주어요",
+		"11. 한소큼 끓어오르면 양파를 넣어주고",
+		"12. 양배츠도넣고",
+		"13. 애호박도 넣어주세요 (딱딱한것부터 넣는 느낌으로 넣어주시면 될것같아요^^)",
+		"14. 저만의 비법! 김치국물을 약간 넣어줄건데요 김치국물을 넣으면 시원 칼칼한맛이 좋더라구요 한번시도해보세요^^",
+		"15. 마지막으로 두부와 버섯을넣고",
+		"16. 한소큼 끓여내면 완성^-^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/e22ab0a6f5a725277fcff4598e4bf37f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/1dd8c4bc630d32ba51c1835223e651af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/ed7d86e628270fea21a94ea58b0592021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/962e2c04d93444337a3103540d5cba0f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/1535d7353c8bbf5afdbfd9cf9e25807b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/d5b5723206da38fd7073175fa9fdb6461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/b10d24212f85bae07abbcd69957197f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/d268dab4ebd745900acec75d0ca591871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/ad5092d904493438c33984057c7adb561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/ffba922182407bfe602d0e3fb525d5881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/25f9a32c2c66ea7662e12908cf7de4d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/b70fdb78848ecd3033282cc7cc0b6fa71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/b0bdad87a2ced087e551067a6a75327e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/250e88f0ffd5d06ebc038f3240431b2a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/1d4109545d90835d7c5636e884845fb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/28/97e56c0229d31aaefaf515201594d1a51.jpg"
+	]
+}

@@ -1,0 +1,93 @@
+{
+	"id": "6934198",
+	"name": "호박볶음(둥근호박볶음)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/6fa70ed86de7b1e4b54fba68c8d243a91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6934198",
+	"ingredient_ids": [
+		3,
+		390,
+		233,
+		327,
+		497,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "둥근호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "새우젓",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 둥근호박을 준비해주세요",
+		"2. 둥근호박을 4등분해주세요",
+		"3. 호박씨을 약간만 제거해주세요",
+		"4. 호박을 1cm정도 편썰기해주세요",
+		"5. 볼에 호박을 넣고 소금을 약간 넣어서 절여주세요",
+		"6. 10분정도 절여주시면 됩니다",
+		"7. 절여진호박 채반에 받쳐 물기를 빼주세요",
+		"8. 달군 팬에 들기름을 두르고",
+		"9. 다진마늘을 넣고 볶다가",
+		"10. 절여진호박을 넣고 볶아주세요",
+		"11. 볶다가 새우젓1t을 넣고 볶아줍니다",
+		"12. 채썬양파, 파프리카도 넣어",
+		"13. 볶아줍니다",
+		"14. 통깨을 넣어서 마무리해주세요",
+		"15. 둥근호박요리 볶음 완성입니다",
+		"16. 접시에 호박볶음 담아내주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/ed0b7eb1c630805ed85a401ed174edf01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/e9822ebcd9115686dc8f10a7c70732c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/ec2f5f9a505100f6bded4a4610d2729f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/5f7e5d52e6f6d77bf1e24da2ab6cc4dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/4a105e0a4215a068c67ba6f05d32a3a21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/e0ca0c39b2da29d54f37ceef01f1825d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/4a492e3be3d4a44cc3db917c695e0f8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/1e1cc070f284a21c4dfd9ca79880d6551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/a61c7099a5cce375ecfc684f547852b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/ac143e880da14d8c5e0db91502542a131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/283395dcf7b8f63461b817444d5774461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/34067403c8c22acc69835758958f0fdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/969dae9d3355f769f30df9d9a2a8f0f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/26de20a48a9d7b8779cf7839eafa997a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/37e7463b4fa19ec49c8b0fc6edbd051a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/06/11/b43f7c7bedde0d524ae6f10c507bd2e71.jpg"
+	]
+}

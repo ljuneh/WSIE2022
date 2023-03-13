@@ -1,0 +1,54 @@
+{
+	"id": "6942864",
+	"name": "달달 꿀호떡을 와플팬으로 눌러 만든 간식! 호떡팬케이크 ♥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/2ecc3028c99d9fc735956f64bf63ec241.png",
+	"url": "https://www.10000recipe.com/recipe/6942864",
+	"ingredient_ids": [
+		208,
+		141,
+		226,
+		198
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "꿀호떡",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "크림치즈",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "바나나",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 바나나는 2등분 한 후 길게 반으로 자른다.                     \r                             카카두 프리미엄 캄포나무도마                          ",
+		"2. 자른 바나나에 앞뒤로 설탕을 뿌려 묻힌다.",
+		"3. 와플 팬에 버터를 녹인 후 꿀호떡을 올려 앞뒤로 노릇하게 굽는다.                     \r                             간식팬_ 와플팬                          ",
+		"4. 설탕을 묻힌 바나나도 와플 팬에 눌러 굽는다.",
+		"5. 접시에 구운 꿀호떡 > 크림치즈 > 구운 바나나 순으로 올려 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/ba7d91756451965b95f524f296124cab1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/e4c3547f712ee0e7139763908cf30a001.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/26889b033e38ee8176f89952226267d91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/177bff8a9cc7043b215cd809de5555731.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/31854d57db91805e0cbf3af8c8266e491.png"
+	]
+}

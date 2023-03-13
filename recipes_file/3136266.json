@@ -1,0 +1,62 @@
+{
+	"id": "3136266",
+	"name": "냉장고에 있는 재료들을 모두 모아 내맘대로 Johnson탕(부대찌개) ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/7ee5d037fd26c0af0c9277d41fb98b00.jpg",
+	"url": "https://www.10000recipe.com/recipe/3136266",
+	"ingredient_ids": [
+		201
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "김치1/4포기정도",
+			"ingre_count": "1/4",
+			"ingre_unit": "포기 정도"
+		},
+		{
+			"ingre_name": "스팸",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "프랑크소세지",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소고기등심부위",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "함박스테이크양념고기",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "포크빈스",
+			"ingre_count": "1/3",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "파스타조금(라면대신넣었서요)",
+			"ingre_count": "조금(라면대신넣었서요)",
+			"ingre_unit": "조금(라면대신넣었서요)"
+		},
+		{
+			"ingre_name": "치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 1. 전골용 냄비에 준비해둔 모든 재료를 고루 담아주세요. 전 세션을 나눠 담아주었서요.",
+		"2. 2. 육수 또는 물을 조금 자작하게 붓고 파스타 까지 대충 한줌 던져넣고 보글 보글 끓여주세요. 모든 재료가 익어서 국물에 재료 맛이 잘 어우러질때까지...",
+		"3. 3. 잘 끓은 부대찌개에 취향에 따라 치즈 1장을 얹어서 녹인뒤 맛있게 밥이랑 냠냠 하심 된답니다. ㅋㅋㅋ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/a9600b3cf5497a8f1afe62a33554a4a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/ab8afd6b74a0ea150b9bc816883c4fb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/5359cdfb2d0ba7143280a5d33218e68c1.jpg"
+	]
+}

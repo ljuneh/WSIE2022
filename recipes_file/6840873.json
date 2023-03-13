@@ -1,0 +1,135 @@
+{
+	"id": "6840873",
+	"name": "소고기떡국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/12/29/581d6e4ac274c1574882e2e626cf1a611.jpg",
+	"url": "https://www.10000recipe.com/recipe/6840873",
+	"ingredient_ids": [
+		497,
+		495,
+		660,
+		27,
+		349,
+		995,
+		349
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "볶은소고기",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "떡국떡3+1/2컵",
+			"ingre_count": "3+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "김밥용김",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "갈은깨",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/4",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "10",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "사방10센티다시마한장",
+			"ingre_count": "10",
+			"ingre_unit": "센티 다시마 한장"
+		},
+		{
+			"ingre_name": "다시멸치",
+			"ingre_count": "1",
+			"ingre_unit": "줌멸치"
+		},
+		{
+			"ingre_name": "다시마끓인물5+1/2컵",
+			"ingre_count": "5+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 계란 4개, 소금 1/4작은술을 고루게 잘 섞어 풀어 준비해 줍니다.",
+		"2. 달군 팬에 기름을 살짝이 두르고 키친 타올로 팬에 기름을 바른다는 정도로 닦아 줍니다.",
+		"3. 그리고 계란물을 팬바닥에 한층 깔리도록 붓고 팬을 둥글게 돌려주면서 계란물을 팬에 고르게 깔리도록 한 후 앞, 뒤 익혀 줍니다.",
+		"4. 얇은 지단을 뒤집을 때는 튀김용 긴 나무 젓가락을 사용해 지단을 들어 뒤집어 주시면 지단이 접히지 않고 깔끔하게 뒤집어 진답니다. 이렇게 여러장 부쳐 식힌 지단은 4~5cm길이로 곱게 채썰어 줍니다.",
+		"5. 정육점에서 국거리 소고기를 갈아 사왔습니다. 소고기 400g을 달군 냄비에 참기름 1큰술을 두르고 볶아 줍니다.",
+		"6. 소고기가 거의 익어 갈쯤 국간장 4큰술을 넣고 볶아 완전히 익혀 줍니다.",
+		"7. 그리고 후추 1/4작은술을 넣고 마무리 해줍니다.",
+		"8. 볶은 소고기, 계란지단, 갈은깨, 김밥용 김을 가위로 곱게 잘라 준비해 주었습니다. 요렇게 미리 준비한 고명을 준비해 냉장고에 넣어 일주일간 두고 먹으면 편하답니다.",
+		"9. 냄비에 물 10컵, 사방 10센티 다시마 한장, 다시멸치 한줌 을 넣고 고르게 팔팔 끓으면 뚜껑을 덮고 불을 줄여 10분간 더 끓인 후 건더기는 모두 건져 줍니다. 미리 다시물을 끓여 식혀 병에 담아 냉장고에 넣어두고 사용하면 편하답니다.",
+		"10. 냄비에 멸치, 다시마 끓인물 5 + 1/2컵 을 붓고 볶은 소고기 2큰술을 넣어 줍니다.",
+		"11. 그리고 대파 흰부분 1/2대를 쏭쏭 썰어 넣고 함께 끓여 줍니다.",
+		"12. 국물이 고르게 한번 끓으면 물에 한번 흔들어 씻어 건진 떡국 떡 3 + 1/2컵 을 넣고 국간장 2큰술로 간을 해 끓여 줍니다.",
+		"13. 떡이 익어 떠 오르면 대파 초록부분 1/2대를 쏭쏭 썰어 넣고 후추약간를 살짝 넣어 마무리 해줍니다.",
+		"14. 그릇에 떡국을 담고 계란지단, 김, 깨를 뿌려 주시면 되겠습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/3d299f9b92a77b0ef482f8de0dd150a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/4c9ecfe718fe90d0b7f0b2fdb43ba9881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/32852f96733b6ade6d638c3f7cb9c2fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/20841c6a33333d91904419202b9664fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/fe19f17eb3d2a5f05122d4090c1433971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/2462c30c5b32d40ee3e9b8809085be9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/d8e80f0b08d0c65f2aca5c56a73d41e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/fc894868e145c9fa6c65046edfd7f9ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/52f8bd81c26c977b8cf3b198bbf835031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/ed1b998ee0f4f289f959c5d142c4790d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/900dc9c28f3f00791de655fcbbeaa0fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/f589f59f0e969642b1d31863f260f1391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/ee5044f4f3099626d108acd788aa3eb01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/12/31/caad8c93b3a507187722e6385f96dc0c1.jpg"
+	]
+}

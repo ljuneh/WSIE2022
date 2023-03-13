@@ -1,0 +1,65 @@
+{
+	"id": "6841928",
+	"name": "김치볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/25/3ce2c99eee65da382d2e67346fb2a5f81.jpg",
+	"url": "https://www.10000recipe.com/recipe/6841928",
+	"ingredient_ids": [
+		953,
+		717,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "참치1캔(210g)",
+			"ingre_count": "1캔(210g)",
+			"ingre_unit": "캔(g)"
+		},
+		{
+			"ingre_name": "고수",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 김치는 굵직하게 다져 주고, 고수는 곱게 다져 줍니다.",
+		"2. 팬에 참치 기름을 1T를 둘러 준 후",
+		"3. 김치를 볶아 줍니다.",
+		"4. 김치가 익기 시작하고 좀 더 볶은 후",
+		"5. 참치를 넣어서 볶아 줍니다.",
+		"6. 김치와 참치를 볶은 후",
+		"7. 밥을 넣어서 섞어주듯이 볶아 줍니다.",
+		"8. 너무 오래 볶으면 수분이 다 날라가서 퍽퍽해 질 수 있습니다.",
+		"9. 밥을 넣고 살짝만 섞어주듯이 볶아 주면 됩니다.",
+		"10. 마지막에 참기름을 넣어 줍니다.",
+		"11. 마지막 다진 고수를 살살 뿌려주면 됩니다. 고수가 향이 강해서 많이 사용하면 김치볶음밥의 맛을 고수가 다 잡을 수 있으니 조금만 사용합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/25/d954700c11c0d29c614a5d5b9ab482af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/25/423d4289d8b465c8d4a51cfde991f82c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/25/6199b52331dd52ade23f6b29d2e370201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/25/0fc2f94ba790831e3a484e8c89cf5edb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/25/f4559aed3e362c203212cf31bfb30d721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/25/cb2d5f90d337c966e1ab3182e8070b631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/25/05c301c2d2af59608ff8303be9f9fd9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/25/d747d58c951ec4e7f5f94d6f3d6f6b711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/25/64b6ecc1040675cb7d6f2262770a1f4b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/25/4e084a066c5f5d26b5ee6538ea5c523d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/25/e3f2eab745b6665224f93d4528eb4cee1.jpg"
+	]
+}

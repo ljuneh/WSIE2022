@@ -1,0 +1,89 @@
+{
+	"id": "6942429",
+	"name": "우리품종 경기미 참드림 참치샐러드밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/b81dfe79251c3b944c593183ca8effe11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942429",
+	"ingredient_ids": [
+		3,
+		42,
+		659,
+		371,
+		379,
+		231,
+		343,
+		226,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "맛있는밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파흰부분1대분량",
+			"ingre_count": "1",
+			"ingre_unit": "대 분량"
+		},
+		{
+			"ingre_name": "양상추",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 맛있는 쌀로 밥을 짓고, 채소들을 채썰어 준비해주세요.",
+		"2. 참치는 기름기를 빼고 준비하고 소스는 분량 비율대로 섞어서 준비해주세요.",
+		"3. 소스는 샐러드에 응용하셔도 좋아요. 액체에 설탕을 녹인 후, 참기름은 마지막에 넣어서 섞어주세요.",
+		"4. 밥 위에 소스를 적당히 뿌려주세요. 소스는 짜지 않으니까 입맛에 맞게 뿌려주세요.",
+		"5. 채소들을 예쁘게 올려서 토핑해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/60b71fa449e5e179e6927449839e7aee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/8b4181cffe95dc8f3fb3de06650d1bb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/732dba325968320a78581ba501db8c871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/175a9057f258ad5dfd79fa5a41fe57df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/4b50fb329a54d9f3e93403db55e0b9411.jpg"
+	]
+}

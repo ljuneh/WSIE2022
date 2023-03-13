@@ -1,0 +1,110 @@
+{
+	"id": "1080455",
+	"name": "쇠고기야채 떡볶이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/51080b906ea8e989ee1d0ac7fc31f9c7.jpg",
+	"url": "https://www.10000recipe.com/recipe/1080455",
+	"ingredient_ids": [
+		406,
+		3,
+		55,
+		757,
+		379,
+		227,
+		497,
+		379,
+		457,
+		233
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쇠고기",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "떡볶이떡(한봉지)",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "양상추넓은걸로",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "요리술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 말랑한 떡은 미지근한 물에 20분 정도 담궈서 불려주고 딱딱한 떡은 끓는 물에 떡이 말랑할 만큼만 데쳐서 체에 받쳐 물기를 빼주어요.",
+		"2. 야채들은 깨끗이 씻어서 굵게 채썰어 주세요. 쇠고기는 키친타올로 감싸서 핏물을 빼거나 채위에 잠시 놓아 핏물을 빼고 고기의 결 반대방향으로 자르는데 가로세로 2*3센티 정도로 너비 1센티 정도로 썰어준비해요. 썰어놓은 고기에 다진생강,다진마늘,맛술,간장을 넣어 조물락 무쳐 놓아요. 고기부터 밑간을 해놓고 야채 준비하시면 시간이 딱 맞아요.",
+		"3. 팬에 식용유를 두르고 양념해 둔 쇠고기를 볶아주어요. 겉이 익으면 채썰어놓은 양파도 같이 넣어 볶아요. 마늘등이 들어가 있어 타기 쉬우니 중약불에서 볶습니다.",
+		"4. 고기가 익으면 데쳐놓은 떡을 넣고 굴소스 한술을 넣어 볶아줍니다. 섞어 주면서 볶은 다음 간장, 맛술을 넣어줍니다.",
+		"5. 채 썰어놓은, 야채와 베이컨 넣고 마지막에 꿀을 넣어 골고루 섞어주고, 간을 보셔서 모자라면 소금과 꿀을 더 넣어 간을 맞추시면되요. 실파나 쪽파를 넣어준뒤 한 번만 섞어주고 불을 끄면 돼요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/1df8cc4113f149c8de86a5667c74ffca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/04dcf335c08dcaae43190fd943ee88931.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/84b11b9c77105d10bf7c79c153ece86a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/82177d0266403587efa0df9b52a687d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/59d013d4b0e54bed283fb1ee39f4b0b31.jpg"
+	]
+}

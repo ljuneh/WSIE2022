@@ -1,0 +1,51 @@
+{
+	"id": "6942165",
+	"name": "간단한 밑반찬 마늘쫑 조림 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/066e0861974a1e1dd8f67c171e63a1f71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942165",
+	"ingredient_ids": [
+		17,
+		504,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘쫑",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 마늘쫑 1단은 마르고 노란잎은 떼어 손질해주고 깨끗이 씻은 후에 6cm정도 길이로 먹기 좋게 썰어주세요                   ",
+		"2. 팬에 물 2컵을 부어주고 식용유 1큰술, 진간장 5큰술 올리고다 1큰술 반을 넣어주세요                     ",
+		"3. 바로 손질한 마늘쫑을 넣어 중불로 졸여줍니다 잘 졸여지기 위해서는 중간중간 뒤집기는 필수에요^^                   ",
+		"4. 양념이 다 사라질때까지 졸여주면 끝! 마지막으로 깨소금 듬뿍 뿌려주면 됩니다~                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/ec7dbfaae0ebfcf4f15b3f31679fc3b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/f9b8793aad9cdd6b9f9e20c823229bb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/8557b4862b9957fa3dfc401d5512ef1c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/658bb2350ccbd425b5b32a3984a4228b1.jpg"
+	]
+}

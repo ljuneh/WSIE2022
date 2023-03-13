@@ -1,0 +1,96 @@
+{
+	"id": "6872681",
+	"name": "직장인 점심 메뉴 1위! 돈까스 김치나베",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/13/d4cc4f6ef0b271a18ab8d3603b692b421.png",
+	"url": "https://www.10000recipe.com/recipe/6872681",
+	"ingredient_ids": [
+		504,
+		233,
+		226,
+		276,
+		349
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돈까스",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "썬배추김치",
+			"ingre_count": "1",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "썬양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "송송썬대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물2+1/2cup",
+			"ingre_count": "2+1/2",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고운고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "김칫국물",
+			"ingre_count": "1/2",
+			"ingre_unit": "cup"
+		}
+	],
+	"recipe": [
+		"1. 양파는 채썰고 대파는 송송 썰어 준비한다.썬 양파 1/2개, 송송 썬 대파 1/2대",
+		"2. 채 썬 양파는 물에 담가둔다.양파를 물에 담가두면 양파의 매운맛이 제거 돼요. ",
+		"3. 돈가스를 튀겨 썰어 놓는다.돈까스 2장",
+		"4. 뚝배기에 기름을 살짝 두르고 양파와 대파를 볶아 기름을 낸다.식용유 약간",
+		"5. 기름을 냈으면 김치를 넣어 볶은 후 김칫국물과 물을 붓는다.썬 배추김치 1cup, 물 2+1/2cup, 김칫국물 1/2cup",
+		"6. 보글보글 끓으면 다진 마늘, 국간장, 설탕, 고춧가루를 넣는다.다진 마늘 2T, 설탕 1T, 고운 고춧가루 1T, 국간장 2T",
+		"7. 국물이 조금 줄어들면 튀긴 돈가스를 올린다.",
+		"8. 계란물을 가장자리에 부어주고 썰어 놓은 대파를 뿌린다.계란 2개"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/13/1e2918c317007a3ca288153ce4eb5fea1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/13/6ad3f40e301eda1e6e49c950a04e9bb81.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/13/be6b2a5c494b9fd7ef6927bb64fe89dd1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/13/ea140368987833e50def633d31bc30101.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/13/d3cc71140dfdfc90ba776f6d91a3f41d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/13/13e2a5c0506166e145497b4b5a59f8991.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/13/5abd3d817be641054e600d8cdb679b3d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/13/0ee812f36e5bf230120f3625bd92ad051.png"
+	]
+}

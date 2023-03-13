@@ -1,0 +1,74 @@
+{
+	"id": "6836285",
+	"name": "소고기 맑은 박국..",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/16/6415db772ed896c927f267c270f8b8511.jpg",
+	"url": "https://www.10000recipe.com/recipe/6836285",
+	"ingredient_ids": [
+		495,
+		27,
+		349,
+		233,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "박",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "청홍청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1~2숟가락",
+			"ingre_unit": "~숟가락"
+		}
+	],
+	"recipe": [
+		"1. 박은 한번에 다 먹을수가 없기 때문에 저는 먹고 남은것은  나박하게 썰어서 냉동실에 넣어두고 한번씩 꺼내 먹어요.. 맛있는 가을무가 나기전에는 무보다 박이 더 시원하답니다.. 박 대신에 무우로 하셔도 됩니다..",
+		"2. 냄비에 참기름 두르고 소고기 넣고 달달 볶아주세요..",
+		"3. 볶은 소고기에 멸치육수 만들어 둔 것을 넣어 주었습니다.",
+		"4. 나박하게 썰어둔 박을 적당하게 넣고 끓여주세요..",
+		"5. 소고기맛이 우러나게끔 끓이고 나서 국간장, 다진마늘, 대파 어슷썰어서 넣어줍니다.. 국간장이 너무 진하면 조금만 넣고 소금으로 마무리 간하셔도 됩니다.. 국이 끓을때 생기는 거품은 국자로 걷어주셔야 깔끔해요.",
+		"6. 매콤한국을 좋아하시는 분은 청양고추 다져서 넣어주셔도 됩니다..",
+		"7. 깔끔하면서 시원한 박국입니다.. 청양다진것을 넣어서 먹으면 얼큰하고 시원한 맛을 느낄수 있습니다.."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/16/aa73d8e052f8214cb7c564dcacda116b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/16/9067748374c074570cd085bc4fcb920a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/16/95c21dfc79afdfb9fa5b6fed60be764a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/16/26af6afd2b1eb50f41cbefff5c0a9d611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/16/82dc6803fc675bfba6580eb9672456ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/16/b8421a93a5cbcf1def88095ae587faae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/16/04c2dcf68620c0dfdbf18640a70268761.jpg"
+	]
+}

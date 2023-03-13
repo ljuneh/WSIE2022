@@ -1,0 +1,64 @@
+{
+	"id": "6941718",
+	"name": "닭가슴살 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/a709ffa17959f68f02aca5d291e244e71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941718",
+	"ingredient_ids": [
+		300,
+		6,
+		27,
+		575
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "닭가슴살",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘?",
+			"ingre_count": "8?",
+			"ingre_unit": "개?"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추톡톡?",
+			"ingre_count": "4?",
+			"ingre_unit": "번정도..?"
+		}
+	],
+	"recipe": [
+		"1. 양념을 다 합쳐주세여",
+		"2. 올리브유에 통마늘 볶아주세여 (통마늘 식감따라 자르시면되여)",
+		"3. 야채 다 넣어여",
+		"4. 닭가슴살 넣고 볶은 뒤 양념 넣어여",
+		"5. 완성이여"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/3f8758ccd575314ead6c6ddf6920f6261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/09e7d778b653f55c2e1b9ac6fb60d3971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/320a1bc9edb829efd35d76e4d29cdb7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/ee7a682cce8dab054d1285b78ce6d5841.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/8133f2d43580331fb1adc9583eccbeaa1.jpg"
+	]
+}

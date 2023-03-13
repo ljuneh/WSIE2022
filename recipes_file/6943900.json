@@ -1,0 +1,83 @@
+{
+	"id": "6943900",
+	"name": "견과류를 채운 곶감단지 ! 곶감라떼와 같이 즐겨보세요!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f3de1e62ccb8613dd60b74d1abe4c43c1.png",
+	"url": "https://www.10000recipe.com/recipe/6943900",
+	"ingredient_ids": [
+		151,
+		194,
+		132,
+		197,
+		190,
+		227,
+		151
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "곶감",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호두",
+			"ingre_count": "2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "해바라기씨",
+			"ingre_count": "1/3",
+			"ingre_unit": "종이콥"
+		},
+		{
+			"ingre_name": "호박씨",
+			"ingre_count": "1/3",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "1/3",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "시나몬가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "곶감",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "우유1+1/2종이컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "종이컵"
+		}
+	],
+	"recipe": [
+		"1. 끓는 물에 호두를 데쳐 찬물에 헹군다                     \r                             네오플램 피카 편수냄비                           \r                             파켈만 프리미엄 스키머                           ",
+		"2. 물기를 제거한 후 잘게 썬다.                     \r                             카카두 프리미엄 캄포나무도마                           \r                             헹켈 즈윌링 스타일 아시아식도                          ",
+		"3. 마른 팬에 해바라기씨, 호박씨, 호두를 볶는다.",
+		"4. 대추는 씨를 제거한 후 채 썬다.",
+		"5. 손질 한 견과류, 대추는 꿀, 시나몬 가루를 넣고 섞는다.",
+		"6. 곶감에 꼭지를 떼어 씨를 제거한다.",
+		"7. 꿀에 버무린 견과류를 씨를 제거한 곶감에 가득 채워 완성한다",
+		"8. [곶감라떼] 잘게 썬 곶감, 우유를 넣고 곱게 갈아 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/47e875a1642ede1da4040b08f8c6bd571.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/2889e6ced5d0e2a347ac5645d6fa1a731.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/6a8a7e299c1668e9a876d793d21dcb041.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/954e3f38f767bbab175a4dc134b99daf1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/ff5f3a8a3ca5640bd3488b92f1bf37ef1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/d26543e3e0f83bfe99a9b88fd564d0a41.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/802c44e7279606cd1f1c230661c140891.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/07/f1f23e999ab2898a1e86c575907144471.png"
+	]
+}

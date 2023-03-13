@@ -1,0 +1,92 @@
+{
+	"id": "6879335",
+	"name": "참치마요덮밥 만들기, 혼밥요리로 딱!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/11/09/577f07d2a67736a0df97f8f5c95d26f01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6879335",
+	"ingredient_ids": [
+		219,
+		659,
+		228,
+		3,
+		292,
+		379,
+		575,
+		757
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "참치",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "2",
+			"ingre_unit": "줄기"
+		},
+		{
+			"ingre_name": "김가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양파 1/2개는 얇게 채썰고, 다진 양파 1T도 준비해주세요.",
+		"2. 다진 양파 1T, 마요네즈 2T, 참치 1캔을 넣고 골고루 섞어서 참치마요를 만들어주세요.",
+		"3. 팬에 간장 2T, 올리고당 2T, 맛술 2T를 넣고 끓인 후, 보글보글 끓어 오르면 양파를 넣어주세요. 양파가 투명해지면 불에서 내려주세요.",
+		"4. 팬에 기름을 살짝 두른 후, 달걀 2개를 넣고 젓가락을 사용해서 스크램블을 만들어주세요.",
+		"5. 그릇에 밥 한 공기를 넣고 그 위에 달걀 스크램블을 올려주세요.",
+		"6. 스크램블 위에 양파와 참치마요, 파를 올려주세요.",
+		"7. 마요네즈도 뿌리고 김가루까지 올려서 완성했어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/09/41bfb9365ea7dc05111d85d0f01a64891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/09/78c93561b29fb21889fa15732a23ac971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/09/40383f5133f0707db0c9f1915129e46e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/09/219baed735b3078653501216e12525c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/09/22badb122b11b85ce8ce10a45f5cf6781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/09/bde0b2a17097beeadb852f401b1eb2c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/11/09/5eea474627c05b529719c37a400c60ca1.jpg"
+	]
+}

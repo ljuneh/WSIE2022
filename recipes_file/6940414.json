@@ -1,0 +1,82 @@
+{
+	"id": "6940414",
+	"name": "홍콩식 죽, 콘지 (식은밥으로 간단하게)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/ae5c700a72105896b3f473099791cb1e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940414",
+	"ingredient_ids": [
+		28,
+		233,
+		939
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "식은밥",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "치킨스톡4컵~",
+			"ingre_count": "5",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "돼지고기or새우",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금.후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름기호에",
+			"ingre_count": "",
+			"ingre_unit": "따라"
+		}
+	],
+	"recipe": [
+		"1. 식은밥 준비해요",
+		"2. 치킨스톡 2컵가량을 넣고 (블랜더 넘치지 않게) 쌀알갱이가 남아있도록 설기게 갈아줘요 너무 곱게 갈면 안되요! 맛이없어요!",
+		"3. 냄비에 넣고 치킨스톡 3컵을 더 넣고 중불에 눌지 않게 끓여줍니다. 죽이 끓어오르면 약불로 불을 바꿔요 약 10분정도 눌지않게 중간중간 저어가면서 끓입니다. 육수가 부족하면 물 또는 치킨스톡을 보충해주세요.",
+		"4. 죽이 끓는동안 콘지에 넣을 완자를 만들어요. 오늘은 새우완자 입니다. 냉동새우를 블랜더에 갈고, 간장1ts,소금,후추 약간,다진마늘 1ts 넣어줍니다. + 돼지고기 완자도 방법은 동일해요",
+		"5. 재료를 함께 치대줘요 (장갑끼고 손으로 하면 더 찰진식감을 얻을수 있어요)",
+		"6. 콘지가 끓어오르면 간장1T, 액젓1T, 기호에 따라 소금으로 간 조절하고, 생강다진것(생강가루)가 있다면 소량 톡톡 넣어줍니다. 맛이 확 살아나요! 액젓은 까나리,멸치,피쉬소스 상관없어요 만든 완자를 숟가락으로 모양잡아 작은덩이로 콘지에 넣어줍니다.",
+		"7. 완자를 넣고 3분 더 끓여주면 완성! 파고명과 참기름 약간(저는 참기름 안넣는 걸 좋아해요) 둘러 맛나게 드세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/ee3ee54acf78cc9c194c54c59d15c0751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/4a6f1a36bc196458152d7a4c51cc27cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/3135b0508f89f20319613db9a39255c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/88ac6362ea60d234410be9c882bf75171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/b9511d789e9ff0bba6357e5129c096c31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/c5a47ada48dc957ba470af19eb0facd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/30/7b94f0dabb23965ed7f7edc04836eabf1.jpg"
+	]
+}

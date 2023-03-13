@@ -1,0 +1,70 @@
+{
+	"id": "6857170",
+	"name": "삼시세끼에 나온 묵은지고등어찜을 묵은지 자반고등어찜으로",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/8d3ed7430645f31d438cc4681d6fb2aa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6857170",
+	"ingredient_ids": [
+		923,
+		876,
+		292,
+		29,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "자반고등어",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "1/2",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "쌀뜨물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "조미료or설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 자반은 반으로 토막을 냅니다  양념장을 만듭니다 ( 기호에 맞게 설탕이나 조미료를 넣습니다 )",
+		"2. 냄비에 자반과 김치를 담습니다",
+		"3. 양념장을 붓습니다",
+		"4. 센불과 중불로 조립니다",
+		"5. 접시에 담아냅니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/75084acc42891f3cda56df3d25ee42241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/0f9042b740697072ba6f7e55191440281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/093f2f60ee83c90201ca6153e0b7794e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/8c6b06786c0f6f8cf4505677ca47f3341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/19/270afbb22b5c6d0ae5b538ff1ea529b11.jpg"
+	]
+}

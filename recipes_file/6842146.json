@@ -1,0 +1,86 @@
+{
+	"id": "6842146",
+	"name": "들깨 수제비 맛있게 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/26/7a5cf47e29e6ac19f13bf3ffbcf8b7d61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6842146",
+	"ingredient_ids": [
+		234,
+		5,
+		3,
+		27,
+		233,
+		337,
+		320,
+		90
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개씩"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "아기새송이버섯",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 멸치와 다시마를 넣고 육수를 먼저 끓여줍니다. 조미료가 몸에 안좋다고 하여  조미료 안먹은지 10년 정도 된것 같아요. 조미료 넣어서 음식 만들면 왠지 소화가 안되는것 같아서요",
+		"2. 육수를 끓이는동안 밀가루에 소금1티스푼을넣어 반죽해 둡니다.",
+		"3. 감자와 양파는 얇게 썰고 새송이버섯을  먹기좋은 크기로 잘라주시고 대파는 송송 썰어 준비 했어요.",
+		"4. 들깨가루는 껍질을 제거한 걸 사용할꺼예요. 들깨 껍질의 꺼끌 거림이 싫더라구요.",
+		"5. 육수에다진마늘 양파와 감자를 넣어 끌이다가 수제비를 떠 넣어줍니다.",
+		"6. 수제비가 떠오르면 버섯과 대파를 넣고 끓여요.",
+		"7. 한소끔 긇인다음 들깨가루를 넣고  불을 끕니다.",
+		"8. 완성된 수제비를 그릇에 담아내요.",
+		"9. 잘익은 배추김치와 들깨 수제비가 아주 잘 어울린답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/26/55ae3bda74dad189cd9b21cb06d676781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/26/d5f3a535d7071a64298506f2d27f2bda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/26/9d247bf0119522ab338aa81177816d781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/26/1846f846dd88123b3732511f90d509721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/26/61fe3dbf490d7e8aff6d123d54f52d011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/26/3b432ca98a51144e6ae9d18a5d4837421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/26/6bfa85d9e0adbebd6954f94b0123a46c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/26/9cd6779e071d843fa6dfb9140e0f040f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/26/c403862f19b4a549d59eca39a45ab6431.jpg"
+	]
+}

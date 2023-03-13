@@ -1,0 +1,55 @@
+{
+	"id": "6945735",
+	"name": "초스피드반찬 : 유아반찬으로 좋은 감자카레전 5분만에 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/7c7172fed8f04c2eb8ceb49d85d624d41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945735",
+	"ingredient_ids": [
+		734,
+		497,
+		574
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "큰감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "카레가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "아주조금"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 먼저 감자는 깨끗하게 씻어 껍질을 제거한 다음 강판에 갈아주고",
+		"2. 갈아진 감자에 튀김가루1T",
+		"3. 카레가루1T",
+		"4. 꽃소금 아주 조금을 넣어 섞어준다음",
+		"5. 예열된 팬에 올리브유를 두르고 약불로 줄여 노릇노릇 구워주세요.",
+		"6. 겉은 바삭하면서 안은 촉촉한 감자카레전! 아이들도 너무 잘먹는 메뉴에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/e00f92983276cf84534afff4f2bc849d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/0e920102e4b1e5e90cc4b6f3fa953f961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/a9a9e7ba11be92135b33a78aeaed4bdd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/47010c73af163b1b3ea7be0facee49031.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/96c81b1f3412ec61e2e70cf197eaf08d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/0ee8b68d996a9265629dc022e5df5a971.jpg"
+	]
+}

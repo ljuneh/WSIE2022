@@ -1,0 +1,61 @@
+{
+	"id": "6855406",
+	"name": "순두부 양념장만 올려먹어요~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/92aa848cca14b7ded7c88246d202f6071.jpg",
+	"url": "https://www.10000recipe.com/recipe/6855406",
+	"ingredient_ids": [
+		498,
+		547,
+		224,
+		226,
+		660,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "순두부",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양조간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 순두부는 봉지를 제거하고 접시에 올려 전자레인지에 2~3분 돌려 주니 따뜻하니 맛있어요전자레인지",
+		"2. 봉지째로 끓는 물에 살짝 데워줘도 좋을 듯",
+		"3. 간장 양념장은 입맛에 맞게 단맛을 조절하면 됩니다 저는 간장 2 큰 술에 설탕 1 큰 술 넣고 고춧가루와 참기름 깨소금을 넣었더니 딱 맛있네요~ 매운 거 좋아하시면 청양고추 총총 썰어 넣어도 별미일 듯^^",
+		"4. 먹기 좋게 슬라이스해서  양념장을 올렸어요",
+		"5. 순두부 위에 간장과 쪽파를 살살 뿌려 올려놓으니 ~~~~ 역시 보기 좋은 떡이 먹기도 좋다는 말은 틀린 말이 아니죠??"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/8c7403f81ef065736c7aac19ee2feebd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/011b21cd8aab4c790a30bceb7a5f76771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/235c477bc5e8ccdd1abe0a922ff004f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/4979fb6bfb4fd7974c4e7acf73254a5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/358049049a0a73deec0434e444fd516b1.jpg"
+	]
+}

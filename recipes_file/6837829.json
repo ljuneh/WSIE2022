@@ -1,0 +1,55 @@
+{
+	"id": "6837829",
+	"name": "쇠고기 미역국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/09/875897a9b0f37ba77c64d73da0a5c9051.jpg",
+	"url": "https://www.10000recipe.com/recipe/6837829",
+	"ingredient_ids": [
+		660,
+		349,
+		759
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "쇠고기국거리",
+			"ingre_count": "300~400g",
+			"ingre_unit": "~g"
+		},
+		{
+			"ingre_name": "잘린미역",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "6",
+			"ingre_unit": "스픈"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "",
+			"ingre_unit": "취향껏"
+		},
+		{
+			"ingre_name": "혼다시",
+			"ingre_count": "1/2",
+			"ingre_unit": "스픈"
+		}
+	],
+	"recipe": [
+		"1. 미역은 믹싱볼에 물을 받아서 담근 후 30분 이상 불려둡니다",
+		"2. 충분히 불린 후 손으로 박박~주물러서 미역을2번정도 깨끗이 빨아서 꽉 짜냅니다",
+		"3. 냄비에 참기름 6스픈을 넣고 쇠고기를 잘 볶습니다",
+		"4. 고기가 충분히 볶아지면 꽉 짜 놓은 미역을 냄비에 넣습니다",
+		"5. 고기와 함께 미역을 충분히 다글다글 볶아주세요~ (2분정도??)",
+		"6. 물을 붓고 끓으면 혼다시 반스픈과 취향에 맞춰서 국간장으로 간을하신 후 적당히(3분) 끓여주시면 됩니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/09/44b603cf712777553ff4280f4ed1f76f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/09/78fd3c1c35fb2753866f5dea1872bbf11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/09/8ed8edf0f1cabb1ff2afb3f1afdec0e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/09/4942bf2e7c4eb5222be2abcd8a84976c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/09/444a698029e4cbbbcd32ea421fbb58401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/09/46e08325ed14e80f217f59426b33e5401.jpg"
+	]
+}

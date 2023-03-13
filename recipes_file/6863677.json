@@ -1,0 +1,99 @@
+{
+	"id": "6863677",
+	"name": "[간단 자취요리] 자취생도 만든다! 김밥보다 쉬운 크래미롤, 캘리포니아롤 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/602cae37bfc473f6c7ec033bf8775ebc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863677",
+	"ingredient_ids": [
+		95,
+		8,
+		228,
+		1009,
+		231,
+		226,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밥약",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "김",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "크래미(1팩)",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "돈가스소스",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비합니다.",
+		"2. 씨를 빼고 오이를 채써는 두 가지 방법으르 알려드릴게요. 첫번째 방법은, 오이를 돌려깍아 씨를 빼주세요.",
+		"3. 돌려깎은 껍질을 펴 채썰어주면 됩니다!롤에는 이렇게 껍질까지 들어가야 색가밍 좋아요 :)",
+		"4. 두 번째는 방법은, 씨 부분을 둘러싸고 삼각형 모양으로 자르는 거에요.",
+		"5. 남은 부분을 채썰어 주면 됩니다. 더 편한 방법으로 하세요:)",
+		"6. 크래미를 손으로 잘게 찢어줍니다.",
+		"7. 마요네즈를 촉촉할 만큼 넣고 비벼줍니다!",
+		"8. 밥에 밑간을 할 단촛물을 만듭시다!식초1T, 설탕1T, 소금1/3T (두배로 만들어서 조금씩 넣어가며 쓰길 추천)",
+		"9. 밥에 넣고 섞어주세요 :)비빌땐 숟가락의 날로 잘라주듯 비벼주세요!",
+		"10. 김발에 랩이나 비닐팩을 잘라서 올려줍니다",
+		"11. 밥을 얇게 펴주세요손에 물 바르면서 하면 덜 붙어요. 마지막에 물 묻은 손으로 전체를 살짝 눌러 정리해주세요!",
+		"12. 이제 김을 뒤집어줍니다.",
+		"13. 준비한 재료를 듬뿍 넣어주세요",
+		"14. 김발과 비닐을 함께 잡고(중요) 말아줍니다!잡은 비닐이 말려들어다지 않게 조심!",
+		"15. 썰어주세요",
+		"16. 롤 위에 남은 크래미마요를 올려서 완성! 돈까스 소스 뿌려주시면 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/65396c4bb395083711814d30f059434b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/ceed354a3cce74829f90bab3626c0f331.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/8c3221e5343fc48eea46f48b716b6d281.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/59d49a3d2dbc285357f90519504426371.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/e383da1080eb2404a553a035f37e5ae51.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/d8b5345f9aee5c20a3e531c8cf9be0801.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/742a63cbec08279ad4a99308ce461a1f1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/b1b6c70d37122a254630ce2abd05648c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/a5d61bba60befd7b732c9b913d87c4a31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/ff7a07fa07ac30af073dd75e380cb2291.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/ae7e3a670490cea7ce979994486efc541.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/3eae26c134e4691474ac6102a1927fc61.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/42cffe3336f247ac6c981dcd955ee5a11.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/8c2cf7c24d0d7bf94dbeabef8cc111da1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/8a43d2914700d03902cd7d43de4746601.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/01/09/e1eb96607dde7bece074ff79ef72e93e1.png"
+	]
+}

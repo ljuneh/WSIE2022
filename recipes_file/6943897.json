@@ -1,0 +1,85 @@
+{
+	"id": "6943897",
+	"name": "통목살 수육 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/1a10fd522e2457f22e3f1247843f5f0d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943897",
+	"ingredient_ids": [
+		304,
+		3,
+		847,
+		379,
+		575,
+		292,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "통목살",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "맥주",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "배즙",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 통목살을 찬물에 담궈 핏물을 제거해 주시고, 양파와 마늘 준비! 양념을 만들어 줍니다.  - 고기는 맥주 한캔과 물을 섞어서 핏물 제거 합니다. - 양념은 간장3푼, 올리고당 2스푼, 맛술1/2컵, 물 1컵, 배즙 1팩(없어도 가능) 을 넣어 만들어 주세요. - 맛술과 물은 종이컵 기준.",
+		"2. 에어프라이어에 고기를 1차로 굽습니다. - 180도 기준 10분씩 2회 진행했습니다.에어프라이어",
+		"3. 1차로 구운 고기를 꺼내어 만든 양념에 넣습니다. - 양념이 고기에 잘 스며들게 하기 위해서 입니다.",
+		"4. 양념이 고기에 잘 스며들도록 조려 주세요.",
+		"5. 양파와 마늘을 넣고 타지 않도록 졸여 줍니다. - 양념의 양을 조절하여 타지 않도록 졸여 줍니다. - 양파와 마늘을 넣고 함께 졸여 주세요.",
+		"6. 올리고당을 넣어 고기에 윤기가 나네요. 타지 않도록 불조절을 하시면서 졸여주시면 됩니다.",
+		"7. 고기를 꺼내어 에어프라이어에 넣고 2차로 구워 줍니다. - 고기가 두툼할 경우 잘라 주셔도 됩니다. - 180도 기준으로 5~10분간 2회 구워 주시면 됩니다. - 타지 않도록 온도와 시간은 에어프라이어 마다 차이가 있으니, 꼭 주의 하세요!",
+		"8. 에어프라이어에 구워진 고기가 익었는지는 젓가락으로 찔러 잘 들어 가는지 확인하시면 됩니다.",
+		"9. 먹기 좋은 크기로 잘라 주시고, 양파와 마늘을 곁들여서 같이 드시면 좋습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/148810143aee7b416255624e772119281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/a857a7f5e9c9d18a682bb4f336ceb7711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b9e1bf608ba489b1aaf21aba7f7903e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/767d03e06e8695456a9ca08fced230541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/c0406a16bfb635d94abd76d3c5faa5441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/a1952c14c895c4b3752d248586de1be61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/481d4e3e5d2ac3153f0f7770c1b118ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/9e9d7aa8fae4a611341fc7faacaef9571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/fd5cd412cab6bb50f660d953f4ff07761.jpg"
+	]
+}

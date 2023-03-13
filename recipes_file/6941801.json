@@ -1,0 +1,87 @@
+{
+	"id": "6941801",
+	"name": "밥솥 전갱이회 비빔국수 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/475215fd8d5c94278656cfcac60163e91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941801",
+	"ingredient_ids": [
+		523,
+		3,
+		473,
+		224,
+		292,
+		660,
+		226,
+		250
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "전갱이회",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소면",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".t"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 전날 양파 1개를 채썰고, 양념에 넣어서 하루동안 냉장고에서 재워주세요  *양념재료(2회분) : 고추장 1T, 고춧가루 0.5t, 진간장 4T, 맛술 4T, 설탕 2T, , 참기름 1T, 레몬즙(혹은 식초) 2T *참기름 필수임, 고소한 풍미가 더해져요",
+		"2. 얼려둔 전갱회 80g를 해동해서 썰어주었어요(1인분) *전갱이는 신선한 회를 얼려두었다가 해동해서 양념해서 먹기 좋아요 *두 그릇 만들 경우 2인분으로 회를 160g정도 준비해주세요",
+		"3. 전갱회도 넣고 한 두시간 양념이 배이게 재워두세요 *양념을 위아래로 잘 저어서 아래로 가라앉는 설탕의 단맛이 고루 퍼지게 해주세요",
+		"4. 밥솥에 소면 100g잘라서 넣고 끓는 물을 면이 잠길만큼 600ml가량 부어주시고 재가열 9분 해주세요",
+		"5. 다 된 면을 체에 받쳐 씻어서 식히고 그릇에 놓아주세요",
+		"6. 한 그릇에 절여진 양파 반과 회모두를 얹고 국물도 4T넣어주세요. 통깨뿌리고 다진 파 조금 올려주시면 완성",
+		"7. 전갱이와 새콤하게 절여진 양파를 같이 먹는 식감이 아주 좋아요 *1인분만 해드시고 남은 양념과 절인 양파는 다음날 더 숙성된 상태에서 즐길 수 있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/13/af6cd6c63bcb2c96bdbc7ab1bc57182d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/06dc29ccdd8493b5073a5c5208fe435e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/27898e17d4f2b9c75e50eb68fa2a81a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/02b10c18b9b231e99cee26fa07b91df41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/a45b73e5f527d25ba20c3d7109f45be91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/71cac55d2676f836e7d4ef110b7ae3ce1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/14/eef97f36f7328fd591c3ccbec3a164331.jpg"
+	]
+}

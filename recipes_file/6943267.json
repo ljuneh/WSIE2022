@@ -1,0 +1,53 @@
+{
+	"id": "6943267",
+	"name": "[워킹맘 10분레시피]부드러운 간단 돼지갈비찜 레시피/돼지갈비찜 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/fbd7aa2aee8f4a0e23682b0d29f45a981.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943267",
+	"ingredient_ids": [
+		142,
+		379,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "배",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청량고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 1. 돼지갈비를 약간의 소주를 넣고 물을 넣고 끓여요. 2.한번 끓어오르면 물을 버리고 기름기를 제거해서 고기를 준비해둡니다. (이부분이 특히 중요합니다. 고기가 부드러워요)돼지고기,물,소주",
+		"2. 3. 양파,마늘,배를 갈아서 간장 1컵, 설탕 1/3컵을 넣어요. (기호에따라 간장과 설탕은 조절하세요)",
+		"3. 4. 다듬은 고기와 양념을 넣고 물을 양념의 2배만큼 넣고 집에있는 홍고추,대파,밤등을 넣고 끓입니다. (없으면 생략가능)",
+		"4. 5. 국물이 끓으면 5분정도 더 끓이다가 불을 줄이고 고기에 간장색이 배일때까지 졸이시면 되세요.",
+		"5. 돼지갈비찜 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/2c12fb6635eb2ae4be165f173835a64b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/ea8a7d9f5f2cab2839348e86e504339f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/b1594a37dbbeaea792d29a5b552633c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/41172b40f8e93fec443449a01f93dac81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/7a006103c5c5b0352c6650fc1d7e23b01.jpg"
+	]
+}

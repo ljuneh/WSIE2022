@@ -1,0 +1,65 @@
+{
+	"id": "6905459",
+	"name": "또 하나의 초간단 반찬, 베이컨 배추 볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/01/28/2699a88963cb5dd24cbd3da96969ed171.jpg",
+	"url": "https://www.10000recipe.com/recipe/6905459",
+	"ingredient_ids": [
+		406,
+		3,
+		29,
+		477,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "5",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "배추큰것",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		}
+	],
+	"recipe": [
+		"1. 베이컨은 끓는 물에 1분간 데쳐주세요. 데친 베이컨은 3cm정도로 잘라주시고요. 나머지 야채는 채 썰어주시고요. 마늘도 슬라이스.",
+		"2. 팬에 기름을 두르고 마늘을 볶아주세요. 마늘향이 솔솔 나는 마늘기름 좋아요.",
+		"3. 나머지 재료를 모두 넣고 볶아주세요. 베이컨이 바삭한 걸 좋아하시면 베이컨을 먼저 볶아 바삭하게 하셔도 됩니다~",
+		"4. 분량의 굴소스와 소금 톡톡, 후추 톡톡톡. 배추 숨이 죽을 때까지 볶아주세요~",
+		"5. 배추 숨이 죽으면 끝. 이쁜 접시에 담아주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/28/fd0cf4ad0eb9e2bc922bca0d371a387d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/28/1c547364bd5c7686586b8f39d6c407921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/28/ddd701cf99b708570969ee8d6f2e07821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/28/a492d8bb39bb96cf1da7a95fb2da19451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/01/28/37f18a040732023d949895acdd4b98d01.jpg"
+	]
+}

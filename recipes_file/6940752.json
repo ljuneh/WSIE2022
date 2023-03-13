@@ -1,0 +1,76 @@
+{
+	"id": "6940752",
+	"name": "'이 토핑' 으로 만드는 특별함! 평범한 카레는 싫다! - 팽이버섯 카레 덮밥!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/e132a3fc0f1dc17c9e4507821b10f4361.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940752",
+	"ingredient_ids": [
+		5,
+		3,
+		487,
+		198,
+		55,
+		734,
+		655
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "고형카레",
+			"ingre_count": "110",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "25",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "탄산수",
+			"ingre_count": "1/2",
+			"ingre_unit": "C"
+		}
+	],
+	"recipe": [
+		"1. 양파와 감자는 한입크기로 잘라줍니다.(1.5x1.5cm정도) 당근도 추가로 넣으셔도 되요.",
+		"2. 고형카레는 잘 풀어지도록 작게 잘라주고,가루 카레를 이용하시면 따로 이런 작업은 필요없어요.",
+		"3. 냄비에 버터를 넣고 녹여준후 고기/야채를 고기에 붉은빛이 없어질 정도까지 볶아 줍니다.  그리고 물을 넣어 끓어주기 시작하세요.중간불로 볶고 끓이시다 끓어오르면 약불로 해주세요물은 재료가 푹 잠길정도로 넣어주시면 됩니다. 끓이다가 부족하면 추가적으로 부어주시면되요. ",
+		"4. 감자가 익어가면 카레를 넣고 잘 섞어주면서 약불로 계속 끓여 줍니다. 카레끝~",
+		"5. 팽이버섯은밑둥을 자르고 깨끗이 씻어 준비해주고,튀김가루에 탄산수를 넣어 반죽을 만들어 줍니다. 팽이버섯에 반죽이 묻었다고 할 정도로만 반죽과 섞어주세요.",
+		"6. 기름을 충분히 두르고, 튀겨줍니다. 앞뒤로 잘 튀겨지도록 해주세요.",
+		"7. 밥위에 카레를 얹고 팽이버섯 튀김을 올려주면 끝~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/64dfa0df51f126b2defc3870fd7965f31.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/24e707c14e0d5296f9ff7960dea836a51.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/e9850fd7cb3c56457e256215f10c91521.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/79093956ba7bfc7ff99dc919201636c51.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/a4f61230b81a417dc4b388be0285e8ee1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/40babdeeaf475eccd1e2abbb9f6b612c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/03/17f5e8df6827efa3c01a2568a6c515aa1.png"
+	]
+}

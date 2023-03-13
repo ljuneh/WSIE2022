@@ -1,0 +1,78 @@
+{
+	"id": "6943506",
+	"name": "온가족이 같이 즐기는 추석요리 : 새우명란파래전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/c07d6b125392051258c2b990f90e68e41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943506",
+	"ingredient_ids": [
+		92,
+		967,
+		563,
+		9,
+		7,
+		387,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "파래",
+			"ingre_count": "1/2",
+			"ingre_unit": "덩어리"
+		},
+		{
+			"ingre_name": "밥새우",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "칵테일새우",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "백명란젓",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "6",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 파래를 깨끗이 씻어 물기를 짜서 가위로 적당한 크기로 잘라서 준비한다.",
+		"2. 냉동칵테일 새우는 잠깐 물에 담궈 두었다가 씻어 준비한다.",
+		"3. 준비한 새우는 아기들도 같이 먹을꺼라서 작게 잘라 주었다.",
+		"4. 명란은 껍질을 벗겨 준비합니다.",
+		"5. 집에 있는 야채를 잘라 같이 준비해서 재료를 볼에 다 넣어준다.",
+		"6. 재료들을 잘 섞어준다.",
+		"7. 팬에 식용유를 둘러 적당한 양을 올려 부쳐준다.",
+		"8. 양쪽을 골고루 익혀주면 완성♡"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/8f02be312a1dc6791354128f6da971a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/9cc4a2079a54a94a750b7499a48724d31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/c4f884d1d9bdda10f2a4c647ba7dd3d11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/f7480f7dd4c572ff0e0104022bce35911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/1d674de011b86d008aea2748046e8d101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/7ba6633052fbfbc5861079f3a92d59f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/ae6880ba8f635df7cfe13273a4ac67091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/f21c27fea62f8854eebcdbba14ea9d461.jpg"
+	]
+}

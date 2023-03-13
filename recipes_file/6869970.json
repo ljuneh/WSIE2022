@@ -1,0 +1,52 @@
+{
+	"id": "6869970",
+	"name": "건새우치즈크림스파게티",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/18/8ff0d44b408a2feec015d96fa7c81bd21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6869970",
+	"ingredient_ids": [
+		735
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "스파게티면",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "크림파스타소스",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "건새우(볶음용)",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참치캔105g(1/2)",
+			"ingre_count": "105(1/2)",
+			"ingre_unit": "g()"
+		},
+		{
+			"ingre_name": "옥수수캔100g(1/3)",
+			"ingre_count": "100(1/3)",
+			"ingre_unit": "g()"
+		},
+		{
+			"ingre_name": "식용유(또는올리브유)1ts(작은스푼)",
+			"ingre_count": "1ts(작은스푼)",
+			"ingre_unit": "ts(작은스푼)"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 물과 식용유를 넣은 다음 끓는 물에 스파게티면을 삶는다 (8~10분)",
+		"2. 삶은 면을 볼에 건져낸다",
+		"3. 냄비에 종이컵 한컵 분량의 물과 시중 판매하는 치즈크림스파게티 소스를 2/3 정도 넣어서 풀어준다",
+		"4. 소스가 끓으면 건새우, 참치, 옥수수를 넣고 3분 정도 더 끓여준다",
+		"5. 그릇에 미리 건져둔 스파게티 면을 2등분하여 나눈 후 만들어 둔 소스를 면에 스며들도록 충분하게 올려준다  (아시겠지만 섞어서 드시면 됩니다)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/18/c9768d6a6cb2b4900c1a30cd72d0f94d1.jpg"
+	]
+}

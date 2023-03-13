@@ -1,0 +1,76 @@
+{
+	"id": "6915017",
+	"name": "깻잎 삼각전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/07/01/53c2c7cde5cb49d6d7e58d1f4c9bea661.jpg",
+	"url": "https://www.10000recipe.com/recipe/6915017",
+	"ingredient_ids": [
+		15,
+		219,
+		295,
+		234,
+		504,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔(200g)",
+			"ingre_count": "1",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 참치캔은 국물을 꼭짜고 으깨 주세요. *깻잎은 씻어서 체반에 받쳐 물기를 빼주세요",
+		"2. 청양고추는 다져 주세요.",
+		"3. 달걀은 풀어 주세요.",
+		"4. 참치에 다진 청양고추와 고운 소금 1꼬집과 달걀물 2~3 큰술 정도를 넣고 섞어 주세요.",
+		"5. 밀가루 2 큰술을 접시에 펴 준 후 깻잎을 앞뒤로 묻혀 주세요.",
+		"6. 깻잎위에 참치 1큰술 정도를 올리고",
+		"7. 깻잎을 양옆을 접은후",
+		"8. 한쪽도 접어서 삼각형모양으로 만들어 주세요. *깻잎 꼭지는 제거해주세요",
+		"9. 팬에 식용유를 두르고 깻잎을 달걀물에 적셔서 넣고 익혀 주세요. *뒤집어서 아랫면도 노릇하게 익혀 주세요.",
+		"10. 완성 그릇에 담아 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/01/c23780f696fa08cb1015d133ecc43fe61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/01/c96fed266c04b7d25b28069e1e71a5661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/01/88bcbe0568f617ac0aa80295842702f41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/01/99ad2329336360e33f9ca53ea750a0c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/01/5e1aee22e7b748e0814f3f4995b8ecf01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/01/645dc893693f3d70fccec6b028a975601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/01/bc0fc96c28a7a291a830a9f64214dba31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/01/2fc76a0d73ffdd66724add53566a4c8d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/01/3654fb823fb000603deed5c5204e9f271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/07/01/85e9fe32b37d9910c5ec8759029f360f1.jpg"
+	]
+}

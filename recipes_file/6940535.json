@@ -1,0 +1,93 @@
+{
+	"id": "6940535",
+	"name": "정식품 콩국물 들깨 누룽지 백숙",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/91ee03e37d132fd71f4ab8743f885fff1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940535",
+	"ingredient_ids": [
+		27,
+		3,
+		132,
+		564,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "백숙용닭고기",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "정식품진한콩국물",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "불린찹쌀",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "한방재료팩",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "15",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "인삼",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "들깻가루",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 재료들을 준비해주세요. (찹쌀은 2시간정도 미리 불려주었습니다)",
+		"2. 오늘의 비결은 정식품 진한 콩국물입니다. 맛집에서는 콩가루를 넣고는 하는데 더욱 진하고 깊은맛을 기대할수 있어요. 그리고 매우간편^^",
+		"3. 끓는물에 양파, 마늘, 인삼과 깨끗하게 손질한 닭을 넣고 20분정도 끓여주고 재료들을 건져내어 닭국물을 활용하겠습니다.",
+		"4. 불린찹쌀에 닭국물을 넣어 밥을 해주세요. (압력솥에 넣어 센불로 끓이다가 추가 울리면 약불로 줄여 20분 더 끓여준뒤 압이 빠질때까지 뜸들여주세요)",
+		"5. 나머지 닭국물에 정식품 진한콩국물을 넣어주세요 (1대1비율)",
+		"6. 백숙용 한방팩, 대파, 양파, 대추, 인삼과 닭을 넣고 20분정도 더 끓여주세요.",
+		"7. 닭을 제외한 나머지재료들을 건져낸 후 들깻가루를 기호에 맞게 넣어주세요.",
+		"8. 찹쌀밥이 다 되면 후라이팬에 눌러 누릉지를 만들어주세요.",
+		"9. 예쁘게 담아 송송썬 대파와 넣어 완성ㅎㅎ 기호에 따라 소금간 해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/db0f177ed45361b9f2807f70a7aebee91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/c7aa445f79906cc80620ebb4368b37731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/59807ce85bf04401f79463e47574fcf61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/5a8a5cf80a413b75faec0b2bc08e36ef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/7f35bd077e41671e207116f40f954ffc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/fffbc07334e6b01c4252eb2293fc43851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/04f66c85723d7584cacd4e9de72419ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/50e84c781bdadd17a1bd7e39381ac67c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/31/c5baf29fd09472bc23550477fc6eedfd1.jpg"
+	]
+}

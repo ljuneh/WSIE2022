@@ -1,0 +1,164 @@
+{
+	"id": "6863077",
+	"name": "라조육",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/52a60f06bdea3ca7a8c90fb3f8d469af1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863077",
+	"ingredient_ids": [
+		497,
+		11,
+		21,
+		56,
+		8,
+		477,
+		379,
+		224,
+		28,
+		29,
+		295
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지안심",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘가루",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "달걀흰자",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "전분가루",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "브로콜리",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "불린목이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "방울토마토or파프리카",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "3/1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "흰부분만"
+		},
+		{
+			"ingre_name": "이외냉장고속채소",
+			"ingre_count": "",
+			"ingre_unit": "조금씩"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물or육수1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파(푸른부위)",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 브로콜리는 송이부위로준비 느타리버섯은 잘게찢어요 양배추는 굵게썰고 목이버섯은 불려요 오이는 반으로 자르고 길게어슷썰고 토마토나 파프리카도 채썰거나 굵게 썰어줍니다",
+		"2. 고기는 마늘가루.소금.후추.넛맥등으로 밑간을 합니다",
+		"3. 달걀과 전분을 넣고 튀김 준비를 합니다",
+		"4. 170도에서 한번튀겨줍니다",
+		"5. 건져낸후 노릇하게 튀기고 팬에 기름을 약2스푼정도남기고 남은기름은 처리해주세요",
+		"6. 팬에 파.마늘.생강.고추를 차례대로 넣고 향을 내주어요",
+		"7. 목이버섯.브로콜리를 넣고 볶다가 양배추와 느타리버섯을 넣고 볶아줍니다",
+		"8. 고춧가루 한숟가락넣고 육수를 넣고 끓여줍니다",
+		"9. 굴소스와 간장으로 간을해요",
+		"10. 소스가 끓으면 물전분을 넣어서 재빨리 섞어줍니다",
+		"11. 소스가 어느정도 졸았으면 튀긴고기를 넣어 버무려줘요",
+		"12. 색상이있는 채소는 불끄고 넣어줍니다",
+		"13. 참기름 한방울 넣어마무리",
+		"14. 접시에 담아줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/061da6ef3ea57a7d3436097892634c011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/ef9d70adf22adffa4c7ad56293ee56181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/2b3693d412d9c0220670640688f095eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/d4276f2b93235b7b6e80f404ff09ea9c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/a89a4bfd7a4843f62d1bdfc1bd4b1b541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/93556fcd01d0341d35682c3cbec74ec71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/67c6662e891f880b9b7e6bfe2a229fc31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/dced621d61157a7ce3529630770c8aec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/93aa1b92ec32a3dbaa0a8e54a7b236fe1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/a64499963d86fac48a2a97c0a8a9a52f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/6ed82793544043930412e074d68a71951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/20f9f2f105a67b7de1016a4df2e5a6911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/fe9fee163afbb8a3a4f372b4f4fcec0a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/24/ad42b1bd43b3e4f487695cf067d8e2ea1.jpg"
+	]
+}

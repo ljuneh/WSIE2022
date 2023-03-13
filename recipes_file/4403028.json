@@ -1,0 +1,58 @@
+{
+	"id": "4403028",
+	"name": "부드럽고 달콤한 늙은호박죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/1a32dbc8dfa98c49533b224346b4e71e.jpg",
+	"url": "https://www.10000recipe.com/recipe/4403028",
+	"ingredient_ids": [
+		355,
+		391,
+		995,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "늙은호박",
+			"ingre_count": "1/2",
+			"ingre_unit": "덩이"
+		},
+		{
+			"ingre_name": "쌀가루",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "팥(생략가능)",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 늙은호박과 적당량의 물을 넣고 삶아주세요.",
+		"2. 집에 팥이 있는 분은 불려서 함께 삶아주세요.",
+		"3. 호박과 팥이 무르게 삶아지도록 중불이나 약불로 익혀줍니다.",
+		"4. 호박을 주걱으로 으깨고 물을 넣어줍니다.",
+		"5. 쌀가루에 뜨거운 물을 조금씩 넣어 몽글몽글한 상태가 되게 합니다.",
+		"6. 끓고 있는 호박죽안에 몽글하게 만들어둔 쌀가루 넣고 소금간을 해줍니다.",
+		"7. 쌀가루가 익을때까지 끓이면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/40994c525514d956a47e80637b5c2c891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/98854bf0f94e23b8c561d5391bebba641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/d2e4fcb26991b71bce1267e763a4bfda1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/7277e9bed88c4cb0b2a051bd4d6f518a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/ba2f08081e6e82df0690ab3cfbf7f3521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/5de4cade1e9e8c4b813352343f5791ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/929511e400f523464e9f6bd5b8df55511.jpg"
+	]
+}

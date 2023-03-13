@@ -1,0 +1,71 @@
+{
+	"id": "6944968",
+	"name": "언제나 좋다는 삼겹살볶음밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/446fc985de0e9af54ab0dfe6c51774081.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944968",
+	"ingredient_ids": [
+		3,
+		325,
+		9,
+		58,
+		765,
+		660
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "호박",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "삼겹살",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "2/3",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "쌈장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 양파부터 볶아 줍니다 볶은 양파에 호박, 당근, 새송이버섯넣고 쉐킷쉐킷~~ 고기 넘 좋아하니 채소를 대신 넉넉히 넣어요",
+		"2. 잘게썬 삼겹살도 넣고 쉐킷쉐킷~~",
+		"3. 불 끄고 밥 넣고 뭉치지 않도록 잘 풀어주고 간은 쌈장으로 합니다, 삼겹살이니께~~ ㅎㅎ 다시 불켜고 재빨리 볶아요 참기름 톡 마므으리~~ ㅎ",
+		"4. 갑자기 화산볶음밥 만들면 되겠다 싶어서.. ㅎ 밥을 동그랗게 몰아놓고 달걀풀어 담아 줍니다 치즈 넣으려다가  삼겹살이라 치즈는 생략했어요 약불로 뚜껑닫고 달걀 익혀 줍니다 뚜껑은 냄비뚜껑 사용합니다",
+		"5. 삼겹살볶음밥 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/99039db622abafd67ee73d20c16679c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/ba6c040ee85bf29e0e6fdfc378ca4b461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/7c5098369a3ab6d2d864dca9ab6a06d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/bf45b6f86d12e73f8bd2e073e28c3f9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/e95296c73a781460edd3582b57896db91.jpg"
+	]
+}

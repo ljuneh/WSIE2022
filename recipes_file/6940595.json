@@ -1,0 +1,82 @@
+{
+	"id": "6940595",
+	"name": "초간단 [탕수육 소스] 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/72900aa9571daaf686b684aa1b5df58e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940595",
+	"ingredient_ids": [
+		226,
+		995,
+		383,
+		6,
+		8,
+		9,
+		3
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "사과식초",
+			"ingre_count": "6",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "감자전분",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "차가운물",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 오이는 둥글게 채썰고  당근은 채썬 둥근것을 2등분이나 4등분 하고 나머지는 얇게 채썹니다.",
+		"2. 간장6, 설탕5, 식초6, 물 한컵을 부어 잘 섞은후 저어 줍니다.",
+		"3. 감자전분 크게 한스푼과 찬물 한스푼을 미리 섞어둡니다.",
+		"4. 끓기시작하면 야채를 넣고 전분물을 넣어 조금 더 끓이되 너무 쫄이면 짤 수 있어요. 수저로 떠보고 걸죽한 느낌이 나면 불을 꺼줍니다.",
+		"5. 진간장이라 생각보다 색이 진하지만 막상 음식에 뿌리니 맛있어요. 야채의 아삭한 식감이 좋으시면 야채를 조금늦게 넣어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/8d718a00ac58b8c25187a532be33964b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/35eb500898e9203cbef1f4b21e549d3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/e8bbf932e3a7c1c418da7435ec030ae51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/1997aa657698addf72bcb574986f8ae91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/01/78771b060e86e2e20501f0a65cd2c1931.jpg"
+	]
+}

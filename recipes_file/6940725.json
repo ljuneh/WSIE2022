@@ -1,0 +1,87 @@
+{
+	"id": "6940725",
+	"name": "백종원 콩나물찜 소세지 넣으니 별미네?",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/07/8e2709c6574504c8e593433046b78b771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940725",
+	"ingredient_ids": [
+		47,
+		433,
+		995,
+		473,
+		224,
+		226,
+		233,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "비엔나소세지",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "양파반개대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1.  소세지는 비엔나 소세지를 1봉지 준비하셔도 되고 저는 길쭉한 햄이 있어서 2개정도 먹기좋게 썰었어요 양파 반개는 얇게 채썰고 대파는 송송 썰어서 준비했어요                    ",
+		"2.  분량의 양념은 있다가 넣기 편하게 다 섞었어요 나중에 따로따로 냄비에 넣어도 되지만 한번에 몽땅 넣어버리는게 저는 더 편하더라구요 고추장 2스푼 / 고춧가루 2스푼 진간장 4스푼 / 설탕 1스푼 다진마늘 1스푼 ",
+		"3.  이제 본격적으로 요리 시작! 팬에 기름을 살짝 두르고 소세지를 먼저 넣어 볶아주세요 ",
+		"4.  소세지가 어느정도 잘 볶아지고 익으면 물을 종이컵으로 1컵, 200ml 정도 넣어서 같이 보글보글 끓여줘요 ",
+		"5.  물이 끓으면 양파와 대파 그리고 콩나물을 넣어주고 만들어둔 양념장을 다 넣어 섞어주세요                    ",
+		"6.  잘 섞어주고 뚜껑을 닫아 잠시 팔팔 끓여주시면 되요                   ",
+		"7.  너~무 오래 끓이면 콩나물이 너무 흐물할 수 있으니 적당히 익을정도로만 끓여주시면 되는데요 여기에 좀 걸쭉하게 먹고싶다면 전문 1스푼에 물 2스푼정도 섞어 전분물을 만들어 넣어 같이 섞어주셔도 되구요 저는 전분이 없어서 패스하였어요 어느정도 잘 끓으면 참기름 1스푼 넣어 한번 더 섞어서 끓여주면 끝! "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/59ebe28892846ad574a35822fe9f83a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/16e5924c446459064cda471cdfbaa4471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/829f5e206078cb544a6d3ea093f60a431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/432c70c0bfe8d65d697691398c3ad1231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/b9fef0cf1e3a83d68445014f790b3a561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/0acb0c90559f8b53f8b5d414f3f1adb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/97d2ad086205a5fc5ad8475aeeea9cb81.jpg"
+	]
+}

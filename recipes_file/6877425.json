@@ -1,0 +1,72 @@
+{
+	"id": "6877425",
+	"name": "토란국 끓이는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/32f0d208719f4942cf44ae036dfb8e6a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6877425",
+	"ingredient_ids": [
+		495,
+		40,
+		349,
+		497,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무우",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "토란",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 참기름을 두르고 핏물뺀 소고기에 후추를 조금 뿌리고 볶아줍니다.",
+		"2. 소고기가 살짝 익으면 무우를 넣고 함께 볶아 줍니다.",
+		"3. 무우 가장자리가 투명해지면 물을 붓고 국간장 3스푼을 넣어 줍니다.",
+		"4. 위에 뜨는 거품은 걷어 주셔야해요.",
+		"5. 국이 끓으면 도톰하게 썬 토란을 넣어주고 한소끔 끓입니다.",
+		"6. 부족한 간은 소금으로 마추고 파를 썰어 올리기면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/d4ec24d54aec4ef5ac62a2519a28d6541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/7b4a801a46d09296598d9d400cc8b90e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/ca00124d3598b45cafb1ac77e8d35edc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/ca83f286159c7626d68a2dff1a11c44c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/6b3fd48cd84ec52d1ae715dee3229f691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/03/aaff45d5f5eaae85a60929386b5253241.jpg"
+	]
+}

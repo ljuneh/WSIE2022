@@ -1,0 +1,58 @@
+{
+	"id": "6943232",
+	"name": "폭신한 계란요리, 수플레 오믈렛 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/59c4dc8674abd7f26db9b16bc371d4231.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943232",
+	"ingredient_ids": [
+		226,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 계란은 흰자와 노른자로 분리해주세요.",
+		"2. 노른자에 약간의 소금을 넣고 풀어줍니다.",
+		"3. 흰자는 핸드믹서로 휘핑해요.",
+		"4. 어느 정도 거품이 올라오면 설탕 1큰술을 넣고 단단히 휘핑해요.",
+		"5. 머랭의 뿔이 생겨야 반죽이 쉽게 가라앉지 않아요.",
+		"6. 머랭에 노른자를 섞어요.",
+		"7. 머랭이 꺼지지 않도록 재빠르게 섞어요.",
+		"8. 팬은 약불로 예열하고 버터 1큰술을 녹여요.",
+		"9. 반죽을 붓고 고르게 펼쳐주세요.",
+		"10. 가장자리가 익어갈 때 살짝 들어올려서 브라운 컬러가 나오면 반으로 접어요.",
+		"11. 접은 가장자리가 터져도 익힐 수 있으니 당황하지 않아요.",
+		"12. 다 구웠어요.",
+		"13. 예쁘게 셋팅해서 한 입!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/e219708f45652231fa10053346d920731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/02af22ef4024846254264f0bf7e8d2171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/d69ce353d9a40347b2965a92dd04088b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/3ccd0b7d2c062af53c58e9b0516e93801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/6d3e50a29c5e8e97501111113ed451251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/f16da1b95ad81c2a3645833e151512ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/ddb571e7e970a8dd69f601e950f497801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/f4d36eb06241d6a3b9f9594ea90fe11a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/5ebb66e0d95a670718dc4ae665b0454d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/2a2db4900260ae4740ef46a6f050697d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/ceb3b310a091e05ed676acb8c4919bf41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/7fffb24fd1be4a808db6adecd72302a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/02/fd09221428e408f64a9dca682dd5c68a1.jpg"
+	]
+}

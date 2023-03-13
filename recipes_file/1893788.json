@@ -1,0 +1,53 @@
+{
+	"id": "1893788",
+	"name": "호박전 매우 간단하게 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/46d9ca9e0178363b055fdf58e2d6b8a0.jpg",
+	"url": "https://www.10000recipe.com/recipe/1893788",
+	"ingredient_ids": [
+		7,
+		387,
+		504,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1~2T",
+			"ingre_unit": "~T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 애호박은 0.5cm의 두께로 잘라 소금간을 합니다. 10분정도 후에 호박에서 나오는 물기는 키친타월로 살짝 제거합니다.",
+		"2. 비닐봉지에 부침가루를 넣고 소금간을 한 애호박을 넣은 뒤 입으로 비닐봉지에 바람을 넣어주세요. 그리고 잘 흔들어주세요.",
+		"3. 부침가루를 곱게 입은 애호박입니다.",
+		"4. 부침가루를 얇게 입은것이 손으로 부침가루 묻히고 털어내는 것보다 훨씬 깔끔합니다.",
+		"5. 미리 풀어놓은 계란물에 호박을 담궜다가",
+		"6. 후라이팬에 부쳐주시면 된답니다. 손도 깨끗하고, 시간도 절약되고, 부침가루도 얇게 묻혀지는 것이 손으로 하는것 보다 괜찮네요.",
+		"7. 간단한 애호박전 완성이랍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/3838f976fc2edd48966bb440f2343c561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/964d5e82d14d1dc7016c5ac266227a471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/d652de2634370f4c747e03386c4cbd171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/d32f3dc870b4889111b3dc41dedb6c781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/cd8d251357b3135c5bd5d1b34a8a9f101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/8141611b59edb84f1207aa8a1b3fb2591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/27/521be25ac5f188868d7a12cf20efca5d1.jpg"
+	]
+}

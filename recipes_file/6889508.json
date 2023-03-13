@@ -1,0 +1,58 @@
+{
+	"id": "6889508",
+	"name": "친정엄마가 생각나는 추억의 맛, 비지찌개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/05/24/d2992d005372acaf085da50df51ece541.jpg",
+	"url": "https://www.10000recipe.com/recipe/6889508",
+	"ingredient_ids": [
+		995,
+		487,
+		434,
+		27,
+		198
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "1/4",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "비지",
+			"ingre_count": "5",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 신 김치는 먹기 좋은 크기로 썰어준 후 버터 1/2숟가락을 넣고 볶아준다. (버터가 없으면 콩기름으로 볶아도 됩니다.)",
+		"2. 돼지고기도 함께 넣어 볶는다.",
+		"3. 물을 붓고 신 김치 국물로 간을 맞춘다.                   ",
+		"4. 비지를 넣고 마지막에 대파를 넣어 마무리한다.                   "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/25/d462116ffb03ba5b54decfe5185184d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/25/9a28d3627f4e4d77103d10389ac3c34b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/25/a4f26b9cd332d5dac1959f9220538a131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/25/a94498d7db846d150d93478c1abe55ac1.jpg"
+	]
+}

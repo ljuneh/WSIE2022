@@ -1,0 +1,97 @@
+{
+	"id": "6871704",
+	"name": "햇고사리 갈치조림 완전 별미",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/23/1b8373b874545875f2fbecf1df03c6fa1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6871704",
+	"ingredient_ids": [
+		67,
+		3,
+		27,
+		295,
+		379,
+		224,
+		233,
+		843,
+		455,
+		292
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "갈치",
+			"ingre_count": "4",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "햇고사리",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1~2개",
+			"ingre_unit": "~개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "멸치육수",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 손질해서 데친 햇고사리는 먹기좋게 썰어요",
+		"2. 제주 은갈치는 씻어 소금으로 살짝 밑간해 놓습니다",
+		"3. 냄비에 고사리를 깔고 갈치를 올려요",
+		"4. 양파도 듬뿍 올리고 양념장 올려 줍니다 양념장 : 간장, 고춧가루, 다진마늘, 매실액, 맛술, 생강가루",
+		"5. 멸치육수부어 뚜껑덮어 보글보글 끓입니다 대파도 올렸어요",
+		"6. 보글보글 끓으면 청양고추 넣고  국물 자작하도록 조려 줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/23/12b328ba44b4e58fc9a597708b57c2411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/23/a6fa763b1a1d436c9975d301164dc2421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/23/dcf2ad26aef91b7745104b8950ce26661.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/23/751b1463932f8fbfcf6321e4f05074131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/23/3db5f62e5f035bf6946ba4033811a4231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/23/72af5965a59c044125592364bfca17481.jpg"
+	]
+}

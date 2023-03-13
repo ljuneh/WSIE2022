@@ -1,0 +1,65 @@
+{
+	"id": "6941696",
+	"name": "코로나 극복 육포 요리 / 육포 라면",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/de1cae36bfec2ba8d8150e1f7cfbba9e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941696",
+	"ingredient_ids": [
+		611,
+		441,
+		29,
+		27,
+		504,
+		473
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "육포",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 육포는 먹기 좋게 자른다.",
+		"2. 라면을 준비한다.",
+		"3. 마늘은 편 썰어 준다.",
+		"4. 대파는 송송 썰어준다.",
+		"5. 냄비에 식용유, 대파, 마늘, 육포를 넣고 볶는다.",
+		"6. 마늘의 향이 나면 라면스프, 고추장을 넣는다.",
+		"7. 물을 넣고 라면을 끓인다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/545adaae5a0f3c1d33262c2860da1d5e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/6d82fc6b968eae3f9d9860f3666577691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/565821d0e2b5e331d954f3f4a4692ac61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/be48fd1ad8b77d9856efe557141ef0011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/d9d345c545a60be36892ae87958cac2e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/bab13e69b468bde8c87f85fb67f8ffb31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/12/605e56f39264792b988d135590c28d671.jpg"
+	]
+}

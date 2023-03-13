@@ -1,0 +1,49 @@
+{
+	"id": "6943313",
+	"name": "샤인머스켓을 곁들인 베이글",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/04/241fdc8dfb3210b3aa3dca623cb224c21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943313",
+	"ingredient_ids": [
+		405
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "베이글",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "미니크림치즈",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "샤인머스켓",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 베이글을 준비하세요.",
+		"2. 빵칼로 베이글을 옆으로 반갈라줍니다.",
+		"3. 오븐에 구워줄 겁니다. ",
+		"4. 예열없는 미니 오븐에 구워주면 간편한데요. 240도에서 5분간 구워주었어요.오븐",
+		"5. 베이글이 따끈따끈해요.",
+		"6. 크림치즈도 시판용입니다. 미니 크림치즈이구요.",
+		"7. 샤인머스켓은 한 송이를 네 송이 정도로 잘라주고요. 식초를 2큰술 넣은 찬물에 5~10분간 담궜다가 서너번 헹궈서 물기를 제거해요. 껍질째 먹는 포도이기에 세척에 신경써주세요.",
+		"8. 샤인머스켓을 반으로 잘라줍니다.",
+		"9. 베이글에 크림 치즈를 얇게 펴발라줍니다. 그리고 나서 샤인머스켓을 올려줍니다. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/2a3cf73ff634259d85e4a42ac60606651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/0bb76dd8ddfba1cacb0d15070994fa7e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/8786baf17a44613246ed0c98f5418e501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/0ce756f2bc8e9ee3bf77d1e777d6f80e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a58fb281847acc45234d9c7bdba9c6911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/8bf07d48e2df4a7e39837d14ee3475e91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a45c88e54284dd51ef35e00372b553e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a88264b9d6d5141b6481b9c5cfa261801.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/8b3f3214d274c7c19b87311f1efa40401.jpg"
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"id": "6945487",
+	"name": "식빵으로 간단하게 만드는 애플파이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/889da0fd0c9117553a2f581ff1f66be21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945487",
+	"ingredient_ids": [
+		158,
+		503,
+		219,
+		198,
+		226,
+		575,
+		471
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "사과",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "8",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "계피가루",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 사과는 껍질을 벗긴 후 씨를 제거하고 잘게 잘라준다.",
+		"2. 달군 팬에 버터를 넣어 녹인 후 사과와 설탕, 올리고당 3큰술을 넣어 15분 정도 물기 없이 볶다가 계피가루와 올리고당 2큰술을 넣어 섞어준다.",
+		"3. 식빵은 테두리를 자르고 밀대를 이용해서 평평하게 밀어준다.",
+		"4. 빵 한쪽 면에 사과조림을 얹고 테두리에 달걀물을 발라 접어준다.",
+		"5. 포크로 테두리를 눌러 양쪽면을 붙인 후 사과파이 중앙에 칼집을 넣어준다.",
+		"6. 사과파이 윗면에 달걀물을 바르고, 180도로 예열한 오븐에서 15분 노릇하게 구워준다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/cff2ab74771d1a5584be1abc8b3a7e6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/fcf664f3c50ee6f4639bd0af20e4d3a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/6127d273a40272955ab88a1d105e4f6f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/251a920e5b5aafb410cde93adb2a2c641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/16f13fc2b538a80290484e6e492479911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/02/664623ae852161becf2d2999a3fca0ea1.jpg"
+	]
+}

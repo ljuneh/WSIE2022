@@ -1,0 +1,72 @@
+{
+	"id": "6834201",
+	"name": "참치마요 삼각김밥 미니미니~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/12/e0414a1b453625f64abb9019793189891.jpg",
+	"url": "https://www.10000recipe.com/recipe/6834201",
+	"ingredient_ids": [
+		497,
+		228
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "1/2",
+			"ingre_unit": "캔"
+		},
+		{
+			"ingre_name": "따뜻한밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "일회용김",
+			"ingre_count": "3",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "겨자가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "미지근한물",
+			"ingre_count": "1",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		}
+	],
+	"recipe": [
+		"1. 겨자가루를 미지근한 물에 개어서",
+		"2. 따뜻한 국냄비 같은데에 3분정도 올려둡니다",
+		"3. 그동안 참치캔은 안에 있는 기름을 쪽 빼서 준비한 후 마요네즈와 숙성 시켜 둔 겨자를 섞어 줍니다. 겨자는 맛을 보며 넣어주세요~ 안 그럼 코를 너무 쏴요~",
+		"4. 따뜻한 밥에 소금을 넣어 살살 섞어서 간을 한 후",
+		"5. 밥을 한 숟가락 퍼서 손바닥에  올려 송편을 빚듯이 오무린 후",
+		"6. 참치를 듬뿍 얹고",
+		"7. 다시 그 위에 밥을 덮어서 꼭꼭 눌러 준 후",
+		"8. 모양을 잡아 줍니다. 그리고 김가루에 굴려주세요",
+		"9. 고럼 요렇게 완성이요",
+		"10. 접시에 이쁘게 담아 서빙 합니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/12/3282affd9724179b451ce171117839551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/12/c0d5b62b58f7bd74d1e8c6f5f5acce561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/12/c03f3961ad6f9fbaec1877e2eadd53a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/12/0b36cb67369ce663108fa568f5e81b0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/12/b3e10a623d2e8fc2de67396e575274ca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/12/53575ca886bb1bf2c8230077a6ad039f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/12/03d9ff14fc9784f5f65a640dffe9bb011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/12/3533872d5074bf41fb50d9bfae3a0bfb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/12/84bfdb3b4ad9f08e718c20f4886406871.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/12/718be4c9fe3ee0b188b0e71ed2b64f611.jpg"
+	]
+}

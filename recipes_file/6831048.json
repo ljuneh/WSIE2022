@@ -1,0 +1,57 @@
+{
+	"id": "6831048",
+	"name": "딸기잼 롤",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/02/2a63ade5aad6e00b0d46a341ccfe19bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6831048",
+	"ingredient_ids": [
+		503,
+		492,
+		219,
+		546,
+		198
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "딸기잼",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슈가파우더",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		}
+	],
+	"recipe": [
+		"1. 식빵은 밀대로 밀어 아주 납작하게 만들어줍니다.",
+		"2. 납작하게 밀은 식빵위에 딸기잼을 각각 한큰술씩 발라주세요.",
+		"3. 도르르 말아주고 끝부분이 접착이 되도록 아랫부분으로 놓아둡니다.",
+		"4. 계란 1개를 풀어준뒤 계란물에 퐁당퐁당 해주세요.",
+		"5. 팬에 버터를 두르고 데굴데굴 굴려가며 익혀줍니다.",
+		"6. 먹기좋게 한입크기로 썰어준뒤, 슈가파우더를 솔솔 뿌려냅니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/03/d352ca846b94766d97e8bd0ed011dded1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/03/f465f9aa8348b24dc6f12a304cfa28c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/03/10c21e0a3faa2089b0f3828c446c18631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/03/2caa029446f255cc121c4f561e7e0f961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/03/d571ba1f23e5a64a32a78bed5a52fc861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/03/267933ec1c97259870db1467d3118b5b1.jpg"
+	]
+}

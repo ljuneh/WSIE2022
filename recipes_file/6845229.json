@@ -1,0 +1,102 @@
+{
+	"id": "6845229",
+	"name": "맛있는 가지간장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/25/a839688ca27724b98b0e659db07e49681.jpg",
+	"url": "https://www.10000recipe.com/recipe/6845229",
+	"ingredient_ids": [
+		18,
+		9,
+		3,
+		295,
+		136,
+		853,
+		290,
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "매실",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "맛간장",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "적당히"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "육수or물",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 일단, 가지를 씻고 다듬어주세요.",
+		"2. 그리고 양파, 당근, 파, 청양고추를 잘게 썰어주시고",
+		"3. 육수를 위해 대파뿌리, 멸치, 다시마를 넣고 육수를 우려줍니당.",
+		"4. 양념장 매실 반스푼, 맛간장3스푼, 고추가루1스푼, 깨 적당히, 식용유1스푼, 육수or물 반컵을 넣구",
+		"5. 당근 약간, 양파 4분의1, 청량고추 적당히, 파 적당히도 넣어줍니다.",
+		"6. 가지는 조리기쉽게 잘라주구요.",
+		"7. 먼저 후라이팬에 양념장 1~2스푼정도 먼저 올리고",
+		"8. 가지올리고 또 양념장, 가지 또 양념장 반복해줘요.",
+		"9. 요래 다올려줍니다. 그리고 조려줍니다.",
+		"10. 후라이팬에 뚜껑이 없어서 요래 따른후라이팬으로 덮어주기.",
+		"11. 맛있게 조려졌지요?",
+		"12. 완성입니다. 가지의 효능은 피로감완화, 소염작용, 암예방(폴리페놀성분), 장건강, 고혈압완화, 해열작용, 노화방지라고 합니다. 몸에 좋은 가지로 맛있는 가지간장조림 만들어보아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/25/747551fca84bc5fe1ee20c6a5afd24a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/25/fee7ba87fdc659c675b5bcd970a6cb981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/25/a37d509bab8297a3dd1b035f87664da91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/25/10a06fc4b02585c8028dd2bf5b8c1bd71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/25/a022a10dc047c0a9018f7ec7dd881c9f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/25/41482bc5a147c314857260a40ede33351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/25/5fe70d812da067a3d382d4fa519c9e381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/25/9ed6528d8511d1f60a6f5f8c68100c3d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/25/ffc5c1af22b394dc6548a365e4e333c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/25/855f3fb8d286b2ae4178c4e60a2365e71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/25/c896d9f3800c704ef60de9c26738ddd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/25/4fc899d427325a1341030e9dd33e3b8d1.jpg"
+	]
+}

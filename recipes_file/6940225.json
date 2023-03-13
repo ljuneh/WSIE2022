@@ -1,0 +1,53 @@
+{
+	"id": "6940225",
+	"name": "실패zero,홈메이드 샐러드 드레싱♥올리브유와 양파로 새콤달콤,고급스러운 맛~~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/5f3acb680945ba84bc183655c458dada1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940225",
+	"ingredient_ids": [
+		574,
+		497,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "양파큰것",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "2배식초",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 물에 담가(5분정도) 매운맛을 뺀 양파를 믹서에 넣고",
+		"2. 설탕3T,소금1/2t, 2배식초 3T를 넣고 갈아줍니다.",
+		"3. 병에 담고,",
+		"4. 올리브유를 종이컵으로 한컵 넣어줍니다.",
+		"5. 흔들어 섞으면 끝입니다.냉장보관 하세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/b4dc4c8c8cb23a6ba73946f9eea0100c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/87e1f70e80bf0c593472bde1e4a130b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/5760a0ec8d6b26743aaec6a2b8d295361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/4fff361105d5e87f83d7a9960816c6d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/ca19cbcdb4c4f8141dc682cf65342d9a1.jpg"
+	]
+}

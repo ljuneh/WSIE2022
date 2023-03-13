@@ -1,0 +1,84 @@
+{
+	"id": "6853805",
+	"name": "얼갈이김치 얼갈이배추겉절이 담그기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/01595cef1a100dad9234c22af4ec6ae61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6853805",
+	"ingredient_ids": [
+		224,
+		276,
+		333,
+		226,
+		497,
+		543,
+		28,
+		29
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "​얼갈이배추",
+			"ingre_count": "2",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고운고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "멸치액젓",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찹쌀풀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 배추는 적당한 크기로 잘라 세번 정도 씻어 물기를 빼줍니다",
+		"2.  파는 흰부분만 작게 썰고 생강, 마늘과 찹쌀풀, 고춧가루, 멸치액젓 등을 넣고 고루 섞어 양념을 만들어 줍니다                    ",
+		"3. 얼갈이배추에 양념을 넣고 잘 버무려 통에 담고 여름이니까 두어 시간 실온에 놓았다가 냉장고에 넣어줍니다 익히는 시간은 개인의 기호에 따라 정해주면 좋겠네요                     "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/219de3caaee4e6115cd0863932001b2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/4ae1d6bb43d1de007e49603ecd2167331.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/eb9c0f1305eb8d21dd868c0d6057531a1.jpg"
+	]
+}

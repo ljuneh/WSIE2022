@@ -1,0 +1,67 @@
+{
+	"id": "6941277",
+	"name": "가지토마토스프:밥이되고 약이되는 다이어트스프",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/897a284f8d0b8394630be7a9c2d920ee1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941277",
+	"ingredient_ids": [
+		18,
+		51,
+		3,
+		497
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다시마물1+1/2컵",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 양파와 마늘,올리브오일을 넣어 볶다가 ㅡ",
+		"2. 가지 넣어 볶는다.",
+		"3. 토마토도 넣고 볶는다",
+		"4. 다시마물 넣고 푹 끓인다.마늘, 양파 볶을 때부터 재료 넣을 때 마다 소금, 후추 조금씩 뿌려주세요.",
+		"5. 핸드믹서로 곱게 갈아준다.",
+		"6. 다시마물이나 우유로 농도 맞춰 한소끔 끓인 후 접시에 담는다",
+		"7. 토핑 올리고 올리브오일 둘러준다. 스프가 묵직해서 토핑은 좀 가볍게..방울토마토와 올리브를 올려주었어요. 토핑은 재량껏요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/5ec53ae9db5521e20cf7709cacd473281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/273d5f6d6866a98d7b64437cd7f18b481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/f04326e436f5a7276d0db9f48c40e4c11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/d01f45e7680ac32bae31448d31ec20a01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/3295a15ea1c538baf721a7f2aa270d571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/d2d30528f5ab75c7c70e9c3823cf0b671.jpg"
+	]
+}

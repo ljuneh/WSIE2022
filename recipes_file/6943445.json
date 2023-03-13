@@ -1,0 +1,60 @@
+{
+	"id": "6943445",
+	"name": "소시지 양파볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/55a0d711e7d9b7b72735097f99be0db31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943445",
+	"ingredient_ids": [
+		3,
+		379,
+		469
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "켄터키소시지",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 양파 채썰기",
+		"2. 켄터키소시지 얇게 어슷 썰어준다",
+		"3. 양파,소시지 궁중팬에 담고 간장,후추,기름을 빙~ 두르고",
+		"4. 슥슥~ 볶아주세요",
+		"5. 파 취향껏 송송~ 썰어 넣고",
+		"6. 휘리릭~ 슥슥~ 볶아주면 완성 (조금 싱거운듯 맛소금으로 간을 더했어요)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/f98cecff466aa4ec5fe1a10961e4ce721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/3931b01699dd22029293ce29a442a8e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/798d6394b421b139a561fd7bffe89d451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/043d56d51db0cce699489958a84b0d321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/1097c6510e0493a17f0490e94cec32191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/f8ae00120d9ca1e71bae383d728f963b1.jpg"
+	]
+}

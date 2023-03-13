@@ -1,0 +1,52 @@
+{
+	"id": "6942904",
+	"name": "편의점 샤오롱만두로 만드는 크림만두그라탕! 편의점꿀조합레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/69a42bede6d1fc0f38e2f929c4fa481d1.png",
+	"url": "https://www.10000recipe.com/recipe/6942904",
+	"ingredient_ids": [
+		214,
+		212
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "만두",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "크래미",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "크림우동",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		}
+	],
+	"recipe": [
+		"1. 크래미는 잘게 찢는다.",
+		"2. 크림 우동에 동봉 되어 있는 스프, 요리수를 넣고 섞은 후 전자레인지에 2분간 조리한다.전자레인지",
+		"3. 만두는 전자레인지에 2분간 데운다.",
+		"4. 그릇에 크림 우동을 넣고 데운 만두를 올린 후 찢은 크래미, 슬라이스 치즈, 모짜렐라 치즈, 크림우동에 동봉 되어 있는 치즈가루를 뿌린다.",
+		"5. 전자레인지에 2분간 조리하여 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/c5421014b196b2aedeaf9925c289aab41.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/f1070266011b3d8269f48172e185fc1e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/fa6b6b74ca8c2787482e3ff9f43673991.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/8f95ff9effb657ac8077e4ea593c68261.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/280f167668c61c7f64453950314e88ee1.png"
+	]
+}

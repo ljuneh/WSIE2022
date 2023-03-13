@@ -1,0 +1,46 @@
+{
+	"id": "6943177",
+	"name": "훈제닭가슴살이 들어간 미역국~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/6c4d7a568a0c139de9cabbd58f2afb0c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943177",
+	"ingredient_ids": [
+		349
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "건미역",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "훈제닭가슴살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 건미역을 찬물에 살짝 불려서 1~2번을 씻은후 먹기좋은 길이로 잘라주신후 냄비에 미역이 잠길정도 물을 붓고 펄펄 끓여주세요",
+		"2. 훈제닭가슴살(슬라이드)를 준비후에 펄펄 끓은물에 잠깐 담구었다가 건져주세요 묻어있던 기름/양념을 씻어내주는거네요",
+		"3. 먼저 펄펄 끓여주던 미역국에 씻은 훈제닭가슴살을 넣고 센불에서 10분을 이후 중약불에서 10분을 끓여주세요",
+		"4. 저는 다이어트하는 아들을 위해서 국간장으로만 간을 했고요 후추가루를 아주조금 넣었어요",
+		"5. 훈제닭가슴살을 다시한번 데쳐내고 끓여서인지 담백하면서도 맛있는 미역국이 완성이 되었네요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/425e8b07b1502e8255b150f6ca6283641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/54b358e7ced841e8490dd9c8b8e6826c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/d151e396ba4ac01c006fe577d0c2a7711.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/373b7b8b6b9e52eaa15ee4bbf4789eb41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/30/7b6e5a95337d86b8f32069e491494a631.jpg"
+	]
+}

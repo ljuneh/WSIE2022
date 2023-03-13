@@ -1,0 +1,52 @@
+{
+	"id": "4733661",
+	"name": "고소하고 담백한 두부 톳무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/0d59ad9a271ef4d2b83ae84d46a04c0c.jpg",
+	"url": "https://www.10000recipe.com/recipe/4733661",
+	"ingredient_ids": [
+		323,
+		9,
+		497,
+		29
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "두부",
+			"ingre_count": "1/2",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "톳약1+1/2대접",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "대접"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "찻술반"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 톳을 깨끗이 씻은 후에 냄비에 물을 넣고 물이 끓으면 소금 약간 넣고 톳을 데쳐냅니다. 데친톳은 찬물에 헹궈 물기를 빼둡니다.",
+		"2. 두부는 면포에 넣고 짜서 물기를 제거합니다.",
+		"3. 면포에 짜준 두부와 톳에 소금약간과 양념을 넣어 섞어주세요.",
+		"4. 두부를 풀어 주면서 톳과 고루 섞어주고 무침을 마무리 합니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/65739ea82b52cc44f1ae2180aa967cbf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/71b4f4119a98f10ff0388c9be3c268831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/ad72791120cabc18d23c60d956f0a0df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/f6865b053c70397c9d0236b735c2858c1.jpg"
+	]
+}

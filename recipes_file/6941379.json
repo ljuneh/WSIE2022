@@ -1,0 +1,108 @@
+{
+	"id": "6941379",
+	"name": "♥[신혼밥상] 영양버섯솥밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/afdc048effee990aea9ee2465627196e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941379",
+	"ingredient_ids": [
+		53,
+		539,
+		187,
+		9,
+		224,
+		379,
+		231,
+		226,
+		543,
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "경기미참드림쌀",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시마육수",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "3",
+			"ingre_unit": "꼭지"
+		},
+		{
+			"ingre_name": "호박고구마",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		},
+		{
+			"ingre_name": "부추또는대파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 영양솥밥 재료를 준비해주세요.",
+		"2. 표고버섯, 호박고구마, 당근 등 먹기 좋은 크기로 썰어주세요.",
+		"3. 쌀 2컵을 깨끗하게 씻은 뒤 다시마육수 2.5~3컵을 부어주세요.고슬밥을 좋아하면 2.5컵, 진밥을 좋아하면 3컵!",
+		"4. 알밤을 넣어주세요.",
+		"5. 호박고구마, 당근을 넣어주세요.",
+		"6. 표고버섯을 넣고 참기름 한방울 톡~ 솥뚜껑을 덮어주세요.",
+		"7. 센불에서 5분  중간불에서 3분  약불에서 2분 뒤 뜸들이기 3~5분! 불 조절에 신경써서 밥을 지어주세요.",
+		"8. 밥을 짓는동안 간장 4, 식초 1, 고춧가루 0.5, 통깨 1, 설탕 1티스푼과 부추 또는 다진파, 참기름 약간 넣고 양념장을 만들어주세요.",
+		"9. 밥위에 양념장을 올려 슥슥~  힘이 불근불근 영양밥 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/2c0b1b521b563c27c5c51bf01e25c3e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/28edc6bd9fbbc1feb0fd59b97dad91af1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/4d3022baed332f4c75ab27f0429b75261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/295a27484aa39f0c29d6a79ff9285f531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/1d92652d56d1cd3a0f7669e8b36df1361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/c51c2ca6be38f52e3e4f5e6da5f717831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/f7ff66fc86cea5f56652a3ddd15fa54e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/c57c03152ab39b2b8a063533c7b6aad51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/09/97d6edfa5065a479b27d8a43b2d322ed1.jpg"
+	]
+}

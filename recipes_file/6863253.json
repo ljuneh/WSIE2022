@@ -1,0 +1,72 @@
+{
+	"id": "6863253",
+	"name": "한국의 대표 보양식 마 삼계탕",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/12/29/17609e262d480075611cb9d4e3d3da711.jpg",
+	"url": "https://www.10000recipe.com/recipe/6863253",
+	"ingredient_ids": [
+		99,
+		187,
+		132,
+		27,
+		28
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭한마리",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "장마",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "밤",
+			"ingre_count": "3",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "대추",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "5",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 흐르는 물에 깨끗하게 닭을 씻어 주시고 엉덩이 쪽 지방덩어리를 가위로 잘라 주세요.",
+		"2. 불려놓은 찹쌀과 대추, 마늘, 밤 등을 잘 섞어서 준비해주시고 70% 정도만 닭 속을 채워 줍니다. (만약 찹쌀이 남으시거든 냄비 바닥에 깔아주시면 좋습니다)",
+		"3. 엉덩이를 이쑤시개로 봉해줍니다.",
+		"4. 마는 물로 씻어내, 감자깎는 칼이나 일반칼로 껍질을 벗겨주세요",
+		"5. 4의 마를 두껍게 썰어 준비해 줍니다 마와 찹쌀을 냄비 아래쪽에 깔고 닭을 넣으신 후, 파와 약재를 꽉꽉 채웁니다",
+		"6. 압력솥은 중불로 20분 그리고 약불로 10분로 끓이시고 뜸들이면 됩니다  큰 냄비로 하실경우는 뚜껑을 덮고 40분 정도 중불로 끓이시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/29/67e3fe37bb4244ea624f4d5d75a8ca9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/29/d99ba13e8a188cb8343bc8197638e72d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/29/bca6df51fca7b003e90c3e9c587e28321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/29/27119c685ded6079d9de17d63ab66a3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/29/7195befc517ff97c6ec5f2616b53f1bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/12/29/86ad2bbbcaf8a1257308193b719bc1c91.jpg"
+	]
+}

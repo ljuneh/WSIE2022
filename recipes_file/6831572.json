@@ -1,0 +1,103 @@
+{
+	"id": "6831572",
+	"name": "매운닭발만드는법-더위를 닭발과 함께 날리시길...",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/1a13df0bd46f5804901ed69a3c2c19941.jpg",
+	"url": "https://www.10000recipe.com/recipe/6831572",
+	"ingredient_ids": [
+		28,
+		27,
+		857,
+		608,
+		579,
+		379,
+		341,
+		442,
+		225
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭발",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "통후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "월계수잎",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "청양고추다진것3Ts(조절가능)",
+			"ingre_count": "3Ts(조절가능)",
+			"ingre_unit": "Ts(조절가능)"
+		},
+		{
+			"ingre_name": "매운고춧가루",
+			"ingre_count": "4",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "사이다",
+			"ingre_count": "2",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "3",
+			"ingre_unit": "Ts"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 닭발은 손질된것을 사오고 깨끗하게 세번정도 씻어놓으세요. (손질할때 다 되어있기때문에 굳이 소금이나 밀가루로 안하셔도되요.)",
+		"2. 만약 손질안된걸 사오시면 밀가루나 굵은소금으로 빨래하듯이 씻어야해요. 분량의 양념장은 미리 만들어서 숙성시켜주세요.",
+		"3. 닭발은 향신채를 넣고 물이 살짝 잠길만큼 넣고 압력솥에서 삶다가 추가 돌기시작하면 2분후에 꺼주세요.",
+		"4. 닭발이 잘 삶아지면 관절부분이 잘 꺾이거든요. 너무 삶아지면 문들어 지니 조심하세요. 잘 삶아진 닭발을 찬물에 세번정도 행구어주고 차갑게 식히세요.(그래야 쫄깃한 닭발이 되요.)",
+		"5. 이때 뭉쳐놓으면 지들끼리 뭉쳐지니 떨어뜨려놓고 식힌 닭발은 분량의 양념장에 버무려주세요.",
+		"6. 먹기직전에 후라이팬이나 석쇠에 한번더 익혀서 나가시면 끝!",
+		"7. 석쇠에 하실땐 쿠킹호일을 해서 익혀주세요. 그래야 안타고 좋아요~ 후라이팬에 하실땐 살짝 물을 소주한컵정도 분량을 넣고 약불에서 잘 섞으면서 양념장이 배기시작하면 센불에서 잠깐 익히면 완성! 맛있게 매운 닭발 완성이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/5bedded663501cb7f66b51f2504cb6561.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/25acccc448cb13e4f582a1c0733a47061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/00f0bbd20cfab004b6ccedeab340cd151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/9400820993817c48e63b7ed005ec50991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/12db00452a276dc559b81564f86f49491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/04ff3eed7c3815674c1c220ecbeed2c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/10/3f1558c9d618aa13c6f2dbc5eeda76ee1.jpg"
+	]
+}

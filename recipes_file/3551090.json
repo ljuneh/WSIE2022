@@ -1,0 +1,96 @@
+{
+	"id": "3551090",
+	"name": "도라지무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/26/26bb9ba1ff47a5b08dfb6f550caa9f131.jpg",
+	"url": "https://www.10000recipe.com/recipe/3551090",
+	"ingredient_ids": [
+		38,
+		295,
+		497,
+		224,
+		843,
+		231,
+		575,
+		233,
+		660
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "도라지",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고추장1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "검은통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 도라지는 흐르는 물에 깨끗하게 씻어서 흙을 제거해 줍니다.",
+		"2. 도라지는 껍질을 벗겨 씻은 후 먹기 좋은 크기로 썰어 줍니다.",
+		"3. 도라지에 소금을 뿌린 후 빡빡 주물러서 씻은 후 2시간 30분 정도 물에 담가 도라지 특유의 쓴맛을 제거하고 흐르는 물에 헹궈 체에 밭쳐 물기를 제거해 줍니다.",
+		"4. 분량의 양념장 재료 고추장, 고춧가루, 매실액, 식초, 올리고당, 다진 파, 다진 마늘을 넣어 고루 섞어 줍니다.",
+		"5. 청양고추는 꼭지를 제거하고 흐르는 물에 씻은 후 씨를 털어 줍니다.",
+		"6. 볼에 도라지와 청양고추를 담고 양념장과 검은 통깨를 뿌린 후 간이 고루 배도록 조물조물 무쳐 줍니다.  마지막에 참기름을 뿌리고 다시 한 번 버무려 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/b4cacd851e5a9eb24c20109513b0c7b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/27fa14d7aa28d68a927405e714652bd51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/2648d3fdc970852b3815cb9e627dfd1f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/176cbc5d20016846ba83ed9117ad255e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/bfe4aa7915cddd5f45e746dad557f9531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/27/a18b10b80f6d6febbcec46de2c946fd21.jpg"
+	]
+}

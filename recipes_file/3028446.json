@@ -1,0 +1,46 @@
+{
+	"id": "3028446",
+	"name": "실패 없이 편강 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/d816bdfa9bf2a4932e5e92a206df04df.jpg",
+	"url": "https://www.10000recipe.com/recipe/3028446",
+	"ingredient_ids": [
+		28,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "생강",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "생강삶을물",
+			"ingre_count": "1.",
+			"ingre_unit": ".L"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 햇생강은 물에 살짝 씻어서 과도나 숫가락 등으로 껍질을 살살 벗겨주세요. 생강 사이사이 낀 흙은 생강을 부러트려 깨끗하게 제거해 주시구요.",
+		"2. 손질한 생강은 0.2~03cm 정도 편으로 썰어주세요. 너무 두껍게 썰면 식감도 나쁘고 맵고 모양도 안나요.",
+		"3. 썰어 놓은 생강편을 생강량의 세배 이상 되는 물에 2시간 정도 담궈 매운맛과 전분기를 제거해요.",
+		"4. 전분기가 빠진 생강을 다시 생강량의 세배에 물을 붓고 끓여주세요. 물이 끓은 후 10분 정도 더 있다 건져내 체에 받쳐 물기를 제거합니다.",
+		"5. 물기 제거한 생강편과 분량의 설탕을 같이 넣고 센불에서 끓여주세요. 그러면 금방 설탕이 녹아 물처럼 흥건해 진답니다. 이때 팬은 조금 두꺼운걸 사용하셔야 내용물이 타지 않아요.",
+		"6. 팬 둘레에 쭉 설탕 결정이 생기고 설탕거품이 거의 졸아들었다 싶을때 불을 끄고 10분 가량 계속 저어주면 요런 상태가 된답니다.",
+		"7. 설탕 결정들이 생강 표면에 균일하게 잘 달라 붙고 생강편을 넓은 채반에 골고루 펴 하루 정도 말려 주시면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/3bcacd3ee7829a9b2b5aad6cbf0bd63f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/af5c7e141572edfad17618a5afb2277b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/78e6b98b07a9109b5bb2806b7618367b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/0494b75441c08ebcbd632d9b42583b401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/b6aa3f8ed482f341869772e04b9b75c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/a088e31a9cc107b4a5026553aec1e5d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/26/cfd101356ad804c13b24842a7c2822751.jpg"
+	]
+}

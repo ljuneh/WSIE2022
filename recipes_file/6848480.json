@@ -1,0 +1,33 @@
+{
+	"id": "6848480",
+	"name": "맛없는 사과 맛있게 먹는 요령",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/20/20661f3c908970d55755c6ba28b8adcd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6848480",
+	"ingredient_ids": [
+		158,
+		231
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "사과",
+			"ingre_count": "6",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 사과는 식초를 넣고 깨끗하게 씻어준다.",
+		"2. 씨를 빼고 먹기 좋은 크기로 썰어준다.",
+		"3. 햇볕에 말려두기만 하면 끝! 햇살이 좋아 이틀 만에 말라버렸습니다. 밀폐 통에 담아 오가며 집어먹으면 좋습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/05/5e21c379b5a9d38accb3f76c3d72076a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/05/b3cbdf38df476d0a475bc7e27d7401211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/05/d2e7d59ad2d46bf1c76ceea62b1e630c1.jpg"
+	]
+}

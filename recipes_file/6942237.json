@@ -1,0 +1,75 @@
+{
+	"id": "6942237",
+	"name": "♥[신혼 디저트] 아보카도에그 카나페",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/5a73dcda2cbb48c14c12565897b0c3c11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942237",
+	"ingredient_ids": [
+		162,
+		708,
+		214,
+		204,
+		228
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "바게트빵",
+			"ingre_count": "6",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "아보카도",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "삶은달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슬라이스햄",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. (약 20~30분 전)실온에 미리 꺼내준 달걀을 냄비에 넣고 달걀이 잠길 만큼 물을 채운 뒤 소금1, 식초1 넣고 약 13분 정도 삶아주세요. 삶아진 달걀은 재빨리 찬물에 담갔다가 껍질을 벗겨주세요.소금과 식초를 넣어주면 껍질 깨짐 방지 및 예쁘게 쏙 쉽게 벗겨져요.",
+		"2. 아보카도는 씨가 닿을때까지 칼집을 넣은 뒤 한바퀴 빙 돌려 주고 비틀어서 분리해주세요.",
+		"3. 껍질 밑으로 손가락을 넣어 쏘옥~빼주세요.",
+		"4. 먹기 좋은 크기로 잘라주세요.",
+		"5. 삶은 달걀도 아보카도 크기와 비슷하게 잘라주세요.",
+		"6. 연유3, 마요네즈1 숟가락을 넣고 소스를 만들어주세요.크림치즈 대체 가능!",
+		"7. 바게트빵에 연유소스 슥슥 발라주세요.달군팬에 버터를 넣고 바게트빵을 구워준 뒤 연유소스를 발라주면 더 꿀맛!",
+		"8. 소스가 발린 빵위에 슬라이스 햄과 슬라이스 치즈를 올려주세요.",
+		"9. 아보카도는 살짝 비스듬이 예쁘게 올려주세요.",
+		"10. 슬라이스 계란을 올려주면  홈카페~ 든든 한끼~든든 디저트 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/231823dd54a0d754234ed29ae7a691f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/8c6bc9134e4f71b9f5487d850f2290431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/88abdd89fe34df86981594d4a70166fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/5988aaad873ba7fddb19e87140c0b7571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/10185b04680eb06dd1e9fef91a5ad3dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/c6dd62a6000b0c60d379615388b41c3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/048bac25bdf6ca982c4c1fc55e4230a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/fc388bab29d5a35a0f011c35a7ed978c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/413d00b119445a7f1ee04b4a0793f4521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/2dce82a29f36e473176e94211d28e70c1.jpg"
+	]
+}

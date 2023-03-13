@@ -1,0 +1,58 @@
+{
+	"id": "6944920",
+	"name": "참나물무침 깔끔하고 간단하게 무쳐요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/b675ecf0ea664ec5c1174a00c731a6091.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944920",
+	"ingredient_ids": [
+		662,
+		497,
+		327,
+		350
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "참나물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1.  시든 잎은 걸러서 버리고 줄기가 길어서 반을 잘랐어요.",
+		"2.  데쳐 낸 후에 헹구면서 씻어내기도 하지만 그래도 헹궈서 데치려고요.",
+		"3.  끓는 물에 소금을 넣은 후에 자른 줄기부터 넣어줍니다. 20초 후에 잎사귀 부분을 넣어줄 거랍니다.                    ",
+		"4.  잎사귀 부분 쪽은 30~40초 정도 후에 꺼내서 건져주세요. 물에 헹구지 않았으면 시간은 더 짧게 잡아주시면 될듯해요. ",
+		"5.  찬물에 재빠르게 넣어주셔야 누렇게 잎의 색이 변하지 않아요. ",
+		"6.  참나물을 꽉 짠 후에 양념을 넣기 전에 나물을 풀어주세요. ",
+		"7.  간마늘, 소금, 들기름, 깨소금을 넣고 조물조물 무쳐줍니다. 고소한 맛을 상승시켜보고자 통깨를 으깨서 깨소금으로 넣었답니다.                    "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/da543bdef62fba5727ef46d6c198686b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/d9f958445b05cb49ed47f4afe233dae01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/57216dfcf33ed0ea09dd79799a9fd9f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/12fbe552a5fa7c1e59045bf6428600651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/6418d02e67f821736cf7de18ec8b62fd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/b3a3b8cdb9cee0b8acfe9f1b770d59d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/8b5273f2ef1db1ff69d9d4cb1594f8ba1.jpg"
+	]
+}

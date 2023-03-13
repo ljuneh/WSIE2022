@@ -1,0 +1,61 @@
+{
+	"id": "6942384",
+	"name": "참치의 매력어필_참치계란전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/4fca018c49ecb8893f8b155901c60eed1.png",
+	"url": "https://www.10000recipe.com/recipe/6942384",
+	"ingredient_ids": [
+		295,
+		6,
+		504
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "참치캔",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금2가집",
+			"ingre_count": "2",
+			"ingre_unit": "가 집"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 파프리카와 청양고추를 잘게 다져주시고 계란은 잘 풀어 준비해주세요.잘 풀은 계란에 후추 톡톡, 소금 2가 집 넣어 잘 섞어 간을 해 줍니다.",
+		"2. 잘 풀어진 계란에 다진 야채(청양고추, 파프리카)와 기름을 뺀 참치를 넣어 잘 섞어줍니다.참치 덩어리가 큰 경우 작게 분리해주셔야 전이 부서지지 않고 잘 부쳐집니다. ",
+		"3. 프라이팬에 식용유를 두르고 중불에서 잘 섞인 참치계란물을 한숟가락씩 떠서 부쳐주세요.밑면이 노릇하게 익을 때까지 기다렸다가 뒤집어 주셔야해요.",
+		"4. 뒤집개로 전을 뒤집은 뒤 잘 익혀서 그릇에 담아주시면 맛있는 참치계란전 완성입니다.그냥 먹어도 맛있고 케첩에 찍어 드셔도 맛있어요~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/6d24566e05060f50a7938db6e18145451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/f0bda5c0268b19c410309dc5485adf2d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/416bd0dd26599612867272c2621e3e191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/daad906726fe7a2a56bbd90500dc05c01.png"
+	]
+}

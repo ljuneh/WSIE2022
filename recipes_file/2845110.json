@@ -1,0 +1,51 @@
+{
+	"id": "2845110",
+	"name": "꽁치김치찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/19/139ab7f7be05e5f2e3419e0201fd855e.jpg",
+	"url": "https://www.10000recipe.com/recipe/2845110",
+	"ingredient_ids": [
+		923,
+		27,
+		295
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "묵은지",
+			"ingre_count": "1",
+			"ingre_unit": "포기"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "육수(또는생수)",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕1스푼(생략가능)",
+			"ingre_count": "1스푼(생략가능)",
+			"ingre_unit": "스푼(생략가능)"
+		}
+	],
+	"recipe": [
+		"1. 김치는 끝부분만 자른뒤 냄비에 넣어줍니다.",
+		"2. 마늘과 청량고추, 대파를 준비했어요.",
+		"3. 통조림 꽁치는 국물은 버리고 꽁치만 이용합니다.",
+		"4. 배추김치위에 꽁치통조림 올려주시고 육수나 생수 부어주신후 끓입니다. 부족한 간은 김치국물이나 소금으로 맞추고 설탕을 아주 약간만 넣어줍니다. 뚜껑을 닫고 은근히 졸이고 대파와 청양고추 넣어 한소끔 끓이면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/bcf778af23c2c4ceed713ad4860602231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/4b9fd863add695dce13fa8c8068131d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/e5176e2ecf06acf3d371aae8600a54c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/20/068267e3ab2189af2abd826532236fae1.jpg"
+	]
+}

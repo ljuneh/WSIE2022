@@ -1,0 +1,60 @@
+{
+	"id": "6944603",
+	"name": "꿀호떡으로 맥모닝 만들기, 꿀호떡 버거만큼 간단!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/59a451703ef98b88c30cb535c3aebecd1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944603",
+	"ingredient_ids": [
+		406,
+		214
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "미니꿀호떡",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "2",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "가염버터",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 베이컨은 꿀호떡과 비슷한 길이로 잘라 주세요. 베이컨의 경우 구우면 오그라드므로 꿀호떡보다 살짝 더 길게 잘라 주시면 됩니다.",
+		"2. 계란후라이를 만들고, 꿀호떡과 베이컨을 구울 팬을 중불로 살짝 달군 뒤 가염 버터를 골고루 발라 주세요.",
+		"3. 가염 버터를 골고루 바른 팬에 계란 두 알을 톡 깨서 넣고 계란후라이를 만듭니다.꿀호떡 맥모닝에는 베이컨도 들어가고, 치즈도 들어가기 때문에 계란후라이에는 별도의 소금간을 하지 않았어요.",
+		"4. 그리고 그릴 부분에 꿀호떡과 베이컨을 올려 먹기 좋게 구워요.",
+		"5. 그릴팬에 꿀호떡을 굽는다면 구울 때 꾸욱 눌러서 그럴 자국을 내 줍니다.",
+		"6. 계란이 반쯤 익으면 뒤집어서 앞뒤로 골고루 익혀요.",
+		"7. 이제 재료들을 차례대로 올리기만 하면 됩니다. 우선 맨 밑에 꿀호떡 하나를 깔고",
+		"8. 그 위에 계란과 반으로 자른 슬라이스 치즈 한 장과 베이컨을 올린 뒤",
+		"9. 다시 꿀호떡으로 덮으면 꿀호떡 맥모닝 완성이에요!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/12c26e36aa1cd7bd7b6d79051d057de21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/fef6c32ac417207f678304631e973aac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/f30b4d93203a44d1d5084a3aa79409791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/8d5889938a6c763f9e99d79ca2c08c2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/edb6a8aba45f67bd4b6eb40241f0b8b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/bd872f6ef449f2f07ae9f27aceeacf5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/037f9643c4cc25f7fbd2b4bceaf8a8381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/ac16d0431ef624ad9bcc3fc04c0a7bdb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/20/ef2ce838ce1dc128a583dccce40865681.jpg"
+	]
+}

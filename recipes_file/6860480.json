@@ -1,0 +1,90 @@
+{
+	"id": "6860480",
+	"name": "느끼~한게 먹고싶을 땐? 까르보나라!!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/11/82ffe1241c37c5ba45489f4afeaafd951.png",
+	"url": "https://www.10000recipe.com/recipe/6860480",
+	"ingredient_ids": [
+		485,
+		3,
+		406,
+		29,
+		497,
+		198
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "스파게티면1줌(100g)",
+			"ingre_count": "1줌(100g)",
+			"ingre_unit": "줌(g)"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "생크림",
+			"ingre_count": "1",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "파르메산치즈가루",
+			"ingre_count": "1/3",
+			"ingre_unit": "C"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "3",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 마늘과 양파는 채 썬다. 베이컨은 먹기 좋은 크기로 썬다.양파 1/4개, 베이컨 3줄, 마늘 2개",
+		"2. 스파게티면을 삶는다. -> 면 삶는 법 참고스파게티 면 1줌(100g)면 삶는 법",
+		"3. 팬에 버터를 두르고 썰어둔 마늘, 양파, 베이컨을 볶는다.버터 1/2T팬",
+		"4. 팬에 우유와 생크림을 넣는다.우유 1C, 생크림 1C",
+		"5. 소금과 후추로 간을 한다.후추 약간, 소금 약간",
+		"6. 소스에 삶은 면을 넣고 섞는다.",
+		"7. 파슬리가루를 뿌려 마무리한다.파슬리가루 약간"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/11/c6174b3f33adcc08c393c4a4c1cd319f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/11/96f6355bfd2ebf485e7464d8a5fd20191.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/11/85bc38111a1768f576590da33c4369ac1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/11/a9922dc457d2069aa09e70fd53ae5b731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/11/07eb13861e5c2b7a18e321972f1002a71.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/11/6c9792c3e548173a5944af9d374277061.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/11/ece37af674538d1c14b13f5dddfbb4e31.jpg"
+	]
+}

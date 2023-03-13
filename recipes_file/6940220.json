@@ -1,0 +1,56 @@
+{
+	"id": "6940220",
+	"name": "김치찜 돼지목살넣고 돌돌말아서~~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/77852566e74eb897e68d61ad085b13161.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940220",
+	"ingredient_ids": [
+		953,
+		3,
+		233,
+		995
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지목살",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "12",
+			"ingre_unit": "잎"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 재료준비는 간단해요 묵은지, 돼지목살, 양파, 다진마늘 끝!! ㅎ 넘 간단하쥬 돼지목살은 길이로 이등분 할게요 김치에 돌돌 말아 질 수 있도록..",
+		"2. 김치를 펴 놓고 돼지목살 올린 후 돌돌말아 잎으로 잘 감싸서 마무리 합니다 김치 속은 털고 사용해요",
+		"3. 냄비에 돌려 담아요 모두 12개가 나오네요 딱 하나 들어갈 공간이 남아서 양파를 썰어 넣었어요, 다진마늘과 함께.. ",
+		"4. 물 1컵 붓고 뚜껑닫아 끓입니다",
+		"5. 김치가 푹 물러졌다 싶을때 간맞추기 하는데요 따로 간 하지 않아도 딱 좋네요 혹시 부족한 간은 액젓으로 하면 됩니다 불린당면넣고 잠시 더 끓여요 없으면 패스해도 됩니다",
+		"6. 맛있게 끓은 김치찜 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/d6ca0244c07c1a8caa8163ec4478c8b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/2bc22e2f5d8909f9bfc0eacb71d773141.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/091229d5e3dbe27d03c20e9400c29c401.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/bf6b199cfbbafbead868bfd94dd55e941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/197a60d71f0087017f3c5974b7e93f001.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/116de7fc8b1880b6109cf5ee13acee5b1.jpg"
+	]
+}

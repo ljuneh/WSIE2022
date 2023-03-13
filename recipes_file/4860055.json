@@ -1,0 +1,68 @@
+{
+	"id": "4860055",
+	"name": "비름나물 무침 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/13/89a6bbb3cf21d7282c09fc8c51d723d8.jpg",
+	"url": "https://www.10000recipe.com/recipe/4860055",
+	"ingredient_ids": [
+		473,
+		848,
+		660,
+		29,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "비름나물",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "4",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".TS"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "요리당",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "0.",
+			"ingre_unit": ".TS"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 비름나물은 굵은 줄기는 떼어내고, 다듬어서 깨끗하게 씻어 준비합니다.",
+		"2. 볼에 고추장 4TS, 고추가루 0.5TS, 된장 1TS, 참기름 1TS, 요리당 1TS, 마늘 0.5TS, 통깨 조금을 섞어 준비해주시고,",
+		"3. 끓는물에 비름나물을 데쳐주세요.",
+		"4. 데친 비름나물은 찬물에 헹군뒤에 물기를 짜 준비한 양념에 조물조물 무쳐주시면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/a387500113c986a57d412dd240137f5f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/728284cfe2e06832b9922d23d7f46c091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/74f918bf65c6325b25220a88a35e57461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/16/88507ebc1cef17c667fafe69f9d070cf1.jpg"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"id": "6942033",
+	"name": "추석맞이 갈비찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/dc07dacfeecf005e327ff61aada6188f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942033",
+	"ingredient_ids": [
+		379,
+		847
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지갈비",
+			"ingre_count": "2",
+			"ingre_unit": "킬로"
+		},
+		{
+			"ingre_name": "배1+1/2개",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "갈비찜용소스",
+			"ingre_count": "250",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "배즙",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 재료를 준비해 주세요.",
+		"2. 강판에 배를 갈아요.",
+		"3. 봉지배즙하고 배간것요.",
+		"4. 간장.배갈은 것과 돼지갈비를 버물어 주세요. 김치냉장고에 이틀정도 놔두고요.",
+		"5. 냄비에 푹 끊여 주세요.",
+		"6. 완성요 뼈에 붙은 살이 쏙 빠져요 맛있게 드세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/91ca70b0c29447792be00b57d93743bd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/44fbd71958add58c610b7ae5e3f5f44f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/2be1693f4a4721e746713f3c70563dbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/b161851698ac18f6fd9e2631babc7a981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/7318ec9f37a23fe0bde6e99da616ece61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/d140a7be4b8fa556d7120d6a5e52612a1.jpg"
+	]
+}

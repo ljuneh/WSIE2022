@@ -1,0 +1,54 @@
+{
+	"id": "6945046",
+	"name": "김치볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/e44e5c93f3ebd3c82eeafae6e7990f4d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945046",
+	"ingredient_ids": [
+		660,
+		226,
+		379
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "신김치",
+			"ingre_count": "1",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "김치국물",
+			"ingre_count": "1",
+			"ingre_unit": "국자"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡톡"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 김치 먹기 좋게 썰어 팬에 담고 후추톡톡톡,설탕약간 간장반큰술,식용유를 빙~ 두르고",
+		"2. 김치 숨이 죽을 동안  슥슥~ 볶아주세요",
+		"3. 참기름1큰술 통깨솔솔 뿌려 휘리릭~ 볶아 내면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/828d0da6b50dbc86bac250b188cec97a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/5c4c06787869a8b39678683b0ff732a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/aedf9a99a8848bc822e12acce311649e1.jpg"
+	]
+}

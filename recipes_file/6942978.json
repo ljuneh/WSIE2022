@@ -1,0 +1,47 @@
+{
+	"id": "6942978",
+	"name": "엿기름 티백으로 식혜만들기(추석요리)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/c07705216d6ea757dfb38b3b2a8b35b31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942978",
+	"ingredient_ids": [
+		226,
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "엿기름티백",
+			"ingre_count": "8",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "공깃밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "L"
+		}
+	],
+	"recipe": [
+		"1. 밥솥에 물과 고슬고슬 지은 공깃밥2공기를 넣고 먼저 주걱으로 뭉쳐있는 밥을 풀어주고, 엿기름 티백을 넣어주세요.",
+		"2. 밥솥에 보온으로 눌러 4~8시간 동안 삭혀줍니다.",
+		"3. 밥알이 동동 떠오르기 시작하면 티백을 건져주세요.",
+		"4. 냄비 위에 체를 밭쳐주고 밥알과 엿기름 국물을 따로 분리해주고 밥알은 찬물에 한 번 헹궈 물기를 뺀 다음 냉장고에 차갑게 보관해 주고 엿기름 국물은 한번 끓여줍니다.",
+		"5. 설탕을넣고,국물이 끓어오르면 거품을 제거 해주고 식혀서  차갑게 냉장고에 보관해줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/5ebf7d7e008f5b13a64a9a0e44d74dbc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/8fb1139fd94316ab72f2e65d7a69d4721.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/50cbd6ea39e8e3f83235c7236ddc3c2b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/442a26ae9166c2b43719f5adae4765881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/27/428e45e7c60a12d7d6ad5b06a6b8b6fb1.jpg"
+	]
+}

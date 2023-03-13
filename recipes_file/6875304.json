@@ -1,0 +1,73 @@
+{
+	"id": "6875304",
+	"name": "고소하고 향긋한 깻잎들깨볶음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/08/24/0e9fc3d5791ffb44a852e57188b361341.jpg",
+	"url": "https://www.10000recipe.com/recipe/6875304",
+	"ingredient_ids": [
+		15,
+		27,
+		233,
+		349,
+		660,
+		337,
+		290
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "들깨가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 깻잎 을 씻어줍니다. 저는 자잘한 깻잎순으로 했지만. 그냥 큰 잎을 잘라서 해도 무방합니다.",
+		"2. 끓는물에 #깻잎 을 넣고 숨이 죽으면 바로 건져 찬물에 헹궈주세요.",
+		"3. 물기를 꼭 짜줍니다. 그 많던 #깻잎 이 한주먹밖에안되네요..^^",
+		"4. #깻잎 이 뭉쳐지지 않게 잘 풀어주고 양념을 넣어 줍니다. 다진마늘 1T, 국간장 1T, 참기름 1T를 넣고 조물조물 무쳐 주세요. 이렇게 무쳐서 먹어도 맛있습니다...                       ",
+		"5. 파를 흰색 대부분을 썰어주고, 식용유를 1T정도 넣고 살짝만 먼저 볶아줍니다.",
+		"6. 양념해 두었던 #깻잎 을 넣고 참기름 1T를 넣어주고 볶아줍니다.  너무 세지 않은 불에서 볶아주세요.",
+		"7. 어느정도 볶아지면 참깨를 뿌려주고, 들깨까루를 2T정도 골고루 뿌려 한번 더 볶아줍니다.                   ",
+		"8. 그럼 고소하면서 향긋한 #깻잎볶음 이 완성되요.."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/87907c9fdf8ddfab34dff4f27362a2231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/bb77768857f472a03303a3db65073e0b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/dc05dcb800174ce4e16485e89c8a39321.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/d3f4463172ddfba8115d0e6a97ee899d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/e86aeb7714983866f88534cdf423ed7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/cccf8faff0854d2ad137ab842fa8bb581.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/00ab2694488a529794bf05b11b0169891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/08/28/35e4a16f6a78e43776fe0028873e04441.jpg"
+	]
+}

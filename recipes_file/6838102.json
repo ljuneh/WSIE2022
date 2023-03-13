@@ -1,0 +1,61 @@
+{
+	"id": "6838102",
+	"name": "고추장참치볶음 + 케일쌈밥까지 - 도시락메뉴",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/14/e5377c89c81b96339d9ce31f7914f4421.jpg",
+	"url": "https://www.10000recipe.com/recipe/6838102",
+	"ingredient_ids": [
+		473,
+		575,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "캔참치150g",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 대파, 애호박,당근,양파는 잘게 다져주세요(냉장고 속 자투리 채소를 이용해주세요)",
+		"2. 기름을 살짝 두른 팬에 딱딱한 재료인 당근과 양파먼저 볶아주세요",
+		"3. 양파가 투명해지면 애호박, 다진대파를 넣어주시고 통조림 안에 있는 기름을 살짝 버린 후 참치도 모두 넣어주세요(굳이 참치의 기름을 쫘-악 제거 할 필요는 없어요)",
+		"4. 모든 재료를 넣고 볶아주다가 고추장을 넣고 1차로 볶아줍니다",
+		"5. 고추가루와 올리고당을 넣고 재료에서 나온 수분으로 인한 질척거림이 없을정도로 중불에 볶아주세요",
+		"6. 질척임이 없을정도로 볶아졌으면 통깨를 으깨서 넣어주시면 완성입니다",
+		"7. 이렇게 만들어놓으면 여러가지 유용하게 사용할 수 있어서 좋아요",
+		"8. 아무것도 없이 밥이랑만 먹어도 맛있고 주먹밥 속재료로 넣어도 좋아요",
+		"9. 끓는물에 소금을 넣고 케일잎을 살짝 데쳐 찬물에 헹궈 꼭 짜낸 후 뒷면에 밥과 고추장참치볶음을 조금 올려 양쪽을 잘 옹그려서 예쁘게 싸주시면 도시락메뉴로도 너무 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/14/1ae3d7acaa8512b23856e95308bc23881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/14/0dbd852264c3e83dcac97c03b68f0fa71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/14/42194115d7973cae22289d3c4576378b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/14/793c2f79d26a75f06d6b8126938395191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/14/6bf3cad2322960c2000c074573aa3bb91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/14/37d078f1b408305b1efc06c752eb0dfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/14/49be91fb950780277c62c8662c88cca71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/14/9e85739ec7a47b077ddbc6624d0467bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/11/14/e57cf65944acd15c7171869e2354b9ff1.jpg"
+	]
+}

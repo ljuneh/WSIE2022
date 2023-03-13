@@ -1,0 +1,108 @@
+{
+	"id": "6942486",
+	"name": "가지튀김 소불고기마요덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/f82d4ea7f9238db5fd4ca2d7352ed31e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942486",
+	"ingredient_ids": [
+		495,
+		3,
+		21,
+		18,
+		9,
+		436,
+		234,
+		228,
+		379,
+		226,
+		233
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "5",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "빵가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "10",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 경기미로 밥짓고  재료를 씻어 준비한다",
+		"2. 소불고기와 야채를 썰어 양념한다",
+		"3. 양념한 소불고기는 간이 베이도록 냉장고에 넣어둔다",
+		"4. 가지는 소금으로 밑간을 하고 골고루 밀가루에 뭍혀준다. 밀가루-계란물- 빵가루 순서로 튀겨준다",
+		"5. 앞뒤 노릇하고 튀긴후 기름을 빼준다",
+		"6. 가지튀김 소불고기마요덮밥 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/15d74b9dad4a8df2e00d93bceaccdfc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/10e7234c6fab72edad3fb6c2c85460491.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/072cfe91b189daba2470b2c0bcd13b101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/5a79111eba27937447f092f597aba0b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a0826bffd56b8f3d077d41e636b917fa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/4e7661877c19321fe223e27d6ea285631.jpg"
+	]
+}

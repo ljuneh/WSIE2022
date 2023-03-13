@@ -1,0 +1,70 @@
+{
+	"id": "6877574",
+	"name": "아욱국 끓이는법 간단한 아침국으로 좋아요.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/09/19a17bac4f90d9c25ebab0d9a5a0ae721.jpg",
+	"url": "https://www.10000recipe.com/recipe/6877574",
+	"ingredient_ids": [
+		33,
+		295,
+		90,
+		320,
+		848,
+		233
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "아욱",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "2",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "소금`",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 냄비에 물 5컵을 넣고 다시마와 멸치를 넣어 육수를 내주세요. 다시마는 물이 끓은 후 바로 건져내주고 약불로10분~15분 더 끓여준 후 멸치를 건져주세요.다시마에서는 진액이 나오기때문에 오래끓이면 국물이 진득해져요.",
+		"2. 아욱은 옆에 붙은 잔 잎들을 뗴주고 결에 따라 껍질을 벗겨내준 후 찬물에 깨끗하게 씻어내준 후 먹기좋은 크기 3~4cm으로 썰어주세요.껍질을 제거하지않으면 줄기가 질기기때문에 먹기가 힘들어요!",
+		"3. 청양고추는 얇게 송송 썰어주세요.",
+		"4. 걸러낸 육수에 거름망을 받치고 된장 1큰술을 가득풀어주세요. 된장을 풀때 거르지 않으면 국물이 텁텁해져요.",
+		"5. 보글보글 끓으면 썰어둔 아욱을 넣어주세요.",
+		"6. 국은 소금으로 간해주세요. 물의 양에따라 다르지만 저는 2인분정도의 작은냄비에 1/3T정도 넣어줬어요. 그리고 감칠맛을 위한 다진마늘 1/3T를 넣어준 후 썰어둔 청양고추를 모두 넣어주세요.다진마늘은 마지막단계에 넣어줘야 향이 살아나요.",
+		"7. 완성된 간단한 된장국 아욱국,"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/09/6aa3b5515c25e8cfdfe8190b15761d9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/09/20bf552c2e1441630cbffb6e1b27ec811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/09/fb490d9a27946bbcf8dd5bdb2cf4b1cd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/09/31d0aa9ed09078cd0a7289314d03719b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/09/f7a431f8c7ede6349c866f8bc18c90961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/09/fb759a6b52da230247275a901e6e5cc21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/09/a0eca1a24992e2e2661d0242f369c0431.jpg"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"id": "6945365",
+	"name": "고소하고 쫄깃한 포두부 토마토파스타",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/2a4df0dcc8279f4727b0f096a8c279871.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945365",
+	"ingredient_ids": [
+		3,
+		732,
+		702,
+		574
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "포두부",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "토마토소스",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "파슬리",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 양파 반개를 얇게 썰어서 올리브유에 살짝 볶아준다. 노릇노릇해질때 불을 꺼준다.",
+		"2. 포두부를 칼국수 자르듯이 면처럼 길게 썰어준다. 마트에서 포두부면으로 나온 상품을 준비해도 된다.",
+		"3. 준비한 포두부면을 끓는물에 1분정도 데쳐준다. 젓가락으로 살살 풀어서 골고루 데쳐준다.",
+		"4. 데친 포두부면을 아까 볶은 양파가 있는 팬에 넣어준다.",
+		"5. 토마토소스도 1인분 분량을 넣어준다.",
+		"6. 2~3분정도 중불에서 볶아준다.",
+		"7. 접시에 옮겨담고 파슬리를 살살 뿌려주면 다이어트에 좋은 포두부 토마토파스타 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/fceffe4d9a23ae254b0034701895123b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/c40786f51321cd737159ebf3ecd2b62b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/04cdc05fef49da30913b50d23daaa48f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/3a19e28c1400b4fe570d8044fcd92b611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/3d1a08fb1bee7d79672e52abe2aac9631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/d64dae2871209edbc63952b4701a30c01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/31/994190da689b632366e50baf4509427b1.jpg"
+	]
+}

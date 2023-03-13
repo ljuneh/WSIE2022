@@ -1,0 +1,57 @@
+{
+	"id": "6939919",
+	"name": "삼계탕 끓이는법 닭백숙 끓이는법 간단하고 맛있게",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/9a0e43bfeced1eb556b68c10e475adeb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939919",
+	"ingredient_ids": [
+		29,
+		27,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "한약재",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 닭을 깨끗하게 씻어주세요. 특히 안쪽을 깨끗하게 씻어주세요.",
+		"2. 통마늘 10알을 준비해주세요.",
+		"3. 한약재도 있으면 아주 좋아요.",
+		"4. 냄비에 물을 300ml 정도 넣고 대파2대를 넣어주세요.  마늘도 넣어주세요. 한약재도 넣어줄께요.",
+		"5. 불을 키신후 뚜껑을 닫고 끓여줍니다. 약 1시간 정도 끓이시면 됩니다.",
+		"6. 중불로 팔팔 끓여줍니다. 끓어오르면 넘칠수도 있으니 넉넉한 냄비나 솥에 끓여주세요. 소금 1t 넣어서 심심한 간을 해줍니다.",
+		"7. 이렇게 1시간 정도 폭 삶아진 삼계탕이 완성이 되었습니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/0996ff0e05b37de2c0f52728b16372ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/4ee4b64641f32d6a3bfabcff16bdae201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/c695be024b2a7505a2169a86bc56fdbc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/07790ef5e35fa05d0ac67937199f52a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/eb84dcb6563217c53f993194e34d15741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/841f8828e65e81ec661b2908a7da2de61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/450ce420feab76eb62dde84b3b3612241.jpg"
+	]
+}

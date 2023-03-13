@@ -1,0 +1,77 @@
+{
+	"id": "6939872",
+	"name": "닭가슴살 카레덮밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/2b3842af28c7c6c3c44882c2eea9a25c1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939872",
+	"ingredient_ids": [
+		5,
+		3,
+		9,
+		7,
+		29,
+		995
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "큐브닭가슴살",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "애호박",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "6",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "고형카레",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		}
+	],
+	"recipe": [
+		"1. 큐브 닭가슴살 먹기좋게 썰었어요 왜? 큐브가 쪼매 크다싶어서.. ㅎㅎ ",
+		"2. 당근, 감자, 양파, 애호박은 비슷한 모양으로 썰어주고 마늘은 입자있게 다져서 준비했어요",
+		"3. 팬에 오일둘러 양파, 마늘부터 충분히 볶아 줍니다",
+		"4. 양파 볶아지면 당근, 감자넣고 잠시 볶아요 볶아지면 호박넣고 볶아요",
+		"5. 닭가슴살 함께넣고 쉐킷쉐킷~~",
+		"6. 물 부어 끓여요 ",
+		"7. 보글보글 맛있게 끓고 있어요 ",
+		"8. 고형카레 넣고  뭉치지 않도록 잘 풀어 줍니다 한 소끔 끓여 마무리해요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/3bdded52782990d2f03f10672247ee7d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/c931a0dc054bd4e0ef7071f11433ce531.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/c5d06d1403a836dec99f79695d47a2181.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/a25beed9115a05dd826884561a5e73a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/92ba209dd65591bf86a17602ed90ddd61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/32f28765740a62319c107c4aa2b5de631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/fb28b3a8246b224b58d643727e0fdfd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/f3fbb2399f3c800a9b4ccb5692bd2d311.jpg"
+	]
+}

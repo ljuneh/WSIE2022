@@ -1,0 +1,86 @@
+{
+	"id": "6943299",
+	"name": "추석음식 활용한 추석요리, 월남쌈",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/a329d0b938e8c0530eafe5b698530e2f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943299",
+	"ingredient_ids": [
+		127,
+		3,
+		911,
+		9,
+		158,
+		6,
+		27,
+		8,
+		238
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "고기산적",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오리고기",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파프리카",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "라이스페이퍼",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 오리고기는 채썬양파와 같이 볶아서 준비한다.",
+		"2. 대파는 채썰어 물에 담궈 준비한다.",
+		"3. 고기산적을 데워준다.",
+		"4. 데운 산적을 잘게 썰어서 준비한다.",
+		"5. 버섯은 팬에 살짝 익혀준다.",
+		"6. 각종 야채를 채썰어 같이 담아주면 완성♡"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/c2c5e577eeac40fc5b883e4841eaba151.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/bbc0698c4f7780c253f2f6f5ddc3549b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/6c0b93e66d5edf66686b796a16e7dd6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/cfc8bd7be9a22fce664c394cd257fa8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/beef74358b3e6ed3e1f510cafaf935131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/11c3e2b45716ed6f21f82fae1095aa2c1.jpg"
+	]
+}

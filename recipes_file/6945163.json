@@ -1,0 +1,63 @@
+{
+	"id": "6945163",
+	"name": "간단한 밑반찬 만들기 고추장 메추리알조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/ec4a35053a8b428a0128975b61a0654b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945163",
+	"ingredient_ids": [
+		221,
+		965,
+		473,
+		379,
+		665,
+		575
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "메추리알",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "미니새송이버섯",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참치액",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 요즘엔 메추리알 삶아서 까는 집이 거의 없는것 같긴하다. 흙살림꾸러미를 받았는데 친환경 메추리알이 들어있어서 물기를 빼고 찬물에 헹궈주었다.",
+		"2. 즈의 냄비에 양념을 바로 넣어서 준비한다. 고추장1큰술+진간장1큰술+참치액0.5큰술+올리고당2큰술                   ",
+		"3. 양념장재료를 모두넣고 물을 100~150ml넣어서 풀어준다. 우리집고추장은 매운편이라 이대로 끓였는데 색이 좀더 진하고 꾸덕했으면 좋겠다.. 생각한다면 고운고춧가루 반큰술정도를 추가해주면 좋다.",
+		"4. 메추리알과 미니새송이버섯 한팩을 넣고 센불로 끓인다.                   ",
+		"5. 끓기시작하면 중불로 줄이고 10~15분 졸여준다. 넘칠것같으면 약불로 줄여주면 된다. 처음엔 버섯이 많아서 넘칠것같지만 버섯부피가 줄어들기때문에 불조절을 잘 해주면 된다                   ",
+		"6. 양념장이 처음의 절반정도로 줄어들면 불을 끈다. 양념이 좀 묽은 느낌이 드는것 같아도 식으면서 꾸덕하게 변한다. 단맛은 올리고당 짠맛은 진간장으로 조절해준다.                     "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/c8d197defa8c894979e65ac14d62be201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/e235d98fc2c5f1b6cebd00d40652a7451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/08261b1f963e6809e34db2909bdfda411.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/a2435970f9dcdd4a76e3aa886f2922d41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/762c880674442664be581baac52f47c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/20868ac0c8a79dbb44c16228f975753b1.jpg"
+	]
+}

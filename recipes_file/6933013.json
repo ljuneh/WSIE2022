@@ -1,0 +1,75 @@
+{
+	"id": "6933013",
+	"name": "고구마쿠키 만들기, 바삭하고 꼬소해~ 맥주안주로 강력추천!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/05/20/6bb2cc67160859bd868d0e139417f1561.jpg",
+	"url": "https://www.10000recipe.com/recipe/6933013",
+	"ingredient_ids": [
+		570,
+		373,
+		497,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "찐고구마",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "실온버터",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "90",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "옥수수전분",
+			"ingre_count": "20",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "1",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "검은깨",
+			"ingre_count": "15",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "2~3꼬집",
+			"ingre_unit": "~꼬집"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 쪄 놓은 고구마를 곱게 으깨주세요 (뜨깨울때 으깨면 더 잘 으깨져요)",
+		"2. 실온에 있던 말랑한 버터를 넣고 섞어줍니다",
+		"3. 박력분,옥수수전분,베이킹파우더를 체에 쳐서 넣고 검은깨를 넣어줍니다",
+		"4. 주걱으로 대충 섞어주다가 손으로 뭉쳐주세요",
+		"5. 비닐팩에 넣고 밀대로 밀어준 다음 냉장 30분 휴지합니다 너무 두껍지 않은 두께로 밀어주면서 반죽을 평평하게 만들어줍니다",
+		"6. 휴지시킨 반죽은 스크래퍼나 칼로 잘라줍니다",
+		"7. 스틱모양으로 잘라주세요 적~당한 두께로 잘라줘야 굽고나서 바삭바삭한 식감이 됩니다",
+		"8. 맛있는 고구마스틱쿠키 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/20/945093de1471cbbb609d9053edadb3ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/20/3a2d13120f9742f84ae111aa5d7469041.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/20/f35ba5e5b28a11e259b8d4a696b9b8451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/20/7c7330d8505b9fccce6a289980811f811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/20/b5278212c1d84d13c43dfc7e8ce2775e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/20/5b2c78a32fa6e479d53577675480696b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/20/be78285104958c582d2e0eb3c367020d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/05/20/fbd40ad32867f2061f1a3be5b9939e671.jpg"
+	]
+}

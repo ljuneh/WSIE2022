@@ -1,0 +1,59 @@
+{
+	"id": "4884148",
+	"name": "바삭한 김부각 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/880b2cb98690dfab09418e1033accec01.jpg",
+	"url": "https://www.10000recipe.com/recipe/4884148",
+	"ingredient_ids": [
+		667,
+		473,
+		543,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "파래김",
+			"ingre_count": "1",
+			"ingre_unit": "톳"
+		},
+		{
+			"ingre_name": "찹쌀가루",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "마늘1+1/2큰술",
+			"ingre_count": "1+1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 파래 김 1톳 준비합니다.",
+		"2. 찹쌀풀을 아주 되직하게 끓여주세요. 너무 묽지 않도록 주의 하세요. 찹쌀풀에 고추장 1큰술, 마늘 1큰술 반, 통깨를 넣어 양념해 줍니다.",
+		"3. 파래김위에 찹쌀풀을 고루 발라서 김 한장을 맞붙여 주세요.",
+		"4. 햇볕에 말리기 - 따끈한 햇볕이면 하루 정도면 꾸덕하게 80%정도 마릅니다. 항아리 뚜껑위에도 널고 있는 쟁반 다 동원합니다.",
+		"5. 완전히 잘 말린 김부각은 손으로 톡 자르면 바삭~ 하고 잘라지면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/74a661b1fb9307bd292fd4a596adde8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/f499a9797798b0871898a9d08aa418761.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/4fc108fa2c7fa6bd2a4b9509e26b31da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/bc2a413f002fe18a729c110d55e703621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/18/c0cdc107e397f9201c5e64324e16da591.jpg"
+	]
+}

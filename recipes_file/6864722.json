@@ -1,0 +1,89 @@
+{
+	"id": "6864722",
+	"name": "명절 남은 나물&전 활용!나물비빔밥♥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/02/03/f80449adad0a58cd149983eb0792ebf71.png",
+	"url": "https://www.10000recipe.com/recipe/6864722",
+	"ingredient_ids": [
+		660,
+		473,
+		292,
+		226,
+		995,
+		219
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "시금치나물",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "도라지나물",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고사리나물",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "동그랑땡",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/4",
+			"ingre_unit": "cup"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 동그랑땡은 다져서 준비한다.동그랑땡 2개",
+		"2. 팬에 기름을 조금 두르고 동그랑땡을 넣고 맛술, 설탕, 후추를 넣고 볶는다.맛술 1T, 설탕 1T, 후추 약간팬",
+		"3. 고기가 익으면 고추장과 물을 넣고 볶아 완성한다.고추장 4T, 물 1/4cup",
+		"4. 그릇에 밥을 담고 명절에 남은 나물을 담고 참기름, 볶음 고추장, 달걀지단 이나 프라이를 넣고 완성한다.시금치 나물 50g, 도라지 나물 50g, 고사리 나물 50g, 참기름 1T, 밥 1공기, 달걀 1개"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/03/556542a03a9820d122ebbb63b9b7189d1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/03/5892fec8448c9643e7c273819297546c1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/03/9d406b0bb53774870a9125cc071c15e91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/02/03/f9c86cebba0c1cad38c9c1018295f7e51.png"
+	]
+}

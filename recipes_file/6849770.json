@@ -1,0 +1,76 @@
+{
+	"id": "6849770",
+	"name": "콩나물국 :: 시원하게 속 풀리는 진한 콩나물국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/b9fab39904e8892021a526b1d19405831.jpg",
+	"url": "https://www.10000recipe.com/recipe/6849770",
+	"ingredient_ids": [
+		995,
+		27,
+		29,
+		497
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물한봉지",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4000",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "황태머리",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "육수멸치",
+			"ingre_count": "10",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "2/3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "5",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 콩나물 500g은 미지근한 물로 씻은 후 찬물에 행궈 신선하게 준비합니다.",
+		"2. 황태 머리는 흐르는 물로 가볍게 씻어주세요. 육수용 마늘은 4쪽, 육수용 대파는 흰 부분 2cm, 초록 부분 6cm를 남겨두고 전량 사용합니다.",
+		"3. 다시 멸치는 머리와 내장을 제거하고, 마늘은 얇게 편 썰어 황태육수를 준비합니다.",
+		"4. 냄비에 육수 재료와 콩나물을 함께 넣고 콩나물이 잠길 정도로 물을 부어주세요.",
+		"5. 냄비 뚜껑을 닫고 국물이 펄펄 끓은 때 까지 끓여주세요. 펄펄 끓는 시점에서 5분 더 끓인 후 콩나물 건져내주세요.",
+		"6. 삶은 콩나물만 건져내고 황태 육수는 깊은 맛이 우러나도록 푹 끓여주세요. *막 건져올린 콩나물은 찬물에 행궈 아삭함을 살려주세요.",
+		"7. 물기를 빼준 콩나물에 다져 놓은 마늘, 대파, 소금을 넣고 조물조물 무쳐주세요.",
+		"8. 나머지 대파 녹색 부분은 링으로 썰어 넣고 가볍게 버무려주세요.",
+		"9. 황태 머리, 멸치를 넣고 40분 정도 푹 끓인 육수에 양념한 콩나물을 넣은 뒤 소금으로 간을 하고 한번 휙 저어준 후 불에서 내려 마무리합니다.",
+		"10. 황태 머리로 육수를 내서 콩나물국을 끓이면 개운하고 국물 맛이 깊은 콩나물국이 돼요.",
+		"11. 따끈하고 진한 국물 맛이 생각날 때 안성맞춤이에요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/c9f07403e7db22fff75a6b3489ac51d91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/019cfcab9c8bf441590c6d40fd68ddca1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/5f945c7fb845328e2e5e5b1363a30e9b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/d82db7dfa7dba95fec32790a61e1a6e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/a101feab15ede889d7d8d82ded5633961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/fa7073c33aae821f3bef681526414b501.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/2312e29f00911dd4fa610d365cc019c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/7521b8a0ead392a89317bc74e5b591f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/d84253f1a7e87e294d81b834d2825a791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/83b84baa7de4d4d24a98c9bbbc16341f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/23/6f7f5467e87a7de141c50c6767c9bbff1.jpg"
+	]
+}

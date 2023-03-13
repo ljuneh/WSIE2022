@@ -1,0 +1,98 @@
+{
+	"id": "6943499",
+	"name": "간단요리 라볶이 만들기 쉽게 가죠.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/b3190e3a33c8344a97e3ee59b219b2421.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943499",
+	"ingredient_ids": [
+		548,
+		473,
+		226,
+		575,
+		379,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "라면사리",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양배추크게",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "비엔나소세지작은봉지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2/3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 대파는 어슷썰어서 크게 썰어주세요.",
+		"2. 양배추도 한입크기로 큼지막하게 썰어주세요.",
+		"3. 소세지도 한입크기나 어슷하게 한번만 썰어주시면 됩니다.",
+		"4. 어묵은 삼각형모양으로 썰어주었고 2장을 사용했습니다. 면과 같이 먹기 편한 상태로 썰려면 면처럼 길게 써는것도 추천드려요",
+		"5. 냄비에 물 한대접정도를 넣어주고 양배추와 어묵을 먼저 넣고 끓여주세요. 기본적인 국물 베이스가 됩니다.끓기전에 넣어 푹 익히면 오뎅과 양배추의 맛이 국물에 베어나와 육수가 됩니다.",
+		"6. 살짝 어묵이 불려고 시작할 때 고추장 한숟갈 넣어서 풀어주시고",
+		"7. 고춧가루도 넣어주세요. 1T",
+		"8. 설탕 1/3T 올리고당은 1/2T를 넣어주었습니다.좀더 달달하게 드실분들은 올리고당을 1T로 넣어주세요. ",
+		"9. 끓기 시작하면 라면과 썰어준 파를 넣어주고 푹 익혀주시면 됩니다.",
+		"10. 마지막으로 간장으로 간을 맞춰주는데 저는 2/3T를 넣어주었어요.",
+		"11. 알맞게 라면을 익히고 나서 그릇에 담은 후 통깨를 뿌리면 완성!아이들에게 매운 버전이 힘들다면 고추장을 반을 줄이고 캐첩을 반T를 넣어주면 새콤 달콤한 아이버전 라볶이가 됩니다~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/00153ba10d651e819b6981c670707f111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/dd1b9a94e3ef024ab00e73e59b27b50b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a1a46d9fb244f1bd58b0ec2ebfcc0f6c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/7c88ed9817c93cbb530f46b50a97e44d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/54642277b657069fc979beda6327c5781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/300e91abd2274704107dbbe09413155c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/20c35e284506e2005d85a37174667b571.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/a3a0a3f640f012357d719722e856168e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/e7e90a425e3b753a9b9ed04fb064afcf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/2f9d255baabb1f5fc9ae5a0b9a255a771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/05/9cd355e31d4eeb4efcd3fe321f1683f31.jpg"
+	]
+}

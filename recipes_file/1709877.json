@@ -1,0 +1,40 @@
+{
+	"id": "1709877",
+	"name": "치즈계란말이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/b2204b57518ee223659a1a87f6f0925a.jpg",
+	"url": "https://www.10000recipe.com/recipe/1709877",
+	"ingredient_ids": [
+		214,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "슬라이스치즈",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 계란은 잘 풀어 소금 넣어 간 하세요.",
+		"2. 달군 팬에 기름을 약간 두른 후 키친타월로 닦아내고 계란 푼 것을 약간 부어 살짝 익혀 준 후, 치즈를 반 접어 올리세요.",
+		"3. 가지런히 잘 말아졌지요? 대충 말아서 김발에 싸서 모양을 내도 좋지만 팬에서 요렇게 가지런한 모양이 나올 수 있는 비법 아닌 비법이 치즈 반 접어 넣는거지요~ 그 자체만으로도 각이 딱~~~잡히니...^^ 뒤지개 두개로 계란말이 넓은 부분은 잡고 세워서 익혀 주면 옆부분도 각이 잘 나온답니다.",
+		"4. 조금 식힌 후 1~1.2센티 두께로 잘라 접시에 담으면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/2af1def30ae60dc15aec6eb2bde9a3471.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/76d2bb05a89133348aafae1cd87158c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/cbb4222196864700a68417026f64676d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/26/6f564c66076278c82bc1dc745978bafd1.jpg"
+	]
+}

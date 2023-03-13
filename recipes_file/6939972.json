@@ -1,0 +1,114 @@
+{
+	"id": "6939972",
+	"name": "표고버섯 대패덮밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/78f92b3e6ce353c5b9b3922920f9cdd01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939972",
+	"ingredient_ids": [
+		963,
+		53,
+		3,
+		295,
+		219,
+		477,
+		379,
+		226,
+		575,
+		292,
+		660,
+		504
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "대패삼겹살",
+			"ingre_count": "",
+			"ingre_unit": "국그릇가득"
+		},
+		{
+			"ingre_name": "표고버섯",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깐마늘",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "공기밥",
+			"ingre_count": "2",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1~2T",
+			"ingre_unit": "~T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 표고버섯과 양파는 채썰고 청양고추는 쫑쫑썰기, 마늘은 2개는 다지고 2개는 슬라이스 해줍니다.",
+		"2. 달걀은 후라이로 준비 합니다.",
+		"3. 식용유 3T를 두를 팬에 다져둔 마늘과 대패삼겹살 후추를 넣고 먼저 살짝익혀줍니다.중불",
+		"4. 고기가 반 정도 익으면 표고버섯과 양파, 마늘슬라이스를 넣어 볶아줍니다.중강불",
+		"5. 야채가 숨이 죽으면 간장1~2T,올리고당1T,설탕1T,굴소스1T,맛술1T를 넣고 타지않게 볶아줍니다.중불짭짤한걸 좋아하시는 분들은 간장2T, 적당한 간을 원하시면 간장을 1T만 넣어주세요!",
+		"6. 마지막으로 청양고추와 참기름 1T를 둘러주면 초간단 냉털 표고버섯 대패덮밥 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/025adce0707c3b65c38c566e058c1b971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/8430707866c72552ebb9977894256c291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/f8422751a4a82ba8f0a3bd0d85ebcc091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/a4494533113519001f08e507b52176a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/05b1aedbf74561edd90b060ce39483b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/24/b25ab0cce79018f847f37cc1aa6bef241.jpg"
+	]
+}

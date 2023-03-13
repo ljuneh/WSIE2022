@@ -1,0 +1,104 @@
+{
+	"id": "6943793",
+	"name": "임성근 나박김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/a6b67d5b4cfdbe2c18d8b25e2e06200d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943793",
+	"ingredient_ids": [
+		19,
+		757,
+		29,
+		142,
+		20,
+		8,
+		995,
+		497,
+		497,
+		226,
+		224
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "알배추",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "쪽파",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "10",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "배",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "미나리",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "끓인물",
+			"ingre_count": "9",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "찬물",
+			"ingre_count": "9",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 배추,무는 나박썰기하시고,마늘도 저며서 썰어둡니다.",
+		"2. 물4컵에 소금 반컵을 풀어 15분간 절여,찬물에 헹궈 물을 빼둡니다.",
+		"3. 끓인 물9컵,찬물9컵을 섞은 물에 소금 반컵,설탕3T,생강가루 1/2t를 넣어주세요. 베보자기에 고춧가루 반컵을 넣어 그 물에 조물조물 주물러서 고춧물을 내주시고요.",
+		"4. 절여 씻어놓은 배추,무에 쪽파,오이,배,저민 마늘까지 넣고 양념물을 부어주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/b6000e6e448f5fabb14648d2eb7831101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/60d74977feabcef68fe0ce73a891dc9a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/b168edbaf0ad14b3e3a530687204ecc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/59e9ec52bbfbd30afdc70c81616005eb1.jpg"
+	]
+}

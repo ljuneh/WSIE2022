@@ -1,0 +1,94 @@
+{
+	"id": "6944784",
+	"name": "차돌 깍두기 볶음밥 칼없이 가능한 레시피",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/b01f6efadf27b16ef00e28a16bc528c61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944784",
+	"ingredient_ids": [
+		295,
+		27,
+		327,
+		543,
+		226
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "차돌박이",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "뼘"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깍두기",
+			"ingre_count": "1/2",
+			"ingre_unit": "밥그릇"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1/3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "1/3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/4",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 깍두기는 가위로 먼저 먹기좋게 잘라주세요. 너무 잘게 안잘라주셔도 되고 밥과 한잎에 넣었을 때 씹을만한 크기로 해주시면 돼요.",
+		"2. 준비한 팬에다가 파를 가위로 잘라주고",
+		"3. 차돌박이 한줌을 넣어 볶아줍니다.기름을 따로 넣지 않는 이유는 차돌박이에서 나오는 기름도 충분히 많기 때문에..",
+		"4. 차돌박이는 어떤 고기든 상관 없고 살짝 중간정도 익었다 싶으면 깍두기르 넣고 볶아주세요.",
+		"5. 청양고추도 넣어주시면 됩니다.",
+		"6. 설탕 1/4스푼",
+		"7. 간장 1/2 스푼",
+		"8. 고추가루 1/3 스푼을 넣어서 살짝 볶아준 뒤",
+		"9. 밥과 들기름 1스푼을 넣어주세요. 그리고 볶아주시면 됩니다.",
+		"10. 이제 잘 볶아졌으면 그위에 얹어먹을 계란을 익혀주세요.",
+		"11. 쉽게 반숙만드는법은 이렇게 계란을 굽다가 물 한스푼 넣고 뚜껑을 닫아서 살짝 익히면 이쁘게 잘익습니다.",
+		"12. 다 볶아진 깍두기볶음밥위에 계란을 올리고 통깨 살짝 뿌려 마무리해주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/97604acc793cebd78706320aaa32199c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/11a056d979f0577480b712e891f40fbc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/d692d760276b71a81308287822b3773e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/1c6d693d135ff0b0b06db5a4fc45681f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/b55f92570d6541557e3aebe8f656b7a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/493d7b3e55749d8927a2cad8aa9fe0641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/53f28baf65b9a3168d87c9a81af4ba8c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/60e8a1965c9a7c21d963346e496077da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/60b0ba5ef607461550e96b39e3bcf7991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/e3dff684b378fc2ecaf8f832b9bfdd741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/481cd27e6f841c585bea0de709cf683b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/22/16a5b876dd565f51808ef8f03b20eb761.jpg"
+	]
+}

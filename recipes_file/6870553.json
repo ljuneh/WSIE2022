@@ -1,0 +1,81 @@
+{
+	"id": "6870553",
+	"name": "배추 물김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/30/3e99bc31f69087d4f9ba002511f823a01.jpg",
+	"url": "https://www.10000recipe.com/recipe/6870553",
+	"ingredient_ids": [
+		583,
+		8,
+		19,
+		29,
+		3,
+		497,
+		224
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "알배기배추",
+			"ingre_count": "1",
+			"ingre_unit": "통"
+		},
+		{
+			"ingre_name": "오이",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "15",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "매실청(설탕)",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "밀가루풀",
+			"ingre_count": "4",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 배추는 4등분 하고 밑동을 잘라주면 풀어져요 흐르는 물에 씻고 네모 모양으로 자른후 굵은소금 처음엔 켜켜이 그리고 나중엔 촥촥 뿌려서 2~3시간 절여주세요드리고는 중간중간 뒤집어주세요",
+		"2. 무는 네모모양으로 자른후 소금 넣고 절여주세요 30분정도",
+		"3. 잘절여진 무와 배추는 흐르는 물에 한전 행궈주세요",
+		"4. 사진은 없지만 위에있는 양념장을 만들어서 물 한컵과 함깨 믹서기에 쉐킷쉐킷 해주시고 믹서기가 없으시면 채망에 양념을 넣고 풀어주시면되요",
+		"5. 이렇게 오이는 동글동글하게 씻어주시고",
+		"6. 밀가루풀 만들어주세요 밀가루 2스푼에 물 4스푼 정도 넣어서 약불에서 약간 부풀어 오를정도가 되도록 끓여주세요 금방 눌어붙어버리니 꼭 약불로 놓고 잘 저어주세요",
+		"7. 절인 배추와 무 그리고 오이를 넣고 양념장에 물 10컵 넣고 밀가루풀 넣어주면 실온에서 1일 그리고 냉장고에서 4일 숙성 시켜 주시면 완성입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/30/3133c185bf957f390c004c6b496ef5e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/30/eacc2404b62b92745e5ebac6b91fd1ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/31/78ad11e7aa8dca5321559f28f08ab78c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/30/b8da724617605fb2dfedb865329ded551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/30/8a36cb6037c8f43cfbc5b7280cb190c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/30/f9b6cca2b2207cf452527d0cfb9afee81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/31/23e70262d4ee6ee2b3b921ba51b19ae81.jpg"
+	]
+}

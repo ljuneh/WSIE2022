@@ -1,0 +1,76 @@
+{
+	"id": "6880988",
+	"name": "노릇노릇 때깔 고운것 좀 보소♥ 피자빵",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/e60274fd672c546708a90c21ccdda3ce1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6880988",
+	"ingredient_ids": [
+		995,
+		216,
+		732,
+		175
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "호떡믹스1봉(같이동봉된이스트)",
+			"ingre_count": "1봉(같이 동봉된 이스트)",
+			"ingre_unit": "봉(같이 동봉된 이스트)"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진햄",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진피망",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "토마토소스",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "올리브",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 볼에 물과 이스트를 넣어 섞은 뒤 호떡믹스를 넣어 반죽하여 덮어둔다.호떡믹스 1봉 (같이 동봉된 이스트, 물 200ml)볼",
+		"2. 예열된 팬에 올리브유를 두르고 양파, 피망, 햄, 올리브 순으로 넣어 볶는다.다진 양파 1/2개, 다진 피망 1/2개, 다진 햄 1/2개, 올리브 약간 팬",
+		"3. 양파가 투명해 지면 후추, 토마토 소스를 넣어 볶아낸다.후추 약간, 토마토 소스 1종이컵",
+		"4. 반죽을 같은 크기로 등분하여 밀대로 밀어 준비한다.밀대",
+		"5. 밀어놓은 반죽에 볶아놓은 속과 피자치즈를 넣어 반으로 접어 반달 모양으로 접어 포크를 이용해 눌러 모양을 낸다.피자치즈 1종이컵포크",
+		"6. 예열된 팬에 올리브유를 조금 두른 후 앞 뒤로 노릇하게 익혀 완성한다.약불약불에 뚜껑을 닫아 익혀주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/162dee2894c42ed4cba064094b934bab1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/5b1a4035bc8049bc99f4c520d0ea92a91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/20f9f8746ed089ed2e7defa74553d8cb1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/7c5cf402364c4a104619fa8f1a5a7e691.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/9ff86bbe7e769dea2a1177c339bdd1651.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/12/15/5a9b0550ebce1a672f59c5476162b6bc1.png"
+	]
+}

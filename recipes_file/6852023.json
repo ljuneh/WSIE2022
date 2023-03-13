@@ -1,0 +1,39 @@
+{
+	"id": "6852023",
+	"name": "꿀마늘",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/07/02/e96b7cc245ccb532417c7ebf30686ef91.jpg",
+	"url": "https://www.10000recipe.com/recipe/6852023",
+	"ingredient_ids": [
+		29,
+		29,
+		227
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 마늘은 껍질을 까서",
+		"2. 찜솥에 삼베보자기를 깔고 마늘을 넣고 감싸 10분 정도 찌고 5분 뜸들여",
+		"3. 뜨거운물에 예열한 윳니그릇에 담아 꿀을 부어 놓는다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/03/fa2a1776f13279cf7c8f554a7c420c1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/03/b17667fda183410cbcfd4b9596e411ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/07/03/adc5935ac7d440190e53a94aab7017e61.jpg"
+	]
+}

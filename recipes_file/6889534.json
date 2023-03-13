@@ -1,0 +1,60 @@
+{
+	"id": "6889534",
+	"name": "불맛!제대로나는♥치즈직화닭발",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/05/25/4e0b727ace53b75cc5d3c23a0ae063a51.png",
+	"url": "https://www.10000recipe.com/recipe/6889534",
+	"ingredient_ids": [
+		995,
+		3,
+		27,
+		29,
+		216
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "오뚜기직화닭발",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "5",
+			"ingre_unit": "cm"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "톨"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 양파, 대파, 마늘은 얇게 썬다",
+		"2. 팬에 물 3숟가락, 직화닭발을 넣는다.",
+		"3. 뚜껑을 닫은 후 3분간 익힌다.",
+		"4. 팬에 손질한 양파, 대파, 마늘을 넣고 살짝 숨이 죽도록 볶는다.",
+		"5. 치즈를 넓게 펼치고 다 녹을 때까지 뚜껑을 닫고 기다려 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/25/9a2d8790487b8cd982086979ea0481101.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/25/d4038e89ea2f6cd4f33d4d4875f57b5e1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/25/f6198a2839a38a958005fa263b7006dd1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/25/5ef09db363a18d85db4d49a6c5ea1db01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/05/25/222c7146060a199a9cca8167ab85cc391.png"
+	]
+}

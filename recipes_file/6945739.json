@@ -1,0 +1,83 @@
+{
+	"id": "6945739",
+	"name": "이탈리아식 오믈렛 프리타타 만들기 한 끼 식사로 영양만점입니다.",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/cba0f211985490a81ab67d80827614521.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945739",
+	"ingredient_ids": [
+		9,
+		3,
+		497,
+		225,
+		504,
+		212
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "1/5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "5",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "2",
+			"ingre_unit": "꼬집"
+		}
+	],
+	"recipe": [
+		"1. 양파, 노란 파프리카는 2x2cm 간격으로 썬다.",
+		"2. 당근은 동그란 모양을 살려 0.3cm 간격으로 썬다.",
+		"3. 방울토마토는 반으로 썬다.",
+		"4. 소시지는 0.5cm 간격으로 썬다.",
+		"5. 베이컨은 2cm 간격으로 썬다.",
+		"6. 볼에 계란 5개, 우유 5T, 소금 1/4T, 후춧가루 1/5T를 넣고 원하는 조리 도구로 곱게 푼다.",
+		"7. 팬에 식용유 2T를 두르고 양파, 노란 파프리카, 당근을 넣고 볶고 양파, 노란 파프리카, 당근이 투명하게 익기 시작할 때쯤 소시지, 베이컨을 넣고 볶는다.",
+		"8. 소시지와 베이컨이 노릇노릇하게 익어갈 때쯤 풀어 놓은 계란을 넣는다.",
+		"9. 그다음 방울토마토를 올리고 그 위에 모짜렐라 치즈를 뿌린 후",
+		"10. 뚜껑을 닫아 약불에서 천천히 익힌다.센불에서 익히면 밑바닥은 타고 속 부분은 안 익을 수 있기 때문에 약불에서 천천히 익히는 것이 좋습니다.",
+		"11. 속까지 완전히 익은 상태면 뚜껑을 열고 마무리로 파슬리가루를 뿌리면 프리타타 완성.속까지 완전히 익었는지 안 익었는지 확인할 수 있는 방법으로 이쑤시개 또는 젓가락으로 찔러 보면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/1a3e4065936636820ac7f7ecfe0251281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/11ddb50e750e1c8c439569bf32d8ad9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/9244c043377943e4c3cdde40112a18731.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/dab1189665b3cf018d0e6dfcac6fdd301.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/2b6049e8d019e16913366ac6a36d4e791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/bc7149bf2e0785ddab86b58470b667a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/760ddcffd1d6b1981a8c5fce26bff5f31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/f845ec2ef38bef68b732046b063496a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/6a88168838f9a193f57dbccb7054000e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/80f2c1abe7f6b26189e9cbbf5fa84dbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/06/9c2ef5da2fb63625f1db3e73ef3f1e071.jpg"
+	]
+}

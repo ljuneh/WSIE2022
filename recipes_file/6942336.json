@@ -1,0 +1,57 @@
+{
+	"id": "6942336",
+	"name": "정식품 검은콩국물로 추억의 맛 우묵콩국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/a63272dc61fe1377181cd5ff23b22ea31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942336",
+	"ingredient_ids": [
+		350,
+		226,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "정식품검은콩국",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "우묵",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "취향껏약간"
+		}
+	],
+	"recipe": [
+		"1. 우묵1모와 함께 정식품 진한 콩국물 검은콩을 준비합니다.",
+		"2. 우무묵은 찬물에 한번 헹궈준후에 채썰어서 준비합니다.",
+		"3. 우무묵은 탄탄하고 탱글탱글해서 자르기 쉽답니다. 취향에 맞게 적당히 잘라주세요. 채썰어서 준비해주시면 좋답니다.",
+		"4. 넉넉한 그릇에 채썰어둔 우무묵을 담아줍니다.",
+		"5. 우무묵그릇에 적당한 정식품 진한 콩국물 검은콩을 담아줍니다.",
+		"6. 콩국물을 담아주고 취향에 따라 깨소금을 살짝 뿌려줍니다.",
+		"7. 시원고소한 우무묵콩국을 맛보면 된답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/7b6e6f46bc28004fb503b1649a15b3591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/59574061f253ae573ac9e4be2fa379c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/9d03910a9f9785dcc6b5c9c6fe613e961.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/c6de5730d2bc47a99ee9a6001bf8eb191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/f0e382d70e5042125420a292b67eb6541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/8d1a865c0fceba98c4abffff7d7d0a3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/285f370723f57ceac3be9cd394469a961.jpg"
+	]
+}

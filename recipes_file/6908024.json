@@ -1,0 +1,51 @@
+{
+	"id": "6908024",
+	"name": "땅콩러스크 너와나처럼 달달고소해♥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/03/07/fa93ed1cb888e716593e69038fc6dc121.jpg",
+	"url": "https://www.10000recipe.com/recipe/6908024",
+	"ingredient_ids": [
+		503,
+		226,
+		227
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "녹인버터",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "땅콩분태",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 식빵은 길게 자른다.",
+		"2. 볼에 녹인버터, 설탕을 넣고 섞는다.",
+		"3. 자른 식빵에 골고루 바른다.",
+		"4. 땅콩분태, 꿀을 뿌려 전자레인지에 2분간 돌려 완성한다.전자레인지"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/07/ca3cac85b7fd5f4424c35ed7ba903ae21.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/07/8537adc734325b4bd8a49a052293c5da1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/07/051495bec7e7c05dda27439281fa71581.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/03/07/03d356122570c0ad58379e1dc2101ef81.png"
+	]
+}

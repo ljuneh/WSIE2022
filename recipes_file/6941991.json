@@ -1,0 +1,73 @@
+{
+	"id": "6941991",
+	"name": "부추 크래미전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/a72482109548216ec6cca067df40fa3e1.png",
+	"url": "https://www.10000recipe.com/recipe/6941991",
+	"ingredient_ids": [
+		30,
+		734,
+		387,
+		497,
+		226,
+		995
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "크래미",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "오일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 부추는 5cm 로 잘라주시구요",
+		"2. 반죽 재료예요 튀김가루를 섞어서 반죽하면 더 바삭하고, 설탕은 조미료의 역할을 해줘요",
+		"3. 반죽재료에 물을 넣어서 먼저 섞어주시구요",
+		"4. 부추와 크래미를 찢어서 넣어주시면 반죽은 끝",
+		"5. 오일 두른 팬에 넉넉히 올리고 구워주세요",
+		"6. 자주 뒤짚지 말고 한번에 탁~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/9a41168c50c913914988875543d5b1dd1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/1b44fce73a89fd994309c11d02c0f1fd1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/0e2bdb5437ff28aaef4d41c95cbb2c691.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/b704394a36459d797e6e462c4353cca91.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/0255c7be6979d8262b6537ce716861b01.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/16/e4e3f1c15c3e6497109ca6e9497e72221.png"
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"id": "6829589",
+	"name": "소고기등심 양념구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/30/ca7fdf5b3827a6d74c01deac947882a31.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829589",
+	"ingredient_ids": [
+		379,
+		226,
+		847,
+		655,
+		575,
+		497,
+		660
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기등심6장(1kg)",
+			"ingre_count": "6장(1kg)",
+			"ingre_unit": "장(kg)"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "10",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "배즙",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "양파간것",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "탄산수",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 소고기 등심은 미리 해동해주세요.",
+		"2. 분량의 양념을 모두 섞어 준비해 주세요.",
+		"3. 소고기에 양념을 넣고 고루 섞은 후 통에 담아 2시간 정도 숙성해 주세요.",
+		"4. 달궈진 팬에 등심을 앞뒤로 구워주세요.",
+		"5. 소고기등심 양념구이를 먹기 좋게 썰어 접시에 담고 무순을 조금 뿌려주었어요~ 무순 대신 파채나 깻잎채를 얹어도 좋아요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/3dc813e58cc1380e966ef8067b01d92c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/f0de886ea77381469cb151b59bf01d7c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/9cdba26a7a1f11afa4e0b3497abcd99b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/c2aa2d7c5f898f0bdcff26e15feb7ccf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/16/33e55ca10e041404173a86bd8223fd8f1.jpg"
+	]
+}

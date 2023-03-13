@@ -1,0 +1,93 @@
+{
+	"id": "6939836",
+	"name": "소불고기【우리아이반찬】",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/2da673e7626aba23df13c3cbf321b4bf1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939836",
+	"ingredient_ids": [
+		495,
+		3,
+		9,
+		27,
+		55,
+		379,
+		226,
+		575,
+		477,
+		660
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소고기",
+			"ingre_count": "600",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "팽이버섯",
+			"ingre_count": "1/2",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		}
+	],
+	"recipe": [
+		"1. 양파1/2개는 3등분해서 채썰어주세요.",
+		"2. 당근 1/4 개는 편썰어 채썰어주세요.",
+		"3. 소고기는 아기가 먹기 좋은 크기로 잘라주세요.",
+		"4. 모든 재료를 볼에 담아주세요.",
+		"5. 양념을 넣어 잘 섞어주세요. *따로 물은 넣지 않았어요",
+		"6. 10~20분간 재워둡니다.",
+		"7. 고기가 90프로 익으면 팽이버섯을 넣고 볶아줍니다.",
+		"8. 팽이버섯에서 물이 나오기에 약간 자작하게 드셔도 좋고 좀더 바짝 볶아서 마무리 하셔도 좋습니다.",
+		"9. 참기름을 넣고 마무리 해줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/9060f0e7e2e2c37933c9f8c0228dd7b41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/fdd12da5106256b6367e0b9ca7f46f361.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/a1314f1b970ed6488f95fc6272064ed31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/948aee91a5fdd1552aeea087826bba791.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/0166cd5bb3898d85194c8ffa17f39fdc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/a4d3f1ff13656f1b8469fc05f5e1c2de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/ecc2be32f714460d7486026041760d481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/56130b6fddbdfee107a5118b5418aac41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/70f93ca61fb657e93e0420a44bdf01d71.jpg"
+	]
+}

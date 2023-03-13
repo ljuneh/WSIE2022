@@ -1,0 +1,49 @@
+{
+	"id": "6942423",
+	"name": "상큼함이 가득 담긴 자몽에이드 만들기 ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/9f666c30ee3a258a98cb7ea587f3fe5d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942423",
+	"ingredient_ids": [
+		655
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "흥국자몽농축액",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "탄산수",
+			"ingre_count": "180",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "얼음",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕시럽",
+			"ingre_count": "10",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "자몽슬라이스",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 자몽을 얇게 썰어서 준비해주세요.",
+		"2. 잔에 자몽농축액 40g을 부어준 후 얼음을 반 정도 채워주세요.",
+		"3. 자몽슬라이스를 넣어준 뒤, 얼음을 가득 채워주세요.",
+		"4. 탄산수 180g을 부어주세요. 완성~!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/c4b610b550fa2cd3f45d6ba3f5059e3b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/4ef69013d44284f2dfb360d7cfe1a2061.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/6f0575ebaab9edff2cfbd8ddae22ca601.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/d5bb2d9fe5df8524982dd0053504937b1.jpg"
+	]
+}

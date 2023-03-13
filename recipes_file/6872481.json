@@ -1,0 +1,48 @@
+{
+	"id": "6872481",
+	"name": "상큼함이 팡!팡!터진다 과일얼음",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/91d3b237e95e426cdc9e408d519dde9f1.png",
+	"url": "https://www.10000recipe.com/recipe/6872481",
+	"ingredient_ids": [
+		1026,
+		995,
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "과일",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "민트잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 종이컵으로 물 한컵정도 넣어 주세요",
+		"2. 센불에 끓여주세요 10분정도 끓여주세요 바닥이 눌어붙지 않도록 저어주세요",
+		"3. 냉동실에 얼린다.",
+		"4. 얼려진 얼음을 꺼낸다.",
+		"5. 탄산수와 곁들여 음료로 마신다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/89cc38663eeedb6e17e0bc7d1504475b1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/0897c4122bccbfbf9129c6f80692dd461.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/5258fb0fab9b4e4673539e23a8f780921.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/7bd2f9fe6badacd25631a00288b282df1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/07/10/634b43152a09a4d0feae13e4a22fe2e01.png"
+	]
+}

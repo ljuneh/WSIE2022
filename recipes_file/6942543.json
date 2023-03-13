@@ -1,0 +1,81 @@
+{
+	"id": "6942543",
+	"name": "핫케이크믹스 계란빵:패키지에 쓰인대로 만드세요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/3fd1ef6243a1b3abf89a8868fbea4e1d1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942543",
+	"ingredient_ids": [
+		219,
+		226,
+		198,
+		219,
+		406,
+		212
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "우리밀핫케이크가루1봉/",
+			"ingre_count": "250",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "125",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "65",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "버터",
+			"ingre_count": "190",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "모짜렐라치즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "파슬리가루",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "호두/아몬드/초코칩",
+			"ingre_count": "",
+			"ingre_unit": "선택"
+		}
+	],
+	"recipe": [
+		"1. 반죽 재료를 넣어 섞는다",
+		"2. 종이컵이나 머핀컵(틀)에 오일을 바른 후 2의 반죽을 담는다. 5~7개 정도의 컵케이크를 만들 수 있어요",
+		"3. 반죽위에 베이컨(햄)등->계란->모짜렐라치즈->파슬리가루를 담는다",
+		"4. 180도 오븐에서 25분이상 구웠다오븐",
+		"5. 젓가락으로 찔로 보아 반죽이 묻어나오지 않으면 다 구워진 것"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/8466f2c611840fdcd1f8760c207ed7251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/2324d4134c887e6614f74811937fc8ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/d5159fd3e5ce7cc817e93a08e9fbe95b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/75c98d16d39192aeb1f0322eff45d9f81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/22/79ca8cdefd0578039348abf457b458841.jpg"
+	]
+}

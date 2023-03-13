@@ -1,0 +1,75 @@
+{
+	"id": "6891168",
+	"name": "콩나물밥 한 그릇 요리 콩나물비빔밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/06/19/d449f6a95e026ccc66d95a85df9ad12b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6891168",
+	"ingredient_ids": [
+		47,
+		96,
+		379,
+		224,
+		350,
+		660,
+		293
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "2",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 계량스푼과 계량컵 이용 1T=15ml=15cc ( (어른 밥 수저 대체 가능) 1t=5ml=5cc (찻 스푼 대체 가능) 1컵=200ml=200cc (종이컵 대체 가능) 콩나물을 깨끗이 씻어 건져 놓았어요~!!~",
+		"2. 일반 쌀일 경우엔 30분 정도 불려줍니다 전 포프리쌀을 이용했기에 씻어서 바로 밥을 했어요~!~~",
+		"3. 콩나물에서 수분이 나오기 때문에 평상시보다 물을 조금 덜 넣어야 맛있는 밥을 드실 수 있어요~!~ 밥이 끓기 시작하면 콩나물을 넣고 중약 불로 줄여서 5분 정도 끓이다가 약불로 뜸을 들여줍니다~!~",
+		"4. 양념간장에 파 대신 꽈리고추를 썰어서 넣었어요~!!~",
+		"5. 콩나물의 고소한 향이 가득하네요~!~~ 콩나물은 아삭하고 밥은 꼬들꼬들하니 너무 맛있게 되었네요~!~~ 콩나물과 밥을 잘 섞어준 다음 그릇에 담아주면 됩니다~!~~",
+		"6. 콩나물밥이 완성되었어요~!~~",
+		"7. 콩나물밥에 양념장을 올려줍니다~!!~~",
+		"8. 살살 비벼주면 맛있는 콩나물밥 빨리 떠서 입으로 가져가고 싶어요~!~~",
+		"9. 와~~고소한 향기 가득 너무 맛있어요~!~~ 콩나물이 어찌나 아삭한지요~!~ 처음부터 콩나물을 넣어 밥을 하면 콩나물의 아삭하지 않는답니다~!~~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/19/c72ead94a6ef34e4460bbc85c18117891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/19/17c41493cdb36b2cc2937a5deafb3f121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/19/18a8a1ea17c73a4939c56d9ef3c7f27b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/19/56bcf4e3c56006c5cec9c2fc33e4bbf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/19/ef60aa66a0784a4f2c6aa384c69c791e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/19/ffd62896269578ee4bfbae1377241a011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/19/684f10d850f4f31907d434e6c1233f3e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/19/c495e6f38536ebac4cd1a34a927887c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/06/19/a5e1956179cc38873490c1034852eb361.jpg"
+	]
+}

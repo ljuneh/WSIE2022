@@ -1,0 +1,62 @@
+{
+	"id": "6855417",
+	"name": "단호박케이크",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/26/906281be6ab8d882417524049c6fad701.jpg",
+	"url": "https://www.10000recipe.com/recipe/6855417",
+	"ingredient_ids": [
+		372,
+		638,
+		219,
+		504
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "미니단호박",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "핫케이크가루",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 단호박은 껍질을 벗기고 안에 씨앗도 빼고 적당한 크기로 잘라 준비합니다. 딱딱한 단호박은 전자렌지에 1~2분정도 돌린후 칼로 자르면 편해요.전자레인지",
+		"2. 그릇에 우유 200ml 달걀 2개 잘 풀어 주고 핫케이크 400g을 넣어 반죽합니다.",
+		"3. 밥통에 식용유를 바르고 반죽을 부어 줍니다.",
+		"4. 준비해 놓은 단호박을 넣고",
+		"5. 만능찜(20분)으로 2번 40분 쪄주심 되요.",
+		"6. 전기밥솥 케이크 완성.",
+		"7. 밥솥을 뒤집어 쟁반이나 도마위에 케이크를 꺼내 주심 됩니다. 쉽게 툭하고 나와요.",
+		"8. 먹기 좋은 크기로 잘라 주세요.",
+		"9. 핫케이크가루 그리고 전기밥솥을 이용해 만든 케이크. 어때유. 쉽죵? 노오란 단호박이 가득 가득 들어 있습니다. 단호박 대신 고구마 넣어도 좋을듯."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/23ac7b3be46cb37e2195d08f13c548a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/4e1c54fe3ff6b799fc61c182667e94011.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/e0d301f685028583ae303dc0100960991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/b19533ac10ca4e15e9fcd0a8f282f9a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/5034a58768af1353397ef2dff8dc37d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/cc743d9f2e969045af60cfb27ee24ceb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/e200dcd3da14e97011ad7229086b747d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/5f7aae11320a9f3486281c5d16db05a41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/30/333d04fab15340d15c56a7bb40eebf511.jpg"
+	]
+}

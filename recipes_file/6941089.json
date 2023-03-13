@@ -1,0 +1,50 @@
+{
+	"id": "6941089",
+	"name": "특유의 향이 풋풋한 간장 콩잎 장아찌",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/cfbaf55f8e64d5fcf4b1bccb89730de41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941089",
+	"ingredient_ids": [
+		226,
+		231
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "콩잎",
+			"ingre_count": "500",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양조간장+",
+			"ingre_count": "1/21",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "다시마우린물",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "",
+			"ingre_unit": "기호에맞게"
+		}
+	],
+	"recipe": [
+		"1. 여린 콩잎을 준비해 깨끗이 씻어 연한 소금물에 살짝 절여 씻어서 물기를 빼줍니다",
+		"2. (장물만들기) 간장 다시마우린물 설탕 식초 넣어 한번 끓여 식혀 줍니다",
+		"3. 콩잎을 용기에 차곡차곡 담고 장물이 완전 식었을때 콩잎에 부어 줍니다",
+		"4. 연하고 부드러운 콩잎 장아찌 입니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/3b0e39574846dd2e9ae677b492f7de1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/4064d2703e98f57cede4be4523024fa71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/8617c3e8602413ab16730e0e42bbfae31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/05/9b6437ac38b46b7203a07b67b5540b491.jpg"
+	]
+}

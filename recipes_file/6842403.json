@@ -1,0 +1,38 @@
+{
+	"id": "6842403",
+	"name": "설탕 라면땅 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/01/31/ac14089f62573e3466867279eb96c6551.jpg",
+	"url": "https://www.10000recipe.com/recipe/6842403",
+	"ingredient_ids": [
+		441,
+		226
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "라면",
+			"ingre_count": "1",
+			"ingre_unit": "봉지"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리브유또는식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 라면봉지에서 스프를 빼고 비닐봉지안에 라면봉지를 넣고 마구 부셔줍니다. *그냥 라면봉지만 들고 부시면 터질수있으니 비닐봉지를 씌우는걸 추천해요!!",
+		"2. 프라이팬에 기름을 두르고 중불에서 뒤적거리면서 라면을 볶아줍니다. 약간 노릇노릇해지면 설탕4T을 넣고 볶습니다.",
+		"3. 계속 뒤적거리면 갈색빛이 돌기시작하면 불을 꺼주면 완성!! 너무오래하면 설탕이탈수있으니 항상 중약불유지^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/31/315b19197c0b6f277344bc212a337d591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/31/91389883089ccde52bb6e30d65fb49eb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/01/31/73aa76ec1c53d8384def9a85fc2965421.jpg"
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"id": "6937586",
+	"name": "얼갈이 된장국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/07/27/eef4172826c16422bccbd37d3fa03c6e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6937586",
+	"ingredient_ids": [
+		27,
+		29,
+		295,
+		504,
+		848,
+		540
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "얼갈이",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "굵은고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "꽃소금",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 얼갈이는 깨끗이 씻어서 뿌리를 제거하고",
+		"2. 끓는 물에 꽃소금 1큰술 넣고 살짝 데쳐 준비하고",
+		"3. 3센치 크기로 썰고",
+		"4. 펜에 식용유 1큰술 두르고 대파 어슷하게 썰어넣고 볶은 다음",
+		"5. 얼갈이를 넣고 살짝 볶은 다음",
+		"6. 된장 3큰술 넣고 볶아줍니다",
+		"7. 고추가루 1큰술 넣고 볶아서 향이 올라오면",
+		"8. 육수를 1500미리 넣고",
+		"9. 청양고추 마늘을 썰어넣고",
+		"10. 10분정도 약불에서 보글보글 끓여 줍니다"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/27/9113b50a30e63b1b1c3aacfd8e4431991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/27/f2b0ce7e9aa904e15ae7faa50693686f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/27/f5a1e484f0bcb0ea045eef26536e1dea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/27/05b972127848c7506d14ea50249635341.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/27/ce897b8b75455dcdab144f164e9a0c8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/27/77b6ecb47727feb1d6c779fa9191cc351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/27/ea7d80bbcb471a3a5905b998a95fcdf91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/27/3285657a3e6524a9c62cdb1f1ce66e021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/27/8437159bafec599a4e6f1703bc7de0cf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/27/af081eba78d474bfb1bbea640bfb7a0f1.jpg"
+	]
+}

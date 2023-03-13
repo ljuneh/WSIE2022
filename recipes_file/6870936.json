@@ -1,0 +1,42 @@
+{
+	"id": "6870936",
+	"name": "초당옥수수 찌는법~!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/06/08/5fe942e64b3d802a1d0fd5a3bacf57101.jpg",
+	"url": "https://www.10000recipe.com/recipe/6870936",
+	"ingredient_ids": [
+		497,
+		226
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "초당옥수수",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		}
+	],
+	"recipe": [
+		"1. 초당옥수수의 껍질과 수염을 제거해주세요",
+		"2. 물에 살짝 씻어주시구요",
+		"3. 냄비에 물을 가득 끓이고 옥수수를 넣어줍니다",
+		"4. 보통 옥수수는 소금과 설탕의 비율을 1:4로 하고 초당 옥수수는 소금과 설탕을 1:2로 해주거나 소금만 약간 넣고 쪄줘요~",
+		"5. 보통 20분정도 찌고 알을 눌러본뒤 안익었으면 조금 더 쪄주세요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/08/0556feabde3e67721f281a47fb4e06691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/08/c9d054c16125bab1718fb280dc7806d21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/08/0695c589ea7a18a8ff52da9f54cf5eec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/08/c5086baf5b93418526068b1f5a0e4fb21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/06/08/b67ba6e5b381d45a359ae41510bb0cb41.jpg"
+	]
+}

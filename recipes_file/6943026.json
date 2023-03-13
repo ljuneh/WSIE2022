@@ -1,0 +1,131 @@
+{
+	"id": "6943026",
+	"name": "LA갈비찜 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/dea7056c02cc23b350aa2acd312dc9181.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943026",
+	"ingredient_ids": [
+		9,
+		19,
+		911,
+		295,
+		158,
+		3,
+		379,
+		226,
+		995,
+		660,
+		233,
+		579
+	],
+	"time": "90",
+	"ingre_list": [
+		{
+			"ingre_name": "LA갈비",
+			"ingre_count": "1.",
+			"ingre_unit": ".kg"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "버섯",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "떡",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "사과",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "대파다진것",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "소주",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "묵",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 냉동된 LA갈비를 찬물에서 핏물을 제거합니다. - 설탕을 2-3푼 넣어주면, 핏기가 빨리 제거될 수 있습니다. - 중간에 물을 갈아주면서 핏기를 제거합니다. (약 40분 이상 담궈 주시면 됩니다.)",
+		"2. 사과와 양파를 넣고 갈아줍니다. - 핏물을 제거하는 동안 갈아줍니다. - 사과 대신 배 또는 키워를 넣어도 좋습니다.",
+		"3. 사과 및 양파를 갈은 것은 1차 적으로 삶은 고기를 재우기 위해서 입니다.",
+		"4. 양념장을 만들어 주세요. (시판용 사셔도 됩니다) - 간장 3컵(소주잔 기준), 설탕 1컵(소주잔), 물 3컵(소주잔 기준), 참기름 2스푼, 다진마늘 2스푼, 대파 다진것 1푼, 소주 2컵(소주잔)",
+		"5. 야채를 준비 해줍니다. - 당근, 무, 버섯 등의 야채를 준비합니다. - 모양은 원하시는대로 하시면 됩니다.",
+		"6. 핏기가 빠진 갈비를 깨끗하게 씻어 줍니다. - 씻은 갈비는 끓는 물에 1차 삶을 예정입니다.",
+		"7. 끓는 물에 3~5분간 삶아 주시고, 찬물에 행굽니다. - 1차로 삶으면서 불순물을 제거하고자 함 입니다. (기름기 및 불순물 제거)",
+		"8. 손질 후, 드시기 좋은 크기로 잘라 주세요.",
+		"9. 사과와 양파 간 것을 삶은 고기에 버무려 줍니다. - 약 20~30분간 버무린 채 재워 둡니다. 재워둔 고기에 양념장을 넣어 줍니다. - 양념장을 넣고 나머지 20~30분을 더 재웁니다.",
+		"10. 갈비가 양념이 살짝 잠기도록 물을 넣어 줍니다.  - 그리고 불을 켜고, 물의 양과 간을 확인하면서 고기에 양념이 배이도록 졸여 줍니다. - 나머지 야채들도 넣어 줍니다.(단단한 순서대로 넣습니다.)",
+		"11. 개인 기호에 따라 청양고추를 넣고 더 끓여 주시면 됩니다. - 고기나 야채 등이 타지 않도록 잘 저어주시고, 중간 중간 국물 맛을 보며 간을 추가해 주시면 됩니다. (싱거울 경우, 간장 및 소금을 조금씩 더해 주시거나 국물을 조려주면 더 짭조름하게 드실 수 있습니다.)",
+		"12. 마지막으로 떡볶이용 떡을 넣어주셔서 더 끓여 주시면 됩니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/0eb87b097b532b7228e0b25adf39d8201.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/8914f51d5443c3c9414dff14a5777ec01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/590352077eab35da43cb3450554f233f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/cc6195dee76e88de456fce87882e78d71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/bef2f04cf075ecf1b5eb537bd93cc0bc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/ada83c769470167bd9802e2bbd2560e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/6aa822a41cf19fecf024abc385337f481.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/64ea3f3e3d225b08199975f49fc798d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/0b12a489b5708938734e84ea0bce3a5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/3be220f1b6525e7a2fd97a6b9726bbec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/a1d106432748110e06856d2334564f611.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/28/290d5ed407ad61111dcf16f644e63f801.jpg"
+	]
+}

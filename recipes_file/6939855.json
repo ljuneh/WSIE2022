@@ -1,0 +1,71 @@
+{
+	"id": "6939855",
+	"name": "부추전 만들기/ 건새우 넣고 만든 백종원 레시피 응용편",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/22/6f80b3b589fd08279477f433bb89eed61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6939855",
+	"ingredient_ids": [
+		30,
+		259,
+		734,
+		295,
+		939
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "건새우",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "1.",
+			"ingre_unit": ".컵"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "반죽물",
+			"ingre_count": "3/4",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 깨끗이 손질된 부추는 짤막하게 썰어 줍니다.",
+		"2. 건새우는 물에 한 번 씻어 주세요",
+		"3. 잔새우는 그대로 사용하시면 되는데 큰 것은 대충 다져 주세요",
+		"4. 땡초와 마늘도 다져 준비해 줍니다",
+		"5. 부침가루와 튀김가루를 반반 섞어서 반죽물을 만듭니다.",
+		"6. 준비한 재료들과 액젓 을 넣고  살살 버무려 주세요  밀가루양이 많으면 전이 맛이 없어요",
+		"7. 적당한 크기로 두껍지 않게 얇게 부쳐 줍니다.",
+		"8. 밀가루가 적게 들어가면 전 색깔도 예쁘게 나옵니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/c32ad172dddec984240864d99ab9c9971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/8483536cbf848d54715a87e113a8fcbd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/c01d6026e18b75fc72d08f7bd383bf4c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/ff0f158a17dfa3409f83725593655e171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/6e4c16ad9bfc71a97ad5a23d879ab6a61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/de4fd4f8a022c7fc1a666c56138b02de1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/4578877e8053f3e92b23ab5615174fd41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/23/09b75d0ce27cbbea2b06a75545a8c1e11.jpg"
+	]
+}

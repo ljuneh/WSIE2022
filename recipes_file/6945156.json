@@ -1,0 +1,78 @@
+{
+	"id": "6945156",
+	"name": "깔끔하고 맛있는 분식집 떡볶이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/ae76ab9061923db1930c02281df64abb1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945156",
+	"ingredient_ids": [
+		972,
+		548,
+		27,
+		276,
+		226,
+		341,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "떡볶이떡",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "어묵",
+			"ingre_count": "2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "고운고춧가루",
+			"ingre_count": "7",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "다시다",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "미원",
+			"ingre_count": "0.",
+			"ingre_unit": ".큰술"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 물 500ml에 만들어 둔 양념과 떡을 넣고 강불에 끓여주세요양념은 미리 만들어 하루 이상 냉장 숙성 시키면 더 맛있어요!!",
+		"2. 떡이 불어나면 어묵, 대파를 넣고 중약불에 졸여줍니다눌지않게 잘 저어주세요",
+		"3. 잘 졸여진 떡볶이는 맛있게 먹습니다 떡에 양념이 쏙쏙 베어 맛이 아주 좋아요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/ac559da976e72080fb9591926b952ae01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/5de7d68a545fd274969c920b86a853381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/28/9d426fd34df3ddbc35d757fce95ab5a91.jpg"
+	]
+}

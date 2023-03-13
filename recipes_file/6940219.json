@@ -1,0 +1,57 @@
+{
+	"id": "6940219",
+	"name": "쌀소면으로 만드는 간장비빔국수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/dd0b560d7cc32d609eeff9bbef86876a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940219",
+	"ingredient_ids": [
+		523,
+		327,
+		290,
+		966
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "소면",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "채썬깻잎",
+			"ingre_count": "8",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "조미김",
+			"ingre_count": "6",
+			"ingre_unit": "장"
+		}
+	],
+	"recipe": [
+		"1. 끓는물에 쌀소면넣고 3분 삶아 줍니다",
+		"2. 우르르~~ 끓으면 물 붓기 3번하면 맞춤하게 삶아 집니다",
+		"3. 흐르는 물로 씻어 건져서 사리 지어 놓아요 ㅎ 4인분이라 했는데 우리는 3인분..",
+		"4. 쌀 소면 넓은 볼에 담고 채썬 깻잎(8장), 들기름(3T), 진간장(2T) 깨(1/2T)넣고 조물조물 무쳐 줍니다 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/a3c50cc448155618fb1c46afd80ba63c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/5e1957e9f217c5713da544de0f8194c61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/a4682e9b18e2eb90143f4e8a4cdf957f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/25a15682c9c0c3cace4048db3e7fa3e31.jpg"
+	]
+}

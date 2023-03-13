@@ -1,0 +1,54 @@
+{
+	"id": "6867033",
+	"name": "새콤한 오이피클~♥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/03/18/7244a24673fedc523044c1afa19c39621.jpg",
+	"url": "https://www.10000recipe.com/recipe/6867033",
+	"ingredient_ids": [
+		8,
+		995,
+		231,
+		226
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "15",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "꼿소금",
+			"ingre_count": "2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "6",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "컵"
+		}
+	],
+	"recipe": [
+		"1. 오이를 준비해서 굶은 소금으로 씻어 주세요~색이 선맹해진답니다^^",
+		"2. 씻어서 물기를 제거해 주세여~~",
+		"3. 그담에 본인이 먹기좋게 썰어 줍니다~^^",
+		"4. 냄비에 종이컵으로 물7 식초4설탕4 꽃소금 2스푼 추가 섞어서 녺여주시고 물이팔팔 끊으면~~",
+		"5. 스텐 그릇에 오이를 담고 끊인식초물을 부어주시고 하루실내에 뒀다가 다음날 냉장고 넣어두시고 먹음됀답니다~~^^"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/18/21668a4f7766fdfb35263675991e6c981.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/18/d286e0f3468c3c4ae6e3c5d27a04e5b71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/18/cd13a01ab18ed5ceac37ed68a2ab15b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/18/dba83f29cbf9082e819d8f048a5393451.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/03/18/86c93efc8e11bbe0e69725c6cfae16381.jpg"
+	]
+}

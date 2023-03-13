@@ -1,0 +1,66 @@
+{
+	"id": "6942880",
+	"name": "초간단 한끼~!! 베이컨 볶음밥 만드는 법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/d456b9a618e8b7e03914f36b614d8b951.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942880",
+	"ingredient_ids": [
+		29,
+		406,
+		27,
+		504,
+		497,
+		225
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "베이컨",
+			"ingre_count": "4",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/4",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 달군 팬에 기름을 두르고 채썬 마늘을 볶아줍니다.마늘3쪽, 식용유1큰술팬약불",
+		"2. 마늘향이 올라오면 채썬 베이컨을 넣어 볶아줍니다.베이컨4장중불",
+		"3. 베이컨이 볶아지면 채썬 대파를 넣어 볶아줍니다.대파1/4대",
+		"4. 대파향이 올라오면 밥을 넣어 볶아줍니다.밥1공기",
+		"5. 후춧가루와 소금으로 간합니다.후춧가루 약간, 소금 약간"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/d1618a229cc3394fe163af017263d90f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/6423af5fc46568565669a53858b569741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/3ecb2ecc6fa430104d2911b90d2444dc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/e6295dc44e098ee962c8ff46118a6d0d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/25/3204dc3c8c400d6342fec6a6908593621.jpg"
+	]
+}

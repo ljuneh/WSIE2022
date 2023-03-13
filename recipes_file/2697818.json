@@ -1,0 +1,35 @@
+{
+	"id": "2697818",
+	"name": "매실 액기스 만드는법",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/563bc30cc4404f7f29bacfb5c1a480d4.jpg",
+	"url": "https://www.10000recipe.com/recipe/2697818",
+	"ingredient_ids": [
+		136,
+		226
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "매실",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 소다 부어서 10분 이상 담가두었습니다. 그리고 소쿠리에 받쳐서 흐르는 물에 깨끗이 헹궈주고요.",
+		"2. 소쿠리로 받쳐서 반나절 정도 두어 물기 없이 건조시킵니다.",
+		"3. 하나씩 이쑤시개로 꼭지부분을 떼냅니다.",
+		"4. 매실과 설탕을 1:1 비율로 번갈아 가며 통에 넣어줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/e956df2796e0663750be116610b5403b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/b92ebaca96407414f513bd4d476bb2e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/5502a5b71755fc36266eb542177114ad1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/07/28/a4fac6afcb392ec427a4c7677d4602871.jpg"
+	]
+}

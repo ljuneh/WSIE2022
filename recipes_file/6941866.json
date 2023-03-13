@@ -1,0 +1,87 @@
+{
+	"id": "6941866",
+	"name": "가와지 1호를 이용한 <꼬치김밥세트>",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/00278b475956c1156c8eba4c7f9b2e861.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941866",
+	"ingredient_ids": [
+		660,
+		953,
+		628,
+		238,
+		15,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀종이컵",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "돼지고기목살",
+			"ingre_count": "240",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "라이스페이퍼",
+			"ingre_count": "3",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "1",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. - 햄,김치,고추,고기는 작은 크기로 썰어준다. - 어묵은 1/4크기로 자른다.햄,김치,목살,고추햄은 정사각형으러 잘라줘야 이쁜모양을 잡을 수 있어요!",
+		"2. - 밥에 참기름 2T을 넣는다. - 고기,햄,김치는 고추(선택)를 넣고 구워준다. - 어묵은 기름없이 구워준다.(노릇하게)고추가 있으면 쉽게 탈수 있어서 식용유는 따로 넣지 않았어요",
+		"3. 초밥용틀을 사용하거나 초밥크기로 밥을 뭉쳐준다.다이소나 저렴한 곳에 쉽게 초밥틀을 구할수 있다.",
+		"4. 토핑밥: 만들어진 초밥밥 위에 토핑을 선택하여 하나씩 올려준다.- 다시 누를때 기름과 김치물이 밥과 혼합되지 않도록 주의!! - 토핑이 누르는 쪽에 있어야 모양을 그대로 유지할수 있어요! - 집에 있는 반찬들로도 가능해요!!",
+		"5. 뜨거운물을 준비하고 라이스페이퍼를 1/2로 잘라서 어묵,밥,토핑 등 다양하게 차례대로 얹고 말아준다.- 장갑은 비닐을 사용하는게 더 좋아요 - 밥을 꽉눌러서 담아야 터지지않아요!! - 너무 많이 넣지말고 반틈말고 다시 넣는걸 추천드려요",
+		"6. 다양한 말이김밥들을 꼬치에 꽂아 팬에 한번 구워준다.- 살짝만 구워준다. - 약불을 유지하는것이 포인트(너무 바삭해지면 부서진다.)",
+		"7. - 계란을 풀어준뒤 약불에 1mm두께로 구워준다. - 초밥용 틀 사이즈에 맞게 자른후 토핑밥을 꺼내 말아준다. - 1/2로 자르고 꼬치에 하나씩 꽂는다.약불에 2분정도 뚜껑덮고 구워주면 쉽게 만들수 있어요.",
+		"8. 볶아둔 김치를 초밥틀에 넣고 같은방법으로 말아준다. 다만들어둔 꼬치를 도시락에 담아서 마무리~~순서를 바꿔가면서 꽂으면 훨씬 외관상 보기 좋아용 ㅎㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/82ee3a1ebbfd2f35741ac0f311856f431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/2c250d7e336828ae2abbdde9b727cdd81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/8fd5813c667729c5ce6a57676cec90091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/1ea265014c7d35acf3e0f4dd1b0fe1a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/e16dc42180373b8b04df55595fed2b311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/5d40b49b7746362d660b4d8ea52b6d851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/5862d7bc33b09ae091c569968db5521c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/ffbb3246de939c0f0324f261b3b431971.jpg"
+	]
+}

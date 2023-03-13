@@ -1,0 +1,70 @@
+{
+	"id": "6941201",
+	"name": "생선요리 산마 넣고 조려낸 맛있는 마고등어조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/fbfdc3593eaada2d7f0ae8065a97ded61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941201",
+	"ingredient_ids": [
+		995,
+		379,
+		341,
+		29,
+		846,
+		50
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "생물노르웨이고등어",
+			"ingre_count": "2",
+			"ingre_unit": "토막"
+		},
+		{
+			"ingre_name": "산마",
+			"ingre_count": "4",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "마",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 손질한 고등어를 준비 합니다",
+		"2. 마를 손질해서 조금 도톰하게 썰어 놓습니다",
+		"3. 양념장을 만듭니다",
+		"4. 마 고등어를 넣고 센불에서 조립니다",
+		"5. 생선이 익으면 접시에 담아 냅니다"
+	],
+	"recipe_img": []
+}

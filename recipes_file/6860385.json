@@ -1,0 +1,49 @@
+{
+	"id": "6860385",
+	"name": "노오븐 베이킹/햄치즈빵 : 간단한 간식 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/d9a682da8a2b69828c11d950233998f21.jpg",
+	"url": "https://www.10000recipe.com/recipe/6860385",
+	"ingredient_ids": [
+		352,
+		628
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "모닝빵",
+			"ingre_count": "3-4개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "3-4슬라이스",
+			"ingre_unit": "-슬라이스"
+		},
+		{
+			"ingre_name": "피자치즈2-3스푼(큰)",
+			"ingre_count": "2-3스푼(큰)",
+			"ingre_unit": "-스푼(큰)"
+		},
+		{
+			"ingre_name": "옥수수콘2-3스푼(큰)",
+			"ingre_count": "2-3스푼(큰)",
+			"ingre_unit": "-스푼(큰)"
+		}
+	],
+	"recipe": [
+		"1. 모닝빵, 햄, 치즈, 피자치즈 통조림옥수수, 마요네즈/꿀을 조금씩 준비해주세요",
+		"2. 모닝빵 속에 재료를 넣을 수 있도록 윗부분을 자르고 속의 빵을 빼주세요",
+		"3. 슬라이스치즈와 햄을 4등분하여 잘라서 크기에 맞춰 빵속에 넣어주세요",
+		"4. 그리고 콘옥수수를 넣어줍니다 (콘옥수수는 마요네즈와 꿀을 살짝넣어섞어주심 되요 ^^)",
+		"5. 마지막으로 피자치즈를 뿌려줍니다",
+		"6. 전자레인지에 넣고 30초간 돌려주면 끝~!! 오븐없이 간단하게 할 수 있는 맛있는 간식이 탄생하는 순간이에요 ^^전자레인지"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/eb3100b864616f06766125a7522e50fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/2c8e507679c5d1f5b96c23dc31b0afd11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/9871ee0db66b2a89bd42855059c0d3b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/48d762c9cf8beb5c1dfee77e5544391d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/a6373bfed305f45ff2f0afe25b2265971.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/10/a4660672f7b6b3330ac4d9c4d2dacdb71.jpg"
+	]
+}

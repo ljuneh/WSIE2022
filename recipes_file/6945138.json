@@ -1,0 +1,76 @@
+{
+	"id": "6945138",
+	"name": "묵은지 등뼈찜~집들이음식/술안주",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/25/472693f0feadc44e0371c6262b6bbba61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945138",
+	"ingredient_ids": [
+		15,
+		27,
+		233,
+		995
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "삶은돼지등뼈",
+			"ingre_count": "1.",
+			"ingre_unit": ".kg"
+		},
+		{
+			"ingre_name": "묵은지작은크기",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지갈비양념장",
+			"ingre_count": "5",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "후추가루",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "3~4컵",
+			"ingre_unit": "~컵"
+		}
+	],
+	"recipe": [
+		"1. 잘익은 배추묵은지를 준비해주세요 저는 작은크기의 배추로 준비했구요 큰배추라면 반포기를 준비해주시면 되세요",
+		"2.  @6945003  냄새없이 삶아낼수있는 등뼈삶는레시피로 삶아준 등뼈를 1kg준비해주세요",
+		"3. 시판용인 돼지갈비양념소스를 편하게 사용했어요 그게 싫으신경우 (진간장+올리고당+생강가루(즙)+설탕+굴소스)를 섞어서 조리하셔도 되세요 돼지갈비양념장/진간장/다진마늘/후추가루를 넣고 물 3~4컵을 넣어주세요",
+		"4. 묵은지위에 삶은등뼈를 올리고 양념장을 고루 부어주세요",
+		"5. 10분간 펄펄 끓여주시다가  아래에 있던 배추묵은지를 조심히 꺼내 위로 올려주신후 다시 10분을 추가로 조려주세요 *아래위로 섞어주시면 서로 간이스며들어 맛있어요",
+		"6. 깻잎/대파를 잘라서 올려주신후 1~2분을 더 끓여내신후 드셔주시면 되세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/1b290f4ff4cd9fcdc04926067724076f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/27470d65411d78c34940712ec84072e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/6cea4fa74302a31a9db3d6d137087dc01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/df23e3fcda2461aeffa887f0f942038f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/232b7db721786b59be4024dfe7a4322e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/efab2b707771f04f70e1d1b50a1db5f71.jpg"
+	]
+}

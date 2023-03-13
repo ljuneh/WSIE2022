@@ -1,0 +1,47 @@
+{
+	"id": "2859827",
+	"name": "탱글탱글 오미자 젤리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/22/3091edd37080b6cd33d10912fb422b18.jpg",
+	"url": "https://www.10000recipe.com/recipe/2859827",
+	"ingredient_ids": [
+		226
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "오미자액기스",
+			"ingre_count": "250",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "희석할물",
+			"ingre_count": "550",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "가루젤라틴",
+			"ingre_count": "35",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "젤라틴불릴물",
+			"ingre_count": "10",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 먼저 찬물에 가루 젤라틴을 불려 주세요. 가루젤라틴 양의 5-6배의 찬물에 불려서 사용하시면 됩니다. 꼭 찬물에 불리셔야 합니다. 불리는 시간은 10분 정도이면 됩니다.",
+		"2. 오미자 희석액을 냄비에 넣고 설탕을 넣고 불을 켜 주세요. 끓이지는 마시고 적당히 따뜻해지면 불을 꺼 주세요. 설탕과 젤라틴을 녹이기 위해 미지근하게 데워 주시면 됩니다. 오미자가 미지근해지면 불린 젤라틴을 넣고 잘 섞어 주세요. 젤라틴은 미지근한 물에서 잘 녹습니다.",
+		"3. 모양 틀이 없으면 사각밀폐용기에 부어 주신 후 냉장고에서 반나절 이상 굳혀 주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/22/95a1bf0a90c6c5061217da166ddd351e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/22/bb115847e6e173486028fb9cf7880ced1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/22/2dfa43f1eb4289cfc6420ba36d9dbcd81.jpg"
+	]
+}

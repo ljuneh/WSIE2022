@@ -1,0 +1,75 @@
+{
+	"id": "842392",
+	"name": "오이장아찌 무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/02/931d1bcc9ed15b9b40a75919f5b2deea.jpg",
+	"url": "https://www.10000recipe.com/recipe/842392",
+	"ingredient_ids": [
+		473,
+		224,
+		233,
+		938,
+		226,
+		350,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "오이장아찌",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 오이장아찌를 적당한 크기로 잘라서 준비하시구요.",
+		"2. 찬물에 20~30분 정도 담궈서 짠맛을 좀 빼주세요. 그냥 무치면 좀 많이 짜니까",
+		"3. 그런 다음 물기를 꼭 짜서 고추장, 고춧가루, 설탕, 다진마늘, 깨소금, 매실청, 다진파 등을 넣고 골고루 무쳐 주세요.",
+		"4. 마지막에 참기름을 약간 넣으면 완성. 저는 오이지를 무칠때도 이렇게 무쳐요. 매실청 넣음 더 맛있답니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/03/4f113e4423dd568edb947aad69cbdddc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/03/04762cd62345682ce96508aaacee1ac61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/03/358482cecf0e605c219b9b5fafd57c911.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/03/d1ac887362030b3f023bdef26e3211e11.jpg"
+	]
+}

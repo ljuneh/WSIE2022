@@ -1,0 +1,110 @@
+{
+	"id": "6942477",
+	"name": "소화가 잘되는 양배추 오리고기 쌈",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/11a3967c93c1a2d10b3467a45a608d931.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942477",
+	"ingredient_ids": [
+		96,
+		231,
+		127,
+		21,
+		497,
+		848,
+		473,
+		295,
+		233,
+		660,
+		290
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "식초",
+			"ingre_count": "1",
+			"ingre_unit": "방울"
+		},
+		{
+			"ingre_name": "오리고기",
+			"ingre_count": "300",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "양배추",
+			"ingre_count": "1/2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "물양배추",
+			"ingre_count": "",
+			"ingre_unit": "잠길정도"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "기호에따른",
+			"ingre_count": "",
+			"ingre_unit": "야채"
+		},
+		{
+			"ingre_name": "된장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실액또는사이다",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 토종벼 '조정도'로 개발한 부드럽고 찰진 경기미 참드림 쌀을 준비합니다.",
+		"2. 2.쌀은 인분에 맞추 먹을 양만큼 맞춰서 3 ~4번 물에 헹굽니다. (꿀 팁 : 밥이 더 찰지고 윤기가 흐르기위해 식초1~2방울 떨어뜨립니다.)",
+		"3. 볶음용 냄비나 후라이팬에 오리고기를 센 불-중간 불-약불 순서로 볶으면서 익혀줍니다. (팁: 성격이 급하다고 자주 휘리릭 저으면 고기가 질기고 수분이 날아가니 적당히 2~3번만 충분히 저어주어요.!!)",
+		"4. 양배추는 반으로 갈라 한장씩 떼내어가며 흐르는 물에 씻습니다. 잎파리 주위에 시커먼 부분이 보인다면 먹지말고 같이 제거해주세요.",
+		"5. 양은 냄비나 찜기를 사용하여 양배추가 잠길 수 있게 물의 양을 맞추고  물이 끓으면 양배추와 소금1스푼을 넣어 2~3분동안 앞에 한 번, 뒷면 한 번 익을 수 있도록 끓여주세요.  (식감과 기호에 따라 아삭함을 원하시면 짧게, 물컹함을 원하시면 1~2분 더 길게 익혀줍니다)",
+		"6. 다 익은 양배추는 채반에 담아 찬물로 식힌 후 락*락 같은 통에 담아 보관합니다.",
+		"7. ※된장쌈장만들기 된장 2 큰 술, 고추장 1 큰 술, 매실액 또는 사이다 1 큰 술, 청양고추 1개, 다진마늘 1/2큰 술, 참기름 1큰 술, 깨 소화가 잘되는 담백함에 찰떡궁합인 소스를 위해 된장쌈장을 만들면 심심하지 않고 입맛에도 좋은 화룡점정 완성!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/c2666ad8412ee5fe9a747dd67a26451c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/a5c965e7668fbbfe144f2e298541b9171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/b364c333c79b6e5aaddc9237162627171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/07ceca13fb83f8542c82eb3d5f0892881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/237c943a0d22b66414885761320284be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/e41733b45b1b583694c3db5f75da6f941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/21/f21fb4e5a8169c00b5b938ed0d78b2211.jpg"
+	]
+}

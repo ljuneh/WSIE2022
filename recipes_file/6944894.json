@@ -1,0 +1,74 @@
+{
+	"id": "6944894",
+	"name": "sns 화제, 색 고은 달걀말이 케이크",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/23/f204ec5885f6092afa1e5c4b3578c8c61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944894",
+	"ingredient_ids": [
+		56,
+		505,
+		497,
+		504
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "느타리버섯",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "홍초",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "청양초",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "토마토케찹",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "허브",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. ㉠ 버섯, 실파, 고추는 잘게 썰어 준비하고 계란은 소금을 넣고 흰자 노른자 풀어 준비한다.                   ",
+		"2. ㉡ 썰어둔 채소에 흰자를 넣고 잘 섞어준다.                   ",
+		"3. ㉢ 프라이팬에 식용유를 두르고 계란물을 3번에 나눠가며 붓고 돌돌 말아준다.                     ",
+		"4. ㉣ 흰자에 노른자 물을 3번 부어가며 돌돌 말아준 후 세모 모양으로 썰어준다.                         ",
+		"5. ㉤ 접시에 담아 토마토케첩, 허브 잎을 올려 모양을 낸다.                     "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/ef5af0a28b64aa8388595e233f6666b81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/93cd120f77b7ad1b2b2e7921a31c2f811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/404034950dfaefb2976f19d5aba591281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/41c1bf7407966843b1a9147d89e0a1aa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/26/e5bb048d2c50cf1d6e494aa5182549381.jpg"
+	]
+}

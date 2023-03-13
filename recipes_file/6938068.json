@@ -1,0 +1,128 @@
+{
+	"id": "6938068",
+	"name": "계란말이케이크",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/502d93d3dbdf55a58a1d0f078dc32c771.jpg",
+	"url": "https://www.10000recipe.com/recipe/6938068",
+	"ingredient_ids": [
+		469,
+		291,
+		226,
+		291,
+		226,
+		660,
+		724
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "계란",
+			"ingre_count": "8",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "카놀라유",
+			"ingre_count": "2~3T",
+			"ingre_unit": "~T"
+		},
+		{
+			"ingre_name": "빨강파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "노랑파프리카",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진당근",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "다진양파",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "맛소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2/3",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "ts"
+		},
+		{
+			"ingre_name": "케찹",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "어린잎",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 계란은 8개 준비해 주세요. 계란말이가 어느정도 도톰해야 케이크 모양이 예쁘게 나오기 때문에 6개 이상 사용하시는게 좋아요. 넓은볼 두개를 준비해 계란 흰자와 노른자를 나눠줍니다.",
+		"2. 계란흰자, 노른자에 위 분량만큼 맛소금, 설탕, 참기름을 넣고 젓가락으로 잘 섞어줍니다. 흰자는 알끈을 잘 풀어가며 섞어주세요.참기름은 노른자에만 넣어줍니다",
+		"3. 당근, 피망, 양파, 파는 잘게 잘게 다져줍니다. 약간의 색감을 위한거라 1스푼정도 씩이면 충분해요. 꼭 이재료가 아니더라도 냉장고에 있는 색감있는 자투리 야채 활용해주시면 됩니다^^",
+		"4. 잘게다진 야채는 흰자에 모두 넣고 잘 섞어줍니다.야채는 노른자에 넣지 않아요!! 흰자에 모두 넣어주세요.",
+		"5. 계란말이 팬에 기름을 살짝 두르고 사진처럼 키친타올로 닦아주세요.계란말이는 기름양과 불조절이 제일 중요해요.",
+		"6. 키친타올로 닦아내고 이 사진처럼 팬에 살짝 묻어있는 정도의 양만 남겨주세요. 도톰하게 하려고 팬의 좁은면을 앞으로 오게 해서 만들었어요.기름이 너무 많거나 불이 세면 계란이 튀겨지기 때문에 모양이 울퉁불퉁 하거나 겉면이 노릇노릇해져요",
+		"7. 팬이 예열되면 불을 제일 약한불로 줄여주세요. 계란 흰자부터 붓고 끝에서 부터 돌돌 말아주세요.약불야채는 한군데 뭉치지 않고 고르게 잘 펴지게 해주세요.",
+		"8. 끝까지 돌돌 말고 팬 빈공간에 다시 기름을 살짝 두르고 키친타올로 닦아서 팬에 살짝 묻어있는 정도만 남겨주세요.",
+		"9. 빈공간에 남은 흰자를 또 붓고 이어서 말아줍니다. 계란을 이을때 말아두었던 계란과 새로부은 계란 사이에 틈이 있을경우 계란말이가 끊기니 사진처럼 빈공간이 없도록 계란물을 채워주세요.",
+		"10. 위과정을 반복하며 말아주고 흰자를 다 썼으면 노른자를 흰자에 이어 부어 말아줍니다.",
+		"11. 흰자보다 노른자 양이 적어서 부족할수 있으니 알뜰이 주걱 같은걸로 싹싹 긁어서 알뜰하게 사용해주세요.",
+		"12. 끝까지 돌돌 말아주고 팬 벽면에 붙여서 뒤집개로 살짝 눌러서 각을 잡아줍니다.",
+		"13. 좁은양옆면은 이렇게 세워서 각을 잡아주세요.",
+		"14. 완성된 계란말이는 도마로 옮기고 충분히 식혀줍니다. (식힌다음에 잘라야 모양이 깔끔하게 잘 나와요)",
+		"15. 가로 양쪽면이 케이크 뒷면이 되도록 사진처럼 잘라줍니다.",
+		"16. 마지막으로 데코!!  케찹으로 동그랗게 짜주고~",
+		"17. 작은 어린잎을 올려 데코해주세요.",
+		"18. 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/31f5da044b8417df3f2683d8c90c797d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/7b6e6245baee7a80e17b641a3ea3cd171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/260910a8fff0f3c8a9c901cb9555b53c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/08a499bb22df08a9c82b24450facbe391.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/b932086434b5b8a6928be5889410e3c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/2821b6a738afffeac3fac0e2be5f58431.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/8ab9a52069dc5377634ea3e2e76276c41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/8441392ba80087ff0f599daa839200ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/fd8b56e55fa973561a865dafab88364f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/66384489b04a98a2cac45d7770bf85f11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/9ea2248a3dda689afc8eab9927c8f6ed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/4d3393dd33b8930ca0d07f1dfc90f1fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/530e30ab6b75c879bd00a3c428c706ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/4b4481087dc05a31c04abcd0ce2cfdcd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/2d98477368595edb6139dbdf92f1cec41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/026d7dfa3c587aacb51b8537300bc28d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/e81d8a1bdbf3a24bfb2b8290cc48c11c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/07/30/b93f5ea960eb90eb93cbd49fae21a52d1.jpg"
+	]
+}

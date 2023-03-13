@@ -1,0 +1,41 @@
+{
+	"id": "6870064",
+	"name": "바삭하고 고소한 방게 튀김",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/05/20/0f3d0c55efec3a6807400975711f3f2b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6870064",
+	"ingredient_ids": [
+		504
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "방게(칠게)",
+			"ingre_count": "1",
+			"ingre_unit": "사발"
+		},
+		{
+			"ingre_name": "녹말가루",
+			"ingre_count": "3-4큰술",
+			"ingre_unit": "-큰술"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 방게는 찬물에 여러번 씻어 줍니다.",
+		"2. 체에 받쳐 물기를빼고, 녹말가루를 넣고 고루 섞어준후",
+		"3. 팬에 기름을 넣고 온도를 올린후 방게를 한마리 넣어 보고 끓어 오르면 여러번 나눠서 넣고 튀겨 줍니다",
+		"4. 노릇하고 바삭하게 튀겨진 방게는 건져서 기름을 빼고 다시 한번 튀겨 줍니다.",
+		"5. 완성접시에 담아냅니다 "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/90675a9d80482c23400c8544611c56a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/dd0219c80d7f71717826233ab7d8efa41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/c7ac7edeffc49f5fbe8707e04facd5da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/38c9e31aa0e7c3ec7596c4f9d39084ea1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/05/22/976df8b885a3ce63f3bad2ab0e4ae5d41.jpg"
+	]
+}

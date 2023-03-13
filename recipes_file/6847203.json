@@ -1,0 +1,50 @@
+{
+	"id": "6847203",
+	"name": "대패삼겹살 구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/04/30/5cd900f6644b1cfcb45215d5107ba7f11.jpg",
+	"url": "https://www.10000recipe.com/recipe/6847203",
+	"ingredient_ids": [
+		54,
+		3,
+		29
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "​대패삼겹살",
+			"ingre_count": "1",
+			"ingre_unit": "팩"
+		},
+		{
+			"ingre_name": "양송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "움큼"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 대패삼겹살 1팩",
+		"2. 양송이버섯 한움큼, 양파, 마늘을 준비했어요.",
+		"3. 워낙 빨리 익어서 팬만 달궈 놓으면 재빨리 앞",
+		"4. 뒤로 구워주면 된답니다. 한편엔 양파와 마늘 버섯을 삼겹살 기름에 구워주었어요.",
+		"5. 요즘엔 판 벌여놓고 굽는게 싫어 후라이팬에서 바로 구워 다 같이 먹는걸 선호하고 있어요. 누군 굽고 누군 먹기만 하는게 좀 그렇잖아요.",
+		"6. 상추에 밥이랑 고기 야채 얹어 한쌈 싸서 앙앙. 기름진 고기가 아니라서 저도 양껏 먹었는데 아주 꼬숩고 맛있었어요. 고기 한번 구워줘야 식구들이 모이니까 종종 고기파티 좀 해야겠어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/eb0a5cdfde7a69b7f7ebcbd06d4b1c271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/d57010c6ba5bff476fb63dbc341cac951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/fd4fd51fa2e0acb8e5f76bad25cbca311.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/8794a63b57799d74742dff6d1cef7ea81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/37c41e0d1ea6e2f0989a4b87c5b0a4a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/05/02/f2f99be98231ff9692b2b7bb808947711.jpg"
+	]
+}

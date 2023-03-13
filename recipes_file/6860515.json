@@ -1,0 +1,69 @@
+{
+	"id": "6860515",
+	"name": "초간단 상추무침 상추겉절이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/11/11/77177f8a7dfc133b4d86ae84d67ec8011.jpg",
+	"url": "https://www.10000recipe.com/recipe/6860515",
+	"ingredient_ids": [
+		16,
+		505,
+		224,
+		233,
+		379,
+		938,
+		327,
+		290
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "상추",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "1",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "들기름",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양념재료를 깨를 제외하고 모두 넣어 섞어주세요",
+		"2. 실파는 길게 썰어 넣어주시구요~ 실파대신 대파를 어슷썰어 넣어주셔도 좋구요 양파,당근등 야채를 같이 넣어주셔도 좋아요~",
+		"3. 상추를 먹기좋게 썰어 넣어 살살 무쳐주시고 통깨 솔솔 뿌리면 완성입니다~ 상추를 시어머님께서 텃밭에서 기른것을 주셨는데..사진이 없어서 예전 사진으로 대체합니다~ㅎ"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/11/75533895f36155d3536591acde973fdf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/11/aa5552504df8fadb7a69917bb2d186071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/11/07ce3a70da3aa9444a61f115b1adab001.jpg"
+	]
+}

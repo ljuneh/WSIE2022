@@ -1,0 +1,79 @@
+{
+	"id": "1080005",
+	"name": "굴두부국",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/09/23/fea39cdcdf4f2ffd49e4402a16163b23.jpg",
+	"url": "https://www.10000recipe.com/recipe/1080005",
+	"ingredient_ids": [
+		19,
+		323,
+		505,
+		995,
+		90,
+		320
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "싱싱한굴",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "두부",
+			"ingre_count": "100",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "실파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "다시마",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "새우젓국물",
+			"ingre_count": "1~2큰술",
+			"ingre_unit": "~큰술"
+		},
+		{
+			"ingre_name": "마늘(다지기)",
+			"ingre_count": "2",
+			"ingre_unit": "알"
+		}
+	],
+	"recipe": [
+		"1. 굴은 옅은 소금물에 살살 씻어 체에 밭쳐 물기를 제거해주세요.",
+		"2. 두부를 포함한 나머지 재료들은 죠렇게 썰어서 준비해주세요. 마늘은 잘게 다져주시구요.",
+		"3. 500ml의 물에 다시마와 멸치를 넣고 끓여주세요. 물이 끓으면 다시마는 건져내고 불을 줄여 한 10분정도 더 끓여주세요.(육수를 체에 한번 걸려주세요.) 무우를 넣어주세요.",
+		"4. 무우가 익어가면 두부+홍고추+다진마늘을 넣고 끓여주세요. 두부가 익어 부드러워지면 굴+실파를 넣어주세요. 간은 새우젓 국물로 해주면 된답니다. (간은 각 가정의 입맛에 맞게 1~2큰술을 가감하시면서 해주세요.)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/6e3e139ff8f1c8f133b9b52cdf91100e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/cf05681939060f4e9824e909671619281.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/5355d5890b7ae5a71dca32b4805d15921.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/09/24/c1d8426aefb60de40e9cd755afec9a051.jpg"
+	]
+}

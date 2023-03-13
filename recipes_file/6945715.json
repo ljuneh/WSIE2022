@@ -1,0 +1,82 @@
+{
+	"id": "6945715",
+	"name": "부드러운 뱅쇼, 미슐랭 레시피로 만들기 (팁있음)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/67463d7c8ce2c029b158bed76179cace1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945715",
+	"ingredient_ids": [
+		246,
+		995,
+		165,
+		226,
+		28
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "레드와인",
+			"ingre_count": "1",
+			"ingre_unit": "병"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "오렌지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "정향cloves",
+			"ingre_count": "12",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계피",
+			"ingre_count": "1",
+			"ingre_unit": "스틱"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "4",
+			"ingre_unit": "아빠숟가락"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1~2조각",
+			"ingre_unit": "~조각"
+		},
+		{
+			"ingre_name": "바닐라빈",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "혹은바닐라페이스트",
+			"ingre_count": "1",
+			"ingre_unit": "아빠숟가락"
+		},
+		{
+			"ingre_name": "혹은바닐라익스트랙",
+			"ingre_count": "2~3티스푼",
+			"ingre_unit": "~티스푼"
+		}
+	],
+	"recipe": [
+		"1. 생강: 껍질 벗겨 손가락 마디 정도의 1 ~2 조각 준비해요. 오렌지: 식초물에 담궈 껍질을 빡빡 닦아 반으로 갈라요. 정향: 반으로 가른 오렌지의 껍질에 꽂아주세요. 바닐라빈: 반으로 갈라 씨를 긁어 모아두고 껍질도 쓸거에요.",
+		"2. 냄비에 오렌지, 계피, 생강, 설탕 그리고 물을 넣어요. 약불에 데우기 시작해요.약불",
+		"3. 잠시 후 따듯한 김이 올라오면 바닐라빈 껍질과 긁어둔 씨를 넣어요. 약불 유지.약불",
+		"4. 이어서 와인 1병을 모두 넣어요.약불와인: 어리고 타닌이 적고 과일향이나는 메를로, 가메(보졸레), 씬쏘 품종 추천해요. 비싼 와인이나 저가는 피하고 중저가로 구매하면 좋아요. 와인의 신맛은 열에 의해 사라지니 걱정마세요. 타닌이 많은 와인은 설탕 조절이 어려워 같은 맛이 나오기 힘들답니다. ",
+		"5. 약불에 20분 데워주세요. 끓기 전까지의 수준이라고 보시면 되어요.약불뱅쇼는 센불에 막 끓이면 와인의 맛이 사라지고 떫거나 쓴맛이 올라오기 때문에 약불을 유지해야해요.",
+		"6. 촘촘한 체에 걸러 드시면 되어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/f7463c4e17731dd967b2ff07e73076851.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/fdcf07ddff94a40326ad8a6a8458074d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/bed70d6d8b9cd6864fa122ade9de998a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/d91141ddbfb700fee5827ef44c3d3cd91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/bc8a5d45c39724b6b5e3ea53a3b4672a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/05/719f0179016aa6699dcfc292de802e511.jpg"
+	]
+}

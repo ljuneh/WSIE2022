@@ -1,0 +1,55 @@
+{
+	"id": "6943797",
+	"name": "간단 한그릇 햄 김치볶음밥~*",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/70dd298cea603437d3838c5bfbb7c3601.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943797",
+	"ingredient_ids": [
+		953,
+		628,
+		379
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "김치",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "햄",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "톡톡"
+		}
+	],
+	"recipe": [
+		"1. 햄,파 썰어 팬에 담고",
+		"2. 기름을 두르고 슥슥~ 볶아주세요",
+		"3. 김치 송송 썰어넣고",
+		"4. 간장반스푼,후추톡톡 넣고 볶아줍니다 적당히 볶아지면",
+		"5. 밥1인분량 투하~",
+		"6. 슥슥~ 볶아 그릇에 담아내요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/bb20be76fd4d4fdf7b284c42a5d6b5461.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/22c8c8d48db3cb624f4b1ca04e6e081b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/18162cc5ac26a4106ee088ff137f35c91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/cc2021ef6a31c538135923107e635d291.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/c99800e01f3f080f51a10357961f88021.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/10/7707d4fce8b93495888f26a2d187fb601.jpg"
+	]
+}

@@ -1,0 +1,93 @@
+{
+	"id": "6899265",
+	"name": "해물찜처럼 맛있는 백종원 소시지콩나물찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/f700f1964219a06e73be2c8d314ab4641.jpg",
+	"url": "https://www.10000recipe.com/recipe/6899265",
+	"ingredient_ids": [
+		47,
+		27,
+		3,
+		473,
+		379,
+		226,
+		660
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "콩나물",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "비엔나소시지",
+			"ingre_count": "1",
+			"ingre_unit": "봉"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "믈1컵(종이컵)",
+			"ingre_count": "1컵(종이컵)",
+			"ingre_unit": "컵(종이컵)"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "4",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "간마늘",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 콩나물 1봉지를 깨끗이 씻어 체에 받쳐 둡니다.",
+		"2. 양파는 얇게 채썰어 주시구 대파와 비엔나소시지는 어슷썰기를 해 줍니다.비엔나소시지를 더 건강하게 드시려면 뜨거운 물에 한번 데쳐주세요",
+		"3. 팬에 식용유 약간 두르고 소시지를 달달달 볶다가 절반정도 익으면 종이컵기준 물1컵을 붓고 끓여 주세요",
+		"4. 물이 끓으면 대파,양파, 콩나물을 넣구 참기름을 제외한 양념을 다 넣고 섞어줍니다",
+		"5. 뚜껑을 닫고 팔팔 끓여 주세요.처음에는 물이 너무 적나 싶지만 야채에서 수분이 나오니 걱정안하셔도 되요  ",
+		"6. 콩나물 숨이 죽고 국물이 자작해지면 전분1T에 물2T를 섞어 전분물을 만들어 조금씩 부어줍니다전분물을 넣으면 국물이 금방 걸죽하게 되요",
+		"7. 국물이 걸죽해지면 참기름1스푼넣고 섞어주심 끝!",
+		"8. 해물찜처럼 칼칼하고 맛있는 밥도둑 백주부님 '소시지콩나물찜'이 완성되었어요.콩나물과 소시지를 함께 한입 먹어보니 아삭아삭한 콩나물에 소시지가 어우려져 참 맛있어요. 뜨끈한 밥에 김가루 약간 넣고 비벼 먹어두 넘 맛있어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/bc3b32f38d8a3494c05654ef73d03f831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/84bb71d74081663faa1a4d9f6c1abb131.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/384deb58558f864d6d30be118ab5b5c51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/9c6202831fea49125f37ee12ac306f5a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/a4f21330b95a33b0c62d5bb4a0e695c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/7a11447082b1bf96f9bdaacf0787c5811.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/1a87bf9f6dddfd766e8b971152612bac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/03/aa3b0af8d81eae951ce68bc47effda5e1.jpg"
+	]
+}

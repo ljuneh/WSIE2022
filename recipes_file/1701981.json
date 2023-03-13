@@ -1,0 +1,69 @@
+{
+	"id": "1701981",
+	"name": "조기양념구이",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/10/01/759fc63c1ee7c568f573d4cfa9d7150f.jpg",
+	"url": "https://www.10000recipe.com/recipe/1701981",
+	"ingredient_ids": [
+		27,
+		29,
+		224,
+		846
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "구운조기",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "3",
+			"ingre_unit": "쪽"
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "진간장",
+			"ingre_count": "3",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "요리당",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 먼저 뜨겁게 달군 팬에 구워 둔 조기를 올려요. 만약 생조기를 구워서 하시려면 꼭 뜨거운 팬이나 석쇠에 올려서 구우셔야 합니다. 그리고 한 면이 완전히 익으면 뒤집어서 구워주세요. 안그러면 살이 팬에 붙어서 다 떨어져요.",
+		"2. 다음은 조기에 양념장을 잘 섞어서 붓습니다. 불은 중간~약한 불로 낮추고 흘러내리는 양념장은 계속 끼얹어 주세요.",
+		"3. 고춧가루를 조기 위에 골고루 뿌리고 양념장을 끼얹어 적십니다.",
+		"4. 여기에 채 썬 대파와 마늘 그리고 홍고추를 올립니다. 그리고 또 양념장을 골고루 끼얹어 주면서 은근히 조립니다.",
+		"5. 팬 바닥에 양념이 자작해지면 불을 끄고 마무리 하세요. 너무 바짝 졸이면 양념이 타니까 조심하시구요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/02/663db3520463b13804f1b5f514c7604c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/02/09e9478dc6abbd89ea104aebc7ac58351.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/02/2f30b9aa41c39a3e05a8856d03b3dac41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/02/2196021d9202a304b6fc168a3b837fae1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/10/02/1cf09739b95c2b7c422e4aa23ec3531c1.jpg"
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"id": "6857165",
+	"name": "부추만두 - 촉촉하게 쪄서 먹고 구워먹고 속이 꽉찬 고기만두",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/09/16/95358d712857a342417fe24164ee3fc71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6857165",
+	"ingredient_ids": [
+		219,
+		30,
+		233,
+		660,
+		379,
+		225,
+		343,
+		497,
+		504,
+		286
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "다진고기",
+			"ingre_count": "400",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "원하는만큼"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후춧가루",
+			"ingre_count": "",
+			"ingre_unit": "."
+		},
+		{
+			"ingre_name": "미림",
+			"ingre_count": "1",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "만두피",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 다진고기에 다진마늘2,간장2,후추0.5,미림1를 넣고 밑간을 해둔다.",
+		"2. 팬에 식용유2숟가락을 두르고",
+		"3. 고기가 뭉치지 않게 볶아준다. 볶아 줄때 소금을 조금씩 여러번 넣어 볶아주면 고기수분이 안 빠지고 간이 스며들어요. 볶아 놓은 고기 맛을 보시고 부족하면 소금으로 간을 해주세요.",
+		"4. 부추를 썰어준다.",
+		"5. 볶아 놓은 고기에 부추를 넣고 고기에 남아 있는 열기로 부추를 익혀준다.",
+		"6. 부추는 살짝 익혀주심 되요.",
+		"7. 볶아 놓은 부추,고기를 넓은 그릇에 담아 식혀둔다. 그리고 달걀1개를 넣어 반죽한다 열기를 식히지 않고 계란을 넣으면 계란이 익으니깐 꼭 식혀주세요.",
+		"8. 만두피에 만두속을 넣어 만두를 빛여준다. 만두 가장자리에 물을 묻혀주면 잘 붙어요.",
+		"9. 완성된 만두는 서로 붙지 않게 밀가루를 묻혀주세요.",
+		"10. 팬에 기름을 두르고 만두를 올려줍니다. 불은 약불로 그리고 뚜껑을 덮어 2~3분간 구워 줍니다.",
+		"11. 뚜껑을 열고 물을 살짝 넣어주세요. 그럼 찐듯한 효과가 난답니다. 뚜껑을 덮어 앞,뒤로 고루 잘 익혀주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/21/ee3d2b22bc5a9a7531a8569cca9d7e511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/21/ee7c7b83e724daeb9078befd076244f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/21/c89cb31c9dc19b0d11ac9dbacec325ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/21/5fe185c7fa759eeb3771cc0991f4e0901.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/21/5d1d441ae16272a8a60d3c89a5b340a71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/21/dcf57c3270f3cb28cd03c6129ce2c7101.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/21/050a99dbda035c05e9aa530943881b6b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/21/d2924f3fb89976481806b1b6871fa8a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/21/b2a346d9750787709e5fc3405a81d2091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/21/934f864b80e7ded7f30e8ed9c40378651.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/09/21/725e00af3fc8d644c2b9f7073efa18ae1.jpg"
+	]
+}

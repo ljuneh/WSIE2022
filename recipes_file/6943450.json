@@ -1,0 +1,72 @@
+{
+	"id": "6943450",
+	"name": "소풍 도시락에도 좋은 맛살(크래미)주먹밥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/df5611132ecaac5a3763225d54f325141.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943450",
+	"ingredient_ids": [
+		496,
+		228,
+		660,
+		497,
+		543
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "게맛살",
+			"ingre_count": "6",
+			"ingre_unit": "줄"
+		},
+		{
+			"ingre_name": "밥",
+			"ingre_count": "3",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "단무지",
+			"ingre_count": "3~4줄",
+			"ingre_unit": "~줄"
+		},
+		{
+			"ingre_name": "김가루김5장정도",
+			"ingre_count": "5",
+			"ingre_unit": "장 정도"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "3",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 먼저 재료를 준비해 주세요. 밥은 1인분당 1그릇, 맛살(크래미)는 1인분당 2줄, 단무지는 1인분당 1~2줄, 김은 1인분당 1~2장 정도",
+		"2. 맛살은 결대로 찢어서 잘게 다지고. 단무지도 잘게 다져주세요.맛살이 잘 안 찢어 지면 그냥 다져주세요.",
+		"3. 볼에 밥과 참기름 2큰술(1인분에 1큰술), 소금 1/2큰술(1인분에 1/3큰술), 통깨를 약간 넣고 섞어주세요.소금을 너무 많이 넣지 않도록 주의!",
+		"4. 다져놓은 맛살, 단무지, 마요네즈 3큰술(1인분에 1큰술)을 넣고 섞어주세요.마요네즈를 너무 많이 넣으면 느끼해져요.",
+		"5. 위생장갑을 끼고 한 입크기로 둥글게 말아주세요.",
+		"6. 김가루에 굴려가며 완성!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/6e432572cdeb4d6756bd926d534183371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/30d3ba1e48a978fc1c33fe72c45577d51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/070911e5012b74930886edadd1b3973b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/14df5f556b15193f1c1b819e0f372a541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/4f32e172d11c0190c251666640d5f7861.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/06/fc096f721fcfdba3fff27b8cf55bfe461.jpg"
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"id": "6944141",
+	"name": "고구마전 만들기, 바삭바삭해서 야식메뉴로 좋아!",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/1791d49d637fa639a646f289bd6114dc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944141",
+	"ingredient_ids": [
+		4,
+		9,
+		387,
+		734,
+		295,
+		497
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "고구마",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "튀김가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 고구마는 잘 씻어주신 뒤 껍질을 개끗하게 벗겨주세요! ",
+		"2. 고구마를 채썰어서 준비해주도록 하겠습니다.",
+		"3. 고구마의 변색을 막고, 전분을 좀 제거해주기 위해서 5분가량 찬물에 담구어 주었어요.",
+		"4. 부침가루 3큰술 + 튀김가루 3큰술 이렇게 두가지 가루를 섞어서 전을 만들어 주시면 그냥 부침가루만 사용했을때보다 훨씬 더 바삭하고 맛있어요!후추와 소금도 살짝 넣어주세요~!!",
+		"5. 미리 잘라놓은 고구마와 당근도 투하!!! ",
+		"6. 살짝 섞다가 물을 넣고 농도를 맞춰주세요. 물은 질기를 보고 추가해주시면 됩니다.매콤함을 좋아하시면 고추 송송 넣어주세요~!",
+		"7. 기름을 낭낭하게 두른 팬에 반죽을 올리고 앞뒤로 노릇하게 구워주세요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/e4b47b369e901e518092281de7b3a6ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/92a237d5b7c9fc978f9461db70fac1a11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/46004d2fd209758e62d69601a00a59991.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/cc3690f0e3444701bfac1aadbff1f4691.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/7393554f09ecceb9df86933898f28b9d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/045e191944609231c4e549fae84be3941.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/14/0952039b3edd4bd2d3e5903855e541e81.jpg"
+	]
+}

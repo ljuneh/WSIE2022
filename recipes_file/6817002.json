@@ -1,0 +1,105 @@
+{
+	"id": "6817002",
+	"name": "새송이버섯 장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/3ec8bc3f197453b449480e1743612d811.jpg",
+	"url": "https://www.10000recipe.com/recipe/6817002",
+	"ingredient_ids": [
+		58,
+		27,
+		3,
+		995,
+		575,
+		226,
+		341,
+		938,
+		846,
+		292,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/2",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "돼지고기앞다리살(없으면생략)",
+			"ingre_count": "200",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간장25TS(150ml)",
+			"ingre_count": "25TS(150ml)",
+			"ingre_unit": "TS(ml)"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "2",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "3",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "2",
+			"ingre_unit": "TS"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		}
+	],
+	"recipe": [
+		"1. 양파 반개로 잘라준비, 대파도 2~3등분으로 잘라서 준비. 새송이버섯은 2토막내서 반을 잘라준뒤 길쭉한 모양으로 썰기.",
+		"2. 먼저 냄비에 적당량의 물을 넣고, 팔팔 끓여준뒤, 잘 썰어둔 돼지고기를 넣어주세요. 이때 청주 3TS, 맛술 2TS 함께 넣어주어 잡냄새를 날려주세요.",
+		"3. 끓이다가 고기의 겉표면 하얗게 되면 이 물은 다~ 버려주시고, 고기는 찬물로 깨끗하게 씻어놔주세요.",
+		"4. 빈 냄비에 물 500ml, 간장 25TS (150ml), 올리고당 2TS, 설탕 1TS, 물엿 2TS, 매실청 2TS를 넣어주고 양파와 대파, 아까 데쳐서 씻어둔 돼지고기까지 함께 넣어주어 끓여줍니다.",
+		"5. 대파 색깔이 거무스름하게 될정도로 끓여주세요. 약 10분?!정도 됬던것 같네요. 혹시라도 기름이 많다싶으면 조금 걷어내주시구요.",
+		"6. 그리고 새송이버섯을 넣어서 한번 더 끓여줍니다. 중간불로 했다가 끓으면, 약한불에 10~15분정도 더 끓여주었는데요.",
+		"7. 시간과 상관없이 밑에 사진처럼 간장이 새송이버섯에 잘 스며들어 색깔이 갈색으로 변하면 새송이버섯장조림이 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/0281b128fec580f2ee9582896a229c421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/344c68d27c33a791768e6709da1bebd41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/1c557590d7aa5c02304f10e69c3a58701.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/8b2ef2cbb1cdfd3897f03cb851f0d9251.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/7772b040fc50d43f915ae4c64bb607211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/c773e60e86bb4f90dcd3625a90f0a1cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/08/39b7b7dcfa1d3ad469d2aef015a747cc1.jpg"
+	]
+}

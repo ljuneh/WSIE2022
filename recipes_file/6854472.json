@@ -1,0 +1,49 @@
+{
+	"id": "6854472",
+	"name": "간장비빔국수:새콤달콤 간장피클을 활용해 보세요",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/08/11/9a37a03e4e24d110cba3122403a1944a1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6854472",
+	"ingredient_ids": [
+		523,
+		350
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "간장피클주스",
+			"ingre_count": "1",
+			"ingre_unit": "컵내외"
+		},
+		{
+			"ingre_name": "소면",
+			"ingre_count": "100",
+			"ingre_unit": "그램내외"
+		},
+		{
+			"ingre_name": "김가루구운김",
+			"ingre_count": "1/2",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "깨소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 국수 삶는 동안 고명을 채썰어 준비해주세요: 늘 같은 이야기,재료에 구애받지 말고 입맛껏 냉장고 사정껏 준비하면 됩니다",
+		"2. 간장피클(장아찌)를 꺼내둔다: 간장피클 건더기(오이/양파/양배추등)가 남아있으면 그걸 고명으로 써도 좋아요 저는 삶은계란으로 간장피클을 만들었는데 계란은 다 남고 그 국물이 남아서 그걸로 만들었어요(나중에 다시만들때 사진찍어 레시피 공개할게요)",
+		"3. 소면은 끓는 물에 삶은 후 찬물에 충분히 헹워 전분기를 빼주세요: 타공채반 하나 사두니 요모조모 쓸모가 많네요...삶은 국수를 놓고 손바닥으로 비벼주니 것도 편하더군요",
+		"4. 볼에 삶은 국수를 담고 간장피클국물을 넉넉히 부어 비벼주세요: 피클주스 맛과 상태에 따라 단맛,짠맛,신맛의 양념을 첨가한다, 여기서는 다른 양념 첨가없이 그대로 사용했어요,",
+		"5. 그릇에 비빔국수를 담고 고명을 국수위나 옆에 적당히 담아주세요",
+		"6. 김가루와 깨소금도 뿌려주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/11/0bff53aa3368e5edc618e5fe70b8141a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/11/7401a35b3bef65cd629858b8f8c4d9421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/11/c560ea6f1b85b086fcb4cfb26845e49e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/11/2a0581ffb6be15f0ba8005f344d614751.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/11/99a9edad17b69d4b4aabcd6cb8fb3a231.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/08/11/10e49c7080fa105725cf269b788abc3c1.jpg"
+	]
+}

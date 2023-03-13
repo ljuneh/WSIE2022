@@ -1,0 +1,79 @@
+{
+	"id": "6943391",
+	"name": "부추김치",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/666aebb1c45f5e95895cea2fe771c85b1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943391",
+	"ingredient_ids": [
+		30,
+		939,
+		224,
+		28,
+		3,
+		226,
+		938
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "부추",
+			"ingre_count": "1",
+			"ingre_unit": "단"
+		},
+		{
+			"ingre_name": "액젓",
+			"ingre_count": "7",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "새우젓듬뿍",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "9",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "35",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "통마늘",
+			"ingre_count": "13",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실청",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 부추 깨끗히 살살~ 씻어 물기를 빼준다",
+		"2. 믹서기에 통마늘,생강,액젓,새우젓,양파를 모두 넣고",
+		"3. 윙~ 윙~ 갈아줍니다",
+		"4. 양념 볼에 붓고 고춧가루,설탕,매실청을 넣고 고루 섞어 5분정도 고춧가루를 불려둔다",
+		"5. 부추에 양념을 조금식 얹어",
+		"6. 고루 버무려주면 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/af3b218d00368bd8d6d64ece57d96bed1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/abb4bb9fcbbc07cf4eeeff4e1cb1e9f21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/727905d59eaaaafae50a204306b9bf071.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/6415b072633a42cb754c033b8f0ed1d61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/f313f83c37e9bc816034fd887033dfc81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/26/7168e98461a3084043e5e3cd0870b6491.jpg"
+	]
+}

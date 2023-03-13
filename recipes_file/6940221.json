@@ -1,0 +1,74 @@
+{
+	"id": "6940221",
+	"name": "감자요리 / 바삭하고 쫀득한 감자 꿀호떡",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/28664669d21ee55e088e7c5cb8f3fa5e1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6940221",
+	"ingredient_ids": [
+		383,
+		234,
+		497,
+		226,
+		227
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "감자小",
+			"ingre_count": "5",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "감자전분",
+			"ingre_count": "4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "꿀",
+			"ingre_count": "5",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 감자는 껍질을 제거후 잘게 썰어주세요",
+		"2. 감자를 썰어 놓은 그릇에 물 2숟가락을 넣어줍니다",
+		"3. 랩으로 완벽하게 씌워주신 다음 랩에 칼집을 작게 4-5번정도 내주세요",
+		"4. 전자레인지에서 8분간 익혀줍니다전자레인지",
+		"5. 익힌 감자를 곱게 으개어줍니다",
+		"6. 설탕 2숟가락과 소금 1/3숟가락을 넣어 골고루 섞어줍니다감자가 뜨거울때 소금과 설탕을 넣어 섞어주시는 것이 좋습니다. 설탕과 소금이 잘 녹기 때문이지요",
+		"7. 감자전분 4숟가락과 밀가루 1숟가락을 넣고 흰가루가 보이지 않을때까지 골고루 잘 섞어줍니다",
+		"8. 완성된 반죽을 적당한 크기의 모양으로 만들어줍니다",
+		"9. 기름을 넉넉하게 둘러주신 다음 중불에서 천천히 구워주세요",
+		"10. 감자의 양면에 골고루 색이 나면 꿀 5 숟가락을 넣어주세요",
+		"11. 꿀을 졸여주며 감자 호떡 양면에 골고루 뭍혀주세요",
+		"12. 이쁘게 담아 맛있게 먹기 ♡"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/ece96cb4c0481fae92c088291498d61a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/7c891e679e51aa634bd908cfa38577e61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/a28df2fe57cd25e5e8b97384e329c2e41.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/ead612d62300fc9c4a0bbdca4002893b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/346c6292ca1bb71ec429be383457764f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/16c30055a3378811ce70c47d0d3a0c9e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/83c6c08250b61fedcacb7adf9993a8831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/3998a09553fad247839890c7f9380fe21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/8f843745d61f3ab683b5971e6d41496e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/5056f79708ec95a8e1d8114b4d4121f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/596812a831345db3cb80365999d82cfa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/08/27/e9ba636a3fc281c07d4e56e359fe8a581.jpg"
+	]
+}

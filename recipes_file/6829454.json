@@ -1,0 +1,95 @@
+{
+	"id": "6829454",
+	"name": "버섯 샐러드(파사파사 샐러드)",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/28/07db9f7d23410e2abdc32599f60f0b211.jpg",
+	"url": "https://www.10000recipe.com/recipe/6829454",
+	"ingredient_ids": [
+		379,
+		292,
+		226,
+		341,
+		393
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "버섯(한입크기로썰어서)3-4컵정도",
+			"ingre_count": "3-4컵 정도",
+			"ingre_unit": "-컵 정도"
+		},
+		{
+			"ingre_name": "마늘(다진것)",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "래디쉬(옵션)",
+			"ingre_count": "2-3알",
+			"ingre_unit": "-알"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "물엿",
+			"ingre_count": "1/2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "생강가루(옵션)",
+			"ingre_count": "2-3꼬집",
+			"ingre_unit": "-꼬집"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "발사믹식초",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "2~3T",
+			"ingre_unit": "~T"
+		}
+	],
+	"recipe": [
+		"1. 소스의 재료를 섞어 데리야끼 소스를 만들어 둔다. 생강가루 대신 생강을 쓸 경우 갈아서 즙만 내어쓰면 된다.",
+		"2. 버섯은 한입 크기로 썬다.",
+		"3. 팬에 오일을 2T정도 두르고 다진 마늘을 볶아 향을 낸다.",
+		"4. 버섯은 단단한 것을 먼저 넣고 볶는데 너무 뒤적이지 않아야한다. 중불 정도에서 버섯이 노릇해질 정도로만 볶아준다. 이때 소금, 후추를 넣어 살짝 간한다.",
+		"5. 버섯이 볶아지면 아까 만들어 둔 데리야끼 소스를 넣는데, 버섯양에 따라 넣는 양이 달라지므로 1-2T 정도를 넣어 볶아보고 싱거우면 더 넣는 식으로 간을 맞추면 된다.",
+		"6. 적당히 버섯에 윤기가 돌고 간이 맞으면 된다.",
+		"7. 래디쉬는 슬라이스 하고, 잎채소는 깨끗이 씻어 물기를 탈탈 털어 준비.",
+		"8. 잎채소와 래디쉬를 접시에 깔아준다.",
+		"9. 그 위에 버섯을 올리면 완성.",
+		"10. 아까 남겨둔 데리야끼 소스 1/2T에 발사믹 식초 1T, 올리브오일 1T를 넣고 잘 섞어서 위에 뿌린다. 이것대신 발사믹 크림을 예쁘게 뿌려도 됨."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/f85ff49f0f15c198d0760bc97260473b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/8f1f573d1b9e6971ae049cb93b6dd2381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/50881cdc1fd508dde376d8374566bef51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/aec1dce22618e5034fed6bc2102d26fc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/a3b44f408c94368542fd01ab634072c81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/8f67d42340fbda429aa9f6e4a7016d2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/a14b3d4529c5fda85696a598155febef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/347240c2b3a07d4a578f21c52215e1051.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/fc624fd43999ed8a7acfdc74fd2153f01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/29/2cb922bae346460fc1a59b4b87c99dec1.jpg"
+	]
+}

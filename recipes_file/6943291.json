@@ -1,0 +1,65 @@
+{
+	"id": "6943291",
+	"name": "키토제닉 장아찌 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/5a88df1b3054ed6c6ad68422f3e6b2d71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6943291",
+	"ingredient_ids": [
+		8,
+		3,
+		34,
+		349,
+		995
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "오이",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "2/1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "120",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "화이트식초",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "에리스리톨",
+			"ingre_count": "4/1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "120",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 재료를 계량해 둡니다. 오이는 소금으로 겉을 잘 문질러서 씻어둡니다. 양파는 더 넣으셔도 되어요. 저는 반개만 해봤습니다.오이3개,청양고추3개, 양파 반개.재료 미리 계량해두면 만드실 때 헷갈리지 않고 잘 만들 수 있어요. 고추는 아삭이 고추 쓰셔도 됩니다. 취향껏! ",
+		"2. 장아찌 국물 재료를 한 냄비에 부어줍니다.들도 다 쓸 수 있거든요. 에리스리톨, 간장 넣고 나서 물이나 식초로 헹궈서 넣으면 한 톨도 남김없이 넣을 수 있어요",
+		"3. 오이는 길게 반 자르고 반달 모양인 것을 또 반 잘라서 가운데 씨를 제거합니다. 그 후에 2센티 크기로 잘라놓습니다. 고추는 2센티 정도 크기로 썰어서 씨를 털어두고요. 양파도 꽁다리를 자르고 2센티 정도 크기로 썰어서 스테인리스 볼에 담아둡니다 씨 제거하지 않고 동그랗게 썰기도 했는데요. 씨를 제거하는 것이 잘 무르지도 않고, 복통을 일으킬 확률도 줄여준다고 하더라고요.",
+		"4. 장아찌 국물이 팔팔 끓으면 썰어둔 채소에 부어줍니다.",
+		"5. 골고루 잘 담가지도록 꾹꾹 눌러줍니다. 하루 정도 실온에 두었다가 냉장보관해서 드시면 되어요. "
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/025f6221575d4cabeb62ca9257f3a9e31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/111a1c3deb797b9cef55c353d9acc7741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/aa3aafe7b8cb1b5480213cf817f18ef81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/313f5a9b20c627dbbde254b37237ed831.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/03/7a4fd285a6056df61a3b1817ba9e7ddd1.jpg"
+	]
+}

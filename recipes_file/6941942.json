@@ -1,0 +1,75 @@
+{
+	"id": "6941942",
+	"name": "정식품 콩국물로 콩국수 대신 감자국수 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/23edb011b2cdb13a9c907225bfceb30f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941942",
+	"ingredient_ids": [
+		5,
+		44,
+		371,
+		108,
+		226,
+		497
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "콩국물",
+			"ingre_count": "600",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "삶은단호박",
+			"ingre_count": "1",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "비트",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "방울토마토",
+			"ingre_count": "3",
+			"ingre_unit": "알"
+		},
+		{
+			"ingre_name": "완두콩",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "조금"
+		}
+	],
+	"recipe": [
+		"1. 감자는 채칼을 이용해 최대한 얇게 썰어주세요. 채 썬 감자는 찬물에 20분 담가 전분기를 제거해 주세요. ",
+		"2. 끓는 물에 넣고 감자채를 1분 정도로 가볍게 데쳐주세요. 너무 데치게 되면 부서지므로 가볍게만 데쳐주시면 된답니다.",
+		"3. 데친 감자를 그릇에 담고 데코로 방울토마토와 완두 콩을 조금 올려보았어요.",
+		"4. 냉장고에 보관해둔 시원한 콩국물을 부어주세요. 취향에 따라 설탕, 소금을 적당량 넣고간을 맞춰주면 간단하게 완성이 되는 감자국수입니다.",
+		"5. 이번엔 단호박과 비트 콩국물을 만드는 방법을 알려드릴게요. 삶은 단호박 1조각과 콩국물 200ml를 넣고 믹서기에 갈아주세요.",
+		"6. 비트는 여러 조각으로 잘라 준 후 콩국물에 넣고 우려내 색을 내주세요.",
+		"7. 단호박 콩국물과 비트 콩국물도 취향에 맞게 설탕, 소금으로 간을 맞춰주세요. 이렇게 하여 완성이 된 3가지 맛 콩국물 감자국수!!"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/ff4f549d62050287dd551ee0b490f0da1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/56edcc5759eb50036da60577b06e71a31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/14eef5b8d18d86ada0fb0f8eb4ce789a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/ea0775e6e33ab44ffe53380254cd2e521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/d5011cdf8e48511a436906d63f7343dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/18fa581450eea71159a10a57b97805171.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/15/eec0c1ad6681f4be05e44b0bdddffe961.jpg"
+	]
+}

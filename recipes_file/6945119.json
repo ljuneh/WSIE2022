@@ -1,0 +1,88 @@
+{
+	"id": "6945119",
+	"name": "남은치킨요리, 치킨덮밥 만들기 :) 쯔유활용요리",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/27534db447c16e3fba5d92241b20d8001.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945119",
+	"ingredient_ids": [
+		746,
+		995,
+		3,
+		27,
+		224,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "밥",
+			"ingre_count": "1",
+			"ingre_unit": "공기"
+		},
+		{
+			"ingre_name": "쯔유",
+			"ingre_count": "80",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "200",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "남은치킨",
+			"ingre_count": "4",
+			"ingre_unit": "조각"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "대파",
+			"ingre_count": "1/3",
+			"ingre_unit": "대"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 양파는 잘게 채썰어줍니다.",
+		"2. 대파도 쫑쫑 썰어 준비합니다.",
+		"3. 치킨은 잘게 찢어 준비합니다. 뼈있는 치킨은 뼈를 발라서, 순살치킨은 그냥 찢어주시면 돼요 :)후라이드치킨, 양념치킨 어떤 치킨도 괜찮아요 :) 다만 양념된 치킨은 간이 더 세질수 있으니 기본 쯔유+물 양을 조절하여 간을 좀 약하게 조절해주시면 됩니다 :)",
+		"4. 계란은 젓가락으로 풀어 준비합니다.",
+		"5. 팬에 쯔유, 물을 넣어 끓여주세요.쯔유마다 농도가 다를수 있으니 입맞에 맞춰 조절하여 넣어주세요. (쯔유+물 합친양이 300ml정도 되면 됩니다)",
+		"6. 소스가 끓으면 양파와 치킨을 넣어줍니다.",
+		"7. 매콤한 맛을 위해 고춧가루도 반스푼정도 넣었어요. 단짠한 맛만 원하시는 분들은 고춧가루는 빼주세요 :)",
+		"8. 양파와 치킨을 넣고 소스가 끓으면 풀어놓은 계란물을 위에 뿌려줍니다.약불",
+		"9. 약불로 줄이고 계란을 익혀줍니다. 계란은 젓지말고 그대로 두세요. 계란이 어느정도 익으면 썰어놓은 대파를 올려주고 불을 끕니다.뚜껑을 덮으면 더 빨리 익힐수 있어요 ",
+		"10. 접시에 밥을 담고 만들어 놓은 소스를 팬을 기울여 그대로 밥 위에 부어주세요. 통깨 살짝 뿌려주면 치킨 덮밥 완성 :)",
+		"11. 소스가 촉촉하게 밥알에 스며들어 더 맛있는 치킨덮밥. 쯔유 고유의 맛으로 단짠하면서도 치킨을 넣어 든든하면서도 맛있어요 :)"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/e2718bf1777f48dbe44f135332db3a2c1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/c92d3760f6abc45fa2e3e5128f8d57ba1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/988ee090f9ea3185c5768ae54ec495371.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/00f0ac4ad42db40290f608c441f6e7891.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/c874033fb1f1ecee1c7353ea7d4d09ee1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/682d65d36b223dab15b4768044a2b9211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/ae14c4651a4ed11cbb998e2ff33bccc91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/01d78c5780dc996b40916f49c63d31951.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/6ea893838f737f2ca5a89c415b440e8f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/633e0dd961d1d364cde208ec046660bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/27/73bfc3a6a2e92b093ed33deb876b96701.jpg"
+	]
+}

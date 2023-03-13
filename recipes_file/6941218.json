@@ -1,0 +1,78 @@
+{
+	"id": "6941218",
+	"name": "밑반찬 부드러운 돼지고기장조림",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/29691807f06f06069dc0f27b513110a71.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941218",
+	"ingredient_ids": [
+		487,
+		293,
+		226,
+		846,
+		379,
+		995
+	],
+	"time": "2이상",
+	"ingre_list": [
+		{
+			"ingre_name": "돼지고기",
+			"ingre_count": "4",
+			"ingre_unit": "태"
+		},
+		{
+			"ingre_name": "꽈리고추",
+			"ingre_count": "20",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "삶은달걀",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "100",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "150",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		}
+	],
+	"recipe": [
+		"1. 찬물에 30분간 담가 핏물을 빼주고 적당한 크기로 잘라 주세요. ",
+		"2. 같이 넣어줄 삶은 달걀 그리고 꽈리고추를 준비하고 간이 잘 배이도록 꼭지를 땐 뒤 꼬치를 이용해 군데군데 구멍을 내주고",
+		"3. 인스턴트 팟에 핏물 뺀 고기를 한데 넣고 물 (400ml)를 부어주고 ",
+		"4. 청주(100ml), 간장(150ml)",
+		"5. 설탕(3)을 넣어 고루 섞어 주고 ",
+		"6. 뚜껑을 닫고 압력밸브 진공 설정 후 육류를 선택 후 30분 그리고 압력은 강하게로 설정해 주세요. ",
+		"7. 30분이 지나면 압력밸브를 배출로 이동해 압력을 충분히 배출한 뒤 뚜껑을 열어 주면 사진과 같은 상태가 되는데요. 이때 위에 뜨는 기름을 걷어내며 깔끔하겠죠. ",
+		"8. 이제 삶은 달걀, 꽈리고추를 한데 넣고",
+		"9. 뚜껑은 닫지 않고 볶음을 선택하고 시간은 20분으로 설정해 주세요.",
+		"10. 20분간 바글바글 끓여 주면 끝! ",
+		"11. 인스턴트팟 돼지고기 장조림 완성"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/4ef80c75e982513483f7ed89441f9bab1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/6b7a2ea3f9601b73766eeb7be65e44be1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/8c5804e2e6dd0ff2858bd3d8b4fe5b121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/010208e028a375b38b496f54383589a51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/c76eaab7a6ee6d4cc2faf76e3d2e71441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/773466d554d69c4a40b0a78a17dec1dd1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/140c0b46aad1eaae8e739dec5d9fbb241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/a62dd97df56089aaa57768e6536c4a441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/da6860eabc7727259a8027d418420a191.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/92279ca7040887695ee47d94962e1eb51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/08/a3468213ef4524c5439c9b57e6e998271.jpg"
+	]
+}

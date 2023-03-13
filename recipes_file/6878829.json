@@ -1,0 +1,51 @@
+{
+	"id": "6878829",
+	"name": "건유채나물무침",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2017/10/30/e5716c74903552139834858798cc99321.jpg",
+	"url": "https://www.10000recipe.com/recipe/6878829",
+	"ingredient_ids": [
+		237
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "건유채나물",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "집간장",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "집된장",
+			"ingre_count": "0.",
+			"ingre_unit": ".T"
+		},
+		{
+			"ingre_name": "매실액기스",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "고추기름",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 말린 유채나물을 준비합니다.",
+		"2. 20분 정도 폭폭삶아요.",
+		"3. 그 사이 양념을 준비합니다.",
+		"4. 다 삶아지면 30분정도 뚜껑을 덮고 뜸을 들여줍니다. 시간이 지나면 만져보고 부드러우면 깨끗하게 여러번 행궈서 씻어서 물기를 짜고 가위로 적당히 잘라줍니다.",
+		"5. 손으로 조물조물 무쳐줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/30/093e0b3126dd7e2e6a749b332198379e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/30/8d577d63ebf471dd7c9c4388f203ca7a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/30/dbaf71ce629a38a16f94b445d225b57a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/30/ebcd99ee2efc415f79845758ccca9ac01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2017/10/30/7a4e9885126604e513951e5749e2f9341.jpg"
+	]
+}

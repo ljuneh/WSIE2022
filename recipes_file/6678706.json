@@ -1,0 +1,37 @@
+{
+	"id": "6678706",
+	"name": "톳밥 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/ae71f0d884790684cb54a1721963d82f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6678706",
+	"ingredient_ids": [
+		94,
+		96
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "톳",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "쌀",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 톳밥 만들기 하기 전에 우선 재료의 비린내부터 제거해줘야 해요. 식초를 푼 물에 톳을 담그고 약 30분정도 기다려주었답니다.",
+		"2. 30분 정도 지나면 식촛물에서 건져내어 찬물에 샤워를 시켜주어요. 이 과정에서 혹시 끼어있을 불순물들을 살살 제거해주면 된답니다.",
+		"3. 이제 먹기 좋은 크기로 숭덩숭덩.",
+		"4. 콩나물밥처럼 물을 좀 덜 붓거나 하지 않아도 되더라구요, 물 양은 원래 양과 똑같이.",
+		"5. 쌀을 불려서 밥을 하지 않고 바로바로 씻어서 하기 때문에 물을 좀 넉넉히 넣는 편인데요. 물은 그대로 하고 톳만 얹으면 된답니다. 취사시간도 일반 백미 하는 것과 동일하게. 전기밥솥에 넣고 백미취사 눌렀더니 25분뒤에 이렇게 짜잔."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/972b93d659f5291cb7fcde9e542074c21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/272cec11db2d8ccd001755cc9a3e05e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/e7f7b848ba56340565c26f4c7d00775e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/a8a0441095c5bd06341a166a364223a81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/05/19/a767af62a13d8ea1ee12f5aa31a63fb01.jpg"
+	]
+}

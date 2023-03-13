@@ -1,0 +1,108 @@
+{
+	"id": "6944152",
+	"name": "직접 튀겨 만든 짜파치킨 ! 소스만 있으면 남은 치킨활용 OK ",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/76256ca8aae5984c1f71d7130f0699d41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944152",
+	"ingredient_ids": [
+		383,
+		233,
+		457,
+		846,
+		295,
+		995,
+		226,
+		379,
+		477,
+		497,
+		846
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "닭",
+			"ingre_count": "1",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "감자전분",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "다진생강",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "볶은춘장",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "1/2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "굴소스",
+			"ingre_count": "1",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "청주",
+			"ingre_count": "2",
+			"ingre_unit": "숟가락"
+		}
+	],
+	"recipe": [
+		"1. 깨끗이 세척한 닭은 칼집을 내어 소금, 후추, 청주로 밑간을 한다",
+		"2. 전분가루를 골고루 묻힌다.",
+		"3. 180도로 예열된 기름에 2번 튀긴다.",
+		"4. 팬에 식용유 2숟가락, 다진마늘, 다진 생강을 넣고 향을 낸다.",
+		"5. 볶은 춘장을 넣고 볶은 뒤 간장, 굴소스, 물, 설탕을 넣고 바글바글 끓인다.타지 않게 약불로 볶아주세요 ",
+		"6. 튀긴 닭을 넣고 버무려 다진 청양고추를 뿌려 완성한다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/52fc3dbe0bf318db59a02751029f6f1a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/453efc138b7d965d7da679a673346bf51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/9a9f5d659471a392f5f49fc5624d397b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/84f01dc16b930822ceda75af3487cbcb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/df23392026352ec22535e7fc76fe96621.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/12/b3e1ac115a7998008ca6e5d9b6c70f3a1.jpg"
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"id": "6859725",
+	"name": "큼직한 전복과 수삼이 들어간 전복죽",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/10/30/c053402d3b91f9c932060a9f64f6af5f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6859725",
+	"ingredient_ids": [
+		99,
+		3,
+		9,
+		995,
+		497,
+		349,
+		660
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "전복(대)",
+			"ingre_count": "5",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "찹쌀",
+			"ingre_count": "2",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "맵쌀",
+			"ingre_count": "1",
+			"ingre_unit": "컵"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "수삼(대)",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2.",
+			"ingre_unit": ".리터"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "3/4",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "국간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다시마가루",
+			"ingre_count": "1/2",
+			"ingre_unit": "작은술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 찹쌀과 맵쌀은 씻어서 저녁에 미리 물에 담가놓았습니다. 아침에 체반에 건져 놓습니다. (이렇게 하면 죽을 빨리 끓일수 있답니다.)",
+		"2. 깨끗하게 손질한 전복의 1/2은 작게 썰고, 1/2은 큼직하게 썰고, 내장은 곱게 다져놓고,남비가 뜨거워 지면 참기름을 두르고 전복과 내장을넣고 볶습니다.",
+		"3. 볶다가 불려둔 쌀을넣고 같이 볶아줍니다. 쌀이 전복내장과 어우려지면 물을 붓고 끓여 줍니다.",
+		"4. 당근과 양파는 곱게 다지고 수삼은 반으로 잘라 얇게 썰어 놓습니다.",
+		"5. 주걱으로 저으면서 끓여주다가 쌀이 익어가면 소금과 양파 당근 수삼을 넣고 끓여줍니다.",
+		"6. 국간장 다시마가루도 넣고 끓여줍니다.물을 첨가하면서 죽의 농도를 조절하세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/11/02/405b5dcecbb0ee9e809ba50bd185c9e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/30/a8f6f86521dceac6223ead248d119fa91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/30/1024b9506c1dc314c333f4aaff688e1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/30/84785a360714df9e01744f03a56d585a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/30/82bfe7f945233a24bc9bec1570763a261.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/10/30/be8713f590685ba29801b56aa337e3f91.jpg"
+	]
+}

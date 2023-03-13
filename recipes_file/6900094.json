@@ -1,0 +1,73 @@
+{
+	"id": "6900094",
+	"name": "[간단 황제 자취 요리] 스팸으로 떡갈비 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2018/11/14/f4be994c5ec79594895e945d1e21e6341.jpg",
+	"url": "https://www.10000recipe.com/recipe/6900094",
+	"ingredient_ids": [
+		219,
+		9,
+		58,
+		29
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "스팸또는리챔1통(340g)",
+			"ingre_count": "1통(340g)",
+			"ingre_unit": "통(g)"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "1/4",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "새송이버섯",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "파",
+			"ingre_count": "1",
+			"ingre_unit": "뿌리"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 제일 먼저 파를 잘게 쫑쫑 썰어줍니다.",
+		"2. 당근과 버섯은 작은 네모네모 큐브 모양으로 다져줍니다. 버섯종류는 취향에 따라 선택 가능합니다.버섯종류는 취향에 따라 선택 가능합니다.",
+		"3. 마늘 기름을 내기 위한 마늘은 잘게 다져줍니다.",
+		"4. 볼에 스팸 또는 리챔을 넣고 손으로 마구 으깨줍니다. 마구마구 으깨주시면 마치 고기를 다져 놓은 듯한 모양이 됩니다.",
+		"5. 그다음 썰어두었던 재료들을 모두 넣어주세요.",
+		"6. 재료들을 넣고 잘 섞어주세요.",
+		"7. 계란 2개를 넣어주세요.",
+		"8. 그 후 반죽해주세요. 잘 치대지 않으면 중간에 부서질 수 도 있으니 잘 치대주세요.",
+		"9. 반죽을 적당한 크기로 만들어주세요.",
+		"10. 기름을 두른 팬에 넣어 구워주세요.",
+		"11. 마늘을 넣어주어 마늘향을 내줍니다. 마늘은 향만 내주는 역할이기 때문에 처음에 넣어서 타는일이 없게 해주세요.마늘은 향만 내주는 역할이기 때문에 타지않게 요리조리 뒤집어주세요.",
+		"12. 다익은 떡갈비는 키친타올을 깐 접시에 건져서 기름을 빼주세요. 기름이 빠진 떡갈비는 그릇에 담아줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/14/607f6efdceade34bb9f1b444100b59fb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/14/681ea6c1db4f12d6ffe3c54dec45a5641.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/14/47c37398408dcb7111be5b86e31a05bf1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/14/b66d6f8fe91175e2823aee7cbc4ed4e01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/14/8b7fcd11668260d17a09a098aeb0de1d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/14/815861ad76d77eea7ca3b33f1e9947f91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/14/7941261fd927a808209b1cfe4cfde34f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/14/d89ab642845f468c9f04589511e6b5591.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/14/0da823f555dc447a6b89327a4368a0091.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/14/0434f027e4c6ca0824a4068c38b62cd31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/14/2a56a7aa138e15b7f92f6ac5ee84ceef1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2018/11/14/5215c7afa6914937a412db18a7e46aed1.jpg"
+	]
+}

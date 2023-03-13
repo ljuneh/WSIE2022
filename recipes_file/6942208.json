@@ -1,0 +1,94 @@
+{
+	"id": "6942208",
+	"name": "스르르 녹는 상큼 오렌지 카스테라 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/c126f30e0cab624ec154e697ad1b6ba61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942208",
+	"ingredient_ids": [
+		219,
+		504,
+		570,
+		497,
+		250,
+		226
+	],
+	"time": "120",
+	"ingre_list": [
+		{
+			"ingre_name": "달걀노른자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "식용유",
+			"ingre_count": "40",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오렌지즙",
+			"ingre_count": "70",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "박력분",
+			"ingre_count": "45",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "옥수수전분",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "오렌지제스트",
+			"ingre_count": "1",
+			"ingre_unit": "tsp"
+		},
+		{
+			"ingre_name": "달걀흰자",
+			"ingre_count": "3",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "0.",
+			"ingre_unit": ".g"
+		},
+		{
+			"ingre_name": "레몬즙",
+			"ingre_count": "3",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "50",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 1. 오렌지는 베이킹소다로 깨끗이 씻어 제스트와 즙을 나누어 놓아요.",
+		"2. 볼에 달걀노른자와 달걀을 넣고 섞어요.",
+		"3. 식용유와 오렌지즙을 순서대로 넣어 가며 잘 섞어요.포도씨유, 카놀라유등 향 없는 오일 대체 가능해요.",
+		"4. 박력분, 옥수수전분을 체쳐 넣고 거품기로 가루가 보이지 않을 만큼 섞어요.",
+		"5. 오렌지제스트를 넣고 가볍게 섞어 줍니다.",
+		"6. 다른 볼에 달걀 흰자를 핸드믹서로 휘핑하다가 큰거품들이 올라오면 설탕의 1/3과 소금, 레몬즙을 넣어 줍니다. 나머지 설탕은 2번에 나눠 넣으며 부드럽게 뿔이 휘는 머랭을 만들어요.",
+		"7. 노른자 반죽을 살짝 섞어 준 뒤 머랭을 2주걱 정도 덜어 섞어요.",
+		"8. 머랭에 노른자 반죽을 모두 붓고 머랭이 거품기를 통과하듯 조심스럽게 섞어 줍니다.",
+		"9. 틀에 반죽을 붓고 뜨거운 물을 담은 팬에 넣고 150도 40분 굽고 130도 30분 더 구워 줍니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/aa079d116b09c57d6e1baef8934e286f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/ba8fba5608a988ddaeee9fc7d0e87c551.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/fe34c5a93b2dcb0735851dbf2759105f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/e3554db3395258f12cbcd627364d0cb61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/0c656de92f47a29038e03d599ce529a91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/74dd245f0a7d7482c0392fb19d2a76541.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/a42d35ff344beb103d8c2e0d48f95a1e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/6e7e082eef0291a47f55e12464a2dbc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/ad9ccf5a126b326616b326070817798a1.jpg"
+	]
+}

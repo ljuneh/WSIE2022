@@ -1,0 +1,67 @@
+{
+	"id": "6944331",
+	"name": "감자샐러드 만들기, 아이들 간식으로도 좋지요~",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/8676e3531ea071f7cdefcec9508de8cc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944331",
+	"ingredient_ids": [
+		5,
+		228,
+		497,
+		3,
+		9
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "4-5개",
+			"ingre_unit": "-개"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "당근",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "옥수수콘",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 감자는 잘 씻어준 뒤 끓는 물에 넣어서 20분 가량 삶아주세요. 젓가락으로 찔러서 안에까지 푸욱 들어가면 다 익은거랍니다!",
+		"2. 찬물에 담궈서 아린맛을 빼준 양파를 잘게 썰어주세요. 저는 양파 4분의 1개만 사용하였습니다. ",
+		"3. 당근 반개도 아주 잘게 찹찹 다져주세요~~!!",
+		"4. 잘 익은 감자는 껍질을 벗겨내준 뒤 잘 으깨주세요!! 감자는 뜨거울 때 잘 으깨지니깐 참고하세요~ 그리고 소금과 후추를 챱챱 넣어주세요! ",
+		"5. 잘 섞인 감자에 양파, 당근, 옥수수콘을 넣고 역시나 잘 섞어주도록 합시당!!! ",
+		"6. 마요네즈는 생각보다 많이 들어가는 편이에요. 처음에 마요네즈를 3바퀴정도 넣고 섞어주시다가 부족하다 싶으면 좀 더 추가해주시면 되어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/a7c96308ae4d860422f6485bdd10e0521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/b937ed2743cd1f0fde96670359fbe8b51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/69478ef0525d5af4a8cb2f6ad874c0381.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/44af04c7655610263f642f54104c320e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/b56c13b8444773ae3b4a11d32c0ef1e81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/16/870284558317ab0d5b6ac80cbc382edd1.jpg"
+	]
+}

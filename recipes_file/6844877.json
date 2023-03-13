@@ -1,0 +1,100 @@
+{
+	"id": "6844877",
+	"name": "양파알새우덮밥만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2016/03/01/9f47a9f273578ec67dfad5d166cd2efc1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6844877",
+	"ingredient_ids": [
+		3,
+		379,
+		843,
+		575,
+		292,
+		995,
+		224,
+		660,
+		543
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "알새우",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1/2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "매실액",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "맛술",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "고춧가루",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘반큰술보다",
+			"ingre_count": "",
+			"ingre_unit": "적게"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술보다적게"
+		},
+		{
+			"ingre_name": "통깨",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "다진파",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 우선 재료를 준비해 주세요.양파는 채를 썰어서 준비해주시고, 알새우는 냉동이라 물에 한번씻어서 준비해놨어요.",
+		"2. 양념장도 미리 만들어주심 되요.간장 2큰술, 매실액 1큰술, 올리고당 2큰술, 맛술 1큰술, 물 2큰술, 고춧가루 1큰술, 다진마늘 반큰술보다 적게, 참기름 반큰술보다적게 넣으신후 잘 섞어주세요.",
+		"3. 팬에 올리브유를 두른 후 양파를 먼저 볶아주세요.",
+		"4. 볶은 양파색이 노란 빛이 돌때 알새우를 넣어주세요.사진에는 오랫동안 볶은 양파색이 잘 안보이네요~전 이제 백주부님 요리 보면서 양파들어가는 요리에는 제일 먼저 양파를 오랫동안 볶게 되네요..^^",
+		"5. 준비한 양념도 함께 넣어주세요.양념할때 고춧가루 매운것만 넣었는데요. 청량고추 넣어도 맛있겠죠?하지만 전 지금 임신중 위가 안좋아져서 청량고추는 잠시 쉬는걸로~",
+		"6. 양념이 졸아들때까지 자작하게 볶아주시면 되요.",
+		"7. 그릇에 밥을 담아주시고 그위에 볶은 양파알새우를 올려주세요.마지막으로 통깨를 뿌려 마무리~~~",
+		"8. 전 갑자기 계란이 생각나도 급하게 스크램블을 만들어서 섞어주었어요.슥슥 비벼서 밥과 양파 계란 알새우까지~반찬 별로 필요없이 한끼 해결했어요."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/18/ce85a01ec9d8599abcf191483942b8df1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/18/80446e46d202defd5c9774e703e4d5f71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/18/b2147eb5cbfbad9736095a0fd5d603671.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/18/55a372ed133a68090b516490a68312c71.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/18/d7b1ba333a2d34dbdedd97be3900c50d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/18/942fcdc18859c8d709dbb2d748dcf4f51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/18/cef0160970797845118e99f14c74c2bb1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2016/03/18/e4d176025921af20c110ce4c964bf8a11.jpg"
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"id": "6941532",
+	"name": "노른자에 콕! 찍어 먹는 롱피자 아닌 롱식빵피자♥",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/6f90de8eb508a33373b1e0064c8868d41.jpg",
+	"url": "https://www.10000recipe.com/recipe/6941532",
+	"ingredient_ids": [
+		503,
+		219,
+		732,
+		216,
+		228,
+		497,
+		551,
+		650,
+		559,
+		574
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "식빵",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "크러쉬드레드페퍼",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "토마토소스",
+			"ingre_count": "3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "피자치즈",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "다진소고기",
+			"ingre_count": "1",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "마요네즈",
+			"ingre_count": "",
+			"ingre_unit": "적당량"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/4",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "오레가노",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "큐민",
+			"ingre_count": "1/5",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "칠리파우더",
+			"ingre_count": "1/3",
+			"ingre_unit": "숟가락"
+		},
+		{
+			"ingre_name": "올리브유",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "후추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		}
+	],
+	"recipe": [
+		"1. 식빵 2장은 원형틀로 눌러 구멍을 낸다.                     \r                             카카두 호주 캄포도마 시드니                          ",
+		"2. 달군 팬에 올리브유를 두르고 소고기양념재료를 넣고 보슬보슬하게 볶는다.                     \r                             네오플램 노블레스 프라이팬                          ",
+		"3. 식빵 2장에 토마토소스를 바른 후 가장자리에 마요네즈를 올린다                     \r                             짤주머니(14인치/20매입)                          ",
+		"4. 구멍 낸 식빵으로 덮은 후 볶은 소고기를 식빵 구멍 바깥쪽에 얹는다.",
+		"5. 구멍 안에 달걀을 넣고 피자치즈를 뿌린다.",
+		"6. 190도로 예열된 오븐에 15분간 구워 크러쉬드레드페퍼를 뿌려 완성한다.오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/b2b711b504d7fd5cfe36a97b8931de6e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/2dd0d1b29e7092b308e57653623ccf421.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/f73af9dd0b43157e75ae5cca09755b271.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/f489828f5d9cd2a5ed14e224b83920821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/7fb169478187f3ec6dd3d097f9fc433b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/07/a0f70edbcca4d542dd4363bd30043a111.jpg"
+	]
+}

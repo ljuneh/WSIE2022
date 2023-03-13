@@ -1,0 +1,127 @@
+{
+	"id": "6828995",
+	"name": "일본식 라면 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/06/15/1f66e4aec18b52d97fe215d38b827b461.jpg",
+	"url": "https://www.10000recipe.com/recipe/6828995",
+	"ingredient_ids": [
+		995,
+		29,
+		28,
+		379,
+		226,
+		660,
+		489,
+		226,
+		28
+	],
+	"time": "15",
+	"ingre_list": [
+		{
+			"ingre_name": "라멘생면(or건면)",
+			"ingre_count": "1",
+			"ingre_unit": "인분"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "400",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "치킨스탁파우더1t(or닭육수400ml)",
+			"ingre_count": "1t(or 닭육수 400ml)",
+			"ingre_unit": "t(or 닭육수 ml)"
+		},
+		{
+			"ingre_name": "마늘",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "미소",
+			"ingre_count": "1",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "돼지고기간것",
+			"ingre_count": "150",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "미소",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "두반장",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "1",
+			"ingre_unit": "t"
+		},
+		{
+			"ingre_name": "물1/4컵(4T)",
+			"ingre_count": "1/4컵(4T)",
+			"ingre_unit": "컵(T)"
+		},
+		{
+			"ingre_name": "생강",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 생강은 다져둔다.",
+		"2. 대파는 채썰어서 찬물에 담가두고, 쪽파일 경우 쫑쫑 썰어서 준비해준다.",
+		"3. 숙주는 씻어서 물기를 빼놓는다.",
+		"4. 계란은 반으로 잘라 놓는다.",
+		"5. 팬에 오일을 살짝만 두르고 돼지고기 간 것과 생강을 주걱으로 갈라가며 고슬고슬하게 볶는다.",
+		"6. 두반장, 미소, 설탕을 넣고, 물 1/4컵을 붓고 조린다.",
+		"7. 너무 바특하게 조리지 말고 어느정도 촉촉할 때 불에서 내려야 고기가 마르지 않는다. 요정도로 되면 고기고명 완성!",
+		"8. 냄비에 참기름 1t을 두르고 마늘·생강 1/2t씩 넣고 볶는다.",
+		"9. 잘 볶아지면 물 400ml, 치킨 부이용 1t, 미소 1T도 잘 풀어넣는다.",
+		"10. 라멘을 담아낼 그릇에 미리 깨를 갈아놓는다.",
+		"11. 면은 패키지에 3분 삶으라고 했는데 2분만 삶았다.",
+		"12. 면은 물기를 털고 그릇에 국물을 넣어준 뒤 면을 넣어준다.",
+		"13. 숙주와 옥수수, 대파, 아지츠케 타마고 토핑해준다.",
+		"14. 고기도 올려주고, 숙주는 추가해가면서 먹는다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/18b3b35194c96d2f66d65ffa846475b31.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/2a43e7daf8287f6b405d61954c79a6e11.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/1f9b95b467815b89a2991a44ff8174241.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/4da622de816c2e2d0dcd6962a2215e4d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/359a04cc45b1c0dda9781518f7f18e511.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/10c3b215dcf4735653b88c4233a581db1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/4dd8d3ebb0e78a461a78e7333fbb06b91.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/a3c19a4f806d450c260b2349503e8f1b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/a75360b777383b14675f11894b28b9b01.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/35ad822c990770d62e9715618901ede61.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/ec197b7732f602bcb66b5c9f3217773f1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/fce0931b8a85f9c1dedb27e43272d8d81.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/dc4da3a38135dd815e19f602fca052ec1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/17/388b3aea5b45f89a57f3892fa0c54d671.jpg"
+	]
+}

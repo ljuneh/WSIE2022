@@ -1,0 +1,57 @@
+{
+	"id": "5910643",
+	"name": "감자국 끓이기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/07/7e4a4675ee5013f8ea7a73e2c295feb91.jpg",
+	"url": "https://www.10000recipe.com/recipe/5910643",
+	"ingredient_ids": [
+		5,
+		3,
+		30,
+		497,
+		320,
+		995
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "감자",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "부추",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "",
+			"ingre_unit": "약간"
+		},
+		{
+			"ingre_name": "멸치",
+			"ingre_count": "2",
+			"ingre_unit": "줌"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2.",
+			"ingre_unit": ".컵"
+		}
+	],
+	"recipe": [
+		"1. 먼저 감자와 양파를 비슷한 크기로 썰어 놓고, 부추도 먹기 좋은 크기로 썰어 준비합니다.",
+		"2. 멸치육수를 낼 때에는 멸치 머리와 내장을 빼고 팬에 구운 다음 끓는 물에 넣어서 끓여야 비리지 않고 멸치 본연의 구수한 맛이 우러 나온답니다.",
+		"3. 멸치를 걸러낸 육수에 감자와 양파를 넣고 끓이다가 소금으로 간을 맞춰요. 멸치육수에 간이 약간 있으니까 소금은 아주 조금만 넣으면 된답니다. 국이 보글보글 끓어오르면 부추를 마지막에 넣어 살짝만 익혀 줍니다~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/07/3fe4f278ce52455d146065dc5246229b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/07/1047a8b54c67e3f194f3444f269815ac1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/06/07/61b3c6e994bddfa5ffbe5e695a675d3a1.jpg"
+	]
+}

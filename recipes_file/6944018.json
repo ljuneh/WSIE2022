@@ -1,0 +1,34 @@
+{
+	"id": "6944018",
+	"name": "두부구이 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/50217c0a14ce54b458dfdb40705392e51.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944018",
+	"ingredient_ids": [
+		497
+	],
+	"time": "5",
+	"ingre_list": [
+		{
+			"ingre_name": "부침용혹은시장두부",
+			"ingre_count": "1",
+			"ingre_unit": "모"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "티스푼"
+		}
+	],
+	"recipe": [
+		"1. 두부는 간수를 버리고 찬물에 씻어서 찬물에 20분정도 담궈둡니다.",
+		"2. 물기를 제거한 두부는 길게 그리고 손가락 한마디보다 조금 적게 두껍게 썰어줍니다. 간하고 싶으신분들은 이때 소금을 뿌려서 한 5분정도만 냅두세요",
+		"3. 식용유를 살짝 넉넉하게 두르고 앞뒤가 노르스름해지면 꺼내주세요강불-중불",
+		"4. 접시에 담아서 끝~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/d22fc59edff848cf35fad43dd56e3e8e1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/86f5405710c6625851c8340b58ab6b111.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/4daaa4818c0c49c82f2ee0a6e16d45821.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/13/5f1b8b5fea4aaa83a5ede70b720205f71.jpg"
+	]
+}

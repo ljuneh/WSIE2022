@@ -1,0 +1,55 @@
+{
+	"id": "6945627",
+	"name": "홍합전..홍합부침개",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/3f8ba185826d0d33a776327f7abadc881.jpg",
+	"url": "https://www.10000recipe.com/recipe/6945627",
+	"ingredient_ids": [
+		387,
+		295,
+		15,
+		3
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "홍합살",
+			"ingre_count": "100",
+			"ingre_unit": "그램"
+		},
+		{
+			"ingre_name": "부침가루",
+			"ingre_count": "2",
+			"ingre_unit": "종이컵"
+		},
+		{
+			"ingre_name": "청양고추",
+			"ingre_count": "4",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "깻잎",
+			"ingre_count": "10",
+			"ingre_unit": "장"
+		},
+		{
+			"ingre_name": "양파",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "계란",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		}
+	],
+	"recipe": [
+		"1. 야채들은 채썰기 해주고 홍합살과 부침가루를 넣고 물 종이컵2컵 넣고 잘 섞어줘요  계란도 1개 넣어줘요",
+		"2. 저는 크게 안붙이고 프라이팬에 3장 나오게 부쳤어요 그냥 한장씩 들고 먹으려고요 달궈진 프라이팬에 반죽을 반국자 올려서 고루 펴주고 중불로 밑면이 익으면 뒤집어줘요",
+		"3. 양면이 노릇해지면 완성입니다 20분도 안걸려서 맛있는 홍합야채전이 되었어요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/dc50383e621fffaa6fcdb220b2ce95441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/e99612b427483a1668d3d3657663cf781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/11/04/61215ef0dc365e5eb797c218a7b7b4541.jpg"
+	]
+}

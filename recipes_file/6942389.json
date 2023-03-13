@@ -1,0 +1,71 @@
+{
+	"id": "6942389",
+	"name": "OIive oil cake",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/77fe16e5be000400d8e055dfe5f10e7f1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942389",
+	"ingredient_ids": [
+		234,
+		226,
+		219,
+		373,
+		497
+	],
+	"time": "60",
+	"ingre_list": [
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "120",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "올리브오일",
+			"ingre_count": "80",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "우유",
+			"ingre_count": "80",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "설탕",
+			"ingre_count": "80",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "2",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "베이킹파우더",
+			"ingre_count": "5",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1",
+			"ingre_unit": "g"
+		}
+	],
+	"recipe": [
+		"1. 케이크 틀에 오일과 밀가루를 소량 쳐주세요(반죽을 넣고 오븐에 구울때 틀에 붙지말고 잘떨어지도록 도움을 줍니다)",
+		"2. 마른재료를 준비해주세요 밀가루 박력분 120 g, 베이킹파우더 5g, 소금 1g를 섞어준비해주세요.",
+		"3. 계란반죽을 준비해주세요 계란2개에 설탕 80g을 넣도 30초 가량 가볍게 섞어주시기만 해주세요!! 거품이 날 정도로 많이 하진 말아주세요~",
+		"4. 오일 80ml도 넣고 가볍게30초 가량 섞어주세요~",
+		"5. 우유 80ml도 넣고 섞어주세요 재료가 섞일정도로만 30초가량 섞어주세요",
+		"6. 마른재료를 넣어 섞어 줘야하는데요  마른재료는 3번에 걸쳐서 넣어주시고 마른가루가 보이질 않게 섞어주세요",
+		"7. 다 준비된 반죽은 케이크 틀에 넣어주세요 이때 반죽에서 기포가 빠지도록 테이블에 2~3번 탁탁 쳐주세요",
+		"8. 170도로 예열된 오븐에 30분 구워주세요~ 각 가정의 오븐 상태에 따라 조금더 구워주셔도 되는데요 전 40분 구워냈습니다~오븐"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/3ae9b8fc3648400891c5892e52e2524d1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/551e8c03861e8b0d4710637ab5a9f0ff1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/26e1e81ba14da4010f59ff29d5592bc51.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/6bedf5cbaeed3e744493d192138c10781.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/1fd69a86a1f087c82bcac020b6c63d741.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/a75190fb0bea9f2388b4c076aca1bb6a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/f68fcc8dc871e83af11956e70297d7121.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/efad8c8f4738cd45e443d7206837a8841.jpg"
+	]
+}

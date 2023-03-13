@@ -1,0 +1,53 @@
+{
+	"id": "6942308",
+	"name": "[정식품 진한 콩국물 검은콩] 콩국물 빙수",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/a45c6e93fba125706aae14389e49c6ec1.jpg",
+	"url": "https://www.10000recipe.com/recipe/6942308",
+	"ingredient_ids": [
+		893,
+		364,
+		204
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "콩국물",
+			"ingre_count": "500",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "아이스크림",
+			"ingre_count": "300",
+			"ingre_unit": "ml"
+		},
+		{
+			"ingre_name": "미숫가루",
+			"ingre_count": "3",
+			"ingre_unit": "스푼"
+		},
+		{
+			"ingre_name": "시리얼",
+			"ingre_count": "30",
+			"ingre_unit": "g"
+		},
+		{
+			"ingre_name": "연유",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		}
+	],
+	"recipe": [
+		"1. 콩국물팩을 미리 냉동에 얼린다. 샤베트처럼 완전히 얼어야지 맛있어요~",
+		"2. 팩을 열어서 칼로 조각낸다.",
+		"3. 믹서기, 얼음가는 기계를 사용하여 콩국물얼음을 갈아낸다. (감자칼로도 가능하나 시간이 오래걸려요^^;)",
+		"4. 원하는 토핑을 올려준다. 콩국물샤베트-아이스크림-미숫가루-시리얼-연유",
+		"5. 블루베리와 아몬드를 넣어서도 만들어봤는데 상큼하면서 고소했어요~"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/91483a584dd5dff3e00aa2a7259607771.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/ff7736b892081e1d8280e90d1ee649521.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/e2d3af8816c5a8a45a48d39d22fdde881.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/243f55f3cf50d79ea37f880420d155211.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/09/20/662d4d7554d6c5249ef49ee1ef4fe0b61.jpg"
+	]
+}

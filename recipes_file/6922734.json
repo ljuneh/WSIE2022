@@ -1,0 +1,69 @@
+{
+	"id": "6922734",
+	"name": "하찮은 냉동미니돈까스에서 고오급 난자완스 만들기",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2019/11/27/189ba21e7cf907b6d1d68f09e595b5641.jpg",
+	"url": "https://www.10000recipe.com/recipe/6922734",
+	"ingredient_ids": [
+		473,
+		379,
+		575,
+		233,
+		995,
+		660
+	],
+	"time": "20",
+	"ingre_list": [
+		{
+			"ingre_name": "미니돈까스",
+			"ingre_count": "23",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "고추장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "케첩",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "간장",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "올리고당",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "다진마늘",
+			"ingre_count": "1",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "물",
+			"ingre_count": "2",
+			"ingre_unit": "큰술"
+		},
+		{
+			"ingre_name": "참기름",
+			"ingre_count": "1/2",
+			"ingre_unit": "큰술"
+		}
+	],
+	"recipe": [
+		"1. 양념장 재료들을 넣고 잘 섞어주세요.",
+		"2. 프라이팬에 식용유를 넉넉하게 붓고 미니 돈까스를 기름에 튀겨주세요.",
+		"3. 돈까스가 다 익으면 키친타올을 준비해서  기름을 닦아주세요.",
+		"4. 소스를 붓고 자작하게 졸여주면 완성입니다."
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/27/e841c68ebcf0db0c48b7ec667578e9ce1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/27/99a4acbcfe7594a3e37a4a5c974690ef1.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/27/626255e12cc1acd59afacc6c8ca2f1601.png",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2019/11/27/72d741dde24246211ff7d4bfa838d3af1.png"
+	]
+}

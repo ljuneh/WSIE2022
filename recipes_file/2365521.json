@@ -1,0 +1,50 @@
+{
+	"id": "2365521",
+	"name": "코다리찜",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/beb3e3362047aaf7703bdd00a94f04ff.jpg",
+	"url": "https://www.10000recipe.com/recipe/2365521",
+	"ingredient_ids": [
+		721,
+		19
+	],
+	"time": "30",
+	"ingre_list": [
+		{
+			"ingre_name": "코다리",
+			"ingre_count": "2",
+			"ingre_unit": "마리"
+		},
+		{
+			"ingre_name": "무",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "청고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "홍고추",
+			"ingre_count": "",
+			"ingre_unit": ""
+		},
+		{
+			"ingre_name": "갈비찜소스",
+			"ingre_count": "",
+			"ingre_unit": ""
+		}
+	],
+	"recipe": [
+		"1. 냄비에 무우깔고.. 코다리 올려주세요",
+		"2. 갈비찜소스를 부어주세요",
+		"3. 갈비찜소스를 부어주고 물 반컵 넣어주세요",
+		"4. 보글보글 은근히 졸여주기만 하면 끝"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/33fd4972ba2e939089f0f5de76dbe9441.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/07e1299981b07324170b973f8b29cfd21.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/48d480010019daa61f6a2d37a0ce3f631.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2015/08/18/6e76a4b97908ab84277772a792ff1ec31.gif"
+	]
+}

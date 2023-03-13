@@ -1,0 +1,54 @@
+{
+	"id": "6944559",
+	"name": "소세지 가지전",
+	"thumbnail": "https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/fdc2e07a55fc55bcbb02f761fabc15d61.jpg",
+	"url": "https://www.10000recipe.com/recipe/6944559",
+	"ingredient_ids": [
+		18,
+		234,
+		219,
+		497
+	],
+	"time": "10",
+	"ingre_list": [
+		{
+			"ingre_name": "가지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소세지",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "밀가루",
+			"ingre_count": "2",
+			"ingre_unit": "T"
+		},
+		{
+			"ingre_name": "달걀",
+			"ingre_count": "1",
+			"ingre_unit": "개"
+		},
+		{
+			"ingre_name": "소금",
+			"ingre_count": "1/2",
+			"ingre_unit": "t"
+		}
+	],
+	"recipe": [
+		"1. 달걀에 소금 1/4t 넣고 섞어주세요",
+		"2. 가지의 가운데에 소세지가 들어갈수 있도록 연결부위를 남기고 잘라서 소금 1/4t를 뿌려 주세요",
+		"3. 소세지를 납작하게 썰어 주세요",
+		"4. 가지 속에 소세지를 넣고 앞뒤로 밀가루를 뿌려줍니다",
+		"5. 식용유를 넉넉히 두르고 예열한 후 달걀물을 묻혀서 앞뒤로 노릇하게 부쳐주세요"
+	],
+	"recipe_img": [
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/821a636871be3c1452f1e5ae7d201f5b1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/eb57a010e536fc3f0ed6540090a0dd3a1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/51b753a0d3ebbb62d85b99886e7f25cc1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/400fbb0b13e921fbb8bf22e5f5969eaa1.jpg",
+		"https://recipe1.ezmember.co.kr/cache/recipe/2020/10/19/dd66012c79b2daf4e5e20fea2d0362a21.jpg"
+	]
+}
